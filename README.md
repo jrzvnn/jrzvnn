@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
  - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)
  - [The World’s Broken Food System Costs $12.7 Trillion a Year](https://www.wired.com/story/hidden-cost-world-food-system/)
  - [Q&amp;A with Google DeepMind Head of Robotics Vincent Vanhoucke on the robotics team&#39;s history, general purpose robots, generative AI&#39;s role in robotics, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231106/p1#a231106p1)
- - [A profile of, and interview with, White House Deputy Chief of Staff Bruce Reed, who is in charge of developing the Biden administration&#39;s AI strategy &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/231105/p11#a231105p11)
- - [WhatsApp’s sticker AI is adding guns to prompts for Palestinian children](https://www.theverge.com/2023/11/5/23946732/whatsapp-ai-sticker-guns-palestine-israel)<!-- TECH:END -->
+ - [A profile of, and interview with, White House Deputy Chief of Staff Bruce Reed, who is in charge of developing the Biden administration&#39;s AI strategy &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/231105/p11#a231105p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

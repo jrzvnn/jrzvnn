@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts Copyright Shield, promising to defend ChatGPT Enterprise users and OpenAI devs if they face copyright infringement claims related to OpenAI apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p27#a231106p27)
- - [OpenAI launches GPT-4 Turbo with a context length of 128K tokens, an April 2023 knowledge cutoff, JSON mode, new modalities in the API, cheaper token cost, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p26#a231106p26)
- - [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform)
- - [OpenAI turbocharges GPT-4 and makes it cheaper](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model)
- - [OpenAI says ChatGPT has 100M weekly users and that over 2M developers are currently building on OpenAI&#39;s API, including over 92% of Fortune 500 companies &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231106/p25#a231106p25)<!-- TECH:END -->
+ - [Apple set to release &#39;The Pirate of Prague&#39; podcast series detailing life of famous financial fugitive](https://appleinsider.com/articles/23/11/06/apple-set-to-release-the-pirate-of-prague-podcast-series-detailing-life-of-famous-financial-fugitive?utm_medium=rss)
+ - [YouTube plans to test generative AI features for Premium users, including a comments summarizer and conversational tool, starting with Android devices in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231106/p30#a231106p30)
+ - [OpenAI launches GPT-4 Turbo with a context length of 128K tokens, an April 2023 knowledge cutoff, JSON mode, new modalities in the API, cheaper token cost, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p29#a231106p29)
+ - [OpenAI introduces a no-code way for ChatGPT Plus subscribers to create custom AI agents for a wide range of tasks and then share them via the GPT Store &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231106/p28#a231106p28)
+ - [Blizzard’s president on the studio’s ‘new era’ under Xbox](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

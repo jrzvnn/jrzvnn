@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
  - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)<!-- MEMES:END -->
+ - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 💣 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 👉 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches a DALL-E 3 API, with moderation to help protect against misuse, and a text-to-speech API that offers six preset voices and two model variants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p31#a231106p31)
+ - [Marvel’s new Spotlight branding will help you cut through the MCU’s noise](https://www.theverge.com/23949013/marvel-spotlight-echo)
  - [Apple set to release &#39;The Pirate of Prague&#39; podcast series detailing life of famous financial fugitive](https://appleinsider.com/articles/23/11/06/apple-set-to-release-the-pirate-of-prague-podcast-series-detailing-life-of-famous-financial-fugitive?utm_medium=rss)
  - [YouTube plans to test generative AI features for Premium users, including a comments summarizer and conversational tool, starting with Android devices in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231106/p30#a231106p30)
- - [OpenAI launches GPT-4 Turbo with a context length of 128K tokens, an April 2023 knowledge cutoff, JSON mode, new modalities in the API, cheaper token cost, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p29#a231106p29)
- - [OpenAI introduces a no-code way for ChatGPT Plus subscribers to create custom AI agents for a wide range of tasks and then share them via the GPT Store &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231106/p28#a231106p28)
- - [Blizzard’s president on the studio’s ‘new era’ under Xbox](https://www.theverge.com/2023/11/6/23949086/blizzard-president-mike-ybarra-new-era-xbox-microsoft-blizzcon-2023)<!-- TECH:END -->
+ - [OpenAI launches GPT-4 Turbo with a context length of 128K tokens, an April 2023 knowledge cutoff, JSON mode, new modalities in the API, cheaper token cost, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p29#a231106p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
  - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 💣 [Is this accurate?](http://9gag.com/gag/aOx5oLy)
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 💣 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
  - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---

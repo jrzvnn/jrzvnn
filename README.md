@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 💣 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 💣 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)
  - [Shop for the holidays ahead of Black Friday with these fresh Apple deals from Amazon](https://appleinsider.com/articles/23/11/06/shop-for-the-holidays-ahead-of-black-friday-with-these-fresh-apple-deals-from-amazon?utm_medium=rss)
  - [All the news from OpenAI’s first developer conference](https://www.theverge.com/2023/11/6/23948619/openai-chatgpt-devday-developer-conference-news)
  - [Apple updates Logic Pro with new features, GarageBand and MainStage with bug fixes](https://appleinsider.com/articles/23/11/06/apple-updates-logic-pro-with-new-features-garageband-and-mainstage-with-bug-fixes?utm_medium=rss)
- - [Bumble founder Whitney Wolfe Herd is stepping down as CEO](https://www.theverge.com/2023/11/6/23948830/bumble-founder-ceo-whitney-wolfe-herd-stepping-down)
- - [YouTube tests a ‘play something’ button for when you don’t know what to watch](https://www.theverge.com/2023/11/6/23948858/youtube-play-something-button-test-random-videos)<!-- TECH:END -->
+ - [Bumble founder Whitney Wolfe Herd is stepping down as CEO](https://www.theverge.com/2023/11/6/23948830/bumble-founder-ceo-whitney-wolfe-herd-stepping-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

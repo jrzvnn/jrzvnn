@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
  - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
 
 ---
 

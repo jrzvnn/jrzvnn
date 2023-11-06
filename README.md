@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [AirTag proves yet again it may be time to hide a tracker in your car](https://appleinsider.com/articles/23/11/06/airtag-proves-yet-again-it-may-be-time-to-hide-a-tracker-in-your-car?utm_medium=rss)
  - [A survey of 167 researchers shows 104 studies about X have been canceled, suspended, or changed after X ended free academic access to its API and sued the CCDH &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231106/p34#a231106p34)
- - [Apple MacBook Pro &lpar;M3 Max, 16 Inch&rpar; Review: Untouchable Performance and Battery Life](https://www.wired.com/review/apple-macbook-pro-m3-max-16-inch/)
- - [Lifetime access to Windows 11 Pro is on sale for $24.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Apple unveils trailer for heartwarming &#39;Velveteen Rabbit&#39; film coming November 22](https://appleinsider.com/articles/23/11/06/apple-unveils-trailer-for-heartwarming-velveteen-rabbit-film-coming-november-22?utm_medium=rss)<!-- TECH:END -->
+ - [Feeling Stuffy? What to Know Before You Reach for Your Go-To Decongestant     - CNET](https://www.cnet.com/health/medical/feeling-stuffy-what-to-know-before-you-reach-for-your-go-to-decongestant/#ftag=CAD590a51e)
+ - [How We Test Products and Services     - CNET](https://www.cnet.com/tech/how-we-test-products-and-services/#ftag=CAD590a51e)
+ - [7 Awesome Gifts for Fast Food Lovers     - CNET](https://www.cnet.com/news/7-awesome-gifts-for-fast-food-lovers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

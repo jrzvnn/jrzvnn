@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
  - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
 
 ---

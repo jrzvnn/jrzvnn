@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of the year.](http://9gag.com/gag/a8qOWoO)
- - 😝 [Same same but](http://9gag.com/gag/aGE5Y7n)
- - 💣 [Yeah I know that person](http://9gag.com/gag/anzwXOq)
- - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
- - 👉 [Rock Smash! CREDITS: Randowis](http://9gag.com/gag/aoKwZ5x)<!-- MEMES:END -->
+ - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 💣 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 ---
 

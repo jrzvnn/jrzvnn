@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
  - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
- - 👉 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)<!-- MEMES:END -->
+ - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 ---
 

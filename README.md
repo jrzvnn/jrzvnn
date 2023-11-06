@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
- - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
+ - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
 

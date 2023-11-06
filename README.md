@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 💣 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
+ - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 💣 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
+ - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 👉 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)<!-- MEMES:END -->
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 

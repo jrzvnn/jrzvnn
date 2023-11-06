@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)
- - [First-Gen Social Media Users Have Nowhere to Go](https://www.wired.com/story/first-gen-social-media-users-have-nowhere-to-go/)
- - [OpenAI launches a DALL-E 3 API, with moderation to help protect against misuse, and a text-to-speech API that offers six preset voices and two model variants &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p31#a231106p31)
- - [Marvel’s new Spotlight branding will help you cut through the MCU’s noise](https://www.theverge.com/23949013/marvel-spotlight-echo)
- - [Apple set to release &#39;The Pirate of Prague&#39; podcast series detailing life of famous financial fugitive](https://appleinsider.com/articles/23/11/06/apple-set-to-release-the-pirate-of-prague-podcast-series-detailing-life-of-famous-financial-fugitive?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI Now Lets You Build Your Own Custom GPT Chatbots     - CNET](https://www.cnet.com/tech/computing/openai-now-lets-you-build-your-own-custom-gpt-chatbots/#ftag=CAD590a51e)
+ - [Snag This Powerful Ninja Pro Blender for Just $50 Starting Wednesday     - CNET](https://www.cnet.com/deals/snag-this-powerful-ninja-pro-blender-for-just-50-starting-wednesday/#ftag=CAD590a51e)
+ - [I Asked AI to Recommend Me a Bed. Here&#39;s How It Compares to Advice From a Mattress Expert     - CNET](https://www.cnet.com/health/sleep/i-asked-ai-to-recommend-me-a-bed-heres-how-it-compares-to-advice-from-a-mattress-expert/#ftag=CAD590a51e)
+ - [Everything Announced at OpenAI&#39;s First Developers Day Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-openais-first-developers-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

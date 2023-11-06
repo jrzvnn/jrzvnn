@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic v. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [Instagram’s paid creator subscriptions are still a tiny business](https://www.theverge.com/2023/11/6/23948770/instagram-paid-subscriptions-million-milestone)
- - [Microsoft&#39;s Xbox and Inworld AI enter a multi-year partnership to create multi-platform AI-powered game development tools for story and character creation &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231106/p23#a231106p23)
- - [The Finals beta was a hit, and I already miss the destructive chaos](https://www.theverge.com/2023/11/6/23948656/the-finals-open-beta-destruction-players-classes)
- - [Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails](https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/)<!-- TECH:END -->
+ - [Apple updates Logic Pro with new features, GarageBand and MainStage with bug fixes](https://appleinsider.com/articles/23/11/06/apple-updates-logic-pro-with-new-features-garageband-and-mainstage-with-bug-fixes?utm_medium=rss)
+ - [Bumble founder Whitney Wolfe Herd is stepping down as CEO](https://www.theverge.com/2023/11/6/23948830/bumble-founder-ceo-whitney-wolfe-herd-stepping-down)
+ - [YouTube tests a ‘play something’ button for when you don’t know what to watch](https://www.theverge.com/2023/11/6/23948858/youtube-play-something-button-test-random-videos)
+ - [Robotaxi companies have a serious trust issue](https://www.theverge.com/23948708/cruise-robotaxi-suspension-trust-remote-assist)
+ - [Epic v. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

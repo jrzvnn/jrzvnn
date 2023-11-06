@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)
- - [OpenAI Now Lets You Build Your Own Custom GPT Chatbots     - CNET](https://www.cnet.com/tech/computing/openai-now-lets-you-build-your-own-custom-gpt-chatbots/#ftag=CAD590a51e)
- - [Snag This Powerful Ninja Pro Blender for Just $50 Starting Wednesday     - CNET](https://www.cnet.com/deals/snag-this-powerful-ninja-pro-blender-for-just-50-starting-wednesday/#ftag=CAD590a51e)
- - [I Asked AI to Recommend Me a Bed. Here&#39;s How It Compares to Advice From a Mattress Expert     - CNET](https://www.cnet.com/health/sleep/i-asked-ai-to-recommend-me-a-bed-heres-how-it-compares-to-advice-from-a-mattress-expert/#ftag=CAD590a51e)
- - [Everything Announced at OpenAI&#39;s First Developers Day Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-openais-first-developers-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta says there are now 1M active subscriptions to Instagram creators, just over a year after launching the feature, and unveils new creator tools &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231106/p32#a231106p32)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [TikTok’s $1 billion creator fund is shutting down](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)
+ - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)
+ - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

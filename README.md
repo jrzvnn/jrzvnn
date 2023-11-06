@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
  - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
  - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [I have question is it race, culture or the religion itself the problem?](http://9gag.com/gag/aGE59Az)<!-- MEMES:END -->
+ - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
+ - 👉 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)<!-- MEMES:END -->
 
 ---
 

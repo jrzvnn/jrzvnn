@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
- - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
+ - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
+ - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 👉 [I have question is it race, culture or the religion itself the problem?](http://9gag.com/gag/aGE59Az)<!-- MEMES:END -->
 
 ---
 

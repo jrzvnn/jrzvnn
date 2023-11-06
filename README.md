@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch battery drain to be fixed in update shortly](https://appleinsider.com/articles/23/11/06/apple-watch-battery-drain-to-be-fixed-in-update-shortly?utm_medium=rss)
- - [As Block struggles and SQ drops 80% since 2021, Jack Dorsey becomes more hands-on, including running Square and sending his first shareholder letter in years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231106/p5#a231106p5)
- - [Epic&#39;s case against Google Play&#39;s app payment restrictions goes to trial in San Francisco, after Google settled with Match on October 31 ahead of a trial &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/231106/p4#a231106p4)
- - [Chinese memory chip startup Changxin Xinqiao raised ~$5.4B, including ~$2B from Big Fund; founded in 2021, the firm shares a GM with China&#39;s leading DRAM maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p3#a231106p3)
- - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)<!-- TECH:END -->
+ - [OLED for MacBook Air in 2027, iMac in 2028 claims dubious rumor](https://appleinsider.com/articles/23/11/06/oled-for-macbook-air-in-2027-imac-in-2028-claims-dubious-rumor?utm_medium=rss)
+ - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)
+ - [Black Friday Ads: Preview and Shop Early Deals at Best Buy, Walmart, B&amp;H and More     - CNET](https://www.cnet.com/tech/black-friday-ad-scans/#ftag=CAD590a51e)
+ - [Don&#39;t Miss These Amazon Prime Perks During Black Friday     - CNET](https://www.cnet.com/deals/dont-miss-these-amazon-prime-perks-during-black-friday/#ftag=CAD590a51e)
+ - [Hands On With Meater&#39;s Newest Meat Probe: The Meater 2 Plus - Launching Today     - CNET](https://www.cnet.com/news/hands-on-with-meaters-newest-meat-probe-the-meater-2-plus-launching-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

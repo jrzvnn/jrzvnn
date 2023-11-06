@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Microsoft, and Alphabet reported $42B in combined capital spending in Q3, up 10% from Q2 and almost 20% from Q3 2021, to expand generative AI services &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/231106/p14#a231106p14)
- - [Please make more USB-C cables like this](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
- - [A survey of 978 US students: 79% say they don&#39;t use any dating apps even as much as once per month; 12% say they use Tinder monthly, the most of any dating app &lpar;Erica Pandey/Axios&rpar;](http://www.techmeme.com/231106/p13#a231106p13)
- - [Duke University study: personal data from active-duty US service members is cheap, easy to buy, and widely advertised by brokers; data on ~50K people cost ~$10K &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/231106/p12#a231106p12)
- - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)<!-- TECH:END -->
+ - [Apple MacBook Pro 14 &lpar;2023&rpar; review: M3 offers great performance and long battery, a worthy entry-level Pro, but 8GB of RAM is silly and loses a Thunderbolt port &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231106/p16#a231106p16)
+ - [New iOS 17.2 updates, more Matter devices, &amp; a smart wallet on HomeKit Insider](https://appleinsider.com/articles/23/11/06/new-ios-172-updates-more-matter-devices-a-smart-wallet-on-homekit-insider?utm_medium=rss)
+ - [Apple does not have plans to release an Apple silicon version of the 27-inch iMac, encouraging buyers to consider a Mac Studio or Mac mini and Studio Display &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/231106/p15#a231106p15)
+ - [8 Best Theraguns and Other Massage Guns &lpar;2023&rpar;: Top Alternatives and Tips](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
+ - [Apple has no plans to make a 27-inch iMac with Apple Silicon](https://www.theverge.com/2023/11/6/23947196/apple-no-27-inch-apple-silicon-imac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

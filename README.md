@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT has 100 million weekly users](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference)
- - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
- - [Keynote livestream of OpenAI DevDay &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/231106/p24#a231106p24)
- - [Apple aims to reinvent the battery with high-performance cathode technology](https://appleinsider.com/articles/23/11/06/apple-aims-to-reinvent-the-battery-with-high-performance-cathode-technology?utm_medium=rss)
- - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)<!-- TECH:END -->
+ - [OpenAI debuts Copyright Shield, promising to defend ChatGPT Enterprise users and OpenAI devs if they face copyright infringement claims related to OpenAI apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p27#a231106p27)
+ - [OpenAI launches GPT-4 Turbo with a context length of 128K tokens, an April 2023 knowledge cutoff, JSON mode, new modalities in the API, cheaper token cost, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231106/p26#a231106p26)
+ - [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform)
+ - [OpenAI turbocharges GPT-4 and makes it cheaper](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model)
+ - [OpenAI says ChatGPT has 100M weekly users and that over 2M developers are currently building on OpenAI&#39;s API, including over 92% of Fortune 500 companies &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231106/p25#a231106p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

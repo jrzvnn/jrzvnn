@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 💣 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
  - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
+ - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy seizes ~&amp;euro;779M from Airbnb over allegedly unpaid taxes, after reportedly investigating Meta earlier this year regarding an alleged ~&amp;euro;870M in unpaid VAT &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/231106/p33#a231106p33)
+ - [The fix is in for the Pixel’s nasty multi-user bug on Android 14](https://www.theverge.com/2023/11/6/23949273/google-pixel-8-pro-november-update-bug-fix)
  - [Snoopy and Charlie Brown embark on a big city adventure in new Peanuts film for Apple TV+](https://appleinsider.com/articles/23/11/06/snoopy-and-charlie-brown-embark-on-a-big-city-adventure-in-new-peanuts-film-for-apple-tv?utm_medium=rss)
- - [Meta says there are now 1M active subscriptions to Instagram creators, just over a year after launching the feature, and unveils new creator tools &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231106/p32#a231106p32)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [TikTok’s $1 billion creator fund is shutting down](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)
- - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)<!-- TECH:END -->
+ - [Meta says there are now 1M active subscriptions to Instagram creators, just over a year after launching the subscriptions feature, and unveils new creator tools &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231106/p32#a231106p32)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

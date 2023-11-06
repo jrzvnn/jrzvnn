@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)
  - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
+ - 💣 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
+ - 😝 [Man of the year.](http://9gag.com/gag/a8qOWoO)
+ - 👉 [Same same but](http://9gag.com/gag/aGE5Y7n)<!-- MEMES:END -->
 
 ---
 

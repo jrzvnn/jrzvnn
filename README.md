@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon, Microsoft, and Alphabet reported $42B in combined capital spending in Q3, up 10% from Q2 and almost 20% from Q3 2021, to expand generative AI services &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/231106/p14#a231106p14)
  - [Please make more USB-C cables like this](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
  - [A survey of 978 US students: 79% say they don&#39;t use any dating apps even as much as once per month; 12% say they use Tinder monthly, the most of any dating app &lpar;Erica Pandey/Axios&rpar;](http://www.techmeme.com/231106/p13#a231106p13)
  - [Duke University study: personal data from active-duty US service members is cheap, easy to buy, and widely advertised by brokers; data on ~50K people cost ~$10K &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/231106/p12#a231106p12)
- - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)
- - [The Popular Keurig K-Duo Coffee Maker Is $90 Off Today Only     - CNET](https://www.cnet.com/deals/the-popular-keurig-k-duo-coffee-maker-is-90-off-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
- - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
 

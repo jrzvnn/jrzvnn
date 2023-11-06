@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palo Alto Networks confirms acquiring Talon Cyber Security, which offers enterprise browsers for distributed workforces, sources say for $625M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231106/p19#a231106p19)
+ - [M3 24-inch iMac review roundup: from raves to disappointment](https://appleinsider.com/articles/23/11/06/m3-24-inch-imac-review-roundup-from-raves-to-disappointment?utm_medium=rss)
  - [M3 MacBook Pro review roundup: The same but better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
  - [Apple iMac 24-inch &lpar;2023&rpar; review: M3 offers impressive gains over the M1, good for gaming, and excellent webcam, but few ports and no keyboard backlighting &lpar;Joe Osborne/PCMag&rpar;](http://www.techmeme.com/231106/p18#a231106p18)
- - [M3 24-inch iMac review roundup: from raves to disappointment](https://appleinsider.com/articles/23/11/06/m3-24-inch-imac-review-roundup-from-raves-to-disappointment?utm_medium=rss)
- - [Apple MacBook Pro 16 &lpar;2023&rpar; review: M3 Max surpasses the M1 Ultra, nice design, and ProMotion display, but 8GB of RAM in the $1,599 config and memory is pricey &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231106/p17#a231106p17)
- - [Handheld gaming is the future — again](https://www.theverge.com/23948529/nintendo-switch-steam-deck-handheld-consoles-gaming)<!-- TECH:END -->
+ - [Apple MacBook Pro 16 &lpar;2023&rpar; review: M3 Max surpasses the M1 Ultra, nice design, and ProMotion display, but 8GB of RAM in the $1,599 config and memory is pricey &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231106/p17#a231106p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

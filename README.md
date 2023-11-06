@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 💣 [Can someone explain why some elephants are against bathing?](http://9gag.com/gag/a9qw9XL)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
+ - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
 
 ---
 

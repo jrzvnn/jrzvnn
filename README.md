@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MediaTek announces its Dimensity 9300 chip for high-end Android smartphones and tablets, using TSMC&#39;s 4nm process, arriving in devices before the end of 2023 &lpar;Eric Zeman/PCMag&rpar;](http://www.techmeme.com/231106/p8#a231106p8)
+ - [Bored Ape NFT event attendees report ‘severe eye burn’](https://www.theverge.com/2023/11/6/23948464/bored-ape-nft-event-eye-injury-sunburn-uv-exposure)
+ - [German generative AI startup Aleph Alpha raised $500M+ from Schwarz Group, Bosch, and others to build data protection and security tools for sensitive sectors &lpar;Financial Times&rpar;](http://www.techmeme.com/231106/p7#a231106p7)
  - [OLED for MacBook Air in 2027, iMac in 2028 claims dubious rumor](https://appleinsider.com/articles/23/11/06/oled-for-macbook-air-in-2027-imac-in-2028-claims-dubious-rumor?utm_medium=rss)
- - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)
- - [Black Friday Ads: Preview and Shop Early Deals at Best Buy, Walmart, B&amp;H and More     - CNET](https://www.cnet.com/tech/black-friday-ad-scans/#ftag=CAD590a51e)
- - [Don&#39;t Miss These Amazon Prime Perks During Black Friday     - CNET](https://www.cnet.com/deals/dont-miss-these-amazon-prime-perks-during-black-friday/#ftag=CAD590a51e)
- - [Hands On With Meater&#39;s Newest Meat Probe: The Meater 2 Plus - Launching Today     - CNET](https://www.cnet.com/news/hands-on-with-meaters-newest-meat-probe-the-meater-2-plus-launching-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

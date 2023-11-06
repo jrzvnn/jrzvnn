@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)
+ - [Wacom One 13 Touch &lpar;2023&rpar; Review: A Simple Yet Effective Drawing Tablet](https://www.wired.com/review/wacom-one-13-touch-2023/)
+ - [Some visitors to Yuga Labs&#39; ApeFest event in Hong Kong report experiencing eye burn and blame the lighting; the Bored Ape creator acknowledges the situation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p9#a231106p9)
  - [MediaTek announces its Dimensity 9300 chip for high-end Android smartphones and tablets, using TSMC&#39;s 4nm process, arriving in devices before the end of 2023 &lpar;Eric Zeman/PCMag&rpar;](http://www.techmeme.com/231106/p8#a231106p8)
- - [Bored Ape NFT event attendees report ‘severe eye burn’](https://www.theverge.com/2023/11/6/23948464/bored-ape-nft-event-eye-injury-sunburn-uv-exposure)
- - [German generative AI startup Aleph Alpha raised $500M+ from Schwarz Group, Bosch, and others to build data protection and security tools for sensitive sectors &lpar;Financial Times&rpar;](http://www.techmeme.com/231106/p7#a231106p7)
- - [OLED for MacBook Air in 2027, iMac in 2028 claims dubious rumor](https://appleinsider.com/articles/23/11/06/oled-for-macbook-air-in-2027-imac-in-2028-claims-dubious-rumor?utm_medium=rss)
- - [How to type special characters on your Mac](https://appleinsider.com/inside/macos/tips/how-to-type-special-characters-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Bored Ape NFT event attendees report ‘severe eye burn’](https://www.theverge.com/2023/11/6/23948464/bored-ape-nft-event-eye-injury-sunburn-uv-exposure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

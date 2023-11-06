@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
  - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
  - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 👉 [Mental Abuse](http://9gag.com/gag/anzZpdL)<!-- MEMES:END -->
+ - 👉 [Culture enrichment](http://9gag.com/gag/aDY5RGO)<!-- MEMES:END -->
 
 ---
 

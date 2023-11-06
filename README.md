@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
- - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
  - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
+ - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---
 

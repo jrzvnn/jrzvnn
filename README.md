@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+ - [Instagram’s paid creator subscriptions are still a tiny business](https://www.theverge.com/2023/11/6/23948770/instagram-paid-subscriptions-million-milestone)
  - [Microsoft&#39;s Xbox and Inworld AI enter a multi-year partnership to create multi-platform AI-powered game development tools for story and character creation &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231106/p23#a231106p23)
  - [The Finals beta was a hit, and I already miss the destructive chaos](https://www.theverge.com/2023/11/6/23948656/the-finals-open-beta-destruction-players-classes)
- - [Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails](https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/)
- - [Volvo EX30 Review: Fun but Flawed](https://www.wired.com/review/review-volvo-ex30/)
- - [Man&#39;s small iPhone order turns into $100,000 iPhone 15 Pro Max mix-up](https://appleinsider.com/articles/23/11/06/mans-small-iphone-order-turns-into-100000-iphone-15-pro-max-mix-up?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails](https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

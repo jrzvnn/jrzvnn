@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 👉 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
+ - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
+ - 😝 [Why is this gif so long?](http://9gag.com/gag/aQE5p17)
+ - 💣 [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)
+ - 😝 [Skills worth appreciating.](http://9gag.com/gag/agow00W)
+ - 👉 [Yeah I know that person](http://9gag.com/gag/anzwXOq)<!-- MEMES:END -->
 
 ---
 

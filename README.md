@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)
- - [Wacom One 13 Touch &lpar;2023&rpar; Review: A Simple Yet Effective Drawing Tablet](https://www.wired.com/review/wacom-one-13-touch-2023/)
- - [Some visitors to Yuga Labs&#39; ApeFest event in Hong Kong report experiencing eye burn and blame the lighting; the Bored Ape creator acknowledges the situation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p9#a231106p9)
- - [MediaTek announces its Dimensity 9300 chip for high-end Android smartphones and tablets, using TSMC&#39;s 4nm process, arriving in devices before the end of 2023 &lpar;Eric Zeman/PCMag&rpar;](http://www.techmeme.com/231106/p8#a231106p8)
- - [Bored Ape NFT event attendees report ‘severe eye burn’](https://www.theverge.com/2023/11/6/23948464/bored-ape-nft-event-eye-injury-sunburn-uv-exposure)<!-- TECH:END -->
+ - [Duke University study: personal data from active-duty US service members is cheap, easy to buy, and widely advertised by brokers; data on ~50K people cost ~$10K &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/231106/p12#a231106p12)
+ - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)
+ - [The Popular Keurig K-Duo Coffee Maker Is $90 Off Today Only     - CNET](https://www.cnet.com/deals/the-popular-keurig-k-duo-coffee-maker-is-90-off-today-only/#ftag=CAD590a51e)
+ - [AI and You: White House Sets AI Guardrails, Election Misinformation Fueled by AI     - CNET](https://www.cnet.com/tech/computing/ai-and-you-white-house-sets-ai-guardrails-election-misinformation-fueled-by-ai/#ftag=CAD590a51e)
+ - [Is the iPhone 15 Worth the Upgrade? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-iphone-15-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

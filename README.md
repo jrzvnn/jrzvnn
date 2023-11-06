@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)
- - [Shop for the holidays ahead of Black Friday with these fresh Apple deals from Amazon](https://appleinsider.com/articles/23/11/06/shop-for-the-holidays-ahead-of-black-friday-with-these-fresh-apple-deals-from-amazon?utm_medium=rss)
- - [All the news from OpenAI’s first developer conference](https://www.theverge.com/2023/11/6/23948619/openai-chatgpt-devday-developer-conference-news)
- - [Apple updates Logic Pro with new features, GarageBand and MainStage with bug fixes](https://appleinsider.com/articles/23/11/06/apple-updates-logic-pro-with-new-features-garageband-and-mainstage-with-bug-fixes?utm_medium=rss)
- - [Bumble founder Whitney Wolfe Herd is stepping down as CEO](https://www.theverge.com/2023/11/6/23948830/bumble-founder-ceo-whitney-wolfe-herd-stepping-down)<!-- TECH:END -->
+ - [OpenAI says ChatGPT has 100 million weekly users](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference)
+ - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
+ - [Keynote livestream of OpenAI DevDay &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/231106/p24#a231106p24)
+ - [Apple aims to reinvent the battery with high-performance cathode technology](https://appleinsider.com/articles/23/11/06/apple-aims-to-reinvent-the-battery-with-high-performance-cathode-technology?utm_medium=rss)
+ - [Logitech’s custom-fitting G Fit earbuds and G303 Shroud mouse are on sale](https://www.theverge.com/2023/11/6/23948648/logitech-g-fit-g303-shroud-mouse-hisense-u8h-mini-led-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

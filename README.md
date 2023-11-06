@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 💣 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
- - 👉 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
+ - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
 
 ---
 

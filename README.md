@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Road rage in Austria](http://9gag.com/gag/a2KpNAY)
- - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 💣 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Culture enrichment](http://9gag.com/gag/aDY5RGO)
+ - 💣 [Is this accurate?](http://9gag.com/gag/aOx5oLy)
  - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 👉 [Culture enrichment](http://9gag.com/gag/aDY5RGO)<!-- MEMES:END -->
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 

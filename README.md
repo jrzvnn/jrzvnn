@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
+ - 😝 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 💣 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
+ - 👉 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)<!-- MEMES:END -->
 
 ---
 

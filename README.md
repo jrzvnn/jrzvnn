@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
+ - 😝 [Man of the year.](http://9gag.com/gag/a8qOWoO)
+ - 😝 [Same same but](http://9gag.com/gag/aGE5Y7n)
+ - 💣 [Yeah I know that person](http://9gag.com/gag/anzwXOq)
+ - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
+ - 👉 [Rock Smash! CREDITS: Randowis](http://9gag.com/gag/aoKwZ5x)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 💣 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
+ - 😝 [Man of the year.](http://9gag.com/gag/a8qOWoO)
+ - 😝 [Same same but](http://9gag.com/gag/aGE5Y7n)
+ - 💣 [Rock Smash! CREDITS: Randowis](http://9gag.com/gag/aoKwZ5x)
+ - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
+ - 👉 [Why is this gif so long?](http://9gag.com/gag/aQE5p17)<!-- MEMES:END -->
 
 ---
 

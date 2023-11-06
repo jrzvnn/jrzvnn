@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch battery drain to be fixed in update shortly](https://appleinsider.com/articles/23/11/06/apple-watch-battery-drain-to-be-fixed-in-update-shortly?utm_medium=rss)
  - [As Block struggles and SQ drops 80% since 2021, Jack Dorsey becomes more hands-on, including running Square and sending his first shareholder letter in years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231106/p5#a231106p5)
  - [Epic&#39;s case against Google Play&#39;s app payment restrictions goes to trial in San Francisco, after Google settled with Match on October 31 ahead of a trial &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/231106/p4#a231106p4)
  - [Chinese memory chip startup Changxin Xinqiao raised ~$5.4B, including ~$2B from Big Fund; founded in 2021, the firm shares a GM with China&#39;s leading DRAM maker &lpar;Bloomberg&rpar;](http://www.techmeme.com/231106/p3#a231106p3)
- - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)
- - [Updating to iOS 17? You&#39;ll Want to Check Out These Steps First     - CNET](https://www.cnet.com/tech/mobile/updating-to-ios-17-youll-want-to-check-out-these-steps-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp&#39;s AI generates stickers of kids with guns when prompted with &quot;Palestine&quot;, but prompts for &quot;Israeli&quot; generate stickers of people who are mostly smiling &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/231106/p2#a231106p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

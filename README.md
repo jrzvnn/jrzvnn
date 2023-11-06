@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails](https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/)
+ - [Volvo EX30 Review: Fun but Flawed](https://www.wired.com/review/review-volvo-ex30/)
  - [Man&#39;s small iPhone order turns into $100,000 iPhone 15 Pro Max mix-up](https://appleinsider.com/articles/23/11/06/mans-small-iphone-order-turns-into-100000-iphone-15-pro-max-mix-up?utm_medium=rss)
  - [Fortnite’s new season shows just how much the game has changed](https://www.theverge.com/2023/11/6/23948555/fortnite-og-new-season)
- - [Daily deals Nov. 6: $120 off Apple Watch Ultra, 50% off HyperX PC Gaming Bundle, MagSafe Battery Pack for $55, more](https://appleinsider.com/articles/23/11/06/daily-deals-nov-6-120-off-apple-watch-ultra-50-off-hyperx-pc-gaming-bundle-magsafe-battery-pack-for-55-more?utm_medium=rss)
- - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [Apple&#39;s latest Chinese store adopts Apple Tysons redesign](https://appleinsider.com/articles/23/11/06/apples-latest-chinese-store-adopts-apple-tysons-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 6: $120 off Apple Watch Ultra, 50% off HyperX PC Gaming Bundle, MagSafe Battery Pack for $55, more](https://appleinsider.com/articles/23/11/06/daily-deals-nov-6-120-off-apple-watch-ultra-50-off-hyperx-pc-gaming-bundle-magsafe-battery-pack-for-55-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

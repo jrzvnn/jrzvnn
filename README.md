@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snoopy and Charlie Brown embark on a big city adventure in new Peanuts film for Apple TV+](https://appleinsider.com/articles/23/11/06/snoopy-and-charlie-brown-embark-on-a-big-city-adventure-in-new-peanuts-film-for-apple-tv?utm_medium=rss)
  - [Meta says there are now 1M active subscriptions to Instagram creators, just over a year after launching the feature, and unveils new creator tools &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231106/p32#a231106p32)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [TikTok’s $1 billion creator fund is shutting down](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)
- - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)
- - [Big Tech Ditched Trust and Safety. Now Startups Are Selling It Back As a Service](https://www.wired.com/story/trust-and-safety-startups-big-tech/)<!-- TECH:END -->
+ - [PlayStation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

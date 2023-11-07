@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Sources: Chinese authorities took away game-streaming site DouYu&#39;s founder Chen Shaojie in October 2023; a source says to probe porn and gambling on DouYu &lpar;Financial Times&rpar;](http://www.techmeme.com/231107/p1#a231107p1)
  - [A recap of the first day of the Epic v. Google antitrust trial, where both sides made their opening statements and Epic Games Store head Steve Allison testified &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231106/p43#a231106p43)
+ - [OpenAI&#39;s Custom GPT Apps Do Your Bidding video     - CNET](https://www.cnet.com/videos/openais-custom-gpt-apps-do-your-bidding/#ftag=CAD590a51e)
  - [Leaked audio: at an all-hands meeting, Cruise CEO Kyle Vogt said the company is pausing production of its fully autonomous van Origin, amid safety concerns &lpar;Cyrus Farivar/Forbes&rpar;](http://www.techmeme.com/231106/p42#a231106p42)
- - [The WeWork soap opera’s latest episode includes filing for bankruptcy](https://www.theverge.com/2023/11/6/23948568/wework-bankruptcy-filing-chapter-11)
- - [A look at OpenAI&#39;s custom GPT builder, which Sam Altman says the company wants to keep simple for now, and the risks in allowing anyone to create GPT agents &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231106/p41#a231106p41)<!-- TECH:END -->
+ - [The WeWork soap opera’s latest episode includes filing for bankruptcy](https://www.theverge.com/2023/11/6/23948568/wework-bankruptcy-filing-chapter-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

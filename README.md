@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFPB proposes new powers to oversee companies offering digital wallets and payment apps that facilitate 5M+ transactions per year, currently ~17 companies &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/231107/p29#a231107p29)
+ - [OLED iPad Pro could kill off mini LED models in 2024](https://appleinsider.com/articles/23/11/07/oled-ipad-pro-could-kill-off-mini-led-models-in-2024?utm_medium=rss)
  - [Sources: Apple paused development last week of iOS 18, macOS 15, iPadOS 18, and watchOS 11 to fix bugs and improve performance, and will end the pause this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231107/p28#a231107p28)
  - [Apple brings &#39;High Power Mode&#39; to 14-inch MacBook Pro](https://appleinsider.com/articles/23/11/07/apple-brings-high-power-mode-to-14-inch-macbook-pro?utm_medium=rss)
- - [Samsung HW-Q990C Soundbar Review: Great Dolby Atmos at a Premium Price     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-hw-q990c-soundbar-review-great-dolby-atmos-at-a-premium-price/#ftag=CAD590a51e)
- - [Cloud monitoring company Datadog&#39;s stock jumps ~30% after reporting Q3 revenue rose 25% YoY to $547.5M, vs. $524M est., and forecasted Q4 sales beat estimates &lpar;CNBC&rpar;](http://www.techmeme.com/231107/p27#a231107p27)
- - [Crunchyroll Anime Streaming Service Brings Free Games for Premium Members     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-anime-streaming-service-brings-free-games-for-premium-members/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung HW-Q990C Soundbar Review: Great Dolby Atmos at a Premium Price     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-hw-q990c-soundbar-review-great-dolby-atmos-at-a-premium-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

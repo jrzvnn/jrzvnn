@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp head confirms in-app ads are still in the works](https://www.theverge.com/2023/11/7/23950795/meta-whatsapp-status-ads-sales-advertising-plans)
+ - [Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War](https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/)
+ - [5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model](https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/)
  - [Mac marvels: B&amp;H Photo unleashes unbeatable deals on Apple hardware](https://appleinsider.com/articles/23/11/07/mac-marvels-bh-photo-unleashes-unbeatable-deals-on-apple-hardware?utm_medium=rss)
- - [Former Meta consultant Arturo B&amp;eacute;jar&#39;s Senate testimony: Meta execs ignored warnings about harms to teens, using carefully crafted metrics to downplay the issue &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231107/p31#a231107p31)
- - [Ancestry, MyHeritage, and 23andMe have begun notifying customers that their accounts will use 2FA by default, following the theft of millions of 23andMe records &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231107/p30#a231107p30)
- - [Apple pauses iOS 18, macOS 15 work to stomp bugs now](https://appleinsider.com/articles/23/11/07/apple-pauses-ios-18-macos-15-work-to-stomp-bugs?utm_medium=rss)
- - [Google, Meta, Discord, and more team up to fight child abuse online](https://www.theverge.com/2023/11/7/23950604/lantern-program-csam-child-exploitation-google-meta-discord-privacy)<!-- TECH:END -->
+ - [Former Meta consultant Arturo B&amp;eacute;jar&#39;s Senate testimony: Meta execs ignored warnings about harms to teens, using carefully crafted metrics to downplay the issue &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231107/p31#a231107p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 😝 [Also what would you name it?](http://9gag.com/gag/aXn10yV)
+ - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
  - 💣 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 👉 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)<!-- MEMES:END -->
+ - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 👉 [Interesting](http://9gag.com/gag/a7qXyqw)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X CEO Linda Yaccarino is leaning on her media industry links to bring back jittery advertisers, including meeting executives from the NFL and the NBA &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231107/p11#a231107p11)
- - [YouTube is testing a chatbot that will appear under select videos](https://www.theverge.com/2023/11/7/23950327/youtube-artificial-intelligence-chatbot-video-summaries-ask-comments-topics-categorization)
- - [Sources: ByteDance&#39;s VR unit Pico plans to cut &quot;hundreds&quot; of jobs and undertake its biggest overhaul since its 2021 acquisition, as global headset demand lags &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231107/p10#a231107p10)
- - [Omdia predicts India to be the fastest growing digital economy between now and 2027, with a 9.6% compound annual growth rate, driven by digital ad growth &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231107/p9#a231107p9)
- - [Samsung launches premium S Pen to tempt iPad artists in the US](https://www.theverge.com/2023/11/7/23950323/samsung-s-pen-creator-edition-price-release-date)<!-- TECH:END -->
+ - [Uber reports Q3 revenue up 11% YoY to $9.3B, a $221M net income, gross bookings up 21% YoY to $35.3B, trips up 25% YoY to 2.4B, and a record 6.5M drivers &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231107/p13#a231107p13)
+ - [Monokei Standard Keyboard review: Colorful and capable](https://appleinsider.com/articles/23/11/07/monokei-standard-keyboard-review-colorful-and-capable?utm_medium=rss)
+ - [Tech and Games Can Help Curb Youth Suicide](https://www.wired.com/story/tech-video-games-youth-suicide/)
+ - [How the Apple TV 4K Quickly Became My Favorite Streaming Device](https://www.wired.com/story/apple-tv-4k-rave/)
+ - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

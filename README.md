@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
  - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 💣 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Keep horror alive](http://9gag.com/gag/aME523P)<!-- MEMES:END -->
+ - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 

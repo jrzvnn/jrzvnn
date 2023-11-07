@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 😝 [Laughs in European](http://9gag.com/gag/az2wLPj)
- - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 💣 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
  - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---

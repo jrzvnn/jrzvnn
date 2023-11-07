@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay reports Q3 revenue up 5% YoY to $2.5B, gross merchandise volume up 2% YoY to $18B, and forecasts Q4 revenue below estimates; EBAY falls 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p38#a231107p38)
+ - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)
  - [Beats Fit Pro &amp; Powerbeats Pro get firmware update with unknown fixes](https://appleinsider.com/articles/23/11/07/beats-fit-pro-powerbeats-pro-get-firmware-update-with-unknown-fixes?utm_medium=rss)
  - [Dystopian adventure &#39;Stray&#39; makes its way to Mac on December 5](https://appleinsider.com/articles/23/11/07/dystopian-adventure-stray-makes-its-way-to-mac-on-december-5?utm_medium=rss)
- - [watchOS 10.1.1 is here with fix for battery drain issue](https://appleinsider.com/articles/23/11/07/apple-releases-watchos-1011-to-fix-battery-drain-issue?utm_medium=rss)
- - [Apple releases iOS 17.1.1 &amp; iPadOS 17.1.1 updates to fix various bugs](https://appleinsider.com/articles/23/11/07/apple-releases-ios-1711-update-to-fix-iphone-issues?utm_medium=rss)
- - [Reddit starts testing add-ons, first with a small number of communities, including tools to make posts with live scoreboards and to help mods ban spammers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p37#a231107p37)<!-- TECH:END -->
+ - [watchOS 10.1.1 is here with fix for battery drain issue](https://appleinsider.com/articles/23/11/07/apple-releases-watchos-1011-to-fix-battery-drain-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

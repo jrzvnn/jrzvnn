@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
  - 😝 [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
 
 ---
 

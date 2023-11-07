@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)
- - 😝 [This is the way forward.](http://9gag.com/gag/aME5bw1)
- - 💣 [Darude fanstorm](http://9gag.com/gag/axowZMW)
- - 😝 [Protect her at all costs](http://9gag.com/gag/az2wEdm)
- - 👉 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)<!-- MEMES:END -->
+ - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 

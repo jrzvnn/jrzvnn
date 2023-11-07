@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
  - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
- - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---
 

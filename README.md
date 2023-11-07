@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q3 revenue up 18.4% YoY to $275.5M, vs. $277M est., and forecasts Q4 revenue below estimates; BMBL drops 6%+ &lpar;Reuters&rpar;](http://www.techmeme.com/231107/p40#a231107p40)
+ - [Instagram will finally let you disable read receipts in DMs](https://www.theverge.com/2023/11/7/23950995/instagram-dm-read-receipt-disable)
+ - [Robinhood reports Q3 revenue up 29% YoY to $467M, vs. $478.9M est., trading revenue down 11% YoY to $185M, with crypto volumes down 55% YoY; HOOD drops 8%+ &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/231107/p39#a231107p39)
  - [Nintendo is making a live-action Zelda movie](https://www.theverge.com/2023/11/7/23951339/the-legend-of-zelda-movie-live-action-nintendo)
- - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)
- - [Best 2-Player Game of 2023     - CNET](https://www.cnet.com/culture/entertainment/best-2-player-board-games/#ftag=CAD590a51e)
- - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
- - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)<!-- TECH:END -->
+ - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

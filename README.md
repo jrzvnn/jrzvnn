@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI startup Vectara&#39;s Hallucination Evaluation Model: OpenAI&#39;s LLMs had the lowest hallucination rates, followed by Meta&#39;s; Google&#39;s PaLM-Chat had the highest &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231106/p38#a231106p38)
  - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)
  - [Meta says it is barring political advertisers from using its new generative AI advertising products &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231106/p36#a231106p36)
  - [Best VPN Deals: Top VPN Subscriptions From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
- - [Final Cut Pro November update incoming with improved navigation, ML Object Tracker](https://appleinsider.com/articles/23/11/06/final-cut-pro-november-update-incoming-with-improved-navigation-ml-object-tracker?utm_medium=rss)
- - [PS5 ‘slim’ teardown shows the clever engineering of its detachable disc drive](https://www.theverge.com/2023/11/6/23949505/ps5-slim-teardown-detachable-disc-drive-engineering)<!-- TECH:END -->
+ - [Final Cut Pro November update incoming with improved navigation, ML Object Tracker](https://appleinsider.com/articles/23/11/06/final-cut-pro-november-update-incoming-with-improved-navigation-ml-object-tracker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

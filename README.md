@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG&#39;s AI unit partners with Qraft to launch the LG Qraft AI-Powered US Large-Cap Core ETF on the NYSE, using LG&#39;s forecasting tools to rebalance its portfolio &lpar;Will Schmitt/Financial Times&rpar;](http://www.techmeme.com/231107/p16#a231107p16)
+ - [Nvidia’s RTX 4070 / 4080 Super cards rumored for CES 2024 launch](https://www.theverge.com/2023/11/7/23950348/nvidia-rtx-4080-4070-super-ces-2024-launch-rumor)
  - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)
  - [Intel CEO Pat Gelsinger says the company&#39;s 18A chip design will move into test production by Q1 2024, part of its aims to reclaim chip leadership by 2025 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231107/p15#a231107p15)
- - [How a &#39;Foveated&#39; display boosts Apple Vision Pro headset refresh rates](https://appleinsider.com/articles/19/06/13/foveated-display-may-boost-apple-ar-headset-refresh-rates?utm_medium=rss)
- - [Popsocket lets people design their cases with AI](https://www.theverge.com/2023/11/7/23950345/popsocket-customize-generative-ai-phone-accessories)
- - [Samsung launches a $99 S Pen Creator Edition in the US, offering a larger, Apple Pencil-like design while lacking some smart features from other S Pen models &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231107/p14#a231107p14)<!-- TECH:END -->
+ - [How a &#39;Foveated&#39; display boosts Apple Vision Pro headset refresh rates](https://appleinsider.com/articles/19/06/13/foveated-display-may-boost-apple-ar-headset-refresh-rates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

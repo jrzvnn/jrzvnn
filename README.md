@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac marvels: B&amp;H Photo unleashes unbeatable deals on Apple hardware](https://appleinsider.com/articles/23/11/07/mac-marvels-bh-photo-unleashes-unbeatable-deals-on-apple-hardware?utm_medium=rss)
+ - [Former Meta consultant Arturo B&amp;eacute;jar&#39;s Senate testimony: Meta execs ignored warnings about harms to teens, using carefully crafted metrics to downplay the issue &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231107/p31#a231107p31)
  - [Ancestry, MyHeritage, and 23andMe have begun notifying customers that their accounts will use 2FA by default, following the theft of millions of 23andMe records &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231107/p30#a231107p30)
  - [Apple pauses iOS 18, macOS 15 work to stomp bugs now](https://appleinsider.com/articles/23/11/07/apple-pauses-ios-18-macos-15-work-to-stomp-bugs?utm_medium=rss)
- - [Google, Meta, Discord, and more team up to fight child abuse online](https://www.theverge.com/2023/11/7/23950604/lantern-program-csam-child-exploitation-google-meta-discord-privacy)
- - [Scans reveal how counterfeiters fake AirPods with cheap components](https://appleinsider.com/articles/23/11/07/scans-reveal-how-counterfeiters-fake-airpods-with-cheap-components?utm_medium=rss)
- - [The CFPB proposes new powers to oversee companies offering digital wallets and payment apps that facilitate 5M+ transactions per year, currently ~17 companies &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/231107/p29#a231107p29)<!-- TECH:END -->
+ - [Google, Meta, Discord, and more team up to fight child abuse online](https://www.theverge.com/2023/11/7/23950604/lantern-program-csam-child-exploitation-google-meta-discord-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

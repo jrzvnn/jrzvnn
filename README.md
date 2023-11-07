@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 😝 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 💣 [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 😝 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
+ - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
  - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM debuts a $500M enterprise AI venture fund, to invest in startups across stages, with no set target of annual investments or capital deployment timeline &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231107/p33#a231107p33)
  - [The Microsoft for Startups Founders Hub previews for YC startups a new Nvidia GPU cluster option for AI in Azure and aims to expand access to startups in M12 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p32#a231107p32)
  - [WhatsApp head confirms in-app ads are still in the works](https://www.theverge.com/2023/11/7/23950795/meta-whatsapp-status-ads-sales-advertising-plans)
  - [Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War](https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/)
- - [5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model](https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/)
- - [Mac marvels: B&amp;H Photo unleashes unbeatable deals on Apple hardware](https://appleinsider.com/articles/23/11/07/mac-marvels-bh-photo-unleashes-unbeatable-deals-on-apple-hardware?utm_medium=rss)<!-- TECH:END -->
+ - [5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model](https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

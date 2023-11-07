@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple brings &#39;High Power Mode&#39; to 14-inch MacBook Pro](https://appleinsider.com/articles/23/11/07/apple-brings-high-power-mode-to-14-inch-macbook-pro?utm_medium=rss)
+ - [Samsung HW-Q990C Soundbar Review: Great Dolby Atmos at a Premium Price     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-hw-q990c-soundbar-review-great-dolby-atmos-at-a-premium-price/#ftag=CAD590a51e)
  - [Cloud monitoring company Datadog&#39;s stock jumps ~30% after reporting Q3 revenue rose 25% YoY to $547.5M, vs. $524M est., and forecasted Q4 sales beat estimates &lpar;CNBC&rpar;](http://www.techmeme.com/231107/p27#a231107p27)
- - [Figma introduces FigJam AI to spare designers from boring planning prep](https://www.theverge.com/2023/11/7/23950667/figma-figjam-generative-ai-design-tools-beta-announcement)
- - [Crunchyroll is adding mobile games to its subscription](https://www.theverge.com/2023/11/7/23949187/crunchyroll-mobile-game-subscription-anime)
- - [YouTube&#39;s Ad Blocker Detection Believed to Break EU Privacy Law](https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/)<!-- TECH:END -->
+ - [Crunchyroll Anime Streaming Service Brings Free Games for Premium Members     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-anime-streaming-service-brings-free-games-for-premium-members/#ftag=CAD590a51e)
+ - [Figma introduces FigJam AI to spare designers from boring planning prep](https://www.theverge.com/2023/11/7/23950667/figma-figjam-generative-ai-design-tools-beta-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

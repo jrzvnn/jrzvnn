@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 😝 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 💣 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)
+ - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 💣 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)
  - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 

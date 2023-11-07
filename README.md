@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
  - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 😝 [Think Ron might have liked it](http://9gag.com/gag/a5X3KYV)
- - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
+ - 😝 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
+ - 💣 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 👉 [Also what would you name it?](http://9gag.com/gag/aXn10yV)<!-- MEMES:END -->
 
 ---
 

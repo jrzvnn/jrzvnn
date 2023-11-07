@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
- - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/a7qXyqw)
+ - 😝 [Grannies are the best](http://9gag.com/gag/aKE5Byj)
+ - 💣 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
+ - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)<!-- MEMES:END -->
 
 ---
 

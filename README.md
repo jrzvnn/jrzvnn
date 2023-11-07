@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)
  - [Some new MacBook Pros are stuck on macOS Ventura -- but there&#39;s a fix](https://appleinsider.com/articles/23/11/07/some-new-macbook-pros-are-stuck-on-macos-ventura----but-theres-a-fix?utm_medium=rss)
  - [Zero Motorcycles expands lineup with an eye toward bringing in new riders](https://www.theverge.com/2023/11/7/23949263/zero-motorcycles-model-s-ds-dsr-price-specs)
  - [The Epic v. Google trial may come down to simple v. complicated](https://www.theverge.com/2023/11/7/23949849/epic-google-trial-day-one-recap-summary)
- - [12 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [19 Best Subscription Boxes to Gift &lpar;2023&rpar;: Services We Love](https://www.wired.com/gallery/best-subscription-gift-boxes/)<!-- TECH:END -->
+ - [12 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

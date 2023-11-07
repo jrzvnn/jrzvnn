@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
 
 ---
 

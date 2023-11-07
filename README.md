@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)
  - [An interview with Blizzard President Mike Ybarra about the studio&#39;s future under Microsoft, the idea of releasing a game without live components, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p4#a231107p4)
  - [Nintendo reports Q2 revenue down 4% YoY to ~$2.2B and profit down 19% YoY to ~$603M, both above est.; Switch sales in April to September rose 2.4% YoY to 6.84M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231107/p3#a231107p3)
  - [Early Black Friday Sales Are Already Here. What You Need to Know     - CNET](https://www.cnet.com/tech/home-entertainment/early-black-friday-sales-are-already-here-what-you-need-to-know/#ftag=CAD590a51e)
- - [A look at the hurdles tech startups like Shield AI, which makes autonomous drones, face in competing for Pentagon funding against more entrenched weapons makers &lpar;New York Times&rpar;](http://www.techmeme.com/231107/p2#a231107p2)
- - [Intensified Israeli Surveillance Has Put the West Bank on Lockdown](https://www.wired.com/story/israel-surveillance-state-out-of-control-west-bank/)<!-- TECH:END -->
+ - [A look at the hurdles tech startups like Shield AI, which makes autonomous drones, face in competing for Pentagon funding against more entrenched weapons makers &lpar;New York Times&rpar;](http://www.techmeme.com/231107/p2#a231107p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Echelon Row Machine Is Just $922 With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/echelon-row-machine-is-just-922-with-this-early-black-friday-deal/#ftag=CAD590a51e)
  - [The Asus ROG Ally has fallen to an all-time low ahead of Black Friday](https://www.theverge.com/2023/11/7/23949043/asus-rog-ally-ember-smart-mug-philips-hue-festavia-christmas-lights-deal-sale)
+ - [Best Office Chairs of 2023     - CNET](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
  - [The 19 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Reddit is starting to test its own add-ons for the platform](https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test)
- - [Google pushes an update for Pixel phones fixing security bugs and an Android 14 storage bug locking some owners, who use multiple profiles, out of their devices &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231107/p36#a231107p36)
- - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)<!-- TECH:END -->
+ - [Reddit is starting to test its own add-ons for the platform](https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

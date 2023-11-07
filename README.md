@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
+ - 😝 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
+ - 😝 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)
+ - 💣 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
+ - 👉 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)<!-- MEMES:END -->
 
 ---
 

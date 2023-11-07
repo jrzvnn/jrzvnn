@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - 😝 [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
- - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 😝 [This was actually aired on Israeli TV](http://9gag.com/gag/aDY5wRO)
+ - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
 
 ---
 

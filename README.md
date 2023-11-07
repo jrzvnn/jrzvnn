@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol up..](http://9gag.com/gag/aGE5VeX)
- - 😝 [Suddenly](http://9gag.com/gag/a8qOWDp)
- - 💣 [It may be full.](http://9gag.com/gag/aGE5w1w)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Its all lies!](http://9gag.com/gag/a9q0bxj)<!-- MEMES:END -->
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 💣 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 😝 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---
 

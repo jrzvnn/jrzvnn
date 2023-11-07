@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)
+ - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
+ - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)
  - [eBay reports Q3 revenue up 5% YoY to $2.5B, gross merchandise volume up 2% YoY to $18B, and forecasts Q4 revenue below estimates; EBAY falls 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p38#a231107p38)
- - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)
- - [Beats Fit Pro &amp; Powerbeats Pro get firmware update with unknown fixes](https://appleinsider.com/articles/23/11/07/beats-fit-pro-powerbeats-pro-get-firmware-update-with-unknown-fixes?utm_medium=rss)
- - [Dystopian adventure &#39;Stray&#39; makes its way to Mac on December 5](https://appleinsider.com/articles/23/11/07/dystopian-adventure-stray-makes-its-way-to-mac-on-december-5?utm_medium=rss)
- - [watchOS 10.1.1 is here with fix for battery drain issue](https://appleinsider.com/articles/23/11/07/apple-releases-watchos-1011-to-fix-battery-drain-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

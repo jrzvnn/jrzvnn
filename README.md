@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too smart for Harvard Business School](http://9gag.com/gag/aQE58XW)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 💣 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 😝 [Baked Beans, yay or nay?](http://9gag.com/gag/aWG56n2)
- - 👉 [Son&#39;s surprise visit to mom after many years](http://9gag.com/gag/avQwP4W)<!-- MEMES:END -->
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
+ - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
 
 ---
 

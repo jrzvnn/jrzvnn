@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)
- - 😝 [If you know, you know what\u2019s going on.](http://9gag.com/gag/aeQwpA5)
- - 💣 [Syrian shot by Polish soldier after crossing Belarus border in \u201cunfortunate accident\u201d, say authorities](http://9gag.com/gag/ap9wBN8)
- - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 👉 [I am not saying I am proud, I am just saying that I have two kids in the house and whatever time I can find for myself, I will take it.](http://9gag.com/gag/a9q0PdD)<!-- MEMES:END -->
+ - 😝 [So many layers here....](http://9gag.com/gag/ap9woMn)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/a7qXyqw)
- - 😝 [Grannies are the best](http://9gag.com/gag/aKE5Byj)
- - 💣 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
+ - 😝 [Baked Beans, yay or nay?](http://9gag.com/gag/aWG56n2)
+ - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [When a Pakistani becomes a part of your country!!](http://9gag.com/gag/adPwjRD)
  - 👉 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)<!-- MEMES:END -->
 
 ---

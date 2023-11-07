@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)
+ - [Meta says it is barring political advertisers from using its new generative AI advertising products &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231106/p36#a231106p36)
+ - [Best VPN Deals: Top VPN Subscriptions From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
  - [Final Cut Pro November update incoming with improved navigation, ML Object Tracker](https://appleinsider.com/articles/23/11/06/final-cut-pro-november-update-incoming-with-improved-navigation-ml-object-tracker?utm_medium=rss)
- - [PS5 ‘slim’ teardown shows the clever engineering of its detachable disc drive](https://www.theverge.com/2023/11/6/23949505/ps5-slim-teardown-detachable-disc-drive-engineering)
- - [Sources: Intel is the leading candidate to potentially receive billions under the US Chips Act to build secure facilities producing chips for the US military &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231106/p35#a231106p35)
- - [Samsung Galaxy S23 Deals: Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Best Password Manager in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PS5 ‘slim’ teardown shows the clever engineering of its detachable disc drive](https://www.theverge.com/2023/11/6/23949505/ps5-slim-teardown-detachable-disc-drive-engineering)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

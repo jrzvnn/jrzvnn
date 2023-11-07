@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
  - 😝 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 💣 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)
+ - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 

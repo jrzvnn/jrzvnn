@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal documents: Cruise knew its cars struggled to detect large holes and sometimes had problems recognizing kids, prior to its California permitting crisis &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/231106/p40#a231106p40)
  - [WeWork, valued at $47B in 2019, files for Chapter 11 bankruptcy protection for its locations in the US and Canada, and reports liabilities between $10B and $50B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231106/p39#a231106p39)
  - [Ohio Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/ohio-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
  - [AI startup Vectara&#39;s Hallucination Evaluation Model: OpenAI&#39;s LLMs had the lowest hallucination rates, followed by Meta&#39;s; Google&#39;s PaLM-Chat had the highest &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231106/p38#a231106p38)
- - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)
- - [Meta says it is barring political advertisers from using its new generative AI advertising products &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231106/p36#a231106p36)<!-- TECH:END -->
+ - [Sony says it&#39;s terminating X integration for PS5 and PS4 starting November 13, 2023, meaning users won&#39;t be able to post and view content on X from the consoles &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231106/p37#a231106p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

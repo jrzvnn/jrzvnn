@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 💣 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 😝 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
 
 ---
 

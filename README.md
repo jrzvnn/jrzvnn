@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [A look at Neuralink after FDA trial approval: huge media coverage compared to rivals and worries over hype, but its tech is exciting and potentially miraculous &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/231107/p20#a231107p20)
  - [Jamf uncovers new Mac malware linked to known hacking group](https://appleinsider.com/articles/23/11/07/jamf-uncovers-new-mac-malware-linked-to-known-hacking-group?utm_medium=rss)
  - [34 Best Viral TikTok Gifts We Found and Love &lpar;2023&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
- - [What Is a High Refresh Rate? Frame Rate? &lpar;Phones, TVs, Monitors&rpar;](https://www.wired.com/story/high-refresh-rate-explained/)
- - [Former Kotaku writers are launching a new video game site — and they own it this time](https://www.theverge.com/2023/11/7/23949269/aftermath-video-games-kotaku-defector)
- - [Redwood Materials will recycle stationary storage batteries as it expands its scope](https://www.theverge.com/2023/11/7/23949188/redwood-materials-stationary-storage-battery-recycle-kauai)<!-- TECH:END -->
+ - [What Is a High Refresh Rate? Frame Rate? &lpar;Phones, TVs, Monitors&rpar;](https://www.wired.com/story/high-refresh-rate-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

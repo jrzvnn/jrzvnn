@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 👉 [What&#39;s the most shockingly disturbing experiment you know of?](http://9gag.com/gag/az2w7Bx)<!-- MEMES:END -->
+ - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - 😝 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 😝 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 

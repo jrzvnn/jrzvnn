@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many layers here....](http://9gag.com/gag/ap9woMn)
+ - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
  - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
  - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 

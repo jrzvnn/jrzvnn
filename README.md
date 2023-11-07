@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance&#39;s VR unit Pico plans to cut &quot;hundreds&quot; of jobs and undertake its biggest overhaul since its 2021 acquisition, as global headset demand lags &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231107/p10#a231107p10)
  - [Omdia predicts India to be the fastest growing digital economy between now and 2027, with a 9.6% compound annual growth rate, driven by digital ad growth &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231107/p9#a231107p9)
  - [Samsung launches premium S Pen to tempt iPad artists in the US](https://www.theverge.com/2023/11/7/23950323/samsung-s-pen-creator-edition-price-release-date)
  - [After Big Tech cut thousands of trust and safety staff, Sero AI and other startups now offer the services for a fee, which experts say may not be as effective &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231107/p8#a231107p8)
- - [What a Bloody San Francisco Street Brawl Tells Us About the Age of Citizen Surveillance](https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance/)
- - [Sources: Shein aims for an $80B to $90B valuation in its US IPO, far exceeding its $50B to $60B valuation in private trades; Shein was valued at $100B in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231107/p7#a231107p7)<!-- TECH:END -->
+ - [What a Bloody San Francisco Street Brawl Tells Us About the Age of Citizen Surveillance](https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rebate management startup Enable raised a $120M Series D led by Lightspeed at a $1B valuation, taking its funding to $276M, and claims &quot;thousands&quot; of clients &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231107/p18#a231107p18)
  - [WeWork&#39;s bankruptcy caps a years-long saga for Masayoshi Son, who overrode lieutenants&#39; objections to hand Adam Neumann billions, losing SoftBank over $11.5B &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p17#a231107p17)
  - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)
  - [Lo &amp; Sons Nouvelle Purse Review &lpar;2023&rpar;: Recycled and Versatile](https://www.wired.com/review/lo-and-sons-nouvelle-purse/)
- - [Eve&#39;s Motion Sensor Finally Made My Home Feel &#39;Smart&#39;](https://www.wired.com/story/eve-motion-sensor-rave/)
- - [How to give yourself a break from your Android phone](https://www.theverge.com/23948646/android-phone-digital-wellbeing-focus-sleep-how-to)<!-- TECH:END -->
+ - [Eve&#39;s Motion Sensor Finally Made My Home Feel &#39;Smart&#39;](https://www.wired.com/story/eve-motion-sensor-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

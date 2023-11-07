@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Tech Coalition, including Discord, Google, Meta, Roblox, Snap, and Twitch, announce Lantern to help share &quot;signals&quot; on child sexual exploitation and abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p22#a231107p22)
  - [How to fix Touch ID problems on the Mac](https://appleinsider.com/inside/touch-id/tips/how-to-fix-touch-id-problems-on-the-mac?utm_medium=rss)
  - [Ahead of ex-Meta consultant Arturo B&amp;eacute;jar&#39;s Senate testimony, internal documents and sources detail debates over fostering growth while protecting young users &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/231107/p21#a231107p21)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [A look at Neuralink after FDA trial approval: huge media coverage compared to rivals and worries over hype, but its tech is exciting and potentially miraculous &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/231107/p20#a231107p20)
- - [Jamf uncovers new Mac malware linked to known hacking group](https://appleinsider.com/articles/23/11/07/jamf-uncovers-new-mac-malware-linked-to-known-hacking-group?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Neuralink after FDA trial approval: huge media coverage compared to rivals and worries over hype, but its tech is exciting and potentially miraculous &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/231107/p20#a231107p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

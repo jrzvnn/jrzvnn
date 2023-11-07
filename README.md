@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Dystopian adventure &#39;Stray&#39; makes its way to Mac on December 5](https://appleinsider.com/articles/23/11/07/dystopian-adventure-stray-makes-its-way-to-mac-on-december-5?utm_medium=rss)
- - [Apple releases watchOS 10.1.1 to fix battery drain issue](https://appleinsider.com/articles/23/11/07/apple-releases-watchos-1011-to-fix-battery-drain-issue?utm_medium=rss)
+ - [watchOS 10.1.1 is here with fix for battery drain issue](https://appleinsider.com/articles/23/11/07/apple-releases-watchos-1011-to-fix-battery-drain-issue?utm_medium=rss)
  - [Apple releases iOS 17.1.1 &amp; iPadOS 17.1.1 updates to fix various bugs](https://appleinsider.com/articles/23/11/07/apple-releases-ios-1711-update-to-fix-iphone-issues?utm_medium=rss)
  - [Reddit starts testing add-ons, first with a small number of communities, including tools to make posts with live scoreboards and to help mods ban spammers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p37#a231107p37)
  - [Night in the Woods follow-up Revenant Hill has been canceled](https://www.theverge.com/2023/11/7/23951123/revenant-hill-canceled-night-in-the-woods)<!-- TECH:END -->

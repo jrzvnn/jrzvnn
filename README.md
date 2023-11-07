@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
  - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 💣 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)
- - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
 
 ---
 

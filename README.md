@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 17.1.1 update to fix iPhone issues](https://appleinsider.com/articles/23/11/07/apple-releases-ios-1711-update-to-fix-iphone-issues?utm_medium=rss)
  - [Reddit starts testing add-ons, first with a small number of communities, including tools to make posts with live scoreboards and to help mods ban spammers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p37#a231107p37)
  - [Night in the Woods follow-up Revenant Hill has been canceled](https://www.theverge.com/2023/11/7/23951123/revenant-hill-canceled-night-in-the-woods)
  - [Government Surveillance Reform Act of 2023 Seeks to End Warrantless Police and FBI Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
- - [Echelon Row Machine Is Just $922 With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/echelon-row-machine-is-just-922-with-this-early-black-friday-deal/#ftag=CAD590a51e)
- - [The Asus ROG Ally has fallen to an all-time low ahead of Black Friday](https://www.theverge.com/2023/11/7/23949043/asus-rog-ally-ember-smart-mug-philips-hue-festavia-christmas-lights-deal-sale)<!-- TECH:END -->
+ - [Echelon Row Machine Is Just $922 With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/echelon-row-machine-is-just-922-with-this-early-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

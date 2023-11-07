@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The WeWork soap opera’s latest episode includes filing for bankruptcy](https://www.theverge.com/2023/11/6/23948568/wework-bankruptcy-filing-chapter-11)
  - [A look at OpenAI&#39;s custom GPT builder, which Sam Altman says the company wants to keep simple for now, and the risks in allowing anyone to create GPT agents &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231106/p41#a231106p41)
  - [Understanding &#39;Hey Siri&#39; -- how to use it, commands, and more](https://appleinsider.com/inside/siri/tips/understanding-hey-siri----how-to-use-it-commands-and-more?utm_medium=rss)
  - [WeWork Just Filed For Bankruptcy](https://www.wired.com/story/wework-bankruptcy/)
- - [Internal documents: Cruise knew its cars struggled to detect large holes and sometimes had problems recognizing kids, prior to its California permitting crisis &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/231106/p40#a231106p40)
- - [WeWork, valued at $47B in 2019, files for Chapter 11 bankruptcy protection for its locations in the US and Canada, and reports liabilities between $10B and $50B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231106/p39#a231106p39)<!-- TECH:END -->
+ - [Internal documents: Cruise knew its cars struggled to detect large holes and sometimes had problems recognizing kids, prior to its California permitting crisis &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/231106/p40#a231106p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo is making a live-action Zelda movie](https://www.theverge.com/2023/11/7/23951339/the-legend-of-zelda-movie-live-action-nintendo)
  - [macOS Sonoma and macOS Ventura updates are here with fixes for M3 Macs](https://appleinsider.com/articles/23/11/07/macos-sonoma-and-macos-ventura-updates-are-here-with-fixes-for-m3-macs?utm_medium=rss)
+ - [Best 2-Player Game of 2023     - CNET](https://www.cnet.com/culture/entertainment/best-2-player-board-games/#ftag=CAD590a51e)
  - [Apple rolls out HomePod software version 17.1.1](https://appleinsider.com/articles/23/11/07/apple-rolls-out-homepod-software-version-1711?utm_medium=rss)
- - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)
- - [eBay reports Q3 revenue up 5% YoY to $2.5B, gross merchandise volume up 2% YoY to $18B, and forecasts Q4 revenue below estimates; EBAY falls 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p38#a231107p38)
- - [Ubisoft lays off dozens of workers as gaming industry struggles drag on](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)<!-- TECH:END -->
+ - [Theo Von’s podcast is climbing the charts, with a little help from TikTok](https://www.theverge.com/2023/11/7/23951228/theo-vons-this-past-weekend-podcast-tiktok-james-corden-israel-palestine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

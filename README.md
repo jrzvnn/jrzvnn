@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Nov. 7: $200 off M3 Pro MacBook Pro, iMacs from $470, up to 40% off eero, more](https://appleinsider.com/articles/23/11/07/daily-deals-nov-7-200-off-m3-pro-macbook-pro-imacs-from-470-up-to-40-off-eero-more?utm_medium=rss)
+ - [SAG-AFTRA won’t budge as studios push to own actors’ likenesses in perpetuity](https://www.theverge.com/2023/11/7/23950491/sag-aftra-amptp-ai-negotiations-strike-actor-likeness)
+ - [Sony claims to fix the rolling shutter problem with its latest A9 III mirrorless camera](https://www.theverge.com/2023/11/7/23950504/sony-a9-iii-mirrorless-camera-global-shutter-price-release)
  - [Google Photos&#39; Magic Editor will now refuse to edit photos of ID cards, human faces and body parts, receipts, and other images of personally identifiable info &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231107/p24#a231107p24)
- - [A Major Alarm Is Flashing Under Greenland’s Ice](https://www.wired.com/story/a-major-alarm-is-flashing-under-greenlands-ice/)
- - [YouTube’s ad blocking crackdown is facing a new challenge: privacy laws](https://www.theverge.com/2023/11/7/23950513/youtube-ad-blocker-crackdown-privacy-advocates-eu)
- - [The Verge’s 2023 Holiday Gift Guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)<!-- TECH:END -->
+ - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

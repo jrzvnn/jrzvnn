@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: X CEO Linda Yaccarino is leaning on her media industry links to bring back jittery advertisers, including meeting executives from the NFL and the NBA &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231107/p11#a231107p11)
+ - [YouTube is testing a chatbot that will appear under select videos](https://www.theverge.com/2023/11/7/23950327/youtube-artificial-intelligence-chatbot-video-summaries-ask-comments-topics-categorization)
  - [Sources: ByteDance&#39;s VR unit Pico plans to cut &quot;hundreds&quot; of jobs and undertake its biggest overhaul since its 2021 acquisition, as global headset demand lags &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231107/p10#a231107p10)
  - [Omdia predicts India to be the fastest growing digital economy between now and 2027, with a 9.6% compound annual growth rate, driven by digital ad growth &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231107/p9#a231107p9)
- - [Samsung launches premium S Pen to tempt iPad artists in the US](https://www.theverge.com/2023/11/7/23950323/samsung-s-pen-creator-edition-price-release-date)
- - [After Big Tech cut thousands of trust and safety staff, Sero AI and other startups now offer the services for a fee, which experts say may not be as effective &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231107/p8#a231107p8)<!-- TECH:END -->
+ - [Samsung launches premium S Pen to tempt iPad artists in the US](https://www.theverge.com/2023/11/7/23950323/samsung-s-pen-creator-edition-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
- - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
- - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
  - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 😝 [Laughs in European](http://9gag.com/gag/az2wLPj)
+ - 💣 [Keep horror alive](http://9gag.com/gag/aME523P)
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
  - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
 
 ---

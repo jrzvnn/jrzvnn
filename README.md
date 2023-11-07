@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 😝 [Bro didn&#39;t even hesitate](http://9gag.com/gag/aDY5Rb9)
- - 💣 [Useless High effort](http://9gag.com/gag/a8qOW8e)
+ - 😝 [Dinosaurs.](http://9gag.com/gag/aEq5GOx)
  - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/a7qXyqw)
+ - 😝 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)
+ - 👉 [Useless High effort](http://9gag.com/gag/a8qOW8e)<!-- MEMES:END -->
 
 ---
 

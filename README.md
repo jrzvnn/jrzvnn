@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waze rolls out crash history alerts for accident-prone roads](https://www.theverge.com/2023/11/7/23950441/google-waze-crash-history-alerts)
  - [Austin-based Black Ore, which builds AI tools for the financial services industry, emerges from stealth with a $60M combined Seed and Series A led by a16z &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/231107/p25#a231107p25)
  - [Ram’s new 1500 EV truck has ‘unlimited’ range, thanks to built-in gas generator](https://www.theverge.com/2023/11/7/23950416/ram-1500-ramcharger-ev-pickup-truck-gas-generator-announce)
  - [Daily deals Nov. 7: $200 off M3 Pro MacBook Pro, iMacs from $470, up to 40% off eero, more](https://appleinsider.com/articles/23/11/07/daily-deals-nov-7-200-off-m3-pro-macbook-pro-imacs-from-470-up-to-40-off-eero-more?utm_medium=rss)
- - [SAG-AFTRA won’t budge as studios push to own actors’ likenesses in perpetuity](https://www.theverge.com/2023/11/7/23950491/sag-aftra-amptp-ai-negotiations-strike-actor-likeness)
- - [Sony claims to fix the rolling shutter problem with its latest A9 III mirrorless camera](https://www.theverge.com/2023/11/7/23950504/sony-a9-iii-mirrorless-camera-global-shutter-price-release)<!-- TECH:END -->
+ - [SAG-AFTRA won’t budge as studios push to own actors’ likenesses in perpetuity](https://www.theverge.com/2023/11/7/23950491/sag-aftra-amptp-ai-negotiations-strike-actor-likeness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

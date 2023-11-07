@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/a7qXyqw)
- - 😝 [What ??](http://9gag.com/gag/aKE5PZg)
- - 💣 [So many layers here....](http://9gag.com/gag/ap9woMn)
- - 😝 [Think Ron might have liked it](http://9gag.com/gag/a5X3KYV)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 😝 [Alternate Universe at its finest](http://9gag.com/gag/ap9wqXE)
+ - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
+ - 💣 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 👉 [Bro met god for a second](http://9gag.com/gag/aEq5GgO)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European Parliament lawmakers approve new political ad rules that require Meta, Google, and others to clearly label such ads, who paid and how much, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231107/p19#a231107p19)
  - [The Euclid Space Telescope’s Spectacular First Photos of Distant and Hidden Galaxies](https://www.wired.com/story/the-euclid-space-telescopes-spectacular-first-photos-of-distant-and-hidden-galaxies/)
  - [Rebate management startup Enable raised a $120M Series D led by Lightspeed at a $1B valuation, taking its funding to $276M, and claims &quot;thousands&quot; of clients &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231107/p18#a231107p18)
  - [WeWork&#39;s bankruptcy caps a years-long saga for Masayoshi Son, who overrode lieutenants&#39; objections to hand Adam Neumann billions, losing SoftBank over $11.5B &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p17#a231107p17)
- - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)
- - [Lo &amp; Sons Nouvelle Purse Review &lpar;2023&rpar;: Recycled and Versatile](https://www.wired.com/review/lo-and-sons-nouvelle-purse/)<!-- TECH:END -->
+ - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

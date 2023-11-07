@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 😝 [Cursed Title](http://9gag.com/gag/aGE5VO5)
- - 💣 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
+ - 😝 [Interesting](http://9gag.com/gag/a7qXyqw)
+ - 😝 [What ??](http://9gag.com/gag/aKE5PZg)
+ - 💣 [So many layers here....](http://9gag.com/gag/ap9woMn)
  - 😝 [Think Ron might have liked it](http://9gag.com/gag/a5X3KYV)
- - 👉 [Also what would you name it?](http://9gag.com/gag/aXn10yV)<!-- MEMES:END -->
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 

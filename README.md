@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG&#39;s AI unit partners with Qraft to launch the LG Qraft AI-Powered US Large-Cap Core ETF on the NYSE, using LG&#39;s forecasting tools to rebalance its portfolio &lpar;Will Schmitt/Financial Times&rpar;](http://www.techmeme.com/231107/p16#a231107p16)
- - [Nvidia’s RTX 4070 / 4080 Super cards rumored for CES 2024 launch](https://www.theverge.com/2023/11/7/23950348/nvidia-rtx-4080-4070-super-ces-2024-launch-rumor)
- - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)
- - [Intel CEO Pat Gelsinger says the company&#39;s 18A chip design will move into test production by Q1 2024, part of its aims to reclaim chip leadership by 2025 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231107/p15#a231107p15)
- - [How a &#39;Foveated&#39; display boosts Apple Vision Pro headset refresh rates](https://appleinsider.com/articles/19/06/13/foveated-display-may-boost-apple-ar-headset-refresh-rates?utm_medium=rss)<!-- TECH:END -->
+ - [WeWork&#39;s bankruptcy caps a years-long saga for Masayoshi Son, who overrode lieutenants&#39; objections to hand Adam Neumann billions, losing SoftBank over $11.5B &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p17#a231107p17)
+ - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)
+ - [Lo &amp; Sons Nouvelle Purse Review &lpar;2023&rpar;: Recycled and Versatile](https://www.wired.com/review/lo-and-sons-nouvelle-purse/)
+ - [Eve&#39;s Motion Sensor Finally Made My Home Feel &#39;Smart&#39;](https://www.wired.com/story/eve-motion-sensor-rave/)
+ - [How to give yourself a break from your Android phone](https://www.theverge.com/23948646/android-phone-digital-wellbeing-focus-sleep-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

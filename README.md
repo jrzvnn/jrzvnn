@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grannies are the best](http://9gag.com/gag/aKE5Byj)
- - 😝 [If you know, you know what\u2019s going on.](http://9gag.com/gag/aeQwpA5)
- - 💣 [Interesting](http://9gag.com/gag/a7qXyqw)
- - 😝 [When reality becomes absurd](http://9gag.com/gag/aME5bN6)
- - 👉 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)<!-- MEMES:END -->
+ - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [Also what would you name it?](http://9gag.com/gag/aXn10yV)
+ - 💣 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
+ - 👉 [Thousands of German patriots in Dresden for a free and Christian Europe. Rise of the Fourth Reich?](http://9gag.com/gag/aOx5Vzv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Asus ROG Ally has fallen to an all-time low ahead of Black Friday](https://www.theverge.com/2023/11/7/23949043/asus-rog-ally-ember-smart-mug-philips-hue-festavia-christmas-lights-deal-sale)
+ - [The 19 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Reddit is starting to test its own add-ons for the platform](https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test)
  - [Google pushes an update for Pixel phones fixing security bugs and an Android 14 storage bug locking some owners, who use multiple profiles, out of their devices &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231107/p36#a231107p36)
- - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)
- - [Crunchyroll launches Game Vault with five mobile games, available for free to subscribers of its two higher-cost tiers, with a &quot;new wave of titles coming soon&quot; &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/231107/p34#a231107p34)
- - [How to use the new ProRAW options in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-proraw-options-in-ios-17?utm_medium=rss)
- - [IBM debuts a $500M enterprise AI venture fund, to invest in startups across stages, with no set target of annual investments or capital deployment timeline &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231107/p33#a231107p33)<!-- TECH:END -->
+ - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber reports Q3 revenue up 11% YoY to $9.3B, a $221M net income, gross bookings up 21% YoY to $35.3B, trips up 25% YoY to 2.4B, and a record 6.5M drivers &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231107/p13#a231107p13)
- - [Monokei Standard Keyboard review: Colorful and capable](https://appleinsider.com/articles/23/11/07/monokei-standard-keyboard-review-colorful-and-capable?utm_medium=rss)
- - [Tech and Games Can Help Curb Youth Suicide](https://www.wired.com/story/tech-video-games-youth-suicide/)
- - [How the Apple TV 4K Quickly Became My Favorite Streaming Device](https://www.wired.com/story/apple-tv-4k-rave/)
- - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)<!-- TECH:END -->
+ - [Barbra Streisand corrected Siri by calling Tim Cook](https://appleinsider.com/articles/23/11/07/barbra-streisand-corrected-siri-by-calling-tim-cook?utm_medium=rss)
+ - [Intel CEO Pat Gelsinger says the company&#39;s 18A chip design will move into test production by Q1 2024, part of its aims to reclaim chip leadership by 2025 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231107/p15#a231107p15)
+ - [How a &#39;Foveated&#39; display boosts Apple Vision Pro headset refresh rates](https://appleinsider.com/articles/19/06/13/foveated-display-may-boost-apple-ar-headset-refresh-rates?utm_medium=rss)
+ - [Popsocket lets people design their cases with AI](https://www.theverge.com/2023/11/7/23950345/popsocket-customize-generative-ai-phone-accessories)
+ - [Samsung launches a $99 S Pen Creator Edition in the US, offering a larger, Apple Pencil-like design while lacking some smart features from other S Pen models &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231107/p14#a231107p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

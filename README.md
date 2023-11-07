@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google pushes an update for Pixel phones fixing security bugs and an Android 14 storage bug locking some owners, who use multiple profiles, out of their devices &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231107/p36#a231107p36)
+ - [WhatsApp rolls out the ability to search for messages by date in its web client, to those enrolled in its beta program &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231107/p35#a231107p35)
  - [Crunchyroll launches Game Vault with five mobile games, available for free to subscribers of its two higher-cost tiers, with a &quot;new wave of titles coming soon&quot; &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/231107/p34#a231107p34)
  - [How to use the new ProRAW options in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-proraw-options-in-ios-17?utm_medium=rss)
- - [IBM debuts a $500M enterprise AI venture fund, to invest in startups across stages, with no set target of annual investments or capital deployment timeline &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231107/p33#a231107p33)
- - [The Microsoft for Startups Founders Hub previews for YC startups a new Nvidia GPU cluster option for AI in Azure and aims to expand access to startups in M12 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p32#a231107p32)
- - [Best Free TV Streaming Services: Pluto TV, Tubi, Freevee and More     - CNET](https://www.cnet.com/tech/services-and-software/best-free-tv-streaming-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IBM debuts a $500M enterprise AI venture fund, to invest in startups across stages, with no set target of annual investments or capital deployment timeline &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231107/p33#a231107p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

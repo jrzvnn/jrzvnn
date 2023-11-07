@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)
- - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 😝 [Its all lies!](http://9gag.com/gag/a9q0bxj)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 😝 [Anti-dad spell against him](http://9gag.com/gag/a2KpYPd)
+ - 😝 [This is the way forward.](http://9gag.com/gag/aME5bw1)
+ - 💣 [Darude fanstorm](http://9gag.com/gag/axowZMW)
+ - 😝 [Protect her at all costs](http://9gag.com/gag/az2wEdm)
+ - 👉 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)<!-- MEMES:END -->
 
 ---
 

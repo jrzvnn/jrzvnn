@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Big Tech cut thousands of trust and safety staff, Sero AI and other startups now offer the services for a fee, which experts say may not be as effective &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231107/p8#a231107p8)
+ - [What a Bloody San Francisco Street Brawl Tells Us About the Age of Citizen Surveillance](https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance/)
  - [Sources: Shein aims for an $80B to $90B valuation in its US IPO, far exceeding its $50B to $60B valuation in private trades; Shein was valued at $100B in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231107/p7#a231107p7)
  - [NXP Semiconductors reports Q3 revenue down 0.3% YoY to $3.43B, beating $3.4B est., and forecasts strong Q4 profit due to strong automotive and industrial demand &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231107/p6#a231107p6)
- - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)
- - [November SSDI Check 2023: More Payments Going Out This Week     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-more-payments-going-out-this-week/#ftag=CAD590a51e)
- - [An interview with Blizzard President Mike Ybarra about the studio&#39;s future under Microsoft, the idea of releasing a game without live components, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231107/p4#a231107p4)<!-- TECH:END -->
+ - [Sources: Intel scrapped a planned Vietnam investment in July 2023 that could have nearly doubled its operations, citing power supply and bureaucracy concerns &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/231107/p5#a231107p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

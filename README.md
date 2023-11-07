@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)
- - [Some new MacBook Pros are stuck on macOS Ventura -- but there&#39;s a fix](https://appleinsider.com/articles/23/11/07/some-new-macbook-pros-are-stuck-on-macos-ventura----but-theres-a-fix?utm_medium=rss)
- - [Zero Motorcycles expands lineup with an eye toward bringing in new riders](https://www.theverge.com/2023/11/7/23949263/zero-motorcycles-model-s-ds-dsr-price-specs)
- - [The Epic v. Google trial may come down to simple v. complicated](https://www.theverge.com/2023/11/7/23949849/epic-google-trial-day-one-recap-summary)
- - [12 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
+ - [Google Photos&#39; Magic Editor will now refuse to edit photos of ID cards, human faces and body parts, receipts, and other images of personally identifiable info &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231107/p24#a231107p24)
+ - [A Major Alarm Is Flashing Under Greenland’s Ice](https://www.wired.com/story/a-major-alarm-is-flashing-under-greenlands-ice/)
+ - [YouTube’s ad blocking crackdown is facing a new challenge: privacy laws](https://www.theverge.com/2023/11/7/23950513/youtube-ad-blocker-crackdown-privacy-advocates-eu)
+ - [The Verge’s 2023 Holiday Gift Guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
+ - [Google contractors objected to reading obscene Bard prompts — now they’re unionizing](https://www.theverge.com/2023/11/7/23950392/google-contractors-accenture-obscene-bard-prompts-unionizing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

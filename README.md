@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil &lpar;USB-C&rpar; review: A new budget option in a temporarily confusing lineup](https://appleinsider.com/articles/23/11/07/apple-pencil-usb-c-review-a-new-budget-option-in-a-temporarily-confusing-lineup?utm_medium=rss)
- - [Volante, which offers low-code payments tools used by 150 major banks and other institutions, raised $66M in equity and debt, taking its total funding to $116M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231107/p23#a231107p23)
- - [The Tech Coalition, including Discord, Google, Meta, Roblox, Snap, and Twitch, announce Lantern to help share &quot;signals&quot; on child sexual exploitation and abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p22#a231107p22)
- - [How to fix Touch ID problems on the Mac](https://appleinsider.com/inside/touch-id/tips/how-to-fix-touch-id-problems-on-the-mac?utm_medium=rss)
- - [Ahead of ex-Meta consultant Arturo B&amp;eacute;jar&#39;s Senate testimony, internal documents and sources detail debates over fostering growth while protecting young users &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/231107/p21#a231107p21)<!-- TECH:END -->
+ - [Zero Motorcycles expands lineup with an eye toward bringing in new riders](https://www.theverge.com/2023/11/7/23949263/zero-motorcycles-model-s-ds-dsr-price-specs)
+ - [The Epic v. Google trial may come down to simple v. complicated](https://www.theverge.com/2023/11/7/23949849/epic-google-trial-day-one-recap-summary)
+ - [12 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
+ - [19 Best Subscription Boxes to Gift &lpar;2023&rpar;: Services We Love](https://www.wired.com/gallery/best-subscription-gift-boxes/)
+ - [Barack Obama on AI, free speech, and the future of the internet](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

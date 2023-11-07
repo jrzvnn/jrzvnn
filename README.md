@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to use the new ProRAW options in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-proraw-options-in-ios-17?utm_medium=rss)
  - [IBM debuts a $500M enterprise AI venture fund, to invest in startups across stages, with no set target of annual investments or capital deployment timeline &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231107/p33#a231107p33)
  - [The Microsoft for Startups Founders Hub previews for YC startups a new Nvidia GPU cluster option for AI in Azure and aims to expand access to startups in M12 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231107/p32#a231107p32)
- - [WhatsApp head confirms in-app ads are still in the works](https://www.theverge.com/2023/11/7/23950795/meta-whatsapp-status-ads-sales-advertising-plans)<!-- TECH:END -->
+ - [Best Free TV Streaming Services: Pluto TV, Tubi, Freevee and More     - CNET](https://www.cnet.com/tech/services-and-software/best-free-tv-streaming-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

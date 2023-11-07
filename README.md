@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube&#39;s Ad Blocker Detection Believed to Break EU Privacy Law](https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/)
- - [An analysis of OpenAI&#39;s DevDay keynote: impressive live demos, the shift from plugins toward GPTs, Microsoft&#39;s role in making GPT-4 Turbo cheaper, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231107/p26#a231107p26)
- - [Waze rolls out crash history alerts for accident-prone roads](https://www.theverge.com/2023/11/7/23950441/google-waze-crash-history-alerts)
- - [Austin-based Black Ore, which builds AI tools for the financial services industry, emerges from stealth with a $60M combined Seed and Series A led by a16z &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/231107/p25#a231107p25)
- - [Ram’s new 1500 EV truck has ‘unlimited’ range, thanks to built-in gas generator](https://www.theverge.com/2023/11/7/23950416/ram-1500-ramcharger-ev-pickup-truck-gas-generator-announce)<!-- TECH:END -->
+ - [Apple brings &#39;High Power Mode&#39; to 14-inch MacBook Pro](https://appleinsider.com/articles/23/11/07/apple-brings-high-power-mode-to-14-inch-macbook-pro?utm_medium=rss)
+ - [Cloud monitoring company Datadog&#39;s stock jumps ~30% after reporting Q3 revenue rose 25% YoY to $547.5M, vs. $524M est., and forecasted Q4 sales beat estimates &lpar;CNBC&rpar;](http://www.techmeme.com/231107/p27#a231107p27)
+ - [Figma introduces FigJam AI to spare designers from boring planning prep](https://www.theverge.com/2023/11/7/23950667/figma-figjam-generative-ai-design-tools-beta-announcement)
+ - [Crunchyroll is adding mobile games to its subscription](https://www.theverge.com/2023/11/7/23949187/crunchyroll-mobile-game-subscription-anime)
+ - [YouTube&#39;s Ad Blocker Detection Believed to Break EU Privacy Law](https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

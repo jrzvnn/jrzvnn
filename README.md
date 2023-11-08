@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMac 24-inch M3 review: A clear sign that Intel Mac support is ending soon](https://appleinsider.com/articles/23/11/08/imac-24-inch-m3-review-a-clear-sign-that-intel-mac-support-is-ending-soon?utm_medium=rss)
+ - [How San Francisco&#39;s citizen surveillance culture, with incidents often posted to X, helped unravel the story of a bloody street attack, causing viral outrage &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/231108/p20#a231108p20)
  - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram?utm_medium=rss)
  - [Letters: Samsung, Qualcomm, and others oppose India&#39;s plan to use ATSC 3.0 to bring live TV to phones, saying the hardware changes will add $30+ to each device &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/231108/p19#a231108p19)
- - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)
- - [Amazon cuts the price of an annual One Medical membership from $199 to $99 for Prime users, part of its plans to significantly expand its health care footprint &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231108/p18#a231108p18)
- - [Christmas Shipping Deadlines 2023: When&#39;s the Last Day to Send Packages?     - CNET](https://www.cnet.com/how-to/christmas-shipping-deadlines-2023-whens-the-last-day-to-send-packages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

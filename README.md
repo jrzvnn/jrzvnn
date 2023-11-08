@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now get a PlayStation 5 with Spider-Man 2 thrown in free](https://www.theverge.com/2023/11/8/23952077/sony-playstation-ps5-spiderman-bundle-dualsense-controller-early-black-friday-deal-sale)
+ - [Ghostbusters: Frozen Empire’s first trailer has too much chill](https://www.theverge.com/23952296/ghostbusters-frozen-empire-teaser-trailer)
+ - [Apple Music celebrates Taylor Swift as the Artist of the Year for 2023](https://appleinsider.com/articles/23/11/08/apple-music-celebrates-taylor-swift-as-the-artist-of-the-year-for-2023?utm_medium=rss)
  - [Airbnb is finally adding support for smart locks to its app](https://www.theverge.com/2023/11/8/23952037/airbnb-winter-2023-update-smart-locks-guest-favorites)
- - [The CFTC says 47 of its 96 enforcement cases brought in 2023 were related to digital assets, including against SBF, Binance, CZ, Celsius, and Alex Mashinsky &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231108/p33#a231108p33)
- - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-3/)
- - [US DHS OIG report covering April 27 to August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)
- - [Disney&#39;s Lorcana: Rise of the Floodborn Finds Its Conscience With Its New Card     - CNET](https://www.cnet.com/culture/entertainment/lorcana-rise-of-the-floodborn-has-found-its-conscience-with-this-latest-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The CFTC says 47 of its 96 enforcement cases brought in 2023 were related to digital assets, including against SBF, Binance, CZ, Celsius, and Alex Mashinsky &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231108/p33#a231108p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

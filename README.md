@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ann Arbor-based autonomous vehicle startup May Mobility, backed by Toyota and BMW, raised a $105M Series D led by NTT Group, taking its total funding to $300M+ &lpar;Harri Weber/TechCrunch&rpar;](http://www.techmeme.com/231107/p50#a231107p50)
  - [Apple Watch AFib alert leads to diabetes diagnosis, saving a woman&#39;s life](https://appleinsider.com/articles/23/11/08/apple-watch-afib-alert-leads-to-diabetes-diagnosis-saving-a-womans-life?utm_medium=rss)
  - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
  - [Coupang reports Q3 net revenue up 21% YoY to $6.2B, vs. $5.9B est., net income of $91.3M, vs. $119M est., and active customers up 14% YoY to a record 20.4M+ &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p49#a231107p49)
- - [Best Sonos Deals: Save on the Move, Era 300, Room Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Source: Amazon is developing a new LLM, codenamed Olympus, which could be announced by December and may power new features for the online store, Alexa, and AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231107/p48#a231107p48)<!-- TECH:END -->
+ - [Best Sonos Deals: Save on the Move, Era 300, Room Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

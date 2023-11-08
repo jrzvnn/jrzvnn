@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada-based Photonic, which is building a fault-tolerant quantum computing platform, raised $100M from Microsoft and others, taking its total funding to $140M &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/231108/p41#a231108p41)
  - [Google expands its Search Generative Experience to 120+ new countries and territories and adds Spanish, Portuguese, Korean, and Indonesian language support &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p40#a231108p40)
  - [SSI Recipients Are Getting a COLA Increase This December. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-are-getting-a-cola-increase-this-december-heres-why/#ftag=CAD590a51e)
  - [EV Batteries Have a Dirty Secret. This Company Has a Plan to Clean Them Up](https://www.wired.com/story/wired-impact-northvolt-ev-batteries-sustainability/)
- - [Hands On With the RayNeo Air 2 XR Glasses: A Fun Traveling Companion     - CNET](https://www.cnet.com/tech/computing/hands-on-with-the-rayneo-air-2-xr-glasses-a-fun-traveling-companion/#ftag=CAD590a51e)
- - [Atlassian raises the severity rating of a vulnerability in its Confluence Data Center and Server to maximum, and confirms the flaw is being actively exploited &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231108/p39#a231108p39)<!-- TECH:END -->
+ - [Hands On With the RayNeo Air 2 XR Glasses: A Fun Traveling Companion     - CNET](https://www.cnet.com/tech/computing/hands-on-with-the-rayneo-air-2-xr-glasses-a-fun-traveling-companion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
  - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
  - [Adobe&#39;s site for stock images lists AI-generated images of the Israel-Palestine conflict, and some small outlets have used them without labeling them as AI &lpar;Matt Growcoot/PetaPixel&rpar;](http://www.techmeme.com/231108/p10#a231108p10)
  - [Grand Theft Auto 6 reveal reportedly happening this week, with trailer dropping in December](https://www.theverge.com/2023/11/8/23951922/grand-theft-auto-6-gta-announcement-trailer-reveal-release-date-rumor)
- - [How AI-driven robots and optical sorters are being used to pick up and sort recyclable trash, as US recyclers deal with labor shortages and rising costs &lpar;Dieter Holger/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p9#a231108p9)
- - [Here&#39;s How to Prepare for 2023&#39;s Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/heres-how-to-prepare-for-2023s-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How AI-driven robots and optical sorters are being used to pick up and sort recyclable trash, as US recyclers deal with labor shortages and rising costs &lpar;Dieter Holger/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p9#a231108p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

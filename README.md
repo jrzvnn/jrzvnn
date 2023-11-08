@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ex-NYSE President Tom Farley&#39;s crypto exchange Bullish, fintech startup Figure, and crypto VC Proof Group are competing to buy FTX &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231108/p25#a231108p25)
+ - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
+ - [HSBC partners with Ripple to offer institutional clients a custody service for digital assets, expected to launch in 2024, complementing its HSBC Orion service &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231108/p24#a231108p24)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [Amazon’s latest Prime perk is a $100 discount on One Medical](https://www.theverge.com/2023/11/8/23952017/amazon-one-medical-prime-discount)
- - [Apple 2024 Swift Student Challenge opens in February](https://appleinsider.com/articles/23/11/08/apple-2024-swift-student-challenge-opens-in-february?utm_medium=rss)
- - [MìLà&#39;s Soup Dumplings Review: Frozen, but Restaurant Fresh](https://www.wired.com/story/mila-soup-dumplings-rave/)
- - [Kicked Off Mint? Try These 5 Saving and Budgeting Apps](https://www.wired.com/story/finance-budget-investment-apps/)<!-- TECH:END -->
+ - [Amazon’s latest Prime perk is a $100 discount on One Medical](https://www.theverge.com/2023/11/8/23952017/amazon-one-medical-prime-discount)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

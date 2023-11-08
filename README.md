@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 😝 [What ??](http://9gag.com/gag/aKE5PZg)
+ - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
  - 💣 [Who the heck is running SVT?](http://9gag.com/gag/az2wjPq)
- - 😝 [Oh F**K, what a fantastic day for fishing!](http://9gag.com/gag/a2KpqbY)
- - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
+ - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
 
 ---
 

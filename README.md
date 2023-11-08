@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The GOP Presidential Debate Is Livestreaming on Rumble, Home to White Nationalist Nick Fuentes](https://www.wired.com/story/gop-debate-rumble-livestream-nick-fuentes/)
+ - [GitHub CEO Thomas Dohmke says Copilot has &quot;growing positive margins&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231108/p36#a231108p36)
  - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
  - [New Jersey Keeps Newborn DNA for 23 Years. Parents Are Suing](https://www.wired.com/story/new-jersey-keeps-newborn-dna-for-23-years-parents-are-suing/)
- - [Kevin Feige’s Star Wars film is no longer happening](https://www.theverge.com/2023/11/8/23952215/marvel-kevin-feige-star-wars-films-patty-jenkins-canceled)
- - [SiriusXM has a new app, a new logo, and new audience to conquer](https://www.theverge.com/2023/11/8/23952400/siriusxm-new-app-logo-mobile-car-pandora-podcasts)
- - [Anthropic will use Google&#39;s Cloud TPU v5e chips to help power its LLM Claude; sources: Anthropic agreed to spend $3B+ on Google&#39;s cloud services over four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/231108/p35#a231108p35)<!-- TECH:END -->
+ - [Kevin Feige’s Star Wars film is no longer happening](https://www.theverge.com/2023/11/8/23952215/marvel-kevin-feige-star-wars-films-patty-jenkins-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
- - 💣 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
+ - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [Innovative packaging](http://9gag.com/gag/aGE5DQ0)
+ - 👉 [Cursed Title](http://9gag.com/gag/aGE5VO5)<!-- MEMES:END -->
 
 ---
 

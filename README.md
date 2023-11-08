@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
- - 😝 [Magical Nephew](http://9gag.com/gag/az2wjWx)
- - 💣 [Too smart for Harvard Business School](http://9gag.com/gag/aQE58XW)
- - 😝 [Halloween Winners](http://9gag.com/gag/aXn19X6)
- - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
+ - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
+ - 😝 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 

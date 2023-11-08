@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 😝 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)
- - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
+ - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
+ - 💣 [To denounce Islamophobia, the Italian leftist artist Pippa Bacca decided to hitchhike across the Middle East, in order to prove that its inhabitants were peaceful. Once she arrived in Turkey, she was raped and murdered. She was 33 years old.](http://9gag.com/gag/ajVw0Ww)
+ - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 👉 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)<!-- MEMES:END -->
 
 ---
 

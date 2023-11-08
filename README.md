@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 😝 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
  - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
  - 💣 [Why do women do this?](http://9gag.com/gag/amAwrZV)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
+ - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
 
 ---
 

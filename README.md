@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb plans to revamp guest reviews, adding a new top-rated badge and tools to communicate more information about properties, as part of its winter update &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231108/p27#a231108p27)
+ - [Cruise is recalling 950 driverless cars after one of its vehicles ran over a pedestrian](https://www.theverge.com/2023/11/8/23952051/cruise-recall-950-driverless-cars-pedestrian-crash-injury)
  - [WhatsApp now lets iOS and Android users hide their location during calls by relaying the connection through its servers to obfuscate IP address metadata &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231108/p26#a231108p26)
  - [Sources: ex-NYSE President Tom Farley&#39;s crypto exchange Bullish, fintech startup Figure, and crypto VC Proof Group are competing to buy FTX &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231108/p25#a231108p25)
- - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
- - [HSBC partners with Ripple to offer institutional clients a custody service for digital assets, expected to launch in 2024, complementing its HSBC Orion service &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231108/p24#a231108p24)
- - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)<!-- TECH:END -->
+ - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

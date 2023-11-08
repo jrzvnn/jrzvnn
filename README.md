@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US watchdog wants Apple Pay regulated like a bank](https://appleinsider.com/articles/23/11/08/us-watchdog-wants-apple-pay-regulated-like-a-bank?utm_medium=rss)
- - [Sources: Sequoia Capital China, ZhenFund, and other big Chinese VCs have quietly invested in US AI startups in the past year, undeterred by US security concerns &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231108/p16#a231108p16)
- - [Google now tries getting EU to force open iMessage](https://appleinsider.com/articles/23/11/08/google-now-tries-getting-eu-to-force-open-imessage?utm_medium=rss)
- - [Microsoft and Oracle sign a multi-year deal to &quot;support the explosive growth of AI services&quot;, meaning Microsoft can access Oracle&#39;s Nvidia A100s and H100 GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231108/p15#a231108p15)
- - [Meta plans to require advertisers to disclose running political ads with media altered by AI or other software, starting in early 2024, ahead of the US election &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p14#a231108p14)<!-- TECH:END -->
+ - [Amazon cuts the price of an annual One Medical membership from $199 to $99 for Prime users, part of its plans to significantly expand its health care footprint &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231108/p18#a231108p18)
+ - [Apple HomeKit Secure Video: Pros and Cons](https://www.wired.com/story/apple-homekit-secure-video-pros-and-cons/)
+ - [Every Game Should Let You Cross-Save](https://www.wired.com/story/every-game-should-let-you-cross-save/)
+ - [How a Scientist and Cartoonist Envision Living on the Moon and Mars](https://www.wired.com/story/how-a-scientist-and-cartoonist-envision-living-on-the-moon-and-mars/)
+ - [Source: in a letter to staff, ByteDance offers to buy back stock at $160 per share, up from $155 in April 2023; ByteDance says the goal is to provide liquidity &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231108/p17#a231108p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

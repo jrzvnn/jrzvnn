@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp can now hide your IP address during calls for added security](https://www.theverge.com/2023/11/8/23952156/whatsapp-protect-ip-address-calls-feature)
+ - [Daily deals Nov. 8: $69 AirPods, $949 M2 MacBook Air, $78.99 HomePod mini, more](https://appleinsider.com/articles/23/11/08/daily-deals-nov-8-69-airpods-949-m2-macbook-air-7899-homepod-mini-more?utm_medium=rss)
  - [Google staff sign an open letter accusing the company of limiting pro-Palestinian speech and objecting to Project Nimbus, a $1.2B contract to supply Israel &lpar;New York Times&rpar;](http://www.techmeme.com/231108/p30#a231108p30)
  - [OpenAI reports a ChatGPT and API &quot;major outage&quot;, ongoing since 6AM PT, and plans a fix; users were greeted with a &quot;ChatGPT is at capacity right now&quot; message &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231108/p29#a231108p29)
- - [Apple iMac M3 review: searching for a purpose](https://www.theverge.com/23951082/apple-imac-m3-review-24-inch)
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable?utm_medium=rss)<!-- TECH:END -->
+ - [Anker Soundcore Motion 300 Bluetooth Speaker Review: The Price Is Right     - CNET](https://www.cnet.com/tech/mobile/anker-soundcore-motion-300-bluetooth-speaker-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

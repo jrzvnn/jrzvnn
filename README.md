@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 😝 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
  - 💣 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)<!-- MEMES:END -->
+ - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
 
 ---
 

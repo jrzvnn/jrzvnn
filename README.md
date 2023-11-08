@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Roblox reports Q3 bookings up 20% YoY to $839.5M, beating $822M est., $81.1M EBITDA, revenue up 38% YoY to $713.2M, and DAUs up 20% YoY to 70.2M; RBLX jumps 13% &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/231108/p22#a231108p22)
  - [Spotify now offers US paid subscribers access to 15 hours of free audiobooks per month, after launching the service in the UK and Australia on October 3 &lpar;Caitlin Huston/Hollywood Reporter&rpar;](http://www.techmeme.com/231108/p21#a231108p21)
  - [Grand Theft Auto VI’s first trailer will debut in December](https://www.theverge.com/23732775/grand-theft-auto-6-gta-trailer-debut)
- - [Peloton Row Review: A Nearly Perfect Rowing Machine With a Too-High Price](https://www.wired.com/review/peloton-row/)
- - [REI Co-op 650 Down Jacket Review: Best Value](https://www.wired.com/review/rei-co-op-650-down-jacket/)<!-- TECH:END -->
+ - [How to Download Discord and Join Servers     - CNET](https://www.cnet.com/tech/services-and-software/how-to-download-discord-and-join-servers/#ftag=CAD590a51e)
+ - [All iPhone 15 Phones Compared: Base vs. Plus vs. Pro vs. Pro Max     - CNET](https://www.cnet.com/tech/mobile/all-iphone-15-models-compared-base-vs-plus-vs-pro-vs-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

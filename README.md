@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Iranian holds `Hamas is Terrorist` sign in middle of Pro-Gaza protests.](http://9gag.com/gag/a1PjMRG)
- - 😝 [True.](http://9gag.com/gag/agowGZq)
- - 💣 [Son&#39;s surprise visit to mom after many years](http://9gag.com/gag/avQwP4W)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 💣 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [True Love](http://9gag.com/gag/a4oyj6A)<!-- MEMES:END -->
+ - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
 
 ---
 

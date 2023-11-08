@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 💣 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 😝 [True.](http://9gag.com/gag/agowGZq)
+ - 😝 [An Iranian holds `Hamas is Terrorist` sign in middle of Pro-Gaza protests.](http://9gag.com/gag/a1PjMRG)
+ - 💣 [True Love](http://9gag.com/gag/a4oyj6A)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 👉 [Son&#39;s surprise visit to mom after many years](http://9gag.com/gag/avQwP4W)<!-- MEMES:END -->
 
 ---
 

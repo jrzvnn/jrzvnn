@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
+ - [Samsung unveils a generative AI model called Gauss, which is being used for employee productivity internally and will be expanded to product applications &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/231107/p51#a231107p51)
  - [Postscript is gone, long live TrueType and OpenType](https://appleinsider.com/articles/23/11/08/postscript-is-gone-long-live-truetype-and-opentype?utm_medium=rss)
  - [Ann Arbor-based autonomous vehicle startup May Mobility, backed by Toyota and BMW, raised a $105M Series D led by NTT Group, taking its total funding to $300M+ &lpar;Harri Weber/TechCrunch&rpar;](http://www.techmeme.com/231107/p50#a231107p50)
- - [Best OnePlus Open Deals: Save Up to $1,200 on a Sleek New Foldable Phone With Trade-In     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)
- - [Apple Watch AFib alert leads to diabetes diagnosis, saving a woman&#39;s life](https://appleinsider.com/articles/23/11/08/apple-watch-afib-alert-leads-to-diabetes-diagnosis-saving-a-womans-life?utm_medium=rss)
- - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)<!-- TECH:END -->
+ - [Best OnePlus Open Deals: Save Up to $1,200 on a Sleek New Foldable Phone With Trade-In     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

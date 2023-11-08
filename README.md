@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FDA Approves Weight Loss Drug Zepbound, a Wegovy and Ozempic Rival](https://www.wired.com/story/fda-approves-weight-loss-drug-zepbound-wegovy-and-ozempic-rival/)
+ - [Apple Watch Ultra saves unconscious diabetic&#39;s life thanks to fall detection dialing 911](https://appleinsider.com/articles/23/11/08/apple-watch-ultra-saves-unconscious-diabetics-life-thanks-to-fall-detection-dialing-911?utm_medium=rss)
+ - [Lyft reports Q3 revenue up 10% YoY to $1.16B vs. $1.14B est., a $12.1M net loss, active riders up 10% to 22.4M, and forecasts Q4 adjusted core profit above est. &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231108/p43#a231108p43)
  - [Arm reports Q2 revenue up 28% YoY to $806M, vs. $744.3M est., and license revenue up 106% YoY to $388M, but its Q3 guidance falls short of expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231108/p42#a231108p42)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [What is Google trying to hide in its deal with Spotify?](https://www.theverge.com/2023/11/8/23952478/epic-google-play-spotify-user-choice-billing)
- - [Canada-based Photonic, which is building a fault-tolerant quantum computing platform, raised $100M from Microsoft and others, taking its total funding to $140M &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/231108/p41#a231108p41)
- - [Google expands its Search Generative Experience to 120+ new countries and territories and adds support for Spanish, Portuguese, Korean, and Indonesian languages &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p40#a231108p40)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

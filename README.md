@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US DHS OIG report covering April 27 and August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)
  - [Rockstar plans to begin promoting Grand Theft Auto VI, expected to be one of the decade&#39;s biggest video games, in December, coinciding with its 25th anniversary &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231108/p31#a231108p31)
  - [Captain Laserhawk’s Adi Shankar on multiverses, AI, and Rayman propaganda](https://www.theverge.com/23945342/captain-laserhawk-adi-shankar-netflix-rayman)
  - [Ikea launches its first smart LED strip at the right price](https://www.theverge.com/2023/11/8/23952022/ikea-ormanas-rgb-led-light-strip-dirigera-homekit-compatible)
- - [WhatsApp can now hide your IP address during calls for added security](https://www.theverge.com/2023/11/8/23952156/whatsapp-protect-ip-address-calls-feature)
- - [Daily deals Nov. 8: $69 AirPods, $949 M2 MacBook Air, $78.99 HomePod mini, more](https://appleinsider.com/articles/23/11/08/daily-deals-nov-8-69-airpods-949-m2-macbook-air-7899-homepod-mini-more?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp can now hide your IP address during calls for added security](https://www.theverge.com/2023/11/8/23952156/whatsapp-protect-ip-address-calls-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

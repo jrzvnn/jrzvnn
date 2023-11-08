@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US DHS OIG report covering April 27 and August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)
- - [Rockstar plans to begin promoting Grand Theft Auto VI, expected to be one of the decade&#39;s biggest video games, in December, coinciding with its 25th anniversary &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231108/p31#a231108p31)
- - [Captain Laserhawk’s Adi Shankar on multiverses, AI, and Rayman propaganda](https://www.theverge.com/23945342/captain-laserhawk-adi-shankar-netflix-rayman)
- - [Ikea launches its first smart LED strip at the right price](https://www.theverge.com/2023/11/8/23952022/ikea-ormanas-rgb-led-light-strip-dirigera-homekit-compatible)
- - [WhatsApp can now hide your IP address during calls for added security](https://www.theverge.com/2023/11/8/23952156/whatsapp-protect-ip-address-calls-feature)<!-- TECH:END -->
+ - [Airbnb is finally adding support for smart locks to its app](https://www.theverge.com/2023/11/8/23952037/airbnb-winter-2023-update-smart-locks-guest-favorites)
+ - [The CFTC says 47 of its 96 enforcement cases brought in 2023 were related to digital assets, including against SBF, Binance, CZ, Celsius, and Alex Mashinsky &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231108/p33#a231108p33)
+ - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-3/)
+ - [US DHS OIG report covering April 27 to August 17: &quot;thousands&quot; of apps installed on ICE-managed devices, likely including TikTok, may compromise DHS security &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231108/p32#a231108p32)
+ - [Disney&#39;s Lorcana: Rise of the Floodborn Finds Its Conscience With Its New Card     - CNET](https://www.cnet.com/culture/entertainment/lorcana-rise-of-the-floodborn-has-found-its-conscience-with-this-latest-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

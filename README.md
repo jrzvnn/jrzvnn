@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does the deed but doesn&#39;t want to be famous...](http://9gag.com/gag/aoKw9eg)
- - 😝 [How come the tires didn&#39;t explode?](http://9gag.com/gag/aPg2G6P)
- - 💣 [Just 5 minutes he said](http://9gag.com/gag/awZ2rp4)
- - 😝 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)
- - 👉 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)<!-- MEMES:END -->
+ - 😝 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
+ - 💣 [He slapped the 1st Amendment right out her mouth](http://9gag.com/gag/amAw9Qj)
+ - 😝 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
+ - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise recalls all 950 of its autonomous cars to update their software after one dragged a pedestrian to the side of a San Francisco street in early October &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/231108/p28#a231108p28)
  - [Airbnb plans to revamp guest reviews, adding a new top-rated badge and tools to communicate more information about properties, as part of its winter update &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231108/p27#a231108p27)
  - [Cruise is recalling 950 driverless cars after one of its vehicles ran over a pedestrian](https://www.theverge.com/2023/11/8/23952051/cruise-recall-950-driverless-cars-pedestrian-crash-injury)
  - [WhatsApp now lets iOS and Android users hide their location during calls by relaying the connection through its servers to obfuscate IP address metadata &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231108/p26#a231108p26)
- - [Sources: ex-NYSE President Tom Farley&#39;s crypto exchange Bullish, fintech startup Figure, and crypto VC Proof Group are competing to buy FTX &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231108/p25#a231108p25)
- - [This smart garage door controller is no longer very smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)<!-- TECH:END -->
+ - [Sources: ex-NYSE President Tom Farley&#39;s crypto exchange Bullish, fintech startup Figure, and crypto VC Proof Group are competing to buy FTX &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231108/p25#a231108p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

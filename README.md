@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Amazon is developing a new LLM, codenamed Olympus, which could be announced by December and may power new features for the online store, Alexa, and AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231107/p48#a231107p48)
  - [Sources: employees at X are increasingly being asked to spend time working on xAI initiatives, as xAI is using GPUs that once belonged to Twitter &lpar;Platformer&rpar;](http://www.techmeme.com/231107/p47#a231107p47)
  - [Best Apple Watch Bands for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)
  - [Document: Coatue cut the value of its $120M stake in OpenSea to $13M as of Q2 2023, implying a valuation of $1.4B or less, down from $13.3B in January 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231107/p46#a231107p46)
- - [Best Pixel 7 and Pixel 7 Pro Deals: $100 Off Pixel 7, Trade-In Savings and More     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
- - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)<!-- TECH:END -->
+ - [Best Pixel 7 and Pixel 7 Pro Deals: $100 Off Pixel 7, Trade-In Savings and More     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

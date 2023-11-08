@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
+ - 😝 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
+ - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
  - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 💣 [He slapped the 1st Amendment right out her mouth](http://9gag.com/gag/amAw9Qj)
- - 😝 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 👉 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 

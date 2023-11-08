@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EV Batteries Have a Dirty Secret. This Company Has a Plan to Clean Them Up](https://www.wired.com/story/wired-impact-northvolt-ev-batteries-sustainability/)
+ - [Atlassian raises the severity rating of a vulnerability in its Confluence Data Center and Server to maximum, and confirms the flaw is being actively exploited &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231108/p39#a231108p39)
  - [YouTube pages are getting a TikTok-like For You feed](https://www.theverge.com/2023/11/8/23952539/youtube-for-you-channel-personalized-mix)
  - [Apple shares trailer ahead of Hannah Waddingham holiday special on November 22](https://appleinsider.com/articles/23/11/08/apple-shares-trailer-ahead-of-hannah-waddingham-holiday-special-on-november-22?utm_medium=rss)
- - [Where to preorder the PlayStation Portal ahead of its launch next week](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
- - [Sources: Microsoft plans to add Windows Copilot to Windows 10 in an update coming soon, after adding the AI assistant to Windows 11 in September &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231108/p38#a231108p38)
- - [AirPods drop to record low $69 with Black Friday deal you can buy today](https://appleinsider.com/articles/23/11/08/airpods-drop-to-record-low-69-with-black-friday-deal-you-can-buy-today?utm_medium=rss)<!-- TECH:END -->
+ - [Where to preorder the PlayStation Portal ahead of its launch next week](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

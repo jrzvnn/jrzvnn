@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take-Two reports Q2 net bookings down 4% YoY to $1.44B, net revenue down 7% YoY to $1.3B, and forecasts Q3 net bookings below expectations &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231108/p44#a231108p44)
+ - [Microsoft won’t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
  - [The FDA Approves Weight Loss Drug Zepbound, a Wegovy and Ozempic Rival](https://www.wired.com/story/fda-approves-weight-loss-drug-zepbound-wegovy-and-ozempic-rival/)
  - [Apple Watch Ultra saves unconscious diabetic&#39;s life thanks to fall detection dialing 911](https://appleinsider.com/articles/23/11/08/apple-watch-ultra-saves-unconscious-diabetics-life-thanks-to-fall-detection-dialing-911?utm_medium=rss)
- - [Lyft reports Q3 revenue up 10% YoY to $1.16B vs. $1.14B est., a $12.1M net loss, active riders up 10% to 22.4M, and forecasts Q4 adjusted core profit above est. &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231108/p43#a231108p43)
- - [Arm reports Q2 revenue up 28% YoY to $806M, vs. $744.3M est., and license revenue up 106% YoY to $388M, but its Q3 guidance falls short of expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231108/p42#a231108p42)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
+ - [Lyft reports Q3 revenue up 10% YoY to $1.16B vs. $1.14B est., a $12.1M net loss, active riders up 10% to 22.4M, and forecasts Q4 adjusted core profit above est. &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231108/p43#a231108p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)
+ - [Google adds generative AI features to its Performance Max ad platform, rolling out first as a beta to all US advertisers by the end of the year &lpar;Matt G. Southern/Search Engine Journal&rpar;](http://www.techmeme.com/231107/p45#a231107p45)
  - [LG’s new ultrawide monitors are a little smaller and a little cheaper](https://www.theverge.com/2023/11/7/23951349/lg-ultragear-45-inch-curved-gaming-monitors)
  - [Google is is bringing generative AI to advertisers](https://www.theverge.com/2023/11/7/23951220/google-performance-max-ai-generated-ads-campaign)
- - [Q&amp;A with Barack Obama on regulating social media and AI, privacy bills, Biden&#39;s EO on AI, incumbents embracing AI regulation, generative AI IP issues, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231107/p44#a231107p44)
- - [Australian mobile network Optus is suffering an outage impacting millions of customers, including major hospitals and Melbourne&#39;s Metro Trains &lpar;ABC&rpar;](http://www.techmeme.com/231107/p43#a231107p43)
- - [Sources: USDC stablecoin issuer Circle is considering an IPO early in 2024; Circle was valued at $9B when it tried to go public via SPAC in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231107/p42#a231107p42)<!-- TECH:END -->
+ - [Q&amp;A with Barack Obama on regulating social media and AI, privacy bills, Biden&#39;s EO on AI, incumbents embracing AI regulation, generative AI IP issues, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231107/p44#a231107p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

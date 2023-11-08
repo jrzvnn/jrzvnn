@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
  - [Leica helped Xiaomi create a flagship phone that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some elements of iOS &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)
  - [As TSMC shifts more production outside Taiwan, a look the domestic chip industry&#39;s increasingly fraught complaints about land shortages across the island &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231108/p6#a231108p6)
  - [In a comment submitted to the US Copyright Office, the FTC warned that generative AI has enabled potential copyright infringement and consumer deception &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/231108/p5#a231108p5)
- - [Cast AI, whose automation tools help companies monitor, manage, and optimize Kubernetes spend, raised a $35M Series B, bringing its total funding to $73M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231108/p4#a231108p4)
- - [In a letter, Google and EU telcos called on the European Commission to designate iMessage as a &quot;core&quot; service to make the chat app fully compatible with rivals &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231108/p3#a231108p3)<!-- TECH:END -->
+ - [Cast AI, whose automation tools help companies monitor, manage, and optimize Kubernetes spend, raised a $35M Series B, bringing its total funding to $73M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231108/p4#a231108p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

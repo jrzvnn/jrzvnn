@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As TSMC shifts more production outside Taiwan, a look the domestic chip industry&#39;s increasingly fraught complaints about land shortages across the island &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231108/p6#a231108p6)
  - [In a comment submitted to the US Copyright Office, the FTC warned that generative AI has enabled potential copyright infringement and consumer deception &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/231108/p5#a231108p5)
  - [Cast AI, whose automation tools help companies monitor, manage, and optimize Kubernetes spend, raised a $35M Series B, bringing its total funding to $73M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231108/p4#a231108p4)
  - [In a letter, Google and EU telcos called on the European Commission to designate iMessage as a &quot;core&quot; service to make the chat app fully compatible with rivals &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231108/p3#a231108p3)
- - [Tesla Solar Roof Review: A Sleek Look That Comes at a Stiff Price     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-roof-is-the-sleekest-solar-option-your-best-one/#ftag=CAD590a51e)
- - [Epic v. Google: internal documents show Activision Blizzard accepted $360M in incentives from Google in 2020 to ensure its games launched on the Play Store &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231108/p2#a231108p2)<!-- TECH:END -->
+ - [Tesla Solar Roof Review: A Sleek Look That Comes at a Stiff Price     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-roof-is-the-sleekest-solar-option-your-best-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

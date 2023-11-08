@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Resident Evil 4&#39; unleashes horror on iPhone 15 Pro, iPad, and Mac on December 20](https://appleinsider.com/articles/23/11/08/resident-evil-4-unleashes-horror-on-iphone-15-pro-ipad-and-mac-on-december-20?utm_medium=rss)
+ - [GitHub plans to release a Copilot Enterprise plan that lets companies customize for their codebase, available from February 2024 for $39/month per user &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231108/p34#a231108p34)
  - [How to watch the third Republican debate](https://www.theverge.com/2023/11/8/23952218/how-to-watch-gop-republican-debate-trump-desantis-vivek)
  - [Lego’s three-foot-tall Avengers Tower comes packed with Marvel minifigs](https://www.theverge.com/2023/11/8/23952172/lego-avengers-tower-minifigs-release-date-price)
- - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)
- - [Maybe &lpar;HBO&rpar; Max Just Isn’t Worth It](https://www.wired.com/story/warner-bros-discovery-max-loses-subscribers/)
- - [You can now get a PlayStation 5 with Spider-Man 2 thrown in free](https://www.theverge.com/2023/11/8/23952077/sony-playstation-ps5-spiderman-bundle-dualsense-controller-early-black-friday-deal-sale)<!-- TECH:END -->
+ - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

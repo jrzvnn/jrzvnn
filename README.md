@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable?utm_medium=rss)
- - [ChatGPT is currently down in a ‘major’ OpenAI outage](https://www.theverge.com/2023/11/8/23952129/chatgpt-down-openai-api-major-outage)
- - [Cruise recalls all 950 of its autonomous cars to update their software after one dragged a pedestrian to the side of a San Francisco street in early October &lpar;Tom Krisher/Associated Press&rpar;](http://www.techmeme.com/231108/p28#a231108p28)
- - [Airbnb plans to revamp guest reviews, adding a new top-rated badge and tools to communicate more information about properties, as part of its winter update &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231108/p27#a231108p27)
- - [Cruise is recalling 950 driverless cars after one of its vehicles ran over a pedestrian](https://www.theverge.com/2023/11/8/23952051/cruise-recall-950-driverless-cars-pedestrian-crash-injury)<!-- TECH:END -->
+ - [Google staff sign an open letter accusing the company of limiting pro-Palestinian speech and objecting to Project Nimbus, a $1.2B contract to supply Israel &lpar;New York Times&rpar;](http://www.techmeme.com/231108/p30#a231108p30)
+ - [OpenAI reports a ChatGPT and API &quot;major outage&quot;, ongoing since 6AM PT, and plans a fix; users were greeted with a &quot;ChatGPT is at capacity right now&quot; message &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231108/p29#a231108p29)
+ - [Apple iMac M3 review: searching for a purpose](https://www.theverge.com/23951082/apple-imac-m3-review-24-inch)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

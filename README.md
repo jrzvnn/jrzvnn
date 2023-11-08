@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supply chain: OLED iPad Pro display production begins in February](https://appleinsider.com/articles/23/11/08/supply-chain-oled-ipad-pro-display-production-begins-in-february?utm_medium=rss)
  - [Docs: Humane&#39;s $699 AI Pin will have a $24/month subscription including a phone number, cell data, cloud storage, and access to Microsoft and OpenAI AI models &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231108/p48#a231108p48)
  - [Popular Lego marketplace went offline after a ‘ransom’ demand](https://www.theverge.com/2023/11/8/23952782/bricklink-lego-marketplace-back-online-ransom-demand)
  - [Exclusive leak: all the details about Humane’s AI Pin, which costs $699 and has OpenAI integration](https://www.theverge.com/2023/11/8/23953022/humane-ai-pin-price-specs-leak)
- - [Disney CEO Bob Iger says a beta test of an app combining Disney+ and Hulu will launch in December 2023 and an official launch will follow in spring 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231108/p47#a231108p47)
- - [Unsealed court documents allegedly show how Mark Zuckerberg repeatedly thwarted initiatives meant to improve the well-being of teens on Facebook and Instagram &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231108/p46#a231108p46)<!-- TECH:END -->
+ - [Disney CEO Bob Iger says a beta test of an app combining Disney+ and Hulu will launch in December 2023 and an official launch will follow in spring 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231108/p47#a231108p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

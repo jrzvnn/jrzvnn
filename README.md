@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Nintendo&#39;s movie push, as the company partners with Sony to work on a live-action Zelda movie, after the huge success of The Super Mario Bros. Movie &lpar;Gearoid Reidy/Bloomberg&rpar;](http://www.techmeme.com/231108/p13#a231108p13)
  - [Binance releases a self-custody crypto wallet within its app, letting users &quot;swap thousands of tokens across&quot; more than 30 networks &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231108/p12#a231108p12)
  - [Samsung’s Galaxy S24 will likely include on-device generative AI called Samsung Gauss](https://www.theverge.com/2023/11/8/23951930/samsung-galaxy-s24-generative-ai-model-samsung-gauss)
  - [Signal Booster: 10 Easy Ways To Enhance Your Cellphone Reception on Your Apple or Android Phone     - CNET](https://www.cnet.com/tech/mobile/signal-booster-10-easy-ways-to-enhance-your-cellphone-reception-on-your-apple-or-android-phone/#ftag=CAD590a51e)
- - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)
- - [Here&#39;s How to Order Free COVID Tests From the USPS     - CNET](https://www.cnet.com/health/heres-how-to-order-free-covid-tests-from-the-usps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of the 2024 US election, Microsoft plans to offer a new free tool to help US politicians fight deepfakes by authenticating their videos and photos &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231108/p11#a231108p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

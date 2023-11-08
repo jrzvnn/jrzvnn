@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [What ??](http://9gag.com/gag/aKE5PZg)
  - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
  - 💣 [Who the heck is running SVT?](http://9gag.com/gag/az2wjPq)
- - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
+ - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
+ - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
 
 ---
 

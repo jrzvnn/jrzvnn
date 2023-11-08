@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple shares trailer ahead of Hannah Waddingham holiday special on November 22](https://appleinsider.com/articles/23/11/08/apple-shares-trailer-ahead-of-hannah-waddingham-holiday-special-on-november-22?utm_medium=rss)
  - [Where to preorder the PlayStation Portal ahead of its launch next week](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
  - [Sources: Microsoft plans to add Windows Copilot to Windows 10 in an update coming soon, after adding the AI assistant to Windows 11 in September &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231108/p38#a231108p38)
- - [This HP Core i5 15-inch Laptop Is Down to $329 at Walmart Today     - CNET](https://www.cnet.com/deals/this-hp-core-i5-15-inch-laptop-is-down-to-329-at-walmart-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods drop to record low $69 with Black Friday deal you can buy today](https://appleinsider.com/articles/23/11/08/airpods-drop-to-record-low-69-with-black-friday-deal-you-can-buy-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

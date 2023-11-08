@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia Capital China, ZhenFund, and other big Chinese VCs have quietly invested in US AI startups in the past year, undeterred by US security concerns &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231108/p16#a231108p16)
  - [Google now tries getting EU to force open iMessage](https://appleinsider.com/articles/23/11/08/google-now-tries-getting-eu-to-force-open-imessage?utm_medium=rss)
  - [Microsoft and Oracle sign a multi-year deal to &quot;support the explosive growth of AI services&quot;, meaning Microsoft can access Oracle&#39;s Nvidia A100s and H100 GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231108/p15#a231108p15)
  - [Meta plans to require advertisers to disclose running political ads with media altered by AI or other software, starting in early 2024, ahead of the US election &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p14#a231108p14)
- - [Apple HomeKit Secure Video: Pros and Cons](https://www.wired.com/story/apple-homekit-secure-video-pros-and-cons/)
- - [This Is the Ops Manual for the Most Tech-Savvy Animal Liberation Group in the US](https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/)<!-- TECH:END -->
+ - [Apple HomeKit Secure Video: Pros and Cons](https://www.wired.com/story/apple-homekit-secure-video-pros-and-cons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instacart reports Q3 revenue up 14% YoY to $764M, adjusted EBITDA up 120% to $163M vs. $119.5M est., and gross transaction value up 6% to $7.49B vs. $7.42B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231108/p45#a231108p45)
  - [Take-Two reports Q2 net bookings down 4% YoY to $1.44B, net revenue down 7% YoY to $1.3B, and forecasts Q3 net bookings below expectations &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231108/p44#a231108p44)
  - [Microsoft won’t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
  - [The FDA Approves Weight Loss Drug Zepbound, a Wegovy and Ozempic Rival](https://www.wired.com/story/fda-approves-weight-loss-drug-zepbound-wegovy-and-ozempic-rival/)
- - [Apple Watch Ultra saves unconscious diabetic&#39;s life thanks to fall detection dialing 911](https://appleinsider.com/articles/23/11/08/apple-watch-ultra-saves-unconscious-diabetics-life-thanks-to-fall-detection-dialing-911?utm_medium=rss)
- - [Lyft reports Q3 revenue up 10% YoY to $1.16B vs. $1.14B est., a $12.1M net loss, active riders up 10% to 22.4M, and forecasts Q4 adjusted core profit above est. &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231108/p43#a231108p43)<!-- TECH:END -->
+ - [Apple Watch Ultra saves unconscious diabetic&#39;s life thanks to fall detection dialing 911](https://appleinsider.com/articles/23/11/08/apple-watch-ultra-saves-unconscious-diabetics-life-thanks-to-fall-detection-dialing-911?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

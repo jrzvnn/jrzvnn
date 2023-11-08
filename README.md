@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Watch AFib alert leads to diabetes diagnosis, saving a woman&#39;s life](https://appleinsider.com/articles/23/11/08/apple-watch-afib-alert-leads-to-diabetes-diagnosis-saving-a-womans-life?utm_medium=rss)
  - [Coupang reports Q3 net revenue up 21% YoY to $6.2B, vs. $5.9B est., net income of $91.3M, vs. $119M est., and active customers up 14% YoY to a record 20.4M+ &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231107/p49#a231107p49)
+ - [Best Sonos Deals: Save on the Move, Era 300, Room Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
  - [Source: Amazon is developing a new LLM, codenamed Olympus, which could be announced by December and may power new features for the online store, Alexa, and AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231107/p48#a231107p48)
- - [Sources: employees at X are increasingly being asked to spend time working on xAI initiatives, as xAI is using GPUs that once belonged to Twitter &lpar;Platformer&rpar;](http://www.techmeme.com/231107/p47#a231107p47)
- - [Best Apple Watch Bands for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: employees at X are increasingly being asked to spend time working on xAI initiatives, as xAI is using GPUs that once belonged to Twitter &lpar;Platformer&rpar;](http://www.techmeme.com/231107/p47#a231107p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

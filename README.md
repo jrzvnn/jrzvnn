@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram?utm_medium=rss)
+ - [Letters: Samsung, Qualcomm, and others oppose India&#39;s plan to use ATSC 3.0 to bring live TV to phones, saying the hardware changes will add $30+ to each device &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/231108/p19#a231108p19)
+ - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)
  - [Amazon cuts the price of an annual One Medical membership from $199 to $99 for Prime users, part of its plans to significantly expand its health care footprint &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231108/p18#a231108p18)
- - [Apple HomeKit Secure Video: Pros and Cons](https://www.wired.com/story/apple-homekit-secure-video-pros-and-cons/)
- - [Every Game Should Let You Cross-Save](https://www.wired.com/story/every-game-should-let-you-cross-save/)
- - [How a Scientist and Cartoonist Envision Living on the Moon and Mars](https://www.wired.com/story/how-a-scientist-and-cartoonist-envision-living-on-the-moon-and-mars/)
- - [Source: in a letter to staff, ByteDance offers to buy back stock at $160 per share, up from $155 in April 2023; ByteDance says the goal is to provide liquidity &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231108/p17#a231108p17)<!-- TECH:END -->
+ - [Christmas Shipping Deadlines 2023: When&#39;s the Last Day to Send Packages?     - CNET](https://www.cnet.com/how-to/christmas-shipping-deadlines-2023-whens-the-last-day-to-send-packages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

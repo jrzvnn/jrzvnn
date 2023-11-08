@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 💣 [Why do women do this?](http://9gag.com/gag/amAwrZV)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)<!-- MEMES:END -->
+ - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
 
 ---
 

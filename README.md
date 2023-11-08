@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lasers being used to prevent drivers from falling asleep on Chinese highway](http://9gag.com/gag/abvwyPv)
- - 😝 [This one goes out for the boys. You guys have a chance now.](http://9gag.com/gag/aQE5xP8)
- - 💣 [Every single time Ben appear, you know this will happen in the comments](http://9gag.com/gag/agowyRg)
- - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
- - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
+ - 😝 [This guy is my new spirit animal](http://9gag.com/gag/a8qOYXV)
+ - 😝 [Magical Nephew](http://9gag.com/gag/az2wjWx)
+ - 💣 [Too smart for Harvard Business School](http://9gag.com/gag/aQE58XW)
+ - 😝 [Halloween Winners](http://9gag.com/gag/aXn19X6)
+ - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
 
 ---
 

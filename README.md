@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Mark Zuckerberg positioned WhatsApp as a &quot;next chapter&quot; for Meta; WhatsApp now has more than 225 Channels that each have 1M+ followers &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231108/p1#a231108p1)
  - [Milan-based Qomodo, which offers multiple payment services to consumers and retailers, including BNPL options, raised a &amp;euro;34.5M pre-seed led by Fasanara Capital &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/231107/p52#a231107p52)
  - [AirPods discounted up to 50% in India with eligible iPhone 14 purchase](https://appleinsider.com/articles/23/11/08/airpods-discounted-up-to-50-in-india-with-eligible-iphone-14-purchase?utm_medium=rss)
  - [Samsung unveils a generative AI model called Gauss, which is being used for employee productivity internally and will be expanded to product applications &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/231107/p51#a231107p51)
- - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)
- - [Postscript is gone, long live TrueType and OpenType](https://appleinsider.com/articles/23/11/08/postscript-is-gone-long-live-truetype-and-opentype?utm_medium=rss)<!-- TECH:END -->
+ - [Best Road Trip Camera Gear     - CNET](https://www.cnet.com/tech/computing/best-road-trip-camera-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

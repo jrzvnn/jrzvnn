@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After you convince yourself you need it](http://9gag.com/gag/a1PjdwD)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 💣 [How many times!?](http://9gag.com/gag/axowgpp)
+ - 😝 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 💣 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [Can you blame anakin ??](http://9gag.com/gag/aME5wyR)<!-- MEMES:END -->
+ - 👉 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)<!-- MEMES:END -->
 
 ---
 

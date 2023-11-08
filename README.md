@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Grand Theft Auto VI’s first trailer will debut in December](https://www.theverge.com/23732775/grand-theft-auto-6-gta-trailer-debut)
  - [Peloton Row Review: A Nearly Perfect Rowing Machine With a Too-High Price](https://www.wired.com/review/peloton-row/)
  - [REI Co-op 650 Down Jacket Review: Best Value](https://www.wired.com/review/rei-co-op-650-down-jacket/)
- - [Spotify’s free audiobooks perk is now live for US Premium subscribers](https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers)<!-- TECH:END -->
+ - [Spotify’s free audiobook perk is now live for US Premium subscribers](https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

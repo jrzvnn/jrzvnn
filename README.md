@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s second-gen AirPods are nearly half off](https://www.theverge.com/2023/11/8/23952511/apple-airpods-pro-earbuds-deal-sale)
+ - [US chip company Vishay agrees to buy Newport Wafer Fab, the UK&#39;s largest chip plant, for $177M from Chinese-owned Nexperia, after the UK forced its sale in 2022 &lpar;Matthew Gooding/Tech Monitor&rpar;](http://www.techmeme.com/231108/p37#a231108p37)
  - [Reports of The Marvels being good have not been greatly exaggerated](https://www.theverge.com/23952096/the-marvels-review)
  - [The US and 30 Other Nations Agree to Set Guardrails for Military AI](https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/)
- - [The GOP Presidential Debate Is Livestreaming on Rumble, Home to White Nationalist Nick Fuentes](https://www.wired.com/story/gop-debate-rumble-livestream-nick-fuentes/)
- - [GitHub CEO Thomas Dohmke says Copilot has &quot;growing positive margins&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231108/p36#a231108p36)
- - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)<!-- TECH:END -->
+ - [The GOP Presidential Debate Is Livestreaming on Rumble, Home to White Nationalist Nick Fuentes](https://www.wired.com/story/gop-debate-rumble-livestream-nick-fuentes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

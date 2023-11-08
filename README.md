@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMac 24-inch M3 review: A clear sign that Intel Mac support is ending soon](https://appleinsider.com/articles/23/11/08/imac-24-inch-m3-review-a-clear-sign-that-intel-mac-support-is-ending-soon?utm_medium=rss)
- - [How San Francisco&#39;s citizen surveillance culture, with incidents often posted to X, helped unravel the story of a bloody street attack, causing viral outrage &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/231108/p20#a231108p20)
- - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram?utm_medium=rss)
- - [Letters: Samsung, Qualcomm, and others oppose India&#39;s plan to use ATSC 3.0 to bring live TV to phones, saying the hardware changes will add $30+ to each device &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/231108/p19#a231108p19)
- - [Microsoft offers politicians protection against deepfakes](https://www.theverge.com/2023/11/8/23951955/microsoft-elections-generative-ai-content-watermarks)<!-- TECH:END -->
+ - [Grand Theft Auto VI’s first trailer will drop in December](https://www.theverge.com/23732775/grand-theft-auto-6-gta-trailer-debut)
+ - [Peloton Row Review: A Nearly Perfect Rowing Machine With a Too-High Price](https://www.wired.com/review/peloton-row/)
+ - [REI Co-op 650 Down Jacket Review: Best Value](https://www.wired.com/review/rei-co-op-650-down-jacket/)
+ - [Spotify’s free audiobooks perk is now live for US Premium subscribers](https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers)
+ - [GM is attracted to these new non-rare earth magnets for its EV motors](https://www.theverge.com/2023/11/8/23951557/gm-niron-magnet-iron-nitride-ev-motor-investment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

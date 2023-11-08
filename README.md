@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea launches its first smart LED strip at the right price](https://www.theverge.com/2023/11/8/23952022/ikea-ormanas-rgb-led-light-strip-dirigera-homekit-compatible)
  - [WhatsApp can now hide your IP address during calls for added security](https://www.theverge.com/2023/11/8/23952156/whatsapp-protect-ip-address-calls-feature)
  - [Daily deals Nov. 8: $69 AirPods, $949 M2 MacBook Air, $78.99 HomePod mini, more](https://appleinsider.com/articles/23/11/08/daily-deals-nov-8-69-airpods-949-m2-macbook-air-7899-homepod-mini-more?utm_medium=rss)
  - [Google staff sign an open letter accusing the company of limiting pro-Palestinian speech and objecting to Project Nimbus, a $1.2B contract to supply Israel &lpar;New York Times&rpar;](http://www.techmeme.com/231108/p30#a231108p30)
- - [OpenAI reports a ChatGPT and API &quot;major outage&quot;, ongoing since 6AM PT, and plans a fix; users were greeted with a &quot;ChatGPT is at capacity right now&quot; message &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231108/p29#a231108p29)
- - [Anker Soundcore Motion 300 Bluetooth Speaker Review: The Price Is Right     - CNET](https://www.cnet.com/tech/mobile/anker-soundcore-motion-300-bluetooth-speaker-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI reports a ChatGPT and API &quot;major outage&quot;, ongoing since 6AM PT, and plans a fix; users were greeted with a &quot;ChatGPT is at capacity right now&quot; message &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231108/p29#a231108p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

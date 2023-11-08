@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The GOP Presidential Debate Is Livestreaming on Rumble, Home to White Nationalist Nick Fuentes](https://www.wired.com/story/gop-debate-rumble-livestream-nick-fuentes/)
  - [GitHub CEO Thomas Dohmke says Copilot has &quot;growing positive margins&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231108/p36#a231108p36)
- - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
- - [New Jersey Keeps Newborn DNA for 23 Years. Parents Are Suing](https://www.wired.com/story/new-jersey-keeps-newborn-dna-for-23-years-parents-are-suing/)
- - [Kevin Feige’s Star Wars film is no longer happening](https://www.theverge.com/2023/11/8/23952215/marvel-kevin-feige-star-wars-films-patty-jenkins-canceled)<!-- TECH:END -->
+ - [Walmart Plus Delivery Benefits: Everything You Get With Your Membership     - CNET](https://www.cnet.com/tech/mobile/walmart-plus-delivery-benefits-everything-you-get-with-your-membership/#ftag=CAD590a51e)
+ - [Best Cotton Pads for Makeup Removal in 2023     - CNET](https://www.cnet.com/culture/fashion/best-cotton-pads-2022/#ftag=CAD590a51e)
+ - [Best Phone Under $200: New Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

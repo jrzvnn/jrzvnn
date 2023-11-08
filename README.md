@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s three-foot-tall Avengers Tower comes packed with Marvel minifigs](https://www.theverge.com/2023/11/8/23952172/lego-avengers-tower-minifigs-release-date-price)
+ - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)
  - [Maybe &lpar;HBO&rpar; Max Just Isn’t Worth It](https://www.wired.com/story/warner-bros-discovery-max-loses-subscribers/)
  - [You can now get a PlayStation 5 with Spider-Man 2 thrown in free](https://www.theverge.com/2023/11/8/23952077/sony-playstation-ps5-spiderman-bundle-dualsense-controller-early-black-friday-deal-sale)
- - [Ghostbusters: Frozen Empire’s first trailer has too much chill](https://www.theverge.com/23952296/ghostbusters-frozen-empire-teaser-trailer)
- - [Apple Music celebrates Taylor Swift as the Artist of the Year for 2023](https://appleinsider.com/articles/23/11/08/apple-music-celebrates-taylor-swift-as-the-artist-of-the-year-for-2023?utm_medium=rss)
- - [Airbnb is finally adding support for smart locks to its app](https://www.theverge.com/2023/11/8/23952037/airbnb-winter-2023-update-smart-locks-guest-favorites)<!-- TECH:END -->
+ - [Ghostbusters: Frozen Empire’s first trailer has too much chill](https://www.theverge.com/23952296/ghostbusters-frozen-empire-teaser-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

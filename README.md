@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 💣 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 😝 [What ??](http://9gag.com/gag/aKE5PZg)
+ - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 💣 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)<!-- MEMES:END -->
+ - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
 
 ---
 

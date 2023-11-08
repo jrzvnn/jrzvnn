@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
- - 😝 [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)<!-- MEMES:END -->
+ - 👉 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)<!-- MEMES:END -->
 
 ---
 

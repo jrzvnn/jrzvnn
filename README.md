@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unsealed court documents allegedly show how Mark Zuckerberg repeatedly thwarted initiatives meant to improve the well-being of teens on Facebook and Instagram &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/231108/p46#a231108p46)
  - [Disney will start testing a combined Disney Plus and Hulu app next month](https://www.theverge.com/2023/11/8/23952835/disney-plus-hulu-combined-app-q4-2023-earnings)
  - [Instacart reports Q3 revenue up 14% YoY to $764M, adjusted EBITDA up 120% to $163M vs. $119.5M est., and gross transaction value up 6% to $7.49B vs. $7.42B est. &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231108/p45#a231108p45)
  - [Take-Two reports Q2 net bookings down 4% YoY to $1.44B, net revenue down 7% YoY to $1.3B, and forecasts Q3 net bookings below expectations &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231108/p44#a231108p44)
- - [Microsoft won’t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
- - [The FDA Approves Weight Loss Drug Zepbound, a Wegovy and Ozempic Rival](https://www.wired.com/story/fda-approves-weight-loss-drug-zepbound-wegovy-and-ozempic-rival/)<!-- TECH:END -->
+ - [Microsoft won’t let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

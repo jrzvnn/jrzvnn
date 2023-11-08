@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is bringing its AI-powered search to more than 120 new countries and territories](https://www.theverge.com/2023/11/8/23951134/google-search-generative-experience-sge-expansion-120-countries-territories)
  - [New Jersey Keeps Newborn DNA for 23 Years. Parents Are Suing](https://www.wired.com/story/new-jersey-keeps-newborn-dna-for-23-years-parents-are-suing/)
  - [Kevin Feige’s Star Wars film is no longer happening](https://www.theverge.com/2023/11/8/23952215/marvel-kevin-feige-star-wars-films-patty-jenkins-canceled)
  - [SiriusXM has a new app, a new logo, and new audience to conquer](https://www.theverge.com/2023/11/8/23952400/siriusxm-new-app-logo-mobile-car-pandora-podcasts)
- - [Anthropic will use Google&#39;s Cloud TPU v5e chips to help power its LLM Claude; sources: Anthropic agreed to spend $3B+ on Google&#39;s cloud services over four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/231108/p35#a231108p35)
- - [&#39;Resident Evil 4&#39; unleashes horror on iPhone 15 Pro, iPad, and Mac on December 20](https://appleinsider.com/articles/23/11/08/resident-evil-4-unleashes-horror-on-iphone-15-pro-ipad-and-mac-on-december-20?utm_medium=rss)<!-- TECH:END -->
+ - [Anthropic will use Google&#39;s Cloud TPU v5e chips to help power its LLM Claude; sources: Anthropic agreed to spend $3B+ on Google&#39;s cloud services over four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/231108/p35#a231108p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic will use Google&#39;s Cloud TPU v5e chips to help power its LLM Claude; sources: Anthropic agreed to spend $3B+ on Google&#39;s cloud services over four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/231108/p35#a231108p35)
  - [&#39;Resident Evil 4&#39; unleashes horror on iPhone 15 Pro, iPad, and Mac on December 20](https://appleinsider.com/articles/23/11/08/resident-evil-4-unleashes-horror-on-iphone-15-pro-ipad-and-mac-on-december-20?utm_medium=rss)
  - [GitHub plans to release a Copilot Enterprise plan that lets companies customize for their codebase, available from February 2024 for $39/month per user &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231108/p34#a231108p34)
- - [How to watch the third Republican debate](https://www.theverge.com/2023/11/8/23952218/how-to-watch-gop-republican-debate-trump-desantis-vivek)
- - [Lego’s three-foot-tall Avengers Tower comes packed with Marvel minifigs](https://www.theverge.com/2023/11/8/23952172/lego-avengers-tower-minifigs-release-date-price)
- - [Apple best-placed to benefit as AI goes mainstream, says Morgan Stanley](https://appleinsider.com/articles/23/11/08/apple-best-placed-to-benefit-as-ai-goes-mainstream-says-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
+ - [Sleep Mask w/ Headphones     - CNET](https://www.cnet.com/health/sleep/sleep-mask-w-headphones-dpnl/#ftag=CAD590a51e)
+ - [Snail Soap Dispenser     - CNET](https://www.cnet.com/news/snail-soap-dispenser-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

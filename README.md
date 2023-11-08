@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 😝 [Sorry to break it you, nerds.](http://9gag.com/gag/a5X37eG)
- - 💣 [What&#39;s wrong babe? You haven&#39;t even touched your venti double milkaccino](http://9gag.com/gag/a1PjYQD)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 😝 [Any female to confirm?](http://9gag.com/gag/aKE5PKj)
+ - 💣 [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 😝 [What was she expecting to happen?](http://9gag.com/gag/armw4RK)
  - 👉 [Jewish man killed by hamas supporter in LA.. no coverage in media.](http://9gag.com/gag/a9q0Pnj)<!-- MEMES:END -->
 
 ---

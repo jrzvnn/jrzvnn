@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grand Theft Auto 6 reveal reportedly happening this week, with trailer dropping in December](https://www.theverge.com/2023/11/8/23951922/grand-theft-auto-6-gta-announcement-trailer-reveal-release-date-rumor)
  - [How AI-driven robots and optical sorters are being used to pick up and sort recyclable trash, as US recyclers deal with labor shortages and rising costs &lpar;Dieter Holger/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p9#a231108p9)
  - [How .tk, the ccTLD for New Zealand&#39;s Tokelau territory that until recently had more users than any other ccTLD, became a domain of choice for cybercriminals &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/231108/p8#a231108p8)
  - [Opinion: Leica helped Xiaomi create a flagship that takes better photos than iPhone, and their partnership makes sense despite Xiaomi copying some iOS elements &lpar;Sam Byford/Multicore&rpar;](http://www.techmeme.com/231108/p7#a231108p7)
- - [As TSMC shifts more production outside Taiwan, a look the domestic chip industry&#39;s increasingly fraught complaints about land shortages across the island &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231108/p6#a231108p6)
- - [Timberline Solar by GAF Energy Review: A Solid Solar Roof Option     - CNET](https://www.cnet.com/home/energy-and-utilities/gaf-energy-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As TSMC shifts more production outside Taiwan, a look the domestic chip industry&#39;s increasingly fraught complaints about land shortages across the island &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231108/p6#a231108p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

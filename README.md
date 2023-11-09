@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
  - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 💣 [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 👉 [Who is it for?..](http://9gag.com/gag/a5X3n6L)<!-- MEMES:END -->
+ - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 ---
 

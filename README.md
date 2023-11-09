@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve Steam Deck OLED Review: A Brighter, Sharper Upgrade](https://www.wired.com/review/valve-steam-deck-oled/)
- - [Valve reveals the Steam Deck OLED: $549 buys better screen, battery, and more](https://www.theverge.com/23951674/valve-steam-deck-oled-price-release-date)
- - [Steam Deck OLED review: better, not faster](https://www.theverge.com/23951655/steam-deck-oled-review)
- - [Humane plans to open Ai Pin pre-orders on November 16, starting at $699 plus $24 per month for calling, texts, and data via T-Mobile, shipping in early 2024 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231109/p32#a231109p32)
- - [Amazon is expanding Fresh grocery deliveries to more non-Prime members](https://www.theverge.com/2023/11/9/23953991/amazon-fresh-grocery-deliveries-expansion)<!-- TECH:END -->
+ - [Valve says it has sold ‘multiple millions’ of Steam Decks](https://www.theverge.com/2023/11/9/23954205/valve-steam-deck-multiple-millions)
+ - [Second watchOS 10.2 beta build now available to developers](https://appleinsider.com/articles/23/11/09/second-watchos-102-beta-build-now-available-to-developers?utm_medium=rss)
+ - [Sources: Amazon is working on Vega, a new OS to replace Android on Fire TVs, smart displays, and other devices and could ship devices with the OS in 2024 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231109/p33#a231109p33)
+ - [Apple&#39;s second tvOS 17.2 developer beta issued to testers](https://appleinsider.com/articles/23/11/09/apples-second-tvos-172-developer-beta-issued-to-testers?utm_medium=rss)
+ - [What We Want Out of a &#39;Legend of Zelda&#39; Movie](https://www.wired.com/story/legend-of-zelda-movie-what-we-want/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

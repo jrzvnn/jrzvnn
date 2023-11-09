@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve Steam Deck OLED Review: A Brighter, Sharper Upgrade](https://www.wired.com/review/valve-steam-deck-oled/)
+ - [Valve reveals the Steam Deck OLED: $549 buys better screen, battery, and more](https://www.theverge.com/23951674/valve-steam-deck-oled-price-release-date)
+ - [Steam Deck OLED review: better, not faster](https://www.theverge.com/23951655/steam-deck-oled-review)
  - [Humane plans to open Ai Pin pre-orders on November 16, starting at $699 plus $24 per month for calling, texts, and data via T-Mobile, shipping in early 2024 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231109/p32#a231109p32)
- - [Amazon is expanding Fresh grocery deliveries to more non-Prime members](https://www.theverge.com/2023/11/9/23953991/amazon-fresh-grocery-deliveries-expansion)
- - [Daily deals Nov. 9: $250 off M3 Max MacBook Pro, PlayStation 5 Spider-Man 2 Bundle $499, Amazon Fire TVs from $150, more](https://appleinsider.com/articles/23/11/09/daily-deals-nov-9-250-off-m3-max-macbook-pro-playstation-5-spider-man-2-bundle-499-amazon-fire-tvs-from-150-more?utm_medium=rss)
- - [Google tightens Play Store rules for developers, requiring them to test apps with 20+ users for over two weeks before release, and plans to invest in app review &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p31#a231109p31)
- - [Humane officially launches the AI Pin, its OpenAI-powered wearable](https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai)<!-- TECH:END -->
+ - [Amazon is expanding Fresh grocery deliveries to more non-Prime members](https://www.theverge.com/2023/11/9/23953991/amazon-fresh-grocery-deliveries-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

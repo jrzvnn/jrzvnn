@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit quietly pulled its products from over a dozen countries](https://www.theverge.com/2023/11/9/23953848/fitbit-pixel-global-availability-wearables-smartwatches)
- - [The EU Parliament approves a Data Act with a kill switch clause for automated data-sharing agreements; the legislation now needs EU Council approval &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231109/p29#a231109p29)
- - [How to Get Facebook Without Ads—if It’s Available for You](https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/)
- - [Apple, Google, and Samsung are working with Schlage, Yale, Qualcomm, and others, to build Aliro, an open standard for smart locks and digital keys &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231109/p28#a231109p28)
- - [Oppo Find X7 Series to Debut New Hasselblad Camera System     - CNET](https://www.cnet.com/tech/mobile/oppo-find-x7-series-to-debut-new-hasselblad-camera-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Humane&#39;s $699 clip-on Ai Pin, the culmination of five years of work, $240M in funding, and 25 patents; Humane expects to sell ~100K in the first year &lpar;New York Times&rpar;](http://www.techmeme.com/231109/p30#a231109p30)
+ - [Apple-backed Aliro aims to be the Matter of smart locks for the whole industry](https://appleinsider.com/articles/23/11/09/apple-backed-aliro-aims-to-be-the-matter-of-smart-locks-for-the-whole-industry?utm_medium=rss)
+ - [Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
+ - [This New Breed of AI Assistant Wants to Do Your Boring Office Chores](https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/)
+ - [How Humane’s Ai Pin Works](https://www.wired.com/story/gadget-lab-podcast-620/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

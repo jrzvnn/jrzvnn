@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports Q2 revenue of ~$18.5B, up 8% YoY, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, PS5 sales of 4.9M vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)
  - [Police Use of Face Recognition Is Sweeping the UK](https://www.wired.com/story/uk-police-face-recognition-expansion/)
  - [Epic v. Google: Google exec Purnima Kochikar says Google offered to pay Epic $147M over a three years period ending in 2021 to launch Fortnite on Play Store &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p4#a231109p4)
  - [Tech executives and officials detail how the Indian government used new rules, censorship, and law enforcement to break Twitter&#39;s resistance to takedown orders &lpar;Washington Post&rpar;](http://www.techmeme.com/231109/p3#a231109p3)
- - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)
- - [OpenAI says it&#39;s grappling with &quot;abnormal traffic&quot; and has spotted signs of a DDoS attack resulting in periodic outages of its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p1#a231109p1)<!-- TECH:END -->
+ - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

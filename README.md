@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 😝 [No title](http://9gag.com/gag/aqew5DR)
- - 💣 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
+ - 😝 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
  - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 

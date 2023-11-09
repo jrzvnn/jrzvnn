@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
  - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 💣 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aqew5DR)
+ - 💣 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yuga Labs says UV lights were the likely cause of eye and skin issues experienced by some attendees of ApeFest, hosted in Hong Kong from November 3 to 5 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231109/p13#a231109p13)
  - [YouTube plans to roll out a personalized For You section for creators&#39; channels on November 20, offering a &quot;a mix of content from your channel to viewers&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231109/p12#a231109p12)
- - [Robotic Putting Greens. Mixed Reality. Loud Spectators. This Is Golf?!](https://www.wired.com/golf-tgl-tiger-woods/)
- - [Adyen&#39;s stock jumps 30%+, adding &amp;euro;6.6B to its market cap, after executives met investors to ease concerns over the Amsterdam-based payment giant&#39;s trajectory &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231109/p11#a231109p11)
- - [Apple co-founder Steve Wozniak hospitalized over possible stroke](https://appleinsider.com/articles/23/11/09/apple-co-founder-steve-wozniak-hospitalized-over-possible-stroke?utm_medium=rss)
- - [Omegle is shutting down notorious video chat service as scrutiny grows](https://www.theverge.com/2023/11/9/23953620/omegle-anonymous-video-chat-shut-down-online-safety)<!-- TECH:END -->
+ - [Best Wine Club and Subscriptions to Gift in 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
+ - [Social Security COLA Increase: You&#39;re Getting More Money in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-cola-increase-youre-getting-more-money-in-2024/#ftag=CAD590a51e)
+ - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

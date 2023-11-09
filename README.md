@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spatial Video recording for iPhone 15 Pro introduced in iOS 17.2 beta 2](https://appleinsider.com/articles/23/11/09/spatial-video-recording-for-iphone-15-pro-introduced-in-ios-172-beta-2?utm_medium=rss)
  - [Snap releases Lens Studio 5.0 Beta, a new version of its AR development tool with a ChatGPT Remote API that lets developers leverage ChatGPT in their Lenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231109/p34#a231109p34)
  - [Second macOS Sonoma 14.2 developer beta seeded for testing](https://appleinsider.com/articles/23/11/09/second-macos-sonoma-142-developer-beta-seeded-for-testing?utm_medium=rss)
  - [Valve says it has sold ‘multiple millions’ of Steam Decks](https://www.theverge.com/2023/11/9/23954205/valve-steam-deck-multiple-millions)
- - [Second watchOS 10.2 beta build now available to developers](https://appleinsider.com/articles/23/11/09/second-watchos-102-beta-build-now-available-to-developers?utm_medium=rss)
- - [Sources: Amazon is working on Vega, a new OS to replace Android on Fire TVs, smart displays, and other devices and could ship devices with the OS in 2024 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231109/p33#a231109p33)<!-- TECH:END -->
+ - [Second watchOS 10.2 beta build now available to developers](https://appleinsider.com/articles/23/11/09/second-watchos-102-beta-build-now-available-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

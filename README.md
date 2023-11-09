@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 💣 [Why do women do this?](http://9gag.com/gag/amAwrZV)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 👉 [Who is it for?..](http://9gag.com/gag/a5X3n6L)<!-- MEMES:END -->
 
 ---
 

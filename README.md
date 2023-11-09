@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
- - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 💣 [Laughs in german?](http://9gag.com/gag/a2Kp43d)
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
+ - 😝 [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
+ - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
+ - 💣 [When will it stop?](http://9gag.com/gag/aOx5YmD)
+ - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
+ - 👉 [This is the Feminism the world needs](http://9gag.com/gag/a4oy741)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twilio reports Q3 revenue up 5% YoY to $1.03B, vs. $985M est., 306K+ active customer accounts, vs. 280K+ YoY, and a Q4 guidance above estimates; TWLO jumps 7%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231108/p51#a231108p51)
+ - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)
+ - [Best iPhone Deals &lpar;2023&rpar;: Carrier Deals, Unlocked iPhones](https://www.wired.com/story/apple-iphone-deals-november-2023/)
  - [Activision Blizzard is transitioning away from the Overwatch League to evolve the esports competition in a &quot;new direction&quot;; exiting teams may get a $6M payout &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/231108/p50#a231108p50)
- - [Disney Swears It Can Make Streaming Profitable and Promises a Combined Disney+, Hulu Service](https://www.wired.com/story/disney-plus-streaming-profitability-hulu/)
- - [Samsung details ‘Galaxy AI’ and a feature that can translate phone calls in real time](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call)
- - [Sweeping New Powers Could Let the UK Block Big Tech Platforms](https://www.wired.com/story/uk-online-safety-regulation-ofcom/)
- - [The UK just laid out new rules for the internet — it only gets harder from here](https://www.theverge.com/2023/11/8/23952736/uk-online-safety-act-ofcom-illegal-harms-guidelines)<!-- TECH:END -->
+ - [Disney Swears It Can Make Streaming Profitable and Promises a Combined Disney+, Hulu Service](https://www.wired.com/story/disney-plus-streaming-profitability-hulu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

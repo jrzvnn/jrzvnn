@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)
+ - [Apple rolls out new AirPods Pro 2 firmware 6.1 update](https://appleinsider.com/articles/23/11/09/apple-rolls-out-new-airpods-pro-2-firmware-61-update?utm_medium=rss)
  - [OpenAI announces Data Partnerships to collaborate with organizations to build public and private datasets that &quot;reflect human society&quot; for AI model training &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231109/p36#a231109p36)
  - [Review of Valve&#39;s $549 Steam Deck OLED: great screen, longer battery life, and better ergonomics, but refresh rate has issues and still not a stable platform &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231109/p35#a231109p35)
- - [Where to preorder Sony’s Pulse Explore earbuds and Pulse Elite headset](https://www.theverge.com/23854570/sony-pulse-explore-earbuds-elite-headset-preorder-buy-price-availability-release-date)
- - [Best Solar Panel Installation Companies in Arizona     - CNET](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
- - [Save up to $250 on Apple&#39;s new M3 MacBook Pro &amp; iMac with early Black Friday deals](https://appleinsider.com/articles/23/11/09/save-up-to-250-on-apples-new-m3-macbook-pro-imac-with-early-black-friday-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Where to preorder Sony’s Pulse Explore earbuds and Pulse Elite headset](https://www.theverge.com/23854570/sony-pulse-explore-earbuds-elite-headset-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

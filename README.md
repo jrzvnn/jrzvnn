@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
+ - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
+ - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
 
 ---
 

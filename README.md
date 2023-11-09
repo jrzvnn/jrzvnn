@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
  - 😝 [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 😝 [No title](http://9gag.com/gag/aqew5DR)
  - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 👉 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aqew5DR)
+ - 👉 [Well, golly](http://9gag.com/gag/a4oyGwZ)<!-- MEMES:END -->
 
 ---
 

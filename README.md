@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aliro could unlock a new future for smart locks and digital keys](https://www.theverge.com/2023/11/9/23952637/csa-aliro-new-standard-smart-locks-digital-access)
  - [Apple TV app adds 3D movies ahead of Vision Pro release](https://appleinsider.com/articles/23/11/09/apple-tv-app-adds-3d-movies-ahead-of-vision-pro-release?utm_medium=rss)
  - [Since becoming Twitch CEO in March 2023, Dan Clancy has been traveling the US in a van, meeting prominent streamers and listening to their ideas and concerns &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231109/p20#a231109p20)
  - [Panasonic Eneloop Rechargeable Batteries Are the Best](https://www.wired.com/story/panasonic-eneloop-rechargeable-batteries-rave/)
- - [System 76 Lemur Pro Review: Ultraportable Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
- - [9 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
+ - [System 76 Lemur Pro Review: Ultraportable Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

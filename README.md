@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 😝 [No title](http://9gag.com/gag/aqew5DR)
- - 💣 [Oh dear](http://9gag.com/gag/ajVwqvp)
  - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 💣 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [Oh dear](http://9gag.com/gag/ajVwqvp)<!-- MEMES:END -->
 
 ---
 

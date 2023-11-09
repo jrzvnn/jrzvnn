@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces Data Partnerships to collaborate with organizations to build public and private datasets that &quot;reflect human society&quot; for AI model training &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231109/p36#a231109p36)
  - [Review of Valve&#39;s $549 Steam Deck OLED: great screen, longer battery life, and better ergonomics, but refresh rate has issues and still not a stable platform &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231109/p35#a231109p35)
  - [Where to preorder Sony’s Pulse Explore earbuds and Pulse Elite headset](https://www.theverge.com/23854570/sony-pulse-explore-earbuds-elite-headset-preorder-buy-price-availability-release-date)
  - [Best Solar Panel Installation Companies in Arizona     - CNET](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
- - [Save up to $250 on Apple&#39;s new M3 MacBook Pro &amp; iMac with early Black Friday deals](https://appleinsider.com/articles/23/11/09/save-up-to-250-on-apples-new-m3-macbook-pro-imac-with-early-black-friday-deals?utm_medium=rss)
- - [Best Patio Heaters of 2023     - CNET](https://www.cnet.com/news/best-patio-heaters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $250 on Apple&#39;s new M3 MacBook Pro &amp; iMac with early Black Friday deals](https://appleinsider.com/articles/23/11/09/save-up-to-250-on-apples-new-m3-macbook-pro-imac-with-early-black-friday-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

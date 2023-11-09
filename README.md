@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
  - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
  - [Samsung announces Galaxy AI, a &quot;comprehensive mobile AI experience&quot; that includes a translation feature called AI Live Translate Call, coming &quot;early next year&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p53#a231108p53)
  - [Citrix-owner Cloud Software Group plans to cease all new business transactions in China, including Hong Kong, on December 3, citing rising costs in the market &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p52#a231108p52)
- - [Google offered Epic $147 million to launch Fortnite on the Play store](https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial)
- - [Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)<!-- TECH:END -->
+ - [Google offered Epic $147 million to launch Fortnite on the Play store](https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

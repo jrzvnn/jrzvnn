@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
- - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 💣 [University of excuses](http://9gag.com/gag/aXn1qXd)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [The cat did the mouse](http://9gag.com/gag/aXn1qBz)<!-- MEMES:END -->
+ - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
+ - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
+ - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 👉 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)<!-- MEMES:END -->
 
 ---
 

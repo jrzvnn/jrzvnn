@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
  - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 💣 [Laughs in german?](http://9gag.com/gag/a2Kp43d)
  - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 👉 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)<!-- MEMES:END -->
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 

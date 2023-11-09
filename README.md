@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane&#39;s Ai Pin features a laser projector that shows info on the user&#39;s palm, a 13MP ultrawide camera, &quot;AI experiences&quot; that don&#39;t require a wake word, more &lpar;Abner Li/9to5Mac&rpar;](http://www.techmeme.com/231109/p40#a231109p40)
+ - [Competitive Overwatch won’t end with the League](https://www.theverge.com/23954005/overwatch-league-shuts-down-activision-blizzard)
+ - [Controversial Humane Ai Pin is here, costs $700, and requires a subscription](https://appleinsider.com/articles/23/11/09/controversial-humane-ai-pin-is-here-costs-700-and-requires-a-subscription?utm_medium=rss)
  - [The First Small-Scale Nuclear Plant in the US Died Before It Could Live](https://www.wired.com/story/first-small-scale-nuclear-plant-us-nuscale-canceled/)
- - [Sources: a ransomware attack on the Industrial and Commercial Bank of China, the country&#39;s largest bank, prevented it from settling US Treasury trades &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p39#a231109p39)
- - [ChatGPT is powering a new kind of Snapchat lens](https://www.theverge.com/2023/11/9/23954372/snapchat-lenses-developers-beta-chatgpt-ai)
- - [The iPhone 15 Pro is getting spatial video capture in iOS 17.2](https://www.theverge.com/2023/11/9/23954310/apple-iphone-15-ios-17-beta-spatial-video-vision-pro)
- - [You Can Snag the Roku Premiere for Just $19 During Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/you-can-snag-the-roku-premiere-for-just-19-during-walmarts-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: a ransomware attack on the Industrial and Commercial Bank of China, the country&#39;s largest bank, prevented it from settling US Treasury trades &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p39#a231109p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

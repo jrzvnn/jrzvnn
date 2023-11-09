@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
- - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 😝 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 👉 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 😝 [Kebab is life](http://9gag.com/gag/a1PjQx8)
- - 👉 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)<!-- MEMES:END -->
+ - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 ---
 

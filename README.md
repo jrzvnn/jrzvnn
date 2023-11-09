@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 💣 [We both going down.](http://9gag.com/gag/aREdK7B)
  - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 👉 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)<!-- MEMES:END -->
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 😝 [University of excuses](http://9gag.com/gag/aXn1qXd)
- - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
- - 👉 [The cat did the mouse](http://9gag.com/gag/aXn1qBz)<!-- MEMES:END -->
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 

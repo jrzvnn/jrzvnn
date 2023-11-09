@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Careful what you wish for](http://9gag.com/gag/a8qOy5Z)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [Classic](http://9gag.com/gag/aA05dKR)
  - 💣 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
- - 👉 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)<!-- MEMES:END -->
+ - 👉 [The cat did the mouse](http://9gag.com/gag/aXn1qBz)<!-- MEMES:END -->
 
 ---
 

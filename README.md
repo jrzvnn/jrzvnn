@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Spotify’s redesigned TV app works more like your phone](https://www.theverge.com/2023/11/9/23953719/spotify-tv-app-redesign-update)
  - [Buzzy VR Startup Spatial Pivots Again—This Time to Games](https://www.wired.com/story/spatial-social-gaming/)
  - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [Microsoft now asks users to provide a reason for closing the OneDrive app on Windows from a list, including &quot;I don&#39;t know what OneDrive is&quot; &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/231109/p21#a231109p21)<!-- TECH:END -->
+ - [Best Internet Providers in Reno, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

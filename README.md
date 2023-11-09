@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The First Small-Scale Nuclear Plant in the US Died Before It Could Live](https://www.wired.com/story/first-small-scale-nuclear-plant-us-nuscale-canceled/)
  - [Sources: a ransomware attack on the Industrial and Commercial Bank of China, the country&#39;s largest bank, prevented it from settling US Treasury trades &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p39#a231109p39)
  - [ChatGPT is powering a new kind of Snapchat lens](https://www.theverge.com/2023/11/9/23954372/snapchat-lenses-developers-beta-chatgpt-ai)
  - [The iPhone 15 Pro is getting spatial video capture in iOS 17.2](https://www.theverge.com/2023/11/9/23954310/apple-iphone-15-ios-17-beta-spatial-video-vision-pro)
- - [You Can Snag the Roku Premiere for Just $19 During Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/you-can-snag-the-roku-premiere-for-just-19-during-walmarts-black-friday-sale/#ftag=CAD590a51e)
- - [A bankruptcy court allows Celsius Network to end its bankruptcy case, return some of its users&#39; deposits, and form a new company focused on mining and staking &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/231109/p38#a231109p38)<!-- TECH:END -->
+ - [You Can Snag the Roku Premiere for Just $19 During Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/you-can-snag-the-roku-premiere-for-just-19-during-walmarts-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

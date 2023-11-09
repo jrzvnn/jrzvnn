@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Citrix-owner Cloud Software Group plans to cease all new business transactions in China, including Hong Kong, on December 3, citing rising costs in the market &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p52#a231108p52)
  - [Google offered Epic $147 million to launch Fortnite on the Play store](https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial)
  - [Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
  - [Twilio reports Q3 revenue up 5% YoY to $1.03B, vs. $985M est., 306K+ active customer accounts, vs. 280K+ YoY, and a Q4 guidance above estimates; TWLO jumps 7%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231108/p51#a231108p51)
- - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)
- - [Best iPhone Deals &lpar;2023&rpar;: Carrier Deals, Unlocked iPhones](https://www.wired.com/story/apple-iphone-deals-november-2023/)<!-- TECH:END -->
+ - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Why do women do this?](http://9gag.com/gag/amAwrZV)
- - 💣 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 😝 [No title](http://9gag.com/gag/aqew5DR)
- - 👉 [Well, golly](http://9gag.com/gag/a4oyGwZ)<!-- MEMES:END -->
+ - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
+ - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
+ - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
 
 ---
 

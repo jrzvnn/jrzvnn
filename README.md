@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopping for Internet Is a Pain. Here&#39;s How to Make It Easier     - CNET](https://www.cnet.com/home/internet/shopping-for-internet-is-a-pain-heres-how-to-make-it-easier/#ftag=CAD590a51e)
- - [Supply chain: OLED iPad Pro display production begins in February](https://appleinsider.com/articles/23/11/08/supply-chain-oled-ipad-pro-display-production-begins-in-february?utm_medium=rss)
- - [Docs: Humane&#39;s $699 Ai Pin will have a $24/month subscription including a phone number, cell data, cloud storage, and access to Microsoft and OpenAI AI models &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231108/p48#a231108p48)
- - [Popular Lego marketplace went offline after a ‘ransom’ demand](https://www.theverge.com/2023/11/8/23952782/bricklink-lego-marketplace-back-online-ransom-demand)
- - [Apple Watch Series 8 Deals: Put One on Your Wrist for as Little as $299     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Activision Blizzard is transitioning away from the Overwatch League to evolve the esports competition in a &quot;new direction&quot;; exiting teams may get a $6M payout &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/231108/p50#a231108p50)
+ - [Disney Swears It Can Make Streaming Profitable and Promises a Combined Disney+, Hulu Service](https://www.wired.com/story/disney-plus-streaming-profitability-hulu/)
+ - [Samsung details ‘Galaxy AI’ and a feature that can translate phone calls in real time](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call)
+ - [Sweeping New Powers Could Let the UK Block Big Tech Platforms](https://www.wired.com/story/uk-online-safety-regulation-ofcom/)
+ - [The UK just laid out new rules for the internet — it only gets harder from here](https://www.theverge.com/2023/11/8/23952736/uk-online-safety-act-ofcom-illegal-harms-guidelines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

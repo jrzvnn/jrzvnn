@@ -158,7 +158,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple&#39;s $14 billion tax trial should start over, says EU](https://appleinsider.com/articles/23/11/09/apples-14-billion-tax-trial-should-start-over-says-eu?utm_medium=rss)
  - [Yuga Labs says UV lights were the likely cause of eye and skin issues experienced by some attendees of ApeFest, hosted in Hong Kong from November 3 to 5 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231109/p13#a231109p13)
  - [YouTube plans to roll out a personalized For You section for creators&#39; channels on November 20, offering a &quot;a mix of content from your channel to viewers&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231109/p12#a231109p12)
- - [Robotic Putting Greens. Mixed Reality. Loud Spectators. This Is Golf?!](https://www.wired.com/golf-tgl-tiger-woods/)
+ - [Robotic Putting Greens. Mixed Reality. Loud Spectators. This Is Golf?!](https://www.wired.com/story/golf-tgl-tiger-woods/)
  - [Adyen&#39;s stock jumps 30%+, adding &amp;euro;6.6B to its market cap, after executives met investors to ease concerns over the Amsterdam-based payment giant&#39;s trajectory &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231109/p11#a231109p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

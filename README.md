@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
  - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
  - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)
  - [Umbrella Academy’s first season 4 teaser is one big mystery](https://www.theverge.com/23954547/umbrella-academy-season-4-teaser)
- - [Humane’s AI Pin: all the news about the new AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
- - [Tumblr is downscaling after failing to ‘turn around’ the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)<!-- TECH:END -->
+ - [Humane’s AI Pin: all the news about the new AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

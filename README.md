@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Google: Google exec Purnima Kochikar says Google offered to pay Epic $147M over a three years period ending in 2021 to launch Fortnite on Play Store &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p4#a231109p4)
  - [Tech executives and officials detail how the Indian government used new rules, censorship, and law enforcement to break Twitter&#39;s resistance to takedown orders &lpar;Washington Post&rpar;](http://www.techmeme.com/231109/p3#a231109p3)
  - [Bob Iger says Disney &quot;would like to stay&quot; in India as Hotstar struggles to avoid churn; Hotstar lost ~23M subscribers in the past year including 2.8M in Q4 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p2#a231109p2)
  - [OpenAI says it&#39;s grappling with &quot;abnormal traffic&quot; and has spotted signs of a DDoS attack resulting in periodic outages of its services &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p1#a231109p1)
- - [Ritual, which is building a network for decentralized AI models, emerges from stealth with a $25M seed led by Archetype, and plans to launch in early 2024 &lpar;Bessie Liu/Blockworks&rpar;](http://www.techmeme.com/231108/p55#a231108p55)
- - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)<!-- TECH:END -->
+ - [Ritual, which is building a network for decentralized AI models, emerges from stealth with a $25M seed led by Archetype, and plans to launch in early 2024 &lpar;Bessie Liu/Blockworks&rpar;](http://www.techmeme.com/231108/p55#a231108p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

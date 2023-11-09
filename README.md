@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)
- - [Apple rolls out new AirPods Pro 2 firmware 6.1 update](https://appleinsider.com/articles/23/11/09/apple-rolls-out-new-airpods-pro-2-firmware-61-update?utm_medium=rss)
- - [OpenAI announces Data Partnerships to collaborate with organizations to build public and private datasets that &quot;reflect human society&quot; for AI model training &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231109/p36#a231109p36)
- - [Review of Valve&#39;s $549 Steam Deck OLED: great screen, longer battery life, and better ergonomics, but refresh rate has issues and still not a stable platform &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231109/p35#a231109p35)
- - [Where to preorder Sony’s Pulse Explore earbuds and Pulse Elite headset](https://www.theverge.com/23854570/sony-pulse-explore-earbuds-elite-headset-preorder-buy-price-availability-release-date)<!-- TECH:END -->
+ - [A bankruptcy court allows Celsius Network to end its bankruptcy case, return some of its users&#39; deposits, and form a new company focused on mining and staking &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/231109/p38#a231109p38)
+ - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
+ - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

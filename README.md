@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ritual, which is building a network for decentralized AI models, emerges from stealth with a $25M seed led by Archetype, and plans to launch in early 2024 &lpar;Bessie Liu/Blockworks&rpar;](http://www.techmeme.com/231108/p55#a231108p55)
  - [A US judge rules that automakers&#39; use of on-board infotainment systems to record and intercept owners&#39; texts and call logs doesn&#39;t violate Washington state law &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231108/p54#a231108p54)
  - [NuPhy Air75 V2 review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
  - [Samsung announces Galaxy AI, a &quot;comprehensive mobile AI experience&quot; that includes a translation feature called AI Live Translate Call, coming &quot;early next year&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231108/p53#a231108p53)
- - [Samsung Teases Its Own ChatGPT-Like AI for Galaxy Devices     - CNET](https://www.cnet.com/tech/mobile/samsung-teases-its-own-chatgpt-like-ai-for-galaxy-devices/#ftag=CAD590a51e)
- - [Citrix-owner Cloud Software Group plans to cease all new business transactions in China, including Hong Kong, on December 3, citing rising costs in the market &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p52#a231108p52)<!-- TECH:END -->
+ - [Samsung Teases Its Own ChatGPT-Like AI for Galaxy Devices     - CNET](https://www.cnet.com/tech/mobile/samsung-teases-its-own-chatgpt-like-ai-for-galaxy-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

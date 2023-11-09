@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Nov. 9: $250 off M3 Max MacBook Pro, PlayStation 5 Spider-Man 2 Bundle $499, Amazon Fire TVs from $150, more](https://appleinsider.com/articles/23/11/09/daily-deals-nov-9-250-off-m3-max-macbook-pro-playstation-5-spider-man-2-bundle-499-amazon-fire-tvs-from-150-more?utm_medium=rss)
+ - [Google tightens Play Store rules for developers, requiring them to test apps with 20+ users for over two weeks before release, and plans to invest in app review &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p31#a231109p31)
+ - [Humane officially launches the AI Pin, its OpenAI-powered wearable](https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai)
  - [A look at Humane&#39;s $699 clip-on Ai Pin, the culmination of five years of work, $240M in funding, and 25 patents; Humane expects to sell ~100K in the first year &lpar;New York Times&rpar;](http://www.techmeme.com/231109/p30#a231109p30)
- - [Apple-backed Aliro aims to be the Matter of smart locks for the whole industry](https://appleinsider.com/articles/23/11/09/apple-backed-aliro-aims-to-be-the-matter-of-smart-locks-for-the-whole-industry?utm_medium=rss)
- - [Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
- - [This New Breed of AI Assistant Wants to Do Your Boring Office Chores](https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/)
- - [How Humane’s Ai Pin Works](https://www.wired.com/story/gadget-lab-podcast-620/)<!-- TECH:END -->
+ - [Apple-backed Aliro aims to be the Matter of smart locks for the whole industry](https://appleinsider.com/articles/23/11/09/apple-backed-aliro-aims-to-be-the-matter-of-smart-locks-for-the-whole-industry?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

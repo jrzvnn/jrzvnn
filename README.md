@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify rolls out a redesigned TV app, offering a new homepage similar to the desktop and mobile apps, a new playback queue, a dark mode, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231109/p23#a231109p23)
+ - [Apple TV+ takes us into aerial battle with &#39;Masters of the Air&#39;](https://appleinsider.com/articles/23/11/09/apple-tv-takes-us-into-aerial-battle-with-masters-of-the-air?utm_medium=rss)
  - [A look at Berlin-based financial regulator BaFin, which has sanctioned ~12 fintechs in the past year, hoping to repair its image after the Wirecard scandal &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p22#a231109p22)
  - [Spotify’s redesigned TV app works more like your phone](https://www.theverge.com/2023/11/9/23953719/spotify-tv-app-redesign-update)
- - [Buzzy VR Startup Spatial Pivots Again—This Time to Games](https://www.wired.com/story/spatial-social-gaming/)
- - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [Best Internet Providers in Reno, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buzzy VR Startup Spatial Pivots Again—This Time to Games](https://www.wired.com/story/spatial-social-gaming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

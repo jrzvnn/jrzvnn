@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr is downscaling after failing to ‘turn around’ the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)
  - [Apple Watch asthma-tracking research is promising but may never be adopted](https://appleinsider.com/articles/23/11/09/apple-watch-asthma-tracking-research-is-promising-but-may-never-be-adopted?utm_medium=rss)
  - [Apple co-founder Steve Wozniak suffered minor stroke, released from hospital](https://appleinsider.com/articles/23/11/09/apple-co-founder-steve-wozniak-suffered-minor-stroke-released-from-hospital?utm_medium=rss)
- - [Netflix teases Arcane season 2 due November 2024](https://www.theverge.com/2023/11/9/23952722/arcane-season-2-netflix-release-date-teas)
- - [Humane&#39;s Ai Pin features a laser projector that shows info on the user&#39;s palm, a 13MP ultrawide camera, &quot;AI experiences&quot; that don&#39;t require a wake word, more &lpar;Abner Li/9to5Mac&rpar;](http://www.techmeme.com/231109/p40#a231109p40)
- - [Competitive Overwatch won’t end with the League](https://www.theverge.com/23954005/overwatch-league-shuts-down-activision-blizzard)<!-- TECH:END -->
+ - [Netflix teases Arcane season 2 for November 2024](https://www.theverge.com/2023/11/9/23952722/arcane-season-2-netflix-release-date-teas)
+ - [Humane&#39;s Ai Pin features a laser projector that shows info on the user&#39;s palm, a 13MP ultrawide camera, &quot;AI experiences&quot; that don&#39;t require a wake word, more &lpar;Abner Li/9to5Mac&rpar;](http://www.techmeme.com/231109/p40#a231109p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

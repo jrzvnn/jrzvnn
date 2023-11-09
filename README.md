@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Panasonic Eneloop Rechargeable Batteries Are the Best](https://www.wired.com/story/panasonic-eneloop-rechargeable-batteries-rave/)
+ - [System 76 Lemur Pro Review: Ultraportable Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
+ - [9 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
  - [Brokers, hedge funds, and advisers push back hard on proposed SEC rules on using AI for financial advice, with comments coming well past the October 10 deadline &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/231109/p19#a231109p19)
- - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)
- - [&#39;Loki&#39; Season 2 Finale: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-finale-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [US v. Google exposes Google&#39;s deepening rift with Microsoft, despite Satya Nadella&#39;s early attempts to make nice; four Microsoft witnesses have testified &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p17#a231109p17)
- - [SMIC reports Q3 revenue down 15% YoY to $1.62B, missing $1.64B est., and net income down 80% YoY to $94M, missing $178.1M est., despite Huawei&#39;s Mate 60 Pro &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p16#a231109p16)<!-- TECH:END -->
+ - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

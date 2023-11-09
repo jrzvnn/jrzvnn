@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
- - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
- - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
+ - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 😝 [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
+ - 💣 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)
+ - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
+ - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
 
 ---
 

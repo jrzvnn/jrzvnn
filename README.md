@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
- - 😝 [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
- - 💣 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)
- - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
- - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
+ - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 👉 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)<!-- MEMES:END -->
 
 ---
 

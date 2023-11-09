@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
+ - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)
  - [Umbrella Academy’s first season 4 teaser is one big mystery](https://www.theverge.com/23954547/umbrella-academy-season-4-teaser)
  - [Humane’s AI Pin: all the news about the new AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)
- - [Tumblr is downscaling after failing to ‘turn around’ the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)
- - [Apple Watch asthma-tracking research is promising but may never be adopted](https://appleinsider.com/articles/23/11/09/apple-watch-asthma-tracking-research-is-promising-but-may-never-be-adopted?utm_medium=rss)<!-- TECH:END -->
+ - [Tumblr is downscaling after failing to ‘turn around’ the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

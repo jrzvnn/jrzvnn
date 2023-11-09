@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Is Ready to Take On Hollywood](https://www.wired.com/story/legend-of-zelda-movie-nintendo-entertainment-company/)
+ - [Unity reports Q3 revenue up 69% YoY to $544.2M, missing estimates of $553.7M partly because of the fallout from new rules on video games in China; U drops 15%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231109/p42#a231109p42)
  - [Ultraman: Rising’s new trailer transforms its titanic hero into a dad](https://www.theverge.com/2023/11/9/23954612/ultraman-rising-teaser-trailer-netflix)
  - [Arm CEO Rene Haas says Arm is working on a &quot;complex deal&quot; that, if closed by year-end, would boost Q3 revenue, expresses optimism about US-China ties, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/231109/p41#a231109p41)
- - [Netflix’s Avatar: The Last Airbender series finally has a trailer](https://www.theverge.com/23952533/avatar-the-last-airbender-release-date-trailer-netflix)
- - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
- - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)<!-- TECH:END -->
+ - [Netflix’s Avatar: The Last Airbender series finally has a trailer](https://www.theverge.com/23952533/avatar-the-last-airbender-release-date-trailer-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

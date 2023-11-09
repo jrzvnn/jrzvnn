@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Series 9 is available at its best price yet](https://www.theverge.com/2023/11/9/23952102/apple-watch-series-9-oneplus-pad-tablet-amazon-echo-buds-deal-sale)
+ - [NuPhy Air75 V2 keyboard review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
  - [Amazon makes online grocery delivery service available for non-Prime members, starting with Amazon Fresh customers in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p25#a231109p25)
  - [Best Mattresses for Guest Rooms of 2023     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Apple AirPods Pro 2 USB-C Review: Still Hard to Beat for Apple Users     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-usb-c-review/#ftag=CAD590a51e)
- - [Leesa Sapira Chill Mattress Review: How Does It Compare to the Original Leesa Sapira? video     - CNET](https://www.cnet.com/videos/leesa-sapira-chill-mattress-review-how-does-it-compare-to-the-original-leesa-sapira/#ftag=CAD590a51e)
- - [The Best Motorola Phones &lpar;2023&rpar;: Pro and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
+ - [Apple AirPods Pro 2 USB-C Review: Still Hard to Beat for Apple Users     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-usb-c-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
  - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
- - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
+ - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 👉 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)<!-- MEMES:END -->
 
 ---
 

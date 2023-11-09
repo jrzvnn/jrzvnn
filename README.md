@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 😝 [Laughs in german?](http://9gag.com/gag/a2Kp43d)
+ - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
  - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 👉 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)<!-- MEMES:END -->
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
 
 ---
 

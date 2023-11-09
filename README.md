@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mandiant: Russia-tied Sandworm carried out a third successful attack on Ukraine&#39;s electric utility in October 2022, coinciding with a series of missile strikes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231109/p14#a231109p14)
- - [Apple&#39;s $14 billion tax trial should start over, says EU](https://appleinsider.com/articles/23/11/09/apples-14-billion-tax-trial-should-start-over-says-eu?utm_medium=rss)
- - [Yuga Labs says UV lights were the likely cause of eye and skin issues experienced by some attendees of ApeFest, hosted in Hong Kong from November 3 to 5 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231109/p13#a231109p13)
- - [YouTube plans to roll out a personalized For You section for creators&#39; channels on November 20, offering a &quot;a mix of content from your channel to viewers&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231109/p12#a231109p12)
- - [Best Wine Club and Subscriptions to Gift in 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SMIC reports Q3 revenue down 15% YoY to $1.62B, missing $1.64B est., and net income down 80% YoY to $94M, missing $178.1M est., despite Huawei&#39;s Mate 60 Pro &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p16#a231109p16)
+ - [Nvidia announces January event after rumors of an RTX 4080 Super launch](https://www.theverge.com/2023/11/9/23953641/nvidia-ces-2024-event-rtx-4070-4080-super-rumors)
+ - [No Apple Tax for environmental efforts applied to users, says Lisa Jackson](https://appleinsider.com/articles/23/11/09/no-apple-tax-for-environmental-efforts-applied-to-users-says-lisa-jackson?utm_medium=rss)
+ - [How to Watch Every NBA Basketball Game on a Streaming Service &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nba-basketball/)
+ - [Chinese state-affiliated outlet Chinastarmarket says Nvidia plans to release three new H100-based AI chips in the country in the coming days, after US sanctions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231109/p15#a231109p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

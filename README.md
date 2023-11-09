@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)
  - [A key advisor to the CJEU recommends setting aside a 2020 EU ruling that said Apple did not owe Ireland &amp;euro;13B+ in back taxes, a major blow to Apple and Ireland &lpar;Joe Brennan/The Irish Times&rpar;](http://www.techmeme.com/231109/p8#a231109p8)
  - [SoftBank reports an adjusted ~$300M investment gain for its Vision Funds in Q2, as Vision Fund 1 gained $2.5B thanks Arm&#39;s IPO while Vision Fund 2 lost $2.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p7#a231109p7)
  - [Game developers, voice actors, writers, and others criticize Inworld AI and Xbox partnering to create AI game development tools, after layoffs in the industry &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231109/p6#a231109p6)
- - [Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike](https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/)
- - [Sony reports Q2 revenue up 8% YoY to ~$18.5B, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, and 4.9M PS5 sales, vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)<!-- TECH:END -->
+ - [Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike](https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

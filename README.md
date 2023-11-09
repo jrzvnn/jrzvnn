@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit quietly pulled its products from over a dozen countries](https://www.theverge.com/2023/11/9/23953848/fitbit-pixel-global-availability-wearables-smartwatches)
  - [The EU Parliament approves a Data Act with a kill switch clause for automated data-sharing agreements; the legislation now needs EU Council approval &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231109/p29#a231109p29)
  - [How to Get Facebook Without Ads—if It’s Available for You](https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/)
  - [Apple, Google, and Samsung are working with Schlage, Yale, Qualcomm, and others, to build Aliro, an open standard for smart locks and digital keys &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231109/p28#a231109p28)
- - [Oppo Find X7 Series to Debut New Hasselblad Camera System     - CNET](https://www.cnet.com/tech/mobile/oppo-find-x7-series-to-debut-new-hasselblad-camera-system/#ftag=CAD590a51e)
- - [Your car can keep collecting your data after a judge dismissed a privacy lawsuit](https://www.theverge.com/2023/11/9/23953798/automakers-collect-record-text-messages-federal-judge-ruling)<!-- TECH:END -->
+ - [Oppo Find X7 Series to Debut New Hasselblad Camera System     - CNET](https://www.cnet.com/tech/mobile/oppo-find-x7-series-to-debut-new-hasselblad-camera-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

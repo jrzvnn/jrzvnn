@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
- - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
- - 💣 [Damn women](http://9gag.com/gag/aA05Dyo)
- - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
- - 👉 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)<!-- MEMES:END -->
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 

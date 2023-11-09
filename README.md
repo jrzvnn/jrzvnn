@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ultraman: Rising’s new trailer transforms its titanic hero into a dad](https://www.theverge.com/2023/11/9/23954612/ultraman-rising-teaser-trailer-netflix)
+ - [Arm CEO Rene Haas says Arm is working on a &quot;complex deal&quot; that, if closed by year-end, would boost Q3 revenue, expresses optimism about US-China ties, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/231109/p41#a231109p41)
+ - [Netflix’s Avatar: The Last Airbender series finally has a trailer](https://www.theverge.com/23952533/avatar-the-last-airbender-release-date-trailer-netflix)
  - [Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
- - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)
- - [Obamacare Call Center Staff Strike Over Steep Health Care Costs and Scarce Bathroom Breaks](https://www.wired.com/story/obamacare-call-center-strike-maximus/)
- - [Umbrella Academy’s first season 4 teaser is one big mystery](https://www.theverge.com/23954547/umbrella-academy-season-4-teaser)
- - [Humane’s AI Pin: all the news about the new AI-powered wearable](https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements)<!-- TECH:END -->
+ - [SpaceX found a legal workaround to block the DOJ’s discrimination lawsuit](https://www.theverge.com/2023/11/9/23954357/spacex-doj-hiring-discrimination-lawsuit-blocked-unconstitutional)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

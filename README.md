@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity is probably going to do layoffs](https://www.theverge.com/2023/11/9/23954709/unity-layoffs-q3-earnings-runtime-program)
  - [Google won’t say if companies beyond Spotify got secret special app store deals](https://www.theverge.com/2023/11/9/23954376/google-spotify-user-choice-billing-deal-bumble-epic)
  - [Apple to pay $25 million settlement over illegally favoring immigrant workers](https://appleinsider.com/articles/23/11/09/apple-to-pay-25-million-settlement-over-illegally-favoring-immigrant-workers?utm_medium=rss)
  - [Here’s How Violent Extremists Are Exploiting Generative AI Tools](https://www.wired.com/story/generative-ai-terrorism-content/)
- - [Call of Duty anti-cheat update will make cheaters go splat](https://www.theverge.com/2023/11/9/23954565/call-of-duty-anti-cheat-splat-modern-warfare-3-warzone)
- - [GM’s Cruise Rethinks Its Robotaxi Strategy After Admitting a Software Fault in Gruesome Crash](https://www.wired.com/story/gm-cruise-robotaxi-strategy-admitting-software-fault-in-gruesome-crash/)<!-- TECH:END -->
+ - [Call of Duty anti-cheat update will make cheaters go splat](https://www.theverge.com/2023/11/9/23954565/call-of-duty-anti-cheat-splat-modern-warfare-3-warzone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV app adds 3D movies ahead of Vision Pro release](https://appleinsider.com/articles/23/11/09/apple-tv-app-adds-3d-movies-ahead-of-vision-pro-release?utm_medium=rss)
+ - [Since becoming Twitch CEO in March 2023, Dan Clancy has been traveling the US in a van, meeting prominent streamers and listening to their ideas and concerns &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231109/p20#a231109p20)
  - [Panasonic Eneloop Rechargeable Batteries Are the Best](https://www.wired.com/story/panasonic-eneloop-rechargeable-batteries-rave/)
  - [System 76 Lemur Pro Review: Ultraportable Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
- - [9 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Brokers, hedge funds, and advisers push back hard on proposed SEC rules on using AI for financial advice, with comments coming well past the October 10 deadline &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/231109/p19#a231109p19)
- - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)<!-- TECH:END -->
+ - [9 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

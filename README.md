@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Bryce Adams and Brian Adam&#39;s OnlyFans empire, run from a $2.5M Florida compound: $10M in annual revenue and a $1M+ payroll; Adams&#39; OF has $16.5M in sales &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231109/p18#a231109p18)
+ - [&#39;Loki&#39; Season 2 Finale: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-finale-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [US v. Google exposes Google&#39;s deepening rift with Microsoft, despite Satya Nadella&#39;s early attempts to make nice; four Microsoft witnesses have testified &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p17#a231109p17)
  - [SMIC reports Q3 revenue down 15% YoY to $1.62B, missing $1.64B est., and net income down 80% YoY to $94M, missing $178.1M est., despite Huawei&#39;s Mate 60 Pro &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p16#a231109p16)
- - [Nvidia announces January event after rumors of an RTX 4080 Super launch](https://www.theverge.com/2023/11/9/23953641/nvidia-ces-2024-event-rtx-4070-4080-super-rumors)
- - [No Apple Tax for environmental efforts applied to users, says Lisa Jackson](https://appleinsider.com/articles/23/11/09/no-apple-tax-for-environmental-efforts-applied-to-users-says-lisa-jackson?utm_medium=rss)
- - [How to Watch Every NBA Basketball Game on a Streaming Service &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nba-basketball/)
- - [Chinese state-affiliated outlet Chinastarmarket says Nvidia plans to release three new H100-based AI chips in the country in the coming days, after US sanctions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231109/p15#a231109p15)<!-- TECH:END -->
+ - [Nvidia announces January event after rumors of an RTX 4080 Super launch](https://www.theverge.com/2023/11/9/23953641/nvidia-ces-2024-event-rtx-4070-4080-super-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

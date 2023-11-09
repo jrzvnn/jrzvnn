@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple co-founder Steve Wozniak hospitalized over possible stroke](https://appleinsider.com/articles/23/11/09/apple-co-founder-steve-wozniak-hospitalized-over-possible-stroke?utm_medium=rss)
+ - [Omegle is shutting down notorious video chat service as scrutiny grows](https://www.theverge.com/2023/11/9/23953620/omegle-anonymous-video-chat-shut-down-online-safety)
+ - [Ofcom&#39;s CEO discusses its new powers to police tech companies: kids are a priority, companies need to detect and remove CSAM, and working in harmony with the EU &lpar;Melanie Dawes/Financial Times&rpar;](http://www.techmeme.com/231109/p10#a231109p10)
  - [Omegle, a popular online chat service founded in 2009, plans to shut down; founder Leif K-Brooks blames rising misuse, including in committing &quot;heinous crimes&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231109/p9#a231109p9)
- - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)
- - [A key advisor to the CJEU recommends setting aside a 2020 EU ruling that said Apple did not owe Ireland &amp;euro;13B+ in back taxes, a major blow to Apple and Ireland &lpar;Joe Brennan/The Irish Times&rpar;](http://www.techmeme.com/231109/p8#a231109p8)
- - [SoftBank reports an adjusted ~$300M investment gain for its Vision Funds in Q2, as Vision Fund 1 gained $2.5B thanks Arm&#39;s IPO while Vision Fund 2 lost $2.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p7#a231109p7)
- - [Game developers, voice actors, writers, and others criticize Inworld AI and Xbox partnering to create AI game development tools, after layoffs in the industry &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231109/p6#a231109p6)<!-- TECH:END -->
+ - [Signal tests usernames so you can avoid sharing your phone number](https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

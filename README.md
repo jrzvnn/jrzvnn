@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony COO Hiroki Totoki says the company now plans to release six live service games by FY 2025, down from the originally planned 12 titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/231109/p24#a231109p24)
- - [Spotify rolls out a redesigned TV app, offering a new homepage similar to the desktop and mobile apps, a new playback queue, a dark mode, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231109/p23#a231109p23)
- - [Apple TV+ takes us into aerial battle with &#39;Masters of the Air&#39;](https://appleinsider.com/articles/23/11/09/apple-tv-takes-us-into-aerial-battle-with-masters-of-the-air?utm_medium=rss)
- - [A look at Berlin-based financial regulator BaFin, which has sanctioned ~12 fintechs in the past year, hoping to repair its image after the Wirecard scandal &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p22#a231109p22)
- - [Spotify’s redesigned TV app works more like your phone](https://www.theverge.com/2023/11/9/23953719/spotify-tv-app-redesign-update)<!-- TECH:END -->
+ - [Amazon makes online grocery delivery service available for non-Prime members, starting with Amazon Fresh customers in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p25#a231109p25)
+ - [Best Mattresses for Guest Rooms of 2023     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
+ - [Apple AirPods Pro 2 USB-C Review: Still Hard to Beat for Apple Users     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-usb-c-review/#ftag=CAD590a51e)
+ - [Leesa Sapira Chill Mattress Review: How Does It Compare to the Original Leesa Sapira? video     - CNET](https://www.cnet.com/videos/leesa-sapira-chill-mattress-review-how-does-it-compare-to-the-original-leesa-sapira/#ftag=CAD590a51e)
+ - [The Best Motorola Phones &lpar;2023&rpar;: Pro and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

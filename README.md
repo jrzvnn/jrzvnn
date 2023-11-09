@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
  - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 💣 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 👉 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)<!-- MEMES:END -->
+ - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
+ - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 💣 [No title](http://9gag.com/gag/aqew5DR)
- - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aqew5DR)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 💣 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
+ - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
+ - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
 
 ---
 

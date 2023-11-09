@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT is powering a new kind of Snapchat lens](https://www.theverge.com/2023/11/9/23954372/snapchat-lenses-developers-beta-chatgpt-ai)
+ - [The iPhone 15 Pro is getting spatial video capture in iOS 17.2](https://www.theverge.com/2023/11/9/23954310/apple-iphone-15-ios-17-beta-spatial-video-vision-pro)
  - [A bankruptcy court allows Celsius Network to end its bankruptcy case, return some of its users&#39; deposits, and form a new company focused on mining and staking &lpar;Soma Biswas/Wall Street Journal&rpar;](http://www.techmeme.com/231109/p38#a231109p38)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
- - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
- - [Amazon and Meta are testing a feature that shows shoppers real-time prices and lets them buy from Amazon directly via ads on Instagram and Facebook in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231109/p37#a231109p37)<!-- TECH:END -->
+ - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
- - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
+ - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [Burn the witch!](http://9gag.com/gag/aZD5po9)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 ---
 

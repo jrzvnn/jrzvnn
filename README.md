@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)
+ - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - 💣 [University of excuses](http://9gag.com/gag/aXn1qXd)
  - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [We both going down.](http://9gag.com/gag/aREdK7B)<!-- MEMES:END -->
+ - 👉 [The cat did the mouse](http://9gag.com/gag/aXn1qBz)<!-- MEMES:END -->
 
 ---
 

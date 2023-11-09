@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Citrix-owner Cloud Software Group plans to cease all new business transactions in China, including Hong Kong, on December 3, citing rising costs in the market &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/231108/p52#a231108p52)
  - [Google offered Epic $147 million to launch Fortnite on the Play store](https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial)
  - [Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
- - [Best 4K TV for 2023: High Definition at Every Price Range     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Twilio reports Q3 revenue up 5% YoY to $1.03B, vs. $985M est., 306K+ active customer accounts, vs. 280K+ YoY, and a Q4 guidance above estimates; TWLO jumps 7%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231108/p51#a231108p51)<!-- TECH:END -->
+ - [Twilio reports Q3 revenue up 5% YoY to $1.03B, vs. $985M est., 306K+ active customer accounts, vs. 280K+ YoY, and a Q4 guidance above estimates; TWLO jumps 7%+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231108/p51#a231108p51)
+ - [Hollywood actors reach tentative deal to end their strike](https://www.theverge.com/2023/11/8/23945647/hollywood-actors-sag-aftra-strike-contract-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

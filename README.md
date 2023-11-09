@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
- - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
+ - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
+ - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
+ - 💣 [Damn women](http://9gag.com/gag/aA05Dyo)
+ - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
+ - 👉 [Who&#39;s the colonizer now?](http://9gag.com/gag/a7qXMM2)<!-- MEMES:END -->
 
 ---
 

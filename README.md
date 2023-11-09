@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland just deported a 20y old Ukrainian man for notoriously breaking the law. How things should be done.](http://9gag.com/gag/avQwOGn)
- - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
- - 💣 [When will it stop?](http://9gag.com/gag/aOx5YmD)
- - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
- - 👉 [This is the Feminism the world needs](http://9gag.com/gag/a4oy741)<!-- MEMES:END -->
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
+ - 💣 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
 

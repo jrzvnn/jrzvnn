@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aqew5DR)
- - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 💣 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
- - 😝 [Teachers &lpar;professors&rpar; are unsung heroes](http://9gag.com/gag/a04qj6Q)
- - 👉 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)<!-- MEMES:END -->
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [A mother\u2019s touch](http://9gag.com/gag/awZ2VN8)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)
+ - 👉 [Why do women do this?](http://9gag.com/gag/amAwrZV)<!-- MEMES:END -->
 
 ---
 

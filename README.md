@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 😝 [Good it didn&#39;t die from a heart attack](http://9gag.com/gag/aeQwGEv)
- - 💣 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 😝 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)
+ - 💣 [You wouldn&#39;t even be able to see his eyes.](http://9gag.com/gag/a7qXdGm)
  - 😝 [\ud83d\ude04 Recharge your smile with Miniso! \ud83c\udf88 Times Square just got a whole lot happier! We lit up the city with our Wink Balls, where happiness meets style. \ud83d\ude03](http://9gag.com/gag/aEq5RRo)
  - 👉 [Bruh, I&#39;m speechless](http://9gag.com/gag/avQwnvZ)<!-- MEMES:END -->
 

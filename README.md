@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
+ - 😝 [Who is it for?..](http://9gag.com/gag/a5X3n6L)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 💣 [No title](http://9gag.com/gag/aqew5DR)
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 👉 [Well bummer](http://9gag.com/gag/a04qbdv)<!-- MEMES:END -->
 
 ---
 

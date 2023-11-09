@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank reports an adjusted ~$300M investment gain for its Vision Funds in Q2, as Vision Fund 1 gained $2.5B thanks Arm&#39;s IPO while Vision Fund 2 lost $2.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/231109/p7#a231109p7)
  - [Game developers, voice actors, writers, and others criticize Inworld AI and Xbox partnering to create AI game development tools, after layoffs in the industry &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231109/p6#a231109p6)
  - [Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike](https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/)
  - [Sony reports Q2 revenue up 8% YoY to ~$18.5B, operating profit down 29% YoY to ~$1.74B, chips division profit down 38%, and 4.9M PS5 sales, vs. 3.3M in Q2 2022 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231109/p5#a231109p5)
- - [Police Use of Face Recognition Is Sweeping the UK](https://www.wired.com/story/uk-police-face-recognition-expansion/)
- - [Epic v. Google: Google exec Purnima Kochikar says Google offered to pay Epic $147M over a three years period ending in 2021 to launch Fortnite on Play Store &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p4#a231109p4)<!-- TECH:END -->
+ - [Police Use of Face Recognition Is Sweeping the UK](https://www.wired.com/story/uk-police-face-recognition-expansion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

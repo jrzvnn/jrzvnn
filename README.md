@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris exhibition celebrates iPhone 15 Pro Max&#39;s role in capturing memories](https://appleinsider.com/articles/23/11/09/paris-exhibition-celebrates-iphone-15-pro-maxs-role-in-capturing-memories?utm_medium=rss)
+ - [Polygon Labs launches a grant program, with 110 million of its MATIC native token, worth around $85M, to entice developers to build apps in its ecosystem &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231109/p27#a231109p27)
  - [Google has removed Fitbit products from 29 countries, including those where it doesn&#39;t offer Pixel alternatives, to &quot;align&quot; its hardware portfolio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231109/p26#a231109p26)
  - [The Apple Watch Series 9 is available at its best price yet](https://www.theverge.com/2023/11/9/23952102/apple-watch-series-9-oneplus-pad-tablet-amazon-echo-buds-deal-sale)
- - [NuPhy Air75 V2 keyboard review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
- - [Amazon makes online grocery delivery service available for non-Prime members, starting with Amazon Fresh customers in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p25#a231109p25)
- - [Best Mattresses for Guest Rooms of 2023     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NuPhy Air75 V2 keyboard review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

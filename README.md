@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has removed Fitbit products from 29 countries, including those where it doesn&#39;t offer Pixel alternatives, to &quot;align&quot; its hardware portfolio &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231109/p26#a231109p26)
  - [The Apple Watch Series 9 is available at its best price yet](https://www.theverge.com/2023/11/9/23952102/apple-watch-series-9-oneplus-pad-tablet-amazon-echo-buds-deal-sale)
  - [NuPhy Air75 V2 keyboard review: Expanding wireless freedom while lessening latency](https://appleinsider.com/articles/23/11/09/nuphy-air75-v2-review-expanding-wireless-freedom-while-lessening-latency?utm_medium=rss)
  - [Amazon makes online grocery delivery service available for non-Prime members, starting with Amazon Fresh customers in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231109/p25#a231109p25)
- - [Best Mattresses for Guest Rooms of 2023     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
- - [Apple AirPods Pro 2 USB-C Review: Still Hard to Beat for Apple Users     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-usb-c-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses for Guest Rooms of 2023     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft now asks users to provide a reason for closing the OneDrive app on Windows from a list, including &quot;I don&#39;t know what OneDrive is&quot; &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/231109/p21#a231109p21)
  - [Aliro could unlock a new future for smart locks and digital keys](https://www.theverge.com/2023/11/9/23952637/csa-aliro-new-standard-smart-locks-digital-access)
  - [Apple TV app adds 3D movies ahead of Vision Pro release](https://appleinsider.com/articles/23/11/09/apple-tv-app-adds-3d-movies-ahead-of-vision-pro-release?utm_medium=rss)
  - [Since becoming Twitch CEO in March 2023, Dan Clancy has been traveling the US in a van, meeting prominent streamers and listening to their ideas and concerns &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231109/p20#a231109p20)
- - [A Review of Misfits Market: A Low-Cost Grocery Delivery Service With Much More Than Ugly Apples     - CNET](https://www.cnet.com/health/nutrition/misfits-market-review/#ftag=CAD590a51e)
- - [How to Change Your Apple Watch Strap: A Step-by-Step Guide     - CNET](https://www.cnet.com/tech/mobile/how-to-change-your-apple-watch-strap-a-step-by-step-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Review of Misfits Market: A Low-Cost Grocery Delivery Service With Much More Than Ugly Apples     - CNET](https://www.cnet.com/health/nutrition/misfits-market-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

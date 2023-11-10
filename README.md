@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A24 is making an Elon Musk biopic directed by Darren Aronofsky](https://www.theverge.com/23955295/a24-elon-musk-biopic-darren-aronofsky-biography)
  - [Sony’s new ‘slim’ PlayStation 5 is smaller but also weirder](https://www.theverge.com/2023/11/10/23955005/sony-playstation-5-ps5-slim-size-comparison-photo-gallery-hands-on-impressions)
+ - [What a Microgrid in Arizona Teaches Us About Energy Resiliency     - CNET](https://www.cnet.com/home/energy-and-utilities/what-a-microgrid-in-arizona-teaches-us-about-energy-resiliency/#ftag=CAD590a51e)
  - [15 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm](https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/)
- - [Tech Disrupted Hollywood. AI Almost Destroyed It](https://www.wired.com/story/hollywood-actors-strike-ai-future-distruption/)
- - [Could a Cockroach Survive a Fall From Space?](https://www.wired.com/story/could-a-cockroach-survive-a-fall-from-space/)<!-- TECH:END -->
+ - [Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm](https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei Freebuds Pro 3 Review: Sophisticated Sound, Lackluster Noise Cancelling](https://www.wired.com/review/review-huawei-freebuds-pro-3-true-wireless-in-ear-headphones/)
+ - [10 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023/)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
  - [After critics pan Activision&#39;s Call of Duty: Modern Warfare III, sources blame the game&#39;s rushed 16-month development, compared to three years for other titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231110/p13#a231110p13)
- - [Best Generator Deals: Save Big on Generators Up to 13,000 Watts     - CNET](https://www.cnet.com/deals/best-generators-deals/#ftag=CAD590a51e)
- - [Apple readying for legal battle against European Union&#39;s App Store regulations](https://appleinsider.com/articles/23/11/10/apple-readying-for-legal-battle-against-european-unions-app-store-regulations?utm_medium=rss)
- - [These Sony WF-C500 Earbuds Are Just $29 at Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/these-sony-wf-c500-earbuds-are-just-29-at-walmarts-black-friday-sale/#ftag=CAD590a51e)
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2023&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)<!-- TECH:END -->
+ - [Best Generator Deals: Save Big on Generators Up to 13,000 Watts     - CNET](https://www.cnet.com/deals/best-generators-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

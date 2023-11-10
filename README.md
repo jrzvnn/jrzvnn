@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
  - [Samsung Galaxy Buds FE review: sometimes the fit is everything](https://www.theverge.com/23954073/samsung-galaxy-buds-fe-review)
  - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)
  - [New MacBook Pro and iMac, new Final Cut Pro, and Humane&#39;s AI Pin on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/10/new-macbook-pro-and-imac-new-final-cut-pro-and-humanes-ai-pin-on-the-appleinsider-podcast?utm_medium=rss)
- - [10 Best Cozy Games &lpar;2023&rpar;: Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
- - [JBuds Mini Review: The Cutest, Tiniest Lil’ Earbuds](https://www.wired.com/story/jlab-audio-jbuds-mini-rave/)<!-- TECH:END -->
+ - [10 Best Cozy Games &lpar;2023&rpar;: Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

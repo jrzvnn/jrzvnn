@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 💣 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
- - 😝 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
- - 👉 [It&#39;s an ecchi looking show, how bad can it be?](http://9gag.com/gag/aXn1vZg)<!-- MEMES:END -->
+ - 😝 [When will it stop?](http://9gag.com/gag/aOx5YmD)
+ - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
+ - 💣 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
+ - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 👉 [Kebab is life](http://9gag.com/gag/a1PjQx8)<!-- MEMES:END -->
 
 ---
 

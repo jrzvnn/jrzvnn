@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
- - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
- - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
+ - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
 
 ---
 

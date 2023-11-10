@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - 😝 [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
- - 💣 [Double standard](http://9gag.com/gag/aVb5wYO)
- - 😝 [Title](http://9gag.com/gag/aL15wzA)
- - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
+ - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
 
 ---
 

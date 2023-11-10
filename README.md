@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 😝 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
- - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 👉 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)<!-- MEMES:END -->
+ - 😝 [How many times!?](http://9gag.com/gag/axowgpp)
+ - 💣 [Shocker](http://9gag.com/gag/aDY5z87)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 👉 [Secret handshake](http://9gag.com/gag/axowV2b)<!-- MEMES:END -->
 
 ---
 

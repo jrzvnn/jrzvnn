@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
+ - 😝 [Top gear was something else](http://9gag.com/gag/a9q0RoK)
+ - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
+ - 💣 [Double standard](http://9gag.com/gag/aVb5wYO)
+ - 😝 [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
+ - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
 
 ---
 

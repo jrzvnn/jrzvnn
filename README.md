@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Apple search results and product pages on Amazon have few, if any, rival ads, after Apple asked Amazon for special treatment before their 2018 deal &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231110/p20#a231110p20)
+ - [Report: Apple product and search result pages on Amazon have few, if any, rival ads, after Apple asked for preferential treatment, leading to their 2018 deal &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231110/p20#a231110p20)
  - [Apple&#39;s ad-free presence on Amazon raises questions about digital advertising practices](https://appleinsider.com/articles/23/11/10/apples-ad-free-presence-on-amazon-raises-questions-about-digital-advertising-practices?utm_medium=rss)
  - [The strikes are over — cue the rewatch podcasts](https://www.theverge.com/2023/11/10/23955828/sag-strike-podcast-iheart-obama-grammys-youtube)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)

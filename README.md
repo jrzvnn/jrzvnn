@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 😝 [When reality hits.](http://9gag.com/gag/aYV5xXq)
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
  - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
+ - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
 
 ---
 

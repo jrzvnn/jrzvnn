@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
  - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
+ - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 ---
 

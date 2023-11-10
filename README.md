@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
  - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
  - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
+ - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
 
 ---
 

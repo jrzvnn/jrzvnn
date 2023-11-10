@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the Feminism the world needs](http://9gag.com/gag/a4oy741)
- - 😝 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
- - 💣 [Perfection!](http://9gag.com/gag/az2wqQm)
- - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
- - 👉 [Kebab is life](http://9gag.com/gag/a1PjQx8)<!-- MEMES:END -->
+ - 😝 [Oh no ...](http://9gag.com/gag/aOx5YND)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
 

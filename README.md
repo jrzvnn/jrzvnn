@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure](https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/)
  - [In an AMA, Matt Mullenweg spoke about Tumblr&#39;s future after shifting the majority of its workforce to other areas at Automattic, monetization, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231110/p21#a231110p21)
  - [Report: Apple product and search result pages on Amazon have few, if any, rival ads, after Apple asked for preferential treatment, leading to their 2018 deal &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231110/p20#a231110p20)
- - [Best Budgeting Apps for November 2023     - CNET](https://www.cnet.com/personal-finance/banking/best-budgeting-apps/#ftag=CAD590a51e)
- - [Best Buy Black Friday: Shop Major Deals on Tech and Home Right Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s ad-free presence on Amazon raises questions about digital advertising practices](https://appleinsider.com/articles/23/11/10/apples-ad-free-presence-on-amazon-raises-questions-about-digital-advertising-practices?utm_medium=rss)
+ - [The strikes are over — cue the rewatch podcasts](https://www.theverge.com/2023/11/10/23955828/sag-strike-podcast-iheart-obama-grammys-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

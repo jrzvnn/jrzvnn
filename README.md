@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
  - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 💣 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
  - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 👉 [What are the things that you can say at a family gathering and in the bedroom?](http://9gag.com/gag/a5X3Rqq)<!-- MEMES:END -->
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
- - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
- - [Samsung Galaxy Buds FE review: sometimes the fit is everything](https://www.theverge.com/23954073/samsung-galaxy-buds-fe-review)
- - [Samsung Galaxy Z Fold 5 Deals: $300 Off Locked and Unlocked Models, Up to $1,000 of Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
- - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)<!-- TECH:END -->
+ - [Sony’s new ‘slim’ PlayStation 5 is smaller but also weirder](https://www.theverge.com/2023/11/10/23955005/sony-playstation-5-ps5-slim-size-comparison-photo-gallery-hands-on-impressions)
+ - [15 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm](https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/)
+ - [Tech Disrupted Hollywood. AI Almost Destroyed It](https://www.wired.com/story/hollywood-actors-strike-ai-future-distruption/)
+ - [Could a Cockroach Survive a Fall From Space?](https://www.wired.com/story/could-a-cockroach-survive-a-fall-from-space/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 😝 [How many times!?](http://9gag.com/gag/axowgpp)
- - 💣 [Shocker](http://9gag.com/gag/aDY5z87)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [Secret handshake](http://9gag.com/gag/axowV2b)<!-- MEMES:END -->
+ - 😝 [Hans, you did it again!](http://9gag.com/gag/a9q0Ky1)
+ - 😝 [Residents in Gaza blame Hamas for the current situation, claiming they are using them as human shields](http://9gag.com/gag/agow5oq)
+ - 💣 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 😝 [Soul](http://9gag.com/gag/anzwMvo)
+ - 👉 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)<!-- MEMES:END -->
 
 ---
 

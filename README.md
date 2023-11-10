@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sundar Pichai will take the stand in Epic v. Google](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)
+ - [Apple agrees to pay $25M to settle the US DOJ claims that the company illegally favored immigrant workers over US citizens and green card holders for some jobs &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/231109/p44#a231109p44)
+ - [Steam Deck OLED, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
  - [Internal website: Microsoft restricts employee access to ChatGPT and other external AI services like Midjourney or Replika &quot;due to security and data concerns&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231109/p43#a231109p43)
- - [Unity is probably going to do layoffs](https://www.theverge.com/2023/11/9/23954709/unity-layoffs-q3-earnings-runtime-program)
- - [Google won’t say if companies beyond Spotify got secret special app store deals](https://www.theverge.com/2023/11/9/23954376/google-spotify-user-choice-billing-deal-bumble-epic)
- - [Apple to pay $25 million settlement over illegally favoring immigrant workers](https://appleinsider.com/articles/23/11/09/apple-to-pay-25-million-settlement-over-illegally-favoring-immigrant-workers?utm_medium=rss)
- - [Here’s How Violent Extremists Are Exploiting Generative AI Tools](https://www.wired.com/story/generative-ai-terrorism-content/)<!-- TECH:END -->
+ - [Walmart Black Friday Deals: Score Early Savings on Tech, Home Goods and More     - CNET](https://www.cnet.com/deals/walmart-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

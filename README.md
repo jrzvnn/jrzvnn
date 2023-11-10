@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
+ - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
  - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
  - [Samsung Galaxy Buds FE review: sometimes the fit is everything](https://www.theverge.com/23954073/samsung-galaxy-buds-fe-review)
  - [Samsung Galaxy Z Fold 5 Deals: $300 Off Locked and Unlocked Models, Up to $1,000 of Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)

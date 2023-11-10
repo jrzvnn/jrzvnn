@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance plans to stop accepting deposits in Russian rubles starting November 15, 2023 and withdrawals on January 31, 2024, advises users to withdraw rubles &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/231110/p8#a231110p8)
  - [Two years later, Apple hasn&#39;t broken ground on its massive North Carolina campus](https://appleinsider.com/articles/23/11/10/two-years-later-apple-hasnt-broken-ground-on-its-massive-north-carolina-campus?utm_medium=rss)
- - [47 countries including all 38 OECD member states issue a joint pledge to &quot;swiftly transpose&quot; OECD&#39;s Crypto-Asset Reporting Framework into their domestic laws &lpar;David Attlee/Cointelegraph&rpar;](http://www.techmeme.com/231110/p7#a231110p7)
- - [Chinese foreign ministry says ICBC is trying to minimize losses after the ransomware attack; a source says the attack is &quot;limited in impact and almost resolved&quot; &lpar;Cheng Leng/Financial Times&rpar;](http://www.techmeme.com/231110/p6#a231110p6)
- - [Disney delays Deadpool 3 and other Marvel films as actors’ strike ends](https://www.theverge.com/2023/11/10/23955157/deadpool-3-delayed-captain-america-brave-new-world-blade-thunderbolts-actors-strike)
- - [Black Friday Ads: Shop and Preview Early Deals at Best Buy, Walmart, B&amp;H and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-ad-scans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shopping Early Black Friday Deals? Here&#39;s the Return Policy     - CNET](https://www.cnet.com/tech/shopping-early-black-friday-deals-heres-the-return-policy/#ftag=CAD590a51e)
+ - [26 White Elephant Gifts People Will Actually Want     - CNET](https://www.cnet.com/news/best-white-elephant-gifts/#ftag=CAD590a51e)
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

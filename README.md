@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
- - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
 
 ---
 

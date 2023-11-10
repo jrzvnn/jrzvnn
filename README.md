@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix debuts Yu Yu Hakusho live-action trailer](https://www.theverge.com/23955649/netflix-yu-yu-hakusho-live-action-trailer)
+ - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)
+ - [The first trailer of Netflix’s live action Yu Yu Hakusho is missing one crucial thing](https://www.theverge.com/23955649/netflix-yu-yu-hakusho-live-action-trailer)
  - [LockBit leaks ~50GB of data that the ransomware gang claims to have stolen from Boeing in October, after the company apparently refused to pay the ransom demand &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231110/p22#a231110p22)
  - [The Witcher continues on Netflix with the Sirens of the Deep animated movie](https://www.theverge.com/23955404/the-witcher-sirens-of-the-deep-trailer-netflix)
- - [Senate Leaders Are Trying to Extend a Controversial NSA Surveillance Program](https://www.wired.com/story/section-702-nsa-surveillance-senate/)
- - [The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure](https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/)<!-- TECH:END -->
+ - [Senate Leaders Plan to Prolong NSA Surveillance Using a Must-Pass Bill](https://www.wired.com/story/section-702-nsa-surveillance-senate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

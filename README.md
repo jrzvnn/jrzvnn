@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 💣 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 ---
 

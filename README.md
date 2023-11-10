@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
  - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)
  - [Apple supplier Luxshare invests $330 million in Vietnam plant](https://appleinsider.com/articles/23/11/10/apple-supplier-luxshare-invests-330-million-in-vietnam-plant?utm_medium=rss)
  - [Japan plans to allocate extra ~$13B in subsidies to drive investment in its chip industry, on top of previously allocated subsidies which are yet to be spent &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/231110/p4#a231110p4)
- - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)
- - [Experts say LockBit is behind the Industrial and Commercial Bank of China hack, a &quot;ransomware as a service&quot; group behind UK&#39;s Royal Mail hack among others &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p2#a231110p2)<!-- TECH:END -->
+ - [Kai-Fu Lee, CEO of Chinese startup 01.AI, says the company stockpiled enough Nvidia chips to last for next 18 months before the US&#39;s China chip ban kicked in &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p3#a231110p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

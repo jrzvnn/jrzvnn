@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: Apple plans to file an EU DMA challenge, disputing the inclusion of all of the App Store on DMA&#39;s list, and arguing that DMA doesn&#39;t cover iMessage &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p16#a231110p16)
+ - [Community Solar Is Growing to Fill the Gaps in Clean Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/community-solar-is-growing-to-fill-the-gaps-in-clean-energy/#ftag=CAD590a51e)
  - [Is the Cybertruck’s wiper actually multiple wipers in a row? An investigation](https://www.theverge.com/2023/11/10/23955489/tesla-cybertruck-windshield-wiper-investigation)
- - [Qualcomm’s satellite SOS for Android feature didn’t make it to launch](https://www.theverge.com/2023/11/10/23955416/qualcomm-snapdragon-satellite-shut-down-emergency-sos-iridium)
- - [Sources: FBI has suspended briefings to social media companies about Russian, Iranian and Chinese influence campaigns, due to GOP attacks on information sharing &lpar;NBC News&rpar;](http://www.techmeme.com/231110/p15#a231110p15)
- - [The Nintendo Switch OLED and Xbox Series X are on sale with a $75 Dell gift card](https://www.theverge.com/2023/11/10/23954803/nintendo-switch-oled-xbox-series-x-amazfit-band-7-deal-sale)<!-- TECH:END -->
+ - [Walmart&#39;s Early Sale Offers Black Friday E-Bike Prices Now     - CNET](https://www.cnet.com/roadshow/news/walmarts-early-sale-offers-black-friday-e-bike-prices-now/#ftag=CAD590a51e)
+ - [Qualcomm’s satellite SOS for Android feature didn’t make it to launch](https://www.theverge.com/2023/11/10/23955416/qualcomm-snapdragon-satellite-shut-down-emergency-sos-iridium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

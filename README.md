@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
+ - 💣 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)
+ - 😝 [Double standard](http://9gag.com/gag/aVb5wYO)
+ - 👉 [Title](http://9gag.com/gag/aL15wzA)<!-- MEMES:END -->
 
 ---
 

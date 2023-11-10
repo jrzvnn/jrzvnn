@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Chinese foreign ministry says ICBC is trying to minimize losses after the ransomware attack; a source says the attack is &quot;limited in impact and almost resolved&quot; &lpar;Cheng Leng/Financial Times&rpar;](http://www.techmeme.com/231110/p6#a231110p6)
  - [Disney delays Deadpool 3 and other Marvel films as actors’ strike ends](https://www.theverge.com/2023/11/10/23955157/deadpool-3-delayed-captain-america-brave-new-world-blade-thunderbolts-actors-strike)
+ - [Black Friday Ads: Shop and Preview Early Deals at Best Buy, Walmart, B&amp;H and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-ad-scans/#ftag=CAD590a51e)
  - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
- - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
- - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)<!-- TECH:END -->
+ - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

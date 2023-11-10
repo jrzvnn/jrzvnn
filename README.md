@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney delays Deadpool 3 and other Marvel films as actors’ strike ends](https://www.theverge.com/2023/11/10/23955157/deadpool-3-delayed-captain-america-brave-new-world-blade-thunderbolts-actors-strike)
  - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
  - [This New Tool Aims to Keep Terrorism Content Off the Internet](https://www.wired.com/story/altitude-terrorism-content-removal-tool/)
  - [Microsoft: MOVEit hackers are exploiting a zero-day flaw in IT support tool SysAid in &quot;limited&quot; attacks to access corporate servers and deploy Clop ransomware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p5#a231110p5)
- - [Apple supplier Luxshare invests $330 million in Vietnam plant](https://appleinsider.com/articles/23/11/10/apple-supplier-luxshare-invests-330-million-in-vietnam-plant?utm_medium=rss)
- - [Japan plans to allocate extra ~$13B in subsidies to drive investment in its chip industry, on top of previously allocated subsidies which are yet to be spent &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/231110/p4#a231110p4)<!-- TECH:END -->
+ - [Apple supplier Luxshare invests $330 million in Vietnam plant](https://appleinsider.com/articles/23/11/10/apple-supplier-luxshare-invests-330-million-in-vietnam-plant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

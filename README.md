@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)
  - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
  - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
  - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
  - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->

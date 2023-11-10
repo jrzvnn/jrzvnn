@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)
- - 😝 [Carnival practice in Brasil. The band and the dancers have to be always synchronized. They train themselves to perfection.](http://9gag.com/gag/a9q0A1Z)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
+ - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 💣 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [Oh no ...](http://9gag.com/gag/aOx5YND)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s ad-free presence on Amazon raises questions about digital advertising practices](https://appleinsider.com/articles/23/11/10/apples-ad-free-presence-on-amazon-raises-questions-about-digital-advertising-practices?utm_medium=rss)
+ - [The strikes are over — cue the rewatch podcasts](https://www.theverge.com/2023/11/10/23955828/sag-strike-podcast-iheart-obama-grammys-youtube)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
  - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [India proposes new broadcast and streaming rules that would set up content evaluation committees and allow regulation of any online creator or news platform &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/231110/p19#a231110p19)
- - [The Verge’s staff tries to survive the holiday season](https://www.theverge.com/23954555/holidays-stress-cooking-family)<!-- TECH:END -->
+ - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

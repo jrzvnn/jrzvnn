@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
  - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 ---

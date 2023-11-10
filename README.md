@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Nov. 10: iPad mini 6 $399, MacBook Air from $600, $100 off iPad Air 5, more](https://appleinsider.com/articles/23/11/10/daily-deals-nov-10-ipad-mini-6-399-macbook-air-from-600-100-off-ipad-air-5-more?utm_medium=rss)
- - [Apple MacBook Pro 16 M3 Max review: the most power for the most money](https://www.theverge.com/23949207/apple-macbook-pro-16-m3-max-review-price-specs)
- - [Omegle was forced to shut down as part of a settlement of a user&#39;s lawsuit claiming its design enabled her to be sexually abused since when she was 11 &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231110/p14#a231110p14)
- - [Arlo’s new home security subscription service covers both hardware and monitoring](https://www.theverge.com/2023/11/10/23955231/arlo-diy-total-security-subscription-2k-pro-5s-cameras)
- - [Huawei Freebuds Pro 3 Review: Sophisticated Sound, Lackluster Noise Cancelling](https://www.wired.com/review/review-huawei-freebuds-pro-3-true-wireless-in-ear-headphones/)<!-- TECH:END -->
+ - [Is the Cybertruck’s wiper actually multiple wipers in a row? An investigation](https://www.theverge.com/2023/11/10/23955489/tesla-cybertruck-windshield-wiper-investigation)
+ - [Qualcomm’s satellite SOS for Android feature didn’t make it to launch](https://www.theverge.com/2023/11/10/23955416/qualcomm-snapdragon-satellite-shut-down-emergency-sos-iridium)
+ - [Sources: FBI has suspended briefings to social media companies about Russian, Iranian and Chinese influence campaigns, due to GOP attacks on information sharing &lpar;NBC News&rpar;](http://www.techmeme.com/231110/p15#a231110p15)
+ - [The Nintendo Switch OLED and Xbox Series X are on sale with a $75 Dell gift card](https://www.theverge.com/2023/11/10/23954803/nintendo-switch-oled-xbox-series-x-amazfit-band-7-deal-sale)
+ - [11 Walmart Early Black Friday Deals &lpar;2023&rpar;: TVs, Smartwatches, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

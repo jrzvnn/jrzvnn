@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
  - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
+ - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
 
 ---
 

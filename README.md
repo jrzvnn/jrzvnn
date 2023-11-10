@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)
+ - 😝 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
  - 😝 [Oh no ...](http://9gag.com/gag/aOx5YND)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 👉 [Well, golly](http://9gag.com/gag/a4oyGwZ)<!-- MEMES:END -->
 
 ---
 

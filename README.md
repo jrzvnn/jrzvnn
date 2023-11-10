@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)
  - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
  - [The Long Quest for a Universal Flu Vaccine Finally Takes Its First Steps](https://www.wired.com/story/the-long-quest-for-a-universal-flu-vaccine-finally-takes-its-first-steps/)
  - [23 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: Garmin, Lifestraw and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023/)
- - [Apple iMac &lpar;M3, 24-Inch&rpar; Review: Same Beauty, More Power](https://www.wired.com/review/apple-imac-m3-24-inch/)
- - [Binance plans to stop accepting deposits in Russian rubles starting November 15, 2023 and withdrawals on January 31, 2024, advises users to withdraw rubles &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/231110/p8#a231110p8)<!-- TECH:END -->
+ - [Apple iMac &lpar;M3, 24-Inch&rpar; Review: Same Beauty, More Power](https://www.wired.com/review/apple-imac-m3-24-inch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

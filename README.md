@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)
  - [Hands-on with Apple&#39;s spatial video: easy to record on iPhone 15 Pro and viewing them on Vision Pro is an impressive experience with compellingly realistic 3D &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/231110/p18#a231110p18)
  - [Warner Bros. Discovery just canned another nearly finished film](https://www.theverge.com/2023/11/10/23955432/warner-bros-discovery-coyote-acme-shelved-john-cena)
  - [Maine&#39;s government says that MOVEit hackers may have accessed the personal information of ~1.3M individuals, which is close to the state&#39;s entire population &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p17#a231110p17)
- - [End of Mint: How to Download Your Financial Data Before It&#39;s Gone     - CNET](https://www.cnet.com/personal-finance/end-of-mint-how-to-download-your-financial-data-before-its-gone/#ftag=CAD590a51e)
- - [Apple iPhone Spatial Video Arrives in Beta and Looks Amazing on Vision Pro     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-spatial-video-arrives-in-beta-and-looks-amazing-on-vision-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [End of Mint: How to Download Your Financial Data Before It&#39;s Gone     - CNET](https://www.cnet.com/personal-finance/end-of-mint-how-to-download-your-financial-data-before-its-gone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

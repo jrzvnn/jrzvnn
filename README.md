@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After critics pan Activision&#39;s Call of Duty: Modern Warfare III, sources blame the game&#39;s rushed 16-month development, compared to three years for other titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231110/p13#a231110p13)
+ - [Best Generator Deals: Save Big on Generators Up to 13,000 Watts     - CNET](https://www.cnet.com/deals/best-generators-deals/#ftag=CAD590a51e)
  - [Apple readying for legal battle against European Union&#39;s App Store regulations](https://appleinsider.com/articles/23/11/10/apple-readying-for-legal-battle-against-european-unions-app-store-regulations?utm_medium=rss)
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2023&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
- - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
- - [Samsung Galaxy Buds FE review: good sound and impressive noise cancellation for the $100 price tag but no wireless charging nor multipoint Bluetooth &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231110/p12#a231110p12)
- - [A24 is making an Elon Musk biopic directed by Darren Aronofsky](https://www.theverge.com/23955295/a24-elon-musk-biopic-darren-aronofsky-biography)<!-- TECH:END -->
+ - [These Sony WF-C500 Earbuds Are Just $29 at Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/these-sony-wf-c500-earbuds-are-just-29-at-walmarts-black-friday-sale/#ftag=CAD590a51e)
+ - [The Best Meta Quest Games You Can Play Right Now &lpar;2023&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

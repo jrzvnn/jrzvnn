@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr is downscaling its ambitions after failing to reach its goals for a new audience and plans to focus on the site&#39;s &quot;core functionality&quot; in 2024 &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231109/p46#a231109p46)
+ - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
  - [What Apple&#39;s three GPU enhancements in A17 Pro and M3 actually do](https://appleinsider.com/articles/23/11/10/what-apples-three-gpu-enhancements-in-a17-pro-and-m3-actually-do?utm_medium=rss)
  - [Helsinki-based Noice, a game livestreaming service that lets viewers participate in the gameplay experience, raised a $21M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231109/p45#a231109p45)
- - [Sundar Pichai will take the stand in Epic v. Google](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)
- - [Apple agrees to pay $25M to settle the US DOJ claims that the company illegally favored immigrant workers over US citizens and green card holders for some jobs &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/231109/p44#a231109p44)
- - [Steam Deck OLED, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
+ - [Sundar Pichai will take the stand in Epic v. Google](https://www.theverge.com/2023/11/9/23954812/sundar-pichai-testify-epic-v-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

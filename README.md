@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
- - 😝 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 💣 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
  - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
  - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 

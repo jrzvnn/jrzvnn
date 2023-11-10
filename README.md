@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top gear was something else](http://9gag.com/gag/a9q0RoK)
- - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
- - 💣 [Double standard](http://9gag.com/gag/aVb5wYO)
- - 😝 [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 💣 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 😝 [Plan](http://9gag.com/gag/amAwvvy)
+ - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Google: internal documents show Google offered Netflix to pay only 10% of its in-app payments on Android in 2017; Netflix didn&#39;t take the deal &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231110/p1#a231110p1)
  - [Apple supplier Luxshare plans to increase its investment in Vietnam by $330M to $504M total, as the AirPods manufacturer further diversifies away from China &lpar;Mai Ngoc Chau/Bloomberg&rpar;](http://www.techmeme.com/231109/p50#a231109p50)
  - [Sources: Meta strikes a preliminary deal with Tencent to sell a new, lower-priced VR headset in China, beginning in late 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231109/p49#a231109p49)
  - [Adonit Note+ 2 review: A cost-effective alternative stylus](https://appleinsider.com/articles/23/11/10/adonit-note-2-review-a-cost-effective-alternative-stylus?utm_medium=rss)
- - [Qualcomm ends its partnership with Iridium to bring satellite connectivity to Android phones, after launching the Snapdragon Satellite platform in January 2023 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231109/p48#a231109p48)
- - [Q&amp;A with Humane President Imran Chaudhri on lessons from Apple, having a positive tech outlook, privacy concerns with the Ai Pin, platform transitions, and more &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/231109/p47#a231109p47)<!-- TECH:END -->
+ - [Qualcomm ends its partnership with Iridium to bring satellite connectivity to Android phones, after launching the Snapdragon Satellite platform in January 2023 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231109/p48#a231109p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

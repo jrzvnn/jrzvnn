@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 💣 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)
- - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
  - 👉 [Oh no ...](http://9gag.com/gag/aOx5YND)<!-- MEMES:END -->
 
 ---

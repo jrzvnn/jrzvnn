@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Omg everything is about you,and the things that can offend you.](http://9gag.com/gag/aVb5qqw)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
- - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
 
 ---
 

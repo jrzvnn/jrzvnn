@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix and Max could be offered together in a $10 Verizon streaming bundle](https://www.theverge.com/2023/11/10/23955191/verizon-netflix-warner-discovery-max-streaming-bundle-ads)
- - [EU launches European Crowdfunding Service Provider Regulation, a uniform set of rules all crowdfunding platforms wishing to operate in the bloc must adhere to &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231110/p9#a231110p9)
- - [Apple Watch Series 9 Gets $50 Early Black Friday Discount     - CNET](https://www.cnet.com/deals/apple-watch-series-9-gets-50-early-black-friday-discount/#ftag=CAD590a51e)
- - [iOS 17 Cheat Sheet: What to Know About This iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-this-iphone-update/#ftag=CAD590a51e)
- - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)<!-- TECH:END -->
+ - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)
+ - [New MacBook Pro and iMac, new Final Cut Pro, and Humane&#39;s AI Pin on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/10/new-macbook-pro-and-imac-new-final-cut-pro-and-humanes-ai-pin-on-the-appleinsider-podcast?utm_medium=rss)
+ - [10 Best Cozy Games &lpar;2023&rpar;: Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
+ - [JBuds Mini Review: The Cutest, Tiniest Lil’ Earbuds](https://www.wired.com/story/jlab-audio-jbuds-mini-rave/)
+ - [Netflix and Max could be offered together in a $10 Verizon streaming bundle](https://www.theverge.com/2023/11/10/23955191/verizon-netflix-warner-discovery-max-streaming-bundle-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

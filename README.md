@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in german?](http://9gag.com/gag/a2Kp43d)
- - 😝 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 👉 [Replay: Old man and Jesus](http://9gag.com/gag/aBd5wqQ)<!-- MEMES:END -->
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
+ - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
 
 ---
 

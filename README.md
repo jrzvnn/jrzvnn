@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans, you did it again!](http://9gag.com/gag/a9q0Ky1)
- - 😝 [Residents in Gaza blame Hamas for the current situation, claiming they are using them as human shields](http://9gag.com/gag/agow5oq)
- - 💣 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 😝 [Soul](http://9gag.com/gag/anzwMvo)
- - 👉 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)<!-- MEMES:END -->
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 💣 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
+ - 👉 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 ---
 

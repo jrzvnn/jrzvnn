@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
- - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
+ - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
+ - 💣 [Having to live in a building like this.](http://9gag.com/gag/ap9wQEp)
+ - 😝 [So much for immortality, eh?](http://9gag.com/gag/agowGMx)
  - 👉 [It&#39;s an ecchi looking show, how bad can it be?](http://9gag.com/gag/aXn1vZg)<!-- MEMES:END -->
 
 ---

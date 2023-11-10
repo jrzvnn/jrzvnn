@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Bros. Discovery just canned another nearly finished film](https://www.theverge.com/2023/11/10/23955432/warner-bros-discovery-coyote-acme-shelved-john-cena)
  - [Maine&#39;s government says that MOVEit hackers may have accessed the personal information of ~1.3M individuals, which is close to the state&#39;s entire population &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231110/p17#a231110p17)
- - [Sources: Apple plans to file an EU DMA challenge, disputing the EU putting all of the App Store on the DMA list and arguing that the DMA doesn&#39;t cover iMessage &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p16#a231110p16)
- - [Community Solar Is Growing to Fill the Gaps in Clean Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/community-solar-is-growing-to-fill-the-gaps-in-clean-energy/#ftag=CAD590a51e)
- - [Is the Cybertruck’s wiper actually multiple wipers in a row? An investigation](https://www.theverge.com/2023/11/10/23955489/tesla-cybertruck-windshield-wiper-investigation)
- - [Walmart&#39;s Early Sale Offers Black Friday E-Bike Prices Now     - CNET](https://www.cnet.com/roadshow/news/walmarts-early-sale-offers-black-friday-e-bike-prices-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [End of Mint: How to Download Your Financial Data Before It&#39;s Gone     - CNET](https://www.cnet.com/personal-finance/end-of-mint-how-to-download-your-financial-data-before-its-gone/#ftag=CAD590a51e)
+ - [Apple iPhone Spatial Video Arrives in Beta and Looks Amazing on Vision Pro     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-spatial-video-arrives-in-beta-and-looks-amazing-on-vision-pro/#ftag=CAD590a51e)
+ - [Best Sleep Trackers of 2023     - CNET](https://www.cnet.com/health/sleep/best-sleep-trackers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

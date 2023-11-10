@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
  - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
- - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
+ - 😝 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
+ - 👉 [It&#39;s an ecchi looking show, how bad can it be?](http://9gag.com/gag/aXn1vZg)<!-- MEMES:END -->
 
 ---
 

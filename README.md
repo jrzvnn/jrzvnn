@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
  - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
  - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
  - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [Secret handshake](http://9gag.com/gag/axowV2b)<!-- MEMES:END -->
+ - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 😝 [Oh dear](http://9gag.com/gag/ajVwqvp)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [We both going down.](http://9gag.com/gag/aREdK7B)
- - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [I cant believe this is a real headline.](http://9gag.com/gag/abvwpv8)
+ - 💣 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Secret handshake](http://9gag.com/gag/axowV2b)
+ - 👉 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)<!-- MEMES:END -->
 
 ---
 

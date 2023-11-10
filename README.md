@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 💣 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
  - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 😝 [Irish football fans cheering women buying lingerie.](http://9gag.com/gag/amAw5Lj)
- - 💣 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)
- - 😝 [Double standard](http://9gag.com/gag/aVb5wYO)
- - 👉 [Title](http://9gag.com/gag/aL15wzA)<!-- MEMES:END -->
+ - 👉 [What are the things that you can say at a family gathering and in the bedroom?](http://9gag.com/gag/a5X3Rqq)<!-- MEMES:END -->
 
 ---
 

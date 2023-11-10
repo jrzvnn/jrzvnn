@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to file an EU DMA challenge, disputing the inclusion of all of the App Store on DMA&#39;s list, and arguing that DMA doesn&#39;t cover iMessage &lpar;Bloomberg&rpar;](http://www.techmeme.com/231110/p16#a231110p16)
  - [Is the Cybertruck’s wiper actually multiple wipers in a row? An investigation](https://www.theverge.com/2023/11/10/23955489/tesla-cybertruck-windshield-wiper-investigation)
  - [Qualcomm’s satellite SOS for Android feature didn’t make it to launch](https://www.theverge.com/2023/11/10/23955416/qualcomm-snapdragon-satellite-shut-down-emergency-sos-iridium)
  - [Sources: FBI has suspended briefings to social media companies about Russian, Iranian and Chinese influence campaigns, due to GOP attacks on information sharing &lpar;NBC News&rpar;](http://www.techmeme.com/231110/p15#a231110p15)
- - [The Nintendo Switch OLED and Xbox Series X are on sale with a $75 Dell gift card](https://www.theverge.com/2023/11/10/23954803/nintendo-switch-oled-xbox-series-x-amazfit-band-7-deal-sale)
- - [11 Walmart Early Black Friday Deals &lpar;2023&rpar;: TVs, Smartwatches, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023/)<!-- TECH:END -->
+ - [The Nintendo Switch OLED and Xbox Series X are on sale with a $75 Dell gift card](https://www.theverge.com/2023/11/10/23954803/nintendo-switch-oled-xbox-series-x-amazfit-band-7-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When will it stop?](http://9gag.com/gag/aOx5YmD)
- - 😝 [Perfection!](http://9gag.com/gag/az2wqQm)
- - 💣 [&#39;There always time for lubricant!&#39;](http://9gag.com/gag/a9q0pbj)
- - 😝 [Uh uh...](http://9gag.com/gag/aBd5091)
- - 👉 [Kebab is life](http://9gag.com/gag/a1PjQx8)<!-- MEMES:END -->
+ - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
+ - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
+ - 💣 [Stefanie Germanotta &lpar;Lady Gaga&rpar; before she was famous](http://9gag.com/gag/avQwr1X)
+ - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
+ - 👉 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)<!-- MEMES:END -->
 
 ---
 

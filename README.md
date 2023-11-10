@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 😝 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
+ - 💣 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
  - 😝 [Well, golly](http://9gag.com/gag/a4oyGwZ)
- - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
- - 💣 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)
- - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
+ - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
 
 ---
 

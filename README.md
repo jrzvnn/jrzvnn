@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
  - 💣 [Double standard](http://9gag.com/gag/aVb5wYO)
  - 😝 [Title](http://9gag.com/gag/aL15wzA)
- - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justin Sun&#39;s crypto exchange Poloniex says hackers stole more than $126M worth of crypto assets and it&#39;s working with other exchanges to recover funds &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/231110/p11#a231110p11)
  - [Where to order the new PlayStation 5 slim](https://www.theverge.com/23932581/playstation-5-ps5-slim-console-sony-redesign-detachable-preorder-price)
  - [Samsung Galaxy Buds FE review: sometimes the fit is everything](https://www.theverge.com/23954073/samsung-galaxy-buds-fe-review)
- - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)
- - [New MacBook Pro and iMac, new Final Cut Pro, and Humane&#39;s AI Pin on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/10/new-macbook-pro-and-imac-new-final-cut-pro-and-humanes-ai-pin-on-the-appleinsider-podcast?utm_medium=rss)
- - [10 Best Cozy Games &lpar;2023&rpar;: Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 Deals: $300 Off Locked and Unlocked Models, Up to $1,000 of Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
+ - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

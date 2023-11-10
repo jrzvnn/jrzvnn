@@ -155,10 +155,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
  - [Samsung Galaxy Buds FE review: good sound and impressive noise cancellation for the $100 price tag but no wireless charging nor multipoint Bluetooth &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231110/p12#a231110p12)
  - [A24 is making an Elon Musk biopic directed by Darren Aronofsky](https://www.theverge.com/23955295/a24-elon-musk-biopic-darren-aronofsky-biography)
  - [Sony’s new ‘slim’ PlayStation 5 is smaller but also weirder](https://www.theverge.com/2023/11/10/23955005/sony-playstation-5-ps5-slim-size-comparison-photo-gallery-hands-on-impressions)
- - [What a Microgrid in Arizona Teaches Us About Energy Resiliency     - CNET](https://www.cnet.com/home/energy-and-utilities/what-a-microgrid-in-arizona-teaches-us-about-energy-resiliency/#ftag=CAD590a51e)
  - [15 Best Apple Watch Accessories &lpar;2023&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

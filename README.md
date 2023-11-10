@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
  - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
  - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 👉 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)<!-- MEMES:END -->
+ - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
+ - 👉 [My favorite childhood cartoon](http://9gag.com/gag/awZ2ovW)<!-- MEMES:END -->
 
 ---
 

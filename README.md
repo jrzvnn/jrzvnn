@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
- - 😝 [Well bummer](http://9gag.com/gag/a04qbdv)
- - 💣 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)
- - 😝 [Call the ambulance\u2026](http://9gag.com/gag/aNw5Aqb)
- - 👉 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)<!-- MEMES:END -->
+ - 😝 [Quick pepsi by Coca Cola company](http://9gag.com/gag/a3Zrqem)
+ - 😝 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
+ - 💣 [Uh uh...](http://9gag.com/gag/aBd5091)
+ - 😝 [This Superman armor is lit](http://9gag.com/gag/anzwjb0)
+ - 👉 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)<!-- MEMES:END -->
 
 ---
 

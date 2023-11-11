@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)
+ - [How to view Apple Notes attachments in small view in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-view-apple-notes-attachments-in-small-view-in-macos-sonoma?utm_medium=rss)
  - [The Screen Actors Guild’s strike-ending deal has entered its final step](https://www.theverge.com/2023/11/11/23956660/sag-aftra-actors-strike-deal-approved-streaming-revenue-ai)
  - [&#39;The Beast Adjoins&#39; Is Seriously Creepy Sci-Fi](https://www.wired.com/2021/11/geeks-guide-beast-adjoins/)
- - [Google&#39;s Jigsaw and Tech Against Terrorism launch Altitude, a free tool for smaller platforms to detect terrorist content on their networks and remove it &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231111/p7#a231111p7)
- - [Heybike Mars 2.0 e-bike review: a foldable with a pegboard rack that lacks some features](https://appleinsider.com/articles/23/11/11/heybike-mars-20-e-bike-review-a-foldable-with-a-pegboard-rack-that-lacks-some-features?utm_medium=rss)
- - [Apple Watch Protection: Is Insurance Worth It?     - CNET](https://www.cnet.com/tech/mobile/apple-watch-protection-is-insurance-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Jigsaw and Tech Against Terrorism launch Altitude, a free tool for smaller platforms to detect terrorist content on their networks and remove it &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231111/p7#a231111p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

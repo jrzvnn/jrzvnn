@@ -104,10 +104,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 30/10/2023 06:13:18 UTC
 <!--END_SECTION:waka-->
+<img src="https://wakatime.com/share/@jrzvnn/c6436ef8-b4b6-4e30-bd1a-3db1b8bf5dcd.svg">
 
-<figure><embed src="https://wakatime.com/share/@jrzvnn/19998ed0-15c1-496a-b4bf-beab49919188.svg"></embed></figure>
-
-<div align="center">
 	
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+

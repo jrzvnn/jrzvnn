@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DP World Australia, the country&#39;s second largest port operator, shuts down after a cyber attack, impacting the movement of goods in and out of the country &lpar;Andi Yu/ABC&rpar;](http://www.techmeme.com/231111/p6#a231111p6)
  - [Grab Ring Cameras for Your Home at Black Friday Pricing     - CNET](https://www.cnet.com/deals/grab-ring-cameras-for-your-home-at-black-friday-pricing/#ftag=CAD590a51e)
  - [Loki’s season 2 finale dug deep to find a meaning in all of Marvel’s madness](https://www.theverge.com/23955559/loki-season-2-finale-review-disney-plus-marvel-mcu-kang)
  - [Signal Is Finally Testing Usernames](https://www.wired.com/story/signal-usernames/)
- - [Best Cookbooks of 2023 &lpar;So Far&rpar;: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)
- - [18 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)<!-- TECH:END -->
+ - [Best Cookbooks of 2023 &lpar;So Far&rpar;: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

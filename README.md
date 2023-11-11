@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
  - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
 
 ---
 

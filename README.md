@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 💣 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
  - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 👉 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)<!-- MEMES:END -->
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 💣 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 👉 [Feminist Climbers](http://9gag.com/gag/aREdXqj)<!-- MEMES:END -->
 
 ---
 

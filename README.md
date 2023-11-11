@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
  - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 💣 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 👉 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)<!-- MEMES:END -->
+ - 💣 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA&#39;s deal would require studios to obtain consent before creating digital replicas of living and deceased actors, disclose their use, and pay to use them &lpar;Rolling Stone&rpar;](http://www.techmeme.com/231110/p25#a231110p25)
  - [Arch, which provides operations and reporting services for private investments, raised a $20M Series A led by Menlo Ventures, taking its total funding to $25M+ &lpar;Diana Britton/Wealth Management&rpar;](http://www.techmeme.com/231110/p24#a231110p24)
- - [Sources: Character.AI is in talks to raise hundreds of millions from Google and to raise equity funding from VC investors, which could value the company at $5B+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231110/p23#a231110p23)
- - [Qualcomm&#39;s Phone-to-Satellite Service Loses Network Partner     - CNET](https://www.cnet.com/tech/mobile/qualcomms-phone-to-satellite-service-loses-network-partner/#ftag=CAD590a51e)
- - [Apple reportedly cut a deal to get cleaner Amazon pages](https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads)
- - [Ad-free Instagram and Facebook is here — and it’s expensive](https://www.theverge.com/2023/11/10/23955987/instagram-facebook-without-ads-eu-subscription)<!-- TECH:END -->
+ - [Coach Mini Jacquard Wristlet     - CNET](https://www.cnet.com/culture/fashion/coach-mini-jacquard-wristlet-dpnl/#ftag=CAD590a51e)
+ - [Coach Small Wristlet     - CNET](https://www.cnet.com/culture/fashion/coach-small-wristlet-dpnl/#ftag=CAD590a51e)
+ - [Sources: Character.AI is in talks to raise hundreds of millions from Google and to raise equity funding from VC investors, which could value the company at $5B+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231110/p23#a231110p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

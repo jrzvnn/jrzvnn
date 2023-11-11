@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 💣 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
- - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
+ - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
+ - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
+ - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 👉 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)<!-- MEMES:END -->
 
 ---
 

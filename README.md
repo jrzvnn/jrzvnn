@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 💣 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
  - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)<!-- MEMES:END -->
+ - 💣 [Plan](http://9gag.com/gag/amAwvvy)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
 
 ---
 

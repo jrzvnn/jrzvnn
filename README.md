@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 💣 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
- - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 💣 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 👉 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 💣 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
- - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 👉 [Feminist Climbers](http://9gag.com/gag/aREdXqj)<!-- MEMES:END -->
+ - 😝 [Plan](http://9gag.com/gag/amAwvvy)
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 💣 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [Charcuterie\u2026 in THIS economy?!](http://9gag.com/gag/aXn1oyP)
+ - 👉 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)<!-- MEMES:END -->
 
 ---
 

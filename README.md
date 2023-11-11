@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 💣 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
- - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Directed By: Dick Wolf.](http://9gag.com/gag/aWG5jZ3)
+ - 👉 [Fun times at home](http://9gag.com/gag/ajVw9Vg)<!-- MEMES:END -->
 
 ---
 

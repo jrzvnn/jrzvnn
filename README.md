@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Lukasz Krupski, a Tesla whistleblower in Norway, leaked personnel records and Autopilot data that caught the attention of regulators in several countries &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/231111/p9#a231111p9)
+ - [Netflix’s next Neil Gaiman adaptation is Dead Boy Detectives](https://www.theverge.com/23955895/dead-boy-detectives-netflix-trailer)
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
  - [9 Expert Tips To Enhance Nighttime Vision and Combat Time Change Effects     - CNET](https://www.cnet.com/health/personal-care/expert-tips-to-enhance-vision-while-driving-at-night/#ftag=CAD590a51e)
- - [Conquering the Winter Blues: 6 Effective Strategies to Combat Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/conquering-the-winter-blues-6-ways-to-cope-with-sad/#ftag=CAD590a51e)
- - [Lofree Block Wireless Mechanical Keyboard review: Retro, with modern elements sprinkled throughout](https://appleinsider.com/articles/23/11/11/lofree-block-wireless-mechanical-keyboard-review-retro-with-modern-elements-sprinkled-throughout?utm_medium=rss)
- - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)<!-- TECH:END -->
+ - [Conquering the Winter Blues: 6 Effective Strategies to Combat Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/conquering-the-winter-blues-6-ways-to-cope-with-sad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

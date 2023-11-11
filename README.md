@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 💣 [Plan](http://9gag.com/gag/amAwvvy)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 💣 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 👉 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)<!-- MEMES:END -->
 
 ---
 

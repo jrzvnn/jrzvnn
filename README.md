@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 💣 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)<!-- MEMES:END -->
+ - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
 
 ---
 

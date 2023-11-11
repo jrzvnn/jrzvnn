@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chatbots can lower the information barrier to help malicious actors build a bioweapon, making guardrails during chatbot development a good step for biosecurity &lpar;Steph Batalis/Foreign Policy&rpar;](http://www.techmeme.com/231111/p5#a231111p5)
- - [Best Phone to Buy for 2023     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Apple&#39;s MacOS Sonoma Transforms Your Mac and iPhone Into a Seamless Duo     - CNET](https://www.cnet.com/tech/computing/apples-macos-sonoma-transforms-your-mac-and-iphone-into-a-seamless-duo/#ftag=CAD590a51e)
- - [Wolves vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Here&#39;s How to Watch the 2023 Macy&#39;s Thanksgiving Day Parade     - CNET](https://www.cnet.com/culture/entertainment/heres-how-to-watch-the-2023-macys-thanksgiving-day-parade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)
+ - [Skiing Is Getting Riskier](https://www.wired.com/story/avalanche-threat-ski-risk/)
+ - [35 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)
+ - [14 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023/)
+ - [How Cinematherapy Helped Me Through a Midlife Crisis](https://www.wired.com/story/cinematherapy-psychology-mental-health/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

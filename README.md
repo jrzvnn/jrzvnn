@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, the reward for the quickest...](http://9gag.com/gag/aBd5mnN)
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 💣 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
- - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
+ - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
 
 ---
 

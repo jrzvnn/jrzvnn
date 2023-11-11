@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Jigsaw and Tech Against Terrorism launch Altitude, a free tool for smaller platforms to detect terrorist content on their networks and remove it &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231111/p7#a231111p7)
  - [Heybike Mars 2.0 e-bike review: a foldable with a pegboard rack that lacks some features](https://appleinsider.com/articles/23/11/11/heybike-mars-20-e-bike-review-a-foldable-with-a-pegboard-rack-that-lacks-some-features?utm_medium=rss)
  - [Daily deals Nov. 11: $1,600 off M1 Max MacBook Pro, $250 off M3 Max MacBook, $10 Xbox Game Pass Ultimate, 25% off Parallels Desktop, more](https://appleinsider.com/articles/23/11/11/daily-deals-nov-11-1600-off-m1-max-macbook-pro-250-off-m3-max-macbook-10-xbox-game-pass-ultimate-25-off-parallels-desktop-more?utm_medium=rss)
  - [Pushy checkout screens are helping ‘tipflation’](https://www.theverge.com/2023/11/11/23955381/checkout-screens-tipping-pos-kiosk)
- - [Take 35% Off Eyewear at Prive Revaux With This Black Friday Deal     - CNET](https://www.cnet.com/deals/take-35-off-eyewear-at-prive-revaux-with-this-black-friday-deal/#ftag=CAD590a51e)
- - [DP World Australia, the country&#39;s second largest port operator, shuts down after a cyber attack, impacting the movement of goods in and out of the country &lpar;Andi Yu/ABC&rpar;](http://www.techmeme.com/231111/p6#a231111p6)<!-- TECH:END -->
+ - [Take 35% Off Eyewear at Prive Revaux With This Black Friday Deal     - CNET](https://www.cnet.com/deals/take-35-off-eyewear-at-prive-revaux-with-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

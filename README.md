@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
  - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 💣 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 😝 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)
- - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 💣 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
+ - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
 
 ---
 

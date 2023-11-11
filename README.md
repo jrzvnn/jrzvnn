@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 😝 [Charcuterie\u2026 in THIS economy?!](http://9gag.com/gag/aXn1oyP)
- - 💣 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)
- - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
- - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
+ - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
+ - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
 
 ---
 

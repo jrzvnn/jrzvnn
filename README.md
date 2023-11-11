@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 💣 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
- - 👉 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
+ - 😝 [Double standard](http://9gag.com/gag/aVb5wYO)
+ - 😝 [Title](http://9gag.com/gag/aL15wzA)
+ - 💣 [Plan](http://9gag.com/gag/amAwvvy)
+ - 😝 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
+ - 👉 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)<!-- MEMES:END -->
 
 ---
 

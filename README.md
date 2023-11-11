@@ -98,10 +98,10 @@
 
 <!-- TECH:START -->
  - [Eufy Security Indoor Cam C120 review: Budget-friendly HomeKit Secure Video camera](https://appleinsider.com/articles/23/11/11/eufy-security-indoor-cam-c120-review-budget-friendly-homekit-secure-video-camera?utm_medium=rss)
+ - [Best Black Friday Mattress Deals: Save Hundreds on a New Mattress With Early Deals     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
  - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)
  - [Netflix Is Adding Award-Winning Titles to Its Games Library Soon     - CNET](https://www.cnet.com/tech/gaming/netflix-is-adding-award-winning-titles-to-its-games-library-soon/#ftag=CAD590a51e)
- - [Hades is coming to Netflix](https://www.theverge.com/23955772/hades-netflix-reveal-geeked-week-2023)
- - [Netflix’s Terminator anime gets the briefest of teasers](https://www.theverge.com/2023/11/11/23956950/terminator-anime-teaser-netflix)<!-- TECH:END -->
+ - [Hades is coming to Netflix](https://www.theverge.com/23955772/hades-netflix-reveal-geeked-week-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

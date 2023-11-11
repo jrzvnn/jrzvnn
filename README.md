@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Character.AI is in talks to raise hundreds of millions from Google and to raise equity funding from VC investors, which could value the company at $5B+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231110/p23#a231110p23)
  - [Qualcomm&#39;s Phone-to-Satellite Service Loses Network Partner     - CNET](https://www.cnet.com/tech/mobile/qualcomms-phone-to-satellite-service-loses-network-partner/#ftag=CAD590a51e)
  - [Apple reportedly cut a deal to get cleaner Amazon pages](https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads)
  - [Ad-free Instagram and Facebook is here — and it’s expensive](https://www.theverge.com/2023/11/10/23955987/instagram-facebook-without-ads-eu-subscription)
- - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)
- - [The first trailer of Netflix’s live-action Yu Yu Hakusho is missing one crucial thing](https://www.theverge.com/23955649/netflix-yu-yu-hakusho-live-action-trailer)<!-- TECH:END -->
+ - [New teaser for Netflix’s 3 Body Problem series will make you want to play the game](https://www.theverge.com/23955973/netflix-3-body-problem-teaser-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

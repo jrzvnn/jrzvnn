@@ -28,3 +28,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
+          IGNORED_REPOS: "jrzvnn"

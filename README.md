@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s comfy LinkBuds S earbuds are at their lowest price for a limited time](https://www.theverge.com/2023/11/11/23956325/sony-linkbuds-earbuds-samsung-s23-ultra-nanoleaf-lines-deal-sale)
+ - [M3 14-inch MacBook Pro teardown shows few internal changes in new models](https://appleinsider.com/articles/23/11/11/m3-14-inch-macbook-pro-teardown-shows-few-internal-changes-in-new-models?utm_medium=rss)
  - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)
  - [Scientists Have Been Freezing Corals for Decades. Now They&#39;re Learning How to Wake Them Up](https://www.wired.com/story/cryofreezing-corals-learning-how-to-wake-them-up/)
- - [Man United vs. Luton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-luton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Arsenal vs. Burnley Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-burnley-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)<!-- TECH:END -->
+ - [Man United vs. Luton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-luton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

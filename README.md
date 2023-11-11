@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Spatial Video shot on iPhone for Apple Vision Pro previewed for a select few](https://appleinsider.com/articles/23/11/10/spatial-video-shot-on-iphone-for-apple-vision-pro-previewed-for-a-select-few?utm_medium=rss)
+ - [Netflix Is Adding Award-Winning Titles to Its Games Library Soon     - CNET](https://www.cnet.com/tech/gaming/netflix-is-adding-award-winning-titles-to-its-games-library-soon/#ftag=CAD590a51e)
  - [Hades is coming to Netflix](https://www.theverge.com/23955772/hades-netflix-reveal-geeked-week-2023)
  - [Netflix’s Terminator anime gets the briefest of teasers](https://www.theverge.com/2023/11/11/23956950/terminator-anime-teaser-netflix)
- - [How Lukasz Krupski, a Tesla whistleblower in Norway, leaked personnel records and Autopilot data that caught the attention of regulators in several countries &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/231111/p9#a231111p9)
- - [Netflix’s next Neil Gaiman adaptation is Dead Boy Detectives](https://www.theverge.com/23955895/dead-boy-detectives-netflix-trailer)<!-- TECH:END -->
+ - [How Lukasz Krupski, a Tesla whistleblower in Norway, leaked personnel records and Autopilot data that caught the attention of regulators in several countries &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/231111/p9#a231111p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

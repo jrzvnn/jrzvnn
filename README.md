@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [Yes, the reward for the quickest...](http://9gag.com/gag/aBd5mnN)
  - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 👉 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)<!-- MEMES:END -->
+ - 💣 [Never trust other&#39;s pubic hair](http://9gag.com/gag/abvwrYr)
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
 
 ---
 

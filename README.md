@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 😝 [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
+ - 😝 [Title](http://9gag.com/gag/aL15wzA)
+ - 💣 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
+ - 👉 [Plan](http://9gag.com/gag/amAwvvy)<!-- MEMES:END -->
 
 ---
 

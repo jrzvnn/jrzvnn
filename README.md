@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 💣 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)<!-- MEMES:END -->
+ - 😝 [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
+ - 😝 [Title](http://9gag.com/gag/aL15wzA)
+ - 💣 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [Plan](http://9gag.com/gag/amAwvvy)
+ - 👉 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)<!-- MEMES:END -->
 
 ---
 

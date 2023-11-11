@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 💣 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [Charcuterie\u2026 in THIS economy?!](http://9gag.com/gag/aXn1oyP)
+ - 💣 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)
+ - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
+ - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
 
 ---
 

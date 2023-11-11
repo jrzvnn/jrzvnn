@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
+ - 😝 [Yes, the reward for the quickest...](http://9gag.com/gag/aBd5mnN)
  - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
+ - 💣 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
+ - 👉 [The video is called Bicycle Race](http://9gag.com/gag/a8qO3eY)<!-- MEMES:END -->
 
 ---
 

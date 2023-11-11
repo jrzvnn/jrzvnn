@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [The world of islam! Plain pedophiles, 9 year old child sold to an old man as his wife! Where is the world outrage? Where is the UN, the UNICEF](http://9gag.com/gag/a6q6ome)
+ - 😝 [Despite The Fact That He Is Nobody He Was Actually Acting Really Cool](http://9gag.com/gag/aDY51Od)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
  - 💣 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 😝 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
+ - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
+ - 👉 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EC official: X had just 2,294 EU content moderators, versus 16,974 at YouTube and 6,125 at TikTok, according to reports submitted by the companies in September &lpar;Reuters&rpar;](http://www.techmeme.com/231111/p1#a231111p1)
  - [Of course Dbrand’s first novelty keycaps include a ‘fuck off’ key](https://www.theverge.com/2023/11/11/23955179/dbrand-artisan-keycaps-the-enter-pyramid-metal-novelkeys-price)
  - [A look at custom chatbots, or GPTs, which are tailored for specific tasks and represent an important step in OpenAI&#39;s strategy of &quot;gradual iterative deployment&quot; &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231110/p26#a231110p26)
  - [SAG-AFTRA&#39;s deal would require studios to obtain consent before creating digital replicas of living and deceased actors, disclose their use, and pay to use them &lpar;Rolling Stone&rpar;](http://www.techmeme.com/231110/p25#a231110p25)
- - [Arch, which provides operations and reporting services for private investments, raised a $20M Series A led by Menlo Ventures, taking its total funding to $25M+ &lpar;Diana Britton/Wealth Management&rpar;](http://www.techmeme.com/231110/p24#a231110p24)
- - [Coach Mini Jacquard Wristlet     - CNET](https://www.cnet.com/culture/fashion/coach-mini-jacquard-wristlet-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arch, which provides operations and reporting services for private investments, raised a $20M Series A led by Menlo Ventures, taking its total funding to $25M+ &lpar;Diana Britton/Wealth Management&rpar;](http://www.techmeme.com/231110/p24#a231110p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

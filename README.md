@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wegovy Slashes the Risk of Heart Attack and Stroke in a Landmark Trial](https://www.wired.com/story/wegovy-slashes-the-risk-of-heart-attack-and-stroke-in-a-landmark-trial/)
- - [Sony’s comfy LinkBuds S earbuds are at their lowest price for a limited time](https://www.theverge.com/2023/11/11/23956325/sony-linkbuds-earbuds-samsung-s23-ultra-nanoleaf-lines-deal-sale)
- - [M3 14-inch MacBook Pro teardown shows few internal changes in new models](https://appleinsider.com/articles/23/11/11/m3-14-inch-macbook-pro-teardown-shows-few-internal-changes-in-new-models?utm_medium=rss)
- - [iOS 17.1.1 Is Out and It Patches These iPhone Issues     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-1-1-is-out-and-it-patches-these-iphone-issues/#ftag=CAD590a51e)
- - [The 41 Best Gifts for Teens in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-teenagers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Loki’s season 2 finale dug deep to find a meaning in all of Marvel’s madness](https://www.theverge.com/23955559/loki-season-2-finale-review-disney-plus-marvel-mcu-kang)
+ - [Signal Is Finally Testing Usernames](https://www.wired.com/story/signal-usernames/)
+ - [Best Cookbooks of 2023 &lpar;So Far&rpar;: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)
+ - [18 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

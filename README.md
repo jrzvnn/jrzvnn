@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
- - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 💣 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
+ - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 👉 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)<!-- MEMES:END -->
 
 ---
 

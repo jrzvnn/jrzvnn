@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 💣 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 😝 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 💣 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
  - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 👉 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)<!-- MEMES:END -->
+ - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
 
 ---
 

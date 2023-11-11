@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 👉 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 💣 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
 
 ---
 

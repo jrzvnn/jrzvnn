@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 💣 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 😝 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
  - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [Not gonna lie, Make me wanna die was a pretty good song](http://9gag.com/gag/aqewKVY)
+ - 👉 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)<!-- MEMES:END -->
 
 ---
 

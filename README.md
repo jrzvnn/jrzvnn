@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
- - 💣 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
- - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
- - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
+ - 😝 [The NPCs walk amongst us!](http://9gag.com/gag/a2KpWNp)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)
+ - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
 
 ---
 

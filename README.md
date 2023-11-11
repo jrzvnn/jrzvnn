@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s MacOS Sonoma Transforms Your Mac and iPhone Into a Seamless Duo     - CNET](https://www.cnet.com/tech/computing/apples-macos-sonoma-transforms-your-mac-and-iphone-into-a-seamless-duo/#ftag=CAD590a51e)
+ - [Wolves vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Here&#39;s How to Watch the 2023 Macy&#39;s Thanksgiving Day Parade     - CNET](https://www.cnet.com/culture/entertainment/heres-how-to-watch-the-2023-macys-thanksgiving-day-parade/#ftag=CAD590a51e)
  - [Humane&#39;s Ai Pin seems like a bizarre cross between Google Glass and a pager, the lack of apps feels extremely limiting, and the $699 price is hard to understand &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231111/p4#a231111p4)
- - [FTX sues crypto exchange Bybit and two affiliates to recover ~$953M in cash and digital assets that was withdrawn using &quot;VIP&quot; status before FTX filed Chapter 11 &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231111/p3#a231111p3)
- - [A profile of Bumble CEO Lidiane Jones, who succeeded Whitney Wolfe Herd and is charged with turning around a company whose shares have fallen ~80% since 2021 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231111/p2#a231111p2)
- - [EC official: X had just 2,294 EU content moderators, versus 16,974 at YouTube and 6,125 at TikTok, according to reports submitted by the companies in September &lpar;Reuters&rpar;](http://www.techmeme.com/231111/p1#a231111p1)<!-- TECH:END -->
+ - [FTX sues crypto exchange Bybit and two affiliates to recover ~$953M in cash and digital assets that was withdrawn using &quot;VIP&quot; status before FTX filed Chapter 11 &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231111/p3#a231111p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

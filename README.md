@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double standard](http://9gag.com/gag/aVb5wYO)
- - 😝 [Title](http://9gag.com/gag/aL15wzA)
- - 💣 [Plan](http://9gag.com/gag/amAwvvy)
- - 😝 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - 👉 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)<!-- MEMES:END -->
+ - 😝 [Oh no! Guess who lost his job?](http://9gag.com/gag/aVb5YLO)
+ - 😝 [Thanks Japan to compensate what I lack](http://9gag.com/gag/aDY515N)
+ - 💣 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
 
 ---
 

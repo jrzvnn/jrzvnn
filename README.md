@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double standard](http://9gag.com/gag/aVb5wYO)
- - 😝 [Plan](http://9gag.com/gag/amAwvvy)
- - 💣 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 👉 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)<!-- MEMES:END -->
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 😝 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
+ - 👉 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
 
 ---
 

@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Lofree Block Wireless Mechanical Keyboard review: Retro, with modern elements sprinkled throughout](https://appleinsider.com/articles/23/11/11/lofree-block-wireless-mechanical-keyboard-review-retro-with-modern-elements-sprinkled-throughout?utm_medium=rss)
  - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)
  - [How to view Apple Notes attachments in small view in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-view-apple-notes-attachments-in-small-view-in-macos-sonoma?utm_medium=rss)
- - [The Screen Actors Guild’s strike-ending deal has entered its final step](https://www.theverge.com/2023/11/11/23956660/sag-aftra-actors-strike-deal-approved-streaming-revenue-ai)
- - [&#39;The Beast Adjoins&#39; Is Seriously Creepy Sci-Fi](https://www.wired.com/2021/11/geeks-guide-beast-adjoins/)<!-- TECH:END -->
+ - [Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
+ - [The Screen Actors Guild’s strike-ending deal has entered its final step](https://www.theverge.com/2023/11/11/23956660/sag-aftra-actors-strike-deal-approved-streaming-revenue-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

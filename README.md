@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
  - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
- - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
- - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
+ - 💣 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
+ - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
+ - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
 
 ---
 

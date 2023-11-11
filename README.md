@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)
+ - [Scientists Have Been Freezing Corals for Decades. Now They&#39;re Learning How to Wake Them Up](https://www.wired.com/story/cryofreezing-corals-learning-how-to-wake-them-up/)
  - [Man United vs. Luton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-luton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Arsenal vs. Burnley Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-burnley-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)
- - [Skiing Is Getting Riskier](https://www.wired.com/story/avalanche-threat-ski-risk/)
- - [35 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)<!-- TECH:END -->
+ - [6 Best Online Grocery Stores &lpar;2023&rpar;: Produce, Snacks, Healthy Food](https://www.wired.com/gallery/best-online-grocery-stores/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 😝 [Shocker](http://9gag.com/gag/aDY5z87)
- - 💣 [She was posting Pro-Hamas videos on social media while living in Israel. She found out.](http://9gag.com/gag/adPw9Ad)
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
  - 😝 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 💣 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 😝 [Remember this dude. Where is he now?](http://9gag.com/gag/abvwYdr)
  - 👉 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)<!-- MEMES:END -->
 
 ---

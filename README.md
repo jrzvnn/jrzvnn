@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Ring Cameras for Your Home at Black Friday Pricing     - CNET](https://www.cnet.com/deals/grab-ring-cameras-for-your-home-at-black-friday-pricing/#ftag=CAD590a51e)
  - [Loki’s season 2 finale dug deep to find a meaning in all of Marvel’s madness](https://www.theverge.com/23955559/loki-season-2-finale-review-disney-plus-marvel-mcu-kang)
  - [Signal Is Finally Testing Usernames](https://www.wired.com/story/signal-usernames/)
  - [Best Cookbooks of 2023 &lpar;So Far&rpar;: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)
- - [18 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)<!-- TECH:END -->
+ - [18 Best Mechanical Keyboards for PC &lpar;2023&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

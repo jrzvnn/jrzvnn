@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chatbots can lower the information barrier to help malicious actors build a bioweapon, making guardrails during chatbot development a good step for biosecurity &lpar;Steph Batalis/Foreign Policy&rpar;](http://www.techmeme.com/231111/p5#a231111p5)
  - [Best Phone to Buy for 2023     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
  - [Apple&#39;s MacOS Sonoma Transforms Your Mac and iPhone Into a Seamless Duo     - CNET](https://www.cnet.com/tech/computing/apples-macos-sonoma-transforms-your-mac-and-iphone-into-a-seamless-duo/#ftag=CAD590a51e)
  - [Wolves vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Here&#39;s How to Watch the 2023 Macy&#39;s Thanksgiving Day Parade     - CNET](https://www.cnet.com/culture/entertainment/heres-how-to-watch-the-2023-macys-thanksgiving-day-parade/#ftag=CAD590a51e)
- - [Humane&#39;s Ai Pin seems like a bizarre cross between Google Glass and a pager, the lack of apps feels extremely limiting, and the $699 price is hard to understand &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231111/p4#a231111p4)<!-- TECH:END -->
+ - [Here&#39;s How to Watch the 2023 Macy&#39;s Thanksgiving Day Parade     - CNET](https://www.cnet.com/culture/entertainment/heres-how-to-watch-the-2023-macys-thanksgiving-day-parade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

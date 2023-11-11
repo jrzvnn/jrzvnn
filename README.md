@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [All the biggest news from Netflix Geeked Week 2023](https://www.theverge.com/23948622/netflix-geeked-week-2023-stranger-things-5-avatar-last-airbender-3-body-problem)
+ - [9 Expert Tips To Enhance Nighttime Vision and Combat Time Change Effects     - CNET](https://www.cnet.com/health/personal-care/expert-tips-to-enhance-vision-while-driving-at-night/#ftag=CAD590a51e)
+ - [Conquering the Winter Blues: 6 Effective Strategies to Combat Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/conquering-the-winter-blues-6-ways-to-cope-with-sad/#ftag=CAD590a51e)
  - [Lofree Block Wireless Mechanical Keyboard review: Retro, with modern elements sprinkled throughout](https://appleinsider.com/articles/23/11/11/lofree-block-wireless-mechanical-keyboard-review-retro-with-modern-elements-sprinkled-throughout?utm_medium=rss)
- - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)
- - [How to view Apple Notes attachments in small view in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-view-apple-notes-attachments-in-small-view-in-macos-sonoma?utm_medium=rss)
- - [Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ex-FTX execs, including general counsel Can Sun, launch crypto exchange Backpack and say they will protect user funds with lessons learned from FTX&#39;s failure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231111/p8#a231111p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara Croft - As a Pixars Character](http://9gag.com/gag/aqewnqZ)
- - 😝 [Title](http://9gag.com/gag/aL15wzA)
- - 💣 [Plan](http://9gag.com/gag/amAwvvy)
- - 😝 [This is a repost. Idc it\u2019s still relevant.](http://9gag.com/gag/aBd5mo2)
- - 👉 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)<!-- MEMES:END -->
+ - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
+ - 😝 [You hit WHAT!?](http://9gag.com/gag/avQwzbZ)
+ - 👉 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)<!-- MEMES:END -->
 
 ---
 

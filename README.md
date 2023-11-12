@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist please explain this](http://9gag.com/gag/aPg2AjQ)
- - 😝 [Learn the difference](http://9gag.com/gag/aQE5gZz)
- - 💣 [So apparently, a pro Palestine/Hamas rally in NZ was canceled because friends of Terrorists chickened out before Jewish Maori&#39;s Haka. Terrorists act bravely only when hiding behind kids.](http://9gag.com/gag/a4oyP2Z)
- - 😝 [What a silly face](http://9gag.com/gag/ajVw798)
- - 👉 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)<!-- MEMES:END -->
+ - 😝 [Remember this `It&#39;s free and always will be`? Pepperidge farm remembers.](http://9gag.com/gag/aEq58gp)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 💣 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
 
 ---
 

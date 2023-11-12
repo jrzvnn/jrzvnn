@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s work on its &quot;ambitious and compelling&quot; OS updates for 2024, paused for a week after hitting a key milestone in iOS 18 and macOS 15 development &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231112/p7#a231112p7)
  - [An OLED iPad Pro is the upgrade I’ve been waiting for](https://www.theverge.com/2023/11/12/23957715/apple-ipad-pro-oled-upgrade-next-year)
  - [Amazon&#39;s Doctor Will See You: What to Know About One Medical     - CNET](https://www.cnet.com/health/medical/amazons-doctor-will-see-you-what-to-know-about-one-medical/#ftag=CAD590a51e)
  - [Roku&#39;s Black Friday Sale Knocks Up to $20 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/rokus-black-friday-sale-knocks-up-to-20-off-top-rated-streaming-devices/#ftag=CAD590a51e)
- - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)
- - [Commanders vs. Seahawks Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-seahawks-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

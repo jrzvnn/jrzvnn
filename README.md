@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 💣 [Zero](http://9gag.com/gag/a4oy1Vd)
  - 😝 [Sydney Sweeney](http://9gag.com/gag/a3ZrEO3)
- - 👉 [F**k your kid](http://9gag.com/gag/abvwgbr)<!-- MEMES:END -->
+ - 😝 [U dont read titles... u wanne c tetten](http://9gag.com/gag/a7qXEnm)
+ - 💣 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 👉 [You know how is gonna end](http://9gag.com/gag/aPg23nK)<!-- MEMES:END -->
 
 ---
 

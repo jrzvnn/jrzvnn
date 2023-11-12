@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Esports leaders discuss ongoing industry challenges, including VC bubbles, layoffs, and ageism, and call for wealthy game studios to take on more responsibility &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231112/p4#a231112p4)
+ - [26 Outdoor Gift Ideas &lpar;2023&rpar;: Camp Cookware, Bike Accessories, Outdoor Apparel](https://www.wired.com/gallery/outdoors-gift-ideas-2023/)
  - [M3 Ultra could have up to 80 graphics cores](https://appleinsider.com/articles/23/11/12/m3-ultra-could-have-up-to-80-graphics-cores?utm_medium=rss)
  - [Does the Time Change Have You Feeling Off? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/does-the-time-change-have-you-feeling-off-try-light-therapy/#ftag=CAD590a51e)
- - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)
- - [18 Best Tech Gifts for Kids &lpar;2023&rpar;: Tablets, Speakers, Smartwatches](https://www.wired.com/gallery/tech-gifts-for-kids-2023/)
- - [The 8 Best Grocery Delivery Services in 2023     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

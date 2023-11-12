@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)
  - [Lions vs. Chargers Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-chargers-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
  - [Falcons vs. Cardinals Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/falcons-vs-cardinals-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
  - [How Much Does a Tesla Powerwall Cost?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-tesla-powerwall-cost/#ftag=CAD590a51e)
- - [Dell&#39;s Black Friday Switch OLED Deal Scores You a Free $75 Gift Card     - CNET](https://www.cnet.com/deals/switch-oled-black-friday-deal-75-dell-gift-card/#ftag=CAD590a51e)
- - [Many Threads users report that the app now has a privacy option that lets them opt out of having their posts show up on Instagram and Facebook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231112/p6#a231112p6)<!-- TECH:END -->
+ - [Dell&#39;s Black Friday Switch OLED Deal Scores You a Free $75 Gift Card     - CNET](https://www.cnet.com/deals/switch-oled-black-friday-deal-75-dell-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

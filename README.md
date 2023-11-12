@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lang The Well Mineralizing Water Filter Review: Convenient but Finicky](https://www.wired.com/review/lang-the-well-remineralizing-water-filter/)
- - [The Milky Way’s Stars Reveal Its Turbulent Past](https://www.wired.com/story/the-milky-ways-stars-reveal-its-turbulent-past/)
- - [The best apps and tools for managing your money online](https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai)
- - [Apple prepares 12.9-inch iPad Air for early 2024 launch](https://appleinsider.com/articles/23/11/12/apple-prepares-129-inch-ipad-air-for-early-2024-launch?utm_medium=rss)
- - [Dell XPS 13 Plus &lpar;2023&rpar; Review: An Unconventional Ultraportable Gets a Minor Update     - CNET](https://www.cnet.com/tech/computing/dell-xps-13-plus-2023-review-an-unconventional-ultraportable-gets-a-minor-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Test-Driving the 100% Electric Arc One Speedboat     - CNET](https://www.cnet.com/roadshow/news/test-driving-the-100-electric-arc-one-speedboat/#ftag=CAD590a51e)
+ - [Apple Watch Series 9 Double Tap: What I Like and Don&#39;t Like About It     - CNET](https://www.cnet.com/tech/mobile/apple-watch-double-tap-what-i-like-and-dont-like-about-it-so-far/#ftag=CAD590a51e)
+ - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)
+ - [40 Miles an Hour in an Electric Speedboat: Test-Driving the Arc One video     - CNET](https://www.cnet.com/roadshow/videos/40-mph-in-an-electric-speedboat-test-driving-the-arc-one/#ftag=CAD590a51e)
+ - [Lang The Well Mineralizing Water Filter Review: Convenient but Finicky](https://www.wired.com/review/lang-the-well-remineralizing-water-filter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

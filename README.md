@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
  - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [The NPCs walk amongst us!](http://9gag.com/gag/a2KpWNp)
+ - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 👉 [Well, are you?](http://9gag.com/gag/a5X3XEo)<!-- MEMES:END -->
 
 ---
 

@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U dont read titles... u wanne c tetten](http://9gag.com/gag/a7qXEnm)
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 👉 [Just take the L bro](http://9gag.com/gag/aWG5EAZ)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
+ - 💣 [Fish food](http://9gag.com/gag/aVb5woP)
+ - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
+ - 👉 [Last Day in prison](http://9gag.com/gag/aME549P)<!-- MEMES:END -->
 
 ---
 

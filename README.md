@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 💣 [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
+ - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 😝 [Remember this `It&#39;s free and always will be`? Pepperidge farm remembers.](http://9gag.com/gag/aEq58gp)
+ - 👉 [Sydney Sweeney](http://9gag.com/gag/a3ZrEO3)<!-- MEMES:END -->
 
 ---
 

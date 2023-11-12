@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 💣 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
- - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
+ - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
+ - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
 
 ---
 

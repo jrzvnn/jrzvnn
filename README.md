@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday Gifts and Gadgets That Cost $30 or Less     - CNET](https://www.cnet.com/tech/best-holiday-gifts-and-gadgets-under-30/#ftag=CAD590a51e)
- - [Foxconn launches two prototype low-Earth orbit communication satellites on a SpaceX rocket, as the company diversifies into new sectors with greater urgency &lpar;Bloomberg&rpar;](http://www.techmeme.com/231112/p3#a231112p3)
- - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
- - [These 2 Sonoma Features Made Me Think Twice About Safari     - CNET](https://www.cnet.com/tech/computing/these-2-sonoma-features-made-me-think-twice-about-safari/#ftag=CAD590a51e)
- - [Limit Your Dropped Calls: 10 Tips to Improve Your Cellphone Signal Strength This Holiday Season     - CNET](https://www.cnet.com/tech/mobile/limit-your-dropped-calls-10-tips-to-improve-your-cellphone-signal-strength-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dell XPS 13 Plus &lpar;2023&rpar; Review: An Unconventional Ultraportable Gets a Minor Update     - CNET](https://www.cnet.com/tech/computing/dell-xps-13-plus-2023-review-an-unconventional-ultraportable-gets-a-minor-update/#ftag=CAD590a51e)
+ - [Best Nut Milk Makers &lpar;2023&rpar;: Nutr, Soyabella, Almond Cow, MioMat](https://www.wired.com/gallery/best-nut-milk-makers/)
+ - [7 Great USB-C Accessories for Your New iPhone 15](https://www.wired.com/gallery/7-usb-c-accessories-new-iphone-15/)
+ - [What to Do If You Get Emails for the Wrong Person](https://www.wired.com/story/what-to-do-emails-for-wrong-person/)
+ - [QVC Knocks the Price of This Le Creuset Dutch Oven Down to $270     - CNET](https://www.cnet.com/deals/qvc-knocks-the-price-of-this-le-creuset-dutch-oven-down-to-270/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

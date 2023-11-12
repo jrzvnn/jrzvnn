@@ -162,10 +162,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 😝 [The look](http://9gag.com/gag/aREdXv2)
- - 💣 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 💣 [Zero](http://9gag.com/gag/a4oy1Vd)
+ - 😝 [Sydney Sweeney](http://9gag.com/gag/a3ZrEO3)
+ - 👉 [F**k your kid](http://9gag.com/gag/abvwgbr)<!-- MEMES:END -->
 
 ---
 

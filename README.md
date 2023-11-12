@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [You know how is gonna end](http://9gag.com/gag/aPg23nK)
  - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 👉 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
 
 ---
 

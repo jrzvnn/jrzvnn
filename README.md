@@ -152,7 +152,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Threads users report that they now have the ability to opt out of having their posts shown on Instagram and Facebook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231112/p6#a231112p6)
+ - [Many Threads users report that the app now has a privacy option that lets them opt out of having their posts show up on Instagram and Facebook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231112/p6#a231112p6)
  - [Here&#39;s How Many Solar Panels You&#39;ll Need to Charge Your EV     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
  - [Purple&#39;s Black Friday Sale Knocks Up to $900 Off Mattress and Base Bundles     - CNET](https://www.cnet.com/deals/purples-black-friday-sale-knocks-up-to-900-off-mattress-and-base-bundles/#ftag=CAD590a51e)
  - [Here&#39;s Everything You Should Know About Eye Drop Recalls     - CNET](https://www.cnet.com/health/personal-care/heres-everything-you-should-know-about-eye-drop-recalls/#ftag=CAD590a51e)

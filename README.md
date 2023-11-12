@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 😝 [Playing race card too much!](http://9gag.com/gag/aOx5202)
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 💣 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
 
 ---
 

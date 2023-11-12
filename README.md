@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 💣 [Fish food](http://9gag.com/gag/aVb5woP)
- - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
- - 👉 [Last Day in prison](http://9gag.com/gag/aME549P)<!-- MEMES:END -->
+ - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
+ - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 💣 [He&#39;s lovin&#39; it](http://9gag.com/gag/a5X3E3N)
+ - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 👉 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)<!-- MEMES:END -->
 
 ---
 

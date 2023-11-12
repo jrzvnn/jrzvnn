@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 💣 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 👉 [Jesse Lee Peterson about White Babies](http://9gag.com/gag/aWG5EDq)<!-- MEMES:END -->
+ - 😝 [U dont read titles... u wanne c tetten](http://9gag.com/gag/a7qXEnm)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
+ - 👉 [Just take the L bro](http://9gag.com/gag/aWG5EAZ)<!-- MEMES:END -->
 
 ---
 

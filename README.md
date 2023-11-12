@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
  - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
- - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
+ - 😝 [The struggle is real](http://9gag.com/gag/a9q0qq0)
+ - 💣 [Underwater Earthquake](http://9gag.com/gag/aOx58r6)
+ - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 👉 [The money dog is back, upvote and money will find you in the next 24 hours](http://9gag.com/gag/aEq587o)<!-- MEMES:END -->
 
 ---
 

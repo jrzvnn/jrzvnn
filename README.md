@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [The struggle is real](http://9gag.com/gag/a9q0qq0)
- - 💣 [Underwater Earthquake](http://9gag.com/gag/aOx58r6)
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 👉 [The money dog is back, upvote and money will find you in the next 24 hours](http://9gag.com/gag/aEq587o)<!-- MEMES:END -->
+ - 😝 [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
 
 ---
 

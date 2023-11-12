@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
- - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 💣 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
  - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
- - 👉 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)<!-- MEMES:END -->
+ - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
 
 ---
 

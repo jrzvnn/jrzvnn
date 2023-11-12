@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look](http://9gag.com/gag/aREdXv2)
- - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
- - 💣 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 👉 [Last Day in prison](http://9gag.com/gag/aME549P)<!-- MEMES:END -->
+ - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [Dad training for Disneyland](http://9gag.com/gag/aDY52wx)
+ - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
+ - 👉 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)<!-- MEMES:END -->
 
 ---
 

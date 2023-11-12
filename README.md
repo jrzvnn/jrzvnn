@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t reveal the truth.](http://9gag.com/gag/a9q0q2o)
  - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 👉 [Burn the Witch](http://9gag.com/gag/aVb5w4K)<!-- MEMES:END -->
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 💣 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
 
 ---
 

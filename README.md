@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An OLED iPad Pro is the upgrade I’ve been waiting for](https://www.theverge.com/2023/11/12/23957715/apple-ipad-pro-oled-upgrade-next-year)
  - [SwitchBot Smart Switch Button Pusher review: A small way to make a basic button smart](https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart?utm_medium=rss)
  - [Commanders vs. Seahawks Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-seahawks-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
  - [Giants vs. Cowboys Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-cowboys-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
- - [Lions vs. Chargers Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-chargers-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
- - [Falcons vs. Cardinals Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/falcons-vs-cardinals-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lions vs. Chargers Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-chargers-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best apps and tools for managing your money online](https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai)
+ - [Apple prepares 12.9-inch iPad Air for early 2024 launch](https://appleinsider.com/articles/23/11/12/apple-prepares-129-inch-ipad-air-for-early-2024-launch?utm_medium=rss)
  - [Dell XPS 13 Plus &lpar;2023&rpar; Review: An Unconventional Ultraportable Gets a Minor Update     - CNET](https://www.cnet.com/tech/computing/dell-xps-13-plus-2023-review-an-unconventional-ultraportable-gets-a-minor-update/#ftag=CAD590a51e)
  - [Best Nut Milk Makers &lpar;2023&rpar;: Nutr, Soyabella, Almond Cow, MioMat](https://www.wired.com/gallery/best-nut-milk-makers/)
- - [7 Great USB-C Accessories for Your New iPhone 15](https://www.wired.com/gallery/7-usb-c-accessories-new-iphone-15/)
- - [What to Do If You Get Emails for the Wrong Person](https://www.wired.com/story/what-to-do-emails-for-wrong-person/)
- - [QVC Knocks the Price of This Le Creuset Dutch Oven Down to $270     - CNET](https://www.cnet.com/deals/qvc-knocks-the-price-of-this-le-creuset-dutch-oven-down-to-270/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Great USB-C Accessories for Your New iPhone 15](https://www.wired.com/gallery/7-usb-c-accessories-new-iphone-15/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

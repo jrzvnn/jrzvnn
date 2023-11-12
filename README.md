@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
- - 💣 [You know how is gonna end](http://9gag.com/gag/aPg23nK)
+ - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
  - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 👉 [Burn the Witch](http://9gag.com/gag/aVb5w4K)<!-- MEMES:END -->
+ - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
 
 ---
 

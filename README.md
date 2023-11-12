@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any bricklayer here](http://9gag.com/gag/a4oyRxQ)
- - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
- - 💣 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
- - 👉 [The NPCs walk amongst us!](http://9gag.com/gag/a2KpWNp)<!-- MEMES:END -->
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
+ - 💣 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
+ - 😝 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)
+ - 👉 [The struggle is real](http://9gag.com/gag/a9q0qq0)<!-- MEMES:END -->
 
 ---
 

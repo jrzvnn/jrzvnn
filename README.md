@@ -153,10 +153,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Many Threads users report that they now have the ability to opt out of having their posts shown on Instagram and Facebook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231112/p6#a231112p6)
+ - [Here&#39;s How Many Solar Panels You&#39;ll Need to Charge Your EV     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-many-solar-panels-youll-need-to-charge-your-ev/#ftag=CAD590a51e)
+ - [Purple&#39;s Black Friday Sale Knocks Up to $900 Off Mattress and Base Bundles     - CNET](https://www.cnet.com/deals/purples-black-friday-sale-knocks-up-to-900-off-mattress-and-base-bundles/#ftag=CAD590a51e)
  - [Here&#39;s Everything You Should Know About Eye Drop Recalls     - CNET](https://www.cnet.com/health/personal-care/heres-everything-you-should-know-about-eye-drop-recalls/#ftag=CAD590a51e)
- - [Apple&#39;s bug-squashing week was part of its efforts to minimize errors](https://appleinsider.com/articles/23/11/12/apples-bug-squashing-week-was-part-of-its-efforts-to-minimize-errors?utm_medium=rss)
- - [Daily deals Nov. 12: M3 iMac $100-$150 off, Beats Studio 3 Headphones $169, Apple Magic Keyboard &amp; Mouse sale](https://appleinsider.com/articles/23/11/12/daily-deals-nov-12-m3-imac-100-150-off-beats-studio-3-headphones-169-apple-magic-keyboard-mouse-sale?utm_medium=rss)
- - [Threads users can keep their posts off Instagram and Facebook now](https://www.theverge.com/2023/11/12/23957591/threads-facebook-instagram-suggested-posts-opt-out)<!-- TECH:END -->
+ - [Apple&#39;s bug-squashing week was part of its efforts to minimize errors](https://appleinsider.com/articles/23/11/12/apples-bug-squashing-week-was-part-of-its-efforts-to-minimize-errors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

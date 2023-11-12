@@ -97,11 +97,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at a covert Russian operation to get dual-use specialist microchips, which are protected by EU export controls, into the hands of the state &lpar;Financial Times&rpar;](http://www.techmeme.com/231112/p1#a231112p1)
  - [Alibaba and JD.com reported YoY sales increases for Singles Day, but neither company provided overall revenue figures for the event for the second straight year &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231111/p11#a231111p11)
  - [Night Sweats: 4 Common Culprits and Solutions for Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-common-causes-of-night-sweats-and-what-to-do-about-it/#ftag=CAD590a51e)
  - [Best MacBook Air M2 Charger: Which One Should I Get?     - CNET](https://www.cnet.com/tech/computing/which-macbook-air-m2-charger-should-i-get/#ftag=CAD590a51e)
- - [Black Friday 2023: Sale Dates, Best Early Deals and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [London-based Monument, a digital bank focused on mass affluent clients, raised a $50M Series B, a source says at a &amp;pound;150M+ pre-money valuation &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/231111/p10#a231111p10)<!-- TECH:END -->
+ - [Black Friday 2023: Sale Dates, Best Early Deals and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

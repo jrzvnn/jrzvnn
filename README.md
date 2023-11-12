@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balenciaga](http://9gag.com/gag/a04qRzv)
- - 😝 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 💣 [Well, are you?](http://9gag.com/gag/a5X3XEo)
- - 😝 [Small bada bum but a good bada bum](http://9gag.com/gag/aBd5ywA)
- - 👉 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 💣 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
+ - 👉 [Jesse Lee Peterson about White Babies](http://9gag.com/gag/aWG5EDq)<!-- MEMES:END -->
 
 ---
 

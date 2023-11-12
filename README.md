@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [You know how is gonna end](http://9gag.com/gag/aPg23nK)
- - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
  - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
+ - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 ---
 

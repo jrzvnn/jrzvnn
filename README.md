@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The struggle is real](http://9gag.com/gag/a9q0qq0)
- - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
- - 💣 [Dad training for Disneyland](http://9gag.com/gag/aDY52wx)
+ - 😝 [Just take the L bro](http://9gag.com/gag/aWG5EAZ)
  - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 👉 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)<!-- MEMES:END -->
+ - 💣 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
 
 ---
 

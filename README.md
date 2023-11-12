@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And thats how people became simps](http://9gag.com/gag/aZD5yy6)
- - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 💣 [He&#39;s lovin&#39; it](http://9gag.com/gag/a5X3E3N)
- - 😝 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
- - 👉 [` in spite of everything you&#39;ve done for them they will eventually hate you ` -Green Goblin](http://9gag.com/gag/aXn1j1V)<!-- MEMES:END -->
+ - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
+ - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
+ - 💣 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 👉 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)<!-- MEMES:END -->
 
 ---
 

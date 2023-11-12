@@ -162,10 +162,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
- - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
- - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
+ - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
+ - 💣 [You know how is gonna end](http://9gag.com/gag/aPg23nK)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [Burn the Witch](http://9gag.com/gag/aVb5w4K)<!-- MEMES:END -->
 
 ---
 

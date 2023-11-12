@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
- - 😝 [The worst place to put a battery](http://9gag.com/gag/a8qO1NQ)
- - 💣 [Finally, it has begun](http://9gag.com/gag/aeQw5Qm)
- - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
- - 👉 [Black Friday is Coming](http://9gag.com/gag/a1PjWdw)<!-- MEMES:END -->
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
+ - 💣 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 😝 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 👉 [Last Day in prison](http://9gag.com/gag/aME549P)<!-- MEMES:END -->
 
 ---
 

@@ -154,9 +154,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Netflix Games will bring &#39;Hades&#39; to iOS in 2024](https://appleinsider.com/articles/23/11/12/netflix-games-will-bring-hades-to-ios-in-2024?utm_medium=rss)
  - [A look at Apple&#39;s work on its &quot;ambitious and compelling&quot; OS updates for 2024, paused for a week after hitting a key milestone in iOS 18 and macOS 15 development &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231112/p7#a231112p7)
- - [Best Black Friday Roku Deals: Up to $46 Off Streamers, $170 Off TVs     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-roku-deals/#ftag=CAD590a51e)
  - [An OLED iPad Pro is the upgrade I’ve been waiting for](https://www.theverge.com/2023/11/12/23957715/apple-ipad-pro-oled-upgrade-next-year)
- - [Amazon&#39;s Doctor Will See You: What to Know About One Medical     - CNET](https://www.cnet.com/health/medical/amazons-doctor-will-see-you-what-to-know-about-one-medical/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Doctor Will See You: What to Know About One Medical     - CNET](https://www.cnet.com/health/medical/amazons-doctor-will-see-you-what-to-know-about-one-medical/#ftag=CAD590a51e)
+ - [Roku&#39;s Black Friday Sale Knocks Up to $20 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/rokus-black-friday-sale-knocks-up-to-20-off-top-rated-streaming-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

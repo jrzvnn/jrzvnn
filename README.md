@@ -161,10 +161,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
- - 😝 [Dad training for Disneyland](http://9gag.com/gag/aDY52wx)
- - 💣 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 😝 [The struggle is real](http://9gag.com/gag/a9q0qq0)
  - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
+ - 💣 [Dad training for Disneyland](http://9gag.com/gag/aDY52wx)
+ - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
  - 👉 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)<!-- MEMES:END -->
 
 ---

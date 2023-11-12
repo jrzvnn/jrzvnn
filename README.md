@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 😝 [Zero](http://9gag.com/gag/a4oy1Vd)
- - 💣 [Please do not hesitate](http://9gag.com/gag/armwV6y)
- - 😝 [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
- - 👉 [Last Day in prison](http://9gag.com/gag/aME549P)<!-- MEMES:END -->
+ - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
+ - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
+ - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 👉 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)<!-- MEMES:END -->
 
 ---
 

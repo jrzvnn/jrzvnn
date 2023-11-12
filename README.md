@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So apparently, a pro Palestine/Hamas rally in NZ was canceled because friends of Terrorists chickened out before Jewish Maori&#39;s Haka. Terrorists act bravely only when hiding behind kids.](http://9gag.com/gag/a4oyP2Z)
- - 😝 [Learn the difference](http://9gag.com/gag/aQE5gZz)
- - 💣 [What a silly face](http://9gag.com/gag/ajVw798)
- - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 👉 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)<!-- MEMES:END -->
+ - 😝 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
+ - 😝 [Remember this `It&#39;s free and always will be`? Pepperidge farm remembers.](http://9gag.com/gag/aEq58gp)
+ - 💣 [I find her esthetically pleasing](http://9gag.com/gag/a7qX17e)
+ - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
 
 ---
 

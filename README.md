@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just take the L bro](http://9gag.com/gag/aWG5EAZ)
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [Absolute chaos from start to finish &lpar;China?&rpar;](http://9gag.com/gag/aGE5EDG)
+ - 💣 [F**k your kid](http://9gag.com/gag/abvwgbr)
  - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 💣 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
- - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
+ - 👉 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)<!-- MEMES:END -->
 
 ---
 

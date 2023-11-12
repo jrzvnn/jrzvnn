@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like Spanish right wingers are rioting after a politician got shot in the face](http://9gag.com/gag/a6q6K68)
- - 😝 [Burn the Witch](http://9gag.com/gag/aVb5w4K)
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 👉 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)<!-- MEMES:END -->
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 💣 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
+ - 😝 [Feminist Climbers](http://9gag.com/gag/aREdXqj)
+ - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
 
 ---
 

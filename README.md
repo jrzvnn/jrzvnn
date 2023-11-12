@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn launches two prototype low-Earth orbit communication satellites on a SpaceX rocket, as the company diversifies into new sectors with greater urgency &lpar;Bloomberg&rpar;](http://www.techmeme.com/231112/p3#a231112p3)
  - [These 2 Sonoma Features Made Me Think Twice About Safari     - CNET](https://www.cnet.com/tech/computing/these-2-sonoma-features-made-me-think-twice-about-safari/#ftag=CAD590a51e)
  - [Limit Your Dropped Calls: 10 Tips to Improve Your Cellphone Signal Strength This Holiday Season     - CNET](https://www.cnet.com/tech/mobile/limit-your-dropped-calls-10-tips-to-improve-your-cellphone-signal-strength-this-holiday-season/#ftag=CAD590a51e)
  - [Experts say terrorist groups are using generative AI tools to evade the hashing algorithms used by tech companies to automatically remove extremist content &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231112/p2#a231112p2)
- - [An in-depth look at a covert Russian operation to get dual-use specialist microchips, which are protected by EU export controls, into the hands of the state &lpar;Financial Times&rpar;](http://www.techmeme.com/231112/p1#a231112p1)
- - [Alibaba and JD.com reported YoY sales increases for Singles Day, but neither company provided overall revenue figures for the event for the second straight year &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231111/p11#a231111p11)<!-- TECH:END -->
+ - [An in-depth look at a covert Russian operation to get dual-use specialist microchips, which are protected by EU export controls, into the hands of the state &lpar;Financial Times&rpar;](http://www.techmeme.com/231112/p1#a231112p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

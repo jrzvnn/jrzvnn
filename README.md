@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)
+ - [18 Best Tech Gifts for Kids &lpar;2023&rpar;: Tablets, Speakers, Smartwatches](https://www.wired.com/gallery/tech-gifts-for-kids-2023/)
  - [Test-Driving the 100% Electric Arc One Speedboat     - CNET](https://www.cnet.com/roadshow/news/test-driving-the-100-electric-arc-one-speedboat/#ftag=CAD590a51e)
  - [Apple Watch Series 9 Double Tap: What I Like and Don&#39;t Like About It     - CNET](https://www.cnet.com/tech/mobile/apple-watch-double-tap-what-i-like-and-dont-like-about-it-so-far/#ftag=CAD590a51e)
- - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)
- - [40 Miles an Hour in an Electric Speedboat: Test-Driving the Arc One video     - CNET](https://www.cnet.com/roadshow/videos/40-mph-in-an-electric-speedboat-test-driving-the-arc-one/#ftag=CAD590a51e)
- - [Lang The Well Mineralizing Water Filter Review: Convenient but Finicky](https://www.wired.com/review/lang-the-well-remineralizing-water-filter/)<!-- TECH:END -->
+ - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

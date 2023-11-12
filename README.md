@@ -106,11 +106,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flip-flop criminal tries to escape and is mocked by the police...](http://9gag.com/gag/amAw5vv)
- - 😝 [No nut november went literal on me this time](http://9gag.com/gag/adPwVV9)
- - 💣 [Who&#39;s the honest one in the relationship we will soon find out](http://9gag.com/gag/a04qRdv)
- - 😝 [Prada Villains Fashion Walk. Why don&#39;t we have more of these..](http://9gag.com/gag/agowBZ1)
- - 👉 [The struggle is real](http://9gag.com/gag/a9q0qq0)<!-- MEMES:END -->
+ - 😝 [Nice meeting all of you too](http://9gag.com/gag/aPg27GV)
+ - 😝 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 💣 [It helps un these hard times](http://9gag.com/gag/aGE5gpz)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 👉 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)<!-- MEMES:END -->
 
 ---
 

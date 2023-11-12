@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s Everything You Should Know About Eye Drop Recalls     - CNET](https://www.cnet.com/health/personal-care/heres-everything-you-should-know-about-eye-drop-recalls/#ftag=CAD590a51e)
  - [Apple&#39;s bug-squashing week was part of its efforts to minimize errors](https://appleinsider.com/articles/23/11/12/apples-bug-squashing-week-was-part-of-its-efforts-to-minimize-errors?utm_medium=rss)
  - [Daily deals Nov. 12: M3 iMac $100-$150 off, Beats Studio 3 Headphones $169, Apple Magic Keyboard &amp; Mouse sale](https://appleinsider.com/articles/23/11/12/daily-deals-nov-12-m3-imac-100-150-off-beats-studio-3-headphones-169-apple-magic-keyboard-mouse-sale?utm_medium=rss)
  - [Threads users can keep their posts off Instagram and Facebook now](https://www.theverge.com/2023/11/12/23957591/threads-facebook-instagram-suggested-posts-opt-out)
- - [Investigation: Biobank, the UK&#39;s biomedical research database, shared sensitive health data of ~500K volunteers with insurance companies despite pledging not to &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/231112/p5#a231112p5)
- - [Esports leaders discuss ongoing industry challenges, including VC bubbles, layoffs, and ageism, and call for wealthy game studios to take on more responsibility &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231112/p4#a231112p4)<!-- TECH:END -->
+ - [Investigation: Biobank, the UK&#39;s biomedical research database, shared sensitive health data of ~500K volunteers with insurance companies despite pledging not to &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/231112/p5#a231112p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

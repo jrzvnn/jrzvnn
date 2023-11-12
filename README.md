@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember this `It&#39;s free and always will be`? Pepperidge farm remembers.](http://9gag.com/gag/aEq58gp)
- - 😝 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
- - 💣 [Sydney Sweeney](http://9gag.com/gag/a3ZrEO3)
  - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
+ - 😝 [The look](http://9gag.com/gag/aREdXv2)
+ - 💣 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
+ - 😝 [Just a bit support.](http://9gag.com/gag/aeQwARm)
+ - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
 
 ---
 

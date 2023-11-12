@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: Biobank, the UK&#39;s biomedical research database, shared sensitive health data of ~500K volunteers with insurance companies despite pledging not to &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/231112/p5#a231112p5)
  - [Esports leaders discuss ongoing industry challenges, including VC bubbles, layoffs, and ageism, and call for wealthy game studios to take on more responsibility &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231112/p4#a231112p4)
- - [26 Outdoor Gift Ideas &lpar;2023&rpar;: Camp Cookware, Bike Accessories, Outdoor Apparel](https://www.wired.com/gallery/outdoors-gift-ideas-2023/)
- - [M3 Ultra could have up to 80 graphics cores](https://appleinsider.com/articles/23/11/12/m3-ultra-could-have-up-to-80-graphics-cores?utm_medium=rss)
- - [Does the Time Change Have You Feeling Off? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/does-the-time-change-have-you-feeling-off-try-light-therapy/#ftag=CAD590a51e)
- - [16 Gift Ideas for the Home Chef &lpar;2023&rpar;: Vitamix, Cookbooks, and More](https://www.wired.com/gallery/gift-ideas-for-the-home-chef-2023/)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Liverpool vs. Brentford From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-brentford-from-anywhere/#ftag=CAD590a51e)
+ - [Saints vs. Vikings Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/saints-vs-vikings-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)
+ - [49ers vs. Jaguars Livestream: How to Watch NFL Week 10 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-jaguars-livestream-how-to-watch-nfl-week-10-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

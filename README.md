@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun times at home](http://9gag.com/gag/ajVw9Vg)
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 💣 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 😝 [Guy does a flip over cops and gets arrested](http://9gag.com/gag/az2wxrp)
- - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
+ - 😝 [Definitely Abrupt.](http://9gag.com/gag/aME5Eo6)
+ - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
+ - 💣 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)
+ - 😝 [I extended my phone battery life, and now I should probably extend my own life by dumping her. There is no way she did it because of `I am afraid of low voltage`](http://9gag.com/gag/a5X3R3y)
+ - 👉 [Just a bit support.](http://9gag.com/gag/aeQwARm)<!-- MEMES:END -->
 
 ---
 

@@ -97,11 +97,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba and JD.com reported YoY sales increases for Singles Day, but neither company provided overall revenue figures for the event for the second straight year &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231111/p11#a231111p11)
  - [Night Sweats: 4 Common Culprits and Solutions for Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-common-causes-of-night-sweats-and-what-to-do-about-it/#ftag=CAD590a51e)
  - [Best MacBook Air M2 Charger: Which One Should I Get?     - CNET](https://www.cnet.com/tech/computing/which-macbook-air-m2-charger-should-i-get/#ftag=CAD590a51e)
  - [Black Friday 2023: Sale Dates, Best Early Deals and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [London-based Monument, a digital bank focused on mass affluent clients, raised a $50M Series B, a source says at a &amp;pound;150M+ pre-money valuation &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/231111/p10#a231111p10)
- - [Eufy Security Indoor Cam C120 review: Budget-friendly HomeKit Secure Video camera](https://appleinsider.com/articles/23/11/11/eufy-security-indoor-cam-c120-review-budget-friendly-homekit-secure-video-camera?utm_medium=rss)<!-- TECH:END -->
+ - [London-based Monument, a digital bank focused on mass affluent clients, raised a $50M Series B, a source says at a &amp;pound;150M+ pre-money valuation &lpar;Mark Kleinman/Sky News&rpar;](http://www.techmeme.com/231111/p10#a231111p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

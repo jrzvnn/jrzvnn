@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
- - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 💣 [Save it and never use it...](http://9gag.com/gag/agowm46)
- - 😝 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
- - 👉 [Poland celebrates its Independence Day today. 0 violence, 0 vandalism and 0 pro- Hamas banners. Somebody loves his Zero very much.](http://9gag.com/gag/aA05yKE)<!-- MEMES:END -->
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 😝 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
+ - 👉 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)<!-- MEMES:END -->
 
 ---
 

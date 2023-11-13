@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
  - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
- - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
+ - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
 
 ---
 

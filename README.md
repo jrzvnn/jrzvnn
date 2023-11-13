@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
+ - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
  - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 💣 [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [Kat Dennings](http://9gag.com/gag/agow14v)
+ - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
 
 ---
 

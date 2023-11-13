@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)
+ - [Will Apple save us from surveillance advertising?](https://appleinsider.com/articles/23/11/13/will-apple-save-us-from-surveillance-advertising?utm_medium=rss)
  - [Salesforce names longtime executive Denise Dresser as Slack CEO, its third leader in the past year; Dresser was previously president of accelerated industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231113/p14#a231113p14)
  - [This Fitbit Versa 4 Smartwatch Is a $150 Early Black Friday Steal     - CNET](https://www.cnet.com/deals/this-fitbit-versa-4-smartwatch-is-a-150-early-black-friday-steal/#ftag=CAD590a51e)
- - [In a first, researchers show a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231113/p13#a231113p13)
- - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a first, researchers show a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231113/p13#a231113p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

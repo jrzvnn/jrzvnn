@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 💣 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Delivery](http://9gag.com/gag/az2wPMz)
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 💣 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
  - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
- - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
+ - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
 
 ---
 

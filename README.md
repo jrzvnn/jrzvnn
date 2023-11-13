@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 😝 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
- - 👉 [How it began...](http://9gag.com/gag/a3ZrGnQ)<!-- MEMES:END -->
+ - 😝 [Feminist please explain this](http://9gag.com/gag/aPg2AjQ)
+ - 😝 [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
+ - 💣 [I failed](http://9gag.com/gag/avQwQj5)
+ - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 👉 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)<!-- MEMES:END -->
 
 ---
 

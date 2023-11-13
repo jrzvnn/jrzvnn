@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not AI](http://9gag.com/gag/a9q0qxm)
- - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
- - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
- - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
- - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
+ - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 😝 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
+ - 👉 [How it began...](http://9gag.com/gag/a3ZrGnQ)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 💣 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
  - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
  - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
 
 ---

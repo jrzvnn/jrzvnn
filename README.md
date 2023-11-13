@@ -154,9 +154,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [We only get one planet](https://www.theverge.com/23943463/sustainability-tech-climate-change-ai-housing-ev)
  - [LG Display to start making OLED iPad Pro screens in February 2024](https://appleinsider.com/articles/23/11/13/lg-display-to-start-making-oled-ipad-pro-screens-in-february-2024?utm_medium=rss)
- - [Beautyrest Mattress Reviews: Premium Beds From Top-Rated Industry Veteran     - CNET](https://www.cnet.com/health/sleep/beautyrest-mattress-reviews-premium-beds-from-top-rated-industry-veteran/#ftag=CAD590a51e)
- - [CNET&#39;s Free Shopping Extension Adds Cash Back Just in Time for Holiday Shopping     - CNET](https://www.cnet.com/tech/services-and-software/use-cnet-shopping-to-seek-out-the-best-deals/#ftag=CAD590a51e)
- - [Best Chest Strap Heart-Rate Monitors for 2023     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp launches a new Discord-like voice chat feature for large groups that is designed to be less disruptive than group calls, which ring every group member &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231113/p16#a231113p16)
+ - [Remedy Entertainment’s newest game pivots away from free-to-play](https://www.theverge.com/2023/11/13/23958953/remedy-entertainment-premium-game-free-to-play)
+ - [TV Giveaway: 65-Inch TCL Q Series](https://www.wired.com/story/tcl-q-series-giveaway-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

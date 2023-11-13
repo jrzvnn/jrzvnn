@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane.](http://9gag.com/gag/aWG57q6)
- - 😝 [Dancing Arab](http://9gag.com/gag/a9q0z8j)
- - 💣 [Problem solved](http://9gag.com/gag/aREdBQ5)
- - 😝 [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
- - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
+ - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
+ - 💣 [What a silly face](http://9gag.com/gag/ajVw798)
+ - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 👉 [You spin me right round](http://9gag.com/gag/a3ZrG7r)<!-- MEMES:END -->
 
 ---
 

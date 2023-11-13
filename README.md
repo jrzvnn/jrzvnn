@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Divergent Technologies, which created a digital manufacturing system that uses 3D printing and AI-driven software, raised a $230M Series D led by Hexagon AB &lpar;Michael Molitch-Hou/3DPrint&rpar;](http://www.techmeme.com/231113/p21#a231113p21)
+ - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)
+ - [A Google witness let slip just how much it pays Apple for Safari search](https://www.theverge.com/2023/11/13/23959353/google-apple-safari-search-revenue-antitrust-trial)
  - [MacBook Pro 16-inch M3 Max review: Battery-powered Mac Pro power](https://appleinsider.com/articles/23/11/13/macbook-pro-16-inch-m3-max-review-battery-powered-mac-pro-power?utm_medium=rss)
- - [Apple is a contender to buy canceled &#39;Coyote Vs. Acme&#39; movie from Warner Bros](https://appleinsider.com/articles/23/11/13/apple-is-a-contender-to-buy-canceled-coyote-vs-acme-movie-from-warner-bros?utm_medium=rss)
- - [Netflix says the cloud will let it expand beyond mobile games](https://www.theverge.com/2023/11/13/23958926/netflix-cloud-gaming-tv-games-leanne-loombe-interview)
- - [Amazon&#39;s early Black Friday Apple deals slash prices to as low as $85.99](https://appleinsider.com/articles/23/11/13/amazons-early-black-friday-apple-deals-slash-prices-to-as-low-as-8599?utm_medium=rss)
- - [Amazon is getting rid of its gaming content channel amid larger games layoffs](https://www.theverge.com/2023/11/13/23959224/amazon-gaming-layoffs-crown-content-channel)<!-- TECH:END -->
+ - [Apple is a contender to buy canceled &#39;Coyote Vs. Acme&#39; movie from Warner Bros](https://appleinsider.com/articles/23/11/13/apple-is-a-contender-to-buy-canceled-coyote-vs-acme-movie-from-warner-bros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

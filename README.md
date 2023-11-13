@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 😝 [Kat Dennings](http://9gag.com/gag/agow14v)
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 😝 [Well... anon is right](http://9gag.com/gag/aNw59L4)
- - 👉 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)<!-- MEMES:END -->
+ - 😝 [God is the greatest](http://9gag.com/gag/aKE5ApZ)
+ - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 💣 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
+ - 😝 [Save it and never use it...](http://9gag.com/gag/agowm46)
+ - 👉 [Poland celebrates its Independence Day today. 0 violence, 0 vandalism and 0 pro- Hamas banners. Somebody loves his Zero very much.](http://9gag.com/gag/aA05yKE)<!-- MEMES:END -->
 
 ---
 

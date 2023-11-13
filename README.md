@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG Display to start making OLED iPad Pro screens in February 2024](https://appleinsider.com/articles/23/11/13/lg-display-to-start-making-oled-ipad-pro-screens-in-february-2024?utm_medium=rss)
  - [WhatsApp launches a new Discord-like voice chat feature for large groups that is designed to be less disruptive than group calls, which ring every group member &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231113/p16#a231113p16)
  - [Remedy Entertainment’s newest game pivots away from free-to-play](https://www.theverge.com/2023/11/13/23958953/remedy-entertainment-premium-game-free-to-play)
  - [TV Giveaway: 65-Inch TCL Q Series](https://www.wired.com/story/tcl-q-series-giveaway-2023/)
- - [The Garfield Movie’s new trailer will put you in a real Monday kind of mood](https://www.theverge.com/23958789/garfield-the-movie-trailer-chris-pratt)
- - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)<!-- TECH:END -->
+ - [The Garfield Movie’s new trailer will put you in a real Monday kind of mood](https://www.theverge.com/23958789/garfield-the-movie-trailer-chris-pratt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

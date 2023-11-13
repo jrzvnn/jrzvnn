@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s Pulse Explore earbuds deliver immersive audio and one very useful trick](https://www.theverge.com/23957860/sony-pulse-explore-playstation-earbuds-impressions)
  - [Keeping the classics alive: how archivists are preserving video game history](https://www.theverge.com/23850347/video-game-preservation)
  - [Nvidia announces H200, an update to its standalone H100 accelerator, swapping HBM3 memory for HBM3E, offering a ~25% frequency increase, and shipping in Q2 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231113/p11#a231113p11)
  - [Sony PlayStation Portal review: a limited, expensive gaming handheld with a mediocre screen that does little besides Remote Play streaming from a PS5 &lpar;Will Greenwald/PCMag&rpar;](http://www.techmeme.com/231113/p10#a231113p10)
- - [Pre-Black Friday Bargain Knocks $114 Off Microsoft&#39;s Surface Laptop Go 3     - CNET](https://www.cnet.com/deals/114-off-sufrace-laptop-go-3-amazon-black-friday-deal/#ftag=CAD590a51e)
- - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)<!-- TECH:END -->
+ - [Pre-Black Friday Bargain Knocks $114 Off Microsoft&#39;s Surface Laptop Go 3     - CNET](https://www.cnet.com/deals/114-off-sufrace-laptop-go-3-amazon-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

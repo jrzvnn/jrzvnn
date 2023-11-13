@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s Curvy Enough for YOU Young man](http://9gag.com/gag/aME54WA)
- - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 💣 [Insane.](http://9gag.com/gag/aWG57q6)
- - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 👉 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)<!-- MEMES:END -->
+ - 😝 [Not AI](http://9gag.com/gag/a9q0qxm)
+ - 😝 [Guilty as charged](http://9gag.com/gag/amAwgLy)
+ - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [F**k your kid](http://9gag.com/gag/abvwgbr)
+ - 👉 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)<!-- MEMES:END -->
 
 ---
 

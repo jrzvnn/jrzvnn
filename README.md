@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get this M2 Mac mini for just $499.99 today](https://appleinsider.com/articles/23/11/13/get-this-m2-mac-mini-for-just-49999-today?utm_medium=rss)
+ - [The right-to-repair movement is just getting started](https://www.theverge.com/23951200/right-to-repair-law-apple-ifixit-iphone)
  - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
  - [AI and You: ChatGPT Lets You Roll Your Own &#39;GPTs,&#39; Wearable AI May Be the Next Big Thing     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpt-lets-you-roll-your-own-gpts-wearable-ai-may-be-the-next-big-thing/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone parts pairing is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)
- - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
- - [Upgrading to the Galaxy S23? See How It Compares to Older Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/not-everyone-should-upgrade-to-samsungs-galaxy-s23-just-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone parts pairing is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

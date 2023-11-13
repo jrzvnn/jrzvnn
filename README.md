@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 👉 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)<!-- MEMES:END -->
+ - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 💣 [Save it and never use it...](http://9gag.com/gag/agowm46)
+ - 😝 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
+ - 👉 [Poland celebrates its Independence Day today. 0 violence, 0 vandalism and 0 pro- Hamas banners. Somebody loves his Zero very much.](http://9gag.com/gag/aA05yKE)<!-- MEMES:END -->
 
 ---
 

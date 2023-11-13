@@ -161,10 +161,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dancing Arab](http://9gag.com/gag/a9q0z8j)
- - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
- - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
- - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
+ - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [Lol what&#39;s Power Rangers](http://9gag.com/gag/aVb5oz2)
+ - 💣 [Problem solved](http://9gag.com/gag/aREdBQ5)
+ - 😝 [Imagine getting beaten in high rank chess game only to discover that you played against drunk Magnus Carlsen.](http://9gag.com/gag/aDY57rB)
  - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 ---

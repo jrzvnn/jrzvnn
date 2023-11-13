@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Problem solved](http://9gag.com/gag/aREdBQ5)
  - 💣 [Kat Dennings](http://9gag.com/gag/agow14v)
  - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 👉 [How it began...](http://9gag.com/gag/a3ZrGnQ)<!-- MEMES:END -->
+ - 👉 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)<!-- MEMES:END -->
 
 ---
 

@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google fights scammers using Bard hype to spread malware](https://www.theverge.com/2023/11/13/23958629/google-scammers-bard-ai-malware-spread-lawsuit)
  - [Didi reports Q3 revenue up 25% YoY to ~$7B, a ~$14.7M net income, up from a ~$274M loss in Q3 2022, and plans to buy back $1B in shares over the next 24 months &lpar;Reuters&rpar;](http://www.techmeme.com/231113/p5#a231113p5)
  - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
  - [2023 Black Friday: Here&#39;s How to Avoid This Year&#39;s Elaborate Scams     - CNET](https://www.cnet.com/tech/services-and-software/2023-black-friday-heres-how-to-avoid-this-years-elaborate-scams/#ftag=CAD590a51e)
- - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)
- - [In a major policy change, banks on payment app Zelle have started refunding scam victims as of June 30, 2023, after pressure from US lawmakers and the CFPB &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231113/p2#a231113p2)<!-- TECH:END -->
+ - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Nov. 13: $100 off M2 Mac mini, $299 Apple Watch Series 8, $89 Apple Pencil 2, more](https://appleinsider.com/articles/23/11/13/daily-deals-nov-13-100-off-m2-mac-mini-299-apple-watch-series-8-89-apple-pencil-2-more?utm_medium=rss)
  - [MacBook Air &amp; MacBook Pro buyer&#39;s guide: A Mac portable to fit your budget](https://appleinsider.com/articles/23/11/13/macbook-air-macbook-pro-buyers-guide-a-mac-portable-to-fit-your-budget?utm_medium=rss)
  - [Sony’s Pulse Explore earbuds deliver immersive audio and one very useful trick](https://www.theverge.com/23957860/sony-pulse-explore-playstation-earbuds-impressions)
  - [Keeping the classics alive: how archivists are preserving video game history](https://www.theverge.com/23850347/video-game-preservation)
- - [Nvidia announces H200, an update to its standalone H100 accelerator, swapping HBM3 memory for HBM3E, offering a ~25% frequency increase, and shipping in Q2 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231113/p11#a231113p11)
- - [Sony PlayStation Portal review: a limited, expensive gaming handheld with a mediocre screen that does little besides Remote Play streaming from a PS5 &lpar;Will Greenwald/PCMag&rpar;](http://www.techmeme.com/231113/p10#a231113p10)<!-- TECH:END -->
+ - [Nvidia announces H200, an update to its standalone H100 accelerator, swapping HBM3 memory for HBM3E, offering a ~25% frequency increase, and shipping in Q2 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231113/p11#a231113p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

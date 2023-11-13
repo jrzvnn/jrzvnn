@@ -161,10 +161,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [Gaza before and after Israel air strikes](http://9gag.com/gag/aeQw9X5)
- - 💣 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Dancing Arab](http://9gag.com/gag/a9q0z8j)
+ - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 💣 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
  - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 ---

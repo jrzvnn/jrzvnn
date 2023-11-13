@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Problem solved](http://9gag.com/gag/aREdBQ5)
- - 💣 [Kat Dennings](http://9gag.com/gag/agow14v)
- - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 👉 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)<!-- MEMES:END -->
+ - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 💣 [Save it and never use it...](http://9gag.com/gag/agowm46)
+ - 😝 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
+ - 👉 [Poland celebrates its Independence Day today. 0 violence, 0 vandalism and 0 pro- Hamas banners. Somebody loves his Zero very much.](http://9gag.com/gag/aA05yKE)<!-- MEMES:END -->
 
 ---
 

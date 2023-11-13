@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s latest Fire TV Stick 4K Max is on sale for a new low price](https://www.theverge.com/2023/11/13/23958927/amazon-firetv-stick-4k-max-sharge-shargeek-seethrough-power-bank-deal-sale)
  - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
  - [Delhi Plans to Unleash Cloud Seeding in Its Battle Against Deadly Smog](https://www.wired.com/story/delhi-smog-air-pollution-cloud-seeding/)
  - [Apple highlights research into diabetes, activity and menstrual cycles](https://appleinsider.com/articles/23/11/13/apple-highlights-research-into-diabetes-activity-and-menstrual-cycles?utm_medium=rss)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

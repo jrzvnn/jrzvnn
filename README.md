@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Michael J. Fox film tops Critics Choice Documentary Awards](https://appleinsider.com/articles/23/11/13/apples-michael-j-fox-film-tops-critics-choice-documentary-awards?utm_medium=rss)
- - [Australian telecom Optus says the recent massive outage that impacted 10M+ was caused by &quot;changes to routing information&quot; after a &quot;routine software upgrade&quot; &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231113/p6#a231113p6)
- - [25 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
- - [Google fights scammers using Bard hype to spread malware](https://www.theverge.com/2023/11/13/23958629/google-scammers-bard-ai-malware-spread-lawsuit)
- - [Didi reports Q3 revenue up 25% YoY to ~$7B, a ~$14.7M net income, up from a ~$274M loss in Q3 2022, and plans to buy back $1B in shares over the next 24 months &lpar;Reuters&rpar;](http://www.techmeme.com/231113/p5#a231113p5)<!-- TECH:END -->
+ - [Google sues unnamed individuals in India and Vietnam for tricking US-based SMB owners with Facebook accounts into clicking fake Bard ads that install malware &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p7#a231113p7)
+ - [Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed](https://www.wired.com/story/nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed/)
+ - [Netflix Killed &#39;The OA.&#39; Now Its Creators Are Back With a Show About Tech’s Ubiquity](https://www.wired.com/story/murder-at-the-end-of-the-world-brit-marling-zal-batmanglij-netflix-the-oa/)
+ - [Will Life Be Better in the Metaverse?](https://www.wired.com/story/will-life-be-better-in-the-metaverse/)
+ - [Apple&#39;s Michael J. Fox film tops Critics Choice Documentary Awards](https://appleinsider.com/articles/23/11/13/apples-michael-j-fox-film-tops-critics-choice-documentary-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

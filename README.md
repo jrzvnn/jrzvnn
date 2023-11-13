@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Istanbul Trans Pride parade goes about as well as one would think. And this is one of the mildest Muslim countries. Meanwhile we are having &#39;Queers for Hamas&#39; protesters in the West.](http://9gag.com/gag/amAwGR2)
- - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 😝 [And Lisa wonders why shes unpopular](http://9gag.com/gag/aME5mY6)
- - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
+ - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 💣 [They/was](http://9gag.com/gag/aL15Lxz)
+ - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 

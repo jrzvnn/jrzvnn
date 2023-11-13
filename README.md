@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
  - 💣 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 😝 [Delivery](http://9gag.com/gag/az2wPMz)
- - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
+ - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
+ - 👉 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)<!-- MEMES:END -->
 
 ---
 

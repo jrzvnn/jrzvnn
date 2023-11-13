@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
+ - [Delhi Plans to Unleash Cloud Seeding in Its Battle Against Deadly Smog](https://www.wired.com/story/delhi-smog-air-pollution-cloud-seeding/)
  - [Apple highlights research into diabetes, activity and menstrual cycles](https://appleinsider.com/articles/23/11/13/apple-highlights-research-into-diabetes-activity-and-menstrual-cycles?utm_medium=rss)
  - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)
- - [ExxonMobil is a lithium company now](https://www.theverge.com/2023/11/13/23958935/exxonmobil-lithium-drilling-arkansas)
- - [New York regulators draft rules focused on cybersecurity for hospitals, requiring them to assess risks and use tech like MFA, test incident response, and more &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p18#a231113p18)<!-- TECH:END -->
+ - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

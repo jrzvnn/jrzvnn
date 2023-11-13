@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce names longtime executive Denise Dresser as Slack CEO, its third leader in the past year; Dresser was previously president of accelerated industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231113/p14#a231113p14)
+ - [This Fitbit Versa 4 Smartwatch Is a $150 Early Black Friday Steal     - CNET](https://www.cnet.com/deals/this-fitbit-versa-4-smartwatch-is-a-150-early-black-friday-steal/#ftag=CAD590a51e)
  - [In a first, researchers show a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231113/p13#a231113p13)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
- - [After Apple voiced support for California&#39;s Right to Repair Act, a look at what&#39;s next for the movement, like tackling unsustainable designs and software locks &lpar;Maddie Stone/The Verge&rpar;](http://www.techmeme.com/231113/p12#a231113p12)
- - [Daily deals Nov. 13: $100 off M2 Mac mini, $299 Apple Watch Series 8, $89 Apple Pencil 2, more](https://appleinsider.com/articles/23/11/13/daily-deals-nov-13-100-off-m2-mac-mini-299-apple-watch-series-8-89-apple-pencil-2-more?utm_medium=rss)
- - [MacBook Air &amp; MacBook Pro buyer&#39;s guide: A Mac portable to fit your budget](https://appleinsider.com/articles/23/11/13/macbook-air-macbook-pro-buyers-guide-a-mac-portable-to-fit-your-budget?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

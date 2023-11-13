@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia is launching a new must-have AI chip — as customers still scramble for its last one](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date)
  - [The Biden administration directs agencies to work on giving up airwaves to make room for commercial 5G networks, part of the National Spectrum Strategy &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231113/p15#a231113p15)
  - [Will Apple save us from surveillance advertising?](https://appleinsider.com/articles/23/11/13/will-apple-save-us-from-surveillance-advertising?utm_medium=rss)
  - [Salesforce names longtime executive Denise Dresser as Slack CEO, its third leader in the past year; Dresser was previously president of accelerated industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231113/p14#a231113p14)
- - [This Fitbit Versa 4 Smartwatch Is a $150 Early Black Friday Steal     - CNET](https://www.cnet.com/deals/this-fitbit-versa-4-smartwatch-is-a-150-early-black-friday-steal/#ftag=CAD590a51e)
- - [In a first, researchers show a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231113/p13#a231113p13)<!-- TECH:END -->
+ - [This Fitbit Versa 4 Smartwatch Is a $150 Early Black Friday Steal     - CNET](https://www.cnet.com/deals/this-fitbit-versa-4-smartwatch-is-a-150-early-black-friday-steal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

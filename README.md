@@ -102,8 +102,8 @@
  - [Meta rolls out the ability for users to delete their Threads profile without having to delete their Instagram account &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231113/p24#a231113p24)
  - [Apple Arcade&#39;s &#39;Hello Kitty Island Adventure&#39; nominated for best mobile game at The Game Awards](https://appleinsider.com/articles/23/11/13/apple-arcades-hello-kitty-island-adventure-nominated-for-best-mobile-game-at-the-game-awards?utm_medium=rss)
  - [The Incredible Women Making Strides in Science](https://www.wired.com/story/women-in-science-introduction-editor/)
- - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)
- - [Too many organizations choose to obfuscate, mislead, or be tight-lipped in their data breach disclosures, and regulations are needed to force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)<!-- TECH:END -->
+ - [Bulova Ladies&#39; Marine Star Watch     - CNET](https://www.cnet.com/culture/fashion/bulova-ladies-marine-star-watch-dpnl/#ftag=CAD590a51e)
+ - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

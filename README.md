@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Incredible Women Making Strides in Science](https://www.wired.com/story/women-in-science-introduction-editor/)
  - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)
- - [Too many organizations have chosen to obfuscate, mislead, or be too tight-lipped in data breach disclosures, and new regulations should force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)
+ - [Too many organizations choose to obfuscate, mislead, or be tight-lipped in their data breach disclosures, and regulations are needed to force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)
  - [US Privacy Groups Urge Senate Not to Ram Through NSA Spying Powers](https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/)
- - [Internal Brex data: Q3 annualized net revenue hit $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse trails away &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal Brex data: Q3 annualized net revenue hit $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse trails away &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

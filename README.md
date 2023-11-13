@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem solved](http://9gag.com/gag/aREdBQ5)
- - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 👉 [Guilty as charged](http://9gag.com/gag/amAwgLy)<!-- MEMES:END -->
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Proofs of Natural Selection process](http://9gag.com/gag/a1PjP0Y)
+ - 💣 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 👉 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)<!-- MEMES:END -->
 
 ---
 

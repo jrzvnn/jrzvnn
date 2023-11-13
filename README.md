@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
+ - [AI and You: ChatGPT Lets You Roll Your Own &#39;GPTs,&#39; Wearable AI May Be the Next Big Thing     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpt-lets-you-roll-your-own-gpts-wearable-ai-may-be-the-next-big-thing/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone &#39;parts pairing&#39; is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)
  - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
- - [Secretary of Energy Jennifer Granholm on cleaning up ‘clean’ energy](https://www.theverge.com/23951210/energy-secretary-jennifer-granholm-interview-sustainability)
- - [OpenAI, Anthropic, Discord, Vimeo, and others sign up to the Christchurch Call to Action, established after a 2019 mass killing to moderate extremist content &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/231113/p8#a231113p8)
- - [Google sues unnamed individuals in India and Vietnam for tricking US-based SMB owners with Facebook accounts into clicking fake Bard ads that install malware &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p7#a231113p7)
- - [Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed](https://www.wired.com/story/nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed/)<!-- TECH:END -->
+ - [Upgrading to the Galaxy S23? See How It Compares to Older Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/not-everyone-should-upgrade-to-samsungs-galaxy-s23-just-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

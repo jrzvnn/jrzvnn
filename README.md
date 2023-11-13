@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)
- - [The US Wants China to Start Talking About AI Weapons](https://www.wired.com/story/us-china-killer-ai-weapons-apec-talks/)
- - [Zelle banks have been paying back scam victims after government pressure](https://www.theverge.com/2023/11/13/23958769/zelle-banks-refunding-imposter-scam-victims)
- - [Nvidia is launching a new must-have AI chip — as customers still scramble for its last one](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date)
- - [Best Black Friday AirPods Deals: Save $49 on AirPods Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp launches a new Discord-like voice chat feature for large groups that is designed to be less disruptive than group calls, which ring every group member &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231113/p16#a231113p16)
+ - [Remedy Entertainment’s newest game pivots away from free-to-play](https://www.theverge.com/2023/11/13/23958953/remedy-entertainment-premium-game-free-to-play)
+ - [TV Giveaway: 65-Inch TCL Q Series](https://www.wired.com/story/tcl-q-series-giveaway-2023/)
+ - [The Garfield Movie’s new trailer will put you in a real Monday kind of mood](https://www.theverge.com/23958789/garfield-the-movie-trailer-chris-pratt)
+ - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

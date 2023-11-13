@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
- - 💣 [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
+ - 💣 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
+ - 👉 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)<!-- MEMES:END -->
 
 ---
 

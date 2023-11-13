@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We only get one planet](https://www.theverge.com/23943463/sustainability-tech-climate-change-ai-housing-ev)
- - [LG Display to start making OLED iPad Pro screens in February 2024](https://appleinsider.com/articles/23/11/13/lg-display-to-start-making-oled-ipad-pro-screens-in-february-2024?utm_medium=rss)
- - [WhatsApp launches a new Discord-like voice chat feature for large groups that is designed to be less disruptive than group calls, which ring every group member &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231113/p16#a231113p16)
- - [Remedy Entertainment’s newest game pivots away from free-to-play](https://www.theverge.com/2023/11/13/23958953/remedy-entertainment-premium-game-free-to-play)
- - [TV Giveaway: 65-Inch TCL Q Series](https://www.wired.com/story/tcl-q-series-giveaway-2023/)<!-- TECH:END -->
+ - [Apple highlights research into diabetes, activity and menstrual cycles](https://appleinsider.com/articles/23/11/13/apple-highlights-research-into-diabetes-activity-and-menstrual-cycles?utm_medium=rss)
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [In an email to employees, Amazon says it is restructuring its games unit to focus on free streaming games offered with Prime and is cutting about 180 jobs &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231113/p19#a231113p19)
+ - [ExxonMobil is a lithium company now](https://www.theverge.com/2023/11/13/23958935/exxonmobil-lithium-drilling-arkansas)
+ - [New York regulators draft rules focused on cybersecurity for hospitals, requiring them to assess risks and use tech like MFA, test incident response, and more &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p18#a231113p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

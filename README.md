@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro 16-inch M3 Max review: Battery-powered Mac Pro power](https://appleinsider.com/articles/23/11/13/macbook-pro-16-inch-m3-max-review-battery-powered-mac-pro-power?utm_medium=rss)
  - [Apple is a contender to buy canceled &#39;Coyote Vs. Acme&#39; movie from Warner Bros](https://appleinsider.com/articles/23/11/13/apple-is-a-contender-to-buy-canceled-coyote-vs-acme-movie-from-warner-bros?utm_medium=rss)
  - [Netflix says the cloud will let it expand beyond mobile games](https://www.theverge.com/2023/11/13/23958926/netflix-cloud-gaming-tv-games-leanne-loombe-interview)
  - [Amazon&#39;s early Black Friday Apple deals slash prices to as low as $85.99](https://appleinsider.com/articles/23/11/13/amazons-early-black-friday-apple-deals-slash-prices-to-as-low-as-8599?utm_medium=rss)
- - [Amazon is getting rid of its gaming content channel amid larger games layoffs](https://www.theverge.com/2023/11/13/23959224/amazon-gaming-layoffs-crown-content-channel)
- - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon is getting rid of its gaming content channel amid larger games layoffs](https://www.theverge.com/2023/11/13/23959224/amazon-gaming-layoffs-crown-content-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

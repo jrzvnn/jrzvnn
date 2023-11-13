@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is adding a new way to voice chat with large groups](https://www.theverge.com/2023/11/13/23958889/whatsapp-voice-chat-feature-ios-android-32-users)
  - [The US Wants China to Start Talking About AI Weapons](https://www.wired.com/story/us-china-killer-ai-weapons-apec-talks/)
  - [Zelle banks have been paying back scam victims after government pressure](https://www.theverge.com/2023/11/13/23958769/zelle-banks-refunding-imposter-scam-victims)
  - [Nvidia is launching a new must-have AI chip — as customers still scramble for its last one](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date)
- - [Best Black Friday AirPods Deals: Save $49 on AirPods Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)
- - [Best Budget Laptop 2023     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday AirPods Deals: Save $49 on AirPods Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

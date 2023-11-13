@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [San Francisco if Xi stayed for a week](http://9gag.com/gag/aVb5EWO)
- - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
- - 💣 [Game is on!](http://9gag.com/gag/a7qXedz)
- - 😝 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
+ - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 💣 [My eyes are up here](http://9gag.com/gag/aL15nyg)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 

@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, Anthropic, Discord, Vimeo, and others sign up to the Christchurch Call to Action, established after a 2019 mass killing to moderate extremist content &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/231113/p8#a231113p8)
  - [Google sues unnamed individuals in India and Vietnam for tricking US-based SMB owners with Facebook accounts into clicking fake Bard ads that install malware &lpar;John D. McKinnon/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p7#a231113p7)
  - [Nearly Everyone With Mild Cognitive Impairment Goes Undiagnosed](https://www.wired.com/story/nearly-everyone-with-mild-cognitive-impairment-goes-undiagnosed/)
  - [Netflix Killed &#39;The OA.&#39; Now Its Creators Are Back With a Show About Tech’s Ubiquity](https://www.wired.com/story/murder-at-the-end-of-the-world-brit-marling-zal-batmanglij-netflix-the-oa/)
- - [Will Life Be Better in the Metaverse?](https://www.wired.com/story/will-life-be-better-in-the-metaverse/)
- - [Apple&#39;s Michael J. Fox film tops Critics Choice Documentary Awards](https://appleinsider.com/articles/23/11/13/apples-michael-j-fox-film-tops-critics-choice-documentary-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Will Life Be Better in the Metaverse?](https://www.wired.com/story/will-life-be-better-in-the-metaverse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

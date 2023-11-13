@@ -153,10 +153,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Q&amp;A with Microsoft EVP of Business Development Chris Young on the AI hype, Microsoft making a business out of AI, the non-tech early adopters of AI, and more &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/231113/p4#a231113p4)
+ - [2023 Black Friday: Here&#39;s How to Avoid This Year&#39;s Elaborate Scams     - CNET](https://www.cnet.com/tech/services-and-software/2023-black-friday-heres-how-to-avoid-this-years-elaborate-scams/#ftag=CAD590a51e)
  - [Sam Altman says he expected &quot;to raise a lot more&quot; from Microsoft and other investors to keep up with the punishing costs of building more sophisticated LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231113/p3#a231113p3)
  - [In a major policy change, banks on payment app Zelle have started refunding scam victims as of June 30, 2023, after pressure from US lawmakers and the CFPB &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231113/p2#a231113p2)
- - [Xiaomi&#39;s stock is up 60%+ since June 2023, gaining ~$20B in market value on the back of strong Xiaomi 14 series sales and its foray into EV and other businesses &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231113/p1#a231113p1)
- - [The Best PSVR Games That Still Aren&#39;t on PSVR 2     - CNET](https://www.cnet.com/tech/gaming/best-psvr-games-to-try-on-a-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi&#39;s stock is up 60%+ since June 2023, gaining ~$20B in market value on the back of strong Xiaomi 14 series sales and its foray into EV and other businesses &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231113/p1#a231113p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

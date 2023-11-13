@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God is the greatest](http://9gag.com/gag/aKE5ApZ)
  - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 💣 [Brain hurts](http://9gag.com/gag/aXn1PDV)
- - 😝 [San Francisco if Xi stayed for a week](http://9gag.com/gag/aVb5EWO)
- - 👉 [Game is on!](http://9gag.com/gag/a7qXedz)<!-- MEMES:END -->
+ - 😝 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 💣 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God is the greatest](http://9gag.com/gag/aKE5ApZ)
- - 😝 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
- - 💣 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
- - 😝 [Save it and never use it...](http://9gag.com/gag/agowm46)
- - 👉 [Poland celebrates its Independence Day today. 0 violence, 0 vandalism and 0 pro- Hamas banners. Somebody loves his Zero very much.](http://9gag.com/gag/aA05yKE)<!-- MEMES:END -->
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 💣 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
+ - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
 
 ---
 

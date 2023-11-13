@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Air &amp; MacBook Pro buyer&#39;s guide: A Mac portable to fit your budget](https://appleinsider.com/articles/23/11/13/macbook-air-macbook-pro-buyers-guide-a-mac-portable-to-fit-your-budget?utm_medium=rss)
  - [Sony’s Pulse Explore earbuds deliver immersive audio and one very useful trick](https://www.theverge.com/23957860/sony-pulse-explore-playstation-earbuds-impressions)
  - [Keeping the classics alive: how archivists are preserving video game history](https://www.theverge.com/23850347/video-game-preservation)
  - [Nvidia announces H200, an update to its standalone H100 accelerator, swapping HBM3 memory for HBM3E, offering a ~25% frequency increase, and shipping in Q2 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231113/p11#a231113p11)
- - [Sony PlayStation Portal review: a limited, expensive gaming handheld with a mediocre screen that does little besides Remote Play streaming from a PS5 &lpar;Will Greenwald/PCMag&rpar;](http://www.techmeme.com/231113/p10#a231113p10)
- - [Pre-Black Friday Bargain Knocks $114 Off Microsoft&#39;s Surface Laptop Go 3     - CNET](https://www.cnet.com/deals/114-off-sufrace-laptop-go-3-amazon-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony PlayStation Portal review: a limited, expensive gaming handheld with a mediocre screen that does little besides Remote Play streaming from a PS5 &lpar;Will Greenwald/PCMag&rpar;](http://www.techmeme.com/231113/p10#a231113p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

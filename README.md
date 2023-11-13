@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a first, researchers show a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231113/p13#a231113p13)
  - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
  - [After Apple voiced support for California&#39;s Right to Repair Act, a look at what&#39;s next for the movement, like tackling unsustainable designs and software locks &lpar;Maddie Stone/The Verge&rpar;](http://www.techmeme.com/231113/p12#a231113p12)
  - [Daily deals Nov. 13: $100 off M2 Mac mini, $299 Apple Watch Series 8, $89 Apple Pencil 2, more](https://appleinsider.com/articles/23/11/13/daily-deals-nov-13-100-off-m2-mac-mini-299-apple-watch-series-8-89-apple-pencil-2-more?utm_medium=rss)
- - [MacBook Air &amp; MacBook Pro buyer&#39;s guide: A Mac portable to fit your budget](https://appleinsider.com/articles/23/11/13/macbook-air-macbook-pro-buyers-guide-a-mac-portable-to-fit-your-budget?utm_medium=rss)
- - [Sony’s Pulse Explore earbuds deliver immersive audio and one very useful trick](https://www.theverge.com/23957860/sony-pulse-explore-playstation-earbuds-impressions)<!-- TECH:END -->
+ - [MacBook Air &amp; MacBook Pro buyer&#39;s guide: A Mac portable to fit your budget](https://appleinsider.com/articles/23/11/13/macbook-air-macbook-pro-buyers-guide-a-mac-portable-to-fit-your-budget?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

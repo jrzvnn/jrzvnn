@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out the ability for users to delete their Threads profile without having to delete their Instagram account &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231113/p24#a231113p24)
+ - [Apple Arcade&#39;s &#39;Hello Kitty Island Adventure&#39; nominated for best mobile game at The Game Awards](https://appleinsider.com/articles/23/11/13/apple-arcades-hello-kitty-island-adventure-nominated-for-best-mobile-game-at-the-game-awards?utm_medium=rss)
  - [The Incredible Women Making Strides in Science](https://www.wired.com/story/women-in-science-introduction-editor/)
  - [Threads finally lets you delete your account separately from Instagram](https://www.theverge.com/2023/11/13/23959709/threads-delete-account-instagram-keep-meta)
- - [Too many organizations choose to obfuscate, mislead, or be tight-lipped in their data breach disclosures, and regulations are needed to force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)
- - [US Privacy Groups Urge Senate Not to Ram Through NSA Spying Powers](https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/)
- - [Internal Brex data: Q3 annualized net revenue hit $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse trails away &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)<!-- TECH:END -->
+ - [Too many organizations choose to obfuscate, mislead, or be tight-lipped in their data breach disclosures, and regulations are needed to force more transparency &lpar;DataBreaches.net&rpar;](http://www.techmeme.com/231113/p23#a231113p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

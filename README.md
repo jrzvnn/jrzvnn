@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
- - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
+ - 💣 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
+ - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 👉 [Proofs of Natural Selection process](http://9gag.com/gag/a1PjP0Y)<!-- MEMES:END -->
 
 ---
 

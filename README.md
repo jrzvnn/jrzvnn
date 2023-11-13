@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 💣 [How it began...](http://9gag.com/gag/a3ZrGnQ)
  - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [Insane.](http://9gag.com/gag/aWG57q6)
- - 💣 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
+ - 👉 [Today in art class Part 3. We learned how to draw balloons. Then different hand grips. Now we put them together...](http://9gag.com/gag/aGE5nAZ)<!-- MEMES:END -->
 
 ---
 

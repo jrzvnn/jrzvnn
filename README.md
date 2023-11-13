@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
- - 😝 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 💣 [What a silly face](http://9gag.com/gag/ajVw798)
+ - 😝 [That&#39;s Curvy Enough for YOU Young man](http://9gag.com/gag/aME54WA)
  - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
- - 👉 [You spin me right round](http://9gag.com/gag/a3ZrG7r)<!-- MEMES:END -->
+ - 💣 [Insane.](http://9gag.com/gag/aWG57q6)
+ - 😝 [That&#39;s not how this works](http://9gag.com/gag/a7qX1Ww)
+ - 👉 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)<!-- MEMES:END -->
 
 ---
 

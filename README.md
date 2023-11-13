@@ -163,9 +163,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
  - 😝 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 💣 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
- - 👉 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
+ - 💣 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)<!-- MEMES:END -->
 
 ---
 

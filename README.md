@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get this M2 Mac mini for just $499.99 today](https://appleinsider.com/articles/23/11/13/get-this-m2-mac-mini-for-just-49999-today?utm_medium=rss)
- - [The right-to-repair movement is just getting started](https://www.theverge.com/23951200/right-to-repair-law-apple-ifixit-iphone)
- - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [AI and You: ChatGPT Lets You Roll Your Own &#39;GPTs,&#39; Wearable AI May Be the Next Big Thing     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpt-lets-you-roll-your-own-gpts-wearable-ai-may-be-the-next-big-thing/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone parts pairing is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)<!-- TECH:END -->
+ - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)
+ - [The fight to save old video games](https://www.theverge.com/23958715/video-game-emulation-preservation-vergecast)
+ - [MyQ blocks third-party support, Matic is a new style of vacuum, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/11/13/myq-blocks-third-party-support-matic-is-a-new-style-of-vacuum-more-on-homekit-insider?utm_medium=rss)
+ - [7 Best Bidets &lpar;2023&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)
+ - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

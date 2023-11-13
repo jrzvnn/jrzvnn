@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Privacy Groups Urge Senate Not to Ram Through NSA Spying Powers](https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/)
  - [Internal data: Brex had Q3 annualized net revenue of $283M, up 1% QoQ, and the company is far from profitable, as the growth spurt after SVB&#39;s collapse fizzles &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231113/p22#a231113p22)
  - [Rick and Morty’s Dan Harmon and Scott Marder are trusting the process for season 7](https://www.theverge.com/2023/11/13/23951296/rick-and-morty-dan-harmon-scott-marder-interview-season-7)
  - [Divergent Technologies, which created a digital manufacturing system that uses 3D printing and AI-driven software, raised a $230M Series D led by Hexagon AB &lpar;Michael Molitch-Hou/3DPrint&rpar;](http://www.techmeme.com/231113/p21#a231113p21)
- - [Best Cheap Earbuds and Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-earbuds-and-headphones/#ftag=CAD590a51e)
- - [Einride’s drone truck has its first full-time job moving GE appliances around](https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery)<!-- TECH:END -->
+ - [Best Cheap Earbuds and Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-earbuds-and-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

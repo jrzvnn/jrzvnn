@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
  - [A look at OpenAI&#39;s structure where a six-member non-profit board can decide if AGI has been achieved, at which point Microsoft is excluded from some IP licenses &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231113/p20#a231113p20)
  - [Amazon’s latest Fire TV Stick 4K Max is on sale for a new low price](https://www.theverge.com/2023/11/13/23958927/amazon-firetv-stick-4k-max-sharge-shargeek-seethrough-power-bank-deal-sale)
- - [Google paid 36% of Safari search revenue to Apple](https://appleinsider.com/articles/23/11/13/google-paid-36-of-safari-search-revenue-to-apple-in-deal?utm_medium=rss)
  - [Delhi Plans to Unleash Cloud Seeding in Its Battle Against Deadly Smog](https://www.wired.com/story/delhi-smog-air-pollution-cloud-seeding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

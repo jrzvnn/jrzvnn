@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
  - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 💣 [How we want it](http://9gag.com/gag/aEq5qOn)
- - 😝 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - 👉 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)<!-- MEMES:END -->
+ - 💣 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
+ - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 👉 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 💣 [Today in art class Part 3. We learned how to draw balloons. Then different hand grips. Now we put them together...](http://9gag.com/gag/aGE5nAZ)
- - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
- - 👉 [Problem solved](http://9gag.com/gag/aREdBQ5)<!-- MEMES:END -->
+ - 😝 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 😝 [Choose your side.](http://9gag.com/gag/aGE5yqK)
+ - 💣 [You spin me right round](http://9gag.com/gag/a3ZrG7r)
+ - 😝 [Where&#39;s the teacher](http://9gag.com/gag/amAwWD6)
+ - 👉 [Save it and never use it...](http://9gag.com/gag/agowm46)<!-- MEMES:END -->
 
 ---
 

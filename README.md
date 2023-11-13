@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)
- - [The fight to save old video games](https://www.theverge.com/23958715/video-game-emulation-preservation-vergecast)
- - [MyQ blocks third-party support, Matic is a new style of vacuum, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/11/13/myq-blocks-third-party-support-matic-is-a-new-style-of-vacuum-more-on-homekit-insider?utm_medium=rss)
- - [7 Best Bidets &lpar;2023&rpar;: Toto, Kohler, Tushy](https://www.wired.com/gallery/best-bidets/)
- - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Keeping the classics alive: how archivists are preserving video game history](https://www.theverge.com/23850347/video-game-preservation)
+ - [Nvidia announces H200, an update to its standalone H100 accelerator, swapping HBM3 memory for HBM3E, offering a ~25% frequency increase, and shipping in Q2 2024 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231113/p11#a231113p11)
+ - [Sony PlayStation Portal review: a limited, expensive gaming handheld with a mediocre screen that does little besides Remote Play streaming from a PS5 &lpar;Will Greenwald/PCMag&rpar;](http://www.techmeme.com/231113/p10#a231113p10)
+ - [Pre-Black Friday Bargain Knocks $114 Off Microsoft&#39;s Surface Laptop Go 3     - CNET](https://www.cnet.com/deals/114-off-sufrace-laptop-go-3-amazon-black-friday-deal/#ftag=CAD590a51e)
+ - [Adorama slashes prices on Apple gear by up to $1,000 &amp; even M3 MacBooks are included](https://appleinsider.com/articles/23/11/13/adorama-slashes-prices-on-apple-gear-by-up-to-1000-even-m3-macbooks-are-included?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

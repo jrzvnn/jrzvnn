@@ -162,10 +162,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Why Some Girls and Women Love Horses So Much](http://9gag.com/gag/agowoBq)
- - 😝 [Copenhagen, Denmark. Filmed this Saturday.](http://9gag.com/gag/anzw7wq)
- - 💣 [\u2018It\u2019s my first time\u2019](http://9gag.com/gag/aQE5Eyd)
- - 😝 [Last Day in prison](http://9gag.com/gag/aME549P)
- - 👉 [Zero](http://9gag.com/gag/a4oy1Vd)<!-- MEMES:END -->
+ - 😝 [Gaza before and after Israel air strikes](http://9gag.com/gag/aeQw9X5)
+ - 💣 [It&#39;s a miracle!!](http://9gag.com/gag/aEq5MWo)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 👉 [How we want it](http://9gag.com/gag/aEq5qOn)<!-- MEMES:END -->
 
 ---
 

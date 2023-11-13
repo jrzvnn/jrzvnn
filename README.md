@@ -152,11 +152,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi is up 60%+, gaining about $20B in market value since June 2023 on the back of strong Xiaomi 14 series sales and its foray into EV and other businesses &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231113/p1#a231113p1)
  - [Chinese chipmaker YMTC filed a lawsuit against Micron on November 9, 2023 in California, alleging that the US chipmaker infringed eight of its patents &lpar;Reuters&rpar;](http://www.techmeme.com/231112/p8#a231112p8)
  - [Best Internet Providers in Anchorage, Alaska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-anchorage-ak/#ftag=CAD590a51e)
  - [Upgrade Your Gaming Setup on a Budget With This $145 27-Inch Acer Nitro Monitor     - CNET](https://www.cnet.com/deals/upgrade-your-gaming-setup-on-a-budget-with-this-145-27-inch-acer-nitro-monitor/#ftag=CAD590a51e)
- - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [PlayStation Plus Deals: Get Access to Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

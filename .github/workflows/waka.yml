@@ -9,8 +9,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Debug action
-        uses: hmarr/debug-action@v2.1.0
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -22,5 +20,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "False"
-          IGNORED_REPOS: "https://github.com/jrzvnn/jrzvnn/"
-

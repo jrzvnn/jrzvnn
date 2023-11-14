@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts](http://9gag.com/gag/ay2w6LY)
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 💣 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
- - 😝 [And when they grew out of that faze they were super beautiful. Today&#39;s tomboys have beards and confusion of the highest order.](http://9gag.com/gag/az2wKQZ)
- - 👉 [And for less money too](http://9gag.com/gag/aA05EAo)<!-- MEMES:END -->
+ - 😝 [Advice?](http://9gag.com/gag/a5X3VBV)
+ - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
+ - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 👉 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)<!-- MEMES:END -->
 
 ---
 

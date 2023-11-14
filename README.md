@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tap to Pay on iPhone starts taking payments in France](https://appleinsider.com/articles/23/11/14/tap-to-pay-on-iphone-starts-taking-payments-in-france?utm_medium=rss)
+ - [Microsoft and Google do not plan to challenge &quot;gatekeeper&quot; status under the EU DMA, ahead of a November 16 deadline to object; sources say TikTok may challenge &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p13#a231114p13)
+ - [A eulogy for coding, which has always felt like an endlessly deep and rich domain, after ChatGPT swallowed knowledge and skills that take lifetimes to master &lpar;James Somers/New Yorker&rpar;](http://www.techmeme.com/231114/p12#a231114p12)
  - [Counterpoint: Chinese smartphone sales grew 11% YoY in October, led by Huawei, up 83% due to the Mate 60, and Xiaomi, up 33%; iPhone sales were unusually muted &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/231114/p11#a231114p11)
- - [Màkku Review: an Ancient Korean Libation Transformed for the Modern Drinker](https://www.wired.com/story/makku-makgeolli/)
- - [TikTok Is the New TV](https://www.wired.com/story/tiktok-new-show-tv-takeover/)
- - [Ann McKee Is on a Quest to Save Humanity’s Brains](https://www.wired.com/story/women-in-science-ann-mckee/)
- - [No, &#39;Monarch: Legacy of Monsters&#39; was not shot in 3D for Vision Pro](https://appleinsider.com/articles/23/11/14/no-monarch-legacy-of-monsters-was-not-shot-in-3d-for-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Màkku Review: an Ancient Korean Libation Transformed for the Modern Drinker](https://www.wired.com/story/makku-makgeolli/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

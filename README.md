@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 💣 [My eyes are up here](http://9gag.com/gag/aL15nyg)
  - 😝 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
- - 👉 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)<!-- MEMES:END -->
+ - 😝 [Any sex offenders here?](http://9gag.com/gag/a1PjNVb)
+ - 💣 [A photo of Gaza babies has appeared all over social media saying they were taken out of their incubators because the hospital doesn\u2019t have electricity. The thing is there\u2019s also an uncropped photo that clearly shows a functional electrical monitor in the background.](http://9gag.com/gag/aoKw3AA)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 

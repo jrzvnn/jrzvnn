@@ -108,10 +108,10 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - 😝 [I wonder why](http://9gag.com/gag/a5X3wyq)
- - 💣 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
+ - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
  - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
 
 ---

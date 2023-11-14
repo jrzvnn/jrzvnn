@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil USB-C gets its first firmware update](https://appleinsider.com/articles/23/11/14/apple-pencil-usb-c-gets-its-first-firmware-update?utm_medium=rss)
+ - [The 41 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Best Firm Mattress of 2023     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
  - [Users&#39; WhatsApp backups on Android will count towards their Google Account storage limit starting in December 2023 for beta users, and all users in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231114/p30#a231114p30)
- - [Older macOS versions got release candidate betas on Tuesday too](https://appleinsider.com/articles/23/11/14/apple-seeds-third-release-candidates-for-macos-monterey-1272-macos-ventura-1363?utm_medium=rss)
- - [Bank Deposit Delays: What to Do If Your Paycheck Is Held Up     - CNET](https://www.cnet.com/personal-finance/bank-deposit-delays-what-to-do-if-your-paycheck-is-held-up/#ftag=CAD590a51e)
- - [Amazon has begun replacing Android with its own software on some products](https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show)<!-- TECH:END -->
+ - [Older macOS versions got release candidate betas on Tuesday too](https://appleinsider.com/articles/23/11/14/apple-seeds-third-release-candidates-for-macos-monterey-1272-macos-ventura-1363?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

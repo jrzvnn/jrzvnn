@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads might get DMs after all — but it’ll probably be through Instagram](https://www.theverge.com/2023/11/14/23961125/threads-dms-instagram-inbox-adam-mosseri)
  - [Social media giants must face child safety lawsuits, judge rules](https://www.theverge.com/2023/11/14/23960956/meta-google-tiktok-snap-social-media-addiction-lawsuits)
  - [Slim PlayStation 5: Hands-On With Sony&#39;s New, More Compact Console     - CNET](https://www.cnet.com/tech/gaming/slim-playstation-5-hands-on-with-sonys-new-more-compact-console/#ftag=CAD590a51e)
  - [Apple Pencil USB-C gets its first firmware update](https://appleinsider.com/articles/23/11/14/apple-pencil-usb-c-gets-its-first-firmware-update?utm_medium=rss)
- - [Nectar Mattress Review: Budget-Friendly With a Dense, Supportive Feel     - CNET](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)
- - [The 41 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Nectar Mattress Review: Budget-Friendly With a Dense, Supportive Feel     - CNET](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

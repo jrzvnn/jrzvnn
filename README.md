@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 💣 [Always a dinner option](http://9gag.com/gag/aVb5opM)
  - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 👉 [Alien abduction](http://9gag.com/gag/ajVwxrg)<!-- MEMES:END -->
+ - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
 
 ---
 

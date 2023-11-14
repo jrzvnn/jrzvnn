@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber plans to test Uber Tasks, a TaskRabbit-like service that lets users hire people to complete household tasks, in Fort Myers and Edmonton in the coming weeks &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/231113/p26#a231113p26)
+ - [Amazon Black Friday Deals: Shop Early Savings on Tech, Kitchen Appliances and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Save Up to $350 Off Saatva Mattresses During This Early Black Friday Sale     - CNET](https://www.cnet.com/deals/save-up-to-350-off-saatva-mattresses-during-this-early-black-friday-sale/#ftag=CAD590a51e)
  - [The SAG Deal Sends a Clear Message About AI and Workers](https://www.wired.com/story/hollywood-actors-sag-artificial-intelligence-contract/)
- - [Truth Social lost $73M and took $3.7M in net sales since launching in early 2022, shows a filling from Trump Media &amp; Technology Group&#39;s SPAC merger partner DWAC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/231113/p25#a231113p25)
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Best Black Friday Apple Watch Deals: Save Up to $109 Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
- - [Meta rolls out the ability for users to delete their Threads profile without having to delete their Instagram account &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231113/p24#a231113p24)<!-- TECH:END -->
+ - [Truth Social lost $73M and took $3.7M in net sales since launching in early 2022, shows a filling from Trump Media &amp; Technology Group&#39;s SPAC merger partner DWAC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/231113/p25#a231113p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

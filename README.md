@@ -108,10 +108,10 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
  - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 💣 [I wonder why](http://9gag.com/gag/a5X3wyq)
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 💣 [X-Men](http://9gag.com/gag/ay2w30q)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
  - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
 
 ---

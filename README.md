@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to electrify your life when you rent](https://www.theverge.com/2023/11/14/23951104/apartment-rent-electrify-appliance-pollution-incentives)
- - [Best Anime Streaming Services of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-anime-streaming-service/#ftag=CAD590a51e)
- - [RIL, a nonprofit coalition of tech VCs and execs, releases a voluntary commitment for startups building AI responsibly, signed by Insight, IVP, and 33 other VCs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231114/p16#a231114p16)
- - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
- - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)<!-- TECH:END -->
+ - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)
+ - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)
+ - [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops)
+ - [Notion’s new Q&amp;A feature lets you ask an AI about your notes](https://www.theverge.com/2023/11/14/23952292/notion-qa-ai-search)
+ - [How to make sure you get an iPhone, instead of a swapped Android fake](https://appleinsider.com/inside/iphone/tips/how-to-make-sure-you-get-an-iphone-instead-of-a-swapped-android-fake?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

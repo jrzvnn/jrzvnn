@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to electrify your life when you rent](https://www.theverge.com/2023/11/14/23951104/apartment-rent-electrify-appliance-pollution-incentives)
  - [RIL, a nonprofit coalition of tech VCs and execs, releases a voluntary commitment for startups building AI responsibly, signed by Insight, IVP, and 33 other VCs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231114/p16#a231114p16)
  - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
  - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)
- - [A Single Infusion of a Gene-Editing Treatment Lowered High Cholesterol](https://www.wired.com/story/a-single-infusion-of-a-gene-editing-treatment-lowered-high-cholesterol/)
- - [7 Best Posture Correctors &lpar;2023&rpar;: Braces, Apparel, Laptop Stands](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
+ - [A Single Infusion of a Gene-Editing Treatment Lowered High Cholesterol](https://www.wired.com/story/a-single-infusion-of-a-gene-editing-treatment-lowered-high-cholesterol/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

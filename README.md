@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR ambitions could expand into Personal Shopping and tech support sessions](https://appleinsider.com/articles/21/01/07/apple-ar-ambitions-could-expand-personal-shopping-and-tech-support-sessions?utm_medium=rss)
- - [A profile of, and interview with, tech YouTuber Marques Brownlee on changing tech gadget reviews, business strategies, reaching 17.7M subscribers, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231114/p14#a231114p14)
- - [Tap to Pay on iPhone starts taking payments in France](https://appleinsider.com/articles/23/11/14/tap-to-pay-on-iphone-starts-taking-payments-in-france?utm_medium=rss)
- - [Microsoft and Google do not plan to challenge &quot;gatekeeper&quot; status under the EU DMA, ahead of a November 16 deadline to object; sources say TikTok may challenge &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p13#a231114p13)
- - [A eulogy for coding, which has always felt like an endlessly deep and rich domain, after ChatGPT swallowed knowledge and skills that take lifetimes to master &lpar;James Somers/New Yorker&rpar;](http://www.techmeme.com/231114/p12#a231114p12)<!-- TECH:END -->
+ - [RIL, a nonprofit coalition of tech VCs and execs, releases a voluntary commitment for startups building AI responsibly, signed by Insight, IVP, and 33 other VCs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231114/p16#a231114p16)
+ - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
+ - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)
+ - [A Single Infusion of a Gene-Editing Treatment Lowered High Cholesterol](https://www.wired.com/story/a-single-infusion-of-a-gene-editing-treatment-lowered-high-cholesterol/)
+ - [7 Best Posture Correctors &lpar;2023&rpar;: Braces, Apparel, Laptop Stands](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

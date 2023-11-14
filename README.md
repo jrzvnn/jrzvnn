@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 😝 [Kat Dennings](http://9gag.com/gag/agow14v)
- - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
- - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
+ - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - 😝 [F**k around and find out...](http://9gag.com/gag/a9q06VK)
+ - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
+ - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 👉 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)<!-- MEMES:END -->
 
 ---
 

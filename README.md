@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q3 revenue down 12% YoY to ~$47.7B, net income up 11% YoY to ~$1.3B, and lowers the outlook for its components business to flat YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/231114/p5#a231114p5)
  - [Here’s How Bad Climate Change Will Get in the US—and Why There’s Still Hope](https://www.wired.com/story/heres-how-bad-climate-change-will-get-in-the-us-and-why-theres-still-hope/)
  - [Latest US climate assessment shows the extreme toll taken by climate change](https://www.theverge.com/2023/11/14/23958824/us-national-climate-assessment-unequal-costs-climate-change)
  - [A profile of Geoffrey Hinton, who argues that LLMs like GPT can comprehend the meanings of words and learn how the world works by analyzing human writing &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/231114/p4#a231114p4)
- - [Target Black Friday: Ad, Sale Dates, Early Deals and More     - CNET](https://www.cnet.com/deals/target-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)<!-- TECH:END -->
+ - [Target Black Friday: Ad, Sale Dates, Early Deals and More     - CNET](https://www.cnet.com/deals/target-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

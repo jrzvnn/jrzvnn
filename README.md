@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance&#39;s revenue rose 40% YoY to $29B in Q2, with markets outside of China accounting for nearly 20% of its total; H1 2023 revenue was ~$54B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231114/p18#a231114p18)
+ - [Nevada Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
+ - [The PlayStation 5 Slim: Hands-On video     - CNET](https://www.cnet.com/videos/the-playstation-5-slim-hands-on/#ftag=CAD590a51e)
  - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)
- - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)
- - [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops)
- - [Notion’s new Q&amp;A feature lets you ask an AI about your notes](https://www.theverge.com/2023/11/14/23952292/notion-qa-ai-search)
- - [How to make sure you get an iPhone, instead of a swapped Android fake](https://appleinsider.com/inside/iphone/tips/how-to-make-sure-you-get-an-iphone-instead-of-a-swapped-android-fake?utm_medium=rss)<!-- TECH:END -->
+ - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

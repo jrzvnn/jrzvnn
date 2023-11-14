@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Pokémon Concierge’s first trailer has perfect stats](https://www.theverge.com/23961287/pokemon-concierge-netflix-trailer-stop-motion)
- - [Crypto exchange and wallet service Blockchain.com raised a $110M Series E led by Kingsway, a source says at less than half of its $14B valuation in spring 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231114/p35#a231114p35)
- - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
- - [Notion unveils Q&amp;A, an AI assistant that answers questions using info from a user&#39;s files and apps, as part Notion&#39;s AI add-on for $8 to $10 per user per month &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231114/p34#a231114p34)<!-- TECH:END -->
+ - [Best Black Friday iPad Deals: Save Up to $80 on Your New iPad Air, Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in the Bronx, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
+ - [Nothing Chats Aims to Bring iMessage to Android, but It Sounds Messy     - CNET](https://www.cnet.com/tech/mobile/nothing-chats-claims-to-bring-imessage-to-android-but-it-sounds-messy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

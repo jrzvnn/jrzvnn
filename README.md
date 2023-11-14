@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fitbit Charge 6 is already nearly 40 percent off ahead of Black Friday](https://www.theverge.com/2023/11/14/23959735/fitbit-charge-6-fitness-tracker-nanoleaf-lines-light-bars-kasa-smart-plug-deal-sale)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [All the announcements from Nintendo’s fall Indie World event](https://www.theverge.com/23960617/nintendo-indie-world-fall-2023-trailers)
  - [Early Black Friday deals: M3 Pro MacBook Pro 14 $1,799, $79 Apple Smart Keyboard for iPad, $199 Apple Watch S6, more](https://appleinsider.com/articles/23/11/14/early-black-friday-deals-m3-pro-macbook-pro-14-1799-79-apple-smart-keyboard-for-ipad-199-apple-watch-s6-more?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple shares 2023 App Store Awards finalists](https://appleinsider.com/articles/23/11/14/apple-shares-2023-app-store-awards-finalists?utm_medium=rss)
- - [Samsung’s cloud gaming hub is now available on some of its older TVs](https://www.theverge.com/2023/11/14/23959795/samsung-cloud-gaming-hub-boosteroid-tvs)
- - [CISA Has a New Road Map for Handling Weaponized AI](https://www.wired.com/story/cisa-ai-roadmap/)<!-- TECH:END -->
+ - [Use Our Exclusive Coupon Codes to Save Up to $300 On Roomba Vacuums     - CNET](https://www.cnet.com/deals/use-our-exclusive-coupon-codes-to-save-up-to-300-on-roomba-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung OLED material switch could make iPhone 18 battery last longer](https://appleinsider.com/articles/23/11/14/samsung-oled-material-switch-could-make-iphone-18-battery-last-longer?utm_medium=rss)
  - [Google DeepMind’s AI Weather Forecaster Handily Beats a Global Standard](https://www.wired.com/story/google-deepmind-ai-weather-forecast/)
  - [Instagram’s close friends feature now applies to posts and Reels, too](https://www.theverge.com/2023/11/14/23959733/instagram-share-posts-reels-close-friends)
  - [Volvo CEO Jim Rowan thinks dropping Apple CarPlay is a mistake](https://www.theverge.com/23958821/volvo-ceo-interview-electric-cars-apple-carplay-google-android-auto-decoder)
- - [Is E Ink finally ready for prime time?](https://www.theverge.com/23954584/e-ink-color-tablets-ereader)
- - [Logitech’s webcam with articulating arm launches on Indiegogo](https://www.theverge.com/2023/11/14/23960374/logitech-reach-articulating-webcam-indiegogo-launch-price)<!-- TECH:END -->
+ - [Is E Ink finally ready for prime time?](https://www.theverge.com/23954584/e-ink-color-tablets-ereader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

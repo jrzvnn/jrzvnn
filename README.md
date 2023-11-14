@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
- - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
- - 👉 [They/was](http://9gag.com/gag/aL15Lxz)<!-- MEMES:END -->
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [Facts](http://9gag.com/gag/ay2w6LY)
+ - 💣 [And when they grew out of that faze they were super beautiful. Today&#39;s tomboys have beards and confusion of the highest order.](http://9gag.com/gag/az2wKQZ)
+ - 😝 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
+ - 👉 [And for less money too](http://9gag.com/gag/aA05EAo)<!-- MEMES:END -->
 
 ---
 

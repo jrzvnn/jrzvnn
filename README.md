@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 💣 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
- - 😝 [I wonder why](http://9gag.com/gag/a5X3wyq)
- - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
+ - 😝 [Holup](http://9gag.com/gag/a4oyz01)
+ - 😝 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
+ - 💣 [My choice Dark Queen from Battletoads](http://9gag.com/gag/avQw6Q5)
+ - 😝 [Facts](http://9gag.com/gag/ay2w6LY)
+ - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
 
 ---
 

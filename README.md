@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 💣 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
  - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
+ - 💣 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
  - 👉 [Alien abduction](http://9gag.com/gag/ajVwxrg)<!-- MEMES:END -->
 
 ---

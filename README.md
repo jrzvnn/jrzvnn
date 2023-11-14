@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 💣 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 👉 [Alien abduction](http://9gag.com/gag/ajVwxrg)<!-- MEMES:END -->
+ - 😝 [Here at the March for Israel, nobody is covering their faces, destroying public property, or calling for genocide.](http://9gag.com/gag/armwxdd)
+ - 😝 [C-Cant Tell](http://9gag.com/gag/a6q6BQm)
+ - 💣 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
+ - 👉 [Spitting facts](http://9gag.com/gag/a8qODbQ)<!-- MEMES:END -->
 
 ---
 

@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [How to share large files over the web](https://www.theverge.com/23958722/files-transfer-share-large-how-to)
+ - [KitchenAid Burr Coffee Grinder     - CNET](https://www.cnet.com/home/kitchen-and-household/kitchenaid-burr-coffee-grinder-dpnl/#ftag=CAD590a51e)
  - [Right-to-repair advocates are asking the FTC for stronger rules](https://www.theverge.com/2023/11/14/23961136/ifixit-and-pirg-petition-ftc-right-to-repair-rules)
  - [A US judge rejects an effort by Alphabet, ByteDance, Meta, and Snap to dismiss a nationwide litigation accusing them of addicting children to their platforms &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/231114/p32#a231114p32)
- - [Sources: Anu Hariharan, the former head of YC Continuity that was scrapped in March, has started a &quot;YC for growth&quot; fund, called Avra, aiming to raise ~$350M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231114/p31#a231114p31)
- - [Threads might get DMs after all — but it’ll probably be through Instagram](https://www.theverge.com/2023/11/14/23961125/threads-dms-instagram-inbox-adam-mosseri)<!-- TECH:END -->
+ - [Sources: Anu Hariharan, the former head of YC Continuity that was scrapped in March, has started a &quot;YC for growth&quot; fund, called Avra, aiming to raise ~$350M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231114/p31#a231114p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

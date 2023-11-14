@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
- - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 💣 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)<!-- MEMES:END -->
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 💣 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
+ - 👉 [Alien abduction](http://9gag.com/gag/ajVwxrg)<!-- MEMES:END -->
 
 ---
 

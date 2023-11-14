@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s How Bad Climate Change Will Get in the US—and Why There’s Still Hope](https://www.wired.com/story/heres-how-bad-climate-change-will-get-in-the-us-and-why-theres-still-hope/)
+ - [Latest US climate assessment shows the extreme toll taken by climate change](https://www.theverge.com/2023/11/14/23958824/us-national-climate-assessment-unequal-costs-climate-change)
  - [A profile of Geoffrey Hinton, who argues that LLMs like GPT can comprehend the meanings of words and learn how the world works by analyzing human writing &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/231114/p4#a231114p4)
  - [Target Black Friday: Ad, Sale Dates, Early Deals and More     - CNET](https://www.cnet.com/deals/target-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)
- - [It’s Time to Get Serious About Carbon Removal](https://www.wired.com/story/wired-impact-michelle-you-supercritical-carbon-offsetting/)
- - [South Korea&#39;s memory chip exports increased for the first time in 16 months, recording a 1% YoY increase in October after declining 18% YoY in September &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231114/p2#a231114p2)<!-- TECH:END -->
+ - [Hochatown, a tiny town in Oklahoma that gets ~50K visitors to its 2,400+ cabins on weekends, highlights the &quot;Airbnb effect&quot; of rentals exploding in rural areas &lpar;Julie Satow/New York Times&rpar;](http://www.techmeme.com/231114/p3#a231114p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

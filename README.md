@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
- - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 💣 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
- - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 👉 [Always a dinner option](http://9gag.com/gag/aVb5opM)<!-- MEMES:END -->
+ - 😝 [Little backroom box](http://9gag.com/gag/aREdzM2)
+ - 😝 [Shut up and take my money](http://9gag.com/gag/axow67M)
+ - 💣 [When your neighbor is vigilant but need glasses.](http://9gag.com/gag/aBd5Poz)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 👉 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)<!-- MEMES:END -->
 
 ---
 

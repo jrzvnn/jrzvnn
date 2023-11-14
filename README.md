@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Yandex plans to sell its entire Russian business, including its search engine, not just a 51% stake, amid pressures relating to the war in Ukraine &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/231114/p21#a231114p21)
  - [Samsung OLED material switch could make iPhone 18 battery last longer](https://appleinsider.com/articles/23/11/14/samsung-oled-material-switch-could-make-iphone-18-battery-last-longer?utm_medium=rss)
  - [Google DeepMind’s AI Weather Forecaster Handily Beats a Global Standard](https://www.wired.com/story/google-deepmind-ai-weather-forecast/)
  - [Instagram’s close friends feature now applies to posts and Reels, too](https://www.theverge.com/2023/11/14/23959733/instagram-share-posts-reels-close-friends)
- - [Volvo CEO Jim Rowan thinks dropping Apple CarPlay is a mistake](https://www.theverge.com/23958821/volvo-ceo-interview-electric-cars-apple-carplay-google-android-auto-decoder)
- - [Is E Ink finally ready for prime time?](https://www.theverge.com/23954584/e-ink-color-tablets-ereader)<!-- TECH:END -->
+ - [Volvo CEO Jim Rowan thinks dropping Apple CarPlay is a mistake](https://www.theverge.com/23958821/volvo-ceo-interview-electric-cars-apple-carplay-google-android-auto-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

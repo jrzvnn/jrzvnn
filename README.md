@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Black Friday deals: M3 Pro MacBook Pro 14 $1,799, $79 Apple Smart Keyboard for iPad, $199 Apple Watch S6, more](https://appleinsider.com/articles/23/11/14/early-black-friday-deals-m3-pro-macbook-pro-14-1799-79-apple-smart-keyboard-for-ipad-199-apple-watch-s6-more?utm_medium=rss)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple shares 2023 App Store Awards finalists](https://appleinsider.com/articles/23/11/14/apple-shares-2023-app-store-awards-finalists?utm_medium=rss)
  - [Samsung’s cloud gaming hub is now available on some of its older TVs](https://www.theverge.com/2023/11/14/23959795/samsung-cloud-gaming-hub-boosteroid-tvs)
- - [CISA Has a New Road Map for Handling Weaponized AI](https://www.wired.com/story/cisa-ai-roadmap/)
- - [iMessage blue bubbles come to Nothing phone -- assuming you provide iCloud login info](https://appleinsider.com/articles/23/11/14/imessage-blue-bubbles-come-to-nothing-phone----assuming-you-provide-icloud-login-info?utm_medium=rss)<!-- TECH:END -->
+ - [CISA Has a New Road Map for Handling Weaponized AI](https://www.wired.com/story/cisa-ai-roadmap/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

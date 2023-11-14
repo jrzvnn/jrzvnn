@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
+ - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
+ - 💣 [Alien abduction](http://9gag.com/gag/ajVwxrg)
  - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
+ - 👉 [Oopsie](http://9gag.com/gag/anzwOVV)<!-- MEMES:END -->
 
 ---
 

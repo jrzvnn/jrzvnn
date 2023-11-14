@@ -103,9 +103,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
- - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 💣 [\u00ae\u00ae\u00ae](http://9gag.com/gag/aBd56Mz)
  - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
  - 👉 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)<!-- MEMES:END -->
 

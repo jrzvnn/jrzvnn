@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
  - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
+ - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

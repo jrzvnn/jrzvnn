@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third watchOS 10.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-seeds-third-watchos-102-developer-beta?utm_medium=rss)
- - [32 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023/)
- - [Truck bloat is killing us, new crash data reveals](https://www.theverge.com/2023/11/14/23960624/truck-suv-hood-height-pedestrian-death-report-iihs)
- - [Polestar’s electric future looks high-performing — and promising](https://www.theverge.com/2023/11/14/23959512/polestar3-ev-polestar4-polestar5-polestar6-pics-specs)
- - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)<!-- TECH:END -->
+ - [Apple&#39;s visionOS developer beta 6 is now available](https://appleinsider.com/articles/23/11/14/apples-visionos-developer-beta-6-is-now-available?utm_medium=rss)
+ - [Gaming brands are learning the right lessons from enthusiast mechanical keyboards](https://www.theverge.com/23960337/asus-razer-gaming-keyboards-rog-azoth-blackwidow-v4-75-percent-gasket-mount-hot-swap)
+ - [Third developer beta of iOS 17.2, iPadOS 17.2 out now](https://appleinsider.com/articles/23/11/14/third-developer-beta-of-ios-172-ipados-172-out-now?utm_medium=rss)
+ - [Apple distributes the third tvOS 17.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-distributes-the-third-tvos-172-developer-beta?utm_medium=rss)
+ - [Third macOS Sonoma 14.2 developer beta issued for testing](https://appleinsider.com/articles/23/11/14/third-macos-sonoma-142-developer-beta-issued-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

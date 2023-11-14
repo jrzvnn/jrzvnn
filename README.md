@@ -109,10 +109,10 @@
 
 <!-- MEMES:START -->
  - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
- - 😝 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
- - 💣 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
- - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
+ - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 👉 [Kat Dennings](http://9gag.com/gag/agow14v)<!-- MEMES:END -->
 
 ---
 

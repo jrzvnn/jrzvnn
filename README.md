@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Google: Google agreed to pay Samsung $8B over four years in 2020 to make Google Search, Play Store, and Assistant the default on Samsung mobile devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/231113/p31#a231113p31)
  - [Amazon reaches a deal with Snap that lets users buy Amazon products directly from ads on Snapchat, resembling Amazon&#39;s deal with Meta announced on November 9 &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231113/p30#a231113p30)
  - [How to use the Basilisk II System 7 emulator on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-the-basilisk-ii-system-7-emulator-on-macos?utm_medium=rss)
- - [Internal conversations reveal how Etsy struggled to develop moderation policies and manage employees&#39; feelings around the Israel-Hamas war &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231113/p29#a231113p29)
- - [London-based Fnality, which is developing a blockchain-based wholesale payment system, raised a &amp;pound;77.7M Series B led by Goldman Sachs and BNP Paribas &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231113/p28#a231113p28)
- - [Best Home Theater Systems of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Houston     - CNET](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)
+ - [Internal conversations reveal how Etsy struggled to develop moderation policies and manage employees&#39; feelings around the Israel-Hamas war &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231113/p29#a231113p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -109,10 +109,10 @@
 
 <!-- MEMES:START -->
  - 😝 [Little backroom box](http://9gag.com/gag/aREdzM2)
- - 😝 [Shut up and take my money](http://9gag.com/gag/axow67M)
- - 💣 [When your neighbor is vigilant but need glasses.](http://9gag.com/gag/aBd5Poz)
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 💣 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)
  - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 👉 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)<!-- MEMES:END -->
+ - 👉 [When your neighbor is vigilant but need glasses.](http://9gag.com/gag/aBd5Poz)<!-- MEMES:END -->
 
 ---
 

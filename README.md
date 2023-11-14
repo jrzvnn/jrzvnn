@@ -153,9 +153,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
  - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
- - 💣 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
- - 😝 [Spitting facts](http://9gag.com/gag/a8qODbQ)
- - 👉 [A year ago, i was kicked out of my house, fiancee dumped me, burnt out and ready to quit my dream profession and was honestly contemplating my reasons to live. Now, i have a roof over my head and am slowly getting back on my feet. So thanks 9gag for all the laughs and support!](http://9gag.com/gag/aXn17LP)<!-- MEMES:END -->
+ - 💣 [Spitting facts](http://9gag.com/gag/a8qODbQ)
+ - 😝 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

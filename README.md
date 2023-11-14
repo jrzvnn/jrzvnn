@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Firm Mattress of 2023     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
  - [Users&#39; WhatsApp backups on Android will count towards their Google Account storage limit starting in December 2023 for beta users, and all users in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231114/p30#a231114p30)
  - [Older macOS versions got release candidate betas on Tuesday too](https://appleinsider.com/articles/23/11/14/apple-seeds-third-release-candidates-for-macos-monterey-1272-macos-ventura-1363?utm_medium=rss)
- - [Amazon has begun replacing Android with its own software on some products](https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show)
- - [Khosla Ventures says it is raising a $500M seed fund, $1.6B venture fund, and $900M growth fund, larger than predecessors of $300M, $1B, and $550M, respectively &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p29#a231114p29)
- - [Apple&#39;s visionOS developer beta 6 is now available](https://appleinsider.com/articles/23/11/14/apples-visionos-developer-beta-6-is-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [Bank Deposit Delays: What to Do If Your Paycheck Is Held Up     - CNET](https://www.cnet.com/personal-finance/bank-deposit-delays-what-to-do-if-your-paycheck-is-held-up/#ftag=CAD590a51e)
+ - [Amazon has begun replacing Android with its own software on some products](https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

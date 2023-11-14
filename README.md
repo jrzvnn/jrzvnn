@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
- - 💣 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 👉 [Oopsie](http://9gag.com/gag/anzwOVV)<!-- MEMES:END -->
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [Little backroom box](http://9gag.com/gag/aREdzM2)
+ - 💣 [When your neighbor is vigilant but need glasses.](http://9gag.com/gag/aBd5Poz)
+ - 😝 [One of the many reasons I stay on Win7](http://9gag.com/gag/anzwvWL)
+ - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
 
 ---
 

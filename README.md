@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little backroom box](http://9gag.com/gag/aREdzM2)
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 💣 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 👉 [When your neighbor is vigilant but need glasses.](http://9gag.com/gag/aBd5Poz)<!-- MEMES:END -->
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
+ - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 

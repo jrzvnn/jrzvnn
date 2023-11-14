@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music users can now save TikTok songs directly to playlists](https://appleinsider.com/articles/23/11/14/apple-music-users-can-now-save-tiktok-songs-directly-to-playlists?utm_medium=rss)
- - [The Fitbit Charge 6 is already nearly 40 percent off ahead of Black Friday](https://www.theverge.com/2023/11/14/23959735/fitbit-charge-6-fitness-tracker-nanoleaf-lines-light-bars-kasa-smart-plug-deal-sale)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [All the announcements from Nintendo’s fall Indie World event](https://www.theverge.com/23960617/nintendo-indie-world-fall-2023-trailers)
- - [Early Black Friday deals: M3 Pro MacBook Pro 14 $1,799, $79 Apple Smart Keyboard for iPad, $199 Apple Watch S6, more](https://appleinsider.com/articles/23/11/14/early-black-friday-deals-m3-pro-macbook-pro-14-1799-79-apple-smart-keyboard-for-ipad-199-apple-watch-s6-more?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H launches early Black Friday Apple deals &amp; highlights include $200 off M3 MacBook Pro, $1,799 Mac Studio](https://appleinsider.com/articles/23/11/14/bh-launches-early-black-friday-apple-deals-highlights-include-200-off-m3-macbook-pro-1799-mac-studio?utm_medium=rss)
+ - [Foxconn says the company has contingency plans in case of repercussions in China over founder Terry Gou&#39;s Taiwan presidential campaign; Gou holds 12% of Foxconn &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231114/p24#a231114p24)
+ - [Civitai, where users share AI-made images, including nonconsensual porn of real people, announces a $5M seed led by a16z, after launching a &quot;bounties&quot; feature &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231114/p23#a231114p23)
+ - [Amazon’s Map View arrives to create a digital map of your smart home](https://www.theverge.com/2023/11/14/23960355/amazon-alexa-map-view-launch-public-preview)
+ - [Sources: Airbnb acquires Gameplanner.AI, in a deal valued at ~$200M, to accelerate some of its AI projects, marking its first acquisition as a public company &lpar;CNBC&rpar;](http://www.techmeme.com/231114/p22#a231114p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

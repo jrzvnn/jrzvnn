@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s memory chip exports increased for the first time in 16 months, recording a 1% YoY increase in October after declining 18% YoY in September &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231114/p2#a231114p2)
  - [Black Friday deals slash prices on every Apple M3 MacBook Pro &amp; iMac to as low as $1,199](https://appleinsider.com/articles/23/11/14/black-friday-deals-slash-prices-on-every-apple-m3-macbook-pro-imac-to-as-low-as-1199?utm_medium=rss)
  - [In a letter to Chuck Schumer, over 30 civil liberties and privacy groups urge the Senate to not renew FISA&#39;s Section 702, set to expire on December 31, 2023 &lpar;Tonya Riley/Bloomberg Law&rpar;](http://www.techmeme.com/231114/p1#a231114p1)
  - [Epic v. Google: Google agreed to pay Samsung $8B over four years in 2020 to make Google Search, Play Store, and Assistant the default on Samsung mobile devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/231113/p31#a231113p31)
- - [Amazon reaches a deal with Snap that lets users buy Amazon products directly from ads on Snapchat, resembling Amazon&#39;s deal with Meta announced on November 9 &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231113/p30#a231113p30)
- - [How to use the Basilisk II System 7 emulator on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-the-basilisk-ii-system-7-emulator-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon reaches a deal with Snap that lets users buy Amazon products directly from ads on Snapchat, resembling Amazon&#39;s deal with Meta announced on November 9 &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231113/p30#a231113p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

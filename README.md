@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot Hub 2 review: The hub that can control almost everything](https://appleinsider.com/articles/23/11/14/switchbot-hub-2-review-the-hub-that-can-control-almost-everything?utm_medium=rss)
+ - [YouTube is going to start cracking down on AI clones of musicians](https://www.theverge.com/2023/11/14/23959658/google-youtube-generative-ai-labels-music-copyright)
  - [Uber rolls out new tools in the US to identify riders or Uber Eats users who consistently give bad ratings to get refunds, to cut down on unfair deactivations &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231114/p9#a231114p9)
  - [YouTube plans to require users to disclose when they upload realistic-looking manipulated or synthetic content, including videos made using its tools, in 2024 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231114/p8#a231114p8)
- - [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
- - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
- - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)<!-- TECH:END -->
+ - [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holup](http://9gag.com/gag/a4oyz01)
- - 😝 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 💣 [My choice Dark Queen from Battletoads](http://9gag.com/gag/avQw6Q5)
- - 😝 [Facts](http://9gag.com/gag/ay2w6LY)
- - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - 💣 [I wonder why](http://9gag.com/gag/a5X3wyq)
+ - 😝 [How it began...](http://9gag.com/gag/a3ZrGnQ)
+ - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
 
 ---
 

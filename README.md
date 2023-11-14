@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber is testing a service that lets you hire drivers for chores](https://www.theverge.com/2023/11/14/23960367/uber-tasks-pilot-chores-driver-courier-laborer)
+ - [Investigation: for over six months, the FBI has known the identities of 12+ hackers tied to the MGM and Caesars breaches, baffling experts at the lack of action &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p10#a231114p10)
+ - [Apple may face $600 million tax demand from India](https://appleinsider.com/articles/23/11/14/apple-may-face-600-million-tax-demand-from-india?utm_medium=rss)
  - [SwitchBot Hub 2 review: The hub that can control almost everything](https://appleinsider.com/articles/23/11/14/switchbot-hub-2-review-the-hub-that-can-control-almost-everything?utm_medium=rss)
- - [YouTube is going to start cracking down on AI clones of musicians](https://www.theverge.com/2023/11/14/23959658/google-youtube-generative-ai-labels-music-copyright)
- - [Uber rolls out new tools in the US to identify riders or Uber Eats users who consistently give bad ratings to get refunds, to cut down on unfair deactivations &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231114/p9#a231114p9)
- - [YouTube plans to require users to disclose when they upload realistic-looking manipulated or synthetic content, including videos made using its tools, in 2024 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231114/p8#a231114p8)
- - [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)<!-- TECH:END -->
+ - [YouTube is going to start cracking down on AI clones of musicians](https://www.theverge.com/2023/11/14/23959658/google-youtube-generative-ai-labels-music-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

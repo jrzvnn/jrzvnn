@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-Men](http://9gag.com/gag/ay2w30q)
  - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 💣 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
- - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 👉 [Another one bites the dust](http://9gag.com/gag/a9q05jL)<!-- MEMES:END -->
+ - 😝 [And for less money too](http://9gag.com/gag/aA05EAo)
+ - 💣 [Shut up and take my money](http://9gag.com/gag/axow67M)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 👉 [Mama cat introduces her kitten to her favorite human](http://9gag.com/gag/aXn1NOz)<!-- MEMES:END -->
 
 ---
 

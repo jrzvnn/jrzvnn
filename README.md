@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of the holidays, Amazon updates Buy With Prime to let customers more easily return items outside of Amazon.com and see their order history via their apps &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/231114/p19#a231114p19)
+ - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/14/23960431/snapchat-beauty-filter-ar-makeup-nyx-shop-online)
+ - [Fermi’s Paradox Proves There’s No Government Alien Conspiracy Around Roswell](https://www.wired.com/story/roswell-aliens-fermi-paradox/)
  - [Sources: ByteDance&#39;s revenue rose 40% YoY to $29B in Q2, with markets outside of China accounting for nearly 20% of its total; H1 2023 revenue was ~$54B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231114/p18#a231114p18)
- - [Nevada Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
- - [The PlayStation 5 Slim: Hands-On video     - CNET](https://www.cnet.com/videos/the-playstation-5-slim-hands-on/#ftag=CAD590a51e)
- - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)
- - [Venmo Groups aims to make it easier to split up and track expenses](https://www.theverge.com/2023/11/14/23959776/venmo-groups-shared-expenses-feature-update)<!-- TECH:END -->
+ - [14 Great Gifts for Mom: Ideas for the Mother in Your Life](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

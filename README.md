@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)
  - [Top500: the AMD-powered Frontier remains the fastest supercomputer at 1.194 Exaflop/s, fending off the Argonne National Laboratory&#39;s Intel-powered Aurora &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231114/p6#a231114p6)
  - [Foxconn reports Q3 revenue down 12% YoY to ~$47.7B, net income up 11% YoY to ~$1.3B, and lowers the outlook for its components business to flat YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/231114/p5#a231114p5)
  - [Only a Few Weeks Before Your Old Google Account is Deleted. Here&#39;s How to Save It     - CNET](https://www.cnet.com/tech/services-and-software/only-a-few-weeks-before-your-old-google-account-is-deleted-heres-how-to-save-it/#ftag=CAD590a51e)
- - [November SSDI Check 2023: Is Your Money Coming This Week?     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-is-your-money-coming-this-week/#ftag=CAD590a51e)
- - [Need to Make an Amazon Return After Black Friday and Cyber Monday? Check Out These Tips     - CNET](https://www.cnet.com/tech/services-and-software/need-to-make-an-amazon-return-after-black-friday-and-cyber-monday-check-out-these-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [November SSDI Check 2023: Is Your Money Coming This Week?     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-is-your-money-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

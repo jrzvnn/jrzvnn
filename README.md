@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F around and quickly find out lmao\u2026. Natural selection will do the rest](http://9gag.com/gag/aZD51nW)
  - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
- - 💣 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
- - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 👉 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)<!-- MEMES:END -->
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 💣 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
+ - 😝 [I wonder why](http://9gag.com/gag/a5X3wyq)
+ - 👉 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)<!-- MEMES:END -->
 
 ---
 

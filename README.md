@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Right-to-repair advocates are asking the FTC for stronger rules](https://www.theverge.com/2023/11/14/23961136/ifixit-and-pirg-petition-ftc-right-to-repair-rules)
+ - [A US judge rejects an effort by Alphabet, ByteDance, Meta, and Snap to dismiss a nationwide litigation accusing them of addicting children to their platforms &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/231114/p32#a231114p32)
+ - [Sources: Anu Hariharan, the former head of YC Continuity that was scrapped in March, has started a &quot;YC for growth&quot; fund, called Avra, aiming to raise ~$350M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231114/p31#a231114p31)
  - [Threads might get DMs after all — but it’ll probably be through Instagram](https://www.theverge.com/2023/11/14/23961125/threads-dms-instagram-inbox-adam-mosseri)
- - [Social media giants must face child safety lawsuits, judge rules](https://www.theverge.com/2023/11/14/23960956/meta-google-tiktok-snap-social-media-addiction-lawsuits)
- - [Slim PlayStation 5: Hands-On With Sony&#39;s New, More Compact Console     - CNET](https://www.cnet.com/tech/gaming/slim-playstation-5-hands-on-with-sonys-new-more-compact-console/#ftag=CAD590a51e)
- - [Apple Pencil USB-C gets its first firmware update](https://appleinsider.com/articles/23/11/14/apple-pencil-usb-c-gets-its-first-firmware-update?utm_medium=rss)
- - [Nectar Mattress Review: Budget-Friendly With a Dense, Supportive Feel     - CNET](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social media giants must face child safety lawsuits, judge rules](https://www.theverge.com/2023/11/14/23960956/meta-google-tiktok-snap-social-media-addiction-lawsuits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
- - 😝 [Welcome to the low bandwidth and high latency corner of the Internet. Dude with water bottle sets the benchmark.](http://9gag.com/gag/aKE5GmZ)
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 😝 [Vegas baby](http://9gag.com/gag/a5X3B3L)
- - 👉 [Advice?](http://9gag.com/gag/a5X3VBV)<!-- MEMES:END -->
+ - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 💣 [My eyes are up here](http://9gag.com/gag/aL15nyg)
+ - 😝 [A new level of cheat on gambling.](http://9gag.com/gag/aZD58pW)
+ - 👉 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)<!-- MEMES:END -->
 
 ---
 

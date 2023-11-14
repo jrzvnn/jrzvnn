@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My choice Dark Queen from Battletoads](http://9gag.com/gag/avQw6Q5)
- - 😝 [And when they grew out of that faze they were super beautiful. Today&#39;s tomboys have beards and confusion of the highest order.](http://9gag.com/gag/az2wKQZ)
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 😝 [Facts](http://9gag.com/gag/ay2w6LY)
- - 👉 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)<!-- MEMES:END -->
+ - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
+ - 😝 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
+ - 💣 [Being British in Great Britain,dare your own business and just simply walking home without give a damn about this Palestine nonsense in london is now a felony.](http://9gag.com/gag/a8qOmm3)
+ - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - 👉 [My eyes are up here](http://9gag.com/gag/aL15nyg)<!-- MEMES:END -->
 
 ---
 

@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H launches early Black Friday Apple deals &amp; highlights include $200 off M3 MacBook Pro, $1,799 Mac Studio](https://appleinsider.com/articles/23/11/14/bh-launches-early-black-friday-apple-deals-highlights-include-200-off-m3-macbook-pro-1799-mac-studio?utm_medium=rss)
- - [Foxconn says the company has contingency plans in case of repercussions in China over founder Terry Gou&#39;s Taiwan presidential campaign; Gou holds 12% of Foxconn &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231114/p24#a231114p24)
- - [Civitai, where users share AI-made images, including nonconsensual porn of real people, announces a $5M seed led by a16z, after launching a &quot;bounties&quot; feature &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231114/p23#a231114p23)
- - [Amazon’s Map View arrives to create a digital map of your smart home](https://www.theverge.com/2023/11/14/23960355/amazon-alexa-map-view-launch-public-preview)
- - [Sources: Airbnb acquires Gameplanner.AI, in a deal valued at ~$200M, to accelerate some of its AI projects, marking its first acquisition as a public company &lpar;CNBC&rpar;](http://www.techmeme.com/231114/p22#a231114p22)<!-- TECH:END -->
+ - [Nothing plans to roll out an early version of Nothing Chats, which can send iMessages to contacts with iPhones, to Phone &lpar;2&rpar; users, in partnership with Sunbird &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/231114/p26#a231114p26)
+ - [Google DeepMind details GraphCast AI, a weather forecasting AI that is more accurate for 3-10 day predictions than the best conventional systems, a first for AI &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231114/p25#a231114p25)
+ - [We demand our Right to Repair, iFixit tells FTC](https://appleinsider.com/articles/23/11/14/we-demand-our-right-to-repair-ifixit-tells-ftc?utm_medium=rss)
+ - [Amazon will now let you track Buy with Prime orders from your Amazon account](https://www.theverge.com/2023/11/14/23960703/amazon-buy-with-prime-order-tracking-account)
+ - [B&amp;H launches early Black Friday Apple deals &amp; highlights include $200 off M3 MacBook Pro, $1,799 Mac Studio](https://appleinsider.com/articles/23/11/14/bh-launches-early-black-friday-apple-deals-highlights-include-200-off-m3-macbook-pro-1799-mac-studio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

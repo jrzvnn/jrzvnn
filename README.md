@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Notion unveils Q&amp;A, an AI assistant that gives answers using information from a user&#39;s workspace, as part of the $8-$10/month-per-person Notion AI add-on &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231114/p34#a231114p34)
  - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)
  - [EU lawmakers struggle to reach a compromise on the final shape of the AI Act, as France and Germany push for a regulatory carve-out for foundational models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231114/p33#a231114p33)
  - [How to share large files over the web](https://www.theverge.com/23958722/files-transfer-share-large-how-to)
- - [KitchenAid Burr Coffee Grinder     - CNET](https://www.cnet.com/home/kitchen-and-household/kitchenaid-burr-coffee-grinder-dpnl/#ftag=CAD590a51e)
- - [Right-to-repair advocates are asking the FTC for stronger rules](https://www.theverge.com/2023/11/14/23961136/ifixit-and-pirg-petition-ftc-right-to-repair-rules)<!-- TECH:END -->
+ - [KitchenAid Burr Coffee Grinder     - CNET](https://www.cnet.com/home/kitchen-and-household/kitchenaid-burr-coffee-grinder-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)
+ - [The best smart holiday string lights](https://www.theverge.com/23958973/best-smart-holiday-string-lights-led)
  - [Disney Pinnacle is preparing to be the next big NFT failure](https://www.theverge.com/2023/11/14/23960535/disney-pinnacle-nft-dapper-labs-pin-collecting)
  - [To use Nothing&#39;s new Nothing Chats, users must connect their iCloud account to send iMessages, run from a virtual Mac mini, which may weaken data security &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/231114/p27#a231114p27)
- - [Here are your bingo cards for Google CEO Sundar Pichai’s Fortnite testimony](https://www.theverge.com/2023/11/14/23960686/sundar-pichai-epic-google-bingo-cards)
- - [Nothing plans to roll out an early version of Nothing Chats, which can send iMessages to contacts with iPhones, to Phone &lpar;2&rpar; users, in partnership with Sunbird &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/231114/p26#a231114p26)
- - [Google DeepMind details GraphCast AI, a weather forecasting AI that is more accurate for 3-10 day predictions than the best conventional systems, a first for AI &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231114/p25#a231114p25)<!-- TECH:END -->
+ - [Here are your bingo cards for Google CEO Sundar Pichai’s Fortnite testimony](https://www.theverge.com/2023/11/14/23960686/sundar-pichai-epic-google-bingo-cards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

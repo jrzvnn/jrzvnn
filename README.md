@@ -108,10 +108,10 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she broke his doll, and pretend to be his doll instead](http://9gag.com/gag/aVb5og8)
- - 😝 [Nice Catalog Spesification](http://9gag.com/gag/a04qowZ)
- - 💣 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [Kat Dennings](http://9gag.com/gag/agow14v)
+ - 💣 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
+ - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
  - 👉 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)<!-- MEMES:END -->
 
 ---

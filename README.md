@@ -146,7 +146,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Crypto exchange and wallet service Blockchain.com raised a $110M Series E led by Kingsway, a source says at less than half of its spring 2022 $14B valuation &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231114/p35#a231114p35)
  - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
  - [Notion unveils Q&amp;A, an AI assistant that gives answers using information from a user&#39;s workspace, as part of the $8-$10/month-per-person Notion AI add-on &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231114/p34#a231114p34)
- - [Volvo to focus on value adds outside the infotainment system, will leave CarPlay alone](https://appleinsider.com/articles/23/11/14/volvo-to-focus-on-value-adds-outside-the-infotainment-system-will-leave-carplay-alone?utm_medium=rss)<!-- TECH:END -->
+ - [Soundcore by Anker Earbuds     - CNET](https://www.cnet.com/tech/mobile/soundcore-by-anker-earbuds-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

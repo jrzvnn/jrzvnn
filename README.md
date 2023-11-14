@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch heart rate notifications saves Atlanta artist](https://appleinsider.com/articles/23/11/14/apple-watch-heart-rate-notifications-saves-atlanta-artist?utm_medium=rss)
- - [Uber is testing a service that lets you hire drivers for chores](https://www.theverge.com/2023/11/14/23960367/uber-tasks-pilot-chores-driver-courier-laborer)
- - [Investigation: for over six months, the FBI has known the identities of 12+ hackers tied to the MGM and Caesars breaches, baffling experts at the lack of action &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p10#a231114p10)
- - [Apple may face $600 million tax demand from India](https://appleinsider.com/articles/23/11/14/apple-may-face-600-million-tax-demand-from-india?utm_medium=rss)
- - [SwitchBot Hub 2 review: The hub that can control almost everything](https://appleinsider.com/articles/23/11/14/switchbot-hub-2-review-the-hub-that-can-control-almost-everything?utm_medium=rss)<!-- TECH:END -->
+ - [Counterpoint: Chinese smartphone sales grew 11% YoY in October, led by Huawei, up 83% due to the Mate 60, and Xiaomi, up 33%; iPhone sales were unusually muted &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/231114/p11#a231114p11)
+ - [Màkku Review: an Ancient Korean Libation Transformed for the Modern Drinker](https://www.wired.com/story/makku-makgeolli/)
+ - [TikTok Is the New TV](https://www.wired.com/story/tiktok-new-show-tv-takeover/)
+ - [Ann McKee Is on a Quest to Save Humanity’s Brains](https://www.wired.com/story/women-in-science-ann-mckee/)
+ - [No, &#39;Monarch: Legacy of Monsters&#39; was not shot in 3D for Vision Pro](https://appleinsider.com/articles/23/11/14/no-monarch-legacy-of-monsters-was-not-shot-in-3d-for-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

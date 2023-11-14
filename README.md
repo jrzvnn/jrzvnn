@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)
- - [The best smart holiday string lights](https://www.theverge.com/23958973/best-smart-holiday-string-lights-led)
- - [Disney Pinnacle is preparing to be the next big NFT failure](https://www.theverge.com/2023/11/14/23960535/disney-pinnacle-nft-dapper-labs-pin-collecting)
- - [To use Nothing&#39;s new Nothing Chats, users must connect their iCloud account to send iMessages, run from a virtual Mac mini, which may weaken data security &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/231114/p27#a231114p27)
- - [Here are your bingo cards for Google CEO Sundar Pichai’s Fortnite testimony](https://www.theverge.com/2023/11/14/23960686/sundar-pichai-epic-google-bingo-cards)<!-- TECH:END -->
+ - [Apple seeds third watchOS 10.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-seeds-third-watchos-102-developer-beta?utm_medium=rss)
+ - [32 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023/)
+ - [Truck bloat is killing us, new crash data reveals](https://www.theverge.com/2023/11/14/23960624/truck-suv-hood-height-pedestrian-death-report-iihs)
+ - [Polestar’s electric future looks high-performing — and promising](https://www.theverge.com/2023/11/14/23959512/polestar3-ev-polestar4-polestar5-polestar6-pics-specs)
+ - [Unciphered, a company that helps recover cryptocurrency, finds a flaw affecting some wallets made before 2016 and says up to $1B of crypto is at risk of theft &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231114/p28#a231114p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

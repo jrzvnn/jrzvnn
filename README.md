@@ -108,11 +108,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They/was](http://9gag.com/gag/aL15Lxz)
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 💣 [Exactly!!!](http://9gag.com/gag/a6q6Dre)
- - 😝 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
- - 👉 [Kat Dennings](http://9gag.com/gag/agow14v)<!-- MEMES:END -->
+ - 😝 [Circa 2016-2017 the beginning](http://9gag.com/gag/aL15e5A)
+ - 😝 [My eyes are up here](http://9gag.com/gag/aL15nyg)
+ - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
+ - 😝 [When you are stupid enough to choke Eben Etzebeth...but he just calmly starts breaking your neck.](http://9gag.com/gag/a8qOmWY)
+ - 👉 [They/was](http://9gag.com/gag/aL15Lxz)<!-- MEMES:END -->
 
 ---
 

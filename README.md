@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X continues to suck at moderating hate speech, according to a new report](https://www.theverge.com/2023/11/14/23960430/x-twitter-ccdh-hate-speech-moderation-israel-hamas-war)
- - [A look at Aurora, the Intel- and HPE-made, Argonne National Laboratory-based supercomputer, set to be the first to hit two quintillion operations per second &lpar;Scott Patterson/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p20#a231114p20)
- - [Ahead of the holidays, Amazon updates Buy With Prime to let customers more easily return items outside of Amazon.com and see their order history via their apps &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/231114/p19#a231114p19)
- - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/14/23960431/snapchat-beauty-filter-ar-makeup-nyx-shop-online)
- - [Fermi’s Paradox Proves There’s No Government Alien Conspiracy Around Roswell](https://www.wired.com/story/roswell-aliens-fermi-paradox/)<!-- TECH:END -->
+ - [Google DeepMind’s AI Weather Forecaster Handily Beats a Global Standard](https://www.wired.com/story/google-deepmind-ai-weather-forecast/)
+ - [Instagram’s close friends feature now applies to posts and Reels, too](https://www.theverge.com/2023/11/14/23959733/instagram-share-posts-reels-close-friends)
+ - [Volvo CEO Jim Rowan thinks dropping Apple CarPlay is a mistake](https://www.theverge.com/23958821/volvo-ceo-interview-electric-cars-apple-carplay-google-android-auto-decoder)
+ - [Is E Ink finally ready for prime time?](https://www.theverge.com/23954584/e-ink-color-tablets-ereader)
+ - [Logitech’s webcam with articulating arm launches on Indiegogo](https://www.theverge.com/2023/11/14/23960374/logitech-reach-articulating-webcam-indiegogo-launch-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

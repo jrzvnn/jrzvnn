@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has begun replacing Android with its own software on some products](https://www.theverge.com/2023/11/14/23954333/amazon-ditching-android-fire-tv-echo-show)
+ - [Khosla Ventures says it is raising a $500M seed fund, $1.6B venture fund, and $900M growth fund, larger than predecessors of $300M, $1B, and $550M, respectively &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/231114/p29#a231114p29)
  - [Apple&#39;s visionOS developer beta 6 is now available](https://appleinsider.com/articles/23/11/14/apples-visionos-developer-beta-6-is-now-available?utm_medium=rss)
  - [Gaming brands are learning the right lessons from enthusiast mechanical keyboards](https://www.theverge.com/23960337/asus-razer-gaming-keyboards-rog-azoth-blackwidow-v4-75-percent-gasket-mount-hot-swap)
- - [Third developer beta of iOS 17.2, iPadOS 17.2 out now](https://appleinsider.com/articles/23/11/14/third-developer-beta-of-ios-172-ipados-172-out-now?utm_medium=rss)
- - [Apple distributes the third tvOS 17.2 developer beta](https://appleinsider.com/articles/23/11/14/apple-distributes-the-third-tvos-172-developer-beta?utm_medium=rss)
- - [Third macOS Sonoma 14.2 developer beta issued for testing](https://appleinsider.com/articles/23/11/14/third-macos-sonoma-142-developer-beta-issued-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Third developer beta of iOS 17.2, iPadOS 17.2 out now](https://appleinsider.com/articles/23/11/14/third-developer-beta-of-ios-172-ipados-172-out-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

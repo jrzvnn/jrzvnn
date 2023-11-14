@@ -26,20 +26,20 @@
 - 📫 How to reach me: jrzvnn@gmail.com
 
 ---
-<br />
+
+<div align=center>
+<img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
+</div>
+<div align="left">
 <!--🖼️OCTOCAT-->
 <p align="center">
 
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
 <br />
-<br /><br />
 <a href="https://app.daily.dev/jorizvillanueva"><img src="https://github.com/jrzvnn/jrzvnn/blob/main/devcard.svg" width="400" alt="Joriz Dev Card"/></a>
 </p>
 
-
 <br />
-
-
 <div align="center">
 
 <!--START_SECTION:waka-->
@@ -88,11 +88,6 @@
 <img src="https://github.com/jrzvnn/jrzvnn/blob/output/github-snake-dark.svg">
 </div>
 
-<div align=center>
-<img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
-</div>
-
-<div align="left">
 
 ---
 

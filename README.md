@@ -99,11 +99,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber rolls out new tools in the US to identify riders or Uber Eats users who consistently give bad ratings to get refunds, to cut down on unfair deactivations &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231114/p9#a231114p9)
  - [YouTube plans to require users to disclose when they upload realistic-looking manipulated or synthetic content, including videos made using its tools, in 2024 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231114/p8#a231114p8)
  - [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story](https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/)
  - [This smart lock is the first with Matter-over-Thread baked in](https://www.theverge.com/2023/11/14/23959948/nuki-smart-lock-matter-over-thread-price-specs)
- - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)
- - [Top500: the AMD-powered Frontier remains the fastest supercomputer at 1.194 Exaflop/s, fending off the Argonne National Laboratory&#39;s Intel-powered Aurora &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231114/p6#a231114p6)<!-- TECH:END -->
+ - [Irish Council for Civil Liberties: data brokers are collecting browsing data in much more detail than previously known, including for those in sensitive jobs &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231114/p7#a231114p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

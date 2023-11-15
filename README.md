@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 😝 [Bring back shame](http://9gag.com/gag/ap9wbw8)
- - 💣 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 😝 [Spitting facts](http://9gag.com/gag/a8qODbQ)
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [It\u2019s funny cause it\u2019s true](http://9gag.com/gag/a4oyAX6)
+ - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---
 

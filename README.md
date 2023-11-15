@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
  - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
- - 👉 [Cristy Ren](http://9gag.com/gag/amAwxNy)<!-- MEMES:END -->
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
 
 ---
 

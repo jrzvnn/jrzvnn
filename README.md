@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces the Maia 100 chip for Azure users, already in testing with its Bing and Office AI tools, and Cobalt, a chip for servers, launching in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p25#a231115p25)
- - [Microsoft’s planning tools will soon be less confusing](https://www.theverge.com/2023/11/15/23962052/microsoft-planner-task-management-announcement-date-ignite)
- - [Google’s new Photos features try to declutter your library](https://www.theverge.com/2023/11/15/23961948/google-photos-stacks-shortcut-calendar-entry-documents-categorization)
- - [Microsoft Teams’ latest AI trick cleans and decorates your messy webcam background](https://www.theverge.com/2023/11/15/23961943/microsoft-teams-ai-decorate-background-voice-isolation)
- - [The first Qi2-certified devices are about to arrive](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)<!-- TECH:END -->
+ - [Microsoft rolls out AI updates to Teams, including generative backgrounds, and plans to integrate its Mesh mixed reality platform into Teams in January 2024 &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/231115/p30#a231115p30)
+ - [Microsoft officially launches Loop, a Notion-style productivity and collaboration app, after releasing a public preview in March 2023 &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/231115/p29#a231115p29)
+ - [Microsoft announces Windows AI Studio, to let developers access and tweak AI models; Nvidia brings TensorRT-LLM to GeForce RTX 30 and 40-powered Windows PCs &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231115/p28#a231115p28)
+ - [Microsoft announces Copilot Studio, a no-code tool to build on 365 Copilot to let businesses create a custom copilot or integrate a custom ChatGPT chatbot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p27#a231115p27)
+ - [Norway&#39;s Privacy Battle With Meta Is Just Getting Started](https://www.wired.com/story/norways-privacy-battle-with-meta-is-just-getting-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

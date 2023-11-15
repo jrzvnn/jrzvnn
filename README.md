@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Riddler](http://9gag.com/gag/aA05Xeo)
- - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
- - 💣 [Behold, Dragon LAN](http://9gag.com/gag/aeQw2yb)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 😝 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 💣 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 

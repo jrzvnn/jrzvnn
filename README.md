@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Black Friday deal: get 25% off Parallels Desktop 19 for Mac](https://appleinsider.com/articles/23/11/15/early-black-friday-deal-get-25-off-parallels-desktop-19-for-mac?utm_medium=rss)
+ - [The new Qi2 wireless standard will launch before the holidays](https://appleinsider.com/articles/23/11/15/the-new-qi2-wireless-standard-will-launch-before-the-holidays?utm_medium=rss)
  - [YouTube Premium’s better-looking 1080p is now on Android and TVs, too](https://www.theverge.com/2023/11/15/23962383/youtube-premium-enhanced-bitrate-1080p-android-tv)
  - [Niantic is using AI to make Peridot’s fake pets feel more real](https://www.theverge.com/2023/11/15/23962241/niantic-generative-ai-peridot-pokemon-go)
- - [Meta appeals against the EU&#39;s decision to designate Facebook&#39;s Messenger and Marketplace as &quot;core&quot; services under the DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231115/p37#a231115p37)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Mercedes-Benz opens its first 400kW EV charging station in the US](https://www.theverge.com/2023/11/15/23960991/mercedes-benz-ev-charging-station-atlanta-chargepoint)<!-- TECH:END -->
+ - [Meta appeals against the EU&#39;s decision to designate Facebook&#39;s Messenger and Marketplace as &quot;core&quot; services under the DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231115/p37#a231115p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at some wrongful arrests in the US due to bad facial recognition matches, and how &quot;automation bias&quot; could lead police to ignore contradictory evidence &lpar;Eyal Press/New Yorker&rpar;](http://www.techmeme.com/231115/p4#a231115p4)
  - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)
  - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)
  - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
- - [Best Solar Panel Installation Companies in North Carolina     - CNET](https://www.cnet.com/home/energy-and-utilities/north-carolina-solar-panels/#ftag=CAD590a51e)
- - [You&#39;re Not Doing Enough to Stop Porch Pirates. Here&#39;s How to Keep Your Packages Safe     - CNET](https://www.cnet.com/personal-finance/porch-theft-online-purchases-survey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in North Carolina     - CNET](https://www.cnet.com/home/energy-and-utilities/north-carolina-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

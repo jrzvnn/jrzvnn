@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Greatest idea of this world.](http://9gag.com/gag/a9q0X1j)
- - 👉 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)<!-- MEMES:END -->
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

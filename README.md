@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)
  - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
+ - [Early Black Friday Pricing Hits a Whole Array of Vitamix Blenders at Amazon     - CNET](https://www.cnet.com/deals/early-black-friday-pricing-hits-a-whole-array-of-vitamix-blenders-at-amazon/#ftag=CAD590a51e)
  - [Tesla’s Cyberquad for Kids is back and officially a toy again](https://www.theverge.com/2023/11/15/23961984/tesla-cyberquad-for-kids-back-release-date-price-toy)
- - [Sony PlayStation Portal Review: A Handheld PS5 Companion](https://www.wired.com/review/sony-playstation-portal/)
- - [The Government Is Now the Hottest Tech Employer in Town](https://www.wired.com/story/tech-jobs-government-layoffs/)
- - [Dr. Michelle Wong Brings the Science of Skincare to New Audiences](https://www.wired.com/story/women-in-science-michelle-wong/)<!-- TECH:END -->
+ - [iOS 17 Can Give You Daily Crossword Puzzles in the News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-can-give-you-daily-crossword-puzzles-in-the-news-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

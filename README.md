@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Turntable Is the Perfect Pick for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)
  - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)
  - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)
  - [A look at some wrongful arrests in the US due to bad facial recognition matches, and how &quot;automation bias&quot; could lead police to ignore contradictory evidence &lpar;Eyal Press/New Yorker&rpar;](http://www.techmeme.com/231115/p4#a231115p4)
- - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)<!-- TECH:END -->
+ - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)
+ - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

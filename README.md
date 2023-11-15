@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s new iMac and MacBook Pros are matching their all-time low prices](https://www.theverge.com/2023/11/15/23960566/apple-m3-macbook-pro-imac-sony-inzone-gaming-headset-deal-sale)
+ - [Daily deals Nov. 15: Apple TV $79, 32% off Magic Keyboard Folio, Apple accessories from $9.99, 68% off HTC VR headset, more](https://appleinsider.com/articles/23/11/15/daily-deals-nov-15-apple-tv-79-32-off-magic-keyboard-folio-apple-accessories-from-999-68-off-htc-vr-headset-more?utm_medium=rss)
+ - [Meta doesn’t want to control how teens use the internet — it wants to make app stores do it](https://www.theverge.com/2023/11/15/23962153/meta-online-age-verification-app-stores)
  - [IRL&#39;s co-founders sue SoftBank and two VCs, accusing them of deliberately &quot;destroying&quot; the Gen Z app and creating an &quot;outrageous lie&quot; over inflated user counts &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/231115/p22#a231115p22)
- - [War comes to Apple TV+ with &#39;The New Look&#39; Coco Chanel drama](https://appleinsider.com/articles/23/11/15/war-comes-to-apple-tv-with-the-new-look-coco-chanel-drama?utm_medium=rss)
- - [Madame Web’s first trailer must be seen to be believed](https://www.theverge.com/23962107/madame-web-trailer-release-date)
- - [Upgrade Your Home Gym With 50% Black Friday Savings on This NordicTrack Exercise Bike     - CNET](https://www.cnet.com/deals/upgrade-your-home-gym-with-50-black-friday-savings-on-this-nordictrack-exercise-bike/#ftag=CAD590a51e)
- - [Google launches Notes, an experiment to let users that opt-in via Search Labs annotate search results, including with images and colorful fonts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231115/p21#a231115p21)<!-- TECH:END -->
+ - [War comes to Apple TV+ with &#39;The New Look&#39; Coco Chanel drama](https://appleinsider.com/articles/23/11/15/war-comes-to-apple-tv-with-the-new-look-coco-chanel-drama?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

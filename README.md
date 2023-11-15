@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IRL&#39;s co-founders sue SoftBank and two VCs, accusing them of deliberately &quot;destroying&quot; the Gen Z app and creating an &quot;outrageous lie&quot; over inflated user counts &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/231115/p22#a231115p22)
  - [War comes to Apple TV+ with &#39;The New Look&#39; Coco Chanel drama](https://appleinsider.com/articles/23/11/15/war-comes-to-apple-tv-with-the-new-look-coco-chanel-drama?utm_medium=rss)
  - [Madame Web’s first trailer must be seen to be believed](https://www.theverge.com/23962107/madame-web-trailer-release-date)
- - [Google launches Notes, an experiment to let users that opt-in via Search Labs annotate search results, including with images and colorful fonts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231115/p21#a231115p21)
- - [Who owns AI art?](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use)
- - [PitchBook: Coinbase Ventures, Kraken Ventures, and Binance Labs significantly cut dealmaking since Q1 2022; Coinbase did 11 deals in Q3, down from 65 in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/231115/p20#a231115p20)<!-- TECH:END -->
+ - [Upgrade Your Home Gym With 50% Black Friday Savings on This NordicTrack Exercise Bike     - CNET](https://www.cnet.com/deals/upgrade-your-home-gym-with-50-black-friday-savings-on-this-nordictrack-exercise-bike/#ftag=CAD590a51e)
+ - [Google launches Notes, an experiment to let users that opt-in via Search Labs annotate search results, including with images and colorful fonts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231115/p21#a231115p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

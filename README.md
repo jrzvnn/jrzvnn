@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Riddler](http://9gag.com/gag/aA05Xeo)
- - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
- - 💣 [Behold, Dragon LAN](http://9gag.com/gag/aeQw2yb)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 💣 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
+ - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - 👉 [Cristy Ren](http://9gag.com/gag/amAwxNy)<!-- MEMES:END -->
 
 ---
 

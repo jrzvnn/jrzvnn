@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC warns influencers to disclose when they’re paid to be sweet on aspartame](https://www.theverge.com/2023/11/15/23962547/ftc-warning-letters-influencers-aspartame-sugar-undisclosed-sponsored-videos)
  - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)
  - [Pew: 30% of US adults say they regularly get news from Facebook, 26% say YouTube; 16%, Instagram; 14%, TikTok; 12%, X; 8%, Reddit; and 5%, Nextdoor and LinkedIn &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/231115/p46#a231115p46)
  - [Eligible Apple Music subscribers get up to six months free on PlayStation 5](https://appleinsider.com/articles/23/11/15/eligible-apple-music-subscribers-get-up-to-six-months-free-on-playstation-5?utm_medium=rss)
- - [Sonos teases a major new product coming next year](https://www.theverge.com/2023/11/15/23962936/sonos-major-new-product-coming-2024-tease)
- - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)<!-- TECH:END -->
+ - [Sonos teases a major new product coming next year](https://www.theverge.com/2023/11/15/23962936/sonos-major-new-product-coming-2024-tease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

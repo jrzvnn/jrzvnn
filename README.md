@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)
  - [The FCC can now punish telecom providers for charging customers more for less](https://www.theverge.com/2023/11/15/23962881/fcc-anti-digital-discrimination-pass)
  - [Be My Eyes AI offers GPT-4-powered support for blind Microsoft customers](https://www.theverge.com/2023/11/15/23962709/microsoft-blind-users-open-ai-chatgpt-4-be-my-eyes)
  - [The FTC warns influencers to disclose when they’re paid to be sweet on aspartame](https://www.theverge.com/2023/11/15/23962547/ftc-warning-letters-influencers-aspartame-sugar-undisclosed-sponsored-videos)
- - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)
- - [Pew: 30% of US adults regularly get their news from Facebook; 26%, YouTube; 16%, Instagram; 14%, TikTok; 12%, X; 8%, Reddit; and 5%, Nextdoor; 5%, LinkedIn &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/231115/p46#a231115p46)<!-- TECH:END -->
+ - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

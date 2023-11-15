@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
  - 💣 [Spitting facts](http://9gag.com/gag/a8qODbQ)
  - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
+ - 👉 [It\u2019s funny cause it\u2019s true](http://9gag.com/gag/a4oyAX6)<!-- MEMES:END -->
 
 ---
 

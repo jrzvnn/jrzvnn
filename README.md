@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Satya Nadella on Microsoft&#39;s OpenAI relationship, the ongoing developer platform shift, AI fuelling a creative revolution, and generative AI IP issues &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231115/p36#a231115p36)
- - [YouTube expands support for enhanced bitrate 1080p HD video to Android, web, and smart TVs, from just iOS, and rolls out achievement badges for users over 18 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231115/p35#a231115p35)
- - [US demands to know if Apple cancelled Jon Stewart over China](https://appleinsider.com/articles/23/11/15/us-demands-to-know-if-apple-cancelled-jon-stewart-over-china?utm_medium=rss)
- - [Google rolls out new Google Photos features, including AI auto-grouping Photo Stacks and improved recognition and categorization of screenshots and documents &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231115/p34#a231115p34)
- - [Amazon removes seven eyedrops products after the FDA warned Andrew Jassy in a letter that the eyedrops had not been recognized as safe or effective &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/231115/p33#a231115p33)<!-- TECH:END -->
+ - [YouTube Premium’s better-looking 1080p is now on Android and TVs, too](https://www.theverge.com/2023/11/15/23962383/youtube-premium-enhanced-bitrate-1080p-android-tv)
+ - [Niantic is using AI to make Peridot’s fake pets feel more real](https://www.theverge.com/2023/11/15/23962241/niantic-generative-ai-peridot-pokemon-go)
+ - [Meta appeals against the EU&#39;s decision to designate Facebook&#39;s Messenger and Marketplace as &quot;core&quot; services under the DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231115/p37#a231115p37)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Mercedes-Benz opens its first 400kW EV charging station in the US](https://www.theverge.com/2023/11/15/23960991/mercedes-benz-ev-charging-station-atlanta-chargepoint)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

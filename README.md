@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Today is birthday of one of the best MVP - Astrid Lindgren. Person, who made our childhood awesome.](http://9gag.com/gag/a5X3GVV)<!-- MEMES:END -->
+ - 😝 [Another not hate crime](http://9gag.com/gag/az2wOYN)
+ - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
+ - 💣 [Here at the March for Israel, nobody is covering their faces, destroying public property, or calling for genocide.](http://9gag.com/gag/armwxdd)
+ - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 👉 [1 year ago TODAY I released my gladiator game. 9GAG was one of the main reasons it blew up. Today, I QUITmy job, am a real game dev and have a small team to help work on cool updates. Thank you. &lpar;more info in comments&rpar;](http://9gag.com/gag/aeQwm5m)<!-- MEMES:END -->
 
 ---
 

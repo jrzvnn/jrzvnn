@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 💣 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 😝 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)
- - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
+ - 😝 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
+ - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
+ - 💣 [Another not hate crime](http://9gag.com/gag/az2wOYN)
+ - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
+ - 👉 [Here at the March for Israel, nobody is covering their faces, destroying public property, or calling for genocide.](http://9gag.com/gag/armwxdd)<!-- MEMES:END -->
 
 ---
 

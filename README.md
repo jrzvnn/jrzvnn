@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)
  - [A look at some wrongful arrests in the US due to bad facial recognition matches, and how &quot;automation bias&quot; could lead police to ignore contradictory evidence &lpar;Eyal Press/New Yorker&rpar;](http://www.techmeme.com/231115/p4#a231115p4)
  - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)
  - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)
- - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
- - [Cricket World Cup 2023 Semifinal Livestream: How to Watch India vs. New Zealand From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-semifinal-livestream-how-to-watch-india-vs-new-zealand-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

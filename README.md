@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
+ - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
  - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 💣 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
  - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---

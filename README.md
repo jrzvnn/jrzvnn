@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)
- - [Sources: Shein&#39;s revenue grew 40%+ YoY to $24B between January and September and is likely on track to reach Shein&#39;s goal of $32B-$33B for all of 2023, up 40% &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/231115/p38#a231115p38)
- - [Qi2’s MagSafe-like wireless charging is finally almost here](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)
- - [Google’s new Titan security keys are ready for a world without passwords](https://www.theverge.com/2023/11/15/23962443/google-titan-security-key-passwordless-login)
- - [iPhone given to Drew Carey&#39;s &#39;Price is Right&#39; staff hits the jackpot at auction](https://appleinsider.com/articles/23/11/15/iphone-given-to-drew-careys-price-is-right-staff-hits-the-jackpot-at-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram gets new filters for the first time in forever](https://www.theverge.com/2023/11/15/23962500/instagram-new-photo-filters-announced-easier-reels)
+ - [How to watch &#39;A Charlie Brown Thanksgiving&#39; for free on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_medium=rss)
+ - [Verizon wants to back up your entire life for $13.99 per month](https://www.theverge.com/2023/11/15/23962337/verizon-cloud-unlimited-individual-plan)
+ - [Microsoft&#39;s AI Ignite Event: Everything Revealed in 8 Minutes video     - CNET](https://www.cnet.com/videos/microsofts-ai-ignite-event-everything-revealed-in-8-minutes/#ftag=CAD590a51e)
+ - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

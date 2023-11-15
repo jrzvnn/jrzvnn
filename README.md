@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)
  - [Cisco reports Q1 revenue up 8% YoY to $14.7B, vs. $14.6B est., net income up 36% YoY to $3.6B, and forecasts Q2 revenue far short of estimates; CSCO drops 10%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231115/p45#a231115p45)
  - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
  - [Meta rolls out new Instagram filters, and says it&#39;s testing letting users create custom stickers from their photos and videos, improvements to Reels, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231115/p44#a231115p44)
- - [Adobe is using AI to break apart messy audio](https://www.theverge.com/2023/11/15/23962452/adobe-project-sound-lift-ai-audio-tool)
- - [Black Friday deal: get 50% off the Lomi Classic tabletop composting machine](https://appleinsider.com/articles/23/11/15/black-friday-deal-get-50-off-the-lomi-classic-tabletop-composting-machine?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe is using AI to break apart messy audio](https://www.theverge.com/2023/11/15/23962452/adobe-project-sound-lift-ai-audio-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

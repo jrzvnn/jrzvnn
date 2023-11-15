@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: Coinbase Ventures, Kraken Ventures, and Binance Labs significantly cut dealmaking since Q1 2022; Coinbase did 11 deals in Q3, down from 65 in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/231115/p20#a231115p20)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [5 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [Google is going to let you annotate search results](https://www.theverge.com/2023/11/15/23961289/google-search-labs-notes-following-perspectives)
- - [Amazon announces Astro for Business, letting SMBs buy its Alexa-powered Astro security robot for $2,350 per unit for sites no larger than 5,000 square feet &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/231115/p19#a231115p19)<!-- TECH:END -->
+ - [War comes to Apple TV+ with &#39;The New Look&#39; Coco Chanel drama](https://appleinsider.com/articles/23/11/15/war-comes-to-apple-tv-with-the-new-look-coco-chanel-drama?utm_medium=rss)
+ - [Madame Web’s first trailer must be seen to be believed](https://www.theverge.com/23962107/madame-web-trailer-release-date)
+ - [Google launches Notes, an experiment to let users that opt-in via Search Labs annotate search results, including with images and colorful fonts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231115/p21#a231115p21)
+ - [Who owns AI art?](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use)
+ - [PitchBook: Coinbase Ventures, Kraken Ventures, and Binance Labs significantly cut dealmaking since Q1 2022; Coinbase did 11 deals in Q3, down from 65 in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/231115/p20#a231115p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

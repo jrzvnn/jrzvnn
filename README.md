@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to locate an Apple TV remote in iOS 17](https://appleinsider.com/inside/apple-tv/tips/how-to-locate-an-apple-tv-remote-in-ios-17?utm_medium=rss)
  - [Meta calls for legislation to require app stores to get parental approval for kids age 13 to 15 to download apps, pushing for a bigger role for Google and Apple &lpar;Washington Post&rpar;](http://www.techmeme.com/231115/p17#a231115p17)
  - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/15/23962092/snapchat-beauty-bestie-ar-filter-nyx-makeup-shop-online)
  - [Google Maps announces updates, including improved transit directions for &quot;lowest cost&quot;, &quot;less walking&quot;, and more, emoji reactions, and collaborative lists &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231115/p16#a231115p16)
- - [Eureka E10S review: an ideal solution for everyday cleaning](https://appleinsider.com/articles/23/11/15/eureka-e10s-review-an-ideal-solution-for-everyday-cleaning?utm_medium=rss)
- - [Ray-Ban Meta Smart Glasses Review: Fine Audio and Video, Privacy Issues](https://www.wired.com/review/review-ray-ban-meta-smart-glasses/)<!-- TECH:END -->
+ - [Eureka E10S review: an ideal solution for everyday cleaning](https://appleinsider.com/articles/23/11/15/eureka-e10s-review-an-ideal-solution-for-everyday-cleaning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

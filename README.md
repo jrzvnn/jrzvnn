@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon removes seven eyedrops products after the FDA warned Andrew Jassy in a letter that the eyedrops had not been recognized as safe or effective &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/231115/p33#a231115p33)
+ - [Microsoft combines its Security Copilot chatbot, Sentinel security analytics, and Microsoft Defender XDR tools into one unified security operations platform &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231115/p32#a231115p32)
+ - [Microsoft announces Copilot AI updates to make the chatbot more interactive and participatory, particularly in Teams meetings and across PowerPoint and Outlook &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231115/p31#a231115p31)
  - [Microsoft rolls out AI updates to Teams, including generative backgrounds, and plans to integrate its Mesh mixed reality platform into Teams in January 2024 &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/231115/p30#a231115p30)
- - [Microsoft officially launches Loop, a Notion-style productivity and collaboration app, after releasing a public preview in March 2023 &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/231115/p29#a231115p29)
- - [Microsoft announces Windows AI Studio, to let developers access and tweak AI models; Nvidia brings TensorRT-LLM to GeForce RTX 30 and 40-powered Windows PCs &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231115/p28#a231115p28)
- - [Microsoft announces Copilot Studio, a no-code tool to build on 365 Copilot to let businesses create a custom copilot or integrate a custom ChatGPT chatbot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231115/p27#a231115p27)
- - [Norway&#39;s Privacy Battle With Meta Is Just Getting Started](https://www.wired.com/story/norways-privacy-battle-with-meta-is-just-getting-started/)<!-- TECH:END -->
+ - [Microsoft officially launches Loop, a Notion-style productivity and collaboration app, after releasing a public preview in March 2023 &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/231115/p29#a231115p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

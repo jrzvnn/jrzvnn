@@ -145,8 +145,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [visionOS beta 6 adds Persona Enrollment setup video](https://appleinsider.com/articles/23/11/15/visionos-beta-6-adds-persona-enrollment-setup-video?utm_medium=rss)
  - [Uber failed to help cities go green — will robotaxis, too?](https://www.theverge.com/23948675/uber-lyft-cruise-robotaxi-pollution-autonomous-vehicles)
  - [Helen Dixon, Ireland&#39;s data protection commissioner, plans to leave on February 19 after ~10 years; GDPR transformed the DPC into the EU&#39;s top tech regulator &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231115/p14#a231115p14)
- - [Waverly Labs Forum Review: Impressive One-to-Many Voice Translation](https://www.wired.com/review/waverly-labs-forum/)
- - [Asus apologizes for accidentally printing &quot;Evangenlion&quot;, not &quot;Evangelion&quot;, on new $700 ROG Maximus Z790 Hero EVA-02 Edition motherboards and offers replacements &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/231115/p13#a231115p13)<!-- TECH:END -->
+ - [Best Language Learning Apps for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)
+ - [How Close Is That Photo to the Truth? What to Know in the Age of AI     - CNET](https://www.cnet.com/tech/mobile/features/how-close-is-that-photo-to-the-truth-what-to-know-in-the-age-of-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC adopts rules to prevent digital discrimination of access to broadband services; ISPs and their GOP allies in Congress oppose the measure &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p40#a231115p40)
+ - [The new What If...? season 2 trailer loves a Marvel callback](https://www.theverge.com/2023/11/15/23962549/what-if-season-2-trailer)
  - [Google updates its Titan Security Key lineup with FIDO2 models that can store more than 250 unique passkeys &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231115/p39#a231115p39)
  - [Amazon is merging the Comixology app with Kindle](https://www.theverge.com/2023/11/15/23962577/amazon-comixology-app-kindle-comics)
- - [Meta will fight the EU over regulating Messenger](https://www.theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace)
- - [Best Apps for Tracking Credit Card Rewards in November 2023     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-apps-for-tracking-credit-card-rewards/#ftag=CAD590a51e)
- - [Dollar Flight Club 2-Pack Premium Plus Lifetime Membership Deal Lets You Take Flight With a Friend     - CNET](https://www.cnet.com/deals/pack-your-bags-your-travel-besties-with-dollar-flight-club-2-pack-premium-plus-lifetime-membership-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta will fight the EU over regulating Messenger](https://www.theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

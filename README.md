@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
- - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 💣 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
- - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 👉 [Cap?](http://9gag.com/gag/aeQwOdO)<!-- MEMES:END -->
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 💣 [Today is birthday of one of the best MVP - Astrid Lindgren. Person, who made our childhood awesome.](http://9gag.com/gag/a5X3GVV)
+ - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---
 

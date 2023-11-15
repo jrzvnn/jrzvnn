@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing Brazilian ten-string guitar with rattlesnake tails](http://9gag.com/gag/adPwxx9)
- - 😝 [As simple as that](http://9gag.com/gag/abvwWYp)
- - 💣 [Another not hate crime](http://9gag.com/gag/az2wOYN)
- - 😝 [Here at the March for Israel, nobody is covering their faces, destroying public property, or calling for genocide.](http://9gag.com/gag/armwxdd)
- - 👉 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)<!-- MEMES:END -->
+ - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
+ - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
+ - 💣 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [8.5](http://9gag.com/gag/amAwmqv)<!-- MEMES:END -->
 
 ---
 

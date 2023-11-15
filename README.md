@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 😝 [It has been confirmed by the IDF the guy with all the talents as been eliminated.](http://9gag.com/gag/aoKwVYg)
+ - 💣 [Today is birthday of one of the best MVP - Astrid Lindgren. Person, who made our childhood awesome.](http://9gag.com/gag/a5X3GVV)
  - 😝 [I see this as an absolute win](http://9gag.com/gag/aXn1Ngb)
- - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 💣 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 👉 [Guess I die](http://9gag.com/gag/az2wRYj)<!-- MEMES:END -->
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

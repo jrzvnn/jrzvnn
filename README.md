@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
- - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
+ - 😝 [The Riddler](http://9gag.com/gag/aA05Xeo)
+ - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
+ - 💣 [Behold, Dragon LAN](http://9gag.com/gag/aeQw2yb)
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
 
 ---
 

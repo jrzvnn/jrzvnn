@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
  - [Instagram rolls out new filters, and says it&#39;s testing the ability to create custom stickers from photos and videos, improvements to Reels, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231115/p44#a231115p44)
  - [Adobe is using AI to break apart messy audio](https://www.theverge.com/2023/11/15/23962452/adobe-project-sound-lift-ai-audio-tool)
  - [Black Friday deal: get 50% off the Lomi Classic tabletop composting machine](https://appleinsider.com/articles/23/11/15/black-friday-deal-get-50-off-the-lomi-classic-tabletop-composting-machine?utm_medium=rss)
- - [VP of audio at Stability AI Ed Newton-Rex quits, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)
- - [Tesla’s back seat audio update keeps the kids’ content quiet](https://www.theverge.com/2023/11/15/23962564/tesla-bluetooth-headphones-rear-screen-theater-model-3)<!-- TECH:END -->
+ - [Stability AI VP of Audio Ed Newton-Rex resigns, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

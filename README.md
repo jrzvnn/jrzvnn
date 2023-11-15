@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent president Martin Lau says the company stockpiled Nvidia chips to develop Hunyuan &quot;for at least a couple more&quot; versions and seeks a local chip supplier &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231115/p24#a231115p24)
+ - [Sources: SpaceX is discussing an IPO for Starlink as soon as late 2024; a source says SpaceX has been moving Starlink assets to a new subsidiary &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p23#a231115p23)
+ - [The QAnon Shaman Isn’t Even the Most Extreme Candidate in His Race for Congress](https://www.wired.com/story/qanon-shaman-runs-for-office/)
  - [Apple’s new iMac and MacBook Pros are matching their all-time low prices](https://www.theverge.com/2023/11/15/23960566/apple-m3-macbook-pro-imac-sony-inzone-gaming-headset-deal-sale)
- - [Daily deals Nov. 15: Apple TV $79, 32% off Magic Keyboard Folio, Apple accessories from $9.99, 68% off HTC VR headset, more](https://appleinsider.com/articles/23/11/15/daily-deals-nov-15-apple-tv-79-32-off-magic-keyboard-folio-apple-accessories-from-999-68-off-htc-vr-headset-more?utm_medium=rss)
- - [Meta doesn’t want to control how teens use the internet — it wants to make app stores do it](https://www.theverge.com/2023/11/15/23962153/meta-online-age-verification-app-stores)
- - [IRL&#39;s co-founders sue SoftBank and two VCs, accusing them of deliberately &quot;destroying&quot; the Gen Z app and creating an &quot;outrageous lie&quot; over inflated user counts &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/231115/p22#a231115p22)
- - [War comes to Apple TV+ with &#39;The New Look&#39; Coco Chanel drama](https://appleinsider.com/articles/23/11/15/war-comes-to-apple-tv-with-the-new-look-coco-chanel-drama?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 15: Apple TV $79, 32% off Magic Keyboard Folio, Apple accessories from $9.99, 68% off HTC VR headset, more](https://appleinsider.com/articles/23/11/15/daily-deals-nov-15-apple-tv-79-32-off-magic-keyboard-folio-apple-accessories-from-999-68-off-htc-vr-headset-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

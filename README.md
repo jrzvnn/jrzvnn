@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3$ vs 70$ grapes](http://9gag.com/gag/aREdMKG)
- - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 💣 [8.5](http://9gag.com/gag/amAwmqv)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 💣 [1 year ago TODAY I released my gladiator game. 9GAG was one of the main reasons it blew up. Today, I QUITmy job, am a real game dev and have a small team to help work on cool updates. Thank you. &lpar;more info in comments&rpar;](http://9gag.com/gag/aeQwm5m)
+ - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
+ - 👉 [The Riddler](http://9gag.com/gag/aA05Xeo)<!-- MEMES:END -->
 
 ---
 

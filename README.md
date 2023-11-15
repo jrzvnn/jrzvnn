@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VP of audio at Stability AI Ed Newton-Rex quits, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)
+ - [Tesla’s back seat audio update keeps the kids’ content quiet](https://www.theverge.com/2023/11/15/23962564/tesla-bluetooth-headphones-rear-screen-theater-model-3)
  - [Mark Zuckerberg says WhatsApp Channels has crossed 500M MAUs in seven weeks; Meta is adding support for stickers on Channels &lpar;The Indian Express&rpar;](http://www.techmeme.com/231115/p42#a231115p42)
  - [Amazon is merging the Comixology app with Kindle on December 4, and all comics that users own via Comixology will be integrated into their Kindle libraries &lpar;Thomas Wilde/GeekWire&rpar;](http://www.techmeme.com/231115/p41#a231115p41)
- - [Apple &amp; other tech giants appeal Maryland&#39;s digital advertising tax](https://appleinsider.com/articles/23/11/15/apple-other-tech-giants-appeal-marylands-digital-advertising-tax?utm_medium=rss)
- - [Amazon&#39;s early Black Friday deal drops Apple&#39;s 15-inch MacBook Air to $1,049](https://appleinsider.com/articles/23/11/15/amazons-early-black-friday-deal-drops-apples-15-inch-macbook-air-to-1049?utm_medium=rss)
- - [The FCC adopts rules to prevent digital discrimination of access to broadband services; ISPs and their GOP allies in Congress oppose the measure &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p40#a231115p40)<!-- TECH:END -->
+ - [Apple &amp; other tech giants appeal Maryland&#39;s digital advertising tax](https://appleinsider.com/articles/23/11/15/apple-other-tech-giants-appeal-marylands-digital-advertising-tax?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

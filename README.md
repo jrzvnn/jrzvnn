@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/aNw5BYG)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 😝 [Greatest idea of this world.](http://9gag.com/gag/a9q0X1j)
+ - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
+ - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
 
 ---
 

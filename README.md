@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
  - 😝 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
- - 💣 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Today is birthday of one of the best MVP - Astrid Lindgren. Person, who made our childhood awesome.](http://9gag.com/gag/a5X3GVV)<!-- MEMES:END -->
+ - 💣 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 😝 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)
+ - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
 
 ---
 

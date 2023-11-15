@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest idea of this world.](http://9gag.com/gag/a9q0X1j)
- - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
  - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
+ - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [Greatest idea of this world.](http://9gag.com/gag/a9q0X1j)
+ - 👉 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)<!-- MEMES:END -->
 
 ---
 

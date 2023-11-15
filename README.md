@@ -154,8 +154,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Another one bites the dust](http://9gag.com/gag/a9q05jL)
  - 😝 [8.5](http://9gag.com/gag/amAwmqv)
  - 💣 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 😝 [Can&#39;t take them anywhere...](http://9gag.com/gag/aOx5Pp6)
- - 👉 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)<!-- MEMES:END -->
+ - 😝 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)
+ - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
 
 ---
 

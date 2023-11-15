@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is merging the Comixology app with Kindle](https://www.theverge.com/2023/11/15/23962577/amazon-comixology-app-kindle-comics)
+ - [Meta will fight the EU over regulating Messenger](https://www.theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace)
  - [Instagram gets new filters for the first time in forever](https://www.theverge.com/2023/11/15/23962500/instagram-new-photo-filters-announced-easier-reels)
  - [How to watch &#39;A Charlie Brown Thanksgiving&#39; for free on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_medium=rss)
- - [Verizon wants to back up your entire life for $13.99 per month](https://www.theverge.com/2023/11/15/23962337/verizon-cloud-unlimited-individual-plan)
- - [Microsoft&#39;s AI Ignite Event: Everything Revealed in 8 Minutes video     - CNET](https://www.cnet.com/videos/microsofts-ai-ignite-event-everything-revealed-in-8-minutes/#ftag=CAD590a51e)
- - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)<!-- TECH:END -->
+ - [Verizon wants to back up your entire life for $13.99 per month](https://www.theverge.com/2023/11/15/23962337/verizon-cloud-unlimited-individual-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

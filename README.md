@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday deal: get 50% off the Lomi Classic tabletop composting machine](https://appleinsider.com/articles/23/11/15/black-friday-deal-get-50-off-the-lomi-classic-tabletop-composting-machine?utm_medium=rss)
  - [VP of audio at Stability AI Ed Newton-Rex quits, saying he disagrees with the company&#39;s view that training generative AI models on copyrighted works is fair use &lpar;Music Business Worldwide&rpar;](http://www.techmeme.com/231115/p43#a231115p43)
  - [Tesla’s back seat audio update keeps the kids’ content quiet](https://www.theverge.com/2023/11/15/23962564/tesla-bluetooth-headphones-rear-screen-theater-model-3)
  - [Mark Zuckerberg says WhatsApp Channels has crossed 500M MAUs in seven weeks; Meta is adding support for stickers on Channels &lpar;The Indian Express&rpar;](http://www.techmeme.com/231115/p42#a231115p42)
- - [Amazon is merging the Comixology app with Kindle on December 4, and all comics that users own via Comixology will be integrated into their Kindle libraries &lpar;Thomas Wilde/GeekWire&rpar;](http://www.techmeme.com/231115/p41#a231115p41)
- - [Best Black Friday Air Fryer Deals: Save on Top-Rated Models from Ninja, Cuisinart, Chefman and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-air-fryer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is merging the Comixology app with Kindle on December 4, and all comics that users own via Comixology will be integrated into their Kindle libraries &lpar;Thomas Wilde/GeekWire&rpar;](http://www.techmeme.com/231115/p41#a231115p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

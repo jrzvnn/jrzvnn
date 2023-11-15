@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 💣 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
+ - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---
 

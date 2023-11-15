@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
+ - 😝 [An honest enemy is better than a fake friend.](http://9gag.com/gag/a8qO0nO)
  - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
- - 💣 [Bro looks like he&#39;s about to sell me a life changing online course for $997.](http://9gag.com/gag/a2Kp82O)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
+ - 💣 [Arrest for manslaughter in connection with the death of a hockey player. The hockey career of the Petgrave perpetrator pictured is apparently over. Finally.](http://9gag.com/gag/ajVwxMp)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)<!-- MEMES:END -->
 
 ---
 

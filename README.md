@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle](https://www.wired.com/story/google-titan-security-key-passkeys/)
+ - [Sources: Shein&#39;s revenue grew 40%+ YoY to $24B between January and September and is likely on track to reach Shein&#39;s goal of $32B-$33B for all of 2023, up 40% &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/231115/p38#a231115p38)
  - [Qi2’s MagSafe-like wireless charging is finally almost here](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)
  - [Google’s new Titan security keys are ready for a world without passwords](https://www.theverge.com/2023/11/15/23962443/google-titan-security-key-passwordless-login)
- - [iPhone given to Drew Carey&#39;s &#39;Price is Right&#39; staff hits the jackpot at auction](https://appleinsider.com/articles/23/11/15/iphone-given-to-drew-careys-price-is-right-staff-hits-the-jackpot-at-auction?utm_medium=rss)
- - [Early Black Friday deal: get 25% off Parallels Desktop 19 for Mac](https://appleinsider.com/articles/23/11/15/early-black-friday-deal-get-25-off-parallels-desktop-19-for-mac?utm_medium=rss)
- - [The new Qi2 wireless standard will launch before the holidays](https://appleinsider.com/articles/23/11/15/the-new-qi2-wireless-standard-will-launch-before-the-holidays?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone given to Drew Carey&#39;s &#39;Price is Right&#39; staff hits the jackpot at auction](https://appleinsider.com/articles/23/11/15/iphone-given-to-drew-careys-price-is-right-staff-hits-the-jackpot-at-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

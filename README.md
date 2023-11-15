@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another one bites the dust](http://9gag.com/gag/a9q05jL)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 💣 [Delayed Startled Response](http://9gag.com/gag/abvw1wb)
- - 😝 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)
- - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 💣 [Another one bites the dust](http://9gag.com/gag/a9q05jL)
+ - 😝 [Cap?](http://9gag.com/gag/aeQwOdO)
+ - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
 
 ---
 

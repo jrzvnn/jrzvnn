@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2022, Meta quietly began letting ads say past US elections were &quot;rigged&quot; or &quot;stolen&quot;; sources say execs made the decision based on free speech considerations &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p12#a231115p12)
  - [iPhone 14 users will get another year of Emergency SOS via Satellite for free](https://appleinsider.com/articles/23/11/15/iphone-14-users-will-get-another-year-of-emergency-sos-via-satellite-for-free?utm_medium=rss)
  - [US v. Google raises the question of how antitrust law handles a company becoming dominant due to offering a far superior product, especially if the DOJ wins &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231115/p11#a231115p11)
  - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
- - [Social Media Sleuths, Armed With AI, Are Identifying Dead Bodies](https://www.wired.com/story/social-media-ai-dead-bodies/)
- - [JD.com reports Q3 revenue up 1.7% YoY to ~$33.98B, beating ~$33.81B est., and net profit up 33% YoY to ~$1.09B, beating ~$952M est., aided by cost controls &lpar;Ben Otto/Wall Street Journal&rpar;](http://www.techmeme.com/231115/p10#a231115p10)<!-- TECH:END -->
+ - [Social Media Sleuths, Armed With AI, Are Identifying Dead Bodies](https://www.wired.com/story/social-media-ai-dead-bodies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

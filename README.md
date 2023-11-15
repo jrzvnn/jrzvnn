@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)
+ - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)
  - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
  - [Best Solar Panel Installation Companies in North Carolina     - CNET](https://www.cnet.com/home/energy-and-utilities/north-carolina-solar-panels/#ftag=CAD590a51e)
- - [You&#39;re Not Doing Enough to Stop Porch Pirates. Here&#39;s How to Keep Your Packages Safe     - CNET](https://www.cnet.com/personal-finance/porch-theft-online-purchases-survey/#ftag=CAD590a51e)
- - [2024 IRS Tax Changes May Make Your Paycheck Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/taxes/2024-irs-tax-changes-may-make-your-paycheck-bigger-next-year/#ftag=CAD590a51e)
- - [Epic v. Google: Sundar Pichai confirms Google paid Apple 36% of the search revenue generated on iPhones, saying the total payment &quot;was well over $10B&quot; in 2022 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231114/p40#a231114p40)<!-- TECH:END -->
+ - [You&#39;re Not Doing Enough to Stop Porch Pirates. Here&#39;s How to Keep Your Packages Safe     - CNET](https://www.cnet.com/personal-finance/porch-theft-online-purchases-survey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

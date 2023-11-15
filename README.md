@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 💣 [Another one bites the dust](http://9gag.com/gag/a9q05jL)
  - 😝 [Cap?](http://9gag.com/gag/aeQwOdO)
- - 👉 [Feminist we love you](http://9gag.com/gag/az2wPZp)<!-- MEMES:END -->
+ - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - 💣 [9 years old afghan girl was married off to a 50 year old man. Her screams are the only thing to describe the pain and fear in her heart. This is sharia law.](http://9gag.com/gag/a3ZryK3)
+ - 😝 [Always a dinner option](http://9gag.com/gag/aVb5opM)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

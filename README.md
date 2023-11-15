@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How volunteer social media communities, like 39K-member Facebook group Thee Unidentified &amp; Unsolved, are now using AI to help identify deceased people in the US &lpar;Deidre Olsen/Wired&rpar;](http://www.techmeme.com/231115/p15#a231115p15)
- - [The incredible shrinking heat pump](https://www.theverge.com/23951214/heat-pump-nycha-public-housing-electric-sustainable)
- - [visionOS beta 6 adds Persona Enrollment setup video](https://appleinsider.com/articles/23/11/15/visionos-beta-6-adds-persona-enrollment-setup-video?utm_medium=rss)
- - [Uber failed to help cities go green — will robotaxis, too?](https://www.theverge.com/23948675/uber-lyft-cruise-robotaxi-pollution-autonomous-vehicles)
- - [Helen Dixon, Ireland&#39;s data protection commissioner, plans to leave on February 19 after ~10 years; GDPR transformed the DPC into the EU&#39;s top tech regulator &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231115/p14#a231115p14)<!-- TECH:END -->
+ - [Meta calls for legislation to require app stores to get parental approval for kids age 13 to 15 to download apps, pushing for a bigger role for Google and Apple &lpar;Washington Post&rpar;](http://www.techmeme.com/231115/p17#a231115p17)
+ - [Snapchat and NYX launch new beauty filter that’s also a stealth shopping tool](https://www.theverge.com/2023/11/15/23962092/snapchat-beauty-bestie-ar-filter-nyx-makeup-shop-online)
+ - [Google Maps announces updates, including improved transit directions for &quot;lowest cost&quot;, &quot;less walking&quot;, and more, emoji reactions, and collaborative lists &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231115/p16#a231115p16)
+ - [Eureka E10S review: an ideal solution for everyday cleaning](https://appleinsider.com/articles/23/11/15/eureka-e10s-review-an-ideal-solution-for-everyday-cleaning?utm_medium=rss)
+ - [Ray-Ban Meta Smart Glasses Review: Fine Audio and Video, Privacy Issues](https://www.wired.com/review/review-ray-ban-meta-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

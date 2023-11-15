@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
- - 😝 [8.5](http://9gag.com/gag/amAwmqv)
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
+ - 😝 [Killary Hellintone](http://9gag.com/gag/aQE5AM7)
+ - 😝 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 💣 [True, true](http://9gag.com/gag/aREdzOA)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
 
 ---
 

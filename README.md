@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple extends free usage of Emergency SOS on iPhone 14 for two more years, to September 2025; the company has not yet announced how much Emergency SOS will cost &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/231115/p8#a231115p8)
  - [An in-depth look at how platforms like Shein, Pinduoduo-owned Temu, and TikTok Shop are heralding a new era for Chinese e-commerce by expanding overseas &lpar;Rest of World&rpar;](http://www.techmeme.com/231115/p7#a231115p7)
  - [A profile of Holly Herndon, an artist and musician who uses AI in her work and has co-founded Spawning, a company to build a &quot;consent layer for AI&quot; for artists &lpar;Anna Wiener/New Yorker&rpar;](http://www.techmeme.com/231115/p6#a231115p6)
  - [This Turntable Is the Perfect Pick for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)
- - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)
- - [Why I’m &lpar;Cautiously&rpar; Optimistic About COP28](https://www.wired.com/story/wired-impact-hannah-ritchie-cop28-optimism-pessimism/)<!-- TECH:END -->
+ - [Three young hackers behind Mirai talk about building the DDoS botnet, losing control of their monster, their work for the FBI as part of a plea deal, and more &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231115/p5#a231115p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

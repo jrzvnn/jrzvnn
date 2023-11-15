@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [Cap?](http://9gag.com/gag/aeQwOdO)
- - 💣 [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
  - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

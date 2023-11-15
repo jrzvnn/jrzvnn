@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 😝 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 😝 [Spitting facts](http://9gag.com/gag/a8qODbQ)
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 💣 [Bring back shame](http://9gag.com/gag/ap9wbw8)
+ - 😝 [Al-Jazeera Shocked by female Arab Psychiatrist Wafa Sultan slamming Islamists all over the world over their `Middle Ages Mentality`. She tells Islamists that their violence is never justified, no matter how much they use their victim card as an excuse.](http://9gag.com/gag/a3ZrW7N)
+ - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---
 

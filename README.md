@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; and &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
  - [Epic v. Google: Sundar Pichai confirms Google paid Apple 36% of the search revenue generated on iPhones, saying the total payment &quot;was well over $10B&quot; in 2022 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231114/p40#a231114p40)
  - [Japan to require companies like Apple to pay taxes in place of developers](https://appleinsider.com/articles/23/11/15/japan-to-require-companies-like-apple-to-pay-taxes-in-place-of-developers?utm_medium=rss)
  - [Japan proposes making Apple, Google, and other app store operators responsible for paying consumption taxes on content sold by foreign developers &lpar;Ko Fujioka/Nikkei Asia&rpar;](http://www.techmeme.com/231114/p39#a231114p39)
- - [Intel patches a bug affecting virtually all modern Intel CPUs that allows code running inside a VM to crash hypervisors, a risk to cloud providers in particular &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231114/p38#a231114p38)
- - [Black Friday Ads: Shop and Preview Early Deals at Best Buy, Walmart, B&amp;H and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-ad-scans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel patches a bug affecting virtually all modern Intel CPUs that allows code running inside a VM to crash hypervisors, a risk to cloud providers in particular &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231114/p38#a231114p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

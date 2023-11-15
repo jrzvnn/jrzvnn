@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Mudd . He is my best friend. And tomorrow is my Last day with my best friend ever. For 16 years he was by my side and now I have to let him go to. Please be kind fellow degenerates . I just want his spirit to live on in the place I go to escape. I Love you Muddmuffin.](http://9gag.com/gag/a4oyNgA)
- - 😝 [Spitting facts](http://9gag.com/gag/a8qODbQ)
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [It\u2019s funny cause it\u2019s true](http://9gag.com/gag/a4oyAX6)
+ - 😝 [Feminist we love you](http://9gag.com/gag/az2wPZp)
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 😝 [Cap?](http://9gag.com/gag/aeQwOdO)
  - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---

@@ -146,7 +146,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [A study found that AI-generated photos of faces, particularly white faces, were perceived as more real by survey participants than photos of actual people &lpar;Nicola Davis/The Guardian&rpar;](http://www.techmeme.com/231115/p3#a231115p3)
  - [Huawei and China Mobile have built a 3,000 km network that they claim is the world&#39;s first internet network to achieve a &quot;stable and reliable&quot; 1.2Tbps bandwidth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p2#a231115p2)
  - [Sam Altman says OpenAI is pausing new ChatGPT Plus signups &quot;for a bit&quot; as &quot;the surge in usage post devday has exceeded our capacity&quot; &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231115/p1#a231115p1)
- - [Best Solar Panel Installation Companies in North Carolina     - CNET](https://www.cnet.com/home/energy-and-utilities/north-carolina-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cricket World Cup 2023 Semifinal Livestream: How to Watch India vs. New Zealand From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-semifinal-livestream-how-to-watch-india-vs-new-zealand-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

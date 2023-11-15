@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent president Martin Lau says the company stockpiled Nvidia chips to develop Hunyuan &quot;for at least a couple more&quot; versions and seeks a local chip supplier &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231115/p24#a231115p24)
- - [Sources: SpaceX is discussing an IPO for Starlink as soon as late 2024; a source says SpaceX has been moving Starlink assets to a new subsidiary &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p23#a231115p23)
- - [The QAnon Shaman Isn’t Even the Most Extreme Candidate in His Race for Congress](https://www.wired.com/story/qanon-shaman-runs-for-office/)
- - [Apple’s new iMac and MacBook Pros are matching their all-time low prices](https://www.theverge.com/2023/11/15/23960566/apple-m3-macbook-pro-imac-sony-inzone-gaming-headset-deal-sale)
- - [Daily deals Nov. 15: Apple TV $79, 32% off Magic Keyboard Folio, Apple accessories from $9.99, 68% off HTC VR headset, more](https://appleinsider.com/articles/23/11/15/daily-deals-nov-15-apple-tv-79-32-off-magic-keyboard-folio-apple-accessories-from-999-68-off-htc-vr-headset-more?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft announces the Maia 100 chip for Azure users, already in testing with its Bing and Office AI tools, and Cobalt, a chip for servers, launching in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231115/p25#a231115p25)
+ - [Microsoft’s planning tools will soon be less confusing](https://www.theverge.com/2023/11/15/23962052/microsoft-planner-task-management-announcement-date-ignite)
+ - [Google’s new Photos features try to declutter your library](https://www.theverge.com/2023/11/15/23961948/google-photos-stacks-shortcut-calendar-entry-documents-categorization)
+ - [Microsoft Teams’ latest AI trick cleans and decorates your messy webcam background](https://www.theverge.com/2023/11/15/23961943/microsoft-teams-ai-decorate-background-voice-isolation)
+ - [The first Qi2-certified devices are about to arrive](https://www.theverge.com/2023/11/15/23961310/qi2-magnetic-wireless-charging-open-standard-certification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

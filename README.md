@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel patches a bug affecting virtually all modern Intel CPUs that allows code running inside a VM to crash hypervisors, a risk to cloud providers in particular &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231114/p38#a231114p38)
  - [Best early Black Friday MacBook deals you can shop right now](https://appleinsider.com/articles/23/11/15/best-early-black-friday-macbook-deals-you-can-shop-right-now?utm_medium=rss)
  - [Cruise says it will pause all supervised and manual car trips in the US while it undergoes a full safety review and that it will hire an outside safety expert &lpar;Reuters&rpar;](http://www.techmeme.com/231114/p37#a231114p37)
  - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)
- - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

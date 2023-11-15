@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 💣 [1 year ago TODAY I released my gladiator game. 9GAG was one of the main reasons it blew up. Today, I QUITmy job, am a real game dev and have a small team to help work on cool updates. Thank you. &lpar;more info in comments&rpar;](http://9gag.com/gag/aeQwm5m)
- - 😝 [3 gentleman, 0 words](http://9gag.com/gag/aREd2VM)
- - 👉 [The Riddler](http://9gag.com/gag/aA05Xeo)<!-- MEMES:END -->
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [8.5](http://9gag.com/gag/amAwmqv)
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI dismantled the IPStorm botnet proxy network and its infrastructure as part of a September plea deal with Sergei Makinin, the hacker behind the operation &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231114/p36#a231114p36)
  - [YouTube’s non-solution for AI podcasts](https://www.theverge.com/2023/11/14/23961391/youtube-ai-podcast-israel-gaza-tosh-iheart)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Best Black Friday iPad Deals: Save Up to $80 on Your New iPad Air, Pro and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in the Bronx, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
- - [Nothing Chats Aims to Bring iMessage to Android, but It Sounds Messy     - CNET](https://www.cnet.com/tech/mobile/nothing-chats-claims-to-bring-imessage-to-android-but-it-sounds-messy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in the Bronx, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Killary Hellintone](http://9gag.com/gag/aQE5AM7)
- - 😝 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 💣 [True, true](http://9gag.com/gag/aREdzOA)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 👉 [The oldest occupation in the history of mankind is illegal in ccp. every once in a while they do a crackdown](http://9gag.com/gag/aQE57G8)<!-- MEMES:END -->
+ - 😝 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 💣 [Spitting facts](http://9gag.com/gag/a8qODbQ)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [Free junk food](http://9gag.com/gag/aREd225)<!-- MEMES:END -->
 
 ---
 

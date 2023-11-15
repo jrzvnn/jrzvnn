@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Be My Eyes, an app for blind people, says Microsoft plans to integrate its Be My AI into the Microsoft Disability Answer Desk for customer service calls &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/231115/p18#a231115p18)
- - [WhatsApp for Android will again use Google Drive space for backups](https://www.theverge.com/2023/11/15/23962056/whatsapp-android-backup-google-drive-free-cloud-storage)
- - [Aqara’s new camera is one of the cheapest HomeKit cameras you can buy](https://www.theverge.com/2023/11/15/23960934/aqara-camera-e1-cheap-homekit-secure-video-apple)
- - [Amazon’s new security robot is kind of cute](https://www.theverge.com/2023/11/15/23960524/amazon-security-robot-astro-business)
- - [How to locate an Apple TV remote in iOS 17](https://appleinsider.com/inside/apple-tv/tips/how-to-locate-an-apple-tv-remote-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [PitchBook: Coinbase Ventures, Kraken Ventures, and Binance Labs significantly cut dealmaking since Q1 2022; Coinbase did 11 deals in Q3, down from 65 in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/231115/p20#a231115p20)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
+ - [5 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [Google is going to let you annotate search results](https://www.theverge.com/2023/11/15/23961289/google-search-labs-notes-following-perspectives)
+ - [Amazon announces Astro for Business, letting SMBs buy its Alexa-powered Astro security robot for $2,350 per unit for sites no larger than 5,000 square feet &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/231115/p19#a231115p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comixology officially shelved in December as inferior Kindle service takes over](https://appleinsider.com/articles/23/11/15/comixology-officially-shelved-in-december-as-inferior-kindle-service-takes-over?utm_medium=rss)
+ - [Pew: 30% of US adults say they regularly get news from Facebook, 26% say YouTube; 16%, Instagram; 14%, TikTok; 12%, X; 8%, Reddit; and 5%, Nextdoor and LinkedIn &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/231115/p46#a231115p46)
  - [Eligible Apple Music subscribers get up to six months free on PlayStation 5](https://appleinsider.com/articles/23/11/15/eligible-apple-music-subscribers-get-up-to-six-months-free-on-playstation-5?utm_medium=rss)
  - [Sonos teases a major new product coming next year](https://www.theverge.com/2023/11/15/23962936/sonos-major-new-product-coming-2024-tease)
- - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)
- - [Cisco reports Q1 revenue up 8% YoY to $14.7B, vs. $14.6B est., net income up 36% YoY to $3.6B, and forecasts Q2 revenue far short of estimates; CSCO drops 10%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231115/p45#a231115p45)
- - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)<!-- TECH:END -->
+ - [13 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home, Toys, and Games](https://www.wired.com/story/best-target-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

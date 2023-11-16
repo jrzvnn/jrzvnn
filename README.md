@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Drive is shutting down, but user files are now in Amazon Photos](https://appleinsider.com/articles/23/11/16/amazon-drive-is-shutting-down-but-user-files-are-now-in-amazon-photos?utm_medium=rss)
  - [Apple’s Pledge to Support RCS Messaging Could Finally Kill SMS](https://www.wired.com/story/apple-adding-support-for-rcs-could-kill-sms/)
  - [31 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)
  - [Bluesky plans to release a public web interface around the end of November and launch federation in early 2024, and says it crossed 2M users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231116/p48#a231116p48)
- - [TikTok is ‘aggressively removing’ videos promoting an Osama bin Laden manifesto](https://www.theverge.com/2023/11/16/23964390/tiktok-osama-bin-laden-letter-to-america-deleting)
- - [Google’s revised Chrome extension standard loosens restrictions on ad blockers](https://www.theverge.com/2023/11/16/23964509/google-manifest-v3-rollout-ad-blockers)<!-- TECH:END -->
+ - [TikTok is ‘aggressively removing’ videos promoting an Osama bin Laden manifesto](https://www.theverge.com/2023/11/16/23964390/tiktok-osama-bin-laden-letter-to-america-deleting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

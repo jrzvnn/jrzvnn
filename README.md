@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Threat Analysis Group discovers and helps patch a Zimbra email server flaw used to steal data from governments in Greece, Moldova, and elsewhere &lpar;Katie Malone/Engadget&rpar;](http://www.techmeme.com/231116/p30#a231116p30)
+ - [Taylor Swift fans used record amounts of data during the Eras Tour in North America](https://www.theverge.com/2023/11/16/23949041/taylor-swift-eras-tour-mobile-data-usage-att)
  - [iPhone 15 owners are having wireless charging issues in GM vehicles, too](https://www.theverge.com/2023/11/16/23963780/iphone-15-wireless-charging-gm-chevy-buick-cadillac)
  - [Nvidia releases a new update for its GeForce Now app that introduces Game Syncing with the Microsoft Store, PC Game Pass, and Ubisoft+ &lpar;Laurent Giret/Thurrott&rpar;](http://www.techmeme.com/231116/p29#a231116p29)
- - [13 Best Home Depot Black Friday Deals &lpar;2023&rpar;: Smart Home, Outdoor Grills, Garage Tools](https://www.wired.com/story/best-home-depot-black-friday-deals-2023/)
- - [I know what Disney Plus with Hulu will look like, because I live in Canada](https://www.theverge.com/23962525/disney-plus-hulu-star-bundle)
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and So Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Home Depot Black Friday Deals &lpar;2023&rpar;: Smart Home, Outdoor Grills, Garage Tools](https://www.wired.com/story/best-home-depot-black-friday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

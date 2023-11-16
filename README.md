@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
- - 😝 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
- - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 👉 [Happy Wednesday folks!](http://9gag.com/gag/a5X32gL)<!-- MEMES:END -->
+ - 😝 [We know](http://9gag.com/gag/a7qXVQq)
+ - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
+ - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 

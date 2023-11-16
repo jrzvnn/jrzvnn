@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)
+ - [US Congress Report Calls for Privacy Reforms After FBI Surveillance &#39;Abuses&#39;](https://www.wired.com/story/house-intellligence-section-702-reform/)
  - [Jonathan Camrose, the UK&#39;s first minister for AI and IP, says the country does not plan to regulate the AI industry &quot;in the short term&quot; to let the sector grow &lpar;Daria Mosolova/Financial Times&rpar;](http://www.techmeme.com/231116/p33#a231116p33)
  - [In a first, the Signal Foundation publishes Signal&#39;s operating costs: ~$40M in 2023, projected to hit $50M by 2025, with $14M per year going to infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231116/p32#a231116p32)
- - [Save Up to $600 Off LG Washing Machines This Black Friday     - CNET](https://www.cnet.com/deals/save-up-to-600-off-lg-washing-machines-this-black-friday/#ftag=CAD590a51e)
- - [COLORWAY 750W Electric Bike     - CNET](https://www.cnet.com/tech/colorway-750w-electric-bike-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $600 Off LG Washing Machines This Black Friday     - CNET](https://www.cnet.com/deals/save-up-to-600-off-lg-washing-machines-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

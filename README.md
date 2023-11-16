@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [When you love Subway](http://9gag.com/gag/a6q6Gqq)<!-- MEMES:END -->
+ - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 💣 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 👉 [Chaos in comments](http://9gag.com/gag/aPg2e7P)<!-- MEMES:END -->
 
 ---
 

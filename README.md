@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)
  - [Daily deals Nov. 16: iPad 9th Generation $249, 41% off Apple TV Siri Remote, Dyson V8 Origin Plus Cordless Vacuum for $249, more](https://appleinsider.com/articles/23/11/16/daily-deals-nov-16-ipad-9th-generation-249-41-off-apple-tv-siri-remote-dyson-v8-origin-plus-cordless-vacuum-for-249-more?utm_medium=rss)
  - [YouTube updates its guidelines to allow monetization on videos that display nudity while breastfeeding, non-sexually graphic dancing, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231116/p44#a231116p44)
  - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)
- - [Made In Cookware Is Highly Giftable, and It&#39;s Already on Sale for Black Friday     - CNET](https://www.cnet.com/deals/made-in-cookware-sale-black-friday-2023/#ftag=CAD590a51e)
- - [Sources: Apple may again postpone releasing its own iPhone modem chip, until at least late 2025 or early 2026, the final year of its extended Qualcomm contract &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231116/p43#a231116p43)<!-- TECH:END -->
+ - [Made In Cookware Is Highly Giftable, and It&#39;s Already on Sale for Black Friday     - CNET](https://www.cnet.com/deals/made-in-cookware-sale-black-friday-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

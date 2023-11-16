@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)
+ - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)
+ - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)
  - [Common Sense Media&#39;s first ratings for ten AI chatbots and services warn parents that Snapchat&#39;s MyAI, Dall-E 2, and Stable Diffusion may not be safe for kids &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231116/p10#a231116p10)
- - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)
- - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)
- - [Human smugglers are using Facebook, Instagram, Snapchat, TikTok, and WhatsApp to recruit a new generation of coyotes to transport migrants from Mexico to the US &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/231116/p8#a231116p8)
- - [Some companies providing Microsoft, Google, and others with AI data-labeling services are inadvertently hiring minors, often exposing them to traumatic content &lpar;Niamh Rowe/Wired&rpar;](http://www.techmeme.com/231116/p7#a231116p7)<!-- TECH:END -->
+ - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

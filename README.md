@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We know](http://9gag.com/gag/a7qXVQq)
- - 😝 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 💣 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Good](http://9gag.com/gag/aNw5BYG)
- - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
+ - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
 
 ---
 

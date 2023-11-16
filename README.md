@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
- - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 👉 [Happy Wednesday folks!](http://9gag.com/gag/a5X32gL)<!-- MEMES:END -->
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 😝 [Memphis, Tennessee](http://9gag.com/gag/a9q080D)
+ - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - 👉 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)<!-- MEMES:END -->
 
 ---
 

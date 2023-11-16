@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro 14-inch M3 Pro review: More for Intel Mac migration than annual upgraders](https://appleinsider.com/articles/23/11/16/macbook-pro-14-inch-m3-pro-review-more-for-intel-mac-migration-than-annual-upgraders?utm_medium=rss)
  - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
  - [TikTok says it is removing videos promoting Osama Bin Laden&#39;s justification for the 9/11 attack but calls reports of the videos going viral &quot;inaccurate&quot; &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/231116/p39#a231116p39)
  - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
- - [Amazon plans to let US auto dealers sell new vehicles on its platform, starting in 2024 with Hyundai, which will include Alexa in its cars from 2025 &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/231116/p38#a231116p38)
- - [Valve’s Steam Deck OLED store is broken](https://www.theverge.com/2023/11/16/23964198/steam-deck-oled-order-broken-checkout-issues)<!-- TECH:END -->
+ - [Amazon plans to let US auto dealers sell new vehicles on its platform, starting in 2024 with Hyundai, which will include Alexa in its cars beginning in 2025 &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/231116/p38#a231116p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

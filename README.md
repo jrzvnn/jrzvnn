@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We know](http://9gag.com/gag/a7qXVQq)
- - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
- - 💣 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
+ - 😝 [Good](http://9gag.com/gag/aNw5BYG)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
+ - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
 
 ---
 

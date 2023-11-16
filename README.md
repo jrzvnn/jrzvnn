@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Common Sense Media&#39;s first ratings for ten AI chatbots and services warn parents that Snapchat&#39;s MyAI, Dall-E 2, and Stable Diffusion may not be safe for kids &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231116/p10#a231116p10)
  - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)
  - [Spotify’s podcast and audiobook discovery will get a boost from Google Cloud’s AI](https://www.theverge.com/2023/11/16/23963112/spotify-podcast-audiobook-discovery-personalized-recommendations-google-cloud-ai)
  - [Human smugglers are using Facebook, Instagram, Snapchat, TikTok, and WhatsApp to recruit a new generation of coyotes to transport migrants from Mexico to the US &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/231116/p8#a231116p8)
- - [Some companies providing Microsoft, Google, and others with AI data-labeling services are inadvertently hiring minors, often exposing them to traumatic content &lpar;Niamh Rowe/Wired&rpar;](http://www.techmeme.com/231116/p7#a231116p7)
- - [GitGuardian: nearly 3K of the 450K projects submitted to PyPI exposed at least one credential in code, like API keys, including some from &quot;very large companies&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231116/p6#a231116p6)<!-- TECH:END -->
+ - [Some companies providing Microsoft, Google, and others with AI data-labeling services are inadvertently hiring minors, often exposing them to traumatic content &lpar;Niamh Rowe/Wired&rpar;](http://www.techmeme.com/231116/p7#a231116p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

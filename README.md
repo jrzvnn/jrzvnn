@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: Amazon backs three advocacy groups working to thwart Microsoft&#39;s government cloud contracts; an Amazon executive wrote a public FTC comment &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/231116/p24#a231116p24)
+ - [Apple Music Classical for the iPad is here](https://www.theverge.com/2023/11/16/23963659/apple-music-classical-available-ipads)
  - [Soon, you&#39;ll be able to stream Windows through a Microsoft app on iPad, Mac, and iPhone](https://appleinsider.com/articles/23/11/16/soon-youll-be-able-to-stream-windows-through-a-microsoft-app-on-ipad-mac-and-iphone?utm_medium=rss)
  - [16 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
- - [UPS announces a new $79M, 20-acre facility near Louisville, set to be staffed by over 3,000 robots handling manual tasks and around 200 human workers in 2024 &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/231116/p23#a231116p23)
- - [The house that climate change built](https://www.theverge.com/23951223/housing-climate-change-zoning-nimby-sustainable-design)
- - [Source: ByteDance&#39;s Douyin tests letting creators with 100K+ followers add paywalls to their videos; local Chinese media reports Douyin takes a 30% cut &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p22#a231116p22)<!-- TECH:END -->
+ - [UPS announces a new $79M, 20-acre facility near Louisville, set to be staffed by over 3,000 robots handling manual tasks and around 200 human workers in 2024 &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/231116/p23#a231116p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

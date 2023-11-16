@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Muslim Immigrants patrolling street in France with AK-47s.](http://9gag.com/gag/aME5zyP)
- - 💣 [When Zeus chooses you](http://9gag.com/gag/a4oyqWm)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 👉 [Chaos in comments](http://9gag.com/gag/aPg2e7P)<!-- MEMES:END -->
+ - 😝 [All wearing gloves, no bare feet or hands, no one putting ladders into the pot and climbing down...this is how you mass cook food india](http://9gag.com/gag/a7qXp4z)
+ - 💣 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
+ - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 👉 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)<!-- MEMES:END -->
 
 ---
 

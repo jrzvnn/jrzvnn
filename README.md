@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple UK launches Wallet&#39;s Connected Cards feature](https://appleinsider.com/articles/23/11/16/apple-uk-launches-wallets-connected-cards-feature?utm_medium=rss)
  - [Synopsys, one of the largest chip design software makers, partners with Microsoft to build a Copilot to help with early chip designs using its vast data trove &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/231116/p15#a231116p15)
  - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)
  - [Apple releases Apple Music Classical on iPad as part of a v1.1 update, the first major update to the app after its release in spring 2023 on iPhone &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/231116/p14#a231116p14)
- - [Social Security COLA Increase: More Money Is Coming Your Way in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-cola-increase-more-money-is-coming-your-way-in-2024/#ftag=CAD590a51e)
- - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security COLA Increase: More Money Is Coming Your Way in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-cola-increase-more-money-is-coming-your-way-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

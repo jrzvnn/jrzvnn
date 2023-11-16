@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proton Mail CEO Andy Yen announces Key Transparency, a blockchain-based tool build on Proton&#39;s private chain to verify email addresses, in beta &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231116/p21#a231116p21)
+ - [Google&#39;s Search Generative Experience adds shopping tools to help find niche or unique items and expands virtual try-ons to men&#39;s tops from hundreds of brands &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231116/p20#a231116p20)
  - [Microsoft launches a Windows App on iOS, iPadOS, macOS, Windows, and the web, letting enterprise customers stream a copy of Windows, available in preview &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231116/p19#a231116p19)
  - [Alibaba filing: Jack Ma&#39;s family trust plans to sell 10M American Depository Shares of Alibaba for around $871M; BABA drops 8%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231116/p18#a231116p18)
- - [Alibaba reports Q2 revenue up 9% YoY to ~$31B, beating ~$30.9B est., a ~$3.8B net income, up from a ~$3B loss in Q2 2022, and calls off its cloud spinoff &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231116/p17#a231116p17)
- - [Dr. Alison Todd’s Inventions May Save Your Life](https://www.wired.com/story/women-in-science-alison-todd/)
- - [How to Opt Out of Facebook’s Latest Two-Factor Authentication Change](https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/)<!-- TECH:END -->
+ - [Alibaba reports Q2 revenue up 9% YoY to ~$31B, beating ~$30.9B est., a ~$3.8B net income, up from a ~$3B loss in Q2 2022, and calls off its cloud spinoff &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231116/p17#a231116p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,10 +142,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Chinese imports of chip manufacturing equipment rose 93% YoY to $8.7B in Q3 2023 and imports of lithography equipment from the Netherlands jumped 6x &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p3#a231116p3)
  - [Lenovo reports Q2 revenue down 16% YoY to $14.4B, meeting estimates but marking the fifth straight quarterly sales decline, net income down 60% YoY to $249M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p2#a231116p2)
  - [Google News is ending support for paid magazines starting December 18 and says users will be able to export copies of paid magazines before the shutdown &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231116/p1#a231116p1)
  - [Parental Advisory: This Chatbot May Talk to Your Child About Sex and Alcohol](https://www.wired.com/story/parental-advisory-chatbots-children-sex-and-alcohol/)
- - [Why Sleeping More Will Help Combat Fatigue and Burnout     - CNET](https://www.cnet.com/health/sleep/why-sleeping-more-will-help-combat-fatigue-and-burnout/#ftag=CAD590a51e)
  - [YouTube Shorts Challenges TikTok With Music-Making AI for Creators](https://www.wired.com/story/youtube-shorts-challenges-tiktok-with-music-making-ai-for-creators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

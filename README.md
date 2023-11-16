@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 😝 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
- - 💣 [Owned](http://9gag.com/gag/az2w4zz)
- - 😝 [Satisfying pressure sensitive coffee table. Leave sound off](http://9gag.com/gag/armw23y)
- - 👉 [Starting chemotherapy today. Hope I can still he around to suck dick for another 10 years](http://9gag.com/gag/aoKwYqx)<!-- MEMES:END -->
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
 
 ---
 

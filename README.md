@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The catalyst of my obsession with post apocalyptic film &amp; tv.](http://9gag.com/gag/abvwBmX)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
  - 😝 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 💣 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 👉 [Chaos in comments](http://9gag.com/gag/aPg2e7P)<!-- MEMES:END -->
+ - 💣 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
+ - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---
 

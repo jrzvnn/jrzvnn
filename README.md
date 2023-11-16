@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s GeForce Now gets support for PC Game Pass with Xbox account syncing](https://www.theverge.com/2023/11/16/23963718/nvidia-geforce-now-pc-game-pass-xbox-account-sync)
- - [Save Up to $60 on Govee Smart Lighting With These Early Black Friday Deals     - CNET](https://www.cnet.com/deals/save-up-to-60-on-govee-smart-lighting-with-these-early-black-friday-deals/#ftag=CAD590a51e)
- - [Investigation: Amazon backs three advocacy groups working to thwart Microsoft&#39;s government cloud contracts; an Amazon executive wrote a public FTC comment &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/231116/p24#a231116p24)
- - [Apple Music Classical for the iPad is here](https://www.theverge.com/2023/11/16/23963659/apple-music-classical-available-ipads)
- - [Soon, you&#39;ll be able to stream Windows through a Microsoft app on iPad, Mac, and iPhone](https://appleinsider.com/articles/23/11/16/soon-youll-be-able-to-stream-windows-through-a-microsoft-app-on-ipad-mac-and-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
+ - [How to Pick the Best Roku Device &lpar;2023&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Fitbit Charge 6 review: practically a Pixel band](https://www.theverge.com/23958997/fitbit-charge-6-review-fitness-tracker-side-button)
+ - [Barnes &amp; Noble is ending support for older Nook e-readers](https://www.theverge.com/2023/11/16/23963663/barnes-and-noble-nook-old-models-support-store-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

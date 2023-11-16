@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and So Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Advent International acquires myPOS, a UK-based payments services provider for small merchants; sources: the deal is expected to value myPOS at around &amp;euro;500M &lpar;Amy-Jo Crowley/Reuters&rpar;](http://www.techmeme.com/231116/p28#a231116p28)
- - [Compare Electricity Rates in Ohio     - CNET](https://www.cnet.com/how-to/electricity-rates-ohio/#ftag=CAD590a51e)
- - [Save Up to $500 on Garmin Fitness Tech at Wellbots&#39; Black Friday Sale     - CNET](https://www.cnet.com/deals/save-up-to-500-on-garmin-fitness-tech-at-wellbots-black-friday-sale/#ftag=CAD590a51e)
- - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 owners are having wireless charging issues in GM vehicles, too](https://www.theverge.com/2023/11/16/23963780/iphone-15-wireless-charging-gm-chevy-buick-cadillac)
+ - [Nvidia releases a new update for its GeForce Now app that introduces Game Syncing with the Microsoft Store, PC Game Pass, and Ubisoft+ &lpar;Laurent Giret/Thurrott&rpar;](http://www.techmeme.com/231116/p29#a231116p29)
+ - [13 Best Home Depot Black Friday Deals &lpar;2023&rpar;: Smart Home, Outdoor Grills, Garage Tools](https://www.wired.com/story/best-home-depot-black-friday-deals-2023/)
+ - [I know what Disney Plus with Hulu will look like, because I live in Canada](https://www.theverge.com/23962525/disney-plus-hulu-star-bundle)
+ - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and So Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

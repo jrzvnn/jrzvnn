@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC: China-based Transsion, the largest smartphone manufacturer by sales in Africa, shipped 26M smartphones in Q3 2023, up 35% YoY, for a 8.6% global share &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p5#a231116p5)
  - [YouTube will let some Shorts creators test Dream Track, a new AI tool that can generate and remix music in the styles of seven different artists, including Sia &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231116/p4#a231116p4)
  - [Analysis: Chinese imports of chip manufacturing equipment rose 93% YoY to $8.7B in Q3 2023 and imports of lithography equipment from the Netherlands jumped 6x &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p3#a231116p3)
  - [Lenovo reports Q2 revenue down 16% YoY to $14.4B, meeting estimates but marking the fifth straight quarterly sales decline, net income down 60% YoY to $249M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p2#a231116p2)
- - [Google News is ending support for paid magazines starting December 18 and says users will be able to export copies of paid magazines before the shutdown &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231116/p1#a231116p1)
- - [Parental Advisory: This Chatbot May Talk to Your Child About Sex and Alcohol](https://www.wired.com/story/parental-advisory-chatbots-children-sex-and-alcohol/)<!-- TECH:END -->
+ - [Google News is ending support for paid magazines starting December 18 and says users will be able to export copies of paid magazines before the shutdown &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231116/p1#a231116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

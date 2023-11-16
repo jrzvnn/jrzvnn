@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spectrum\u2026](http://9gag.com/gag/az2wYgz)
- - 😝 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
- - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 👉 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)<!-- MEMES:END -->
+ - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
+ - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---
 

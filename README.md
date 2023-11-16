@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)
  - [Embracer reports Q2 net sales up 13% YoY to ~$1B, layoffs impacted 900 employees, or 5% of its workforce, and 36 fewer games are in development than Q2 2022 &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/231116/p13#a231116p13)
  - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
  - [At its conference, Unity says the company plans to launch Unity 6 in 2024, details Unity Muse, an AI suite for content creation, and announces Unity Cloud &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231116/p12#a231116p12)
- - [YouTube teases AI tool that clones famous singers — with their permission](https://www.theverge.com/2023/11/16/23963570/youtube-generative-ai-dream-track-music-tools-voice-clone)
- - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)<!-- TECH:END -->
+ - [YouTube teases AI tool that clones famous singers — with their permission](https://www.theverge.com/2023/11/16/23963570/youtube-generative-ai-dream-track-music-tools-voice-clone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 💣 [That\u2019s cool](http://9gag.com/gag/ajVwZqg)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
+ - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 😝 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
+ - 💣 [Owned](http://9gag.com/gag/az2w4zz)
+ - 😝 [Satisfying pressure sensitive coffee table. Leave sound off](http://9gag.com/gag/armw23y)
+ - 👉 [Starting chemotherapy today. Hope I can still he around to suck dick for another 10 years](http://9gag.com/gag/aoKwYqx)<!-- MEMES:END -->
 
 ---
 

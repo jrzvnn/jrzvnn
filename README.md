@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Advent Calendars &lpar;2023&rpar;: Lego, Bonne Maman, Lush](https://www.wired.com/gallery/best-advent-calendars/)
- - [Fitbit Charge 6 review: practically a &quot;Pixel band&quot; with good fitness and health features but the side button is haptic and the Fitbit-Google transition is bumpy &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231116/p25#a231116p25)
- - [Apple&#39;s Latest M3 MacBook Pros Are Already Up to $200 Off Ahead of Black Friday     - CNET](https://www.cnet.com/deals/apples-latest-m3-macbook-pros-are-already-up-to-200-off-ahead-of-black-friday/#ftag=CAD590a51e)
- - [Best Black Friday TV Deals: Save Up to $900 on OLED, 4K and 85-Inch TVs     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
+ - [Sonos fixes its Dolby Atmos loud pop issue after years of complaints](https://www.theverge.com/2023/11/16/23963790/sonos-arc-dolby-atmos-problems-loud-audio-pop-fix-rolling-out)
+ - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)
+ - [Tether plans to spend ~$500M over the next six months to become one of the world&#39;s top Bitcoin miners, after acquiring a 20% stake in Northern Data in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/231116/p26#a231116p26)
+ - [The First Crispr Medicine Just Got Approved](https://www.wired.com/story/crispr-gene-therapy-approved-sickle-cell-casgevy/)
+ - [11 Best Advent Calendars &lpar;2023&rpar;: Lego, Bonne Maman, Lush](https://www.wired.com/gallery/best-advent-calendars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOJ is investigating semiconductor equipment maker Applied Materials for potentially evading export restrictions on China&#39;s top chipmaker SMIC &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231116/p45#a231116p45)
  - [36 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-2/)
  - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)
  - [IBM pulls X ads as Elon Musk endorses white pride](https://www.theverge.com/2023/11/16/23964160/elon-musk-antisemitic-x-post-ibm-ads)
- - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)
- - [Daily deals Nov. 16: iPad 9th Generation $249, 41% off Apple TV Siri Remote, Dyson V8 Origin Plus Cordless Vacuum for $249, more](https://appleinsider.com/articles/23/11/16/daily-deals-nov-16-ipad-9th-generation-249-41-off-apple-tv-siri-remote-dyson-v8-origin-plus-cordless-vacuum-for-249-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
- - 😝 [I&#39;ll wait for GTA 7](http://9gag.com/gag/aA05XnE)
- - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
+ - 😝 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
+ - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
 
 ---
 

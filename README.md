@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
  - [At its conference, Unity says the company plans to launch Unity 6 in 2024, details Unity Muse, an AI suite for content creation, and announces Unity Cloud &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231116/p12#a231116p12)
  - [YouTube teases AI tool that clones famous singers — with their permission](https://www.theverge.com/2023/11/16/23963570/youtube-generative-ai-dream-track-music-tools-voice-clone)
  - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)
- - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)
- - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)<!-- TECH:END -->
+ - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to bring Screen Mirroring back to the Control Center on the iPhone 15 Pro](https://appleinsider.com/inside/ios-17/tips/how-to-bring-screen-mirroring-back-to-the-control-center-on-the-iphone-15-pro?utm_medium=rss)
  - [iPhone 16 to use graphene heat sink to solve overheating issues](https://appleinsider.com/articles/23/11/16/iphone-16-to-use-graphene-heat-sink-to-solve-overheating-issues?utm_medium=rss)
  - [PJ&amp;A, which provides medical transcription services in the US, says a March 2023 cyberattack exposed ~9M patients&#39; SSNs, medical files, and other sensitive data &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231115/p52#a231115p52)
  - [Elon Musk replied &quot;You have said the actual truth&quot; to an X user who, replying to a &quot;Hitler was right&quot; inquiry, accused Jewish groups of &quot;hatred against whites&quot; &lpar;Charisma Madarang/Rolling Stone&rpar;](http://www.techmeme.com/231115/p51#a231115p51)
- - [Bing adds AI-generated captions to some search results, using GPT-4 to analyze a user&#39;s search query and the contents of webpages to create custom snippets &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231115/p50#a231115p50)
- - [Hyundai’s Ioniq 5 N performance EV is coming March 2024](https://www.theverge.com/2023/11/15/23962310/hyundai-ioniq-5-n-perfomance-ev-specs-la-auto-show)<!-- TECH:END -->
+ - [Bing adds AI-generated captions to some search results, using GPT-4 to analyze a user&#39;s search query and the contents of webpages to create custom snippets &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231115/p50#a231115p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky plans to release a public web interface around the end of November and launch federation in early 2024, and says it crossed 2M users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231116/p48#a231116p48)
+ - [TikTok is ‘aggressively removing’ videos promoting an Osama bin Laden manifesto](https://www.theverge.com/2023/11/16/23964390/tiktok-osama-bin-laden-letter-to-america-deleting)
  - [Google’s revised Chrome extension standard loosens restrictions on ad blockers](https://www.theverge.com/2023/11/16/23964509/google-manifest-v3-rollout-ad-blockers)
  - [Google welcomes Apple&#39;s move to adopt RCS](https://appleinsider.com/articles/23/11/16/google-welcomes-apples-move-to-adopt-rcs?utm_medium=rss)
- - [Twitter’s decentralized offshoot Bluesky now has 2 million users](https://www.theverge.com/2023/11/16/23964400/bluesky-public-web-access-federated-2-million-users)
- - [IBM suspends its advertising on X globally after Media Matters said X has been placing ads for IBM, Apple, Oracle, and others alongside pro-Nazi material &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231116/p47#a231116p47)
- - [Using your iPhone to start your car is about to get a lot easier](https://www.theverge.com/2023/11/16/23964379/apple-iphone-digital-key-uwb-ccc-fira-working-group)<!-- TECH:END -->
+ - [Twitter’s decentralized offshoot Bluesky now has 2 million users](https://www.theverge.com/2023/11/16/23964400/bluesky-public-web-access-federated-2-million-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

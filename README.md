@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
  - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [Ice factory](http://9gag.com/gag/aoKwLRw)<!-- MEMES:END -->
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 💣 [Ice factory](http://9gag.com/gag/aoKwLRw)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 

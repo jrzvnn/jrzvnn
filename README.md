@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
  - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [Ice factory](http://9gag.com/gag/aoKwLRw)<!-- MEMES:END -->
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
+ - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
  - [Amazon plans to let US auto dealers sell new vehicles on its platform, starting in 2024 with Hyundai, which will include Alexa in its cars from 2025 &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/231116/p38#a231116p38)
  - [Valve’s Steam Deck OLED store is broken](https://www.theverge.com/2023/11/16/23964198/steam-deck-oled-order-broken-checkout-issues)
  - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
- - [Financial software company MeridianLink confirms a cyberattack after a ransomware gang claimed that it reported the company to SEC for not disclosing the breach &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231116/p37#a231116p37)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Financial software company MeridianLink confirms a cyberattack after a ransomware gang claimed that it reported the company to SEC for not disclosing the breach &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231116/p37#a231116p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

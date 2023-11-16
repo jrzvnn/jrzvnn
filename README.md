@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter’s decentralized offshoot Bluesky now has 2 million users](https://www.theverge.com/2023/11/16/23964400/bluesky-public-web-access-federated-2-million-users)
+ - [IBM suspends its advertising on X globally after Media Matters said X has been placing ads for IBM, Apple, Oracle, and others alongside pro-Nazi material &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231116/p47#a231116p47)
  - [Using your iPhone to start your car is about to get a lot easier](https://www.theverge.com/2023/11/16/23964379/apple-iphone-digital-key-uwb-ccc-fira-working-group)
- - [MediaTek announces a partnership with Meta to develop chips for AR smart glasses; Ray-Ban Meta Smart Glasses are equipped with Qualcomm&#39;s Snapdragon AR1 Gen 1 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231116/p46#a231116p46)
- - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
- - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)
- - [Sources: the US DOJ is investigating semiconductor equipment maker Applied Materials for potentially evading export restrictions on China&#39;s top chipmaker SMIC &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231116/p45#a231116p45)<!-- TECH:END -->
+ - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts/#ftag=CAD590a51e)
+ - [Apple&#39;s Bringing RCS Support to iPhone Next Year     - CNET](https://www.cnet.com/tech/mobile/apple-bringing-rcs-support-to-iphone-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

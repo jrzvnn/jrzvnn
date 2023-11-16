@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UPS announces a new $79M, 20-acre facility near Louisville, set to be staffed by over 3,000 robots handling manual tasks and around 200 human workers in 2024 &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/231116/p23#a231116p23)
+ - [The house that climate change built](https://www.theverge.com/23951223/housing-climate-change-zoning-nimby-sustainable-design)
+ - [Source: ByteDance&#39;s Douyin tests letting creators with 100K+ followers add paywalls to their videos; local Chinese media reports Douyin takes a 30% cut &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p22#a231116p22)
  - [Sony and Apple are giving PS5 owners six free months of Apple Music](https://www.theverge.com/2023/11/16/23963643/apple-music-sony-ps5-six-months-free-streaming-promotion)
- - [15 Gifts for People Who Are Perpetually Cold &lpar;2023&rpar;: Hand Warmers, Blankets, and Space Heaters](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
- - [A Surge in Babies Born With Syphilis Is a Warning Sign](https://www.wired.com/story/a-surge-in-babies-born-with-syphilis-is-a-warning-sign/)
- - [Big Blanket Oversized Blanket Review: Comfortable Oversized Luxury](https://www.wired.com/story/big-blanket-rave/)
- - [Inside Mirai, the Hack that Broke the Internet](https://www.wired.com/story/gadget-lab-podcast-621/)<!-- TECH:END -->
+ - [15 Gifts for People Who Are Perpetually Cold &lpar;2023&rpar;: Hand Warmers, Blankets, and Space Heaters](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

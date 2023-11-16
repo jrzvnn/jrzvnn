@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bing adds AI-generated captions to some search results, using GPT-4 to analyze a user&#39;s search query and the contents of webpages to create custom snippets &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231115/p50#a231115p50)
  - [Hyundai’s Ioniq 5 N performance EV is coming March 2024](https://www.theverge.com/2023/11/15/23962310/hyundai-ioniq-5-n-perfomance-ev-specs-la-auto-show)
  - [Google is going to let teens use Bard, though with some guardrails](https://www.theverge.com/2023/11/15/23963230/google-bard-teens-guardrails)
  - [The Wireless Power Consortium says the first Qi v2.0 devices are arriving in time for the holidays and over 100 are in certification testing or waiting in line &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/231115/p49#a231115p49)
- - [Scalp Massager Set     - CNET](https://www.cnet.com/health/scalp-massager-set-dpnl/#ftag=CAD590a51e)
- - [Rechargeable Flashlight Set     - CNET](https://www.cnet.com/news/rechargeable-flashlight-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scalp Massager Set     - CNET](https://www.cnet.com/health/scalp-massager-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

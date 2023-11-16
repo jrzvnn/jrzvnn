@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
- - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 😝 [Happy Wednesday folks!](http://9gag.com/gag/a5X32gL)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
+ - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [When you love Subway](http://9gag.com/gag/a6q6Gqq)<!-- MEMES:END -->
 
 ---
 

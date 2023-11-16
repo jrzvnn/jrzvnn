@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 💣 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
+ - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
+ - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 ---
 

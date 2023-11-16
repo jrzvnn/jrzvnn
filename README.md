@@ -152,9 +152,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 💣 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
- - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
+ - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
+ - 💣 [That\u2019s cool](http://9gag.com/gag/ajVwZqg)
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
  - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 ---

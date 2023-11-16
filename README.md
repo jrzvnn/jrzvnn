@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess I die](http://9gag.com/gag/az2wRYj)
- - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
  - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [And so he became King of the Norsemen](http://9gag.com/gag/aWG5D7x)
- - 👉 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)<!-- MEMES:END -->
+ - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
+ - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
 
 ---
 

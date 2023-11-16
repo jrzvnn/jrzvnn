@@ -146,7 +146,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The house that climate change built](https://www.theverge.com/23951223/housing-climate-change-zoning-nimby-sustainable-design)
  - [Source: ByteDance&#39;s Douyin tests letting creators with 100K+ followers add paywalls to their videos; local Chinese media reports Douyin takes a 30% cut &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231116/p22#a231116p22)
  - [Sony and Apple are giving PS5 owners six free months of Apple Music](https://www.theverge.com/2023/11/16/23963643/apple-music-sony-ps5-six-months-free-streaming-promotion)
- - [15 Gifts for People Who Are Perpetually Cold &lpar;2023&rpar;: Hand Warmers, Blankets, and Space Heaters](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)<!-- TECH:END -->
+ - [Best Internet Providers in Delaware     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-delaware/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

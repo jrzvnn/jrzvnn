@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/aNw5BYG)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)<!-- MEMES:END -->
+ - 😝 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 💣 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 😝 [I&#39;ll wait for GTA 7](http://9gag.com/gag/aA05XnE)
+ - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
 
 ---
 

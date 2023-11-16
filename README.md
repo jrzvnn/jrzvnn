@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Human smugglers are using Facebook, Instagram, Snapchat, TikTok, and WhatsApp to recruit a new generation of coyotes to transport migrants from Mexico to the US &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/231116/p8#a231116p8)
  - [Companies that provide Microsoft, Google, and others with AI data-labeling services are inadvertently hiring minors, often exposing them to traumatic content &lpar;Niamh Rowe/Wired&rpar;](http://www.techmeme.com/231116/p7#a231116p7)
  - [GitGuardian: nearly 3K of the 450K projects submitted to PyPI exposed at least one credential in code, like API keys, including some from &quot;very large companies&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231116/p6#a231116p6)
  - [Sweden’s Tesla Blockade Is Spreading](https://www.wired.com/story/sweden-tesla-strike-cleaners/)
- - [IDC: China-based Transsion, the largest smartphone manufacturer by sales in Africa, shipped 26M smartphones in Q3 2023, up 35% YoY, for a 8.6% global share &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p5#a231116p5)
- - [YouTube will let some Shorts creators test Dream Track, a new AI tool that can generate and remix music in the styles of seven different artists, including Sia &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231116/p4#a231116p4)<!-- TECH:END -->
+ - [IDC: China-based Transsion, the largest smartphone manufacturer by sales in Africa, shipped 26M smartphones in Q3 2023, up 35% YoY, for a 8.6% global share &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/231116/p5#a231116p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

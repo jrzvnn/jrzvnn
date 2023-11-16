@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jonathan Camrose, the UK&#39;s first minister for AI and IP, says the country does not plan to regulate the AI industry &quot;in the short term&quot; to let the sector grow &lpar;Daria Mosolova/Financial Times&rpar;](http://www.techmeme.com/231116/p33#a231116p33)
  - [In a first, the Signal Foundation publishes Signal&#39;s operating costs: ~$40M in 2023, projected to hit $50M by 2025, with $14M per year going to infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231116/p32#a231116p32)
  - [Codegen, which plans to use AI to automate &quot;codebase-wide&quot; tasks like large migrations and refactoring, raised a $16M seed led by Thrive Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231116/p31#a231116p31)
  - [Samsung’s Galaxy Buds 2 Pro are at a new low price of $154](https://www.theverge.com/2023/11/16/23963834/samsung-galaxy-buds2-pro-pixel-8-psvr2-black-friday-deal)
- - [Lucid swerves into the electric SUV market with the three-row Gravity](https://www.theverge.com/2023/11/16/23962648/lucid-gravity-electric-suv-price-specs-announce)
- - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)<!-- TECH:END -->
+ - [Lucid swerves into the electric SUV market with the three-row Gravity](https://www.theverge.com/2023/11/16/23962648/lucid-gravity-electric-suv-price-specs-announce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

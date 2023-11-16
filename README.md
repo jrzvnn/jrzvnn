@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)
  - [IBM pulls X ads as Elon Musk endorses white pride](https://www.theverge.com/2023/11/16/23964160/elon-musk-antisemitic-x-post-ibm-ads)
  - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)
  - [Daily deals Nov. 16: iPad 9th Generation $249, 41% off Apple TV Siri Remote, Dyson V8 Origin Plus Cordless Vacuum for $249, more](https://appleinsider.com/articles/23/11/16/daily-deals-nov-16-ipad-9th-generation-249-41-off-apple-tv-siri-remote-dyson-v8-origin-plus-cordless-vacuum-for-249-more?utm_medium=rss)
- - [YouTube updates its guidelines to allow monetizing videos that display nudity while breastfeeding if a child is present, non-sexually graphic dancing, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231116/p44#a231116p44)
- - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube updates its guidelines to allow monetizing videos that display nudity while breastfeeding if a child is present, non-sexually graphic dancing, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231116/p44#a231116p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

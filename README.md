@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two Israeli startups, Lasso Security and Ask-AI, reject the investments of Web Summit&#39;s venture arm after its ex-CEO Paddy Cosgrave accused Israel of war crimes &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231116/p27#a231116p27)
- - [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
- - [TikTok’s latest feature lets users make AR filters](https://www.theverge.com/2023/11/16/23963772/tiktok-effect-house-filters-mobile-app-creator)
- - [Sonos fixes its Dolby Atmos loud pop issue after years of complaints](https://www.theverge.com/2023/11/16/23963790/sonos-arc-dolby-atmos-problems-loud-audio-pop-fix-rolling-out)
- - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)<!-- TECH:END -->
+ - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and So Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [Advent International acquires myPOS, a UK-based payments services provider for small merchants; sources: the deal is expected to value myPOS at around &amp;euro;500M &lpar;Amy-Jo Crowley/Reuters&rpar;](http://www.techmeme.com/231116/p28#a231116p28)
+ - [Compare Electricity Rates in Ohio     - CNET](https://www.cnet.com/how-to/electricity-rates-ohio/#ftag=CAD590a51e)
+ - [Save Up to $500 on Garmin Fitness Tech at Wellbots&#39; Black Friday Sale     - CNET](https://www.cnet.com/deals/save-up-to-500-on-garmin-fitness-tech-at-wellbots-black-friday-sale/#ftag=CAD590a51e)
+ - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

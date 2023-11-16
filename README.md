@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 💣 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 😝 [Protect this man, Douglas Murray.](http://9gag.com/gag/armw225)
- - 👉 [When logic has no end](http://9gag.com/gag/aREdRMQ)<!-- MEMES:END -->
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
+ - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 👉 [Good](http://9gag.com/gag/aNw5BYG)<!-- MEMES:END -->
 
 ---
 

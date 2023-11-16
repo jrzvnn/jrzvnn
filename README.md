@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 😝 [`Don&#39;t come here!` Finnish PM and Home Secretary announced today that Finland is closing its eastern border crossing from asylum seekers.](http://9gag.com/gag/aYV5md7)
+ - 😝 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - 💣 [Owned](http://9gag.com/gag/az2w4zz)
+ - 😝 [But high standards...](http://9gag.com/gag/aZD5vLV)
+ - 👉 [This old gem...](http://9gag.com/gag/aOx5GxR)<!-- MEMES:END -->
 
 ---
 

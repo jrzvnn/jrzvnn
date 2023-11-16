@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
  - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Ice factory](http://9gag.com/gag/aoKwLRw)<!-- MEMES:END -->
 
 ---
 

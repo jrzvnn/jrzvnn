@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
- - [AI chip startup Sapeon, backed by South Korean conglomerate SK Group, announces the Sapeon X330, claiming 4x the performance of the X220, rolling out in H1 2024 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231116/p16#a231116p16)
- - [Apple UK launches Wallet&#39;s Connected Cards feature](https://appleinsider.com/articles/23/11/16/apple-uk-launches-wallets-connected-cards-feature?utm_medium=rss)
- - [Synopsys, one of the largest chip design software makers, partners with Microsoft to build a Copilot to help with early chip designs using its vast data trove &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/231116/p15#a231116p15)
- - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft launches a Windows App on iOS, iPadOS, macOS, Windows, and the web, letting enterprise customers stream a copy of Windows, available in preview &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231116/p19#a231116p19)
+ - [Alibaba filing: Jack Ma&#39;s family trust plans to sell 10M American Depository Shares of Alibaba for around $871M; BABA drops 8%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231116/p18#a231116p18)
+ - [Alibaba reports Q2 revenue up 9% YoY to ~$31B, beating ~$30.9B est., a ~$3.8B net income, up from a ~$3B loss in Q2 2022, and calls off its cloud spinoff &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231116/p17#a231116p17)
+ - [Dr. Alison Todd’s Inventions May Save Your Life](https://www.wired.com/story/women-in-science-alison-todd/)
+ - [How to Opt Out of Facebook’s Latest Two-Factor Authentication Change](https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

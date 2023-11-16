@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memphis, Tennessee](http://9gag.com/gag/a9q080D)
- - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
- - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [Alien abduction](http://9gag.com/gag/ajVwxrg)
- - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
+ - 😝 [Pixels are hard to find.](http://9gag.com/gag/a7qXV8z)
+ - 😝 [Cristy Ren](http://9gag.com/gag/amAwxNy)
+ - 💣 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
+ - 😝 [That\u2019s cool](http://9gag.com/gag/ajVwZqg)
+ - 👉 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)<!-- MEMES:END -->
 
 ---
 

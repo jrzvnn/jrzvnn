@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Synopsys, one of the largest chip design software makers, partners with Microsoft to build a Copilot to help with early chip designs using its vast data trove &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/231116/p15#a231116p15)
  - [Apple Music Classical finally comes to the iPad](https://appleinsider.com/articles/23/11/16/apple-music-classical-finally-comes-to-the-ipad?utm_medium=rss)
- - [Embracer reports Q2 net sales up 13% YoY to ~$1B, layoffs impacted 900 employees, or 5% of its workforce, and 36 fewer games are in development than Q2 2022 &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/231116/p13#a231116p13)
- - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
- - [At its conference, Unity says the company plans to launch Unity 6 in 2024, details Unity Muse, an AI suite for content creation, and announces Unity Cloud &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231116/p12#a231116p12)
- - [YouTube teases AI tool that clones famous singers — with their permission](https://www.theverge.com/2023/11/16/23963570/youtube-generative-ai-dream-track-music-tools-voice-clone)<!-- TECH:END -->
+ - [Apple releases Apple Music Classical on iPad as part of a v1.1 update, the first major update to the app after its release in spring 2023 on iPhone &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/231116/p14#a231116p14)
+ - [A Spy Agency Leaked People&#39;s Data Online—Then the Data Was Stolen](https://www.wired.com/story/ntmc-bangladesh-database-leak/)
+ - [What Can Crypto Still Do for Black People?](https://www.wired.com/story/what-can-crypto-still-do-for-black-people/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

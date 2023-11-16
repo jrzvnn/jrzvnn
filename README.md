@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU will finally free Windows users from Bing](https://www.theverge.com/2023/11/16/23963579/microsoft-windows-11-eu-digital-markets-act-feature-changes)
- - [Microsoft is bringing its AI Copilot to Windows 10 soon](https://www.theverge.com/2023/11/16/23963576/microsoft-copilot-windows-10-ai-features-release-preview)
- - [Meta teases new AI-powered editing tools coming to Facebook and Instagram](https://www.theverge.com/2023/11/16/23963999/meta-facebook-instagram-ai-image-video-editing-emu-announcement)
- - [Digital bank Revolut plans to offer its &quot;secret sauce&quot; HRtech, used to manage 7,500 employees, as a B2B proposition to select companies on an invite-only basis &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/231116/p34#a231116p34)
- - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Microsoft plans to release Copilot on Windows 10 Home and Pro for Release Preview testers, for devices with a minimum of 4GB of RAM and a 720p screen resolution &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231116/p36#a231116p36)
+ - [Apple says iPhones will support RCS in 2024](https://www.theverge.com/2023/11/16/23964171/apple-iphone-rcs-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

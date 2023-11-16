@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Starting chemotherapy today. Hope I can still he around to suck dick for another 10 years](http://9gag.com/gag/aoKwYqx)
- - 😝 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
- - 💣 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)
- - 👉 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)<!-- MEMES:END -->
+ - 😝 [We know](http://9gag.com/gag/a7qXVQq)
+ - 😝 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
+ - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
+ - 👉 [Chaos in comments](http://9gag.com/gag/aPg2e7P)<!-- MEMES:END -->
 
 ---
 

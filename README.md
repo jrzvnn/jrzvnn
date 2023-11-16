@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two Israeli startups, Lasso Security and Ask-AI, reject the investments of Web Summit&#39;s venture arm after its ex-CEO Paddy Cosgrave accused Israel of war crimes &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231116/p27#a231116p27)
+ - [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
+ - [TikTok’s latest feature lets users make AR filters](https://www.theverge.com/2023/11/16/23963772/tiktok-effect-house-filters-mobile-app-creator)
  - [Sonos fixes its Dolby Atmos loud pop issue after years of complaints](https://www.theverge.com/2023/11/16/23963790/sonos-arc-dolby-atmos-problems-loud-audio-pop-fix-rolling-out)
- - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)
- - [Tether plans to spend ~$500M over the next six months to become one of the world&#39;s top Bitcoin miners, after acquiring a 20% stake in Northern Data in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/231116/p26#a231116p26)
- - [The First Crispr Medicine Just Got Approved](https://www.wired.com/story/crispr-gene-therapy-approved-sickle-cell-casgevy/)
- - [11 Best Advent Calendars &lpar;2023&rpar;: Lego, Bonne Maman, Lush](https://www.wired.com/gallery/best-advent-calendars/)<!-- TECH:END -->
+ - [The I-10 Freeway Fire May Have Been Caused by Exploding Hand Sanitizer](https://www.wired.com/story/i-10-freeway-fire-cause-hand-sanitizer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

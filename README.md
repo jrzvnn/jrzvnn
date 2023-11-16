@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
  - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
  - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
 
 ---
 

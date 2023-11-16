@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At its conference, Unity says the company plans to launch Unity 6 in 2024, details Unity Muse, an AI suite for content creation, and announces Unity Cloud &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231116/p12#a231116p12)
+ - [YouTube teases AI tool that clones famous singers — with their permission](https://www.theverge.com/2023/11/16/23963570/youtube-generative-ai-dream-track-music-tools-voice-clone)
  - [TikTok joins Meta in challenging its EU DMA &quot;gatekeeper&quot; status, saying the service is &quot;arguably the most capable challenger to more entrenched&quot; rivals &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231116/p11#a231116p11)
  - [The Mystery of Iceland’s Non-Erupting Volcano](https://www.wired.com/story/iceland-volcano-explode-eruption-when/)
- - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)
- - [Common Sense Media&#39;s first ratings for ten AI chatbots and services warn parents that Snapchat&#39;s MyAI, Dall-E 2, and Stable Diffusion may not be safe for kids &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231116/p10#a231116p10)
- - [Paxos and StraitsX get in-principle approvals from the Monetary Authority of Singapore to issue USD-backed stablecoins &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231116/p9#a231116p9)<!-- TECH:END -->
+ - [Epic is going to let you report voice conversations in Fortnite](https://www.theverge.com/2023/11/16/23962354/epic-games-fortnite-report-voice-conversations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

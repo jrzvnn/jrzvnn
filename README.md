@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 💣 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
- - 😝 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)
- - 👉 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)<!-- MEMES:END -->
+ - 😝 [Spectrum\u2026](http://9gag.com/gag/az2wYgz)
+ - 😝 [I didn&#39;t even knew his name...](http://9gag.com/gag/a04qE1B)
+ - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 😝 [Free junk food](http://9gag.com/gag/aREd225)
+ - 👉 [Roses red, Wednesday frogs...](http://9gag.com/gag/armw25p)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Advent Calendars &lpar;2023&rpar;: Lego, Bonne Maman, Lush](https://www.wired.com/gallery/best-advent-calendars/)
  - [Fitbit Charge 6 review: practically a &quot;Pixel band&quot; with good fitness and health features but the side button is haptic and the Fitbit-Google transition is bumpy &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231116/p25#a231116p25)
  - [Apple&#39;s Latest M3 MacBook Pros Are Already Up to $200 Off Ahead of Black Friday     - CNET](https://www.cnet.com/deals/apples-latest-m3-macbook-pros-are-already-up-to-200-off-ahead-of-black-friday/#ftag=CAD590a51e)
  - [Best Black Friday TV Deals: Save Up to $900 on OLED, 4K and 85-Inch TVs     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
- - [How to Pick the Best Roku Device &lpar;2023&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)<!-- TECH:END -->
+ - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

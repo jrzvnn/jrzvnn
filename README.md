@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parental Advisory: This Chatbot May Talk to Your Child About Sex and Alcohol](https://www.wired.com/story/parental-advisory-chatbots-children-sex-and-alcohol/)
+ - [YouTube Shorts Challenges TikTok With Music-Making AI for Creators](https://www.wired.com/story/youtube-shorts-challenges-tiktok-with-music-making-ai-for-creators/)
  - [Paxos gets in-principle approval from the Monetary Authority of Singapore to issue a USD-backed stablecoin; Paxos claims it is the only company to get approval &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231115/p54#a231115p54)
  - [Security researchers detail the largest cyberattack against Danish critical infrastructure, which involved Zyxel zero-days and affected 22 companies in May 2023 &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/231115/p53#a231115p53)
- - [How to bring Screen Mirroring back to the Control Center on the iPhone 15 Pro](https://appleinsider.com/inside/ios-17/tips/how-to-bring-screen-mirroring-back-to-the-control-center-on-the-iphone-15-pro?utm_medium=rss)
- - [iPhone 16 to use graphene heat sink to solve overheating issues](https://appleinsider.com/articles/23/11/16/iphone-16-to-use-graphene-heat-sink-to-solve-overheating-issues?utm_medium=rss)
- - [PJ&amp;A, which provides medical transcription services in the US, says a March 2023 cyberattack exposed ~9M patients&#39; SSNs, medical files, and other sensitive data &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231115/p52#a231115p52)<!-- TECH:END -->
+ - [How to bring Screen Mirroring back to the Control Center on the iPhone 15 Pro](https://appleinsider.com/inside/ios-17/tips/how-to-bring-screen-mirroring-back-to-the-control-center-on-the-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

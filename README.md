@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
+ - [Some Jewish celebrities and creators confronted TikTok executives in a private call, urging them to do more to address antisemitism and harassment on the app &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/231116/p41#a231116p41)
  - [Toyota Financial Services, which provides auto financing to Toyota customers, confirms a breach after the Medusa ransomware gang threatened to leak data &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231116/p40#a231116p40)
  - [Apple Reportedly Bringing RCS Support to iPhone Next Year     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-bringing-rcs-support-to-iphone-next-year/#ftag=CAD590a51e)
- - [Baldur’s Gate 3: Deluxe Edition on Xbox and PS5 is coming on a ‘fuck-ton of discs’](https://www.theverge.com/2023/11/16/23964113/baldurs-gate-3-deluxe-edition-three-discs)
- - [Kia brings EV3 and EV4 concepts to the LA Auto Show and is launching an all-new hybrid Sorento](https://www.theverge.com/2023/11/16/23963915/kia-ev3-ev4-electric-vehcile-concept-la-auto-show-hybrid-sorento)
- - [Early Black Friday sale: get a 15-inch MacBook Air 16GB RAM, 512GB SSD for $1,499 &lpar;every model is up to $250 off&rpar;](https://appleinsider.com/articles/23/11/16/early-black-friday-sale-get-a-15-inch-macbook-air-16gb-ram-512gb-ssd-for-1499-every-model-is-up-to-250-off?utm_medium=rss)<!-- TECH:END -->
+ - [Baldur’s Gate 3: Deluxe Edition on Xbox and PS5 is coming on a ‘fuck-ton of discs’](https://www.theverge.com/2023/11/16/23964113/baldurs-gate-3-deluxe-edition-three-discs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple may postpone the release of its own iPhone modem chip until at least the end of 2025 or early 2026, the final year of its contract with Qualcomm &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231116/p43#a231116p43)
+ - [Microsoft details planned changes to Windows 11 in the EEA to comply with the DMA, including letting users disable Bing web search and remove Microsoft Edge &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231116/p42#a231116p42)
  - [SpaceX cleared for second Starship and Super Heavy launch test](https://www.theverge.com/2023/11/15/23873201/spacex-starship-faa-approval-super-heavy-launch-test-date)
  - [Some Jewish celebrities and creators confronted TikTok executives in a private call, urging them to do more to address antisemitism and harassment on the app &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/231116/p41#a231116p41)
- - [Toyota Financial Services, which provides auto financing to Toyota customers, confirms a breach after the Medusa ransomware gang threatened to leak data &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231116/p40#a231116p40)
- - [Apple Reportedly Bringing RCS Support to iPhone Next Year     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-bringing-rcs-support-to-iphone-next-year/#ftag=CAD590a51e)
- - [Baldur’s Gate 3: Deluxe Edition on Xbox and PS5 is coming on a ‘fuck-ton of discs’](https://www.theverge.com/2023/11/16/23964113/baldurs-gate-3-deluxe-edition-three-discs)<!-- TECH:END -->
+ - [Toyota Financial Services, which provides auto financing to Toyota customers, confirms a breach after the Medusa ransomware gang threatened to leak data &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231116/p40#a231116p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

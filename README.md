@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)
- - [US Congress Report Calls for Privacy Reforms After FBI Surveillance &#39;Abuses&#39;](https://www.wired.com/story/house-intellligence-section-702-reform/)
- - [Jonathan Camrose, the UK&#39;s first minister for AI and IP, says the country does not plan to regulate the AI industry &quot;in the short term&quot; to let the sector grow &lpar;Daria Mosolova/Financial Times&rpar;](http://www.techmeme.com/231116/p33#a231116p33)
- - [In a first, the Signal Foundation publishes Signal&#39;s operating costs: ~$40M in 2023, projected to hit $50M by 2025, with $14M per year going to infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231116/p32#a231116p32)
- - [Save Up to $600 Off LG Washing Machines This Black Friday     - CNET](https://www.cnet.com/deals/save-up-to-600-off-lg-washing-machines-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU will finally free Windows users from Bing](https://www.theverge.com/2023/11/16/23963579/microsoft-windows-11-eu-digital-markets-act-feature-changes)
+ - [Microsoft is bringing its AI Copilot to Windows 10 soon](https://www.theverge.com/2023/11/16/23963576/microsoft-copilot-windows-10-ai-features-release-preview)
+ - [Meta teases new AI-powered editing tools coming to Facebook and Instagram](https://www.theverge.com/2023/11/16/23963999/meta-facebook-instagram-ai-image-video-editing-emu-announcement)
+ - [Digital bank Revolut plans to offer its &quot;secret sauce&quot; HRtech, used to manage 7,500 employees, as a B2B proposition to select companies on an invite-only basis &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/231116/p34#a231116p34)
+ - [Fitbit, once again, was struck by a server outage](https://www.theverge.com/2023/11/16/23964002/fitbit-google-server-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

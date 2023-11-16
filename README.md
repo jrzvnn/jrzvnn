@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
- - 💣 [Free junk food](http://9gag.com/gag/aREd225)
- - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
- - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
+ - 😝 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
+ - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 💣 [That f***ing word again.](http://9gag.com/gag/aL15d5M)
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
 
 ---
 

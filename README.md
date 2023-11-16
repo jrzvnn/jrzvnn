@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
- - 😝 [Sunday premiere night in Korea. And they even got one of the Kpop star to be a background character in the movie.](http://9gag.com/gag/aqewWDM)
- - 💣 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 👉 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
+ - 😝 [Man shows his `gratitude` for having his life saved](http://9gag.com/gag/a8qOwrp)
+ - 😝 [Sharia law for me not for thee](http://9gag.com/gag/aGE5OL5)
+ - 💣 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 😝 [Happy Wednesday folks!](http://9gag.com/gag/a5X32gL)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)<!-- MEMES:END -->
 
 ---
 

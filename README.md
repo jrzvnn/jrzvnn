@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MediaTek announces a partnership with Meta to develop chips for AR smart glasses; Ray-Ban Meta Smart Glasses are equipped with Qualcomm&#39;s Snapdragon AR1 Gen 1 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231116/p46#a231116p46)
+ - [Google&#39;s RCS messaging is coming to iPhone in 2024](https://appleinsider.com/articles/23/11/16/googles-rcs-messaging-is-coming-to-iphone-in-2024?utm_medium=rss)
+ - [Apple&#39;s flavor of RCS won&#39;t support Google&#39;s end-to-end encryption extension](https://appleinsider.com/articles/23/11/16/apples-flavor-of-rcs-wont-support-googles-end-to-end-encryption-extension?utm_medium=rss)
  - [Sources: the US DOJ is investigating semiconductor equipment maker Applied Materials for potentially evading export restrictions on China&#39;s top chipmaker SMIC &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231116/p45#a231116p45)
- - [36 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-2/)
- - [Apple teases Black Friday promotions, but there are much better deals](https://appleinsider.com/articles/23/11/16/apple-teases-black-friday-promotions-but-there-are-much-better-deals?utm_medium=rss)
- - [IBM pulls X ads as Elon Musk endorses white pride](https://www.theverge.com/2023/11/16/23964160/elon-musk-antisemitic-x-post-ibm-ads)
- - [Apple&#39;s in-house modem project won&#39;t be ready until late 2025](https://appleinsider.com/articles/23/11/16/apples-in-house-modem-project-wont-be-ready-until-late-2025?utm_medium=rss)<!-- TECH:END -->
+ - [36 Best Black Friday Deals on Outdoor Gear &lpar;2023&rpar;: REI, Garmin, and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

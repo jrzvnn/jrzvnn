@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
  - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [Ice factory](http://9gag.com/gag/aoKwLRw)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 💣 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
+ - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - 👉 [Arrested for manslaughter.](http://9gag.com/gag/a2Kp2d9)<!-- MEMES:END -->
 
 ---
 

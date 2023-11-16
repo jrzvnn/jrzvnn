@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 😝 [Free junk food](http://9gag.com/gag/aREd225)
- - 💣 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 👉 [Chaos in comments](http://9gag.com/gag/aPg2e7P)<!-- MEMES:END -->
+ - 😝 [It&#39;s always the religion. It&#39;s very important.](http://9gag.com/gag/aBd5GL2)
+ - 😝 [When someone says you have to visit/see the real India...](http://9gag.com/gag/aVb5L4y)
+ - 💣 [Free junk food](http://9gag.com/gag/aREd225)
+ - 😝 [Chaos in comments](http://9gag.com/gag/aPg2e7P)
+ - 👉 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba&#39;s market value drops to $201B, about half of Tencent&#39;s $391B, as it faces sluggish demand and increased competition; Alibaba was valued at $850B in 2020 &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/231117/p1#a231117p1)
  - [Best Solar Panel Installation Companies in Delaware     - CNET](https://www.cnet.com/home/energy-and-utilities/delaware-solar-panels/#ftag=CAD590a51e)
  - [Forever Companions, which let paying users speak to an AI girlfriend modeled after influencer Caryn Marjorie, stopped working after CEO John Meyer was arrested &lpar;404 Media&rpar;](http://www.techmeme.com/231116/p55#a231116p55)
  - [Sources: Google told some cloud customers not to expect access to its Gemini AI model until Q1 2024, after previously saying they would get access by Nov. 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231116/p54#a231116p54)
- - [Sources: Thrasio, which acquires third-party Amazon sellers, is preparing to file for bankruptcy as it deals with a post-pandemic slump in online spending &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231116/p53#a231116p53)
- - [Apple says green bubbles will be used for RCS messages, while iMessages will be blue to denote what it considers the safest way for iPhone users to communicate &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p52#a231116p52)<!-- TECH:END -->
+ - [Sources: Thrasio, which acquires third-party Amazon sellers, is preparing to file for bankruptcy as it deals with a post-pandemic slump in online spending &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231116/p53#a231116p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

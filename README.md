@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 💣 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 👉 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)<!-- MEMES:END -->
+ - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 😝 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)
+ - 💣 [Free Bird](http://9gag.com/gag/amAwbzd)
+ - 😝 [We are reaching Clown World levels that shouldn&#39;t be possible](http://9gag.com/gag/ay2wV0W)
+ - 👉 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)<!-- MEMES:END -->
 
 ---
 

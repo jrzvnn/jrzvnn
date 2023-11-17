@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon issues price cut on Apple&#39;s iPad 10th Generation, now $349](https://appleinsider.com/articles/23/11/17/amazon-issues-price-cut-on-apples-ipad-10th-generation-now-349?utm_medium=rss)
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [Game developer Scopely, citing data.ai, says Monopoly Go reached $1B+ in revenue in seven months, faster than any other casual game in mobile game history &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231117/p14#a231117p14)
- - [The Bin Laden Letter Is Being Weaponized by the Far-Right](https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/)
- - [Apple files legal challenge over Europe&#39;s demand for third-party app stores](https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores?utm_medium=rss)
- - [Get up to $250 off Bose headphones and soundbars in new Black Friday sales](https://appleinsider.com/articles/23/11/17/get-up-to-250-off-bose-headphones-and-soundbars-in-new-black-friday-sales?utm_medium=rss)
- - [You Need a Heat Pump. Soon You’ll Have More American-Made Options](https://www.wired.com/story/you-need-a-heat-pump-soon-youll-have-more-american-made-options/)<!-- TECH:END -->
+ - [Best Black Friday Nintendo Switch Deals: Up to $68 Savings on Consoles, Accessories and Games     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [Best Shower Head Filters of 2023     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

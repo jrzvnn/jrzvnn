@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Half-Life gets a big update for its 25th anniversary](https://www.theverge.com/2023/11/17/23965754/half-life-25th-anniversary-update)
+ - [Andrew Yang&#39;s New Novel Predicts Electoral Chaos](https://www.wired.com/2023/11/geeks-guide-andrew-yang/)
  - [Microsoft blocks the word Disney from Bing Image Creator after copyright concerns due to a viral trend where users created Disney film posters of their pets &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231117/p16#a231117p16)
  - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)
- - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)
- - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
- - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)<!-- TECH:END -->
+ - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

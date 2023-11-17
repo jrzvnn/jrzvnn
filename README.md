@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 😝 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
+ - 💣 [This old gem...](http://9gag.com/gag/aOx5GxR)
+ - 😝 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
+ - 👉 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)<!-- MEMES:END -->
 
 ---
 

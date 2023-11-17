@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 💣 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
+ - 😝 [Tired of buying vegetables that taste like plastic?](http://9gag.com/gag/a9q0VQK)
+ - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
 
 ---
 

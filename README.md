@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [According to an email, Apple Music implemented fraud protections including &quot;financial adjustments&quot; in 2022, resulting in 30% drop in streaming manipulation &lpar;Elias Leight/Billboard&rpar;](http://www.techmeme.com/231117/p9#a231117p9)
  - [An update to its developer terms suggests that X plans to let EU researchers access its API and use its licensed data for DSA-related research purposes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231117/p8#a231117p8)
  - [The secret environmental cost hiding inside your smart home device](https://www.theverge.com/2023/11/17/23951196/smart-home-ai-data-electricity-fossil-fuel-climate-change)
  - [Amazon says it is targeting merchandise exports worth $20B from India by 2025 and has more than 100K small manufacturers from the country on its platform &lpar;Manoj Kumar/Reuters&rpar;](http://www.techmeme.com/231117/p7#a231117p7)
- - [Recording Spatial Video, Nothing&#39;s iMessage gamble, &amp; M3 Max on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast?utm_medium=rss)
- - [TCL RayNeo Air 2 XR Glasses Review: Big Virtual Screen, Blurry](https://www.wired.com/review/tcl-rayneo-air-2-xr-glasses/)<!-- TECH:END -->
+ - [Recording Spatial Video, Nothing&#39;s iMessage gamble, &amp; M3 Max on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
+ - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)
  - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)
- - [Sonos speakers and soundbars are up to 25 percent off ahead of Black Friday](https://www.theverge.com/2023/11/17/23965566/sonos-era-100-roam-arc-beam-soundbar-smart-speaker-black-friday-deal-sale)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
+ - [The EU Court of Justice says Apple filed a legal case contesting the European Commission&#39;s decisions under the DMA; Meta and TikTok separately filed cases too &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
+ - [Our Favorite Cordless Vacuum of 2023 Is Down to a New All-Time Low for Black Friday     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-black-friday-all-time-low-200/#ftag=CAD590a51e)
+ - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

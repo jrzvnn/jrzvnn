@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Court of Justice says Apple has filed a legal challenge to the Digital Markets Act &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
- - [Our Favorite Cordless Vacuum of 2023 Is Down to a New All-Time Low for Black Friday     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-black-friday-all-time-low-200/#ftag=CAD590a51e)
- - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)
- - [Best Internet Providers in Buffalo, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
- - [Best Black Friday Laptop Deals: Big Savings on Apple, Lenovo, Acer, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
+ - [Best Internet Providers in Honolulu, Hawaii     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
+ - [Best Internet Providers in Savannah, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
+ - [Apple Arcade: Every New Title Arriving in November     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
+ - [The EU Court of Justice says Apple filed a legal case contesting the European Commission&#39;s decisions under the DMA; Meta and TikTok separately filed cases too &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

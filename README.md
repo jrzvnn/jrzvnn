@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 😝 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - 💣 [Story of my life](http://9gag.com/gag/abvwm1r)
- - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 👉 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)<!-- MEMES:END -->
+ - 😝 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)
+ - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
+ - 💣 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 👉 [Free Bird](http://9gag.com/gag/amAwbzd)<!-- MEMES:END -->
 
 ---
 

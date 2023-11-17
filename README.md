@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Owned](http://9gag.com/gag/az2w4zz)
- - 😝 [Ppssppsspt](http://9gag.com/gag/aA05Z6g)
- - 💣 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - 😝 [Europe will be Islamic in a decade... Terrorists have invaded it under guise of refugees and illegal immigrants.](http://9gag.com/gag/a5X35vo)
- - 👉 [This old gem...](http://9gag.com/gag/aOx5GxR)<!-- MEMES:END -->
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
+ - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
 
 ---
 

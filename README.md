@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game developer Scopely, citing data.ai, says Monopoly Go reached $1B+ in revenue in seven months, faster than any other casual game in mobile game history &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231117/p14#a231117p14)
+ - [The Bin Laden Letter Is Being Weaponized by the Far-Right](https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/)
  - [Apple files legal challenge over Europe&#39;s demand for third-party app stores](https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores?utm_medium=rss)
  - [Get up to $250 off Bose headphones and soundbars in new Black Friday sales](https://appleinsider.com/articles/23/11/17/get-up-to-250-off-bose-headphones-and-soundbars-in-new-black-friday-sales?utm_medium=rss)
- - [You Need a Heat Pump. Soon You’ll Have More American-Made Options](https://www.wired.com/story/you-need-a-heat-pump-soon-youll-have-more-american-made-options/)
- - [A California convicts former VC Mike Rothenberg on 21 counts for defrauding investors, including bank fraud, false statements, money laundering, and wire fraud &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/231117/p13#a231117p13)
- - [Best Black Friday Deals Under $25: Smart Speakers, Streaming Sticks, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Need a Heat Pump. Soon You’ll Have More American-Made Options](https://www.wired.com/story/you-need-a-heat-pump-soon-youll-have-more-american-made-options/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

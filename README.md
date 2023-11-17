@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who Is Mira Murati, OpenAI’s New Interim CEO?](https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/)
  - [Sources: Mira Murati told staff in a companywide meeting that Satya Nadella expressed &quot;utmost confidence&quot; in OpenAI following the firing of Sam Altman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231117/p21#a231117p21)
  - [How to save up to $330 on your new M3 MacBook Pro with AppleCare](https://appleinsider.com/articles/23/11/15/how-to-save-up-to-330-on-your-new-m3-macbook-pro-with-applecare?utm_medium=rss)
  - [Elon Musk May Have Just Signed X’s Death Warrant](https://www.wired.com/story/x-elon-musk-antisemitism-advertisers/)
- - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [TP-Link Deco S4     - CNET](https://www.cnet.com/home/smart-home/tp-link-deco-s4-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the keyboard that will convert you to the low-profile life](https://www.theverge.com/23965283/lofree-flow-low-profile-keyboard-review)
  - [Internal memo: Amazon plans to cut several hundred roles in its Alexa division as part of a broader shift in priorities and a focus on generative AI &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231117/p11#a231117p11)
  - [Amazon&#39;s Echo Show Black Friday Bundles Add Smarts to Your Home for Less     - CNET](https://www.cnet.com/deals/amazons-echo-show-black-friday-bundles-add-smarts-to-your-home-for-less/#ftag=CAD590a51e)
  - [US v. Google: the DOJ wrapped up the trial&#39;s evidentiary phase on Thursday, having argued that Google broke antitrust law; closing arguments are set for May &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231117/p10#a231117p10)
- - [Apple Watch Ultra 2 drops to record low $739 in early Black Friday price war](https://appleinsider.com/articles/23/11/17/apple-watch-ultra-2-drops-to-record-low-739-in-early-black-friday-price-war?utm_medium=rss)
- - [Bambu Lab Is Knocking $100 Off Our Best 3D Printer Pick of 2023 for Black Friday Alongside Other Deals     - CNET](https://www.cnet.com/deals/bambu-lab-is-knocking-100-off-our-best-3d-printer-pick-of-2023-for-black-friday-alongside-other-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 drops to record low $739 in early Black Friday price war](https://appleinsider.com/articles/23/11/17/apple-watch-ultra-2-drops-to-record-low-739-in-early-black-friday-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

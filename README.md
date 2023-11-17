@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft blocks the word Disney from Bing Image Creator after copyright concerns due to a viral trend where users created Disney film posters of their pets &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231117/p16#a231117p16)
+ - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)
  - [31 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo Devices](https://www.wired.com/story/best-amazon-black-friday-deals-2023/)
- - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)
- - [The EU Court of Justice says Apple filed a legal case contesting the European Commission&#39;s decisions under the DMA; Meta and TikTok separately filed cases too &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
- - [Our Favorite Cordless Vacuum of 2023 Is Down to a New All-Time Low for Black Friday     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-black-friday-all-time-low-200/#ftag=CAD590a51e)
- - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)<!-- TECH:END -->
+ - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
+ - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

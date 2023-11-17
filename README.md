@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extremely close call](http://9gag.com/gag/az2wBOb)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
  - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 👉 [When apple blocks all the devices you just stole from their store](http://9gag.com/gag/aGE5O56)<!-- MEMES:END -->
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)<!-- MEMES:END -->
 
 ---
 

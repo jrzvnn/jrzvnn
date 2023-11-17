@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
+ - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
  - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
- - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
+ - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
 
 ---
 

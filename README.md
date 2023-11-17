@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At some point, the Apple Watch Ultra had a black backing](https://appleinsider.com/articles/23/11/17/at-some-point-the-apple-watch-ultra-had-a-black-backing?utm_medium=rss)
  - [Internal note: the European Commission plans to &quot;temporarily suspend advertising&quot; on X over disinformation concerns and to avoid &quot;reputational damage&quot; &lpar;Nicholas Vinocur/Politico&rpar;](http://www.techmeme.com/231117/p6#a231117p6)
  - [Discord plans to shut down its ChatGPT-powered experimental chatbot Clyde on December 1; Discord started testing Clyde in March 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231117/p5#a231117p5)
  - [Why Teslas Totaled in the US Are Mysteriously Reincarnated in Ukraine](https://www.wired.com/story/why-teslas-totaled-in-the-us-are-mysteriously-reincarnated-in-ukraine/)
- - [Securities watchdog IOSCO concludes its report on crypto rules, identifying six critical domains covering market manipulation, insider trading, fraud, and more &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/231117/p4#a231117p4)
- - [Discord is shutting down its AI chatbot Clyde](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde)<!-- TECH:END -->
+ - [Securities watchdog IOSCO concludes its report on crypto rules, identifying six critical domains covering market manipulation, insider trading, fraud, and more &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/231117/p4#a231117p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

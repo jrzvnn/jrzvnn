@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of buying vegetables that taste like plastic?](http://9gag.com/gag/a9q0VQK)
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
+ - 😝 [Extremely close call](http://9gag.com/gag/az2wBOb)
+ - 😝 [Hulks been weakened by today&#39;s feminism yet the She-Hulk continues to twerk.](http://9gag.com/gag/a04qxMd)
+ - 💣 [How the turn tables](http://9gag.com/gag/aL15b7g)
+ - 😝 [No title need](http://9gag.com/gag/a04qx1B)
+ - 👉 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)<!-- MEMES:END -->
 
 ---
 

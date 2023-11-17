@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 💣 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
  - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 👉 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)<!-- MEMES:END -->
+ - 👉 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)<!-- MEMES:END -->
 
 ---
 

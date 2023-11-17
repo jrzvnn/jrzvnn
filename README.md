@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The web version of X&#39;s job search tool is live for all users, with iOS and Android availability expected &quot;soon&quot;; applications are completed on third-party sites &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231116/p51#a231116p51)
+ - [YouTube loosens ad guidelines around breastfeeding nudity and twerking](https://www.theverge.com/2023/11/16/23964804/youtube-loosens-ad-guidelines-breastfeeding-nudity-twerking-grinding)
+ - [Meta unveils new AI tools to edit images and generate videos from text instructions, based on its image generation model Emu announced in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231116/p50#a231116p50)
  - [A US judge rejects X&#39;s bid to overturn a May 2022 FTC order imposing restrictions on its data security practices and declines to stop a deposition of Elon Musk &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231116/p49#a231116p49)
- - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [Amazon Drive is shutting down, but user files are now in Amazon Photos](https://appleinsider.com/articles/23/11/16/amazon-drive-is-shutting-down-but-user-files-are-now-in-amazon-photos?utm_medium=rss)
- - [Apple’s Pledge to Support RCS Messaging Could Finally Kill SMS](https://www.wired.com/story/apple-adding-support-for-rcs-could-kill-sms/)
- - [31 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals-1/)<!-- TECH:END -->
+ - [Best Early Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

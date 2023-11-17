@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday 2023 Live Blog: Early Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
  - [Amazon slashes MacBook Air to $749.99 with hidden Black Friday discount](https://appleinsider.com/articles/23/11/17/amazon-slashes-macbook-air-to-74999-with-hidden-black-friday-discount?utm_medium=rss)
- - [Dr. Jessie Christiansen Wants to Help You Discover the Next Exoplanet](https://www.wired.com/story/women-in-science-jessie-christansen/)
- - [Your ‘Dear Algorithm’ Post on Threads Doesn’t Work](https://www.wired.com/story/dear-algorithm-posts-on-threads-do-not-work/)
- - [The Dark Secrets Behind the New Hunger Games Movie](https://www.wired.com/story/the-hunger-games-the-ballad-of-songbirds-and-snakes-francis-lawrence-interview/)
- - [The Future of Game Accessibility Is Surprisingly Simple](https://www.wired.com/story/future-of-game-accessibility/)<!-- TECH:END -->
+ - [StackSocial Black Friday Deals: $23 Windows 11 Pro, $40 Off Costco Membership and More     - CNET](https://www.cnet.com/deals/stacksocial-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [This Is the Worst Time to Travel for Thanksgiving 2023     - CNET](https://www.cnet.com/tech/this-is-the-worst-time-to-travel-for-thanksgiving-2023/#ftag=CAD590a51e)
+ - [Dr. Jessie Christiansen Wants to Help You Discover the Next Exoplanet](https://www.wired.com/story/women-in-science-jessie-christansen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

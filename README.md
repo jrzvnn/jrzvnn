@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tires are saving us — and killing us, too](https://www.theverge.com/2023/11/17/23951181/tires-sustainable-rubber-bridgestone-michelin)
- - [According to an email, Apple Music implemented fraud protections including &quot;financial adjustments&quot; in 2022, resulting in 30% drop in streaming manipulation &lpar;Elias Leight/Billboard&rpar;](http://www.techmeme.com/231117/p9#a231117p9)
- - [An update to its developer terms suggests that X plans to let EU researchers access its API and use its licensed data for DSA-related research purposes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231117/p8#a231117p8)
- - [The secret environmental cost hiding inside your smart home device](https://www.theverge.com/2023/11/17/23951196/smart-home-ai-data-electricity-fossil-fuel-climate-change)
- - [Amazon says it is targeting merchandise exports worth $20B from India by 2025 and has more than 100K small manufacturers from the country on its platform &lpar;Manoj Kumar/Reuters&rpar;](http://www.techmeme.com/231117/p7#a231117p7)<!-- TECH:END -->
+ - [The Case for Using AI to Log Your Every Living Moment](https://www.wired.com/story/the-case-for-using-ai-to-log-your-every-living-moment/)
+ - [Google DeepMind’s AI Pop Star Clone Will Freak You Out](https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/)
+ - [&#39;Baldur’s Gate 3&#39; Is Even More Magical With a D&amp;D Player’s Handbook](https://www.wired.com/story/baldurs-gate-3-play-it-with-the-dungeons-dragons-handbook-rave/)
+ - [7 Theragun Black Friday Deals &lpar;2023&rpar;: Percussive Massage Devices](https://www.wired.com/story/therabody-theragun-black-friday-deals-2023/)
+ - [Ford F-150 Lightning Platinum Review: Time&#39;s Up for ICE Trucks](https://www.wired.com/review/f150-lightning-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

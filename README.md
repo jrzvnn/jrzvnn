@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman leaves OpenAI following a board review, which found that he wasn&#39;t consistently candid in his communications; CTO Mira Murati becomes interim CEO &lpar;OpenAI&rpar;](http://www.techmeme.com/231117/p18#a231117p18)
+ - [Sam Altman fired as CEO of OpenAI](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
+ - [Apple reportedly pausing advertising on X again, after more controversy](https://appleinsider.com/articles/23/11/17/apple-reportedly-pausing-advertising-on-x-again-after-more-controversy?utm_medium=rss)
  - [Join Us for LiveWIRED](https://www.wired.com/story/livewired-wired30-2023-conference/)
- - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)
- - [16 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Cookware.](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
- - [Half-Life gets a big update for its 25th anniversary](https://www.theverge.com/2023/11/17/23965754/half-life-25th-anniversary-update)
- - [Andrew Yang&#39;s New Novel Predicts Electoral Chaos](https://www.wired.com/2023/11/geeks-guide-andrew-yang/)<!-- TECH:END -->
+ - [Sources: Apple is pausing advertising on X after outcry over Musk&#39;s endorsement of an antisemitic tweet and reports that Apple ads ran next to pro-Nazi content &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p17#a231117p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Screens are good, actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
  - [The EU Court of Justice says Apple has filed a legal challenge to the Digital Markets Act &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
  - [Our Favorite Cordless Vacuum of 2023 Is Down to a New All-Time Low for Black Friday     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-black-friday-all-time-low-200/#ftag=CAD590a51e)
  - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)
- - [Best Internet Providers in Buffalo, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
- - [Best Black Friday Laptop Deals: Big Savings on Apple, Lenovo, Acer, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Buffalo, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

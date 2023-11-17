@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)
+ - [DoggoRamps Couch Ramp Review: A Well-Built Ramp](https://www.wired.com/review/doggoramps-couch-ramp/)
  - [Amazon issues price cut on Apple&#39;s iPad 10th Generation, now $349](https://appleinsider.com/articles/23/11/17/amazon-issues-price-cut-on-apples-ipad-10th-generation-now-349?utm_medium=rss)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [Game developer Scopely, citing data.ai, says Monopoly Go reached $1B+ in revenue in seven months, faster than any other casual game in mobile game history &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231117/p14#a231117p14)
- - [Best Black Friday Nintendo Switch Deals: Up to $68 Savings on Consoles, Accessories and Games     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
- - [Best Shower Head Filters of 2023     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Game developer Scopely, citing data.ai, says Monopoly Go reached $1B+ in revenue in seven months, faster than any other casual game in mobile game history &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231117/p14#a231117p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

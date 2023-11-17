@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not who I am, but I&#39;m surprised](http://9gag.com/gag/aoKwLw3)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
  - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
- - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
  - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 ---

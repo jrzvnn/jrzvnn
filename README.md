@@ -144,7 +144,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple says green bubbles will be used for RCS messages, while iMessages will be blue to denote what it considers the safest way for iPhone users to communicate &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231116/p52#a231116p52)
  - [You&#39;re still going to be bullied for being a green bubble, even with RCS](https://appleinsider.com/articles/23/11/17/youre-still-going-to-be-bullied-for-being-a-green-bubble-even-with-rcs?utm_medium=rss)
- - [A huge stable Steam Deck update gives the Dock a brand-new feature](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)
+ - [A hefty stable Steam Deck update gives the Dock a brand-new feature](https://www.theverge.com/2023/11/16/23964870/steam-deck-steamos-3-5-5-stable-update)
  - [Fortnite is blocking some outfits in experiences made for kids](https://www.theverge.com/2023/11/16/23964778/fortnite-blocking-outfits-experiences-kids)
  - [The web version of X&#39;s job search tool is live for all users, with iOS and Android availability expected &quot;soon&quot;; applications are completed on third-party sites &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231116/p51#a231116p51)<!-- TECH:END -->
 

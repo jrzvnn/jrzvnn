@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 💣 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
  - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 ---

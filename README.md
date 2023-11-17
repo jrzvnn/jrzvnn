@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight from the 2014 archive](http://9gag.com/gag/a8qOnzO)
- - 😝 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - 💣 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
+ - 😝 [Seriously](http://9gag.com/gag/a3ZrpYQ)
+ - 😝 [How the turn tables](http://9gag.com/gag/aL15b7g)
+ - 💣 [Sometimes you just have to give people what they want](http://9gag.com/gag/aOx5NVM)
+ - 😝 [We are reaching Clown World levels that shouldn&#39;t be possible](http://9gag.com/gag/ay2wV0W)
+ - 👉 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)<!-- MEMES:END -->
 
 ---
 

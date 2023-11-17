@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)
- - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
- - 💣 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 👉 [Free Bird](http://9gag.com/gag/amAwbzd)<!-- MEMES:END -->
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 😝 [Wtf](http://9gag.com/gag/a8qOKB1)
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
 
 ---
 

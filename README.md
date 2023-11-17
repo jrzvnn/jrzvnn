@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Securities watchdog IOSCO concludes its report on crypto rules, identifying six critical domains covering market manipulation, insider trading, fraud, and more &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/231117/p4#a231117p4)
+ - [Discord is shutting down its AI chatbot Clyde](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde)
  - [Bellroy’s iPhone 15 Pro case has a proper Action Button now](https://www.theverge.com/2023/11/17/23965171/bellroy-iphone-15-pro-case-action-button-cutout)
  - [Fubo&#39;s Black Friday Streaming Deal Is Its Biggest Sale of the Year     - CNET](https://www.cnet.com/deals/fubos-black-friday-streaming-deal-is-its-biggest-sale-of-the-year/#ftag=CAD590a51e)
- - [This Tiny USB-C Rechargeable Lantern Is My Perfect Camping and Go-Bag Lighting Source     - CNET](https://www.cnet.com/deals/this-tiny-usb-c-rechargeable-lantern-is-my-perfect-camping-and-go-bag-lighting-source/#ftag=CAD590a51e)
- - [Mint Mobile&#39;s Black Friday Sale Gets You 3 Months of Service for Free     - CNET](https://www.cnet.com/deals/mint-mobiles-black-friday-sale-gets-you-3-months-of-service-for-free/#ftag=CAD590a51e)
- - [Amazon&#39;s early Black Friday deals knock up to 90% off thousands of holiday gift ideas](https://appleinsider.com/articles/23/11/17/amazons-early-black-friday-deals-knock-up-to-90-off-thousands-of-holiday-gift-ideas?utm_medium=rss)<!-- TECH:END -->
+ - [This Tiny USB-C Rechargeable Lantern Is My Perfect Camping and Go-Bag Lighting Source     - CNET](https://www.cnet.com/deals/this-tiny-usb-c-rechargeable-lantern-is-my-perfect-camping-and-go-bag-lighting-source/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

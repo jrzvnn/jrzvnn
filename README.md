@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leeeeerrooooooyyyyyyyyyyy Jeennnkiiiknnnnsssss!!!!!!!!!!!!](http://9gag.com/gag/aL15b9z)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
  - 💣 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 😝 [Rekt](http://9gag.com/gag/az2wBeq)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 😝 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 

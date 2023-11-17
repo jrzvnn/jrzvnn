@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI CTO Mira Murati becomes its interim CEO; president Greg Brockman steps down as chairman of the board but remains at the company &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p19#a231117p19)
+ - [Nothing&#39;s iMessage bridge doesn&#39;t appear to be encrypted at all](https://appleinsider.com/articles/23/11/17/nothings-imessage-bridge-doesnt-appear-to-be-encrypted-at-all?utm_medium=rss)
+ - [Apple pulls its ads from X after Musk’s antisemitic posts](https://www.theverge.com/2023/11/17/23965928/apple-x-ads-elon-musk-antisemitic-posts)
  - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)
- - [Sam Altman leaves OpenAI after a board review found he wasn&#39;t &quot;consistently candid in his communications with the board&quot;; CTO Mira Murati becomes interim CEO &lpar;OpenAI&rpar;](http://www.techmeme.com/231117/p18#a231117p18)
- - [Sam Altman fired as CEO of OpenAI](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
- - [Apple reportedly pausing advertising on X again, after more controversy](https://appleinsider.com/articles/23/11/17/apple-reportedly-pausing-advertising-on-x-again-after-more-controversy?utm_medium=rss)
- - [Amazon Black Friday Deals Slash Up to 43 Percent Off These Big-Name Android Tablets     - CNET](https://www.cnet.com/deals/amazon-black-friday-deals-slash-up-to-43-percent-off-these-big-name-android-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman departs as OpenAI CEO and leaves its board after a deliberative review by the board found he wasn&#39;t &quot;consistently candid in his communications&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/231117/p18#a231117p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

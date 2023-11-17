@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A California convicts former VC Mike Rothenberg on 21 counts for defrauding investors, including bank fraud, false statements, money laundering, and wire fraud &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/231117/p13#a231117p13)
+ - [The creators of Monarch: Legacy of Monsters aren’t just trying to make a Godzilla spinoff show](https://www.theverge.com/23960969/monarch-legacy-of-monsters-matt-shakman-matt-fraction-chris-black-interview)
  - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)
  - [Current and ex-Snap staffers say Evan Spiegel has spoken admiringly of some of Musk&#39;s ideas for X as he promotes &quot;hardcore&quot; work to lift Snap from an ad slump &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231117/p12#a231117p12)
- - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)
- - [This is the keyboard that will convert you to the low-profile life](https://www.theverge.com/23965283/lofree-flow-low-profile-keyboard-review)
- - [Internal memo: Amazon plans to cut several hundred roles in its Alexa division as part of a broader shift in priorities and a focus on generative AI &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231117/p11#a231117p11)<!-- TECH:END -->
+ - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

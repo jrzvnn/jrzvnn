@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 😝 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
- - 💣 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
- - 😝 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
+ - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
+ - 💣 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
+ - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
  - 👉 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)<!-- MEMES:END -->
 
 ---

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 👉 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)<!-- MEMES:END -->
+ - 😝 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)
+ - 😝 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)
+ - 💣 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
+ - 👉 [Free Bird](http://9gag.com/gag/amAwbzd)<!-- MEMES:END -->
 
 ---
 

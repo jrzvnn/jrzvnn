@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 💣 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
- - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
+ - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 😝 [When apple blocks all the devices you just stole from their store](http://9gag.com/gag/aGE5O56)
+ - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
 
 ---
 

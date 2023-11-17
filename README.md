@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Hulks been weakened by today&#39;s feminism yet the She-Hulk continues to twerk.](http://9gag.com/gag/a04qxMd)
- - 💣 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
+ - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 💣 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
+ - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
 
 ---
 

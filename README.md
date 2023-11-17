@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s early Black Friday deals knock up to 90% off thousands of holiday gift ideas](https://appleinsider.com/articles/23/11/17/amazons-early-black-friday-deals-knock-up-to-90-off-thousands-of-holiday-gift-ideas?utm_medium=rss)
  - [11 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
  - [The FBI and CISA release an advisory detailing tactics used by Scattered Spider, a hacking group that now collaborates with the BlackCat ransomware group &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231117/p3#a231117p3)
  - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)
- - [Coinbase updates Coinbase Commerce with its new open source Onchain Payment Protocol, which offers instant settlement, low fees, and broad asset support &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231117/p2#a231117p2)
- - [Qualcomm&#39;s Next Chip Brings ChatGPT-Like AI To More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/qualcomms-next-chip-brings-chatgpt-like-ai-to-more-affordable-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase updates Coinbase Commerce with its new open source Onchain Payment Protocol, which offers instant settlement, low fees, and broad asset support &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231117/p2#a231117p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

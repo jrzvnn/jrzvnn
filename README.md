@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - 😝 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)
- - 💣 [This old gem...](http://9gag.com/gag/aOx5GxR)
- - 😝 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
- - 👉 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)<!-- MEMES:END -->
+ - 😝 [This old gem...](http://9gag.com/gag/aOx5GxR)
+ - 💣 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
+ - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 👉 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)<!-- MEMES:END -->
 
 ---
 

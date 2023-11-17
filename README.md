@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously](http://9gag.com/gag/a3ZrpYQ)
- - 😝 [How the turn tables](http://9gag.com/gag/aL15b7g)
- - 💣 [Sometimes you just have to give people what they want](http://9gag.com/gag/aOx5NVM)
- - 😝 [We are reaching Clown World levels that shouldn&#39;t be possible](http://9gag.com/gag/ay2wV0W)
- - 👉 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)<!-- MEMES:END -->
+ - 😝 [Extremely close call](http://9gag.com/gag/az2wBOb)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 👉 [When apple blocks all the devices you just stole from their store](http://9gag.com/gag/aGE5O56)<!-- MEMES:END -->
 
 ---
 

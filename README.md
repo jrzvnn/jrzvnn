@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2023 Live Blog: Early Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
- - [Amazon slashes MacBook Air to $749.99 with hidden Black Friday discount](https://appleinsider.com/articles/23/11/17/amazon-slashes-macbook-air-to-74999-with-hidden-black-friday-discount?utm_medium=rss)
- - [StackSocial Black Friday Deals: $23 Windows 11 Pro, $40 Off Costco Membership and More     - CNET](https://www.cnet.com/deals/stacksocial-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
- - [This Is the Worst Time to Travel for Thanksgiving 2023     - CNET](https://www.cnet.com/tech/this-is-the-worst-time-to-travel-for-thanksgiving-2023/#ftag=CAD590a51e)
- - [Dr. Jessie Christiansen Wants to Help You Discover the Next Exoplanet](https://www.wired.com/story/women-in-science-jessie-christansen/)<!-- TECH:END -->
+ - [An update to its developer terms suggests that X plans to let EU researchers access its API and use its licensed data for DSA-related research purposes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231117/p8#a231117p8)
+ - [The secret environmental cost hiding inside your smart home device](https://www.theverge.com/2023/11/17/23951196/smart-home-ai-data-electricity-fossil-fuel-climate-change)
+ - [Amazon says it is targeting merchandise exports worth $20B from India by 2025 and has more than 100K small manufacturers from the country on its platform &lpar;Manoj Kumar/Reuters&rpar;](http://www.techmeme.com/231117/p7#a231117p7)
+ - [Recording Spatial Video, Nothing&#39;s iMessage gamble, &amp; M3 Max on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast?utm_medium=rss)
+ - [TCL RayNeo Air 2 XR Glasses Review: Big Virtual Screen, Blurry](https://www.wired.com/review/tcl-rayneo-air-2-xr-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

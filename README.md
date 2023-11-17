@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: the DOJ wrapped up the trial&#39;s evidentiary phase on Thursday, having argued that Google broke antitrust law; closing arguments are set for May &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231117/p10#a231117p10)
+ - [Apple Watch Ultra 2 drops to record low $739 in early Black Friday price war](https://appleinsider.com/articles/23/11/17/apple-watch-ultra-2-drops-to-record-low-739-in-early-black-friday-price-war?utm_medium=rss)
  - [The Case for Using AI to Log Your Every Living Moment](https://www.wired.com/story/the-case-for-using-ai-to-log-your-every-living-moment/)
  - [Google DeepMind’s AI Pop Star Clone Will Freak You Out](https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/)
- - [&#39;Baldur’s Gate 3&#39; Is Even More Magical With a D&amp;D Player’s Handbook](https://www.wired.com/story/baldurs-gate-3-play-it-with-the-dungeons-dragons-handbook-rave/)
- - [7 Theragun Black Friday Deals &lpar;2023&rpar;: Percussive Massage Devices](https://www.wired.com/story/therabody-theragun-black-friday-deals-2023/)
- - [Ford F-150 Lightning Platinum Review: Time&#39;s Up for ICE Trucks](https://www.wired.com/review/f150-lightning-2023/)<!-- TECH:END -->
+ - [&#39;Baldur’s Gate 3&#39; Is Even More Magical With a D&amp;D Player’s Handbook](https://www.wired.com/story/baldurs-gate-3-play-it-with-the-dungeons-dragons-handbook-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

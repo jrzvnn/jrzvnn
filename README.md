@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The EU Court of Justice says Apple has filed a legal challenge to the Digital Markets Act &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)
+ - [Our Favorite Cordless Vacuum of 2023 Is Down to a New All-Time Low for Black Friday     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-black-friday-all-time-low-200/#ftag=CAD590a51e)
  - [Nothing Chats First Look: iMessage on Android](https://www.wired.com/story/nothing-chats/)
- - [Joe Biden’s top climate adviser on how climate change will shape the US economy](https://www.theverge.com/23963681/biden-climate-adviser-climate-change-us-economy-ali-zaidi)
- - [DoggoRamps Couch Ramp Review: A Well-Built Ramp](https://www.wired.com/review/doggoramps-couch-ramp/)
- - [Amazon issues price cut on Apple&#39;s iPad 10th Generation, now $349](https://appleinsider.com/articles/23/11/17/amazon-issues-price-cut-on-apples-ipad-10th-generation-now-349?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Buffalo, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
+ - [Best Black Friday Laptop Deals: Big Savings on Apple, Lenovo, Acer, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

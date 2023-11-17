@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 😝 [People are starting to see](http://9gag.com/gag/a4oyq5Z)
- - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
  - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 ---
 

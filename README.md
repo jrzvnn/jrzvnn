@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
- - 😝 [This old gem...](http://9gag.com/gag/aOx5GxR)
- - 💣 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
- - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
- - 👉 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)<!-- MEMES:END -->
+ - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
+ - 😝 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)
+ - 💣 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 😝 [Extremely close call](http://9gag.com/gag/az2wBOb)
+ - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
 
 ---
 

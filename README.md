@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI CEO Sam Altman Is Out After Losing Confidence of Board](https://www.wired.com/story/openai-ceo-sam-altman-is-out-after-losing-confidence-of-board/)
  - [NFL has nothing better to do than mistake an iPad Glove for an injury](https://appleinsider.com/articles/23/11/17/nfl-has-nothing-better-to-do-than-mistake-an-ipad-glove-for-an-injury?utm_medium=rss)
  - [Apple reportedly pausing advertising on X again, after more controversy](https://appleinsider.com/articles/23/11/17/apple-reportedly-pausing-advertising-on-x-again-after-more-controversy?utm_medium=rss)
  - [OpenAI CTO Mira Murati becomes its interim CEO; president Greg Brockman steps down as chairman of the board but remains in his role at the company &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p19#a231117p19)
- - [Nothing&#39;s iMessage bridge doesn&#39;t appear to be encrypted at all](https://appleinsider.com/articles/23/11/17/nothings-imessage-bridge-doesnt-appear-to-be-encrypted-at-all?utm_medium=rss)
- - [Sam Altman departs as OpenAI CEO and leaves its board after a review by the board found he wasn&#39;t &quot;consistently candid in his communications with the board&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/231117/p18#a231117p18)<!-- TECH:END -->
+ - [Nothing&#39;s iMessage bridge doesn&#39;t appear to be encrypted at all](https://appleinsider.com/articles/23/11/17/nothings-imessage-bridge-doesnt-appear-to-be-encrypted-at-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

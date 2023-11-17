@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock tf out](http://9gag.com/gag/aWG5RZx)
- - 😝 [Not my hand](http://9gag.com/gag/abvwR8E)
- - 💣 [The clown,](http://9gag.com/gag/aDY5ObG)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 👉 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)<!-- MEMES:END -->
+ - 😝 [But high standards...](http://9gag.com/gag/aZD5vLV)
+ - 😝 [Owned](http://9gag.com/gag/az2w4zz)
+ - 💣 [Someone pls share more like this!!](http://9gag.com/gag/aVb52vv)
+ - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 👉 [Europe will be Islamic in a decade... Terrorists have invaded it under guise of refugees and illegal immigrants.](http://9gag.com/gag/a5X35vo)<!-- MEMES:END -->
 
 ---
 

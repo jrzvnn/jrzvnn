@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple files legal challenge over Europe&#39;s demand for third-party app stores](https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores?utm_medium=rss)
  - [Get up to $250 off Bose headphones and soundbars in new Black Friday sales](https://appleinsider.com/articles/23/11/17/get-up-to-250-off-bose-headphones-and-soundbars-in-new-black-friday-sales?utm_medium=rss)
  - [You Need a Heat Pump. Soon You’ll Have More American-Made Options](https://www.wired.com/story/you-need-a-heat-pump-soon-youll-have-more-american-made-options/)
  - [A California convicts former VC Mike Rothenberg on 21 counts for defrauding investors, including bank fraud, false statements, money laundering, and wire fraud &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/231117/p13#a231117p13)
- - [The creators of Monarch: Legacy of Monsters aren’t just trying to make a Godzilla spinoff show](https://www.theverge.com/23960969/monarch-legacy-of-monsters-matt-shakman-matt-fraction-chris-black-interview)
- - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
+ - [The creators of Monarch: Legacy of Monsters aren’t just trying to make a Godzilla spinoff show](https://www.theverge.com/23960969/monarch-legacy-of-monsters-matt-shakman-matt-fraction-chris-black-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

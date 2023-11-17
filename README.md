@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 😝 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)
- - 💣 [Free Bird](http://9gag.com/gag/amAwbzd)
- - 😝 [We are reaching Clown World levels that shouldn&#39;t be possible](http://9gag.com/gag/ay2wV0W)
- - 👉 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)<!-- MEMES:END -->
+ - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
 
 ---
 

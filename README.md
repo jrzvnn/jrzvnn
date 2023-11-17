@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 💣 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 👉 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)<!-- MEMES:END -->
+ - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 💣 [Free Bird](http://9gag.com/gag/amAwbzd)
+ - 😝 [We are reaching Clown World levels that shouldn&#39;t be possible](http://9gag.com/gag/ay2wV0W)
+ - 👉 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)<!-- MEMES:END -->
 
 ---
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The US Air Force recruits new cadets](http://9gag.com/gag/aoKw8Vm)
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 💣 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 😝 [When apple blocks all the devices you just stole from their store](http://9gag.com/gag/aGE5O56)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get distracted kings](http://9gag.com/gag/aKE5Lz1)
+ - 😝 [This old gem...](http://9gag.com/gag/aOx5GxR)
+ - 💣 [They call it the Cave of Death](http://9gag.com/gag/a4oyVLy)
+ - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 👉 [Animate blooper reels](http://9gag.com/gag/a2KpxbY)<!-- MEMES:END -->
 
 ---
 

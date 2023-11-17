@@ -152,9 +152,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Turn up the music,turn down the drama.](http://9gag.com/gag/a8qOK5Y)
- - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
- - 💣 [Mom, what does that mean?](http://9gag.com/gag/az2wZdK)
  - 😝 [Soon Europe will face this too. Just wait till Muslims get near majority, extreme left wing people of Non-Islam will give them more power too.](http://9gag.com/gag/ajVwyV1)
+ - 💣 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Bro trust me, if I wasn&#39;t married I could totally pull this off.](http://9gag.com/gag/aPg2rMK)
  - 👉 [The clown,](http://9gag.com/gag/aDY5ObG)<!-- MEMES:END -->
 
 ---

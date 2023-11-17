@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Bellroy’s iPhone 15 Pro case has a proper Action Button now](https://www.theverge.com/2023/11/17/23965171/bellroy-iphone-15-pro-case-action-button-cutout)
- - [Amazon&#39;s early Black Friday deals knock up to 90% off thousands of holiday gift ideas](https://appleinsider.com/articles/23/11/17/amazons-early-black-friday-deals-knock-up-to-90-off-thousands-of-holiday-gift-ideas?utm_medium=rss)
- - [11 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
- - [The FBI and CISA release an advisory detailing tactics used by Scattered Spider, a hacking group that now collaborates with the BlackCat ransomware group &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231117/p3#a231117p3)
- - [Black Friday Sonos deals: save up to 25% on soundbars &amp; speakers](https://appleinsider.com/articles/23/11/17/black-friday-sonos-deals-save-up-to-25-on-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Fubo&#39;s Black Friday Streaming Deal Is Its Biggest Sale of the Year     - CNET](https://www.cnet.com/deals/fubos-black-friday-streaming-deal-is-its-biggest-sale-of-the-year/#ftag=CAD590a51e)
+ - [This Tiny USB-C Rechargeable Lantern Is My Perfect Camping and Go-Bag Lighting Source     - CNET](https://www.cnet.com/deals/this-tiny-usb-c-rechargeable-lantern-is-my-perfect-camping-and-go-bag-lighting-source/#ftag=CAD590a51e)
+ - [Mint Mobile&#39;s Black Friday Sale Gets You 3 Months of Service for Free     - CNET](https://www.cnet.com/deals/mint-mobiles-black-friday-sale-gets-you-3-months-of-service-for-free/#ftag=CAD590a51e)
+ - [Amazon&#39;s early Black Friday deals knock up to 90% off thousands of holiday gift ideas](https://appleinsider.com/articles/23/11/17/amazons-early-black-friday-deals-knock-up-to-90-off-thousands-of-holiday-gift-ideas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

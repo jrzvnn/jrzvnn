@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Best Internet Providers in Honolulu, Hawaii     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-honolulu-hi/#ftag=CAD590a51e)
- - [Best Internet Providers in Savannah, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
- - [Apple Arcade: Every New Title Arriving in November     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
- - [The EU Court of Justice says Apple filed a legal case contesting the European Commission&#39;s decisions under the DMA; Meta and TikTok separately filed cases too &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231117/p15#a231117p15)<!-- TECH:END -->
+ - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
+ - [Apple&#39;s entire OLED iPad plan may have just been leaked](https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked?utm_medium=rss)
+ - [Sonos speakers and soundbars are up to 25 percent off ahead of Black Friday](https://www.theverge.com/2023/11/17/23965566/sonos-era-100-roam-arc-beam-soundbar-smart-speaker-black-friday-deal-sale)
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

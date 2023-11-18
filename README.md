@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Just Wanted A Pfand](http://9gag.com/gag/armwDRK)
- - 😝 [You can either be FAT-jolly or SKINNY-b*tch!](http://9gag.com/gag/ay2wApM)
- - 💣 [No words](http://9gag.com/gag/aGE5qy7)
- - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
- - 👉 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)<!-- MEMES:END -->
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 💣 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
+ - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 
 ---
 

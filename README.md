@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [This was a `BIG` Butt!](http://9gag.com/gag/armwDE6)
- - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 😝 [I can explain guy](http://9gag.com/gag/aKE5prQ)
- - 👉 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)<!-- MEMES:END -->
+ - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
+ - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 😝 [Extremely close call](http://9gag.com/gag/az2wBOb)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 ---
 

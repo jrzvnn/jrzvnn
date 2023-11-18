@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX’s second Starship flight test ends in an explosion minutes after launch](https://www.theverge.com/2023/11/18/23965728/spacex-starship-flight-test-explosion-super-heavy-booster)
  - [SpaceX’s Starship Lost Shortly After Launch of Second Test Flight](https://www.wired.com/story/spacex-starship-second-orbital-test-flight/)
  - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023/)
  - [12 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)
- - [California’s Giant Sequoias Are in Big Trouble](https://www.wired.com/story/californias-giant-sequoias-are-in-big-trouble/)
- - [Lenovo Legion Go Review: The ... Third Best Gaming Handheld?](https://www.wired.com/review/lenovo-legion-go/)<!-- TECH:END -->
+ - [California’s Giant Sequoias Are in Big Trouble](https://www.wired.com/story/californias-giant-sequoias-are-in-big-trouble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -153,8 +153,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Her allah seems to like Israel a lot](http://9gag.com/gag/avQwBxO)
  - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
- - 💣 [Pride takes many forms](http://9gag.com/gag/aEq5jon)
- - 😝 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)
+ - 💣 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)
+ - 😝 [Pride takes many forms](http://9gag.com/gag/aEq5jon)
  - 👉 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)<!-- MEMES:END -->
 
 ---

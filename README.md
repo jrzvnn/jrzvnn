@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: three senior OpenAI researchers resign, including Director of Research Jakub Pachocki, and Head of Preparedness Aleksander Madry &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231118/p5#a231118p5)
  - [Cambridge Dictionary announces &quot;hallucinate&quot; as its 2023 word of the year, citing the word&#39;s new meaning in relation to generative AI &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231118/p4#a231118p4)
  - [Source: Ilya Sutskever and his allies on the OpenAI board may have been put off by Sam Altman looking to raise funds for new companies off of OpenAI&#39;s name &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p3#a231118p3)
  - [Amazon joins Black Friday M3 MacBook Pro price war, driving prices down to $1,449](https://appleinsider.com/articles/23/11/18/amazon-joins-black-friday-m3-macbook-pro-price-war-driving-prices-down-to-1449?utm_medium=rss)
- - [A look at OpenAI&#39;s unusual independent board of directors, which includes Quora CEO Adam D&#39;Angelo, entrepreneur Tasha McCauley, and Georgetown&#39;s Helen Toner &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p2#a231118p2)
- - [Greg Brockman describes Ilya Sutskever&#39;s role in Sam Altman&#39;s firing and Brockman&#39;s removal from the OpenAI board, as well as Mira Murati&#39;s foreknowledge &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231118/p1#a231118p1)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s unusual independent board of directors, which includes Quora CEO Adam D&#39;Angelo, entrepreneur Tasha McCauley, and Georgetown&#39;s Helen Toner &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p2#a231118p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

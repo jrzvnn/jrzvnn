@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 😝 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)
- - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 👉 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)<!-- MEMES:END -->
+ - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 😝 [Meme origins](http://9gag.com/gag/aZD5oqp)
+ - 💣 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
+ - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
 
 ---
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 💣 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 👉 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)<!-- MEMES:END -->
+ - 😝 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)
+ - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
+ - 💣 [In Ireland at Dublin University a Muslim student threatened Jewish students: \u201cWe will do what happened on October 7th again and again. Allah Akbar!` These fanatics cannot live in Europe, they must be expelled en masse.](http://9gag.com/gag/ajVwMb0)
+ - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
+ - 👉 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)<!-- MEMES:END -->
 
 ---
 

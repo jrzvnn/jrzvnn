@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)
+ - [More Eye Drops Recalled: How to Keep Your Eyes Safe     - CNET](https://www.cnet.com/health/personal-care/more-eye-drops-recalled-how-to-keep-your-eyes-safe/#ftag=CAD590a51e)
  - [Sam Altman’s Sudden Exit Sends Shockwaves Through OpenAI and Beyond](https://www.wired.com/story/openai-sam-altman-ousted-what-happened/)
- - [Source: Ilya Sutskever defended Altman&#39;s ouster at an all-hands meeting, saying it was necessary to protect OpenAI&#39;s mission of making AI beneficial to humanity &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231118/p10#a231118p10)
- - [Nothing pulls its Sunbird-based iMessage app Nothing Chats from Play Store after a researcher found the app is not e2e encrypted, attachments are public, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231118/p9#a231118p9)
- - [Sleeping More May Reduce Your Risk of Diabetes, New Study Suggests     - CNET](https://www.cnet.com/health/medical/sleeping-more-may-reduce-your-risk-of-diabetes-new-study-suggests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Embrace the Nomad Lifestyle With This Early Black Friday Sale     - CNET](https://www.cnet.com/deals/embrace-the-nomad-lifestyle-with-this-early-black-friday-sale/#ftag=CAD590a51e)
+ - [FAST TV: What It Is and Why It Should Matter to You     - CNET](https://www.cnet.com/tech/services-and-software/fast-tv-what-it-is-and-why-it-should-matter-to-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

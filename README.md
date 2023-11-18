@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
  - 💣 [In Ireland at Dublin University a Muslim student threatened Jewish students: \u201cWe will do what happened on October 7th again and again. Allah Akbar!` These fanatics cannot live in Europe, they must be expelled en masse.](http://9gag.com/gag/ajVwMb0)
  - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 👉 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)<!-- MEMES:END -->
+ - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
 
 ---
 

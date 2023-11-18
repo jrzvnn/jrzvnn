@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how New Delhi-based Appin grew from an edtech startup into a provider of cyberespionage services for private investigators globally &lpar;Reuters&rpar;](http://www.techmeme.com/231118/p7#a231118p7)
  - [47 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023/)
  - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)
  - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [15 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)
- - [How to Watch Your Favorite Shows Abroad](https://www.wired.com/story/how-to-watch-tv-shows-movies-streaming-abroad/)<!-- TECH:END -->
+ - [15 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

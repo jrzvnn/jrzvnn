@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 😝 [Female Muslim says \u201cIslam is the most feminist religion\u201d and gets a laugh from the audience.](http://9gag.com/gag/ap9wzxB)
- - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
+ - 💣 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
+ - 👉 [Story of my life](http://9gag.com/gag/abvwm1r)<!-- MEMES:END -->
 
 ---
 

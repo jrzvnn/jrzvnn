@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
  - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
+ - 💣 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 👉 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)<!-- MEMES:END -->
 
 ---
 

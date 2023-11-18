@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenAI&#39;s complicated relationship with Microsoft, which does not have a seat on the OpenAI board due to OpenAI&#39;s origins as a non-profit organization &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231118/p11#a231118p11)
  - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)
  - [More Eye Drops Recalled: How to Keep Your Eyes Safe     - CNET](https://www.cnet.com/health/personal-care/more-eye-drops-recalled-how-to-keep-your-eyes-safe/#ftag=CAD590a51e)
  - [Sam Altman’s Sudden Exit Sends Shockwaves Through OpenAI and Beyond](https://www.wired.com/story/openai-sam-altman-ousted-what-happened/)
- - [Embrace the Nomad Lifestyle With This Early Black Friday Sale     - CNET](https://www.cnet.com/deals/embrace-the-nomad-lifestyle-with-this-early-black-friday-sale/#ftag=CAD590a51e)
- - [FAST TV: What It Is and Why It Should Matter to You     - CNET](https://www.cnet.com/tech/services-and-software/fast-tv-what-it-is-and-why-it-should-matter-to-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Embrace the Nomad Lifestyle With This Early Black Friday Sale     - CNET](https://www.cnet.com/deals/embrace-the-nomad-lifestyle-with-this-early-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

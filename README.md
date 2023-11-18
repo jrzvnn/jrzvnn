@@ -144,9 +144,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Source: Ilya Sutskever defended Altman&#39;s ouster at an all-hands meeting, saying it was necessary to protect OpenAI&#39;s mission of making AI beneficial to humanity &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231118/p10#a231118p10)
  - [Nothing pulls its Sunbird-based iMessage app Nothing Chats from Play Store after a researcher found the app is not e2e encrypted, attachments are public, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231118/p9#a231118p9)
- - [Do Pixel 8 AI-edited photos have to be labeled as synthetic content on YouTube? YouTube is still figuring it out.](https://www.theverge.com/2023/11/18/23965844/pixel-8-ai-edited-photos-youtube-google)
- - [SAG-AFTRA’s new contract hinges on studios acting responsibly with AI](https://www.theverge.com/2023/11/18/23962349/sag-aftra-tentative-agreement-generative-artificial-intelligence-vote)
- - [Give a Parent the Gift of Peaceful Sleep: My Favorite Wi-Fi Baby Monitor Is a Black Friday Deal     - CNET](https://www.cnet.com/deals/give-a-parent-the-gift-of-peaceful-sleep-my-favorite-wi-fi-baby-monitor-is-a-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sleeping More May Reduce Your Risk of Diabetes, New Study Suggests     - CNET](https://www.cnet.com/health/medical/sleeping-more-may-reduce-your-risk-of-diabetes-new-study-suggests/#ftag=CAD590a51e)
+ - [The 3 Best Espresso Machines of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
+ - [Do Pixel 8 AI-edited photos have to be labeled as synthetic content on YouTube? YouTube is still figuring it out.](https://www.theverge.com/2023/11/18/23965844/pixel-8-ai-edited-photos-youtube-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

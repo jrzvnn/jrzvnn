@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
- - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
- - 💣 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
- - 👉 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)<!-- MEMES:END -->
+ - 😝 [Dog: Where are your fingers?](http://9gag.com/gag/aEq5QWO)
+ - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
+ - 💣 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 👉 [Story of my life](http://9gag.com/gag/abvwm1r)<!-- MEMES:END -->
 
 ---
 

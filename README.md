@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog: Where are your fingers?](http://9gag.com/gag/aEq5QWO)
- - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 💣 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 😝 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
  - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 👉 [Story of my life](http://9gag.com/gag/abvwm1r)<!-- MEMES:END -->
+ - 👉 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)<!-- MEMES:END -->
 
 ---
 

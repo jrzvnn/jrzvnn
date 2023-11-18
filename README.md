@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony announces The Last of Us Part II remaster for PS5](https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks)
  - [OpenAI co-founder and President Greg Brockman says he has quit the company &quot;based on today&#39;s news&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p26#a231117p26)
  - [OpenAI co-founder Greg Brockman is leaving, too](https://www.theverge.com/2023/11/17/23966277/openai-co-founder-greg-brockman-leaving)
  - [Source: Sam Altman was in the middle of raising money for a new VC fund focusing on hard tech when OpenAI fired him &lpar;Semafor&rpar;](http://www.techmeme.com/231117/p25#a231117p25)
- - [After learning today&#39;s news, this is the message I sent to the OpenAI team: [image] &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231117/p24#a231117p24)
- - [Apple pulls its ads from X after Musk’s antisemitic posts](https://www.theverge.com/2023/11/17/23965928/apple-x-ads-elon-musk-antisemitic-posts)<!-- TECH:END -->
+ - [After learning today&#39;s news, this is the message I sent to the OpenAI team: [image] &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231117/p24#a231117p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

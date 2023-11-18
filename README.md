@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 😝 [Meme origins](http://9gag.com/gag/aZD5oqp)
- - 💣 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 👉 [In Ireland at Dublin University a Muslim student threatened Jewish students: \u201cWe will do what happened on October 7th again and again. Allah Akbar!` These fanatics cannot live in Europe, they must be expelled en masse.](http://9gag.com/gag/ajVwMb0)<!-- MEMES:END -->
+ - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
+ - 😝 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
+ - 💣 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [Story of my life](http://9gag.com/gag/abvwm1r)
+ - 👉 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)<!-- MEMES:END -->
 
 ---
 

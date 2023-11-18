@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro Parasites shut their cars off on the Bay Bridge and dumped their keys in the bay, causing a huge traffic jam. California](http://9gag.com/gag/anzwdzB)
  - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 💣 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 👉 [Damn son](http://9gag.com/gag/aXn1GR2)<!-- MEMES:END -->
+ - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 👉 [I&#39;d break the sound barrier driving away](http://9gag.com/gag/aVb59B2)<!-- MEMES:END -->
 
 ---
 

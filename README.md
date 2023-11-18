@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Greg Brockman describes Ilya Sutskever&#39;s role in Sam Altman&#39;s firing and Brockman&#39;s removal from the OpenAI board, as well as Mira Murati&#39;s foreknowledge &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231118/p1#a231118p1)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Sources: key OpenAI investors, like Vinod Khosla and Reid Hoffman, who previously sat on its board of directors, didn&#39;t get advanced notice of Altman&#39;s firing &lpar;Forbes&rpar;](http://www.techmeme.com/231117/p28#a231117p28)
  - [Sources: Sam Altman&#39;s exit followed a &quot;misalignment&quot; between OpenAI&#39;s profit and nonprofit sides, given the company&#39;s development speed could be viewed as risky &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231117/p27#a231117p27)
- - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the home of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
- - [Black Friday Ads: Shop Now and Plan Ahead for Big Savings at Best Buy, Apple, Walmart and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-ad-scans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the home of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

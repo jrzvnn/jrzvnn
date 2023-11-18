@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
- - 💣 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
+ - 😝 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)
+ - 😝 [Meme origins](http://9gag.com/gag/aZD5oqp)
+ - 💣 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
+ - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
 
 ---
 

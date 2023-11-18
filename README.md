@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details how New Delhi-based Appin grew from an edtech startup into a provider of cyberespionage services for private investigators globally &lpar;Reuters&rpar;](http://www.techmeme.com/231118/p7#a231118p7)
- - [These Eureka Vacuum Black Friday Deals Save You Up to $150     - CNET](https://www.cnet.com/deals/these-eureka-vacuum-black-friday-deals-save-you-up-to-150/#ftag=CAD590a51e)
- - [Grab the Stylish 41mm Apple Watch SE 2 for Just $179 at Walmart     - CNET](https://www.cnet.com/deals/grab-the-stylish-41mm-apple-watch-se-2-for-just-179-at-walmart/#ftag=CAD590a51e)
- - [47 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023/)
- - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)<!-- TECH:END -->
+ - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023/)
+ - [12 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)
+ - [California’s Giant Sequoias Are in Big Trouble](https://www.wired.com/story/californias-giant-sequoias-are-in-big-trouble/)
+ - [Lenovo Legion Go Review: The ... Third Best Gaming Handheld?](https://www.wired.com/review/lenovo-legion-go/)
+ - [An investigation details how New Delhi-based Appin grew from an edtech startup into a provider of cyberespionage services for private investigators globally &lpar;Reuters&rpar;](http://www.techmeme.com/231118/p7#a231118p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany, France, and Italy reach a deal on AI regulation, including binding voluntary commitments for AI providers, which could accelerate EU negotiations &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/231118/p16#a231118p16)
  - [Source: Sam Altman has been telling investors that he is planning to launch a new venture, and Greg Brockman is expected to join the effort &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p15#a231118p15)
  - [Sam Altman&#39;s firing jeopardizes the sale of OpenAI employees&#39; shares; a source says the tender offer values OpenAI at ~$86B and was set to happen in December &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p14#a231118p14)
  - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [Naturally Boost Your Eye Health With These 10 Daily Habits     - CNET](https://www.cnet.com/health/personal-care/naturally-boost-your-eye-health-with-these-10-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

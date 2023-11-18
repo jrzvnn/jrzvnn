@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [New Apple Pencil USB-C gets first major discount at Amazon](https://appleinsider.com/articles/23/11/18/new-apple-pencil-usb-c-gets-first-major-discount-at-amazon?utm_medium=rss)
+ - [Meta split up its Responsible AI team, moving most of its members to the generative AI team it formed in February, and others to an AI infrastructure unit &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/231118/p13#a231118p13)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [OpenAI memo: Altman&#39;s firing was not due to &quot;malfeasance&quot; or related to financial, business, safety, or security practices but a &quot;breakdown in communication&quot; &lpar;Axios&rpar;](http://www.techmeme.com/231118/p12#a231118p12)
- - [Nothing Chats has already been pulled from Google Play over privacy issues](https://www.theverge.com/2023/11/18/23966781/nothing-chats-imessage-unencrypted-sunbird-plaintext)
- - [A look at OpenAI&#39;s complicated relationship with Microsoft, which does not have a seat on the OpenAI board due to OpenAI&#39;s origins as a non-profit organization &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/231118/p11#a231118p11)
- - [Save Big on Heybike E-Bikes During Early Black Friday Sale     - CNET](https://www.cnet.com/roadshow/news/save-big-on-heybike-e-bikes-during-early-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI memo: Altman&#39;s firing was not due to &quot;malfeasance&quot; or related to financial, business, safety, or security practices but a &quot;breakdown in communication&quot; &lpar;Axios&rpar;](http://www.techmeme.com/231118/p12#a231118p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

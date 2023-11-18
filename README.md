@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
- - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 💣 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
+ - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
+ - 😝 [And at this point I&#39;m too ashamed to ask](http://9gag.com/gag/aL15rzx)
+ - 💣 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
+ - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
 
 ---
 

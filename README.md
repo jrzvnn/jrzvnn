@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing kills iMessage bridge because it profoundly violated user privacy &amp; security](https://appleinsider.com/articles/23/11/18/nothing-kills-imessage-bridge-because-it-profoundly-violated-user-privacy-security?utm_medium=rss)
+ - [A profile of Ilya Sutskever, who left Google in 2015 to become OpenAI&#39;s co-founder and chief scientist at Elon Musk&#39;s urging, and is now focused on AI safety &lpar;Steve Mollman/Fortune&rpar;](http://www.techmeme.com/231118/p19#a231118p19)
+ - [Black Friday 2023 Live Blog: Best Deals and Sales From Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
  - [A look at the challenges that OpenAI and its new CEO Mura Murati face in assuaging staff and investors, raising new funding, attracting AI talent, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231118/p18#a231118p18)
- - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
- - [Sources: OpenAI got only a fraction of Microsoft&#39;s $10B investment and a big portion of the funding is in cloud purchases, giving Microsoft significant leverage &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231118/p17#a231118p17)
- - [What Sam Altman&#39;s Firing Means for the Future of OpenAI](https://www.wired.com/story/sam-altman-firing-openai-future/)
- - [Germany, France, and Italy reach a deal on AI regulation, including binding voluntary commitments for AI providers, which could accelerate EU negotiations &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/231118/p16#a231118p16)<!-- TECH:END -->
+ - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

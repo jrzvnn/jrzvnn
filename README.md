@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
- - 😝 [And at this point I&#39;m too ashamed to ask](http://9gag.com/gag/aL15rzx)
- - 💣 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 😝 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
- - 👉 [Not my hand](http://9gag.com/gag/abvwR8E)<!-- MEMES:END -->
+ - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [Pro Parasites shut their cars off on the Bay Bridge and dumped their keys in the bay, causing a huge traffic jam. California](http://9gag.com/gag/anzwdzB)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 👉 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Ilya Sutskever defended Altman&#39;s ouster at an all-hands meeting, saying it was necessary to protect OpenAI&#39;s mission of making AI beneficial to humanity &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231118/p10#a231118p10)
+ - [Nothing pulls its Sunbird-based iMessage app Nothing Chats from Play Store after a researcher found the app is not e2e encrypted, attachments are public, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231118/p9#a231118p9)
+ - [Do Pixel 8 AI-edited photos have to be labeled as synthetic content on YouTube? YouTube is still figuring it out.](https://www.theverge.com/2023/11/18/23965844/pixel-8-ai-edited-photos-youtube-google)
  - [SAG-AFTRA’s new contract hinges on studios acting responsibly with AI](https://www.theverge.com/2023/11/18/23962349/sag-aftra-tentative-agreement-generative-artificial-intelligence-vote)
- - [Save $250 on the 14-inch MacBook Pro M3 Max at Adorama](https://appleinsider.com/articles/23/11/18/save-250-on-the-14-inch-macbook-pro-m3-max-at-adorama?utm_medium=rss)
- - [Argentina&#39;s election has become a testing ground for use of AI in campaigns, as candidates use AI-created media to promote themselves and attack their opponent &lpar;New York Times&rpar;](http://www.techmeme.com/231118/p8#a231118p8)
- - [What My Tour of an Arizona Microgrid Teaches Us About Energy Resiliency     - CNET](https://www.cnet.com/home/energy-and-utilities/what-a-microgrid-in-arizona-teaches-us-about-energy-resiliency/#ftag=CAD590a51e)
- - [Taiga Orca jet ski: Fast, Furious and Eco-Friendly](https://www.wired.com/story/humanitys-most-obnoxious-vehicle-gets-an-electric-and-nearly-silent-makeover/)<!-- TECH:END -->
+ - [Give a Parent the Gift of Peaceful Sleep: My Favorite Wi-Fi Baby Monitor Is a Black Friday Deal     - CNET](https://www.cnet.com/deals/give-a-parent-the-gift-of-peaceful-sleep-my-favorite-wi-fi-baby-monitor-is-a-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

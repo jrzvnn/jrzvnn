@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How they both start genuinely laughing!](http://9gag.com/gag/a7qXAqw)
- - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 💣 [In Ireland at Dublin University a Muslim student threatened Jewish students: \u201cWe will do what happened on October 7th again and again. Allah Akbar!` These fanatics cannot live in Europe, they must be expelled en masse.](http://9gag.com/gag/ajVwMb0)
- - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
+ - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 💣 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 👉 [Assassinated - the `freedom fighter` standing on top of the body of Shani Louk &lpar;the naked Israeli-German corpse that was spit on by Gazan&#39;s&rpar;, had the chance to meet his Akbar &lpar;source - in comments&rpar;](http://9gag.com/gag/ap9wVbB)<!-- MEMES:END -->
 
 ---
 

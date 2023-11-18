@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A look at the challenges that OpenAI and its new CEO Mura Murati face in assuaging staff and investors, raising new funding, attracting AI talent, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231118/p18#a231118p18)
- - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
  - [Sources: OpenAI got only a fraction of Microsoft&#39;s $10B investment and a big portion of the funding is in cloud purchases, giving Microsoft significant leverage &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231118/p17#a231118p17)
  - [What Sam Altman&#39;s Firing Means for the Future of OpenAI](https://www.wired.com/story/sam-altman-firing-openai-future/)
- - [Germany, France, and Italy reach a deal on AI regulation, including binding voluntary commitments for AI providers, which could accelerate EU negotiations &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/231118/p16#a231118p16)<!-- TECH:END -->
+ - [Germany, France, and Italy reach a deal on AI regulation, including binding voluntary commitments for AI providers, which could accelerate EU negotiations &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/231118/p16#a231118p16)
+ - [Source: Sam Altman has been in discussions with semiconductor companies, including Arm, on Friday morning about efforts to design new chips that lower LLM costs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231118/p15#a231118p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Las Vegas GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-las-vegas-gp/#ftag=CAD590a51e)
  - [Disney, Warner Bros. Discovery, Paramount Global, Lionsgate, and Comcast suspend ads on X, joining other media and tech companies &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231118/p6#a231118p6)
  - [Sources: three senior OpenAI researchers resign, including Director of Research Jakub Pachocki, and Head of Preparedness Aleksander Madry &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231118/p5#a231118p5)
  - [Cambridge Dictionary announces &quot;hallucinate&quot; as its 2023 word of the year, citing the word&#39;s new meaning in relation to generative AI &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231118/p4#a231118p4)
- - [This Case Keeps My Nintendo Switch Safe, and It&#39;s Super Cute     - CNET](https://www.cnet.com/deals/this-case-keeps-my-nintendo-switch-safe-and-its-super-cute/#ftag=CAD590a51e)
- - [Source: Ilya Sutskever and his allies on the OpenAI board may have been put off by Sam Altman looking to raise funds for new companies off of OpenAI&#39;s name &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p3#a231118p3)<!-- TECH:END -->
+ - [This Case Keeps My Nintendo Switch Safe, and It&#39;s Super Cute     - CNET](https://www.cnet.com/deals/this-case-keeps-my-nintendo-switch-safe-and-its-super-cute/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)<!-- MEMES:END -->
+ - 😝 [I cringe every time a robot in a movie shoots at someone and misses.](http://9gag.com/gag/aREd9LG)
+ - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
+ - 💣 [Well.. Well well!](http://9gag.com/gag/aDY5POZ)
+ - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
+ - 👉 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)<!-- MEMES:END -->
 
 ---
 

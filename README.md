@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)
- - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
- - 💣 [Justice is served &lpar;links to more info in comments&rpar;](http://9gag.com/gag/ap9wXYE)
- - 😝 [That was brutal](http://9gag.com/gag/axowem2)
- - 👉 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)<!-- MEMES:END -->
+ - 😝 [I&#39;d break the sound barrier driving away](http://9gag.com/gag/aVb59B2)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
 
 ---
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
- - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
- - 💣 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 😝 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)
- - 👉 [I can&#39;t even...](http://9gag.com/gag/aA05q60)<!-- MEMES:END -->
+ - 😝 [This was a `BIG` Butt!](http://9gag.com/gag/armwDE6)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 💣 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 ---
 

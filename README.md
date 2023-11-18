@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 😝 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)<!-- MEMES:END -->
+ - 😝 [Her allah seems to like Israel a lot](http://9gag.com/gag/avQwBxO)
+ - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
+ - 💣 [Pride takes many forms](http://9gag.com/gag/aEq5jon)
+ - 😝 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)
+ - 👉 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)<!-- MEMES:END -->
 
 ---
 

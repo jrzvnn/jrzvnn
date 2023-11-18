@@ -144,9 +144,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Save $250 on the 14-inch MacBook Pro M3 Max at Adorama](https://appleinsider.com/articles/23/11/18/save-250-on-the-14-inch-macbook-pro-m3-max-at-adorama?utm_medium=rss)
  - [Argentina&#39;s election has become a testing ground for use of AI in campaigns, as candidates use AI-created media to promote themselves and attack their opponent &lpar;New York Times&rpar;](http://www.techmeme.com/231118/p8#a231118p8)
+ - [What My Tour of an Arizona Microgrid Teaches Us About Energy Resiliency     - CNET](https://www.cnet.com/home/energy-and-utilities/what-a-microgrid-in-arizona-teaches-us-about-energy-resiliency/#ftag=CAD590a51e)
  - [Taiga Orca jet ski: Fast, Furious and Eco-Friendly](https://www.wired.com/story/humanitys-most-obnoxious-vehicle-gets-an-electric-and-nearly-silent-makeover/)
- - [You’ll Be Able Buy Cars on Amazon Next Year](https://www.wired.com/story/hyundai-amazon-car-sales/)
- - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)<!-- TECH:END -->
+ - [You’ll Be Able Buy Cars on Amazon Next Year](https://www.wired.com/story/hyundai-amazon-car-sales/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

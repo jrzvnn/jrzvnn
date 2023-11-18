@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did the little one dirty af](http://9gag.com/gag/aoKwDbe)
- - 😝 [Meme origins](http://9gag.com/gag/aZD5oqp)
- - 💣 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [`In a street fight, if you miss your 1st ultimate punch it&#39;s pretty much over` ~ Experience](http://9gag.com/gag/aZD5Rn0)
+ - 💣 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
+ - 😝 [Don&#39;t pick me up](http://9gag.com/gag/aoKwnY2)
+ - 👉 [Ah yes, I forgot to ask the jeepney driver to stop because I am too busy meditating...](http://9gag.com/gag/aZD5Vb9)<!-- MEMES:END -->
 
 ---
 

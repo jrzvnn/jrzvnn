@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cringe every time a robot in a movie shoots at someone and misses.](http://9gag.com/gag/aREd9LG)
- - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 💣 [Well.. Well well!](http://9gag.com/gag/aDY5POZ)
- - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
- - 👉 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)<!-- MEMES:END -->
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 😝 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
+ - 💣 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
+ - 😝 [Awl shit,this Alzheimer\u2019s thing is happening again](http://9gag.com/gag/aREdy72)
+ - 👉 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)<!-- MEMES:END -->
 
 ---
 

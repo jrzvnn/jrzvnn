@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 💣 [Free him](http://9gag.com/gag/a04qgYB)
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 👉 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)<!-- MEMES:END -->
+ - 😝 [That was brutal](http://9gag.com/gag/axowem2)
+ - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
+ - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
+ - 😝 [Justice is served &lpar;links to more info in comments&rpar;](http://9gag.com/gag/ap9wXYE)
+ - 👉 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)<!-- MEMES:END -->
 
 ---
 

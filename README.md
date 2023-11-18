@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 😝 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 👉 [I&#39;d break the sound barrier driving away](http://9gag.com/gag/aVb59B2)<!-- MEMES:END -->
+ - 😝 [He Just Wanted A Pfand](http://9gag.com/gag/armwDRK)
+ - 😝 [You can either be FAT-jolly or SKINNY-b*tch!](http://9gag.com/gag/ay2wApM)
+ - 💣 [No words](http://9gag.com/gag/aGE5qy7)
+ - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
+ - 👉 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)<!-- MEMES:END -->
 
 ---
 

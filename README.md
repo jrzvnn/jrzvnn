@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the home of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [Black Friday Ads: Shop Now and Plan Ahead for Big Savings at Best Buy, Apple, Walmart and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-ad-scans/#ftag=CAD590a51e)
  - [Sony announces The Last of Us Part II remaster for PS5](https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks)
- - [OpenAI co-founder and President Greg Brockman says he has quit the company &quot;based on today&#39;s news&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p26#a231117p26)
- - [OpenAI co-founder Greg Brockman is leaving, too](https://www.theverge.com/2023/11/17/23966277/openai-co-founder-greg-brockman-leaving)
- - [Source: Sam Altman was in the middle of raising money for a new VC fund focusing on hard tech when OpenAI fired him &lpar;Semafor&rpar;](http://www.techmeme.com/231117/p25#a231117p25)
- - [After learning today&#39;s news, this is the message I sent to the OpenAI team: [image] &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231117/p24#a231117p24)<!-- TECH:END -->
+ - [OpenAI co-founder and President Greg Brockman says he has quit the company &quot;based on today&#39;s news&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p26#a231117p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

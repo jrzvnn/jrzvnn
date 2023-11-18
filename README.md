@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her allah seems to like Israel a lot](http://9gag.com/gag/avQwBxO)
- - 😝 [A group of legends](http://9gag.com/gag/a3ZrzB5)
- - 💣 [Factual and scientifically relevant truth hurts some people](http://9gag.com/gag/avQwBQW)
- - 😝 [Pride takes many forms](http://9gag.com/gag/aEq5jon)
- - 👉 [Dude jumps into aquarium and finds out](http://9gag.com/gag/aEq5NVo)<!-- MEMES:END -->
+ - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
+ - 💣 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)
+ - 👉 [I can&#39;t even...](http://9gag.com/gag/aA05q60)<!-- MEMES:END -->
 
 ---
 

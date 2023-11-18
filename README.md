@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
  - 😝 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
- - 💣 [Next level crazy egg](http://9gag.com/gag/adPw4PQ)
- - 😝 [Awl shit,this Alzheimer\u2019s thing is happening again](http://9gag.com/gag/aREdy72)
- - 👉 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)<!-- MEMES:END -->
+ - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 💣 [Quick math](http://9gag.com/gag/awZ2vO4)
+ - 😝 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 👉 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
 
 ---
 

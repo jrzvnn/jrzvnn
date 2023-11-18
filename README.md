@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
- - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
+ - 😝 [A Canadian security guard argues with a delusional pro-hamas supporter who thinks she has the right to enter any private property to protest. Listen to her arguments..](http://9gag.com/gag/anzw06L)
+ - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
+ - 💣 [Justice is served &lpar;links to more info in comments&rpar;](http://9gag.com/gag/ap9wXYE)
+ - 😝 [That was brutal](http://9gag.com/gag/axowem2)
+ - 👉 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)<!-- MEMES:END -->
 
 ---
 

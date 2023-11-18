@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;d break the sound barrier driving away](http://9gag.com/gag/aVb59B2)
- - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
- - 💣 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
- - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 👉 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)<!-- MEMES:END -->
+ - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
+ - 💣 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 
 ---
 

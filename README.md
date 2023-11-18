@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopping Black Friday 2023? Our Tips for Scam Protection and How to Shop Smart     - CNET](https://www.cnet.com/tech/services-and-software/shopping-black-friday-2023-check-out-these-tips-for-scam-protection-and-how-to-shop-smart/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Las Vegas GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-las-vegas-gp/#ftag=CAD590a51e)
- - [Disney, Warner Bros. Discovery, Paramount Global, Lionsgate, and Comcast suspend ads on X, joining other media and tech companies &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231118/p6#a231118p6)
- - [Sources: three senior OpenAI researchers resign, including Director of Research Jakub Pachocki, and Head of Preparedness Aleksander Madry &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231118/p5#a231118p5)
- - [Cambridge Dictionary announces &quot;hallucinate&quot; as its 2023 word of the year, citing the word&#39;s new meaning in relation to generative AI &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231118/p4#a231118p4)<!-- TECH:END -->
+ - [47 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023/)
+ - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)
+ - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [15 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)
+ - [How to Watch Your Favorite Shows Abroad](https://www.wired.com/story/how-to-watch-tv-shows-movies-streaming-abroad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

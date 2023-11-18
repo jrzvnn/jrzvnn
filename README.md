@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [New Apple Pencil USB-C gets first major discount at Amazon](https://appleinsider.com/articles/23/11/18/new-apple-pencil-usb-c-gets-first-major-discount-at-amazon?utm_medium=rss)
  - [Meta split up its Responsible AI team, moving most of its members to the generative AI team it formed in February, and others to an AI infrastructure unit &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/231118/p13#a231118p13)
- - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [OpenAI memo: Altman&#39;s firing was not due to &quot;malfeasance&quot; or related to financial, business, safety, or security practices but a &quot;breakdown in communication&quot; &lpar;Axios&rpar;](http://www.techmeme.com/231118/p12#a231118p12)<!-- TECH:END -->
+ - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple uses Paris engineers to break and harden iPhone security](https://appleinsider.com/articles/23/11/18/apple-uses-paris-engineers-to-break-and-harden-iphone-security?utm_medium=rss)
+ - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Sources: OpenAI investors discussed reinstating Sam Altman by threatening OpenAI with mass revolt by staff, withholding Microsoft cloud credits, and a lawsuit &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p22#a231118p22)
  - [Sources: Sam Altman and Greg Brockman are in the process of pitching a new AI startup to investors &lpar;New York Times&rpar;](http://www.techmeme.com/231118/p21#a231118p21)
- - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the home of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
- - [Sources: the OpenAI board is in discussions with Sam Altman to return as CEO; source: Altman is &quot;ambivalent&quot; about coming back and would want governance changes &lpar;The Verge&rpar;](http://www.techmeme.com/231118/p20#a231118p20)
- - [Daily deals Nov. 18: $100 off iPad 10th Generation, Beats Studio Pro $170, $100 off Kindle Scribe, more](https://appleinsider.com/articles/23/11/18/daily-deals-nov-18-100-off-ipad-10th-generation-beats-studio-pro-170-100-off-kindle-scribe-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the OpenAI board is in discussions with Sam Altman to return as CEO; source: Altman is &quot;ambivalent&quot; about coming back and would want governance changes &lpar;The Verge&rpar;](http://www.techmeme.com/231118/p20#a231118p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

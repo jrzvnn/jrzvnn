@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [An investigation details how New Delhi-based Appin grew from an edtech startup into a provider of cyberespionage services for private investigators globally &lpar;Reuters&rpar;](http://www.techmeme.com/231118/p7#a231118p7)
+ - [These Eureka Vacuum Black Friday Deals Save You Up to $150     - CNET](https://www.cnet.com/deals/these-eureka-vacuum-black-friday-deals-save-you-up-to-150/#ftag=CAD590a51e)
+ - [Grab the Stylish 41mm Apple Watch SE 2 for Just $179 at Walmart     - CNET](https://www.cnet.com/deals/grab-the-stylish-41mm-apple-watch-se-2-for-just-179-at-walmart/#ftag=CAD590a51e)
  - [47 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023/)
- - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)
- - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [15 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)<!-- TECH:END -->
+ - [Gen Z Is Leaving Dating Apps Behind](https://www.wired.com/story/end-of-dating-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Ireland at Dublin University a Muslim student threatened Jewish students: \u201cWe will do what happened on October 7th again and again. Allah Akbar!` These fanatics cannot live in Europe, they must be expelled en masse.](http://9gag.com/gag/ajVwMb0)
- - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 💣 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)
- - 😝 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 👉 [Well.. Well well!](http://9gag.com/gag/aDY5POZ)<!-- MEMES:END -->
+ - 😝 [Well as long as it works, Ima right](http://9gag.com/gag/aDY5M5G)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 💣 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)
+ - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 ---
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)
- - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
- - 💣 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [I&#39;d break the sound barrier driving away](http://9gag.com/gag/aVb59B2)<!-- MEMES:END -->
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 💣 [Free him](http://9gag.com/gag/a04qgYB)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 👉 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)<!-- MEMES:END -->
 
 ---
 

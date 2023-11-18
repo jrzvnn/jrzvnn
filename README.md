@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait\u2026.. Wha?](http://9gag.com/gag/aPg2dYR)
- - 😝 [Meme origins](http://9gag.com/gag/aZD5oqp)
- - 💣 [Mackelmore reminded of an important life lesson from a fan at his concert.](http://9gag.com/gag/aEq5EBo)
- - 😝 [Biffs](http://9gag.com/gag/a8qOQAY)
- - 👉 [Thanks for the advice](http://9gag.com/gag/aXn1QEz)<!-- MEMES:END -->
+ - 😝 [Blinken&#39;s reaction when Biden calls Xi a dictator.](http://9gag.com/gag/a8qOVOd)
+ - 😝 [He deserved the Oscar back then](http://9gag.com/gag/ajVwMpw)
+ - 💣 [What do you mean? Your girlfriend locked you in?](http://9gag.com/gag/aOx5GPN)
+ - 😝 [Bro was really scared for his life](http://9gag.com/gag/aZD5RWn)
+ - 👉 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)<!-- MEMES:END -->
 
 ---
 

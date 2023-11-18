@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Argentina&#39;s election has become a testing ground for use of AI in campaigns, as candidates use AI-created media to promote themselves and attack their opponent &lpar;New York Times&rpar;](http://www.techmeme.com/231118/p8#a231118p8)
  - [Save $250 on the 14-inch MacBook Pro M3 Max at Adorama](https://appleinsider.com/articles/23/11/18/save-250-on-the-14-inch-macbook-pro-m3-max-at-adorama?utm_medium=rss)
  - [Taiga Orca jet ski: Fast, Furious and Eco-Friendly](https://www.wired.com/story/humanitys-most-obnoxious-vehicle-gets-an-electric-and-nearly-silent-makeover/)
  - [You’ll Be Able Buy Cars on Amazon Next Year](https://www.wired.com/story/hyundai-amazon-car-sales/)
- - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)
- - [SpaceX’s second Starship flight test ends in an explosion minutes after launch](https://www.theverge.com/2023/11/18/23965728/spacex-starship-flight-test-explosion-super-heavy-booster)<!-- TECH:END -->
+ - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

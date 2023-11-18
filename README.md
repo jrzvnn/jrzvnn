@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft learned that OpenAI was ousting CEO Sam Altman just a minute before the news was published &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231117/p22#a231117p22)
- - [21 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023/)
- - [51 Best Early Black Friday Deals &lpar;2023&rpar;: iPads, Scooters, and More](https://www.wired.com/story/absolute-best-black-friday-deals-2/)
- - [Who Is Mira Murati, OpenAI’s New Interim CEO?](https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/)
- - [Find the Very Best Amazon Deals for Black Friday Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI co-founder and President Greg Brockman says he has quit the company &quot;based on today&#39;s news&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231117/p26#a231117p26)
+ - [OpenAI co-founder Greg Brockman is leaving, too](https://www.theverge.com/2023/11/17/23966277/openai-co-founder-greg-brockman-leaving)
+ - [Source: Sam Altman was in the middle of raising money for a new VC fund focusing on hard tech when OpenAI fired him &lpar;Semafor&rpar;](http://www.techmeme.com/231117/p25#a231117p25)
+ - [After learning today&#39;s news, this is the message I sent to the OpenAI team: [image] &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/231117/p24#a231117p24)
+ - [Apple pulls its ads from X after Musk’s antisemitic posts](https://www.theverge.com/2023/11/17/23965928/apple-x-ads-elon-musk-antisemitic-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

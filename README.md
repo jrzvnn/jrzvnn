@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 💣 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)
  - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---

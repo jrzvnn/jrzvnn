@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
+ - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [Free him](http://9gag.com/gag/a04qgYB)
  - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---

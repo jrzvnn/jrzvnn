@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at two content moderation startups founded by ex-Meta and Google staffers as the Israel-Hamas war leads to a surge in demand for trust and safety tech &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231119/p10#a231119p10)
  - [How OpenAI’s Bizarre Structure Gave 4 People the Power to Fire Sam Altman](https://www.wired.com/story/openai-bizarre-structure-4-people-the-power-to-fire-sam-altman/)
  - [Tim Cook defends Apple Watch privacy focus in mental health talk](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
  - [Apple considers bringing iPhone camera sensor designs in-house](https://appleinsider.com/articles/23/11/19/apple-considers-bringing-camera-sensor-designs-in-house?utm_medium=rss)
- - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
- - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

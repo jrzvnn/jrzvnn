@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free him](http://9gag.com/gag/a04qgYB)
- - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 💣 [Based Nadal](http://9gag.com/gag/a9q0wmm)
- - 😝 [There is no title](http://9gag.com/gag/anzw3V0)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/a9q0e9m)<!-- MEMES:END -->
+ - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 💣 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 👉 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)<!-- MEMES:END -->
 
 ---
 

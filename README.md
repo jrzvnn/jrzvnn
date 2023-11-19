@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
- - 💣 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [A man can dream](http://9gag.com/gag/amAwOdy)<!-- MEMES:END -->
+ - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
+ - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
+ - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
+ - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 👉 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)<!-- MEMES:END -->
 
 ---
 

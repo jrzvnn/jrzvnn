@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
  - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
+ - 👉 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)<!-- MEMES:END -->
 
 ---
 

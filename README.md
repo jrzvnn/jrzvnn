@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
  - 😝 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 💣 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
 
 ---
 

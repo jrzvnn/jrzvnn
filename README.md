@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best early Black Friday AirPods sales drop prices to as low as $79](https://appleinsider.com/articles/23/11/19/best-early-black-friday-airpods-sales-drop-prices-to-as-low-as-79?utm_medium=rss)
  - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
  - [How the very unusual governance structure of OpenAI, born out of effective altruism, led to the firing of Sam Altman, as the philosophy clashed with reality &lpar;James Ball/Techtris&rpar;](http://www.techmeme.com/231119/p7#a231119p7)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [Seahawks vs. Rams Livestream: How to Watch NFL Week 11 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-rams-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)
- - [Jets vs. Bills Livestream: How to Watch NFL Week 11 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jets-vs-bills-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-33-absolute-best-tv-shows-to-watch-november-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone and Android Signal Booster: 10 Techniques to Improve Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/iphone-and-android-signal-booster-5-techniques-to-improve-your-cellphone-signal/#ftag=CAD590a51e)
  - [Sources: in a memo, OpenAI Chief Strategy Officer Jason Kwon told employees that the company is &quot;optimistic&quot; it can bring back Sam Altman and Greg Brockman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231119/p2#a231119p2)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Google announces plans to eliminate third-party cookies in Chrome, starting with a 1% user testing period early in 2024 and leading to a broader phase-out in Q3 &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231119/p1#a231119p1)
- - [Cricket World Cup 2023 Final Livestream: How to Watch India vs. Australia From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-final-livestream-how-to-watch-india-vs-australia-from-anywhere/#ftag=CAD590a51e)
- - [Charge All Your Portable Gadgets With This $60 Universal Power Bank     - CNET](https://www.cnet.com/deals/charge-everything-with-this-universal-power-bank-for-60/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cricket World Cup 2023 Final Livestream: How to Watch India vs. Australia From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-final-livestream-how-to-watch-india-vs-australia-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

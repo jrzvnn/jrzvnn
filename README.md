@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 💣 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)<!-- MEMES:END -->
+ - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
+ - 😝 [Me : How much do you earn ? Him : I&#39;ll show you](http://9gag.com/gag/aeQwwN5)
+ - 💣 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [Free him](http://9gag.com/gag/a04qgYB)
+ - 👉 [There is no title](http://9gag.com/gag/anzw3V0)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone and Android Signal Booster: 10 Techniques to Improve Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/iphone-and-android-signal-booster-5-techniques-to-improve-your-cellphone-signal/#ftag=CAD590a51e)
- - [Sources: in a memo, OpenAI Chief Strategy Officer Jason Kwon told employees that the company is &quot;optimistic&quot; it can bring back Sam Altman and Greg Brockman &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231119/p2#a231119p2)
- - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [Google announces plans to eliminate third-party cookies in Chrome, starting with a 1% user testing period early in 2024 and leading to a broader phase-out in Q3 &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231119/p1#a231119p1)
- - [Cricket World Cup 2023 Final Livestream: How to Watch India vs. Australia From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-final-livestream-how-to-watch-india-vs-australia-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Get a Peloton,&#39; They Said. My Spin Bike Cost Half the Price, and I&#39;m Thrilled With It     - CNET](https://www.cnet.com/deals/get-a-peloton-they-said-my-spin-bike-cost-half-the-price-and-im-thrilled-with-it/#ftag=CAD590a51e)
+ - [14 Best Skin Care Products to Gift in 2023     - CNET](https://www.cnet.com/health/personal-care/best-skincare-gifts/#ftag=CAD590a51e)
+ - [Best Gifts for Hikers That Will Really Get Used     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
+ - [8 Incredible Food and Drink Experiences to Gift This Year     - CNET](https://www.cnet.com/deals/best-cooking-and-dining-experiences-to-gift/#ftag=CAD590a51e)
+ - [iPhone and Android Signal Booster: 10 Techniques to Improve Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/iphone-and-android-signal-booster-5-techniques-to-improve-your-cellphone-signal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

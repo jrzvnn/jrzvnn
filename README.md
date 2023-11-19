@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 💣 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)
  - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
+ - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
 
 ---
 

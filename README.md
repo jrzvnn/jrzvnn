@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 😝 [Press, don&#39;t blow up what happened, it&#39;s woke](http://9gag.com/gag/aqewwxj)
- - 💣 [Based Nadal](http://9gag.com/gag/a9q0wmm)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/a9q0e9m)
- - 👉 [Father - Son talk](http://9gag.com/gag/aWG5y9d)<!-- MEMES:END -->
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
 
 ---
 

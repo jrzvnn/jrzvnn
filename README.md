@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
+ - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
  - 💣 [Polina](http://9gag.com/gag/aL155vM)
- - 😝 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)
- - 👉 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)<!-- MEMES:END -->
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 👉 [Oh boy would I](http://9gag.com/gag/ajVwvBp)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [Sources: before his ouster, Sam Altman was trying to raise money in the Middle East for a venture, codenamed Tigris, to produce TPUs and compete with Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p6#a231119p6)
  - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
  - [Adobe Creative Cloud 2023 gets hefty 50% off discount for Black Friday](https://appleinsider.com/articles/23/11/19/adobe-creative-cloud-2023-gets-hefty-50-off-discount-for-black-friday?utm_medium=rss)
- - [Here&#39;s How to Watch Macy&#39;s Thanksgiving Day Parade 2023     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-watch-macys-thanksgiving-day-parade-2023/#ftag=CAD590a51e)
- - [CNET&#39;s Wellness Editors Reveal Their Favorite Sleep Products     - CNET](https://www.cnet.com/health/sleep/cnets-wellness-editors-reveal-their-favorite-sleep-products/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Watch Macy&#39;s Thanksgiving Day Parade 2023     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-watch-macys-thanksgiving-day-parade-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

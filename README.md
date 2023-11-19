@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple uses Paris engineers to break and harden iPhone security](https://appleinsider.com/articles/23/11/18/apple-uses-paris-engineers-to-break-and-harden-iphone-security?utm_medium=rss)
+ - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
+ - [Sources: Satya Nadella has been in touch with Sam Altman and pledged to support Altman with whatever steps he takes next &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
- - [Sources: OpenAI investors discussed reinstating Sam Altman by threatening OpenAI with mass revolt by staff, withholding Microsoft cloud credits, and a lawsuit &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p22#a231118p22)
- - [Sources: Sam Altman and Greg Brockman are in the process of pitching a new AI startup to investors &lpar;New York Times&rpar;](http://www.techmeme.com/231118/p21#a231118p21)
- - [Sources: the OpenAI board is in discussions with Sam Altman to return as CEO; source: Altman is &quot;ambivalent&quot; about coming back and would want governance changes &lpar;The Verge&rpar;](http://www.techmeme.com/231118/p20#a231118p20)<!-- TECH:END -->
+ - [Apple uses Paris engineers to break and harden iPhone security](https://appleinsider.com/articles/23/11/18/apple-uses-paris-engineers-to-break-and-harden-iphone-security?utm_medium=rss)
+ - [Sources: OpenAI investors discussed reinstating Sam Altman by threatening OpenAI with mass revolt by staff, withholding Microsoft cloud credits, and a lawsuit &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p22#a231118p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t even...](http://9gag.com/gag/aA05q60)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 💣 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)
  - 😝 [A man can dream](http://9gag.com/gag/amAwOdy)
- - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
+ - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
 
 ---
 

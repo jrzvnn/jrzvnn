@@ -144,9 +144,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Google announces plans to eliminate third-party cookies in Chrome, starting with a 1% user testing period early in 2024 and leading to a broader phase-out in Q3 &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231119/p1#a231119p1)
+ - [Charge All Your Portable Gadgets With This $60 Universal Power Bank     - CNET](https://www.cnet.com/deals/charge-everything-with-this-universal-power-bank-for-60/#ftag=CAD590a51e)
  - [An interview with DeepMind&#39;s Shane Legg and Meredith Ringel Morris, who propose five levels of AGI taxonomy and say the first, &quot;emerging&quot;, has been achieved &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231118/p24#a231118p24)
- - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
- - [Sources: Microsoft and Thrive are working to reinstate Sam Altman as OpenAI&#39;s CEO; Satya Nadella, blindsided by the board&#39;s decision, pledged to support Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)<!-- TECH:END -->
+ - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

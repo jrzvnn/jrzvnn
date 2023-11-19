@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro now expected to ship in March](https://appleinsider.com/articles/23/11/19/apple-vision-pro-now-expected-to-ship-in-march?utm_medium=rss)
  - [How to Use the iPhone 15’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-emergency-satellite-sos-iphone/)
  - [30 Gifts for a Digital Detox &lpar;2023&rpar;: Analog Gift Ideas From WIRED](https://www.wired.com/gallery/analog-gift-guide/)
  - [The Real Reason EV Repairs Are So Expensive](https://www.wired.com/story/ev-repair-batteries-expensive-insurance/)
- - [Humane’s AI Pin seems to be forgetting what makes a good wearable](https://www.theverge.com/2023/11/19/23964212/humane-ai-pin-wearable-culture)
- - [Save up to $1,900 on M1 Max MacBook Pro laptops at B&amp;H](https://appleinsider.com/articles/23/11/19/save-up-to-1900-on-m1-max-macbook-pro-laptops-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [Humane’s AI Pin seems to be forgetting what makes a good wearable](https://www.theverge.com/2023/11/19/23964212/humane-ai-pin-wearable-culture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

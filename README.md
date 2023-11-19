@@ -144,9 +144,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Save up to $1,900 on M1 Max MacBook Pro laptops at B&amp;H](https://appleinsider.com/articles/23/11/19/save-up-to-1900-on-m1-max-macbook-pro-laptops-at-bh?utm_medium=rss)
  - [The Best Luxury Gifts for 2023](https://www.wired.com/gallery/the-best-luxury-gifts-2023/)
- - [Weber Griddle Review: Pile on the Pancakes and Bacon](https://www.wired.com/review/weber-griddle/)
- - [How Many Microbes Does It Take to Make You Sick?](https://www.wired.com/story/how-many-microbes-does-it-take-to-make-you-sick/)
- - [Laptop Buying Guide &lpar;2023&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
+ - [Best VPN for Your Smart TV     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-smart-tv/#ftag=CAD590a51e)
+ - [Snag a 70mai Dash Cam During This Early Black Friday Sale     - CNET](https://www.cnet.com/roadshow/news/snag-a-70mai-dash-cam-during-this-early-black-friday-sale/#ftag=CAD590a51e)
+ - [Acer Swift Edge 16 &lpar;2023&rpar; Review: Large OLED Laptop That&#39;s Also Impossibly Light     - CNET](https://www.cnet.com/tech/computing/acer-swift-edge-16-2023-review-large-oled-laptop-thats-also-impossibly-light/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

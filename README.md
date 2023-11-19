@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The silly word game you didn’t know you needed](https://www.theverge.com/2023/11/19/23965623/gift-guides-gubbins-microsoft-loop-tadpole-webcam-installer-newsletter)
+ - [Boost Your Savings With Boost Mobile During This Early Black Friday Sale     - CNET](https://www.cnet.com/deals/boost-your-savings-with-boost-mobile-during-this-early-black-friday-sale/#ftag=CAD590a51e)
+ - [Get the Sleek 44mm Apple Watch SE 2 for $209 at Walmart     - CNET](https://www.cnet.com/deals/get-the-sleek-44mm-apple-watch-se-2-for-209-at-walmart/#ftag=CAD590a51e)
  - [This Gaming Seat Brought My Formula 1 Racing Fantasies to Life](https://www.wired.com/story/logitech-racing-sim-rave/)
- - [The Precarious Rise of Disposable Vapes](https://www.wired.com/story/disposable-vapes-elf-bar-lost-mary-regulation/)
- - [How to Charge Your Phone Faster With Adaptive Charging](https://www.wired.com/story/how-to-charge-phone-faster-adaptive-charging/)
- - [&#39;Get a Peloton,&#39; They Said. My Spin Bike Cost Half the Price, and I&#39;m Thrilled With It     - CNET](https://www.cnet.com/deals/get-a-peloton-they-said-my-spin-bike-cost-half-the-price-and-im-thrilled-with-it/#ftag=CAD590a51e)
- - [14 Best Skin Care Products to Gift in 2023     - CNET](https://www.cnet.com/health/personal-care/best-skincare-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Precarious Rise of Disposable Vapes](https://www.wired.com/story/disposable-vapes-elf-bar-lost-mary-regulation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
  - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [Has technology gone a few kilometers? You know, not too far.](http://9gag.com/gag/aPg226G)
- - 👉 [Damn son](http://9gag.com/gag/aXn1GR2)<!-- MEMES:END -->
+ - 💣 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
 
 ---
 

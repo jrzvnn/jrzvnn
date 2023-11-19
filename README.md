@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
- - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
- - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
- - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 👉 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)<!-- MEMES:END -->
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 💣 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 👉 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)<!-- MEMES:END -->
 
 ---
 

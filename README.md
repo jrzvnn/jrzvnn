@@ -145,8 +145,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [A look at Apple&#39;s quest to build key device components in-house, including a cellular modem and other wireless chips, displays, batteries, and camera sensors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231119/p4#a231119p4)
  - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)
  - [Apple considers bringing camera sensor designs in-house](https://appleinsider.com/articles/23/11/19/apple-considers-bringing-camera-sensor-designs-in-house?utm_medium=rss)
- - [Giants vs. Commanders Livestream: How to Watch NFL Week 11 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-commanders-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)
- - [Chargers vs. Packers Livestream: How to Watch NFL Week 11 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-packers-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI artwork is a potential boon for the public domain and may serve as an antidote to the US copyright system, which some see as onerous and overly restrictive &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231119/p3#a231119p3)
+ - [Apple Vision Pro now expected to ship in March](https://appleinsider.com/articles/23/11/19/apple-vision-pro-now-expected-to-ship-in-march?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
+ - 😝 [Free him](http://9gag.com/gag/a04qgYB)
  - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 💣 [Free him](http://9gag.com/gag/a04qgYB)
+ - 💣 [Based Nadal](http://9gag.com/gag/a9q0wmm)
  - 😝 [There is no title](http://9gag.com/gag/anzw3V0)
- - 👉 [Me : How much do you earn ? Him : I&#39;ll show you](http://9gag.com/gag/aeQwwN5)<!-- MEMES:END -->
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/a9q0e9m)<!-- MEMES:END -->
 
 ---
 

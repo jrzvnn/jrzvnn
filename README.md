@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 💣 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)<!-- MEMES:END -->
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
+ - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
+ - 😝 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 

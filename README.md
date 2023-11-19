@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: leading ad execs told Linda Yaccarino that she is risking her reputation and suggested her to step down as X CEO to make a statement about antisemitism &lpar;Forbes&rpar;](http://www.techmeme.com/231119/p9#a231119p9)
  - [Sources: talks to reinstate Altman, led by Satya Nadella, hit a snag over the board&#39;s role; source: board members are yet to resign as they vet replacements &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p8#a231119p8)
  - [Best early Black Friday AirPods sales drop prices to as low as $79](https://appleinsider.com/articles/23/11/19/best-early-black-friday-airpods-sales-drop-prices-to-as-low-as-79?utm_medium=rss)
  - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
- - [How the very unusual governance structure of OpenAI, born out of effective altruism, led to the firing of Sam Altman, as the philosophy clashed with reality &lpar;James Ball/Techtris&rpar;](http://www.techmeme.com/231119/p7#a231119p7)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
+ - [How the very unusual governance structure of OpenAI, born out of effective altruism, led to the firing of Sam Altman, as the philosophy clashed with reality &lpar;James Ball/Techtris&rpar;](http://www.techmeme.com/231119/p7#a231119p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: before his ouster, Sam Altman was trying to raise money in the Middle East for a venture, codenamed Tigris, to produce TPUs and compete with Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p6#a231119p6)
+ - [Crime blotter: iPhone and iPad seized from New York Mayor Eric Adams](https://appleinsider.com/articles/23/11/19/crime-blotter-iphone-and-ipad-seized-from-new-york-mayor-eric-adams?utm_medium=rss)
  - [Adobe Creative Cloud 2023 gets hefty 50% off discount for Black Friday](https://appleinsider.com/articles/23/11/19/adobe-creative-cloud-2023-gets-hefty-50-off-discount-for-black-friday?utm_medium=rss)
- - [Disney+ Hotstar topped a record 59M concurrent streaming viewers during the India-Australia ICC Cricket World Cup final on November 19 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231119/p5#a231119p5)
- - [How to Watch the Hallmark Channel Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-hallmark-channel-without-cable/#ftag=CAD590a51e)
- - [Amazon&#39;s Black Friday Sale Knocks Up to $250 Off Eufy Robot Vacuums     - CNET](https://www.cnet.com/deals/amazons-black-friday-sale-knocks-up-to-250-off-eufy-robot-vacuums/#ftag=CAD590a51e)
- - [A look at Apple&#39;s quest to build key device components in-house, including a cellular modem and other wireless chips, displays, batteries, and camera sensors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231119/p4#a231119p4)<!-- TECH:END -->
+ - [Here&#39;s How to Watch Macy&#39;s Thanksgiving Day Parade 2023     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-watch-macys-thanksgiving-day-parade-2023/#ftag=CAD590a51e)
+ - [CNET&#39;s Wellness Editors Reveal Their Favorite Sleep Products     - CNET](https://www.cnet.com/health/sleep/cnets-wellness-editors-reveal-their-favorite-sleep-products/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

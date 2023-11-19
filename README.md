@@ -153,7 +153,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
  - 😝 [A man can dream](http://9gag.com/gag/amAwOdy)
- - 💣 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 💣 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
  - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
  - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 

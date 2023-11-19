@@ -151,10 +151,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 😝 [A man can dream](http://9gag.com/gag/amAwOdy)
- - 💣 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
  - 👉 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)<!-- MEMES:END -->
 
 ---

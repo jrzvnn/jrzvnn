@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with DeepMind&#39;s Shane Legg and Meredith Ringel Morris, who propose five levels of AGI taxonomy and say the first, &quot;emerging&quot;, has been achieved &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231118/p24#a231118p24)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Tim Cook defends privacy focus in APEC discussion group](https://appleinsider.com/articles/23/11/19/tim-cook-defends-privacy-focus-in-apec-discussion-group?utm_medium=rss)
  - [Sources: Microsoft and Thrive are working to reinstate Sam Altman as OpenAI&#39;s CEO; Satya Nadella, blindsided by the board&#39;s decision, pledged to support Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231118/p23#a231118p23)
- - [Apple uses Paris engineers to break and harden iPhone security](https://appleinsider.com/articles/23/11/18/apple-uses-paris-engineers-to-break-and-harden-iphone-security?utm_medium=rss)
- - [Sources: OpenAI investors discussed reinstating Sam Altman by threatening OpenAI with mass researcher revolt, withholding Microsoft cloud credits, and a lawsuit &lpar;Forbes&rpar;](http://www.techmeme.com/231118/p22#a231118p22)<!-- TECH:END -->
+ - [Apple uses Paris engineers to break and harden iPhone security](https://appleinsider.com/articles/23/11/18/apple-uses-paris-engineers-to-break-and-harden-iphone-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

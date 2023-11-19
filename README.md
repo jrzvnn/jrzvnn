@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh boy would I](http://9gag.com/gag/ajVwvBp)
  - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 💣 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 💣 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 

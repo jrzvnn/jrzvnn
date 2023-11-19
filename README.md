@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 😝 [There is no title](http://9gag.com/gag/anzw3V0)
- - 💣 [Based Nadal](http://9gag.com/gag/a9q0wmm)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/a9q0e9m)
- - 👉 [Father - Son talk](http://9gag.com/gag/aWG5y9d)<!-- MEMES:END -->
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 

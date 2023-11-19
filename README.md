@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Gaming Seat Brought My Formula 1 Racing Fantasies to Life](https://www.wired.com/story/logitech-racing-sim-rave/)
+ - [The Precarious Rise of Disposable Vapes](https://www.wired.com/story/disposable-vapes-elf-bar-lost-mary-regulation/)
+ - [How to Charge Your Phone Faster With Adaptive Charging](https://www.wired.com/story/how-to-charge-phone-faster-adaptive-charging/)
  - [&#39;Get a Peloton,&#39; They Said. My Spin Bike Cost Half the Price, and I&#39;m Thrilled With It     - CNET](https://www.cnet.com/deals/get-a-peloton-they-said-my-spin-bike-cost-half-the-price-and-im-thrilled-with-it/#ftag=CAD590a51e)
- - [14 Best Skin Care Products to Gift in 2023     - CNET](https://www.cnet.com/health/personal-care/best-skincare-gifts/#ftag=CAD590a51e)
- - [Best Gifts for Hikers That Will Really Get Used     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
- - [8 Incredible Food and Drink Experiences to Gift This Year     - CNET](https://www.cnet.com/deals/best-cooking-and-dining-experiences-to-gift/#ftag=CAD590a51e)
- - [iPhone and Android Signal Booster: 10 Techniques to Improve Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/iphone-and-android-signal-booster-5-techniques-to-improve-your-cellphone-signal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Skin Care Products to Gift in 2023     - CNET](https://www.cnet.com/health/personal-care/best-skincare-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

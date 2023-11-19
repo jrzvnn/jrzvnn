@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 😝 [Never forget what muslims did to Spain.](http://9gag.com/gag/aME5646)
- - 💣 [A man can dream](http://9gag.com/gag/amAwOdy)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [Why they throw big words like that around and then Start to cry, wanting to go home....](http://9gag.com/gag/amAwd4X)<!-- MEMES:END -->
+ - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
+ - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
+ - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
+ - 😝 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)
+ - 👉 [No words](http://9gag.com/gag/aGE5qy7)<!-- MEMES:END -->
 
 ---
 

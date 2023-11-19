@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a good dad is the best you can be!](http://9gag.com/gag/aPg22dK)
- - 😝 [Nice](http://9gag.com/gag/a4oyynA)
- - 💣 [Happy International Men&#39;s Day my dudes](http://9gag.com/gag/aXn11WV)
- - 😝 [Me : How much do you earn ? Him : I&#39;ll show you](http://9gag.com/gag/aeQwwN5)
- - 👉 [The race of the century](http://9gag.com/gag/anzwZLE)<!-- MEMES:END -->
+ - 😝 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 💣 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)<!-- MEMES:END -->
 
 ---
 

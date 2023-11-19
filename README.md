@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I almost never post a thing but at midnight I\u2019m turning 40 and all I have is this pizza and you bunch of racists. Thanks for making life a little more bearable. F**k you all and see you tomorrow.](http://9gag.com/gag/aGE5o20)
- - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
- - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
- - 😝 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)
- - 👉 [No words](http://9gag.com/gag/aGE5qy7)<!-- MEMES:END -->
+ - 😝 [Damn son](http://9gag.com/gag/aXn1GR2)
+ - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
+ - 💣 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 😝 [Anyone knows the name of the interviewer](http://9gag.com/gag/amAwK9V)
+ - 👉 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
 
 ---
 

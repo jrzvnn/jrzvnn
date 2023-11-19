@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,900 on M1 Max MacBook Pro laptops at B&amp;H](https://appleinsider.com/articles/23/11/19/save-up-to-1900-on-m1-max-macbook-pro-laptops-at-bh?utm_medium=rss)
- - [The Best Luxury Gifts for 2023](https://www.wired.com/gallery/the-best-luxury-gifts-2023/)
- - [Best VPN for Your Smart TV     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-smart-tv/#ftag=CAD590a51e)
- - [Snag a 70mai Dash Cam During This Early Black Friday Sale     - CNET](https://www.cnet.com/roadshow/news/snag-a-70mai-dash-cam-during-this-early-black-friday-sale/#ftag=CAD590a51e)
- - [Acer Swift Edge 16 &lpar;2023&rpar; Review: Large OLED Laptop That&#39;s Also Impossibly Light     - CNET](https://www.cnet.com/tech/computing/acer-swift-edge-16-2023-review-large-oled-laptop-thats-also-impossibly-light/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use the iPhone 15’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-emergency-satellite-sos-iphone/)
+ - [30 Gifts for a Digital Detox &lpar;2023&rpar;: Analog Gift Ideas From WIRED](https://www.wired.com/gallery/analog-gift-guide/)
+ - [The Real Reason EV Repairs Are So Expensive](https://www.wired.com/story/ev-repair-batteries-expensive-insurance/)
+ - [Humane’s AI Pin seems to be forgetting what makes a good wearable](https://www.theverge.com/2023/11/19/23964212/humane-ai-pin-wearable-culture)
+ - [Save up to $1,900 on M1 Max MacBook Pro laptops at B&amp;H](https://appleinsider.com/articles/23/11/19/save-up-to-1900-on-m1-max-macbook-pro-laptops-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

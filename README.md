@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 💣 [Polina](http://9gag.com/gag/aL155vM)
- - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
- - 👉 [Oh boy would I](http://9gag.com/gag/ajVwvBp)<!-- MEMES:END -->
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 💣 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 😝 [Kid! wtf?](http://9gag.com/gag/a9q00XK)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 

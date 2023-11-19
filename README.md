@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 😝 [Judge: Tell me why you need a restraining order. Guy: I&#39;ll do you one better judge, let&#39;s trigger an example.](http://9gag.com/gag/aoKw6xx)
- - 💣 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
+ - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
  - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
+ - 👉 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)<!-- MEMES:END -->
 
 ---
 

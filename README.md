@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
- - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [Free him](http://9gag.com/gag/a04qgYB)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 😝 [Being a good dad is the best you can be!](http://9gag.com/gag/aPg22dK)
+ - 😝 [Nice](http://9gag.com/gag/a4oyynA)
+ - 💣 [Happy International Men&#39;s Day my dudes](http://9gag.com/gag/aXn11WV)
+ - 😝 [Me : How much do you earn ? Him : I&#39;ll show you](http://9gag.com/gag/aeQwwN5)
+ - 👉 [The race of the century](http://9gag.com/gag/anzwZLE)<!-- MEMES:END -->
 
 ---
 

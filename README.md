@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
  - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
  - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
+ - 💣 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

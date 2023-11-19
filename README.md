@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Disney+ Hotstar topped a record 59M concurrent streaming viewers during the India-Australia ICC Cricket World Cup final on November 19 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231119/p5#a231119p5)
+ - [How to Watch the Hallmark Channel Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-hallmark-channel-without-cable/#ftag=CAD590a51e)
+ - [Amazon&#39;s Black Friday Sale Knocks Up to $250 Off Eufy Robot Vacuums     - CNET](https://www.cnet.com/deals/amazons-black-friday-sale-knocks-up-to-250-off-eufy-robot-vacuums/#ftag=CAD590a51e)
  - [A look at Apple&#39;s quest to build key device components in-house, including a cellular modem and other wireless chips, displays, batteries, and camera sensors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231119/p4#a231119p4)
- - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)
- - [Apple considers bringing camera sensor designs in-house](https://appleinsider.com/articles/23/11/19/apple-considers-bringing-camera-sensor-designs-in-house?utm_medium=rss)
- - [Giants vs. Commanders Livestream: How to Watch NFL Week 11 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-commanders-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

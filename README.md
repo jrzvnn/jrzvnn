@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
- - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 💣 [Interesting, shocking and not for everyone.](http://9gag.com/gag/agowwOv)
- - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
+ - 💣 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [This must be a Guinness world record](http://9gag.com/gag/aA05LO0)
+ - 👉 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)<!-- MEMES:END -->
 
 ---
 

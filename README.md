@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Most of ESPN’s accounts went dark after Disney dropped advertising on X](https://www.theverge.com/2023/11/19/23967681/espn-x-accounts-not-posting-disney-no-longer-advertising-musk-antisemitic-posts)
+ - [Apple considers bringing camera sensor designs in-house](https://appleinsider.com/articles/23/11/19/apple-considers-bringing-camera-sensor-designs-in-house?utm_medium=rss)
  - [AI artwork is a potential boon for the public domain and may serve as an antidote to the US copyright system, which some see as onerous and overly restrictive &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231119/p3#a231119p3)
  - [Apple Vision Pro now expected to ship in March](https://appleinsider.com/articles/23/11/19/apple-vision-pro-now-expected-to-ship-in-march?utm_medium=rss)
- - [How to Use the iPhone 15’s Emergency Satellite SOS](https://www.wired.com/story/how-to-use-emergency-satellite-sos-iphone/)
- - [30 Gifts for a Digital Detox &lpar;2023&rpar;: Analog Gift Ideas From WIRED](https://www.wired.com/gallery/analog-gift-guide/)
- - [The Real Reason EV Repairs Are So Expensive](https://www.wired.com/story/ev-repair-batteries-expensive-insurance/)<!-- TECH:END -->
+ - [I Love &#39;Slow Horses&#39; and the Original Book Is Just $10 as Black Friday Approaches     - CNET](https://www.cnet.com/deals/i-love-slow-horses-and-the-original-book-is-just-10-as-black-friday-approaches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

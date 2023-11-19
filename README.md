@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody talks about the other side of the coin](http://9gag.com/gag/a3ZrzKv)
- - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
- - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
+ - 💣 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
  - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 👉 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)<!-- MEMES:END -->
+ - 👉 [A man can dream](http://9gag.com/gag/amAwOdy)<!-- MEMES:END -->
 
 ---
 

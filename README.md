@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A noodle factory in Kolkata from the state of West Bengal, India. As an Indian myself, I would advise everyone NOT to eat Indian street food. Video by an Indian food channel.](http://9gag.com/gag/aME56Px)
+ - 😝 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)
+ - 💣 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)
  - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [Making a simple hydrogen generator from an old battery](http://9gag.com/gag/awZ29vy)
- - 💣 [All life goals achieved](http://9gag.com/gag/aXn1z09)
- - 😝 [Difference between a seagull and a crow\u2019s accuracy](http://9gag.com/gag/aVb583y)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 👉 [Look again](http://9gag.com/gag/ap9wzMn)<!-- MEMES:END -->
 
 ---
 

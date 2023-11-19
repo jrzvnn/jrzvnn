@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple considers bringing iPhone camera sensor designs in-house](https://appleinsider.com/articles/23/11/19/apple-considers-bringing-camera-sensor-designs-in-house?utm_medium=rss)
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
  - [Best Apple Black Friday Deals 2023](https://appleinsider.com/live/best-early-apple-black-friday-deals-2023)
  - [Get AirTags for as little as $23.99 in Amazon&#39;s Black Friday warmup deals](https://appleinsider.com/articles/23/11/19/get-airtags-for-as-little-as-2399-in-amazons-black-friday-warmup-deals?utm_medium=rss)
- - [Sources: leading ad execs told Linda Yaccarino that she is risking her reputation and suggested her to step down as X CEO to make a statement about antisemitism &lpar;Forbes&rpar;](http://www.techmeme.com/231119/p9#a231119p9)
- - [Sources: talks to reinstate Altman, led by Satya Nadella, hit a snag over the board&#39;s role; source: board members are yet to resign as they vet replacements &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p8#a231119p8)
- - [Best early Black Friday AirPods sales drop prices to as low as $79](https://appleinsider.com/articles/23/11/19/best-early-black-friday-airpods-sales-drop-prices-to-as-low-as-79?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: leading ad execs told Linda Yaccarino that she is risking her reputation and suggested her to step down as X CEO to make a statement about antisemitism &lpar;Forbes&rpar;](http://www.techmeme.com/231119/p9#a231119p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

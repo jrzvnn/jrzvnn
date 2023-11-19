@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 💣 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)
+ - 😝 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
  - 😝 [Look again](http://9gag.com/gag/ap9wzMn)
- - 👉 [The panel gaps on a Cybertruck](http://9gag.com/gag/aqewBnv)<!-- MEMES:END -->
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [How the f**k do you counter this shit?](http://9gag.com/gag/aqewBRQ)
+ - 👉 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a lawsuit, the US SEC accuses Kraken of commingling customer and corporate funds while operating as an unregistered broker, clearing agency, and dealer &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231120/p31#a231120p31)
  - [Joe Biden’s birthday gift to himself is a Threads account](https://www.theverge.com/2023/11/20/23969994/president-joe-biden-threads-account)
  - [Zoom reports Q3 revenue up 3.2% YoY to $1.14B, vs. $1.12B est., enterprise revenue up 7.5% to $661M, above estimates, and enterprise customers up 5% to 219,700 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231120/p30#a231120p30)
  - [Satya Nadella says &quot;it&#39;s very clear that something has to change around the governance&quot; of OpenAI no matter where Sam Altman ends up &lpar;CNBC&rpar;](http://www.techmeme.com/231120/p29#a231120p29)
- - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)
- - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)<!-- TECH:END -->
+ - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

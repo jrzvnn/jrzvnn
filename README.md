@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early iPhone 16 Pro leak shows tweaked battery design](https://appleinsider.com/articles/23/11/20/early-iphone-16-pro-leak-shows-tweaked-battery-design?utm_medium=rss)
+ - [Analyzing the Sam Altman-OpenAI saga: nonprofit issues, OpenAI giving for-profit work to Microsoft, staff exits, Altman&#39;s motivations, and the new AI landscape &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231120/p15#a231120p15)
  - [Microsoft Emerges as the Winner in OpenAI Chaos](https://www.wired.com/story/microsoft-emerges-as-the-winner-in-openai-chaos/)
  - [OpenAI co-founder Ilya Sutskever says he &quot;deeply regrets&quot; his &quot;participation in the board&#39;s actions&quot; and &quot;never intended to harm OpenAI&quot; &lpar;Ilya Sutskever/@ilyasut&rpar;](http://www.techmeme.com/231120/p14#a231120p14)
- - [Crypto exchange Bullish, run by an ex-NYSE president, buys 100% of CoinDesk for an undisclosed sum in an all-cash deal; DCG acquired CoinDesk for $500K in 2016 &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p13#a231120p13)
- - [&#39;The Witcher&#39; and &#39;The Witcher 2&#39; hunt their way to Apple Silicon](https://appleinsider.com/articles/23/11/20/the-witcher-and-the-witcher-2-hunt-their-way-to-apple-silicon?utm_medium=rss)
- - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)<!-- TECH:END -->
+ - [Crypto exchange Bullish, run by an ex-NYSE president, buys 100% of CoinDesk for an undisclosed sum in an all-cash deal; DCG acquired CoinDesk for $500K in 2016 &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p13#a231120p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
- - 💣 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
  - 😝 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 💣 [Damn dog](http://9gag.com/gag/aEq55KO)
+ - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

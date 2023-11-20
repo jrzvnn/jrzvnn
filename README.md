@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources describe how ChatGPT&#39;s success widened ideological rifts at OpenAI, and Ilya Sutskever began behaving like a spiritual leader expecting AGI&#39;s arrival &lpar;The Atlantic&rpar;](http://www.techmeme.com/231119/p16#a231119p16)
+ - [Sources describe how ChatGPT&#39;s success widened ideological rifts at OpenAI, and Ilya Sutskever began behaving like a spiritual leader expecting AGI&#39;s arrival &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231119/p16#a231119p16)
  - [Cruise co-founder and CEO Kyle Vogt resigns, a month after California&#39;s DMV suspended Cruise&#39;s permits to operate self-driving cars on public roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/231119/p15#a231119p15)
  - [Source: a number of announcements at DevDay infuriated OpenAI chief scientist Ilya Sutskever, like custom GPTs that OpenAI has said may one day run autonomously &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p14#a231119p14)
  - [Amazon launches epic $229 iPad 9th Generation Black Friday deal](https://appleinsider.com/articles/23/11/20/amazon-launches-epic-229-ipad-9th-generation-black-friday-deal?utm_medium=rss)
- - [SpaceX’s new Starlink satellite internet terminal has a kickstand](https://www.theverge.com/2023/11/19/23968395/spacex-starlink-satellite-internet-terminal-kickstand-improved-fov-ip67-weather-rating)<!-- TECH:END -->
+ - [Optus CEO Kelly Bayer Rosmarin resigns, after the Australian telco&#39;s crippling nationwide outage that began on Nov. 8; CFO Michael Venter to act as interim CEO &lpar;Asha Barbaschow/Gizmodo Australia&rpar;](http://www.techmeme.com/231119/p13#a231119p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

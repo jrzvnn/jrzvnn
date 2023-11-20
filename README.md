@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)
- - [Eero Max 7 Review: Amazon&#39;s First Wi-Fi 7 Mesh](https://www.wired.com/review/eero-max-7/)
- - [Tinder redesigns profile pages to add prompt conversation starters, basic info tags, and quizzes, and updates its app with new animations, a dark mode, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231120/p12#a231120p12)
- - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
- - [One of Our Favorite Video Doorbells of 2023 Has Hit Its Best Price to Date for Black Friday     - CNET](https://www.cnet.com/deals/one-of-our-favorite-video-doorbells-of-2023-has-hit-its-best-price-to-date-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Emerges as the Winner in OpenAI Chaos](https://www.wired.com/story/microsoft-emerges-as-the-winner-in-openai-chaos/)
+ - [OpenAI co-founder Ilya Sutskever says he &quot;deeply regrets&quot; his &quot;participation in the board&#39;s actions&quot; and &quot;never intended to harm OpenAI&quot; &lpar;Ilya Sutskever/@ilyasut&rpar;](http://www.techmeme.com/231120/p14#a231120p14)
+ - [Crypto exchange Bullish, run by an ex-NYSE president, buys 100% of CoinDesk for an undisclosed sum in an all-cash deal; DCG acquired CoinDesk for $500K in 2016 &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p13#a231120p13)
+ - [&#39;The Witcher&#39; and &#39;The Witcher 2&#39; hunt their way to Apple Silicon](https://appleinsider.com/articles/23/11/20/the-witcher-and-the-witcher-2-hunt-their-way-to-apple-silicon?utm_medium=rss)
+ - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

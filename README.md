@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to clear the cache in Photoshop for macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-the-cache-in-photoshop-for-macos?utm_medium=rss)
  - [How to save up to $180 on Apple&#39;s new M3 iMac with AppleCare](https://appleinsider.com/articles/23/11/20/how-to-save-up-to-180-on-apples-new-m3-imac-with-applecare?utm_medium=rss)
  - [Humane&#39;s AI Pin, marketed as a fashion accessory, is effectively a high-tech brooch, typically worn with outwear, which may present challenges in hot climates &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231120/p8#a231120p8)
  - [Apple Watch Series 9 Hits Its Lowest Price Ever for Black Friday &lpar;Save $70&rpar;     - CNET](https://www.cnet.com/deals/apple-watch-series-9-hits-its-lowest-price-ever-for-black-friday-save-70/#ftag=CAD590a51e)
- - [Over 60 of the Best Star Wars Gifts for 2023: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
- - [Best Christmas Gifts 2023: Clear Your List With These 62 Ideas     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Over 60 of the Best Star Wars Gifts for 2023: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

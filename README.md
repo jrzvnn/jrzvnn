@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh boy would I](http://9gag.com/gag/ajVwvBp)
- - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 💣 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
  - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
 
 ---
 

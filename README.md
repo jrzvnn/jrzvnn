@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jackery Knocks Up to $1,600 Off Solar Generators and Bundles for Black Friday     - CNET](https://www.cnet.com/deals/jackery-knocks-up-to-1600-off-solar-generators-and-bundles-for-black-friday/#ftag=CAD590a51e)
+ - [Best Mattress Deals: Black Friday Sales From Saatva, Helix, DreamCloud and More     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
  - [OpenAI Staff Threaten to Quit Unless Board Resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
- - [43 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-1/)
- - [Matter vacuums, Thread locks, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/23/11/20/matter-vacuums-thread-locks-more-smart-home-news-on-homekit-insider?utm_medium=rss)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Fortnite, Grand Theft Auto VI, and the fate of AAA games](https://www.theverge.com/23969002/fortnite-gta-vi-aaa-games-future-podcast)<!-- TECH:END -->
+ - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and a Whole Lot More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [43 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

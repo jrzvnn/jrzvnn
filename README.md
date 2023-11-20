@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honk if you worship the devil](http://9gag.com/gag/aVb56eP)
- - 😝 [I don&#39;t really care, but thanks to Google for remembering the International Men&#39;s Day once again](http://9gag.com/gag/aKE5MvN)
- - 💣 [The race of the century](http://9gag.com/gag/anzwZLE)
- - 😝 [Serious question: How come we never see a piece of Art like these again?!](http://9gag.com/gag/aZD55vV)
- - 👉 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)<!-- MEMES:END -->
+ - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
+ - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

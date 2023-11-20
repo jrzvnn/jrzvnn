@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
- - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
- - 💣 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 💣 [Damn dog](http://9gag.com/gag/aEq55KO)
  - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 👉 [Glorious](http://9gag.com/gag/ap9wwjp)<!-- MEMES:END -->
 
 ---
 

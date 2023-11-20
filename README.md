@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
- - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 💣 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
  - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 👉 [Kid! wtf?](http://9gag.com/gag/a9q00XK)<!-- MEMES:END -->
+ - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
+ - 💣 [Kid! wtf?](http://9gag.com/gag/a9q00XK)
+ - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

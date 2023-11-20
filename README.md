@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)
  - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 💣 [It will rain...](http://9gag.com/gag/az2wpwN)
- - 😝 [Privilege](http://9gag.com/gag/aDY5KRB)
- - 👉 [He loves his bike \ud83d\udeb3](http://9gag.com/gag/amAw4wX)<!-- MEMES:END -->
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 💣 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
 

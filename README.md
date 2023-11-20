@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Samsung Galaxy Buds FE are $30 off ahead of Black Friday](https://www.theverge.com/2023/11/20/23969245/samsung-galaxy-buds-fe-wireless-noise-canceling-anc-earbuds-deal-sale)
  - [After big advertisers flee X, right-wing media outlets and influencers pledge to buy ads or donate, like Benny Johnson, Andrew Tate, Gavin McInnes, Babylon Bee &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231120/p18#a231120p18)
  - [Daily deals Nov. 20: AirPods Max for $370, Apple Watch Series 9 $329, LG 38-inch Thunderbolt 3 monitor $897, more](https://appleinsider.com/articles/23/11/20/daily-deals-nov-20-airpods-max-for-370-apple-watch-series-9-329-lg-38-inch-thunderbolt-3-monitor-897-more?utm_medium=rss)
  - [Amazon’s offering free courses on generative AI](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses)
- - [GM’s big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
- - [Best Black Friday Deals Under $25: Affordable Bargains on Tech, Home Goods and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM’s big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

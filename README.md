@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI staff release a letter, signed by Ilya Sutskever and 490+ others, saying they may quit and join Sam Altman unless the board resigns and reappoints Altman &lpar;Wired&rpar;](http://www.techmeme.com/231120/p16#a231120p16)
- - [Early iPhone 16 Pro leak shows tweaked battery design](https://appleinsider.com/articles/23/11/20/early-iphone-16-pro-leak-shows-tweaked-battery-design?utm_medium=rss)
- - [Analyzing the Sam Altman-OpenAI saga: nonprofit issues, OpenAI giving for-profit work to Microsoft, staff exits, Altman&#39;s motivations, and the new AI landscape &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231120/p15#a231120p15)
- - [OpenAI Staff Threaten to Quit Unless Board Resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
- - [Microsoft Emerges as the Winner in OpenAI Chaos](https://www.wired.com/story/microsoft-emerges-as-the-winner-in-openai-chaos/)<!-- TECH:END -->
+ - [Use these lesser-known features to become a Google Docs pro](https://www.theverge.com/23966043/google-docs-tips-features-how-to)
+ - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)
+ - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)
+ - [Emissions Should Be Plummeting. Instead, They’re Breaking Dangerous New Records](https://www.wired.com/story/emissions-should-be-plummeting-instead-theyre-breaking-dangerous-new-records/)
+ - [OpenAI staff release a letter, signed by Ilya Sutskever and 490+ others, saying they may quit and join Sam Altman unless the board resigns and reappoints Altman &lpar;Wired&rpar;](http://www.techmeme.com/231120/p16#a231120p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

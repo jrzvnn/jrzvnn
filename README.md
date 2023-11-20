@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to save up to $180 on Apple&#39;s new M3 iMac with AppleCare](https://appleinsider.com/articles/23/11/20/how-to-save-up-to-180-on-apples-new-m3-imac-with-applecare?utm_medium=rss)
  - [Humane&#39;s AI Pin, marketed as a fashion accessory, is effectively a high-tech brooch, typically worn with outwear, which may present challenges in hot climates &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231120/p8#a231120p8)
- - [Bumble, Grindr, and Hinge Moderators Struggle to Keep Users—and Themselves—Safe](https://www.wired.com/story/bumble-grindr-and-hinge-moderators-trauma/)
- - [A profile of Beryl Tomay, a lifelong Amazon executive who made two early career mistakes that she now eagerly discusses, as she leads Amazon&#39;s &quot;last mile&quot; unit &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p7#a231120p7)
- - [Adobe’s $20 billion bid for Figma in peril after EU warning](https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections)
- - [Xiaomi reports Q3 revenue up 0.6% YoY to ~$9.9B, its first gain in almost two years, and a ~$684M net income, both above est., buoyed by rising smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p6#a231120p6)<!-- TECH:END -->
+ - [Apple Watch Series 9 Hits Its Lowest Price Ever for Black Friday &lpar;Save $70&rpar;     - CNET](https://www.cnet.com/deals/apple-watch-series-9-hits-its-lowest-price-ever-for-black-friday-save-70/#ftag=CAD590a51e)
+ - [Over 60 of the Best Star Wars Gifts for 2023: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
+ - [Best Christmas Gifts 2023: Clear Your List With These 62 Ideas     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

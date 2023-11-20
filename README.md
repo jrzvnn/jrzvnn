@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Beryl Tomay, a lifelong Amazon executive who made two early career mistakes that she now eagerly discusses, as she leads Amazon&#39;s &quot;last mile&quot; unit &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p7#a231120p7)
  - [Adobe’s $20 billion bid for Figma in peril after EU warning](https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections)
  - [Xiaomi reports Q3 revenue up 0.6% YoY to ~$9.9B, its first gain in almost two years, and a ~$684M net income, both above est., buoyed by rising smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p6#a231120p6)
  - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)
- - [Save up to 45% with Roborock Black Friday robot vacuum and mop discounts](https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts?utm_medium=rss)
- - [Lenovo Legion Go review: nice screen, detachable controllers, and FPS mode that simulates a mouse but using Windows is frustrating and terrible battery life &lpar;Eric Ravenscraft/Wired&rpar;](http://www.techmeme.com/231120/p5#a231120p5)<!-- TECH:END -->
+ - [Snag Apple&#39;s 9th Gen iPad at a New All-Time Low With This Epic Black Friday Deal     - CNET](https://www.cnet.com/deals/epic-black-friday-9th-gen-ipad-deal-all-time-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [They ended up disappointed](http://9gag.com/gag/aPg22BB)
+ - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
  - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
  - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
+ - 👉 [Wait what!?](http://9gag.com/gag/armwE0V)<!-- MEMES:END -->
 
 ---
 

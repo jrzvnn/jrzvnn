@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Staff Threaten to Quit Unless Board Resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
+ - [43 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-1/)
  - [Matter vacuums, Thread locks, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/23/11/20/matter-vacuums-thread-locks-more-smart-home-news-on-homekit-insider?utm_medium=rss)
  - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Fortnite, Grand Theft Auto VI, and the fate of AAA games](https://www.theverge.com/23969002/fortnite-gta-vi-aaa-games-future-podcast)
- - [CoinDesk bought by crypto exchange Bullish](https://www.theverge.com/2023/11/20/23968952/coindesk-bullish-crypto-exchange-acquisition)
- - [Chinese AR startup Rokid raised $112M from NetDragon Websoft and others at a $1B valuation to help expand overseas, taking its total funding to nearly $200M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231120/p17#a231120p17)<!-- TECH:END -->
+ - [Fortnite, Grand Theft Auto VI, and the fate of AAA games](https://www.theverge.com/23969002/fortnite-gta-vi-aaa-games-future-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
+ - [Source: OpenAI co-founder and board director Ilya Sutskever told staff that Sam Altman will not return as CEO; Twitch co-founder Emmett Shear to be interim CEO &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p1#a231120p1)
  - [Source: OpenAI board members seek to hire their own CEO to succeed Sam Altman; sources: Mira Murati plans to rehire Altman and Greg Brockman in some capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p17#a231119p17)
  - [Sources describe how ChatGPT&#39;s success widened ideological rifts at OpenAI, and Ilya Sutskever began behaving like a spiritual leader expecting AGI&#39;s arrival &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231119/p16#a231119p16)
- - [Cruise co-founder and CEO Kyle Vogt resigns, a month after California&#39;s DMV suspended Cruise&#39;s permits to operate self-driving cars on public roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/231119/p15#a231119p15)
- - [Source: a number of announcements at DevDay infuriated OpenAI chief scientist Ilya Sutskever, like custom GPTs that OpenAI has said may one day run autonomously &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p14#a231119p14)
- - [Amazon launches epic $229 iPad 9th Generation Black Friday deal](https://appleinsider.com/articles/23/11/20/amazon-launches-epic-229-ipad-9th-generation-black-friday-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Cruise co-founder and CEO Kyle Vogt resigns, a month after California&#39;s DMV suspended Cruise&#39;s permits to operate self-driving cars on public roads &lpar;TechCrunch&rpar;](http://www.techmeme.com/231119/p15#a231119p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

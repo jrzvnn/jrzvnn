@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)
+ - [Eero Max 7 Review: Amazon&#39;s First Wi-Fi 7 Mesh](https://www.wired.com/review/eero-max-7/)
+ - [Tinder redesigns profile pages to add prompt conversation starters, basic info tags, and quizzes, and updates its app with new animations, a dark mode, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231120/p12#a231120p12)
  - [A look at OpenAI&#39;s wild weekend, as an internal debate over its future became public; investors say OpenAI still has not said why Altman was fired so abruptly &lpar;Financial Times&rpar;](http://www.techmeme.com/231120/p11#a231120p11)
- - [While the White House may condemn Elon Musk, the US recently signed a $1.2B SpaceX deal for Starshield, a key China deterrent, showing its dependence on him &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p10#a231120p10)
- - [BioBlack Is a Cleaner Alternative to the Filthy and Toxic Carbon Black Pigment](https://www.wired.com/story/bioblack-nature-coatings/)
- - [TikTok Shop’s Black Friday Sale Is Full of Very Weird Stuff](https://www.wired.com/story/tiktok-shop-black-friday-sale/)
- - [See the rise of the New England Patriots in &#39;The Dynasty&#39; on Apple TV+](https://appleinsider.com/articles/23/11/20/see-the-rise-of-the-new-england-patriots-in-the-dynasty-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [One of Our Favorite Video Doorbells of 2023 Has Hit Its Best Price to Date for Black Friday     - CNET](https://www.cnet.com/deals/one-of-our-favorite-video-doorbells-of-2023-has-hit-its-best-price-to-date-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creators of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [Hundreds of OpenAI employees threaten to resign and join Microsoft](https://www.theverge.com/2023/11/20/23968988/openai-employees-resignation-letter-microsoft-sam-altman)
  - [Use these lesser-known features to become a Google Docs pro](https://www.theverge.com/23966043/google-docs-tips-features-how-to)
  - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)
- - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)
- - [Emissions Should Be Plummeting. Instead, They’re Breaking Dangerous New Records](https://www.wired.com/story/emissions-should-be-plummeting-instead-theyre-breaking-dangerous-new-records/)
- - [OpenAI staff release a letter, signed by Ilya Sutskever and 490+ others, saying they may quit and join Sam Altman unless the board resigns and reappoints Altman &lpar;Wired&rpar;](http://www.techmeme.com/231120/p16#a231120p16)<!-- TECH:END -->
+ - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

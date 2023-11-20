@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [Secretive White House Surveillance Program Gives Cops Access to Trillions of US Phone Records](https://www.wired.com/story/hemisphere-das-white-house-surveillance-trillions-us-call-records/)
  - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)
  - [Source: more than 100 OpenAI customers contacted Anthropic over the weekend, and others reached out to Google Cloud and Cohere &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231120/p20#a231120p20)
- - [Why the latest temperature check on climate change is still terrifying](https://www.theverge.com/2023/11/20/23969101/temperature-check-climate-change-united-nations-negotiations-dubai)
- - [Sources: the US DOJ seeks $4B+ from Binance as part of a proposed resolution of a years-long probe; CZ would still potentially face criminal charges in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p19#a231120p19)<!-- TECH:END -->
+ - [Why the latest temperature check on climate change is still terrifying](https://www.theverge.com/2023/11/20/23969101/temperature-check-climate-change-united-nations-negotiations-dubai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

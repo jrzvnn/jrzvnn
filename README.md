@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 💣 [Glorious](http://9gag.com/gag/ap9wwjp)
+ - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
  - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 👉 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)<!-- MEMES:END -->
+ - 💣 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
+ - 😝 [Dead lift](http://9gag.com/gag/a9q00bK)
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 

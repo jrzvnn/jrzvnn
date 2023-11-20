@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
- - 💣 [Polina](http://9gag.com/gag/aL155vM)
- - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
+ - 😝 [Counter Strike in real life](http://9gag.com/gag/a8qOgL1)
+ - 😝 [The race of the century](http://9gag.com/gag/anzwZLE)
+ - 💣 [Happy life](http://9gag.com/gag/aDY5vAd)
+ - 😝 [Honk if you worship the devil](http://9gag.com/gag/aVb56eP)
+ - 👉 [Serious question: How come we never see a piece of Art like these again?!](http://9gag.com/gag/aZD55vV)<!-- MEMES:END -->
 
 ---
 

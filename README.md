@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve makes Half-Life free on macOS for 25th anniversary](https://appleinsider.com/articles/23/11/19/valve-makes-half-life-free-on-macos-for-25th-anniversary?utm_medium=rss)
- - [Daily deals Nov. 19: AirPods Pro USB-C $189, M2 MacBook Pro $1,599, AirPods Max $449, more](https://appleinsider.com/articles/23/11/19/daily-deals-nov-19-airpods-pro-usb-c-189-m2-macbook-pro-1599-airpods-max-449-more?utm_medium=rss)
- - [A look at a Paris lab where Apple tests hardware security, and an interview with Apple&#39;s head of security engineering about Lockdown Mode, app sideloading, more &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/231119/p11#a231119p11)
- - [A look at two content moderation startups founded by ex-Meta and Google staffers as the Israel-Hamas war leads to a surge in demand for trust and safety tech &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231119/p10#a231119p10)
- - [How OpenAI’s Bizarre Structure Gave 4 People the Power to Fire Sam Altman](https://www.wired.com/story/openai-bizarre-structure-4-people-the-power-to-fire-sam-altman/)<!-- TECH:END -->
+ - [Optus CEO Kelly Bayer Rosmarin resigns, after the Australian telco&#39;s crippling nationwide outage that began on Nov. 8; CFO Michael Venter to act as interim CEO &lpar;Asha Barbaschow/Gizmodo Australia&rpar;](http://www.techmeme.com/231119/p13#a231119p13)
+ - [Amazon&#39;s MacBook Air with AppleCare bundles start at $888, a Black Friday steal](https://appleinsider.com/articles/23/11/20/amazons-macbook-air-with-applecare-bundles-start-at-888-a-black-friday-steal?utm_medium=rss)
+ - [Sources: Microsoft&#39;s mulling taking a role on OpenAI&#39;s board if Sam Altman returns; source: if he doesn&#39;t, Microsoft would consider investing in his new venture &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231119/p12#a231119p12)
+ - [How to view Apple Notes attachments in small view in iOS](https://appleinsider.com/inside/ios-17/tips/how-to-view-apple-notes-attachments-in-small-view-in-ios?utm_medium=rss)
+ - [Valve makes Half-Life free on macOS for 25th anniversary](https://appleinsider.com/articles/23/11/19/valve-makes-half-life-free-on-macos-for-25th-anniversary?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

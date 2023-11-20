@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Climate Activists Tell the EV Industry to Fix Its Filthy Supply Chain](https://www.wired.com/story/la-auto-show-climate-protest-ev-supply-chain/)
  - [44 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)
  - [Cook wanted Apple and Google to be &#39;deep, deep partners&#39;](https://appleinsider.com/articles/23/11/20/cook-wanted-apple-and-google-to-be-deep-deep-partners?utm_medium=rss)
  - [Worlds 2023 had K-pop stars, an AR boy band, and one big screen](https://www.theverge.com/2023/11/20/23969182/worlds-2023-newjeans-heartsteel-opening-ceremony-tech)
- - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)
- - [Ilya Sutskever and 700+ out of ~770 OpenAI staffers sign a letter saying say they may quit and join Sam Altman unless the board resigns and reinstates Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p23#a231120p23)<!-- TECH:END -->
+ - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

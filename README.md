@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
- - 💣 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
- - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 💣 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 👉 [Dead lift](http://9gag.com/gag/a9q00bK)<!-- MEMES:END -->
 
 ---
 

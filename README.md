@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid! wtf?](http://9gag.com/gag/a9q00XK)
- - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
- - 💣 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
  - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 😝 [He had me in the first half, not gonna lie](http://9gag.com/gag/a6q66KL)
+ - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
+ - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

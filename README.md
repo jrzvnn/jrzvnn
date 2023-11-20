@@ -145,8 +145,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Marc Benioff says Salesforce will provide matching compensation to any researcher who has quit OpenAI and joins Salesforce&#39;s Einstein Trusted AI research team &lpar;Ben Purvis/Bloomberg&rpar;](http://www.techmeme.com/231120/p27#a231120p27)
  - [The US Senate Judiciary Committee announces it has subpoenaed the CEOs of X, Discord, and Snap to testify at a hearing on children&#39;s online safety on December 6 &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231120/p26#a231120p26)
  - [Amazon&#39;s Black Friday Apple sale offers sizzling hot deals on M3 MacBook, Apple Watch, AirPods](https://appleinsider.com/articles/23/11/20/amazons-black-friday-apple-sale-offers-sizzling-hot-deals-on-m3-macbook-apple-watch-airpods?utm_medium=rss)
- - [A secret Google deal let Spotify completely bypass Android’s app store fees](https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal)
- - [OpenAI&#39;s new interim CEO Emmett Shear has made some head-turning posts on X, from slowing down AI development to theories about women having rape fantasies &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231120/p25#a231120p25)<!-- TECH:END -->
+ - [OpenAI&#39;s new interim CEO Emmett Shear has made some head-turning posts on X, from slowing down AI development to theories about women having rape fantasies &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231120/p25#a231120p25)
+ - [Climate Activists Tell the EV Industry to Fix Its Filthy Supply Chain](https://www.wired.com/story/la-auto-show-climate-protest-ev-supply-chain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

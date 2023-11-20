@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a number of announcements at DevDay infuriated OpenAI chief scientist Ilya Sutskever, like custom GPTs that OpenAI has said may one day run autonomously &lpar;Bloomberg&rpar;](http://www.techmeme.com/231119/p14#a231119p14)
+ - [Amazon launches epic $229 iPad 9th Generation Black Friday deal](https://appleinsider.com/articles/23/11/20/amazon-launches-epic-229-ipad-9th-generation-black-friday-deal?utm_medium=rss)
  - [SpaceX’s new Starlink satellite internet terminal has a kickstand](https://www.theverge.com/2023/11/19/23968395/spacex-starlink-satellite-internet-terminal-kickstand-improved-fov-ip67-weather-rating)
  - [Optus CEO Kelly Bayer Rosmarin resigns, after the Australian telco&#39;s crippling nationwide outage that began on Nov. 8; CFO Michael Venter to act as interim CEO &lpar;Asha Barbaschow/Gizmodo Australia&rpar;](http://www.techmeme.com/231119/p13#a231119p13)
- - [Amazon&#39;s MacBook Air with AppleCare bundles start at $888, a Black Friday steal](https://appleinsider.com/articles/23/11/20/amazons-macbook-air-with-applecare-bundles-start-at-888-a-black-friday-steal?utm_medium=rss)
- - [Sources: Microsoft&#39;s mulling taking a role on OpenAI&#39;s board if Sam Altman returns; source: if he doesn&#39;t, Microsoft would consider investing in his new venture &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231119/p12#a231119p12)
- - [How to view Apple Notes attachments in small view in iOS](https://appleinsider.com/inside/ios-17/tips/how-to-view-apple-notes-attachments-in-small-view-in-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s MacBook Air with AppleCare bundles start at $888, a Black Friday steal](https://appleinsider.com/articles/23/11/20/amazons-macbook-air-with-applecare-bundles-start-at-888-a-black-friday-steal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

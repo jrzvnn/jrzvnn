@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Worlds 2023 had K-pop stars, an AR boy band, and one big screen](https://www.theverge.com/2023/11/20/23969182/worlds-2023-newjeans-heartsteel-opening-ceremony-tech)
  - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)
  - [Ilya Sutskever and 700+ out of ~770 OpenAI staffers sign a letter saying say they may quit and join Sam Altman unless the board resigns and reinstates Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p23#a231120p23)
- - [Sources: Sam Altman&#39;s move to Microsoft is not a done deal; he and Brockman are open to returning to OpenAI if the remaining board members who fired him resign &lpar;The Verge&rpar;](http://www.techmeme.com/231120/p22#a231120p22)
- - [Amazon launches AI Ready, a program with free AI classes that aims to train at least 2M people by 2025 on basic to advanced AI skills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231120/p21#a231120p21)
- - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)<!-- TECH:END -->
+ - [Best Gifts Under $500 for 2023     - CNET](https://www.cnet.com/tech/best-gifts-under-500/#ftag=CAD590a51e)
+ - [Sources: Sam Altman&#39;s move to Microsoft is not a done deal; he and Brockman are open to returning to OpenAI if the remaining board members who fired him resign &lpar;The Verge&rpar;](http://www.techmeme.com/231120/p22#a231120p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

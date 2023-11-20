@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)
+ - [The White House launches accounts on Threads for Joe Biden, his campaign, Kamala Harris, FLOTUS, and others; the White House says the move is not related to X &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/231120/p28#a231120p28)
  - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)
  - [95 Percent of OpenAI Employees Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)
- - [Marc Benioff says Salesforce will provide matching compensation to any researcher who has quit OpenAI and joins Salesforce&#39;s Einstein Trusted AI research team &lpar;Ben Purvis/Bloomberg&rpar;](http://www.techmeme.com/231120/p27#a231120p27)
- - [The US Senate Judiciary Committee announces it has subpoenaed the CEOs of X, Discord, and Snap to testify at a hearing on children&#39;s online safety on December 6 &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231120/p26#a231120p26)
- - [Amazon&#39;s Black Friday Apple sale offers sizzling hot deals on M3 MacBook, Apple Watch, AirPods](https://appleinsider.com/articles/23/11/20/amazons-black-friday-apple-sale-offers-sizzling-hot-deals-on-m3-macbook-apple-watch-airpods?utm_medium=rss)<!-- TECH:END -->
+ - [Marc Benioff says Salesforce will provide matching compensation to any researcher who has quit OpenAI and joins Salesforce&#39;s Einstein Trusted AI research team &lpar;Ben Purvis/Bloomberg&rpar;](http://www.techmeme.com/231120/p27#a231120p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

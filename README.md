@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Nov. 20: AirPods Max for $370, Apple Watch Series 9 $329, LG 38-inch Thunderbolt 3 monitor $897, more](https://appleinsider.com/articles/23/11/20/daily-deals-nov-20-airpods-max-for-370-apple-watch-series-9-329-lg-38-inch-thunderbolt-3-monitor-897-more?utm_medium=rss)
+ - [Amazon’s offering free courses on generative AI](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses)
  - [GM’s big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
  - [How Apple is already using machine learning and AI in iOS](https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios?utm_medium=rss)
- - [Apple’s last-gen iPad falls to a new low of $229.99 for early Black Friday buyers](https://www.theverge.com/2023/11/20/23969050/apple-ipad-ninth-generation-early-black-friday-budget-deal-sale)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Meet Emmett Shear, OpenAI’s ‘Highly Intelligent, Socially Awkward’ Interim CEO](https://www.wired.com/story/emmett-shear-twitch-open-ai-ceo/)<!-- TECH:END -->
+ - [Apple’s last-gen iPad falls to a new low of $229.99 for early Black Friday buyers](https://www.theverge.com/2023/11/20/23969050/apple-ipad-ninth-generation-early-black-friday-budget-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise co-founder and Chief Product Officer Daniel Kan resigns, a day after CEO Kyle Vogt quit &lpar;Reuters&rpar;](http://www.techmeme.com/231120/p24#a231120p24)
  - [Ilya Sutskever and 700+ out of ~770 OpenAI staffers sign a letter saying say they may quit and join Sam Altman unless the board resigns and reinstates Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p23#a231120p23)
  - [Sources: Sam Altman&#39;s move to Microsoft is not a done deal; he and Brockman are open to returning to OpenAI if the remaining board members who fired him resign &lpar;The Verge&rpar;](http://www.techmeme.com/231120/p22#a231120p22)
  - [Amazon launches AI Ready, a program with free AI classes that aims to train at least 2M people by 2025 on basic to advanced AI skills &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231120/p21#a231120p21)
- - [Secretive White House Surveillance Program Gives Cops Access to Trillions of US Phone Records](https://www.wired.com/story/hemisphere-das-white-house-surveillance-trillions-us-call-records/)
- - [My TV Got a Major Upgrade With the Roku Streambar, Now a Black Friday Deal     - CNET](https://www.cnet.com/deals/my-tv-got-a-major-upgrade-with-the-roku-streambar-now-a-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

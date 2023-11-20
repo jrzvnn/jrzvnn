@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is imploding as staff rebel over shock firing of CEO](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
  - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creators of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
  - [Hundreds of OpenAI employees threaten to resign and join Microsoft](https://www.theverge.com/2023/11/20/23968988/openai-employees-resignation-letter-microsoft-sam-altman)
  - [Use these lesser-known features to become a Google Docs pro](https://www.theverge.com/23966043/google-docs-tips-features-how-to)
- - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)
- - [The New Jackrabbit XG Ebike Is a Pint-Size Prankster](https://www.wired.com/story/jackrabbit-xg-rave/)<!-- TECH:END -->
+ - [7 Best Philips Hue Smart Lights &lpar;2023&rpar;: Gradient Lightstrip, Go Lamp, and More Tips](https://www.wired.com/gallery/best-philips-hue-smart-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

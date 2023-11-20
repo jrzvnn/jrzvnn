@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 😝 [Polina](http://9gag.com/gag/aL155vM)
- - 💣 [I can completely relate to this](http://9gag.com/gag/aZD54ZQ)
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
  - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
- - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
+ - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
+ - 😝 [This fossil find](http://9gag.com/gag/armwL75)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 

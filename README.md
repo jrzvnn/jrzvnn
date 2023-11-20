@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)
  - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)
  - [The White House launches accounts on Threads for Joe Biden, his campaign, Kamala Harris, FLOTUS, and others; the White House says the move is not related to X &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/231120/p28#a231120p28)
- - [Paramount Plus Black Friday Deal: Get 3 Months for $6     - CNET](https://www.cnet.com/deals/paramount-plus-black-friday-deal-get-3-months-for-6/#ftag=CAD590a51e)
  - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)
- - [Best High-Yield Savings Accounts for November 2023     - CNET](https://www.cnet.com/personal-finance/best-high-yield-savings-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [95 Percent of OpenAI Employees Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

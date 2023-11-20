@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
- - 😝 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 💣 [Damn dog](http://9gag.com/gag/aEq55KO)
- - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
- - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
+ - 😝 [Honk if you worship the devil](http://9gag.com/gag/aVb56eP)
+ - 😝 [I don&#39;t really care, but thanks to Google for remembering the International Men&#39;s Day once again](http://9gag.com/gag/aKE5MvN)
+ - 💣 [The race of the century](http://9gag.com/gag/anzwZLE)
+ - 😝 [Serious question: How come we never see a piece of Art like these again?!](http://9gag.com/gag/aZD55vV)
+ - 👉 [THE BOYS \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aPg2q0n)<!-- MEMES:END -->
 
 ---
 

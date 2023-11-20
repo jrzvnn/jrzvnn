@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s new CEO is Twitch co-founder Emmett Shear](https://www.theverge.com/2023/11/20/23968848/openai-new-ceo-emmett-shear-twitch-co-founder-hiring)
  - [OpenAI&#39;s board &quot;stands by its decision as the only path to advance and defend the mission of OpenAI&quot; and criticizes &quot;Sam&#39;s behavior and lack of transparency&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231120/p4#a231120p4)
  - [Satya Nadella says Sam Altman, Greg Brockman, and OpenAI staff will join Microsoft&#39;s new &quot;advanced AI research team&quot; and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)
  - [Microsoft hires former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
- - [The EU Wants to Fix Gig Work. Uber Has Its Own Ideas](https://www.wired.com/story/eu-gig-workers-law/)
- - [Source: dozens of OpenAI employees internally announced they are quitting after Ilya Sutskever told them that Sam Altman won&#39;t return &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p2#a231120p2)<!-- TECH:END -->
+ - [The EU Wants to Fix Gig Work. Uber Has Its Own Ideas](https://www.wired.com/story/eu-gig-workers-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

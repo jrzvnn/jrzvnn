@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Pigeon playing a\u2026.. prank\u2026..on mummy falcon?](http://9gag.com/gag/aPg2bzQ)
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 💣 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
+ - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble, Grindr, and Hinge Moderators Struggle to Keep Users—and Themselves—Safe](https://www.wired.com/story/bumble-grindr-and-hinge-moderators-trauma/)
  - [A profile of Beryl Tomay, a lifelong Amazon executive who made two early career mistakes that she now eagerly discusses, as she leads Amazon&#39;s &quot;last mile&quot; unit &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231120/p7#a231120p7)
  - [Adobe’s $20 billion bid for Figma in peril after EU warning](https://www.theverge.com/2023/11/20/23961096/adobe-figma-acquisition-antitrust-eu-statement-of-objections)
  - [Xiaomi reports Q3 revenue up 0.6% YoY to ~$9.9B, its first gain in almost two years, and a ~$684M net income, both above est., buoyed by rising smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p6#a231120p6)
- - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)
- - [Snag Apple&#39;s 9th Gen iPad at a New All-Time Low With This Epic Black Friday Deal     - CNET](https://www.cnet.com/deals/epic-black-friday-9th-gen-ipad-deal-all-time-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

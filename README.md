@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Absolute &amp; Immediate B A N G E R](http://9gag.com/gag/aNw55e6)
- - 💣 [Can&#39;t tell](http://9gag.com/gag/adPwDNd)
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 😝 [Why bother me?](http://9gag.com/gag/a6q66q8)
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 💣 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 ---
 

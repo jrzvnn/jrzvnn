@@ -143,10 +143,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Satya Nadella says Sam Altman, Greg Brockman, and some OpenAI staff will join a Microsoft &quot;advanced AI research team&quot; and Microsoft remains committed to OpenAI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231120/p3#a231120p3)
- - [Microsoft hires former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
  - [The EU Wants to Fix Gig Work. Uber Has Its Own Ideas](https://www.wired.com/story/eu-gig-workers-law/)
  - [Source: dozens of OpenAI employees internally announced they are quitting after Ilya Sutskever told them that Sam Altman won&#39;t return &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p2#a231120p2)
- - [Kyle Vogt, CEO of Robotaxi Developer Cruise, Resigns As Questions Linger Over Grisly Crash](https://www.wired.com/story/kyle-vogt-ceo-robotaxi-cruise-resigns-grisly-crash/)<!-- TECH:END -->
+ - [Kyle Vogt, CEO of Robotaxi Developer Cruise, Resigns As Questions Linger Over Grisly Crash](https://www.wired.com/story/kyle-vogt-ceo-robotaxi-cruise-resigns-grisly-crash/)
+ - [Sam Altman’s Attempt to Return as OpenAI CEO Fails as Board Turns to Ex-Twitch CEO](https://www.wired.com/story/sam-altman-openai-return-fails-ceo-twitch-emmett-shear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

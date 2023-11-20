@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of eldritch debauchery is this? It gets worse every time I look at it.](http://9gag.com/gag/aL15oEz)
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
  - 😝 [Polina](http://9gag.com/gag/aL155vM)
  - 💣 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
- - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
- - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
+ - 😝 [What kind of eldritch debauchery is this? It gets worse every time I look at it.](http://9gag.com/gag/aL15oEz)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 

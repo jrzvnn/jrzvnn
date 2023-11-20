@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Why bother me?](http://9gag.com/gag/a6q66q8)
+ - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
  - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [Nothing to see here](http://9gag.com/gag/aBd5MoA)
- - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
+ - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
+ - 👉 [Abigaile Johnson...She used to take an entire corn inside herself.](http://9gag.com/gag/aeQwEWv)<!-- MEMES:END -->
 
 ---
 

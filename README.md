@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the latest temperature check on climate change is still terrifying](https://www.theverge.com/2023/11/20/23969101/temperature-check-climate-change-united-nations-negotiations-dubai)
  - [Black Friday 16-inch MacBook Pro deal drives price of M3 Max, 48GB RAM spec down to $3,749](https://appleinsider.com/articles/23/11/20/black-friday-16-inch-macbook-pro-deal-drives-price-of-m3-max-48gb-ram-spec-down-to-3749?utm_medium=rss)
  - [Sources: the US DOJ seeks $4B+ from Binance as part of a proposed resolution of a years-long probe; CZ would still potentially face criminal charges in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p19#a231120p19)
  - [The new Samsung Galaxy Buds FE are $30 off ahead of Black Friday](https://www.theverge.com/2023/11/20/23969245/samsung-galaxy-buds-fe-wireless-noise-canceling-anc-earbuds-deal-sale)
- - [After big advertisers flee X, right-wing media outlets and influencers pledge to buy ads or donate, like Benny Johnson, Andrew Tate, Gavin McInnes, Babylon Bee &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231120/p18#a231120p18)
- - [Daily deals Nov. 20: AirPods Max for $370, Apple Watch Series 9 $329, LG 38-inch Thunderbolt 3 monitor $897, more](https://appleinsider.com/articles/23/11/20/daily-deals-nov-20-airpods-max-for-370-apple-watch-series-9-329-lg-38-inch-thunderbolt-3-monitor-897-more?utm_medium=rss)<!-- TECH:END -->
+ - [After big advertisers flee X, right-wing media outlets and influencers pledge to buy ads or donate, like Benny Johnson, Andrew Tate, Gavin McInnes, Babylon Bee &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231120/p18#a231120p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

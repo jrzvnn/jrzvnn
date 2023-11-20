@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 😝 [It will rain...](http://9gag.com/gag/az2wpwN)
- - 💣 [He loves his bike \ud83d\udeb3](http://9gag.com/gag/amAw4wX)
- - 😝 [Newly appointed Spanish minister fills up the cup holder](http://9gag.com/gag/a8qOR4e)
- - 👉 [Privilege](http://9gag.com/gag/aDY5KRB)<!-- MEMES:END -->
+ - 😝 [Cultural enrichers beat up British police officer, then escape unopposed.](http://9gag.com/gag/aBd5AQQ)
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 💣 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [Can i pls have some funny memes from your collections?](http://9gag.com/gag/a2Kp3Np)
+ - 👉 [Dead lift](http://9gag.com/gag/a9q00bK)<!-- MEMES:END -->
 
 ---
 

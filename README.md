@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Shadow Magic](http://9gag.com/gag/awZ29wD)
- - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [Based Nadal](http://9gag.com/gag/a9q0wmm)
- - 👉 [Abigaile Johnson...She used to take an entire corn inside herself.](http://9gag.com/gag/aeQwEWv)<!-- MEMES:END -->
+ - 😝 [I knew I wasn&#39;t attractive guy, but I didn&#39;t knew it was that bad...](http://9gag.com/gag/a1PjnjD)
+ - 💣 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 👉 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)<!-- MEMES:END -->
 
 ---
 

@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
  - 😝 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 😝 [Would you pay $100k for these homes](http://9gag.com/gag/a3ZrO37)
- - 💣 [Kid! wtf?](http://9gag.com/gag/a9q00XK)
- - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
- - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
+ - 👉 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)<!-- MEMES:END -->
 
 ---
 

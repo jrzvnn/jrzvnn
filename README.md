@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
- - 😝 [If only there was a way to let people know](http://9gag.com/gag/aYV5BvN)
- - 💣 [Dolly Parton before plastic surgery](http://9gag.com/gag/abvwLnb)
- - 😝 [Kid! wtf?](http://9gag.com/gag/a9q00XK)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 😝 [Wait what!?](http://9gag.com/gag/armwE0V)
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 💣 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
 
 ---
 

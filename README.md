@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satya Nadella says &quot;it&#39;s very clear that something has to change around the governance&quot; of OpenAI no matter where Sam Altman ends up &lpar;CNBC&rpar;](http://www.techmeme.com/231120/p29#a231120p29)
  - [Linda Yaccarino: advertisers fleeing from X are just “temporarily paused investments”](https://www.theverge.com/2023/11/20/23969970/linda-yaccarino-memo-x-twitter-elon-musk-anti-semitism)
  - [Black Friday Beats deals: save up to 51% on Beats Studio Pro &amp; Powerbeats Pro headphones](https://appleinsider.com/articles/23/11/20/black-friday-beats-deals-save-up-to-51-on-beats-studio-pro-powerbeats-pro-headphones?utm_medium=rss)
  - [The White House launches accounts on Threads for Joe Biden, his campaign, Kamala Harris, FLOTUS, and others; the White House says the move is not related to X &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/231120/p28#a231120p28)
- - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)
- - [95 Percent of OpenAI Employees Threaten to Follow Sam Altman Out the Door](https://www.wired.com/story/95-percent-of-openai-employees-threaten-to-follow-sam-altman-out-the-door/)<!-- TECH:END -->
+ - [Crypto zealots lead frivolous lawsuit against &#39;Apple led cartel&#39;](https://appleinsider.com/articles/23/11/20/crypto-zealots-lead-frivolous-lawsuit-against-apple-led-cartel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,7 +146,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Source: dozens of OpenAI employees internally announced they are quitting after Ilya Sutskever told them that Sam Altman won&#39;t return &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231120/p2#a231120p2)
  - [Kyle Vogt, CEO of Robotaxi Developer Cruise, Resigns As Questions Linger Over Grisly Crash](https://www.wired.com/story/kyle-vogt-ceo-robotaxi-cruise-resigns-grisly-crash/)
  - [Sam Altman’s Attempt to Return as OpenAI CEO Fails as Board Turns to Ex-Twitch CEO](https://www.wired.com/story/sam-altman-openai-return-fails-ceo-twitch-emmett-shear/)
- - [Sam Altman will not return as CEO and Emmett Shear is named interim CEO, OpenAI board director Ilya Sutskever told staff &lpar;The Information&rpar;](http://www.techmeme.com/231120/p1#a231120p1)<!-- TECH:END -->
+ - [Turmoil at OpenAI: after firing Sam Altman, what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

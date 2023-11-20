@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
- - 😝 [Glorious](http://9gag.com/gag/ap9wwjp)
- - 💣 [Captured CCTV footage from inside Al-Shifa hospital from the 7.10.](http://9gag.com/gag/aPg2qBn)
- - 😝 [This fossil find](http://9gag.com/gag/armwL75)
- - 👉 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)<!-- MEMES:END -->
+ - 😝 [Why bother me?](http://9gag.com/gag/a6q66q8)
+ - 💣 [This is the world we live in now?](http://9gag.com/gag/aL15Omz)
+ - 😝 [Nothing to see here](http://9gag.com/gag/aBd5MoA)
+ - 👉 [Shadow Magic](http://9gag.com/gag/awZ29wD)<!-- MEMES:END -->
 
 ---
 

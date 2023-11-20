@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
- - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 💣 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
- - 😝 [Dead lift](http://9gag.com/gag/a9q00bK)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 😝 [Give me your best &lpar;phone/mobile&rpar; wallpaper pleaseee.. Thankyou!](http://9gag.com/gag/amAwQx4)
+ - 😝 [Protect your children at all cost from Islam](http://9gag.com/gag/a2KpXWp)
+ - 💣 [The interview](http://9gag.com/gag/az2wzeK)
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
 
 ---
 

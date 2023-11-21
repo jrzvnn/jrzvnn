@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Relationship goals.](http://9gag.com/gag/aYV5397)
  - 😝 [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
  - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
 
 ---
 

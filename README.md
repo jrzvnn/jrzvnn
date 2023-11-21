@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That door close tho](http://9gag.com/gag/ay2wjbV)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 💣 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
+ - 😝 [Where memes from](http://9gag.com/gag/a7qXYvL)
+ - 😝 [One ticket for me too](http://9gag.com/gag/aL157x5)
+ - 💣 [Now that&#39;s a cool story](http://9gag.com/gag/aNw57G4)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aDY5KZ7)
+ - 👉 [Name this karate moves](http://9gag.com/gag/adPwDOD)<!-- MEMES:END -->
 
 ---
 

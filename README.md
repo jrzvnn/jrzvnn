@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
  - 😝 [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 👉 [Kinda chubby](http://9gag.com/gag/anzwL2q)<!-- MEMES:END -->
+ - 😝 [The dad beat that guy into simpson character](http://9gag.com/gag/a7qXzRw)
+ - 💣 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
 
 ---
 

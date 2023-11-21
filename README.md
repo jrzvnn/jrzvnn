@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pigeon playing a\u2026.. prank\u2026..on mummy falcon?](http://9gag.com/gag/aPg2bzQ)
  - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 💣 [Dead lift](http://9gag.com/gag/a9q00bK)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 💣 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
 
 ---
 

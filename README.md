@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 💣 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
+ - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
+ - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
 
 ---
 

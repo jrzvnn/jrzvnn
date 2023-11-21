@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [A24’s Dream Scenario is a shapeshifting parable about our obsessions with viral fame](https://www.theverge.com/23965979/dream-scenario-review-a24-nicolas-cage)
+ - [Bad business is breaking the smart home — good regulation can fix it](https://www.theverge.com/23970749/smart-home-broken-policy-fixes)
  - [Greenpeace slams Apple supplier Foxconn over inadequate carbon effort](https://appleinsider.com/articles/23/11/21/greenpeace-slams-apple-supplier-foxconn-over-inadequate-carbon-effort?utm_medium=rss)
- - [8BitDo’s NES-style keyboard has returned to its lowest price yet](https://www.theverge.com/2023/11/21/23970028/8bitdo-retro-mechanical-keyboard-deal-sale)
- - [Amazon Prime Video plans &quot;shoppable ads&quot; where viewers can scan QR codes for instant purchases, during NFL&#39;s first-ever &quot;Black Friday&quot; game, which it&#39;s carrying &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p24#a231121p24)
- - [Sources: 97%+ of OpenAI staff have signed the letter threatening to quit in board standoff; investors explore legal measures to force board to reverse course &lpar;Ars Technica&rpar;](http://www.techmeme.com/231121/p23#a231121p23)
- - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)<!-- TECH:END -->
+ - [8BitDo’s NES-style keyboard has returned to its lowest price yet](https://www.theverge.com/2023/11/21/23970028/8bitdo-retro-mechanical-keyboard-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,7 +146,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [MediaTek Joins Qualcomm in Bringing ChatGPT-Like AI to More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/mediatek-joins-qualcomm-in-bringing-chatgpt-like-ai-to-more-affordable-phones/#ftag=CAD590a51e)
  - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)
  - [Lyon-based Indy, which offers freelancers an all-in-one platform for accounting, business creation, and more, raised a &amp;euro;40M Series C led by BlackFin Capital &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231121/p5#a231121p5)
- - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)<!-- TECH:END -->
+ - [Texas&#39; AG, &quot;troubled&quot; by Elon Musk&#39;s claims, probes Media Matters, which calls X&#39;s suit &quot;frivolous&quot;; X avoids anti-SLAPP statutes by filing in the 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

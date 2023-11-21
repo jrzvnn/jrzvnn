@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)
- - [Best Internet Providers in Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
- - [Amazon launches Black Friday Apple Watch SE 2 deal for just $179, best price ever](https://appleinsider.com/articles/23/11/21/amazon-launches-black-friday-apple-watch-se-2-deal-for-just-179-best-price-ever?utm_medium=rss)
- - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
- - [What’s on your desk, Nathan Edwards?](https://www.theverge.com/23969229/home-office-setup-desk-chair-laptop-desktop-nathan-edwards)<!-- TECH:END -->
+ - [Greenpeace slams Apple supplier Foxconn over inadequate carbon effort](https://appleinsider.com/articles/23/11/21/greenpeace-slams-apple-supplier-foxconn-over-inadequate-carbon-effort?utm_medium=rss)
+ - [8BitDo’s NES-style keyboard has returned to its lowest price yet](https://www.theverge.com/2023/11/21/23970028/8bitdo-retro-mechanical-keyboard-deal-sale)
+ - [Amazon Prime Video plans &quot;shoppable ads&quot; where viewers can scan QR codes for instant purchases, during NFL&#39;s first-ever &quot;Black Friday&quot; game, which it&#39;s carrying &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p24#a231121p24)
+ - [Sources: 97%+ of OpenAI staff have signed the letter threatening to quit in board standoff; investors explore legal measures to force board to reverse course &lpar;Ars Technica&rpar;](http://www.techmeme.com/231121/p23#a231121p23)
+ - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

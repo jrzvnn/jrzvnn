@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where memes from](http://9gag.com/gag/a7qXYvL)
- - 😝 [One ticket for me too](http://9gag.com/gag/aL157x5)
- - 💣 [Now that&#39;s a cool story](http://9gag.com/gag/aNw57G4)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aDY5KZ7)
- - 👉 [Name this karate moves](http://9gag.com/gag/adPwDOD)<!-- MEMES:END -->
+ - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Changpeng Zhao plans to step down and plead guilty in US court to breaking money laundering laws, part of a $4.3B deal; CZ can keep Binance ownership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p30#a231121p30)
+ - [Anthropic debuts Claude 2.1, offering a context window of up to 200K tokens, or ~150K words, a claimed 50%+ increase in accuracy, new API integrations, and more &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231121/p29#a231121p29)
+ - [Tel Aviv-based generative AI startup AI21 raised a $53M Series C extension from Intel, Comcast, and others, taking the round to $208M and total raised to $336M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p28#a231121p28)
  - [Source: Binance CEO Changpeng Zhao may step down from Binance as part of a $4B settlement between Binance, the DOJ, and the CFTC; the SEC is not participating &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p27#a231121p27)
- - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [A24’s Dream Scenario is a shapeshifting parable about our obsessions with viral fame](https://www.theverge.com/23965979/dream-scenario-review-a24-nicolas-cage)
- - [I Upgraded My Love for Loud Live Music With This Black Friday Deal     - CNET](https://www.cnet.com/deals/i-upgraded-my-love-for-loud-live-music-with-this-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

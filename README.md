@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she forgot to handshake and almost died](http://9gag.com/gag/a2KppxZ)
- - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 💣 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 👉 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)<!-- MEMES:END -->
 
 ---
 

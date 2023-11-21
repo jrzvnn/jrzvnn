@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos aims for AirPods Max, Apple TV with rumored headphones, streaming box](https://appleinsider.com/articles/23/11/21/sonos-aims-for-airpods-max-apple-tv-with-rumored-headphones-streaming-box?utm_medium=rss)
+ - [EAO: global streamers spent &amp;euro;4.9B on European original content in 2022, up 70% YoY; Netflix spent &amp;euro;2.2B, Amazon &amp;euro;1.1B, Disney &amp;euro;500K, and HBO and Apple &amp;euro;400K &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p39#a231121p39)
  - [OpenAI rival Anthropic makes its Claude chatbot even more useful](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [The 80 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
- - [Sonos plans a 2024 loaded with new products  — including headphones and a set-top box](https://www.theverge.com/2023/11/21/23971209/sonos-headphones-set-top-box-arc-2-leak)
- - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [15 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023/)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

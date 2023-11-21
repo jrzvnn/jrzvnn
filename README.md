@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 💣 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
  - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 👉 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)<!-- MEMES:END -->
+ - 😝 [He&#39;s angry but he&#39;ll be fine](http://9gag.com/gag/aZD5enz)
+ - 💣 [Fml.](http://9gag.com/gag/a1PjGvb)
+ - 😝 [Genius move](http://9gag.com/gag/aA05jXd)
+ - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
 
 ---
 

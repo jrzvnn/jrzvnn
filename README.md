@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s Media Matters Lawsuit Will Have a ‘Chilling Effect’](https://www.wired.com/story/x-elon-musk-media-matters-lawsuit/)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Here’s What’s Next for SpaceX’s Starship](https://www.wired.com/story/heres-whats-next-for-spacexs-starship/)
- - [46 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-2/)
- - [A London tribunal rules Sony must face a lawsuit alleging it abused its dominance by forcing digital games and add-ons to be bought and sold only via its store &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p38#a231121p38)<!-- TECH:END -->
+ - [46 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

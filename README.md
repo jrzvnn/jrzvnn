@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Sam Altman, the AI industry&#39;s de facto ambassador despite lacking a scientific background; a source says &quot;his superpower is getting people on side&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p15#a231121p15)
+ - [New York Wants More Electric Ubers. Everyone Is Mad](https://www.wired.com/story/new-york-city-electric-uber-lyft-license/)
+ - [Technics SU-GX70 Network Amplifier Review: Classic Looks, Modern Sound](https://www.wired.com/review/technics-su-gx70/)
  - [Investigation: as Amazon and Netflix back down on daring films, self-censorship pervades the Indian streaming industry due to pressure from Modi&#39;s ruling BJP &lpar;Washington Post&rpar;](http://www.techmeme.com/231121/p14#a231121p14)
- - [This mechanical keyboard has a headphone jack you might actually want to use](https://www.theverge.com/2023/11/21/23970644/fiio-kb3-keyboard-hifi-built-in-headphone-amp-and-dac)
- - [Q&amp;A with Del Harvey, who led Twitter&#39;s trust and safety team for 13 years until 2021, on the X rebrand, her role, Gamergate, Donald Trump, January 6, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/231121/p13#a231121p13)
- - [Filings: Tether deposited $1B+ with Britannia Financial, founded by a Tory donor later charged by the US with bribery, a rare look at its banking relationships &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p12#a231121p12)
- - [&#39;Several people&#39; could be the next Apple CEO, reveals Tim Cook](https://appleinsider.com/articles/23/11/21/several-people-could-be-the-next-apple-ceo-reveals-tim-cook?utm_medium=rss)<!-- TECH:END -->
+ - [This mechanical keyboard has a headphone jack you might actually want to use](https://www.theverge.com/2023/11/21/23970644/fiio-kb3-keyboard-hifi-built-in-headphone-amp-and-dac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

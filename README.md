@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sonos to make a long-awaited push into headphones with a $400 model coming as early as April, is working on a video service and streaming device, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231121/p36#a231121p36)
  - [LucidLink, which helps teams work on files without having to download or sync them, raised a $75M Series C and says it has nearly 5x ARR growth over two years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p35#a231121p35)
  - [47 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)
  - [Sources: OpenAI interim CEO Emmett Shear has told people close to OpenAI that he doesn&#39;t plan to remain if the board can&#39;t clearly tell him why it fired Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p34#a231121p34)
- - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
- - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)<!-- TECH:END -->
+ - [Binance CEO Changpeng Zhao Reportedly Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

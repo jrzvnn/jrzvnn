@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deeply questionable rumor claims 14.1-inch iPad Pro arriving in 2024](https://appleinsider.com/articles/23/11/21/deeply-questionable-rumor-claims-141-inch-ipad-pro-arriving-in-2024?utm_medium=rss)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)
- - [Raise your hand to speak, please](https://www.theverge.com/2023/11/21/23971246/google-meet-gesture-recognition-hand-raise-new-feature)
- - [Elon Musk’s Media Matters Lawsuit Will Have a ‘Chilling Effect’](https://www.wired.com/story/x-elon-musk-media-matters-lawsuit/)
- - [10-in-1 Stick Vacuum     - CNET](https://www.cnet.com/home/kitchen-and-household/10-in-1-stick-vacuum-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI rival Anthropic makes its Claude chatbot even more useful](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [The 80 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
+ - [Sonos plans a 2024 loaded with new products  — including headphones and a set-top box](https://www.theverge.com/2023/11/21/23971209/sonos-headphones-set-top-box-arc-2-leak)
+ - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

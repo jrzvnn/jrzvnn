@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft isn&#39;t a clear winner in OpenAI chaos, as its ~$11B investment is in danger, building AI systems has reputational risks, and talent might not stay &lpar;Matthew Prince/@eastdakota&rpar;](http://www.techmeme.com/231120/p37#a231120p37)
  - [The Mystery at the Heart of the OpenAI Chaos](https://www.wired.com/story/mystery-at-the-heart-of-the-openai-chaos/)
  - [Media Matters&#39; claims that some companies&#39; ads appeared next to antisemitic content do not seem to be &quot;manufactured&quot;, contrary to what X alleges in its suit &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231120/p36#a231120p36)
  - [Kuo reiterates 120 mm tetraprism camera coming to iPhone 16 Pro](https://appleinsider.com/articles/23/11/21/kuo-reiterates-120-mm-tetraprism-camera-coming-to-iphone-16-pro?utm_medium=rss)
- - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
- - [Source: OpenAI&#39;s board approached Anthropic CEO Dario Amodei about a potential merger as part of an effort to persuade Amodei to replace Sam Altman as CEO &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/231120/p35#a231120p35)<!-- TECH:END -->
+ - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

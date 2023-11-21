@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI drops a big new ChatGPT feature with a joke about its CEO drama](https://www.theverge.com/2023/11/21/23971489/openai-chatgpt-voice-feature-ceo-drama)
+ - [Former OpenAI President Greg Brockman announces that ChatGPT&#39;s voice narration feature is now available to all free users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p48#a231121p48)
+ - [The US FTC approves a new resolution to streamline investigations of cases where AI is used to break the law &lpar;Reuters&rpar;](http://www.techmeme.com/231121/p47#a231121p47)
  - [A US district judge dismisses most claims in a lawsuit by Sarah Silverman and other authors against Meta&#39;s use of copyrighted material to train Llama models &lpar;Winston Cho/Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p46#a231121p46)
  - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
- - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)
- - [HP reports Q4 revenue down 6.5% YoY to $13.8B, vs. $13.8B est., Personal Systems revenue down 8% YoY to $9.4B, and Printing revenue down 3% YoY to $4.4B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231121/p44#a231121p44)<!-- TECH:END -->
+ - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

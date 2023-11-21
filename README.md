@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify’s new royalty scheme picks the winners](https://www.theverge.com/2023/11/21/23971616/spotify-royalties-labels-streaming-fraud-pushkin-malcolm-gladwell)
+ - [YouTube says it’s not slowing down Firefox — just ad blockers](https://www.theverge.com/2023/11/21/23970721/google-youtube-ad-blocker-five-second-delay-firefox-chrome)
  - [Nvidia expects strong growth in most regions to offset a &quot;significant&quot; drop in sales to China because of recently tightened AI chip rules &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231121/p50#a231121p50)
  - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)
- - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)
- - [Tello Mobile Delivers Cellular Service for Under $10 This Black Friday     - CNET](https://www.cnet.com/deals/tello-mobile-delivers-cellular-service-for-under-10-this-black-friday/#ftag=CAD590a51e)
- - [Eckster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/eckster-black-friday-sale-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

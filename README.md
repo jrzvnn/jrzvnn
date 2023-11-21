@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Tether deposited $1B+ with Britannia Financial, founded by a Tory donor later charged by the US with bribery, a rare look at its banking relationships &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p12#a231121p12)
  - [&#39;Several people&#39; could be the next Apple CEO, reveals Tim Cook](https://appleinsider.com/articles/23/11/21/several-people-could-be-the-next-apple-ceo-reveals-tim-cook?utm_medium=rss)
  - [Epic v. Google: Tim Sweeney says Android is a &quot;fake open platform&quot;; under cross-examination, Sweeney admitted to paying a 30% cut to Sony, Xbox, and Nintendo &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231121/p11#a231121p11)
- - [Twitter’s Former Head of Trust and Safety Finally Breaks Her Silence](https://www.wired.com/story/del-harvey-twitter-trust-and-safety-breaks-her-silence/)
- - [The UK Supreme Court says Deliveroo riders aren&#39;t entitled to collective bargaining, rejecting a claim by the IWGB, which has lodged multiple appeals since 2017 &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p10#a231121p10)
- - [Baidu reports Q3 revenue up 6% YoY to ~$4.8B and a ~$940M net income, both above est., as its new AI tools shield the company from China&#39;s economic downturn &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p9#a231121p9)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: Best Deals and Sales From Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
+ - [Best Black Friday Deals: Expert Picks for the Best 2023 Deals     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

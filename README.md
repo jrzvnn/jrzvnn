@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
+ - 😝 [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 

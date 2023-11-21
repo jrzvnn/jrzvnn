@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
- - 😝 [I have a lighter if you want...](http://9gag.com/gag/aKE5RM1)
- - 💣 [Mass looting of a Nike store. This is unsustainable. It\u2019s only a matter of time before these companies just leave these areas. They will cry \u201cRaCiSm!!!\u201d when it happens.](http://9gag.com/gag/aWG5wGK)
- - 😝 [Fml.](http://9gag.com/gag/a1PjGvb)
- - 👉 [When you have some serious OCD](http://9gag.com/gag/adPwm7V)<!-- MEMES:END -->
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
 
 ---
 

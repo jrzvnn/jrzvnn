@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese game streaming firm DouYu says police arrested founder Chen Shaojie on unspecified charges on or around November 16, confirming reports; DOYU drops 7%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p19#a231121p19)
+ - [Insta360’s new GoPro-like action cams have flippy screens](https://www.theverge.com/2023/11/21/23969759/insta360-ace-pro-action-camera-gopro)
  - [Apple working on privacy tech to make shoulder-surfing iPhone screens harder](https://appleinsider.com/articles/23/11/21/apple-working-on-privacy-tech-to-make-shoulder-surfing-iphone-screens-harder?utm_medium=rss)
  - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
- - [18 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
- - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)
- - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)<!-- TECH:END -->
+ - [18 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

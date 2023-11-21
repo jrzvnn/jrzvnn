@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
+ - [Sources: OpenAI interim CEO Emmett Shear has told people close to OpenAI that he doesn&#39;t plan to remain if the board can&#39;t clearly tell him why it fired Altman &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231121/p33#a231121p33)
+ - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
  - [Sources: Richard Teng, Binance&#39;s head of regional markets outside the US, is a leading candidate being considered to take over as Binance CEO &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p32#a231121p32)
- - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)
- - [80 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [Daily deals Nov. 21: $400 off 2023 M2 MacBook Pro, 25% off Apple Watch SE 2, 33% off Therabody RecoveryTherm Cube, more](https://appleinsider.com/articles/23/11/21/daily-deals-nov-21-400-off-2023-m2-macbook-pro-25-off-apple-watch-se-2-33-off-therabody-recoverytherm-cube-more?utm_medium=rss)<!-- TECH:END -->
+ - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Changpeng Zhao says he is stepping down as CEO of Binance and that Richard Teng, formerly the Global Head of Regional Markets, has been named CEO &lpar;@cz_binance&rpar;](http://www.techmeme.com/231121/p41#a231121p41)
+ - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
  - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
  - [Stability AI releases Stable Video Diffusion in research preview, its first foundation model for generative video based on the Stable Diffusion image model &lpar;Anel Islamovic/Stability AI&rpar;](http://www.techmeme.com/231121/p40#a231121p40)
- - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Sonos aims for AirPods Max, Apple TV with rumored headphones, streaming box](https://appleinsider.com/articles/23/11/21/sonos-aims-for-airpods-max-apple-tv-with-rumored-headphones-streaming-box?utm_medium=rss)
- - [EAO: global streamers spent &amp;euro;4.9B on European original content in 2022, up 70% YoY; Netflix spent &amp;euro;2.2B, Amazon &amp;euro;1.1B, Disney &amp;euro;500K, and HBO and Apple &amp;euro;400K &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p39#a231121p39)<!-- TECH:END -->
+ - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

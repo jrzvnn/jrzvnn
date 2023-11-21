@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
  - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
+ - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
 
 ---
 

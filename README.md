@@ -152,10 +152,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [He&#39;s angry but he&#39;ll be fine](http://9gag.com/gag/aZD5enz)
- - 💣 [Fml.](http://9gag.com/gag/a1PjGvb)
- - 😝 [Genius move](http://9gag.com/gag/aA05jXd)
- - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
+ - 😝 [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 👉 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)<!-- MEMES:END -->
 
 ---
 

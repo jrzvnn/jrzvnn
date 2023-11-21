@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI exec Anna Makanju says the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response this evening&quot; &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)
  - [Blowout Black Friday MacBook Pro deal drops 16-inch M2 Pro laptop to $2,099](https://appleinsider.com/articles/23/11/21/blowout-black-friday-macbook-pro-deal-drops-16-inch-m2-pro-laptop-to-2099?utm_medium=rss)
  - [Trump Media &amp; Technology sues 20 media outlets, demanding $1.5B in damages, for reporting that Truth Social lost $73M, calling the number &quot;an utter fabrication&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231121/p1#a231121p1)
  - [Sources: TSMC plans to build a manufacturing plant in the Japanese prefecture of Kumamoto, its third in the country, that would make advanced 3nm chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p38#a231120p38)
- - [Microsoft isn&#39;t a clear winner in OpenAI chaos, as its ~$11B investment is in danger, building AI systems has reputational risks, and talent might not stay &lpar;Matthew Prince/@eastdakota&rpar;](http://www.techmeme.com/231120/p37#a231120p37)
- - [The Mystery at the Heart of the OpenAI Chaos](https://www.wired.com/story/mystery-at-the-heart-of-the-openai-chaos/)<!-- TECH:END -->
+ - [Microsoft isn&#39;t a clear winner in OpenAI chaos, as its ~$11B investment is in danger, building AI systems has reputational risks, and talent might not stay &lpar;Matthew Prince/@eastdakota&rpar;](http://www.techmeme.com/231120/p37#a231120p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

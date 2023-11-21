@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: X&#39;s Community Notes operate slowly and inconsistently during the Israel-Hamas war; across nearly 400 posts, a typical Note took seven hours to appear &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p22#a231121p22)
- - [Fortnite OG will end with a Big Bang](https://www.theverge.com/2023/11/21/23970772/fortnite-big-bang-live-event-date)
- - [Sunbird is shutting down its iMessage app for Android](https://www.theverge.com/2023/11/21/23970740/sunbird-imessage-app-shut-down-privacy-nothing-chats-phone-2)
- - [38 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023/)
- - [Current Refinance Rates for Nov. 21, 2023: Rates Keep Falling for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-nov-21-2023-rates-drop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon launches Black Friday Apple Watch SE 2 deal for just $179, best price ever](https://appleinsider.com/articles/23/11/21/amazon-launches-black-friday-apple-watch-se-2-deal-for-just-179-best-price-ever?utm_medium=rss)
+ - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
+ - [What’s on your desk, Nathan Edwards?](https://www.theverge.com/23969229/home-office-setup-desk-chair-laptop-desktop-nathan-edwards)
+ - [This Super-Organized Fanny Pack Is Perfect for Parents](https://www.wired.com/story/tortuga-travel-sling-rave/)
+ - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

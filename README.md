@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)
+ - [Both the US and China see advanced chip packaging, once an afterthought, as a path to higher performance; Intel says the US has just 3% of global capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p16#a231121p16)
+ - [Breathe Easy With Up to 30% Off Air Purifiers From Blueair for Black Friday     - CNET](https://www.cnet.com/deals/breathe-easy-with-up-to-30-off-air-purifiers-from-blueair-for-black-friday/#ftag=CAD590a51e)
  - [A profile of Sam Altman, the AI industry&#39;s de facto ambassador despite lacking a scientific background; a source says &quot;his superpower is getting people on side&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p15#a231121p15)
- - [New York Wants More Electric Ubers. Everyone Is Mad](https://www.wired.com/story/new-york-city-electric-uber-lyft-license/)
- - [Technics SU-GX70 Network Amplifier Review: Classic Looks, Modern Sound](https://www.wired.com/review/technics-su-gx70/)
- - [Investigation: as Amazon and Netflix back down on daring films, self-censorship pervades the Indian streaming industry due to pressure from Modi&#39;s ruling BJP &lpar;Washington Post&rpar;](http://www.techmeme.com/231121/p14#a231121p14)
- - [This mechanical keyboard has a headphone jack you might actually want to use](https://www.theverge.com/2023/11/21/23970644/fiio-kb3-keyboard-hifi-built-in-headphone-amp-and-dac)<!-- TECH:END -->
+ - [iOS 17: How to Easily Share AirTags for Holiday Travels     - CNET](https://www.cnet.com/tech/mobile/ios-17-how-to-easily-share-airtags-for-holiday-travels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

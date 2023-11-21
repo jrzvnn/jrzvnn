@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions here](http://9gag.com/gag/aDY5KZ7)
- - 😝 [Newly appointed Spanish minister fills up the cup holder](http://9gag.com/gag/a8qOR4e)
- - 💣 [Privilege](http://9gag.com/gag/aDY5KRB)
- - 😝 [A polite way to deal with annoying Customer](http://9gag.com/gag/aYV5X8w)
- - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
+ - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 💣 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 👉 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)<!-- MEMES:END -->
 
 ---
 

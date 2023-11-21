@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 👉 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)<!-- MEMES:END -->
+ - 😝 [A polite way to deal with annoying Customer](http://9gag.com/gag/aYV5X8w)
+ - 😝 [Privilege](http://9gag.com/gag/aDY5KRB)
+ - 💣 [One ticket for me too](http://9gag.com/gag/aL157x5)
+ - 😝 [Proof that certain species of fruit descended from dinosaurs.](http://9gag.com/gag/a04qr4n)
+ - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
 
 ---
 

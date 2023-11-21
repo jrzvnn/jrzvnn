@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
- - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
- - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [Outstanding move](http://9gag.com/gag/aZD5YAQ)
- - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
+ - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 💣 [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 👉 [In Sydney, boarding the flight was slightly delayed because another passenger urgently needed to do namaz](http://9gag.com/gag/amAwZLy)<!-- MEMES:END -->
 
 ---
 

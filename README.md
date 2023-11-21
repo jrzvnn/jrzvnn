@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q4 revenue down 6.5% YoY to $13.8B, vs. $13.8B est., Personal Systems revenue down 8% YoY to $9.4B, and Printing revenue down 3% YoY to $4.4B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231121/p44#a231121p44)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
  - [Nvidia reports Q3 revenue up 206% YoY to $18.12B, vs. $16.18B est., Data Center revenue up 279% YoY to $14.51B, and net income up 1,259% YoY to $9.2B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231121/p43#a231121p43)
- - [Save big on Lego sets for all ages with these Black Friday discounts](https://appleinsider.com/articles/23/11/21/save-big-on-lego-sets-for-all-ages-with-these-black-friday-discounts?utm_medium=rss)
- - [26 Best Black Friday Soundbar Deals &lpar;2023&rpar;: Samsung, LG, Vizio and More](https://www.wired.com/story/best-black-friday-soundbar-deals-2023/)
- - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
- - [Black Friday 2023 Live Blog: Best Deals and Discounts, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Save big on Lego sets for all ages with these Black Friday discounts](https://appleinsider.com/articles/23/11/21/save-big-on-lego-sets-for-all-ages-with-these-black-friday-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

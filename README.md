@@ -151,8 +151,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 😝 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
  - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
  - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
  - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->

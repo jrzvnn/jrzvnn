@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is imploding as staff rebel over shock firing of CEO](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [Save up to 50% on these Black Friday deals on Thunderbolt docks](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [The World Press Photo Contest’s updated AI rules help define what a modern photograph is](https://www.theverge.com/2023/11/21/23970682/world-press-photo-contest-generative-ai-rules-guidelines)
- - [Inside the Operation to Bring Down Trump’s Truth Social](https://www.wired.com/story/take-down-trump-truth-social/)<!-- TECH:END -->
+ - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)
+ - [OpenAI storm continues as Microsoft may not have hired Altman after all](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
+ - [5 Best Folding Phones &lpar;2023&rpar;: Flip Phones, Book-Like Folds, Cheap](https://www.wired.com/gallery/best-folding-phones/)
+ - [How to Back Up Your Android Phone &lpar;2023&rpar;](https://www.wired.com/story/how-to-backup-your-android/)
+ - [Save up to 50% on these Black Friday deals on Thunderbolt docks](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

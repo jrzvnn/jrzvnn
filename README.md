@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
- - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 💣 [Mass looting of a Nike store. This is unsustainable. It\u2019s only a matter of time before these companies just leave these areas. They will cry \u201cRaCiSm!!!\u201d when it happens.](http://9gag.com/gag/aWG5wGK)
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Richard Teng, Binance&#39;s head of regional markets outside the US, is a leading candidate being considered to take over as Binance CEO &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p32#a231121p32)
+ - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)
+ - [80 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [Daily deals Nov. 21: $400 off 2023 M2 MacBook Pro, 25% off Apple Watch SE 2, 33% off Therabody RecoveryTherm Cube, more](https://appleinsider.com/articles/23/11/21/daily-deals-nov-21-400-off-2023-m2-macbook-pro-25-off-apple-watch-se-2-33-off-therabody-recoverytherm-cube-more?utm_medium=rss)
- - [Apple&#39;s new stop motion &#39;Fuzzy Feelings&#39; holiday ad was shot on iPhone](https://appleinsider.com/articles/23/11/21/apples-new-stop-motion-fuzzy-feelings-holiday-ad-was-shot-on-iphone?utm_medium=rss)
- - [Spotify unveils new royalty policies from 2024: tracks must hit 1,000 streams in the previous year and noise recordings must be over two minutes &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/231121/p31#a231121p31)
- - [MacBook Pro 14-inch M3 review: All about the fantastic display](https://appleinsider.com/articles/23/11/21/macbook-pro-14-inch-m3-review-all-about-the-fantastic-display?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 21: $400 off 2023 M2 MacBook Pro, 25% off Apple Watch SE 2, 33% off Therabody RecoveryTherm Cube, more](https://appleinsider.com/articles/23/11/21/daily-deals-nov-21-400-off-2023-m2-macbook-pro-25-off-apple-watch-se-2-33-off-therabody-recoverytherm-cube-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

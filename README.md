@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)
  - [Lyon-based Indy, which offers freelancers an all-in-one platform for accounting, business creation, and more, raised a &amp;euro;40M Series C led by BlackFin Capital &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231121/p5#a231121p5)
  - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)
  - [Epic v. Google: a Google exec confirms that Spotify pays no commission when users buy subscriptions via Spotify&#39;s payment system and 4% when they pay via Google &lpar;The Verge&rpar;](http://www.techmeme.com/231121/p3#a231121p3)
- - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)
- - [Blowout Black Friday MacBook Pro deal drops 16-inch M2 Pro laptop to $2,099](https://appleinsider.com/articles/23/11/21/blowout-black-friday-macbook-pro-deal-drops-16-inch-m2-pro-laptop-to-2099?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

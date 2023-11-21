@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X files a defamation lawsuit against Media Matters, claiming it &quot;knowingly and maliciously&quot; misrepresented the amount of antisemitic content on the platform &lpar;Sharon Knolle/The Wrap&rpar;](http://www.techmeme.com/231120/p33#a231120p33)
- - [The 59 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
- - [Sources: OpenAI&#39;s board offered the interim CEO role to former GitHub CEO Nat Friedman and Scale AI CEO Alex Wang, before Emmett Shear accepted it &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231120/p32#a231120p32)
- - [In a lawsuit, the US SEC accuses Kraken of commingling customer and corporate funds while operating as an unregistered broker, clearing agency, and dealer &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231120/p31#a231120p31)
- - [Zoom reports Q3 revenue up 3.2% YoY to $1.14B, vs. $1.12B est., enterprise revenue up 7.5% to $661M, above estimates, and enterprise customers up 5% to 219,700 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231120/p30#a231120p30)<!-- TECH:END -->
+ - [Kuo reiterates 120 mm tetraprism camera coming to iPhone 16 Pro](https://appleinsider.com/articles/23/11/21/kuo-reiterates-120-mm-tetraprism-camera-coming-to-iphone-16-pro?utm_medium=rss)
+ - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+ - [Source: OpenAI&#39;s board approached Anthropic CEO Dario Amodei about a potential merger as part of an effort to persuade Amodei to replace Sam Altman as CEO &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/231120/p35#a231120p35)
+ - [At a hastily assembled all-hands, Linda Yaccarino said Media Matters is known &quot;to force a narrative&quot; and asked staff to &quot;be as fiscally responsible as possible&quot; &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231120/p34#a231120p34)
+ - [Everything we know so far about OpenAI, Sam Altman’s firing, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

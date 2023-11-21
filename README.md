@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple working on privacy tech to make shoulder-surfing iPhone screens harder](https://appleinsider.com/articles/23/11/21/apple-working-on-privacy-tech-to-make-shoulder-surfing-iphone-screens-harder?utm_medium=rss)
  - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
+ - [18 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
  - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)
- - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)
- - [Both the US and China see advanced chip packaging, once an afterthought, as a path to higher performance; Intel says the US has just 3% of global capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p16#a231121p16)
- - [Breathe Easy With Up to 30% Off Air Purifiers From Blueair for Black Friday     - CNET](https://www.cnet.com/deals/breathe-easy-with-up-to-30-off-air-purifiers-from-blueair-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

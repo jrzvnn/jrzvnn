@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: X&#39;s Community Notes operate slowly and inconsistently during the Israel-Hamas war; across nearly 400 posts, a typical Note took seven hours to appear &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p22#a231121p22)
+ - [Fortnite OG will end with a Big Bang](https://www.theverge.com/2023/11/21/23970772/fortnite-big-bang-live-event-date)
  - [Sunbird is shutting down its iMessage app for Android](https://www.theverge.com/2023/11/21/23970740/sunbird-imessage-app-shut-down-privacy-nothing-chats-phone-2)
  - [38 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023/)
- - [Current Refinance Rates for Nov. 21, 2023: Rates Keep Falling for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-nov-21-2023-rates-drop/#ftag=CAD590a51e)
- - [IVC: in October 2023, VCs invested ~$325M in Israel across 120 deals, down from $1B across 232 deals in September 2023; sources blame the Israel-Hamas war &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p21#a231121p21)
- - [Best early Black Friday monitor savings you can buy right now](https://appleinsider.com/articles/23/11/18/best-early-black-friday-monitor-savings?utm_medium=rss)<!-- TECH:END -->
+ - [Current Refinance Rates for Nov. 21, 2023: Rates Keep Falling for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-nov-21-2023-rates-drop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

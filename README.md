@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Changpeng Zhao plans to step down and plead guilty in US court to breaking money laundering laws, part of a $4.3B deal; CZ can keep Binance ownership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p30#a231121p30)
- - [Anthropic debuts Claude 2.1, offering a context window of up to 200K tokens, or ~150K words, a claimed 50%+ increase in accuracy, new API integrations, and more &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231121/p29#a231121p29)
- - [Tel Aviv-based generative AI startup AI21 raised a $53M Series C extension from Intel, Comcast, and others, taking the round to $208M and total raised to $336M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p28#a231121p28)
- - [Source: Binance CEO Changpeng Zhao may step down from Binance as part of a $4B settlement between Binance, the DOJ, and the CFTC; the SEC is not participating &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p27#a231121p27)
- - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)<!-- TECH:END -->
+ - [Spotify unveils new royalty policies from 2024: tracks must hit 1,000 streams in the previous year and noise recordings must be over two minutes &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/231121/p31#a231121p31)
+ - [MacBook Pro 14-inch M3 review: All about the fantastic display](https://appleinsider.com/articles/23/11/21/macbook-pro-14-inch-m3-review-all-about-the-fantastic-display?utm_medium=rss)
+ - [Insta360 Ace Pro Action Cam Might Be the Low-Light Video Champ     - CNET](https://www.cnet.com/tech/computing/insta360-ace-pro-action-cam-might-be-the-low-light-video-champ/#ftag=CAD590a51e)
+ - [A DOJ Settlement Would Show Binance Is Too Big to Fail](https://www.wired.com/story/a-doj-settlement-would-show-binance-is-too-big-to-fail/)
+ - [Sources: Changpeng Zhao plans to step down and plead guilty in US court to breaking money laundering laws, part of a $4.3B deal; CZ can keep Binance ownership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p30#a231121p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

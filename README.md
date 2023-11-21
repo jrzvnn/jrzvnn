@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dave Filoni gets the keys to the Star Wars franchise](https://www.theverge.com/2023/11/21/23971309/dave-filoni-star-wars-chief-creative-officer-lucasfilm-asoka)
+ - [Skype co-founder Jaan Tallinn, one of the most prominent backers of &quot;effective altruism&quot;, now questions the merits of running companies based on the philosophy &lpar;Semafor&rpar;](http://www.techmeme.com/231121/p42#a231121p42)
+ - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
  - [DOJ Charges Binance With Vast Money Laundering Scheme and Sanctions Violations](https://www.wired.com/story/usa-binance-money-laundering-charges/)
- - [Tesla workers report explosions, concussions, and grisly robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
- - [Changpeng Zhao says he is stepping down as CEO of Binance and that Richard Teng, formerly the Global Head of Regional Markets, has been named CEO &lpar;@cz_binance&rpar;](http://www.techmeme.com/231121/p41#a231121p41)
- - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
- - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)<!-- TECH:END -->
+ - [Tesla workers report explosions, concussions, and grisly robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

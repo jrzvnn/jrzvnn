@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
+ - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)
  - [YouTube confirms that &quot;users who have ad blockers installed may experience suboptimal viewing&quot;, after users reported five-second delays on non-Chrome browsers &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/231121/p17#a231121p17)
  - [Both the US and China see advanced chip packaging, once an afterthought, as a path to higher performance; Intel says the US has just 3% of global capacity &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p16#a231121p16)
- - [Breathe Easy With Up to 30% Off Air Purifiers From Blueair for Black Friday     - CNET](https://www.cnet.com/deals/breathe-easy-with-up-to-30-off-air-purifiers-from-blueair-for-black-friday/#ftag=CAD590a51e)
- - [A profile of Sam Altman, the AI industry&#39;s de facto ambassador despite lacking a scientific background; a source says &quot;his superpower is getting people on side&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p15#a231121p15)
- - [iOS 17: How to Easily Share AirTags for Holiday Travels     - CNET](https://www.cnet.com/tech/mobile/ios-17-how-to-easily-share-airtags-for-holiday-travels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Breathe Easy With Up to 30% Off Air Purifiers From Blueair for Black Friday     - CNET](https://www.cnet.com/deals/breathe-easy-with-up-to-30-off-air-purifiers-from-blueair-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

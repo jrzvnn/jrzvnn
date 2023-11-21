@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter’s Former Head of Trust and Safety Finally Breaks Her Silence](https://www.wired.com/story/del-harvey-twitter-trust-and-safety-breaks-her-silence/)
+ - [The UK Supreme Court says Deliveroo riders aren&#39;t entitled to collective bargaining, rejecting a claim by the IWGB, which has lodged multiple appeals since 2017 &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p10#a231121p10)
  - [Baidu reports Q3 revenue up 6% YoY to ~$4.8B and a ~$940M net income, both above est., as its new AI tools shield the company from China&#39;s economic downturn &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p9#a231121p9)
- - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
- - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)
- - [Here&#39;s How to Prepare for 2023&#39;s Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/heres-how-to-prepare-for-2023s-black-friday-and-cyber-monday/#ftag=CAD590a51e)
- - [&#39;Get a Peloton,&#39; They Said. My Spin Bike Was Half the Price, and I&#39;m Thrilled With It     - CNET](https://www.cnet.com/deals/get-a-peloton-they-said-my-spin-bike-was-half-the-price-and-im-thrilled-with-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hulu Black Friday Deal Gets You 1 Year for Just $1 a Month     - CNET](https://www.cnet.com/deals/hulu-black-friday-deal-gets-you-1-year-for-just-1-a-month/#ftag=CAD590a51e)
+ - [Already Affordable TCL Phones and Tablets See Price Cuts of Up to 53% for Black Friday     - CNET](https://www.cnet.com/deals/already-affordable-tcl-phones-and-tablets-see-price-cuts-of-up-to-53-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

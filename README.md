@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s AirTag drops to a rare low price](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)
  - [Best Internet Providers in Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
  - [Amazon launches Black Friday Apple Watch SE 2 deal for just $179, best price ever](https://appleinsider.com/articles/23/11/21/amazon-launches-black-friday-apple-watch-se-2-deal-for-just-179-best-price-ever?utm_medium=rss)
  - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
- - [What’s on your desk, Nathan Edwards?](https://www.theverge.com/23969229/home-office-setup-desk-chair-laptop-desktop-nathan-edwards)
- - [Best Duvet Covers for 2023     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What’s on your desk, Nathan Edwards?](https://www.theverge.com/23969229/home-office-setup-desk-chair-laptop-desktop-nathan-edwards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

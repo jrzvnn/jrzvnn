@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD Ryzen Threadripper 7000 series review: vastly superior to the 3000 series, and the 7980X is better and cheaper than Intel&#39;s Sapphire Rapids Xeon W9-3495X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231121/p7#a231121p7)
+ - [MediaTek Joins Qualcomm in Bringing ChatGPT-Like AI to More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/mediatek-joins-qualcomm-in-bringing-chatgpt-like-ai-to-more-affordable-phones/#ftag=CAD590a51e)
  - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)
  - [Lyon-based Indy, which offers freelancers an all-in-one platform for accounting, business creation, and more, raised a &amp;euro;40M Series C led by BlackFin Capital &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231121/p5#a231121p5)
- - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)
- - [Epic v. Google: a Google exec confirms that Spotify pays no commission when users buy subscriptions via Spotify&#39;s payment system and 4% when they pay via Google &lpar;The Verge&rpar;](http://www.techmeme.com/231121/p3#a231121p3)
- - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)<!-- TECH:END -->
+ - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

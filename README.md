@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is imploding as staff rebel over shock firing of CEO](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
+ - [Save up to 50% on these Black Friday deals on Thunderbolt docks](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
  - [The World Press Photo Contest’s updated AI rules help define what a modern photograph is](https://www.theverge.com/2023/11/21/23970682/world-press-photo-contest-generative-ai-rules-guidelines)
- - [Broadcom plans to close its $69B VMware acquisition on November 22, after receiving approval from Chinese regulators, which added new restrictions &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231121/p20#a231121p20)
- - [Chinese game streaming firm DouYu says police arrested founder Chen Shaojie on unspecified charges on or around November 16, confirming reports; DOYU drops 7%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p19#a231121p19)
- - [Insta360’s new GoPro-like action cams have flippy screens](https://www.theverge.com/2023/11/21/23969759/insta360-ace-pro-action-camera-gopro)
- - [Apple working on privacy tech to make shoulder-surfing iPhone screens harder](https://appleinsider.com/articles/23/11/21/apple-working-on-privacy-tech-to-make-shoulder-surfing-iphone-screens-harder?utm_medium=rss)<!-- TECH:END -->
+ - [Inside the Operation to Bring Down Trump’s Truth Social](https://www.wired.com/story/take-down-trump-truth-social/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

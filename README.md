@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The World Press Photo Contest’s updated AI rules help define what a modern photograph is](https://www.theverge.com/2023/11/21/23970682/world-press-photo-contest-generative-ai-rules-guidelines)
  - [Broadcom plans to close its $69B VMware acquisition on November 22, after receiving approval from Chinese regulators, which added new restrictions &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/231121/p20#a231121p20)
  - [Chinese game streaming firm DouYu says police arrested founder Chen Shaojie on unspecified charges on or around November 16, confirming reports; DOYU drops 7%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231121/p19#a231121p19)
  - [Insta360’s new GoPro-like action cams have flippy screens](https://www.theverge.com/2023/11/21/23969759/insta360-ace-pro-action-camera-gopro)
- - [Apple working on privacy tech to make shoulder-surfing iPhone screens harder](https://appleinsider.com/articles/23/11/21/apple-working-on-privacy-tech-to-make-shoulder-surfing-iphone-screens-harder?utm_medium=rss)
- - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)<!-- TECH:END -->
+ - [Apple working on privacy tech to make shoulder-surfing iPhone screens harder](https://appleinsider.com/articles/23/11/21/apple-working-on-privacy-tech-to-make-shoulder-surfing-iphone-screens-harder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

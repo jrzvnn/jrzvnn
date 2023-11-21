@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save big on Lego sets for all ages with these Black Friday discounts](https://appleinsider.com/articles/23/11/21/save-big-on-lego-sets-for-all-ages-with-these-black-friday-discounts?utm_medium=rss)
+ - [26 Best Black Friday Soundbar Deals &lpar;2023&rpar;: Samsung, LG, Vizio and More](https://www.wired.com/story/best-black-friday-soundbar-deals-2023/)
  - [Flipboard is abandoning X for Mastodon](https://www.theverge.com/2023/11/21/23971398/flipboard-x-twitter-mastodon-quitting)
- - [GameMaker ditches subscription model for indie developers](https://www.theverge.com/2023/11/21/23971394/gamemaker-free-indie-creator-licensing-fee-unity)
- - [Dave Filoni gets the keys to the Star Wars franchise](https://www.theverge.com/2023/11/21/23971309/dave-filoni-star-wars-chief-creative-officer-lucasfilm-asoka)
- - [Skype co-founder Jaan Tallinn, one of the most prominent backers of &quot;effective altruism&quot;, now questions the merits of running companies based on the philosophy &lpar;Semafor&rpar;](http://www.techmeme.com/231121/p42#a231121p42)
- - [Binance criminal settlement includes $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)<!-- TECH:END -->
+ - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
+ - [GameMaker ditches subscription model for indie developers](https://www.theverge.com/2023/11/21/23971394/gamemaker-free-indie-creator-licensing-fee-unity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

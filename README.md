@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 😝 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
- - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
- - 👉 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)<!-- MEMES:END -->
+ - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
  - [Amazon launches Black Friday Apple Watch SE 2 deal for just $179, best price ever](https://appleinsider.com/articles/23/11/21/amazon-launches-black-friday-apple-watch-se-2-deal-for-just-179-best-price-ever?utm_medium=rss)
  - [7 best early Black Friday TV deals to snap up today](https://appleinsider.com/articles/23/11/18/7-best-early-black-friday-tv-deals-to-snap-up-today?utm_medium=rss)
  - [What’s on your desk, Nathan Edwards?](https://www.theverge.com/23969229/home-office-setup-desk-chair-laptop-desktop-nathan-edwards)
- - [This Super-Organized Fanny Pack Is Perfect for Parents](https://www.wired.com/story/tortuga-travel-sling-rave/)
- - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)<!-- TECH:END -->
+ - [Best Duvet Covers for 2023     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

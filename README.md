@@ -142,10 +142,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Sam Altman joining Microsoft? Satya Nadella doesn’t seem to know](https://www.theverge.com/2023/11/20/23970100/sam-altman-microsoft-openai-satya-nadella-interview)
+ - [X files a defamation lawsuit against Media Matters, claiming it &quot;knowingly and maliciously&quot; misrepresented the amount of antisemitic content on the platform &lpar;Sharon Knolle/The Wrap&rpar;](http://www.techmeme.com/231120/p33#a231120p33)
+ - [The 59 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-3/)
  - [Sources: OpenAI&#39;s board offered the interim CEO role to former GitHub CEO Nat Friedman and Scale AI CEO Alex Wang, before Emmett Shear accepted it &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/231120/p32#a231120p32)
  - [In a lawsuit, the US SEC accuses Kraken of commingling customer and corporate funds while operating as an unregistered broker, clearing agency, and dealer &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231120/p31#a231120p31)
- - [Joe Biden’s birthday gift to himself is a Threads account](https://www.theverge.com/2023/11/20/23969994/president-joe-biden-threads-account)
  - [Zoom reports Q3 revenue up 3.2% YoY to $1.14B, vs. $1.12B est., enterprise revenue up 7.5% to $661M, above estimates, and enterprise customers up 5% to 219,700 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231120/p30#a231120p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

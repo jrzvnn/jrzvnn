@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A polite way to deal with annoying Customer](http://9gag.com/gag/aYV5X8w)
- - 😝 [Privilege](http://9gag.com/gag/aDY5KRB)
- - 💣 [One ticket for me too](http://9gag.com/gag/aL157x5)
- - 😝 [Proof that certain species of fruit descended from dinosaurs.](http://9gag.com/gag/a04qr4n)
- - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)
+ - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 👉 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)<!-- MEMES:END -->
 
 ---
 

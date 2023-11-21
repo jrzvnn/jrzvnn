@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD Ryzen Threadripper 7000 series review: vastly superior to the 3000 series, and the 7980X is better and cheaper than Intel&#39;s Sapphire Rapids Xeon W9-3495X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231121/p7#a231121p7)
- - [MediaTek Joins Qualcomm in Bringing ChatGPT-Like AI to More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/mediatek-joins-qualcomm-in-bringing-chatgpt-like-ai-to-more-affordable-phones/#ftag=CAD590a51e)
- - [CISA debuts a pilot program offering &quot;cybersecurity shared services&quot; to non-federal critical infrastructure entities in healthcare, education, and other sectors &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231121/p6#a231121p6)
- - [Lyon-based Indy, which offers freelancers an all-in-one platform for accounting, business creation, and more, raised a &amp;euro;40M Series C led by BlackFin Capital &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231121/p5#a231121p5)
- - [Texas&#39; AG, &quot;troubled&quot; by Elon Musk&#39;s claims, probes Media Matters, which calls X&#39;s suit &quot;frivolous&quot;; X avoids anti-SLAPP statutes by filing in the 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)<!-- TECH:END -->
+ - [An interview with Carl Pei and lead designers at Nothing, which marked its third anniversary in October, on the design process, US&#39; smartphone market, and more &lpar;James Pero/Inverse&rpar;](http://www.techmeme.com/231121/p8#a231121p8)
+ - [Braun: Designed to Keep is a book worth holding onto](https://www.theverge.com/23966605/braun-designed-to-keep-book-review-klaus-kemp)
+ - [Here&#39;s How to Prepare for 2023&#39;s Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/heres-how-to-prepare-for-2023s-black-friday-and-cyber-monday/#ftag=CAD590a51e)
+ - [&#39;Get a Peloton,&#39; They Said. My Spin Bike Was Half the Price, and I&#39;m Thrilled With It     - CNET](https://www.cnet.com/deals/get-a-peloton-they-said-my-spin-bike-was-half-the-price-and-im-thrilled-with-it/#ftag=CAD590a51e)
+ - [AMD Ryzen Threadripper 7000 series review: vastly superior to the 3000 series, and the 7980X is better and cheaper than Intel&#39;s Sapphire Rapids Xeon W9-3495X &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231121/p7#a231121p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

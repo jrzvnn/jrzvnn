@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Del Harvey, who led Twitter&#39;s trust and safety team for 13 years until 2021, on the X rebrand, her role, Gamergate, Donald Trump, January 6, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/231121/p13#a231121p13)
  - [Filings: Tether deposited $1B+ with Britannia Financial, founded by a Tory donor later charged by the US with bribery, a rare look at its banking relationships &lpar;Financial Times&rpar;](http://www.techmeme.com/231121/p12#a231121p12)
  - [&#39;Several people&#39; could be the next Apple CEO, reveals Tim Cook](https://appleinsider.com/articles/23/11/21/several-people-could-be-the-next-apple-ceo-reveals-tim-cook?utm_medium=rss)
  - [Epic v. Google: Tim Sweeney says Android is a &quot;fake open platform&quot;; under cross-examination, Sweeney admitted to paying a 30% cut to Sony, Xbox, and Nintendo &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231121/p11#a231121p11)
- - [Black Friday 2023 Live Blog: Best Deals and Sales From Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
- - [Best Black Friday Deals: Expert Picks for the Best 2023 Deals     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: Best Deals and Sales From Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

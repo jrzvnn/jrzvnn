@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)
  - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)
  - [Tello Mobile Delivers Cellular Service for Under $10 This Black Friday     - CNET](https://www.cnet.com/deals/tello-mobile-delivers-cellular-service-for-under-10-this-black-friday/#ftag=CAD590a51e)
  - [Eckster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/eckster-black-friday-sale-2023/#ftag=CAD590a51e)
- - [Former OpenAI President Greg Brockman announces that ChatGPT&#39;s voice narration feature is now available to all free users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p48#a231121p48)
- - [This Black Friday Spider-Man 2 Bundle Almost Makes Me Want to Buy a Second PS5     - CNET](https://www.cnet.com/deals/this-black-friday-spider-man-2-bundle-almost-makes-me-want-to-buy-a-second-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Former OpenAI President Greg Brockman announces that ChatGPT&#39;s voice narration feature is now available to all free users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p48#a231121p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

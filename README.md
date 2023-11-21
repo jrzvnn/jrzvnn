@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)
+ - [Tello Mobile Delivers Cellular Service for Under $10 This Black Friday     - CNET](https://www.cnet.com/deals/tello-mobile-delivers-cellular-service-for-under-10-this-black-friday/#ftag=CAD590a51e)
+ - [Eckster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/eckster-black-friday-sale-2023/#ftag=CAD590a51e)
  - [Former OpenAI President Greg Brockman announces that ChatGPT&#39;s voice narration feature is now available to all free users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p48#a231121p48)
- - [The US FTC approves a new resolution to streamline investigations of cases where AI is used to break the law &lpar;Reuters&rpar;](http://www.techmeme.com/231121/p47#a231121p47)
- - [A US district judge dismisses most claims in a lawsuit by Sarah Silverman and other authors against Meta&#39;s use of copyrighted material to train Llama models &lpar;Winston Cho/Hollywood Reporter&rpar;](http://www.techmeme.com/231121/p46#a231121p46)
- - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023/)
- - [Sources: fruitful negotiations between OpenAI&#39;s board and Sam Altman&#39;s side are taking place; Microsoft is being kept apprised and is likely to get board seats &lpar;Kara Swisher/@karaswisher&rpar;](http://www.techmeme.com/231121/p45#a231121p45)<!-- TECH:END -->
+ - [This Black Friday Spider-Man 2 Bundle Almost Makes Me Want to Buy a Second PS5     - CNET](https://www.cnet.com/deals/this-black-friday-spider-man-2-bundle-almost-makes-me-want-to-buy-a-second-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

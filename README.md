@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
  - 😝 [That door close tho](http://9gag.com/gag/ay2wjbV)
- - 💣 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 👉 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)<!-- MEMES:END -->
+ - 😝 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)
+ - 💣 [In Sydney, boarding the flight was slightly delayed because another passenger urgently needed to do namaz](http://9gag.com/gag/amAwZLy)
+ - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 👉 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)<!-- MEMES:END -->
 
 ---
 

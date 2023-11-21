@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 👉 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)<!-- MEMES:END -->
+ - 😝 [Trying to to enter your own country](http://9gag.com/gag/a8qOB21)
+ - 😝 [Relationship goals.](http://9gag.com/gag/aYV5397)
+ - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
+ - 😝 [That door close tho](http://9gag.com/gag/ay2wjbV)
+ - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---
 

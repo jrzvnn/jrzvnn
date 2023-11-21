@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Here’s What’s Next for SpaceX’s Starship](https://www.wired.com/story/heres-whats-next-for-spacexs-starship/)
  - [46 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-2/)
- - [A London tribunal rules Sony must face a lawsuit alleging it abused its dominance by forcing digital games and add-ons to be bought and sold only via its store &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p38#a231121p38)
- - [Court docs: Binance&#39;s Changpeng Zhao to plead guilty to federal charges and step down as part of a ~$4B DOJ settlement; the DOJ suggests the court fine him $50M &lpar;CNBC&rpar;](http://www.techmeme.com/231121/p37#a231121p37)
- - [Sources: Sonos to make a long-awaited push into headphones with a $400 model coming as early as April, is working on a video service and streaming device, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231121/p36#a231121p36)
- - [LucidLink, which helps teams work on files without having to download or sync them, raised a $75M Series C and says it has nearly 5x ARR growth over two years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p35#a231121p35)<!-- TECH:END -->
+ - [A London tribunal rules Sony must face a lawsuit alleging it abused its dominance by forcing digital games and add-ons to be bought and sold only via its store &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231121/p38#a231121p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

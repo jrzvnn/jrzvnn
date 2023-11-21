@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
  - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [In Sydney, boarding the flight was slightly delayed because another passenger urgently needed to do namaz](http://9gag.com/gag/amAwZLy)<!-- MEMES:END -->
+ - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 💣 [Polina](http://9gag.com/gag/aL155vM)
+ - 😝 [The good ol Switcheroo](http://9gag.com/gag/agowwMw)
+ - 👉 [Yep... another candidates for the Darwin award](http://9gag.com/gag/aME556x)<!-- MEMES:END -->
 
 ---
 

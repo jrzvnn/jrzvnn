@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir and Accenture win a &amp;pound;480M NHS contract to overhaul the UK&#39;s patient data system; some worry about privacy as patients can&#39;t opt out of data sharing &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/231121/p26#a231121p26)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [A24’s Dream Scenario is a shapeshifting parable about our obsessions with viral fame](https://www.theverge.com/23965979/dream-scenario-review-a24-nicolas-cage)
- - [Bad business is breaking the smart home — good regulation can fix it](https://www.theverge.com/23970749/smart-home-broken-policy-fixes)
- - [Greenpeace slams Apple supplier Foxconn over inadequate carbon effort](https://appleinsider.com/articles/23/11/21/greenpeace-slams-apple-supplier-foxconn-over-inadequate-carbon-effort?utm_medium=rss)
- - [8BitDo’s NES-style keyboard has returned to its lowest price yet](https://www.theverge.com/2023/11/21/23970028/8bitdo-retro-mechanical-keyboard-deal-sale)<!-- TECH:END -->
+ - [I Upgraded My Love for Loud Live Music With This Black Friday Deal     - CNET](https://www.cnet.com/deals/i-upgraded-my-love-for-loud-live-music-with-this-black-friday-deal/#ftag=CAD590a51e)
+ - [Black Friday 2023 Live Blog: Best Deals and Discounts According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

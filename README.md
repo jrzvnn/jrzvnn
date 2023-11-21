@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 💣 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
  - 😝 [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
+ - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---
 

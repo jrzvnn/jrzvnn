@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LucidLink, which helps teams work on files without having to download or sync them, raised a $75M Series C and says it has nearly 5x ARR growth over two years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231121/p35#a231121p35)
+ - [47 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)
+ - [Sources: OpenAI interim CEO Emmett Shear has told people close to OpenAI that he doesn&#39;t plan to remain if the board can&#39;t clearly tell him why it fired Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231121/p34#a231121p34)
  - [Binance CEO Changpeng Zhao Quits and Pleads Guilty to Breaking US Law](https://www.wired.com/story/binance-cz-ceo-quits-pleads-guilty-breaking-law/)
- - [Sources: OpenAI interim CEO Emmett Shear has told people close to OpenAI that he doesn&#39;t plan to remain if the board can&#39;t clearly tell him why it fired Altman &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231121/p33#a231121p33)
- - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)
- - [Sources: Richard Teng, Binance&#39;s head of regional markets outside the US, is a leading candidate being considered to take over as Binance CEO &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/231121/p32#a231121p32)
- - [Temu Is Burning Cash to Challenge Shein and Amazon on Black Friday](https://www.wired.com/story/temu-is-burning-cash-to-challenge-shein-and-amazon-on-black-friday/)<!-- TECH:END -->
+ - [Binance criminal settlement could include a $4 billion fine and CEO’s guilty plea](https://www.theverge.com/2023/11/21/23971066/binance-ceo-changpeng-zhao-step-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

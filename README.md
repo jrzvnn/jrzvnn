@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
- - 😝 [When your happy Hamas supporters are made by A.I.](http://9gag.com/gag/axowq0M)
- - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 😝 [Worst Job Ever !](http://9gag.com/gag/aXn1y02)
+ - 😝 [Polina](http://9gag.com/gag/aL155vM)
+ - 💣 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
  - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 👉 [Polina](http://9gag.com/gag/aL155vM)<!-- MEMES:END -->
+ - 👉 [Mr stark i don&#39;t fee; so good](http://9gag.com/gag/az2w3Rx)<!-- MEMES:END -->
 
 ---
 

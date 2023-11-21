@@ -151,11 +151,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 💣 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 😝 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
+ - 😝 [I can&#39;t wait for the memes](http://9gag.com/gag/aZD5YXV)
+ - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
  - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 👉 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)<!-- MEMES:END -->
 
 ---
 

@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TX AG, &quot;troubled&quot; by Musk&#39;s claims, opens a probe into Media Matters, which calls X&#39;s lawsuit frivolous; X avoids anti-SLAPP statutes as it filed in 5th Circuit &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231121/p4#a231121p4)
  - [Epic v. Google: a Google exec confirms that Spotify pays no commission when users buy subscriptions via Spotify&#39;s payment system and 4% when they pay via Google &lpar;The Verge&rpar;](http://www.techmeme.com/231121/p3#a231121p3)
  - [OpenAI exec Anna Makanju told staff the company is in &quot;intense discussions&quot; to unify, is in touch with Sam Altman, and there will be &quot;no final response&quot; tonight &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231121/p2#a231121p2)
  - [Blowout Black Friday MacBook Pro deal drops 16-inch M2 Pro laptop to $2,099](https://appleinsider.com/articles/23/11/21/blowout-black-friday-macbook-pro-deal-drops-16-inch-m2-pro-laptop-to-2099?utm_medium=rss)
- - [Trump Media &amp; Technology sues 20 media outlets, demanding $1.5B in damages, for reporting that Truth Social lost $73M, calling the number &quot;an utter fabrication&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231121/p1#a231121p1)
- - [Sources: TSMC plans to build a manufacturing plant in the Japanese prefecture of Kumamoto, its third in the country, that would make advanced 3nm chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/231120/p38#a231120p38)<!-- TECH:END -->
+ - [Trump Media &amp; Technology sues 20 media outlets, demanding $1.5B in damages, for reporting that Truth Social lost $73M, calling the number &quot;an utter fabrication&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231121/p1#a231121p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

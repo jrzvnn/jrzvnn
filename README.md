@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [In the Russia-Ukraine war, using electromagnetic waves to flummox and follow drones and other smarter weapons becomes a critical part of the cat-and-mouse game &lpar;New York Times&rpar;](http://www.techmeme.com/231122/p25#a231122p25)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [Grab This 55-Inch TCL 4K Roku TV for $188 During Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/grab-this-55-inch-tcl-4k-roku-tv-for-188-during-walmarts-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

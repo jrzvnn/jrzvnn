@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Carl Rinsch&#39;s sci-fi TV series became a costly fiasco for Netflix, which burned $55M+ without receiving a single episode, an example of streaming excess &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/231122/p18#a231122p18)
- - [iPhone 15 breaks smartphone market&#39;s sales slump](https://appleinsider.com/articles/23/11/22/iphone-15-breaks-smartphone-markets-sales-slump?utm_medium=rss)
- - [Daily deals Nov. 22: Apple Watch SE $179, $100 off Apple Watch Series 9, $499 Mac mini, $399 iPad mini, more](https://appleinsider.com/articles/23/11/22/daily-deals-nov-22-apple-watch-se-179-100-off-apple-watch-series-9-499-mac-mini-399-ipad-mini-more?utm_medium=rss)
- - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [US Lawmakers Ask SEC to Launch Fraud Investigation Into Elon Musk](https://www.wired.com/story/elon-musk-nerualink-congress-sec-letter/)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)
+ - [The best Chromebooks for 2023](https://www.theverge.com/21296102/best-chromebooks)
+ - [How Carl Rinsch&#39;s sci-fi TV series became a costly fiasco for Netflix, which burned $55M+ without receiving a single episode, an example of streaming excess &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/231122/p18#a231122p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: as part of the deal, Sam Altman and Greg Brockman will not reclaim their board seats; Altman had pushed for more control; OpenAI retains its structure &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231122/p8#a231122p8)
  - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)
- - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Get a Microsoft Windows 11 Pro license for just $22.97](https://appleinsider.com/articles/23/11/22/get-a-microsoft-windows-11-pro-license-for-just-2297?utm_medium=rss)
- - [Source: OpenAI&#39;s initial board and Sam Altman&#39;s camp have agreed to conduct an independent investigation into the ouster of Sam Altman and its aftermath &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/231122/p7#a231122p7)
- - [Best Black Friday Apple Watch Deals: Up to %28 Off on Watch SE 2, Series 9, Ultra and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Air Fryer Kept Me Fed Through College, Plus It&#39;s on Sale for Black Friday     - CNET](https://www.cnet.com/how-to/this-air-fryer-kept-me-fed-through-college-and-its-on-sale-for-black-friday/#ftag=CAD590a51e)
+ - [Best Black Friday Laptop Deals: Save Up to $700 Off Alienware, Apple, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
+ - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

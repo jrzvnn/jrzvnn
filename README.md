@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Graphcore lays off most of its staff in China and discontinues sales in the country, citing US export rules; China made up 20% to 25% of Graphcore&#39;s business &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p21#a231122p21)
+ - [Pick up Apple&#39;s M1 MacBook Air for as low as $599.99 at Amazon-owned Woot](https://appleinsider.com/articles/23/11/22/pick-up-apples-m1-macbook-air-for-as-low-as-59999-at-amazon-owned-woot?utm_medium=rss)
+ - [Mods Are Asleep. Quick, Everyone Release AI Products](https://www.wired.com/story/new-artificial-intelligence-products-openai-anthropic-stability-ai/)
  - [Kickstart your crafting with these 3D printer Black Friday sales](https://appleinsider.com/articles/23/11/22/kickstart-your-crafting-with-these-3d-printer-black-friday-sales?utm_medium=rss)
- - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
- - [The WiiM Amp is a stream-everything receiver with Mac Mini vibes](https://www.theverge.com/2023/11/22/23972352/wiim-amp-airplay-2-chromecast-wireless-receiver-vintage-hi-fi)
- - [Read Microsoft’s internal memo about the chaos at OpenAI](https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai)
- - [Honor plans board changes to meet diversity standards for a public company, as it prepares for an IPO, three years after it was spun off from Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p20#a231122p20)<!-- TECH:END -->
+ - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

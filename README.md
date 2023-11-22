@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)
  - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)
  - [Paramount Plus Black Friday deal: save 67% on 3 months of service](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)
  - [Sources: before his ousting, Sam Altman made a move to push out board member Helen Toner because he thought a paper she had co-written was critical of OpenAI &lpar;New York Times&rpar;](http://www.techmeme.com/231121/p51#a231121p51)
- - [Nvidia expects strong growth in most regions to offset a &quot;significant&quot; drop in sales to China because of recently tightened AI chip rules &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231121/p50#a231121p50)
- - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

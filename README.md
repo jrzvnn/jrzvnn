@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [Source: OpenAI&#39;s initial board will vet and appoint a new formal board of up to 9 people; Microsoft and Sam Altman will likely have a seat on the formal board &lpar;The Verge&rpar;](http://www.techmeme.com/231122/p6#a231122p6)
  - [OpenAI says it has reached a deal in principle for Sam Altman to return as CEO, with Bret Taylor as Chair, Larry Summers, and Adam D&#39;Angelo on the initial board &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231122/p5#a231122p5)
  - [The US Department of Energy&#39;s Idaho National Laboratory confirms a data breach after &quot;SiegedSec&quot; hacktivists leaked stolen HR data on hacker forums and Telegram &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231122/p4#a231122p4)
- - [Breaking: Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
+ - [Walmart Black Friday Deals: Shop Now and Snag a Sneak Peek at Upcoming Deals     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

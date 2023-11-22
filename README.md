@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Title](http://9gag.com/gag/a7qXzox)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
  - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 

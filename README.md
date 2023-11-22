@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
  - [OpenAI says it has reached a deal in principle for Sam Altman to return as CEO, with Bret Taylor as Chair, Larry Summers, and Adam D&#39;Angelo on the initial board &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231122/p5#a231122p5)
  - [The US Department of Energy&#39;s Idaho National Laboratory confirms a data breach after &quot;SiegedSec&quot; hacktivists leaked stolen HR data on hacker forums and Telegram &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231122/p4#a231122p4)
- - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)
- - [India&#39;s Enforcement Directorate accuses edtech giant Byju&#39;s of violating rules under the country&#39;s Foreign Exchange Management Act to the tune of $1.12B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231122/p2#a231122p2)
- - [A study of tech suppliers&#39; decarbonization efforts: Intel, Foxconn, Luxshare, Samsung, and TSMC&#39;s emissions rose from 2020 to 2022; Foxconn and Samsung got a D+ &lpar;Greenpeace East Asia&rpar;](http://www.techmeme.com/231122/p1#a231122p1)<!-- TECH:END -->
+ - [Breaking: Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
+ - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Counterpoint Research: global monthly smartphone sell-through volumes grew 5% in October 2023, the first month to record YoY growth since June 2021 &lpar;Baranjot Kaur/Reuters&rpar;](http://www.techmeme.com/231121/p55#a231121p55)
  - [OpenAI’s Boardroom Drama Could Mess Up Your Future](https://www.wired.com/story/openai-boardroom-drama-sam-altman-could-mess-up-your-future/)
  - [This Black Friday Deal Lets Me Watch My Cats From Anywhere Without Freaking Them Out     - CNET](https://www.cnet.com/deals/this-black-friday-deal-lets-me-watch-my-cats-from-anywhere-without-freaking-them-out/#ftag=CAD590a51e)
  - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)
- - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)
- - [Samsung Galaxy Watch 4 Has Everything I Need in a $129 Black Friday Deal     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-in-a-129-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

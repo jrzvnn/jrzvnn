@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
- - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
+ - 😝 [And then there was 3](http://9gag.com/gag/aBd5722)
+ - 😝 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
+ - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
 
 ---
 

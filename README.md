@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyford, Texas gains Apple Distinguished status for its schools](https://appleinsider.com/articles/23/11/22/lyford-texas-gains-apple-distinguished-status-for-its-schools?utm_medium=rss)
+ - [Tesla introduces new fee to limit congestion at Superchargers](https://www.theverge.com/2023/11/22/23972242/tesla-supercharger-congestion-fee-launches)
+ - [DefiLlama: Binance&#39;s 24-hour outflows reached $1B as of 2:30AM ET on November 22 and seven-day net outflows were $703.1M, after Changpeng Zhao pled guilty &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p15#a231122p15)
  - [Apple illegally denied benefits to union workers, says US labor board](https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board?utm_medium=rss)
- - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)
- - [Microsoft’s Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
- - [A look at Changpeng Zhao&#39;s rapid downfall, from triggering FTX&#39;s collapse a year ago and posting a dismissive &quot;4&quot; to news of breaking US laws to pleading guilty &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231122/p13#a231122p13)
- - [Crypto Started With Grand Dreams, Then Backroom Deals. Now It’s Mired in Lawsuits](https://www.wired.com/story/crypto-grand-dreams-backroom-deals-lawsuits/)<!-- TECH:END -->
+ - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

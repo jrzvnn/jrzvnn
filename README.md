@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
+ - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)
+ - [Check Out These Tips if You Want to Make Amazon Returns After Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/services-and-software/check-out-these-tips-if-you-want-to-make-amazon-returns-after-black-friday-and-cyber-monday/#ftag=CAD590a51e)
  - [Source: as part of the deal, Sam Altman and Greg Brockman will not reclaim their board seats; Altman had pushed for more control; OpenAI retains its structure &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231122/p8#a231122p8)
- - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)
- - [This Air Fryer Kept Me Fed Through College, Plus It&#39;s on Sale for Black Friday     - CNET](https://www.cnet.com/how-to/this-air-fryer-kept-me-fed-through-college-and-its-on-sale-for-black-friday/#ftag=CAD590a51e)
- - [Best Black Friday Laptop Deals: Save Up to $700 Off Alienware, Apple, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
- - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday gaming console deals on PS5, Nintendo Switch, Xbox](https://appleinsider.com/articles/23/11/22/best-black-friday-gaming-console-deals-on-ps5-nintendo-switch-xbox?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

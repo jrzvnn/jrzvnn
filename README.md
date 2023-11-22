@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
+ - 😝 [Me too](http://9gag.com/gag/ap9weR8)
+ - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 💣 [OUCH](http://9gag.com/gag/a4oyMxm)
+ - 😝 [When safety officer is not around](http://9gag.com/gag/a9q03Wo)
+ - 👉 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)<!-- MEMES:END -->
 
 ---
 

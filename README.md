@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)
- - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
- - 💣 [Love my country!](http://9gag.com/gag/avQwNob)
- - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
- - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 💣 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
+ - 👉 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)<!-- MEMES:END -->
 
 ---
 

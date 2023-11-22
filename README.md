@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 😝 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
+ - 😝 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
+ - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
  - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
- - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 👉 [Oof](http://9gag.com/gag/aL15y7v)<!-- MEMES:END -->
+ - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
 
 ---
 

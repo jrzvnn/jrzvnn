@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
- - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 😝 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
+ - 😝 [One `OOF` size large please](http://9gag.com/gag/aDY5EvN)
+ - 💣 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - 😝 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hayao Miyazaki is very convincing](https://www.theverge.com/23971512/boy-and-the-heron-takeshi-honda-interview-evangelion)
+ - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
  - [Kodak’s new Super 8 film camera is actually coming out](https://www.theverge.com/2023/11/22/23972513/kodak-super-8-film-camera-lcd-screen-price-release-date-specs-features)
  - [How Pit Viper Built ‘Party Mountain’ Out of Potty Humor and ’90s Nostalgia](https://www.wired.com/story/article/pit-viper-party-mountain/)
- - [Squid Game: The Challenge is a morbid LARP trapped inside a reality TV show](https://www.theverge.com/23971416/squid-game-the-challenge-review-netflix)
- - [OpenAI’s Boardroom Drama Could Mess Up Your Future](https://www.wired.com/story/openai-boardroom-drama-sam-altman-could-mess-up-your-future/)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
+ - [Squid Game: The Challenge is a morbid LARP trapped inside a reality TV show](https://www.theverge.com/23971416/squid-game-the-challenge-review-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

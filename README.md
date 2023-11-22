@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Apps That Make Traveling Solo Easier—and Fun](https://www.wired.com/story/10-apps-traveling-solo-easy-fun/)
+ - [Amazon Black Friday Deals: Over 75 Offers to Shop Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [US filings: Binance&#39;s lax rules and staff misconduct helped Hamas, al-Qaeda, and ISIS raise funds, let Iranians conduct 1.1M+ transactions worth $899M, and more &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/231122/p17#a231122p17)
- - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
- - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
- - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)
- - [At Microsoft&#39;s request, researchers find multiple flaws in the top three fingerprint sensors in laptops and used for Windows Hello fingerprint authentication &lpar;Blackwing Intelligence&rpar;](http://www.techmeme.com/231122/p16#a231122p16)<!-- TECH:END -->
+ - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
+ - [Why Rural Americans Are &lpar;and Aren&#39;t&rpar; Adopting Renewable Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/why-rural-americans-are-and-arent-adopting-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

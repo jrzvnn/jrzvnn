@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 💣 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)
+ - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
  - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
+ - 💣 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 

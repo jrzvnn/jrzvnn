@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
- - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 💣 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 👉 [Juicy Melons](http://9gag.com/gag/a9q09X6)<!-- MEMES:END -->
 
 ---
 

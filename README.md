@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 💣 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
- - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
+ - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 👉 [Love my country!](http://9gag.com/gag/avQwNob)<!-- MEMES:END -->
 
 ---
 

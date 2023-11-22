@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
  - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 💣 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
- - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 👉 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)<!-- MEMES:END -->
+ - 😝 [One ticket for me too](http://9gag.com/gag/aL157x5)
+ - 💣 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
 
 ---
 

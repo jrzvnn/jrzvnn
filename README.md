@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ted Lasso returns to promote Hannah Waddingham&#39;s special](https://appleinsider.com/articles/23/11/22/ted-lasso-returns-to-promote-hannah-waddinghams-special?utm_medium=rss)
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
  - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)
- - [The best Chromebooks for 2023](https://www.theverge.com/21296102/best-chromebooks)
- - [How Carl Rinsch&#39;s sci-fi TV series became a costly fiasco for Netflix, which burned $55M+ without receiving a single episode, an example of streaming excess &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/231122/p18#a231122p18)<!-- TECH:END -->
+ - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

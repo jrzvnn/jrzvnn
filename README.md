@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When safety officer is not around](http://9gag.com/gag/a9q03Wo)
- - 😝 [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
- - 💣 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 👉 [Just a reminder that this masterpiece is exists](http://9gag.com/gag/awZpNB4)<!-- MEMES:END -->
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
 
 ---
 

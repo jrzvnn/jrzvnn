@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 😝 [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
- - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 😝 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)
- - 👉 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)<!-- MEMES:END -->
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [Oof](http://9gag.com/gag/aL15y7v)<!-- MEMES:END -->
 
 ---
 

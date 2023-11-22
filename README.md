@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: crypto lender Genesis sues the Winklevoss&#39; exchange Gemini Trust to recover $689M, alleging Gemini made preferential transfers to other creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231122/p12#a231122p12)
- - [Larry Summers, now on OpenAI&#39;s interim board, believes AI is coming for white-collar jobs; Summers sits on Block&#39;s and Skillsoft&#39;s boards and advised a16z &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231122/p11#a231122p11)
- - [Email: Mt. Gox plans repay some creditors &quot;within the 2023 calendar year&quot;, likely extending into 2024, marking the first step in repayments for all creditors &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p10#a231122p10)
- - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
- - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)<!-- TECH:END -->
+ - [Apple illegally denied benefits to union workers, says US labor board](https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board?utm_medium=rss)
+ - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)
+ - [Microsoft’s Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
+ - [A look at Changpeng Zhao&#39;s rapid downfall, from triggering FTX&#39;s collapse a year ago and posting a dismissive &quot;4&quot; to news of breaking US laws to pleading guilty &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231122/p13#a231122p13)
+ - [Crypto Started With Grand Dreams, Then Backroom Deals. Now It’s Mired in Lawsuits](https://www.wired.com/story/crypto-grand-dreams-backroom-deals-lawsuits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

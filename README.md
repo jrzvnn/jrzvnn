@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says North Korean group Lazarus has breached software company CyberLink and modified one of its installers to push malware in a supply-chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231122/p23#a231122p23)
  - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [47 Best Black Friday Outdoor Deals &lpar;2023&rpar;: REI and More](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-3/)
  - [The best gaming deals for Black Friday 2023](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
- - [Nostalgia Stirring Popcorn Popper     - CNET](https://www.cnet.com/news/nostalgia-stirring-popcorn-popper-dpnl/#ftag=CAD590a51e)
- - [Best Black Friday iPad Deals of 2023: Save Up to $100 on Apple Tablets     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
- - [All-Clad HA1 Nonstick Cookware     - CNET](https://www.cnet.com/news/all-clad-ha1-nonstick-cookware-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bard can now watch YouTube videos for you](https://www.theverge.com/2023/11/22/23972636/bard-youtube-extension-update-search-video-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

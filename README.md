@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
- - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
+ - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 💣 [I wonder why he cut the vid](http://9gag.com/gag/aqewPyj)
+ - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - 👉 [Oof](http://9gag.com/gag/aL15y7v)<!-- MEMES:END -->
 
 ---
 

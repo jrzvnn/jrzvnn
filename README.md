@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Florida judge rules he found &quot;reasonable evidence&quot; that Tesla knew about the Autopilot defect, opening the door to a public trial over a fatal Tesla car crash &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p3#a231122p3)
  - [India&#39;s Enforcement Directorate accuses edtech giant Byju&#39;s of violating rules under the country&#39;s Foreign Exchange Management Act to the tune of $1.12B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231122/p2#a231122p2)
+ - [Black Friday 2023 Live Blog: Best Deals and Discounts, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
  - [A study of tech suppliers&#39; decarbonization efforts: Intel, Foxconn, Luxshare, Samsung, and TSMC&#39;s emissions rose from 2020 to 2022; Foxconn and Samsung got a D+ &lpar;Greenpeace East Asia&rpar;](http://www.techmeme.com/231122/p1#a231122p1)
- - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
- - [Amazon Black Friday Deals: The 75+ Best Offers to Shop Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [I Love My Smartphone&#39;s Camera ... but I Needed Better Audio. Here&#39;s How I Did It     - CNET](https://www.cnet.com/deals/i-love-my-smartphones-camera-but-i-needed-better-audio-heres-how-i-did-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

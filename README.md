@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: crypto lender Genesis sues the Winklevoss&#39; exchange Gemini Trust to recover $689M, alleging Gemini made preferential transfers to other creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231122/p12#a231122p12)
  - [Larry Summers, now on OpenAI&#39;s interim board, believes AI is coming for white-collar jobs; Summers sits on Block&#39;s and Skillsoft&#39;s boards and advised a16z &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231122/p11#a231122p11)
  - [Email: Mt. Gox plans repay some creditors &quot;within the 2023 calendar year&quot;, likely extending into 2024, marking the first step in repayments for all creditors &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p10#a231122p10)
  - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
- - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
- - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

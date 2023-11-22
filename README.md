@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
  - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 💣 [I wonder why he cut the vid](http://9gag.com/gag/aqewPyj)
- - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - 👉 [Oof](http://9gag.com/gag/aL15y7v)<!-- MEMES:END -->
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---
 

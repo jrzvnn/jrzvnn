@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
  - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 💣 [Chanel fenn ...corn plantation worker](http://9gag.com/gag/anzwPxn)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 👉 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)<!-- MEMES:END -->
 
 ---
 

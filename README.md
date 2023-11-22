@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Justin Sun-linked crypto exchange HTX and Heco bridge are hacked in separate exploits that may have drained more than a combined $110M worth of cryptocurrencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p22#a231122p22)
+ - [Ford shrinks its EV battery factory plans in Michigan](https://www.theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans)
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
  - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)
- - [Graphcore lays off most of its staff in China and discontinues sales in the country, citing US export rules; China made up 20% to 25% of Graphcore&#39;s business &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p21#a231122p21)
- - [Pick up Apple&#39;s M1 MacBook Air for as low as $599.99 at Amazon-owned Woot](https://appleinsider.com/articles/23/11/22/pick-up-apples-m1-macbook-air-for-as-low-as-59999-at-amazon-owned-woot?utm_medium=rss)
- - [Mods Are Asleep. Quick, Everyone Release AI Products](https://www.wired.com/story/new-artificial-intelligence-products-openai-anthropic-stability-ai/)<!-- TECH:END -->
+ - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

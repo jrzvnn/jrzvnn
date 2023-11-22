@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)
  - [Cruise plans a slow return to service, starting in one city, and to lay off an unspecified number of its 3,800 employees, mostly non-engineering workers &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/231122/p26#a231122p26)
  - [Sam Altman’s Second Coming Sparks New Fears of the AI Apocalypse](https://www.wired.com/story/sam-altman-second-coming-sparks-new-fears-ai-apocalypse/)
  - [A look inside both the Legion Go and Steam Deck OLED](https://www.theverge.com/2023/11/22/23972676/steam-deck-oled-legion-go-teardown-ifixit-repairability-hall-effects-sticks)
- - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
+ - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

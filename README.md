@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
  - [Google updates Bard with more in-depth access to YouTube content, allowing users to ask specific questions about the content of a video &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/231122/p24#a231122p24)
  - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
  - [Shop the best Black Friday iPhone 15 case deals](https://appleinsider.com/articles/23/11/22/shop-the-best-black-friday-iphone-15-case-deals?utm_medium=rss)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [Microsoft says North Korean group Lazarus has breached software company CyberLink and modified one of its installers to push malware in a supply-chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231122/p23#a231122p23)<!-- TECH:END -->
+ - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

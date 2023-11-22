@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hold my beer darling! I have to punch the hell outta that thief...](http://9gag.com/gag/a4oye6Z)
- - 😝 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
- - 💣 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - 😝 [Warning, this is gonna hurt](http://9gag.com/gag/aDY5yPN)
+ - 💣 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
  - 😝 [The most peaceful and kind conversation with McDonald&#39;s employee to ever exist](http://9gag.com/gag/aoKwb4g)
  - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 

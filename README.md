@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
  - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
  - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
  - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)
- - [Check Out These Tips if You Want to Make Amazon Returns After Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/services-and-software/check-out-these-tips-if-you-want-to-make-amazon-returns-after-black-friday-and-cyber-monday/#ftag=CAD590a51e)
- - [Source: as part of the deal, Sam Altman and Greg Brockman will not reclaim their board seats; Altman had pushed for more control; OpenAI retains its structure &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231122/p8#a231122p8)<!-- TECH:END -->
+ - [Check Out These Tips if You Want to Make Amazon Returns After Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/services-and-software/check-out-these-tips-if-you-want-to-make-amazon-returns-after-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

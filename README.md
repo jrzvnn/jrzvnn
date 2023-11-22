@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a7qXzox)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 😝 [Life with a photographic memory](http://9gag.com/gag/aZD5Av0)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 ---
 

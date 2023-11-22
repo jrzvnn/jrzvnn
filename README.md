@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
  - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [This Mini Rechargeable Lantern Is My Perfect Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-perfect-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
- - [I Have a Drawerful of Expensive Knives. This Cheap Knife Is the One I Always Use     - CNET](https://www.cnet.com/deals/i-have-a-drawerful-of-expensive-knives-this-cheap-knife-is-the-one-i-always-use/#ftag=CAD590a51e)
- - [Check Out These Tips if You Want to Make Amazon Returns After Black Friday and Cyber Monday     - CNET](https://www.cnet.com/tech/services-and-software/check-out-these-tips-if-you-want-to-make-amazon-returns-after-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Meta Quest 2 Deal Gets You $50 Off Plus a $50 Gift Card     - CNET](https://www.cnet.com/deals/black-friday-meta-quest-2-deal-gets-you-50-off-plus-a-50-gift-card/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $50: Big Savings on Smart Devices, Phone Cases, Kitchen Equipment and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
+ - [I&#39;m Not Vegetarian and I Love Purple Carrot, a Vegan Meal Service That&#39;s Super Cheap for Black Friday     - CNET](https://www.cnet.com/deals/im-not-vegetarian-and-i-love-purple-carrot-a-vegan-meal-service-thats-super-cheap-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

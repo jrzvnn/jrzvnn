@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [Google updates Bard with more in-depth access to YouTube content, allowing users to ask specific questions about the content of a video &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/231122/p24#a231122p24)
- - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
- - [Shop the best Black Friday iPhone 15 case deals](https://appleinsider.com/articles/23/11/22/shop-the-best-black-friday-iphone-15-case-deals?utm_medium=rss)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
+ - [Grab This 55-Inch TCL 4K Roku TV for $188 During Walmart&#39;s Black Friday Sale     - CNET](https://www.cnet.com/deals/grab-this-55-inch-tcl-4k-roku-tv-for-188-during-walmarts-black-friday-sale/#ftag=CAD590a51e)
+ - [Miss Wii Sports? This $30 Black Friday Deal Is the Next Best Thing for Nintendo Switch     - CNET](https://www.cnet.com/deals/miss-wii-sports-this-30-black-friday-deal-is-the-next-best-thing-for-nintendo-switch/#ftag=CAD590a51e)
+ - [Grab the Stylish 41mm Apple Watch SE 2 for Just $179 at Walmart     - CNET](https://www.cnet.com/deals/grab-the-stylish-41mm-apple-watch-se-2-for-just-179-at-walmart/#ftag=CAD590a51e)
+ - [Google updates Bard with more in-depth access to YouTube content, allowing users to ask specific questions about the content of a video &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/231122/p24#a231122p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

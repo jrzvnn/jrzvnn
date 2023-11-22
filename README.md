@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bard can now watch YouTube videos for you](https://www.theverge.com/2023/11/22/23972636/bard-youtube-extension-update-search-video-content)
  - [Justin Sun-linked crypto exchange HTX and Heco bridge are hacked in separate exploits that may have drained more than a combined $110M worth of cryptocurrencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p22#a231122p22)
  - [Ford shrinks its EV battery factory plans in Michigan](https://www.theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans)
  - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)
- - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
+ - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

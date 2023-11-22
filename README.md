@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
+ - [Niantic sexual bias lawsuit can proceed after judge blocks arbitration effort](https://www.theverge.com/2023/11/22/23972339/niantic-sexual-discrimination-lawsuit-gender-bias-arbitration)
+ - [23 Best Early Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023/)
  - [Ted Lasso returns to promote Hannah Waddingham&#39;s special](https://appleinsider.com/articles/23/11/22/ted-lasso-returns-to-promote-hannah-waddinghams-special?utm_medium=rss)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Teenage Engineering’s new synthesizer is powerful, portable, and gorgeous](https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer)<!-- TECH:END -->
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

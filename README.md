@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 💣 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
+ - 😝 [F**k you and see you tomorrow i guess](http://9gag.com/gag/armwjdy)
+ - 😝 [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)
+ - 💣 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 😝 [OUCH](http://9gag.com/gag/a4oyMxm)
+ - 👉 [I was lucky I guess](http://9gag.com/gag/a8qOBre)<!-- MEMES:END -->
 
 ---
 

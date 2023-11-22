@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
- - 😝 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)
- - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
+ - 😝 [Consequences for your action](http://9gag.com/gag/a04q2RO)
+ - 😝 [Almost got it](http://9gag.com/gag/aA05WM2)
+ - 💣 [F**k you and see you tomorrow i guess](http://9gag.com/gag/armwjdy)
+ - 😝 [Me too](http://9gag.com/gag/ap9weR8)
+ - 👉 [Best self-defense trick](http://9gag.com/gag/ajVwz38)<!-- MEMES:END -->
 
 ---
 

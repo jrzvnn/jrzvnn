@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study of tech suppliers&#39; decarbonization efforts: Intel, Foxconn, Luxshare, Samsung, and TSMC&#39;s emissions rose from 2020 to 2022; Foxconn and Samsung got a D+ &lpar;Greenpeace East Asia&rpar;](http://www.techmeme.com/231122/p1#a231122p1)
  - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
  - [Amazon Black Friday Deals: The 75+ Best Offers to Shop Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [I Love My Smartphone&#39;s Camera ... but I Needed Better Audio. Here&#39;s How I Did It     - CNET](https://www.cnet.com/deals/i-love-my-smartphones-camera-but-i-needed-better-audio-heres-how-i-did-it/#ftag=CAD590a51e)
- - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)
- - [FlexiSpot E7 Pro desk &amp; C7 chair review: simple, spacious, comfortable](https://appleinsider.com/articles/23/11/22/flexispot-e7-pro-desk-c7-chair-review-simple-spacious-comfortable?utm_medium=rss)<!-- TECH:END -->
+ - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
- - 😝 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 💣 [That&#39;s not funny](http://9gag.com/gag/abvwPQp)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
+ - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 😝 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
+ - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
  - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---

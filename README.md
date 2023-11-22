@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
- - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
  - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
  - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 ---

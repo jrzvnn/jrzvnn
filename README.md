@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 💣 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 😝 [Life with a photographic memory](http://9gag.com/gag/aZD5Av0)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 😝 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 💣 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
+ - 😝 [Confusion Fu](http://9gag.com/gag/a8qOr51)
+ - 👉 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)<!-- MEMES:END -->
 
 ---
 

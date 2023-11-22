@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 😝 [This is why people are still playing L4D 15 years later and back 4 blood died 1 year after its launch](http://9gag.com/gag/aYV58B7)
- - 💣 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 👉 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)<!-- MEMES:END -->
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 😝 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)
+ - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
 
 ---
 

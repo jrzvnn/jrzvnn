@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple denied unionized workers better benefits, NLRB claims](https://www.theverge.com/2023/11/22/23972688/apple-union-unfair-labor-practice-towson-nlrb)
+ - [15 Best Gifts for Dads &lpar;2023&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
  - [45 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-1/)
- - [I Track Kitchen Deals for a Living. These Are the Black Friday Sales I&#39;m Telling Friends About     - CNET](https://www.cnet.com/deals/best-black-friday-kitchen-deals-2023/#ftag=CAD590a51e)
- - [Cruise plans a slow return to service, starting in one city, and to lay off an unspecified number of its 3,800 employees, mostly non-engineering workers &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/231122/p26#a231122p26)
- - [Get the Sleek 44mm Apple Watch SE 2 for $209 at Walmart     - CNET](https://www.cnet.com/deals/get-the-sleek-44mm-apple-watch-se-2-for-209-at-walmart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Track Kitchen Deals for a Living. These Are the Black Friday Sales I&#39;m Telling Friends About     - CNET](https://www.cnet.com/deals/best-black-friday-kitchen-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

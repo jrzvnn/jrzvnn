@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday TV Deals: $800 Savings on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
  - [Get a Microsoft Windows 11 Pro license for just $22.97](https://appleinsider.com/articles/23/11/22/get-a-microsoft-windows-11-pro-license-for-just-2297?utm_medium=rss)
  - [Source: OpenAI&#39;s initial board and Sam Altman&#39;s camp have agreed to conduct an independent investigation into the ouster of Sam Altman and its aftermath &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/231122/p7#a231122p7)
- - [Sam Altman to Return as CEO of OpenAI](https://www.wired.com/story/sam-altman-openai-back/)
- - [Source: OpenAI&#39;s initial board will vet and appoint a new formal board of up to 9 people; Microsoft and Sam Altman will likely have seats on the formal board &lpar;The Verge&rpar;](http://www.techmeme.com/231122/p6#a231122p6)
- - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)<!-- TECH:END -->
+ - [Best Black Friday Apple Watch Deals: Up to %28 Off on Watch SE 2, Series 9, Ultra and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
+ - [Sam Altman to Return as CEO of OpenAI](https://www.wired.com/story/sam-altman-openai-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

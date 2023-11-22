@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
- - 😝 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
- - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
+ - 😝 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)
+ - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
+ - 💣 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 😝 [She was absolutely beautiful though](http://9gag.com/gag/amAw4xd)
+ - 👉 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)<!-- MEMES:END -->
 
 ---
 

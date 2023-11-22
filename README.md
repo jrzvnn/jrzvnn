@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [FlexiSpot E7 Pro desk &amp; C7 chair review: simple, spacious, comfortable](https://appleinsider.com/articles/23/11/22/flexispot-e7-pro-desk-c7-chair-review-simple-spacious-comfortable?utm_medium=rss)
  - [Counterpoint Research: global monthly smartphone sell-through volumes grew 5% in October 2023, the first month to record YoY growth since June 2021 &lpar;Baranjot Kaur/Reuters&rpar;](http://www.techmeme.com/231121/p55#a231121p55)
+ - [Save $120 on Our Favorite Robot Vacuum Plus Big Discounts on Other Dreametech Models     - CNET](https://www.cnet.com/deals/save-120-on-our-favorite-robot-vacuum-plus-big-discounts-on-other-dreametech-models/#ftag=CAD590a51e)
  - [OpenAI’s Boardroom Drama Could Mess Up Your Future](https://www.wired.com/story/openai-boardroom-drama-sam-altman-could-mess-up-your-future/)
- - [This Black Friday Deal Lets Me Watch My Cats From Anywhere Without Freaking Them Out     - CNET](https://www.cnet.com/deals/this-black-friday-deal-lets-me-watch-my-cats-from-anywhere-without-freaking-them-out/#ftag=CAD590a51e)
- - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)<!-- TECH:END -->
+ - [Shop Like Oprah With $50 Black Friday Savings on The Charcuterie Boards She Recommends     - CNET](https://www.cnet.com/deals/shop-like-oprah-with-50-black-friday-savings-on-the-charcuterie-boards-she-recommends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

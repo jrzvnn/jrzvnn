@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/ap9weR8)
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 💣 [OUCH](http://9gag.com/gag/a4oyMxm)
- - 😝 [When safety officer is not around](http://9gag.com/gag/a9q03Wo)
- - 👉 [The little one lost his gun and shirt, but cowboy never even lost his hat.](http://9gag.com/gag/aREdxjG)<!-- MEMES:END -->
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
+ - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 ---
 

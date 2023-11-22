@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [CZ Has Left Binance, SBF Is in Jail. Crypto Is About to Get Boring](https://www.wired.com/story/cz-has-left-binance-sbf-is-in-jail-crypto-is-about-to-get-boring/)
  - [Eminem is coming to Fortnite’s The Big Bang event](https://www.theverge.com/2023/11/22/23972384/eminem-fortnite-og-chapter-4-finale)
- - [Inflection AI debuts Inflection-2, an LLM the company claims outperforms Llama 2 and Google&#39;s PaLM in some tests, and plans to add the model to its Pi chatbot &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231122/p19#a231122p19)
- - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
- - [Niantic sexual bias lawsuit can proceed after judge blocks arbitration effort](https://www.theverge.com/2023/11/22/23972339/niantic-sexual-discrimination-lawsuit-gender-bias-arbitration)
- - [23 Best Early Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023/)<!-- TECH:END -->
+ - [Inflection AI debuts Inflection-2, an LLM the company claims outperforms Llama 2 and Google&#39;s PaLM in some tests, and plans to add the model to its Pi chatbot &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231122/p19#a231122p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

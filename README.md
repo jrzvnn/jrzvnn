@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyford, Texas gains Apple Distinguished status for its schools](https://appleinsider.com/articles/23/11/22/lyford-texas-gains-apple-distinguished-status-for-its-schools?utm_medium=rss)
- - [Tesla introduces new fee to limit congestion at Superchargers](https://www.theverge.com/2023/11/22/23972242/tesla-supercharger-congestion-fee-launches)
- - [DefiLlama: Binance&#39;s 24-hour outflows reached $1B as of 2:30AM ET on November 22 and seven-day net outflows were $703.1M, after Changpeng Zhao pled guilty &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p15#a231122p15)
- - [Apple illegally denied benefits to union workers, says US labor board](https://appleinsider.com/articles/23/11/22/apple-illegally-denied-benefits-to-union-workers-says-us-labor-board?utm_medium=rss)
- - [Sources: in 2019, Paul Graham flew from the UK to San Francisco to fire his prot&amp;eacute;g&amp;eacute; Sam Altman from YC, worried that Altman put his interests ahead of YC &lpar;Washington Post&rpar;](http://www.techmeme.com/231122/p14#a231122p14)<!-- TECH:END -->
+ - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
+ - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
+ - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)
+ - [At Microsoft&#39;s request, researchers find multiple flaws in the top three fingerprint sensors in laptops and used for Windows Hello fingerprint authentication &lpar;Blackwing Intelligence&rpar;](http://www.techmeme.com/231122/p16#a231122p16)
+ - [Lyford, Texas gains Apple Distinguished status for its schools](https://appleinsider.com/articles/23/11/22/lyford-texas-gains-apple-distinguished-status-for-its-schools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

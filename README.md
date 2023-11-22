@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Squid Game: The Challenge is a morbid LARP trapped inside a reality TV show](https://www.theverge.com/23971416/squid-game-the-challenge-review-netflix)
+ - [OpenAI’s Boardroom Drama Could Mess Up Your Future](https://www.wired.com/story/openai-boardroom-drama-sam-altman-could-mess-up-your-future/)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [CZ Has Left Binance, SBF Is in Jail. Crypto Is About to Get Boring](https://www.wired.com/story/cz-has-left-binance-sbf-is-in-jail-crypto-is-about-to-get-boring/)
- - [Eminem is coming to Fortnite’s The Big Bang event](https://www.theverge.com/2023/11/22/23972384/eminem-fortnite-og-chapter-4-finale)
- - [Inflection AI debuts Inflection-2, an LLM the company claims outperforms Llama 2 and Google&#39;s PaLM in some tests, and plans to add the model to its Pi chatbot &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231122/p19#a231122p19)<!-- TECH:END -->
+ - [CZ Has Left Binance, SBF Is in Jail. Crypto Is About to Get Boring](https://www.wired.com/story/cz-has-left-binance-sbf-is-in-jail-crypto-is-about-to-get-boring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

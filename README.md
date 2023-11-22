@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker&#39;s Black Friday sale offers discounts of up to 60% off MagSafe, GaN &amp; USB-C accessories](https://appleinsider.com/articles/23/11/22/ankers-black-friday-sale-offers-discounts-of-up-to-60-off-magsafe-gan-usb-c-accessories?utm_medium=rss)
+ - [Sources: a letter by OpenAI researchers warning of Q*, an AI breakthrough they said could threaten humanity, was one catalyst that led the board to oust Altman &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p28#a231122p28)
  - [24 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
  - [77 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
- - [Ekster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned, and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/ekster-black-friday-sale-2023/#ftag=CAD590a51e)
- - [Interviews with 40 current and ex-content moderators across Match Group, Grindr, and Bumble describe their mental health issues that they link with their jobs &lpar;Niamh McIntyre/The Bureau of Investigative Journalism&rpar;](http://www.techmeme.com/231122/p27#a231122p27)
- - [Apple denied unionized workers better benefits, NLRB claims](https://www.theverge.com/2023/11/22/23972688/apple-union-unfair-labor-practice-towson-nlrb)<!-- TECH:END -->
+ - [Ekster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned, and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/ekster-black-friday-sale-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Apps That Make Traveling Solo Easier—and Fun](https://www.wired.com/story/10-apps-traveling-solo-easy-fun/)
- - [Amazon Black Friday Deals: Over 75 Offers to Shop Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [US filings: Binance&#39;s lax rules and staff misconduct helped Hamas, al-Qaeda, and ISIS raise funds, let Iranians conduct 1.1M+ transactions worth $899M, and more &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/231122/p17#a231122p17)
- - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
- - [Why Rural Americans Are &lpar;and Aren&#39;t&rpar; Adopting Renewable Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/why-rural-americans-are-and-arent-adopting-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Nov. 22: Apple Watch SE $179, $100 off Apple Watch Series 9, $499 Mac mini, $399 iPad mini, more](https://appleinsider.com/articles/23/11/22/daily-deals-nov-22-apple-watch-se-179-100-off-apple-watch-series-9-499-mac-mini-399-ipad-mini-more?utm_medium=rss)
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [US Lawmakers Ask SEC to Launch Fraud Investigation Into Elon Musk](https://www.wired.com/story/elon-musk-nerualink-congress-sec-letter/)
+ - [Bluetti rolls out its Black Friday specials with a brand-new portable power station](https://appleinsider.com/articles/23/11/22/bluetti-rolls-out-its-black-friday-specials-with-a-brand-new-portable-power-station?utm_medium=rss)
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

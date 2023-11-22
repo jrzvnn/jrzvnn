@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kinda chubby](http://9gag.com/gag/anzwL2q)
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 💣 [Good Or bad\u2026 and why?](http://9gag.com/gag/aOx5M8D)
  - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 💣 [The day after Apollo the snake ate Taco Bell](http://9gag.com/gag/aQE5Lz8)
- - 😝 [Show me your best Movie Pause Screen](http://9gag.com/gag/aBd5A0Z)
- - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
+ - 👉 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)<!-- MEMES:END -->
 
 ---
 

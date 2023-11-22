@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia unveils a A$587M seven-year cyber resilience plan that includes cyber health checks for small businesses and mandatory reporting of ransomware attacks &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231121/p56#a231121p56)
  - [Get an M2 Max Mac Studio for just $1,795, plus 3 years of AppleCare for $139 with coupon](https://appleinsider.com/articles/23/11/22/get-an-m2-max-mac-studio-for-just-1795-plus-3-years-of-applecare-for-139-with-coupon?utm_medium=rss)
  - [FlexiSpot E7 Pro desk &amp; C7 chair review: simple, spacious, comfortable](https://appleinsider.com/articles/23/11/22/flexispot-e7-pro-desk-c7-chair-review-simple-spacious-comfortable?utm_medium=rss)
  - [Counterpoint Research: global monthly smartphone sell-through volumes grew 5% in October 2023, the first month to record YoY growth since June 2021 &lpar;Baranjot Kaur/Reuters&rpar;](http://www.techmeme.com/231121/p55#a231121p55)
- - [OpenAI’s Boardroom Drama Could Mess Up Your Future](https://www.wired.com/story/openai-boardroom-drama-sam-altman-could-mess-up-your-future/)
- - [This Black Friday Deal Lets Me Watch My Cats From Anywhere Without Freaking Them Out     - CNET](https://www.cnet.com/deals/this-black-friday-deal-lets-me-watch-my-cats-from-anywhere-without-freaking-them-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $120 on Our Favorite Robot Vacuum Plus Big Discounts on Other Dreametech Models     - CNET](https://www.cnet.com/deals/save-120-on-our-favorite-robot-vacuum-plus-big-discounts-on-other-dreametech-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

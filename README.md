@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
- - 💣 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 😝 [Left or right?](http://9gag.com/gag/aREdqEA)
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
  - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [Juicy Melons](http://9gag.com/gag/a9q09X6)<!-- MEMES:END -->
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 

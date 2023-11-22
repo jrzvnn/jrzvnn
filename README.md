@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Larry Summers, now on OpenAI&#39;s interim board, believes AI is coming for white-collar jobs; Summers sits on Block&#39;s and Skillsoft&#39;s boards and advised a16z &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231122/p11#a231122p11)
  - [Email: Mt. Gox plans repay some creditors &quot;within the 2023 calendar year&quot;, likely extending into 2024, marking the first step in repayments for all creditors &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p10#a231122p10)
  - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
  - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
- - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [Black Friday Meta Quest 2 Deal Gets You $50 Off Plus a $50 Gift Card     - CNET](https://www.cnet.com/deals/black-friday-meta-quest-2-deal-gets-you-50-off-plus-a-50-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

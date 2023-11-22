@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hayao Miyazaki is very convincing](https://www.theverge.com/23971512/boy-and-the-heron-takeshi-honda-interview-evangelion)
  - [&#39;Napoleon&#39; is a hit with the box office, but not so much with critics](https://appleinsider.com/articles/23/11/22/napoleon-is-a-hit-with-the-box-office-but-not-so-much-with-critics?utm_medium=rss)
- - [Kodak’s new Super 8 film camera is actually coming out](https://www.theverge.com/2023/11/22/23972513/kodak-super-8-film-camera-lcd-screen-price-release-date-specs-features)
- - [How Pit Viper Built ‘Party Mountain’ Out of Potty Humor and ’90s Nostalgia](https://www.wired.com/story/article/pit-viper-party-mountain/)
- - [Squid Game: The Challenge is a morbid LARP trapped inside a reality TV show](https://www.theverge.com/23971416/squid-game-the-challenge-review-netflix)<!-- TECH:END -->
+ - [The WiiM Amp is a stream-everything receiver with Mac Mini vibes](https://www.theverge.com/2023/11/22/23972352/wiim-amp-airplay-2-chromecast-wireless-receiver-vintage-hi-fi)
+ - [Read Microsoft’s internal memo about the chaos at OpenAI](https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai)
+ - [Honor plans board changes to meet diversity standards for a public company, as it prepares for an IPO, three years after it was spun off from Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p20#a231122p20)
+ - [13 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

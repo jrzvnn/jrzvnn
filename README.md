@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: Mt. Gox plans repay some creditors &quot;within the 2023 calendar year&quot;, likely extending into 2024, marking the first step in repayments for all creditors &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231122/p10#a231122p10)
+ - [Meet the Lawyer Leading the Human Resistance Against AI](https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/)
  - [Internal Alibaba memo: Jack Ma has not yet sold any Alibaba stock due to the price not reaching his desired level; Ma planned to sell 10M shares for ~$870M &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231122/p9#a231122p9)
  - [Altman beats OpenAI board and returns as CEO after stormy exit](https://appleinsider.com/articles/23/11/20/openai-is-imploding-as-staff-rebel-over-shock-firing-of-ceo?utm_medium=rss)
- - [Black Friday Meta Quest 2 Deal Gets You $50 Off Plus a $50 Gift Card     - CNET](https://www.cnet.com/deals/black-friday-meta-quest-2-deal-gets-you-50-off-plus-a-50-gift-card/#ftag=CAD590a51e)
- - [Best Black Friday Deals Under $50: Big Savings on Smart Devices, Phone Cases, Kitchen Equipment and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
- - [I&#39;m Not Vegetarian and I Love Purple Carrot, a Vegan Meal Service That&#39;s Super Cheap for Black Friday     - CNET](https://www.cnet.com/deals/im-not-vegetarian-and-i-love-purple-carrot-a-vegan-meal-service-thats-super-cheap-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Meta Quest 2 Deal Gets You $50 Off Plus a $50 Gift Card     - CNET](https://www.cnet.com/deals/black-friday-meta-quest-2-deal-gets-you-50-off-plus-a-50-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

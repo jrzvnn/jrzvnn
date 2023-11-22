@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
  - [77 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
  - [Ekster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned, and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/ekster-black-friday-sale-2023/#ftag=CAD590a51e)
  - [Interviews with 40 current and ex-content moderators across Match Group, Grindr, and Bumble describe their mental health issues that they link with their jobs &lpar;Niamh McIntyre/The Bureau of Investigative Journalism&rpar;](http://www.techmeme.com/231122/p27#a231122p27)
- - [Apple denied unionized workers better benefits, NLRB claims](https://www.theverge.com/2023/11/22/23972688/apple-union-unfair-labor-practice-towson-nlrb)
- - [Best Black Friday AirPods Deals: Save Up to $100 on AirPods, Beats and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple denied unionized workers better benefits, NLRB claims](https://www.theverge.com/2023/11/22/23972688/apple-union-unfair-labor-practice-towson-nlrb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

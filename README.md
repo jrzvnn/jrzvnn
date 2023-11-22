@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Justin Sun-linked crypto exchange HTX and Heco bridge are hacked in separate exploits that may have drained more than a combined $110M worth of cryptocurrencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/231122/p22#a231122p22)
- - [Record low price: Alogic Clarity 27-inch 4K monitor drops to $599 with Black Friday coupon](https://appleinsider.com/articles/23/11/22/record-low-price-alogic-clarity-27-inch-4k-monitor-drops-to-599-with-black-friday-coupon?utm_medium=rss)
- - [My Favorite Nintendo Switch Game Has a Fantastic Black Friday Bundle Deal     - CNET](https://www.cnet.com/deals/my-favorite-nintendo-switch-game-has-a-fantastic-black-friday-bundle-deal/#ftag=CAD590a51e)
- - [Digital Picture Frame 10.1&quot;     - CNET](https://www.cnet.com/tech/digital-picture-frame-10-1-dpnl/#ftag=CAD590a51e)
- - [I Can&#39;t Shut Up About a Lap Desk That&#39;s Just $20 for Black Friday     - CNET](https://www.cnet.com/deals/i-cant-shut-up-about-a-lap-desk-thats-just-20-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [The best gaming deals for Black Friday 2023](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
+ - [Nostalgia Stirring Popcorn Popper     - CNET](https://www.cnet.com/news/nostalgia-stirring-popcorn-popper-dpnl/#ftag=CAD590a51e)
+ - [Best Black Friday iPad Deals of 2023: Save Up to $100 on Apple Tablets     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
+ - [All-Clad HA1 Nonstick Cookware     - CNET](https://www.cnet.com/news/all-clad-ha1-nonstick-cookware-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

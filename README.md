@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How Carl Rinsch&#39;s sci-fi TV series became a costly fiasco for Netflix, which burned $55M+ without receiving a single episode, an example of streaming excess &lpar;John Carreyrou/New York Times&rpar;](http://www.techmeme.com/231122/p18#a231122p18)
  - [iPhone 15 breaks smartphone market&#39;s sales slump](https://appleinsider.com/articles/23/11/22/iphone-15-breaks-smartphone-markets-sales-slump?utm_medium=rss)
  - [Daily deals Nov. 22: Apple Watch SE $179, $100 off Apple Watch Series 9, $499 Mac mini, $399 iPad mini, more](https://appleinsider.com/articles/23/11/22/daily-deals-nov-22-apple-watch-se-179-100-off-apple-watch-series-9-499-mac-mini-399-ipad-mini-more?utm_medium=rss)
- - [US Lawmakers Ask SEC to Launch Fraud Investigation Into Elon Musk](https://www.wired.com/story/elon-musk-nerualink-congress-sec-letter/)
- - [Bluetti rolls out its Black Friday specials with a brand-new portable power station](https://appleinsider.com/articles/23/11/22/bluetti-rolls-out-its-black-friday-specials-with-a-brand-new-portable-power-station?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [US Lawmakers Ask SEC to Launch Fraud Investigation Into Elon Musk](https://www.wired.com/story/elon-musk-nerualink-congress-sec-letter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

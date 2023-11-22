@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
- - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
- - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 😝 [I wonder why he cut the vid](http://9gag.com/gag/aqewPyj)
- - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
+ - 😝 [Almost got it](http://9gag.com/gag/aA05WM2)
+ - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
+ - 💣 [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)
+ - 😝 [I was lucky I guess](http://9gag.com/gag/a8qOBre)
+ - 👉 [Me too](http://9gag.com/gag/ap9weR8)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relationship goals.](http://9gag.com/gag/aYV5397)
- - 😝 [Share here your best wallpaper for a phone... Please](http://9gag.com/gag/anzwP4B)
- - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
- - 👉 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)<!-- MEMES:END -->
+ - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
+ - 😝 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
+ - 💣 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 

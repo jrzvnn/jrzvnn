@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman’s Second Coming Sparks New Fears of the AI Apocalypse](https://www.wired.com/story/sam-altman-second-coming-sparks-new-fears-ai-apocalypse/)
+ - [A look inside both the Legion Go and Steam Deck OLED](https://www.theverge.com/2023/11/22/23972676/steam-deck-oled-legion-go-teardown-ifixit-repairability-hall-effects-sticks)
  - [The 89 Black Friday Deals to Shop Right Now](https://www.wired.com/story/absolute-best-black-friday-deals-4/)
  - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [In the Russia-Ukraine war, using electromagnetic waves to flummox and follow drones and other smarter weapons becomes a critical part of the cat-and-mouse game &lpar;New York Times&rpar;](http://www.techmeme.com/231122/p25#a231122p25)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

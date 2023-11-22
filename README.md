@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
  - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 💣 [Ah yes the stepladder](http://9gag.com/gag/a5X3O0r)
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 💣 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 😝 [Franklin knows his shit](http://9gag.com/gag/a8qOxvV)
+ - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
 
 ---
 

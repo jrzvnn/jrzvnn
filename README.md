@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 💣 [Lil Wayne about racism. &lpar;Sorry for the music&rpar;](http://9gag.com/gag/az2wNxz)
- - 😝 [Confusion Fu](http://9gag.com/gag/a8qOr51)
- - 👉 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)<!-- MEMES:END -->
+ - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 😝 [Poland City of Zakopane](http://9gag.com/gag/aVb5GNy)
+ - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 😝 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)
+ - 👉 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)<!-- MEMES:END -->
 
 ---
 

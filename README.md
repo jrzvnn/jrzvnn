@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 😝 [One ticket for me too](http://9gag.com/gag/aL157x5)
- - 💣 [When a toddler is smarter than you](http://9gag.com/gag/az2wnXZ)
  - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
- - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
+ - 😝 [Love my country!](http://9gag.com/gag/avQwNob)
+ - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 👉 [The judo](http://9gag.com/gag/aBd5A7N)<!-- MEMES:END -->
 
 ---
 

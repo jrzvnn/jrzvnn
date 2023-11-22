@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)
- - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 💣 [The judo](http://9gag.com/gag/aBd5A7N)
- - 😝 [Recorded in the indian ocean at a depth of 1096m](http://9gag.com/gag/aqewPV7)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
 
 ---
 

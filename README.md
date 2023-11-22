@@ -142,11 +142,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)
+ - [Paramount Plus Black Friday deal: save 67% on 3 months of service](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)
+ - [Sources: before his ousting, Sam Altman made a move to push out board member Helen Toner because he thought a paper she had co-written was critical of OpenAI &lpar;New York Times&rpar;](http://www.techmeme.com/231121/p51#a231121p51)
  - [Nvidia expects strong growth in most regions to offset a &quot;significant&quot; drop in sales to China because of recently tightened AI chip rules &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231121/p50#a231121p50)
- - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)
- - [Low storage space? These Black Friday SSD &amp; hard drive deals for Mac can help](https://appleinsider.com/articles/23/11/21/low-storage-space-these-black-friday-ssd-hard-drive-deals-for-mac-can-help?utm_medium=rss)
- - [Eckster&#39;s Grid Is the Coolest Backpack I&#39;ve Ever Owned, and It&#39;s 20% Off for Black Friday     - CNET](https://www.cnet.com/deals/eckster-black-friday-sale-2023/#ftag=CAD590a51e)
- - [Tello Mobile Delivers Cellular Service for Under $10 This Black Friday     - CNET](https://www.cnet.com/deals/tello-mobile-delivers-cellular-service-for-under-10-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tiger Global Management&#39;s Scott Shleifer will transition from his role leading private investments to a senior adviser role, effective January 1, 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231121/p49#a231121p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

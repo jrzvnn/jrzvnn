@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost got it](http://9gag.com/gag/aA05WM2)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 😝 [The judo](http://9gag.com/gag/aBd5A7N)
+ - 💣 [New President of Argentina, Afueraaa](http://9gag.com/gag/abvwN09)
  - 😝 [Best self-defense trick](http://9gag.com/gag/ajVwz38)
- - 💣 [Great, another one that got away unpunished...](http://9gag.com/gag/aBd5DwA)
- - 😝 [I was lucky I guess](http://9gag.com/gag/a8qOBre)
- - 👉 [Me too](http://9gag.com/gag/ap9weR8)<!-- MEMES:END -->
+ - 👉 [Technically correct solution](http://9gag.com/gag/a04qAgn)<!-- MEMES:END -->
 
 ---
 

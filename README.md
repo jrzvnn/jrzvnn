@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Black Friday Deal Lets Me Watch My Cats From Anywhere Without Freaking Them Out     - CNET](https://www.cnet.com/deals/this-black-friday-deal-lets-me-watch-my-cats-from-anywhere-without-freaking-them-out/#ftag=CAD590a51e)
  - [Paris Hilton&#39;s 11:11 Media suspends an ad campaign on X one month after announcing a partnership with X; it&#39;s unclear whether the partnership is still on &lpar;CNN&rpar;](http://www.techmeme.com/231121/p54#a231121p54)
  - [Elon Musk Trolls His Way Into the OpenAI Drama](https://www.wired.com/story/elon-musk-troll-openai-drama/)
  - [Samsung Galaxy Watch 4 Has Everything I Need in a $129 Black Friday Deal     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-in-a-129-black-friday-deal/#ftag=CAD590a51e)
- - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)
- - [In a letter to Elon Musk, 27 US lawmakers, all Democrats, express concern that X seems to be profiting from anti-Israel propaganda via ads and subscriptions &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231121/p52#a231121p52)<!-- TECH:END -->
+ - [OpenAI insiders and other sources describe the turmoil within OpenAI following Sam Altman&#39;s ousting and how Altman&#39;s supporters rallied behind him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231121/p53#a231121p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

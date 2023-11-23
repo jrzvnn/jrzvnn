@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/aPgq6WB)
- - 😝 [The Dutch labour/green left party. They hear their &lpar;expected&rpar; election results and immediately after they hear PVV and Geert Wilders have won 35 seats.](http://9gag.com/gag/a2KXP19)
- - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 😝 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
- - 👉 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)<!-- MEMES:END -->
+ - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 💣 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
+ - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
 
 ---
 

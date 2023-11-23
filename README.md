@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
  - [Google updates Google Meet to recognize gestures in meetings, including raising a hand to trigger the &quot;Raise hand&quot; button; the feature is off by default &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p5#a231123p5)
  - [Screensharing mistake gets Nvidia sued over alleged stolen trade secrets](https://www.theverge.com/2023/11/23/23973673/valeo-nvidia-autonomous-driving-software-ip-theft-lawsuit)
  - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
- - [Save Big on Clothing With Black Friday Deals From DSW, Boden and Others     - CNET](https://www.cnet.com/deals/save-big-on-clothing-with-black-friday-deals-from-dsw-boden-and-others/#ftag=CAD590a51e)
- - [This Rechargeable Mini Lantern Is My Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Big on Clothing With Black Friday Deals From DSW, Boden and Others     - CNET](https://www.cnet.com/deals/save-big-on-clothing-with-black-friday-deals-from-dsw-boden-and-others/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

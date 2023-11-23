@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step 1- Act like a tough guy Step 2- Start retracting your steps Step 3- Call mom dad and cry like a b*tch](http://9gag.com/gag/aeQBNpO)
- - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
- - 💣 [The Dutch labour/green left party. They hear their &lpar;expected&rpar; election results and immediately after they hear PVV and Geert Wilders have won 35 seats.](http://9gag.com/gag/a2KXP19)
- - 😝 [Brutal](http://9gag.com/gag/aWGXZK6)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 😝 [She found out](http://9gag.com/gag/aPgq6WB)
+ - 😝 [Love](http://9gag.com/gag/avQj2LM)
+ - 💣 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
+ - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 👉 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)<!-- MEMES:END -->
 
 ---
 

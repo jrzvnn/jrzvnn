@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Macy&#39;s Thanksgiving Day Parade 2023 Is Starting. Here&#39;s How to Watch     - CNET](https://www.cnet.com/tech/services-and-software/macys-thanksgiving-day-parade-2023-is-starting-heres-how-to-watch/#ftag=CAD590a51e)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Best Black Friday Deals: 32 Top Picks From Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Reflecting on 18 years at Google: early Google had a vision, but its culture has eroded, morale is at an all-time low, and healing requires changes at the top &lpar;Ian Hickson/Hixie&#39;s Natural Log&rpar;](http://www.techmeme.com/231123/p9#a231123p9)
- - [Pixel 8 vs. Pixel 7 vs. Pixel 6: Google&#39;s Flagship Phones, Compared     - CNET](https://www.cnet.com/tech/mobile/pixel-8-vs-pixel-7-vs-pixel-6-a-comprehensive-comparison-of-google-flagship-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
+ - [Urbanista Malibu Review: Superb Solar, Average Audio](https://www.wired.com/review/review-urbanista-malibu-wireless-solar-speaker/)
+ - [Dbrand’s new X-Ray skins let you ‘see inside’ 125 different gadgets](https://www.theverge.com/23973605/dbrand-x-ray-skins-light-dark)
+ - [A cookbook helped me understand Dragon Age’s origins](https://www.theverge.com/23972932/bioware-dragon-age-cookbook-chocolate-orzammar-nug)
+ - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

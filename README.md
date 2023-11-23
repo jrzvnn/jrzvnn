@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Macy&#39;s Thanksgiving Day Parade 2023 Is Starting. Here&#39;s How to Watch     - CNET](https://www.cnet.com/tech/services-and-software/macys-thanksgiving-day-parade-2023-is-starting-heres-how-to-watch/#ftag=CAD590a51e)
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Best Black Friday Deals: 32 Top Picks From Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
  - [Reflecting on 18 years at Google: early Google had a vision, but its culture has eroded, morale is at an all-time low, and healing requires changes at the top &lpar;Ian Hickson/Hixie&#39;s Natural Log&rpar;](http://www.techmeme.com/231123/p9#a231123p9)
- - [JBL Authentics 200 Review: A Great Little Smart Speaker](https://www.wired.com/review/jbl-authentics-200/)
- - [Sources: the European Commission plans to grant Amazon unconditional antitrust approval for its $1.4B iRobot acquisition, having set a February 14 deadline &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231123/p8#a231123p8)
- - [My Favorite 3-in-1 Wireless Charger Is a Must-Buy for Apple Fans at $55 Off     - CNET](https://www.cnet.com/deals/my-favorite-3-in-1-wireless-charger-is-a-must-buy-for-apple-fans-at-55-off/#ftag=CAD590a51e)
- - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)<!-- TECH:END -->
+ - [Pixel 8 vs. Pixel 7 vs. Pixel 6: Google&#39;s Flagship Phones, Compared     - CNET](https://www.cnet.com/tech/mobile/pixel-8-vs-pixel-7-vs-pixel-6-a-comprehensive-comparison-of-google-flagship-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

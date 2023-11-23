@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
  - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
  - [Best Black Friday Headphone Deals: Save Up to $180 on Beats, Apple, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
  - [Score Big on Black Friday Phone Deals: Save Up to $400 on Apple, Google, Samsung and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)
- - [Thanksgiving deals: $290 off M2 MacBook Air &amp; AppleCare Bundle, MacBook Pro for $500, Blink Mini for $20, more](https://appleinsider.com/articles/23/11/23/thanksgiving-deals-290-off-m2-macbook-air-applecare-bundle-macbook-pro-for-500-blink-mini-for-20-more?utm_medium=rss)
- - [16 Best Tablets &lpar;2023&rpar;: For Work, Drawing, Play, Kids, and Seniors](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [Thanksgiving deals: $290 off M2 MacBook Air &amp; AppleCare Bundle, MacBook Pro for $500, Blink Mini for $20, more](https://appleinsider.com/articles/23/11/23/thanksgiving-deals-290-off-m2-macbook-air-applecare-bundle-macbook-pro-for-500-blink-mini-for-20-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

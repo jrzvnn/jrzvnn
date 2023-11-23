@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Pixel 8 Pro owners notice circular bumps on the screen; Google says they are &quot;impressions from components&quot; and don&#39;t impact durability or performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p16#a231123p16)
  - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)
  - [The PS5 is $50 Off at GameStop. Snag This Black Friday Deal Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/the-ps5-is-50-off-at-gamestop-snag-this-black-friday-deal-before-its-gone/#ftag=CAD590a51e)
  - [PS5 Black Friday Deals: Console Bundles, Game Discounts and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)
- - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
- - [Best Gifts for Sleeping Cozy This Fall     - CNET](https://www.cnet.com/health/sleep/best-products-for-sleeping-cozy-in-the-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

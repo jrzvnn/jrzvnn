@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 😝 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
- - 💣 [Ban the Koran in the Netherlands, says nationalist leader Geert Wilders.](http://9gag.com/gag/aqeEmLZ)
- - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 👉 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)<!-- MEMES:END -->
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 💣 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - 😝 [Fml.](http://9gag.com/gag/a1PjGvb)
  - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 💣 [What do you call such people?](http://9gag.com/gag/aKEM4y3)
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
+ - 💣 [The parties involved exchanged their insurance details in order to ensure smooth compensation. Noo just kidding. The `angry` ones called police and lied. Lucky the guy had a dashcam camera.](http://9gag.com/gag/aMELeGx)
+ - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 👉 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)<!-- MEMES:END -->
 
 ---
 

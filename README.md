@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 😝 [Brutal](http://9gag.com/gag/aWGXZK6)
- - 💣 [The Dutch labour/green left party. They hear their &lpar;expected&rpar; election results and immediately after they hear PVV and Geert Wilders have won 35 seats.](http://9gag.com/gag/a2KXP19)
- - 😝 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
- - 👉 [Episodes 7-9 were garbage](http://9gag.com/gag/ap9MqxE)<!-- MEMES:END -->
+ - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thanksgiving deals: $290 off M2 MacBook Air &amp; AppleCare Bundle, MacBook Pro for $500, Blink Mini for $20, more](https://appleinsider.com/articles/23/11/23/thanksgiving-deals-290-off-m2-macbook-air-applecare-bundle-macbook-pro-for-500-blink-mini-for-20-more?utm_medium=rss)
+ - [16 Best Tablets &lpar;2023&rpar;: For Work, Drawing, Play, Kids, and Seniors](https://www.wired.com/gallery/the-best-tablets/)
  - [Persona 5 Tactica makes the wait for Persona 6 a little easier](https://www.theverge.com/23972945/persona-5-tactica-first-impressions-atlus)
  - [UK juries find web hosting firm UKFast founder Lawrence Jones guilty of rape and sexual assault; Jones was estimated to be worth ~&amp;pound;700M until 2019 allegations &lpar;Madison Marriage/Financial Times&rpar;](http://www.techmeme.com/231123/p11#a231123p11)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
- - [Black Friday software deals: Microsoft Windows, Office, Creative Cloud, Mac app bundles as low as $2.80](https://appleinsider.com/articles/23/11/23/black-friday-software-deals-microsoft-windows-office-creative-cloud-mac-app-bundles-as-low-as-280?utm_medium=rss)
- - [Black Friday 2023 Live Blog: These Are the 150 Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

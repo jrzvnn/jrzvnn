@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deputy says to him `Your life&#39;s not over, but it definitely changed` It was a great word to tell the young man](http://9gag.com/gag/a2KpnOw)
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 👉 [Confusion Fu](http://9gag.com/gag/a8qOr51)<!-- MEMES:END -->
+ - 😝 [Ban the Koran in the Netherlands, says nationalist leader Geert Wilders.](http://9gag.com/gag/aqeEmLZ)
+ - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 💣 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - 😝 [Noce Education system..lol](http://9gag.com/gag/aXnO0RV)
+ - 👉 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)<!-- MEMES:END -->
 
 ---
 

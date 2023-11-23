@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
  - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
  - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 👉 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)<!-- MEMES:END -->
+ - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
 
 ---
 

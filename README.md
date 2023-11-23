@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK juries find web hosting firm UKFast founder Lawrence Jones guilty of rape and sexual assault; Jones was estimated to be worth ~&amp;pound;700M until 2019 allegations &lpar;Madison Marriage/Financial Times&rpar;](http://www.techmeme.com/231123/p11#a231123p11)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
  - [Black Friday software deals: Microsoft Windows, Office, Creative Cloud, Mac app bundles as low as $2.80](https://appleinsider.com/articles/23/11/23/black-friday-software-deals-microsoft-windows-office-creative-cloud-mac-app-bundles-as-low-as-280?utm_medium=rss)
  - [An analysis of 30 posts on X from large accounts with false or misleading claims on the Israel-Hamas war found 200 ads from 86 brands and others below 24 posts &lpar;NewsGuard&rpar;](http://www.techmeme.com/231123/p10#a231123p10)
- - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [Urbanista Malibu Review: Superb Solar, Average Audio](https://www.wired.com/review/review-urbanista-malibu-wireless-solar-speaker/)
- - [Dbrand’s new X-Ray skins let you ‘see inside’ 125 different gadgets](https://www.theverge.com/23973605/dbrand-x-ray-skins-light-dark)<!-- TECH:END -->
+ - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

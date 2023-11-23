@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Mattress Deals: Sleep Well Knowing You Saved Hundreds on a Brand New Mattress     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
- - [Best Black Friday TV Deals: Save Up to $800 on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Discover Your Story and Save 50% or More on Ancestry DNA Kits and Online Membership     - CNET](https://www.cnet.com/deals/discover-your-story-and-save-50-or-more-on-ancestry-dna-kits-and-online-membership/#ftag=CAD590a51e)
- - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Accessories Right Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Anker&#39;s Black Friday sale offers discounts of up to 60% off MagSafe, GaN &amp; USB-C accessories](https://appleinsider.com/articles/23/11/22/ankers-black-friday-sale-offers-discounts-of-up-to-60-off-magsafe-gan-usb-c-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Source: an OpenAI employee share sale valuing the company at $86B is back on track after Sam Altman&#39;s reinstatement and is expected to close in December &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231122/p29#a231122p29)
+ - [How to Find Safe Eye Drops     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)
+ - [For Black Friday, Prusa Is Offering Free Shipping and Free Gifts With Every Mk4 and Mk3s 3D Printer Purchase     - CNET](https://www.cnet.com/deals/for-black-friday-prusa-is-offering-free-shipping-and-free-gifts-with-every-mk4-and-mk3s-3d-printer-purchase/#ftag=CAD590a51e)
+ - [BrüMate&#39;s Hopsulator Trio Is Now 25% Off for Black Friday     - CNET](https://www.cnet.com/deals/brumates-hopsulator-trio-is-now-25-off-for-black-friday/#ftag=CAD590a51e)
+ - [Best Black Friday PS5 Deals: Console Bundles, Discounted Games and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

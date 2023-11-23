@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
- - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 👉 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)<!-- MEMES:END -->
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 😝 [Who would have known?](http://9gag.com/gag/aA05nYR)
+ - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
 
 ---
 

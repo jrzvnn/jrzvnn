@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
+ - 😝 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
+ - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 💣 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 😝 [Ban the Koran in the Netherlands, says nationalist leader Geert Wilders.](http://9gag.com/gag/aqeEmLZ)
+ - 👉 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)<!-- MEMES:END -->
 
 ---
 

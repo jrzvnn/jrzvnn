@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 💣 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
+ - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 💣 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 👉 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)<!-- MEMES:END -->
 
 ---
 

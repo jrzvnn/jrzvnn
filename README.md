@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ban the Koran in the Netherlands, says nationalist leader Geert Wilders.](http://9gag.com/gag/aqeEmLZ)
  - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 💣 [Well well well](http://9gag.com/gag/aoK7zo2)
  - 😝 [Noce Education system..lol](http://9gag.com/gag/aXnO0RV)
- - 👉 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)<!-- MEMES:END -->
+ - 💣 [Brutal](http://9gag.com/gag/aWGXZK6)
+ - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 👉 [Well well well](http://9gag.com/gag/aoK7zo2)<!-- MEMES:END -->
 
 ---
 

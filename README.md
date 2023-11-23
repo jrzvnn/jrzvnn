@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new M3 MacBook Pro 16-inch with 36GB RAM is on sale for $2,649 &lpar;$250 off&rpar;](https://appleinsider.com/articles/23/11/23/apples-new-m3-macbook-pro-16-inch-with-36gb-ram-is-on-sale-for-2649-250-off?utm_medium=rss)
+ - [31 Best Black Friday Deals Under $50 &lpar;2023&rpar;: Anker, Google, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2023-1/)
  - [iPhone sales drop in China&#39;s annual Singles Day sales](https://appleinsider.com/articles/23/11/23/iphone-sales-drop-in-chinas-annual-singles-day-sales?utm_medium=rss)
  - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Pokémon is no longer just a game — it’s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
- - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)<!-- TECH:END -->
+ - [Pokémon is no longer just a game — it’s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

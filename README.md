@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Apple Watch Deals: Save Up to $100 on Watch SE 2, Series 9, Ultra and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
- - [I’m Not Shopping Black Friday This Year. Here’s What I’m Doing Instead     - CNET](https://www.cnet.com/personal-finance/im-not-shopping-black-friday-this-year-heres-what-im-doing-instead/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
  - [Elon Musk says X will start showing preview headlines for links again, but does not provide details on the timeline or give an example of how the card will look &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231122/p31#a231122p31)
- - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)
+ - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)
+ - [Black Friday 2023 Deals on E-Bikes and Electric Scooters     - CNET](https://www.cnet.com/roadshow/news/black-friday-2023-deals-on-e-bikes-and-electric-scooters/#ftag=CAD590a51e)
+ - [Mujjo offers a 20% discount on everything from iPhone cases to AirTag holders](https://appleinsider.com/articles/23/11/23/mujjo-offers-a-20-discount-on-everything-from-iphone-cases-to-airtag-holders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

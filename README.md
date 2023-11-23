@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap up keyboards, mice and computing essentials at Black Friday bargain prices](https://appleinsider.com/articles/23/11/23/snap-up-keyboards-mice-and-computing-essentials-at-black-friday-bargain-prices?utm_medium=rss)
  - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)
+ - [Black Friday 2023 Deals on E-Bikes and Electric Scooters     - CNET](https://www.cnet.com/roadshow/news/black-friday-2023-deals-on-e-bikes-and-electric-scooters/#ftag=CAD590a51e)
  - [Mujjo offers a 20% discount on everything from iPhone cases to AirTag holders](https://appleinsider.com/articles/23/11/23/mujjo-offers-a-20-discount-on-everything-from-iphone-cases-to-airtag-holders?utm_medium=rss)
- - [Best Black Friday Streaming Service Deals 2023     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [Source: an OpenAI employee share sale valuing the company at $86B is back on track after Sam Altman&#39;s reinstatement and is expected to close in December &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231122/p29#a231122p29)
- - [Best Black Friday Nintendo Switch Deals: Save on Bundles, Games and Accessories     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Streaming Service Deals 2023: Save on Hulu, Peacock, Max and More     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

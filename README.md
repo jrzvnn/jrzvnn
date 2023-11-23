@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/aPgq6WB)
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
- - 💣 [One hell of a drug](http://9gag.com/gag/aXn1562)
- - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 👉 [Is that so?](http://9gag.com/gag/awZ2qL1)<!-- MEMES:END -->
+ - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
 
 ---
 

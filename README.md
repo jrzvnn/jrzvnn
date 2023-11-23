@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 😝 [Oof](http://9gag.com/gag/aL15y7v)
+ - 💣 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
  - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 😝 [That&#39;s not funny](http://9gag.com/gag/abvwPQp)
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
+ - 👉 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)<!-- MEMES:END -->
 
 ---
 

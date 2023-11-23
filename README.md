@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 💣 [What do you call such people?](http://9gag.com/gag/aKEM4y3)
  - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
+ - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
 
 ---
 

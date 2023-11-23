@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The UK plans to boost spending on computing power to develop AI by &amp;pound;500M over two years, bringing its total planned investment to more than &amp;pound;1.5B &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/231122/p30#a231122p30)
  - [Mujjo offers a 20% discount on everything from iPhone cases to AirTag holders](https://appleinsider.com/articles/23/11/23/mujjo-offers-a-20-discount-on-everything-from-iphone-cases-to-airtag-holders?utm_medium=rss)
+ - [Best Black Friday Streaming Service Deals 2023     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
  - [Source: an OpenAI employee share sale valuing the company at $86B is back on track after Sam Altman&#39;s reinstatement and is expected to close in December &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231122/p29#a231122p29)
- - [How to Find Safe Eye Drops     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)
- - [For Black Friday, Prusa Is Offering Free Shipping and Free Gifts With Every Mk4 and Mk3s 3D Printer Purchase     - CNET](https://www.cnet.com/deals/for-black-friday-prusa-is-offering-free-shipping-and-free-gifts-with-every-mk4-and-mk3s-3d-printer-purchase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Nintendo Switch Deals: Save on Bundles, Games and Accessories     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Mattress Deals: Sleep Well Knowing You Saved Hundreds on a Brand New Mattress     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
+ - [Best Black Friday TV Deals: Save Up to $800 on 85-Inch, OLED, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
+ - [Discover Your Story and Save 50% or More on Ancestry DNA Kits and Online Membership     - CNET](https://www.cnet.com/deals/discover-your-story-and-save-50-or-more-on-ancestry-dna-kits-and-online-membership/#ftag=CAD590a51e)
  - [Apple Black Friday Deals: Save on AirPods, Apple Watch, iPad and Accessories Right Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Anker&#39;s Black Friday sale offers discounts of up to 60% off MagSafe, GaN &amp; USB-C accessories](https://appleinsider.com/articles/23/11/22/ankers-black-friday-sale-offers-discounts-of-up-to-60-off-magsafe-gan-usb-c-accessories?utm_medium=rss)
- - [Sources: a letter by OpenAI researchers warning of Q*, an AI breakthrough they said could threaten humanity, was one catalyst that led the board to oust Altman &lpar;Reuters&rpar;](http://www.techmeme.com/231122/p28#a231122p28)
- - [Best Over-Ear Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Shutterfly&#39;s Black Friday Sale Has Everything You Need This Holiday Season     - CNET](https://www.cnet.com/deals/shutterflys-black-friday-sale-has-everything-you-need-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker&#39;s Black Friday sale offers discounts of up to 60% off MagSafe, GaN &amp; USB-C accessories](https://appleinsider.com/articles/23/11/22/ankers-black-friday-sale-offers-discounts-of-up-to-60-off-magsafe-gan-usb-c-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

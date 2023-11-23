@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
  - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)
  - [YouTube and Reels Could Decide India’s Elections](https://www.wired.com/story/youtube-instagram-reels-india-elections/)
  - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
- - [Elevate your HomeKit smart home with futuristic tech at irresistible prices during the Aqara Black Friday sale](https://appleinsider.com/articles/23/11/23/elevate-your-homekit-smart-home-with-futuristic-tech-at-irresistible-prices-during-the-aqara-black-friday-sale?utm_medium=rss)
- - [Get a 27-inch iMac for only $999 with this Black Friday special](https://appleinsider.com/articles/23/11/23/get-a-27-inch-imac-for-only-999-with-this-black-friday-special?utm_medium=rss)<!-- TECH:END -->
+ - [Elevate your HomeKit smart home with futuristic tech at irresistible prices during the Aqara Black Friday sale](https://appleinsider.com/articles/23/11/23/elevate-your-homekit-smart-home-with-futuristic-tech-at-irresistible-prices-during-the-aqara-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

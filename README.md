@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never](http://9gag.com/gag/aeQBKRm)
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
- - 👉 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)<!-- MEMES:END -->
+ - 😝 [Who would have known?](http://9gag.com/gag/aA05nYR)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 

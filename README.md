@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a breakthrough spearheaded by OpenAI chief scientist Ilya Sutskever enabled a model that could solve basic math problems, stoking excitement and concern &lpar;The Information&rpar;](http://www.techmeme.com/231123/p2#a231123p2)
+ - [Sam Altman&#39;s return at OpenAI, partly formed on effective altruism principles, revealed hard limits and caps a bruising year for the divisive social movement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231123/p1#a231123p1)
  - [B&amp;H MacBook Air &amp; MacBook Pro Black Friday deals drop prices to as low as $929](https://appleinsider.com/articles/23/11/23/bh-macbook-air-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-929?utm_medium=rss)
- - [Best Black Friday Apple Watch Deals: Save Up to $100 on Watch SE 2, Series 9, Ultra and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
- - [I’m Not Shopping Black Friday This Year. Here’s What I’m Doing Instead     - CNET](https://www.cnet.com/personal-finance/im-not-shopping-black-friday-this-year-heres-what-im-doing-instead/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
- - [Elon Musk says X will start showing preview headlines for links again, but does not provide details on the timeline or give an example of how the card will look &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231122/p31#a231122p31)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: These Are The 155+ Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live/#ftag=CAD590a51e)
+ - [The Biggest Questions to Ask Yourself Before Buying a Smartwatch     - CNET](https://www.cnet.com/tech/mobile/biggest-questions-to-ask-yourself-when-buying-a-new-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

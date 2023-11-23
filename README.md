@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)
+ - [Elevate your HomeKit smart home with futuristic tech at irresistible prices during the Aqara Black Friday sale](https://appleinsider.com/articles/23/11/23/elevate-your-homekit-smart-home-with-futuristic-tech-at-irresistible-prices-during-the-aqara-black-friday-sale?utm_medium=rss)
  - [Get a 27-inch iMac for only $999 with this Black Friday special](https://appleinsider.com/articles/23/11/23/get-a-27-inch-imac-for-only-999-with-this-black-friday-special?utm_medium=rss)
- - [Source: a breakthrough spearheaded by OpenAI chief scientist Ilya Sutskever enabled a model that could solve basic math problems, stoking excitement and concern &lpar;The Information&rpar;](http://www.techmeme.com/231123/p2#a231123p2)
- - [Sam Altman&#39;s return at OpenAI, partly formed on effective altruism principles, revealed hard limits and caps a bruising year for the divisive social movement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231123/p1#a231123p1)
- - [B&amp;H MacBook Air &amp; MacBook Pro Black Friday deals drop prices to as low as $929](https://appleinsider.com/articles/23/11/23/bh-macbook-air-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-929?utm_medium=rss)
- - [Best Black Friday Apple Watch Deals: Save Up to $100 on Watch SE 2, Series 9, Ultra and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: a breakthrough spearheaded by OpenAI chief scientist Ilya Sutskever enabled a model that could solve basic math problems, stoking excitement and concern &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231123/p2#a231123p2)
+ - [Sam Altman&#39;s return at OpenAI, partly formed on effective altruism principles, revealed hard limits and caps a bruising year for the divisive social movement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231123/p1#a231123p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

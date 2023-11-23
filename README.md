@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
- - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 💣 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 👉 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)<!-- MEMES:END -->
+ - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
+ - 😝 [That&#39;s not funny](http://9gag.com/gag/abvwPQp)
+ - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 👉 [One hell of a drug](http://9gag.com/gag/aXn1562)<!-- MEMES:END -->
 
 ---
 

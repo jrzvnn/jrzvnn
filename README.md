@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct solution](http://9gag.com/gag/a04qAgn)
  - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 👉 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)<!-- MEMES:END -->
+ - 😝 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)
+ - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [Laugh at 9gag meme go to hell.....](http://9gag.com/gag/a7qXQWb)
+ - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
 
 ---
 

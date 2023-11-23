@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She found out](http://9gag.com/gag/aPgq6WB)
- - 😝 [Love](http://9gag.com/gag/avQj2LM)
- - 💣 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
- - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 😝 [The Dutch labour/green left party. They hear their &lpar;expected&rpar; election results and immediately after they hear PVV and Geert Wilders have won 35 seats.](http://9gag.com/gag/a2KXP19)
+ - 💣 [Technically correct solution](http://9gag.com/gag/a04qAgn)
+ - 😝 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
  - 👉 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)<!-- MEMES:END -->
 
 ---

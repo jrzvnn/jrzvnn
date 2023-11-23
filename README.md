@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/aL15y7v)
- - 😝 [Who would have known?](http://9gag.com/gag/aA05nYR)
- - 💣 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 👉 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)<!-- MEMES:END -->
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 💣 [What do you call such people?](http://9gag.com/gag/aKEM4y3)
+ - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
+ - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
 
 ---
 

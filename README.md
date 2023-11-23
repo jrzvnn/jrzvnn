@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
- - 💣 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
  - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
+ - 💣 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 ---
 

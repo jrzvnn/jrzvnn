@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Q&amp;A with Intel executive VP and GM of Technology Development Ann Kelleher on the company&#39;s new Fab 34 in Ireland, upcoming nodes, Intel&#39;s roadmap, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231123/p15#a231123p15)
  - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Amazon launches Black Friday Apple Watch Ultra 2 deal for $729.99, delivering new record low price](https://appleinsider.com/articles/23/11/23/amazon-launches-black-friday-apple-watch-ultra-2-deal-for-72999-delivering-new-record-low-price?utm_medium=rss)
- - [Unicorn Overlord aims to bring tactical RPGs back to the ‘90s](https://www.theverge.com/2023/11/23/23971097/unicorn-overlord-retro-tactical-rpg-interview-switch-xbox-playstation)
- - [Automotive tech company Valeo sues Nvidia, after an Nvidia engineer accidentally shared data he stole from his former employer Valeo, on a video call with Valeo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p14#a231123p14)<!-- TECH:END -->
+ - [Best Black Friday Deals Under $25: Roku Streamers, Air Fryers, AirTags and More Already Discounted     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
+ - [7 Hacks to Fight Holiday Travel Fatigue This Season     - CNET](https://www.cnet.com/health/sleep/7-hacks-to-fight-holiday-travel-fatigue/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

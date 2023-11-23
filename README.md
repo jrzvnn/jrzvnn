@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Classic](http://9gag.com/gag/a6qRmbm)
- - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
- - 💣 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 😝 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)
- - 👉 [Just a reminder that this masterpiece is exists](http://9gag.com/gag/awZpNB4)<!-- MEMES:END -->
+ - 😝 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
+ - 💣 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)
+ - 😝 [Just a reminder that this masterpiece is exists](http://9gag.com/gag/awZpNB4)
+ - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Deals: 31 Top Picks Curated by Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $100: Everyday Gadgets and Go-to Tech     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
+ - [Best Black Friday Mattress Deals: Save Hundreds on Top Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
  - [Peloton CEO apologizes after Thanksgiving ride struggles with demand](https://www.theverge.com/2023/11/23/23974096/peloton-ceo-apology-thanksgiving-crash)
- - [South Korea plans to start a digital currency pilot in Q4 2024; 100K people will be able to use deposit tokens issued by commercial banks in the form of CBDC &lpar;Lee Yeon-Woo/The Korea Times&rpar;](http://www.techmeme.com/231123/p17#a231123p17)
- - [49ers vs. Seahawks Livestream: How to Watch NFL on Thanksgiving Day Online     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-seahawks-livestream-how-to-watch-nfl-on-thanksgiving-day-online/#ftag=CAD590a51e)
- - [Best Black Friday Laptop Deals: Save on Apple MacBook, Lenovo, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
- - [A few cool things to play and watch over the long weekend](https://www.theverge.com/2023/11/23/23974064/thanksgiving-long-weekend-gaming-streaming-guide)<!-- TECH:END -->
+ - [South Korea plans to start a digital currency pilot in Q4 2024; 100K people will be able to use deposit tokens issued by commercial banks in the form of CBDC &lpar;Lee Yeon-Woo/The Korea Times&rpar;](http://www.techmeme.com/231123/p17#a231123p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

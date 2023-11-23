@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
- - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 💣 [Inside the Las Vegas Sphere](http://9gag.com/gag/anzoYYq)
- - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
- - 👉 [Step 1- Act like a tough guy Step 2- Start retracting your steps Step 3- Call mom dad and cry like a b*tch](http://9gag.com/gag/aeQBNpO)<!-- MEMES:END -->
+ - 😝 [One hell of a drug](http://9gag.com/gag/aXn1562)
+ - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 💣 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [A few hundred Euros fine](http://9gag.com/gag/aPg25nK)<!-- MEMES:END -->
 
 ---
 

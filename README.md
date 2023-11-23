@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
  - [Best Accessories for Better Video With Mirrorless Cameras     - CNET](https://www.cnet.com/tech/computing/best-accessories-for-better-video-with-mirrorless-cameras/#ftag=CAD590a51e)
  - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
  - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)
- - [YouTube and Reels Could Decide India’s Elections](https://www.wired.com/story/youtube-instagram-reels-india-elections/)
- - [B&amp;H Black Friday price drops offer up to $2,900 in savings on Apple](https://appleinsider.com/articles/23/11/22/bh-black-friday-price-drops-offer-up-to-2900-in-savings-on-apple?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube and Reels Could Decide India’s Elections](https://www.wired.com/story/youtube-instagram-reels-india-elections/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic](http://9gag.com/gag/a6qRmbm)
- - 😝 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
- - 💣 [Mind Blowing Sunset](http://9gag.com/gag/anzoeGz)
- - 😝 [Just a reminder that this masterpiece is exists](http://9gag.com/gag/awZpNB4)
- - 👉 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
+ - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 💣 [Inside the Las Vegas Sphere](http://9gag.com/gag/anzoYYq)
+ - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 👉 [Step 1- Act like a tough guy Step 2- Start retracting your steps Step 3- Call mom dad and cry like a b*tch](http://9gag.com/gag/aeQBNpO)<!-- MEMES:END -->
 
 ---
 

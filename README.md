@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the European Commission plans to grant Amazon unconditional antitrust approval for its $1.4B iRobot acquisition, having set a February 14 deadline &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231123/p8#a231123p8)
+ - [My Favorite 3-in-1 Wireless Charger Is a Must-Buy for Apple Fans at $55 Off     - CNET](https://www.cnet.com/deals/my-favorite-3-in-1-wireless-charger-is-a-must-buy-for-apple-fans-at-55-off/#ftag=CAD590a51e)
  - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)
- - [It&#39;s Time to Log Off](https://www.wired.com/story/doomscrolling-bad-news-mental-health/)
- - [Amazon Black Friday Deals: Shop Over 75 Incredible Offers Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Instagram now lets all users download public Reels, after rolling out the feature in the US in June 2023; creators can opt out of downloads &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/231123/p6#a231123p6)
- - [Get a free $40 gift card with this Costco Black Friday membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17.2 Public Beta 3: Journal App, More Could Be on Your iPhone Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-public-beta-3-journal-app-more-could-be-on-your-iphone-soon/#ftag=CAD590a51e)
+ - [Commanders vs. Cowboys Livestream: How to Watch NFL on Thanksgiving Day Online     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-cowboys-livestream-how-to-watch-nfl-on-thanksgiving-day-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

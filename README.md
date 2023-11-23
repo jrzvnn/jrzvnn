@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US asks a court to reverse its decision to let Changpeng Zhao return to the UAE ahead of his February 2024 sentencing, citing his &quot;substantial&quot; flight risk &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/231123/p7#a231123p7)
+ - [It&#39;s Time to Log Off](https://www.wired.com/story/doomscrolling-bad-news-mental-health/)
  - [Amazon Black Friday Deals: Shop Over 75 Incredible Offers Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [Instagram now lets all users download public Reels, after rolling out the feature in the US in June 2023; creators can opt out of downloads &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/231123/p6#a231123p6)
- - [Get a free $40 gift card with this Costco Black Friday membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)
- - [Microsoft, can we please just call it Windows 11.1 already?](https://www.theverge.com/2023/11/23/23973670/microsoft-windows-11-point-release-updates-pretty-please-thank-you-love-tom)
- - [Best Black Friday Deals Under $100: Incredible Deals on Tech, Daily Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a free $40 gift card with this Costco Black Friday membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

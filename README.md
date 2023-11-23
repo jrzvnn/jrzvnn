@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese social platforms like Weibo and Douyin require popular users to reveal their real names, forcing some influencers to either cull their followers or quit &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/231123/p4#a231123p4)
+ - [Save Big on Clothing With Black Friday Deals From DSW, Boden and Others     - CNET](https://www.cnet.com/deals/save-big-on-clothing-with-black-friday-deals-from-dsw-boden-and-others/#ftag=CAD590a51e)
+ - [This Rechargeable Mini Lantern Is My Camping Lighting Source. It&#39;s on Sale This Black Friday     - CNET](https://www.cnet.com/deals/this-mini-rechargeable-lantern-is-my-camping-lighting-source-its-on-sale-this-black-friday/#ftag=CAD590a51e)
  - [Best Accessories for Better Video With Mirrorless Cameras     - CNET](https://www.cnet.com/tech/computing/best-accessories-for-better-video-with-mirrorless-cameras/#ftag=CAD590a51e)
- - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)
- - [Hard Drives, YouTube, and Murder: India’s Dark History of Digital Hate](https://www.wired.com/story/india-election-youtube-murder-dark-history-digital-hate/)
- - [YouTube and Reels Could Decide India’s Elections](https://www.wired.com/story/youtube-instagram-reels-india-elections/)<!-- TECH:END -->
+ - [A profile of Matthew Butterick, a lawyer leading cases against OpenAI, Meta, Stability AI, and others, alleging they broke the law when building their AI tools &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231123/p3#a231123p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

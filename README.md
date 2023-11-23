@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone sales drop in China&#39;s annual Singles Day sales](https://appleinsider.com/articles/23/11/23/iphone-sales-drop-in-chinas-annual-singles-day-sales?utm_medium=rss)
  - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)
- - [FIA, which runs F1, plans to use its Computer Vision tech to tackle track limits breaches at the Abu Dhabi Grand Prix, using shape analysis to count pixels &lpar;Alan Baldwin/Reuters&rpar;](http://www.techmeme.com/231123/p13#a231123p13)
- - [The 17 Best Black Friday Deals on Bluetooth Speakers     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
- - [The Latest Apple Watch SE Is Still Just $179 This Turkey Day     - CNET](https://www.cnet.com/deals/the-latest-apple-watch-se-still-just-179-turkey-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokémon is no longer just a game — it’s a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
+ - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
+ - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

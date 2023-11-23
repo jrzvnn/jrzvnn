@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 8 Pro owners notice circular bumps on the screen; Google says they are &quot;impressions from components&quot; and don&#39;t impact durability or performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p16#a231123p16)
- - [Best Buy Black Friday: Save Hundreds on Sonos, KitchenAid, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: 167 Best Deals Available Now, According to Our Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)
- - [The PS5 Is $50 Off at GameStop. Snag This Black Friday Deal Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/the-ps5-is-50-off-at-gamestop-snag-this-black-friday-deal-before-its-gone/#ftag=CAD590a51e)
- - [PS5 Black Friday Deals: Console Bundles, Game Discounts and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A few cool things to play and watch over the long weekend](https://www.theverge.com/2023/11/23/23974064/thanksgiving-long-weekend-gaming-streaming-guide)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
+ - [Some Pixel 8 Pro owners notice circular bumps on the screen; Google says they are &quot;impressions from components&quot; and don&#39;t impact durability or performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p16#a231123p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

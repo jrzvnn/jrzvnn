@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
+ - 😝 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
+ - 💣 [Japanese Convenience Store Sandwich](http://9gag.com/gag/aDYvREw)
+ - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
+ - 👉 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)<!-- MEMES:END -->
 
 ---
 

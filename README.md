@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 😝 [And what yould you like to drink?](http://9gag.com/gag/aoKwbQe)
- - 💣 [What do you call such people?](http://9gag.com/gag/aKEM4y3)
- - 😝 [Juicy Melons](http://9gag.com/gag/a9q09X6)
- - 👉 [Aren&#39;t we all a little damaged?](http://9gag.com/gag/aWG5wBA)<!-- MEMES:END -->
+ - 😝 [Is that so?](http://9gag.com/gag/awZ2qL1)
+ - 😝 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 💣 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
+ - 😝 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)
+ - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Black Friday Apple Watch Ultra 2 deal for $729.99, delivering new record low price](https://appleinsider.com/articles/23/11/23/amazon-launches-black-friday-apple-watch-ultra-2-deal-for-72999-delivering-new-record-low-price?utm_medium=rss)
  - [Unicorn Overlord aims to bring tactical RPGs back to the ‘90s](https://www.theverge.com/2023/11/23/23971097/unicorn-overlord-retro-tactical-rpg-interview-switch-xbox-playstation)
  - [Automotive tech company Valeo sues Nvidia, after an Nvidia engineer accidentally shared data he stole from his former employer Valeo, on a video call with Valeo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p14#a231123p14)
  - [Apple&#39;s new M3 MacBook Pro 16-inch with 36GB RAM is on sale for $2,649 &lpar;$250 off&rpar;](https://appleinsider.com/articles/23/11/23/apples-new-m3-macbook-pro-16-inch-with-36gb-ram-is-on-sale-for-2649-250-off?utm_medium=rss)
- - [31 Best Black Friday Deals Under $50 &lpar;2023&rpar;: Anker, Google, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2023-1/)
- - [iPhone sales drop in China&#39;s annual Singles Day sales](https://appleinsider.com/articles/23/11/23/iphone-sales-drop-in-chinas-annual-singles-day-sales?utm_medium=rss)<!-- TECH:END -->
+ - [31 Best Black Friday Deals Under $50 &lpar;2023&rpar;: Anker, Google, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

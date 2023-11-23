@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
+ - [Walmart Black Friday Deals: 63 Sales to Shop Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [54 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-2/)
- - [Klarna wins approval to offer credit and payment products in the UK, but not BNPL loans; temporary approval for UK operations post-Brexit expires in five weeks &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231123/p12#a231123p12)
- - [Best Black Friday Headphone Deals: Save Up to $180 on Beats, Apple, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
- - [Score Big on Black Friday Phone Deals: Save Up to $400 on Apple, Google, Samsung and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: 163 Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)
+ - [Best Black Friday Soundbar Deals: Upgrade Your Sound Setup for Less     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

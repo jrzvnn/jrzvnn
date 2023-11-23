@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday software deals: Microsoft Windows, Office, Creative Cloud, Mac app bundles as low as $2.80](https://appleinsider.com/articles/23/11/23/black-friday-software-deals-microsoft-windows-office-creative-cloud-mac-app-bundles-as-low-as-280?utm_medium=rss)
  - [An analysis of 30 posts on X from large accounts with false or misleading claims on the Israel-Hamas war found 200 ads from 86 brands and others below 24 posts &lpar;NewsGuard&rpar;](http://www.techmeme.com/231123/p10#a231123p10)
  - [The best early Black Friday tech deals you can shop right now](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [Urbanista Malibu Review: Superb Solar, Average Audio](https://www.wired.com/review/review-urbanista-malibu-wireless-solar-speaker/)
- - [Dbrand’s new X-Ray skins let you ‘see inside’ 125 different gadgets](https://www.theverge.com/23973605/dbrand-x-ray-skins-light-dark)
- - [A cookbook helped me understand Dragon Age’s origins](https://www.theverge.com/23972932/bioware-dragon-age-cookbook-chocolate-orzammar-nug)<!-- TECH:END -->
+ - [Dbrand’s new X-Ray skins let you ‘see inside’ 125 different gadgets](https://www.theverge.com/23973605/dbrand-x-ray-skins-light-dark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

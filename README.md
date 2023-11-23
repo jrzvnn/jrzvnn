@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday streaming deals on Max, Paramount Plus, Hulu &amp; Peacock drop rates to as low as $0.99 per month](https://appleinsider.com/articles/23/11/23/best-black-friday-streaming-deals-on-max-paramount-plus-hulu-peacock-drop-rates-to-as-low-as-099-per-month?utm_medium=rss)
  - [FIA, which runs F1, plans to use its Computer Vision tech to tackle track limits breaches at the Abu Dhabi Grand Prix, using shape analysis to count pixels &lpar;Alan Baldwin/Reuters&rpar;](http://www.techmeme.com/231123/p13#a231123p13)
- - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
- - [Walmart Black Friday Deals: 63 Sales to Shop Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [54 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-2/)
- - [Black Friday 2023 Live Blog: 163 Best Deals and Sales Happening Now, According to Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Black Friday Deals on Bluetooth Speakers     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
+ - [The Latest Apple Watch SE Is Still Just $179 This Turkey Day     - CNET](https://www.cnet.com/deals/the-latest-apple-watch-se-still-just-179-turkey-day/#ftag=CAD590a51e)
+ - [The Top Black Friday iPad Deals of 2023: Get Up to $100 Off on Apple Tablets     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

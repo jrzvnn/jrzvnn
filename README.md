@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Up down, up down , up down](http://9gag.com/gag/anzwA6E)
- - 😝 [This one goes out to the Village Idiot](http://9gag.com/gag/a4o09ZQ)
- - 💣 [Who would have known?](http://9gag.com/gag/aA05nYR)
- - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
+ - 😝 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)
+ - 💣 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
+ - 😝 [The Dutch labour/green left party. They hear their &lpar;expected&rpar; election results and immediately after they hear PVV and Geert Wilders have won 35 seats.](http://9gag.com/gag/a2KXP19)
+ - 👉 [I still feel bad for this guy. He was so happy to share his weight loss...](http://9gag.com/gag/avQwYeW)<!-- MEMES:END -->
 
 ---
 

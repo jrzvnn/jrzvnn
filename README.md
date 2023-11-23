@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)
- - 😝 [Noce Education system..lol](http://9gag.com/gag/aXnO0RV)
- - 💣 [Brutal](http://9gag.com/gag/aWGXZK6)
- - 😝 [Smack my b*tch up](http://9gag.com/gag/aMEL11V)
- - 👉 [Well well well](http://9gag.com/gag/aoK7zo2)<!-- MEMES:END -->
+ - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
+ - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 👉 [There is no break :&lpar;](http://9gag.com/gag/aGEQ9bZ)<!-- MEMES:END -->
 
 ---
 

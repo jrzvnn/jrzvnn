@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram now lets all users download public Reels, after rolling out the feature in the US in June 2023; creators can opt out of downloads &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/231123/p6#a231123p6)
+ - [Get a free $40 gift card with this Costco Black Friday membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)
  - [Microsoft, can we please just call it Windows 11.1 already?](https://www.theverge.com/2023/11/23/23973670/microsoft-windows-11-point-release-updates-pretty-please-thank-you-love-tom)
  - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [Google updates Google Meet to recognize gestures in meetings, including raising a hand to trigger the &quot;Raise hand&quot; button; the feature is off by default &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p5#a231123p5)
- - [Screensharing mistake gets Nvidia sued over alleged stolen trade secrets](https://www.theverge.com/2023/11/23/23973673/valeo-nvidia-autonomous-driving-software-ip-theft-lawsuit)
- - [Best Black Friday Deals Under $50: Save Big on Tech, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates Google Meet to recognize gestures in meetings, including raising a hand to trigger the &quot;Raise hand&quot; button; the feature is off by default &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231123/p5#a231123p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

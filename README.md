@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)
- - [Get the best Black Friday iMac deals on new M3 models &amp; Magic accessories](https://appleinsider.com/articles/23/11/24/get-the-best-black-friday-imac-deals-on-new-m3-models-magic-accessories?utm_medium=rss)
  - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-1/)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
+ - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
+ - [Best Black Friday headphone deals drop AirPods Pro 2 to $189, plus up to $130 off Bose &amp; Sony](https://appleinsider.com/articles/23/11/24/best-black-friday-headphone-deals-drop-airpods-pro-2-to-189-plus-up-to-130-off-bose-sony?utm_medium=rss)
+ - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)
+ - [Get the best Black Friday iMac deals on new M3 models &amp; Magic accessories](https://appleinsider.com/articles/23/11/24/get-the-best-black-friday-imac-deals-on-new-m3-models-magic-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

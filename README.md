@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
  - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 💣 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 😝 [Love](http://9gag.com/gag/avQj2LM)
- - 👉 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)<!-- MEMES:END -->
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 👉 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)<!-- MEMES:END -->
 
 ---
 

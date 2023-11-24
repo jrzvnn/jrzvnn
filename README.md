@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Deal Zone: 16-inch MacBook Pro M1 Max, 64GB RAM, 4TB SSD drops to $2,799](https://appleinsider.com/articles/23/11/24/black-friday-deal-zone-16-inch-macbook-pro-m1-max-64gb-ram-4tb-ssd-drops-to-2799?utm_medium=rss)
+ - [101 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
  - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)
- - [It&#39;s Thanksgiving, but Walmart&#39;s Black Friday Sale Is Already Going Strong     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)
- - [Early Black Friday Deals Under $25: Streamers, Air Fryers, AirTags and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)<!-- TECH:END -->
+ - [Early Black Friday 2023 Live Blog: Over 100 Best Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)
+ - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Upgrade to the Nintendo Switch OLED and Save $40 This Black Friday     - CNET](https://www.cnet.com/deals/upgrade-to-the-nintendo-switch-oled-and-save-40-this-black-friday/#ftag=CAD590a51e)
- - [17 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023/)
  - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Black Friday 2023 Live Blog: More Than 100 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Lego sales for Black Friday, get big savings on giant sets](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
+ - [Go on a Psychedelic Journey of the Internet&#39;s Growth and Evolution](https://www.wired.com/story/ipv6-data-visualization/)
+ - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
+ - [Upgrade to the Nintendo Switch OLED and Save $40 This Black Friday     - CNET](https://www.cnet.com/deals/upgrade-to-the-nintendo-switch-oled-and-save-40-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

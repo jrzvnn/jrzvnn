@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
  - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 💣 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)<!-- MEMES:END -->
 
 ---
 

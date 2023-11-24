@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Frame TV Black Friday Deals Save You as Much as $1,000     - CNET](https://www.cnet.com/deals/samsung-frame-tv-black-friday-deals-1000-off/#ftag=CAD590a51e)
- - [Black Friday Deals: $200 off M2 MacBook Air, AirPods for $79.99, $999 Acer Nitro 5 Gaming Laptop, more](https://appleinsider.com/articles/23/11/24/black-friday-deals-200-off-m2-macbook-air-airpods-for-7999-999-acer-nitro-5-gaming-laptop-more?utm_medium=rss)
- - [21 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023/)
- - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
- - [Kuxiu foldable magnetic wireless chargers review: excellent compact travel chargers](https://appleinsider.com/articles/23/11/24/kuxiu-foldable-magnetic-wireless-chargers-review-excellent-compact-travel-chargers?utm_medium=rss)<!-- TECH:END -->
+ - [Get the best iPhone Black Friday deals from AT&amp;T, Verizon &amp; T-Mobile](https://appleinsider.com/articles/23/11/24/get-the-best-iphone-black-friday-deals-from-att-verizon-t-mobile?utm_medium=rss)
+ - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
+ - [16 Best Black Friday Pet Deals &lpar;2023&rpar;: Automatic Litter Boxes, Dog Beds](https://www.wired.com/story/best-black-friday-pet-deals-2023/)
+ - [Samsung Frame TV Black Friday Deals Save You as Much as $1,000     - CNET](https://www.cnet.com/deals/samsung-frame-tv-black-friday-deals-1000-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

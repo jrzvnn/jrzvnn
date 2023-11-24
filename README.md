@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Black Friday AirTag deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/24/amazons-black-friday-airtag-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [The best gaming deals for Black Friday 2023](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [85 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)<!-- TECH:END -->
+ - [The best gaming deals for Black Friday 2023](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

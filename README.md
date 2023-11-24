@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
+ - [Upgrade to the Nintendo Switch OLED and Save $40 This Black Friday     - CNET](https://www.cnet.com/deals/upgrade-to-the-nintendo-switch-oled-and-save-40-this-black-friday/#ftag=CAD590a51e)
  - [17 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023/)
  - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [124 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Foxconn founder Terry Gou drops out of Taiwan&#39;s presidential race, saying &quot;I choose to sacrifice myself for the greater good&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231124/p2#a231124p2)
- - [The PS5 Is $50 Off at Amazon. Snag This Black Friday Deal Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/the-ps5-is-50-off-at-amazon-snag-this-black-friday-deal-before-its-gone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: More Than 100 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

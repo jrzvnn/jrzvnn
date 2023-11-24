@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [16 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023/)
- - [Best Black Friday Deals Under $25: Tech, Toys, Air Fryers, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
  - [15 Best Black Friday TV Deals &lpar;2023&rpar;: TCL, Samsung, LG, Sony](https://www.wired.com/story/best-black-friday-tv-deals-2023/)
  - [My Favorite Baby Bassinet Is $210 During Black Friday Sales     - CNET](https://www.cnet.com/deals/my-favorite-baby-bassinet-is-210-during-black-friday-sales/#ftag=CAD590a51e)
- - [What Time Does Black Friday Start? Opening Hours for Target, Walmart and More Stores     - CNET](https://www.cnet.com/culture/what-time-does-black-friday-start-heres-when-target-walmart-and-more-stores-open/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Time Does Black Friday Start? Opening Hours for Target, Walmart and More Stores     - CNET](https://www.cnet.com/culture/what-time-does-black-friday-start-heres-when-target-walmart-and-more-stores-open/#ftag=CAD590a51e)
+ - [Apple Black Friday Deals: Snag AirPods, Apple Watch, iPad and Much More on Discount     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

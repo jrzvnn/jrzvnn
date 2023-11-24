@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals: 31 Top Picks Curated by Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Best Black Friday Deals Under $100: Everyday Gadgets and Go-to Tech     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
- - [Best Black Friday Mattress Deals: Save Hundreds on Top Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
- - [Peloton CEO apologizes after Thanksgiving ride struggles with demand](https://www.theverge.com/2023/11/23/23974096/peloton-ceo-apology-thanksgiving-crash)
- - [South Korea plans to start a digital currency pilot in Q4 2024; 100K people will be able to use deposit tokens issued by commercial banks in the form of CBDC &lpar;Lee Yeon-Woo/The Korea Times&rpar;](http://www.techmeme.com/231123/p17#a231123p17)<!-- TECH:END -->
+ - [US lawmakers scramble to enact measures to punish people targeting women with AI-generated nudes, amid a rise of such cases involving teen girls worldwide &lpar;NBC News&rpar;](http://www.techmeme.com/231123/p18#a231123p18)
+ - [Apple Black Friday Deals: Must-Grab Deals on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [Best Black Friday Robot Vacuum Deals: Score Savings Early on Roomba, Shark and Others     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [Walmart Black Friday Deals: 62 Sales You Can Buy Now     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Best Black Friday Headphone Deals: Save Up to $180 on Apple, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

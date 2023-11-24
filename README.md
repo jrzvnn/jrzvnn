@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 😝 [Hey Snow, Nice to meet you.](http://9gag.com/gag/aBdeYWD)
- - 💣 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 😝 [Since the mainstream media hides the news from you, I will show them to you:](http://9gag.com/gag/az23VNZ)
- - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
+ - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
 
 ---
 

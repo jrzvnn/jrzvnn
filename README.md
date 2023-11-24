@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
- - 💣 [We like wahmen](http://9gag.com/gag/aqeEmz7)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
  - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
+ - 💣 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
 
 ---
 

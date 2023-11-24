@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [59 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
  - [The 29 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
  - [FOIA docs: Prashant Bhardwaj, hired in March as the US OCC&#39;s first officer to police fintech firms, lied about his work history; OCC quietly replaced Bhardwaj &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/231124/p9#a231124p9)<!-- TECH:END -->

@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [OpenAI Fiasco, Tim Cook&#39;s successor, and Apple Vision Pro Questions on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/24/openai-fiasco-tim-cooks-successor-and-apple-vision-pro-questions-on-the-appleinsider-podcast?utm_medium=rss)
  - [Alibaba overhauls its cloud computing unit, with an emphasis on public cloud, hybrid cloud, and cloud infrastructure divisions, after scrapping the unit&#39;s IPO &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231124/p4#a231124p4)
  - [19 Best Black Friday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-black-friday-headphone-deals-2023/)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
+ - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/hallmark-channel-countdown-to-christmas-streaming-wars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

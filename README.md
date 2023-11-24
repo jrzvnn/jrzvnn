@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casetify busted stealing iPhone case designs from dbrand](https://appleinsider.com/articles/23/11/24/casetify-busted-stealing-iphone-case-designs-from-dbrand?utm_medium=rss)
+ - [With $18.12B in revenue and $10.42B in operating profit in Q3, Nvidia becomes the world&#39;s biggest chip maker, beating TSMC and Intel for the top spot &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231124/p7#a231124p7)
  - [Get the best iPhone Black Friday deals from AT&amp;T, Verizon &amp; T-Mobile](https://appleinsider.com/articles/23/11/24/get-the-best-iphone-black-friday-deals-from-att-verizon-t-mobile?utm_medium=rss)
  - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
- - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [16 Best Black Friday Pet Deals &lpar;2023&rpar;: Automatic Litter Boxes, Dog Beds](https://www.wired.com/story/best-black-friday-pet-deals-2023/)
- - [Samsung Frame TV Black Friday Deals Save You as Much as $1,000     - CNET](https://www.cnet.com/deals/samsung-frame-tv-black-friday-deals-1000-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

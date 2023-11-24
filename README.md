@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
- - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 😝 [Hey Snow, Nice to meet you.](http://9gag.com/gag/aBdeYWD)
+ - 💣 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
+ - 😝 [Since the mainstream media hides the news from you, I will show them to you:](http://9gag.com/gag/az23VNZ)
+ - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---
 

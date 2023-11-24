@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Black Friday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-black-friday-headphone-deals-2023/)
- - [The best Black Friday 2023 phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
- - [26 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
- - [Internal docs: X may lose ~$75M in ad revenue by 2023 end as Amazon, Microsoft, and other major brands halted or consider halting ads; X says it may lose $11M &lpar;New York Times&rpar;](http://www.techmeme.com/231124/p12#a231124p12)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
+ - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [Best Black Friday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [Amazon Knocks 29% off Price on Beats&#39; Latest Noise-Canceling Earbuds at the Black Friday NFL Game     - CNET](https://www.cnet.com/deals/40-off-beats-studio-buds-plus-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

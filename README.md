@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
  - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
+ - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
 
 ---
 

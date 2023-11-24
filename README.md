@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
+ - 😝 [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

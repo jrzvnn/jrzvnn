@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AirPods Black Friday deals deliver prices as low as $79.99](https://appleinsider.com/articles/23/11/24/best-airpods-black-friday-deals-deliver-prices-as-low-as-7999?utm_medium=rss)
- - [Some X ‘misinformation super-spreaders’ may be eligible for ads payouts](https://www.theverge.com/2023/11/24/23973876/x-misinformation-revenue-sharing-israel-hamas-premium-subscriber-blue-checkmarks-verified)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [10 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023/)
- - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)<!-- TECH:END -->
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
+ - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [21 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
+ - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
+ - [Best AirPods Black Friday deals deliver prices as low as $79.99](https://appleinsider.com/articles/23/11/24/best-airpods-black-friday-deals-deliver-prices-as-low-as-7999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

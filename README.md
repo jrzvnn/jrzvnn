@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 💣 [We like wahmen](http://9gag.com/gag/aqeEmz7)
- - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)<!-- MEMES:END -->
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 😝 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
+ - 💣 [A true legend](http://9gag.com/gag/aL1EP0M)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 👉 [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)<!-- MEMES:END -->
 
 ---
 

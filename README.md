@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
+ - [Ubisoft blames ‘technical error’ for showing pop-up ads in Assassin’s Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
  - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
  - [Best Lego sales for Black Friday, get big savings on giant sets](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
- - [Go on a Psychedelic Journey of the Internet&#39;s Growth and Evolution](https://www.wired.com/story/ipv6-data-visualization/)
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off this Black Friday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/24/every-m3-macbook-pro-imac-is-up-to-250-off-this-black-friday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Upgrade to the Nintendo Switch OLED and Save $40 This Black Friday     - CNET](https://www.cnet.com/deals/upgrade-to-the-nintendo-switch-oled-and-save-40-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Go on a Psychedelic Journey of the Internet&#39;s Growth and Evolution](https://www.wired.com/story/ipv6-data-visualization/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

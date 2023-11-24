@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 💣 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 😝 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
+ - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 💣 [You CAN Do Pushups](http://9gag.com/gag/axorZYD)
+ - 😝 [A true legend](http://9gag.com/gag/aL1EP0M)
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

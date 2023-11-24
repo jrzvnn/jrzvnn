@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
- - 😝 [AAAAAAAAAAAAAAAAAAAA](http://9gag.com/gag/a5XYPEO)
- - 💣 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
- - 😝 [We like wahmen](http://9gag.com/gag/aqeEmz7)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 💣 [We like wahmen](http://9gag.com/gag/aqeEmz7)
+ - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
 
 ---
 

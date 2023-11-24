@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [124 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Foxconn founder Terry Gou drops out of Taiwan&#39;s presidential race saying &quot;I choose to sacrifice myself for the greater good&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231124/p2#a231124p2)
+ - [Foxconn founder Terry Gou drops out of Taiwan&#39;s presidential race, saying &quot;I choose to sacrifice myself for the greater good&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231124/p2#a231124p2)
+ - [The PS5 Is $50 Off at Amazon. Snag This Black Friday Deal Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/the-ps5-is-50-off-at-amazon-snag-this-black-friday-deal-before-its-gone/#ftag=CAD590a51e)
  - [Sources: Nvidia told its Chinese customers it&#39;s delaying the launch of H20, its most powerful of three AI chips designed to comply with US&#39; ban, until Q1 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/231124/p1#a231124p1)
- - [54 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-2/)
- - [16 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023/)<!-- TECH:END -->
+ - [TCL 40 X 5G Review: Not Much More Than a Black Friday Deal     - CNET](https://www.cnet.com/tech/mobile/tcl-40-x-5g-review-not-much-more-than-a-black-friday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

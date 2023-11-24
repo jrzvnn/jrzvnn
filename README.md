@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday 2023 phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
+ - [26 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
+ - [Internal docs: X may lose ~$75M in ad revenue by 2023 end as Amazon, Microsoft, and other major brands halted or consider halting ads; X says it may lose $11M &lpar;New York Times&rpar;](http://www.techmeme.com/231124/p12#a231124p12)
  - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [28 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
- - [China&#39;s Sunway unveils new CPUs with a maximum FP64 throughput of 13.8 TFLOPS, which could let China build high-performance supercomputers despite US sanctions &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231124/p11#a231124p11)
- - [84 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
+ - [28 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

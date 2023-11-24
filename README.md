@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 💣 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
- - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
+ - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 💣 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 👉 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)<!-- MEMES:END -->
 
 ---
 

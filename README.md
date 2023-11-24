@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Thanksgiving, but Walmart&#39;s Black Friday Sale Is Already Going Strong     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)
- - [Early Black Friday Deals Under $25: Streamers, Air Fryers, AirTags and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
+ - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)
+ - [TK Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
  - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
  - [Denver-based healthcare software provider Welltok reports a July 2023 data breach exposed ~8.5M US patients&#39; data, making it the second largest MOVEit breach &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231123/p19#a231123p19)
  - [Early PS5 Black Friday Deals: Consoles, Games and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-1/)
  - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [Casetify busted stealing iPhone case designs from dbrand](https://appleinsider.com/articles/23/11/24/casetify-busted-stealing-iphone-case-designs-from-dbrand?utm_medium=rss)
- - [With $18.12B in revenue and $10.42B in operating profit in Q3, Nvidia becomes the world&#39;s biggest chip maker, beating TSMC and Intel for the top spot &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231124/p7#a231124p7)
- - [Get the best iPhone Black Friday deals from AT&amp;T, Verizon &amp; T-Mobile](https://appleinsider.com/articles/23/11/24/get-the-best-iphone-black-friday-deals-from-att-verizon-t-mobile?utm_medium=rss)<!-- TECH:END -->
+ - [Best Black Friday AirPods Deals: Snag Big Savings on AirPods, Beats and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)
+ - [The Best 3D Printer Tested By Our Experts is Down to $599 This Black Friday     - CNET](https://www.cnet.com/deals/the-best-3d-printer-tested-by-our-experts-is-down-to-599-this-black-friday/#ftag=CAD590a51e)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

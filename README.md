@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [Early Black Friday 2023 Live Blog: Over 100 Best Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-thanksgiving/#ftag=CAD590a51e)
  - [Tech entrepreneur Anthony Levandowski says he&#39;s rebooting his AI-focused church, Way of the Future, and that the congregation has &quot;a couple thousand people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231123/p20#a231123p20)
- - [TK Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
- - [It&#39;s Thanksgiving, but Walmart&#39;s Black Friday Sale Is Already Going Strong     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s Thanksgiving, but Walmart&#39;s Black Friday Sale Is Already Going Strong     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)
+ - [Early Black Friday Deals Under $25: Streamers, Air Fryers, AirTags and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
+ - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

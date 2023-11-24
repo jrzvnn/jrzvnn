@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
- - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 💣 [Here we go again\u2026](http://9gag.com/gag/a8qgbm6)
+ - 😝 [This guy is a master at negotiation](http://9gag.com/gag/aQEj6M7)
+ - 😝 [Guy knows what he was doing](http://9gag.com/gag/aA09RM0)
+ - 💣 [We like wahmen](http://9gag.com/gag/aqeEmz7)
  - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
+ - 👉 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)<!-- MEMES:END -->
 
 ---
 

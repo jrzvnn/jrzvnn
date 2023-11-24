@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers scramble to enact measures to punish people targeting women with AI-generated nudes, amid a rise of such cases involving teen girls worldwide &lpar;NBC News&rpar;](http://www.techmeme.com/231123/p18#a231123p18)
- - [Apple Black Friday Deals: Must-Grab Deals on AirPods, Apple Watch, iPad and Much More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Best Black Friday Robot Vacuum Deals: Score Savings Early on Roomba, Shark and Others     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-robot-vacuum-deals/#ftag=CAD590a51e)
- - [Walmart Black Friday Deals: 62 Sales You Can Buy Now     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Best Black Friday Headphone Deals: Save Up to $180 on Apple, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
+ - [Denver-based healthcare software provider Welltok reports a July 2023 data breach exposed ~8.5M US patients&#39; data, making it the second largest MOVEit breach &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231123/p19#a231123p19)
+ - [Best Early Black Friday Nintendo Switch Deals: Save on Consoles, Games and Storage     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [Best Black Friday TV Deals: Grab This 55-Inch TCL Roku TV for $188 Before It Sells Out     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
+ - [Here are the Best Black Friday Deals on Airpods, Beats and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

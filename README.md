@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Favorite Baby Bassinet Is $210 During Black Friday Sales     - CNET](https://www.cnet.com/deals/my-favorite-baby-bassinet-is-210-during-black-friday-sales/#ftag=CAD590a51e)
+ - [What Time Does Black Friday Start? Opening Hours for Target, Walmart and More Stores     - CNET](https://www.cnet.com/culture/what-time-does-black-friday-start-heres-when-target-walmart-and-more-stores-open/#ftag=CAD590a51e)
+ - [Apple Black Friday Deals: Snag AirPods, Apple Watch, iPad and Much More on Discount     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
  - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
- - [The Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
- - [Best Early Black Friday Deals Under $25: Streamers, Air Fryers, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)
- - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

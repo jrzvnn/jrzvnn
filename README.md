@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A strange, short journey through Shein’s world](https://www.theverge.com/23970758/shein-forever-21-pop-up-new-york-fast-fashion)
+ - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/story/hallmark-channel-countdown-to-christmas-streaming-wars/)
  - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)
  - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
- - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)
- - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [Act fast to save 30% on CleanMyMac X today only](https://appleinsider.com/articles/23/11/24/act-fast-to-save-30-on-cleanmymac-x-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

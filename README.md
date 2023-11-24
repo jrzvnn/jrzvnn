@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
  - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
  - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
+ - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
- - 😝 [There is an outpouring of rage on the streets of Dublin, Ireland as the people demand action against mass immigration following a mass stabbing incident against children by an Algerian migrant.](http://9gag.com/gag/aBdeQBN)
- - 💣 [Neither do Arabs and Africans. There I said it.](http://9gag.com/gag/ay2Kpo8)
- - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 👉 [You CAN Do Pushups](http://9gag.com/gag/axorZYD)<!-- MEMES:END -->
+ - 😝 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
 
 ---
 

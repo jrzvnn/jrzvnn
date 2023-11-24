@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
+ - [My Awesome Razer Naga Pro Gaming Mouse Is Down to $85 for Black Friday     - CNET](https://www.cnet.com/deals/my-awesome-razer-naga-pro-gaming-mouse-is-down-to-85-for-black-friday/#ftag=CAD590a51e)
+ - [85 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
  - [Best Black Friday headphone deals drop AirPods Pro 2 to $189, plus up to $130 off Bose &amp; Sony](https://appleinsider.com/articles/23/11/24/best-black-friday-headphone-deals-drop-airpods-pro-2-to-189-plus-up-to-130-off-bose-sony?utm_medium=rss)
- - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)
- - [Get the best Black Friday iMac deals on new M3 models &amp; Magic accessories](https://appleinsider.com/articles/23/11/24/get-the-best-black-friday-imac-deals-on-new-m3-models-magic-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Grab an Oura Ring During This Black Friday Sale     - CNET](https://www.cnet.com/deals/grab-an-oura-ring-during-this-black-friday-sale/#ftag=CAD590a51e)
+ - [Filing: Nvidia says regulators in the EU and China requested information about its sale of GPUs and how it allocates their supply &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/231124/p8#a231124p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
+ - [Branch Furniture&#39;s Black Friday Sale Brings Best Pricing of the Year for Chairs, Desks and More     - CNET](https://www.cnet.com/news/branch-furnitures-early-black-friday-sale-brings-best-pricing-of-the-year-for-chairs-desks-and-more/#ftag=CAD590a51e)
+ - [Black Friday Board Game Deals: Save on 22 Amazing RPGs, Strategy Games, Card Games and More     - CNET](https://www.cnet.com/deals/best-black-friday-board-game-deals/#ftag=CAD590a51e)
  - [26 Best Black Friday Soundbar Deals &lpar;2023&rpar;: Samsung, LG, Vizio](https://www.wired.com/story/best-black-friday-soundbar-deals-2023/)
- - [161 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)<!-- TECH:END -->
+ - [161 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

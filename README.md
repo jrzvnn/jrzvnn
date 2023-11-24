@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here we go again\u2026](http://9gag.com/gag/a8qgbm6)
- - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
- - 💣 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
- - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 👉 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)<!-- MEMES:END -->
+ - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
+ - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 💣 [Here we go again\u2026](http://9gag.com/gag/a8qgbm6)
+ - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 👉 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)<!-- MEMES:END -->
 
 ---
 

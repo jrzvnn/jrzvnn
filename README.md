@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [28 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
  - [China&#39;s Sunway unveils new CPUs with a maximum FP64 throughput of 13.8 TFLOPS, which could let China build high-performance supercomputers despite US sanctions &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231124/p11#a231124p11)
  - [84 Best Black Friday Tech Deals &lpar;2023&rpar;: Folding Phones, Laptops, Headphones](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [20 Best Black Friday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-black-friday-tv-deals-2023/)
- - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

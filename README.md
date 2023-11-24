@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
  - 😝 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
- - 💣 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
  - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
- - 👉 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)<!-- MEMES:END -->
+ - 👉 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)<!-- MEMES:END -->
 
 ---
 

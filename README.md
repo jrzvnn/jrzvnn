@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [[No title]](http://9gag.com/gag/a9qG7YZ)
  - 😝 [A true legend](http://9gag.com/gag/aL1EP0M)
- - 💣 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
  - 😝 [Irish men confront immigrants who tried to use tonight&#39;s riots in Dublin as an opportunity to loot stores](http://9gag.com/gag/aQEjnMw)
+ - 💣 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 😝 [[No title]](http://9gag.com/gag/a9qG7YZ)
  - 👉 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)<!-- MEMES:END -->
 
 ---

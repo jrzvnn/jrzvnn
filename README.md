@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
  - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-1/)
  - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
  - [Best Black Friday AirPods Deals: Snag Big Savings on AirPods, Beats and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)
- - [The Best 3D Printer Tested By Our Experts is Down to $599 This Black Friday     - CNET](https://www.cnet.com/deals/the-best-3d-printer-tested-by-our-experts-is-down-to-599-this-black-friday/#ftag=CAD590a51e)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
+ - [The Best 3D Printer Tested By Our Experts is Down to $599 This Black Friday     - CNET](https://www.cnet.com/deals/the-best-3d-printer-tested-by-our-experts-is-down-to-599-this-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

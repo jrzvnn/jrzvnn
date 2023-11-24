@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [Filing: Berkshire Hathaway sold its shares in the Paytm-parent firm One97 Communications, booking a loss of about 40% on its 2018 investment of ~$260M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231124/p6#a231124p6)
  - [A strange, short journey through Shein’s world](https://www.theverge.com/23970758/shein-forever-21-pop-up-new-york-fast-fashion)
  - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/story/hallmark-channel-countdown-to-christmas-streaming-wars/)
- - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)
- - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
- - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)<!-- TECH:END -->
+ - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

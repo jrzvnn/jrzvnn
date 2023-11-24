@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [92 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
+ - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
  - [The UK and South Korea warn that the North Korean Lazarus hacking group is using a zero-day in the authentication software MagicLine4NX for supply-chain attacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231124/p10#a231124p10)
  - [59 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
- - [These 17 Black Friday Laptop Deals Are the Best We&#39;ve Found From Apple, Lenovo, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
- - [The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Best Black Friday 3D Printer Deals: 13 Significant Savings on Printers and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 17 Black Friday Laptop Deals Are the Best We&#39;ve Found From Apple, Lenovo, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

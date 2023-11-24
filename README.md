@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aoK7zo2)
  - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 💣 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
- - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
+ - 😝 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 👉 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
+ - [Kuxiu foldable magnetic wireless chargers review: excellent compact travel chargers](https://appleinsider.com/articles/23/11/24/kuxiu-foldable-magnetic-wireless-chargers-review-excellent-compact-travel-chargers?utm_medium=rss)
  - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [21 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
- - [The Verge’s guide to Black Friday 2023](https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023)
  - [Best AirPods Black Friday deals deliver prices as low as $79.99](https://appleinsider.com/articles/23/11/24/best-airpods-black-friday-deals-deliver-prices-as-low-as-7999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [26 Best Black Friday Soundbar Deals &lpar;2023&rpar;: Samsung, LG, Vizio](https://www.wired.com/story/best-black-friday-soundbar-deals-2023/)
  - [161 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
  - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
  - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Best Black Friday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)<!-- TECH:END -->
+ - [The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

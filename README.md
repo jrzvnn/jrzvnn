@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
  - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
  - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
 
 ---
 

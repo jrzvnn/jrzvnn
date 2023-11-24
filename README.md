@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 😝 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
- - 💣 [A true legend](http://9gag.com/gag/aL1EP0M)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 👉 [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)<!-- MEMES:END -->
+ - 😝 [Nobody convincing me otherwise](http://9gag.com/gag/aKE5b96)
+ - 😝 [Another biker who thinks the street is his...](http://9gag.com/gag/ay2K53r)
+ - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 😝 [IDF start pumping sea water into HAMAS tunnels.. what took them so long??](http://9gag.com/gag/aWGXBqK)
+ - 👉 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)<!-- MEMES:END -->
 
 ---
 

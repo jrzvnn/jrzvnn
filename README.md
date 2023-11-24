@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
  - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
+ - 😝 [Since the mainstream media hides the news from you, I will show them to you:](http://9gag.com/gag/az23VNZ)
+ - 💣 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
+ - 👉 [Hey Snow, Nice to meet you.](http://9gag.com/gag/aBdeYWD)<!-- MEMES:END -->
 
 ---
 

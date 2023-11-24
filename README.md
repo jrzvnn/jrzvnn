@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 😝 [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)
- - 💣 [Irish citizens confront journalists who called them `Far Right racists` after mass stabbing of children by immigrants.](http://9gag.com/gag/a4o090y)
- - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 👉 [You CAN Do Pushups](http://9gag.com/gag/axorZYD)<!-- MEMES:END -->
+ - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
+ - 😝 [Killing a child just because you got flipped off is crazy tbh](http://9gag.com/gag/amAwD46)
+ - 💣 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
+ - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
+ - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
 
 ---
 

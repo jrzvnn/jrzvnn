@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 😝 [Episodes 7-9 were garbage](http://9gag.com/gag/ap9MqxE)
- - 💣 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
- - 😝 [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)
- - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
+ - 😝 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)
+ - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
+ - 💣 [Using Tape to Open a Car Window; Does this Actually Work? \ud83e\udd14](http://9gag.com/gag/anzoeZn)
+ - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 👉 [I think abt this everyday. there\u2019s no fun websites anymore. just social media and shopping](http://9gag.com/gag/aZDYWVW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [47 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-2/)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Best Black Friday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
- - [Best Black Friday 2023 phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
- - [The best Black Friday deals you can grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)<!-- TECH:END -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/hallmark-channel-countdown-to-christmas-streaming-wars/)
+ - [How to Measure the Impact From a Collision](https://www.wired.com/story/how-to-measure-the-impact-from-a-collision/)
+ - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [Grab an M2 Mac mini for just $499 in a Black Friday price war](https://appleinsider.com/articles/23/11/24/grab-an-m2-mac-mini-for-just-499-in-a-black-friday-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

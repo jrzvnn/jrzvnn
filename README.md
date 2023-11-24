@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Montenegro court approves the extradition of Terraform Labs co-founder Do Kwon; the justice minister will decide if he will go to South Korea or the US &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231124/p3#a231124p3)
- - [Casetify busted stealing iPhone case designs from dbrand](https://appleinsider.com/articles/23/11/24/casetify-busted-stealing-iphone-case-designs-from-dbrand?utm_medium=rss)
  - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
- - [Ubisoft blames ‘technical error’ for showing pop-up ads in Assassin’s Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)<!-- TECH:END -->
+ - [55 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [How to Switch to the Desktop Versions of Your Favorite Mobile Sites](https://www.wired.com/story/how-to-switch-desktop-version-mobile-site/)
+ - [A Montenegro court approves the extradition of Terraform Labs co-founder Do Kwon; the justice minister will decide if he will go to South Korea or the US &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231124/p3#a231124p3)
+ - [Casetify busted stealing iPhone case designs from dbrand](https://appleinsider.com/articles/23/11/24/casetify-busted-stealing-iphone-case-designs-from-dbrand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

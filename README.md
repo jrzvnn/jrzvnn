@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After users complained about seeing a fullscreen pop-up ad in Assassin&#39;s Creed Odyssey on both Xbox and PlayStation, Ubisoft blames a &quot;technical error&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231124/p5#a231124p5)
+ - [Best Black Friday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
  - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)
  - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [Act fast to save 30% on CleanMyMac X today only](https://appleinsider.com/articles/23/11/24/act-fast-to-save-30-on-cleanmymac-x-today-only?utm_medium=rss)
- - [OpenAI Fiasco, Tim Cook&#39;s successor, and Apple Vision Pro Questions on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/24/openai-fiasco-tim-cooks-successor-and-apple-vision-pro-questions-on-the-appleinsider-podcast?utm_medium=rss)
- - [Alibaba overhauls its cloud computing unit, with an emphasis on public cloud, hybrid cloud, and cloud infrastructure divisions, after scrapping the unit&#39;s IPO &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231124/p4#a231124p4)<!-- TECH:END -->
+ - [Act fast to save 30% on CleanMyMac X today only](https://appleinsider.com/articles/23/11/24/act-fast-to-save-30-on-cleanmymac-x-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

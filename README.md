@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023/)
  - [B&amp;H launches $1,749 M3 Pro MacBook Pro deal, plus more steep Apple discounts](https://appleinsider.com/articles/23/11/24/bh-launches-1749-m3-pro-macbook-pro-deal-plus-more-steep-apple-discounts?utm_medium=rss)
  - [B&amp;H Photo Black Friday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
  - [Black Friday Deal Zone: 16-inch MacBook Pro M1 Max, 64GB RAM, 4TB SSD drops to $2,799](https://appleinsider.com/articles/23/11/24/black-friday-deal-zone-16-inch-macbook-pro-m1-max-64gb-ram-4tb-ssd-drops-to-2799?utm_medium=rss)
- - [101 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [101 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

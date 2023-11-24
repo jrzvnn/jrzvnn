@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
  - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
+ - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

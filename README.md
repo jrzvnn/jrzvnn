@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dbrand is suing Casetify for ripping off its Teardown designs](https://www.theverge.com/2023/11/23/23958788/dbrand-casetify-lawsuit-teardown-skins-copyright)
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
  - [Act fast to save 30% on CleanMyMac X today only](https://appleinsider.com/articles/23/11/24/act-fast-to-save-30-on-cleanmymac-x-today-only?utm_medium=rss)
  - [OpenAI Fiasco, Tim Cook&#39;s successor, and Apple Vision Pro Questions on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/24/openai-fiasco-tim-cooks-successor-and-apple-vision-pro-questions-on-the-appleinsider-podcast?utm_medium=rss)
- - [Alibaba overhauls its cloud computing unit, with an emphasis on public cloud, hybrid cloud, and cloud infrastructure divisions, after scrapping the unit&#39;s IPO &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231124/p4#a231124p4)
- - [19 Best Black Friday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-black-friday-headphone-deals-2023/)
- - [Hallmark Channel Won the Streaming Wars](https://www.wired.com/hallmark-channel-countdown-to-christmas-streaming-wars/)<!-- TECH:END -->
+ - [Alibaba overhauls its cloud computing unit, with an emphasis on public cloud, hybrid cloud, and cloud infrastructure divisions, after scrapping the unit&#39;s IPO &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231124/p4#a231124p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

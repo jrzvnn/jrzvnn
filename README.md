@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, the evil CIA agents got the poor woman](http://9gag.com/gag/aPgqyeB)
- - 😝 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)
- - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 😝 [Shakira &lpar;14&rpar; and Pique &lpar;4&rpar; back in 1991](http://9gag.com/gag/amAZq2d)
- - 👉 [I can&#39;t be your hero, baby](http://9gag.com/gag/ajV4Yr0)<!-- MEMES:END -->
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 😝 [Episodes 7-9 were garbage](http://9gag.com/gag/ap9MqxE)
+ - 💣 [It will take 10-15 years but I\u2019m sure honey n kids will forgive daddy eventually.. just to good opportunity after the dentist](http://9gag.com/gag/aVb6O9y)
+ - 😝 [My first PS. Saved for 8 months and now finally it&#39;s mine. I cried when I saw the console. Small wins.](http://9gag.com/gag/aOxWbqy)
+ - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
 
 ---
 

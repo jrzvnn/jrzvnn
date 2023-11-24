@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft has started rolling out in-game ads that appear when selecting Pause menu or viewing game Map](http://9gag.com/gag/avQjLvq)
+ - 😝 [I&#39;m Asian and it scares me](http://9gag.com/gag/aDYvmzB)
+ - 😝 [There is an outpouring of rage on the streets of Dublin, Ireland as the people demand action against mass immigration following a mass stabbing incident against children by an Algerian migrant.](http://9gag.com/gag/aBdeQBN)
+ - 💣 [Neither do Arabs and Africans. There I said it.](http://9gag.com/gag/ay2Kpo8)
  - 😝 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
- - 👉 [An Algerian creature stabbed 5 children in Dublin Ireland today. A war is coming](http://9gag.com/gag/avQjZjq)<!-- MEMES:END -->
+ - 👉 [You CAN Do Pushups](http://9gag.com/gag/axorZYD)<!-- MEMES:END -->
 
 ---
 

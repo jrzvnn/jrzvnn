@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [150 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
  - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
  - [Best Amazon tech discounts to snap up during this weekend&#39;s Black Friday &amp; Cyber Monday sale](https://appleinsider.com/articles/23/11/24/best-amazon-tech-discounts-to-snap-up-during-this-weekends-black-friday-cyber-monday-sale?utm_medium=rss)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [Amazon&#39;s Black Friday AirTag deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/24/amazons-black-friday-airtag-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)<!-- TECH:END -->
+ - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

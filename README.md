@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Deals: $200 off M2 MacBook Air, AirPods for $79.99, $999 Acer Nitro 5 Gaming Laptop, more](https://appleinsider.com/articles/23/11/24/black-friday-deals-200-off-m2-macbook-air-airpods-for-7999-999-acer-nitro-5-gaming-laptop-more?utm_medium=rss)
+ - [21 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023/)
  - [Best iPad Black Friday deals deliver record low prices starting at $229](https://appleinsider.com/articles/23/11/23/best-ipad-black-friday-deals-deliver-record-low-prices-starting-at-229?utm_medium=rss)
  - [Kuxiu foldable magnetic wireless chargers review: excellent compact travel chargers](https://appleinsider.com/articles/23/11/24/kuxiu-foldable-magnetic-wireless-chargers-review-excellent-compact-travel-chargers?utm_medium=rss)
- - [Live: The Best Black Friday Deals We&#39;ve Found in 2023](https://www.wired.com/live/black-friday-deals-2023/)
- - [21 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
- - [Best AirPods Black Friday deals deliver prices as low as $79.99](https://appleinsider.com/articles/23/11/24/best-airpods-black-friday-deals-deliver-prices-as-low-as-7999?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

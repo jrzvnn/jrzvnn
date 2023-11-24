@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Black Friday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-black-friday-tv-deals-2023/)
+ - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [The best Black Friday deals you can grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
  - [64 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-2/)
- - [92 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)
- - [The UK and South Korea warn that the North Korean Lazarus hacking group is using a zero-day in the authentication software MagicLine4NX for supply-chain attacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231124/p10#a231124p10)
- - [59 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-1/)
- - [These 17 Black Friday Laptop Deals Are the Best We&#39;ve Found From Apple, Lenovo, Dell and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [92 Best Amazon Black Friday Deals &lpar;2023&rpar;: TVs, Phones, Echo](https://www.wired.com/story/best-amazon-black-friday-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

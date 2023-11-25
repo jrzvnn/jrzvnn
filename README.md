@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
  - [The 19 Best Black Friday Apple Watch Deals on Series 9, Chargers and Bands You Can Still Grab     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
  - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023-1/)
  - [75 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [Best Black Friday Mattress Deals: Get Incredible Deals From 44 Top Mattress Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
- - [Newcastle vs. Chelsea Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-chelsea-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Mattress Deals: Get Incredible Deals From 44 Top Mattress Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

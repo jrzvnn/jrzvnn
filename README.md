@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 💣 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 😝 [When it&#39;s not your job to ask questions](http://9gag.com/gag/aBdewLD)
- - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
+ - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [When it&#39;s not your job to ask questions](http://9gag.com/gag/aBdewLD)<!-- MEMES:END -->
 
 ---
 

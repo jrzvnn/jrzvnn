@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI development will likely move faster and be more dispersed and less controlled after a failed coup at OpenAI, accelerating what the coup was trying to prevent &lpar;Benedict Evans/Financial Times&rpar;](http://www.techmeme.com/231125/p2#a231125p2)
  - [27 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-1/)
  - [China Tried to Keep Kids Off Social Media. Now the Elderly Are Hooked](https://www.wired.com/story/china-tried-to-keep-kids-off-social-media-now-the-elderly-are-hooked/)
  - [We&#39;re Obsessed with Thule Strollers And Our Favorites Are on Sale](https://www.wired.com/story/thule-strollers-black-friday-2023/)
- - [Black Friday 2023 Live Blog: More Than 160 of the Next Day Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)
- - [Our Favorite Smart Bird Feeders Are on Sale for Black Friday](https://www.wired.com/story/smart-bird-feeder-black-friday-deals-2023/)<!-- TECH:END -->
+ - [Black Friday 2023 Live Blog: More Than 160 of the Next Day Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

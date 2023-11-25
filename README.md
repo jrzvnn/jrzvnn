@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [71 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)
+ - [This Holdover Black Friday Deal Saves You $400 on an M2 MacBook Pro     - CNET](https://www.cnet.com/deals/macbook-pro-m2-400-off-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Best Remaining Black Friday Headphone Deals: 41 Sweet Deals on AirPods, Beats, Bose, Sony And More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
  - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [A side-by-side teardown of the Steam Deck OLED and Lenovo Legion Go: both are designed to be repaired by users; Steam Deck OLED scores 9/10 and Legion Go 7/10 &lpar;Kevin O&#39;Reilly/iFixit News&rpar;](http://www.techmeme.com/231125/p4#a231125p4)
- - [The best Black Friday deals you can still get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [Premier League Soccer Livestream: How to Watch Brentford vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-brentford-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [89 Best Black Friday Deals $25 or Under: Big Savings on Tech, Toys and Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

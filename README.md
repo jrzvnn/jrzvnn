@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
+ - 😝 [I could watch this for all eternity.](http://9gag.com/gag/a4o0Yxy)
+ - 😝 [This is the funniest thing](http://9gag.com/gag/aPgqD5K)
+ - 💣 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)
+ - 😝 [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
+ - 👉 [LMAO](http://9gag.com/gag/aQEj8jr)<!-- MEMES:END -->
 
 ---
 

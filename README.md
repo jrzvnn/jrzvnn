@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
+ - [Black Friday 2023 Live Blog: 169 Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
+ - [The 19 Best Black Friday Bluetooth Speaker Deals That Are Still Available     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
  - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)
- - [Unsealed docs in a lawsuit by 30+ state AGs: Meta received 1.1M+ reports of under-13s on Instagram since early 2019 yet it &quot;disabled only a fraction&quot; of those &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/231125/p8#a231125p8)
- - [Best Next Day Amazon Black Friday Deals: 90 Offers to Grab Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [54 Black Friday Deals Under $100: Save Big on Tech, Home &amp; More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
- - [9 Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023-1/)<!-- TECH:END -->
+ - [Fastest VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

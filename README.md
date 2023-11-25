@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
  - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
+ - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 👉 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
 
 ---
 

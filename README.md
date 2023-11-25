@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
  - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
 
 ---

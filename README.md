@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [29 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
+ - [60 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-3/)
+ - [A profile of Binance CEO Richard Teng, who faces the tough task of transforming the company&#39;s culture amid spiraling compliance costs and an ongoing SEC lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/231125/p9#a231125p9)
  - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
- - [Black Friday 2023 Live Blog: 169 Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
- - [The 19 Best Black Friday Bluetooth Speaker Deals That Are Still Available     - CNET](https://www.cnet.com/deals/the-13-best-early-black-friday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
- - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)
- - [Fastest VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [31 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
  - [The best Black Friday 2023 deals you can still get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
  - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Elevate Your Space With an Essential Oil Diffuser Before Black Friday Ends     - CNET](https://www.cnet.com/deals/elevate-your-space-with-an-essential-oil-diffuser-before-black-friday-ends/#ftag=CAD590a51e)
- - [An investigation identifies four secret bitcoin mining facilities in Bhutan, built using $220M in chips imported from China between 2021 and 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/231124/p14#a231124p14)<!-- TECH:END -->
+ - [Elevate Your Space With an Essential Oil Diffuser Before Black Friday Ends     - CNET](https://www.cnet.com/deals/elevate-your-space-with-an-essential-oil-diffuser-before-black-friday-ends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best All-Clad Cookware Deals Right Now &lpar;Black Friday 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
  - [Flash deal: get $250 off this 14-inch MacBook Pro M3 Pro, now $1,749 today only](https://appleinsider.com/articles/23/11/25/flash-deal-get-250-off-this-14-inch-macbook-pro-m3-pro-now-1749-today-only?utm_medium=rss)
  - [29 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
  - [60 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-3/)
- - [A profile of Binance CEO Richard Teng, who faces the tough task of transforming the company&#39;s culture amid spiraling compliance costs and an ongoing SEC lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/231125/p9#a231125p9)
- - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)<!-- TECH:END -->
+ - [A profile of Binance CEO Richard Teng, who faces the tough task of transforming the company&#39;s culture amid spiraling compliance costs and an ongoing SEC lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/231125/p9#a231125p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

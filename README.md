@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Cyber Monday deals: 41% off M1 MacBook Pro, HomePod mini $79, iPad 10th Generation $349, more](https://appleinsider.com/articles/23/11/25/early-cyber-monday-deals-41-off-m1-macbook-pro-homepod-mini-79-ipad-10th-generation-349-more?utm_medium=rss)
  - [71 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)
  - [This Holdover Black Friday Deal Saves You $400 on an M2 MacBook Pro     - CNET](https://www.cnet.com/deals/macbook-pro-m2-400-off-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [Best Remaining Black Friday Headphone Deals: 41 Sweet Deals on AirPods, Beats, Bose, Sony And More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
- - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [89 Best Black Friday Deals $25 or Under: Big Savings on Tech, Toys and Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

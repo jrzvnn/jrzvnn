@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hood marksman](http://9gag.com/gag/anzo12L)
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
+ - 😝 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
+ - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
  - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

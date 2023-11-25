@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Adobe: US online Black Friday sales hit $9.8B, up 7.5% YoY; Salesforce, which uses different metrics, says online sales hit $16.4B in the US and $70.9B globally &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231125/p7#a231125p7)
  - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
  - [Beats headphones Cyber Monday deals: save up to 51% at Amazon](https://appleinsider.com/articles/23/11/25/beats-headphones-cyber-monday-deals-save-up-to-51-at-amazon?utm_medium=rss)
- - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-2/)<!-- TECH:END -->
+ - [The 44 Best Black Friday TV Deals: Save Up to $1,600 on Samsung, LG, TCL and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

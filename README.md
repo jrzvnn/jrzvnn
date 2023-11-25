@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)
  - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
  - [Best Black Friday Mattress Deals: Don&#39;t Sleep on Savings from 44 Top-Rated Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
  - [67 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-2/)
- - [Epic Cyber Monday Deal: This $10 Phone Holder Will Change the Way You Travel     - CNET](https://www.cnet.com/deals/october-black-friday-deal-this-phone-holder-will-change-the-way-you-travel/#ftag=CAD590a51e)
- - [The 49 Best PS5 Black Friday Deals: Up to $120 in Savings on Consoles, Storage, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Cyber Monday Deal: This $10 Phone Holder Will Change the Way You Travel     - CNET](https://www.cnet.com/deals/october-black-friday-deal-this-phone-holder-will-change-the-way-you-travel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

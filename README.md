@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 💣 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
  - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---

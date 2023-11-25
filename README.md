@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
  - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Nice](http://9gag.com/gag/avQjnLb)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
+ - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
+ - 💣 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
+ - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
+ - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---
 

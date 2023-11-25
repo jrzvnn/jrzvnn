@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [27 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-2/)
  - [A look at Binance and CZ&#39;s &quot;Bond villain&quot; compliance strategy and how their settlements will allow the US to deflate Binance while minimizing collateral damage &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/231125/p5#a231125p5)
- - [75 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-3/)
- - [Early Cyber Monday deals: 41% off M1 MacBook Pro, HomePod mini $79, iPad 10th Generation $349, more](https://appleinsider.com/articles/23/11/25/early-cyber-monday-deals-41-off-m1-macbook-pro-homepod-mini-79-ipad-10th-generation-349-more?utm_medium=rss)
- - [71 Best Target Black Friday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)<!-- TECH:END -->
+ - [The Bombas Cyber Monday Sale Is On: Save 25% Off Everything     - CNET](https://www.cnet.com/deals/the-bombas-cyber-monday-sale-is-on-save-25-off-everything/#ftag=CAD590a51e)
+ - [Best Next Day Amazon Black Friday Deals: 90 Offers To Grab Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [75 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

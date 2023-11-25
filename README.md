@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [51 Best Black Friday Deals Under $50: Incredible Deals on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
- - [8 Best Black Friday AirPods Deals: Remaining Deals on Pro, Max and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)
- - [Best Black Friday Deals Under $25: Big Savings on Tech, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [Man City vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [171 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
+ - [Ahead of elections in India in December and 2024, political parties are courting social media influencers to reach rural voters while dodging media interviews &lpar;Yashraj Sharma/Wired&rpar;](http://www.techmeme.com/231125/p3#a231125p3)
+ - [Apple&#39;s New USB-C Apple Pencil Gets Its First Discount for Black Friday     - CNET](https://www.cnet.com/deals/apples-new-usb-c-apple-pencil-gets-its-first-discount-for-black-friday/#ftag=CAD590a51e)
+ - [Best Black Friday Deals: More Than 35 Curated Picks Still Going Strong     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $100: Save Big on Go-To Tech and Everyday Gadgets     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
+ - [Shopping Black Friday and Cyber Monday Deals? Here&#39;s the Return Policy     - CNET](https://www.cnet.com/tech/shopping-black-friday-and-cyber-monday-deals-heres-the-return-policy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

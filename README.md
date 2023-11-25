@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time to read the fine print on your contracts.](http://9gag.com/gag/aEq4RZG)
  - 😝 [Balkans?](http://9gag.com/gag/aGEQ0qn)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
  - 💣 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
  - 😝 [SWEDEN -- the ISLAMIC rape capital in the Nordic hemisphere, has had enough of these psychopathic sect followers.](http://9gag.com/gag/avQjrBX)
  - 👉 [Atleast 7 lines of code](http://9gag.com/gag/awZp5NQ)<!-- MEMES:END -->

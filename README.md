@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation identifies four secret bitcoin mining facilities in Bhutan, built using $220M in chips imported from China between 2021 and 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/231124/p14#a231124p14)
+ - [22 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-1/)
  - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [16 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023-1/)
- - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
- - [29 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-1/)<!-- TECH:END -->
+ - [50 Best Black Friday Deals $50 or Less: Save on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
+ - [Black Friday 2023 Live Blog: More Than 160 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

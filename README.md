@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unsealed docs in a lawsuit by 30+ state AGs: Meta received 1.1M+ reports of under-13s on Instagram since early 2019 yet it &quot;disabled only a fraction&quot; of those &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/231125/p8#a231125p8)
+ - [9 Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023-1/)
  - [Don&#39;t Tell These 169 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
  - [Adobe: US online Black Friday sales hit $9.8B, up 7.5% YoY; Salesforce, which uses different metrics, says online sales hit $16.4B in the US and $70.9B globally &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231125/p7#a231125p7)
- - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [Beats headphones Cyber Monday deals: save up to 51% at Amazon](https://appleinsider.com/articles/23/11/25/beats-headphones-cyber-monday-deals-save-up-to-51-at-amazon?utm_medium=rss)
- - [The 44 Best Black Friday TV Deals: Save Up to $1,600 on Samsung, LG, TCL and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

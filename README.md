@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [I do not know a sexier sport than volleyball](http://9gag.com/gag/ajV4nP8)
- - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
  - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
+ - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
 
 ---
 

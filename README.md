@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [A side-by-side teardown of the Steam Deck OLED and Lenovo Legion Go: both are designed to be repaired by users; Steam Deck OLED scores 9/10 and Legion Go 7/10 &lpar;Kevin O&#39;Reilly/iFixit News&rpar;](http://www.techmeme.com/231125/p4#a231125p4)
  - [The best Black Friday deals you can still get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
  - [Premier League Soccer Livestream: How to Watch Brentford vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-brentford-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
- - [Binge All the Holiday Movies &lpar;or Football&rpar; and Save with 28 Black Friday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [The best Black Friday deals you can still grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)<!-- TECH:END -->
+ - [Binge All the Holiday Movies &lpar;or Football&rpar; and Save with 28 Black Friday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

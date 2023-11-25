@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [74 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-3/)
  - [Dutch media: Chimera, a China-linked hacker group, infiltrated Dutch semiconductor giant NXP&#39;s network between 2017 and 2020 and stole chip designs and more &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231125/p6#a231125p6)
  - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)
- - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
+ - [The 51 Best Black Friday Deals Under $50: Incredible Deals on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

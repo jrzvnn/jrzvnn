@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 💣 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

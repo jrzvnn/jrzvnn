@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
- - 💣 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)
- - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
+ - 😝 [It&#39;s time to read the fine print on your contracts.](http://9gag.com/gag/aEq4RZG)
+ - 😝 [Balkans?](http://9gag.com/gag/aGEQ0qn)
+ - 💣 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
+ - 😝 [SWEDEN -- the ISLAMIC rape capital in the Nordic hemisphere, has had enough of these psychopathic sect followers.](http://9gag.com/gag/avQjrBX)
+ - 👉 [Atleast 7 lines of code](http://9gag.com/gag/awZp5NQ)<!-- MEMES:END -->
 
 ---
 

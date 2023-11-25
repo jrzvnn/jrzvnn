@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 💣 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
- - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 💣 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 👉 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)<!-- MEMES:END -->
 
 ---
 

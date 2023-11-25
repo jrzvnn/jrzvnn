@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A side-by-side teardown of the Steam Deck OLED and Lenovo Legion Go: both are designed to be repaired by users; Steam Deck OLED scores 9/10 and Legion Go 7/10 &lpar;Kevin O&#39;Reilly/iFixit News&rpar;](http://www.techmeme.com/231125/p4#a231125p4)
  - [The best Black Friday deals you can still get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
  - [The best Black Friday deals you can still grab for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
  - [How to Stop Google From Deleting Your Inactive Account](https://www.wired.com/story/how-to-stop-google-delete-account-inactive/)
- - [Google’s Ad Blocker Crackdown Is Growing](https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/)
- - [The best Black Friday deals under $100 that you can still get](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
+ - [Google’s Ad Blocker Crackdown Is Growing](https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

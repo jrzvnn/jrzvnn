@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
+ - [Best Black Friday Mattress Deals: Don&#39;t Sleep on Savings from 44 Top-Rated Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
  - [67 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-2/)
- - [27 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-2/)
- - [A look at Binance and CZ&#39;s &quot;Bond villain&quot; compliance strategy and how their settlements will allow the US to deflate Binance while minimizing collateral damage &lpar;Patrick McKenzie/Bits about Money&rpar;](http://www.techmeme.com/231125/p5#a231125p5)
- - [The Bombas Cyber Monday Sale Is On: Save 25% Off Everything     - CNET](https://www.cnet.com/deals/the-bombas-cyber-monday-sale-is-on-save-25-off-everything/#ftag=CAD590a51e)
- - [Best Next Day Amazon Black Friday Deals: 90 Offers To Grab Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Cyber Monday Deal: This $10 Phone Holder Will Change the Way You Travel     - CNET](https://www.cnet.com/deals/october-black-friday-deal-this-phone-holder-will-change-the-way-you-travel/#ftag=CAD590a51e)
+ - [The 49 Best PS5 Black Friday Deals: Up to $120 in Savings on Consoles, Storage, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [29 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
  - [60 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-3/)
  - [A profile of Binance CEO Richard Teng, who faces the tough task of transforming the company&#39;s culture amid spiraling compliance costs and an ongoing SEC lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/231125/p9#a231125p9)
- - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
- - [29 Best Black Friday Coffee Deals &lpar;2023&rpar;: Fellow Gear, Coffee Beans, Espresso Machines](https://www.wired.com/story/best-black-friday-coffee-deals-2023-2/)<!-- TECH:END -->
+ - [42 Apple Black Friday Deals You Won&#39;t Want to Miss: AirPods, Apple Watch, MacBook Pro and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

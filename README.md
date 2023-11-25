@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats headphones Cyber Monday deals: save up to 51% at Amazon](https://appleinsider.com/articles/23/11/25/beats-headphones-cyber-monday-deals-save-up-to-51-at-amazon?utm_medium=rss)
+ - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
  - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-2/)
  - [The best Black Friday deals you can still get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [74 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-3/)
- - [Dutch media: Chimera, a China-linked hacker group, infiltrated Dutch semiconductor giant NXP&#39;s network between 2017 and 2020 and stole chip designs and more &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231125/p6#a231125p6)
- - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)<!-- TECH:END -->
+ - [74 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

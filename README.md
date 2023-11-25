@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 49 Best PS5 Black Friday Deals: Up to $120 in Savings on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)
+ - [Black Friday 2023 Live Blog: 170+ Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
  - [10 Best All-Clad Cookware Deals Right Now &lpar;Black Friday 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
  - [Flash deal: get $250 off this 14-inch MacBook Pro M3 Pro, now $1,749 today only](https://appleinsider.com/articles/23/11/25/flash-deal-get-250-off-this-14-inch-macbook-pro-m3-pro-now-1749-today-only?utm_medium=rss)
- - [29 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
- - [60 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-3/)
- - [A profile of Binance CEO Richard Teng, who faces the tough task of transforming the company&#39;s culture amid spiraling compliance costs and an ongoing SEC lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/231125/p9#a231125p9)<!-- TECH:END -->
+ - [Binge All the Savings with 28 Black Friday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

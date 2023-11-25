@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite devices are on sale for Black Friday.](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [Best Black Friday Mattress Deals: Score 44 Top Mattress Brands at Discount Pricing     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
+ - [The 19 Best Black Friday Apple Watch Deals on Series 9, Chargers and Bands     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)
  - [31 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-1/)
- - [The best Black Friday 2023 deals you can still get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
- - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [Elevate Your Space With an Essential Oil Diffuser Before Black Friday Ends     - CNET](https://www.cnet.com/deals/elevate-your-space-with-an-essential-oil-diffuser-before-black-friday-ends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday 2023 deals you can still get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

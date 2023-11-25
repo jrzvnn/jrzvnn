@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 💣 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 👉 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
+ - 😝 [Hey Snow, Nice to meet you.](http://9gag.com/gag/aBdeYWD)
+ - 😝 [[No title]](http://9gag.com/gag/a9qG7YZ)
+ - 💣 [I could watch this for all eternity.](http://9gag.com/gag/a4o0Yxy)
+ - 😝 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)
+ - 👉 [Legend](http://9gag.com/gag/a2KX5KE)<!-- MEMES:END -->
 
 ---
 

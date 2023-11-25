@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bengaluru-based Scapia, which offers a co-branded credit card and an app to turn daily expenses into travel rewards, raised a $23M Series A &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/231124/p15#a231124p15)
- - [Best Black Friday Deals: 43 Curated Picks from Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: More Than 160 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)
- - [Don&#39;t Miss Another Game with Top Black Friday Streaming Service Deals on Hulu, Sunday Ticket and More     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [170 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
+ - [170 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Apple Black Friday Deals 2023](https://appleinsider.com/live/apple-black-friday-deals-2023)
+ - [Some of our favorite devices are on sale for Black Friday](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
+ - [Best Black Friday Mattress Deals: Score 44 Top Mattress Brands at Discount Pricing     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

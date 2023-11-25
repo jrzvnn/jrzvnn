@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 💣 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best Black Friday deals on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
  - [The best Black Friday 2023 deals you can still get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [Elevate Your Space With an Essential Oil Diffuser Before Black Friday Ends     - CNET](https://www.cnet.com/deals/elevate-your-space-with-an-essential-oil-diffuser-before-black-friday-ends/#ftag=CAD590a51e)
  - [An investigation identifies four secret bitcoin mining facilities in Bhutan, built using $220M in chips imported from China between 2021 and 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/231124/p14#a231124p14)
- - [22 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-1/)
- - [The best Black Friday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)<!-- TECH:END -->
+ - [31 Best Black Friday Nintendo Switch Deals: Save on Games, Consoles and Accessories     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

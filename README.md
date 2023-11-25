@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey Snow, Nice to meet you.](http://9gag.com/gag/aBdeYWD)
- - 😝 [[No title]](http://9gag.com/gag/a9qG7YZ)
- - 💣 [I could watch this for all eternity.](http://9gag.com/gag/a4o0Yxy)
- - 😝 [Sometimes, words hit harder than fists.](http://9gag.com/gag/a9qG7dW)
- - 👉 [Legend](http://9gag.com/gag/a2KX5KE)<!-- MEMES:END -->
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 😝 [I do not know a sexier sport than volleyball](http://9gag.com/gag/ajV4nP8)
+ - 💣 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---
 

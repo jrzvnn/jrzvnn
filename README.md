@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Black Friday deals you can still get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [74 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-3/)
  - [Dutch media: Chimera, a China-linked hacker group, infiltrated Dutch semiconductor giant NXP&#39;s network between 2017 and 2020 and stole chip designs and more &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231125/p6#a231125p6)
  - [37 Home Depot Black Friday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-black-friday-deals-2023-2/)
- - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
- - [Best Black Friday Mattress Deals: Don&#39;t Sleep on Savings from 44 Top-Rated Brands     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-mattress-deals/#ftag=CAD590a51e)
- - [67 Walmart Black Friday Deals &lpar;2023&rpar;: TVs, Soundbars](https://www.wired.com/story/best-walmart-black-friday-deals-2023-2/)<!-- TECH:END -->
+ - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

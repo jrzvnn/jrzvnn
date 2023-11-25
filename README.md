@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [51 Best Black Friday Deals Under $50: Incredible Deals on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
+ - [8 Best Black Friday AirPods Deals: Remaining Deals on Pro, Max and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)
+ - [Best Black Friday Deals Under $25: Big Savings on Tech, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
  - [Man City vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [171 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Abu Dhabi GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-abu-dhabi-gp/#ftag=CAD590a51e)
- - [9 Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023-1/)
- - [40+ Apple Black Friday Deals You Should Check Out: AirPods, Apple Watch, iPad and Mac     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [171 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

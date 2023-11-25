@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Satya Nadella and Microsoft CTO Kevin Scott were instrumental to reinstating Sam Altman atop OpenAI, which a source says was the ideal outcome for Microsoft &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231125/p1#a231125p1)
- - [Best Buy Black Friday: 83 Top Deals Including KitchenAid, Sonos, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [The Beachwaver Curling Iron Is on Sale for Black Friday](https://www.wired.com/story/beachwaver-b1-curling-iron-deal-black-friday-2023/)
- - [Best Black Friday Headphone Deals: 35 Sweet Deals on AirPods, Beats, Bose, Sony And More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
- - [Bengaluru-based Scapia, which offers a co-branded credit card and an app to turn daily expenses into travel rewards, raised a $23M Series A &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/231124/p15#a231124p15)<!-- TECH:END -->
+ - [Bengaluru-based Scapia, which offers a co-branded credit card and an app to turn daily expenses into travel rewards, raised a $23M Series A &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/231124/p15#a231124p15)
+ - [Best Black Friday Deals: 43 Curated Picks from Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Black Friday 2023 Live Blog: More Than 160 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

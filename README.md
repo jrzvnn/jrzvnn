@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
- - 👉 [Compound V not even once](http://9gag.com/gag/awZpbmQ)<!-- MEMES:END -->
+ - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 💣 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

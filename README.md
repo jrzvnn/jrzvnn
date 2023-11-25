@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [28 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)
- - [Ahead of elections in India in December and 2024, political parties are courting social media influencers to reach rural voters while dodging media interviews &lpar;Yashraj Sharma/Wired&rpar;](http://www.techmeme.com/231125/p3#a231125p3)
- - [Apple&#39;s New USB-C Apple Pencil Gets Its First Discount for Black Friday     - CNET](https://www.cnet.com/deals/apples-new-usb-c-apple-pencil-gets-its-first-discount-for-black-friday/#ftag=CAD590a51e)
- - [Best Black Friday Deals: More Than 35 Curated Picks Still Going Strong     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Best Black Friday Deals Under $100: Save Big on Go-To Tech and Everyday Gadgets     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Black Friday Sonos Deals &lpar;2023&rpar;: Soundbars, Subwoofers, Bluetooth Speakers](https://www.wired.com/story/best-black-friday-sonos-deals-2023-1/)
+ - [75 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [Nicolas Cage on Memes, Myths, and Why He Thinks AI Is a ‘Nightmare’](https://www.wired.com/story/nicolas-cage-interview-artificial-intelligence-memes/)
+ - [Best Small Business Saturday Shops &lpar;2023&rpar;: Here Are Our Favorite Local Stores](https://www.wired.com/story/small-business-saturday-favorite-businesses-2023/)
+ - [28 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

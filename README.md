@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Man City vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [171 Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Abu Dhabi GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-abu-dhabi-gp/#ftag=CAD590a51e)
  - [9 Best Amazon Kindle Black Friday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-kindle-deals-2023-1/)
- - [40+ Apple Black Friday Deals You Should Check Out: AirPods, Apple Watch, iPad and Mac     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [94 Best Black Friday Tech Deals &lpar;2023&rpar;: Phones, Laptops](https://www.wired.com/story/best-black-friday-tech-deals-2023-1/)
- - [AI development will likely move faster and be more dispersed and less controlled after a failed coup at OpenAI, accelerating what the coup was trying to prevent &lpar;Benedict Evans/Financial Times&rpar;](http://www.techmeme.com/231125/p2#a231125p2)<!-- TECH:END -->
+ - [40+ Apple Black Friday Deals You Should Check Out: AirPods, Apple Watch, iPad and Mac     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

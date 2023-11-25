@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Frrdhdhdjf](http://9gag.com/gag/aXnOb49)
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 💣 [Savage](http://9gag.com/gag/aZDYWoW)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 💣 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
+ - 😝 [Adventure](http://9gag.com/gag/aA09Y5d)
  - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---

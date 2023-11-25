@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go bankrupt mouse](http://9gag.com/gag/a043YNB)
- - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
- - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
+ - 😝 [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 💣 [Raise&#39;em Right](http://9gag.com/gag/aREpAm2)
+ - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
+ - 👉 [Dorm room Thanksgiving dinner](http://9gag.com/gag/aXnOwvD)<!-- MEMES:END -->
 
 ---
 

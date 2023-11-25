@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dorm room Thanksgiving dinner](http://9gag.com/gag/aXnOwvD)
- - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
- - 💣 [Some bro stuff](http://9gag.com/gag/a5XYZwL)
- - 😝 [Legend](http://9gag.com/gag/a2KX5KE)
- - 👉 [Gordon gets beaten by convict](http://9gag.com/gag/aGEQ0VX)<!-- MEMES:END -->
+ - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
 
 ---
 

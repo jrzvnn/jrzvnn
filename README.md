@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Navy seals box breathe 3x a day for 5 minutes to reduce stress levels exponentially](http://9gag.com/gag/axorGLp)
  - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Raise&#39;em Right](http://9gag.com/gag/aREpAm2)
- - 😝 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
- - 👉 [Dorm room Thanksgiving dinner](http://9gag.com/gag/aXnOwvD)<!-- MEMES:END -->
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 💣 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 👉 [Should I be worried?](http://9gag.com/gag/amAZ0v2)<!-- MEMES:END -->
 
 ---
 

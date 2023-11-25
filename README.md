@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korea Life](http://9gag.com/gag/adPzpOZ)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 💣 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 💣 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
  - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
  - 👉 [When it&#39;s not your job to ask questions](http://9gag.com/gag/aBdewLD)<!-- MEMES:END -->
 

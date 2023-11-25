@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 😝 [Let&#39;s go bankrupt mouse](http://9gag.com/gag/a043YNB)
+ - 😝 [Compound V not even once](http://9gag.com/gag/awZpbmQ)
+ - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
  - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 💣 [Adventure](http://9gag.com/gag/aA09Y5d)
- - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
- - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
+ - 👉 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)<!-- MEMES:END -->
 
 ---
 

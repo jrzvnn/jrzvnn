@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday iPad Deals: Save Up to $100 on These 6 Remaining Apple Tablet Deals     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
  - [The best Black Friday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [The best Black Friday deals you can still get](https://www.theverge.com/23972463/black-friday-tech-deals-earbuds-accessories-still-available-2023)
- - [The Best Handheld Gaming Consoles](https://www.wired.com/gallery/best-gaming-handhelds/)
- - [Millions of EV Batteries Could Retire to Solar Farms](https://www.wired.com/story/millions-of-ev-batteries-could-retire-to-solar-farms/)
- - [26 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)<!-- TECH:END -->
+ - [Best Black Friday Nintendo Switch Deals: 28 Offers You Can Still Snag     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [The 32 Most Popular Black Friday Deals, According to CNET Readers     - CNET](https://www.cnet.com/deals/the-32-most-popular-black-friday-deals-according-to-cnet-readers/#ftag=CAD590a51e)
+ - [The best Black Friday deals you can still get](https://www.theverge.com/23972463/black-friday-tech-deals-earbuds-accessories-still-available-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

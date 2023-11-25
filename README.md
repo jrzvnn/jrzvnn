@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balkans?](http://9gag.com/gag/aGEQ0qn)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 💣 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
- - 😝 [SWEDEN -- the ISLAMIC rape capital in the Nordic hemisphere, has had enough of these psychopathic sect followers.](http://9gag.com/gag/avQjrBX)
- - 👉 [Atleast 7 lines of code](http://9gag.com/gag/awZp5NQ)<!-- MEMES:END -->
+ - 😝 [It was my home, and it was beautiful](http://9gag.com/gag/aZDYxAz)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 💣 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beachwaver Curling Iron Is On Sale for Black Friday](https://www.wired.com/story/beachwaver-b1-curling-iron-deal-black-friday-2023/)
+ - [The Beachwaver Curling Iron Is on Sale for Black Friday](https://www.wired.com/story/beachwaver-b1-curling-iron-deal-black-friday-2023/)
  - [Bengaluru-based Scapia, which offers a co-branded credit card and an app to turn daily expenses into travel rewards, raised a $23M Series A &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/231124/p15#a231124p15)
  - [Best Black Friday Deals: 43 Curated Picks from Our Shopping Experts     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
  - [Black Friday 2023 Live Blog: More Than 160 of the Best Black Friday Deals     - CNET](https://www.cnet.com/deals/black-friday-2023-live-11-24/#ftag=CAD590a51e)

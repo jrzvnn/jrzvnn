@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People say girls sre dumb, but this one proves them wrong](http://9gag.com/gag/aOxWmz3)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
+ - 😝 [Korea Life](http://9gag.com/gag/adPzpOZ)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 💣 [Should I be worried?](http://9gag.com/gag/amAZ0v2)
+ - 😝 [Savage](http://9gag.com/gag/aZDYWoW)
+ - 👉 [When it&#39;s not your job to ask questions](http://9gag.com/gag/aBdewLD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [55 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [Get Apple&#39;s new M3 Max MacBook Pro with 36GB RAM, 1TB SSD for $2,949 &lpar;$250 off&rpar;](https://appleinsider.com/articles/23/11/24/get-apples-new-m3-max-macbook-pro-with-36gb-ram-1tb-ssd-for-2949-250-off?utm_medium=rss)
- - [TikTok-funded report: TikTok users are much likelier to pay for a music streamer than the average consumer and spend more on concerts than the average listener &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/231124/p13#a231124p13)
- - [57 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-2/)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
+ - [Best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
+ - [The best Black Friday 2023 tech deals you can get](https://www.theverge.com/23971107/black-friday-2023-best-deals-tech-earbuds-gaming-tablets)
+ - [54 Best Apple Black Friday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-black-friday-deals-2023-2/)
+ - [The best Black Friday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [65 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

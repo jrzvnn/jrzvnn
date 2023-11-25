@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats headphones Cyber Monday deals: save up to 51% at Amazon](https://appleinsider.com/articles/23/11/25/beats-headphones-cyber-monday-deals-save-up-to-51-at-amazon?utm_medium=rss)
+ - [Don&#39;t Tell These 169 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Adobe: US online Black Friday sales hit $9.8B, up 7.5% YoY; Salesforce, which uses different metrics, says online sales hit $16.4B in the US and $70.9B globally &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231125/p7#a231125p7)
  - [82 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-2/)
- - [The best Black Friday deals you can still get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [74 Best Buy Black Friday Deals to Shop Right Now &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023-3/)<!-- TECH:END -->
+ - [Beats headphones Cyber Monday deals: save up to 51% at Amazon](https://appleinsider.com/articles/23/11/25/beats-headphones-cyber-monday-deals-save-up-to-51-at-amazon?utm_medium=rss)
+ - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

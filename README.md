@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 💣 [Uh oh](http://9gag.com/gag/aBdewB1)
+ - 😝 [I love this community](http://9gag.com/gag/avQjLNW)
  - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 👉 [Choose your fighter](http://9gag.com/gag/aL1E2QV)<!-- MEMES:END -->
+ - 💣 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
 
 ---
 

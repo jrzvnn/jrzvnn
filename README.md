@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dutch people have decided...](http://9gag.com/gag/a9qGpOD)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 😝 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)
+ - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
+ - 💣 [Made a bober countryball](http://9gag.com/gag/axor1BL)
+ - 😝 [Yesterday at the BBC meeting](http://9gag.com/gag/aWGX1K3)
+ - 👉 [Do you agree?](http://9gag.com/gag/amAZ7xo)<!-- MEMES:END -->
 
 ---
 

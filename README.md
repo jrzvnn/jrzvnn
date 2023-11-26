@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love this community](http://9gag.com/gag/avQjLNW)
- - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 💣 [Subnautica was my last true gaming love](http://9gag.com/gag/aL1E9RW)
- - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
+ - 😝 [Atleast 7 lines of code](http://9gag.com/gag/awZp5NQ)
+ - 😝 [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
+ - 💣 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
+ - 👉 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)<!-- MEMES:END -->
 
 ---
 

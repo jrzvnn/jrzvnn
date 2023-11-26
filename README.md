@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
+ - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
+ - 💣 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
 
 ---
 

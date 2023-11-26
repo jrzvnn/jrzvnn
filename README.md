@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)
- - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
- - 💣 [Made a bober countryball](http://9gag.com/gag/axor1BL)
- - 😝 [Yesterday at the BBC meeting](http://9gag.com/gag/aWGX1K3)
- - 👉 [Do you agree?](http://9gag.com/gag/amAZ7xo)<!-- MEMES:END -->
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
+ - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---
 

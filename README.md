@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
- - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
- - 💣 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
- - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 👉 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)<!-- MEMES:END -->
+ - 😝 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
 
 ---
 

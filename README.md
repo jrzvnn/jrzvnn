@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)
- - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 💣 [Choose your fighter](http://9gag.com/gag/aL1E2QV)
+ - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
+ - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
 
 ---
 

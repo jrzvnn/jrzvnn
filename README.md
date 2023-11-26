@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Q&amp;A with Slack CTO Cal Henderson on how the pandemic changed Slack and workplace habits, acquisition by Salesforce, generative AI, India market, and more &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231126/p2#a231126p2)
  - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Sunday](https://www.wired.com/story/absolute-best-black-friday-deals-6/)
  - [Starquakes Might Solve the Mysteries of Stellar Magnetism](https://www.wired.com/story/starquakes-might-solve-the-mysteries-of-stellar-magnetism/)
- - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
- - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)<!-- TECH:END -->
+ - [The PS5 Is $50 Off at Best Buy. Snag This Cyber Monday Deal Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/the-ps5-is-50-off-at-best-buy-snag-this-cyber-monday-deal-before-its-gone/#ftag=CAD590a51e)
+ - [The Best PS5 Early Cyber Monday Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

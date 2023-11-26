@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where to??](http://9gag.com/gag/aYV0ejO)
- - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 👉 [Cops POV](http://9gag.com/gag/awZpVE8)<!-- MEMES:END -->
+ - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
+ - 😝 [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
+ - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 👉 [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)<!-- MEMES:END -->
 
 ---
 

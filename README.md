@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
  - 😝 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)
- - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 💣 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 😝 [Just take my money](http://9gag.com/gag/aPgqW1V)
+ - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
  - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
 
 ---

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made a bober countryball](http://9gag.com/gag/axor1BL)
- - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
- - 💣 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
- - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 👉 [Just selling some oil](http://9gag.com/gag/a0435Dn)<!-- MEMES:END -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 💣 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
 
 ---
 

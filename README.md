@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia&#39;s interior ministry adds Meta&#39;s spokesperson Andy Stone to its wanted list, according to state-owned news agency TASS &lpar;Laura Kayali/Politico&rpar;](http://www.techmeme.com/231126/p3#a231126p3)
+ - [The best early Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
  - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
  - [Amazon Prime Perks You&#39;ll Want to Use During Cyber Monday 2023     - CNET](https://www.cnet.com/deals/amazon-prime-perks-youll-want-to-use-during-cyber-monday-2023/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals: Over 50 Curated Picks You Can Shop Early     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Shopping Amazon Cyber Monday Deals? Here&#39;s How to Keep Your Purchases a Secret     - CNET](https://www.cnet.com/tech/shopping-amazon-cyber-monday-deals-heres-how-to-keep-your-purchases-a-secret/#ftag=CAD590a51e)
- - [Nab an Apple Watch Ultra 2 at Its Best Price Yet This Cyber Monday     - CNET](https://www.cnet.com/deals/nab-apple-watch-ultra-2-best-price-yet-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cyber Monday Deals: Over 50 Curated Picks You Can Shop Early     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

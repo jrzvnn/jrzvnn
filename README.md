@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
  - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
- - 👉 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)<!-- MEMES:END -->
+ - 😝 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
+ - 💣 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
+ - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
 
 ---
 

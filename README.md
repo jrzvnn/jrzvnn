@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Replicator, a Pentagon initiative expected to accelerate hard decisions on what AI tech is reliable enough to deploy, including on weaponized systems &lpar;Frank Bajak/Associated Press&rpar;](http://www.techmeme.com/231125/p11#a231125p11)
+ - [Black Friday 2023 Live Blog: 170+ Best Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
  - [30 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-2/)
  - [Best Apple Watch Black Friday weekend deals drop prices to as low as $189](https://appleinsider.com/articles/23/11/26/best-apple-watch-black-friday-weekend-deals-drop-prices-to-as-low-as-189?utm_medium=rss)
- - [34 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
- - [Best Remaining Black Friday Headphone Deals: 39 Sweet Deals on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
- - [Best Black Friday iPad Deals: Save Up to $100 on These 6 Apple Tablet Deals Still Available     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [34 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

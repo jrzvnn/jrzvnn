@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 💣 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 😝 [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)
- - 👉 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)<!-- MEMES:END -->
+ - 😝 [Above and beyond](http://9gag.com/gag/aqeELBQ)
+ - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
+ - 💣 [Sad](http://9gag.com/gag/a9qG7wj)
+ - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---
 

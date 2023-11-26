@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [34 Best Black Friday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-black-friday-laptop-deals-2023-1/)
  - [Best Remaining Black Friday Headphone Deals: 39 Sweet Deals on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
  - [Best Black Friday iPad Deals: Save Up to $100 on These 6 Apple Tablet Deals Still Available     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ipad-deals/#ftag=CAD590a51e)
  - [Black Friday 2023 Live Blog: 170+ Best Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
- - [Black Friday continues: pick up an M1 MacBook Air for only $749.99](https://appleinsider.com/articles/23/11/26/black-friday-continues-pick-up-an-m1-macbook-air-for-only-74999?utm_medium=rss)
- - [A Bitcoin user seems to have accidentally paid a record $3M fee for a $5M transaction and sent $2M; in September, Paxos paid $500K, now returned, to send $2,000 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/231125/p10#a231125p10)<!-- TECH:END -->
+ - [Black Friday continues: pick up an M1 MacBook Air for only $749.99](https://appleinsider.com/articles/23/11/26/black-friday-continues-pick-up-an-m1-macbook-air-for-only-74999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Slack CTO Cal Henderson on how the pandemic changed Slack and workplace habits, acquisition by Salesforce, generative AI, India market, and more &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231126/p2#a231126p2)
+ - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Sunday](https://www.wired.com/story/absolute-best-black-friday-deals-6/)
+ - [Starquakes Might Solve the Mysteries of Stellar Magnetism](https://www.wired.com/story/starquakes-might-solve-the-mysteries-of-stellar-magnetism/)
  - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
- - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)
- - [We Found 21 Early Cyber Monday Laptop Deals on Samsung, Lenovo, Apple, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Tottenham vs. Aston Villa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-tottenham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Net Neutrality: What It Means for Your Everyday Internet Access and Streaming Speeds     - CNET](https://www.cnet.com/home/internet/net-neutrality-what-it-means-for-your-everyday-internet-access-and-streaming-speeds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

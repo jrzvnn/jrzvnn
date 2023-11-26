@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage](https://www.wired.com/story/how-to-make-web-searches-secure-private/)
- - [Save $200 on M2 13-inch MacBook Air in this B&amp;H Cyber Monday deal](https://appleinsider.com/articles/23/11/26/save-200-on-m2-13-inch-macbook-air-in-this-bh-cyber-monday-deal?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Everton vs. Man United From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [Walmart&#39;s Black Friday Sale Continues: Huge Savings on 4K TVs, Xbox Bundles, Gaming Monitors and More     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)
- - [The 43 Best Cyber Monday TV Deals: Big Savings on LG, TCL, Samsung and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Perks You&#39;ll Want to Use During Cyber Monday 2023     - CNET](https://www.cnet.com/deals/amazon-prime-perks-youll-want-to-use-during-cyber-monday-2023/#ftag=CAD590a51e)
+ - [Best Cyber Monday Deals: Over 50 Curated Picks You Can Shop Early     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Shopping Amazon Cyber Monday Deals? Here&#39;s How to Keep Your Purchases a Secret     - CNET](https://www.cnet.com/tech/shopping-amazon-cyber-monday-deals-heres-how-to-keep-your-purchases-a-secret/#ftag=CAD590a51e)
+ - [Nab an Apple Watch Ultra 2 at Its Best Price Yet This Cyber Monday     - CNET](https://www.cnet.com/deals/nab-apple-watch-ultra-2-best-price-yet-black-friday/#ftag=CAD590a51e)
+ - [10 Best Cyber Monday AirPods Deals: Save Up to $99 Off Max, Pro and Much More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

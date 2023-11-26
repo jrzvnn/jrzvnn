@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
- - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 👉 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)<!-- MEMES:END -->
+ - 😝 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
+ - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
+ - 💣 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)
+ - 😝 [Made a bober countryball](http://9gag.com/gag/axor1BL)
+ - 👉 [Magic trick](http://9gag.com/gag/adPzKnD)<!-- MEMES:END -->
 
 ---
 

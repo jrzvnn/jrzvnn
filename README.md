@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the growing usage of social media apps like Douyin among the elderly in China since the COVID-19 lockdowns, often to find companionship &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/231126/p5#a231126p5)
  - [Best AirPods Cyber Monday deals offer up to $100 in savings](https://appleinsider.com/articles/23/11/26/best-airpods-cyber-monday-deals-offer-up-to-100-in-savings?utm_medium=rss)
  - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
  - [Amazon&#39;s Cyber Monday Apple deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/26/amazons-cyber-monday-apple-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
- - [The Best Apple Cyber Monday Deals 2023: Save on AirPods, iPad, Apple Watch, MacBook     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [The second-generation Apple Pencil has dropped to a new all-time low](https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale)<!-- TECH:END -->
+ - [The Best Apple Cyber Monday Deals 2023: Save on AirPods, iPad, Apple Watch, MacBook     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

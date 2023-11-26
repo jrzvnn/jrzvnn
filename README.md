@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [60+ Early Cyber Monday Deals Under $100: We Found the Best Deals to Shop Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
- - [Shop the Best Cyber Monday Deals Under $25: Save Big on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
  - [A look at the growing usage of social media apps like Douyin among the elderly in China since the COVID-19 lockdowns, often to find companionship &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/231126/p5#a231126p5)
  - [Best AirPods Cyber Monday deals offer up to $100 in savings](https://appleinsider.com/articles/23/11/26/best-airpods-cyber-monday-deals-offer-up-to-100-in-savings?utm_medium=rss)
- - [The 23 Best Cyber Monday Phone Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 23 Best Cyber Monday Phone Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)
+ - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
+ - [Cyber Monday 2023 Live Blog: Over 170 Early Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/cyber-monday-2023-live-ongoing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

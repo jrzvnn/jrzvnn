@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
+ - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 💣 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
  - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---
 

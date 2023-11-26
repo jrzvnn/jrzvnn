@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
- - 💣 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 👉 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)<!-- MEMES:END -->
+ - 😝 [Where to??](http://9gag.com/gag/aYV0ejO)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 👉 [Cops POV](http://9gag.com/gag/awZpVE8)<!-- MEMES:END -->
 
 ---
 

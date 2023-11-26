@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
- - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 👉 [This is how you deal with these assholes.](http://9gag.com/gag/aNwbY4A)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
 
 ---
 

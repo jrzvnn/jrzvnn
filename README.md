@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
- - 😝 [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
- - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 👉 [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)<!-- MEMES:END -->
+ - 😝 [Did I miss something?](http://9gag.com/gag/aXnOvog)
+ - 😝 [Choose your fighter](http://9gag.com/gag/aL1E2QV)
+ - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
 
 ---
 

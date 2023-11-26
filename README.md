@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)
- - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 💣 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
- - 😝 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
- - 👉 [Made a bober countryball](http://9gag.com/gag/axor1BL)<!-- MEMES:END -->
+ - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
+ - 😝 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)
+ - 💣 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 👉 [Helping her with her poses.](http://9gag.com/gag/awZpnOy)<!-- MEMES:END -->
 
 ---
 

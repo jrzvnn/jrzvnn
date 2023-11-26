@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
  - 😝 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 💣 [Choose your fighter](http://9gag.com/gag/aL1E2QV)
- - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 💣 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
 
 ---
 

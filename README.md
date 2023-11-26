@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
+ - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)
  - [Save Big on 23 Pre-Cyber Monday Phone Deals     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)
  - [I&#39;m No Vegetarian but I Love Purple Carrot, a Vegan Meal Service That&#39;s 60% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/im-not-vegetarian-and-i-love-purple-carrot-a-vegan-meal-service-thats-super-cheap-for-black-friday/#ftag=CAD590a51e)
- - [29 Early Cyber Monday Nintendo Switch Deals you can snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
- - [35 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-2/)
- - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)<!-- TECH:END -->
+ - [29 Early Cyber Monday Nintendo Switch Deals you can snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

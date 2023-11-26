@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
- - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
- - 💣 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 👉 [Don&#39;t have word to express title.....](http://9gag.com/gag/aVb6q4d)<!-- MEMES:END -->
+ - 😝 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)
+ - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
+ - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [Legend](http://9gag.com/gag/a2KX5KE)
+ - 👉 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)<!-- MEMES:END -->
 
 ---
 

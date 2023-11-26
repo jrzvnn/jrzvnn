@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The second-generation Apple Pencil has dropped to a new all-time low](https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale)
  - [A look at Shein&#39;s NYC pop-up store, which resembled its website and may have only reinforced Shein&#39;s image of being quick, cheap, and not quite as it seems &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231126/p4#a231126p4)
  - [Best Early Cyber Monday Soundbar Deals: Upgrade Your TV Setup With Sonos, Bose, LG and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-soundbar-deals/#ftag=CAD590a51e)
  - [Roomba’s newest robot vacuums are up to $400 off for Cyber Monday](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal)
- - [The PlayStation Portal Is Sold Out Ahead of Cyber Monday. Here Are Your Best Options To Check for More Stock     - CNET](https://www.cnet.com/deals/the-playstation-portal-is-sold-out-but-heres-where-it-may-return-soon/#ftag=CAD590a51e)
- - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)<!-- TECH:END -->
+ - [The PlayStation Portal Is Sold Out Ahead of Cyber Monday. Here Are Your Best Options To Check for More Stock     - CNET](https://www.cnet.com/deals/the-playstation-portal-is-sold-out-but-heres-where-it-may-return-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

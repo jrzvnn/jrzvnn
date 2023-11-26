@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
  - [The best early Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
  - [You Can Now Snag a Specialized Electric Bike for $2,000](https://www.wired.com/story/specialized-turbo-tero-black-friday-2023/)
  - [73 Best Black Friday Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-black-friday-deals-under-50-2023-4/)
- - [33 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-2/)
- - [The best early Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)<!-- TECH:END -->
+ - [Cyber Monday Deal: &#39;Get a Peloton,&#39; They Said. My Spin Bike Is Half the Price and I Love It     - CNET](https://www.cnet.com/deals/cyber-monday-deal-get-a-peloton-they-said-my-spin-bike-is-half-the-price-and-i-love-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

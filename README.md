@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Photo Cyber Monday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
  - [A look at Replicator, a Pentagon initiative expected to accelerate hard decisions on what AI tech is reliable enough to deploy, including on weaponized systems &lpar;Frank Bajak/Associated Press&rpar;](http://www.techmeme.com/231125/p11#a231125p11)
  - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
  - [Black Friday 2023 Live Blog: 170+ Best Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
- - [30 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-2/)
- - [Best Apple Watch Black Friday weekend deals drop prices to as low as $179](https://appleinsider.com/articles/23/11/26/best-apple-watch-black-friday-weekend-deals-drop-prices-to-as-low-as-189?utm_medium=rss)<!-- TECH:END -->
+ - [30 Black Friday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-black-friday-kitchen-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

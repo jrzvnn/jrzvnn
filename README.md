@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 💣 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [The Dutch people have decided...](http://9gag.com/gag/a9qGpOD)
+ - 💣 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 👉 [Geert Wilders, winner of the election in the Netherlands, on the Turks: \u201cYou are not Europeans and you never will be. An Islamic state like Turkey does not belong to Europe&#39;&#39;](http://9gag.com/gag/aXnOqRz)<!-- MEMES:END -->
 
 ---
 

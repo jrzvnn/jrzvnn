@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)<!-- MEMES:END -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 👉 [Cops POV](http://9gag.com/gag/awZpVE8)<!-- MEMES:END -->
 
 ---
 

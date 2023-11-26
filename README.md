@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Atleast 7 lines of code](http://9gag.com/gag/awZp5NQ)
- - 😝 [\u201cIreland, we are at war\u201d](http://9gag.com/gag/ap9MQoM)
- - 💣 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
- - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
- - 👉 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)<!-- MEMES:END -->
+ - 😝 [Korea Life](http://9gag.com/gag/adPzpOZ)
+ - 😝 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Cyber Monday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
  - [The best early Cyber Monday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
  - [The best early Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
  - [The best early Cyber Monday phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
- - [Google Will Start Deleting Old Accounts This Week. Here&#39;s How to Save Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-this-week-heres-how-to-save-your-google-account/#ftag=CAD590a51e)
- - [The best early Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)<!-- TECH:END -->
+ - [Google Will Start Deleting Old Accounts This Week. Here&#39;s How to Save Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-this-week-heres-how-to-save-your-google-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How &#39;Baldur&#39;s Gate 3&#39; Became the Horniest Game of the Year](https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/)
  - [4 Tips to Spot Misinformation on the Web](https://www.wired.com/story/4-tips-spot-misinformation/)
- - [Save Big on 23 Pre-Cyber Monday Phone Deals     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)
- - [I&#39;m No Vegetarian but I Love Purple Carrot, a Vegan Meal Service That&#39;s 60% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/im-not-vegetarian-and-i-love-purple-carrot-a-vegan-meal-service-thats-super-cheap-for-black-friday/#ftag=CAD590a51e)
- - [29 Early Cyber Monday Nintendo Switch Deals you can snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Found 21 Early Cyber Monday Laptop Deals on Samsung, Lenovo, Apple, and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-laptop-deals/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Tottenham vs. Aston Villa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-tottenham-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [Net Neutrality: What It Means for Your Everyday Internet Access and Streaming Speeds     - CNET](https://www.cnet.com/home/internet/net-neutrality-what-it-means-for-your-everyday-internet-access-and-streaming-speeds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

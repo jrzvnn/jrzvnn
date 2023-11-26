@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 😝 [What to do after falling into water with clothes](http://9gag.com/gag/aA09Pod)
  - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
  - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
+ - 👉 [This is how you deal with these assholes.](http://9gag.com/gag/aNwbY4A)<!-- MEMES:END -->
 
 ---
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Above and beyond](http://9gag.com/gag/aqeELBQ)
- - 😝 [Birthmark covers most her torso](http://9gag.com/gag/aKEMqxg)
- - 💣 [Sad](http://9gag.com/gag/a9qG7wj)
- - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 😝 [Choose your fighter](http://9gag.com/gag/aL1E2QV)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
  - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---

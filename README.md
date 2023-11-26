@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 👉 [Cops POV](http://9gag.com/gag/awZpVE8)<!-- MEMES:END -->
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)
+ - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
 
 ---
 

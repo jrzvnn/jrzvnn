@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 💣 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
  - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
+ - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 ---
 

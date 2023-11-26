@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did I miss something?](http://9gag.com/gag/aXnOvog)
- - 😝 [Choose your fighter](http://9gag.com/gag/aL1E2QV)
- - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
+ - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
+ - 😝 [Getting handie with those will be fire](http://9gag.com/gag/aDYvmyZ)
+ - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
+ - 😝 [The neighbors finally figure out what that smell was all about](http://9gag.com/gag/aWGXmQx)
+ - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
 
 ---
 

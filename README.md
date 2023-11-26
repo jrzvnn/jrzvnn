@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AirPods Cyber Monday deals offer up to $100 in savings](https://appleinsider.com/articles/23/11/26/best-airpods-cyber-monday-deals-offer-up-to-100-in-savings?utm_medium=rss)
+ - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
  - [Amazon&#39;s Cyber Monday Apple deals drop prices to as low as $23.99](https://appleinsider.com/articles/23/11/26/amazons-cyber-monday-apple-deals-drop-prices-to-as-low-as-2399?utm_medium=rss)
- - [The second-generation Apple Pencil has dropped to a new all-time low](https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale)
- - [Best Cyber Monday Sonos Deals Right Now: Save up to 25% on Sonos Speakers, Soundbars and Subwoofers     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-sonos-deals/#ftag=CAD590a51e)
- - [A look at Shein&#39;s NYC pop-up store, which resembled its website and may have only reinforced Shein&#39;s image of being quick, cheap, and not quite as it seems &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231126/p4#a231126p4)
- - [Best Early Cyber Monday Soundbar Deals: Upgrade Your TV Setup With Sonos, Bose, LG and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Apple Cyber Monday Deals 2023: Save on AirPods, iPad, Apple Watch, MacBook     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
+ - [The second-generation Apple Pencil has dropped to a new all-time low](https://www.theverge.com/2023/11/26/23976752/apple-pencil-cyber-monday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

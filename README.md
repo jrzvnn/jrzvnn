@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 49 Best PS5 Black Friday Deals: Up to $120 in Savings on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)
- - [Black Friday 2023 Live Blog: 170+ Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/black-friday-2023-live-ongoing/#ftag=CAD590a51e)
- - [10 Best All-Clad Cookware Deals Right Now &lpar;Black Friday 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
- - [Flash deal: get $250 off this 14-inch MacBook Pro M3 Pro, now $1,749 today only](https://appleinsider.com/articles/23/11/25/flash-deal-get-250-off-this-14-inch-macbook-pro-m3-pro-now-1749-today-only?utm_medium=rss)
- - [Binge All the Savings with 28 Black Friday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday continues: pick up an M1 MacBook Air for only $749.99](https://appleinsider.com/articles/23/11/26/black-friday-continues-pick-up-an-m1-macbook-air-for-only-74999?utm_medium=rss)
+ - [A Bitcoin user seems to have accidentally paid a record $3M fee for a $5M transaction and sent $2M; in September, Paxos paid $500K, now returned, to send $2,000 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/231125/p10#a231125p10)
+ - [Best Buy Black Friday: 83 Top Deals from KitchenAid, Apple, Sonos, Lego and More     - CNET](https://www.cnet.com/deals/best-buy-black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [Don&#39;t Tell These 181 Black Friday Deals That It&#39;s Saturday](https://www.wired.com/story/absolute-best-black-friday-deals-5/)
+ - [Best Amazon Black Friday Deals: 95+ Deals to Shop Before Cyber Monday     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

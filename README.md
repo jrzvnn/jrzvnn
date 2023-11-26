@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla and Volkswagen called these hydrogen cars stupid but hydrogen vehicles have no heavy battery and drives by pulling oxygen from the atmosphere and mixing it with the hydrogen stored in their tanks](http://9gag.com/gag/aL1EBGV)
- - 😝 [I do not know a sexier sport than volleyball](http://9gag.com/gag/ajV4nP8)
- - 💣 [LMAO](http://9gag.com/gag/aQEj8jr)
- - 😝 [Uh oh](http://9gag.com/gag/aBdewB1)
- - 👉 [But you can&#39;t....](http://9gag.com/gag/ap9MBY9)<!-- MEMES:END -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [LMAO](http://9gag.com/gag/aQEj8jr)
+ - 👉 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [35 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-2/)
+ - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)
  - [21 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023-1/)
  - [81 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [As safety demands strip Llama 2, ChatGPT, and others of anything remotely controversial, some programmers are building uncensored LLMs without safety guardrails &lpar;Mark Gimein/The Atlantic&rpar;](http://www.techmeme.com/231126/p1#a231126p1)
- - [B&amp;H Cyber Monday Apple deals slash up to $2,900 off MacBook, iPad, desktop Mac devices](https://appleinsider.com/articles/23/11/23/bh-photo-black-friday-apple-deals-slash-up-to-2900-off-macbook-ipad-desktop-mac-devices?utm_medium=rss)
- - [30 Best Black Friday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-black-friday-camera-deals-2023-1/)<!-- TECH:END -->
+ - [As safety demands strip Llama 2, ChatGPT, and others of anything remotely controversial, some programmers are building uncensored LLMs without safety guardrails &lpar;Mark Gimein/The Atlantic&rpar;](http://www.techmeme.com/231126/p1#a231126p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

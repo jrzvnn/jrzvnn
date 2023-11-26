@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)
  - [The best early Cyber Monday 2023 gaming deals you can get](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
  - [Apple’s AirTags are still receiving a rare discount ahead of Cyber Monday](https://www.theverge.com/2023/11/21/23969948/apple-airtag-bluetooth-tracker-black-friday-deal-sale)
  - [The best early Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [The best early Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
- - [You Can Now Snag a Specialized Electric Bike for $2,000](https://www.wired.com/story/specialized-turbo-tero-black-friday-2023/)<!-- TECH:END -->
+ - [The best early Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

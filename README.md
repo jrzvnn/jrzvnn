@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The best early Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
  - [Early Cyber Monday sales on some of our favorites](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [Russia&#39;s interior ministry adds Meta&#39;s spokesperson Andy Stone to its wanted list, according to state-owned news agency TASS &lpar;Laura Kayali/Politico&rpar;](http://www.techmeme.com/231126/p3#a231126p3)
- - [The best early Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [The best early Cyber Monday deals](https://www.theverge.com/23976342/cyber-monday-2023-best-early-deals-tech-speakers-gadgets)<!-- TECH:END -->
+ - [Giving Tuesday 2023: When Is It, What It Means and How You Can Help     - CNET](https://www.cnet.com/culture/giving-tuesday-2023-when-is-it-what-it-means-and-how-you-can-help/#ftag=CAD590a51e)
+ - [The best early Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

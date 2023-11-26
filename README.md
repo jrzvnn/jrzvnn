@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)
+ - 💣 [Cops POV](http://9gag.com/gag/awZpVE8)
  - 😝 [It&#39;s f&amp;king sad.](http://9gag.com/gag/agoeVm6)
- - 😝 [Getting handie with those will be fire](http://9gag.com/gag/aDYvmyZ)
- - 💣 [That&#39;s the most Danish thing i&#39;ve ever seen](http://9gag.com/gag/ay2Kd1M)
- - 😝 [The neighbors finally figure out what that smell was all about](http://9gag.com/gag/aWGXmQx)
- - 👉 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)<!-- MEMES:END -->
+ - 👉 [Sad](http://9gag.com/gag/a9qG7wj)<!-- MEMES:END -->
 
 ---
 

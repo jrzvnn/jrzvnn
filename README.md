@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage](https://www.wired.com/story/how-to-make-web-searches-secure-private/)
  - [Save $200 on M2 13-inch MacBook Air in this B&amp;H Cyber Monday deal](https://appleinsider.com/articles/23/11/26/save-200-on-m2-13-inch-macbook-air-in-this-bh-cyber-monday-deal?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Everton vs. Man United From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [Walmart&#39;s Black Friday Sale Continues: Huge Savings on 4K TVs, Xbox Bundles, Gaming Monitors and More     - CNET](https://www.cnet.com/deals/walmart-black-friday-sale/#ftag=CAD590a51e)
- - [The 43 Best Cyber Monday TV Deals: Big Savings on LG, TCL, Samsung and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals Under $50: Save Big on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Slack CTO Cal Henderson on how the pandemic changed Slack and workplace habits, acquisition by Salesforce, generative AI, India market, and more &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231126/p2#a231126p2)
+ - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Sunday](https://www.wired.com/story/absolute-best-black-friday-deals-6/)
+ - [Starquakes Might Solve the Mysteries of Stellar Magnetism](https://www.wired.com/story/starquakes-might-solve-the-mysteries-of-stellar-magnetism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

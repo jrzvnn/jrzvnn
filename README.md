@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on 23 Pre-Cyber Monday Phone Deals     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)
- - [I&#39;m No Vegetarian but I Love Purple Carrot, a Vegan Meal Service That&#39;s 60% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/im-not-vegetarian-and-i-love-purple-carrot-a-vegan-meal-service-thats-super-cheap-for-black-friday/#ftag=CAD590a51e)
- - [29 Early Cyber Monday Nintendo Switch Deals you can snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
  - [35 Best Black Friday Mattress Deals &lpar;2023&rpar;: Foam, Hybrid, and Sheets](https://www.wired.com/story/best-black-friday-mattress-deals-2023-2/)
- - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)<!-- TECH:END -->
+ - [12 Best Black Friday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-black-friday-monitor-deals-2023-1/)
+ - [21 Best Black Friday Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Lube](https://www.wired.com/story/best-black-friday-sex-toy-deals-2023-1/)
+ - [81 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [As safety demands strip Llama 2, ChatGPT, and others of anything remotely controversial, some programmers are building uncensored LLMs without safety guardrails &lpar;Mark Gimein/The Atlantic&rpar;](http://www.techmeme.com/231126/p1#a231126p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

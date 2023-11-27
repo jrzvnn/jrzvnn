@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
  - [The best Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
  - [A US judge rules ex-Binance CEO Changpeng Zhao cannot leave the US until a court considers whether he should remain through his sentencing hearing in February &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231127/p20#a231127p20)
- - [Cyber Monday price drop: get Apple&#39;s M2 Mac mini for $479 at B&amp;H](https://appleinsider.com/articles/23/11/27/cyber-monday-price-drop-get-apples-m2-mac-mini-for-479-at-bh?utm_medium=rss)
- - [14 Best Cyber Monday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-cyber-monday-monitor-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [Cyber Monday price drop: get Apple&#39;s M2 Mac mini for $479 at B&amp;H](https://appleinsider.com/articles/23/11/27/cyber-monday-price-drop-get-apples-m2-mac-mini-for-479-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

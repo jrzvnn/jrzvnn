@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
  - [Tesla Is Suing Sweden](https://www.wired.com/story/tesla-sues-sweden-union-action/)
  - [Start your New Year&#39;s fitness goals early with these discounts from Amazon](https://appleinsider.com/articles/23/11/27/start-your-new-years-fitness-goals-early-with-these-discounts-from-amazon?utm_medium=rss)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [UK-based Oxford Quantum Circuits, which offers quantum-computing-as-a-service, announces a new 32-qubit system and an ongoing $100M Series B led by Japan&#39;s SBI &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231127/p18#a231127p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

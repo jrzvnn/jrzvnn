@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: fast-fashion giant Shein confidentially files for a US IPO, potentially in 2024, with Goldman Sachs, JPMorgan Chase, and Morgan Stanley as underwriters &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p24#a231127p24)
+ - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
  - [4 Cyber Monday Vacuum Deals That Totally Suck &lpar;In A Good Way&rpar;](https://www.wired.com/story/cyber-monday-vacuum-deals-dyson-roborock-2023/)
  - [Sports Illustrated reportedly published articles from fake AI authors](https://www.theverge.com/2023/11/27/23978389/sports-illustrated-ai-fake-authors-advon-commerce-gannett-usa-today)
- - [Sources: Reddit is talking with potential investors for an IPO as soon as in Q1 2024; cloud data management startup Rubrik is also considering an IPO in Q1 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p23#a231127p23)
- - [My Favorite Baby Bassinet Is $210 During Cyber Monday     - CNET](https://www.cnet.com/deals/my-favorite-baby-bassinet-is-210-during-cyber-monday-sales/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 4 Gives Me Everything I Need, and It&#39;s $129 for Cyber Monday     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-gives-me-everything-i-need-and-its-129-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Reddit is talking with potential investors for an IPO as soon as in Q1 2024; cloud data management startup Rubrik is also considering an IPO in Q1 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p23#a231127p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

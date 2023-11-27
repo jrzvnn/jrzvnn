@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
+ - [A US judge rules ex-Binance CEO Changpeng Zhao cannot leave the US until a court considers whether he should remain through his sentencing hearing in February &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231127/p20#a231127p20)
  - [Cyber Monday price drop: get Apple&#39;s M2 Mac mini for $479 at B&amp;H](https://appleinsider.com/articles/23/11/27/cyber-monday-price-drop-get-apples-m2-mac-mini-for-479-at-bh?utm_medium=rss)
  - [14 Best Cyber Monday Monitor Deals &lpar;2023&rpar;: Portable, Vertical, Desktop](https://www.wired.com/story/best-cyber-monday-monitor-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [The European Commission says Amazon&#39;s $1.4B iRobot acquisition may restrict competition; Amazon says it&#39;s working to address the EC&#39;s concerns; IRBT drops 18%+ &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231127/p19#a231127p19)
- - [Tesla sues Sweden’s postal agency as union fight escalates](https://www.theverge.com/2023/11/27/23977923/tesla-sweden-lawsuit-postal-workers-license-plates)<!-- TECH:END -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

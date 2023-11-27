@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
  - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 💣 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [Wtf](http://9gag.com/gag/aWGXqOZ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
+ - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 

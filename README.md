@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
- - 💣 [Sit](http://9gag.com/gag/a0435nX)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
  - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 💣 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
+ - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
 
 ---
 

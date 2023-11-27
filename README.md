@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Camper Wakes Up To Hundred of Spiders Crawling on Its Tent](http://9gag.com/gag/aA093nZ)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 💣 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
  - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
+ - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 💣 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
 
 ---
 

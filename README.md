@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 💣 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
- - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
 
 ---
 

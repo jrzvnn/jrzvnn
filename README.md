@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [An interview with Binance CEO Richard Teng on helping the exchange become a conventional financial company, previous &quot;missteps&quot;, his background, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/231127/p8#a231127p8)
  - [Experts say Tron has overtaken bitcoin as the go-to funding method for Israel-designated terror groups; Israel froze 143 Tron wallets between 2021 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p7#a231127p7)
  - [Get up to 50% off these Thunderbolt docks for Cyber Monday](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
- - [The US Wants Vietnam to Be Its New Tech Best Friend](https://www.wired.com/story/us-vietnam-new-tech-best-friend/)
- - [Dr. Paula Johnson Is Breaking Down the Barriers to Better Health](https://www.wired.com/story/women-in-science-paula-johnson/)<!-- TECH:END -->
+ - [The US Wants Vietnam to Be Its New Tech Best Friend](https://www.wired.com/story/us-vietnam-new-tech-best-friend/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

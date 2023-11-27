@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Giant Lego sets get massive discounts for Cyber Monday](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
+ - [The best Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
+ - [Salesforce plans to sell most of its big apps on AWS&#39; marketplace, letting customers use credits, after years of Amazon nudging customers to use the marketplace &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p12#a231127p12)
  - [Astropad Darkboard review: a perfectly portable artboard for the iPad Pro and iPad Air](https://appleinsider.com/articles/23/11/27/astropad-darkboard-review-a-perfectly-portable-artboard-for-the-ipad-pro-and-ipad-air?utm_medium=rss)
- - [The best Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
- - [These Are Our Favorite Walmart Cyber Monday Deals](https://www.wired.com/story/best-walmart-cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)<!-- TECH:END -->
+ - [The best Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

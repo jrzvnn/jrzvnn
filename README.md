@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Newlands, a secretive tech fund backed by Jan Koum and led by former Sequoia partner Michael Abramson that holds nearly $10B in public equities &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231127/p16#a231127p16)
- - [We Found 65 Fantastic Deals at Best Buy’s Cyber Monday Sale](https://www.wired.com/story/best-buy-cyber-monday-deals-2023/)
+ - [The best Cyber Monday phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [The best Cyber Monday 2023 gaming deals you can get](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
- - [London-based PhysicsX, which uses AI for engineering simulations in automotive, aerospace, and other industries, raised a $32M Series A led by General Catalyst &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231127/p15#a231127p15)<!-- TECH:END -->
+ - [These Cyber Monday Sonos Deals Will Make Your House Sing](https://www.wired.com/story/best-cyber-monday-sonos-deals-2023/)
+ - [Sources: US officials issued warnings over Abu Dhabi-based AI company G42&#39;s work with Chinese companies, including Huawei; the CIA profiled G42 CEO Peng Xiao &lpar;New York Times&rpar;](http://www.techmeme.com/231127/p17#a231127p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

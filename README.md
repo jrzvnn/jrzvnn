@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just selling some oil](http://9gag.com/gag/a0435Dn)
- - 😝 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
- - 💣 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
- - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 👉 [Magic trick](http://9gag.com/gag/adPzKnD)<!-- MEMES:END -->
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 😝 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
+ - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 ---
 

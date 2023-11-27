@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 💣 [The left.](http://9gag.com/gag/aQEjep2)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 😝 [Muh privileghpriv](http://9gag.com/gag/aVb6wpn)
+ - 💣 [Dad joke.](http://9gag.com/gag/avQjz8d)
+ - 😝 [...but most importantly, he b\u00f3br](http://9gag.com/gag/aeQBDoQ)
+ - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
 
 ---
 

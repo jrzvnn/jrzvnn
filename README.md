@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hue Contact Sensor gets HomeKit, Sonos rumors, &amp; charging reviews on HomeKit Insider](https://appleinsider.com/articles/23/11/27/hue-contact-sensor-gets-homekit-sonos-rumors-charging-reviews-on-homekit-insider?utm_medium=rss)
- - [Giant Lego sets get massive discounts for Cyber Monday](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [The best Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
- - [Salesforce plans to sell most of its big apps on AWS&#39; marketplace, letting customers use credits, after years of Amazon nudging customers to use the marketplace &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p12#a231127p12)<!-- TECH:END -->
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
+ - [The best Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
+ - [As Elon Musk visits Israel, an official says Musk &quot;reach[ed] a principle understanding&quot; that Starlink &quot;can only be operated in Israel&quot; with government approval &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231127/p13#a231127p13)
+ - [Mass layoffs reportedly hit Marvel Snap publisher Nuverse](https://www.theverge.com/2023/11/27/23977673/bytedance-nuverse-gaming-layoffs-restructure)
+ - [The 140 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

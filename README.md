@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)
- - [New multi-national AI security guidelines are toothless and weak](https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak?utm_medium=rss)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [75 Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
- - [Early Cyber Monday sales on some of our favorites](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
+ - [How Do You Hide Secret Codes In Diamonds? Space Lasers!](https://www.wired.com/story/opsydia-hide-secret-codes-in-diamonds-space-lasers/)
+ - [Dust Is So Much More Than You Realize](https://www.wired.com/story/dust-is-so-much-more-than-you-realize/)
+ - [This company just put the air in Apple’s MacBook Air](https://www.theverge.com/2023/11/27/23975368/frore-airjet-apple-macbook-air-fanless-mems)
+ - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [135 Absolute Best Cyber Monday Deals Right Now &lpar;2023&rpar;: Apple Watches, Routers, and More](https://www.wired.com/story/best-cyber-monday-deals-2023/)
  - [6 Best Amazon Kindle Cyber Monday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-kindle-deals-2023/)
  - [33 Best Cyber Monday Camera Deals &lpar;2023&rpar;: GoPro, Canon, DJI](https://www.wired.com/story/best-cyber-monday-camera-deals-2023/)
  - [All the Phone and Tablet Deals Worth a Look on Cyber Monday](https://www.wired.com/story/best-cyber-monday-smartphone-tablet-deals-2023/)
- - [27 Best Cyber Monday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-cyber-monday-headphone-deals-2023/)
- - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Monday, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [27 Best Cyber Monday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-cyber-monday-headphone-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Phone and Tablet Deals Worth a Look on Cyber Monday 2023](https://www.wired.com/story/best-cyber-monday-smartphone-tablet-deals-2023/)
+ - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
  - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)
- - [Sources: fast-fashion giant Shein confidentially files for a US IPO, potentially in 2024, with Goldman Sachs, JPMorgan Chase, and Morgan Stanley as underwriters &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p24#a231127p24)
- - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
+ - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

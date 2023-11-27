@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
- - 😝 [Is it already too late?](http://9gag.com/gag/aOxW07v)
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 💣 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
  - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 ---

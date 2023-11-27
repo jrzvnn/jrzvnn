@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
  - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 💣 [The left.](http://9gag.com/gag/aQEjep2)
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 😝 [Savage grandma](http://9gag.com/gag/avQjzG5)
+ - 💣 [Genuine question](http://9gag.com/gag/aL1E05W)
+ - 😝 [Built different](http://9gag.com/gag/a6qRKbe)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 

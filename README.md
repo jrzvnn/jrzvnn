@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
+ - [Finland-based Varjo launches the XR-4, a $3,990 mixed reality headset aimed at businesses, touting a 120-degree field of view, 4K displays, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/231127/p27#a231127p27)
+ - [Tumblr sheds Post Plus subscriptions as the platform downsizes](https://www.theverge.com/2023/11/27/23978683/tumblr-post-plus-subscription-downsize)
  - [The 161 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Amazon slashes prices on Canon, Nikon, Sony with last-minute Cyber Monday deals](https://appleinsider.com/articles/23/11/27/amazon-slashes-prices-on-canon-nikon-sony-with-last-minute-cyber-monday-deals?utm_medium=rss)
- - [YouTube Premium rolls out Playables, which lets users play games on mobile and desktop with no need to download, available until March 28, 2024 &lpar;Kellen/Droid Life&rpar;](http://www.techmeme.com/231127/p26#a231127p26)
- - [Some Google Drive for Desktop users are missing months of files](https://www.theverge.com/2023/11/27/23978591/google-drive-desktop-data-loss-bug-files-missing-investigation)<!-- TECH:END -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

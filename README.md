@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 💣 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
+ - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 👉 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)<!-- MEMES:END -->
 
 ---
 

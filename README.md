@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
- - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
+ - 😝 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
+ - 😝 [Built different](http://9gag.com/gag/a6qRKbe)
+ - 💣 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)
+ - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 👉 [Hole or pole](http://9gag.com/gag/awZpoN8)<!-- MEMES:END -->
 
 ---
 

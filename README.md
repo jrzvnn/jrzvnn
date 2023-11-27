@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Smart With These Nest and Google Pixel Cyber Monday Deals](https://www.wired.com/story/cyber-monday-google-pixel-deals-nest-deals-2023/)
  - [Binge All the Savings with 28 Cyber Monday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
  - [36 Home Depot Cyber Monday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-cyber-monday-deals-2023/)
  - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
- - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
- - [34 Best Cyber Monday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
+ - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

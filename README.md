@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [High school in the 1990s before social media](http://9gag.com/gag/a3ZOKjN)
+ - 😝 [Is it already too late?](http://9gag.com/gag/aOxW07v)
+ - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
  - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 💣 [Don&#39;t push people to a point where they no longer care about the consequences.](http://9gag.com/gag/armLbnp)
- - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 ---
 

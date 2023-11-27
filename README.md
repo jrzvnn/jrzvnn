@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance plans to cut ~1,000 jobs and discontinue all but a few games that have yet to launch, backing away from its aggressive investments since 2016 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/231127/p14#a231127p14)
+ - [Amazon’s Smart Thermostat is on sale and comes with a free Echo Pop](https://www.theverge.com/2023/11/27/23976678/amazon-smart-thermostat-echo-pop-cyber-monday-deal-sale)
+ - [The best Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
  - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
- - [The best Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [As Elon Musk visits Israel, an official says Musk &quot;reach[ed] a principle understanding&quot; that Starlink &quot;can only be operated in Israel&quot; with government approval &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231127/p13#a231127p13)
- - [Mass layoffs reportedly hit Marvel Snap publisher Nuverse](https://www.theverge.com/2023/11/27/23977673/bytedance-nuverse-gaming-layoffs-restructure)
- - [The 140 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [34 Cyber Monday Laptop Deals—Plus Clickety-Clack Keyboards](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

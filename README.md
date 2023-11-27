@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)
- - [After an Amazon worker in Indiana died, the state fined Amazon just $7,000, the maximum allowed, highlighting states&#39; limited ability to enforce safety policies &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231127/p6#a231127p6)
- - [The 135 Absolute Best Cyber Monday Deals &lpar;So far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [Cyber Monday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/cyber-monday-deal-gets-you-the-ultraloq-u-bolt-pro-for-only-119/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [Experts say Tron has overtaken bitcoin as the go-to funding method for Israel-designated terror groups; Israel froze 143 Tron wallets between 2021 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p7#a231127p7)
+ - [Get up to 50% off these Thunderbolt docks for Cyber Monday](https://appleinsider.com/articles/23/11/21/save-up-to-50-on-these-black-friday-deals-on-thunderbolt-docks?utm_medium=rss)
+ - [The US Wants Vietnam to Be Its New Tech Best Friend](https://www.wired.com/story/us-vietnam-new-tech-best-friend/)
+ - [Dr. Paula Johnson Is Breaking Down the Barriers to Better Health](https://www.wired.com/story/women-in-science-paula-johnson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [The left.](http://9gag.com/gag/aQEjep2)
- - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
+ - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 

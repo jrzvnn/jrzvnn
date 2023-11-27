@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [75 Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
+ - [80 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
  - [20 Best Cyber Monday Deals on Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
  - [The US, the UK, and more than a dozen other countries release joint guidelines for AI system development, including creating systems that are &quot;secure by design&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p1#a231127p1)
- - [Get a loaded M1 Max MacBook Pro 16-inch for as low as $2,199 this Cyber Monday](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)
- - [Get Smart With These Nest and Google Pixel Cyber Monday Deals](https://www.wired.com/story/cyber-monday-google-pixel-deals-nest-deals-2023/)
- - [Binge All the Savings with 28 Cyber Monday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a loaded M1 Max MacBook Pro 16-inch for as low as $2,199 this Cyber Monday](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

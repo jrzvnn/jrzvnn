@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 💣 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - 😝 [A Camper Wakes Up To Hundred of Spiders Crawling on Its Tent](http://9gag.com/gag/aA093nZ)
  - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)<!-- MEMES:END -->
+ - 💣 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)
  - [New multi-national AI security guidelines are toothless and weak](https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak?utm_medium=rss)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [75 Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
- - [Early Cyber Monday sales on some of our favorites](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [The best Cyber Monday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)<!-- TECH:END -->
+ - [Early Cyber Monday sales on some of our favorites](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

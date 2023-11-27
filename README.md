@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 😝 [The left.](http://9gag.com/gag/aQEjep2)
+ - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
  - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
 
 ---
 

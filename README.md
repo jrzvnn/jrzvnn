@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
+ - [How Apple&#39;s 40 years of learning &amp; iteration is powering Vision Pro](https://appleinsider.com/articles/23/11/27/how-apples-40-years-of-learning-iteration-is-powering-vision-pro?utm_medium=rss)
  - [The best Cyber Monday phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
  - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [These Cyber Monday Sonos Deals Will Make Your House Sing](https://www.wired.com/story/best-cyber-monday-sonos-deals-2023/)
- - [Sources: US officials issued warnings over Abu Dhabi-based AI company G42&#39;s work with Chinese companies, including Huawei; the CIA profiled G42 CEO Peng Xiao &lpar;New York Times&rpar;](http://www.techmeme.com/231127/p17#a231127p17)<!-- TECH:END -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [Digital car keys are here. Are we ready?](https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard)
  - [Cyber Monday deals: Apple Pencil 2 $79, $100 off iPad Air 5, up to 76% off Echelon Gear, more](https://appleinsider.com/articles/23/11/27/cyber-monday-deals-apple-pencil-2-79-100-off-ipad-air-5-up-to-76-off-echelon-gear-more?utm_medium=rss)
  - [Roomba’s newest robot vacuums are up to $400 off for Cyber Monday](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal)
- - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [21 Best Cyber Monday Apple Watch Deals: Get These Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

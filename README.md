@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [62 Best Target Cyber Monday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-black-friday-deals-2023-3/)
- - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [How to use Reactions in video calls in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-reactions-in-video-calls-in-ios-17-and-ipados-17?utm_medium=rss)
- - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [18 Best Cyber Monday Pet Deals &lpar;2023&rpar;: Automatic Litter Boxes, Dog Beds](https://www.wired.com/story/best-cyber-monday-pet-deals-2023/)
+ - [B&amp;H unveils steeper Cyber Monday Apple discounts, prices from $479](https://appleinsider.com/articles/23/11/27/bh-unveils-steeper-cyber-monday-apple-discounts-prices-from-479?utm_medium=rss)
+ - [20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
+ - [62 Best Target Cyber Monday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-cyber-monday-deals-2023/)
+ - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
- - 😝 [The left.](http://9gag.com/gag/aQEjep2)
- - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
+ - 😝 [Dad joke.](http://9gag.com/gag/avQjz8d)
+ - 😝 [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - 💣 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 👉 [How about you?](http://9gag.com/gag/amAZPvv)<!-- MEMES:END -->
 
 ---
 

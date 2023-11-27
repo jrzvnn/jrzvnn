@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
+ - 😝 [The left.](http://9gag.com/gag/aQEjep2)
  - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
 
 ---
 

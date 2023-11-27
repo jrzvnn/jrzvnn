@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [34 Best Cyber Monday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)
  - [AWS unveils the Amazon WorkSpaces Thin Client, a $195 compact computer, adapted from the Fire TV Cube, allowing workers to access cloud-based virtual desktops &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/231126/p9#a231126p9)
  - [Our 35 Favorite Sleep and Mattress Deals for Cyber Monday](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)
  - [Sources: ByteDance plans to internally announce on Monday that it is winding down its Nuverse gaming brand and is fully retreating from mainstream video games &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231126/p8#a231126p8)
- - [71 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)
- - [ByteDance to Fire Hundreds, Shut Nuverse in Major Gaming Retreat &lpar;Bloomberg&rpar;](http://www.techmeme.com/231126/p7#a231126p7)<!-- TECH:END -->
+ - [71 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

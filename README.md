@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital car keys are here. Are we ready?](https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard)
+ - [Cyber Monday deals: Apple Pencil 2 $79, $100 off iPad Air 5, up to 76% off Echelon Gear, more](https://appleinsider.com/articles/23/11/27/cyber-monday-deals-apple-pencil-2-79-100-off-ipad-air-5-up-to-76-off-echelon-gear-more?utm_medium=rss)
  - [Roomba’s newest robot vacuums are up to $400 off for Cyber Monday](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal)
  - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [83 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
- - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

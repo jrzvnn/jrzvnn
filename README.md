@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [The best Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [Start your New Year&#39;s fitness goals early with these discounts from Amazon](https://appleinsider.com/articles/23/11/27/start-your-new-years-fitness-goals-early-with-these-discounts-from-amazon?utm_medium=rss)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Bungie confirms Destiny 2’s The Final Shape expansion is delayed until June 2024](https://www.theverge.com/2023/11/27/23943563/destiny-2-the-final-shape-delay-release-date-june-2024)<!-- TECH:END -->
+ - [UK-based Oxford Quantum Circuits, which offers quantum-computing-as-a-service, announces a new 32-qubit system and an ongoing $100M Series B led by Japan&#39;s SBI &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231127/p18#a231127p18)
+ - [The Best Continuous Glucose Monitors](https://www.wired.com/gallery/the-best-continuous-glucose-monitors/)
+ - [New price drop: get a loaded M1 Max MacBook Pro 16-inch for as low as $2,099 today only](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

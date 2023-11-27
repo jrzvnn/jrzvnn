@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we start guillotining people again?](http://9gag.com/gag/aoK7e2w)
- - 😝 [Memories are better than money. Presence is better than presents](http://9gag.com/gag/aVb6YqK)
- - 💣 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 😝 [Just selling some oil](http://9gag.com/gag/a0435Dn)
- - 👉 [It&#39;s necessary to make Pixar poster of current thing](http://9gag.com/gag/aVb6YOn)<!-- MEMES:END -->
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 😝 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
+ - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 

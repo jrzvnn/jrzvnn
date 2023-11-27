@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is investigating an issue caused by Google Drive&#39;s desktop app, after users&#39; reports in recent days that some of their files have disappeared &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231127/p22#a231127p22)
- - [The best Cyber Monday deals you can get for under $25](https://www.theverge.com/23971355/black-friday-2023-tech-deals-under-25-cyber-monday)
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
- - [The best Cyber Monday 2023 gaming deals you can get](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)<!-- TECH:END -->
+ - [4 Cyber Monday Vacuum Deals That Totally Suck &lpar;In A Good Way&rpar;](https://www.wired.com/story/cyber-monday-vacuum-deals-dyson-roborock-2023/)
+ - [Sports Illustrated reportedly published articles from fake AI authors](https://www.theverge.com/2023/11/27/23978389/sports-illustrated-ai-fake-authors-advon-commerce-gannett-usa-today)
+ - [Sources: Reddit is talking with potential investors for an IPO as soon as in Q1 2024; cloud data management startup Rubrik is also considering an IPO in Q1 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p23#a231127p23)
+ - [My Favorite Baby Bassinet Is $210 During Cyber Monday     - CNET](https://www.cnet.com/deals/my-favorite-baby-bassinet-is-210-during-cyber-monday-sales/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 4 Gives Me Everything I Need, and It&#39;s $129 for Cyber Monday     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-gives-me-everything-i-need-and-its-129-for-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

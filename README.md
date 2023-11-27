@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [Alibaba shutters its quantum computing research lab, donating the equipment to Zhejiang University, a sign of broader cutbacks, and revamps its cloud unit &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231127/p3#a231127p3)
+ - [Chinese smartphone maker Realme shipped 200M+ phones in total, most of them outside China, since its 2018 founding; just 14 companies have reached the milestone &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231127/p4#a231127p4)
+ - [Alibaba shutters its quantum computing research lab, donating the equipment to Zhejiang University, a sign of broader cutbacks, after revamping its cloud unit &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231127/p3#a231127p3)
  - [An interview with AWS CEO Adam Selipsky, ahead of re:Invent, on the multifaceted impact of generative AI, the role of AI chips, the OpenAI fiasco, and more &lpar;John Furrier/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p2#a231127p2)
- - [Best Cyber Monday Deals Under $25: 84 Amazing Offers on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [Walmart Cyber Monday Deals: 60+ Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/walmart-black-friday-cyber-monday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cyber Monday Deals Under $25: 84 Amazing Offers on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

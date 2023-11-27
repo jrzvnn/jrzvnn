@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Newlands, a secretive tech fund backed by Jan Koum and led by former Sequoia partner Michael Abramson that holds nearly $10B in public equities &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231127/p16#a231127p16)
  - [We Found 65 Fantastic Deals at Best Buy’s Cyber Monday Sale](https://www.wired.com/story/best-buy-cyber-monday-deals-2023/)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [The best Cyber Monday 2023 gaming deals you can get](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
- - [London-based PhysicsX, which uses AI for engineering simulations in automotive, aerospace, and other industries, raised a $32M Series A led by General Catalyst &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231127/p15#a231127p15)
- - [Grab a 15-inch MacBook Air with 16GB RAM, 512GB SSD from Best Buy for just $1,399](https://appleinsider.com/articles/23/11/27/grab-a-15-inch-macbook-air-with-16gb-ram-512gb-ssd-from-best-buy-for-just-1399?utm_medium=rss)<!-- TECH:END -->
+ - [London-based PhysicsX, which uses AI for engineering simulations in automotive, aerospace, and other industries, raised a $32M Series A led by General Catalyst &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231127/p15#a231127p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [How Apple&#39;s 40 years of learning &amp; iteration is powering Vision Pro](https://appleinsider.com/articles/23/11/27/how-apples-40-years-of-learning-iteration-is-powering-vision-pro?utm_medium=rss)
- - [The best Cyber Monday phone deals](https://www.theverge.com/23971338/black-friday-2023-best-phone-deals-cyber-monday-apple-android)
- - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [Roomba’s newest robot vacuums are up to $400 off for Cyber Monday](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal)
+ - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [83 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
+ - [The 144 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

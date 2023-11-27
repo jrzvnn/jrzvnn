@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC can proceed with changes to Meta&#39;s 2020 $5B privacy settlement, like barring monetization of kids&#39; data, after a judge denied Meta&#39;s move to go to court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231127/p21#a231127p21)
+ - [My Absolute Favorite Premade Meal Service Is 50% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/my-absolute-favorite-premade-meal-service-is-50-off-for-cyber-monday/#ftag=CAD590a51e)
+ - [Do You Make Money via Venmo, PayPal or Cash App? What the IRS 1099-K Delay Means for You     - CNET](https://www.cnet.com/personal-finance/taxes/do-you-make-money-via-venmo-paypal-or-cash-app-what-the-irs-reporting-delay-means-for-you/#ftag=CAD590a51e)
  - [Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)
- - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
- - [The best Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
- - [18 Best Cyber Monday Pet Deals &lpar;2023&rpar;: Automatic Litter Boxes, Dog Beds](https://www.wired.com/story/best-cyber-monday-pet-deals-2023/)
- - [B&amp;H unveils steeper Cyber Monday Apple discounts, prices from $479](https://appleinsider.com/articles/23/11/27/bh-unveils-steeper-cyber-monday-apple-discounts-prices-from-479?utm_medium=rss)<!-- TECH:END -->
+ - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance plans to internally announce on Monday that it is winding down its Nuverse gaming brand and is fully retreating from mainstream video games &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231126/p8#a231126p8)
+ - [71 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)
+ - [ByteDance Is Said to Shut Main Gaming Arm in Business Retreat &lpar;Bloomberg&rpar;](http://www.techmeme.com/231126/p7#a231126p7)
  - [81 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
- - [Huawei announces it&#39;s moving its smart car unit&#39;s core tech and resources into a new joint venture with Changan Auto, which is taking a 40% stake in the company &lpar;Reuters&rpar;](http://www.techmeme.com/231126/p6#a231126p6)
- - [The 29 Best Cyber Monday Nintendo Switch Deals You Can Snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
- - [Best Cyber Monday Deals Under $50: Save Big on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
- - [The Best PS5 Cyber Monday Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 of the Best Cyber Monday Robot Vacuum Deals: Score on Roomba, Shark and Others     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

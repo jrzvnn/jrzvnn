@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
  - [The best Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [Bungie confirms Destiny 2’s The Final Shape expansion is delayed until June 2024](https://www.theverge.com/2023/11/27/23943563/destiny-2-the-final-shape-delay-release-date-june-2024)
- - [The best Cyber Monday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
+ - [The best Cyber Monday deals under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [Digital car keys are here. Are we ready?](https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 161 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Google Drive users complain of missing files, months of data disappearing](https://appleinsider.com/articles/23/11/27/google-drive-users-complain-of-missing-files-months-of-data-disappearing?utm_medium=rss)
- - [37 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
- - [Brooklinen&#39;s Lush Sheets and Bedding Are 25% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/brooklinens-lush-sheets-and-bedding-are-25-off-for-cyber-monday/#ftag=CAD590a51e)
- - [Meta Quest 2, 128GB     - CNET](https://www.cnet.com/culture/entertainment/meta-quest-2-128gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon slashes prices on Canon, Nikon, Sony with last-minute Cyber Monday deals](https://appleinsider.com/articles/23/11/27/amazon-slashes-prices-on-canon-nikon-sony-with-last-minute-cyber-monday-deals?utm_medium=rss)
+ - [YouTube Premium rolls out Playables, which lets users play games on mobile and desktop with no need to download, available until March 28, 2024 &lpar;Kellen/Droid Life&rpar;](http://www.techmeme.com/231127/p26#a231127p26)
+ - [Some Google Drive for Desktop users are missing months of files](https://www.theverge.com/2023/11/27/23978591/google-drive-desktop-data-loss-bug-files-missing-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

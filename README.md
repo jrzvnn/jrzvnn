@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [Feed the man](http://9gag.com/gag/aZDY7xV)
- - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
- - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
+ - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
+ - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 

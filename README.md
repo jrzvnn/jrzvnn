@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 😝 [Feed the man](http://9gag.com/gag/aZDY7xV)
+ - 💣 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
  - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
- - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
+ - 👉 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)<!-- MEMES:END -->
 
 ---
 

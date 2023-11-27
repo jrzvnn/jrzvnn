@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [60+ Early Cyber Monday Deals Under $100: We Found the Best Deals to Shop Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)
- - [Shop the Best Cyber Monday Deals Under $25: Save Big on Tech, Toys and Daily Essentials     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [A look at the growing usage of social media apps like Douyin among the elderly in China since the COVID-19 lockdowns, often to find companionship &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/231126/p5#a231126p5)
- - [Best AirPods Cyber Monday deals offer up to $100 in savings](https://appleinsider.com/articles/23/11/26/best-airpods-cyber-monday-deals-offer-up-to-100-in-savings?utm_medium=rss)
- - [The 23 Best Cyber Monday Phone Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [81 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
+ - [Huawei announces it&#39;s moving its smart car unit&#39;s core tech and resources into a new joint venture with Changan Auto, which is taking a 40% stake in the company &lpar;Reuters&rpar;](http://www.techmeme.com/231126/p6#a231126p6)
+ - [The 29 Best Cyber Monday Nintendo Switch Deals You Can Snag Right Now     - CNET](https://www.cnet.com/deals/nintendo-switch-black-friday-cyber-monday-deals/#ftag=CAD590a51e)
+ - [Best Cyber Monday Deals Under $50: Save Big on Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-50/#ftag=CAD590a51e)
+ - [The Best PS5 Cyber Monday Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

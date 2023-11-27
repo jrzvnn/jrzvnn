@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance plans to cut ~1,000 jobs and discontinue all but a few games that have yet to launch, backing away from its aggressive investments since 2016 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/231127/p14#a231127p14)
- - [Amazon’s Smart Thermostat is on sale and comes with a free Echo Pop](https://www.theverge.com/2023/11/27/23976678/amazon-smart-thermostat-echo-pop-cyber-monday-deal-sale)
- - [The best Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
- - [34 Cyber Monday Laptop Deals—Plus Clickety-Clack Keyboards](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)<!-- TECH:END -->
+ - [The best Cyber Monday 2023 gaming deals you can get](https://www.theverge.com/23971228/black-friday-2023-gaming-game-deals-cyber-monday)
+ - [London-based PhysicsX, which uses AI for engineering simulations in automotive, aerospace, and other industries, raised a $32M Series A led by General Catalyst &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231127/p15#a231127p15)
+ - [Grab a 15-inch MacBook Air with 16GB RAM, 512GB SSD from Best Buy for just $1,399](https://appleinsider.com/articles/23/11/27/grab-a-15-inch-macbook-air-with-16gb-ram-512gb-ssd-from-best-buy-for-just-1399?utm_medium=rss)
+ - [Apple Pay will get same regulatory oversight as credit cards in Australia](https://appleinsider.com/articles/23/11/27/apple-pay-will-get-same-regulatory-oversight-as-credit-cards-in-australia?utm_medium=rss)
+ - [You Don’t Need to Turn Off Apple’s NameDrop Feature in iOS 17](https://www.wired.com/story/apple-iphone-namedrop-ios17/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

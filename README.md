@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 158 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [Amazon’s $1.7 billion deal to buy iRobot is running into some objections](https://www.theverge.com/2023/11/27/23978371/eu-european-commission-amazon-irobot-acquisition-restrict-competition)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [The FTC can proceed with changes to Meta&#39;s 2020 $5B privacy settlement, like barring monetization of kids&#39; data, after a judge denied Meta&#39;s move to go to court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231127/p21#a231127p21)
- - [Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)<!-- TECH:END -->
+ - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
+ - [Get Smart With These Nest and Google Pixel Cyber Monday Deals](https://www.wired.com/story/cyber-monday-google-pixel-deals-nest-deals-2023/)
+ - [The best Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
+ - [The best Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [The 158 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

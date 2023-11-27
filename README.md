@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)
+ - [Best Cyber Monday robot vacuum deals](https://www.theverge.com/2023/11/24/23971647/black-friday-2023-robot-vacuum-deals-cyber-monday)
+ - [The best Cyber Monday deals on smart home gear](https://www.theverge.com/2023/11/24/23971643/black-friday-2023-smart-home-tech-deals-cyber-monday)
  - [18 Best Cyber Monday Pet Deals &lpar;2023&rpar;: Automatic Litter Boxes, Dog Beds](https://www.wired.com/story/best-cyber-monday-pet-deals-2023/)
- - [B&amp;H unveils steeper Cyber Monday Apple discounts, prices from $479](https://appleinsider.com/articles/23/11/27/bh-unveils-steeper-cyber-monday-apple-discounts-prices-from-479?utm_medium=rss)
- - [20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
- - [62 Best Target Cyber Monday Deals &lpar;2023&rpar;: Smart Home and Toys](https://www.wired.com/story/best-target-cyber-monday-deals-2023/)
- - [The 30 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)<!-- TECH:END -->
+ - [B&amp;H unveils steeper Cyber Monday Apple discounts, prices from $479](https://appleinsider.com/articles/23/11/27/bh-unveils-steeper-cyber-monday-apple-discounts-prices-from-479?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

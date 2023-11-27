@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [The European Commission says Amazon&#39;s $1.4B iRobot acquisition may restrict competition; Amazon says it&#39;s working to address the EC&#39;s concerns; IRBT drops 18%+ &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231127/p19#a231127p19)
  - [Tesla sues Sweden’s postal agency as union fight escalates](https://www.theverge.com/2023/11/27/23977923/tesla-sweden-lawsuit-postal-workers-license-plates)
  - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
- - [These Cyber Monday Ebike Deals Will Get You Zooming Down the Street](https://www.wired.com/story/best-cyber-monday-electric-bike-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [These Cyber Monday Ebike Deals Will Get You Zooming Down the Street](https://www.wired.com/story/best-cyber-monday-electric-bike-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

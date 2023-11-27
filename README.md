@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
- - 😝 [Belly rubs now](http://9gag.com/gag/a3ZOR7Q)
- - 💣 [Magic trick](http://9gag.com/gag/adPzKnD)
- - 😝 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
- - 👉 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)<!-- MEMES:END -->
+ - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 💣 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 😝 [Sit](http://9gag.com/gag/a0435nX)
+ - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
 
 ---
 

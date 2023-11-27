@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 😝 [Stabbed in Prison](http://9gag.com/gag/a9qGYBo)
- - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
  - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 😝 [Peak civilization](http://9gag.com/gag/aXnOYPv)
+ - 💣 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
 
 ---
 

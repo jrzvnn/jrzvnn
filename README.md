@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
- - 💣 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 😝 [The left.](http://9gag.com/gag/aQEjep2)
- - 👉 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)<!-- MEMES:END -->
+ - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 💣 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
 
 ---
 

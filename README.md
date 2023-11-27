@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 158 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
  - [Amazon’s $1.7 billion deal to buy iRobot is running into some objections](https://www.theverge.com/2023/11/27/23978371/eu-european-commission-amazon-irobot-acquisition-restrict-competition)
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [The FTC can proceed with changes to Meta&#39;s 2020 $5B privacy settlement, like barring monetization of kids&#39; data, after a judge denied Meta&#39;s move to go to court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231127/p21#a231127p21)
- - [My Absolute Favorite Premade Meal Service Is 50% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/my-absolute-favorite-premade-meal-service-is-50-off-for-cyber-monday/#ftag=CAD590a51e)
- - [Do You Make Money via Venmo, PayPal or Cash App? What the IRS 1099-K Delay Means for You     - CNET](https://www.cnet.com/personal-finance/taxes/do-you-make-money-via-venmo-paypal-or-cash-app-what-the-irs-reporting-delay-means-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

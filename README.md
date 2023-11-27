@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
- - 😝 [Peak civilization](http://9gag.com/gag/aXnOYPv)
- - 💣 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
- - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 😝 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
+ - 😝 [Meanwhile in China](http://9gag.com/gag/axorVeW)
+ - 💣 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 👉 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)<!-- MEMES:END -->
 
 ---
 

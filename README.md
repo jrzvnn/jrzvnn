@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [75 Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
- - [How Do You Hide Secret Codes In Diamonds? Space Lasers!](https://www.wired.com/story/opsydia-hide-secret-codes-in-diamonds-space-lasers/)
- - [Dust Is So Much More Than You Realize](https://www.wired.com/story/dust-is-so-much-more-than-you-realize/)
- - [This company just put the air in Apple’s MacBook Air](https://www.theverge.com/2023/11/27/23975368/frore-airjet-apple-macbook-air-fanless-mems)
- - [A profile of Jensen Huang, the Taiwan-born, US-educated Nvidia founder, who started the company in 1993, and a look at Nvidia&#39;s rise, built on GPUs and CUDA &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/231127/p11#a231127p11)<!-- TECH:END -->
+ - [Astropad Darkboard review: a perfectly portable artboard for the iPad Pro and iPad Air](https://appleinsider.com/articles/23/11/27/astropad-darkboard-review-a-perfectly-portable-artboard-for-the-ipad-pro-and-ipad-air?utm_medium=rss)
+ - [The best Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)
+ - [These Are Our Favorite Walmart Cyber Monday Deals](https://www.wired.com/story/best-walmart-cyber-monday-deals-2023/)
+ - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
+ - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

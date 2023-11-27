@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 😝 [What do you think?](http://9gag.com/gag/aNwbd93)
- - 💣 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 😝 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
+ - 💣 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 ---
 

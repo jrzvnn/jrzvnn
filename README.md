@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hue Contact Sensor gets HomeKit, Sonos rumors, &amp; charging reviews on HomeKit Insider](https://appleinsider.com/articles/23/11/27/hue-contact-sensor-gets-homekit-sonos-rumors-charging-reviews-on-homekit-insider?utm_medium=rss)
  - [Giant Lego sets get massive discounts for Cyber Monday](https://appleinsider.com/articles/23/11/24/best-lego-sales-for-black-friday-get-big-savings-on-giant-sets?utm_medium=rss)
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
  - [The best Cyber Monday deals for less than $50](https://www.theverge.com/23972578/black-friday-2023-tech-deals-under-50-cyber-monday)
- - [Salesforce plans to sell most of its big apps on AWS&#39; marketplace, letting customers use credits, after years of Amazon nudging customers to use the marketplace &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p12#a231127p12)
- - [Astropad Darkboard review: a perfectly portable artboard for the iPad Pro and iPad Air](https://appleinsider.com/articles/23/11/27/astropad-darkboard-review-a-perfectly-portable-artboard-for-the-ipad-pro-and-ipad-air?utm_medium=rss)
- - [The best Cyber Monday deals on Apple devices](https://www.theverge.com/23971262/black-friday-2023-apple-deals-cyber-monday)<!-- TECH:END -->
+ - [Salesforce plans to sell most of its big apps on AWS&#39; marketplace, letting customers use credits, after years of Amazon nudging customers to use the marketplace &lpar;Bloomberg&rpar;](http://www.techmeme.com/231127/p12#a231127p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

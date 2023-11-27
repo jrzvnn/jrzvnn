@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
  - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
  - [34 Best Cyber Monday Laptop Deals &lpar;2023&rpar;: Windows, MacBooks, Chromebooks](https://www.wired.com/story/best-cyber-monday-laptop-deals-2023/)
  - [Cyber Monday 2023 Live Blog: 170+ Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/cyber-monday-2023-live-ongoing/#ftag=CAD590a51e)
- - [AWS unveils the Amazon WorkSpaces Thin Client, a $195 compact computer, adapted from the Fire TV Cube, allowing workers to access cloud-based virtual desktops &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/231126/p9#a231126p9)
- - [21 Best Cyber Monday Apple Watch Deals: Get These Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS unveils the Amazon WorkSpaces Thin Client, a $195 compact computer, adapted from the Fire TV Cube, allowing workers to access cloud-based virtual desktops &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/231126/p9#a231126p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

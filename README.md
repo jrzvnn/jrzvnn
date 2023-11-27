@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
- - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - 💣 [Meanwhile in China](http://9gag.com/gag/axorVeW)
+ - 😝 [It&#39;s about sending a message: YOU HAVE BEEN CONQUERED.](http://9gag.com/gag/a8qgydV)
  - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 💣 [Europe by 2030.](http://9gag.com/gag/a1P6dmD)
+ - 😝 [The best video reaction ever made.](http://9gag.com/gag/a2KXdV1)
+ - 👉 [Wtf](http://9gag.com/gag/aWGXqOZ)<!-- MEMES:END -->
 
 ---
 

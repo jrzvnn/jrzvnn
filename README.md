@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [87 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
  - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
  - [Finland-based Varjo launches the XR-4, a $3,990 mixed reality headset aimed at businesses, touting a 120-degree field of view, 4K displays, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/231127/p27#a231127p27)
  - [Tumblr sheds Post Plus subscriptions as the platform downsizes](https://www.theverge.com/2023/11/27/23978683/tumblr-post-plus-subscription-downsize)
- - [The 161 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [The 161 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

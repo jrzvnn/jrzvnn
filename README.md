@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 😝 [Be one with your surrounding.. mission failed..](http://9gag.com/gag/aEq4BDM)
- - 💣 [Wtf](http://9gag.com/gag/aWGXqOZ)
- - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 👉 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
+ - 😝 [Benching 405 without a spotter](http://9gag.com/gag/ap9Mp7D)
+ - 😝 [Wtf](http://9gag.com/gag/aWGXqOZ)
+ - 💣 [Meanwhile in China](http://9gag.com/gag/axorVeW)
+ - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 

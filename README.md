@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad joke.](http://9gag.com/gag/avQjz8d)
- - 😝 [Free your Hair first](http://9gag.com/gag/aQEjozw)
- - 💣 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 💣 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
 
 ---
 

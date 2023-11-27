@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
- - 😝 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)
- - 💣 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 😝 [She\u2019s a Keeper!](http://9gag.com/gag/a7qxMpx)
+ - 😝 [Belly rubs now](http://9gag.com/gag/a3ZOR7Q)
+ - 💣 [Magic trick](http://9gag.com/gag/adPzKnD)
+ - 😝 [Rebecca&#39;s always complaining](http://9gag.com/gag/a8qg5Wp)
+ - 👉 [Perhaps the most random thing you&#39;ll watch today](http://9gag.com/gag/aEq4YZo)<!-- MEMES:END -->
 
 ---
 

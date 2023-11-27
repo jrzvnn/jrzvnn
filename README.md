@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Cyber Monday deals: Apple Pencil 2 $79, $100 off iPad Air 5, up to 76% off Echelon Gear, more](https://appleinsider.com/articles/23/11/27/cyber-monday-deals-apple-pencil-2-79-100-off-ipad-air-5-up-to-76-off-echelon-gear-more?utm_medium=rss)
  - [Roomba’s newest robot vacuums are up to $400 off for Cyber Monday](https://www.theverge.com/2023/11/26/23976565/irobot-roomba-j9-j5-i5-robot-vacuum-cyber-monday-deal)
  - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)<!-- TECH:END -->
+ - [21 Best Cyber Monday Apple Watch Deals: Get These Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are all the Cyber Monday deals for 2023](https://www.wired.com/live/cyber-monday-deals-2023/)
+ - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)
  - [After an Amazon worker in Indiana died, the state fined Amazon just $7,000, the maximum allowed, highlighting states&#39; limited ability to enforce safety policies &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/231127/p6#a231127p6)
  - [The 135 Absolute Best Cyber Monday Deals &lpar;So far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [How a Surfshark iPhone VPN improves your internet browsing experience](https://appleinsider.com/articles/23/11/27/how-a-surfshark-iphone-vpn-improves-your-internet-browsing-experience?utm_medium=rss)
- - [Instagram served test accounts that follow only young gymnasts, cheerleaders, and teen influencers salacious Reels, including risqu&amp;eacute; footage, and big brand ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231127/p5#a231127p5)
- - [Run Windows apps on Mac for up to 70% off with CrossOver](https://appleinsider.com/articles/23/11/27/run-windows-apps-on-mac-for-up-to-70-off-with-crossover?utm_medium=rss)<!-- TECH:END -->
+ - [Cyber Monday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/cyber-monday-deal-gets-you-the-ultraloq-u-bolt-pro-for-only-119/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

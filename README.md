@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 😝 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)
- - 💣 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
  - 😝 [Sit](http://9gag.com/gag/a0435nX)
- - 👉 [When reality hits you like a train...](http://9gag.com/gag/a9qGrPm)<!-- MEMES:END -->
+ - 💣 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
 
 ---
 

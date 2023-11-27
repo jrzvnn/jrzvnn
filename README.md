@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [Google Drive users complain of missing files, months of data disappearing](https://appleinsider.com/articles/23/11/27/google-drive-users-complain-of-missing-files-months-of-data-disappearing?utm_medium=rss)
  - [37 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
- - [YouTube is getting into games, too](https://www.theverge.com/2023/11/27/23978515/youtube-playables-games-premium-subscribers)
- - [Big names like Kelsey Hightower pull out of the DevTernity conference after allegations its founder made fake profiles of female speakers to boost diversity &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231127/p25#a231127p25)<!-- TECH:END -->
+ - [Brooklinen&#39;s Lush Sheets and Bedding Are 25% Off for Cyber Monday     - CNET](https://www.cnet.com/deals/brooklinens-lush-sheets-and-bedding-are-25-off-for-cyber-monday/#ftag=CAD590a51e)
+ - [Meta Quest 2, 128GB     - CNET](https://www.cnet.com/culture/entertainment/meta-quest-2-128gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

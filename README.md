@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US, the UK, and more than a dozen other countries release joint guidelines for AI system development, including creating systems that are &quot;secure by design&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231127/p1#a231127p1)
+ - [20 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
+ - [Get a loaded M1 Max MacBook Pro 16-inch for as low as $2,199 this Cyber Monday](https://appleinsider.com/articles/23/11/27/get-a-loaded-m1-max-macbook-pro-16-inch-for-as-low-as-2199-this-cyber-monday?utm_medium=rss)
  - [Get Smart With These Nest and Google Pixel Cyber Monday Deals](https://www.wired.com/story/cyber-monday-google-pixel-deals-nest-deals-2023/)
- - [Binge All the Savings with 28 Cyber Monday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [36 Home Depot Cyber Monday Deals &lpar;2023&rpar;: Tools, Grills](https://www.wired.com/story/best-home-depot-cyber-monday-deals-2023/)
- - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
- - [32 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
+ - [Binge All the Savings with 28 Cyber Monday Streaming Service Deals     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sit](http://9gag.com/gag/a0435nX)
  - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 💣 [The left.](http://9gag.com/gag/aQEjep2)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [Perfect logic](http://9gag.com/gag/a5XYnYo)<!-- MEMES:END -->
 
 ---
 

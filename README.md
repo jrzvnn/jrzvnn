@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 💣 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 😝 [What does that pokemon do with kids again](http://9gag.com/gag/aL1E88A)
+ - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
  - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [The left.](http://9gag.com/gag/aQEjep2)<!-- MEMES:END -->
+ - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
 
 ---
 

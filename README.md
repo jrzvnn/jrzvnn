@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is getting into games, too](https://www.theverge.com/2023/11/27/23978515/youtube-playables-games-premium-subscribers)
+ - [Big names like Kelsey Hightower pull out of the DevTernity conference after allegations its founder made fake profiles of female speakers to boost diversity &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231127/p25#a231127p25)
+ - [Live From Cyberspace: Killer Cyber Monday Deals](https://www.wired.com/live/cyber-monday-deals-2023/)
  - [All the Phone and Tablet Deals Worth a Look on Cyber Monday 2023](https://www.wired.com/story/best-cyber-monday-smartphone-tablet-deals-2023/)
- - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)
- - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [The best Cyber Monday deals](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [These 15 Amazon Deals on WIRED-Tested Gear Have Never Been Cheaper](https://www.wired.com/story/best-cyber-monday-amazon-deals-lowest-price-ever/)<!-- TECH:END -->
+ - [75+ Cyber Monday deals for Apple fans to save you up to $1,800](https://appleinsider.com/articles/23/11/27/75-cyber-monday-deals-for-apple-fans-to-save-you-up-to-1800?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

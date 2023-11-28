@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
+ - 😝 [Dad joke.](http://9gag.com/gag/avQjz8d)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 💣 [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 

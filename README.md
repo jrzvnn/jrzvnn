@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
  - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 😝 [Good saving kick](http://9gag.com/gag/avQjQxZ)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 💣 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)
+ - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 👉 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)<!-- MEMES:END -->
 
 ---
 

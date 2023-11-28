@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [De Niro accuses Apple of censoring his speech honoring Martin Scorsese](https://appleinsider.com/articles/23/11/28/de-niro-accuses-apple-of-censoring-his-speech-honoring-martin-scorsese?utm_medium=rss)
  - [A profile of Curtis Priem, Nvidia&#39;s co-founder and first CTO, who holds ~200 patents, sold his Nvidia stock years ago, and has donated $275M to his alma mater &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/231128/p19#a231128p19)
  - [North Korean hackers combine malware to attack macOS](https://appleinsider.com/articles/23/11/28/north-korean-hackers-combine-malware-to-attack-macos?utm_medium=rss)
  - [A New Type of Geothermal Power Plant Just Made the Internet a Little Greener](https://www.wired.com/story/new-geothermal-power-plant-made-the-internet-a-little-greener/)
- - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://www.wired.com/story/bike-security-bolts-finally-gave-me-peace-of-mind/)
- - [Google’s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)<!-- TECH:END -->
+ - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://www.wired.com/story/bike-security-bolts-finally-gave-me-peace-of-mind/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

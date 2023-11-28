@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
+ - 😝 [Valerie](http://9gag.com/gag/aYV078O)
  - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
  - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 

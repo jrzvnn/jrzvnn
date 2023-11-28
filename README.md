@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [FTX investors sue MLB, Formula 1, and the Mercedes Formula 1 team, accusing them of aiding FTX&#39;s fraud, broadening a class-action suit against 24+ celebrities &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231128/p13#a231128p13)
- - [Best Cheap Phone of 2023: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
  - [Take a first look at Vision Pro&#39;s 3D virtual &#39;Yosemite Environment&#39;](https://appleinsider.com/articles/23/11/28/take-a-first-look-at-vision-pros-3d-virtual-yosemite-environment?utm_medium=rss)
  - [An in-depth reflection on Marc Andreessen&#39;s &quot;techno-optimist manifesto&quot;: tech is amazing, the high cost of delays, AI and risk, d/acc, centralization, and more &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/231128/p12#a231128p12)
- - [You Can Still Save $50 on the Meta Quest 2 After Cyber Monday     - CNET](https://www.cnet.com/deals/you-can-still-save-50-on-the-meta-quest-2-after-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vanpowers UrbanGlide Pro E-Bike review: Navigates the city with ease](https://appleinsider.com/articles/23/11/28/vanpowers-urbanglide-pro-e-bike-review-navigates-the-city-with-ease?utm_medium=rss)
+ - [Save up to $50 on Logitech keyboards &amp; mice for Mac during sitewide sale](https://appleinsider.com/articles/23/11/28/save-up-to-50-on-logitech-keyboards-mice-for-mac-during-sitewide-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

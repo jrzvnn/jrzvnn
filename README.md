@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)<!-- MEMES:END -->
+ - 😝 [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
+ - 😝 [I guess that means I am black.](http://9gag.com/gag/ay2Ke6M)
+ - 💣 [Raising Sons Right](http://9gag.com/gag/aDYv41N)
+ - 😝 [The science of atmospheric pressure](http://9gag.com/gag/aWGXxe2)
+ - 👉 [Ongoing demonstration in Lyon, France \u00ab\u00a0Islam out of Europe\u00a0\u00bb](http://9gag.com/gag/a3ZOEr7)<!-- MEMES:END -->
 
 ---
 

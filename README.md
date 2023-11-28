@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
  - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 

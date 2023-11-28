@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Amazon One Enterprise in preview, allowing US businesses use its palm-scanning tech as an authentication tool to let employees into the office &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231128/p4#a231128p4)
  - [86 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
  - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
  - [Atomico: companies in Europe are on track to raise $42B in 2023, vs. $85B in 2022; just 7 unicorns are expected in 2023, compared to 48 in 2022 and 108 in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231128/p3#a231128p3)
- - [31 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
- - [DP World, Australia&#39;s second largest port operator, says hackers stole employee data after a suspension of operations caused by cyberattack early this month &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/231128/p1#a231128p1)<!-- TECH:END -->
+ - [31 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

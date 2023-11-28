@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To my fellow degenerates](http://9gag.com/gag/aMELxrR)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
  - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
- - 💣 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 👉 [Forget About Monday. New Phobia Unlocked](http://9gag.com/gag/aeQBeBm)<!-- MEMES:END -->
 
 ---
 

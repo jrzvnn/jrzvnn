@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)
  - [How to delete macOS Sonoma&#39;s live wallpapers](https://appleinsider.com/inside/macos-sonoma/tips/how-to-delete-macos-sonomas-live-wallpapers?utm_medium=rss)
+ - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
  - [Sources: Paramount and WBD stopped posting under certain corporate handles on X due to brand safety concerns; Disney-affiliated X accounts have also gone dark &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/231127/p34#a231127p34)
- - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [32 Best Cyber Monday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-cyber-monday-headphone-deals-2023/)<!-- TECH:END -->
+ - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

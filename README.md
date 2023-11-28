@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Survey of Substack and Telegram finds &quot;scores&quot; of white supremacist, neo-Confederate, and Nazi newsletters among Substack&#39;s ~17K total; over 16 use Nazi symbols &lpar;Jonathan M. Katz/The Atlantic&rpar;](http://www.techmeme.com/231128/p31#a231128p31)
+ - [Save $100 on This Halo Wireless GPS Dog Collar Even After Cyber Monday and Never Lose Your Good Boy Again     - CNET](https://www.cnet.com/deals/save-100-on-this-halo-wireless-gps-dog-collar-this-cyber-monday-and-never-lose-your-good-boy-again/#ftag=CAD590a51e)
  - [Fourth tvOS 17.2 build issued for developer beta testing](https://appleinsider.com/articles/23/11/28/fourth-tvos-172-build-issued-for-developer-beta-testing?utm_medium=rss)
  - [Apple seeds fourth developer beta of watchOS 10.2](https://appleinsider.com/articles/23/11/28/apple-seeds-fourth-developer-beta-of-watchos-102?utm_medium=rss)
- - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)
- - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

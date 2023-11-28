@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 💣 [This doesn&#39;t surprise me at all..](http://9gag.com/gag/a1P616G)
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
  - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
+ - 💣 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA provisionally finds Adobe&#39;s $20B Figma acquisition would likely harm innovation for design software and invites responses ahead of a final decision &lpar;Joseph Hoppe/Wall Street Journal&rpar;](http://www.techmeme.com/231128/p18#a231128p18)
- - [An analysis of over 100 restricted extremist Telegram channels finds many of them remain active, and their content can often spread to public channels &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231128/p17#a231128p17)
- - [Apple&#39;s smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers?utm_medium=rss)
- - [Flash deal: save up to $175 on Hyper docking stations &amp; hubs today only](https://appleinsider.com/articles/23/11/28/flash-deal-save-up-to-175-on-hyper-docking-stations-hubs-today-only?utm_medium=rss)
- - [PDD, which runs Temu and Pinduoduo, reports Q3 revenue up 94% YoY to ~$9.6B vs. ~$7.7B est., and net income up 47%, after grabbing Shein users; PDD jumps 15%+ &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231128/p16#a231128p16)<!-- TECH:END -->
+ - [A profile of Curtis Priem, Nvidia&#39;s co-founder and first CTO, who holds ~200 patents, sold his Nvidia stock years ago, and has donated $275M to his alma mater &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/231128/p19#a231128p19)
+ - [North Korean hackers combine malware to attack macOS](https://appleinsider.com/articles/23/11/28/north-korean-hackers-combine-malware-to-attack-macos?utm_medium=rss)
+ - [A New Type of Geothermal Power Plant Just Made the Internet a Little Greener](https://www.wired.com/story/new-geothermal-power-plant-made-the-internet-a-little-greener/)
+ - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://www.wired.com/story/bike-security-bolts-finally-gave-me-peace-of-mind/)
+ - [Google’s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Missed out on Black Friday deals on Apple? Cyber Week savings are in effect now](https://appleinsider.com/articles/23/11/28/missed-out-on-black-friday-deals-on-apple-cyber-week-savings-are-in-effect-now?utm_medium=rss)
  - [How to get started using the DOS_deck game service on macOS](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-the-dosdeck-game-service-on-macos?utm_medium=rss)
  - [AWS plans to offer access to Nvidia&#39;s H200 chips, following Azure&#39;s similar dual-pronged approach of offering its own Maia chips as well as Nvidia&#39;s latest &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231128/p27#a231128p27)
  - [Looney Tunes won’t be yanked from Max after all](https://www.theverge.com/2023/11/28/23979472/looney-tunes-max-warner-bros-discovery)
- - [AWS launches S3 Express One Zone, an S3 tier aimed at data-intensive applications with a 10x write speed improvement and 50% lower request cost than standard S3 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231128/p26#a231128p26)
- - [AWS announces Graviton4, with up to 30% better performance, 50% more cores, and 75% more memory bandwidth than Graviton3, and Trainium2 for 4x faster training &lpar;About Amazon&rpar;](http://www.techmeme.com/231128/p25#a231128p25)<!-- TECH:END -->
+ - [AWS launches S3 Express One Zone, an S3 tier aimed at data-intensive applications with a 10x write speed improvement and 50% lower request cost than standard S3 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231128/p26#a231128p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

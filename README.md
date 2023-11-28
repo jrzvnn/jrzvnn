@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 💣 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 💣 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
  - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 👉 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)<!-- MEMES:END -->
+ - 👉 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)<!-- MEMES:END -->
 
 ---
 

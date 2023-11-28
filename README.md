@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
  - [Meituan reports Q3 revenue up 22% YoY to ~$10.7B, narrowly beating est., and net income up nearly 3x to ~$507M, boosted by strong Chinese travel demand &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p10#a231128p10)
  - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
- - [Best Cyber Monday Deals Ending Soon: Grab From 40+ Curated Picks Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)
+ - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

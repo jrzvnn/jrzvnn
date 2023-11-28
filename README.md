@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals on Amazon devices](https://www.theverge.com/23963020/black-friday-2023-amazon-deals-cyber-monday)
- - [The 32 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [LEGO Hogwarts Express     - CNET](https://www.cnet.com/culture/entertainment/lego-hogwarts-express-dpnl/#ftag=CAD590a51e)
- - [87 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
- - [100 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)<!-- TECH:END -->
+ - [32 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
+ - [The best Cyber Monday deals on smartwatches and fitness trackers](https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday)
+ - [Many local US police departments are fearmongering by issuing warnings about the privacy risk of iPhone&#39;s NameDrop, used to share contact information wirelessly &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/231127/p29#a231127p29)
+ - [9 Best Amazon Kindle Cyber Monday Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-kindle-deals-2023/)
+ - [Tumblr plans to sunset Post+, launched in 2021 to let creators charge users a subscription to access content, in January 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231127/p28#a231127p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

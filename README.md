@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 💣 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 💣 [This doesn&#39;t surprise me at all..](http://9gag.com/gag/a1P616G)
  - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 👉 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)<!-- MEMES:END -->
+ - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
 
 ---
 

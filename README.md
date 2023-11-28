@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
  - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
  - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
  - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
  - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->

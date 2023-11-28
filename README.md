@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
+ - 😝 [Button](http://9gag.com/gag/aVb6bQP)
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
- - 👉 [Forget About Monday. New Phobia Unlocked](http://9gag.com/gag/aeQBeBm)<!-- MEMES:END -->
+ - 😝 [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - 😝 [True](http://9gag.com/gag/aGEQp3z)
+ - 💣 [Following the stabbing murder of a French teen allegedly by Algerian youths in a southern French village, protesters gathered in Lyon to protest against immigration and Islam. Here they shout: \u201cFrench wake up, this is your home here.\u201d](http://9gag.com/gag/a6qR1qb)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [...but most importantly, he b\u00f3br](http://9gag.com/gag/aeQBDoQ)<!-- MEMES:END -->
 
 ---
 

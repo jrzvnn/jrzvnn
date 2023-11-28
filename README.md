@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Full of special appearances](http://9gag.com/gag/amAZgoX)
  - 😝 [Great way to giveparents aneurysm](http://9gag.com/gag/a1P6Prw)
- - 😝 [For the 100th anniversary celebration no less](http://9gag.com/gag/aVb6YdM)
- - 💣 [Button](http://9gag.com/gag/aVb6bQP)
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
+ - 💣 [Bober kurwa saved the month](http://9gag.com/gag/a6qRqme)
+ - 😝 [Following the stabbing murder of a French teen allegedly by Algerian youths in a southern French village, protesters gathered in Lyon to protest against immigration and Islam. Here they shout: \u201cFrench wake up, this is your home here.\u201d](http://9gag.com/gag/a6qR1qb)
+ - 👉 [Nuked by community notes. Also look how deceptive this journalist is. He is trying to get a kid banned from attending stadium to watch his favourite team play. The media are garbage.](http://9gag.com/gag/a0434pZ)<!-- MEMES:END -->
 
 ---
 

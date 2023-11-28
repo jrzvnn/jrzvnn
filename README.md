@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
- - 😝 [John Wick without John Wick, that\u2018s what we want!](http://9gag.com/gag/aMEL46G)
- - 💣 [The science of atmospheric pressure](http://9gag.com/gag/aWGXxe2)
+ - 😝 [I get nervous during interviews](http://9gag.com/gag/aNwb1yA)
  - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [Full of special appearances](http://9gag.com/gag/amAZgoX)<!-- MEMES:END -->
+ - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 ---
 

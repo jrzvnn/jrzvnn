@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Week, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
  - [Walmart’s cheap Google TV box now comes in a stick](https://www.theverge.com/2023/11/28/23979660/walmart-onn-google-tv-streaming-stick-price-availability)
  - [Amazon’s Answer to ChatGPT Is a Workplace Assistant Called Q](https://www.wired.com/story/amazon-q-ai-chatbot-aws/)
  - [Google’s .meme domain is here to serve your wackiest websites](https://www.theverge.com/2023/11/28/23979595/google-registry-meme-domain-launch)
- - [Default no more: iOS 17 beta 4 lets you change notification sounds and haptics](https://appleinsider.com/articles/23/11/28/default-no-more-ios-17-beta-4-lets-you-change-notification-sounds-and-haptics?utm_medium=rss)
- - [Prominent Women in Tech Say They Don&#39;t Want to Join OpenAI&#39;s All-Male Board](https://www.wired.com/story/women-in-tech-openai-board/)<!-- TECH:END -->
+ - [Default no more: iOS 17 beta 4 lets you change notification sounds and haptics](https://appleinsider.com/articles/23/11/28/default-no-more-ios-17-beta-4-lets-you-change-notification-sounds-and-haptics?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

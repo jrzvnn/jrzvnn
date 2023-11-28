@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS announces three new serverless offerings designed to make it easier for customers to manage their Aurora, Elastic Cache, and Redshift deployments &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p6#a231128p6)
  - [Shares of SenseTime fell as much as 9.7% in Hong Kong, after a short seller accused the AI company of inflating its revenue; SenseTime refutes the allegations &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p5#a231128p5)
  - [Amazon launches Amazon One Enterprise in preview, allowing US businesses use its palm-scanning tech as an authentication tool to let employees into the office &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231128/p4#a231128p4)
  - [86 Best Cyber Monday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/cyber-monday-outdoor-deals-rei-2023/)
- - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)
- - [Atomico: companies in Europe are on track to raise $42B in 2023, vs. $85B in 2022; just 7 unicorns are expected in 2023, compared to 48 in 2022 and 108 in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231128/p3#a231128p3)<!-- TECH:END -->
+ - [38 Cyber Monday Kitchen Deals &lpar;2023&rpar;: KitchenAid, Oxo, Ninja](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections](https://www.wired.com/story/elon-musk-qanon-2024-election/)
  - [Apple Vision Pro followup expected to be a more affordable, cut-down model](https://appleinsider.com/articles/23/11/28/apple-vision-pro-followup-expected-to-be-a-more-affordable-cut-down-model?utm_medium=rss)
  - [Apple Music Replay is back — and it’s still mostly a web experience](https://www.theverge.com/2023/11/28/23979319/apple-music-replay-2023-spotify-wrapped)
  - [The best Cyber Monday deals still happening on some Verge favorites](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
- - [Apple TV+ examines John Lennon&#39;s murder in new December series](https://appleinsider.com/articles/23/11/28/apple-tv-examines-john-lennons-murder-in-new-december-series?utm_medium=rss)
- - [American Airlines will pay to bury 10,000 tons of CO2 underground](https://www.theverge.com/2023/11/28/23979258/american-airlines-graphyte-startup-climate-carbon-removal)<!-- TECH:END -->
+ - [Apple TV+ examines John Lennon&#39;s murder in new December series](https://appleinsider.com/articles/23/11/28/apple-tv-examines-john-lennons-murder-in-new-december-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

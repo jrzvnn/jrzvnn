@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 💣 [Button](http://9gag.com/gag/aVb6bQP)
- - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 👉 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)<!-- MEMES:END -->
 
 ---
 

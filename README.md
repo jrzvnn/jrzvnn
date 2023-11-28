@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI&#39;s revamped board doesn&#39;t plan to include representatives from outside investors such as Microsoft, Thrive Capital, and Sequoia Capital &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231128/p37#a231128p37)
+ - [CrowdStrike reports Q3 revenue up 35% YoY to $786M, vs. $777M est., ARR up 35% YoY to $3.15B, and net income of $26.7M, vs. a net loss of $55M a year ago &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231128/p36#a231128p36)
+ - [Dragon’s Dogma 2 gets a March release date and tricky new class](https://www.theverge.com/23979909/dragons-dogma-2-release-date-trailer-capcom)
  - [How a post office in the tiny town of Bemidji, Minnesota, was overwhelmed by Amazon packages, which staff were told to prioritize, causing chaos &lpar;Washington Post&rpar;](http://www.techmeme.com/231128/p35#a231128p35)
- - [HPE reports Q4 revenue down 7% YoY to $7.4B, Compute revenue down 31% YoY to $2.6B, HPC &amp; AI revenue up 37% YoY to $1.2B, Intelligent Edge revenue up 41% YoY &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231128/p34#a231128p34)
- - [Apple Music Replay, which lets users look back at their music listening habits from the past year, arrives but is still no match for Spotify Wrapped &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231128/p33#a231128p33)
- - [Daily deals Nov. 28: M1 iMac for $899, 16&quot; MacBook Pro $1,249, 58&quot; Hisense TV $349, more](https://appleinsider.com/articles/23/11/28/daily-deals-nov-28-m1-imac-for-899-16-macbook-pro-1249-58-hisense-tv-349-more?utm_medium=rss)
- - [How to get your 2023 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)<!-- TECH:END -->
+ - [HPE reports Q4 revenue down 7% YoY to $7.4B, Compute revenue down 31% YoY to $2.6B, HPC &amp; AI revenue up 37% YoY to $1.2B, Intelligent Edge revenue up 41% YoY &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/231128/p34#a231128p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

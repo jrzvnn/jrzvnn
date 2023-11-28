@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 💣 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
+ - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
  - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
+ - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
 
 ---
 

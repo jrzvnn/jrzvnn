@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)
  - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Week, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Walmart’s cheap Google TV box now comes in a stick](https://www.theverge.com/2023/11/28/23979660/walmart-onn-google-tv-streaming-stick-price-availability)
- - [Amazon’s Answer to ChatGPT Is a Workplace Assistant Called Q](https://www.wired.com/story/amazon-q-ai-chatbot-aws/)
- - [Google’s .meme domain is here to serve your wackiest websites](https://www.theverge.com/2023/11/28/23979595/google-registry-meme-domain-launch)
- - [Default no more: iOS 17 beta 4 lets you change notification sounds and haptics](https://appleinsider.com/articles/23/11/28/default-no-more-ios-17-beta-4-lets-you-change-notification-sounds-and-haptics?utm_medium=rss)<!-- TECH:END -->
+ - [Best Cyber Monday Headphone Deals Still Available on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
+ - [Score Tons of Freebies at Solo Stove&#39;s Cyber Monday Sale     - CNET](https://www.cnet.com/deals/score-tons-of-freebies-at-solo-stoves-cyber-monday-sale/#ftag=CAD590a51e)
+ - [Walmart’s cheap Google TV box now comes in a stick](https://www.theverge.com/2023/11/28/23979660/walmart-onn-google-tv-streaming-stick-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

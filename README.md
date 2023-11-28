@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals you can still get](https://www.theverge.com/23978578/cyber-monday-2023-best-deals-still-available-tech-earbuds-ipads-games-gifts)
  - [Apple Watch Cyber Week deals: get a Series 8 for $279, Apple Watch Ultra $659, SE 2 for $179](https://appleinsider.com/articles/23/11/28/apple-watch-cyber-week-deals-get-a-series-8-for-279-apple-watch-ultra-659-se-2-for-179?utm_medium=rss)
  - [The Hundred-Year Battle for India’s Radio Airwaves](https://www.wired.com/story/india-radio-elections-narendra-modi/)
  - [Adobe: US Cyber Monday sales rose 9.6% YoY to a record $12.4B, driven by deep discounts that peaked at 31% in electronics and 23% for apparel &lpar;Reuters&rpar;](http://www.techmeme.com/231128/p22#a231128p22)
- - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)
- - [How to Use Obsidian for Writing and Productivity](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)<!-- TECH:END -->
+ - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

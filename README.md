@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
- - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
+ - 😝 [Great way to giveparents aneurysm](http://9gag.com/gag/a1P6Prw)
+ - 😝 [For the 100th anniversary celebration no less](http://9gag.com/gag/aVb6YdM)
+ - 💣 [Button](http://9gag.com/gag/aVb6bQP)
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
 
 ---
 

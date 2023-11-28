@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ending Soon: 80+ Amazon Cyber Monday Deals on Fitness Gear, Tech, TVs and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
  - [The 37 Best Cyber Monday Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)
  - [21 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
  - [Omdia: Meta and Microsoft are expected to have received 150K Nvidia H100 GPUs each by the end of 2023, three times as many as Google, Amazon, or Oracle &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/231127/p36#a231127p36)
- - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)<!-- TECH:END -->
+ - [Best Cyber Monday Deals Ending Soon: Shop 50 Curated Picks Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

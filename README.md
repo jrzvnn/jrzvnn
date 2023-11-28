@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 37 Best Cyber Monday Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)
  - [21 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
  - [Omdia: Meta and Microsoft are expected to have received 150K Nvidia H100 GPUs each by the end of 2023, three times as many as Google, Amazon, or Oracle &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/231127/p36#a231127p36)
  - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)
- - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)
- - [How to delete macOS Sonoma&#39;s live wallpapers](https://appleinsider.com/inside/macos-sonoma/tips/how-to-delete-macos-sonomas-live-wallpapers?utm_medium=rss)<!-- TECH:END -->
+ - [AWS announces AI foundation model enhancements to its automated speech recognition service Transcribe, now supporting 100+ languages, and to Personalize and Lex &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231127/p35#a231127p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

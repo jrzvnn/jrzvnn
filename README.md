@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Test your kid](http://9gag.com/gag/aGEQjw6)
- - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [Oh well...](http://9gag.com/gag/aMEL421)
- - 👉 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/aGEQp3z)
+ - 😝 [Full of special appearances](http://9gag.com/gag/amAZgoX)
+ - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [...but most importantly, he b\u00f3br](http://9gag.com/gag/aeQBDoQ)
+ - 👉 [I guess that means I am black.](http://9gag.com/gag/ay2Ke6M)<!-- MEMES:END -->
 
 ---
 

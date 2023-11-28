@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple seeds fourth developer beta of watchOS 10.2](https://appleinsider.com/articles/23/11/28/apple-seeds-fourth-developer-beta-of-watchos-102?utm_medium=rss)
  - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)
  - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)
- - [The best Cyber Monday deals under $100 you can still get](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
+ - [The best Cyber Monday deals you can still grab for under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

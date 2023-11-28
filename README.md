@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk last week and today, in a now-deleted tweet, boosted the debunked Pizzagate conspiracy theory that led a man to fire an AR-15 in a DC eatery in 2016 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231128/p32#a231128p32)
+ - [A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab](https://www.wired.com/story/2023-ndaa-privacy-lobbying/)
  - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)
  - [Every M3 MacBook Pro &amp; iMac is up to $250 off for Cyber Week, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [Best Cyber Monday Headphone Deals Still Available on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)
- - [Score Tons of Freebies at Solo Stove&#39;s Cyber Monday Sale     - CNET](https://www.cnet.com/deals/score-tons-of-freebies-at-solo-stoves-cyber-monday-sale/#ftag=CAD590a51e)
- - [Walmart’s cheap Google TV box now comes in a stick](https://www.theverge.com/2023/11/28/23979660/walmart-onn-google-tv-streaming-stick-price-availability)<!-- TECH:END -->
+ - [Best Cyber Monday Headphone Deals Still Available on AirPods, Beats, Bose, Sony and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

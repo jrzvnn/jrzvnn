@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX investors sue MLB, Formula 1, and the Mercedes Formula 1 team, accusing them of aiding FTX&#39;s fraud, broadening a class-action suit against 24+ celebrities &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231128/p13#a231128p13)
- - [Best Cheap Phone of 2023: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Take a first look at Vision Pro&#39;s 3D virtual &#39;Yosemite Environment&#39;](https://appleinsider.com/articles/23/11/28/take-a-first-look-at-vision-pros-3d-virtual-yosemite-environment?utm_medium=rss)
- - [An in-depth reflection on Marc Andreessen&#39;s &quot;techno-optimist manifesto&quot;: tech is amazing, the high cost of delays, AI and risk, d/acc, centralization, and more &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/231128/p12#a231128p12)
- - [You Can Still Save $50 on the Meta Quest 2 After Cyber Monday     - CNET](https://www.cnet.com/deals/you-can-still-save-50-on-the-meta-quest-2-after-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers?utm_medium=rss)
+ - [Flash deal: save up to $175 on Hyper docking stations &amp; hubs today only](https://appleinsider.com/articles/23/11/28/flash-deal-save-up-to-175-on-hyper-docking-stations-hubs-today-only?utm_medium=rss)
+ - [PDD, which runs Temu and Pinduoduo, reports Q3 revenue up 94% YoY to ~$9.6B vs. ~$7.7B est., and net income up 47%, after grabbing Shein users; PDD jumps 15%+ &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231128/p16#a231128p16)
+ - [Ikea announces new smart sensors: Parasoll, for doors and windows, Vallhorn, for motion, and Badring, for water leakages, available in H1 2024 for under $10 &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/231128/p15#a231128p15)
+ - [Oxford Internet Institute study of 2M+ people&#39;s internet use: no &quot;smoking gun&quot; for widespread mental health harms, contradicting the &quot;popular ideas&quot; of risks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231128/p14#a231128p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

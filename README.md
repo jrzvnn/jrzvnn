@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
  - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [Spider man: Far from hair](http://9gag.com/gag/a7qxM1e)
- - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 

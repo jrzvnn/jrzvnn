@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fan-favorite Adobe Creative Cloud 50% off deal is extended for Cyber Monday](https://appleinsider.com/articles/23/11/25/fan-favorite-adobe-creative-cloud-50-off-deal-is-extended-for-cyber-monday?utm_medium=rss)
- - [Meituan reports Q3 revenue up 22% YoY to ~$10.7B, narrowly beating est., and net income up nearly 3x to ~$507M, boosted by strong Chinese travel demand &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p10#a231128p10)
- - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
- - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)
- - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)<!-- TECH:END -->
+ - [Vanpowers UrbanGlide Pro E-Bike review: Navigates the city with ease](https://appleinsider.com/articles/23/11/28/vanpowers-urbanglide-pro-e-bike-review-navigates-the-city-with-ease?utm_medium=rss)
+ - [Save up to $50 on Logitech keyboards &amp; mice for Mac during sitewide sale](https://appleinsider.com/articles/23/11/28/save-up-to-50-on-logitech-keyboards-mice-for-mac-during-sitewide-sale?utm_medium=rss)
+ - [iPad &amp; iPad Pro buyer&#39;s guide: which iPad to buy for your budget](https://appleinsider.com/articles/22/10/26/ultimate-ipad-buyers-guide-christmas-2022---which-ipad-to-buy-at-any-price-point?utm_medium=rss)
+ - [A study of UK teenagers: 79% of online users aged 13 to 17 use generative AI, compared to 31% of internet users aged 16+; 51% of ages 7 to 17 use Snap&#39;s My AI &lpar;Ofcom&rpar;](http://www.techmeme.com/231128/p11#a231128p11)
+ - [&#39;Rebel Moon&#39; Director Zack Snyder on Violence, Loss, and Extreme Fandom](https://www.wired.com/story/rebel-moon-director-zack-snyder-on-violence-loss-and-extreme-fandom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

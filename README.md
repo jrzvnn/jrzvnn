@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sketchy report says 400,000 Apple Vision Pro units to ship initially, 10 million by 2026](https://appleinsider.com/articles/23/11/28/sketchy-report-says-400000-apple-vision-pro-units-to-ship-initially-10-million-by-2026?utm_medium=rss)
+ - [The best Cyber Monday deals you can still get before midnight](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
  - [Mozaic, whose API helps creators split and automate payments with collaborators, raised a $20M Series A from Volition Capital, taking its total funding to $27M+ &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231127/p33#a231127p33)
  - [Sources: OpenAI board mulled adding Bret Taylor after three members resigned earlier in 2023, but lacked consensus, and it never got any letter warning about Q* &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231127/p32#a231127p32)
- - [Best Apple Cyber Monday Deals 2023: Check Out Savings on AirPods, iPad, Apple Watch, MacBook and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)
- - [Cradle, which uses AI to help design and engineer proteins faster and more cost-effectively, raised a $24M Series A led by Index Ventures &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231127/p31#a231127p31)
- - [23 Best Cyber Monday TV Deals &lpar;2023&rpar;: OLED, QLED, and More](https://www.wired.com/story/best-cyber-monday-tv-deals-2023/)<!-- TECH:END -->
+ - [Best Apple Cyber Monday Deals 2023: Check Out Savings on AirPods, iPad, Apple Watch, MacBook and More     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

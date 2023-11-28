@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad joke.](http://9gag.com/gag/avQjz8d)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 💣 [Free your Hair first](http://9gag.com/gag/aQEjozw)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
  - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 👉 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)<!-- MEMES:END -->
 
 ---
 

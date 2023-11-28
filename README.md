@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
+ - 💣 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 

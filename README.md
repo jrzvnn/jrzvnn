@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
- - 😝 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 💣 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 👉 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)<!-- MEMES:END -->
+ - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
 
 ---
 

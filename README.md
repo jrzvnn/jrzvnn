@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Camper Wakes Up To Hundred of Spiders Crawling on Its Tent](http://9gag.com/gag/aA093nZ)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 😝 [Perfect logic](http://9gag.com/gag/a5XYnYo)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
+ - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 😝 [Do you agree?](http://9gag.com/gag/amAZ7xo)
+ - 👉 [Forget About Monday. New Phobia Unlocked](http://9gag.com/gag/aeQBeBm)<!-- MEMES:END -->
 
 ---
 

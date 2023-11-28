@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ examines John Lennon&#39;s murder in new December series](https://appleinsider.com/articles/23/11/28/apple-tv-examines-john-lennons-murder-in-new-december-series?utm_medium=rss)
+ - [American Airlines will pay to bury 10,000 tons of CO2 underground](https://www.theverge.com/2023/11/28/23979258/american-airlines-graphyte-startup-climate-carbon-removal)
+ - [The best Cyber Monday streaming deals on Hulu, Paramount Plus, and more you can still get](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
  - [How to find your Apple Music Replay](https://www.theverge.com/23484112/apple-music-replay-how-to)
- - [Wix CEO Avishai Abrahami on why the web isn’t dying after all](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview)
- - [How humans are engineering the future of coral reefs](https://www.theverge.com/23972647/coral-reef-engineering-future-rescue)
- - [UK watchdog slams the brakes on Adobe’s $20 billion bid for Figma](https://www.theverge.com/2023/11/28/23979260/adobe-figma-bid-uk-watchdog-cma-provisional-findings-merger)
- - [Challenges for chip startups: TSMC and Nvidia dominate and hold thousands of patents, buying chipmaking gear, and complexity; Nvidia&#39;s $300K H100 has 35K parts &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/231128/p23#a231128p23)<!-- TECH:END -->
+ - [Wix CEO Avishai Abrahami on why the web isn’t dying after all](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

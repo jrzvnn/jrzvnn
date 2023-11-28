@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Default no more: iOS 17 beta 4 lets you change notification sounds and haptics](https://appleinsider.com/articles/23/11/28/default-no-more-ios-17-beta-4-lets-you-change-notification-sounds-and-haptics?utm_medium=rss)
+ - [Prominent Women in Tech Say They Don&#39;t Want to Join OpenAI&#39;s All-Male Board](https://www.wired.com/story/women-in-tech-openai-board/)
  - [Survey of Substack and Telegram finds &quot;scores&quot; of white supremacist, neo-Confederate, and Nazi newsletters among Substack&#39;s ~17K total; over 16 use Nazi symbols &lpar;Jonathan M. Katz/The Atlantic&rpar;](http://www.techmeme.com/231128/p31#a231128p31)
- - [Save $100 on This Halo Wireless GPS Dog Collar Even After Cyber Monday and Never Lose Your Good Boy Again     - CNET](https://www.cnet.com/deals/save-100-on-this-halo-wireless-gps-dog-collar-this-cyber-monday-and-never-lose-your-good-boy-again/#ftag=CAD590a51e)
  - [Fourth tvOS 17.2 build issued for developer beta testing](https://appleinsider.com/articles/23/11/28/fourth-tvos-172-build-issued-for-developer-beta-testing?utm_medium=rss)
- - [Apple seeds fourth developer beta of watchOS 10.2](https://appleinsider.com/articles/23/11/28/apple-seeds-fourth-developer-beta-of-watchos-102?utm_medium=rss)
- - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds fourth developer beta of watchOS 10.2](https://appleinsider.com/articles/23/11/28/apple-seeds-fourth-developer-beta-of-watchos-102?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

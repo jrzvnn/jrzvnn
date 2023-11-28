@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)
  - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
  - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
 
 ---

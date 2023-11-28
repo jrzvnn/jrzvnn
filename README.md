@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)
+ - [How to Use Obsidian for Writing and Productivity](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)
  - [Apple releases 2023 top charts for Podcasts, Apple Books](https://appleinsider.com/articles/23/11/28/apple-releases-2023-top-charts-for-podcasts-apple-books?utm_medium=rss)
  - [Q&amp;A with Car Connectivity Consortium VP Daniel Knobloch on digital car keys, getting automakers to agree on a standard in 2020, securing against theft, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p20#a231128p20)
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)
- - [De Niro accuses Apple of censoring his speech honoring Martin Scorsese](https://appleinsider.com/articles/23/11/28/de-niro-accuses-apple-of-censoring-his-speech-honoring-martin-scorsese?utm_medium=rss)
- - [A profile of Curtis Priem, Nvidia&#39;s co-founder and first CTO, who holds ~200 patents, sold his Nvidia stock years ago, and has donated $275M to his alma mater &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/231128/p19#a231128p19)<!-- TECH:END -->
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

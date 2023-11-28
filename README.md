@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [31 Best Coffee Deals for Cyber Monday—Makers, Grinders, Mugs](https://www.wired.com/story/best-cyber-monday-coffee-deals-2023/)
+ - [DP World, Australia&#39;s second largest port operator, says hackers stole employee data after a suspension of operations caused by cyberattack early this month &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/231128/p1#a231128p1)
  - [73 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)
  - [A Life-Extension Drug for Big Dogs Is Getting Closer to Reality](https://www.wired.com/story/a-life-extension-drug-for-big-dogs-is-getting-closer-to-reality/)
- - [98 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
- - [The 31 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [Ending Soon: 80+ Amazon Cyber Monday Deals on Fitness Gear, Tech, TVs and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [98 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

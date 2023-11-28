@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 💣 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 😝 [Invincible side by side #10](http://9gag.com/gag/aVb6wXy)
  - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
- - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
+ - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
 
 ---
 

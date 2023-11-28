@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA provisionally finds Adobe&#39;s $20B Figma acquisition would likely harm innovation for design software and invites responses ahead of a final decision &lpar;Joseph Hoppe/Wall Street Journal&rpar;](http://www.techmeme.com/231128/p18#a231128p18)
+ - [An analysis of over 100 restricted extremist Telegram channels finds many of them remain active, and their content can often spread to public channels &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231128/p17#a231128p17)
  - [Apple&#39;s smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers?utm_medium=rss)
  - [Flash deal: save up to $175 on Hyper docking stations &amp; hubs today only](https://appleinsider.com/articles/23/11/28/flash-deal-save-up-to-175-on-hyper-docking-stations-hubs-today-only?utm_medium=rss)
- - [PDD, which runs Temu and Pinduoduo, reports Q3 revenue up 94% YoY to ~$9.6B vs. ~$7.7B est., and net income up 47%, after grabbing Shein users; PDD jumps 15%+ &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231128/p16#a231128p16)
- - [Ikea announces new smart sensors: Parasoll, for doors and windows, Vallhorn, for motion, and Badring, for water leakages, available in H1 2024 for under $10 &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/231128/p15#a231128p15)
- - [Oxford Internet Institute study of 2M+ people&#39;s internet use: no &quot;smoking gun&quot; for widespread mental health harms, contradicting the &quot;popular ideas&quot; of risks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231128/p14#a231128p14)<!-- TECH:END -->
+ - [PDD, which runs Temu and Pinduoduo, reports Q3 revenue up 94% YoY to ~$9.6B vs. ~$7.7B est., and net income up 47%, after grabbing Shein users; PDD jumps 15%+ &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231128/p16#a231128p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

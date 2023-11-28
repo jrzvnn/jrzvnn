@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS announces Graviton4, with up to 30% better performance, 50% more cores, and 75% more memory bandwidth than Graviton3, and Trainium2 for 4x faster training &lpar;About Amazon&rpar;](http://www.techmeme.com/231128/p25#a231128p25)
  - [This dev conference organizer seems addicted to making up women](https://www.theverge.com/2023/11/28/23978254/devternity-jdkon-developer-conference-fake-women-speakers)
  - [These 123 Last-Chance Cyber Monday Deals Are Still Going Strong Right Now](https://www.wired.com/story/cyber-monday-leftover-deals-2023/)
  - [Sources: Chinese payments group Alipay plans to sell its 3.4% stake in Indian food delivery giant Zomato for ~$400M; Zomato shares have surged 90%+ in 2023 &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/231128/p24#a231128p24)
- - [Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections](https://www.wired.com/story/elon-musk-qanon-2024-election/)
- - [Apple Vision Pro followup expected to be a more affordable, cut-down model](https://appleinsider.com/articles/23/11/28/apple-vision-pro-followup-expected-to-be-a-more-affordable-cut-down-model?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections](https://www.wired.com/story/elon-musk-qanon-2024-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

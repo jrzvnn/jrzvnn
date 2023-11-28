@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 😝 [Journalists tear down the portraits of the French child murdered last week by doctors and engineers](http://9gag.com/gag/armLVYX)
- - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
 
 ---
 

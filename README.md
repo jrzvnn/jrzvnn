@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [The usual suspects](http://9gag.com/gag/ay2KBqq)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 💣 [Button](http://9gag.com/gag/aVb6bQP)
  - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
  - 👉 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)<!-- MEMES:END -->
 
 ---

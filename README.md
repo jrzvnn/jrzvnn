@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 💣 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
+ - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [Spider man: Far from hair](http://9gag.com/gag/a7qxM1e)
+ - 👉 [Real Racism](http://9gag.com/gag/agoe5xg)<!-- MEMES:END -->
 
 ---
 

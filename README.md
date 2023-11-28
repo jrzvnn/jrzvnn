@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Invincible side by side #10](http://9gag.com/gag/aVb6wXy)
- - 😝 [I&#39;d swallow em all to be a god](http://9gag.com/gag/awZpQ4W)
+ - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
  - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 👉 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)<!-- MEMES:END -->
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 👉 [You Couldn&#39;t Pay Me Enough](http://9gag.com/gag/aL1E83A)<!-- MEMES:END -->
 
 ---
 

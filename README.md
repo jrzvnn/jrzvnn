@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Button](http://9gag.com/gag/aVb6bQP)
- - 😝 [All these time??!](http://9gag.com/gag/aZDY7DW)
- - 💣 [That poor child and man](http://9gag.com/gag/aYV0ovN)
  - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 👉 [Share your cursed](http://9gag.com/gag/aREp74j)<!-- MEMES:END -->
+ - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 😝 [Good saving kick](http://9gag.com/gag/avQjQxZ)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 

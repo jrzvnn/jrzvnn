@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals under $100 you can still get](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)
+ - [Amazon launches Amazon Q, a workplace-focused AI assistant starting at $20/user/month that competes with ChatGPT Enterprise, Microsoft&#39;s Copilot, and others &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/231128/p30#a231128p30)
  - [AWS launches Guardrails in preview to help companies implement safeguards for LLMs, available for foundational models and agents on Amazon Bedrock &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p29#a231128p29)
  - [Pika, a startup building AI tools to generate and edit videos, raised $55M led by Lightspeed Venture Partners, after emerging from stealth six months ago &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231128/p28#a231128p28)
- - [Missed out on Black Friday deals on Apple? Cyber Week savings are in effect now](https://appleinsider.com/articles/23/11/28/missed-out-on-black-friday-deals-on-apple-cyber-week-savings-are-in-effect-now?utm_medium=rss)
- - [Forget Cyber Monday, These Roomba Deals Are Live Right Now     - CNET](https://www.cnet.com/deals/forget-cyber-monday-these-roomba-deals-are-live-right-now/#ftag=CAD590a51e)
- - [How to get started using the DOS_deck game service on macOS](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-the-dosdeck-game-service-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Missed out on Black Friday deals on Apple? Cyber Week savings are in effect now](https://appleinsider.com/articles/23/11/28/missed-out-on-black-friday-deals-on-apple-cyber-week-savings-are-in-effect-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

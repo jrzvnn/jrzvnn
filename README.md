@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The usual suspects](http://9gag.com/gag/ay2KBqq)
+ - 😝 [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
+ - 😝 [John Wick without John Wick, that\u2018s what we want!](http://9gag.com/gag/aMEL46G)
+ - 💣 [The science of atmospheric pressure](http://9gag.com/gag/aWGXxe2)
  - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 💣 [Button](http://9gag.com/gag/aVb6bQP)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 👉 [But it&#39;s ok](http://9gag.com/gag/aGEQz6n)<!-- MEMES:END -->
+ - 👉 [Full of special appearances](http://9gag.com/gag/amAZgoX)<!-- MEMES:END -->
 
 ---
 

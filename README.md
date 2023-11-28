@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow American zoomer](http://9gag.com/gag/aVb63DO)
- - 😝 [Real Racism](http://9gag.com/gag/agoe5xg)
- - 💣 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
- - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
- - 👉 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)<!-- MEMES:END -->
+ - 😝 [Having a girlfriend while on a deserted island](http://9gag.com/gag/anzoMAz)
+ - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 💣 [Real Racism](http://9gag.com/gag/agoe5xg)
+ - 😝 [Invincible side by side #9](http://9gag.com/gag/aoK7P0X)
+ - 👉 [All these time??!](http://9gag.com/gag/aZDY7DW)<!-- MEMES:END -->
 
 ---
 

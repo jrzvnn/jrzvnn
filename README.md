@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Cyber Week deals: get a Series 8 for $279, Apple Watch Ultra $659, SE 2 for $179](https://appleinsider.com/articles/23/11/28/apple-watch-cyber-week-deals-get-a-series-8-for-279-apple-watch-ultra-659-se-2-for-179?utm_medium=rss)
+ - [The Hundred-Year Battle for India’s Radio Airwaves](https://www.wired.com/story/india-radio-elections-narendra-modi/)
+ - [Adobe: US Cyber Monday sales rose 9.6% YoY to a record $12.4B, driven by deep discounts that peaked at 31% in electronics and 23% for apparel &lpar;Reuters&rpar;](http://www.techmeme.com/231128/p22#a231128p22)
  - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)
- - [How to Use Obsidian for Writing and Productivity](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)
- - [Apple releases 2023 top charts for Podcasts, Apple Books](https://appleinsider.com/articles/23/11/28/apple-releases-2023-top-charts-for-podcasts-apple-books?utm_medium=rss)
- - [Q&amp;A with Car Connectivity Consortium VP Daniel Knobloch on digital car keys, getting automakers to agree on a standard in 2020, securing against theft, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p20#a231128p20)
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)<!-- TECH:END -->
+ - [How to Use Obsidian for Writing and Productivity](https://www.wired.com/story/how-to-use-obsidian-writing-productivity-markdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

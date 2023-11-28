@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals you can still get](https://www.theverge.com/23978578/cyber-monday-2023-best-deals-still-available-tech-earbuds-ipads-games-gifts)
- - [Apple Watch Cyber Week deals: get a Series 8 for $279, Apple Watch Ultra $659, SE 2 for $179](https://appleinsider.com/articles/23/11/28/apple-watch-cyber-week-deals-get-a-series-8-for-279-apple-watch-ultra-659-se-2-for-179?utm_medium=rss)
- - [The Hundred-Year Battle for India’s Radio Airwaves](https://www.wired.com/story/india-radio-elections-narendra-modi/)
- - [Adobe: US Cyber Monday sales rose 9.6% YoY to a record $12.4B, driven by deep discounts that peaked at 31% in electronics and 23% for apparel &lpar;Reuters&rpar;](http://www.techmeme.com/231128/p22#a231128p22)
- - [Google says a first-of-its-kind geothermal energy project in Nevada, to power its data centers with clean energy in partnership with Fervo, is up and running &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231128/p21#a231128p21)<!-- TECH:END -->
+ - [How to find your Apple Music Replay](https://www.theverge.com/23484112/apple-music-replay-how-to)
+ - [Wix CEO Avishai Abrahami on why the web isn’t dying after all](https://www.theverge.com/23977985/wix-ceo-avishai-abrahami-generative-ai-web-google-search-interview)
+ - [How humans are engineering the future of coral reefs](https://www.theverge.com/23972647/coral-reef-engineering-future-rescue)
+ - [UK watchdog slams the brakes on Adobe’s $20 billion bid for Figma](https://www.theverge.com/2023/11/28/23979260/adobe-figma-bid-uk-watchdog-cma-provisional-findings-merger)
+ - [Challenges for chip startups: TSMC and Nvidia dominate and hold thousands of patents, buying chipmaking gear, and complexity; Nvidia&#39;s $300K H100 has 35K parts &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/231128/p23#a231128p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

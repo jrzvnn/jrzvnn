@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to exit its Goldman Sachs contract in 12 to 15 months, ending their consumer partnership, including for credit card and savings accounts &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/231128/p39#a231128p39)
  - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
  - [Amazon’s Q AI assistant lets users ask questions about their company’s data](https://www.theverge.com/2023/11/28/23980203/aws-amazon-query-generative-ai)
  - [Adalytics: Google ads appear on many compromising sites that make up its Search Partners network; Google attacks Adalytics but says it&#39;ll review its findings &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231128/p38#a231128p38)
- - [Best Photo Books for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-photo-books/#ftag=CAD590a51e)
- - [Source: OpenAI&#39;s revamped board doesn&#39;t plan to include representatives from outside investors, a sign that it will prioritize safety ahead of investor returns &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231128/p37#a231128p37)<!-- TECH:END -->
+ - [Best Photo Books for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-photo-books/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

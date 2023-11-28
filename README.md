@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/aGEQp3z)
- - 😝 [Full of special appearances](http://9gag.com/gag/amAZgoX)
- - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [...but most importantly, he b\u00f3br](http://9gag.com/gag/aeQBDoQ)
- - 👉 [I guess that means I am black.](http://9gag.com/gag/ay2Ke6M)<!-- MEMES:END -->
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 💣 [All these time??!](http://9gag.com/gag/aZDY7DW)
+ - 😝 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 👉 [I will just leave this here](http://9gag.com/gag/a5XYW0G)<!-- MEMES:END -->
 
 ---
 

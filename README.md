@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth reflection on Marc Andreessen&#39;s &quot;techno-optimist manifesto&quot;: tech is amazing, the high cost of delays, AI and risk, d/acc, centralization, and more &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/231128/p12#a231128p12)
  - [Vanpowers UrbanGlide Pro E-Bike review: Navigates the city with ease](https://appleinsider.com/articles/23/11/28/vanpowers-urbanglide-pro-e-bike-review-navigates-the-city-with-ease?utm_medium=rss)
  - [Save up to $50 on Logitech keyboards &amp; mice for Mac during sitewide sale](https://appleinsider.com/articles/23/11/28/save-up-to-50-on-logitech-keyboards-mice-for-mac-during-sitewide-sale?utm_medium=rss)
  - [iPad &amp; iPad Pro buyer&#39;s guide: which iPad to buy for your budget](https://appleinsider.com/articles/22/10/26/ultimate-ipad-buyers-guide-christmas-2022---which-ipad-to-buy-at-any-price-point?utm_medium=rss)
- - [A study of UK teenagers: 79% of online users aged 13 to 17 use generative AI, compared to 31% of internet users aged 16+; 51% of ages 7 to 17 use Snap&#39;s My AI &lpar;Ofcom&rpar;](http://www.techmeme.com/231128/p11#a231128p11)
- - [&#39;Rebel Moon&#39; Director Zack Snyder on Violence, Loss, and Extreme Fandom](https://www.wired.com/story/rebel-moon-director-zack-snyder-on-violence-loss-and-extreme-fandom/)<!-- TECH:END -->
+ - [A study of UK teenagers: 79% of online users aged 13 to 17 use generative AI, compared to 31% of internet users aged 16+; 51% of ages 7 to 17 use Snap&#39;s My AI &lpar;Ofcom&rpar;](http://www.techmeme.com/231128/p11#a231128p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

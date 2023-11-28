@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey of Substack and Telegram finds &quot;scores&quot; of white supremacist, neo-Confederate, and Nazi newsletters among Substack&#39;s ~17K total; over 16 use Nazi symbols &lpar;Jonathan M. Katz/The Atlantic&rpar;](http://www.techmeme.com/231128/p31#a231128p31)
  - [Fourth tvOS 17.2 build issued for developer beta testing](https://appleinsider.com/articles/23/11/28/fourth-tvos-172-build-issued-for-developer-beta-testing?utm_medium=rss)
  - [Apple seeds fourth developer beta of watchOS 10.2](https://appleinsider.com/articles/23/11/28/apple-seeds-fourth-developer-beta-of-watchos-102?utm_medium=rss)
  - [Apple hands out fourth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/11/28/apple-hands-out-fourth-macos-142-sonoma-developer-beta?utm_medium=rss)
- - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)
- - [The best Cyber Monday deals you can still grab for under $100](https://www.theverge.com/23965961/black-friday-2023-tech-deals-under-100-cyber-monday)<!-- TECH:END -->
+ - [Apple distributes fourth iOS 17.2 &amp; iPadOS 17.2 developer betas](https://appleinsider.com/articles/23/11/28/apple-distributes-fourth-ios-172-ipados-172-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

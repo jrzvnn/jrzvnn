@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to get your 2023 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)
  - [This Macintosh-inspired mini PC is short on power but long on good looks](https://www.theverge.com/2023/11/28/23979860/ayaneo-am01-mini-pc-amd-windows-price-release-date)
  - [Amazon’s new Echo Frames are lighter, louder, and start shipping next week](https://www.theverge.com/2023/11/28/23979813/amazon-echo-frames-smart-glasses-preorder-release-date)
  - [Elon Musk last week and today, in a now-deleted tweet, boosted the debunked Pizzagate conspiracy theory that led a man to fire an AR-15 in a DC eatery in 2016 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231128/p32#a231128p32)
- - [A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab](https://www.wired.com/story/2023-ndaa-privacy-lobbying/)
- - [AWS re:Invent 2023: the biggest news and announcements](https://www.theverge.com/2023/11/28/23978323/aws-re-invent-2023-news-announcements)<!-- TECH:END -->
+ - [A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab](https://www.wired.com/story/2023-ndaa-privacy-lobbying/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

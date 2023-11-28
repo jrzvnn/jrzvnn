@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Paramount and WBD stopped posting under certain corporate handles on X due to brand safety concerns; Disney-affiliated X accounts have also gone dark &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/231127/p34#a231127p34)
+ - [The best Cyber Monday deals for some of The Verge staff’s favorite stuff](https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites)
  - [32 Best Cyber Monday Headphone Deals &lpar;2023&rpar;: Sony, Apple, and More](https://www.wired.com/story/best-cyber-monday-headphone-deals-2023/)
  - [Sketchy report says 400,000 Apple Vision Pro units to ship initially, 10 million by 2026](https://appleinsider.com/articles/23/11/28/sketchy-report-says-400000-apple-vision-pro-units-to-ship-initially-10-million-by-2026?utm_medium=rss)
- - [Best Cyber Monday Deals Under $25: Save on Fire TV Sticks, Peloton Yoga Blocks and More While Deals Last     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)
- - [The best Cyber Monday deals you can still grab before midnight](https://www.theverge.com/23973013/cyber-monday-2023-best-early-deals-tech-headphones-gifts)
- - [Mozaic, whose API helps creators split and automate payments with collaborators, raised a $20M Series A from Volition Capital, taking its total funding to $27M+ &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231127/p33#a231127p33)<!-- TECH:END -->
+ - [Best Cyber Monday Deals Under $25: Save on Fire TV Sticks, Peloton Yoga Blocks and More While Deals Last     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

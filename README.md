@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
+ - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)
  - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)
- - [Q&amp;A with Jeff Dean, chief scientist of Google DeepMind and Google Research, on Bard&#39;s launch, the Gemini LLM, DeepMind-Brain merger, AI misinformation, and more &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/231128/p7#a231128p7)
- - [A Damning Report Claims a Major Gig Economy Union Had a Culture of Abuse and Toxicity](https://www.wired.com/story/adcu-gig-economy-union-toxic-report/)
- - [AWS announces three new serverless offerings designed to help customers manage their Aurora, Elastic Cache, and Redshift deployments &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231128/p6#a231128p6)
- - [SenseTime&#39;s shares fell as much as 9.7% in Hong Kong, after a short seller accused the AI company of inflating its revenue; SenseTime refutes the allegations &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p5#a231128p5)<!-- TECH:END -->
+ - [Concerned About Privacy? Disable iOS 17&#39;s NameDrop Right Now     - CNET](https://www.cnet.com/tech/mobile/concerned-about-privacy-disable-ios-17s-namedrop-right-now/#ftag=CAD590a51e)
+ - [Giving Tuesday 2023 Is Today: What It Means and How You Can Participate     - CNET](https://www.cnet.com/culture/giving-tuesday-2023-is-today-what-it-means-and-how-you-can-participate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

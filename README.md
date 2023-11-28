@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [73 Best Apple Cyber Monday Deals &lpar;2023&rpar;: iPad, Apple Watch, AirPods](https://www.wired.com/story/best-apple-cyber-monday-deals-2023/)
+ - [A Life-Extension Drug for Big Dogs Is Getting Closer to Reality](https://www.wired.com/story/a-life-extension-drug-for-big-dogs-is-getting-closer-to-reality/)
+ - [98 Affordable Cyber Monday Deals Under $50](https://www.wired.com/story/best-cyber-monday-deals-under-50-2023/)
  - [The 31 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)
- - [The 37 Best Cyber Monday Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2023/)
- - [21 Best Cyber Monday Deals on the Apple Watch and Fitness Trackers](https://www.wired.com/story/best-cyber-monday-smartwatch-fitness-tracker-deals-2023/)
- - [Omdia: Meta and Microsoft are expected to have received 150K Nvidia H100 GPUs each by the end of 2023, three times as many as Google, Amazon, or Oracle &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/231127/p36#a231127p36)
- - [The 163 Absolute Best Cyber Monday Deals &lpar;So Far!&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2023/)<!-- TECH:END -->
+ - [Ending Soon: 80+ Amazon Cyber Monday Deals on Fitness Gear, Tech, TVs and More     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

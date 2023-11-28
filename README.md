@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meituan reports Q3 revenue up 22% YoY to ~$10.7B, narrowly beating est., and net income up nearly 3x to ~$507M, boosted by strong Chinese travel demand &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231128/p10#a231128p10)
  - [Europol, the US, Ukraine, and other countries arrest members of a ransomware group in Ukraine linked to attacks on organizations in 71 countries &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231128/p9#a231128p9)
  - [Worried About Privacy on Your iPhone? The Truth About NameDrop on iOS 17     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)
  - [A look at a woman&#39;s struggle to get her Google account restored after her 7-year-old son made a YouTube video that got her locked out of all her Google accounts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231128/p8#a231128p8)
- - [Concerned About Privacy? Disable iOS 17&#39;s NameDrop Right Now     - CNET](https://www.cnet.com/tech/mobile/concerned-about-privacy-disable-ios-17s-namedrop-right-now/#ftag=CAD590a51e)
- - [Giving Tuesday 2023 Is Today: What It Means and How You Can Participate     - CNET](https://www.cnet.com/culture/giving-tuesday-2023-is-today-what-it-means-and-how-you-can-participate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Concerned About Privacy? Disable iOS 17&#39;s NameDrop Right Now     - CNET](https://www.cnet.com/tech/mobile/concerned-about-privacy-disable-ios-17s-namedrop-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

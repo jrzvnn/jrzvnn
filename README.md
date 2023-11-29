@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
  - 😝 [Women](http://9gag.com/gag/az23drp)
- - 😝 [Pottery](http://9gag.com/gag/aQEjvMq)
- - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 😝 [Nuclear is bad](http://9gag.com/gag/aoK730x)
+ - 💣 [Nuclear is bad](http://9gag.com/gag/aoK730x)
+ - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
  - 👉 [Roasted](http://9gag.com/gag/aXnOMYD)<!-- MEMES:END -->
 
 ---

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 😝 [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
- - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
- - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
+ - 😝 [Some things never change](http://9gag.com/gag/az23xQB)
+ - 😝 [He is super cool though](http://9gag.com/gag/aEq4qVe)
+ - 💣 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
+ - 👉 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)<!-- MEMES:END -->
 
 ---
 

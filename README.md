@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 😝 [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
+ - 💣 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
  - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
- - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
  - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
 
 ---

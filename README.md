@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla says Firefox extensions compatible with Android will be &quot;openly available&quot; to users on December 14, with over 400 coming at launch &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231129/p38#a231129p38)
+ - [Apple and Spotify have revealed their top podcasts of 2023. Here is what they do — and don’t — tell us.](https://www.theverge.com/2023/11/29/23981468/apple-replay-spotify-wrapped-podcasts-rogan-crime-junkie-alex-cooper)
+ - [How to find your forgotten Gmail accounts](https://www.theverge.com/23801642/gmail-accounts-lost-forgotten-recovery-how-to)
  - [B&amp;H&#39;s Cyber Week sale offers up to $3,000 in savings on popular tech](https://appleinsider.com/articles/23/11/29/bhs-cyber-week-sale-offers-up-to-3000-in-savings-on-popular-tech?utm_medium=rss)
- - [Mailchimp plans to shut down TinyLetter on February 29, 2024, to focus on its core Mailchimp product, according to messages from Mailchimp to TinyLetter users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231129/p37#a231129p37)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Tens of billions of dollars of IRA funding will now be earmarked for environmental justice](https://www.theverge.com/2023/11/29/23981137/biden-ira-inflation-reduction-act-programs-justice40-initiative-exclusive)
- - [Apple says it&#39;s focused with Goldman Sachs on providing &quot;an incredible experience&quot; for customers, after a report that Apple plans to end their partnership &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231129/p36#a231129p36)<!-- TECH:END -->
+ - [Mailchimp plans to shut down TinyLetter on February 29, 2024, to focus on its core Mailchimp product, according to messages from Mailchimp to TinyLetter users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231129/p37#a231129p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

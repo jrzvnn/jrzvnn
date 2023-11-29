@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 😝 [Women](http://9gag.com/gag/az23drp)
- - 💣 [Nuclear is bad](http://9gag.com/gag/aoK730x)
- - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 👉 [Roasted](http://9gag.com/gag/aXnOMYD)<!-- MEMES:END -->
+ - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 ---
 

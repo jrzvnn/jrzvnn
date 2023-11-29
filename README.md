@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: ChatGPT can emit sequences memorized from its training data via a new &quot;divergence attack&quot; that prompts ChatGPT to repeat a word numerous times &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/231129/p40#a231129p40)
+ - [Microsoft Paint’s OpenAI-powered ‘Cocreator’ image generator is here](https://www.theverge.com/2023/11/29/23981310/microsoft-ms-paint-cocreator-openai-ai-dall-e-3-text-to-image-generator-available)
+ - [Google agrees to pay publishers in Canada and drops plans for blocking news](https://www.theverge.com/2023/11/29/23981515/google-canadian-government-online-news-act-link-tax-agreement)
  - [Apple&#39;s new Apple Card &amp; Goldman Sachs statement doesn&#39;t clarify things at all](https://appleinsider.com/articles/23/11/29/apples-new-apple-card-goldman-sachs-statement-doesnt-clarify-things-at-all?utm_medium=rss)
- - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)
- - [Mozilla says Firefox extensions compatible with Android will be &quot;openly available&quot; to users on December 14, with over 400 coming at launch &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231129/p38#a231129p38)
- - [Apple and Spotify have revealed their top podcasts of 2023. Here is what they do — and don’t — tell us.](https://www.theverge.com/2023/11/29/23981468/apple-replay-spotify-wrapped-podcasts-rogan-crime-junkie-alex-cooper)
- - [Cyber Monday 2023 Live Blog: 130+ Last-Chance Offers You Won&#39;t Want to Miss     - CNET](https://www.cnet.com/deals/cyber-monday-2023-live-still-available-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

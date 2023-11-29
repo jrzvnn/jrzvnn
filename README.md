@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)
+ - [A look at Ayaneo&#39;s new $199+ Retro Mini PC AM01, styled on Apple&#39;s 1980s-era Macintosh, with AMD Ryzen chips, up to 32GB of RAM, and up to 1TB of storage &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231129/p16#a231129p16)
  - [Confusion reigns about the future of Apple&#39;s 5G modem project](https://appleinsider.com/articles/23/11/29/confusion-reigns-about-the-future-of-apples-5g-modem-project?utm_medium=rss)
- - [Google fixes the sixth Chrome zero-day vulnerability in 2023 in an emergency update, related to the Skia open-source 2D graphics library, found by Google TAG &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231129/p14#a231129p14)
- - [Robert De Niro accuses Apple of censoring awards speech](https://www.theverge.com/2023/11/29/23980781/robert-de-niro-apple-censoring-gotham-awards-speech-donald-trump)
- - [How a group of deepfake porn victims in NYC suburb Levittown helped convict the perpetrator, an ordeal that was further complicated by the lack of clear laws &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p13#a231129p13)<!-- TECH:END -->
+ - [The 20 Best Cyber Monday Deals You Can Still Buy, According to CNET Readers     - CNET](https://www.cnet.com/deals/20-best-cyber-monday-deals-you-can-still-buy-according-cnet-readers/#ftag=CAD590a51e)
+ - [GM Slashes Spending on Robotaxi Unit Cruise, in Setback For Driverless Cars](https://www.wired.com/story/cruise-gm-spending-accident/)
+ - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

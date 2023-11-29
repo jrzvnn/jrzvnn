@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Amazon executive John Boumphrey says selling pre-owned goods in the UK and Europe is now a $1.3B business and Amazon sold 4M+ used items in 2022 in the UK &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/231129/p12#a231129p12)
  - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
  - [iPhone maker Foxconn plans extra $1.54 billion plant in India](https://appleinsider.com/articles/23/11/29/iphone-maker-foxconn-plans-extra-154-billion-plant-in-india?utm_medium=rss)
- - [Grabbing a New iPhone 15 Pro or 15 Pro Max? You&#39;ll Want to Know About These 3 Features     - CNET](https://www.cnet.com/tech/mobile/grabbing-a-new-iphone-15-pro-or-15-pro-max-youll-want-to-know-about-these-3-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS CEO Adam Selipsky takes a thinly veiled swipe at Microsoft at re:Invent: &quot;You don&#39;t want a cloud provider that&#39;s beholden primarily to one model provider&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231129/p11#a231129p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

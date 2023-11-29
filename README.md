@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plex users express alarm after receiving a &quot;week in review&quot; summary that showed what their friends had watched, part of Plex&#39;s opt-out Discover Together tool &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231129/p35#a231129p35)
  - [Mailchimp is shutting down TinyLetter](https://www.theverge.com/2023/11/29/23981363/mailchimp-shutting-down-tinyletter)
  - [How to use Siri to read a web page in iOS 17](https://appleinsider.com/inside/siri/tips/how-to-use-siri-to-read-a-web-page-in-ios-17?utm_medium=rss)
  - [Amazon debuts Titan Image Generator, an AI model that can create images from text and add invisible watermarks to them, in preview for AWS customers on Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231129/p34#a231129p34)
- - [Perplexity announces two online LLMs that can access the internet to deliver up-to-date responses, available via Perplexity&#39;s API and Labs web interface &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231129/p33#a231129p33)
- - [36 Cyber Monday PS5 Deals Still Happening Right Now: Save on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity announces two online LLMs that can access the internet to deliver up-to-date responses, available via Perplexity&#39;s API and Labs web interface &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231129/p33#a231129p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

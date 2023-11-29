@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s .NET 8 with Aspire cloud-ready tools for Mac is out](https://appleinsider.com/articles/23/11/29/microsofts-net-8-with-aspire-cloud-ready-tools-for-mac-is-out?utm_medium=rss)
+ - [Amazon executive John Boumphrey says selling pre-owned goods in the UK and Europe is now a $1.3B business and Amazon sold 4M+ used items in 2022 in the UK &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/231129/p12#a231129p12)
  - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
  - [iPhone maker Foxconn plans extra $1.54 billion plant in India](https://appleinsider.com/articles/23/11/29/iphone-maker-foxconn-plans-extra-154-billion-plant-in-india?utm_medium=rss)
- - [AWS CEO Adam Selipsky takes a thinly veiled swipe at Microsoft at re:Invent: &quot;You don&#39;t want a cloud provider that&#39;s beholden primarily to one model provider&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231129/p11#a231129p11)
- - [Google Registry launches a new .meme top level domain, adding to .dad, .boo, .ing, and its other unconventional domain names &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231129/p10#a231129p10)
- - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)<!-- TECH:END -->
+ - [Grabbing a New iPhone 15 Pro or 15 Pro Max? You&#39;ll Want to Know About These 3 Features     - CNET](https://www.cnet.com/tech/mobile/grabbing-a-new-iphone-15-pro-or-15-pro-max-youll-want-to-know-about-these-3-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

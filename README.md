@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)
  - [Mozilla says Firefox extensions compatible with Android will be &quot;openly available&quot; to users on December 14, with over 400 coming at launch &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231129/p38#a231129p38)
  - [Apple and Spotify have revealed their top podcasts of 2023. Here is what they do — and don’t — tell us.](https://www.theverge.com/2023/11/29/23981468/apple-replay-spotify-wrapped-podcasts-rogan-crime-junkie-alex-cooper)
- - [How to find your forgotten Gmail accounts](https://www.theverge.com/23801642/gmail-accounts-lost-forgotten-recovery-how-to)<!-- TECH:END -->
+ - [Cyber Monday 2023 Live Blog: 130+ Last-Chance Offers You Won&#39;t Want to Miss     - CNET](https://www.cnet.com/deals/cyber-monday-2023-live-still-available-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

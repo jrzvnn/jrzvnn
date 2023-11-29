@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
- - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
- - 💣 [Smart guy](http://9gag.com/gag/abv8A6B)
- - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
- - 👉 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)<!-- MEMES:END -->
+ - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [Great success](http://9gag.com/gag/amAZWyy)
+ - 💣 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
 
 ---
 

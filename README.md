@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 💣 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
+ - 😝 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
  - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 👉 [Great success](http://9gag.com/gag/amAZWyy)<!-- MEMES:END -->
 
 ---
 

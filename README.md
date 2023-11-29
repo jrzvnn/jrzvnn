@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 26 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Google DeepMind finds 2.2M crystal structures using GNoME, more than 45x larger than all substances ever found, and plans to make 381K available to scientists &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231129/p27#a231129p27)
  - [Together AI, which helps pre-train and fine-tune open source foundation models more efficiently, raised a $102.5M Series A led by Kleiner Perkins &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/231129/p26#a231129p26)
  - [An AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/)
- - [It’s not just electricity — Bitcoin mines burn through a lot of water, too](https://www.theverge.com/2023/11/29/23979858/bitcoin-mine-cryptocurrency-water-use-analysis-energy)
- - [Okta Breach Impacted All Customer Support Users—Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
- - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)<!-- TECH:END -->
+ - [It’s not just electricity — Bitcoin mines burn through a lot of water, too](https://www.theverge.com/2023/11/29/23979858/bitcoin-mine-cryptocurrency-water-use-analysis-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

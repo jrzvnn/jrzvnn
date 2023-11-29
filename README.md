@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta pauses shipments of the Quest 3&#39;s Elite Strap with Battery after widespread user reports of a charging fault that renders the battery useless &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/231129/p19#a231129p19)
- - [HTC’s Vive Ultimate Trackers are a sleeker way to keep tabs on your VR limbs and other objects](https://www.theverge.com/2023/11/29/23980817/htc-vive-ultimate-tracker-object-limb-tracking-vr-xr-elite)
- - [Spotify details the most-streamed albums, songs, and podcasts in 2023: Taylor Swift and Bad Bunny, Flowers by Miley Cyrus, The Joe Rogan Experience, and more &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/231129/p18#a231129p18)
- - [Google Will Start Deleting Old Accounts in 2 Days. Here&#39;s How to Save Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-in-two-days-heres-how-to-save-your-google-account/#ftag=CAD590a51e)
- - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)<!-- TECH:END -->
+ - [Sources: British AI startup Stability AI held early-stage talks with multiple companies about a sale, as executives face investor pressure over its finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p21#a231129p21)
+ - [GM CEO Mary Barra says the company plans to slow Cruise&#39;s expansion and significantly cut spending at the self-driving unit in response to safety concerns &lpar;New York Times&rpar;](http://www.techmeme.com/231129/p20#a231129p20)
+ - [Best AeroPress Coffee Makers &lpar;2023&rpar;: Original, Go, Clear, XL](https://www.wired.com/story/best-aeropress/)
+ - [DoorDash and Best Buy team up for on-demand tech deliveries](https://www.theverge.com/2023/11/29/23980078/doordash-best-buy-delivery-partnership)
+ - [Meta pauses shipments of the Quest 3&#39;s Elite Strap with Battery after widespread user reports of a charging fault that renders the battery useless &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/231129/p19#a231129p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

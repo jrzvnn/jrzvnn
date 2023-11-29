@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Netflix plans to add Grand Theft Auto: The Trilogy for its users at no extra charge on December 14 in its mobile app or on the App Store and Google Play &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231129/p30#a231129p30)
+ - [Cyber Monday TV Deals Still Available: 33 Last-Minute Savings You Shouldn&#39;t Miss     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
  - [Amazon joins AI image creation fray with new model](https://www.theverge.com/2023/11/29/23980697/amazon-ai-image-model-watermark-copyright)
- - [A Cutting-Edge Cancer Treatment May Cause Cancer. The FDA Is Investigating](https://www.wired.com/story/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/)
- - [Netflix gets its biggest games yet with GTA trilogy in December](https://www.theverge.com/2023/11/29/23981068/netflix-gta-trilogy-definitive-edition-mobile-release-date)
- - [Rover, an online marketplace for pet care services, agrees to be acquired by Blackstone in a $2.3B all-cash deal, or $11 per share; ROVR jumps 28%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p29#a231129p29)<!-- TECH:END -->
+ - [Get Festive With Up to 55% Off Holiday Decor for Cyber Week     - CNET](https://www.cnet.com/deals/get-festive-with-up-to-55-off-holiday-decor-for-cyber-week/#ftag=CAD590a51e)
+ - [A Cutting-Edge Cancer Treatment May Cause Cancer. The FDA Is Investigating](https://www.wired.com/story/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

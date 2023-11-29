@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automate Pulse 2 Hub review: An expensive way to control your curtains](https://appleinsider.com/articles/23/11/29/automate-pulse-2-hub-review-an-expensive-way-to-control-your-curtains?utm_medium=rss)
  - [Okta tells customers that hackers who breached its network stole information on all users of its customer support system, greater than the 1% claimed previously &lpar;Graham Starr/Bloomberg&rpar;](http://www.techmeme.com/231128/p43#a231128p43)
  - [Dell signs a $150M deal with Imbue, which raised $200M in September, to provide the AI startup with computing hardware to develop AI systems and advanced models &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231128/p42#a231128p42)
  - [Cyber Monday 2023 Live Blog: 135 Deals You Still Have Time to Score     - CNET](https://www.cnet.com/deals/cyber-monday-2023-live-still-available/#ftag=CAD590a51e)
- - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)
- - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)<!-- TECH:END -->
+ - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

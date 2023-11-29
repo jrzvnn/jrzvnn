@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The CEOs of Meta, X, TikTok, Snap, and Discord will testify before the US Senate on child safety](https://www.theverge.com/2023/11/29/23981662/meta-x-tiktok-ceos-testify-us-senate-child-exploitation)
  - [Evernote is about to seriously limit its plan for free users](https://www.theverge.com/2023/11/29/23981683/evernote-limit-free-plan-notebook)
+ - [There Are Only a Few Days Left to Get a $200 Amazon Gift Card     - CNET](https://www.cnet.com/personal-finance/you-have-one-week-left-to-get-a-200-amazon-gift-card/#ftag=CAD590a51e)
  - [Windows 11 tests energy saver mode for both laptops and desktop PCs](https://www.theverge.com/2023/11/29/23981581/windows-11-energy-saver-mode-laptops-pcs)
- - [Salesforce reports Q3 revenue up 11% YoY to $8.72B, vs. $8.72B est., and raises its FY 2024 forecast for operating cash flow growth; CRM jumps 6%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/231129/p42#a231129p42)
- - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)<!-- TECH:END -->
+ - [There&#39;s Still Time to Save on 50+ Cyber Monday Deals Under $25: Tech, Toys and More     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

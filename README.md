@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Registry launches a new .meme top level domain, adding to .dad, .boo, .ing, and its other unconventional domain names &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231129/p10#a231129p10)
  - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)
  - [Here&#39;s Everything To Know About Name Drop on Apple Watch     - CNET](https://www.cnet.com/tech/mobile/heres-everything-to-know-about-name-drop-on-apple-watch/#ftag=CAD590a51e)
  - [Samsung launches its Samsung Internet browser on Windows via the Microsoft Store, offering a similar design to Chrome &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231129/p8#a231129p8)
- - [Best Phone Under $300     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Unity plans to cut 265 jobs, or 3.8% of its staff, and end its services deal with VFX company W&amp;#275;t&amp;amacr; FX to focus on its &quot;core business&quot; &lpar;Mike Seymour/fxguide&rpar;](http://www.techmeme.com/231129/p7#a231129p7)<!-- TECH:END -->
+ - [Best Phone Under $300     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google and Canada have reached an agreement in their dispute over the Online News Act; source: Google will pay news companies around $100M per year &lpar;CBC News&rpar;](http://www.techmeme.com/231129/p32#a231129p32)
+ - [The US sanctions Sinbad, a crypto mixer allegedly used by North Korean Lazarus hackers, and seizes its service in an international law enforcement operation &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231129/p31#a231129p31)
+ - [How to scan your documents to PDFs using Google Drive](https://www.theverge.com/23980825/google-drive-pdf-scan-android-ios-how-to)
  - [Netflix plans to add Grand Theft Auto: The Trilogy for its users at no extra charge on December 14 in its mobile app or on the App Store and Google Play &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231129/p30#a231129p30)
- - [Cyber Monday TV Deals Still Available: 33 Last-Minute Savings You Shouldn&#39;t Miss     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Amazon joins AI image creation fray with new model](https://www.theverge.com/2023/11/29/23980697/amazon-ai-image-model-watermark-copyright)
- - [Get Festive With Up to 55% Off Holiday Decor for Cyber Week     - CNET](https://www.cnet.com/deals/get-festive-with-up-to-55-off-holiday-decor-for-cyber-week/#ftag=CAD590a51e)
- - [A Cutting-Edge Cancer Treatment May Cause Cancer. The FDA Is Investigating](https://www.wired.com/story/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/)<!-- TECH:END -->
+ - [Cyber Monday TV Deals Still Available: 33 Last-Minute Savings You Shouldn&#39;t Miss     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

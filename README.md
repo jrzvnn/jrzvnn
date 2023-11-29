@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity plans to cut 265 jobs, or 3.8% of its staff, and end its services deal with VFX company W&amp;#275;t&amp;amacr; FX to focus on its &quot;core business&quot; &lpar;Mike Seymour/fxguide&rpar;](http://www.techmeme.com/231129/p7#a231129p7)
  - [Google beefs up Drive’s document scanning feature and brings it to iPhone](https://www.theverge.com/2023/11/29/23980739/google-drive-document-scanner-ios-android)
  - [Q&amp;A with Wix CEO Avishai Abrahami on Wix&#39;s embrace of AI, how the business models of the web can survive AI, Israel-Hamas war content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231129/p6#a231129p6)
  - [Grabbing a New iPhone 15 Pro or 15 Pro Max? You&#39;ll Want to Know About These 3 Features     - CNET](https://www.cnet.com/tech/mobile/grabbing-a-new-iphone-15-pro-or-15-pro-max-youll-want-to-know-about-these-3-features/#ftag=CAD590a51e)
- - [Here Are the Most Annoying iOS 17 Features, and How You Can Fix Them     - CNET](https://www.cnet.com/tech/mobile/here-are-the-most-annoying-ios-17-features-and-how-you-can-fix-them/#ftag=CAD590a51e)
- - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)<!-- TECH:END -->
+ - [Here Are the Most Annoying iOS 17 Features, and How You Can Fix Them     - CNET](https://www.cnet.com/tech/mobile/here-are-the-most-annoying-ios-17-features-and-how-you-can-fix-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

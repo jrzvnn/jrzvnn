@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Rakuten&#39;s troubled MVNO, which has about 2.5% marketshare in Japan; Rakuten has posted 13 straight quarters of operating loss totaling roughly $5.5B &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/231129/p1#a231129p1)
  - [Best Buy launches 20 days of holiday deals, MacBooks from $949](https://appleinsider.com/articles/23/11/29/best-buy-launches-20-days-of-holiday-deals-macbooks-from-949?utm_medium=rss)
+ - [37 Cyber Monday PS5 Deals That Are Still Available: Save on Consoles, Headsets and Games     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-ps5-deals/#ftag=CAD590a51e)
  - [Meta tells US officials that it will block new political ads on Facebook and Instagram one week before the 2024 US election, similar to past election cycles &lpar;Bloomberg&rpar;](http://www.techmeme.com/231128/p45#a231128p45)
- - [Researchers discover six attacks that can break the secrecy of Bluetooth sessions, impacting the Bluetooth Core Specification 4.2 through the latest 5.4 spec &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231128/p44#a231128p44)
- - [11 Cyber Monday Roku Deals That You Can Still Take Advantage Of     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-roku-deals/#ftag=CAD590a51e)
- - [Automate Pulse 2 Hub review: An expensive way to control your curtains](https://appleinsider.com/articles/23/11/29/automate-pulse-2-hub-review-an-expensive-way-to-control-your-curtains?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers discover six attacks that can break the secrecy of Bluetooth sessions, impacting the Bluetooth Core Specification 4.2 through the latest 5.4 spec &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231128/p44#a231128p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

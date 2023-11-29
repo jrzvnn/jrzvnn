@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
  - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 

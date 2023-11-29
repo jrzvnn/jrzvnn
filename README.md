@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
- - 😝 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
- - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
  - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 💣 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Ayaneo&#39;s new $199+ Retro Mini PC AM01, styled on Apple&#39;s 1980s-era Macintosh, with AMD Ryzen chips, up to 32GB of RAM, and up to 1TB of storage &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231129/p16#a231129p16)
- - [Confusion reigns about the future of Apple&#39;s 5G modem project](https://appleinsider.com/articles/23/11/29/confusion-reigns-about-the-future-of-apples-5g-modem-project?utm_medium=rss)
- - [The 20 Best Cyber Monday Deals You Can Still Buy, According to CNET Readers     - CNET](https://www.cnet.com/deals/20-best-cyber-monday-deals-you-can-still-buy-according-cnet-readers/#ftag=CAD590a51e)
- - [GM Slashes Spending on Robotaxi Unit Cruise, in Setback For Driverless Cars](https://www.wired.com/story/cruise-gm-spending-accident/)
- - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)<!-- TECH:END -->
+ - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)
+ - [The Weirdest Reason the Poles Are Warming So Fast? Invisible Clouds](https://www.wired.com/story/the-weirdest-reason-the-poles-are-warming-so-fast-invisible-clouds/)
+ - [Spotify Wrapped Is Back Again. Are You a Vampire or a Shape Shifter?](https://www.wired.com/story/spotify-wrapped-never-going-away/)
+ - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)
+ - [The Cybertruck made a mark, but missed its moment](https://www.theverge.com/2023/11/29/23979850/tesla-cybertruck-delivery-design-production-problems-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
+ - 😝 [Honestly it&#39;s looking really comfy](http://9gag.com/gag/a6qREMA)
+ - 😝 [A picture is worth a thousand words](http://9gag.com/gag/aMELVL1)
  - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
  - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
+ - 👉 [F in the chat](http://9gag.com/gag/aOxWQ8D)<!-- MEMES:END -->
 
 ---
 

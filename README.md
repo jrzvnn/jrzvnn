@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)
+ - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
  - [Google’s Nest cameras can now tell you when your garage door is left open](https://www.theverge.com/2023/11/29/23981277/google-nest-cam-garage-door-detection-nest-app-google-home)
  - [Researchers develop a &quot;divergence attack&quot; that makes ChatGPT emit sequences copied from its training data, by prompting the LLM to repeat a word numerous times &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/231129/p40#a231129p40)
- - [Microsoft Paint’s OpenAI-powered ‘Cocreator’ image generator is here](https://www.theverge.com/2023/11/29/23981310/microsoft-ms-paint-cocreator-openai-ai-dall-e-3-text-to-image-generator-available)
- - [Google agrees to pay publishers in Canada and drops plans for blocking news](https://www.theverge.com/2023/11/29/23981515/google-canadian-government-online-news-act-link-tax-agreement)
- - [Apple&#39;s new Apple Card &amp; Goldman Sachs statement doesn&#39;t clarify things at all](https://appleinsider.com/articles/23/11/29/apples-new-apple-card-goldman-sachs-statement-doesnt-clarify-things-at-all?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Paint’s OpenAI-powered ‘Cocreator’ image generator is here](https://www.theverge.com/2023/11/29/23981310/microsoft-ms-paint-cocreator-openai-ai-dall-e-3-text-to-image-generator-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

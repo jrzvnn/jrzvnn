@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
  - [iPhone maker Foxconn plans extra $1.54 billion plant in India](https://appleinsider.com/articles/23/11/29/iphone-maker-foxconn-plans-extra-154-billion-plant-in-india?utm_medium=rss)
  - [AWS CEO Adam Selipsky takes a thinly veiled swipe at Microsoft at re:Invent: &quot;You don&#39;t want a cloud provider that&#39;s beholden primarily to one model provider&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231129/p11#a231129p11)
  - [Google Registry launches a new .meme top level domain, adding to .dad, .boo, .ing, and its other unconventional domain names &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231129/p10#a231129p10)
- - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)
- - [Samsung launches its Samsung Internet browser on Windows via the Microsoft Store, offering a similar design to Chrome &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/231129/p8#a231129p8)<!-- TECH:END -->
+ - [OpenText agrees to divest its app modernization and connectivity business to Rocket Software for about $2.28B in cash, expected to close by June 30, 2024 &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p9#a231129p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

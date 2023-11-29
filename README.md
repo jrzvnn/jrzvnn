@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
  - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
  - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
 
 ---

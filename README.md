@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos’ original Move speaker is up to $160 off as a refurb](https://www.theverge.com/2023/11/29/23980847/sonos-move-smart-speaker-nomad-magsafe-3in1-charger-deal-sale)
+ - [After the mass layoffs in late 2022 and early 2023, Amazon, Google, Microsoft, and Meta continue to make small staff cuts to keep tight control on costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231129/p25#a231129p25)
+ - [How to find your 2023 Spotify Wrapped](https://www.theverge.com/23980858/spotify-wrapped-2023-how-to)
  - [Arm wants more than $0.30 per iPhone from Apple, but won&#39;t get it](https://appleinsider.com/articles/23/11/29/arm-wants-more-than-030-per-iphone-from-apple-but-wont-get-it?utm_medium=rss)
- - [The Pokémon Horizons English dub finally hits Netflix in February](https://www.theverge.com/2023/11/29/23980926/pokemon-horizons-netflix-premiere-date)
- - [Apple donating $1 to &lpar;RED&rpar; for all Apple Store purchases made with Apple Pay through December 8](https://appleinsider.com/articles/23/11/29/apple-donating-1-to-red-for-all-apple-store-purchases-made-with-apple-pay-through-december-8?utm_medium=rss)
- - [Sources: Apple pays Arm under 30 cents per device to license Arm&#39;s IP, the lowest rate among Arm&#39;s smartphone customers; Apple accounts for &lt;5% of Arm&#39;s sales &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231129/p24#a231129p24)
- - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)<!-- TECH:END -->
+ - [The Pokémon Horizons English dub finally hits Netflix in February](https://www.theverge.com/2023/11/29/23980926/pokemon-horizons-netflix-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

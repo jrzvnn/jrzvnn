@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s .NET 8 with Aspire cloud-ready tools for Mac is out](https://appleinsider.com/articles/23/11/29/microsofts-net-8-with-aspire-cloud-ready-tools-for-mac-is-out?utm_medium=rss)
- - [Amazon executive John Boumphrey says selling pre-owned goods in the UK and Europe is now a $1.3B business and Amazon sold 4M+ used items in 2022 in the UK &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/231129/p12#a231129p12)
- - [Apple and Goldman Sachs to part ways on Apple Card, no successor named](https://appleinsider.com/articles/23/11/28/apple-and-goldman-sachs-to-part-ways-on-apple-card-no-successor-named?utm_medium=rss)
- - [iPhone maker Foxconn plans extra $1.54 billion plant in India](https://appleinsider.com/articles/23/11/29/iphone-maker-foxconn-plans-extra-154-billion-plant-in-india?utm_medium=rss)
- - [Grabbing a New iPhone 15 Pro or 15 Pro Max? You&#39;ll Want to Know About These 3 Features     - CNET](https://www.cnet.com/tech/mobile/grabbing-a-new-iphone-15-pro-or-15-pro-max-youll-want-to-know-about-these-3-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robert De Niro criticizes Apple and the Gotham Awards, after sources say Apple cut part of his speech that was critical of Donald Trump, which he read anyway &lpar;Variety&rpar;](http://www.techmeme.com/231129/p15#a231129p15)
+ - [Confusion reigns about the future of Apple&#39;s 5G modem project](https://appleinsider.com/articles/23/11/29/confusion-reigns-about-the-future-of-apples-5g-modem-project?utm_medium=rss)
+ - [Google fixes the sixth Chrome zero-day vulnerability in 2023 in an emergency update, related to the Skia open-source 2D graphics library, found by Google TAG &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231129/p14#a231129p14)
+ - [Robert De Niro accuses Apple of censoring awards speech](https://www.theverge.com/2023/11/29/23980781/robert-de-niro-apple-censoring-gotham-awards-speech-donald-trump)
+ - [How a group of deepfake porn victims in NYC suburb Levittown helped convict the perpetrator, an ordeal that was further complicated by the lack of clear laws &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p13#a231129p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 👉 [Great success](http://9gag.com/gag/amAZWyy)<!-- MEMES:END -->
+ - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
+ - 😝 [Smart guy](http://9gag.com/gag/abv8A6B)
+ - 💣 [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
+ - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
+ - 👉 [This doesn&#39;t surprise me at all..](http://9gag.com/gag/a1P616G)<!-- MEMES:END -->
 
 ---
 

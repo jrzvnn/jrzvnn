@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
- - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 💣 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
  - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
- - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
+ - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 💣 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
+ - 😝 [Siuuuu](http://9gag.com/gag/avQjWWM)
+ - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
  - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 😝 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
- - 👉 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)<!-- MEMES:END -->
+ - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
 
 ---
 

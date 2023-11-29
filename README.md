@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix plans to add Grand Theft Auto: The Trilogy for its users at no extra charge on December 14 in its mobile app or on the App Store and Google Play &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231129/p30#a231129p30)
  - [Amazon joins AI image creation fray with new model](https://www.theverge.com/2023/11/29/23980697/amazon-ai-image-model-watermark-copyright)
- - [A Cutting-Edge Cancer Treatment Is Under FDA Investigation—for Cancer Risk](https://www.wired.com/story/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/)
+ - [A Cutting-Edge Cancer Treatment May Cause Cancer. The FDA Is Investigating](https://www.wired.com/story/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/)
  - [Netflix gets its biggest games yet with GTA trilogy in December](https://www.theverge.com/2023/11/29/23981068/netflix-gta-trilogy-definitive-edition-mobile-release-date)
- - [Rover, an online marketplace for pet care services, agrees to be acquired by Blackstone in a $2.3B all-cash deal, or $11 per share; ROVR jumps 28%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p29#a231129p29)
- - [Daily deals Nov. 29: Apple Watch Series 8 $279, 51% off 27&quot; iMac, 27% off Ember Smart Mug 2, more](https://appleinsider.com/articles/23/11/29/daily-deals-nov-29-apple-watch-series-8-279-51-off-27-imac-27-off-ember-smart-mug-2-more?utm_medium=rss)<!-- TECH:END -->
+ - [Rover, an online marketplace for pet care services, agrees to be acquired by Blackstone in a $2.3B all-cash deal, or $11 per share; ROVR jumps 28%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p29#a231129p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

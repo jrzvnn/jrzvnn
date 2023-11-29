@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify Wrapped 2023 is so popular, it’s crashing](https://www.theverge.com/2023/11/29/23980891/spotify-wrapped-2023-500-error-outage-crashing)
+ - [A profile of Adam D&#39;Angelo, who will remain on OpenAI&#39;s board despite agreeing to oust Sam Altman and was a key figure in negotiations to reappoint Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p23#a231129p23)
  - [Wormhole, a messaging protocol started by Jump Crypto to let blockchain developers communicate, raised $225M at a $2.5B valuation, 2023&#39;s largest crypto raise &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/231129/p22#a231129p22)
  - [Sources: British AI startup Stability AI held early-stage talks with multiple companies about a sale, as executives face investor pressure over its finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p21#a231129p21)
- - [GM CEO Mary Barra says the company plans to slow Cruise&#39;s expansion and significantly cut spending at the self-driving unit in response to safety concerns &lpar;New York Times&rpar;](http://www.techmeme.com/231129/p20#a231129p20)
- - [Best AeroPress Coffee Makers &lpar;2023&rpar;: Original, Go, Clear, XL](https://www.wired.com/story/best-aeropress/)
- - [DoorDash and Best Buy team up for on-demand tech deliveries](https://www.theverge.com/2023/11/29/23980078/doordash-best-buy-delivery-partnership)<!-- TECH:END -->
+ - [GM CEO Mary Barra says the company plans to slow Cruise&#39;s expansion and significantly cut spending at the self-driving unit in response to safety concerns &lpar;New York Times&rpar;](http://www.techmeme.com/231129/p20#a231129p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

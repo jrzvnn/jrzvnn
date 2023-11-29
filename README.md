@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)
+ - [New Bluetooth flaws could let an attacker steal wireless communications](https://appleinsider.com/articles/23/11/29/new-bluetooth-flaws-could-let-an-attacker-steal-wireless-communications?utm_medium=rss)
  - [DealBook Summit 2023: Elon Musk, Bob Iger, and more](https://www.theverge.com/2023/11/29/23980877/new-york-times-dealbook-summit-elon-musk-bob-iger-david-zaslav)
  - [Sonos’ original Move speaker is up to $160 off as a refurb](https://www.theverge.com/2023/11/29/23980847/sonos-move-smart-speaker-nomad-magsafe-3in1-charger-deal-sale)
- - [After the mass layoffs in late 2022 and early 2023, Amazon, Google, Microsoft, and Meta continue to make small staff cuts to keep tight control on costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231129/p25#a231129p25)
- - [Best Snack Box Subscriptions for 2023     - CNET](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
- - [How to find your 2023 Spotify Wrapped](https://www.theverge.com/23980858/spotify-wrapped-2023-how-to)<!-- TECH:END -->
+ - [After the mass layoffs in late 2022 and early 2023, Amazon, Google, Microsoft, and Meta continue to make small staff cuts to keep tight control on costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231129/p25#a231129p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [I will just leave this here](http://9gag.com/gag/a5XYW0G)
+ - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 😝 [That poor child and man](http://9gag.com/gag/aYV0ovN)
  - 💣 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
+ - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - 👉 [The Krab](http://9gag.com/gag/a9qGnq1)<!-- MEMES:END -->
 
 ---
 

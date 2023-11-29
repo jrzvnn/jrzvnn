@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)
  - [How to Set Your Thermostat—According to Science](https://www.wired.com/story/smart-thermostat-science/)
- - [Scrolling Up on Your iPhone Endlessly? Here&#39;s a Quick Fix for That     - CNET](https://www.cnet.com/tech/mobile/scrolling-up-on-iphone-endlessly-here-a-quick-fix/#ftag=CAD590a51e)
  - [Spotify Wrapped 2023 is so popular, it’s crashing](https://www.theverge.com/2023/11/29/23980891/spotify-wrapped-2023-500-error-outage-crashing)
  - [A profile of Adam D&#39;Angelo, who will remain on OpenAI&#39;s board despite agreeing to oust Sam Altman and was a key figure in negotiations to reappoint Altman &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p23#a231129p23)
  - [Wormhole, a messaging protocol started by Jump Crypto to let blockchain developers communicate, raised $225M at a $2.5B valuation, 2023&#39;s largest crypto raise &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/231129/p22#a231129p22)<!-- TECH:END -->

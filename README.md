@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
  - 💣 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
 
 ---
 

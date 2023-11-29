@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon will offer human benchmarking teams to test AI models](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity)
  - [These ex-Apple employees are bringing AI to the desktop](https://www.theverge.com/2023/11/29/23981802/software-applications-inc-workflow-shortcuts-apple-employees-startup)
  - [Elon Musk dismisses fear of advertisers leaving X after his controversial posts: &quot;If somebody&#39;s gonna try to blackmail me with advertising ... go fuck yourself&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/231129/p43#a231129p43)
  - [The CEOs of Meta, X, TikTok, Snap, and Discord will testify before the US Senate on child safety](https://www.theverge.com/2023/11/29/23981662/meta-x-tiktok-ceos-testify-us-senate-child-exploitation)
- - [Evernote is about to seriously limit its plan for free users](https://www.theverge.com/2023/11/29/23981683/evernote-limit-free-plan-notebook)
- - [There Are Only a Few Days Left to Get a $200 Amazon Gift Card     - CNET](https://www.cnet.com/personal-finance/you-have-one-week-left-to-get-a-200-amazon-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Evernote is about to seriously limit its plan for free users](https://www.theverge.com/2023/11/29/23981683/evernote-limit-free-plan-notebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

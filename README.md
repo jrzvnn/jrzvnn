@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 👉 [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)<!-- MEMES:END -->
+ - 😝 [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
+ - 😝 [Muhammad, who was released in the hostage deal, tearfully told the Arab media how the guards beat him and broke his arms - but he forgot that there was documentation showing that he left the Israeli prison safe and sound](http://9gag.com/gag/a8qg67Z)
+ - 💣 [A great story](http://9gag.com/gag/a4o060A)
+ - 😝 [Yes](http://9gag.com/gag/a1P6Nnw)
+ - 👉 [Perfection.](http://9gag.com/gag/aGEQL3z)<!-- MEMES:END -->
 
 ---
 

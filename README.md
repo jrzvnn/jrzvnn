@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)
- - [New Bluetooth flaws could let an attacker steal wireless communications](https://appleinsider.com/articles/23/11/29/new-bluetooth-flaws-could-let-an-attacker-steal-wireless-communications?utm_medium=rss)
- - [DealBook Summit 2023: Elon Musk, Bob Iger, and more](https://www.theverge.com/2023/11/29/23980877/new-york-times-dealbook-summit-elon-musk-bob-iger-david-zaslav)
- - [Sonos’ original Move speaker is up to $160 off as a refurb](https://www.theverge.com/2023/11/29/23980847/sonos-move-smart-speaker-nomad-magsafe-3in1-charger-deal-sale)
- - [After the mass layoffs in late 2022 and early 2023, Amazon, Google, Microsoft, and Meta continue to make small staff cuts to keep tight control on costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231129/p25#a231129p25)<!-- TECH:END -->
+ - [Together AI, which helps pre-train and fine-tune open source foundation models more efficiently, raised a $102.5M Series A led by Kleiner Perkins &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/231129/p26#a231129p26)
+ - [An AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/)
+ - [It’s not just electricity — Bitcoin mines burn through a lot of water, too](https://www.theverge.com/2023/11/29/23979858/bitcoin-mine-cryptocurrency-water-use-analysis-energy)
+ - [Okta Breach Impacted All Customer Support Users—Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
+ - [Beyond Good &amp; Evil is getting a 20th anniversary edition](https://www.theverge.com/2023/11/29/23980960/beyond-good-and-evil-20th-anniversary-edition-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

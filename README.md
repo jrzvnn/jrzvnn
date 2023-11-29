@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta tells US officials that it will block new political ads on Facebook and Instagram one week before the 2024 US election, similar to past election cycles &lpar;Bloomberg&rpar;](http://www.techmeme.com/231128/p45#a231128p45)
  - [Researchers discover six attacks that can break the secrecy of Bluetooth sessions, impacting the Bluetooth Core Specification 4.2 through the latest 5.4 spec &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231128/p44#a231128p44)
+ - [11 Cyber Monday Roku Deals That You Can Still Take Advantage Of     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-roku-deals/#ftag=CAD590a51e)
  - [Automate Pulse 2 Hub review: An expensive way to control your curtains](https://appleinsider.com/articles/23/11/29/automate-pulse-2-hub-review-an-expensive-way-to-control-your-curtains?utm_medium=rss)
- - [61 Amazon Cyber Monday Deals That Are Still Happening Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)
- - [Okta tells customers that hackers who breached its network stole information on all users of its customer support system, greater than the 1% claimed previously &lpar;Graham Starr/Bloomberg&rpar;](http://www.techmeme.com/231128/p43#a231128p43)<!-- TECH:END -->
+ - [61 Amazon Cyber Monday Deals That Are Still Happening Right Now     - CNET](https://www.cnet.com/deals/amazon-black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some things never change](http://9gag.com/gag/az23xQB)
- - 😝 [He is super cool though](http://9gag.com/gag/aEq4qVe)
- - 💣 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
- - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
- - 👉 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)<!-- MEMES:END -->
+ - 😝 [My disappointment is immeasurable and my day is ruined](http://9gag.com/gag/ap9MG8B)
+ - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
 
 ---
 

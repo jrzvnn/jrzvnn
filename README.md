@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
+ - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
  - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 💣 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
+ - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
 
 ---
 

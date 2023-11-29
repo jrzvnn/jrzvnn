@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm wants more than $0.30 per iPhone from Apple, but won&#39;t get it](https://appleinsider.com/articles/23/11/29/arm-wants-more-than-030-per-iphone-from-apple-but-wont-get-it?utm_medium=rss)
+ - [The Pokémon Horizons English dub finally hits Netflix in February](https://www.theverge.com/2023/11/29/23980926/pokemon-horizons-netflix-premiere-date)
+ - [Apple donating $1 to &lpar;RED&rpar; for all Apple Store purchases made with Apple Pay through December 8](https://appleinsider.com/articles/23/11/29/apple-donating-1-to-red-for-all-apple-store-purchases-made-with-apple-pay-through-december-8?utm_medium=rss)
  - [Sources: Apple pays Arm under 30 cents per device to license Arm&#39;s IP, the lowest rate among Arm&#39;s smartphone customers; Apple accounts for &lt;5% of Arm&#39;s sales &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231129/p24#a231129p24)
- - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)
- - [How to Set Your Thermostat—According to Science](https://www.wired.com/story/smart-thermostat-science/)
- - [Scrolling Up on Your iPhone Endlessly? Here&#39;s a Quick Fix for That     - CNET](https://www.cnet.com/tech/mobile/scrolling-up-on-iphone-endlessly-here-a-quick-fix/#ftag=CAD590a51e)
- - [Spotify Wrapped 2023 is so popular, it’s crashing](https://www.theverge.com/2023/11/29/23980891/spotify-wrapped-2023-500-error-outage-crashing)<!-- TECH:END -->
+ - [GM wants you to know that it’s also unhappy with the slow pace of its EV business](https://www.theverge.com/2023/11/29/23980841/gm-mary-barra-ev-ultium-delay-cruise-cost-slash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

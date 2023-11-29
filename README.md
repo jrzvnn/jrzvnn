@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta pauses shipments of the Quest 3&#39;s Elite Strap with Battery after widespread user reports of a charging fault that renders the battery useless &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/231129/p19#a231129p19)
+ - [HTC’s Vive Ultimate Trackers are a sleeker way to keep tabs on your VR limbs and other objects](https://www.theverge.com/2023/11/29/23980817/htc-vive-ultimate-tracker-object-limb-tracking-vr-xr-elite)
  - [Spotify details the most-streamed albums, songs, and podcasts in 2023: Taylor Swift and Bad Bunny, Flowers by Miley Cyrus, The Joe Rogan Experience, and more &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/231129/p18#a231129p18)
- - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)
- - [The Weirdest Reason the Poles Are Warming So Fast? Invisible Clouds](https://www.wired.com/story/the-weirdest-reason-the-poles-are-warming-so-fast-invisible-clouds/)
- - [Spotify Wrapped Is Back Again. Are You a Vampire or a Shape Shifter?](https://www.wired.com/story/spotify-wrapped-never-going-away/)
- - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)<!-- TECH:END -->
+ - [Google Will Start Deleting Old Accounts in 2 Days. Here&#39;s How to Save Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-in-two-days-heres-how-to-save-your-google-account/#ftag=CAD590a51e)
+ - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

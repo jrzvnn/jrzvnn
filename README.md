@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CEOs of Meta, X, TikTok, Snap, and Discord will testify before the US Senate on child safety](https://www.theverge.com/2023/11/29/23981662/meta-x-tiktok-ceos-testify-us-senate-child-exploitation)
+ - [Evernote is about to seriously limit its plan for free users](https://www.theverge.com/2023/11/29/23981683/evernote-limit-free-plan-notebook)
  - [Windows 11 tests energy saver mode for both laptops and desktop PCs](https://www.theverge.com/2023/11/29/23981581/windows-11-energy-saver-mode-laptops-pcs)
  - [Salesforce reports Q3 revenue up 11% YoY to $8.72B, vs. $8.72B est., and raises its FY 2024 forecast for operating cash flow growth; CRM jumps 6%+ &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/231129/p42#a231129p42)
- - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)
- - [This Pet-Friendly Rodent Spray Is the Only Thing Solved My Mouse Problem     - CNET](https://www.cnet.com/news/the-best-spray-to-get-rid-of-mice/#ftag=CAD590a51e)
- - [Post Cyber Monday Deal Sees PlayStation&#39;s Ghost of Tsushima For More Than Half Off     - CNET](https://www.cnet.com/deals/post-cyber-monday-deal-sees-playstations-ghost-of-tsushima-for-more-than-half-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snowflake reports Q3 revenue up 32% YoY to $734.2M, vs. $714M est., and projects Q4 product revenue of $716M to $721M, vs. $696M est.; SNOW jumps 6%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231129/p41#a231129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

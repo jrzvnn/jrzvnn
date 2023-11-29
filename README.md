@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
+ - 😝 [He is super cool though](http://9gag.com/gag/aEq4qVe)
+ - 😝 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
+ - 💣 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 😝 [Finally some good news](http://9gag.com/gag/aoK7yPe)
+ - 👉 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)<!-- MEMES:END -->
 
 ---
 

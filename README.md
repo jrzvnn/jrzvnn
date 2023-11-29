@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Xbox app has a new compact mode for Windows handhelds](https://www.theverge.com/2023/11/29/23981086/xbox-app-compact-mode-windows-handhelds)
+ - [My Sweet Razer Naga Pro Gaming Mouse Is Still $80 After Cyber Monday, Its All-Time Low     - CNET](https://www.cnet.com/deals/my-wicked-razer-naga-pro-gaming-mouse-is-down-to-80-for-cyber-monday/#ftag=CAD590a51e)
  - [Elliptic and Corvus Insurance: the &quot;Black Basta&quot; ransomware group, suspected of being a Conti offshoot, extorted at least $107M in bitcoin since early 2022 &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231129/p28#a231129p28)
  - [The 26 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Google DeepMind finds 2.2M crystal structures using GNoME, more than 45x larger than all substances ever found, and plans to make 381K available to scientists &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231129/p27#a231129p27)
- - [Together AI, which helps pre-train and fine-tune open source foundation models more efficiently, raised a $102.5M Series A led by Kleiner Perkins &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/231129/p26#a231129p26)
- - [An AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2023: Samsung, Hisense, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify details the most-streamed albums, songs, and podcasts in 2023: Taylor Swift and Bad Bunny, Flowers by Miley Cyrus, The Joe Rogan Experience, and more &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/231129/p18#a231129p18)
  - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)
  - [The Weirdest Reason the Poles Are Warming So Fast? Invisible Clouds](https://www.wired.com/story/the-weirdest-reason-the-poles-are-warming-so-fast-invisible-clouds/)
  - [Spotify Wrapped Is Back Again. Are You a Vampire or a Shape Shifter?](https://www.wired.com/story/spotify-wrapped-never-going-away/)
- - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)
- - [The Cybertruck made a mark, but missed its moment](https://www.theverge.com/2023/11/29/23979850/tesla-cybertruck-delivery-design-production-problems-delay)<!-- TECH:END -->
+ - [Spotify Wrapped 2023 assigns you a ‘sound town’ based on your music taste](https://www.theverge.com/2023/11/29/23980024/spotify-wrapped-2023-sound-town)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

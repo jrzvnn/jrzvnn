@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 💣 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
- - 😝 [Siuuuu](http://9gag.com/gag/avQjWWM)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 😝 [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
+ - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
+ - 💣 [Smart guy](http://9gag.com/gag/abv8A6B)
+ - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
+ - 👉 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)<!-- MEMES:END -->
 
 ---
 

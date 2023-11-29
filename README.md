@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
- - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 😝 [When you prepare for tommorrow test but 9gag miss you](http://9gag.com/gag/aREpL7q)
- - 👉 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)<!-- MEMES:END -->
+ - 😝 [Maybe the happiness comes from inside? Like semen.](http://9gag.com/gag/aGEQy1z)
+ - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - 💣 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 👉 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)<!-- MEMES:END -->
 
 ---
 

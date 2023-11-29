@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women for a year vs guys for a week](http://9gag.com/gag/avQjyeb)
- - 😝 [Smart guy](http://9gag.com/gag/abv8A6B)
- - 💣 [Triggered trans in the comments](http://9gag.com/gag/axorWg2)
- - 😝 [The party started tonight](http://9gag.com/gag/awZpyjQ)
- - 👉 [This doesn&#39;t surprise me at all..](http://9gag.com/gag/a1P616G)<!-- MEMES:END -->
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - 💣 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 👉 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)<!-- MEMES:END -->
 
 ---
 

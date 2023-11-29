@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rover, an online marketplace for pet care services, agrees to be acquired by Blackstone in a $2.3B all-cash deal, or $11 per share; ROVR jumps 28%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p29#a231129p29)
+ - [Daily deals Nov. 29: Apple Watch Series 8 $279, 51% off 27&quot; iMac, 27% off Ember Smart Mug 2, more](https://appleinsider.com/articles/23/11/29/daily-deals-nov-29-apple-watch-series-8-279-51-off-27-imac-27-off-ember-smart-mug-2-more?utm_medium=rss)
  - [The Xbox app has a new compact mode for Windows handhelds](https://www.theverge.com/2023/11/29/23981086/xbox-app-compact-mode-windows-handhelds)
  - [My Sweet Razer Naga Pro Gaming Mouse Is Still $80 After Cyber Monday, Its All-Time Low     - CNET](https://www.cnet.com/deals/my-wicked-razer-naga-pro-gaming-mouse-is-down-to-80-for-cyber-monday/#ftag=CAD590a51e)
- - [Elliptic and Corvus Insurance: the &quot;Black Basta&quot; ransomware group, suspected of being a Conti offshoot, extorted at least $107M in bitcoin since early 2022 &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231129/p28#a231129p28)
- - [The 26 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Best 55-Inch TVs for 2023: Samsung, Hisense, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elliptic and Corvus Insurance: the &quot;Black Basta&quot; ransomware group, suspected of being a Conti offshoot, extorted at least $107M in bitcoin since early 2022 &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231129/p28#a231129p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

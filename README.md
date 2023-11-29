@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: ChatGPT can emit sequences memorized from its training data via a new &quot;divergence attack&quot; that prompts ChatGPT to repeat a word numerous times &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/231129/p40#a231129p40)
+ - [Researchers develop a &quot;divergence attack&quot; that makes ChatGPT emit sequences copied from its training data, by prompting the LLM to repeat a word numerous times &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/231129/p40#a231129p40)
  - [Microsoft Paint’s OpenAI-powered ‘Cocreator’ image generator is here](https://www.theverge.com/2023/11/29/23981310/microsoft-ms-paint-cocreator-openai-ai-dall-e-3-text-to-image-generator-available)
  - [Google agrees to pay publishers in Canada and drops plans for blocking news](https://www.theverge.com/2023/11/29/23981515/google-canadian-government-online-news-act-link-tax-agreement)
  - [Apple&#39;s new Apple Card &amp; Goldman Sachs statement doesn&#39;t clarify things at all](https://appleinsider.com/articles/23/11/29/apples-new-apple-card-goldman-sachs-statement-doesnt-clarify-things-at-all?utm_medium=rss)
- - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord will testify on online child safety at a hearing rescheduled for January 31 &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)<!-- TECH:END -->
+ - [The Senate Judiciary Committee says the CEOs of Meta, X, TikTok, Snap, and Discord plan to testify on online child sexual exploitation at a January 31 hearing &lpar;Susan Heavey/Reuters&rpar;](http://www.techmeme.com/231129/p39#a231129p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

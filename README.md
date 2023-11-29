@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
  - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 💣 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
+ - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 

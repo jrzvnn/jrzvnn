@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My disappointment is immeasurable and my day is ruined](http://9gag.com/gag/ap9MG8B)
- - 😝 [Share your cursed](http://9gag.com/gag/aREp74j)
- - 💣 [F in the chat](http://9gag.com/gag/aOxWQ8D)
- - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
- - 👉 [That poor child and man](http://9gag.com/gag/aYV0ovN)<!-- MEMES:END -->
+ - 😝 [Valerie](http://9gag.com/gag/aYV078O)
+ - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
+ - 💣 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)
+ - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
 
 ---
 

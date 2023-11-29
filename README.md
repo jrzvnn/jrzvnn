@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Wix CEO Avishai Abrahami on Wix&#39;s embrace of AI, how the business models of the web can survive AI, Israel-Hamas war content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231129/p6#a231129p6)
+ - [Grabbing a New iPhone 15 Pro or 15 Pro Max? You&#39;ll Want to Know About These 3 Features     - CNET](https://www.cnet.com/tech/mobile/grabbing-a-new-iphone-15-pro-or-15-pro-max-youll-want-to-know-about-these-3-features/#ftag=CAD590a51e)
+ - [Here Are the Most Annoying iOS 17 Features, and How You Can Fix Them     - CNET](https://www.cnet.com/tech/mobile/here-are-the-most-annoying-ios-17-features-and-how-you-can-fix-them/#ftag=CAD590a51e)
  - [Investigation: Palestinians are excluded from or face barriers when trying to monetize via Google services, bringing the region&#39;s digital divide under scrutiny &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231129/p5#a231129p5)
- - [Sources: Jack Ma praised PDD Holdings while urging Alibaba to change and &quot;correct its course&quot;, in a rare reply to a staff post on Alibaba&#39;s internal forum &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p4#a231129p4)
- - [AMD unveils its largest global design center, housing ~3,000 engineers, in Bengaluru as part of the company&#39;s planned $400M investment over five years in India &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231129/p3#a231129p3)
- - [Didi blamed a &quot;low-level&quot; software glitch for an outage that disrupted its car-hailing service in China and added the outage wasn&#39;t the result of a cyberattack &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231129/p2#a231129p2)
- - [A look at Rakuten&#39;s troubled MVNO, which has about 2.5% marketshare in Japan; Rakuten has posted 13 straight quarters of operating loss totaling roughly $5.5B &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/231129/p1#a231129p1)<!-- TECH:END -->
+ - [Sources: Jack Ma praised PDD Holdings while urging Alibaba to change and &quot;correct its course&quot;, in a rare reply to a staff post on Alibaba&#39;s internal forum &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p4#a231129p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

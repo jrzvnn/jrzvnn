@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valerie](http://9gag.com/gag/aYV078O)
- - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
- - 💣 [I swear I&#39;m normal](http://9gag.com/gag/armLnpX)
- - 😝 [How much lower can he go...](http://9gag.com/gag/aXnOg4P)
+ - 😝 [I choose you](http://9gag.com/gag/agoeAvg)
+ - 😝 [Can anyone confirm if she also apologized to those immigrants for having to stand trial?](http://9gag.com/gag/a4o0nzZ)
+ - 💣 [Give me your best Pixar deepfakes!](http://9gag.com/gag/axor9ZM)
+ - 😝 [The Krab](http://9gag.com/gag/a9qGnq1)
  - 👉 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)<!-- MEMES:END -->
 
 ---

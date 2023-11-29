@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H&#39;s Cyber Week sale offers up to $3,000 in savings on popular tech](https://appleinsider.com/articles/23/11/29/bhs-cyber-week-sale-offers-up-to-3000-in-savings-on-popular-tech?utm_medium=rss)
+ - [Mailchimp plans to shut down TinyLetter on February 29, 2024, to focus on its core Mailchimp product, according to messages from Mailchimp to TinyLetter users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231129/p37#a231129p37)
  - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [Tens of billions of dollars of IRA funding will now be earmarked for environmental justice](https://www.theverge.com/2023/11/29/23981137/biden-ira-inflation-reduction-act-programs-justice40-initiative-exclusive)
- - [Apple says it&#39;s focused with Goldman Sachs on providing &quot;an incredible experience&quot; for customers, after a report that Apple plans to end their partnership &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231129/p36#a231129p36)
- - [Plex users express alarm after receiving a &quot;week in review&quot; summary that showed what their friends had watched, part of Plex&#39;s opt-out Discover Together tool &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231129/p35#a231129p35)
- - [Nectar&#39;s Cyber Monday Sale Is Still Going Strong With Everything Up to 40% Off     - CNET](https://www.cnet.com/deals/nectars-cyber-monday-sale-everything-is-up-to-40-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple says it&#39;s focused with Goldman Sachs on providing &quot;an incredible experience&quot; for customers, after a report that Apple plans to end their partnership &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231129/p36#a231129p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

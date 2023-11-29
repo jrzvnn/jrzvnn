@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell signs a $150M deal with Imbue, which raised $200M in September, to provide the AI startup with computing hardware to develop AI systems and advanced models &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231128/p42#a231128p42)
  - [A look at Foxconn&#39;s struggles to manufacture the iPhone 15 in India, contending with language barriers, labor disputes, regulatory hurdles, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/231128/p41#a231128p41)
- - [Raise Your Kitty Cleanliness Game With This Cyber Week Deal on Litter-Robot     - CNET](https://www.cnet.com/deals/raise-your-kitty-cleanliness-game-with-this-cyber-week-deal-on-litter-robot/#ftag=CAD590a51e)
  - [Uber announces a plan to start listing London&#39;s famed black cabs in early 2024, despite objections from the Licensed Taxi Drivers&#39; Association trade group &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231128/p40#a231128p40)
- - [Cyber Monday TV Deals Still Available: 39 Last-Chance Offers Not to Miss     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)
- - [Cyber Monday Deals Under $100: Best Bargains Still Available to Shop Today     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raise Your Kitty Cleanliness Game With This Cyber Week Deal on Litter-Robot     - CNET](https://www.cnet.com/deals/raise-your-kitty-cleanliness-game-with-this-cyber-week-deal-on-litter-robot/#ftag=CAD590a51e)
+ - [Cyber Monday TV Deals Still Available: 39 Last-Chance Offers Not to Miss     - CNET](https://www.cnet.com/deals/best-black-friday-cyber-monday-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

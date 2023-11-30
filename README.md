@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BEUC and 18 others target Meta&#39;s &amp;euro;9.99+ Europe subscription in a complaint, two days after a similar noyb complaint, saying the option charges for privacy &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231130/p21#a231130p21)
- - [Amazon&#39;s Black Friday AirPods Pro 2 USB-C deal is back for $189.99](https://appleinsider.com/articles/23/11/30/amazons-black-friday-airpods-pro-2-usb-c-deal-is-back-for-18999?utm_medium=rss)
- - [TikTok pushes further into streaming with new artist accounts](https://www.theverge.com/2023/11/30/23981397/tiktok-artist-accounts-music-streaming-spotify)
- - [Get ready for Tesla’s Cybertruck delivery event](https://www.theverge.com/2023/11/30/23972571/tesla-cybertruck-delivery-livestream-time-date-how-to-watch-elon-musk)
- - [A UK judge reverses a decision to block a full UK CMA investigation into Apple&#39;s dominance in mobile browsers and cloud gaming, saying the CMA acted lawfully &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231130/p20#a231130p20)<!-- TECH:END -->
+ - [Apple&#39;s US chip manufacturing pipeline just got a big boost](https://appleinsider.com/articles/23/11/30/apples-us-chip-manufacturing-pipeline-just-got-a-big-boost?utm_medium=rss)
+ - [Rishi Sunak says Microsoft plans to spend &amp;pound;2.5B in the UK over three years, its largest investment there to date, to underpin AI and bring 20K GPUs to the UK &lpar;Sarah Young/Reuters&rpar;](http://www.techmeme.com/231130/p23#a231130p23)
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
+ - [Nvidia adds three Call of Duty titles to GeForce Now, the first from Activision, available in a &quot;Call of Duty HQ&quot; hub, as part of a deal with Microsoft &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231130/p22#a231130p22)
+ - [The BEUC and 18 others target Meta&#39;s &amp;euro;9.99+ Europe subscription in a complaint, two days after a similar noyb complaint, saying the option charges for privacy &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231130/p21#a231130p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

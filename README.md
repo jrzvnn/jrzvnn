@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Cybertruck Delivery Event Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/)
  - [Indian IT giants Infosys and Wipro cut college recruitment in October as global demand cools, leaving hundreds of thousands of tech graduates in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p40#a231130p40)
- - [Tesla’s Cybertruck Is Here and It Costs $70,000](https://www.wired.com/story/teslas-cybertruck-price-70000-specs/)
+ - [Tesla’s Cybertruck Is Here and It Costs $61,000](https://www.wired.com/story/teslas-cybertruck-price-61000-specs/)
  - [Elon Musk hands over the first Tesla Cybertrucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
- - [A bride to be discovers a reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [Tesla Cybertruck starts at $60,990 and can get up to 340 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)<!-- TECH:END -->
+ - [A bride to be discovers a reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something weird happened](http://9gag.com/gag/a9qGzmD)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 💣 [The `late 1900&#39;s`](http://9gag.com/gag/axor6jL)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
+ - 😝 [Bobr is famous](http://9gag.com/gag/aeQBVmW)
+ - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
+ - 😝 [I was 8 years old.. miss the times..](http://9gag.com/gag/aPgqeyP)
+ - 👉 [Another groaner.](http://9gag.com/gag/abv8WMr)<!-- MEMES:END -->
 
 ---
 

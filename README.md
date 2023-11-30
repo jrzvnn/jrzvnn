@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp now lets you hide your locked chats behind a secret code](https://www.theverge.com/2023/11/30/23982403/whatsapp-secret-code-hide-locked-chats)
  - [UK regulator can investigate Apple&#39;s cloud gaming, says court](https://appleinsider.com/articles/23/11/30/uk-regulator-can-investigate-apples-cloud-gaming-says-court?utm_medium=rss)
  - [Apple&#39;s US chip manufacturing pipeline just got a big boost](https://appleinsider.com/articles/23/11/30/apples-us-chip-manufacturing-pipeline-just-got-a-big-boost?utm_medium=rss)
  - [Rishi Sunak says Microsoft plans to spend &amp;pound;2.5B in the UK over three years, its largest investment there to date, to underpin AI and bring 20K GPUs to the UK &lpar;Sarah Young/Reuters&rpar;](http://www.techmeme.com/231130/p23#a231130p23)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
- - [Nvidia adds three Call of Duty titles to GeForce Now, the first from Activision, available in a &quot;Call of Duty HQ&quot; hub, as part of a deal with Microsoft &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231130/p22#a231130p22)<!-- TECH:END -->
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

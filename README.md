@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Cybertruck delivery event: Elon Musk hands over the first trucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
  - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)
  - [Steam Link can now wirelessly stream VR games to your Meta Quest headset](https://www.theverge.com/2023/11/30/23982839/steam-link-meta-quest-headset-stream-vr-games)
  - [Tesla Cybertruck Launch Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-launch-live-price-range-specs/)
- - [Sources: OpenAI is giving employees an extra month, until January 5, to decide whether they want to sell shares in the company through a tender offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p36#a231130p36)
- - [Need to Clean a Scorched Cast-Iron Pan? Use This Common Pantry Staple     - CNET](https://www.cnet.com/how-to/the-best-way-to-clean-cast-iron-cookware/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI is giving employees an extra month, until January 5, to decide whether they want to sell shares in the company through a tender offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p36#a231130p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

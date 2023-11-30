@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you compliment the ladies?](http://9gag.com/gag/a2KXMqe)
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
  - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
- - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
+ - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 😝 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
 
 ---
 

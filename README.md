@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 😝 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - 💣 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [Pick your hero](http://9gag.com/gag/a1P6PV8)<!-- MEMES:END -->
+ - 😝 [Marriage](http://9gag.com/gag/aVb6omv)
+ - 😝 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)
+ - 💣 [There goes the rest of the self-esteem. But at least I still got all you degenerates.](http://9gag.com/gag/aQEjvrK)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 👉 [Snacc](http://9gag.com/gag/aDYvZGd)<!-- MEMES:END -->
 
 ---
 

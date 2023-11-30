@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Hitman: Blood Money Reprisal&#39; sneaks onto iPhone and iPad](https://appleinsider.com/articles/23/11/30/hitman-blood-money-reprisal-sneaks-onto-iphone-and-ipad?utm_medium=rss)
+ - [Cicadas Are So Loud, Fiber Optic Cables Can ‘Hear’ Them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
  - [The Boy and the Heron: all the latest on Hayao Miyazaki’s epic](https://www.theverge.com/23982407/the-boy-and-the-heron-hayao-miyazaki-studio-ghibli)
  - [WhatsApp begins letting users hide locked chats behind a secret code, after introducing locked chats in May 2023, rolling out globally in the coming months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231130/p25#a231130p25)
- - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)
- - [Apple&#39;s new disability tool helps users with disabilities communicate with their Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)
- - [WhatsApp now lets you hide your locked chats behind a secret code](https://www.theverge.com/2023/11/30/23982403/whatsapp-secret-code-hide-locked-chats)<!-- TECH:END -->
+ - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

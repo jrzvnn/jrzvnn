@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At re:Invent, AWS unveiled Model Evaluation on Bedrock in preview to help companies evaluate AI models before use, with human testers involved in the process &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231129/p49#a231129p49)
  - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
  - [Substack rolls out video creation and editing tools to enable creators to publish video podcasts, create interactive AI-made transcripts, and customize clips &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231129/p48#a231129p48)
  - [Activision Blizzard had a plan — or ploy — to launch its own Android game store](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
- - [Braun All-in-One Style Kit     - CNET](https://www.cnet.com/health/personal-care/braun-all-in-one-style-kit-dpnl/#ftag=CAD590a51e)
- - [Bissell CleanView Vacuum     - CNET](https://www.cnet.com/home/kitchen-and-household/bissell-cleanview-vacuum-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Braun All-in-One Style Kit     - CNET](https://www.cnet.com/health/personal-care/braun-all-in-one-style-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

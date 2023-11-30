@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At an event, Xbox CFO Tim Stuart says Microsoft wants to bring Xbox Game Pass to PlayStation, Nintendo, and &quot;every screen that can play games&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231130/p15#a231130p15)
+ - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)
+ - [Dr. Ishwaria Subbiah Is Reimagining Cancer Care](https://www.wired.com/story/women-in-science-ishwaria-subbiah/)
  - [A US court says FTX Trading and affiliated debtors can start selling $744M worth of Grayscale and Bitwise shares; GBTC accounts for 22.3M units worth $597M &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231130/p14#a231130p14)
- - [Local media: David Vincenzetti, who founded infamous spyware maker Hacking Team in 2003, was arrested for allegedly stabbing and attempting to murder a relative &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p13#a231130p13)
- - [Boy petitions Apple to change &#39;nerd face&#39; emoji](https://appleinsider.com/articles/23/11/30/boy-petitions-apple-to-change-nerd-face-emoji?utm_medium=rss)
- - [Nonprofit Data &amp; Trust Alliance, comprising Amex, IBM, Pfizer, UPS, and more, announces AI data provenance standards to help find the origin and rights to data &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231130/p12#a231130p12)
- - [PSA: Update Chrome browser now to avoid an exploit already in the wild](https://www.theverge.com/2023/11/30/23982296/google-chrome-browser-update-sandbox-escape-exploit-security-vulnerability)<!-- TECH:END -->
+ - [Local media: David Vincenzetti, who founded infamous spyware maker Hacking Team in 2003, was arrested for allegedly stabbing and attempting to murder a relative &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p13#a231130p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

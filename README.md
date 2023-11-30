@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 💣 [I have a new hero](http://9gag.com/gag/aA096N2)
+ - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
+ - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
 
 ---
 

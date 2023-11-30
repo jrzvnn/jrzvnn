@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft joins OpenAI’s board with Sam Altman officially back as CEO](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)
- - [Elon Musk tells advertisers: ‘Go fuck yourself’](https://www.theverge.com/2023/11/29/23981928/elon-musk-ad-boycott-go-fuck-yourself-destroy-x)
- - [Tesla’s Cybertruck Is Two Years Late and Still Crazy](https://www.wired.com/story/tesla-cybertruck-two-years-late-still-crazy/)
- - [Elon Musk tells advertisers like Apple, Disney to &#39;Go f--- yourself&#39; after boycott](https://appleinsider.com/articles/23/11/29/elon-musk-tells-advertisers-like-apple-disney-to-go-f----yourself-after-boycott?utm_medium=rss)
- - [Elon Musk calls a Nov. 15 X post of his a mistake that &quot;handed a loaded gun to those who hate me and arguably to those who are antisemitic&quot; for which he&#39;s sorry &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231129/p44#a231129p44)<!-- TECH:END -->
+ - [Sources: Adobe&#39;s proposal to address EU and UK concerns about its $20B Figma deal may include not tying Figma into Creative Cloud and a divestment of Adobe XD &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p47#a231129p47)
+ - [Steam ending support for Macs running macOS Mojave and earlier](https://appleinsider.com/articles/23/11/30/steam-ending-support-for-macs-running-macos-mojave-and-earlier?utm_medium=rss)
+ - [Everything we know so far about OpenAI, Sam Altman’s return, and what happens next](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [Elon Musk Just Told Advertisers, ‘Go Fuck Yourself’](https://www.wired.com/story/elon-musk-x-advertisers-interview/)
+ - [OpenAI adds Microsoft as a non-voting observer on the nonprofit board that controls OpenAI, as Sam Altman&#39;s return as CEO is made official &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p46#a231129p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

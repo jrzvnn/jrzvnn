@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta expands the keyword search feature of Threads to all markets where the app is available, with support for &quot;all languages&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231130/p38#a231130p38)
  - [The latest Baldur’s Gate 3 patch introduces a new epilogue and lets you wear slutty crab armor](https://www.theverge.com/2023/11/30/23982661/baldurs-gate-3-patch-5-details)
  - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)
  - [Tesla Cybertruck Delivery Event Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/)
- - [Apple updates Final Cut Pro and iMovie to support faster exporting](https://appleinsider.com/articles/23/11/30/apple-updates-final-cut-pro-and-imovie-to-support-faster-exporting?utm_medium=rss)
- - [iOS 17.1.2 &amp; Sonoma 14.1.2 updates stop browsers from leaking personal data](https://appleinsider.com/articles/23/11/30/ios-1712-sonoma-1412-updates-stop-browsers-from-leaking-personal-data?utm_medium=rss)<!-- TECH:END -->
+ - [Apple updates Final Cut Pro and iMovie to support faster exporting](https://appleinsider.com/articles/23/11/30/apple-updates-final-cut-pro-and-imovie-to-support-faster-exporting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

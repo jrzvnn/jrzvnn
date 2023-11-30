@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)
+ - [Apple&#39;s new disability tool helps users with disabilities communicate with their Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)
  - [WhatsApp now lets you hide your locked chats behind a secret code](https://www.theverge.com/2023/11/30/23982403/whatsapp-secret-code-hide-locked-chats)
- - [UK regulator can investigate Apple&#39;s cloud gaming, says court](https://appleinsider.com/articles/23/11/30/uk-regulator-can-investigate-apples-cloud-gaming-says-court?utm_medium=rss)
- - [Apple&#39;s US chip manufacturing pipeline just got a big boost](https://appleinsider.com/articles/23/11/30/apples-us-chip-manufacturing-pipeline-just-got-a-big-boost?utm_medium=rss)
- - [Rishi Sunak says Microsoft plans to spend &amp;pound;2.5B in the UK over three years, its largest investment there to date, to underpin AI and bring 20K GPUs to the UK &lpar;Sarah Young/Reuters&rpar;](http://www.techmeme.com/231130/p23#a231130p23)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
+ - [Today&#39;s Best CD Rates: Nov. 30, 2023 -- Sky-High APYs Have Started to Waver     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-nov-30-2023/#ftag=CAD590a51e)
+ - [UK regulator can investigate Apple&#39;s cloud gaming, says court](https://appleinsider.com/articles/23/11/30/uk-regulator-can-investigate-apples-cloud-gaming-says-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

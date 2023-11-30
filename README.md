@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches verified artist accounts, offering various tools to deepen engagement and improve discoverability, seemingly inspired by Spotify &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231130/p30#a231130p30)
- - [Google celebrates 1 billion RCS users with emoji-filled messaging features](https://www.theverge.com/2023/11/30/23981350/google-messages-chat-rcs-apple-imessage-photo-emoji)
- - [Meta sues the FTC, claiming its in-house trials violate the Constitution, and asks a court to halt the agency&#39;s bid to change a $5B privacy settlement in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p29#a231130p29)
- - [Wrapped 2023: what you were listening to on Spotify, Apple Music, and every other app](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
- - [Kognitos, which helps businesses automate transcription, data visualizations, and back-office processes, raised $20M led by Khosla, taking its funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p28#a231130p28)<!-- TECH:END -->
+ - [Daily deals Nov. 30: iPad 10th Generation $399, 28% off Apple Watch Series 8, 60% off Beats Studio Pro, more](https://appleinsider.com/articles/23/11/30/daily-deals-nov-30-ipad-10th-generation-399-28-off-apple-watch-series-8-60-off-beats-studio-pro-more?utm_medium=rss)
+ - [SEC filing: Fidelity National, one of the largest US real estate services companies, &quot;contained&quot; a cyberattack that caused an outage starting on November 21 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p32#a231130p32)
+ - [Google says RCS in Google Messages now has over 1B MAUs, and adds Photomoji, Screen Effects, Custom Bubbles, and other features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231130/p31#a231130p31)
+ - [Godzilla Minus One is a brilliant reckoning for the king of monster allegories](https://www.theverge.com/23981319/godzilla-minus-one-review)
+ - [TikTok launches verified artist accounts, offering various tools to deepen engagement and improve discoverability, seemingly inspired by Spotify &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231130/p30#a231130p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

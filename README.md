@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck is here: electric truck will start at $60,990 and get 250 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)
+ - [Elon Musk hands over the first Tesla Cybertrucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
+ - [A bride to be discovers a reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
+ - [Tesla Cybertruck starts at $60,990 and can get up to 340 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)
  - [Apple releases emergency security updates for iOS, iPadOS, and macOS to fix two zero-days that may have been exploited, reaching 20 zero-days patched in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231130/p39#a231130p39)
- - [Spotify Wrapped 2023: Rewatch Your Top Moments and Find Your Sound Town     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-rewatch-your-top-moments-and-find-your-sound-town/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in New York     - CNET](https://www.cnet.com/home/energy-and-utilities/new-york-solar-panels/#ftag=CAD590a51e)
- - [Meta expands the keyword search feature of Threads to all markets where the app is available, with support for &quot;all languages&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231130/p38#a231130p38)<!-- TECH:END -->
+ - [Spotify Wrapped 2023: Rewatch Your Top Moments and Find Your Sound Town     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-rewatch-your-top-moments-and-find-your-sound-town/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

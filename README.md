@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [Mermaidn&#39;t](http://9gag.com/gag/aYV0rMw)
- - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 😝 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
- - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
+ - 😝 [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
+ - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 💣 [I have a new hero](http://9gag.com/gag/aA096N2)
+ - 😝 [Great success](http://9gag.com/gag/amAZWyy)
+ - 👉 [Cause why not](http://9gag.com/gag/anzonO5)<!-- MEMES:END -->
 
 ---
 

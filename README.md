@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
+ - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
  - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---
 

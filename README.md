@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
  - [Substack rolls out video creation and editing tools to enable creators to publish video podcasts, create interactive AI-made transcripts, and customize clips &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231129/p48#a231129p48)
  - [Activision Blizzard had a plan — or ploy — to launch its own Android game store](https://www.theverge.com/23981939/activision-blizzard-king-project-boston-android-app-store-games-candy-crush)
  - [Sam Altman Officially Returns to OpenAI—With a New Board Seat for Microsoft](https://www.wired.com/story/sam-altman-officially-returns-to-openai-board-seat-microsoft/)
- - [Sources: Adobe&#39;s proposal to address EU and UK concerns about its $20B Figma deal may include not tying Figma into Creative Cloud and a divestment of Adobe XD &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p47#a231129p47)
- - [Steam ending support for Macs running macOS Mojave and earlier](https://appleinsider.com/articles/23/11/30/steam-ending-support-for-macs-running-macos-mojave-and-earlier?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Adobe&#39;s proposal to address EU and UK concerns about its $20B Figma deal may include not tying Figma into Creative Cloud and a divestment of Adobe XD &lpar;Bloomberg&rpar;](http://www.techmeme.com/231129/p47#a231129p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

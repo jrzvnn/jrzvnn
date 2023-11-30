@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Bobr is famous](http://9gag.com/gag/aeQBVmW)
- - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
- - 😝 [I was 8 years old.. miss the times..](http://9gag.com/gag/aPgqeyP)
- - 👉 [Another groaner.](http://9gag.com/gag/abv8WMr)<!-- MEMES:END -->
+ - 👉 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)<!-- MEMES:END -->
 
 ---
 

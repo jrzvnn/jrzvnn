@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turtle Beach put drift-free sticks and a screen on its new $200 controller for Xbox and PC](https://www.theverge.com/2023/11/30/23981792/turtle-beach-stealth-ultra-xbox-pc-wireless-controller-antidrift-announcement-price)
  - [Meta officials say the US stopped proactively sharing information on foreign influence operations, as the company releases its Q3 Adversarial Threat Report &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231130/p19#a231130p19)
  - [Best webcam for Mac for streaming, Zoom meetings &amp; more](https://appleinsider.com/inside/mac/best/best-webcam-for-mac?utm_medium=rss)
  - [Spotify Wrapped 2023&#39;s new Sound Town, for similar listeners in other cities, leaves users baffled and entertained after many were designated as Burlington, VT &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p18#a231130p18)
- - [6 Best Radios &lpar;2023&rpar;: Portable, Stylish, For Emergencies](https://www.wired.com/gallery/best-radios/)
- - [Coffee Lovers, It’s Time to Stop Using K-Cups](https://www.wired.com/story/gadget-lab-podcast-622/)<!-- TECH:END -->
+ - [6 Best Radios &lpar;2023&rpar;: Portable, Stylish, For Emergencies](https://www.wired.com/gallery/best-radios/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)
+ - [Sennheiser’s Momentum True Wireless 3 earbuds are down to a new all-time low price](https://www.theverge.com/2023/11/30/23980985/sennheiser-momentum-true-wireless-3-blink-outdoor-amazon-smart-plug-deal-sale)
  - [On December 1, Google will start deleting personal Google accounts that have been inactive for at least two years; once deleted, no data can be recovered &lpar;Dalvin Brown/Wall Street Journal&rpar;](http://www.techmeme.com/231130/p26#a231130p26)
  - [&#39;Hitman: Blood Money Reprisal&#39; sneaks onto iPhone and iPad](https://appleinsider.com/articles/23/11/30/hitman-blood-money-reprisal-sneaks-onto-iphone-and-ipad?utm_medium=rss)
- - [Cicadas Are So Loud, Fiber Optic Cables Can ‘Hear’ Them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
- - [The Boy and the Heron: all the latest on Hayao Miyazaki’s epic](https://www.theverge.com/23982407/the-boy-and-the-heron-hayao-miyazaki-studio-ghibli)
- - [WhatsApp begins letting users hide locked chats behind a secret code, after introducing locked chats in May 2023, rolling out globally in the coming months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231130/p25#a231130p25)<!-- TECH:END -->
+ - [Cicadas Are So Loud, Fiber Optic Cables Can ‘Hear’ Them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - 👉 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)<!-- MEMES:END -->
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
+ - 💣 [I have a new hero](http://9gag.com/gag/aA096N2)
+ - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
 
 ---
 

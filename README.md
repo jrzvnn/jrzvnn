@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
- - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
- - 💣 [This is just nuts](http://9gag.com/gag/ap9MDLD)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aXnOVKv)
+ - 😝 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 💣 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
+ - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
 
 ---
 

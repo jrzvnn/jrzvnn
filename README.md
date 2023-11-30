@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231130/p17#a231130p17)
- - [How to use AirPods to authenticate Siri commands without unlocking your iPhone](https://appleinsider.com/inside/ios-17/tips/how-to-use-airpods-to-authenticate-siri-commands-without-unlocking-your-iphone?utm_medium=rss)
- - [Google TAG executive Kate Morgan says Google observed a &quot;massive increase&quot; in Chinese cyberattacks on Taiwan in the last six months from over 100 groups &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/231130/p16#a231130p16)
- - [At an event, Xbox CFO Tim Stuart says Microsoft wants to bring Xbox Game Pass to PlayStation, Nintendo, and &quot;every screen that can play games&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231130/p15#a231130p15)
- - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)<!-- TECH:END -->
+ - [Meta officials say the US stopped proactively sharing information on foreign influence operations, as the company releases its Q3 Adversarial Threat Report &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231130/p19#a231130p19)
+ - [Best webcam for Mac for streaming, Zoom meetings &amp; more](https://appleinsider.com/inside/mac/best/best-webcam-for-mac?utm_medium=rss)
+ - [Spotify Wrapped 2023&#39;s new Sound Town, for similar listeners in other cities, leaves users baffled and entertained after many were designated as Burlington, VT &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p18#a231130p18)
+ - [6 Best Radios &lpar;2023&rpar;: Portable, Stylish, For Emergencies](https://www.wired.com/gallery/best-radios/)
+ - [Coffee Lovers, It’s Time to Stop Using K-Cups](https://www.wired.com/story/gadget-lab-podcast-622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
- - 😝 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
- - 💣 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
+ - 😝 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
+ - 💣 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
  - 😝 [The true Woke](http://9gag.com/gag/agoe8pg)
  - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [2X Combo in 30 seconds](http://9gag.com/gag/a8qg6Vd)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
- - 💣 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 👉 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)<!-- MEMES:END -->
+ - 💣 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 😝 [Pickpocket steals from undercover police and gets arrested in Amsterdan.](http://9gag.com/gag/aZDYEZn)
+ - 👉 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)<!-- MEMES:END -->
 
 ---
 

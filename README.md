@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Firefox’s Android browser will have proper extension support again real soon](https://www.theverge.com/2023/11/30/23982293/firefoxs-android-browser-open-extension-launch)
+ - [Study: around 2,127 Web3 games became inactive in the past five years, representing 75.5% of the 2,817 that were launched in the same period &lpar;Lim Yu Qian/CoinGecko&rpar;](http://www.techmeme.com/231130/p9#a231130p9)
  - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
  - [Worried About NameDrop and Safety? Here&#39;s How the Feature Actually Works     - CNET](https://www.cnet.com/tech/mobile/worried-about-privacy-on-your-iphone-the-truth-about-namedrop-on-ios-17/#ftag=CAD590a51e)
- - [Interview with Atari CEO Wade Rosen on the company&#39;s emphasis on retro endeavors, its recent acquisitions, its investment in console maker Polymega, and more &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/231130/p7#a231130p7)
- - [Your Step-by-Step Guide to Disabling NameDrop     - CNET](https://www.cnet.com/tech/mobile/your-step-by-step-guide-to-disabling-namedrop/#ftag=CAD590a51e)
- - [Google Will Start Deleting Old Accounts Tomorrow. Here&#39;s How to Save Yours     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-tomorrow-heres-how-to-save-your-google-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Atari CEO Wade Rosen on the company&#39;s emphasis on retro endeavors, its recent acquisitions, its investment in console maker Polymega, and more &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/231130/p7#a231130p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

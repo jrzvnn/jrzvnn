@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me and the boys at the retirement home](http://9gag.com/gag/az23PON)
- - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
- - 💣 [This is just nuts](http://9gag.com/gag/ap9MDLD)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 👉 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)<!-- MEMES:END -->
+ - 😝 [Tourist Idiots Standing so Close and Watching Volcano in Iceland](http://9gag.com/gag/ap9MR8B)
+ - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 

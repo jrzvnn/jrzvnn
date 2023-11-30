@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates Final Cut Pro and iMovie to support faster exporting](https://appleinsider.com/articles/23/11/30/apple-updates-final-cut-pro-and-imovie-to-support-faster-exporting?utm_medium=rss)
+ - [iOS 17.1.2 &amp; Sonoma 14.1.2 updates stop browsers from leaking personal data](https://appleinsider.com/articles/23/11/30/ios-1712-sonoma-1412-updates-stop-browsers-from-leaking-personal-data?utm_medium=rss)
+ - [A Gmail outage is delaying emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)
  - [Tesla Cybertruck delivery event: Elon Musk hands over the first trucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
- - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)
- - [Steam Link can now wirelessly stream VR games to your Meta Quest headset](https://www.theverge.com/2023/11/30/23982839/steam-link-meta-quest-headset-stream-vr-games)
- - [Tesla Cybertruck Launch Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-launch-live-price-range-specs/)
- - [Sources: OpenAI is giving employees an extra month, until January 5, to decide whether they want to sell shares in the company through a tender offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p36#a231130p36)<!-- TECH:END -->
+ - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

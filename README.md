@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity with generative AI, women&#39;s health tech, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231130/p37#a231130p37)
+ - [Tesla Cybertruck Delivery Event Live: Price, Range, Specs](https://www.wired.com/live/tesla-cybertruck-delivery-event-live-price-range-specs/)
  - [Apple updates Final Cut Pro and iMovie to support faster exporting](https://appleinsider.com/articles/23/11/30/apple-updates-final-cut-pro-and-imovie-to-support-faster-exporting?utm_medium=rss)
  - [iOS 17.1.2 &amp; Sonoma 14.1.2 updates stop browsers from leaking personal data](https://appleinsider.com/articles/23/11/30/ios-1712-sonoma-1412-updates-stop-browsers-from-leaking-personal-data?utm_medium=rss)
- - [A Gmail outage is delaying emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)
- - [Tesla Cybertruck delivery event: Elon Musk hands over the first trucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
- - [The future of fossil fuels could be decided in Dubai](https://www.theverge.com/2023/11/30/23980929/dubai-climate-change-united-nations-conference-cop28)<!-- TECH:END -->
+ - [A Gmail outage is delaying emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

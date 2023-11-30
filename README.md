@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 💣 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
+ - 😝 [Snacc](http://9gag.com/gag/aDYvZGd)
+ - 😝 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
+ - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
+ - 😝 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
+ - 👉 [German President Frank-Walter Steinmeier was left waiting 30 minutes at tarmac of Qatar airport. No Qatari official showed up to pick him up from the airport.](http://9gag.com/gag/anzovbo)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
- - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
+ - 😝 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
+ - 😝 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
+ - 💣 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
+ - 😝 [The true Woke](http://9gag.com/gag/agoe8pg)
+ - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TikTok plans to spend &amp;euro;12B over 10 years in Europe, including on three data centers and a security audit, as the company begins work on its Norway data center &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p34#a231130p34)
+ - [Best Board Game Deals: Save on 10 Amazing RPGs, Strategy Games, Card Games and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
  - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
  - [Google rolls out updates to Android, Wear OS, and Google TV devices, including adding AI-created image descriptions and an Assistant Routines feature &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/231130/p33#a231130p33)
- - [Daily deals Nov. 30: iPad 10th Generation $399, 28% off Apple Watch Series 8, 60% off Beats Studio Pro, more](https://appleinsider.com/articles/23/11/30/daily-deals-nov-30-ipad-10th-generation-399-28-off-apple-watch-series-8-60-off-beats-studio-pro-more?utm_medium=rss)
- - [SEC filing: Fidelity National, one of the largest US real estate services companies, &quot;contained&quot; a cyberattack that caused an outage starting on November 21 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p32#a231130p32)<!-- TECH:END -->
+ - [Daily deals Nov. 30: iPad 10th Generation $399, 28% off Apple Watch Series 8, 60% off Beats Studio Pro, more](https://appleinsider.com/articles/23/11/30/daily-deals-nov-30-ipad-10th-generation-399-28-off-apple-watch-series-8-60-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

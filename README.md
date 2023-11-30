@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I have a new hero](http://9gag.com/gag/aA096N2)
+ - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
+ - 💣 [Perfection.](http://9gag.com/gag/aGEQL3z)
  - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
- - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 👉 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)<!-- MEMES:END -->
+ - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
 
 ---
 

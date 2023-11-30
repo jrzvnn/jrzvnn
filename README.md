@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge reverses a decision to block a full UK CMA investigation into Apple&#39;s dominance in mobile browsers and cloud gaming, saying the CMA acted lawfully &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231130/p20#a231130p20)
- - [Turtle Beach put drift-free sticks and a screen on its new $200 controller for Xbox and PC](https://www.theverge.com/2023/11/30/23981792/turtle-beach-stealth-ultra-xbox-pc-wireless-controller-antidrift-announcement-price)
- - [Meta officials say the US stopped proactively sharing information on foreign influence operations, as the company releases its Q3 Adversarial Threat Report &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/231130/p19#a231130p19)
- - [Best webcam for Mac for streaming, Zoom meetings &amp; more](https://appleinsider.com/inside/mac/best/best-webcam-for-mac?utm_medium=rss)
- - [Spotify Wrapped 2023&#39;s new Sound Town, for similar listeners in other cities, leaves users baffled and entertained after many were designated as Burlington, VT &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p18#a231130p18)<!-- TECH:END -->
+ - [The BEUC and 18 others target Meta&#39;s &amp;euro;9.99+ Europe subscription in a complaint, two days after a similar noyb complaint, saying the option charges for privacy &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231130/p21#a231130p21)
+ - [Amazon&#39;s Black Friday AirPods Pro 2 USB-C deal is back for $189.99](https://appleinsider.com/articles/23/11/30/amazons-black-friday-airpods-pro-2-usb-c-deal-is-back-for-18999?utm_medium=rss)
+ - [TikTok pushes further into streaming with new artist accounts](https://www.theverge.com/2023/11/30/23981397/tiktok-artist-accounts-music-streaming-spotify)
+ - [Get ready for Tesla’s Cybertruck delivery event](https://www.theverge.com/2023/11/30/23972571/tesla-cybertruck-delivery-livestream-time-date-how-to-watch-elon-musk)
+ - [A UK judge reverses a decision to block a full UK CMA investigation into Apple&#39;s dominance in mobile browsers and cloud gaming, saying the CMA acted lawfully &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231130/p20#a231130p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

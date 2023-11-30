@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta sues the FTC, claiming its in-house trials violate the Constitution, and asks a court to halt the agency&#39;s bid to change a $5B privacy settlement in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p29#a231130p29)
+ - [Wrapped 2023: what you were listening to on Spotify, Apple Music, and every other app](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
  - [Kognitos, which helps businesses automate transcription, data visualizations, and back-office processes, raised $20M led by Khosla, taking its funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p28#a231130p28)
- - [Facebook, Instagram, Google, Amazon, TikTok, YouTube, Microsoft, and others sign the UK&#39;s Online Fraud Charter to fight scams, fake ads, and romance fraud &lpar;Ben Mitchell/The Independent&rpar;](http://www.techmeme.com/231130/p27#a231130p27)
- - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
- - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)
- - [Sennheiser’s Momentum True Wireless 3 earbuds are down to a new all-time low price](https://www.theverge.com/2023/11/30/23980985/sennheiser-momentum-true-wireless-3-blink-outdoor-amazon-smart-plug-deal-sale)<!-- TECH:END -->
+ - [Game Anywhere With This $400 Asus ROG Ally Handheld Console &lpar;save $200&rpar;     - CNET](https://www.cnet.com/deals/game-anywhere-with-this-400-asus-rog-ally-handheld-console-save-200/#ftag=CAD590a51e)
+ - [Spotify Wrapped 2023 Is Here: How to Share and Customize Your Wrapped Results     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-is-here-how-to-share-and-customize-your-wrapped-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

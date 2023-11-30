@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [San Jose-based DuploCloud, which provides tools to provision apps to public clouds like AWS, raised a $32M Series B co-led by WestBridge Capital and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p3#a231130p3)
  - [Former associates of Linda Yaccarino describe her as difficult, volatile, but hardworking, and say high self-regard made her think she could manage Elon Musk &lpar;Kim Masters/The Hollywood Reporter&rpar;](http://www.techmeme.com/231130/p2#a231130p2)
  - [In a blog post, OpenAI CEO Sam Altman says Ilya Sutskever won&#39;t be a board member, but the company is &quot;discussing how he can continue his work at OpenAI&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231130/p1#a231130p1)
  - [Q&amp;A with Sam Altman on why he was fired from OpenAI, returning to the company, improving the governance structure, the Q* model, lessons from the saga, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231129/p50#a231129p50)
- - [OWC miniStack STX is 10% off with purchase of refurbished Apple product](https://appleinsider.com/articles/23/11/30/owc-ministack-stx-is-10-off-with-purchase-of-refurbished-apple-product?utm_medium=rss)
- - [Apple reveals 2023 App Store Award winners, highlights AI as the year&#39;s biggest trend](https://appleinsider.com/articles/23/11/30/apple-reveals-2023-app-store-award-winners-highlights-ai-as-the-years-biggest-trend?utm_medium=rss)<!-- TECH:END -->
+ - [OWC miniStack STX is 10% off with purchase of refurbished Apple product](https://appleinsider.com/articles/23/11/30/owc-ministack-stx-is-10-off-with-purchase-of-refurbished-apple-product?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

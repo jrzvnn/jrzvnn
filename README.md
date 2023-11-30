@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok launches verified artist accounts, offering various tools to deepen engagement and improve discoverability, seemingly inspired by Spotify &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231130/p30#a231130p30)
+ - [Google celebrates 1 billion RCS users with emoji-filled messaging features](https://www.theverge.com/2023/11/30/23981350/google-messages-chat-rcs-apple-imessage-photo-emoji)
  - [Meta sues the FTC, claiming its in-house trials violate the Constitution, and asks a court to halt the agency&#39;s bid to change a $5B privacy settlement in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p29#a231130p29)
  - [Wrapped 2023: what you were listening to on Spotify, Apple Music, and every other app](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
- - [Kognitos, which helps businesses automate transcription, data visualizations, and back-office processes, raised $20M led by Khosla, taking its funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p28#a231130p28)
- - [Game Anywhere With This $400 Asus ROG Ally Handheld Console &lpar;save $200&rpar;     - CNET](https://www.cnet.com/deals/game-anywhere-with-this-400-asus-rog-ally-handheld-console-save-200/#ftag=CAD590a51e)
- - [Spotify Wrapped 2023 Is Here: How to Share and Customize Your Wrapped Results     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-is-here-how-to-share-and-customize-your-wrapped-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kognitos, which helps businesses automate transcription, data visualizations, and back-office processes, raised $20M led by Khosla, taking its funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231130/p28#a231130p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

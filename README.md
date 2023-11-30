@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snacc](http://9gag.com/gag/aDYvZGd)
- - 😝 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
- - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
- - 😝 [Your media calls it far right. Here it&#39;s mainstream common sense.](http://9gag.com/gag/a3ZOyAr)
- - 👉 [German President Frank-Walter Steinmeier was left waiting 30 minutes at tarmac of Qatar airport. No Qatari official showed up to pick him up from the airport.](http://9gag.com/gag/anzovbo)<!-- MEMES:END -->
+ - 😝 [Chinese engineer created a laser anti-aircraft gun to knock mosquitoes out of your home.](http://9gag.com/gag/aPgqAgP)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 😝 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 ---
 

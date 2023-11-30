@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Resident Evil 4 remake will add VR mode in December](https://www.theverge.com/23983216/resident-evil-4-remake-vr-mode-release-date-psvr)
+ - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing Each Rugged Watch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-each-rugged-watch/#ftag=CAD590a51e)
  - [An oil exec, a climate crisis, and reparations: what’s going down at the United Nations summit in Dubai](https://www.theverge.com/2023/11/30/23983242/dubai-united-nations-climate-change-oil-exec-reparations-cop28)
- - [Tesla delivered the Cybertruck: here’s how to preorder one](https://www.theverge.com/2023/11/30/23979812/tesla-cybertruck-order-price-how-to-buy)
- - [These Clues Hint at the True Nature of OpenAI’s Shadowy Q* Project](https://www.wired.com/story/fast-forward-clues-hint-openai-shadowy-q-project/)
- - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)<!-- TECH:END -->
+ - [9 Best Dutch Ovens We Tested     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
+ - [Tesla delivered the Cybertruck: here’s how to preorder one](https://www.theverge.com/2023/11/30/23979812/tesla-cybertruck-order-price-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

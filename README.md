@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
- - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
- - 💣 [I have a new hero](http://9gag.com/gag/aA096N2)
- - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
- - 👉 [This is just nuts](http://9gag.com/gag/ap9MDLD)<!-- MEMES:END -->
+ - 😝 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
+ - 😝 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
+ - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
 
 ---
 

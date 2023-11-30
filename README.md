@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Siuuuu](http://9gag.com/gag/avQjWWM)
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 💣 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 😝 [Pick your hero](http://9gag.com/gag/a1P6PV8)
- - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
+ - 😝 [Perfection.](http://9gag.com/gag/aGEQL3z)
+ - 😝 [Cause why not](http://9gag.com/gag/anzonO5)
+ - 💣 [This is just nuts](http://9gag.com/gag/ap9MDLD)
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 👉 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)<!-- MEMES:END -->
 
 ---
 

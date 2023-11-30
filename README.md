@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is giving employees an extra month, until January 5, to decide whether they want to sell shares in the company through a tender offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p36#a231130p36)
  - [Apple releases iOS 17.1.2, iPadOS 17.1.2, macOS Sonoma 14.1.2](https://appleinsider.com/articles/23/11/30/apple-releases-ios-1712-ipados-1712?utm_medium=rss)
  - [How OpenAI&#39;s low-key ChatGPT launch a year ago kickstarted a generational shift in the tech industry and what it means for the future of AI and the world &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231130/p35#a231130p35)
  - [TikTok plans to spend &amp;euro;12B over 10 years in Europe, including on three data centers and a security audit, as the company begins work on its Norway data center &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p34#a231130p34)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Google rolls out updates to Android, Wear OS, and Google TV devices, including adding AI-created image descriptions and an Assistant Routines feature &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/231130/p33#a231130p33)<!-- TECH:END -->
+ - [Best Board Game Deals: Save on 10 Amazing RPGs, Strategy Games, Card Games and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

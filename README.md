@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A US district judge issues a preliminary injunction blocking Montana&#39;s first-of-its-kind state ban on TikTok from taking effect on January 1 &lpar;Reuters&rpar;](http://www.techmeme.com/231130/p42#a231130p42)
  - [Take up to $400 off popular Apple computers and find the perfect gift before the holidays](https://appleinsider.com/articles/23/11/30/take-up-to-400-off-popular-apple-computers-and-find-the-perfect-gift-before-the-holidays?utm_medium=rss)
+ - [Tesla Begins Delivering Cybertrucks to Customers, Edgy EV Now Starts at $60,990     - CNET](https://www.cnet.com/roadshow/news/tesla-begins-delivering-cybertrucks-to-customers-edgy-ev-now-starts-at-60990/#ftag=CAD590a51e)
  - [Some marketing agencies say their brands don&#39;t plan to return to advertise on X, and others are advising brands to stop posting on X, after Elon Musk&#39;s comments &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p41#a231130p41)
- - [Resident Evil 4 remake will add VR mode in December](https://www.theverge.com/23983216/resident-evil-4-remake-vr-mode-release-date-psvr)
- - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing Each Rugged Watch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-each-rugged-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp Will Let You Protect Chats With a Secret Code     - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-will-let-you-protect-chats-with-a-secret-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

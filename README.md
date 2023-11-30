@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML CEO Peter Wennink plans to step down in April 2024 after over 10 years at the chip equipment giant, replaced by industry veteran Christophe Fouquet &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231130/p8#a231130p8)
  - [Interview with Atari CEO Wade Rosen on the company&#39;s emphasis on retro endeavors, its recent acquisitions, its investment in console maker Polymega, and more &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/231130/p7#a231130p7)
  - [Google Will Start Deleting Old Accounts Tomorrow. Here&#39;s How to Save Yours     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-tomorrow-heres-how-to-save-your-google-account/#ftag=CAD590a51e)
  - [How Swedish battery maker Northvolt uses AI at its Skellefte&amp;aring; factory to help speed up EV battery making, led by former Apple AI researcher Siddharth Khullar &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/231130/p6#a231130p6)
- - [Interviews with dozens of industry insiders and experts reveal Huawei&#39;s and SMIC&#39;s efforts to build advanced chips and maintain marketshare despite US sanctions &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/231130/p5#a231130p5)
- - [Robinhood launches commission-free stock trading in the UK, letting selected UK investors trade 6K+ US-listed stocks, with general availability in early 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p4#a231130p4)<!-- TECH:END -->
+ - [Interviews with dozens of industry insiders and experts reveal Huawei&#39;s and SMIC&#39;s efforts to build advanced chips and maintain marketshare despite US sanctions &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/231130/p5#a231130p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 😝 [Something weird happened](http://9gag.com/gag/a9qGzmD)
  - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 💣 [The `late 1900&#39;s`](http://9gag.com/gag/axor6jL)
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
 
 ---
 

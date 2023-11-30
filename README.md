@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist Idiots Standing so Close and Watching Volcano in Iceland](http://9gag.com/gag/ap9MR8B)
  - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
+ - 😝 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 💣 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
+ - 😝 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some marketing agencies say their brands don&#39;t plan to return to advertise on X, and others are advising brands to stop posting on X, after Elon Musk&#39;s comments &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p41#a231130p41)
  - [Resident Evil 4 remake will add VR mode in December](https://www.theverge.com/23983216/resident-evil-4-remake-vr-mode-release-date-psvr)
  - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing Each Rugged Watch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-each-rugged-watch/#ftag=CAD590a51e)
  - [An oil exec, a climate crisis, and reparations: what’s going down at the United Nations summit in Dubai](https://www.theverge.com/2023/11/30/23983242/dubai-united-nations-climate-change-oil-exec-reparations-cop28)
- - [9 Best Dutch Ovens We Tested     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
- - [Tesla delivered the Cybertruck: here’s how to preorder one](https://www.theverge.com/2023/11/30/23979812/tesla-cybertruck-order-price-how-to-buy)<!-- TECH:END -->
+ - [9 Best Dutch Ovens We Tested     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

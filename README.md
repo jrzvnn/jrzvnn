@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok plans to spend &amp;euro;12B over 10 years in Europe, including on three data centers and a security audit, as the company begins work on its Norway data center &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231130/p34#a231130p34)
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [Google rolls out updates to Android, Wear OS, and Google TV devices, including adding AI-created image descriptions and an Assistant Routines feature &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/231130/p33#a231130p33)
  - [Daily deals Nov. 30: iPad 10th Generation $399, 28% off Apple Watch Series 8, 60% off Beats Studio Pro, more](https://appleinsider.com/articles/23/11/30/daily-deals-nov-30-ipad-10th-generation-399-28-off-apple-watch-series-8-60-off-beats-studio-pro-more?utm_medium=rss)
- - [SEC filing: Fidelity National, one of the largest US real estate services companies, &quot;contained&quot; a cyberattack that caused an outage starting on November 21 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p32#a231130p32)
- - [Google says RCS in Google Messages now has over 1B MAUs, and adds Photomoji, Screen Effects, Custom Bubbles, and other features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231130/p31#a231130p31)
- - [Godzilla Minus One is a brilliant reckoning for the king of monster allegories](https://www.theverge.com/23981319/godzilla-minus-one-review)
- - [TikTok launches verified artist accounts, offering various tools to deepen engagement and improve discoverability, seemingly inspired by Spotify &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231130/p30#a231130p30)<!-- TECH:END -->
+ - [SEC filing: Fidelity National, one of the largest US real estate services companies, &quot;contained&quot; a cyberattack that caused an outage starting on November 21 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231130/p32#a231130p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

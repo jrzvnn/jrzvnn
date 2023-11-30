@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk calls a Nov. 15 X post of his a mistake that &quot;handed a loaded gun to those who hate me and arguably to those who are antisemitic&quot; for which he&#39;s sorry &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231129/p44#a231129p44)
- - [Amazon will offer human benchmarking teams to test AI models](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity)
- - [These ex-Apple employees are bringing AI to the desktop](https://www.theverge.com/2023/11/29/23981802/software-applications-inc-workflow-shortcuts-apple-employees-startup)
- - [Elon Musk dismisses fear of advertisers leaving X after his controversial posts: &quot;If somebody&#39;s gonna try to blackmail me with advertising ... go fuck yourself&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/231129/p43#a231129p43)
- - [The CEOs of Meta, X, TikTok, Snap, and Discord will testify before the US Senate on child safety](https://www.theverge.com/2023/11/29/23981662/meta-x-tiktok-ceos-testify-us-senate-child-exploitation)<!-- TECH:END -->
+ - [Microsoft joins OpenAI’s board with Sam Altman officially back as CEO](https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board)
+ - [Elon Musk tells advertisers: ‘Go fuck yourself’](https://www.theverge.com/2023/11/29/23981928/elon-musk-ad-boycott-go-fuck-yourself-destroy-x)
+ - [Tesla’s Cybertruck Is Two Years Late and Still Crazy](https://www.wired.com/story/tesla-cybertruck-two-years-late-still-crazy/)
+ - [Elon Musk tells advertisers like Apple, Disney to &#39;Go f--- yourself&#39; after boycott](https://appleinsider.com/articles/23/11/29/elon-musk-tells-advertisers-like-apple-disney-to-go-f----yourself-after-boycott?utm_medium=rss)
+ - [Elon Musk calls a Nov. 15 X post of his a mistake that &quot;handed a loaded gun to those who hate me and arguably to those who are antisemitic&quot; for which he&#39;s sorry &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231129/p44#a231129p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resident Evil 4 remake will add VR mode in December](https://www.theverge.com/23983216/resident-evil-4-remake-vr-mode-release-date-psvr)
  - [An oil exec, a climate crisis, and reparations: what’s going down at the United Nations summit in Dubai](https://www.theverge.com/2023/11/30/23983242/dubai-united-nations-climate-change-oil-exec-reparations-cop28)
  - [Tesla delivered the Cybertruck: here’s how to preorder one](https://www.theverge.com/2023/11/30/23979812/tesla-cybertruck-order-price-how-to-buy)
  - [These Clues Hint at the True Nature of OpenAI’s Shadowy Q* Project](https://www.wired.com/story/fast-forward-clues-hint-openai-shadowy-q-project/)
- - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)
- - [The PlayStation Portal at least makes stick drift easier to repair](https://www.theverge.com/2023/11/30/23983014/playstation-portal-stick-drift-repairability-ifixit)<!-- TECH:END -->
+ - [Tesla Cybertruck will usher in a new ‘Powershare’ bidirectional charging feature](https://www.theverge.com/2023/11/30/23983226/tesla-cybertruck-powershare-bidirectional-vehicle-to-load)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

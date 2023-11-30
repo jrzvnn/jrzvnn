@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Boy and the Heron: all the latest on Hayao Miyazaki’s epic](https://www.theverge.com/23982407/the-boy-and-the-heron-hayao-miyazaki-studio-ghibli)
+ - [WhatsApp begins letting users hide locked chats behind a secret code, after introducing locked chats in May 2023, rolling out globally in the coming months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231130/p25#a231130p25)
  - [Apple says Amkor will package some Apple silicon chips in its new Arizona facility; Amkor plans to invest $2B, employ 2,000, and start production in 2-3 years &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231130/p24#a231130p24)
  - [Apple&#39;s new disability tool helps users with disabilities communicate with their Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)
- - [WhatsApp now lets you hide your locked chats behind a secret code](https://www.theverge.com/2023/11/30/23982403/whatsapp-secret-code-hide-locked-chats)
- - [Today&#39;s Best CD Rates: Nov. 30, 2023 -- Sky-High APYs Have Started to Waver     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-nov-30-2023/#ftag=CAD590a51e)
- - [UK regulator can investigate Apple&#39;s cloud gaming, says court](https://appleinsider.com/articles/23/11/30/uk-regulator-can-investigate-apples-cloud-gaming-says-court?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp now lets you hide your locked chats behind a secret code](https://www.theverge.com/2023/11/30/23982403/whatsapp-secret-code-hide-locked-chats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

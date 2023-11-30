@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/aVb6omv)
- - 😝 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)
- - 💣 [There goes the rest of the self-esteem. But at least I still got all you degenerates.](http://9gag.com/gag/aQEjvrK)
+ - 😝 [Do you compliment the ladies?](http://9gag.com/gag/a2KXMqe)
+ - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
  - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [Snacc](http://9gag.com/gag/aDYvZGd)<!-- MEMES:END -->
+ - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
- - 😝 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
- - 💣 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
- - 👉 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)<!-- MEMES:END -->
+ - 😝 [2X Combo in 30 seconds](http://9gag.com/gag/a8qg6Vd)
+ - 😝 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)
+ - 💣 [Great success](http://9gag.com/gag/amAZWyy)
+ - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
+ - 👉 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)<!-- MEMES:END -->
 
 ---
 

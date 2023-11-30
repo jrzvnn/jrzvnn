@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nonprofit Data &amp; Trust Alliance, comprising Amex, IBM, Pfizer, UPS, and more, announces AI data provenance standards to help find the origin and rights to data &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231130/p12#a231130p12)
  - [PSA: Update Chrome browser now to avoid an exploit already in the wild](https://www.theverge.com/2023/11/30/23982296/google-chrome-browser-update-sandbox-escape-exploit-security-vulnerability)
  - [Sources: Meta plans to launch Threads in Europe in December, the largest expansion since its July debut, offering a choice of using Threads without a profile &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231130/p11#a231130p11)
  - [Inside India’s Gargantuan Mission to Clean the Ganges River](https://www.wired.com/story/india-ganges-river-clean-project/)
- - [Voicemod will now let you create and share your own AI voices](https://www.theverge.com/2023/11/30/23981835/voicemod-ai-voice-creator-community-voices)
- - [At the NYT&#39;s DealBook event, Nvidia CEO Jensen Huang says the US is 10 years to 20 years from chip independence and reaffirms Nvidia&#39;s commitment to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231130/p10#a231130p10)<!-- TECH:END -->
+ - [Voicemod will now let you create and share your own AI voices](https://www.theverge.com/2023/11/30/23981835/voicemod-ai-voice-creator-community-voices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

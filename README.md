@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kidnapped](http://9gag.com/gag/a3ZOZ11)
+ - 😝 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
  - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 💣 [BH n food seems popular](http://9gag.com/gag/aDYv7Nd)
- - 😝 [Not everybody wants to be a meme](http://9gag.com/gag/aL1EvLg)
+ - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
  - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---

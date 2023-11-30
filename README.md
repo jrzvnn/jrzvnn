@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
- - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
- - 💣 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 😝 [Pitbull Vs Horse](http://9gag.com/gag/aqeEy4M)
+ - 😝 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
+ - 💣 [A house party almost caused the roof of tenants below to fully cave in. The power had to be shut off for them to stop.](http://9gag.com/gag/a4o06RA)
  - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 👉 [The battle of Tet Ten](http://9gag.com/gag/aVb6xyw)<!-- MEMES:END -->
+ - 👉 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)<!-- MEMES:END -->
 
 ---
 

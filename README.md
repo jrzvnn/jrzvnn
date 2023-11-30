@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a `men&#39;s problem` only.](http://9gag.com/gag/aYV0QbN)
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 💣 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
- - 😝 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 😝 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 😝 [I did not make this but I had to share it!](http://9gag.com/gag/a7qxonz)
+ - 💣 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
  - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---

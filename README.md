@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: crypto mining used ~1,600 gigaliters of water in 2021 when bitcoin peaked at $65K, or 16K liters per transaction, around 6.2M times a credit card &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231130/p17#a231130p17)
  - [How to use AirPods to authenticate Siri commands without unlocking your iPhone](https://appleinsider.com/inside/ios-17/tips/how-to-use-airpods-to-authenticate-siri-commands-without-unlocking-your-iphone?utm_medium=rss)
  - [Google TAG executive Kate Morgan says Google observed a &quot;massive increase&quot; in Chinese cyberattacks on Taiwan in the last six months from over 100 groups &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/231130/p16#a231130p16)
  - [At an event, Xbox CFO Tim Stuart says Microsoft wants to bring Xbox Game Pass to PlayStation, Nintendo, and &quot;every screen that can play games&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/231130/p15#a231130p15)
- - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)
- - [Dr. Ishwaria Subbiah Is Reimagining Cancer Care](https://www.wired.com/story/women-in-science-ishwaria-subbiah/)<!-- TECH:END -->
+ - [The CDC&#39;s Gun Violence Research Is in Danger](https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

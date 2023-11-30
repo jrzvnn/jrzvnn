@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 😝 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
+ - 💣 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 😝 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)
  - 👉 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)<!-- MEMES:END -->
 
 ---

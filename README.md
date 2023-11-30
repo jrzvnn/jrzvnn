@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian IT giants Infosys and Wipro cut college recruitment in October as global demand cools, leaving hundreds of thousands of tech graduates in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p40#a231130p40)
+ - [Tesla’s Cybertruck Is Here and It Costs $70,000](https://www.wired.com/story/teslas-cybertruck-price-70000-specs/)
  - [Elon Musk hands over the first Tesla Cybertrucks to customers](https://www.theverge.com/2023/11/30/23980053/tesla-cybertruck-delivery-event-elon-musk-live)
  - [A bride to be discovers a reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [Tesla Cybertruck starts at $60,990 and can get up to 340 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)
- - [Apple releases emergency security updates for iOS, iPadOS, and macOS to fix two zero-days that may have been exploited, reaching 20 zero-days patched in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231130/p39#a231130p39)
- - [Spotify Wrapped 2023: Rewatch Your Top Moments and Find Your Sound Town     - CNET](https://www.cnet.com/tech/services-and-software/spotify-wrapped-2023-rewatch-your-top-moments-and-find-your-sound-town/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla Cybertruck starts at $60,990 and can get up to 340 miles of range](https://www.theverge.com/2023/11/30/23982569/tesla-cybertruck-delivery-price-specs-features-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, Instagram, Google, Amazon, TikTok, YouTube, Microsoft, and others sign UK&#39;s Online Fraud Charter to fight online scams, fake ads, and romance fraud &lpar;Ben Mitchell/The Independent&rpar;](http://www.techmeme.com/231130/p27#a231130p27)
  - [Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now](https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/)
  - [Startlingly good iPhone 15 Pro Max fake is hard to spot](https://appleinsider.com/articles/23/11/30/startlingly-good-iphone-15-pro-max-fake-is-hard-to-spot?utm_medium=rss)
  - [Sennheiser’s Momentum True Wireless 3 earbuds are down to a new all-time low price](https://www.theverge.com/2023/11/30/23980985/sennheiser-momentum-true-wireless-3-blink-outdoor-amazon-smart-plug-deal-sale)
- - [How Spotify Wrapped 2023 Makes Your Personalized Soundtrack of the Year     - CNET](https://www.cnet.com/tech/services-and-software/how-spotify-wrapped-2023-makes-your-personalized-soundtrack-of-the-year/#ftag=CAD590a51e)
  - [On December 1, Google will start deleting personal Google accounts that have been inactive for at least two years; once deleted, no data can be recovered &lpar;Dalvin Brown/Wall Street Journal&rpar;](http://www.techmeme.com/231130/p26#a231130p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

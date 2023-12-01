@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ may bundle with Paramount+ to cut subscriber losses](https://appleinsider.com/articles/23/12/01/apple-tv-may-bundle-paramount-to-cut-subscriber-losses?utm_medium=rss)
  - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)
+ - [Bluetti EP900 Home Battery Backup Review: A Powerful Home Backup You Can Install Yourself     - CNET](https://www.cnet.com/home/energy-and-utilities/bluetti-ep900-home-battery-backup-review-a-powerful-home-backup-you-can-install-yourself/#ftag=CAD590a51e)
  - [Sources: Apple and Paramount have talked about offering a bundle of Apple TV+ and Paramount+ that would cost less than subscribing to both services separately &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231201/p7#a231201p7)
- - [Dr. Nergis Mavalvala Detected the First Gravitational Wave. Her Work Doesn’t Stop There](https://www.wired.com/story/women-in-science-nergis-mavalvala/)
- - [The Race to Find What’s Making America’s Dogs Sick](https://www.wired.com/story/mystery-dog-illness-bacteria-america/)
- - [How Dr. Clara Nellist Collides Art and Science](https://www.wired.com/story/women-in-science-clara-nellist/)<!-- TECH:END -->
+ - [December Streaming Goes Beyond Christmas Movies, So Don&#39;t Cancel These Services     - CNET](https://www.cnet.com/tech/services-and-software/december-streaming-goes-beyond-christmas-movies-so-keep-these-5-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

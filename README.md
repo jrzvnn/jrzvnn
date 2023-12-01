@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dedicated to her fans](http://9gag.com/gag/aGEQndZ)
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 💣 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 👉 [Muhammad, who was released in the hostage deal, tearfully told the Arab media how the guards beat him and broke his arms - but he forgot that there was documentation showing that he left the Israeli prison safe and sound](http://9gag.com/gag/a8qg67Z)<!-- MEMES:END -->
+ - 😝 [Coming Soon...](http://9gag.com/gag/aOxWPj3)
+ - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
+ - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
 
 ---
 

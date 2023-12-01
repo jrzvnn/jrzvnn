@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Apple&#39;s chip division, including interviews with its head Johny Srouji and Apple&#39;s hardware engineering chief John Ternus &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/231201/p13#a231201p13)
+ - [Amazon’s redesigned Alexa app makes smart home controls easier to use](https://www.theverge.com/2023/12/1/23983920/amazon-alexa-new-app-ios-android-release-date)
  - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
  - [How Microsoft forged a partnership with OpenAI, was blindsided by the OpenAI board firing Sam Altman, and managed to get Altman reinstated as CEO &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/231201/p12#a231201p12)
- - [Telegram announces new features related to channels, including better discovery of similar channels, emoji customization for reactions, and stats for stories &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231201/p11#a231201p11)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Suicide Squad Isekai looks like a magical Elseworlds adventure in its new trailer](https://www.theverge.com/23984037/suicide-squad-isekai-trailer-anime-dc-comics)<!-- TECH:END -->
+ - [Telegram announces new features related to channels, including better discovery of similar channels, emoji customization for reactions, and stats for stories &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231201/p11#a231201p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

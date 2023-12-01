@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
+ - 😝 [NCAA Reevaluates Medal Distribution, Acknowledges Mistake And Will Transfer Medals from Lia Thomas to Riley Gaines](http://9gag.com/gag/abv8x2v)
+ - 💣 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
- - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
- - 😝 [I was 8 years old.. miss the times..](http://9gag.com/gag/aPgqeyP)
- - 👉 [I like you, Ruth](http://9gag.com/gag/aZDYEoW)<!-- MEMES:END -->
+ - 👉 [Close call! Pig almost dies after falling head first into a barrel.](http://9gag.com/gag/amAZWK6)<!-- MEMES:END -->
 
 ---
 

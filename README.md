@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy slashes M2 MacBook Air prices to as low as $899 today only](https://appleinsider.com/articles/23/12/01/best-buy-slashes-m2-macbook-air-prices-to-as-low-as-899-today-only?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Amazon signs a SpaceX contract for three Falcon 9 rocket launches, set to begin in mid-2025, to help put its Project Kuiper satellite constellation into orbit &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p22#a231201p22)
- - [Gmail had two outages this week that delayed emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)
- - [Phil Spencer says Microsoft has &quot;no plans to bring Game Pass to PlayStation or Nintendo&quot; after Xbox CFO Tim Stuart said Microsoft wants to target &quot;every screen&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231201/p21#a231201p21)<!-- TECH:END -->
+ - [Gmail had two outages this week that delayed emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

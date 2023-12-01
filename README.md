@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
- - 😝 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 😝 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
  - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
  - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
- - 👉 [Wow](http://9gag.com/gag/aqeExNv)<!-- MEMES:END -->
+ - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
 
 ---
 

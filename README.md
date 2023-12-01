@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 💣 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
- - 😝 [Indiana Souf](http://9gag.com/gag/a6qRng9)
- - 👉 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)<!-- MEMES:END -->
+ - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 💣 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)
+ - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
+ - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
- - 💣 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
+ - 💣 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [Behind the scene](http://9gag.com/gag/aQEjZxe)<!-- MEMES:END -->
 
 ---
 

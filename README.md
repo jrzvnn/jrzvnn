@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Suicide Squad Isekai looks like a magical Elseworlds adventure in its new trailer](https://www.theverge.com/23984037/suicide-squad-isekai-trailer-anime-dc-comics)
+ - [The Cybertruck Must Be Huge—or It Will Dig Tesla’s Grave](https://www.wired.com/story/tesla-cybertruck-success-failure/)
  - [Daily deals Dec. 1: $1,700 off M1 Max MacBook Pro, 4-pack AirTags $79, $210 off Xbox Series X Diablo IV Bundle, more](https://appleinsider.com/articles/23/12/01/daily-deals-dec-1-1700-off-m1-max-macbook-pro-4-pack-airtags-79-210-off-xbox-series-x-diablo-iv-bundle-more?utm_medium=rss)
- - [D.C. police suggest using AirTags to thwart thefts of $1000 jackets](https://appleinsider.com/articles/23/12/01/dc-police-suggest-using-airtags-to-thwart-thefts-of-1000-jackets?utm_medium=rss)
- - [Saudi Arabia’s plan to become the crown prince of gaming](https://www.theverge.com/2023/12/1/23948992/saudi-arabia-gaming-investment)
- - [Meta is expanding child safety measures as government and press reports mount](https://www.theverge.com/2023/12/1/23983955/meta-child-safety-sexual-abuse-explicit-content-eu-senate)
- - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [D.C. police suggest using AirTags to thwart thefts of $1000 jackets](https://appleinsider.com/articles/23/12/01/dc-police-suggest-using-airtags-to-thwart-thefts-of-1000-jackets?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

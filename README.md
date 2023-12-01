@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon signs a contract with SpaceX for three launches of Falcon 9 rocket to help launch its Project Kuiper satellite constellation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p22#a231201p22)
+ - [Gmail had two outages this week that delayed emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)
  - [Phil Spencer says Microsoft has &quot;no plans to bring Game Pass to PlayStation or Nintendo&quot; after Xbox CFO Tim Stuart said Microsoft wants to target &quot;every screen&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231201/p21#a231201p21)
  - [Apple Music to host event honoring Taylor Swift as its 2023 Artist of the Year](https://appleinsider.com/articles/23/12/01/apple-music-to-host-event-honoring-taylor-swift-as-its-2023-artist-of-the-year?utm_medium=rss)
- - [When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two](https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [A councilman for the Brazilian city of Porto Alegre reveals that a resolution that the city council approved unanimously in October 2023 was written by ChatGPT &lpar;Associated Press&rpar;](http://www.techmeme.com/231201/p20#a231201p20)<!-- TECH:END -->
+ - [When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two](https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

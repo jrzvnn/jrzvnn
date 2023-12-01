@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
- - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 💣 [Danish people going through a normal conversation](http://9gag.com/gag/a8qgmdp)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 👉 [Mind your business?](http://9gag.com/gag/aOxWZLR)<!-- MEMES:END -->
+ - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 😝 [Kid is living the dream.](http://9gag.com/gag/aGEQAxX)
+ - 💣 [NCAA Reevaluates Medal Distribution, Acknowledges Mistake And Will Transfer Medals from Lia Thomas to Riley Gaines](http://9gag.com/gag/abv8x2v)
+ - 😝 [Another groaner.](http://9gag.com/gag/abv8WMr)
+ - 👉 [You?, you?, you?](http://9gag.com/gag/a7qx9oe)<!-- MEMES:END -->
 
 ---
 

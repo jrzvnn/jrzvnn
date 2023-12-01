@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)
- - 😝 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 💣 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
  - 😝 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)
- - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 💣 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 😝 [Indiana Souf](http://9gag.com/gag/a6qRng9)
+ - 👉 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)<!-- MEMES:END -->
 
 ---
 

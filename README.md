@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great success](http://9gag.com/gag/amAZWyy)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 💣 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
- - 😝 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
- - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
+ - 😝 [Finger licking good ribs](http://9gag.com/gag/abv811B)
+ - 😝 [Wow](http://9gag.com/gag/aqeExNv)
+ - 💣 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 😝 [Best part? its free](http://9gag.com/gag/a8qg2nQ)
+ - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
 
 ---
 

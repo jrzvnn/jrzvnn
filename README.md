@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 1: $1,700 off M1 Max MacBook Pro, 4-pack AirTags $79, $210 off Xbox Series X Diablo IV Bundle, more](https://appleinsider.com/articles/23/12/01/daily-deals-dec-1-1700-off-m1-max-macbook-pro-4-pack-airtags-79-210-off-xbox-series-x-diablo-iv-bundle-more?utm_medium=rss)
+ - [D.C. police suggest using AirTags to thwart thefts of $1000 jackets](https://appleinsider.com/articles/23/12/01/dc-police-suggest-using-airtags-to-thwart-thefts-of-1000-jackets?utm_medium=rss)
+ - [Saudi Arabia’s plan to become the crown prince of gaming](https://www.theverge.com/2023/12/1/23948992/saudi-arabia-gaming-investment)
  - [Meta is expanding child safety measures as government and press reports mount](https://www.theverge.com/2023/12/1/23983955/meta-child-safety-sexual-abuse-explicit-content-eu-senate)
- - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
- - [Apple shows off the lean, efficient processor lab behind the M3](https://appleinsider.com/articles/23/12/01/apple-shows-off-the-lean-efficient-processor-lab-behind-the-m3?utm_medium=rss)
- - [EU sends its third request for information to Meta under the DSA, seeking more details about its response to child safety concerns, including sharing of SG-CSAM &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231201/p10#a231201p10)
- - [The Xbox Series X is now just $349](https://www.theverge.com/2023/12/1/23982521/xbox-series-x-diablo-apple-airtag-asus-rog-ally-deal-sale)<!-- TECH:END -->
+ - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

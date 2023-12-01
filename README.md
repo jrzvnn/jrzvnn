@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Elon Musk\u2019s 1 Million Dollar question](http://9gag.com/gag/agoe4Bw)
+ - 😝 [Causality of life](http://9gag.com/gag/a5XYznO)
+ - 💣 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)
  - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 💣 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)
- - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
+ - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
 
 ---
 

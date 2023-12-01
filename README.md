@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [George Santos Was All Hot Air](https://www.wired.com/story/george-santos-expelled-hot-air/)
  - [Apple&#39;s highlights how its new tool helps disabled users communicate with Personal Voice](https://appleinsider.com/articles/23/11/30/apples-new-disability-tool-helps-users-with-disabilities-communicate-with-their-personal-voice?utm_medium=rss)
  - [News outlets turning to Reddit amid X&#39;s decline face a dilemma over which subreddit to choose; Business Insider faces criticism for posting in a snark subreddit &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231201/p15#a231201p15)
  - [Dungeons &amp; Dragons Is a Household Name Again](https://www.wired.com/2023/12/geeks-guide-dnd-household-name/)
- - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
- - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

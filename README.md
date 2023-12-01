@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Amazon signs a contract with SpaceX for three launches of Falcon 9 rocket to help launch its Project Kuiper satellite constellation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p22#a231201p22)
+ - [Amazon signs a SpaceX contract for three Falcon 9 rocket launches, set to begin in mid-2025, to help put its Project Kuiper satellite constellation into orbit &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p22#a231201p22)
  - [Gmail had two outages this week that delayed emails](https://www.theverge.com/2023/11/30/23982915/gmail-outage-issues-delaying-emails)
- - [Phil Spencer says Microsoft has &quot;no plans to bring Game Pass to PlayStation or Nintendo&quot; after Xbox CFO Tim Stuart said Microsoft wants to target &quot;every screen&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231201/p21#a231201p21)
- - [Apple Music to host event honoring Taylor Swift as its 2023 Artist of the Year](https://appleinsider.com/articles/23/12/01/apple-music-to-host-event-honoring-taylor-swift-as-its-2023-artist-of-the-year?utm_medium=rss)<!-- TECH:END -->
+ - [Phil Spencer says Microsoft has &quot;no plans to bring Game Pass to PlayStation or Nintendo&quot; after Xbox CFO Tim Stuart said Microsoft wants to target &quot;every screen&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231201/p21#a231201p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doesn&#39;t look tired at all](http://9gag.com/gag/a9qGOdW)
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 💣 [The chosen one](http://9gag.com/gag/aYV01Rq)
- - 😝 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 👉 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)<!-- MEMES:END -->
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 👉 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)<!-- MEMES:END -->
 
 ---
 

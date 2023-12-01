@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elon Musk\u2019s 1 Million Dollar question](http://9gag.com/gag/agoe4Bw)
- - 😝 [Causality of life](http://9gag.com/gag/a5XYznO)
- - 💣 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)
- - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 😝 [Season 5 was peak!](http://9gag.com/gag/anzoEO5)
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 💣 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 👉 [There are legends that to this day no one has ever seen the girl.](http://9gag.com/gag/aBdeLED)<!-- MEMES:END -->
 
 ---
 

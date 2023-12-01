@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 leaks suggest a titanium build, flattened screen, and more](https://www.theverge.com/2023/12/1/23984653/samsung-galaxy-s24-ultra-plus-leaks-rumors-snapdragon-ai)
  - [In firing Altman, OpenAI’s board wanted to keep the element of surprise](https://www.theverge.com/2023/12/1/23984818/openai-microsoft-altman-nadella-firing-newyorker)
  - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)
- - [An in-depth look at China&#39;s efforts to help Huawei build a self-sufficient chip supply chain via a network of enterprises backed by Shenzhen&#39;s investment fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p23#a231201p23)
- - [SpaceX will take some Amazon satellites to space](https://www.theverge.com/2023/12/1/23984684/spacex-amazon-project-kuiper-satellites-space)
- - [Best Buy slashes M2 MacBook Air prices to as low as $899 today only](https://appleinsider.com/articles/23/12/01/best-buy-slashes-m2-macbook-air-prices-to-as-low-as-899-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla Cybertruck Deliveries Begin: Does the Edgy EV Live Up to the Hype?     - CNET](https://www.cnet.com/roadshow/news/tesla-begins-delivering-cybertrucks-to-customers-edgy-ev-now-starts-at-60990/#ftag=CAD590a51e)
+ - [An in-depth look at China&#39;s efforts to help Huawei build a self-sufficient chip supply chain via a network of enterprises backed by Shenzhen&#39;s investment fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p23#a231201p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

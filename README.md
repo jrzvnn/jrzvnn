@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X says it will accelerate plans to attract ad spending by SMBs, including outsourcing some ad sales to third parties, such as US marketing startup JumpCrew &lpar;Financial Times&rpar;](http://www.techmeme.com/231201/p9#a231201p9)
- - [Today&#39;s Best CD Rates: Dec. 1, 2023 -- APYs Dropped in November. What’s Next?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-1-2023/#ftag=CAD590a51e)
- - [This StackSocial Deal Slashes $249 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/this-stacksocial-deal-slashes-249-off-a-lifetime-rosetta-stone-subscription/#ftag=CAD590a51e)
- - [America’s Far Right Is Calling for Civil War in Ireland](https://www.wired.com/story/far-right-calling-for-ireland-civil-war/)
- - [You Can Choose Your Electricity Provider in These States With Deregulated Markets     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple shows off the lean, efficient processor lab behind the M3](https://appleinsider.com/articles/23/12/01/apple-shows-off-the-lean-efficient-processor-lab-behind-the-m3?utm_medium=rss)
+ - [EU sends its third request for information to Meta under the DSA, seeking more details about its response to child safety concerns, including sharing of SG-CSAM &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231201/p10#a231201p10)
+ - [The Xbox Series X is just $349 with Diablo IV included](https://www.theverge.com/2023/12/1/23982521/xbox-series-x-diablo-apple-airtag-asus-rog-ally-deal-sale)
+ - [8 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [X says it will accelerate plans to attract ad spending by SMBs, including outsourcing some ad sales to third parties, such as US marketing startup JumpCrew &lpar;Financial Times&rpar;](http://www.techmeme.com/231201/p9#a231201p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

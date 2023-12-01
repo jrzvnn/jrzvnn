@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
  - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)
  - [Memo: OpenAI says it is delaying the launch of its GPT store until early 2024 after &quot;a few unexpected things have been keeping us busy&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231201/p17#a231201p17)
  - [France&#39;s prime minister recommends government staffers uninstall foreign chat apps like Signal and WhatsApp by December 8, in favor of French chat app Olvid &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231201/p16#a231201p16)
- - [George Santos Was All Hot Air](https://www.wired.com/story/george-santos-expelled-hot-air/)
- - [A Guide to Going Solar in New England     - CNET](https://www.cnet.com/home/energy-and-utilities/new-england-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [George Santos Was All Hot Air](https://www.wired.com/story/george-santos-expelled-hot-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

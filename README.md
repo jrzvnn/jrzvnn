@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phil Spencer says Microsoft has &quot;no plans to bring Game Pass to PlayStation or Nintendo&quot; after Xbox CFO Tim Stuart said Microsoft wants to target &quot;every screen&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231201/p21#a231201p21)
+ - [Apple Music to host event honoring Taylor Swift as its 2023 Artist of the Year](https://appleinsider.com/articles/23/12/01/apple-music-to-host-event-honoring-taylor-swift-as-its-2023-artist-of-the-year?utm_medium=rss)
+ - [When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two](https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/)
  - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [A councilman for the Brazilian city of Porto Alegre reveals that a resolution that the city council approved unanimously in October 2023 was written by ChatGPT &lpar;Associated Press&rpar;](http://www.techmeme.com/231201/p20#a231201p20)
- - [Amazon Fire TVs have found a new and annoying way to slap you in the face with ads](https://www.theverge.com/2023/12/1/23984444/amazon-fire-tv-autoplay-ads-on-startup)
- - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
- - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)<!-- TECH:END -->
+ - [A councilman for the Brazilian city of Porto Alegre reveals that a resolution that the city council approved unanimously in October 2023 was written by ChatGPT &lpar;Associated Press&rpar;](http://www.techmeme.com/231201/p20#a231201p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indiana Souf](http://9gag.com/gag/a6qRng9)
- - 😝 [Wow](http://9gag.com/gag/aqeExNv)
- - 💣 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 👉 [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)<!-- MEMES:END -->
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 💣 [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)
+ - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
+ - 👉 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)<!-- MEMES:END -->
 
 ---
 

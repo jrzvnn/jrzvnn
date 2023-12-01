@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is expanding child safety measures as government and press reports mount](https://www.theverge.com/2023/12/1/23983955/meta-child-safety-sexual-abuse-explicit-content-eu-senate)
  - [Peter Capaldi&#39;s &#39;Criminal Record&#39; gets first trailer, premieres in early 2024](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
  - [Apple shows off the lean, efficient processor lab behind the M3](https://appleinsider.com/articles/23/12/01/apple-shows-off-the-lean-efficient-processor-lab-behind-the-m3?utm_medium=rss)
  - [EU sends its third request for information to Meta under the DSA, seeking more details about its response to child safety concerns, including sharing of SG-CSAM &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231201/p10#a231201p10)
- - [The Xbox Series X is now just $349](https://www.theverge.com/2023/12/1/23982521/xbox-series-x-diablo-apple-airtag-asus-rog-ally-deal-sale)
- - [8 Best Indoor Security Cameras &lpar;2023&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [The Xbox Series X is now just $349](https://www.theverge.com/2023/12/1/23982521/xbox-series-x-diablo-apple-airtag-asus-rog-ally-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

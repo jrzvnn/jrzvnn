@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UiPath stock jumps 25%+ after reporting Q3 revenue up 24% YoY to $325.9M vs. $315.6M est., with ARR up 24% to $1.38B, and raising its outlook for Q4 and FY 2024 &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231201/p14#a231201p14)
+ - [Analogue is shipping its TurboGrafx console and restocking Pockets](https://www.theverge.com/2023/12/1/23984197/analogue-turbografx-console-pocket-restock)
+ - [How the Tesla Cybertruck has changed since 2019](https://www.theverge.com/23984025/tesla-cybertruck-specs-price-change-2019-vs-2023)
  - [A profile of Apple&#39;s chip division, including interviews with its head Johny Srouji and Apple&#39;s hardware engineering chief John Ternus &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/231201/p13#a231201p13)
- - [Amazon’s redesigned Alexa app makes smart home controls easier to use](https://www.theverge.com/2023/12/1/23983920/amazon-alexa-new-app-ios-android-release-date)
- - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [How Microsoft forged a partnership with OpenAI, was blindsided by the OpenAI board firing Sam Altman, and managed to get Altman reinstated as CEO &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/231201/p12#a231201p12)
- - [Telegram announces new features related to channels, including better discovery of similar channels, emoji customization for reactions, and stats for stories &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231201/p11#a231201p11)<!-- TECH:END -->
+ - [Amazon’s redesigned Alexa app makes smart home controls easier to use](https://www.theverge.com/2023/12/1/23983920/amazon-alexa-new-app-ios-android-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

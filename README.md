@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finger licking good ribs](http://9gag.com/gag/abv811B)
- - 😝 [Wow](http://9gag.com/gag/aqeExNv)
- - 💣 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 😝 [Best part? its free](http://9gag.com/gag/a8qg2nQ)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 😝 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
+ - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
+ - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 😝 [Muhammad, who was released in the hostage deal, tearfully told the Arab media how the guards beat him and broke his arms - but he forgot that there was documentation showing that he left the Israeli prison safe and sound](http://9gag.com/gag/a8qg67Z)
+ - 👉 [Dedicated to her fans](http://9gag.com/gag/aGEQndZ)<!-- MEMES:END -->
 
 ---
 

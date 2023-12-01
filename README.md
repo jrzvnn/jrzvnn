@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Causality of life](http://9gag.com/gag/a5XYznO)
- - 😝 [The only relevant meme-maker out there.](http://9gag.com/gag/aeQB2oW)
- - 💣 [....and in other news.....](http://9gag.com/gag/aGEQ2b5)
- - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 💣 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [This M3 Max MacBook Pro 14-inch with 96GB RAM is down to $3,749, plus $50 off AppleCare](https://appleinsider.com/articles/23/12/01/this-m3-max-macbook-pro-14-inch-with-96gb-ram-is-down-to-3749?utm_medium=rss)
- - [UiPath stock jumps 25%+ after reporting Q3 revenue up 24% YoY to $325.9M vs. $315.6M est., with ARR up 24% to $1.38B, and raising its outlook for Q4 and FY 2024 &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231201/p14#a231201p14)
- - [Analogue is shipping its TurboGrafx console and restocking Pockets](https://www.theverge.com/2023/12/1/23984197/analogue-turbografx-console-pocket-restock)
- - [How the Tesla Cybertruck has changed since 2019](https://www.theverge.com/23984025/tesla-cybertruck-specs-price-change-2019-vs-2023)
- - [A profile of Apple&#39;s chip division, including interviews with its head Johny Srouji and Apple&#39;s hardware engineering chief John Ternus &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/231201/p13#a231201p13)<!-- TECH:END -->
+ - [Best Internet Providers in Sioux Falls, South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sioux-falls-sd/#ftag=CAD590a51e)
+ - [The Best Keurig Deals: Big Savings on K-Cafe, K-Mini, K-Elite and More     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
+ - [Score on Flights, Hotels and More With the OneAir Elite Plan for Just $80     - CNET](https://www.cnet.com/deals/save-on-flights-hotels-and-more-with-the-oneair-elite-plan-for-just-80/#ftag=CAD590a51e)
+ - [UiPath stock jumps 25%+ after reporting Q3 revenue up 24% YoY to $325.9M vs. $315.6M est., with ARR up 24% to $1.38B, and raising its outlook for Q4 and FY 2024 &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231201/p14#a231201p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

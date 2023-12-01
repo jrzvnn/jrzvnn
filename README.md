@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Fire TVs have found a new and annoying way to slap you in the face with ads](https://www.theverge.com/2023/12/1/23984444/amazon-fire-tv-autoplay-ads-on-startup)
  - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
  - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
  - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)
- - [Memo: OpenAI says it is delaying the launch of its GPT store until early 2024 after &quot;a few unexpected things have been keeping us busy&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231201/p17#a231201p17)
- - [France&#39;s prime minister recommends government staffers uninstall foreign chat apps like Signal and WhatsApp by December 8, in favor of French chat app Olvid &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231201/p16#a231201p16)<!-- TECH:END -->
+ - [Memo: OpenAI says it is delaying the launch of its GPT store until early 2024 after &quot;a few unexpected things have been keeping us busy&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/231201/p17#a231201p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

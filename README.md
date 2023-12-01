@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Chief AI Scientist Yann LeCun says &quot;there is really no commercial downside&quot; to sharing Meta&#39;s AI tech openly, even as many peers take the opposite approach &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231130/p49#a231130p49)
  - [Nenotoh Switch Controller review: Impressive controller at an excellent price](https://appleinsider.com/articles/23/12/01/nenotoh-switch-controller-review-impressive-controller-at-an-excellent-price?utm_medium=rss)
  - [Internal documentation: Apple plans to include the Action button on the entire iPhone 16 range, including a force sensor to detect changes in pressure &lpar;Marko Zivkovic/MacRumors&rpar;](http://www.techmeme.com/231130/p48#a231130p48)
  - [Bartesian Professional Cocktail Machine     - CNET](https://www.cnet.com/news/bartesian-professional-cocktail-machine-dpnl/#ftag=CAD590a51e)
- - [Google asks the UK CMA to take action against Microsoft, claiming the company&#39;s licensing practices unfairly discouraged customers from using rivals&#39; services &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231130/p47#a231130p47)
- - [Repeat rumor claims iPhone 16 models to have Action button with force sensor](https://appleinsider.com/articles/23/12/01/repeat-rumor-claims-iphone-16-models-to-have-action-button-with-force-sensor?utm_medium=rss)<!-- TECH:END -->
+ - [Google asks the UK CMA to take action against Microsoft, claiming the company&#39;s licensing practices unfairly discouraged customers from using rivals&#39; services &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231130/p47#a231130p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

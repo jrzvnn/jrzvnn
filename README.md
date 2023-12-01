@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [Good dad technique.](http://9gag.com/gag/a6qR2xN)
- - 💣 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 💣 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
 
 ---
 

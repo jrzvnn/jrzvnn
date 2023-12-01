@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [The opening credits of this movie just blew my mind. It was chaos in the streets, almost like a made up movie. But it wasnt, it was all real clips of the last 10 years! We have a serious f*king problem lol we are upon collapse. Movie is Unhinged.](http://9gag.com/gag/az23KMm)
- - 💣 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 😝 [Wow](http://9gag.com/gag/aqeExNv)
- - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
+ - 😝 [NCAA Reevaluates Medal Distribution, Acknowledges Mistake And Will Transfer Medals from Lia Thomas to Riley Gaines](http://9gag.com/gag/abv8x2v)
+ - 😝 [When will we finally get facts about the situation and not propaganda? Why do they even use AI?!](http://9gag.com/gag/aPgqXwq)
+ - 💣 [Another groaner.](http://9gag.com/gag/abv8WMr)
+ - 😝 [You?, you?, you?](http://9gag.com/gag/a7qx9oe)
+ - 👉 [Causality of life](http://9gag.com/gag/a5XYznO)<!-- MEMES:END -->
 
 ---
 

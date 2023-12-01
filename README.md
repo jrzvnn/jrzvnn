@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love thy neighbors...](http://9gag.com/gag/a9qG2w1)
- - 😝 [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
- - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Finger licking good ribs](http://9gag.com/gag/abv811B)
+ - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
+ - 😝 [2X Combo in 30 seconds](http://9gag.com/gag/a8qg6Vd)
+ - 💣 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
  - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
 
 ---

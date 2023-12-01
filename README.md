@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
+ - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)
+ - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)
  - [Apple TV+ may bundle with Paramount+ to cut subscriber losses](https://appleinsider.com/articles/23/12/01/apple-tv-may-bundle-paramount-to-cut-subscriber-losses?utm_medium=rss)
- - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)
- - [Bluetti EP900 Home Battery Backup Review: A Powerful Home Backup You Can Install Yourself     - CNET](https://www.cnet.com/home/energy-and-utilities/bluetti-ep900-home-battery-backup-review-a-powerful-home-backup-you-can-install-yourself/#ftag=CAD590a51e)
- - [Sources: Apple and Paramount have talked about offering a bundle of Apple TV+ and Paramount+ that would cost less than subscribing to both services separately &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231201/p7#a231201p7)
- - [December Streaming Goes Beyond Christmas Movies, So Don&#39;t Cancel These Services     - CNET](https://www.cnet.com/tech/services-and-software/december-streaming-goes-beyond-christmas-movies-so-keep-these-5-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

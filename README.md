@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
- - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)
- - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)
- - [Apple TV+ may bundle with Paramount+ to cut subscriber losses](https://appleinsider.com/articles/23/12/01/apple-tv-may-bundle-paramount-to-cut-subscriber-losses?utm_medium=rss)
- - [UK has a rash of iPhone 15 Pro Max orders swapped for fakes during shipment](https://appleinsider.com/articles/23/12/01/uk-has-a-rash-of-iphone-15-pro-max-orders-swapped-for-fakes-during-shipment?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Journal App for the iPhone Truly Surprised Me After a Month     - CNET](https://www.cnet.com/tech/mobile/apples-journal-app-for-the-iphone-truly-surprised-me-after-a-month/#ftag=CAD590a51e)
+ - [How the Apple Watch X Could Make Apple&#39;s Smartwatch Even Better     - CNET](https://www.cnet.com/tech/mobile/how-the-apple-watch-x-could-make-apples-smartwatch-even-better/#ftag=CAD590a51e)
+ - [HP Dragonfly G4 Review: Elegant, Long-Running Ultraportable for Traveling Execs     - CNET](https://www.cnet.com/tech/computing/hp-dragonfly-g4-review-elegant-long-running-ultraportable-for-traveling-execs/#ftag=CAD590a51e)
+ - [What I Learned Using Apple&#39;s Journal App video     - CNET](https://www.cnet.com/videos/what-i-learned-using-apples-journal-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

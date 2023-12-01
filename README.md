@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s and YouTube&#39;s use of celebrities&#39; likenesses for AI chatbots and songs raises tough questions about identity, IP, safeguards, and licensing &lpar;Alex Weprin/Hollywood Reporter&rpar;](http://www.techmeme.com/231201/p2#a231201p2)
  - [Google Will Start Deleting Old Accounts Today. Here&#39;s How to Save Yours     - CNET](https://www.cnet.com/tech/services-and-software/google-will-start-deleting-old-accounts-today-heres-how-to-save-yours/#ftag=CAD590a51e)
  - [An interview with Yann LeCun and Joelle Pineau ahead of the 10th anniversary of Meta&#39;s Fundamental AI Research lab on ChatGPT, AI in the metaverse, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/231201/p1#a231201p1)
  - [Anduril’s New Drone Killer Is Locked on to AI-Powered Warfare](https://www.wired.com/story/anduril-roadrunner-drone/)
- - [Sources: Tiger Global cut valuations of its portfolio companies in September 2023 including Superhuman by 45%, DuckDuckGo 72%, Yuga Labs 69%, and OpenSea 94% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p50#a231130p50)
- - [Meta Chief AI Scientist Yann LeCun says &quot;there is really no commercial downside&quot; to sharing Meta&#39;s AI tech openly, even as many peers take the opposite approach &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231130/p49#a231130p49)<!-- TECH:END -->
+ - [Sources: Tiger Global cut valuations of its portfolio companies in September 2023 including Superhuman by 45%, DuckDuckGo 72%, Yuga Labs 69%, and OpenSea 94% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231130/p50#a231130p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

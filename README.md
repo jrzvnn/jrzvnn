@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Broadcom plans to lay off 1,267 VMware employees in California starting on January 26 and about 600 workers in Washington, Colorado, and Georgia &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/231130/p45#a231130p45)
- - [Furiosa’s first trailer teases the origins of one of the Mad Max saga’s best characters](https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer)
- - [&#39;Criminal Record&#39; gets first trailer, premieres January 10 on Apple TV+](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
- - [Sources: CFIUS forced Aramco Ventures&#39; Prosperity7 fund to sell its stake in AI chip startup Rain AI in the past year; Prosperity7 led Rain&#39;s 2022 $25M raise &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231130/p44#a231130p44)
- - [Flu, COVID or Allergies: Can You Tell Which One You Have?     - CNET](https://www.cnet.com/health/medical/flu-covid-or-allergies-can-you-tell-which-one-you-have/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google asks the UK CMA to take action against Microsoft, claiming the company&#39;s licensing practices unfairly discouraged customers from using rivals&#39; services &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231130/p47#a231130p47)
+ - [Repeat rumor claims iPhone 16 models to have Action button with force sensor](https://appleinsider.com/articles/23/12/01/repeat-rumor-claims-iphone-16-models-to-have-action-button-with-force-sensor?utm_medium=rss)
+ - [On-chain data and sources: Polygon gave DraftKings millions of MATIC to run a validator; the validator underperformed, and DraftKings was kicked off the network &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231130/p46#a231130p46)
+ - [Best Air Purifier Deals: Savings on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
+ - [Save Big on Luggage for Holiday Travel and Beyond     - CNET](https://www.cnet.com/deals/save-big-on-luggage-for-holiday-travel-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

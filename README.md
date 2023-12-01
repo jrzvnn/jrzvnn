@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram opens up voice transcription to all users in latest update](https://www.theverge.com/2023/12/1/23983851/telegram-update-voice-transcription-similar-channels-feature)
  - [Phil Spencer says Microsoft is talking to partners to help launch a mobile gaming store to take on Apple&#39;s and Google&#39;s app stores, but offered no launch date &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p5#a231201p5)
  - [Apple adds to World AIDS Day donations with game proceeds](https://appleinsider.com/articles/23/12/01/apple-adds-to-world-aids-day-donations-with-game-proceeds?utm_medium=rss)
  - [A bride to be discovers a reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [Tests: Meta&#39;s recommendation systems promote pedophile content on Instagram and Facebook Groups, despite Meta announcing a child-safety task force in June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231201/p4#a231201p4)
- - [Coinbase reports receiving 13,079 law enforcement requests between October 1, 2022 and September 30, 2023, up 6% YoY and 3x since 2020; ~50% were from the US &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231201/p3#a231201p3)<!-- TECH:END -->
+ - [Tests: Meta&#39;s recommendation systems promote pedophile content on Instagram and Facebook Groups, despite Meta announcing a child-safety task force in June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231201/p4#a231201p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

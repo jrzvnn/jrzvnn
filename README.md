@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
- - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
- - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
- - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
+ - 😝 [Love thy neighbors...](http://9gag.com/gag/a9qG2w1)
+ - 😝 [Ready the ships! + orcas](http://9gag.com/gag/aOxW4BM)
+ - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 😝 [Finger licking good ribs](http://9gag.com/gag/abv811B)
+ - 👉 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)<!-- MEMES:END -->
 
 ---
 

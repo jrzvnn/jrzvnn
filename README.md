@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
  - [A councilman for the Brazilian city of Porto Alegre reveals that a resolution that the city council approved unanimously in October 2023 was written by ChatGPT &lpar;Associated Press&rpar;](http://www.techmeme.com/231201/p20#a231201p20)
  - [Amazon Fire TVs have found a new and annoying way to slap you in the face with ads](https://www.theverge.com/2023/12/1/23984444/amazon-fire-tv-autoplay-ads-on-startup)
  - [Google reaches a $27M settlement with employees who accused the company of unfair labor practices in a 2016 lawsuit following the termination of a Nest staffer &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231201/p19#a231201p19)
- - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)
- - [OpenAI’s GPT store delayed to next year](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt)<!-- TECH:END -->
+ - [Bluesky rolls out &quot;more advanced&quot; automated moderation tools, along with moderation lists, which let users mute or block many users at once, user lists, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231201/p18#a231201p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

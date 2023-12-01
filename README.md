@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Authentic’ Is 2023’s Word of the Year. You Read That Right](https://www.wired.com/authentc-word-of-the-year-artificial-intelligence-pop-culture-politics/)
+ - [How to Deter Thieves and Improve Your Smart Home Security](https://www.wired.com/story/smart-home-security-tips/)
+ - [The Year of ChatGPT and Living Generatively](https://www.wired.com/story/plaintext-chatgpt-year-of-living-generatively/)
  - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
- - [Apple&#39;s Journal App for the iPhone Truly Surprised Me After a Month     - CNET](https://www.cnet.com/tech/mobile/apples-journal-app-for-the-iphone-truly-surprised-me-after-a-month/#ftag=CAD590a51e)
- - [How the Apple Watch X Could Make Apple&#39;s Smartwatch Even Better     - CNET](https://www.cnet.com/tech/mobile/how-the-apple-watch-x-could-make-apples-smartwatch-even-better/#ftag=CAD590a51e)
- - [HP Dragonfly G4 Review: Elegant, Long-Running Ultraportable for Traveling Execs     - CNET](https://www.cnet.com/tech/computing/hp-dragonfly-g4-review-elegant-long-running-ultraportable-for-traveling-execs/#ftag=CAD590a51e)
- - [What I Learned Using Apple&#39;s Journal App video     - CNET](https://www.cnet.com/videos/what-i-learned-using-apples-journal-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Journal App for the iPhone Truly Surprised Me After a Month     - CNET](https://www.cnet.com/tech/mobile/apples-journal-app-for-the-iphone-truly-surprised-me-after-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

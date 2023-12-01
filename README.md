@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 😝 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 💣 [Season 5 was peak!](http://9gag.com/gag/anzoEO5)
- - 😝 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
- - 👉 [Behind the scene](http://9gag.com/gag/aQEjZxe)<!-- MEMES:END -->
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 😝 [Good dad technique.](http://9gag.com/gag/a6qR2xN)
+ - 💣 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 👉 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)<!-- MEMES:END -->
 
 ---
 

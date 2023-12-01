@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal documentation: Apple plans to include the Action button on the entire iPhone 16 range, including a force sensor to detect changes in pressure &lpar;Marko Zivkovic/MacRumors&rpar;](http://www.techmeme.com/231130/p48#a231130p48)
  - [Google asks the UK CMA to take action against Microsoft, claiming the company&#39;s licensing practices unfairly discouraged customers from using rivals&#39; services &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231130/p47#a231130p47)
  - [Repeat rumor claims iPhone 16 models to have Action button with force sensor](https://appleinsider.com/articles/23/12/01/repeat-rumor-claims-iphone-16-models-to-have-action-button-with-force-sensor?utm_medium=rss)
  - [On-chain data and sources: Polygon gave DraftKings millions of MATIC to run a validator; the validator underperformed, and DraftKings was kicked off the network &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231130/p46#a231130p46)
- - [Best Air Purifier Deals: Savings on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
- - [Save Big on Luggage for Holiday Travel and Beyond     - CNET](https://www.cnet.com/deals/save-big-on-luggage-for-holiday-travel-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Purifier Deals: Savings on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

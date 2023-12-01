@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: 23andMe says hackers accessed accounts of 0.1% of its customer base in the company&#39;s recent data breach; 23andMe reported 14M+ customers in May 2023 &lpar;TechCrunch&rpar;](http://www.techmeme.com/231201/p24#a231201p24)
  - [Samsung Galaxy S24 leaks suggest a titanium build, flattened screen, and more](https://www.theverge.com/2023/12/1/23984653/samsung-galaxy-s24-ultra-plus-leaks-rumors-snapdragon-ai)
+ - [Best Cheap TV Deals: Snag a New TV From Just $80     - CNET](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
  - [In firing Altman, OpenAI’s board wanted to keep the element of surprise](https://www.theverge.com/2023/12/1/23984818/openai-microsoft-altman-nadella-firing-newyorker)
- - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)
- - [Tesla Cybertruck Deliveries Begin: Does the Edgy EV Live Up to the Hype?     - CNET](https://www.cnet.com/roadshow/news/tesla-begins-delivering-cybertrucks-to-customers-edgy-ev-now-starts-at-60990/#ftag=CAD590a51e)
- - [An in-depth look at China&#39;s efforts to help Huawei build a self-sufficient chip supply chain via a network of enterprises backed by Shenzhen&#39;s investment fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/231201/p23#a231201p23)<!-- TECH:END -->
+ - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

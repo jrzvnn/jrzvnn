@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 😝 [Mind your business?](http://9gag.com/gag/aOxWZLR)
- - 💣 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 😝 [There are legends that to this day no one has ever seen the girl.](http://9gag.com/gag/aBdeLED)
  - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 👉 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)<!-- MEMES:END -->
+ - 💣 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 👉 [He will treat her like a queen](http://9gag.com/gag/a5XYBwV)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
+ - [How Microsoft forged a partnership with OpenAI, was blindsided by the OpenAI board firing Sam Altman, and managed to get Altman reinstated as CEO &lpar;Charles Duhigg/New Yorker&rpar;](http://www.techmeme.com/231201/p12#a231201p12)
  - [Telegram announces new features related to channels, including better discovery of similar channels, emoji customization for reactions, and stats for stories &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231201/p11#a231201p11)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Suicide Squad Isekai looks like a magical Elseworlds adventure in its new trailer](https://www.theverge.com/23984037/suicide-squad-isekai-trailer-anime-dc-comics)
- - [The Cybertruck Must Be Huge—or It Will Dig Tesla’s Grave](https://www.wired.com/story/tesla-cybertruck-success-failure/)
- - [Daily deals Dec. 1: $1,700 off M1 Max MacBook Pro, 4-pack AirTags $79, $210 off Xbox Series X Diablo IV Bundle, more](https://appleinsider.com/articles/23/12/01/daily-deals-dec-1-1700-off-m1-max-macbook-pro-4-pack-airtags-79-210-off-xbox-series-x-diablo-iv-bundle-more?utm_medium=rss)<!-- TECH:END -->
+ - [Suicide Squad Isekai looks like a magical Elseworlds adventure in its new trailer](https://www.theverge.com/23984037/suicide-squad-isekai-trailer-anime-dc-comics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh shiit here we go again....... &lpar;another epidemic is currently been taking place in China rn&rpar;](http://9gag.com/gag/aOxW2WD)
  - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
- - 👉 [A funny story tuching CC](http://9gag.com/gag/anzoOxn)<!-- MEMES:END -->
+ - 😝 [Disguise level - Mission Impossible](http://9gag.com/gag/aREpzG7)
+ - 💣 [All rational people are with you ireland](http://9gag.com/gag/aBdePAx)
+ - 😝 [I was 8 years old.. miss the times..](http://9gag.com/gag/aPgqeyP)
+ - 👉 [I like you, Ruth](http://9gag.com/gag/aZDYEoW)<!-- MEMES:END -->
 
 ---
 

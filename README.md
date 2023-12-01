@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district judge issues a preliminary injunction blocking Montana&#39;s first-of-its-kind state ban on TikTok from taking effect on January 1 &lpar;Reuters&rpar;](http://www.techmeme.com/231130/p42#a231130p42)
- - [Take up to $400 off popular Apple computers and find the perfect gift before the holidays](https://appleinsider.com/articles/23/11/30/take-up-to-400-off-popular-apple-computers-and-find-the-perfect-gift-before-the-holidays?utm_medium=rss)
- - [Tesla Begins Delivering Cybertrucks to Customers, Edgy EV Now Starts at $60,990     - CNET](https://www.cnet.com/roadshow/news/tesla-begins-delivering-cybertrucks-to-customers-edgy-ev-now-starts-at-60990/#ftag=CAD590a51e)
- - [Some marketing agencies say their brands don&#39;t plan to return to advertise on X, and others are advising brands to stop posting on X, after Elon Musk&#39;s comments &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p41#a231130p41)
- - [WhatsApp Will Let You Protect Chats With a Secret Code     - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-will-let-you-protect-chats-with-a-secret-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filings: Broadcom plans to lay off 1,267 VMware employees in California starting on January 26 and about 600 workers in Washington, Colorado, and Georgia &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/231130/p45#a231130p45)
+ - [Furiosa’s first trailer teases the origins of one of the Mad Max saga’s best characters](https://www.theverge.com/2023/11/30/23983452/furiosa-mad-max-trailer)
+ - [&#39;Criminal Record&#39; gets first trailer, premieres January 10 on Apple TV+](https://appleinsider.com/articles/23/12/01/criminal-record-gets-first-trailer-premieres-january-10-on-apple-tv?utm_medium=rss)
+ - [Sources: CFIUS forced Aramco Ventures&#39; Prosperity7 fund to sell its stake in AI chip startup Rain AI in the past year; Prosperity7 led Rain&#39;s 2022 $25M raise &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231130/p44#a231130p44)
+ - [Flu, COVID or Allergies: Can You Tell Which One You Have?     - CNET](https://www.cnet.com/health/medical/flu-covid-or-allergies-can-you-tell-which-one-you-have/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

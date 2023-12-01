@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RCS is coming in 2024 and iOS 17.2 Personal Voice is here on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/01/rcs-is-coming-in-2024-and-ios-172-personal-voice-is-here-on-the-appleinsider-podcast?utm_medium=rss)
  - [‘Authentic’ Is 2023’s Word of the Year. You Read That Right](https://www.wired.com/authentc-word-of-the-year-artificial-intelligence-pop-culture-politics/)
  - [How to Deter Thieves and Improve Your Smart Home Security](https://www.wired.com/story/smart-home-security-tips/)
  - [The Year of ChatGPT and Living Generatively](https://www.wired.com/story/plaintext-chatgpt-year-of-living-generatively/)
- - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
- - [Apple&#39;s Journal App for the iPhone Truly Surprised Me After a Month     - CNET](https://www.cnet.com/tech/mobile/apples-journal-app-for-the-iphone-truly-surprised-me-after-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

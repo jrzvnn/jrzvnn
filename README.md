@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 💣 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)<!-- MEMES:END -->
+ - 😝 [Doesn&#39;t look tired at all](http://9gag.com/gag/a9qGOdW)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 💣 [The chosen one](http://9gag.com/gag/aYV01Rq)
+ - 😝 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
+ - 👉 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)<!-- MEMES:END -->
 
 ---
 

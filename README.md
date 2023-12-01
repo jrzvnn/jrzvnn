@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming Soon...](http://9gag.com/gag/aOxWPj3)
+ - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
  - 😝 [Anthony Bourdain: \u201cWitness what Henry did in Cambodia and you will never understand why he\u2019s not sitting in the dock at The Hague next to\u00a0Milosevic.\u201d](http://9gag.com/gag/axorbNb)
  - 💣 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 👉 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)<!-- MEMES:END -->
+ - 😝 [I knew it would come to this sooner or later.](http://9gag.com/gag/a9qG5rm)
+ - 👉 [A 14-year old Swedish girl, who was raped by a Middle Eastern man, hanged the offender, with the help of her boyfriend and his brothers. The girl and her boyfriend were sentenced to 3.5 years, two brothers were sentenced to 4 years and one brother was sentenced to life.](http://9gag.com/gag/a7qxeez)<!-- MEMES:END -->
 
 ---
 

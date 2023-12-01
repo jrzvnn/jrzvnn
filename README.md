@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [X says it will accelerate plans to attract ad spending by SMBs, including outsourcing some ad sales to third parties, such as US marketing startup JumpCrew &lpar;Financial Times&rpar;](http://www.techmeme.com/231201/p9#a231201p9)
+ - [Today&#39;s Best CD Rates: Dec. 1, 2023 -- APYs Dropped in November. What’s Next?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-1-2023/#ftag=CAD590a51e)
+ - [This StackSocial Deal Slashes $249 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/this-stacksocial-deal-slashes-249-off-a-lifetime-rosetta-stone-subscription/#ftag=CAD590a51e)
  - [America’s Far Right Is Calling for Civil War in Ireland](https://www.wired.com/story/far-right-calling-for-ireland-civil-war/)
- - [RCS is coming in 2024 and iOS 17.2 Personal Voice is here on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/01/rcs-is-coming-in-2024-and-ios-172-personal-voice-is-here-on-the-appleinsider-podcast?utm_medium=rss)
- - [‘Authentic’ Is 2023’s Word of the Year. You Read That Right](https://www.wired.com/authentc-word-of-the-year-artificial-intelligence-pop-culture-politics/)
- - [How to Deter Thieves and Improve Your Smart Home Security](https://www.wired.com/story/smart-home-security-tips/)<!-- TECH:END -->
+ - [You Can Choose Your Electricity Provider in These States With Deregulated Markets     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

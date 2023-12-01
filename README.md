@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ireland right now. Theyre fed up with their protests against immigration not working.](http://9gag.com/gag/avQjeAO)
+ - 😝 [Yeah that\u2019s me. The dude behind camera &lpar;ugly af&rpar;. This was my lucky day. Can confirm she was right. We did it 3 times that day.](http://9gag.com/gag/aGEQMM0)
  - 😝 [The Terror of the Sky](http://9gag.com/gag/aXnO74g)
- - 💣 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
- - 😝 [Muhammad, who was released in the hostage deal, tearfully told the Arab media how the guards beat him and broke his arms - but he forgot that there was documentation showing that he left the Israeli prison safe and sound](http://9gag.com/gag/a8qg67Z)
- - 👉 [Dedicated to her fans](http://9gag.com/gag/aGEQndZ)<!-- MEMES:END -->
+ - 💣 [Elon Musk reacts to advertiser boycotts](http://9gag.com/gag/aoK7RD2)
+ - 😝 [I want the big tettened Asian mommy please.](http://9gag.com/gag/az23Kpb)
+ - 👉 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)<!-- MEMES:END -->
 
 ---
 

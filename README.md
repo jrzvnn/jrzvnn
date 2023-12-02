@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)
  - [How a California college is employing data collection tools to track students&#39; daily movements, including e-proctoring software and license plate readers &lpar;Tara Garc&amp;iacute;a Mathewson/The Markup&rpar;](http://www.techmeme.com/231202/p13#a231202p13)
+ - [Best Garmin Deals: Snag Discounted Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
  - [A look at Anthropic&#39;s governance structure: the company is a public benefit corporation with a separate, long-term benefit trust that will select most its board &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/231202/p12#a231202p12)
- - [Double Trouble: Navigating Flu Season&#39;s Surprising Companion – Pink Eye     - CNET](https://www.cnet.com/health/medical/double-trouble-heres-what-to-know-about-flu-season-and-pink-eye/#ftag=CAD590a51e)
- - [Fortnite’s Eminem concert teased the future of the game](https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5)
- - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)<!-- TECH:END -->
+ - [Double Trouble: Navigating Flu Season&#39;s Surprising Companion – Pink Eye     - CNET](https://www.cnet.com/health/medical/double-trouble-heres-what-to-know-about-flu-season-and-pink-eye/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

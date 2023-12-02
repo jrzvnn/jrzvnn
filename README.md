@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple promotes iPhone 15 Portrait features with &#39;Album Cover&#39; fight](https://appleinsider.com/articles/23/12/02/apple-promotes-iphone-15-portrait-features-with-album-cover-fight?utm_medium=rss)
  - [A look at the escalating battle between YouTube and ad blockers, as YouTube more frequently adapts its detection methods and rolls out new ways to serve ads &lpar;Anthony Ha/Engadget&rpar;](http://www.techmeme.com/231202/p7#a231202p7)
+ - [Arsenal vs. Wolves Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-wolves-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Was Bobi the World’s Oldest Dog—or a Fraud?](https://www.wired.com/story/bobi-worlds-oldest-dog-fraud/)
- - [Ozempic Could Also Help You Drink Less Alcohol](https://www.wired.com/story/ozempic-alcohol-drink-less/)
- - [Withings ScanWatch 2 Review: Attractive Smartwatch Hybrid, Pricey Subscription](https://www.wired.com/review/withings-scanwatch-2/)
- - [NameDrop Explained: Breaking Down the Technicalities of Apple&#39;s Contact-Sharing     - CNET](https://www.cnet.com/tech/mobile/namedrop-explained-breaking-down-the-technicalities-of-apples-contact-sharing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ozempic Could Also Help You Drink Less Alcohol](https://www.wired.com/story/ozempic-alcohol-drink-less/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

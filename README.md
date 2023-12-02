@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
  - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 💣 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
  - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---

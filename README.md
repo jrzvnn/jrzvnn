@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
+ - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
+ - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)
  - [Last Chance: Score Windows 11 Pro for Just $23 at StackSocial     - CNET](https://www.cnet.com/deals/last-chance-score-windows-11-pro-for-just-23-at-stacksocial/#ftag=CAD590a51e)
- - [Here&#39;s How to Set Up a VPN on Your Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-set-up-a-vpn-on-your-apple-tv/#ftag=CAD590a51e)
- - [4 Months Later, the Pixel Fold Proves Google Needs to Do More     - CNET](https://www.cnet.com/tech/mobile/4-months-later-the-pixel-fold-proves-google-needs-to-do-more/#ftag=CAD590a51e)
- - [Don&#39;t Wait: Last Chance to Enjoy Cyber Monday Discounts on Streaming     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
- - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Set Up a VPN on Your Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-set-up-a-vpn-on-your-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

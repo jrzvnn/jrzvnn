@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global smartwatch shipments grew 9% YoY in Q3 2023: Apple had its best-ever Q3 performance with shipments up 7% YoY, Huawei grew 56%, and Samsung fell 19% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231202/p14#a231202p14)
  - [Boox Palma review: a pint-sized e-ink reader made to go wherever you do](https://appleinsider.com/articles/23/12/02/boox-palma-review-a-pint-sized-e-ink-reader-made-to-go-wherever-you-do?utm_medium=rss)
  - [These are the top MacBook Air discounts for the holidays](https://appleinsider.com/articles/23/12/02/these-are-the-top-macbook-air-discounts-for-the-holidays?utm_medium=rss)
  - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [How a California college is employing data collection tools to track students&#39; daily movements, including e-proctoring software and license plate readers &lpar;Tara Garc&amp;iacute;a Mathewson/The Markup&rpar;](http://www.techmeme.com/231202/p13#a231202p13)<!-- TECH:END -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

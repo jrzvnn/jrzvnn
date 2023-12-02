@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 😝 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 💣 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 👉 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)<!-- MEMES:END -->
 
 ---
 

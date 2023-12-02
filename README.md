@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [These are the top MacBook Air discounts for the holidays](https://appleinsider.com/articles/23/12/02/these-are-the-top-macbook-air-discounts-for-the-holidays?utm_medium=rss)
  - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
  - [How a California college is employing data collection tools to track students&#39; daily movements, including e-proctoring software and license plate readers &lpar;Tara Garc&amp;iacute;a Mathewson/The Markup&rpar;](http://www.techmeme.com/231202/p13#a231202p13)
- - [Best Garmin Deals: Snag Discounted Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [A look at Anthropic&#39;s governance structure: the company is a public benefit corporation with a separate, long-term benefit trust that will select most its board &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/231202/p12#a231202p12)<!-- TECH:END -->
+ - [Best Garmin Deals: Snag Discounted Garmin Wearables, Sporting Equipment and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

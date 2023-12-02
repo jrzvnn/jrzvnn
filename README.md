@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The G7 agrees on comprehensive international guidelines for generative AI, covering both developers and users, expected to be approved as soon as this month &lpar;Mayumi Hirosawa/Nikkei Asia&rpar;](http://www.techmeme.com/231202/p4#a231202p4)
  - [The judge overseeing Epic v. Google vows to investigate Google for systemically suppressing evidence by deleting internal chats, including those by Pichai &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231202/p3#a231202p3)
  - [Sources: EU lawmakers can&#39;t agree on how to regulate systems like ChatGPT, with foundation models becoming the main hurdle in talks over the proposed AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/231202/p2#a231202p2)
  - [The US, UK, and Australia plan to test a new way to track Chinese submarines using AI to rapidly process sonar data, as part of the AUKUS security alliance &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/231202/p1#a231202p1)
- - [Meta says it is updating child safety features after a series of WSJ reports, including expanding its list of terms, phrases, and emojis related to child safety &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231201/p28#a231201p28)
- - [An interview with Guillaume Verdon, founder of stealth AI startup Extropic who is behind the @BasedBeffJezos persona at the center of effective accelerationism &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/231201/p27#a231201p27)<!-- TECH:END -->
+ - [Meta says it is updating child safety features after a series of WSJ reports, including expanding its list of terms, phrases, and emojis related to child safety &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231201/p28#a231201p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

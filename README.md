@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
+ - [A profile of Thrive Capital founder Joshua Kushner, who built the $5.3B firm outside his famous family, growing from a $40M fund in 2011 to a $3.3B eighth fund &lpar;Alyson Shontell/Fortune&rpar;](http://www.techmeme.com/231202/p8#a231202p8)
+ - [Here’s how a bridal photo captured a single person in three poses at once](https://www.theverge.com/2023/12/2/23985299/iphone-bridal-photo-three-poses-explanation-panorama-photoshop-generative-ai)
  - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
- - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)
- - [Last Chance: Score Windows 11 Pro for Just $23 at StackSocial     - CNET](https://www.cnet.com/deals/last-chance-score-windows-11-pro-for-just-23-at-stacksocial/#ftag=CAD590a51e)
- - [Here&#39;s How to Set Up a VPN on Your Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-set-up-a-vpn-on-your-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
+ - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New pneumonia case in china](http://9gag.com/gag/aDYvbRB)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 💣 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)<!-- MEMES:END -->
+ - 😝 [The chosen one](http://9gag.com/gag/aYV01Rq)
+ - 😝 [That f*ckg voice!](http://9gag.com/gag/aMELOWW)
+ - 💣 [Happy Birthday Romania!](http://9gag.com/gag/aOxW16v)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)<!-- MEMES:END -->
 
 ---
 

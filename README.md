@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to manage notifications in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-notifications-in-ios-17-and-ipados-17?utm_medium=rss)
+ - [27 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
  - [A profile of Thrive Capital founder Joshua Kushner, who built the $5.3B firm outside his famous family, growing from a $40M fund in 2011 to a $3.3B eighth fund &lpar;Alyson Shontell/Fortune&rpar;](http://www.techmeme.com/231202/p8#a231202p8)
  - [Here’s how a bridal photo captured a single person in three poses at once](https://www.theverge.com/2023/12/2/23985299/iphone-bridal-photo-three-poses-explanation-panorama-photoshop-generative-ai)
- - [Today Only: Upgrade Your Kicks With This 25% Off Deal at Nike     - CNET](https://www.cnet.com/deals/today-only-upgrade-your-kicks-with-this-25-off-deal-at-nike/#ftag=CAD590a51e)
- - [2024 Tax Changes: Your Paycheck Might Get Bigger Next Year. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-changes-your-paycheck-might-get-bigger-next-year-heres-why/#ftag=CAD590a51e)
- - [Best Cheap Phone Plans for December 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-33-absolute-best-tv-shows-to-watch-december-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
  - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
  - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)
- - [Last Chance: Score Windows 11 Pro for Just $23 at StackSocial     - CNET](https://www.cnet.com/deals/last-chance-score-windows-11-pro-for-just-23-at-stacksocial/#ftag=CAD590a51e)
- - [Here&#39;s How to Set Up a VPN on Your Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-set-up-a-vpn-on-your-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Climate Cookbooks Are Here to Change How You Eat](https://www.wired.com/story/climate-cookbooks-are-here-to-change-how-you-eat/)
+ - [Apple promotes iPhone 15 Portrait features with &#39;Album Cover&#39; fight](https://appleinsider.com/articles/23/12/02/apple-promotes-iphone-15-portrait-features-with-album-cover-fight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

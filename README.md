@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
- - 💣 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 👉 [Knock knock](http://9gag.com/gag/amAZx0o)<!-- MEMES:END -->
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 💣 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---
 

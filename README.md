@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 😝 [When will you understand that this is an invasion? When will you start protecting your values? If you want immigrants for population, why won&#39;t you invite Christians?](http://9gag.com/gag/aA09Zx2)
+ - 💣 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 👉 [What can it be?](http://9gag.com/gag/a3ZObW1)<!-- MEMES:END -->
 
 ---
 

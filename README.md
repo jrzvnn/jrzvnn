@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mac Studio Deals: Top Discounts on Apple&#39;s Powerful Compact Desktop     - CNET](https://www.cnet.com/deals/best-mac-studio-deals/#ftag=CAD590a51e)
  - [Internal documents: Amazon&#39;s AI chatbot Q, out in preview, experiences &quot;severe hallucinations&quot; and leaks &quot;confidential data&quot; like AWS data center locations &lpar;Platformer&rpar;](http://www.techmeme.com/231201/p26#a231201p26)
  - [Meta announces Seamless Communication, a suite of AI translation models that aim to enable more natural and authentic communication across languages &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231201/p25#a231201p25)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)
- - [Filing: hackers accessed 0.1% of user accounts in 23andMe&#39;s data breach that the company disclosed in October 2023; 23andMe reported 14M+ customers in May 2023 &lpar;TechCrunch&rpar;](http://www.techmeme.com/231201/p24#a231201p24)<!-- TECH:END -->
+ - [Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

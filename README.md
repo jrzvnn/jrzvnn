@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Cookbooks Are Here to Change How You Eat](https://www.wired.com/story/climate-cookbooks-are-here-to-change-how-you-eat/)
- - [Apple promotes iPhone 15 Portrait features with &#39;Album Cover&#39; fight](https://appleinsider.com/articles/23/12/02/apple-promotes-iphone-15-portrait-features-with-album-cover-fight?utm_medium=rss)
- - [A look at the escalating battle between YouTube and ad blockers, as YouTube more frequently adapts its detection methods and rolls out new ways to serve ads &lpar;Anthony Ha/Engadget&rpar;](http://www.techmeme.com/231202/p7#a231202p7)
- - [Arsenal vs. Wolves Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-wolves-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Was Bobi the World’s Oldest Dog—or a Fraud?](https://www.wired.com/story/bobi-worlds-oldest-dog-fraud/)<!-- TECH:END -->
+ - [Last Chance: Score Windows 11 Pro for Just $23 at StackSocial     - CNET](https://www.cnet.com/deals/last-chance-score-windows-11-pro-for-just-23-at-stacksocial/#ftag=CAD590a51e)
+ - [Here&#39;s How to Set Up a VPN on Your Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-set-up-a-vpn-on-your-apple-tv/#ftag=CAD590a51e)
+ - [4 Months Later, the Pixel Fold Proves Google Needs to Do More     - CNET](https://www.cnet.com/tech/mobile/4-months-later-the-pixel-fold-proves-google-needs-to-do-more/#ftag=CAD590a51e)
+ - [Don&#39;t Wait: Last Chance to Enjoy Cyber Monday Discounts on Streaming     - CNET](https://www.cnet.com/deals/best-black-friday-streaming-service-deals-2023/#ftag=CAD590a51e)
+ - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

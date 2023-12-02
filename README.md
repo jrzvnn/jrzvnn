@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
  - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
- - 💣 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
- - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
- - 👉 [Behind the scene](http://9gag.com/gag/aQEjZxe)<!-- MEMES:END -->
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 💣 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---
 

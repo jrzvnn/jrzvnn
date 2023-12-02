@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s first Fallout trailer welcomes you to the wasteland](https://www.theverge.com/23984628/fallout-trailer-amazon-prime-video)
  - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
  - [How to manage notifications in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-notifications-in-ios-17-and-ipados-17?utm_medium=rss)
  - [27 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
- - [A profile of Thrive Capital founder Joshua Kushner, who built the $5.3B firm outside his famous family, growing from a $40M fund in 2011 to a $3.3B eighth fund &lpar;Alyson Shontell/Fortune&rpar;](http://www.techmeme.com/231202/p8#a231202p8)
- - [Here’s how a bridal photo captured a single person in three poses at once](https://www.theverge.com/2023/12/2/23985299/iphone-bridal-photo-three-poses-explanation-panorama-photoshop-generative-ai)<!-- TECH:END -->
+ - [A profile of Thrive Capital founder Joshua Kushner, who built the $5.3B firm outside his famous family, growing from a $40M fund in 2011 to a $3.3B eighth fund &lpar;Alyson Shontell/Fortune&rpar;](http://www.techmeme.com/231202/p8#a231202p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

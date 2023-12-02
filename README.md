@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow otaku..](http://9gag.com/gag/aVb6VOO)
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 💣 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
+ - 😝 [The chosen one](http://9gag.com/gag/aYV01Rq)
+ - 😝 [That f*ckg voice!](http://9gag.com/gag/aMELOWW)
+ - 💣 [Happy Birthday Romania!](http://9gag.com/gag/aOxW16v)
+ - 😝 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)
+ - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
 
 ---
 

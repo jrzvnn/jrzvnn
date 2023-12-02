@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 💣 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 💣 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
  - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 👉 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)<!-- MEMES:END -->
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 ---
 

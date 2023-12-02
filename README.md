@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [27 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
  - [A profile of Thrive Capital founder Joshua Kushner, who built the $5.3B firm outside his famous family, growing from a $40M fund in 2011 to a $3.3B eighth fund &lpar;Alyson Shontell/Fortune&rpar;](http://www.techmeme.com/231202/p8#a231202p8)
  - [Here’s how a bridal photo captured a single person in three poses at once](https://www.theverge.com/2023/12/2/23985299/iphone-bridal-photo-three-poses-explanation-panorama-photoshop-generative-ai)
- - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
- - [ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever](https://www.wired.com/story/chatgpt-poem-forever-security-roundup/)
- - [The Ember Tumbler is a cool, high-tech travel mug — but it can’t handle the heat](https://www.theverge.com/23983931/ember-tumbler-travel-mug-review-coffee-tea)<!-- TECH:END -->
+ - [Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-33-absolute-best-tv-shows-to-watch-december-2023/#ftag=CAD590a51e)
+ - [Here&#39;s How to Find Safe Eye Drops Amid Recent Recalls     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

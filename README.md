@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
  - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 💣 [What&#39;s the lesson?](http://9gag.com/gag/a8qgz0Z)
- - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
- - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
+ - 👉 [Find her and press charges](http://9gag.com/gag/awZpYEQ)<!-- MEMES:END -->
 
 ---
 

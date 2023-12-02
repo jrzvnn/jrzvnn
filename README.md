@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow otaku..](http://9gag.com/gag/aVb6VOO)
- - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
- - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
+ - 💣 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
 
 ---
 

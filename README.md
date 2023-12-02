@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chosen one](http://9gag.com/gag/aYV01Rq)
- - 😝 [That f*ckg voice!](http://9gag.com/gag/aMELOWW)
- - 💣 [Happy Birthday Romania!](http://9gag.com/gag/aOxW16v)
- - 😝 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)
- - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 👉 [What can it be?](http://9gag.com/gag/a3ZObW1)<!-- MEMES:END -->
 
 ---
 

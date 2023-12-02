@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 💣 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
  - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [Stealing from the poor](http://9gag.com/gag/aMELndx)<!-- MEMES:END -->
+ - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 💣 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 😝 [Stealing from the poor](http://9gag.com/gag/aMELndx)
+ - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
 
 ---
 

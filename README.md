@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
- - 💣 [Fail](http://9gag.com/gag/avQjvon)
- - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 👉 [The Chosen One](http://9gag.com/gag/a2KXOAe)<!-- MEMES:END -->
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
+ - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [Fail](http://9gag.com/gag/avQjvon)
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 💣 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 😝 [Stealing from the poor](http://9gag.com/gag/aMELndx)
- - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [Forced to drink the alcohol they stole from a store](http://9gag.com/gag/aGEQMzz)
+ - 💣 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [Knock knock](http://9gag.com/gag/amAZx0o)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 😝 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
- - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
+ - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
  - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 👉 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)<!-- MEMES:END -->
+ - 👉 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)<!-- MEMES:END -->
 
 ---
 

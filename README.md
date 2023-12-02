@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 😝 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
  - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 👉 [The Chosen One](http://9gag.com/gag/a2KXOAe)<!-- MEMES:END -->
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
 
 ---
 

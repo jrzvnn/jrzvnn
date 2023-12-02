@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
  - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
- - 😝 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 💣 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
  - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
- - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
+ - 👉 [Behind the scene](http://9gag.com/gag/aQEjZxe)<!-- MEMES:END -->
 
 ---
 

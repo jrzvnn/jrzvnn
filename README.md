@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 💣 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [Knock knock](http://9gag.com/gag/amAZx0o)<!-- MEMES:END -->
 
 ---
 

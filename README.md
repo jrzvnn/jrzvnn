@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
- - 😝 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
- - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 ---
 

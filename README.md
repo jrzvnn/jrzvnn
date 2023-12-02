@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
  - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
- - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 👉 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)<!-- MEMES:END -->
+ - 💣 [Fail](http://9gag.com/gag/avQjvon)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 👉 [The Chosen One](http://9gag.com/gag/a2KXOAe)<!-- MEMES:END -->
 
 ---
 

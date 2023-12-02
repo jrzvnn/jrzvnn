@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [New pneumonia case in china](http://9gag.com/gag/aDYvbRB)
+ - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 💣 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
  - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
- - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [What can it be?](http://9gag.com/gag/a3ZObW1)<!-- MEMES:END -->
+ - 👉 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)<!-- MEMES:END -->
 
 ---
 

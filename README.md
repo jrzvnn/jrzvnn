@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)
  - [Ugreen Foldable Kickstand Battery review: Large hybrid battery](https://appleinsider.com/articles/23/12/02/ugreen-foldable-kickstand-battery-review-large-hybrid-battery?utm_medium=rss)
  - [Sources: Bending Spoons, which acquired Filmic in September 2022, laid off the entire team at the maker of photo and video apps, including its founder and CEO &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/231202/p10#a231202p10)
  - [Daily deals Dec. 2: iPhones from $114, M2 MacBook Air $949, Asus ROG Ally $399, more](https://appleinsider.com/articles/23/12/02/daily-deals-dec-2-iphones-from-114-m2-macbook-air-949-asus-rog-ally-399-more?utm_medium=rss)
- - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
- - [How tensions between those at OpenAI for whom &quot;AI doomerism&quot; is a convenient cover story and those who made it a way of life may have ended the &quot;x-risk&quot; debate &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/231202/p9#a231202p9)<!-- TECH:END -->
+ - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

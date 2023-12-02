@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 👉 [Find her and press charges](http://9gag.com/gag/awZpYEQ)<!-- MEMES:END -->
+ - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
+ - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
 
 ---
 

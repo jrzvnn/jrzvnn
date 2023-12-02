@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: 23andMe says hackers accessed accounts of 0.1% of its customer base in the company&#39;s recent data breach; 23andMe reported 14M+ customers in May 2023 &lpar;TechCrunch&rpar;](http://www.techmeme.com/231201/p24#a231201p24)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)
+ - [Filing: hackers accessed 0.1% of user accounts in 23andMe&#39;s data breach that the company disclosed in October 2023; 23andMe reported 14M+ customers in May 2023 &lpar;TechCrunch&rpar;](http://www.techmeme.com/231201/p24#a231201p24)
  - [Samsung Galaxy S24 leaks suggest a titanium build, flattened screen, and more](https://www.theverge.com/2023/12/1/23984653/samsung-galaxy-s24-ultra-plus-leaks-rumors-snapdragon-ai)
- - [Best Cheap TV Deals: Snag a New TV From Just $80     - CNET](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
- - [In firing Altman, OpenAI’s board wanted to keep the element of surprise](https://www.theverge.com/2023/12/1/23984818/openai-microsoft-altman-nadella-firing-newyorker)
- - [15 Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses-4/)<!-- TECH:END -->
+ - [Best Cheap TV Deals: Snag a New TV From Just $80     - CNET](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

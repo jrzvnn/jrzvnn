@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 💣 [Wow](http://9gag.com/gag/aqeExNv)
  - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
 
 ---
 

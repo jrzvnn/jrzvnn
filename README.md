@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
  - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
+ - 😝 [Are we the baddies?](http://9gag.com/gag/a3ZO2qr)
+ - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [Fail](http://9gag.com/gag/avQjvon)
+ - 👉 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)<!-- MEMES:END -->
 
 ---
 

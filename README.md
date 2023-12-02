@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Anthropic&#39;s governance structure: the company is a public benefit corporation with a separate, long-term benefit trust that will select most its board &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/231202/p12#a231202p12)
  - [Fortnite’s Eminem concert teased the future of the game](https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5)
  - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)
  - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)
- - [Ugreen Foldable Kickstand Battery review: Large hybrid battery](https://appleinsider.com/articles/23/12/02/ugreen-foldable-kickstand-battery-review-large-hybrid-battery?utm_medium=rss)
- - [Sources: Bending Spoons, which acquired Filmic in September 2022, laid off the entire team at the maker of photo and video apps, including its founder and CEO &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/231202/p10#a231202p10)<!-- TECH:END -->
+ - [Ugreen Foldable Kickstand Battery review: Large hybrid battery](https://appleinsider.com/articles/23/12/02/ugreen-foldable-kickstand-battery-review-large-hybrid-battery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

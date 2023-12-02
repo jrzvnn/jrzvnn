@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [When will you understand that this is an invasion? When will you start protecting your values? If you want immigrants for population, why won&#39;t you invite Christians?](http://9gag.com/gag/aA09Zx2)
- - 💣 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 😝 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
+ - 💣 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
  - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [What can it be?](http://9gag.com/gag/a3ZObW1)<!-- MEMES:END -->
+ - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
 
 ---
 

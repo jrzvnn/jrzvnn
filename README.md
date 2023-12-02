@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doesn&#39;t look tired at all](http://9gag.com/gag/a9qGOdW)
- - 😝 [The chosen one](http://9gag.com/gag/aYV01Rq)
- - 💣 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 😝 [Elk went to the highway to get help](http://9gag.com/gag/aVb6Lvw)
- - 👉 [Get the god damn Rice](http://9gag.com/gag/aPgqXmw)<!-- MEMES:END -->
+ - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
+ - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
+ - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 😝 [Stealing from the poor](http://9gag.com/gag/aMELndx)
+ - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
 
 ---
 

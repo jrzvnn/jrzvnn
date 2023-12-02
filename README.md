@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the escalating battle between YouTube and ad blockers, as YouTube more frequently adapts its detection methods and rolls out new ways to serve ads &lpar;Anthony Ha/Engadget&rpar;](http://www.techmeme.com/231202/p7#a231202p7)
  - [Was Bobi the World’s Oldest Dog—or a Fraud?](https://www.wired.com/story/bobi-worlds-oldest-dog-fraud/)
  - [Ozempic Could Also Help You Drink Less Alcohol](https://www.wired.com/story/ozempic-alcohol-drink-less/)
  - [Withings ScanWatch 2 Review: Attractive Smartwatch Hybrid, Pricey Subscription](https://www.wired.com/review/withings-scanwatch-2/)
- - [NameDrop Explained: Breaking Down the Technicalities of Apple&#39;s Contact-Sharing     - CNET](https://www.cnet.com/tech/mobile/namedrop-explained-breaking-down-the-technicalities-of-apples-contact-sharing/#ftag=CAD590a51e)
- - [Here&#39;s How to Disable Apple&#39;s iOS 17 NameDrop Feature in a Few Simple Steps     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-disable-apples-ios-17-namedrop-feature-in-a-few-simple-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NameDrop Explained: Breaking Down the Technicalities of Apple&#39;s Contact-Sharing     - CNET](https://www.cnet.com/tech/mobile/namedrop-explained-breaking-down-the-technicalities-of-apples-contact-sharing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

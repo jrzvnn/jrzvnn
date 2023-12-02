@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tensions between those at OpenAI for whom &quot;AI doomerism&quot; is a convenient cover story and those who made it a way of life may have ended the &quot;x-risk&quot; debate &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/231202/p9#a231202p9)
  - [Amazon’s first Fallout trailer welcomes you to the wasteland](https://www.theverge.com/23984628/fallout-trailer-amazon-prime-video)
  - [A bride-to-be discovers a reality-bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography?utm_medium=rss)
- - [10 Daily Habits That Can Naturally Boost Your Eye Health Today     - CNET](https://www.cnet.com/health/personal-care/10-daily-habits-that-can-boost-your-eye-health-today/#ftag=CAD590a51e)
  - [How to manage notifications in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-notifications-in-ios-17-and-ipados-17?utm_medium=rss)
  - [27 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 

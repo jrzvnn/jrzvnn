@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Saudi Arabia&#39;s investments in gaming is remaking the industry, as it aims for social transformation by being a hub of game development and esports &lpar;Lewis Gordon/The Verge&rpar;](http://www.techmeme.com/231202/p6#a231202p6)
  - [Algorithmic trading firm XTX Markets announces the $10M AI-MO Prize for a public AI model than can win a gold medal in the International Mathematical Olympiad &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/231202/p5#a231202p5)
  - [The G7 agrees on comprehensive international guidelines for generative AI, covering both developers and users, expected to be approved as soon as this month &lpar;Mayumi Hirosawa/Nikkei Asia&rpar;](http://www.techmeme.com/231202/p4#a231202p4)
  - [The judge overseeing Epic v. Google vows to investigate Google for systemically suppressing evidence by deleting internal chats, including those by Pichai &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231202/p3#a231202p3)
- - [Sources: EU lawmakers can&#39;t agree on how to regulate systems like ChatGPT, with foundation models becoming the main hurdle in talks over the proposed AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/231202/p2#a231202p2)
- - [The US, UK, and Australia plan to test a new way to track Chinese submarines using AI to rapidly process sonar data, as part of the AUKUS security alliance &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/231202/p1#a231202p1)<!-- TECH:END -->
+ - [Sources: EU lawmakers can&#39;t agree on how to regulate systems like ChatGPT, with foundation models becoming the main hurdle in talks over the proposed AI Act &lpar;Reuters&rpar;](http://www.techmeme.com/231202/p2#a231202p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

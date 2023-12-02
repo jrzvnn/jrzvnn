@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Anthropic&#39;s governance structure: the company is a public benefit corporation with a separate, long-term benefit trust that will select most its board &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/231202/p12#a231202p12)
+ - [Double Trouble: Navigating Flu Season&#39;s Surprising Companion – Pink Eye     - CNET](https://www.cnet.com/health/medical/double-trouble-heres-what-to-know-about-flu-season-and-pink-eye/#ftag=CAD590a51e)
  - [Fortnite’s Eminem concert teased the future of the game](https://www.theverge.com/2023/12/2/23978521/fortnite-the-big-bang-eminem-chapter-5)
  - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)
- - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)
- - [Ugreen Foldable Kickstand Battery review: Large hybrid battery](https://appleinsider.com/articles/23/12/02/ugreen-foldable-kickstand-battery-review-large-hybrid-battery?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

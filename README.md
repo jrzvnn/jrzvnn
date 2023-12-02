@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
  - 😝 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 💣 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Knock knock](http://9gag.com/gag/amAZx0o)
- - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [Find her and press charges](http://9gag.com/gag/awZpYEQ)
+ - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 ---
 

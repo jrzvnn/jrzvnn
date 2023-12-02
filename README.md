@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
+ - 😝 [Close-up of the rare Golden Langur. Researchers have said that this species works hard to avoid human interaction.](http://9gag.com/gag/adPze4D)
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 👉 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)<!-- MEMES:END -->
 
 ---
 

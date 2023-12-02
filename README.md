@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite and Lego join forces for ‘survival crafting’ game](https://www.theverge.com/2023/12/2/23983057/lego-fortnite-release-date-survival-crafting)
  - [Sources: Google delayed the public launch of Gemini from next week to January 2024, after finding that the LLM didn&#39;t reliably handle some non-English queries &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231202/p11#a231202p11)
  - [Ugreen Foldable Kickstand Battery review: Large hybrid battery](https://appleinsider.com/articles/23/12/02/ugreen-foldable-kickstand-battery-review-large-hybrid-battery?utm_medium=rss)
  - [Sources: Bending Spoons, which acquired Filmic in September 2022, laid off the entire team at the maker of photo and video apps, including its founder and CEO &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/231202/p10#a231202p10)
- - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)
- - [Daily deals Dec. 2: iPhones from $114, M2 MacBook Air $949, Asus ROG Ally $399, more](https://appleinsider.com/articles/23/12/02/daily-deals-dec-2-iphones-from-114-m2-macbook-air-949-asus-rog-ally-399-more?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

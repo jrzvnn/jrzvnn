@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mission impossible.](http://9gag.com/gag/aGEQ7m5)
- - 😝 [Oh grow up!](http://9gag.com/gag/amAZn89)
- - 💣 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)
- - 😝 [I wonder what tool would be the fastest](http://9gag.com/gag/aA09Z72)
- - 👉 [When will you understand that this is an invasion? When will you start protecting your values? If you want immigrants for population, why won&#39;t you invite Christians?](http://9gag.com/gag/aA09Zx2)<!-- MEMES:END -->
+ - 😝 [This is not OMAN or Emirate or Saudi, this is London. Britain is so f**ed](http://9gag.com/gag/aMELXQP)
+ - 😝 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 👉 [The Chosen One](http://9gag.com/gag/a2KXOAe)<!-- MEMES:END -->
 
 ---
 

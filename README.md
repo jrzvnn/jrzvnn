@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan has an airport located literally in the ocean. It cost 20 billion dollars to build... but it&#39;s sinking](http://9gag.com/gag/aeQBx6v)
- - 😝 [The battle scenes were not bad, tho](http://9gag.com/gag/abv82Rr)
- - 💣 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 😝 [Stealing from the poor](http://9gag.com/gag/aMELndx)
- - 👉 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)<!-- MEMES:END -->
+ - 😝 [My fellow otaku..](http://9gag.com/gag/aVb6VOO)
+ - 😝 [Behind the scene](http://9gag.com/gag/aQEjZxe)
+ - 💣 [Knock knock](http://9gag.com/gag/amAZx0o)
+ - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
+ - 👉 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)<!-- MEMES:END -->
 
 ---
 

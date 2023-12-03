@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
- - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 💣 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
- - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
- - 👉 [This makes sense](http://9gag.com/gag/a6qR8x2)<!-- MEMES:END -->
+ - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
 
 ---
 

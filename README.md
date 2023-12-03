@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
- - 😝 [Victim vs Victor mentality - right on the spot](http://9gag.com/gag/aOxWjE3)
- - 💣 [Metal birb](http://9gag.com/gag/aYV0mgx)
- - 😝 [Im a gemini](http://9gag.com/gag/aXnOdez)
- - 👉 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)<!-- MEMES:END -->
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [When will you understand that this is an invasion? When will you start protecting your values? If you want immigrants for population, why won&#39;t you invite Christians?](http://9gag.com/gag/aA09Zx2)
+ - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 😝 [Just when you thought it couldn&#39;t get any worse....](http://9gag.com/gag/axorYYK)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 ---
 

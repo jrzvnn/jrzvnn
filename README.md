@@ -126,10 +126,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elgato Prompter review: gamechanging and close to perfect for YouTubers](https://appleinsider.com/articles/23/12/03/elgato-prompter-review-gamechanging-and-close-to-perfect-for-youtubers?utm_medium=rss)
- - [49ers vs. Eagles Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-eagles-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
- - [Browns vs. Rams Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-rams-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
  - [Zoom stealth-dropped an Apple TV version of its meetings app](https://www.theverge.com/2023/12/3/23986292/zoom-for-home-apple-tv-4k-app-continuity-camera-iphone-tvos-17-video-meetings)
- - [Chase could be a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)<!-- TECH:END -->
+ - [Chase could be a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
+ - [A deep dive into the founding of DeepMind, OpenAI, and Anthropic, as many of their backers feared the risks of advanced AI, but hoped to safely shape it &lpar;New York Times&rpar;](http://www.techmeme.com/231203/p6#a231203p6)
+ - [Freedom Forever Solar Review: Well-Established With Some Creative Solutions     - CNET](https://www.cnet.com/home/energy-and-utilities/freedom-forever-solar-review-well-established-with-some-creative-solutions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

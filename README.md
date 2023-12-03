@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wine Gifts for 2023     - CNET](https://www.cnet.com/news/best-wine-gifts/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch West Ham vs. Crystal Palace From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-west-ham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Liverpool vs. Fulham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Chelsea vs. Brighton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-chelsea-vs-brighton-from-anywhere/#ftag=CAD590a51e)
- - [Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/fashion/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)
+ - [The Viral Baggu Crescent Bag Is Worth the TikTok Hype](https://www.wired.com/story/baggu-medium-nylon-crescent-bag-rave/)
+ - [Steam Deck SSD Upgrade: How to, Instructions, Parts, Photos](https://www.wired.com/story/how-to-install-ssd-steam-deck/)
+ - [How to Not Get Hacked by a QR Code](https://www.wired.com/story/how-to-qr-code-hacks-avoid/)
+ - [Best Wine Gifts for 2023     - CNET](https://www.cnet.com/news/best-wine-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

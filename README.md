@@ -135,10 +135,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
- - 👉 [Be like Poland.](http://9gag.com/gag/aPgqzmK)<!-- MEMES:END -->
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 💣 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
+ - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
+ - 👉 [This makes sense](http://9gag.com/gag/a6qR8x2)<!-- MEMES:END -->
 
 ---
 

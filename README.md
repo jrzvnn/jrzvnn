@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 😝 [When will you understand that this is an invasion? When will you start protecting your values? If you want immigrants for population, why won&#39;t you invite Christians?](http://9gag.com/gag/aA09Zx2)
- - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [Just when you thought it couldn&#39;t get any worse....](http://9gag.com/gag/axorYYK)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
 
 ---
 

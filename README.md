@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
- - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
+ - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 😝 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)
+ - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 😝 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)
+ - 👉 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)<!-- MEMES:END -->
 
 ---
 

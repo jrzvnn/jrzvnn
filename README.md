@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chase could be a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
  - [Crime Blotter: Apple Store sting leads to arrest for gym owner](https://appleinsider.com/articles/23/12/03/crime-blotter-apple-store-sting-leads-to-arrest-for-gym-owner?utm_medium=rss)
  - [Bending Spoons laid off the entirety of Filmic](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)
  - [Sonos plans wave of audio product launches for 2024](https://appleinsider.com/articles/23/12/03/sonos-plans-wave-of-audio-product-launches-for-2024?utm_medium=rss)
- - [Daily deals Dec. 3: Apple Watch Series 7 from $219, HomePod mini for $69, Ninja Air Fryer for $99, more](https://appleinsider.com/articles/23/12/03/daily-deals-dec-3-apple-watch-series-7-from-219-homepod-mini-for-69-ninja-air-fryer-for-99-more?utm_medium=rss)
- - [Chase Bank could be an ideal Goldman Sachs replacement for Apple Card, as it uses the same Mastercard network and already has a strong relationship with Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231203/p5#a231203p5)<!-- TECH:END -->
+ - [Daily deals Dec. 3: Apple Watch Series 7 from $219, HomePod mini for $69, Ninja Air Fryer for $99, more](https://appleinsider.com/articles/23/12/03/daily-deals-dec-3-apple-watch-series-7-from-219-homepod-mini-for-69-ninja-air-fryer-for-99-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

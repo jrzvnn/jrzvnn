@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
- - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 💣 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)
- - 😝 [I hope all of you have someone like this coach rooting for you](http://9gag.com/gag/ay2KPjM)
- - 👉 [Economy.. yes..](http://9gag.com/gag/abv8dEB)<!-- MEMES:END -->
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 ---
 

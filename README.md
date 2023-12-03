@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy catches the rooster asleep and wakes him up instead...](https://www.reddit.com/r/funny/comments/189mfgu/guy_catches_the_rooster_asleep_and_wakes_him_up/)
- - 😝 [Reality of Down Syndrome](https://www.reddit.com/r/funny/comments/189ljfh/reality_of_down_syndrome/)
- - 💣 [Been wild fr](https://www.reddit.com/r/memes/comments/189jxyb/been_wild_fr/)
- - 😝 [I can&#39;t believe you&#39;ve done this](https://www.reddit.com/r/funny/comments/189jatx/i_cant_believe_youve_done_this/)
- - 👉 [A complete stranger took a family picture of us in front of giant Christmas tree. This was the picture](https://www.reddit.com/r/funny/comments/189jasq/a_complete_stranger_took_a_family_picture_of_us/)<!-- MEMES:END -->
+ - 😝 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 💣 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---
 

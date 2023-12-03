@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
- - 💣 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 😝 [What driving for Ferrari does to you](http://9gag.com/gag/ap9MAPM)
+ - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
+ - 💣 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 ---
 

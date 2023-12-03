@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
- - 😝 [He made a day of the whole store](http://9gag.com/gag/a5XYxBO)
- - 💣 [Mega based](http://9gag.com/gag/aEq4QYG)
- - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 👉 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)<!-- MEMES:END -->
+ - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 👉 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)<!-- MEMES:END -->
 
 ---
 

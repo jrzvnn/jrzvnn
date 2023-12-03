@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
  - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
 
 ---
 

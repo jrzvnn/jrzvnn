@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
+ - 😝 [Reality of Down Syndrome](https://www.reddit.com/r/funny/comments/189ljfh/reality_of_down_syndrome/)
+ - 😝 [Been wild fr](https://www.reddit.com/r/memes/comments/189jxyb/been_wild_fr/)
+ - 💣 [I can&#39;t believe you&#39;ve done this](https://www.reddit.com/r/funny/comments/189jatx/i_cant_believe_youve_done_this/)
+ - 😝 [A complete stranger took a family picture of us in front of giant Christmas tree. This was the picture](https://www.reddit.com/r/funny/comments/189jasq/a_complete_stranger_took_a_family_picture_of_us/)
+ - 👉 [The conspiracy stops now](https://www.reddit.com/r/memes/comments/189j8a9/the_conspiracy_stops_now/)<!-- MEMES:END -->
 
 ---
 

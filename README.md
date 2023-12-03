@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 👉 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)<!-- MEMES:END -->
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
 
 ---
 

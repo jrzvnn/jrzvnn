@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Venu 3S review: right features, wrong price](https://www.theverge.com/23982519/garmin-venu-3s-review-smartwatch-sleep-tracking-wearable)
  - [Chase named as a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
  - [5 Best Linux Laptops &lpar;2023&rpar;: Repairable, Budget, Powerful](https://www.wired.com/story/best-linux-laptops/)
  - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)
- - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

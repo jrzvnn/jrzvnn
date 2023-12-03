@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into the founding of DeepMind, OpenAI, and Anthropic, as many of their backers feared the risks of advanced AI, but hoped to safely shape it &lpar;New York Times&rpar;](http://www.techmeme.com/231203/p6#a231203p6)
+ - [Zoom stealth-dropped an Apple TV version of its meetings app](https://www.theverge.com/2023/12/3/23986292/zoom-for-home-apple-tv-4k-app-continuity-camera-iphone-tvos-17-video-meetings)
  - [Chase could be a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
+ - [A deep dive into the founding of DeepMind, OpenAI, and Anthropic, as many of their backers feared the risks of advanced AI, but hoped to safely shape it &lpar;New York Times&rpar;](http://www.techmeme.com/231203/p6#a231203p6)
  - [Crime Blotter: Apple Store sting leads to arrest for gym owner](https://appleinsider.com/articles/23/12/03/crime-blotter-apple-store-sting-leads-to-arrest-for-gym-owner?utm_medium=rss)
- - [Bending Spoons laid off the entirety of Filmic](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)
- - [Snag This All-in-One Microsoft Bundle for Just $50 Today Only at StackSocial     - CNET](https://www.cnet.com/deals/snag-this-all-in-one-microsoft-bundle-for-just-50-today-only-at-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bending Spoons laid off the entirety of Filmic](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

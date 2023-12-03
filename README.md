@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
  - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 💣 [Global stupiduty](http://9gag.com/gag/aMELWrP)
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 👉 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
+ - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 ---
 

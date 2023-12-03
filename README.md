@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
- - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
- - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
- - 👉 [Are they fresh?](http://9gag.com/gag/aBdeoLD)<!-- MEMES:END -->
+ - 😝 [Why are brown people making absolutely every show about themself? It&#39;s making my angry at this point.](http://9gag.com/gag/aKEMnqN)
+ - 😝 [All you need to do is drag them to your cave. Simpler times.](http://9gag.com/gag/agoe66w)
+ - 💣 [Just saying tho...](http://9gag.com/gag/a4o0mQy)
+ - 😝 [Looks good to me](http://9gag.com/gag/agoe6DK)
+ - 👉 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)<!-- MEMES:END -->
 
 ---
 

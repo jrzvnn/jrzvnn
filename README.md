@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram head Adam Mosseri says Threads won&#39;t get chronological search results, which &quot;would create a substantial safety loophole&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231202/p15#a231202p15)
  - [Zoom app for Apple TV surfaces in the App Store](https://appleinsider.com/articles/23/12/02/zoom-app-for-apple-tv-surfaces-in-the-app-store?utm_medium=rss)
  - [Global smartwatch shipments grew 9% YoY in Q3 2023: Apple had its best-ever Q3 performance with shipments up 7% YoY, Huawei grew 56%, and Samsung fell 19% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231202/p14#a231202p14)
  - [Boox Palma review: a pint-sized e-ink reader made to go wherever you do](https://appleinsider.com/articles/23/12/02/boox-palma-review-a-pint-sized-e-ink-reader-made-to-go-wherever-you-do?utm_medium=rss)
- - [These are the top MacBook Air discounts for the holidays](https://appleinsider.com/articles/23/12/02/these-are-the-top-macbook-air-discounts-for-the-holidays?utm_medium=rss)
- - [The second ‘Halo’ season has a release date and a teaser trailer](https://www.theverge.com/2023/12/2/23985650/halo-season-two-streaming-paramount-plus-master-chief-spartan)<!-- TECH:END -->
+ - [These are the top MacBook Air discounts for the holidays](https://appleinsider.com/articles/23/12/02/these-are-the-top-macbook-air-discounts-for-the-holidays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

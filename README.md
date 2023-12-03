@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Committed to Buying $51 Million of AI Chips From a Startup Backed by CEO Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
- - [Here&#39;s Everything to Know About Taylor Swift&#39;s Eras Tour Concert Film     - CNET](https://www.cnet.com/culture/entertainment/heres-everything-to-know-about-taylor-swifts-eras-tour-concert-film/#ftag=CAD590a51e)
- - [Here&#39;s What Happens if You Don&#39;t Pay Your Student Loans     - CNET](https://www.cnet.com/personal-finance/loans/heres-what-happens-if-you-dont-pay-your-student-loans/#ftag=CAD590a51e)
- - [The threat to Intel now comes from a whole ecosystem of companies, including nearly every tech giant, although the company is still a strong competitor &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231203/p3#a231203p3)
- - [AstraZeneca signs a deal worth up to $247M with US-based Absci Corp. to harness Absci&#39;s AI tech for large-scale protein analysis to find a viable cancer therapy &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231203/p2#a231203p2)<!-- TECH:END -->
+ - [Best Wine Gifts for 2023     - CNET](https://www.cnet.com/news/best-wine-gifts/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch West Ham vs. Crystal Palace From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-west-ham-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Liverpool vs. Fulham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Chelsea vs. Brighton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-chelsea-vs-brighton-from-anywhere/#ftag=CAD590a51e)
+ - [Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/fashion/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

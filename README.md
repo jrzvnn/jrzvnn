@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
  - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)
  - [An Invisible ‘Demon’ Lurks in an Odd Superconductor](https://www.wired.com/story/an-invisible-demon-lurks-in-an-odd-superconductor/)
  - [A better way to YouTube](https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix)
- - [Fortnite’s next chapter adds boss battles, Lego, Solid Snake, and a brand-new island](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy)
- - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)<!-- TECH:END -->
+ - [Fortnite’s next chapter adds boss battles, Lego, Solid Snake, and a brand-new island](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

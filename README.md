@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
- - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
- - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
- - 👉 [This makes sense](http://9gag.com/gag/a6qR8x2)<!-- MEMES:END -->
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 😝 [Im a gemini](http://9gag.com/gag/aXnOdez)
+ - 💣 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)
+ - 😝 [Metal birb](http://9gag.com/gag/aYV0mgx)
+ - 👉 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)<!-- MEMES:END -->
 
 ---
 

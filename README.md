@@ -134,10 +134,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 💣 [This man.](http://9gag.com/gag/amAZME2)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
  - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 ---

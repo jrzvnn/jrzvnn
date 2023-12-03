@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [Im a gemini](http://9gag.com/gag/aXnOdez)
- - 💣 [Peter Lammer is chef in a restaurant in Germany. He was involved in a motorcycle accident and, after rehabilitation, doctors advised him to retire. Together with his friends, he came up with this effective mobile seat.](http://9gag.com/gag/aYV0dvw)
- - 😝 [Metal birb](http://9gag.com/gag/aYV0mgx)
- - 👉 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)<!-- MEMES:END -->
+ - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
+ - 💣 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 😝 [Fail](http://9gag.com/gag/avQjvon)
+ - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
 
 ---
 

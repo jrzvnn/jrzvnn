@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
- - 😝 [I hope all of you have someone like this coach rooting for you](http://9gag.com/gag/ay2KPjM)
- - 💣 [Still happening](http://9gag.com/gag/aXnOe4z)
- - 😝 [He made a day of the whole store](http://9gag.com/gag/a5XYxBO)
- - 👉 [Mega based](http://9gag.com/gag/aEq4QYG)<!-- MEMES:END -->
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 💣 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 ---
 

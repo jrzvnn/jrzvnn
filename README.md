@@ -134,9 +134,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the lesson?](http://9gag.com/gag/a8qgz0Z)
- - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 💣 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 💣 [Global stupiduty](http://9gag.com/gag/aMELWrP)
  - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
  - 👉 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
 

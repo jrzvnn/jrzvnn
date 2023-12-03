@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what tool would be the fastest](http://9gag.com/gag/aA09Z72)
- - 😝 [Sacha Baron Cohen was absolutely wild doing this \ud83d\ude05](http://9gag.com/gag/a9qGBD0)
- - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [Metal birb](http://9gag.com/gag/aYV0mgx)
- - 👉 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)<!-- MEMES:END -->
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
 
 ---
 

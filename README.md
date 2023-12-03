@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Farming in Austria](http://9gag.com/gag/a8qgQjO)
- - 😝 [When you committed 100% on your task.](http://9gag.com/gag/a4o0rWQ)
- - 💣 [This man.](http://9gag.com/gag/aYV0ZGw)
- - 😝 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
- - 👉 [Anger Management](http://9gag.com/gag/a9qGNyL)<!-- MEMES:END -->
+ - 😝 [My virginity, none shall have it](http://9gag.com/gag/aeQBR8q)
+ - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 💣 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 👉 [Delusional illusion](http://9gag.com/gag/armLze5)<!-- MEMES:END -->
 
 ---
 

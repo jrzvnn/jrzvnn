@@ -134,10 +134,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 💣 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 😝 [Farming in Austria](http://9gag.com/gag/a8qgQjO)
+ - 😝 [When you committed 100% on your task.](http://9gag.com/gag/a4o0rWQ)
+ - 💣 [This man.](http://9gag.com/gag/aYV0ZGw)
+ - 😝 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
  - 👉 [Anger Management](http://9gag.com/gag/a9qGNyL)<!-- MEMES:END -->
 
 ---

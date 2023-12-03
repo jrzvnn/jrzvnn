@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
- - 😝 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)
- - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)
- - 👉 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)<!-- MEMES:END -->
+ - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
+ - 💣 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 👉 [Anger Management](http://9gag.com/gag/a9qGNyL)<!-- MEMES:END -->
 
 ---
 

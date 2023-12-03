@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
- - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
+ - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 💣 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)
+ - 😝 [I hope all of you have someone like this coach rooting for you](http://9gag.com/gag/ay2KPjM)
+ - 👉 [Economy.. yes..](http://9gag.com/gag/abv8dEB)<!-- MEMES:END -->
 
 ---
 

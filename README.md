@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
  - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
- - 👉 [That kid needs some slapping](http://9gag.com/gag/a8qgzp3)<!-- MEMES:END -->
+ - 💣 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)
+ - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
+ - 👉 [This makes sense](http://9gag.com/gag/a6qR8x2)<!-- MEMES:END -->
 
 ---
 

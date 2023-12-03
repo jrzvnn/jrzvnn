@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
- - 😝 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
- - 💣 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 👉 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
+ - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 😝 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 💣 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 👉 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)<!-- MEMES:END -->
 
 ---
 

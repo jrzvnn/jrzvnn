@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
- - 💣 [He&#39;s right you know...](http://9gag.com/gag/aNwbRew)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 👉 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)<!-- MEMES:END -->
+ - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [What&#39;s the lesson?](http://9gag.com/gag/a8qgz0Z)
+ - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
 
 ---
 

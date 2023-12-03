@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)
- - [The Viral Baggu Crescent Bag Is Worth the TikTok Hype](https://www.wired.com/story/baggu-medium-nylon-crescent-bag-rave/)
- - [Steam Deck SSD Upgrade: How to, Instructions, Parts, Photos](https://www.wired.com/story/how-to-install-ssd-steam-deck/)
- - [How to Not Get Hacked by a QR Code](https://www.wired.com/story/how-to-qr-code-hacks-avoid/)
- - [Best Wine Gifts for 2023     - CNET](https://www.cnet.com/news/best-wine-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)
+ - [An Invisible ‘Demon’ Lurks in an Odd Superconductor](https://www.wired.com/story/an-invisible-demon-lurks-in-an-odd-superconductor/)
+ - [A better way to YouTube](https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix)
+ - [Fortnite’s next chapter adds boss battles, Lego, Solid Snake, and a brand-new island](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy)
+ - [Researchers show AI misalignment in a GPT-4-based stock trading AI that engaged in insider trading in a simulated environment without being instructed to do so &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/231203/p4#a231203p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

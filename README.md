@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My virginity, none shall have it](http://9gag.com/gag/aeQBR8q)
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 💣 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 👉 [Delusional illusion](http://9gag.com/gag/armLze5)<!-- MEMES:END -->
+ - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 💣 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 👉 [Be like Poland.](http://9gag.com/gag/aPgqzmK)<!-- MEMES:END -->
 
 ---
 

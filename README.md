@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AstraZeneca signs a deal worth up to $247M with US-based Absci Corp. to harness Absci&#39;s AI tech for large-scale protein analysis to find a viable cancer therapy &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/231203/p2#a231203p2)
  - [The current members of rock band Kiss reveal digital avatars of themselves, created by George Lucas&#39; ILM, which will tour as the band retires from live touring &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/231203/p1#a231203p1)
  - [Best Buy&#39;s weekend TV sale ends Sunday, save up to $3,000](https://appleinsider.com/articles/23/12/03/best-buys-weekend-tv-sale-ends-sunday-save-up-to-3000?utm_medium=rss)
  - [Instagram head Adam Mosseri says Threads won&#39;t get chronological search results, which &quot;would create a substantial safety loophole&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231202/p15#a231202p15)
- - [Zoom app for Apple TV surfaces in the App Store](https://appleinsider.com/articles/23/12/02/zoom-app-for-apple-tv-surfaces-in-the-app-store?utm_medium=rss)
- - [Global smartwatch shipments grew 9% YoY in Q3 2023: Apple had its best-ever Q3 with shipments up 7% YoY, Samsung fell 19% YoY, and Huawei grew 56% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231202/p14#a231202p14)<!-- TECH:END -->
+ - [Zoom app for Apple TV surfaces in the App Store](https://appleinsider.com/articles/23/12/02/zoom-app-for-apple-tv-surfaces-in-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

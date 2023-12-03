@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
- - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
- - 💣 [Sacha Baron Cohen was absolutely wild doing this \ud83d\ude05](http://9gag.com/gag/a9qGBD0)
- - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
+ - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 👉 [Are they fresh?](http://9gag.com/gag/aBdeoLD)<!-- MEMES:END -->
 
 ---
 

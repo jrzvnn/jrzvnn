@@ -126,10 +126,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
- - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)
- - [An Invisible ‘Demon’ Lurks in an Odd Superconductor](https://www.wired.com/story/an-invisible-demon-lurks-in-an-odd-superconductor/)
- - [A better way to YouTube](https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix)
- - [Fortnite’s next chapter adds boss battles, Lego, Solid Snake, and a brand-new island](https://www.theverge.com/2023/12/3/23983147/fortnite-chapter-5-season-1-battle-pass-lego-family-guy)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)
+ - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)
+ - [MediaTek&#39;s AI-Powered Chips Aim To Make Your Next Phone Very Personal     - CNET](https://www.cnet.com/tech/mobile/mediateks-ai-powered-chips-aim-to-make-your-next-phone-very-personal/#ftag=CAD590a51e)
+ - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

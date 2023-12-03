@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fluid that doesn&#39;t follow Newton&#39;s law of viscosity. The higher the impact force, the stronger its viscosity.](http://9gag.com/gag/aWGXDK6)
- - 😝 [Childless 80 yo billionnaire, Nicolas Puech, is giving all his fortune to his Moroccan gardener &lpar;10.4 billion euros&rpar;](http://9gag.com/gag/avQjDEE)
- - 💣 [Delusional illusion](http://9gag.com/gag/armLze5)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 💣 [Still happening](http://9gag.com/gag/aXnOe4z)
  - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 👉 [Are they fresh?](http://9gag.com/gag/aBdeoLD)<!-- MEMES:END -->
+ - 👉 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)<!-- MEMES:END -->
 
 ---
 

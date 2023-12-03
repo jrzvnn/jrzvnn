@@ -126,10 +126,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Documents: OpenAI signed a letter of intent in 2019 to spend $51M on brain-inspired chips developed by startup Rain AI, in which Sam Altman had invested $1M+ &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231203/p8#a231203p8)
- - [IRS Tax Reporting Delay. What to Know if You&#39;re Paid via PayPal, Venmo or Cash App     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-reporting-delay-what-to-know-if-youre-paid-via-paypal-venmo-or-cash-app/#ftag=CAD590a51e)
  - [CoreWeave, which offers Nvidia GPUs in the cloud, says it closed a minority stake sale to investors led by Fidelity; sources: the sale values CoreWeave at $7B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/231203/p7#a231203p7)
  - [Elgato Prompter review: gamechanging and close to perfect for YouTubers](https://appleinsider.com/articles/23/12/03/elgato-prompter-review-gamechanging-and-close-to-perfect-for-youtubers?utm_medium=rss)
- - [49ers vs. Eagles Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-eagles-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [49ers vs. Eagles Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-eagles-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)
+ - [Browns vs. Rams Livestream: How to Watch NFL Week 13 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-rams-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 😝 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
  - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 👉 [The Chosen One](http://9gag.com/gag/a2KXOAe)<!-- MEMES:END -->
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 😝 [Fail](http://9gag.com/gag/avQjvon)
+ - 👉 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)<!-- MEMES:END -->
 
 ---
 

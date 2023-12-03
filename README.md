@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 💣 [Still happening](http://9gag.com/gag/aXnOe4z)
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 👉 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)<!-- MEMES:END -->
+ - 😝 [This is why you buy physical](http://9gag.com/gag/ay2Kvwb)
+ - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
+ - 💣 [Sacha Baron Cohen was absolutely wild doing this \ud83d\ude05](http://9gag.com/gag/a9qGBD0)
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 👉 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
+ - 😝 [He made a day of the whole store](http://9gag.com/gag/a5XYxBO)
+ - 💣 [Mega based](http://9gag.com/gag/aEq4QYG)
  - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 😝 [Heating the plastic to make it look new again](http://9gag.com/gag/axor44W)
- - 💣 [Are they fresh?](http://9gag.com/gag/aBdeoLD)
- - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 👉 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)<!-- MEMES:END -->
+ - 👉 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)<!-- MEMES:END -->
 
 ---
 

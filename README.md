@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
+ - 😝 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
  - 😝 [Global stupiduty](http://9gag.com/gag/aMELWrP)
- - 💣 [Surviving An Epstein In Jail](http://9gag.com/gag/aMELqqM)
- - 😝 [What&#39;s the lesson?](http://9gag.com/gag/a8qgz0Z)
- - 👉 [Fail](http://9gag.com/gag/avQjvon)<!-- MEMES:END -->
+ - 💣 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)
+ - 👉 [This makes sense](http://9gag.com/gag/a6qR8x2)<!-- MEMES:END -->
 
 ---
 

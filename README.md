@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 💣 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
  - 😝 [What&#39;s the lesson?](http://9gag.com/gag/a8qgz0Z)
- - 👉 [What in the redneck is this !??](http://9gag.com/gag/avQjdMd)<!-- MEMES:END -->
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 💣 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 👉 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
 
 ---
 

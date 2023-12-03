@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to survive easily by simply sliding on stick](http://9gag.com/gag/aWGXD44)
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 👉 [What opinion will you defend like this?](http://9gag.com/gag/aZDYz5n)<!-- MEMES:END -->
+ - 😝 [*Lol :D](http://9gag.com/gag/a043xrB)
+ - 😝 [Victim vs Victor mentality - right on the spot](http://9gag.com/gag/aOxWjE3)
+ - 💣 [Metal birb](http://9gag.com/gag/aYV0mgx)
+ - 😝 [Im a gemini](http://9gag.com/gag/aXnOdez)
+ - 👉 [The way he created the model of the ship from the Pirates of the Caribbean movie is amazing](http://9gag.com/gag/aVb6R48)<!-- MEMES:END -->
 
 ---
 

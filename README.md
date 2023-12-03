@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing some video game and chill...](http://9gag.com/gag/aA09Zy0)
- - 😝 [Somebody brought a cake to share at their job and a co-worker...](http://9gag.com/gag/aNwbRPr)
- - 💣 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
- - 😝 [Fail](http://9gag.com/gag/avQjvon)
- - 👉 [WTF is happening with UK now?](http://9gag.com/gag/aoK7nzx)<!-- MEMES:END -->
+ - 😝 [The new Playstation Portable 2.5 looking fire](http://9gag.com/gag/aeQB755)
+ - 😝 [Just a few seconds later...](http://9gag.com/gag/aDYvOMd)
+ - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 👉 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)<!-- MEMES:END -->
 
 ---
 

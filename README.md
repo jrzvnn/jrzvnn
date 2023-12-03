@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chase named as a potential partner for Apple Card](https://appleinsider.com/articles/23/12/03/chase-named-as-a-potential-partner-for-apple-card?utm_medium=rss)
  - [5 Best Linux Laptops &lpar;2023&rpar;: Repairable, Budget, Powerful](https://www.wired.com/story/best-linux-laptops/)
  - [Bending Spoons lays off entire team behind Filmic Pro](https://appleinsider.com/articles/23/12/03/bending-spoons-lays-off-entire-team-behind-filmic-pro?utm_medium=rss)
  - [Premier League Soccer Livestream: How to Watch Man City vs. Spurs From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-man-city-vs-spurs-from-anywhere/#ftag=CAD590a51e)
- - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)
- - [MediaTek&#39;s AI-Powered Chips Aim To Make Your Next Phone Very Personal     - CNET](https://www.cnet.com/tech/mobile/mediateks-ai-powered-chips-aim-to-make-your-next-phone-very-personal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

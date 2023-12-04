@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)
- - 💣 [The don](http://9gag.com/gag/aA09LMd)
- - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 👉 [Title](http://9gag.com/gag/agoeZwW)<!-- MEMES:END -->
+ - 😝 [`I turn left now, good luck everyone else`](http://9gag.com/gag/aL1EOxV)
+ - 😝 [Now this is one of the best plastic surgery examples I&#39;ve ever seen](http://9gag.com/gag/a4o0VGm)
+ - 💣 [True](http://9gag.com/gag/abv8E28)
+ - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - 👉 [That is 100% true.](http://9gag.com/gag/aL1EOEM)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
- - 💣 [The don](http://9gag.com/gag/aA09LMd)
- - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 👉 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)<!-- MEMES:END -->
+ - 😝 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)
+ - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 💣 [Title](http://9gag.com/gag/agoeZwW)
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Millennials\u2019 greatest achievement](http://9gag.com/gag/a8qgN56)
- - 😝 [Lol](http://9gag.com/gag/a9qGe3o)
- - 💣 [Patience lately.](http://9gag.com/gag/ap9MwKn)
- - 😝 [Women](http://9gag.com/gag/a4o0g3v)
- - 👉 [That is one big bite](http://9gag.com/gag/a8qgN7d)<!-- MEMES:END -->
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 💣 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - 😝 [This is my kind of Politician. &#39;&#39;You are not welcome here&#39;&#39;!](http://9gag.com/gag/armLwGK)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 

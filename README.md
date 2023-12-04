@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s WH-1000XM5 have dropped to a new all-time low price](https://www.theverge.com/2023/12/4/23987936/sony-wh-1000xm5-noise-canceling-headphones-deal-sale)
  - [This $1,000 card can store a message in DNA](https://www.theverge.com/2023/12/4/23987748/biomemory-card-store-message-dna)
  - [23andMe says hackers stole the ancestry data of 6.9M of its 14M customers, via a breach first disclosed in October 2023, by leveraging access to ~14K accounts &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231204/p19#a231204p19)
  - [Boost Mobile&#39;s $60/Month Unlimited Plan Comes With a Free iPhone 15 Pro     - CNET](https://www.cnet.com/deals/get-the-iphone-15-pro-and-an-unlimited-plan-for-just-60-per-month/#ftag=CAD590a51e)
- - [&#39;Barbie&#39;: Here&#39;s When to Stream on Max and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/barbie-heres-when-to-stream-on-max-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Barbie&#39;: Here&#39;s When to Stream on Max and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/barbie-heres-when-to-stream-on-max-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

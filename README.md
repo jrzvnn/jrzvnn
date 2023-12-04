@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers scanned public repos and found 1,681 exposed Hugging Face API tokens belonging to Meta, Microsoft, Google, and others, many with write permissions &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/231204/p18#a231204p18)
  - [AssemblyAI, which lets companies build AI speech models, raised $50M led by Accel, bringing its total funding to $115M, and says it now has 4K paying customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p17#a231204p17)
  - [Daily deals Dec. 4: AirPods for $99, iPads and MacBooks from $120, 43% off Google Pixel Watch, more](https://appleinsider.com/articles/23/12/04/daily-deals-dec-4-airpods-for-99-ipads-and-macbooks-from-120-43-off-google-pixel-watch-more?utm_medium=rss)
  - [&#39;Killers of the Flower Moon&#39; gets digital release before Apple TV+ streaming debut](https://appleinsider.com/articles/23/12/04/killers-of-the-flower-moon-gets-digital-release-before-apple-tv-streaming-debut?utm_medium=rss)
- - [Apple TV+ opts not to renew both &#39;Central Park&#39; and &#39;Swagger&#39;](https://appleinsider.com/articles/23/12/04/apple-tv-opts-not-to-renew-both-central-park-and-swagger?utm_medium=rss)
- - [Asking ChatGPT to repeat words &quot;forever&quot; is now against OpenAI&#39;s terms of service, after Google researchers showed that doing so led it to reveal training data &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231204/p16#a231204p16)<!-- TECH:END -->
+ - [Apple TV+ opts not to renew both &#39;Central Park&#39; and &#39;Swagger&#39;](https://appleinsider.com/articles/23/12/04/apple-tv-opts-not-to-renew-both-central-park-and-swagger?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

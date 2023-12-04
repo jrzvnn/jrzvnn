@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Innovation-Killing Noncompete Agreements Are Finally Dying](https://www.wired.com/story/innovation-killing-noncompete-agreements-finally-dying/)
+ - [Dispatch from the Future: The Must-Have Gadgets and Gear of 2053](https://www.wired.com/story/gadgets-and-gear-of-2053/)
+ - [WhatsApp to let iOS users share pictures and videos in original quality](https://www.theverge.com/2023/12/4/23987378/whatsapp-ios-update-share-pictures-videos-original-quality)
  - [Disinformation scholar Joan Donovan claims in a whistleblower filing that her superiors soured on her as Harvard got the Chan Zuckerberg Initiative&#39;s $500M gift &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231204/p6#a231204p6)
- - [Apple Watch Fall Detection saves hiker after fall in the forest](https://appleinsider.com/articles/23/12/04/apple-watch-fall-detection-saves-hiker-after-fall-in-the-forest?utm_medium=rss)
- - [US Commerce Secretary Gina Raimondo says her department needs more money to stop China on chips and calls out Nvidia for redesigning for the Chinese market &lpar;Peter Martin/Bloomberg&rpar;](http://www.techmeme.com/231204/p5#a231204p5)
- - [Inside America&#39;s School Internet Censorship Machine](https://www.wired.com/story/inside-americas-school-internet-censorship-machine/)
- - [Internal memo: ByteDance plans to release a &quot;bot development platform&quot; in beta by the end of December, to let users create their own AI chatbots &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231204/p4#a231204p4)<!-- TECH:END -->
+ - [Apple Watch Fall Detection saves hiker after fall in the forest](https://appleinsider.com/articles/23/12/04/apple-watch-fall-detection-saves-hiker-after-fall-in-the-forest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

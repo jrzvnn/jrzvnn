@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 💣 [Yeet the child](http://9gag.com/gag/avQjVeE)
- - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
- - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
+ - 😝 [Banana](http://9gag.com/gag/aZDYKOQ)
+ - 😝 [The don](http://9gag.com/gag/aA09LMd)
+ - 💣 [Erasure of historical White figures.](http://9gag.com/gag/a7qxB4b)
+ - 😝 [The cat saw snow for the first time](http://9gag.com/gag/a2KXVL9)
+ - 👉 [Be like Poland.](http://9gag.com/gag/aPgqzmK)<!-- MEMES:END -->
 
 ---
 

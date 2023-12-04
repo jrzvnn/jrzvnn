@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside America&#39;s School Internet Censorship Machine](https://www.wired.com/story/inside-americas-school-internet-censorship-machine/)
  - [Internal memo: ByteDance plans to release a &quot;bot development platform&quot; in beta by the end of December, to let users create their own AI chatbots &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231204/p4#a231204p4)
  - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)
- - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)
- - [Spotify to lay off 17 percent of its workforce in latest round of job cuts](https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting)
- - [An Update on December 2023 Organizational Changes &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)<!-- TECH:END -->
+ - [Here&#39;s How to Share and Customize Your 2023 Spotify Wrapped Results     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-share-and-customize-your-2023-spotify-wrapped-results/#ftag=CAD590a51e)
+ - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
- - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)
- - [Building for tomorrow](https://www.theverge.com/23963720/infrastructure-ev-battery-5g-trucks-internet-silicon)
- - [Q&amp;A with OpenAI COO Brad Lightcap on ChatGPT&#39;s launch, GPT-4, DALL-E, overhyping AI, the business of generative AI, ChatGPT Enterprise, multimodal AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231204/p11#a231204p11)
- - [Space lasers!](https://www.theverge.com/23981012/deep-space-network-optical-communication-laser-infrastructure)<!-- TECH:END -->
+ - [Verizon’s new Netflix and Max bundle costs $10 / month with ads](https://www.theverge.com/2023/12/4/23987425/verizon-netflix-max-bundle-price-myplan)
+ - [After Meta jumped 172% in the year to November, Mark Zuckerberg sold 682K shares worth almost $185M via trading plans, his first share sale since November 2021 &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/231204/p12#a231204p12)
+ - [Ikea launches new sensors, Ecobee doorbell updated, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/12/04/ikea-launches-new-sensors-ecobee-doorbell-updated-more-on-homekit-insider?utm_medium=rss)
+ - [TikTok’s Ticketmaster feature is now available outside of the US](https://www.theverge.com/2023/12/4/23987444/tiktok-ticketmaster-app-ticketing-event-feature-expansion)
+ - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

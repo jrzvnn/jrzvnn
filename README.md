@@ -128,8 +128,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
  - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
  - [The influences of Godzilla Minus One go beyond the atom bomb](https://www.theverge.com/23984534/godzilla-minus-one-interview-takashi-yamazaki)
- - [ExpressVPN brings its VPN app to the Apple TV](https://appleinsider.com/articles/23/12/04/expressvpn-brings-its-vpn-app-to-the-apple-tv?utm_medium=rss)
- - [Meta is removing the ability to see phone notifications on your Quest](https://www.theverge.com/2023/12/4/23988161/meta-quest-update-v60-remove-smartphone-notifications)<!-- TECH:END -->
+ - [14K Oval Hoop Earrings     - CNET](https://www.cnet.com/culture/fashion/14k-oval-hoop-earrings-dpnl/#ftag=CAD590a51e)
+ - [ExpressVPN brings its VPN app to the Apple TV](https://appleinsider.com/articles/23/12/04/expressvpn-brings-its-vpn-app-to-the-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

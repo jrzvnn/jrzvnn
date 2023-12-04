@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is 100% true.](http://9gag.com/gag/aL1EOEM)
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 💣 [Title](http://9gag.com/gag/agoeZwW)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 💣 [When the problem asks what is the problem](http://9gag.com/gag/aMELNzG)
+ - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 

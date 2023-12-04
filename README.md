@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 💣 [Wife cheated I left. Starting over and have all I need. My dog ,pizza, and some peanut butter whisky.](http://9gag.com/gag/aeQBPWO)
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
  - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 👉 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)<!-- MEMES:END -->
+ - 💣 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 👉 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)<!-- MEMES:END -->
 
 ---
 

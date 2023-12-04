@@ -129,7 +129,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [US regulators are proposing a labeling system for AI healthcare apps, including requiring disclosure of how the tools are trained and how they perform &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231203/p10#a231203p10)
  - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
  - [Final day: save 67% on 3 months of Paramount Plus](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)
- - [Bitcoin trades above $40K for the first time since May 2022 as the digital asset extends its 2023 rebound on expectations of interest-rate cuts and ETF demand &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)<!-- TECH:END -->
+ - [Bitcoin trades above $40K for the first time since May 2022 as the digital asset extends its 2023 rebound on expectations of interest-rate cuts and ETF demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

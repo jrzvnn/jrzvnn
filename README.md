@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mistral AI is in the final stages of raising &amp;euro;450M in a round valuing the OpenAI rival around $2B; a16z is in talks to provide &amp;euro;200M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p22#a231204p22)
  - [Generative AI video startup Runway ML partners with Getty Images on a new AI video model available in the coming months for use in Hollywood and advertising &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231204/p21#a231204p21)
  - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
  - [Tesla warns that the Model 3 is about to lose half of its tax credit in the US](https://www.theverge.com/2023/12/4/23988031/tesla-elon-musk-ev-tax-credit-model-3)
- - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)
- - [OpenAI COO thinks AI for business is overhyped](https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap)<!-- TECH:END -->
+ - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)
+ - [Now you can slide into Strava DMs](https://www.theverge.com/2023/12/4/23984181/strava-direct-messaging-fitness-routes)
  - [Building for tomorrow](https://www.theverge.com/23963720/infrastructure-ev-battery-5g-trucks-internet-silicon)
  - [Q&amp;A with OpenAI COO Brad Lightcap on ChatGPT&#39;s launch, GPT-4, DALL-E, overhyping AI, the business of generative AI, ChatGPT Enterprise, multimodal AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231204/p11#a231204p11)
- - [Space lasers!](https://www.theverge.com/23981012/deep-space-network-optical-communication-laser-infrastructure)
- - [WhatsApp updates its iOS app to let users send photos and videos in their original quality &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231204/p10#a231204p10)
- - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)<!-- TECH:END -->
+ - [Space lasers!](https://www.theverge.com/23981012/deep-space-network-optical-communication-laser-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
- - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
- - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
+ - 😝 [Title](http://9gag.com/gag/agoeZwW)
+ - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
+ - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 👉 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)<!-- MEMES:END -->
 
 ---
 

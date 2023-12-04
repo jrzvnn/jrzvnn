@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 💣 [The don](http://9gag.com/gag/aA09LMd)
- - 😝 [`I turn left now, good luck everyone else`](http://9gag.com/gag/aL1EOxV)
- - 👉 [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)<!-- MEMES:END -->
+ - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
+ - 😝 [The don](http://9gag.com/gag/aA09LMd)
+ - 💣 [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
- - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 💣 [Funny guy](http://9gag.com/gag/a8qgvwQ)
- - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
+ - 😝 [That is 100% true.](http://9gag.com/gag/aL1EOEM)
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 💣 [Title](http://9gag.com/gag/agoeZwW)
+ - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 

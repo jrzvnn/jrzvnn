@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers scanned public repos and found 1,681 exposed Hugging Face API tokens belonging to Meta, Microsoft, Google, and others, many with write permissions &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/231204/p18#a231204p18)
- - [AssemblyAI, which lets companies build AI speech models, raised $50M led by Accel, bringing its total funding to $115M, and says it now has 4K paying customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p17#a231204p17)
- - [Daily deals Dec. 4: AirPods for $99, iPads and MacBooks from $120, 43% off Google Pixel Watch, more](https://appleinsider.com/articles/23/12/04/daily-deals-dec-4-airpods-for-99-ipads-and-macbooks-from-120-43-off-google-pixel-watch-more?utm_medium=rss)
- - [&#39;Killers of the Flower Moon&#39; gets digital release before Apple TV+ streaming debut](https://appleinsider.com/articles/23/12/04/killers-of-the-flower-moon-gets-digital-release-before-apple-tv-streaming-debut?utm_medium=rss)
- - [Apple TV+ opts not to renew both &#39;Central Park&#39; and &#39;Swagger&#39;](https://appleinsider.com/articles/23/12/04/apple-tv-opts-not-to-renew-both-central-park-and-swagger?utm_medium=rss)<!-- TECH:END -->
+ - [Halide plans first iPhone video app &#39;Kino&#39; for February 2024 release](https://appleinsider.com/articles/23/12/04/halide-plans-first-iphone-video-app-kino-for-february-2024-release?utm_medium=rss)
+ - [Dragon Age: Dreadwolf has another new trailer, and promises more details in ‘Summer 2024’](https://www.theverge.com/2023/12/4/23987808/dragon-age-dreadwolf-trailer-summer-2024-bioware)
+ - [Eve brings energy monitoring to its SmartThings integration](https://www.theverge.com/2023/12/4/23987467/eve-energy-smart-plug-samsung-smartthings-energy-monitoring-integration)
+ - [George Santos Is Now on Cameo](https://www.wired.com/story/george-santos-cameo/)
+ - [Researchers scanned public repos and found 1,681 exposed Hugging Face API tokens belonging to Meta, Microsoft, Google, and others, many with write permissions &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/231204/p18#a231204p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

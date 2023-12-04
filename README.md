@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where are all the robot trucks?](https://www.theverge.com/23981006/autonomous-truck-semi-driverless-aurora-kodiak-infrastructure)
- - [Sources: Byju&#39;s founder Byju Raveendran pledged his and his family&#39;s homes as collateral to borrow ~$12M to raise money to pay staff, to fight a cash crunch &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/231204/p9#a231204p9)
- - [Taiwan Economy Minister Wang Mei-hua says US officials plan to visit Taiwan to explain the new complex China chip rules, a move that &quot;is something Taiwan needs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p8#a231204p8)
- - [IBM announces 10 quantum computing projects, focusing on areas like simulating quantum physics and solving problems in chemistry and materials science &lpar;Financial Times&rpar;](http://www.techmeme.com/231204/p7#a231204p7)
- - [Innovation-Killing Noncompete Agreements Are Finally Dying](https://www.wired.com/story/innovation-killing-noncompete-agreements-finally-dying/)<!-- TECH:END -->
+ - [WhatsApp updates its iOS app to let users send photos and videos in their original quality &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231204/p10#a231204p10)
+ - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
+ - [Want to Store a Message in DNA? That’ll Be $1,000](https://www.wired.com/story/store-a-message-in-dna/)
+ - [Gravity Eye Massager Review: Multi-Functional and Compact](https://www.wired.com/review/gravity-eye-massager/)
+ - [Where are all the robot trucks?](https://www.theverge.com/23981006/autonomous-truck-semi-driverless-aurora-kodiak-infrastructure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

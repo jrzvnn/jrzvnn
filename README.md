@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Generative AI video startup Runway ML partners with Getty Images on a new AI video model available in the coming months for use in Hollywood and advertising &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231204/p21#a231204p21)
+ - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
  - [Tesla warns that the Model 3 is about to lose half of its tax credit in the US](https://www.theverge.com/2023/12/4/23988031/tesla-elon-musk-ev-tax-credit-model-3)
  - [The Apple TV just got its first big native VPN app](https://www.theverge.com/2023/12/4/23987742/expressvpn-apple-tv-vpn-app-tvos-17)
- - [OpenAI COO thinks AI for business is overhyped](https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap)
- - [A look at Osaka-based Fuso Chemical, which supplies 90%+ of the silica to polish wafers, sinking deeper into debt by refusing to raise its prices to cover capex &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p20#a231204p20)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
+ - [OpenAI COO thinks AI for business is overhyped](https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

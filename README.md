@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: Russia- and China-linked hackers targeted UK nuclear site Sellafield with sleeper malware as far back as 2015; the full extent is still unknown &lpar;The Guardian&rpar;](http://www.techmeme.com/231204/p15#a231204p15)
  - [Sony Access controller review: beautifully designed with help from disabled gamers, highly configurable, and perfect for lap use, but missing some features &lpar;Chris Reardon/Wired&rpar;](http://www.techmeme.com/231204/p14#a231204p14)
  - [What&#39;s Apple&#39;s Vision Pro killer app?](https://appleinsider.com/articles/23/12/04/whats-apples-vision-pro-killer-app?utm_medium=rss)
  - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [10 Best Outdoor Security Cameras &lpar;2023&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Bending Spoons confirmed it laid off all 22 of Filmic’s original staff](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)<!-- TECH:END -->
+ - [10 Best Outdoor Security Cameras &lpar;2023&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

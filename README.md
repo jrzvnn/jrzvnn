@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Price war drops M3 14-inch MacBook Pro to as low as $1,399](https://appleinsider.com/articles/23/12/04/price-war-drops-m3-14-inch-macbook-pro-to-as-low-as-1399?utm_medium=rss)
+ - [Zach Gage’s Puzzmo gets acquired as the newspaper games space heats up](https://www.theverge.com/2023/12/4/23984103/puzzmo-acquired-hearst-zach-gage)
  - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)
  - [Investigation: Russia- and China-linked hackers targeted UK nuclear site Sellafield with sleeper malware as far back as 2015; the full extent is still unknown &lpar;The Guardian&rpar;](http://www.techmeme.com/231204/p15#a231204p15)
- - [Sony Access controller review: beautifully designed with help from disabled gamers, highly configurable, and perfect for lap use, but missing some features &lpar;Chris Reardon/Wired&rpar;](http://www.techmeme.com/231204/p14#a231204p14)
- - [What&#39;s Apple&#39;s Vision Pro killer app?](https://appleinsider.com/articles/23/12/04/whats-apples-vision-pro-killer-app?utm_medium=rss)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
+ - [Best Heated Blankets for 2023     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

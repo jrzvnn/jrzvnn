@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The influences of Godzilla Minus One go beyond the atom bomb](https://www.theverge.com/23984534/godzilla-minus-one-interview-takashi-yamazaki)
  - [ExpressVPN brings its VPN app to the Apple TV](https://appleinsider.com/articles/23/12/04/expressvpn-brings-its-vpn-app-to-the-apple-tv?utm_medium=rss)
  - [Meta is removing the ability to see phone notifications on your Quest](https://www.theverge.com/2023/12/4/23988161/meta-quest-update-v60-remove-smartphone-notifications)
  - [Sources: Mistral AI is in the final stages of raising &amp;euro;450M in a round valuing the OpenAI rival around $2B; a16z is in talks to provide &amp;euro;200M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p22#a231204p22)
- - [Generative AI video startup Runway ML partners with Getty Images on a new AI video model available in the coming months for use in Hollywood and advertising &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231204/p21#a231204p21)
- - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)<!-- TECH:END -->
+ - [Generative AI video startup Runway ML partners with Getty Images on a new AI video model available in the coming months for use in Hollywood and advertising &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231204/p21#a231204p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

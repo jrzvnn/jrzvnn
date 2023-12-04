@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 😝 [Be like Poland.](http://9gag.com/gag/aPgqzmK)
- - 💣 [A Classic](http://9gag.com/gag/amAZyDj)
+ - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
  - 😝 [The don](http://9gag.com/gag/aA09LMd)
- - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
+ - 💣 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 👉 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)<!-- MEMES:END -->
 
 ---
 

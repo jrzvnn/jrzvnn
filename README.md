@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/agoeZwW)
  - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
- - 💣 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
  - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 👉 [This is the pure definition of `natural selection`](http://9gag.com/gag/anzoWrq)<!-- MEMES:END -->
+ - 👉 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)<!-- MEMES:END -->
 
 ---
 

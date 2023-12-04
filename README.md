@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mac ransomware doesn&#39;t pose much of a threat yet](https://appleinsider.com/articles/23/12/04/new-mac-ransomware-doesnt-pose-much-of-a-threat-yet?utm_medium=rss)
- - [A group of 83 Spanish media outlets files a &amp;euro;550M lawsuit against Meta, citing unfair competition in ads due to its &quot;massive&quot; and &quot;systematic&quot; use of data &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p13#a231204p13)
- - [Verizon’s new Netflix and Max bundle costs $10 / month with ads](https://www.theverge.com/2023/12/4/23987425/verizon-netflix-max-bundle-price-myplan)
- - [After Meta jumped 172% in the year to November, Mark Zuckerberg sold 682K shares worth almost $185M via trading plans, his first share sale since November 2021 &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/231204/p12#a231204p12)
- - [Ikea launches new sensors, Ecobee doorbell updated, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/12/04/ikea-launches-new-sensors-ecobee-doorbell-updated-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Sony Access controller review: beautifully designed with help from disabled gamers, highly configurable, and perfect for lap use, but missing some features &lpar;Chris Reardon/Wired&rpar;](http://www.techmeme.com/231204/p14#a231204p14)
+ - [What&#39;s Apple&#39;s Vision Pro killer app?](https://appleinsider.com/articles/23/12/04/whats-apples-vision-pro-killer-app?utm_medium=rss)
+ - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
+ - [10 Best Outdoor Security Cameras &lpar;2023&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Bending Spoons confirmed it laid off all 22 of Filmic’s original staff](https://www.theverge.com/2023/12/3/23986187/filmic-staff-laid-off-bending-spoons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

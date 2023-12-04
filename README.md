@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are brown people making absolutely every show about themself? It&#39;s making my angry at this point.](http://9gag.com/gag/aKEMnqN)
- - 😝 [All you need to do is drag them to your cave. Simpler times.](http://9gag.com/gag/agoe66w)
- - 💣 [Just saying tho...](http://9gag.com/gag/a4o0mQy)
- - 😝 [Looks good to me](http://9gag.com/gag/agoe6DK)
- - 👉 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)<!-- MEMES:END -->
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 😝 [Ancient Asian math problem](http://9gag.com/gag/adPzbAB)
+ - 💣 [Brazilian opens a LIVE to stay on the street at dawn until he is robbed, the live lasted 48 minutes.](http://9gag.com/gag/axoreyM)
+ - 😝 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)
+ - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
 
 ---
 

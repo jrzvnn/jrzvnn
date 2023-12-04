@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan Economy Minister Wang Mei-hua says US officials plan to visit Taiwan to explain the new complex China chip rules, a move that &quot;is something Taiwan needs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p8#a231204p8)
+ - [IBM announces 10 quantum computing projects, focusing on areas like simulating quantum physics and solving problems in chemistry and materials science &lpar;Financial Times&rpar;](http://www.techmeme.com/231204/p7#a231204p7)
  - [Innovation-Killing Noncompete Agreements Are Finally Dying](https://www.wired.com/story/innovation-killing-noncompete-agreements-finally-dying/)
  - [Dispatch from the Future: The Must-Have Gadgets and Gear of 2053](https://www.wired.com/story/gadgets-and-gear-of-2053/)
- - [WhatsApp to let iOS users share pictures and videos in original quality](https://www.theverge.com/2023/12/4/23987378/whatsapp-ios-update-share-pictures-videos-original-quality)
- - [Disinformation scholar Joan Donovan claims in a whistleblower filing that her superiors soured on her as Harvard got the Chan Zuckerberg Initiative&#39;s $500M gift &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/231204/p6#a231204p6)
- - [Apple Watch Fall Detection saves hiker after fall in the forest](https://appleinsider.com/articles/23/12/04/apple-watch-fall-detection-saves-hiker-after-fall-in-the-forest?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp to let iOS users share pictures and videos in original quality](https://www.theverge.com/2023/12/4/23987378/whatsapp-ios-update-share-pictures-videos-original-quality)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

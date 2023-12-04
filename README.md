@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [George Lucas dropping facts](http://9gag.com/gag/aGEQqWn)
- - 😝 [Banana](http://9gag.com/gag/aZDYKOQ)
- - 💣 [Be like Poland.](http://9gag.com/gag/aPgqzmK)
- - 😝 [My genius sometimes scares me too.](http://9gag.com/gag/aNwbX0r)
- - 👉 [Erasure of historical White figures.](http://9gag.com/gag/a7qxB4b)<!-- MEMES:END -->
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 💣 [Milkies](http://9gag.com/gag/a8qgQO1)
+ - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 👉 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)<!-- MEMES:END -->
 
 ---
 

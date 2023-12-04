@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 💣 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
- - 👉 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)<!-- MEMES:END -->
+ - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 💣 [Wife cheated I left. Starting over and have all I need. My dog ,pizza, and some peanut butter whisky.](http://9gag.com/gag/aeQBPWO)
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 👉 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)<!-- MEMES:END -->
 
 ---
 

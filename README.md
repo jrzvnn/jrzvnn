@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I turn left now, good luck everyone else`](http://9gag.com/gag/aL1EOxV)
- - 😝 [Now this is one of the best plastic surgery examples I&#39;ve ever seen](http://9gag.com/gag/a4o0VGm)
- - 💣 [True](http://9gag.com/gag/abv8E28)
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 👉 [That is 100% true.](http://9gag.com/gag/aL1EOEM)<!-- MEMES:END -->
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 💣 [Funny guy](http://9gag.com/gag/a8qgvwQ)
+ - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
+ - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
 
 ---
 

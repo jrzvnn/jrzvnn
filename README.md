@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin trades above $40K for the first time since May 2022 as it extends its 2023 rebound &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)
+ - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
+ - [Bitcoin trades above $40K for the first time since May 2022 as the digital asset extends its 2023 rebound on expectations of interest-rate cuts and ETF demand &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)
  - [Transcription on Mac: when to use Siri&#39;s dictation and when to use AI options](https://appleinsider.com/inside/siri/tips/transcription-on-mac-when-to-use-siris-dictation-and-when-to-use-ai-options?utm_medium=rss)
  - [Best VPN for Gaming in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)
- - [Best Fitbit Deals: $30 Off Charge 6, $70 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Documents: OpenAI signed a letter of intent in 2019 to spend $51M on brain-inspired chips developed by startup Rain AI, in which Sam Altman had invested $1M+ &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231203/p8#a231203p8)<!-- TECH:END -->
+ - [Best Fitbit Deals: $30 Off Charge 6, $70 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

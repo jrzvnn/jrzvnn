@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next destination : police station](http://9gag.com/gag/aVb64y2)
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 💣 [Yeet the child](http://9gag.com/gag/avQjVeE)
  - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
- - 💣 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)
- - 😝 [Yeet the child](http://9gag.com/gag/avQjVeE)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 

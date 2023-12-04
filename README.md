@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Mac ransomware doesn&#39;t pose much of a threat yet](https://appleinsider.com/articles/23/12/04/new-mac-ransomware-doesnt-pose-much-of-a-threat-yet?utm_medium=rss)
+ - [A group of 83 Spanish media outlets files a &amp;euro;550M lawsuit against Meta, citing unfair competition in ads due to its &quot;massive&quot; and &quot;systematic&quot; use of data &lpar;Reuters&rpar;](http://www.techmeme.com/231204/p13#a231204p13)
  - [Verizon’s new Netflix and Max bundle costs $10 / month with ads](https://www.theverge.com/2023/12/4/23987425/verizon-netflix-max-bundle-price-myplan)
  - [After Meta jumped 172% in the year to November, Mark Zuckerberg sold 682K shares worth almost $185M via trading plans, his first share sale since November 2021 &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/231204/p12#a231204p12)
- - [Ikea launches new sensors, Ecobee doorbell updated, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/12/04/ikea-launches-new-sensors-ecobee-doorbell-updated-more-on-homekit-insider?utm_medium=rss)
- - [TikTok’s Ticketmaster feature is now available outside of the US](https://www.theverge.com/2023/12/4/23987444/tiktok-ticketmaster-app-ticketing-event-feature-expansion)
- - [Sony Access Controller Review: A Beautiful Addition for All Gamers](https://www.wired.com/review/sony-access-controller-review/)<!-- TECH:END -->
+ - [Ikea launches new sensors, Ecobee doorbell updated, &amp; more on HomeKit Insider](https://appleinsider.com/articles/23/12/04/ikea-launches-new-sensors-ecobee-doorbell-updated-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

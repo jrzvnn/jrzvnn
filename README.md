@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
- - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
- - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
+ - 😝 [Next destination : police station](http://9gag.com/gag/aVb64y2)
+ - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
+ - 💣 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)
+ - 😝 [Yeet the child](http://9gag.com/gag/avQjVeE)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 

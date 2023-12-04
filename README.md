@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/agoeZwW)
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
- - 👉 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)<!-- MEMES:END -->
+ - 😝 [George Lucas dropping facts](http://9gag.com/gag/aGEQqWn)
+ - 😝 [Banana](http://9gag.com/gag/aZDYKOQ)
+ - 💣 [Be like Poland.](http://9gag.com/gag/aPgqzmK)
+ - 😝 [My genius sometimes scares me too.](http://9gag.com/gag/aNwbX0r)
+ - 👉 [Erasure of historical White figures.](http://9gag.com/gag/a7qxB4b)<!-- MEMES:END -->
 
 ---
 

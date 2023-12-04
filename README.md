@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 😝 [True](http://9gag.com/gag/abv8E28)
- - 💣 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 😝 [Florida cop pit maneuvers undercover cop](http://9gag.com/gag/a043GQB)
+ - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 👉 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
 
 ---
 

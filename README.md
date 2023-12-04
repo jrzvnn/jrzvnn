@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)
- - 😝 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
- - 💣 [Title](http://9gag.com/gag/agoeZwW)
  - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
+ - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
+ - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
 
 ---
 

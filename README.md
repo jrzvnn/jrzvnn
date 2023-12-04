@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
- - 💣 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
+ - 😝 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
  - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 👉 [Now this is one of the best plastic surgery examples I&#39;ve ever seen](http://9gag.com/gag/a4o0VGm)<!-- MEMES:END -->
+ - 💣 [The don](http://9gag.com/gag/aA09LMd)
+ - 😝 [`I turn left now, good luck everyone else`](http://9gag.com/gag/aL1EOxV)
+ - 👉 [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)<!-- MEMES:END -->
 
 ---
 

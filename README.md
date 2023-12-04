@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 😝 [Funny guy](http://9gag.com/gag/a8qgvwQ)
- - 💣 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 😝 [My genius sometimes scares me too.](http://9gag.com/gag/aNwbX0r)
- - 👉 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)<!-- MEMES:END -->
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 💣 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 👉 [True](http://9gag.com/gag/abv8E28)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
- - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
- - 💣 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 😝 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 💣 [Funny guy](http://9gag.com/gag/a8qgvwQ)
+ - 😝 [The don](http://9gag.com/gag/aA09LMd)
+ - 👉 [Milkies](http://9gag.com/gag/a8qgQO1)<!-- MEMES:END -->
 
 ---
 

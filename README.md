@@ -127,9 +127,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Getty lawsuit against Stability AI to go to trial in the UK](https://www.theverge.com/2023/12/4/23988403/getty-lawsuit-stability-ai-copyright-infringement)
  - [A US appeals court throws out VLSI Technology&#39;s $2.18B award won from Intel in a 2021 patent-infringement case, leading to a new trial for one of VLSI&#39;s patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231204/p24#a231204p24)
- - [23andMe admits hackers accessed 6.9 million users’ DNA Relatives data](https://www.theverge.com/2023/12/4/23988050/23andme-hackers-accessed-user-data-confirmed)
- - [Meta says cross-app chatting between Messenger and Instagram will be discontinued in &quot;mid-December 2023&quot;, three years after it announced the feature &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231204/p23#a231204p23)
- - [The influences of Godzilla Minus One go beyond the atom bomb](https://www.theverge.com/23984534/godzilla-minus-one-interview-takashi-yamazaki)<!-- TECH:END -->
+ - [10k Ankh Charm     - CNET](https://www.cnet.com/culture/fashion/10k-ankh-charm-pnl/#ftag=CAD590a51e)
+ - [Best Meal Delivery Deals in December: Blue Apron, Fresh N Lean, Purple Carrot and More     - CNET](https://www.cnet.com/deals/best-meal-delivery-deals/#ftag=CAD590a51e)
+ - [14k Solid Curb Chain     - CNET](https://www.cnet.com/culture/fashion/14k-solid-curb-chain-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

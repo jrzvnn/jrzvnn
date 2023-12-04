@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 😝 [Millennials\u2019 greatest achievement](http://9gag.com/gag/a8qgN56)
+ - 😝 [Lol](http://9gag.com/gag/a9qGe3o)
+ - 💣 [Patience lately.](http://9gag.com/gag/ap9MwKn)
+ - 😝 [Women](http://9gag.com/gag/a4o0g3v)
+ - 👉 [That is one big bite](http://9gag.com/gag/a8qgN7d)<!-- MEMES:END -->
 
 ---
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US regulators are proposing a labeling system for AI healthcare apps, including requiring disclosure of how the tools are trained and how they perform &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231203/p10#a231203p10)
  - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
+ - [Final day: save 67% on 3 months of Paramount Plus](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)
  - [Bitcoin trades above $40K for the first time since May 2022 as the digital asset extends its 2023 rebound on expectations of interest-rate cuts and ETF demand &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/231203/p9#a231203p9)
- - [Transcription on Mac: when to use Siri&#39;s dictation and when to use AI options](https://appleinsider.com/inside/siri/tips/transcription-on-mac-when-to-use-siris-dictation-and-when-to-use-ai-options?utm_medium=rss)
- - [Best VPN for Gaming in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)
- - [Best Fitbit Deals: $30 Off Charge 6, $70 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Transcription on Mac: when to use Siri&#39;s dictation and when to use AI options](https://appleinsider.com/inside/siri/tips/transcription-on-mac-when-to-use-siris-dictation-and-when-to-use-ai-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

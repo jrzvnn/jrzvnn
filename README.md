@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)
  - [Spotify to lay off 17 percent of its workforce in latest round of job cuts](https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting)
  - [Spotify CEO Daniel Ek says the company is laying off about 17% of its workforce due to slow economic growth and more expensive capital &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)
  - [US regulators are proposing a labeling system for AI healthcare apps, including requiring disclosure of how the tools are trained and how they perform &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231203/p10#a231203p10)
- - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)
- - [Final day: save 67% on 3 months of Paramount Plus](https://appleinsider.com/articles/23/11/22/paramount-plus-black-friday-deal-save-67-on-3-months-of-service?utm_medium=rss)<!-- TECH:END -->
+ - [Kiss debuts ‘immortal’ digital avatars and plans to go ‘fully virtual’](https://www.theverge.com/2023/12/3/23986652/kiss-final-show-farewell-tour-digital-avatars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

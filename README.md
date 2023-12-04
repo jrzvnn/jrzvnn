@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apptopia: Threads hit 620K daily Android and iOS downloads on Nov. 23, vs. ~350K in early November; since September, X saw 27M new downloads, vs. Threads&#39; 41M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231204/p26#a231204p26)
+ - [Sources: cloud-based call center software maker Five9 is exploring a sale and held discussions with Zoom; Five9 scrapped a $14.7B takeover by Zoom in Sept. 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231204/p25#a231204p25)
+ - [The first GTA VI trailer is here](https://www.theverge.com/2023/12/4/23988446/gta-vi-trailer-leaked-vice-city)
  - [Getty lawsuit against Stability AI to go to trial in the UK](https://www.theverge.com/2023/12/4/23988403/getty-lawsuit-stability-ai-copyright-infringement)
- - [A US appeals court throws out VLSI Technology&#39;s $2.18B award won from Intel in a 2021 patent-infringement case, leading to a new trial for one of VLSI&#39;s patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231204/p24#a231204p24)
- - [10k Ankh Charm     - CNET](https://www.cnet.com/culture/fashion/10k-ankh-charm-pnl/#ftag=CAD590a51e)
- - [Best Meal Delivery Deals in December: Blue Apron, Fresh N Lean, Purple Carrot and More     - CNET](https://www.cnet.com/deals/best-meal-delivery-deals/#ftag=CAD590a51e)
- - [14k Solid Curb Chain     - CNET](https://www.cnet.com/culture/fashion/14k-solid-curb-chain-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US appeals court throws out VLSI Technology&#39;s $2.18B award won from Intel in a 2021 patent-infringement case, leading to a new trial for one of VLSI&#39;s patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231204/p24#a231204p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

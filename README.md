@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
- - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
  - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 👉 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)<!-- MEMES:END -->
+ - 😝 [Poor fat Woah man. Emotional damage.](http://9gag.com/gag/aBdeN1D)
+ - 💣 [It seems there is a pattern](http://9gag.com/gag/aMELDeX)
+ - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - 👉 [Now this is one of the best plastic surgery examples I&#39;ve ever seen](http://9gag.com/gag/a4o0VGm)<!-- MEMES:END -->
 
 ---
 

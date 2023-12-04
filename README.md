@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ opts not to renew both &#39;Central Park&#39; and &#39;Swagger&#39;](https://appleinsider.com/articles/23/12/04/apple-tv-opts-not-to-renew-both-central-park-and-swagger?utm_medium=rss)
  - [Asking ChatGPT to repeat words &quot;forever&quot; is now against OpenAI&#39;s terms of service, after Google researchers showed that doing so led it to reveal training data &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231204/p16#a231204p16)
  - [$4.01 Steve Jobs check expected to fetch $25,000 at auction](https://appleinsider.com/articles/23/12/04/401-steve-jobs-check-expected-to-fetch-25000-at-auction?utm_medium=rss)
  - [Price war drops M3 14-inch MacBook Pro to as low as $1,399](https://appleinsider.com/articles/23/12/04/price-war-drops-m3-14-inch-macbook-pro-to-as-low-as-1399?utm_medium=rss)
- - [Zach Gage’s Puzzmo gets acquired as the newspaper games space heats up](https://www.theverge.com/2023/12/4/23984103/puzzmo-acquired-hearst-zach-gage)
- - [The Google Pixel Watch 2 is selling for its lowest price of $299.99](https://www.theverge.com/2023/12/4/23987423/google-pixel-watch-amazon-echo-dot-tunic-nintendo-switch-deal-sale)<!-- TECH:END -->
+ - [Zach Gage’s Puzzmo gets acquired as the newspaper games space heats up](https://www.theverge.com/2023/12/4/23984103/puzzmo-acquired-hearst-zach-gage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

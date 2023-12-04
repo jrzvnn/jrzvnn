@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anger Management](http://9gag.com/gag/a9qGNyL)
- - 😝 [Title](http://9gag.com/gag/agoeZwW)
- - 💣 [Must be a redpill moment for him](http://9gag.com/gag/aeQBdeB)
- - 😝 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 👉 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)<!-- MEMES:END -->
+ - 😝 [Funny guy](http://9gag.com/gag/a8qgvwQ)
+ - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - 💣 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 

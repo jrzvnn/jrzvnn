@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: ByteDance plans to release a &quot;bot development platform&quot; in beta by the end of December, to let users create their own AI chatbots &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231204/p4#a231204p4)
  - [Kick, a Twitch rival that has generous creator deals, online gambling, and lax moderation, tries to move beyond edgy content amid public and regulatory pressure &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/231204/p3#a231204p3)
  - [Spotify plans to lay off ~17% of its workforce, or ~1,500 staff, to &quot;rightsize&quot; its costs, after cutting 6% in June, citing slow growth and rising capital costs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231204/p2#a231204p2)
  - [Spotify to lay off 17 percent of its workforce in latest round of job cuts](https://www.theverge.com/2023/12/4/23987335/spotify-layoffs-17-percent-profitability-cost-cutting)
- - [An Update on December 2023 Organizational Changes &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)
- - [US regulators are proposing a labeling system for AI healthcare apps, including requiring disclosure of how the tools are trained and how they perform &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231203/p10#a231203p10)<!-- TECH:END -->
+ - [An Update on December 2023 Organizational Changes &lpar;Daniel Ek/Spotify&rpar;](http://www.techmeme.com/231204/p1#a231204p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

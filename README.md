@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, that happened](http://9gag.com/gag/aKEMXdb)
- - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 💣 [Delusional illusion](http://9gag.com/gag/armLze5)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 👉 [I have questions, but can ask later](http://9gag.com/gag/adPz4yd)<!-- MEMES:END -->
+ - 😝 [Looks good to me](http://9gag.com/gag/agoe6DK)
+ - 😝 [Fun](http://9gag.com/gag/a8qgQgV)
+ - 💣 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
+ - 😝 [The don](http://9gag.com/gag/aA09LMd)
+ - 👉 [Blackwashing](http://9gag.com/gag/aBdeNbD)<!-- MEMES:END -->
 
 ---
 

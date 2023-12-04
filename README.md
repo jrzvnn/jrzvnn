@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delusional illusion](http://9gag.com/gag/armLze5)
- - 😝 [The don](http://9gag.com/gag/aA09LMd)
- - 💣 [Our very own 9gagger @nopify](http://9gag.com/gag/a6qReY8)
- - 😝 [Blackwashing](http://9gag.com/gag/aBdeNbD)
- - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
+ - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - 😝 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)
+ - 💣 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 👉 [The don](http://9gag.com/gag/aA09LMd)<!-- MEMES:END -->
 
 ---
 

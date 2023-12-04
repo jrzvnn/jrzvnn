@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana](http://9gag.com/gag/aZDYKOQ)
- - 😝 [The don](http://9gag.com/gag/aA09LMd)
- - 💣 [Erasure of historical White figures.](http://9gag.com/gag/a7qxB4b)
- - 😝 [The cat saw snow for the first time](http://9gag.com/gag/a2KXVL9)
- - 👉 [Be like Poland.](http://9gag.com/gag/aPgqzmK)<!-- MEMES:END -->
+ - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
+ - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 💣 [Endings we wanted but didn&#39;t get](http://9gag.com/gag/aKEMNBj)
+ - 😝 [Where&#39;d he go?](http://9gag.com/gag/aKEMNVZ)
+ - 👉 [This is the pure definition of `natural selection`](http://9gag.com/gag/anzoWrq)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks good to me](http://9gag.com/gag/agoe6DK)
- - 😝 [Fun](http://9gag.com/gag/a8qgQgV)
- - 💣 [Lindsey Stirling&#39;s crowd synchrony](http://9gag.com/gag/aPgqz2q)
- - 😝 [The don](http://9gag.com/gag/aA09LMd)
- - 👉 [Blackwashing](http://9gag.com/gag/aBdeNbD)<!-- MEMES:END -->
+ - 😝 [The Chosen One](http://9gag.com/gag/a2KXOAe)
+ - 😝 [This makes sense](http://9gag.com/gag/a6qR8x2)
+ - 💣 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 😝 [He\u2019s a slippery one that wee lad](http://9gag.com/gag/aqeEVoQ)
+ - 👉 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)<!-- MEMES:END -->
 
 ---
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram and Facebook cross messaging is coming to an end](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023)
  - [The conversational nature of AI chatbots makes them more trustworthy, which could result in problems including &quot;hidden exploitation&quot; and outright fraud &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231205/p4#a231205p4)
  - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)
  - [An analysis of 36GB of US school network logs covering January 2022 to August 2023 finds widespread use of filters to censor the internet, including health info &lpar;Wired&rpar;](http://www.techmeme.com/231205/p2#a231205p2)
- - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)
- - [Meta, IBM, and over 50 other companies and organizations form the AI Alliance, a coalition to work on open source AI, including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)<!-- TECH:END -->
+ - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

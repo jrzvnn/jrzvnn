@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works everytime](http://9gag.com/gag/adPzwoB)
- - 😝 [When you import filth](http://9gag.com/gag/aMEL5p6)
- - 💣 [`Parkour`](http://9gag.com/gag/aQEjb1w)
- - 😝 [Best boy](http://9gag.com/gag/ay2KmYX)
- - 👉 [And long posts...](http://9gag.com/gag/aBdebzO)<!-- MEMES:END -->
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 💣 [Apologise bushman.](http://9gag.com/gag/aoK7732)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
 
 ---
 

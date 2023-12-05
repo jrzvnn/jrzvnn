@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [Apologise bushman.](http://9gag.com/gag/aoK7732)
- - 💣 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
+ - 😝 [Works everytime](http://9gag.com/gag/adPzwoB)
+ - 😝 [When you import filth](http://9gag.com/gag/aMEL5p6)
+ - 💣 [`Parkour`](http://9gag.com/gag/aQEjb1w)
+ - 😝 [Best boy](http://9gag.com/gag/ay2KmYX)
+ - 👉 [And long posts...](http://9gag.com/gag/aBdebzO)<!-- MEMES:END -->
 
 ---
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba&#39;s paper on its Animate Anyone AI model went viral as users saw how the model could replace TikTok influencers and that it&#39;s trained on TikTokers&#39; videos &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231205/p25#a231205p25)
+ - [The 20 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Apple&#39;s new AirPods Pro 2 firmware is only for Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
  - [Bing tests AI Deep Search that turns your simple question into a detailed prompt](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft)
- - [ESET researchers have found 18 &quot;SpyLoan&quot; malicious loan Android apps, downloaded 12M+ times from the Google Play store alone, since the beginning of the year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231205/p24#a231205p24)
- - [Apple&#39;s iOS 17.2 gives Qi2 charging all the way back to iPhone 13](https://appleinsider.com/articles/23/12/05/apples-ios-172-gives-qi2-charging-all-the-way-back-to-iphone-13?utm_medium=rss)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [PlayStation keeps reminding us why digital ownership sucks](https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks)<!-- TECH:END -->
+ - [ESET researchers have found 18 &quot;SpyLoan&quot; malicious loan Android apps, downloaded 12M+ times from the Google Play store alone, since the beginning of the year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231205/p24#a231205p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -135,10 +135,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
- - 👉 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)<!-- MEMES:END -->
+ - 😝 [France haha](http://9gag.com/gag/aA097Xo)
+ - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 👉 [Hehe](http://9gag.com/gag/aQEj5PK)<!-- MEMES:END -->
 
 ---
 

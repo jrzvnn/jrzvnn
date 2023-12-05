@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score a 16-inch MacBook Pro for $1,799 with free 2-day shipping](https://appleinsider.com/articles/23/12/05/score-a-16-inch-macbook-pro-for-1799-with-free-2-day-shipping?utm_medium=rss)
  - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)
  - [ArmorCode, which consolidates vulnerability data from connected apps and software infrastructure for analysis, raised a $40M Series B led by HighlandX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p32#a231204p32)
  - [Google upgrades Gmail&#39;s spam filters with RETVec, a text vectorizer that understands &quot;adversarial text manipulations&quot; like emojis, typos, and special characters &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231204/p31#a231204p31)
- - [PlayStation accounts are being ‘permanently suspended’ and no one knows why](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
- - [14k Hoop w/ Pearl Drop     - CNET](https://www.cnet.com/culture/fashion/14k-hoop-w-pearl-drop-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation accounts are being ‘permanently suspended’ and no one knows why](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

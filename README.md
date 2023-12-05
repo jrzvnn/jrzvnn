@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch manufacturer of chipmaking gear ASM International says it will invest ~$324M in a new US headquarters in Scottsdale, Arizona, and plans to hire 500 people &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231205/p30#a231205p30)
  - [Apple&#39;s new AirPods Pro 2 firmware is here for USB-C and Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
- - [Microsoft says it will offer three additional years of Windows 10 security updates as a paid upgrade after the OS&#39; end-of-support date on October 14, 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231205/p29#a231205p29)
+ - [Microsoft plans to offer three additional years of monthly Windows 10 security updates, paid for annually, after the OS&#39; end-of-support date on October 14, 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231205/p29#a231205p29)
  - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)
- - [The Looking Glass Go is a folding holographic display that fits in your pocket](https://www.theverge.com/2023/12/5/23989675/looking-glass-go-holographic-display-kickstarter)
- - [Elon Musk&#39;s xAI files with the US SEC to raise up to $1B in an equity offering, saying the startup has raised nearly $135M from four investors since November 29 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231205/p27#a231205p27)<!-- TECH:END -->
+ - [The Looking Glass Go is a folding holographic display that fits in your pocket](https://www.theverge.com/2023/12/5/23989675/looking-glass-go-holographic-display-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

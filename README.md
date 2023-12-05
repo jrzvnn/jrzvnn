@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/awZppdQ)
- - 😝 [And long posts...](http://9gag.com/gag/aBdebzO)
- - 💣 [Do you have one?](http://9gag.com/gag/aNwbbYb)
- - 😝 [He got me](http://9gag.com/gag/avQjwpW)
- - 👉 [Hidden talents](http://9gag.com/gag/aA099vR)<!-- MEMES:END -->
+ - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 ---
 

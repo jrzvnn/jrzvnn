@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Check your globe](http://9gag.com/gag/aXnO3QV)
  - 😝 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
- - 💣 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
- - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
+ - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 ---
 

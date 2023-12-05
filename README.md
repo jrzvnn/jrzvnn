@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of 36GB of US school network logs covering January 2022 to August 2023 finds widespread use of filters to censor the internet, including health info &lpar;Wired&rpar;](http://www.techmeme.com/231205/p2#a231205p2)
  - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)
  - [Meta, IBM, and 50+ other companies and organizations form AI Alliance, a coalition dedicated to work on open source AI including to share tech and reduce risks &lpar;Alexandra Barinka/Bloomberg&rpar;](http://www.techmeme.com/231205/p1#a231205p1)
  - [Premier League Soccer Livestream: How to Watch Luton vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-luton-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
- - [The Fiat 500e is a tiny, affordable EV that’s only emission is classical music](https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car)
- - [Score a 16-inch MacBook Pro for $1,799 with free 2-day shipping](https://appleinsider.com/articles/23/12/05/score-a-16-inch-macbook-pro-for-1799-with-free-2-day-shipping?utm_medium=rss)<!-- TECH:END -->
+ - [The Fiat 500e is a tiny, affordable EV that’s only emission is classical music](https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

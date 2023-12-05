@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s xAI has filed with the SEC to raise up to $1B in an equity offering, saying it has raised nearly $135M from four investors since November 29 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231205/p27#a231205p27)
  - [Gecko Robotics, which makes robots that inspect infrastructure for industries including energy and defense, has raised $100M at a post-money valuation of $633M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231205/p26#a231205p26)
  - [iPhone 13 and iPhone 14 will get Qi2 support with iOS 17.2](https://www.theverge.com/2023/12/5/23989606/iphone-13-14-qi2-magsafe-compatible-apple-ios-17-2)
  - [Apple TV+ scores 16 nominations for 2024 Critics Choice Awards](https://appleinsider.com/articles/23/12/05/apple-tv-scores-16-nominations-for-2024-critics-choice-awards?utm_medium=rss)
- - [Elon Musk’s xAI company is seeking up to $1 billion in investments](https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering)
- - [Epic sci-fi saga &#39;Foundation&#39; will return to Apple TV+ for a third season](https://appleinsider.com/articles/23/12/05/epic-sci-fi-saga-foundation-will-return-to-apple-tv-for-a-third-season?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk’s xAI company is seeking up to $1 billion in investments](https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance CEO Richard Teng refuses to disclose the location of the company&#39;s global headquarters, maintaining a stance taken by former CEO Changpeng Zhao &lpar;Financial Times&rpar;](http://www.techmeme.com/231205/p32#a231205p32)
+ - [Spotify’s not going for Pulitzers anymore](https://www.theverge.com/2023/12/5/23989879/spotify-heavyweight-gimlet-stolen-pulitzer-layoff-daniel-ek)
+ - [Amazon&#39;s Holiday Apple Sale drives prices down to as low as $27](https://appleinsider.com/articles/23/12/05/amazons-holiday-apple-sale-drives-prices-down-to-as-low-as-27?utm_medium=rss)
  - [Original iPhone SE &amp; second-generation 12.9-inch iPad Pro now vintage](https://appleinsider.com/articles/23/12/05/original-iphone-se-second-generation-129-inch-ipad-pro-now-vintage?utm_medium=rss)
- - [Source: VC firm OpenView has laid off most of its staff and will not make new investments, after the firm raised $570M in March, 30% shy of its $800M target &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231205/p31#a231205p31)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Dutch manufacturer of chipmaking gear ASM International plans to invest ~$324M in a US headquarters in Scottsdale, Arizona, and hire 500 people for the facility &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231205/p30#a231205p30)
- - [Microsoft Copilot for Windows 11 Gets GPT-4 Turbo and Dall-E 3     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-for-windows-11-gets-gpt-4-turbo-and-dall-e-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: VC firm OpenView laid off most of its staff and does not plan to make new investments, after raising $570M in March 2023, 30% shy of its $800M target &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/231205/p31#a231205p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

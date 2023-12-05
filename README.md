@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats driver robbed at gunpoint, thieves return Android phone](https://appleinsider.com/articles/23/12/05/uber-eats-driver-robbed-at-gunpoint-thieves-return-android-phone?utm_medium=rss)
- - [Documents: Apple warns India that its EU-style charger rules will hit local production targets and asks to exempt existing iPhone models from the rules &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p8#a231205p8)
- - [Halide says it will never support video, so it’s launching Kino instead](https://www.theverge.com/2023/12/5/23988899/halide-iphone-video-capture-kino-announcement-date)
- - [6 Best Digital Photo Frames &lpar;2023&rpar;: High-Res and Natural](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [Web3 developer platform thirdweb discloses a major vulnerability in its open-source library affecting many NFT collections; Thirdweb became aware on November 20 &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/231205/p7#a231205p7)<!-- TECH:END -->
+ - [Bug in iOS 17 is switching apps while users type - but there&#39;s a fix](https://appleinsider.com/articles/23/12/05/bug-in-ios-17-is-switching-apps-while-users-type---but-theres-a-fix?utm_medium=rss)
+ - [GM, EVgo, and Pilot are making progress on their big coast-to-coast EV charging network](https://www.theverge.com/2023/12/5/23988171/gm-ev-charging-station-progress-pilot-evgo)
+ - [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features)
+ - [Crypto mining hardware retailer Phoenix Group jumps 50%+ after raising $371M in an Abu Dhabi IPO; Abu Dhabi&#39;s largest conglomerate bought a 10% share in October &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/231205/p10#a231205p10)
+ - [Amazon fails to renew its live English Premier League rights deal, as part of Sky and TNT&#39;s new &amp;pound;6.7B TV rights deal for four soccer seasons from 2025/2026 &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/231205/p9#a231205p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

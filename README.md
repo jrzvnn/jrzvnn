@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Copilot with OpenAI&#39;s latest models, including GPT-4 Turbo, and adds a new code interpreter feature and &quot;Deep Search&quot; functionality for Bing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231205/p17#a231205p17)
+ - [Beeper debuts an Android app, Beeper Mini, to let users send iMessages with E2EE, without having to use a new number or log in with an Apple ID, for $2/month &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231205/p18#a231205p18)
+ - [Jamf shares exploit that fools users into believing their hacked iPhone is safe](https://appleinsider.com/articles/23/12/05/jamf-shares-exploit-that-fools-users-into-believing-their-hacked-iphone-is-safe?utm_medium=rss)
  - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
- - [After unexplained bans, PlayStation users report their accounts have been restored](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
- - [Leaked docs show concern at OctoML over helping its customer Civitai make AI images; OctoML co-founder Thierry Moreau said some &quot;could be categorized as&quot; CSAM &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231205/p16#a231205p16)
- - [Apple’s sci-fi epic Foundation is coming back for season 3](https://www.theverge.com/2023/12/5/23989050/foundation-season-3-apple-tv-plus)<!-- TECH:END -->
+ - [How to use an external storage device with your iPhone](https://www.theverge.com/23989090/iphone-files-backup-external-disk-how-to)
+ - [Philips Hue’s Festavia and Nanoleaf’s Essentials Matter smart string lights are up to 25 percent off](https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

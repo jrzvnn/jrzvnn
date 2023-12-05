@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Password Managers &lpar;2023&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
+ - [This new 2-in-1 charger is the MagSafe Duo replacement I didn’t know I wanted](https://www.theverge.com/2023/12/5/23988368/twelvesouth-butterfly-iphone-magsafe-charger-2in1-apple-watch-price-availability)
  - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)
  - [Interviews with 80+ sources describe how OpenAI releasing ChatGPT a year ago triggered a scramble by Google, Meta, and the rest of Silicon Valley to catch up &lpar;New York Times&rpar;](http://www.techmeme.com/231205/p13#a231205p13)
- - [The battle to stop broadband discrimination has only just begun](https://www.theverge.com/23983055/fcc-broadband-access-digital-discrimination-redlining-rules-enforcement)
- - [Get 50% Off the First Year of Your New 1Password Subscription     - CNET](https://www.cnet.com/deals/get-50-off-the-first-year-of-your-new-1password-subscription/#ftag=CAD590a51e)
- - [Apple isn&#39;t happy about India&#39;s demand to upgrade older iPhones with USB-C](https://appleinsider.com/articles/23/12/05/apple-isnt-happy-about-indias-demand-to-upgrade-older-iphones-with-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [The battle to stop broadband discrimination has only just begun](https://www.theverge.com/23983055/fcc-broadband-access-digital-discrimination-redlining-rules-enforcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

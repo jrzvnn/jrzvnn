@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
- - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 👉 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)<!-- MEMES:END -->
 
 ---
 

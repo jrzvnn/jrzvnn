@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Spy Who Dumped the CIA, Went to Therapy, and Now Makes Incredible Television](https://www.wired.com/story/joe-weisberg-the-spy-who-dumped-the-cia/)
+ - [A New Trick Uses AI to Jailbreak AI Models—Including GPT-4](https://www.wired.com/story/automated-ai-attack-gpt-4/)
+ - [SoftBank acquires a 51% stake in Dublin-based Cubic Telecom, which offers software-based networking for 17M+ vehicles, for &amp;euro;473M, valuing Cubic at &amp;euro;927M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231205/p5#a231205p5)
  - [Instagram and Facebook cross messaging is coming to an end](https://www.theverge.com/2023/12/5/23988879/instagram-facebook-meta-cross-platform-messaging-discontinued-mid-december-2023)
- - [The conversational nature of AI chatbots makes them more trustworthy, which could result in problems including &quot;hidden exploitation&quot; and outright fraud &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231205/p4#a231205p4)
- - [Foxconn reports November revenue up 18% YoY to ~$20.6B, the first YoY improvement since January 2023, and forecasts Q4 revenue to be better than expected &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/231205/p3#a231205p3)
- - [An analysis of 36GB of US school network logs covering January 2022 to August 2023 finds widespread use of filters to censor the internet, including health info &lpar;Wired&rpar;](http://www.techmeme.com/231205/p2#a231205p2)
- - [The new Astro A50 X headset switches between your consoles and PC using HDMI passthrough](https://www.theverge.com/2023/12/5/23988405/astro-a50x-gaming-headset-xbox-playstation-pc-hdmi-passthrough-switcher-price-availability)<!-- TECH:END -->
+ - [The conversational nature of AI chatbots makes them more trustworthy, which could result in problems including &quot;hidden exploitation&quot; and outright fraud &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231205/p4#a231205p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

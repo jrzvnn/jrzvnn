@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a4o0g3v)
- - 😝 [That is one big bite](http://9gag.com/gag/a8qgN7d)
- - 💣 [Pay attention now](http://9gag.com/gag/a6qR6yq)
- - 😝 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
- - 👉 [Christmas market at Cologne cathedral. Embrace your culture and tradition...](http://9gag.com/gag/a3ZOgmQ)<!-- MEMES:END -->
+ - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
+ - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
 
 ---
 

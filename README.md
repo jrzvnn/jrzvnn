@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
- - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
- - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
+ - 😝 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 💣 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
+ - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 👉 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)<!-- MEMES:END -->
 
 ---
 

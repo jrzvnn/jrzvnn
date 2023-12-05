@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenSecrets: crypto companies spent $18.96M on US lobbying in Q1 2023 to Q3 2023, up from $16.1M during the same period in 2022; Coinbase spent $2.16M, the most &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231205/p12#a231205p12)
- - [Tesla whistleblower &amp;#321;ukasz Krupski says Autopilot is not safe to use on public roads due to its hardware and software not being &quot;ready&quot; &lpar;BBC&rpar;](http://www.techmeme.com/231205/p11#a231205p11)
- - [Bug in iOS 17 is switching apps while users type - but there&#39;s a fix](https://appleinsider.com/articles/23/12/05/bug-in-ios-17-is-switching-apps-while-users-type---but-theres-a-fix?utm_medium=rss)
- - [GM, EVgo, and Pilot are making progress on their big coast-to-coast EV charging network](https://www.theverge.com/2023/12/5/23988171/gm-ev-charging-station-progress-pilot-evgo)
- - [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features)<!-- TECH:END -->
+ - [&#39;Wiser Than Me with Julia Louis-Dreyfus&#39; is Apple&#39;s podcast of the year](https://appleinsider.com/articles/23/12/05/wiser-than-me-with-julia-louis-dreyfus-is-apples-podcast-of-the-year?utm_medium=rss)
+ - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)
+ - [Uber launches ‘Store Pickup’ feature for those last-minute holiday shoppers](https://www.theverge.com/2023/12/5/23988435/uber-connect-gift-delivery-package-rules)
+ - [Ford and Xcel Energy will build 30,000 EV charging ports for fleet businesses](https://www.theverge.com/2023/12/5/23988078/ford-and-xcel-energy-will-build-30000-ev-charging-ports-for-fleet-businesses)
+ - [OpenSecrets: crypto companies spent $18.96M on US lobbying in Q1 2023 to Q3 2023, up from $16.1M during the same period in 2022; Coinbase spent $2.16M, the most &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/231205/p12#a231205p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

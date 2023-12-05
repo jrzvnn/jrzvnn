@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ted Sarandos says Netflix didn&#39;t see significant &quot;interruption&quot; due to Hollywood strikes and is still targeting a $17B content budget for 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231204/p30#a231204p30)
+ - [Nvidia CEO Jensen Huang says the company plans to build a network of chip plants in Japan in partnership with the country&#39;s companies to meet AI chip demand &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231204/p29#a231204p29)
  - [Ofcom launches a consultation on draft guidelines on how porn sites should lock out underage users, including having a bank or mobile network confirm users&#39; age &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231204/p28#a231204p28)
  - [The &#39;Grand Theft Auto VI&#39; Trailer Is Here. And It’s Already Causing Mayhem](https://www.wired.com/story/grand-theft-auto-6-trailer/)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
- - [The UK tries, once again, to age-gate pornography](https://www.theverge.com/2023/12/4/23987821/uk-online-safety-act-age-verification-pornography-privacy)
- - [DoorDash makes tipping an afterthought to protest New York City’s wage raise](https://www.theverge.com/2023/12/4/23988334/doordash-new-york-minimum-wage-worker-tips)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

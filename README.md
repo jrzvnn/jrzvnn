@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer Livestream: How to Watch Luton vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-luton-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
  - [The Fiat 500e is a tiny, affordable EV that’s only emission is classical music](https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car)
  - [Score a 16-inch MacBook Pro for $1,799 with free 2-day shipping](https://appleinsider.com/articles/23/12/05/score-a-16-inch-macbook-pro-for-1799-with-free-2-day-shipping?utm_medium=rss)
  - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)
- - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
- - [ArmorCode, which consolidates vulnerability data from connected apps and software infrastructure for analysis, raised a $40M Series B led by HighlandX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p32#a231204p32)<!-- TECH:END -->
+ - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

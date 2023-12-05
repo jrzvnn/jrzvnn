@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord rolls out mobile update in quest to become better messaging app](https://www.theverge.com/2023/12/5/23989155/discord-mobile-app-refresh-midnight-view)
+ - [Keychron’s latest keyboard comes with magnetic, analog Hall effect switches](https://www.theverge.com/2023/12/5/23989237/keychron-q1-he-hall-effect-analog-switches-price-release-date-specs-features-mechanical-keyboard)
  - [Amazon tells the UK CMA in a letter that Microsoft uses business practices that restrict customer choice in cloud computing, after a similar complaint by Google &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231205/p19#a231205p19)
  - [More layoffs at another Embracer Group studio](https://www.theverge.com/2023/12/5/23989128/new-world-interactive-layoffs-embracer-group-insurgency-sandstorm)
- - [Beeper debuts an Android app, Beeper Mini, to let users send iMessages with E2EE, without having to use a new number or log in with an Apple ID, for $2/month &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231205/p18#a231205p18)
- - [Jamf shares exploit that fools users into believing their hacked iPhone is safe](https://appleinsider.com/articles/23/12/05/jamf-shares-exploit-that-fools-users-into-believing-their-hacked-iphone-is-safe?utm_medium=rss)
- - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)<!-- TECH:END -->
+ - [Beeper debuts an Android app, Beeper Mini, to let users send iMessages with E2EE, without having to use a new number or log in with an Apple ID, for $2/month &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231205/p18#a231205p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

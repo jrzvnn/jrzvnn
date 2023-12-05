@@ -127,9 +127,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Dutch manufacturer of chipmaking gear ASM International plans to invest ~$324M in a US headquarters in Scottsdale, Arizona, and hire 500 people for the facility &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231205/p30#a231205p30)
- - [Apple&#39;s new AirPods Pro 2 firmware is here for USB-C and Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
- - [Microsoft plans to offer three additional years of monthly Windows 10 security updates, paid for annually, after the OS&#39; end-of-support date on October 14, 2025 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/231205/p29#a231205p29)
- - [iOS 17.2 RC brings Qi2 wireless charging support to iPhone 13 and iPhone 14-series devices; Apple hasn&#39;t said if the phones will charge at 15W on Qi2 chargers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231205/p28#a231205p28)<!-- TECH:END -->
+ - [Microsoft Copilot for Windows 11 Gets GPT-4 Turbo and Dall-E 3     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-for-windows-11-gets-gpt-4-turbo-and-dall-e-3/#ftag=CAD590a51e)
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
+ - [Apple&#39;s new AirPods Pro 2 firmware is here for USB-C and Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

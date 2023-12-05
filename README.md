@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s paper on its Animate Anyone AI model went viral as users saw how the model could replace TikTok influencers and that it&#39;s trained on TikTokers&#39; videos &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/231205/p25#a231205p25)
- - [The 20 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Apple&#39;s new AirPods Pro 2 firmware is only for Lightning models](https://appleinsider.com/articles/23/12/05/apples-new-airpods-pro-2-firmware-is-only-for-lightning-models?utm_medium=rss)
- - [Bing tests AI Deep Search that turns your simple question into a detailed prompt](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft)
- - [ESET researchers have found 18 &quot;SpyLoan&quot; malicious loan Android apps, downloaded 12M+ times from the Google Play store alone, since the beginning of the year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231205/p24#a231205p24)<!-- TECH:END -->
+ - [Apple TV+ scores 16 nominations for 2024 Critics Choice Awards](https://appleinsider.com/articles/23/12/05/apple-tv-scores-16-nominations-for-2024-critics-choice-awards?utm_medium=rss)
+ - [Elon Musk’s xAI company is seeking up to $1 billion in investments](https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering)
+ - [Epic sci-fi saga &#39;Foundation&#39; will return to Apple TV+ for a third season](https://appleinsider.com/articles/23/12/05/epic-sci-fi-saga-foundation-will-return-to-apple-tv-for-a-third-season?utm_medium=rss)
+ - [Best Vegan Meal Delivery Service for 2023     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)
+ - [Netflix Games Is Adding These Award-Winning Titles to Its Library     - CNET](https://www.cnet.com/tech/gaming/netflix-games-is-adding-these-award-winning-titles-to-its-library/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

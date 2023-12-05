@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iOS 17.2 gives Qi2 charging all the way back to iPhone 13](https://appleinsider.com/articles/23/12/05/apples-ios-172-gives-qi2-charging-all-the-way-back-to-iphone-13?utm_medium=rss)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
+ - [PlayStation keeps reminding us why digital ownership sucks](https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks)
  - [A fortnight in Fortnite court](https://www.theverge.com/23959932/epic-v-google-trial-antitrust-play-store-fortnite-recap)
- - [Pixar’s Turning Red, Soul, and Luca are getting theatrical releases in 2024](https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date)
- - [Discord redesigns its mobile app, separating messaging and server tabs, adding messaging features and a midnight theme, alongside performance improvements &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231205/p23#a231205p23)
- - [Apple hands out release candidates for iOS 17.2 &amp; iPadOS 17.2](https://appleinsider.com/articles/23/12/05/apple-hands-out-release-candidates-for-ios-172-ipados-172?utm_medium=rss)
- - [Apple distributes fifth tvOS 17.2 developer beta](https://appleinsider.com/articles/23/12/05/apple-distributes-fifth-tvos-172-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Pixar’s Turning Red, Soul, and Luca are getting theatrical releases in 2024](https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

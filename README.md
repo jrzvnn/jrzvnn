@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s sci-fi epic Foundation is coming back for season 3](https://www.theverge.com/2023/12/5/23989050/foundation-season-3-apple-tv-plus)
+ - [Google Files is testing the ability to search inside photos and PDFs](https://www.theverge.com/2023/12/5/23988969/google-files-app-search-text-images)
  - [Microsoft’s Copilot is getting OpenAI’s latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
  - [Beeper Mini Turns Android&#39;s Green Bubbles Into Blue Bubbles on iPhones](https://www.wired.com/story/beeper-android-iphone-texting-blue-bubbles/)
- - [IBM’s Jerry Chow on the future of quantum computing](https://www.theverge.com/23988271/ibm-quantum-heron-system-two-jerry-chow-qubits)
- - [There’s a new iMessage for Android app — and it actually works](https://www.theverge.com/2023/12/5/23987817/beeper-mini-imessage-android-reverse-engineer)
- - [Get a lifetime Babbel language learning subscription for $149.97 this week only](https://appleinsider.com/articles/23/12/05/get-a-lifetime-babbel-language-learning-subscription-for-14997?utm_medium=rss)<!-- TECH:END -->
+ - [IBM’s Jerry Chow on the future of quantum computing](https://www.theverge.com/23988271/ibm-quantum-heron-system-two-jerry-chow-qubits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

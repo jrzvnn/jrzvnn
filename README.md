@@ -134,9 +134,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
  - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
  - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
  - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 

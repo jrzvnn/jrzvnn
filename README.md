@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple distributes fifth tvOS 17.2 developer beta](https://appleinsider.com/articles/23/12/05/apple-distributes-fifth-tvos-172-developer-beta?utm_medium=rss)
+ - [Release candidate of watchOS 10.2 issued for testing](https://appleinsider.com/articles/23/12/05/release-candidate-of-watchos-102-issued-for-testing?utm_medium=rss)
+ - [AT&amp;T chooses Ericsson to modernize its wireless network with an architecture utilizing open standards, a nearly $14B project over five years; Nokia drops ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231205/p22#a231205p22)
  - [Toyota reveals two new EV concepts as it plods along on its path to electrification](https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover)
- - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)
- - [Audio has vanished from Instagram’s oldest videos](https://www.theverge.com/2023/12/5/23987784/instagram-old-videos-missing-audio)
- - [Motorola Razr 2023 review: not enough of a good thing](https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen)
- - [Bengaluru-based ZestMoney, a Goldman Sachs-backed BNPL startup that raised $130M+ and was valued at $450M, plans to shut down after failing to find a buyer &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231205/p21#a231205p21)<!-- TECH:END -->
+ - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

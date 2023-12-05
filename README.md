@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
  - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
- - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
  - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
+ - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - 👉 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)<!-- MEMES:END -->
 
 ---
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hands out release candidates for iOS 17.2 &amp; iPadOS 17.2](https://appleinsider.com/articles/23/12/05/apple-hands-out-release-candidates-for-ios-172-ipados-172?utm_medium=rss)
  - [Apple distributes fifth tvOS 17.2 developer beta](https://appleinsider.com/articles/23/12/05/apple-distributes-fifth-tvos-172-developer-beta?utm_medium=rss)
+ - [Apple seeds fifth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/12/05/apple-seeds-fifth-macos-142-sonoma-developer-beta?utm_medium=rss)
  - [Release candidate of watchOS 10.2 issued for testing](https://appleinsider.com/articles/23/12/05/release-candidate-of-watchos-102-issued-for-testing?utm_medium=rss)
- - [AT&amp;T chooses Ericsson to modernize its wireless network with an architecture utilizing open standards, a nearly $14B project over five years; Nokia drops ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231205/p22#a231205p22)
- - [Toyota reveals two new EV concepts as it plods along on its path to electrification](https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover)
- - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)<!-- TECH:END -->
+ - [AT&amp;T chooses Ericsson to modernize its wireless network with an architecture utilizing open standards, a nearly $14B project over five years; Nokia drops ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231205/p22#a231205p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

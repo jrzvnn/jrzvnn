@@ -135,10 +135,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - 💣 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
+ - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 💣 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
 
 ---
 

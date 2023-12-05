@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)
  - [Interviews with 80+ sources describe how OpenAI releasing ChatGPT a year ago triggered a scramble by Google, Meta, and the rest of Silicon Valley to catch up &lpar;New York Times&rpar;](http://www.techmeme.com/231205/p13#a231205p13)
  - [The battle to stop broadband discrimination has only just begun](https://www.theverge.com/23983055/fcc-broadband-access-digital-discrimination-redlining-rules-enforcement)
- - [Apple isn&#39;t happy about India&#39;s demand to upgrade older iPhones with USB-C](https://appleinsider.com/articles/23/12/05/apple-isnt-happy-about-indias-demand-to-upgrade-older-iphones-with-usb-c?utm_medium=rss)
- - [&#39;Wiser Than Me with Julia Louis-Dreyfus&#39; is Apple&#39;s podcast of the year](https://appleinsider.com/articles/23/12/05/wiser-than-me-with-julia-louis-dreyfus-is-apples-podcast-of-the-year?utm_medium=rss)
- - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)<!-- TECH:END -->
+ - [Get 50% Off the First Year of Your New 1Password Subscription     - CNET](https://www.cnet.com/deals/get-50-off-the-first-year-of-your-new-1password-subscription/#ftag=CAD590a51e)
+ - [Apple isn&#39;t happy about India&#39;s demand to upgrade older iPhones with USB-C](https://appleinsider.com/articles/23/12/05/apple-isnt-happy-about-indias-demand-to-upgrade-older-iphones-with-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

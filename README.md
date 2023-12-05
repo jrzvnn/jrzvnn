@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
  - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
  - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
 
 ---
 

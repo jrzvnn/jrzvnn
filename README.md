@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toyota reveals two new EV concepts as it plods along on its path to electrification](https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover)
+ - [Microsoft to offer consumers paid Windows 10 security updates for the first time](https://www.theverge.com/2023/12/5/23988896/microsoft-windows-10-extended-security-updates-consumers-paid)
+ - [Audio has vanished from Instagram’s oldest videos](https://www.theverge.com/2023/12/5/23987784/instagram-old-videos-missing-audio)
  - [Motorola Razr 2023 review: not enough of a good thing](https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen)
- - [Bengaluru-based ZestMoney, a Goldman Sachs-backed BNPL startup that raised $130M+ and was valued at $450M, plans to shut down after failing to find a buyer &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231205/p21#a231205p21)
- - [Take Hundreds Off EcoFlow Generators and Accessories With These Holiday Deals     - CNET](https://www.cnet.com/deals/take-hundreds-off-ecoflow-generators-and-accessories-with-these-holiday-deals/#ftag=CAD590a51e)
- - [EU interim competition chief Didier Reynders says Amazon must pledge to fairly rank rival robot vacuums to gain approval for its $1.4B iRobot acquisition &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231205/p20#a231205p20)
- - [Discord rolls out mobile update in quest to become better messaging app](https://www.theverge.com/2023/12/5/23989155/discord-mobile-app-refresh-midnight-view)<!-- TECH:END -->
+ - [Bengaluru-based ZestMoney, a Goldman Sachs-backed BNPL startup that raised $130M+ and was valued at $450M, plans to shut down after failing to find a buyer &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231205/p21#a231205p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -134,8 +134,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you import filth](http://9gag.com/gag/aMEL5p6)
  - 😝 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
+ - 😝 [When you import filth](http://9gag.com/gag/aMEL5p6)
  - 💣 [Works everytime](http://9gag.com/gag/adPzwoB)
  - 😝 [Pay attention now](http://9gag.com/gag/a6qR6yq)
  - 👉 [Patience lately.](http://9gag.com/gag/ap9MwKn)<!-- MEMES:END -->

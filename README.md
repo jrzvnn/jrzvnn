@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
- - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 😝 [Simple](http://9gag.com/gag/awZppdQ)
+ - 😝 [And long posts...](http://9gag.com/gag/aBdebzO)
+ - 💣 [Do you have one?](http://9gag.com/gag/aNwbbYb)
+ - 😝 [He got me](http://9gag.com/gag/avQjwpW)
+ - 👉 [Hidden talents](http://9gag.com/gag/aA099vR)<!-- MEMES:END -->
 
 ---
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 💣 [Apologise bushman.](http://9gag.com/gag/aoK7732)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)<!-- MEMES:END -->
+ - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 

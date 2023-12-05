@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [Students volunteer to be pepper sprays for class project](http://9gag.com/gag/aMEL0ZG)
- - 💣 [Fellow landlords, I have an idea...](http://9gag.com/gag/a6qReGN)
- - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 😝 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
+ - 😝 [Works everytime](http://9gag.com/gag/adPzwoB)
+ - 💣 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
+ - 😝 [Pay attention now](http://9gag.com/gag/a6qR6yq)
+ - 👉 [Patience lately.](http://9gag.com/gag/ap9MwKn)<!-- MEMES:END -->
 
 ---
 

@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google upgrades Gmail&#39;s spam filters with RETVec, a text vectorizer that understands &quot;adversarial text manipulations&quot;, like emojis and special characters &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231204/p31#a231204p31)
+ - [PlayStation accounts are being ‘permanently suspended’ and no one knows why](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
  - [Ted Sarandos says Netflix didn&#39;t see significant &quot;interruption&quot; due to Hollywood strikes and is still targeting a $17B content budget for 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231204/p30#a231204p30)
  - [Nvidia CEO Jensen Huang says the company plans to build a network of chip plants in Japan in partnership with the country&#39;s companies to meet AI chip demand &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231204/p29#a231204p29)
- - [Ofcom launches a consultation on draft guidelines on how porn sites should lock out underage users, including having a bank or mobile network confirm users&#39; age &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231204/p28#a231204p28)
- - [The &#39;Grand Theft Auto VI&#39; Trailer Is Here. And It’s Already Causing Mayhem](https://www.wired.com/story/grand-theft-auto-6-trailer/)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)<!-- TECH:END -->
+ - [Best 4K TV Deals: Up to $600 Off Models from Sony, Samsung and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

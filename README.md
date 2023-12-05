@@ -125,9 +125,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ArmorCode, which consolidates vulnerability data from connected apps and software infrastructure for analysis, raised a $40M Series B led by HighlandX &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231204/p32#a231204p32)
  - [Google upgrades Gmail&#39;s spam filters with RETVec, a text vectorizer that understands &quot;adversarial text manipulations&quot;, like emojis and special characters &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231204/p31#a231204p31)
  - [PlayStation accounts are being ‘permanently suspended’ and no one knows why](https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension)
- - [14k Hoop w/ Pearl Drop     - CNET](https://www.cnet.com/culture/fashion/14k-hoop-w-pearl-drop-dpnl/#ftag=CAD590a51e)
  - [Ted Sarandos says Netflix didn&#39;t see significant &quot;interruption&quot; due to Hollywood strikes and is still targeting a $17B content budget for 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231204/p30#a231204p30)
  - [Nvidia CEO Jensen Huang says the company plans to build a network of chip plants in Japan in partnership with the country&#39;s companies to meet AI chip demand &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231204/p29#a231204p29)<!-- TECH:END -->
 

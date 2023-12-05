@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is one big bite](http://9gag.com/gag/a8qgN7d)
- - 😝 [Christmas market at Cologne cathedral. Embrace your culture and tradition...](http://9gag.com/gag/a3ZOgmQ)
- - 💣 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
- - 😝 [Have a Nice day Y&#39;all](http://9gag.com/gag/a9qG0OD)
- - 👉 [Pay attention now](http://9gag.com/gag/a6qR6yq)<!-- MEMES:END -->
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [Yes, that happened](http://9gag.com/gag/aKEMXdb)
+ - 💣 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)<!-- MEMES:END -->
 
 ---
 

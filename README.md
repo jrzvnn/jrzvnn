@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
- - 😝 [Hidden talents](http://9gag.com/gag/aA099vR)
- - 💣 [European things](http://9gag.com/gag/anzoooq)
- - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 👉 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)<!-- MEMES:END -->
+ - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
+ - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 ---
 

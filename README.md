@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
  - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [Milkies](http://9gag.com/gag/a8qgQO1)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
 
 ---
 

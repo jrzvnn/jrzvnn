@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord redesigns its mobile app, separating messaging and server tabs, adding messaging features and a midnight theme, alongside performance improvements &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231205/p23#a231205p23)
  - [Apple hands out release candidates for iOS 17.2 &amp; iPadOS 17.2](https://appleinsider.com/articles/23/12/05/apple-hands-out-release-candidates-for-ios-172-ipados-172?utm_medium=rss)
  - [Apple distributes fifth tvOS 17.2 developer beta](https://appleinsider.com/articles/23/12/05/apple-distributes-fifth-tvos-172-developer-beta?utm_medium=rss)
  - [Apple seeds fifth macOS 14.2 Sonoma developer beta](https://appleinsider.com/articles/23/12/05/apple-seeds-fifth-macos-142-sonoma-developer-beta?utm_medium=rss)
- - [Release candidate of watchOS 10.2 issued for testing](https://appleinsider.com/articles/23/12/05/release-candidate-of-watchos-102-issued-for-testing?utm_medium=rss)
- - [AT&amp;T chooses Ericsson to modernize its wireless network with an architecture utilizing open standards, a nearly $14B project over five years; Nokia drops ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/231205/p22#a231205p22)<!-- TECH:END -->
+ - [Release candidate of watchOS 10.2 issued for testing](https://appleinsider.com/articles/23/12/05/release-candidate-of-watchos-102-issued-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

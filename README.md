@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
- - 😝 [Works everytime](http://9gag.com/gag/adPzwoB)
- - 💣 [Breaking News: Video from Arlington, Virginia Arlington police officers were attempting to execute a search warrant at a residence in Ballston when the suspect discharged several rounds inside the home then an explosion occurred\ud83d\udca5.](http://9gag.com/gag/a6qR6Y9)
- - 😝 [Pay attention now](http://9gag.com/gag/a6qR6yq)
- - 👉 [Patience lately.](http://9gag.com/gag/ap9MwKn)<!-- MEMES:END -->
+ - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
+ - 😝 [Slowly crossing out Slovakia from my list of countries to visit](http://9gag.com/gag/armLDRX)
+ - 💣 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
 
 ---
 

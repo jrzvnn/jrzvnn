@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli data privacy and governance startup Mine, which counts Reddit and HelloFresh as clients, raised a $30M Series B led by Battery Ventures and PayPal &lpar;Globes Online&rpar;](http://www.techmeme.com/231205/p15#a231205p15)
  - [OnePlus launches the OnePlus 12 in China, offering up to 24GB of RAM and 1TB of storage, 100W wired charging, for ~$606, ahead of an &quot;early 2024&quot; global launch &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231205/p14#a231205p14)
  - [9 Best Password Managers &lpar;2023&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
  - [This new 2-in-1 charger is the MagSafe Duo replacement I didn’t know I wanted](https://www.theverge.com/2023/12/5/23988368/twelvesouth-butterfly-iphone-magsafe-charger-2in1-apple-watch-price-availability)
- - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)
- - [Interviews with 80+ sources describe how OpenAI releasing ChatGPT a year ago triggered a scramble by Google, Meta, and the rest of Silicon Valley to catch up &lpar;New York Times&rpar;](http://www.techmeme.com/231205/p13#a231205p13)<!-- TECH:END -->
+ - [Here’s what intentionally crashing a plane for YouTube clicks gets you](https://www.theverge.com/2023/12/5/23988937/youtuber-sponsored-plane-crash-six-month-prison-sentence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -136,9 +136,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
  - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 😝 [Scaling a tooth to remove the plaque and tartar &lpar;hardened plaque&rpar; above the gumline](http://9gag.com/gag/amAZOR4)
- - 👉 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)<!-- MEMES:END -->
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 👉 [Apologise bushman.](http://9gag.com/gag/aoK7732)<!-- MEMES:END -->
 
 ---
 

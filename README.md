@@ -125,7 +125,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission approved up to &amp;euro;1.2B of state aid for a European cloud computing project, the IPCEI CIS, matched with &amp;euro;1.4B in private investments &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/231205/p6#a231205p6)
+ - [The European Commission approves up to &amp;euro;1.2B of state aid for a European cloud computing project, the IPCEI CIS, matched with &amp;euro;1.4B in private investments &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/231205/p6#a231205p6)
  - [The Spy Who Dumped the CIA, Went to Therapy, and Now Makes Incredible Television](https://www.wired.com/story/joe-weisberg-the-spy-who-dumped-the-cia/)
  - [A New Trick Uses AI to Jailbreak AI Models—Including GPT-4](https://www.wired.com/story/automated-ai-attack-gpt-4/)
  - [SoftBank acquires a 51% stake in Dublin-based Cubic Telecom, which offers software-based networking for 17M+ vehicles, for &amp;euro;473M, valuing Cubic at &amp;euro;927M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231205/p5#a231205p5)

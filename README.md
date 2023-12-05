@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Sole-mates](http://9gag.com/gag/aoK7oWx)
- - 😝 [Dramatic drone footage shows worker with a blow torch cutting through metal supports at the SKK Peterburgskiy when suddenly the massive structure collapses](http://9gag.com/gag/a6qR3j8)
- - 💣 [Be like Poland.](http://9gag.com/gag/aPgqzmK)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 👉 [Facial treatment](http://9gag.com/gag/a3ZODV3)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/a4o0g3v)
+ - 😝 [That is one big bite](http://9gag.com/gag/a8qgN7d)
+ - 💣 [Pay attention now](http://9gag.com/gag/a6qR6yq)
+ - 😝 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)
+ - 👉 [Christmas market at Cologne cathedral. Embrace your culture and tradition...](http://9gag.com/gag/a3ZOgmQ)<!-- MEMES:END -->
 
 ---
 

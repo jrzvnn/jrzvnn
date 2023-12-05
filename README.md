@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More layoffs at another Embracer Group studio](https://www.theverge.com/2023/12/5/23989128/new-world-interactive-layoffs-embracer-group-insurgency-sandstorm)
  - [Beeper debuts an Android app, Beeper Mini, to let users send iMessages with E2EE, without having to use a new number or log in with an Apple ID, for $2/month &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231205/p18#a231205p18)
  - [Jamf shares exploit that fools users into believing their hacked iPhone is safe](https://appleinsider.com/articles/23/12/05/jamf-shares-exploit-that-fools-users-into-believing-their-hacked-iphone-is-safe?utm_medium=rss)
  - [Beeper Mini promises blue speech bubbles for Android users](https://appleinsider.com/articles/23/12/05/beeper-mini-promises-blue-speech-bubbles-for-android-users?utm_medium=rss)
- - [How to use an external storage device with your iPhone](https://www.theverge.com/23989090/iphone-files-backup-external-disk-how-to)
- - [Philips Hue’s Festavia and Nanoleaf’s Essentials Matter smart string lights are up to 25 percent off](https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale)<!-- TECH:END -->
+ - [How to use an external storage device with your iPhone](https://www.theverge.com/23989090/iphone-files-backup-external-disk-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a4o0g3v)
- - 😝 [That is one big bite](http://9gag.com/gag/a8qgN7d)
- - 💣 [Christmas market at Cologne cathedral. Embrace your culture and tradition...](http://9gag.com/gag/a3ZOgmQ)
- - 😝 [Pay attention now](http://9gag.com/gag/a6qR6yq)
- - 👉 [Cheering people at the bar then eating fake glass bottle](http://9gag.com/gag/a6qR6wL)<!-- MEMES:END -->
+ - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
+ - 😝 [US Women&#39;s Soccer Team TAUNTS a Retired Men&#39;s team, then gets wrecked &lpar;0:59&rpar;](http://9gag.com/gag/ajV4Gmg)
+ - 💣 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)<!-- MEMES:END -->
 
 ---
 

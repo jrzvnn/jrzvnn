@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a US appeals court, the FTC argues that a federal judge held the agency to too high a standard when she ruled that Microsoft&#39;s $69B Activision deal was legal &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231206/p38#a231206p38)
+ - [Google has a fix for missing Drive files on desktop](https://www.theverge.com/2023/12/6/23991183/google-drive-lost-files-desktop-fix)
+ - [How to Use Google’s Gemini AI Right Now in Its Bard Chatbot](https://www.wired.com/story/how-to-use-google-gemini-ai-bard-chatbot/)
  - [AMD releases new chips to power faster AI training](https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu)
- - [AMD launches Instinct AI accelerators MI300X and MI300A and claims the MI300X delivers up to 1.6x more performance than Nvidia&#39;s H100 HGX in inference workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p37#a231206p37)
- - [A24 is bringing its entire theatrical slate to HBO, Max, and Cinemax](https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery)
- - [Pizzacraft&#39;s Pronto Review: See How this $280 Gas-Powered Pizza Oven Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)
- - [Save 47% on Fossil Gen 6 Wellness Edition Smart Watch: Now Just $159     - CNET](https://www.cnet.com/deals/save-47-on-fossil-gen-6-wellness-edition-smart-watch-now-just-159/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD launches Instinct AI accelerators MI300X and MI300A and claims the MI300X delivers up to 1.6x more performance than Nvidia&#39;s H100 HGX in inference workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p37#a231206p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

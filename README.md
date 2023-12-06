@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Women Buy More Cars, So Why Are the Designs So Macho?](https://www.wired.com/story/women-buy-more-cars-so-why-are-the-designs-so-macho/)
+ - [26 Gifts Teens May Actually Like](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
+ - [Honda will launch a ‘new global EV series’ at CES](https://www.theverge.com/2023/12/6/23989682/honda-ev-global-series-ces-2024-tease)
  - [Apple may yet prevail in EU iMessage antitrust investigation](https://appleinsider.com/articles/23/12/06/apple-may-yet-prevail-in-eu-imessage-antitrust-investigation?utm_medium=rss)
- - [Interviews with Sam Altman and 20 people in his circle reveal a complicated portrait of being brilliant but slippery, as Time names him CEO of the Year 2023 &lpar;TIME&rpar;](http://www.techmeme.com/231206/p19#a231206p19)
- - [Apple was prevented by the &quot;federal government&quot; from sharing details on governments&#39; push notifications spying, and will now share info after Ron Wyden&#39;s letter &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231206/p18#a231206p18)
- - [Don&#39;t expect under-screen Face ID tech until iPhone 18 at the earliest](https://appleinsider.com/articles/23/12/06/dont-expect-under-screen-face-id-tech-until-iphone-18-at-the-earliest?utm_medium=rss)
- - [Amazon plans to cut seller fees on clothing items under $15 to 5% in January 2024 and $15 to $20 items to 10%, down from 17%, in a bid to compete with Shein &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231206/p17#a231206p17)<!-- TECH:END -->
+ - [Interviews with Sam Altman and 20 people in his circle reveal a complicated portrait of being brilliant but slippery, as Time names him CEO of the Year 2023 &lpar;TIME&rpar;](http://www.techmeme.com/231206/p19#a231206p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

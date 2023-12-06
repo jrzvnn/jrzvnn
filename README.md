@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Video Games That Encourage Human Interaction Can Build Better Vibes](https://www.wired.com/story/live-wired-panel-will-games-eat-the-world/)
+ - [Ex-Twitter security head claims the company fired him to flout regulations](https://www.theverge.com/2023/12/6/23991216/twitter-lawsuit-former-security-chief-regulation-ftc-consent-decree-eu-digital-services-act)
  - [MIT spinoff Liquid AI, which aims to build AI systems powered by liquid neural networks, emerges from stealth with a $37.6M seed at a $303M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p41#a231206p41)
  - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)
- - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)
- - [Google posts instructions for restoring files in Google Drive for desktop, after users reported last week that some of their files disappeared from the service &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
- - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)<!-- TECH:END -->
+ - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

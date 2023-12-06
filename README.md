@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to cut seller fees on clothing items under $15 to 5% in January 2024 and $15 to $20 items to 10%, down from 17%, in a bid to compete with Shein &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231206/p17#a231206p17)
+ - [TikTok’s biggest hits are videos you’ve probably never seen](https://www.theverge.com/2023/12/6/23989124/tiktoks-biggest-hits-2023-viral-videos-trends-recommendation-algorithm)
+ - [The road ahead for EV adoption is made of gravel](https://www.theverge.com/23987669/ev-charging-rural-america-challenges-politics)
  - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)
- - [Intel publishes and then removes &quot;Core Truths&quot;, which directly criticizes AMD&#39;s &quot;snake oil&quot; for using its older Zen 2 architecture in new Ryzen 7000 mobile CPUs &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p15#a231206p15)
- - [Apple regains its $3 trillion valuation despite analysts doubts](https://appleinsider.com/articles/23/12/06/apple-regains-its-3-trillion-valuation-despite-analysts-doubts?utm_medium=rss)
- - [New Mexico sues Meta, alleging the company let Facebook and Instagram &quot;become a marketplace for predators in search of children&quot;, and blames Mark Zuckerberg &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231206/p14#a231206p14)
- - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)<!-- TECH:END -->
+ - [Intel publishes and then removes &quot;Core Truths&quot;, which directly criticizes AMD&#39;s &quot;snake oil&quot; for using its older Zen 2 architecture in new Ryzen 7000 mobile CPUs &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p15#a231206p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
  - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
+ - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
 
 ---
 

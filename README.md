@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $270 on Apple&#39;s new M3 MacBook Pro 14-inch at B&amp;H Photo](https://appleinsider.com/articles/23/12/06/save-up-to-270-on-apples-new-m3-macbook-pro-14-inch?utm_medium=rss)
  - [With Dream Scenario, Nic Cage wants to let you in on a secret](https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview)
  - [A bunch of EVs are going to lose their tax credit starting January 1st](https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e)
  - [Researchers unveil LogoFAIL, an attack that defeats UEFI booting protections in nearly all Windows and Linux devices and can be executed remotely in many cases &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231206/p35#a231206p35)
- - [Jennifer Doudna Believes Crispr Is for Everyone](https://www.wired.com/story/livewired-jennifer-doudna-crispr/)
- - [Meta will let you ‘reimagine’ your friends’ AI-generated images](https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot)<!-- TECH:END -->
+ - [Jennifer Doudna Believes Crispr Is for Everyone](https://www.wired.com/story/livewired-jennifer-doudna-crispr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

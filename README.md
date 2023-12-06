@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Gemini, a new AI model with three tiers, Ultra, Pro, and Nano, and plans a paid version in 2024; Google says the new Bard beats free ChatGPT &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231206/p21#a231206p21)
- - [Google Just Launched Gemini, Its Long-Awaited Answer to ChatGPT](https://www.wired.com/story/google-gemini-ai-model-chatgpt/)
- - [Google DeepMind&#39;s Demis Hassabis Says Gemini Is a New Breed of AI](https://www.wired.com/story/google-deepmind-demis-hassabis-gemini-ai/)
- - [Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
- - [Google’s Bard chatbot is getting way better thanks to Gemini](https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai)<!-- TECH:END -->
+ - [Google updates Bard to use its new Gemini Pro model, the middle tier of the Gemini series, and says its the &quot;biggest and best upgrade yet&quot; and can match ChatGPT &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p24#a231206p24)
+ - [Google announces its new Cloud TPU v5p, an updated version of its Cloud TPU v5e, consisting of 8,960 chips; Google trained Gemini on the new custom chips &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231206/p23#a231206p23)
+ - [Facebook and Instagram accused of creating a ‘marketplace’ for child predators in new lawsuit](https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico)
+ - [Daily deals Dec. 6: $300 off M2 Max Mac Studio, M1 MacBook Air for $749, $400 off Lenovo Gaming Laptop, more](https://appleinsider.com/articles/23/12/06/daily-deals-dec-6-300-off-m2-max-mac-studio-m1-macbook-air-for-749-400-off-lenovo-gaming-laptop-more?utm_medium=rss)
+ - [Google plans to add Gemini Nano, its native, local-first LLM, to Pixel 8 Pro, powering auto-summarize in Recorder and Smart Reply, ahead of an Android launch &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p22#a231206p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

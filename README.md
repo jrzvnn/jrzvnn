@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
- - 😝 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
- - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
- - 👉 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)<!-- MEMES:END -->
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 💣 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 👉 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)<!-- MEMES:END -->
 
 ---
 

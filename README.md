@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
+ - 💣 [Some cases women dont live longer](http://9gag.com/gag/aQEjG9W)
  - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
- - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 👉 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)<!-- MEMES:END -->
 
 ---
 

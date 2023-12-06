@@ -125,11 +125,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco debuts new security tools, including Cisco AI Assistant for Security, which can understand event triage, root cause analysis, policy design, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p33#a231205p33)
+ - [The 23andMe Data Breach Keeps Spiraling](https://www.wired.com/story/23andme-breach-sec-update/)
  - [How to Stop Another OpenAI Meltdown](https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/)
  - [Reddit says a bug is letting slurs get added to its links](https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google)
- - [Binance CEO Richard Teng refuses to disclose the location of the company&#39;s global headquarters, maintaining a stance taken by former CEO Changpeng Zhao &lpar;Financial Times&rpar;](http://www.techmeme.com/231205/p32#a231205p32)
- - [Spotify’s not going for Pulitzers anymore](https://www.theverge.com/2023/12/5/23989879/spotify-heavyweight-gimlet-stolen-pulitzer-layoff-daniel-ek)
- - [Amazon&#39;s Holiday Apple Sale drives prices down to as low as $27](https://appleinsider.com/articles/23/12/05/amazons-holiday-apple-sale-drives-prices-down-to-as-low-as-27?utm_medium=rss)<!-- TECH:END -->
+ - [Binance CEO Richard Teng refuses to disclose the location of the company&#39;s global headquarters, maintaining a stance taken by former CEO Changpeng Zhao &lpar;Financial Times&rpar;](http://www.techmeme.com/231205/p32#a231205p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

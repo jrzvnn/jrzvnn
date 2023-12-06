@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
- - 💣 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 👉 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)<!-- MEMES:END -->
+ - 😝 [Dog-box](http://9gag.com/gag/anzoPKz)
+ - 😝 [Interesting presentation](http://9gag.com/gag/amAZZ2j)
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
 
 ---
 

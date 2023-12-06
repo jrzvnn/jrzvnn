@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 👉 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)<!-- MEMES:END -->
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 💣 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 

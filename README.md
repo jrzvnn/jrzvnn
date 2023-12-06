@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MaintainX, which helps manufacturing, hospitality, and other companies manage operations and maintenance, raised $50M at a $1B valuation, up from $191M in 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231206/p29#a231206p29)
+ - [Apple joins AI fray with release of model framework](https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx)
  - [Google updates the Pixel 8 Pro with Video Boost, to let models adjust videos in the cloud, and announces new Pixel features, like a Repair Mode for servicing &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231206/p28#a231206p28)
  - [Best Seafood Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [Apple demonstrates its commitment to AI with new open source code release](https://appleinsider.com/articles/23/12/06/apple-demonstrates-its-commitment-to-ai-with-new-open-source-code-release?utm_medium=rss)
- - [Google is ending the year with a big update for Pixel devices](https://www.theverge.com/2023/12/6/23990607/google-pixel-december-update-feature-drop-video-boost)
- - [AI data startup VAST Data, which unifies storage, databases, and more, raised a $118M Series E led by Fidelity at a $9B valuation, up from $3.7B in May 2021 &lpar;Globes Online&rpar;](http://www.techmeme.com/231206/p27#a231206p27)<!-- TECH:END -->
+ - [Apple demonstrates its commitment to AI with new open source code release](https://appleinsider.com/articles/23/12/06/apple-demonstrates-its-commitment-to-ai-with-new-open-source-code-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

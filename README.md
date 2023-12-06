@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
- - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
- - 💣 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
- - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
- - 👉 [A kind stranger helped a lost dog find his way home](http://9gag.com/gag/aGEQQMz)<!-- MEMES:END -->
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 💣 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
+ - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
- - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 😝 [Nice move](http://9gag.com/gag/anzoPxE)
+ - 😝 [Democracy](http://9gag.com/gag/aPgqEow)
+ - 💣 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)
+ - 😝 [*slap* *slap* *slap*](http://9gag.com/gag/axorqXb)
+ - 👉 [He pronounced it correctly](http://9gag.com/gag/aWGXr2A)<!-- MEMES:END -->
 
 ---
 

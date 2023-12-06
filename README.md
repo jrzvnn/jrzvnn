@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s Qi2 wireless chargers will fast-charge iPhone 13, 14, and 15 at 15W](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
+ - [Apple reportedly plans to launch a bigger iPad Air and OLED iPad Pro in the spring](https://www.theverge.com/2023/12/6/23990883/apple-ipad-air-oled-pro-spring-release-12-9-inch)
  - [Apple may have a busy March with a rumored larger iPad Air, OLED iPad Pros, and new Macs](https://appleinsider.com/articles/23/12/06/apple-may-have-a-busy-march-with-a-rumored-larger-ipad-air-oled-ipad-pros-and-new-macs?utm_medium=rss)
  - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
- - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)
- - [Sources: Apple plans a revamped iPad Pro with an OLED screen, iPad Airs with 10.9&quot; and 12.9&quot; screens, 13&quot; and 15&quot; MacBook Airs with M3, and more for early 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p33#a231206p33)
- - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a feature called &quot;reimagine&quot; that lets users generate AI images using prompts in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)<!-- TECH:END -->
+ - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco debuts new security tools, including Cisco AI Assistant for Security, which can understand event triage, root cause analysis, policy design, and more &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p33#a231205p33)
- - [The 23andMe Data Breach Keeps Spiraling](https://www.wired.com/story/23andme-breach-sec-update/)
- - [How to Stop Another OpenAI Meltdown](https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/)
- - [Reddit says a bug is letting slurs get added to its links](https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google)
- - [Binance CEO Richard Teng refuses to disclose the location of the company&#39;s global headquarters, maintaining a stance taken by former CEO Changpeng Zhao &lpar;Financial Times&rpar;](http://www.techmeme.com/231205/p32#a231205p32)<!-- TECH:END -->
+ - [We Tried Pizzacraft&#39;s $280 Pronto Pizza Oven. See How the Budget-Friendly Model Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)
+ - [Original Peloton Bike     - CNET](https://www.cnet.com/health/fitness/original-peloton-bike-dpnl/#ftag=CAD590a51e)
+ - [Nonstick Pots and Pans Set     - CNET](https://www.cnet.com/news/nonstick-pots-and-pans-set-dpnl/#ftag=CAD590a51e)
+ - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)
+ - [Q&amp;A with IBM Quantum Director Jerry Chow on the state of quantum computing, IBM&#39;s 10-year quantum roadmap, the IBM Quantum Heron processor, qubits, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231205/p34#a231205p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

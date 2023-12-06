@@ -40,17 +40,17 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 257.1 kB Used in GitHub's Storage 
+> 📦 258.2 kB Used in GitHub's Storage 
  > 
-> 🏆 17,365 Contributions in the Year 2023
+> 🏆 17,677 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,6 +58,46 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6313 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+🌆 Daytime                7428 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+🌃 Evening                10483 commits       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+🌙 Night                  10824 commits       ████████░░░░░░░░░░░░░░░░░   30.88 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  5573 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                5746 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Thursday                 5809 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Friday                   5232 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 4432 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   3919 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Python                   5 hrs 8 mins        █████████████████░░░░░░░░   67.65 % 
+CSV                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 36 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    7 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HCL** 
 
 ```text
@@ -71,7 +111,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 01:30:58 UTC
+ Last Updated on 06/12/2023 01:29:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@jrzvnn/70a4618c-7cd9-4016-b7b9-eabe75c837ee.svg">

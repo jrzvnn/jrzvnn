@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)
  - [You can still nab Nintendo’s Smash Bros.-themed Switch OLED for $325](https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale)
  - [Save up to $270 on Apple&#39;s new M3 MacBook Pro 14-inch at B&amp;H Photo](https://appleinsider.com/articles/23/12/06/save-up-to-270-on-apples-new-m3-macbook-pro-14-inch?utm_medium=rss)
- - [With Dream Scenario, Nic Cage wants to let you in on a secret](https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview)
- - [A bunch of EVs are going to lose their tax credit starting January 1st](https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e)
- - [Researchers unveil LogoFAIL, an attack that defeats UEFI boot protections in nearly all Windows and Linux computers and can be remotely executed in many cases &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231206/p35#a231206p35)<!-- TECH:END -->
+ - [Best Wireless Mouse Deals: Up to $50 Savings on Logitech, HP, Steelseries and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)
+ - [With Dream Scenario, Nic Cage wants to let you in on a secret](https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

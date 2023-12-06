@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
+ - 😝 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 💣 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
 
 ---
 

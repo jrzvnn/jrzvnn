@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
  - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)
  - [Sources: Apple plans a revamped iPad Pro with an OLED screen, iPad Airs with 10.9&quot; and 12.9&quot; screens, 13&quot; and 15&quot; MacBook Airs with M3, and more for early 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p33#a231206p33)
- - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a new feature called &quot;reimagine&quot; that lets users generate AI images in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)<!-- TECH:END -->
+ - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a feature called &quot;reimagine&quot; that lets users generate AI images using prompts in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

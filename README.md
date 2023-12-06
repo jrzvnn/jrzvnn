@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a new feature called &quot;reimagine&quot; that lets users generate AI images in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)
  - [Meta launches Imagine with Meta, a standalone text-to-image generator powered by its Emu model that generates four images per prompt, free for users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p31#a231206p31)
  - [iPhone 15 Pro review three months later: Worth every penny](https://appleinsider.com/articles/23/12/06/iphone-15-pro-review-three-months-later-worth-every-penny?utm_medium=rss)
  - [Meta&#39;s 28 AI characters are now live across WhatsApp, Messenger, and Instagram in the US, and Meta is experimenting with &quot;long-term memory&quot; for some characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p30#a231206p30)
- - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
- - [9 Great Deals on Electric Kettles, Mugs, and Tumblers](https://www.wired.com/story/electric-kettle-and-mug-deals-december-6-2023/)<!-- TECH:END -->
+ - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

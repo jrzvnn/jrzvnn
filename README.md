@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel publishes and then removes &quot;Core Truths&quot;, which directly criticizes AMD&#39;s &quot;snake oil&quot; for using its older Zen 2 architecture in new Ryzen 7000 mobile CPUs &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p15#a231206p15)
+ - [Apple regains its $3 trillion valuation despite analysts doubts](https://appleinsider.com/articles/23/12/06/apple-regains-its-3-trillion-valuation-despite-analysts-doubts?utm_medium=rss)
+ - [New Mexico sues Meta, alleging the company let Facebook and Instagram &quot;become a marketplace for predators in search of children&quot;, and blames Mark Zuckerberg &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231206/p14#a231206p14)
  - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)
- - [Sources: the EU leans toward excluding iMessage from DMA rules due to not being popular enough among business users, part of an investigation ending in February &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231206/p13#a231206p13)
- - [Intel accuses AMD of selling snake oil CPUs in now deleted attack](https://www.theverge.com/2023/12/6/23990370/intel-amd-snake-oil-core-truths-pdf-deleted)
- - [San Diego-based self-driving trucking company TuSimple plans to shutter its US business, laying off 150, or 75% of its US staff, and move its business to China &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/231206/p12#a231206p12)
- - [Google plans to add its &quot;Help me write&quot; AI tool to Chrome, appearing in autofill popups when typing text, expanding on Google Messages, Gmail, Docs, and Keep &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/231206/p11#a231206p11)<!-- TECH:END -->
+ - [Sources: the EU leans toward excluding iMessage from DMA rules due to not being popular enough among business users, part of an investigation ending in February &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231206/p13#a231206p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

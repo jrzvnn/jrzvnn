@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog-box](http://9gag.com/gag/anzoPKz)
- - 😝 [Interesting presentation](http://9gag.com/gag/amAZZ2j)
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
+ - 😝 [Why woman live longer than man ??](http://9gag.com/gag/aKEM5G6)
+ - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 💣 [Interesting presentation](http://9gag.com/gag/amAZZ2j)
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
 
 ---
 

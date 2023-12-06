@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A kind stranger helped a lost dog find his way home](http://9gag.com/gag/aGEQQMz)
- - 😝 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)
- - 💣 [He pronounced it correctly](http://9gag.com/gag/aWGXr2A)
- - 😝 [Dog-box](http://9gag.com/gag/anzoPKz)
- - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
+ - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
+ - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
+ - 💣 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 

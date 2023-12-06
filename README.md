@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cambridge, UK-based Pragmatic Semiconductor, which develops and manufactures flexible integrated circuits, raised &amp;pound;182M at a ~&amp;pound;500M post-money valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231206/p5#a231206p5)
  - [A look at struggles of lawmakers around the world to regulate AI, including tech&#39;s rapid pace, knowledge deficit in governments, and labyrinthine bureaucracies &lpar;New York Times&rpar;](http://www.techmeme.com/231206/p4#a231206p4)
  - [Jensen Huang says Huawei, Intel, and an expanding group of semiconductor startups pose a stiff challenge to Nvidia in the race to produce the best AI chips &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p3#a231206p3)
  - [SAG-AFTRA members ratify the union&#39;s new three-year contract with studios as 78% voted in favor; some members remained unhappy about the deal&#39;s AI protections &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/231206/p2#a231206p2)
- - [Coinbase Wallet, available in 170+ countries, now lets users send crypto on any platform where they can share a link, including email, social and messaging apps &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/231206/p1#a231206p1)
- - [Premier League Soccer Livestream: How to Watch Aston Villa vs Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-aston-villa-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase Wallet, available in 170+ countries, now lets users send crypto on any platform where they can share a link, including email, social and messaging apps &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/231206/p1#a231206p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

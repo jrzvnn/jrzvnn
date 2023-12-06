@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers unveil LogoFAIL, an attack that defeats UEFI booting protections in nearly all Windows and Linux devices and can be executed remotely in many cases &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231206/p35#a231206p35)
  - [Meta will let you ‘reimagine’ your friends’ AI-generated images](https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot)
  - [The Binance Crackdown Will Be an &#39;Unprecedented&#39; Bonanza for Crypto Surveillance](https://www.wired.com/story/binance-settlement-transaction-histories/)
  - [Apple&#39;s machine learning research team quietly releases MLX, an array framework to train and deploy ML models on Apple silicon, available on GitHub &lpar;Jonny Evans/Computerworld&rpar;](http://www.techmeme.com/231206/p34#a231206p34)
- - [North Carolina&#39;s new Apple store set to open early &amp; ahead of holidays](https://appleinsider.com/articles/23/12/06/north-carolinas-new-apple-store-set-to-open-early-ahead-of-holidays?utm_medium=rss)
- - [Anker’s Qi2 wireless chargers will fast-charge iPhone 13, 14, and 15 at 15W](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)<!-- TECH:END -->
+ - [North Carolina&#39;s new Apple store set to open early &amp; ahead of holidays](https://appleinsider.com/articles/23/12/06/north-carolinas-new-apple-store-set-to-open-early-ahead-of-holidays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

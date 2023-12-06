@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The internet enabled mass surveillance, and AI will enable mass spying, once limited by human labor, by making troves of data searchable and understandable &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231206/p8#a231206p8)
  - [Q&amp;A with Waymo CPO Saswat Panigrahi on simulating 25K+ vehicles 24/7 to improve AI driving, growing San Francisco and Phoenix users amid Cruise&#39;s woes, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231206/p7#a231206p7)
  - [Sources: ByteDance is offering to buy back up to $5B worth of shares from existing investors at $160 per share, which puts the company&#39;s valuation at $268B &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/231206/p6#a231206p6)
  - [Finally, non-MagSafe wireless chargers will fast-charge recent iPhones](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
- - [Cambridge, UK-based Pragmatic Semiconductor, which develops and manufactures flexible integrated circuits, raised &amp;pound;182M at a ~&amp;pound;500M post-money valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231206/p5#a231206p5)
- - [December SSDI Check 2023: Here&#39;s When Your Money Should Arrive     - CNET](https://www.cnet.com/personal-finance/december-ssdi-check-2023-heres-when-your-money-should-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cambridge, UK-based Pragmatic Semiconductor, which develops and manufactures flexible integrated circuits, raised &amp;pound;182M at a ~&amp;pound;500M post-money valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231206/p5#a231206p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

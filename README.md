@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MaintainX, which helps manufacturing, hospitality, and other companies manage operations and maintenance, raised $50M at a $1B valuation, up from $191M in 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231206/p29#a231206p29)
- - [Apple joins AI fray with release of model framework](https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx)
- - [Google updates the Pixel 8 Pro with Video Boost, to let models adjust videos in the cloud, and announces new Pixel features, like a Repair Mode for servicing &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231206/p28#a231206p28)
- - [Best Seafood Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [Apple demonstrates its commitment to AI with new open source code release](https://appleinsider.com/articles/23/12/06/apple-demonstrates-its-commitment-to-ai-with-new-open-source-code-release?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro review three months later: Worth every penny](https://appleinsider.com/articles/23/12/06/iphone-15-pro-review-three-months-later-worth-every-penny?utm_medium=rss)
+ - [Meta&#39;s 28 AI characters are now live across WhatsApp, Messenger, and Instagram in the US, and Meta is experimenting with &quot;long-term memory&quot; for some characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p30#a231206p30)
+ - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+ - [9 Great Deals on Electric Kettles, Mugs, and Tumblers](https://www.wired.com/story/electric-kettle-and-mug-deals-december-6-2023/)
+ - [MaintainX, which helps manufacturing, hospitality, and other companies manage operations and maintenance, raised $50M at a $1B valuation, up from $191M in 2021 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231206/p29#a231206p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,7 +174,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice move](http://9gag.com/gag/anzoPxE)
+ - 😝 [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
  - 😝 [Democracy](http://9gag.com/gag/aPgqEow)
  - 💣 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)
  - 😝 [*slap* *slap* *slap*](http://9gag.com/gag/axorqXb)

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
- - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
- - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 👉 [New football skill](http://9gag.com/gag/aYV03PO)<!-- MEMES:END -->
 
 ---
 

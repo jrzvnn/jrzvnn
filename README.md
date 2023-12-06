@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [New football skill](http://9gag.com/gag/aYV03PO)<!-- MEMES:END -->
+ - 😝 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
+ - 😝 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
+ - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
+ - 👉 [Relatable....](http://9gag.com/gag/aZDYe4z)<!-- MEMES:END -->
 
 ---
 

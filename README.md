@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Q&amp;A with Google CEO Sundar Pichai and DeepMind CEO Demis Hassabis on Gemini, digital agents, changing search, the pace of AI development, coding, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231206/p25#a231206p25)
  - [Google updates Bard to use its new Gemini Pro model, the middle tier of the Gemini series, and says its the &quot;biggest and best upgrade yet&quot; and can match ChatGPT &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p24#a231206p24)
  - [Google announces its new Cloud TPU v5p, an updated version of its Cloud TPU v5e, consisting of 8,960 chips; Google trained Gemini on the new custom chips &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231206/p23#a231206p23)
- - [Facebook and Instagram accused of creating a ‘marketplace’ for child predators in new lawsuit](https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico)
- - [Daily deals Dec. 6: $300 off M2 Max Mac Studio, M1 MacBook Air for $749, $400 off Lenovo Gaming Laptop, more](https://appleinsider.com/articles/23/12/06/daily-deals-dec-6-300-off-m2-max-mac-studio-m1-macbook-air-for-749-400-off-lenovo-gaming-laptop-more?utm_medium=rss)
- - [Google plans to add Gemini Nano, its native, local-first LLM, to Pixel 8 Pro, powering auto-summarize in Recorder and Smart Reply, ahead of an Android launch &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p22#a231206p22)<!-- TECH:END -->
+ - [Facebook and Instagram accused of creating a ‘marketplace’ for child predators in new lawsuit](https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

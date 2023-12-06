@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yeah they smashed](http://9gag.com/gag/a8qgRYV)
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 💣 [Interesting presentation](http://9gag.com/gag/amAZZ2j)
- - 😝 [Trying to catch a spider goes wrong &lpar;NOPE&rpar;](http://9gag.com/gag/aVb6y1v)
+ - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 😝 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
+ - 💣 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
+ - 😝 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
  - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---

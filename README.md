@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 😝 [Oh yeah they smashed](http://9gag.com/gag/a8qgRYV)
  - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 👉 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)<!-- MEMES:END -->
+ - 💣 [Interesting presentation](http://9gag.com/gag/amAZZ2j)
+ - 😝 [Trying to catch a spider goes wrong &lpar;NOPE&rpar;](http://9gag.com/gag/aVb6y1v)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 

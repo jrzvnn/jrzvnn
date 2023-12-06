@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google posts instructions for restoring files in Google Drive for desktop, after users reported that some of their files disappeared &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
+ - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)
+ - [Google posts instructions for restoring files in Google Drive for desktop, after users reported last week that some of their files disappeared from the service &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
  - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)
  - [McDonald’s will use Google AI to make sure your fries are fresh, or something?](https://www.theverge.com/2023/12/6/23990900/mcdonalds-google-ai-cloud-generative)
- - [Meta, Microsoft, OpenAI, and Oracle say they will use AMD&#39;s new Instinct MI300X GPU; Microsoft will offer access to the chips through Azure &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231206/p39#a231206p39)
- - [In a US appeals court, the FTC argues that a federal judge held the agency to too high a standard when she ruled that Microsoft&#39;s $69B Activision deal was legal &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231206/p38#a231206p38)<!-- TECH:END -->
+ - [Microsoft, Meta, Oracle, and OpenAI say they plan to use AMD&#39;s new Instinct MI300X GPU; Microsoft plans to offer access to the chips through Azure &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231206/p39#a231206p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

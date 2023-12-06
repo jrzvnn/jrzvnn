@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans a revamped iPad Pro with an OLED screen, iPad Airs with 10.9&quot; and 12.9&quot; screens, 13&quot; and 15&quot; MacBook Airs with M3, and more for early 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p33#a231206p33)
  - [Meta&#39;s virtual assistant Meta AI gets support for Reels, a new feature called &quot;reimagine&quot; that lets users generate AI images in group chats, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p32#a231206p32)
  - [Meta launches Imagine with Meta, a standalone text-to-image generator powered by its Emu model that generates four images per prompt, free for users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p31#a231206p31)
  - [iPhone 15 Pro review three months later: Worth every penny](https://appleinsider.com/articles/23/12/06/iphone-15-pro-review-three-months-later-worth-every-penny?utm_medium=rss)
- - [Meta&#39;s 28 AI characters are now live across WhatsApp, Messenger, and Instagram in the US, and Meta is experimenting with &quot;long-term memory&quot; for some characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p30#a231206p30)
- - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)<!-- TECH:END -->
+ - [Meta&#39;s 28 AI characters are now live across WhatsApp, Messenger, and Instagram in the US, and Meta is experimenting with &quot;long-term memory&quot; for some characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231206/p30#a231206p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MIT spinoff Liquid AI, which aims to build AI systems powered by liquid neural networks, emerges from stealth with a $37.6M seed at a $303M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p41#a231206p41)
+ - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)
  - [The second season of The Last of Us will debut in 2025](https://www.theverge.com/2023/12/6/23991040/the-last-of-us-season-two-hbo-max-house-of-dragon-euphoria-streaming)
  - [Google posts instructions for restoring files in Google Drive for desktop, after users reported last week that some of their files disappeared from the service &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231206/p40#a231206p40)
- - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)
- - [McDonald’s will use Google AI to make sure your fries are fresh, or something?](https://www.theverge.com/2023/12/6/23990900/mcdonalds-google-ai-cloud-generative)
- - [Microsoft, Meta, Oracle, and OpenAI say they plan to use AMD&#39;s new Instinct MI300X GPU; Microsoft plans to offer access to the chips through Azure &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231206/p39#a231206p39)<!-- TECH:END -->
+ - [iPhone SE 4 to inherit iPhone 14 battery, according to rumor](https://appleinsider.com/articles/23/12/06/iphone-se-4-to-inherit-iphone-14-battery-according-to-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

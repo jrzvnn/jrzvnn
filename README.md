@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)
+ - [Squid Game: The Challenge gets a second season — and a video game](https://www.theverge.com/2023/12/6/23990517/netflix-squid-game-the-challenge-season-two)
  - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
  - [Q&amp;A with Google CEO Sundar Pichai and DeepMind CEO Demis Hassabis on Gemini, digital agents, changing search, the pace of AI development, coding, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231206/p25#a231206p25)
- - [Google updates Bard to use its new Gemini Pro model, the middle tier of the Gemini series, and says its the &quot;biggest and best upgrade yet&quot; and can match ChatGPT &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p24#a231206p24)
- - [Google announces its new Cloud TPU v5p, an updated version of its Cloud TPU v5e, consisting of 8,960 chips; Google trained Gemini on the new custom chips &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/231206/p23#a231206p23)
- - [Facebook and Instagram accused of creating a ‘marketplace’ for child predators in new lawsuit](https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico)<!-- TECH:END -->
+ - [Google updates Bard to use its new Gemini Pro model, the middle tier of the Gemini series, and says its the &quot;biggest and best upgrade yet&quot; and can match ChatGPT &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231206/p24#a231206p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

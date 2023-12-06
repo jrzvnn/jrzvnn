@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)
  - [Intel publishes and then removes &quot;Core Truths&quot;, which directly criticizes AMD&#39;s &quot;snake oil&quot; for using its older Zen 2 architecture in new Ryzen 7000 mobile CPUs &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p15#a231206p15)
  - [Apple regains its $3 trillion valuation despite analysts doubts](https://appleinsider.com/articles/23/12/06/apple-regains-its-3-trillion-valuation-despite-analysts-doubts?utm_medium=rss)
  - [New Mexico sues Meta, alleging the company let Facebook and Instagram &quot;become a marketplace for predators in search of children&quot;, and blames Mark Zuckerberg &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231206/p14#a231206p14)
- - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)
- - [Sources: the EU leans toward excluding iMessage from DMA rules due to not being popular enough among business users, part of an investigation ending in February &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231206/p13#a231206p13)<!-- TECH:END -->
+ - [Amazon slams Microsoft’s business practices in UK cloud market probe](https://www.theverge.com/2023/12/6/23990374/amazon-microsoft-uk-cloud-market-competition-probe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

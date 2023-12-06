@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD releases new chips to power faster AI training](https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu)
+ - [AMD launches Instinct AI accelerators MI300X and MI300A and claims the MI300X delivers up to 1.6x more performance than Nvidia&#39;s H100 HGX in inference workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p37#a231206p37)
  - [A24 is bringing its entire theatrical slate to HBO, Max, and Cinemax](https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery)
  - [An interview with Sundar Pichai on Gemini, AI benchmarks, making AI helpful for everyone, the legal landscape around AI, and more &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231206/p36#a231206p36)
- - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)
- - [You can still nab Nintendo’s Smash Bros.-themed Switch OLED for $325](https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale)
- - [Save up to $270 on Apple&#39;s new M3 MacBook Pro 14-inch at B&amp;H Photo](https://appleinsider.com/articles/23/12/06/save-up-to-270-on-apples-new-m3-macbook-pro-14-inch?utm_medium=rss)<!-- TECH:END -->
+ - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

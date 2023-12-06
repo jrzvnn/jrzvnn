@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
- - 😝 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
- - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 ---
 

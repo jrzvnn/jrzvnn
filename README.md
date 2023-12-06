@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Newton, Massachusetts-based Dust Identity, which links physical items to digital records by tagging them with unique diamond dust marks, raised a $40M Series B &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
  - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US chip export restrictions to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)
  - [Twitch plans to shut down in South Korea on February 27, 2024, saying the country was &quot;prohibitively expensive&quot; to operate in despite working to reduce costs &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/231205/p37#a231205p37)
  - [Ring in the savings: $250 off Apple&#39;s new 16&quot; M3 MacBook Pro](https://appleinsider.com/articles/23/12/06/ring-in-the-savings-250-off-apples-new-16-m3-macbook-pro?utm_medium=rss)
- - [Vitamix Explorian Blender     - CNET](https://www.cnet.com/home/kitchen-and-household/vitamix-explorian-blender2-dpnl/#ftag=CAD590a51e)
- - [Eufy Wi-Fi Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/eufy-wi-fi-video-doorbell-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vitamix Explorian Blender     - CNET](https://www.cnet.com/home/kitchen-and-household/vitamix-explorian-blender2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

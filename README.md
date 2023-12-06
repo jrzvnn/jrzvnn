@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 😝 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - 👉 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)<!-- MEMES:END -->
+ - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 😝 [`Parkour`](http://9gag.com/gag/aQEjb1w)
+ - 💣 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Waymo CPO Saswat Panigrahi on simulating 25K+ vehicles 24/7 to improve AI driving, growing San Francisco and Phoenix users amid Cruise&#39;s woes, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231206/p7#a231206p7)
  - [Sources: ByteDance is offering to buy back up to $5B worth of shares from existing investors at $160 per share, which puts the company&#39;s valuation at $268B &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/231206/p6#a231206p6)
  - [Finally, non-MagSafe wireless chargers will fast-charge recent iPhones](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
  - [Cambridge, UK-based Pragmatic Semiconductor, which develops and manufactures flexible integrated circuits, raised &amp;pound;182M at a ~&amp;pound;500M post-money valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231206/p5#a231206p5)
- - [A look at struggles of lawmakers around the world to regulate AI, including tech&#39;s rapid pace, knowledge deficit in governments, and labyrinthine bureaucracies &lpar;New York Times&rpar;](http://www.techmeme.com/231206/p4#a231206p4)
- - [Jensen Huang says Huawei, Intel, and an expanding group of semiconductor startups pose a stiff challenge to Nvidia in the race to produce the best AI chips &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p3#a231206p3)<!-- TECH:END -->
+ - [A look at struggles of lawmakers around the world to regulate AI, including tech&#39;s rapid pace, knowledge deficit in governments, and labyrinthine bureaucracies &lpar;New York Times&rpar;](http://www.techmeme.com/231206/p4#a231206p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

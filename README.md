@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senator&#39;s paranoia opens door for Apple to speak out on government censorship.](https://appleinsider.com/articles/23/12/06/senators-paranoia-opens-door-for-apple-to-speak-out-on-government-censorship?utm_medium=rss)
+ - [TikTok releases its 2023 list of top videos and trends, again showing how disparate users&#39; individual experiences on the app are and how siloed the content is &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231206/p20#a231206p20)
  - [Women Buy More Cars, So Why Are the Designs So Macho?](https://www.wired.com/story/women-buy-more-cars-so-why-are-the-designs-so-macho/)
  - [26 Gifts Teens May Actually Like](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [Honda will launch a ‘new global EV series’ at CES](https://www.theverge.com/2023/12/6/23989682/honda-ev-global-series-ces-2024-tease)
- - [Apple may yet prevail in EU iMessage antitrust investigation](https://appleinsider.com/articles/23/12/06/apple-may-yet-prevail-in-eu-imessage-antitrust-investigation?utm_medium=rss)
- - [Interviews with Sam Altman and 20 people in his circle reveal a complicated portrait of being brilliant but slippery, as Time names him CEO of the Year 2023 &lpar;TIME&rpar;](http://www.techmeme.com/231206/p19#a231206p19)<!-- TECH:END -->
+ - [Honda will launch a ‘new global EV series’ at CES](https://www.theverge.com/2023/12/6/23989682/honda-ev-global-series-ces-2024-tease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

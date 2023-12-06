@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
  - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Someone played it during mass in Poland](http://9gag.com/gag/az23nrx)
- - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
+ - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 👉 [It&#39;s official](http://9gag.com/gag/a7qxx9m)<!-- MEMES:END -->
 
 ---
 

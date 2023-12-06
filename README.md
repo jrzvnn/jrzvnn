@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
- - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 💣 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
+ - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
+ - 😝 [European things](http://9gag.com/gag/anzoooq)
+ - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 👉 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)<!-- MEMES:END -->
 
 ---
 

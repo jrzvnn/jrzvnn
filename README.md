@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
- - 😝 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
- - 💣 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
- - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
+ - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
+ - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 💣 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
+ - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
+ - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 ---
 

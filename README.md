@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
- - 😝 [Democracy](http://9gag.com/gag/aPgqEow)
- - 💣 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)
- - 😝 [*slap* *slap* *slap*](http://9gag.com/gag/axorqXb)
- - 👉 [He pronounced it correctly](http://9gag.com/gag/aWGXr2A)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
+ - 💣 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 👉 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)<!-- MEMES:END -->
 
 ---
 

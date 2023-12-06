@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch plans to shut down in South Korea on February 27, 2024, saying it was &quot;prohibitively expensive&quot; to operate in the country despite working to reduce costs &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/231205/p37#a231205p37)
  - [Ring in the savings: $250 off Apple&#39;s new 16&quot; M3 MacBook Pro](https://appleinsider.com/articles/23/12/06/ring-in-the-savings-250-off-apples-new-16-m3-macbook-pro?utm_medium=rss)
- - [At an all-hands meeting, Cruise President Mo Elshenawy said the company has hit an &quot;all time low&quot; and its tech needed to be &quot;significantly better&quot; than humans &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231205/p36#a231205p36)
- - [We Tried Pizzacraft&#39;s $280 Pronto Pizza Oven. See How the Budget-Friendly Model Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)
- - [Original Peloton Bike     - CNET](https://www.cnet.com/health/fitness/original-peloton-bike-dpnl/#ftag=CAD590a51e)
- - [Nonstick Pots and Pans Set     - CNET](https://www.cnet.com/news/nonstick-pots-and-pans-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vitamix Explorian Blender     - CNET](https://www.cnet.com/home/kitchen-and-household/vitamix-explorian-blender2-dpnl/#ftag=CAD590a51e)
+ - [Eufy Wi-Fi Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/eufy-wi-fi-video-doorbell-dpnl/#ftag=CAD590a51e)
+ - [Amazon Fire TV Stick     - CNET](https://www.cnet.com/home/smart-home/amazon-fire-tv-stick-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

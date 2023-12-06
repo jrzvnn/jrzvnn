@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 👉 [Hehe](http://9gag.com/gag/aQEj5PK)<!-- MEMES:END -->
+ - 😝 [A kind stranger helped a lost dog find his way home](http://9gag.com/gag/aGEQQMz)
+ - 😝 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)
+ - 💣 [He pronounced it correctly](http://9gag.com/gag/aWGXr2A)
+ - 😝 [Dog-box](http://9gag.com/gag/anzoPKz)
+ - 👉 [Defeated male leaves](http://9gag.com/gag/ap9M4bb)<!-- MEMES:END -->
 
 ---
 

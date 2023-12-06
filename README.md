@@ -134,11 +134,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
- - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 💣 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 👉 [The cream of the crop](http://9gag.com/gag/aQEjbz7)<!-- MEMES:END -->
+ - 😝 [Give this gentleman a hug.](http://9gag.com/gag/aqeEM7P)
+ - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 💣 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
+ - 👉 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)<!-- MEMES:END -->
 
 ---
 

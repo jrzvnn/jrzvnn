@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple executive behind Touch ID, display multitouch is retiring](https://appleinsider.com/articles/23/12/06/apple-executive-behind-touch-id-display-multitouch-is-retiring?utm_medium=rss)
  - [Video Games That Encourage Human Interaction Can Build Better Vibes](https://www.wired.com/story/live-wired-panel-will-games-eat-the-world/)
  - [Ex-Twitter security head claims the company fired him to flout regulations](https://www.theverge.com/2023/12/6/23991216/twitter-lawsuit-former-security-chief-regulation-ftc-consent-decree-eu-digital-services-act)
  - [MIT spinoff Liquid AI, which aims to build AI systems powered by liquid neural networks, emerges from stealth with a $37.6M seed at a $303M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p41#a231206p41)
- - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)
- - [Samsung Galaxy Buds 2 Pro Deals: Up to $60 in Direct Discounts     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

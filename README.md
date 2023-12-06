@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m glad it ended this way, it would have been really sad](http://9gag.com/gag/axorK8L)
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 💣 [Hehe](http://9gag.com/gag/aQEj5PK)
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
+ - 💣 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
+ - 👉 [A kind stranger helped a lost dog find his way home](http://9gag.com/gag/aGEQQMz)<!-- MEMES:END -->
 
 ---
 

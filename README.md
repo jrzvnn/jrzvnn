@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only remedy for when a guy looks up your skirt. [Sex Is Zero]](http://9gag.com/gag/a043geB)
- - 😝 [Facial treatment](http://9gag.com/gag/a3ZODV3)
- - 💣 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
+ - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
  - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
+ - 👉 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)<!-- MEMES:END -->
 
 ---
 

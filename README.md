@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
- - 💣 [Some cases women dont live longer](http://9gag.com/gag/aQEjG9W)
+ - 😝 [This is a definite sign of a marriage going downhill. Just look at the dude&#39;s face and you will see a defeated man.](http://9gag.com/gag/aDYv5XZ)
  - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
- - 👉 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)<!-- MEMES:END -->
+ - 💣 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
 
 ---
 

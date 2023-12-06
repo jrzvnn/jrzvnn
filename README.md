@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snag Portable Sonos Roam Speakers for as Little as $119 Right Now     - CNET](https://www.cnet.com/deals/snag-portable-sonos-roam-speakers-for-as-little-as-119-right-now/#ftag=CAD590a51e)
  - [Senator&#39;s paranoia opens door for Apple to speak out on government censorship.](https://appleinsider.com/articles/23/12/06/senators-paranoia-opens-door-for-apple-to-speak-out-on-government-censorship?utm_medium=rss)
+ - [This Discounted $249 Meta Quest 2 Now Comes With $50 of Free Credit     - CNET](https://www.cnet.com/deals/this-discounted-249-meta-quest-2-now-comes-with-50-of-free-credit/#ftag=CAD590a51e)
  - [TikTok releases its 2023 list of top videos and trends, again showing how disparate users&#39; individual experiences on the app are and how siloed the content is &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231206/p20#a231206p20)
- - [Women Buy More Cars, So Why Are the Designs So Macho?](https://www.wired.com/story/women-buy-more-cars-so-why-are-the-designs-so-macho/)
- - [26 Gifts Teens May Actually Like](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [Honda will launch a ‘new global EV series’ at CES](https://www.theverge.com/2023/12/6/23989682/honda-ev-global-series-ces-2024-tease)<!-- TECH:END -->
+ - [Best Prepaid Phone Plans for December 2023     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

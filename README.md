@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants suppliers to make iPhone 16 batteries in India instead of China](https://appleinsider.com/articles/23/12/06/apple-wants-suppliers-to-make-iphone-16-batteries-in-india-instead-of-china?utm_medium=rss)
+ - [Sources: Apple tells component suppliers of its preference to source iPhone 16 batteries from Indian factories, as part of plans to diversify from China &lpar;Financial Times&rpar;](http://www.techmeme.com/231206/p9#a231206p9)
  - [The internet enabled mass surveillance, and AI will enable mass spying, once limited by human labor, by making troves of data searchable and understandable &lpar;Bruce Schneier/Schneier on Security&rpar;](http://www.techmeme.com/231206/p8#a231206p8)
  - [Skipping Student Loan Payments: Here&#39;s What Happens if You Don&#39;t Pay     - CNET](https://www.cnet.com/personal-finance/loans/heres-what-happens-if-you-dont-pay-your-student-loans/#ftag=CAD590a51e)
- - [Q&amp;A with Waymo CPO Saswat Panigrahi on simulating 25K+ vehicles 24/7 to improve AI driving, growing in San Francisco and Phoenix after Cruise&#39;s woes, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231206/p7#a231206p7)
- - [Sources: ByteDance offers to buy back up to $5B of shares from existing investors at $160 per share, putting the company&#39;s valuation at $268B, down 11% on 2022 &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/231206/p6#a231206p6)
- - [Finally, non-MagSafe wireless chargers will fast-charge recent iPhones](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)<!-- TECH:END -->
+ - [Q&amp;A with Waymo CPO Saswat Panigrahi on simulating 25K+ vehicles 24/7 to improve AI driving, growing in San Francisco and Phoenix after Cruise&#39;s woes, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231206/p7#a231206p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

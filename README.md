@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 😝 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
- - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 👉 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 😝 [That&#39;s a clean hit](http://9gag.com/gag/a5XYYAE)
+ - 😝 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
+ - 💣 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 😝 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)
+ - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
 
 ---
 

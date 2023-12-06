@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang says Huawei, Intel, and an expanding group of semiconductor startups pose a stiff challenge to Nvidia in the race to produce the best AI chips &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p3#a231206p3)
  - [SAG-AFTRA members ratify the union&#39;s new three-year contract with studios as 78% voted in favor; some members remained unhappy about the deal&#39;s AI protections &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/231206/p2#a231206p2)
  - [Coinbase Wallet, available in 170+ countries, now lets users send crypto on any platform where they can share a link, including email, social and messaging apps &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/231206/p1#a231206p1)
- - [Hollywood’s strikes are over](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
- - [Massachusetts-based Dust Identity, which links physical items to digital records with diamond dust marks, raised a $40M Series B led by Castle Island Ventures &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/231205/p39#a231205p39)
- - [Jensen Huang says Nvidia has been &quot;working very closely with the US government&quot; to create products that comply with US curbs on high-end chip exports to China &lpar;Reuters&rpar;](http://www.techmeme.com/231205/p38#a231205p38)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Aston Villa vs Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-aston-villa-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [Android vs. iPhone: 15 Years of Rivalry and Innovation     - CNET](https://www.cnet.com/tech/mobile/smartphone-showdown-15-years-of-android-vs-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

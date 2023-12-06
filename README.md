@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At an all-hands meeting, Cruise President Mo Elshenawy said the company has hit an &quot;all time low&quot; and its tech needed to be &quot;significantly better&quot; than humans &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/231205/p36#a231205p36)
  - [We Tried Pizzacraft&#39;s $280 Pronto Pizza Oven. See How the Budget-Friendly Model Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)
  - [Original Peloton Bike     - CNET](https://www.cnet.com/health/fitness/original-peloton-bike-dpnl/#ftag=CAD590a51e)
  - [Nonstick Pots and Pans Set     - CNET](https://www.cnet.com/news/nonstick-pots-and-pans-set-dpnl/#ftag=CAD590a51e)
- - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)
- - [Q&amp;A with IBM Quantum Director Jerry Chow on the state of quantum computing, IBM&#39;s 10-year quantum roadmap, the IBM Quantum Heron processor, qubits, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231205/p34#a231205p34)<!-- TECH:END -->
+ - [Asana reports Q3 revenue up 18% YoY to $166.5M, vs. $164.1M est., but warns of macroeconomic headwinds; ASAN drops 10%+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231205/p35#a231205p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

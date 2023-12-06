@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s machine learning research team quietly releases MLX, an array framework to train and deploy ML models on Apple silicon, available on GitHub &lpar;Jonny Evans/Computerworld&rpar;](http://www.techmeme.com/231206/p34#a231206p34)
+ - [North Carolina&#39;s new Apple store set to open early &amp; ahead of holidays](https://appleinsider.com/articles/23/12/06/north-carolinas-new-apple-store-set-to-open-early-ahead-of-holidays?utm_medium=rss)
  - [Anker’s Qi2 wireless chargers will fast-charge iPhone 13, 14, and 15 at 15W](https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15)
  - [Apple reportedly plans to launch a bigger iPad Air and OLED iPad Pro in the spring](https://www.theverge.com/2023/12/6/23990883/apple-ipad-air-oled-pro-spring-release-12-9-inch)
- - [Apple may have a busy March with a rumored larger iPad Air, OLED iPad Pros, and new Macs](https://appleinsider.com/articles/23/12/06/apple-may-have-a-busy-march-with-a-rumored-larger-ipad-air-oled-ipad-pros-and-new-macs?utm_medium=rss)
- - [The Verge’s favorite splurge-worthy gifts for 2023](https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023)
- - [Disney Plus and Hulu’s one-app experience is launching in beta](https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch)<!-- TECH:END -->
+ - [Apple may have a busy March with a rumored larger iPad Air, OLED iPad Pros, and new Macs](https://appleinsider.com/articles/23/12/06/apple-may-have-a-busy-march-with-a-rumored-larger-ipad-air-oled-ipad-pros-and-new-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Portable Sonos Roam Speakers for as Little as $119 Right Now     - CNET](https://www.cnet.com/deals/snag-portable-sonos-roam-speakers-for-as-little-as-119-right-now/#ftag=CAD590a51e)
- - [Senator&#39;s paranoia opens door for Apple to speak out on government censorship.](https://appleinsider.com/articles/23/12/06/senators-paranoia-opens-door-for-apple-to-speak-out-on-government-censorship?utm_medium=rss)
- - [This Discounted $249 Meta Quest 2 Now Comes With $50 of Free Credit     - CNET](https://www.cnet.com/deals/this-discounted-249-meta-quest-2-now-comes-with-50-of-free-credit/#ftag=CAD590a51e)
- - [TikTok releases its 2023 list of top videos and trends, again showing how disparate users&#39; individual experiences are on the app and how siloed its content is &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231206/p20#a231206p20)
- - [Best Prepaid Phone Plans for December 2023     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google announces Gemini, a new AI model with three tiers, Ultra, Pro, and Nano, and plans a paid version in 2024; Google says the new Bard beats free ChatGPT &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231206/p21#a231206p21)
+ - [Google Just Launched Gemini, Its Long-Awaited Answer to ChatGPT](https://www.wired.com/story/google-gemini-ai-model-chatgpt/)
+ - [Google DeepMind&#39;s Demis Hassabis Says Gemini Is a New Breed of AI](https://www.wired.com/story/google-deepmind-demis-hassabis-gemini-ai/)
+ - [Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
+ - [Google’s Bard chatbot is getting way better thanks to Gemini](https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

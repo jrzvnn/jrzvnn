@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With Dream Scenario, Nic Cage wants to let you in on a secret](https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview)
+ - [A bunch of EVs are going to lose their tax credit starting January 1st](https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e)
  - [Researchers unveil LogoFAIL, an attack that defeats UEFI booting protections in nearly all Windows and Linux devices and can be executed remotely in many cases &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231206/p35#a231206p35)
  - [Jennifer Doudna Believes Crispr Is for Everyone](https://www.wired.com/story/livewired-jennifer-doudna-crispr/)
- - [Meta will let you ‘reimagine’ your friends’ AI-generated images](https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot)
- - [The Binance Crackdown Will Be an &#39;Unprecedented&#39; Bonanza for Crypto Surveillance](https://www.wired.com/story/binance-settlement-transaction-histories/)
- - [Apple&#39;s machine learning research team quietly releases MLX, an array framework to train and deploy ML models on Apple silicon, available on GitHub &lpar;Jonny Evans/Computerworld&rpar;](http://www.techmeme.com/231206/p34#a231206p34)<!-- TECH:END -->
+ - [Meta will let you ‘reimagine’ your friends’ AI-generated images](https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

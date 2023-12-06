@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [AMD releases new chips to power faster AI training](https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu)
  - [AMD launches Instinct AI accelerators MI300X and MI300A and claims the MI300X delivers up to 1.6x more performance than Nvidia&#39;s H100 HGX in inference workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231206/p37#a231206p37)
  - [A24 is bringing its entire theatrical slate to HBO, Max, and Cinemax](https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery)
- - [An interview with Sundar Pichai on Gemini, AI benchmarks, making AI helpful for everyone, the legal landscape around AI, and more &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231206/p36#a231206p36)
- - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Pizzacraft&#39;s Pronto Review: See How this $280 Gas-Powered Pizza Oven Performed     - CNET](https://www.cnet.com/home/yard-and-outdoors/we-tried-pizzacrafts-280-pronto-pizza-oven-see-how-the-budget-friendly-model-performed/#ftag=CAD590a51e)
+ - [Save 47% on Fossil Gen 6 Wellness Edition Smart Watch: Now Just $159     - CNET](https://www.cnet.com/deals/save-47-on-fossil-gen-6-wellness-edition-smart-watch-now-just-159/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

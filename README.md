@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [School is for the weak](http://9gag.com/gag/adPzzZQ)
- - 😝 [European things](http://9gag.com/gag/anzoooq)
- - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
  - 😝 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 💣 [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
  - 👉 [The crossover we&#39;ve been waiting for](http://9gag.com/gag/az23pmZ)<!-- MEMES:END -->
 
 ---

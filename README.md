@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witchcraft banned from Rwandan soccer matches after bizarre incident &lpar;2016 but still WTF&rpar;](http://9gag.com/gag/awZp2zR)
- - 😝 [What happend to the egyptian lawsuit against Netflix ?](http://9gag.com/gag/ap9M76E)
- - 💣 [Survival monday is here](http://9gag.com/gag/aBdeMvx)
- - 😝 [What? An normal N?](http://9gag.com/gag/aqeEMdZ)
- - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
+ - 😝 [When dream comes true](http://9gag.com/gag/aMELLO1)
+ - 😝 [Hehe](http://9gag.com/gag/aQEj5PK)
+ - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 😝 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
+ - 👉 [Don&#39;t look it up.](http://9gag.com/gag/a2KXg3D)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google updates the Pixel 8 Pro with Video Boost, to let models adjust videos in the cloud, and announces new Pixel features, like a Repair Mode for servicing &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231206/p28#a231206p28)
+ - [Best Seafood Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
  - [Apple demonstrates its commitment to AI with new open source code release](https://appleinsider.com/articles/23/12/06/apple-demonstrates-its-commitment-to-ai-with-new-open-source-code-release?utm_medium=rss)
  - [Google is ending the year with a big update for Pixel devices](https://www.theverge.com/2023/12/6/23990607/google-pixel-december-update-feature-drop-video-boost)
- - [AI data startup VAST Data, which unifies storage, databases, and more, raised a $118M Series E led by Fidelity at a $9B valuation, up from $3.7B in May 2021 &lpar;Globes Online&rpar;](http://www.techmeme.com/231206/p27#a231206p27)
- - [Google details AlphaCode 2, an update to AlphaCode, announced in February 2022, powered by Gemini that beats ~85% of competitors in Codeforces competitions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p26#a231206p26)<!-- TECH:END -->
+ - [AI data startup VAST Data, which unifies storage, databases, and more, raised a $118M Series E led by Fidelity at a $9B valuation, up from $3.7B in May 2021 &lpar;Globes Online&rpar;](http://www.techmeme.com/231206/p27#a231206p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

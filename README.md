@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sundar Pichai on Gemini, AI benchmarks, making AI helpful for everyone, the legal landscape around AI, and more &lpar;Mat Honan/MIT Technology Review&rpar;](http://www.techmeme.com/231206/p36#a231206p36)
  - [Goodbye, green bubbles: How to send blue iMessages from Android with Beeper Mini](https://appleinsider.com/articles/23/12/06/goodbye-green-bubbles-how-to-send-blue-imessages-from-android-with-beeper-mini?utm_medium=rss)
  - [You can still nab Nintendo’s Smash Bros.-themed Switch OLED for $325](https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale)
  - [Save up to $270 on Apple&#39;s new M3 MacBook Pro 14-inch at B&amp;H Photo](https://appleinsider.com/articles/23/12/06/save-up-to-270-on-apples-new-m3-macbook-pro-14-inch?utm_medium=rss)
- - [Best Wireless Mouse Deals: Up to $50 Savings on Logitech, HP, Steelseries and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)
- - [With Dream Scenario, Nic Cage wants to let you in on a secret](https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview)<!-- TECH:END -->
+ - [Best Wireless Mouse Deals: Up to $50 Savings on Logitech, HP, Steelseries and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

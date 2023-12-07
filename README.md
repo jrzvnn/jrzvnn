@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Mother visiting the statue of her Son Oleksandr Matsievskyi](http://9gag.com/gag/aEq4r7G)
- - 😝 [You hired](http://9gag.com/gag/aVb6NAw)
- - 💣 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [Gamers be like](http://9gag.com/gag/aVb6AeO)<!-- MEMES:END -->
+ - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)<!-- MEMES:END -->
 
 ---
 

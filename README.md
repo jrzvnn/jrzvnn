@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC and Arizona labor unions reach a deal covering foreign workers and more, to resolve labor disputes that have dogged TSMC&#39;s fab construction in Phoenix &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231207/p25#a231207p25)
+ - [Apple refuses to recognize Apple Southampton unionization requests, staff pushes forward anyway](https://appleinsider.com/articles/23/12/07/apple-refuses-to-recognize-apple-southampton-unionization-requests-staff-pushes-forward-anyway?utm_medium=rss)
+ - [Microsoft announces a major security leadership reshuffle as part of its Secure Future Initiative, appoints Igor Tsyganskiy as CISO, replacing Bret Arsenault &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231207/p24#a231207p24)
  - [Review of Amazon&#39;s $315 Echo Frames Carrera Cruiser: more stylish with better battery but pricey, bass and audio are still not great, and Alexa isn&#39;t optimal &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231207/p23#a231207p23)
- - [Apple Podcasts coming to Tesla for premium subscribers](https://appleinsider.com/articles/23/12/07/apple-podcasts-coming-to-tesla-for-premium-subscribers?utm_medium=rss)
- - [Pokémon Scarlet and Violet’s next DLC will let trainers take flight and turn into monsters](https://www.theverge.com/2023/12/7/23991976/pokemon-scarlet-violet-indigo-mask-synchro-machine-flight)
- - [Get a Discounted Roborock Robot Vacuum and Take Cleaning Your Floors Off Your To-Do List     - CNET](https://www.cnet.com/deals/get-a-discounted-roborock-robot-vacuum-and-take-cleaning-your-floors-off-your-to-do-list/#ftag=CAD590a51e)
- - [Is Doom Spending Hurting Your Finances and Well-Being? Here&#39;s How to Put an End to It     - CNET](https://www.cnet.com/personal-finance/credit-cards/doom-spending/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Podcasts coming to Tesla for premium subscribers](https://appleinsider.com/articles/23/12/07/apple-podcasts-coming-to-tesla-for-premium-subscribers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

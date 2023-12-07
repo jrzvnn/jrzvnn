@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)
+ - [You&#39;re Going to Want to Know About These iPhone 15 Pro, 15 Pro Max Features     - CNET](https://www.cnet.com/tech/mobile/youre-going-to-want-to-know-about-these-iphone-15-pro-and-15-pro-max-features/#ftag=CAD590a51e)
+ - [Thursday Night Football: How to Watch, Stream Patriots vs. Steelers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-steelers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
  - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
- - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)
- - [Social Security 2024 COLA Increase: Your Checks Are Getting Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/social-security-2024-cola-increase-your-checks-are-getting-bigger-next-year/#ftag=CAD590a51e)
- - [How Google, Meta, and other tech giants ramped up university donations over the years, giving them influence over AI, social media, and disinformation research &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)<!-- TECH:END -->
+ - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

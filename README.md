@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steve Jobs $4.01 check for RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
  - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)
  - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
  - [Is Sleeping on Your Stomach Really That Bad?     - CNET](https://www.cnet.com/health/sleep/is-sleeping-on-your-stomach-really-that-bad/#ftag=CAD590a51e)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [A US judge sentences Gene Levoff, the ex-Apple lawyer who pled guilty to insider trading from 2011 to 2016, to four years of probation; Apple fired him in 2018 &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/231207/p37#a231207p37)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

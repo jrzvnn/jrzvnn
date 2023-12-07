@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
 
 ---
 

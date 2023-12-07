@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Notepad on Windows 11 is finally getting a character count](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)
  - [Threads has hashtags now](https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags)
- - [Rhythms, which wants to use AI to analyze companies&#39; patterns such as monthly business reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)
- - [Amazon tests a $9.99/month grocery subscription service for Prime members, with unlimited grocery delivery from Whole Foods and Amazon Fresh on orders over $35 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231207/p31#a231207p31)
+ - [Seattle-based Rhythms, which plans to use AI to analyze companies&#39; patterns, such as monthly reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)
+ - [Amazon tests a $9.99/month grocery subscription service for Prime members, offering unlimited Whole Foods and Amazon Fresh grocery delivery on orders over $35 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231207/p31#a231207p31)
  - [Apple seeds second macOS 14.2 Sonoma release candidate beta](https://appleinsider.com/articles/23/12/07/apple-seeds-second-macos-142-sonoma-release-candidate-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

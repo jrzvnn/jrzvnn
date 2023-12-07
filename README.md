@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
- - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 😝 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)
- - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
+ - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
+ - 😝 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
+ - 💣 [Trying to catch a spider goes wrong &lpar;NOPE&rpar;](http://9gag.com/gag/aVb6y1v)
+ - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
+ - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
 
 ---
 

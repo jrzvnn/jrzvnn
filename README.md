@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Review of Amazon&#39;s $315 Echo Frames Carrera Cruiser: more stylish with better battery but pricey, bass and audio are still not great, and Alexa isn&#39;t optimal &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231207/p23#a231207p23)
+ - [Apple Podcasts coming to Tesla for premium subscribers](https://appleinsider.com/articles/23/12/07/apple-podcasts-coming-to-tesla-for-premium-subscribers?utm_medium=rss)
  - [Pokémon Scarlet and Violet’s next DLC will let trainers take flight and turn into monsters](https://www.theverge.com/2023/12/7/23991976/pokemon-scarlet-violet-indigo-mask-synchro-machine-flight)
- - [Block opens preorders for its self-custodial Bitcoin wallet Bitkey in 95 countries, available in early 2024 for $150 in the US &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/231207/p22#a231207p22)
- - [28 Delightful Gift Ideas for Music Lovers and Audiophiles](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
- - [Stellantis makes a big bet on EV battery swapping in new deal with Ample](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
- - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)<!-- TECH:END -->
+ - [Get a Discounted Roborock Robot Vacuum and Take Cleaning Your Floors Off Your To-Do List     - CNET](https://www.cnet.com/deals/get-a-discounted-roborock-robot-vacuum-and-take-cleaning-your-floors-off-your-to-do-list/#ftag=CAD590a51e)
+ - [Is Doom Spending Hurting Your Finances and Well-Being? Here&#39;s How to Put an End to It     - CNET](https://www.cnet.com/personal-finance/credit-cards/doom-spending/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

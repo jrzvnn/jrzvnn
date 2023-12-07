@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 💣 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 😝 [You hired](http://9gag.com/gag/aVb6NAw)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 💣 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 😝 [Gamers be like](http://9gag.com/gag/aVb6AeO)
+ - 👉 [There&#39;s a word for that](http://9gag.com/gag/aqeE3zY)<!-- MEMES:END -->
 
 ---
 

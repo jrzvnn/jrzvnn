@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone know why?](http://9gag.com/gag/aL1ExAW)
- - 😝 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
- - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [The eyes of darkness.](http://9gag.com/gag/aKEMRG6)
- - 👉 [Relatable....](http://9gag.com/gag/aZDYe4z)<!-- MEMES:END -->
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 💣 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - 😝 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)
+ - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
 
 ---
 

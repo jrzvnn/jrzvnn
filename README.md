@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)
  - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
  - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)
  - [Social Security 2024 COLA Increase: Your Checks Are Getting Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/social-security-2024-cola-increase-your-checks-are-getting-bigger-next-year/#ftag=CAD590a51e)
- - [How Google, Meta, and other tech giants ramped up university donations over the years, giving them influence over AI, social media, and disinformation research &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)
- - [PitchBook: approximately 3,200 private venture-backed US companies, which had raised a combined $27.2B in VC funding, have gone out of business in 2023 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231207/p5#a231207p5)<!-- TECH:END -->
+ - [How Google, Meta, and other tech giants ramped up university donations over the years, giving them influence over AI, social media, and disinformation research &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 💣 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 😝 [This is why american cars are so big](http://9gag.com/gag/a2KXedd)
+ - 😝 [Alabama!](http://9gag.com/gag/amAZeWo)
+ - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

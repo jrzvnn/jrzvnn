@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [PitchBook: approximately 3,200 private venture-backed US companies, which had raised a combined $27.2B in VC funding, have gone out of business in 2023 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231207/p5#a231207p5)
- - [Shares of Paytm dropped as much as 20% after the company announced plans to issue fewer personal loans under ~$600 to comply with RBI&#39;s tightening norms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p4#a231207p4)
+ - [Shares of Paytm fell 20% after the company announced plans to issue fewer personal loans under ~$600 to comply with the Reserve Bank of India&#39;s tightening norms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p4#a231207p4)
  - [Robinhood launches a commission-free crypto trading app, supporting 25+ cryptocurrencies, in the EU, a week after the company launched stock trading in the UK &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231207/p3#a231207p3)
  - [Bengaluru-based Sarvam AI, which is building LLMs that support Indian languages, emerges from stealth with a $41M combined seed and Series A led by Lightspeed &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p2#a231207p2)
  - [NYC-based Pontera, which builds software for managing retirement accounts, raised $60M, a source says at a $550M+ valuation, taking its total funding to $160M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231207/p1#a231207p1)<!-- TECH:END -->

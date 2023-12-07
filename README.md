@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Ganesh Venkataramanan, who led Tesla&#39;s Dojo supercomputer project for five years, left Tesla last month; Tesla executive Peter Bannon now leads Dojo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p30#a231207p30)
  - [Amazon&#39;s Holiday Apple Sale drives prices down to as low as $27](https://appleinsider.com/articles/23/12/05/amazons-holiday-apple-sale-drives-prices-down-to-as-low-as-27?utm_medium=rss)
  - [Disinformation researcher accuses Meta of meddling in Harvard’s research](https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan)
  - [Former OpenAI board member Helen Toner says the board&#39;s &quot;goal in firing Sam was to strengthen OpenAI&quot;, but declines to offer specifics on why Altman was fired &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p29#a231207p29)
- - [If you&#39;re using a Magic Keyboard, you&#39;ve opened up an attack vector](https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector?utm_medium=rss)
- - [Daily deals Dec. 7: iPad $249, $170 off iPad mini 6, Apple Watch Series 9 45mm $359, MacBook Air M2 16GB $1,149, more](https://appleinsider.com/articles/23/12/07/daily-deals-dec-7-ipad-249-170-off-ipad-mini-6-apple-watch-series-9-45mm-359-macbook-air-m2-16gb-1149-more?utm_medium=rss)<!-- TECH:END -->
+ - [If you&#39;re using a Magic Keyboard, you&#39;ve opened up an attack vector](https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

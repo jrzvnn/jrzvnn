@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 💣 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 😝 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
  - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---

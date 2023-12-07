@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK FCA, the PRA, and the Bank of England issue a joint consultation paper with proposals for more robust oversight of banks&#39; cloud computing providers &lpar;Financial Times&rpar;](http://www.techmeme.com/231207/p18#a231207p18)
- - [Unity 6 arrives with AI tools, plus Apple &amp; Meta partnerships](https://appleinsider.com/articles/23/12/07/unity-debuts-unity-6-lts-with-meta-apple-partnerships?utm_medium=rss)
- - [Earnest: Chinese e-commerce platform Temu had nearly 17% of US discount store market share in November, compared to Dollar General&#39;s 43% and Dollar Tree&#39;s 28% &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p17#a231207p17)
- - [Epic kicks off Fortnite’s new era with Lego Fortnite](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
- - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says Russia-linked propagandists duped at least seven Western celebrities via Cameo into recording videos later used to attack Volodymyr Zelensky &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p19#a231207p19)
+ - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [The Best Gifts for Book Lovers &lpar;2023&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [Apple continues its sci-fi push with Constellation in February](https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

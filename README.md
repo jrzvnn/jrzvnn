@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
  - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)
  - [Social Security 2024 COLA Increase: Your Checks Are Getting Bigger Next Year     - CNET](https://www.cnet.com/personal-finance/social-security-2024-cola-increase-your-checks-are-getting-bigger-next-year/#ftag=CAD590a51e)
  - [How tech giants like Google and Meta ramped up university donations over the years, giving them influence over research in AI, social media, and disinformation &lpar;Washington Post&rpar;](http://www.techmeme.com/231207/p6#a231207p6)
- - [PitchBook: approximately 3,200 private venture-backed US companies, which had raised a combined $27.2B in VC funding, have gone out of business in 2023 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231207/p5#a231207p5)
- - [Shares of Paytm fell 20% after the company announced plans to issue fewer personal loans under ~$600 to comply with the Reserve Bank of India&#39;s tightening norms &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p4#a231207p4)<!-- TECH:END -->
+ - [PitchBook: approximately 3,200 private venture-backed US companies, which had raised a combined $27.2B in VC funding, have gone out of business in 2023 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231207/p5#a231207p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

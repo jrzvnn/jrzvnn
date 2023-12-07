@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now Android phones can automatically send medical data during 911 calls](https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos)
+ - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Is Sleeping on Your Stomach Really That Bad?     - CNET](https://www.cnet.com/health/sleep/is-sleeping-on-your-stomach-really-that-bad/#ftag=CAD590a51e)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [A US judge sentences Gene Levoff, the ex-Apple lawyer who pled guilty to insider trading from 2011 to 2016, to four years of probation; Apple fired him in 2018 &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/231207/p37#a231207p37)
- - [Toronto-based ContactMonkey, which offers an internal communications tool that integrates with Outlook, Gmail, and more, raised a $55M Series A led by Updata &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231207/p36#a231207p36)
- - [Q&amp;A with IBM CEO Arvind Krishna on AI&#39;s business uses, Biden&#39;s EO, rolling out WatsonX in July 2023, growing IBM&#39;s AI business, falling behind in AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231207/p35#a231207p35)
- - [Ex-Apple lawyer guilty of insider trading gets a slap on the wrist, avoids prison](https://appleinsider.com/articles/23/12/07/ex-apple-lawyer-guilty-of-insider-trading-gets-a-slap-on-the-wrist-avoids-prison?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge sentences Gene Levoff, the ex-Apple lawyer who pled guilty to insider trading from 2011 to 2016, to four years of probation; Apple fired him in 2018 &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/231207/p37#a231207p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

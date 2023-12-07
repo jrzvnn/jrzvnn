@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 💣 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
- - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
+ - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
 
 ---
 

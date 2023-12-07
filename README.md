@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
  - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
  - 💣 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
  - 😝 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
- - 👉 [What kind of training is this?](http://9gag.com/gag/ay2KKYX)<!-- MEMES:END -->
+ - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
 
 ---
 

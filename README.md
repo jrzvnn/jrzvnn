@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS&#39; re:Invent showed it lags behind in the generative AI space, as half of the announcements are still in preview and were seemingly developed in a rush &lpar;Corey Quinn/Last Week in AWS&rpar;](http://www.techmeme.com/231206/p49#a231206p49)
  - [SoftBank-backed travel booking service Klook raised a $210M Series E+, taking its total funding to $900M+, after turning cash flow positive in mid-2023 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p48#a231206p48)
  - [Sources: Bungie&#39;s recent layoffs came alongside a scramble to avoid a total Sony takeover, which could happen if Bungie doesn&#39;t meet certain financial goals &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/231206/p47#a231206p47)
  - [Bitzlato co-founder Anatoly Legkodymov pleads guilty in the US to operating a money transmitting business for illicit funds and agrees to dissolve the exchange &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231206/p46#a231206p46)
- - [Meta is rolling out end-to-end encryption to Messenger by default, for one-on-one chats and calls; E2EE for group chats remains opt-in &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p45#a231206p45)
- - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)<!-- TECH:END -->
+ - [Meta is rolling out end-to-end encryption to Messenger by default, for one-on-one chats and calls; E2EE for group chats remains opt-in &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p45#a231206p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

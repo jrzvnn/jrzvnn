@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 😝 [The Mother visiting the statue of her Son Oleksandr Matsievskyi](http://9gag.com/gag/aEq4r7G)
+ - 😝 [You hired](http://9gag.com/gag/aVb6NAw)
+ - 💣 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 👉 [Gamers be like](http://9gag.com/gag/aVb6AeO)<!-- MEMES:END -->
 
 ---
 

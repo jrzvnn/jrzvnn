@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitzlato co-founder Anatoly Legkodymov pleads guilty in the US to operating a money transmitting business for illicit funds and agrees to dissolve the exchange &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231206/p46#a231206p46)
+ - [Meta is rolling out end-to-end encryption to Messenger by default, for one-on-one chats and calls; E2EE for group chats remains opt-in &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231206/p45#a231206p45)
  - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)
  - [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
- - [OpenAI Cofounder Reid Hoffman Gives Sam Altman a Vote of Confidence](https://www.wired.com/story/livewired-ai-hoffman-openai/)
- - [Apple guidelines now say that US law enforcement can obtain the Apple ID associated with a push notification token via a subpoena; Google requires a court order &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231206/p43#a231206p43)
- - [Sources: Steve Hotelling, the Apple VP overseeing technologies like touchscreen, health sensors, and Face ID, and one of the inventors of Touch ID, is retiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p42#a231206p42)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Series 9 for $330, Up to $425 in Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

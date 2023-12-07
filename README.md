@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign](https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/)
- - [Amazon tells users that the service plans to stop accepting Venmo as a payment method on January 10, 2024, after rolling out Venmo support in October 2022 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231207/p28#a231207p28)
- - [End-to-End Encrypted Instagram and Messenger Chats: Why It Took Meta 7 Years](https://www.wired.com/story/meta-messenger-instagram-end-to-end-encryption/)
- - [Users say Google&#39;s Gemini Pro is loathe to comment on some controversial news topics, fails to get basic facts right, and struggles with basic coding functions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231207/p27#a231207p27)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
+ - [If you&#39;re using a Magic Keyboard, you&#39;ve opened up an attack vector](https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector?utm_medium=rss)
+ - [Daily deals Dec. 7: iPad $249, $170 off iPad mini 6, Apple Watch Series 9 45mm $359, MacBook Air M2 16GB $1,149, more](https://appleinsider.com/articles/23/12/07/daily-deals-dec-7-ipad-249-170-off-ipad-mini-6-apple-watch-series-9-45mm-359-macbook-air-m2-16gb-1149-more?utm_medium=rss)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [The new Mammoth app is a much simpler take on Mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)
+ - [Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign](https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

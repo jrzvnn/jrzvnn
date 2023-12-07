@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The race to 5G is over — now it’s time to pay the bill](https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition)
  - [Microsoft says Russia-linked propagandists duped at least seven Western celebrities via Cameo into recording videos later used to attack Volodymyr Zelensky &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p19#a231207p19)
  - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)
  - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [The Best Gifts for Book Lovers &lpar;2023&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Apple continues its sci-fi push with Constellation in February](https://www.theverge.com/2023/12/7/23991927/apple-tv-plus-constellation-release-date-sci-fi)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2023&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

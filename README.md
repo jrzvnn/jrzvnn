@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
- - 😝 [A picture is worth a thousand words.](http://9gag.com/gag/anzoLdb)
- - 💣 [Who&#39;s on first?](http://9gag.com/gag/aGEQ3m6)
- - 😝 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 💣 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)
+ - 😝 [Who&#39;s on first?](http://9gag.com/gag/aGEQ3m6)
  - 👉 [20 year ago, so about 1985.](http://9gag.com/gag/a5XY40y)<!-- MEMES:END -->
 
 ---

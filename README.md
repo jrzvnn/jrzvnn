@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood launches a commission-free crypto trading app, supporting 25+ cryptocurrencies, in the EU, a week after the company launched stock trading in the UK &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231207/p3#a231207p3)
  - [Bengaluru-based Sarvam AI, which is building LLMs that support Indian languages, emerges from stealth with a $41M combined seed and Series A led by Lightspeed &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231207/p2#a231207p2)
  - [NYC-based Pontera, which builds software for managing retirement accounts, raised $60M, a source says at a $550M+ valuation, taking its total funding to $160M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231207/p1#a231207p1)
  - [Sydney-based Leonardo.Ai, which lets users generate AI images for use in creative industries, raised $31M, and says it has 7M users and generated 700M+ images &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231206/p50#a231206p50)
- - [AWS&#39; re:Invent showed it lags behind in the generative AI space, as half of the announcements are still in preview and were seemingly developed in a rush &lpar;Corey Quinn/Last Week in AWS&rpar;](http://www.techmeme.com/231206/p49#a231206p49)
- - [SoftBank-backed travel booking service Klook raised a $210M Series E+, taking its total funding to $900M+, after turning cash flow positive in mid-2023 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231206/p48#a231206p48)<!-- TECH:END -->
+ - [AWS&#39; re:Invent showed it lags behind in the generative AI space, as half of the announcements are still in preview and were seemingly developed in a rush &lpar;Corey Quinn/Last Week in AWS&rpar;](http://www.techmeme.com/231206/p49#a231206p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

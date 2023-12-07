@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)
- - [You&#39;re Going to Want to Know About These iPhone 15 Pro, 15 Pro Max Features     - CNET](https://www.cnet.com/tech/mobile/youre-going-to-want-to-know-about-these-iphone-15-pro-and-15-pro-max-features/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Patriots vs. Steelers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-steelers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [Reuters temporarily removes its article titled &quot;How an Indian startup hacked the world&quot; to comply with an Indian court order, and plans to appeal the decision &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p8#a231207p8)
- - [Officials attribute a DDoS attack against the HHS in March 2020 to a state-level actor; docs: the DDoS attack was largest the US government had ever experienced &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p7#a231207p7)<!-- TECH:END -->
+ - [iPhone 16 rumored to get better Siri with AI and improved microphones](https://appleinsider.com/articles/23/12/07/iphone-16-rumored-to-get-better-siri-with-ai-and-better-microphones?utm_medium=rss)
+ - [Sony&#39;s Discovery content removals due to licensing &quot;arrangements&quot; and unexpected account bans are timely reminders of why users don&#39;t really own digital content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231207/p10#a231207p10)
+ - [Israel-Hamas Conflict Sparks Meta Oversight Board&#39;s First Emergency Case](https://www.wired.com/story/oversight-board-meta-israel-hamas/)
+ - [Proton Drive is adding an encrypted photo backup feature on Android](https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync)
+ - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

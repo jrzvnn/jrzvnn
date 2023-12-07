@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
  - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)<!-- MEMES:END -->
+ - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 

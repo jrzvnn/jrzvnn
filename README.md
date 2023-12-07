@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 💣 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 😝 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 

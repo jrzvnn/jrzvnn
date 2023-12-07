@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steve Jobs $4.01 check to RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
+ - [The US and UK governments jointly accuse Russia&#39;s FSB of orchestrating a wide-ranging, global hacking campaign since 2015 to interfere in British elections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p40#a231207p40)
  - [Spotify’s CFO is out days after mass layoffs](https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs)
  - [Spotify says CFO Paul Vogel plans to leave on March 31, 2024, and launches a search for a successor; Daniel Ek wants a CFO &quot;with a different mix of experiences&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231207/p39#a231207p39)
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Apple Shares Cybersecurity Breach Report Amid Push for Encryption     - CNET](https://www.cnet.com/tech/mobile/apple-shares-cybersecurity-breach-report-amid-push-for-encryption/#ftag=CAD590a51e)
- - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)<!-- TECH:END -->
+ - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

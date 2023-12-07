@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
  - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
  - 💣 [Bruh](http://9gag.com/gag/amAZ43j)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)<!-- MEMES:END -->
+ - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

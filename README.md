@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with IBM CEO Arvind Krishna on AI&#39;s business uses, Biden&#39;s EO, rolling out WatsonX in July 2023, growing IBM&#39;s AI business, falling behind in AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231207/p35#a231207p35)
  - [Ex-Apple lawyer guilty of insider trading gets a slap on the wrist, avoids prison](https://appleinsider.com/articles/23/12/07/ex-apple-lawyer-guilty-of-insider-trading-gets-a-slap-on-the-wrist-avoids-prison?utm_medium=rss)
  - [Linux is getting its own Blue Screen of Death](https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update)
  - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
- - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)<!-- TECH:END -->
+ - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

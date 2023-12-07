@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
- - 💣 [Ireland is screwed](http://9gag.com/gag/axor55L)
- - 😝 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
- - 👉 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)<!-- MEMES:END -->
+ - 😝 [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
 
 ---
 

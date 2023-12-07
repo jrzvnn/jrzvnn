@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
  - 😝 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 💣 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Seriously, dafuko!](http://9gag.com/gag/aREpbmq)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satellite SOS &#39;is a game changer,&#39; says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
  - [TrendForce: the top 10 chip foundries&#39; Q3 revenue rose 7.9% YoY to $28.29B; TSMC stayed top at ~60%; Intel made the list for the first time in several quarters &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/231207/p12#a231207p12)
  - [Meta&#39;s Oversight Board takes up two expedited cases, the first ever, related to the Israel-Hamas war, looking at posts that were removed and then reinstated &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231207/p11#a231207p11)
  - [iPhone 16 rumored to get better Siri with AI and improved microphones](https://appleinsider.com/articles/23/12/07/iphone-16-rumored-to-get-better-siri-with-ai-and-better-microphones?utm_medium=rss)
- - [Sony&#39;s Discovery content removals due to licensing &quot;arrangements&quot; and unexpected account bans are timely reminders of why users don&#39;t really own digital content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231207/p10#a231207p10)
- - [Israel-Hamas Conflict Sparks Meta Oversight Board&#39;s First Emergency Case](https://www.wired.com/story/oversight-board-meta-israel-hamas/)<!-- TECH:END -->
+ - [Sony&#39;s Discovery content removals due to licensing &quot;arrangements&quot; and unexpected account bans are timely reminders of why users don&#39;t really own digital content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231207/p10#a231207p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linux is getting its own Blue Screen of Death](https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update)
  - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
  - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)
- - [X rolls out xAI&#39;s chatbot Grok to X Premium+ users &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/231207/p34#a231207p34)
- - [15 Best Food and Drink Cards to Give an Enthusiastic Eater in 2023     - CNET](https://www.cnet.com/news/gift-cards-for-a-foodie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X rolls out xAI&#39;s snarky, anti-woke chatbot Grok to X Premium+ users; X CEO Linda Yaccarino describes Grok as &quot;the ultimate ride or die&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/231207/p34#a231207p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

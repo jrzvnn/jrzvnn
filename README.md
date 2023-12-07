@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 😝 [Title](http://9gag.com/gag/aqeEPMP)
- - 💣 [New football skill](http://9gag.com/gag/aYV03PO)
- - 😝 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)
- - 👉 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)<!-- MEMES:END -->
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 💣 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)
+ - 😝 [What kind of training is this?](http://9gag.com/gag/ay2KKYX)
+ - 👉 [Hi tony](http://9gag.com/gag/ap9M4P5)<!-- MEMES:END -->
 
 ---
 

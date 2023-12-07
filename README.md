@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car block ambulance](http://9gag.com/gag/aGEQ4g0)
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 💣 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 

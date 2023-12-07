@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity 6 announced with AI tools, plus Apple &amp; Meta partnerships](https://appleinsider.com/articles/23/12/07/unity-debuts-unity-6-lts-with-meta-apple-partnerships?utm_medium=rss)
+ - [Apple including 25 hours of Xcode Cloud for all Apple Developer Program memberships](https://appleinsider.com/articles/23/12/07/apple-including-25-hours-of-xcode-cloud-for-all-apple-developer-program-memberships?utm_medium=rss)
  - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)
  - [Meta rolls out tags on Threads, with support for multiple words and no # marks; there can be just one tag per post and the tag view is the search view &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231207/p33#a231207p33)
- - [Notepad on Windows 11 is finally getting a character count](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)
- - [Threads has hashtags now](https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags)
- - [Seattle-based Rhythms, which plans to use AI to analyze companies&#39; patterns, such as monthly reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)<!-- TECH:END -->
+ - [Notepad on Windows 11 is finally getting a character count](https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

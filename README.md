@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former OpenAI board member Helen Toner says the board&#39;s &quot;goal in firing Sam was to strengthen OpenAI&quot;, but declines to offer specifics on why Altman was fired &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p29#a231207p29)
  - [If you&#39;re using a Magic Keyboard, you&#39;ve opened up an attack vector](https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector?utm_medium=rss)
  - [Daily deals Dec. 7: iPad $249, $170 off iPad mini 6, Apple Watch Series 9 45mm $359, MacBook Air M2 16GB $1,149, more](https://appleinsider.com/articles/23/12/07/daily-deals-dec-7-ipad-249-170-off-ipad-mini-6-apple-watch-series-9-45mm-359-macbook-air-m2-16gb-1149-more?utm_medium=rss)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The new Mammoth app is a much simpler take on Mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)
- - [Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign](https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/)<!-- TECH:END -->
+ - [The new Mammoth app is a much simpler take on Mastodon](https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

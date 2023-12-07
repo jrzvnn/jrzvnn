@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
  - [Sources: Ganesh Venkataramanan, who led Tesla&#39;s Dojo supercomputer project for five years, left Tesla last month; Tesla executive Peter Bannon now leads Dojo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p30#a231207p30)
  - [Amazon&#39;s Holiday Apple Sale drives prices down to as low as $27](https://appleinsider.com/articles/23/12/05/amazons-holiday-apple-sale-drives-prices-down-to-as-low-as-27?utm_medium=rss)
  - [Disinformation researcher accuses Meta of meddling in Harvard’s research](https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan)
- - [Former OpenAI board member Helen Toner says the board&#39;s &quot;goal in firing Sam was to strengthen OpenAI&quot;, but declines to offer specifics on why Altman was fired &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p29#a231207p29)
- - [If you&#39;re using a Magic Keyboard, you&#39;ve opened up an attack vector](https://appleinsider.com/articles/23/12/07/if-youre-using-a-magic-keyboard-youve-opened-up-an-attack-vector?utm_medium=rss)<!-- TECH:END -->
+ - [Former OpenAI board member Helen Toner says the board&#39;s &quot;goal in firing Sam was to strengthen OpenAI&quot;, but declines to offer specifics on why Altman was fired &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p29#a231207p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

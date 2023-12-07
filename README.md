@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Air Space Intelligence, whose Waze-like tool, Flyways, helps dispatchers pick routes for planes, raised $34M led by a16z, sources say at a $300M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/231207/p15#a231207p15)
- - [The UK accuses a unit of Russia&#39;s FSB of using cyberattacks in a &quot;sustained but unsuccessful&quot; campaign to undermine democratic institutions since 2015 &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/231207/p14#a231207p14)
- - [Satellite SOS is a game changer, says LA Search and Rescue](https://appleinsider.com/articles/23/12/07/satellite-sos-is-a-game-changer-says-la-search-and-rescue?utm_medium=rss)
- - [Apple grabs its chance to tell users about push notification privacy](https://appleinsider.com/articles/23/12/07/apple-grabs-its-chance-to-tell-users-about-push-notification-privacy?utm_medium=rss)
- - [Sources: House Republicans blocked a measure to speed up US chip projects in must-pass defense legislation, a key priority for Commerce Secretary Gina Raimondo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p13#a231207p13)<!-- TECH:END -->
+ - [Epic kicks off Fortnite’s new era with Lego Fortnite](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
+ - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
+ - [Can Rock Dust Soak Up Carbon Emissions? A Giant Experiment Is Set to Find Out](https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/)
+ - [This Pill Tracks Your Vitals From the Inside](https://www.wired.com/story/this-pill-tracks-your-vitals-from-the-inside/)
+ - [Green Chat Bubbles Aren’t the Problem—Texting Is](https://www.wired.com/story/gadget-lab-podcast-623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

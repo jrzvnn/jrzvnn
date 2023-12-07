@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
  - 😝 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
- - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 💣 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 😝 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)
+ - 👉 [Bruh](http://9gag.com/gag/amAZ43j)<!-- MEMES:END -->
 
 ---
 

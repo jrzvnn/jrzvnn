@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s official](http://9gag.com/gag/a7qxx9m)
- - 😝 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
- - 💣 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 👉 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)<!-- MEMES:END -->
+ - 😝 [It&#39;s official: Israel has began to flood the hamas tunnels with the terr\u00f3rist inside](http://9gag.com/gag/aZDYO5Q)
+ - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
+ - 💣 [Disney has lost 1.4 billion this year. &lpar;Source: Dan Murrell&rpar;](http://9gag.com/gag/aGEQ4E6)
+ - 😝 [What kind of training is this?](http://9gag.com/gag/ay2KKYX)
+ - 👉 [The most proudest thing i did 4 years ago 30 November 2019 at PUBG tourney](http://9gag.com/gag/a7qxR0z)<!-- MEMES:END -->
 
 ---
 

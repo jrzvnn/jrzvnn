@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon Scarlet and Violet’s next DLC will let trainers take flight and turn into monsters](https://www.theverge.com/2023/12/7/23991976/pokemon-scarlet-violet-indigo-mask-synchro-machine-flight)
  - [Block opens preorders for its self-custodial Bitcoin wallet Bitkey in 95 countries, available in early 2024 for $150 in the US &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/231207/p22#a231207p22)
  - [28 Delightful Gift Ideas for Music Lovers and Audiophiles](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
  - [Stellantis makes a big bet on EV battery swapping in new deal with Ample](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
- - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)
- - [Amazon’s latest Echo Frames are more style than substance](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses)<!-- TECH:END -->
+ - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 💣 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
+ - 😝 [Just move](http://9gag.com/gag/aXnO5jD)
+ - 👉 [New football skill](http://9gag.com/gag/aYV03PO)<!-- MEMES:END -->
 
 ---
 

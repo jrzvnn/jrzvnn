@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
  - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 💣 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
+ - 😝 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
+ - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---
 

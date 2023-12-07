@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [A US judge sentences Gene Levoff, the ex-Apple lawyer who pled guilty to insider trading from 2011 to 2016, to four years of probation; Apple fired him in 2018 &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/231207/p37#a231207p37)
  - [Toronto-based ContactMonkey, which offers an internal communications tool that integrates with Outlook, Gmail, and more, raised a $55M Series A led by Updata &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231207/p36#a231207p36)
  - [Q&amp;A with IBM CEO Arvind Krishna on AI&#39;s business uses, Biden&#39;s EO, rolling out WatsonX in July 2023, growing IBM&#39;s AI business, falling behind in AI, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231207/p35#a231207p35)
- - [Ex-Apple lawyer guilty of insider trading gets a slap on the wrist, avoids prison](https://appleinsider.com/articles/23/12/07/ex-apple-lawyer-guilty-of-insider-trading-gets-a-slap-on-the-wrist-avoids-prison?utm_medium=rss)
- - [Linux is getting its own Blue Screen of Death](https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update)
- - [Best Apple Pencil Deals: Save on Accessories From Apple and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ex-Apple lawyer guilty of insider trading gets a slap on the wrist, avoids prison](https://appleinsider.com/articles/23/12/07/ex-apple-lawyer-guilty-of-insider-trading-gets-a-slap-on-the-wrist-avoids-prison?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

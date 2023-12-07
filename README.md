@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why american cars are so big](http://9gag.com/gag/a2KXedd)
- - 😝 [Alabama!](http://9gag.com/gag/amAZeWo)
- - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
+ - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---
 

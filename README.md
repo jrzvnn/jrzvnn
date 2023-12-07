@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why not?](http://9gag.com/gag/aYV0382)
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
+ - 😝 [YOU BETTER WATCH OUT](http://9gag.com/gag/a9qGodD)
+ - 😝 [A picture is worth a thousand words.](http://9gag.com/gag/anzoLdb)
+ - 💣 [Who&#39;s on first?](http://9gag.com/gag/aGEQ3m6)
+ - 😝 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)
+ - 👉 [20 year ago, so about 1985.](http://9gag.com/gag/a5XY40y)<!-- MEMES:END -->
 
 ---
 

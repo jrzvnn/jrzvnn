@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 💣 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 😝 [The Mother visiting the statue of her Son Oleksandr Matsievskyi](http://9gag.com/gag/aEq4r7G)
+ - 😝 [You hired](http://9gag.com/gag/aVb6NAw)
+ - 💣 [This should be the replay to all the `what you going to do if I break in your home ` videos](http://9gag.com/gag/aL1EZ6z)
+ - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 👉 [Gamers be like](http://9gag.com/gag/aVb6AeO)<!-- MEMES:END -->
 
 ---
 

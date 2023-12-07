@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon tells users that the service plans to stop accepting Venmo as a payment method on January 10, 2024, after rolling out Venmo support in October 2022 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231207/p28#a231207p28)
+ - [End-to-End Encrypted Instagram and Messenger Chats: Why It Took Meta 7 Years](https://www.wired.com/story/meta-messenger-instagram-end-to-end-encryption/)
  - [Users say Google&#39;s Gemini Pro is loathe to comment on some controversial news topics, fails to get basic facts right, and struggles with basic coding functions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231207/p27#a231207p27)
  - [Premier League Soccer Livestream: How to Watch Tottenham vs. West Ham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-tottenham-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Everton vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Everton vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

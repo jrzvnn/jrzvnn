@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Users say Google&#39;s Gemini Pro is loathe to comment on some controversial news topics, fails to get basic facts right, and struggles with basic coding functions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231207/p27#a231207p27)
+ - [Premier League Soccer Livestream: How to Watch Tottenham vs. West Ham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-tottenham-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Everton vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-everton-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)
- - [Google’s 4K-ready Chromecast has returned to its Cyber Monday price](https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale)
- - [Google’s Gemini Is the Real Start of the Generative AI Boom](https://www.wired.com/story/google-gemini-generative-ai-boom/)
- - [WhatsApp is rolling out self-destructing voice messages](https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy)<!-- TECH:END -->
+ - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

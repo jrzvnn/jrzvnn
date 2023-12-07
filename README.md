@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 💣 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
+ - 💣 [Why would you only change one number \ud83d\ude02](http://9gag.com/gag/aYV03V2)
  - 😝 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)
- - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 

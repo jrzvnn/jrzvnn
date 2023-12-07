@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 😝 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
- - 💣 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Hi tony](http://9gag.com/gag/ap9M4P5)<!-- MEMES:END -->
+ - 😝 [Average night out in Thailand](http://9gag.com/gag/aVb6N7w)
+ - 💣 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
+ - 😝 [CocaComa Or Pepsi Max sir?](http://9gag.com/gag/aeQBB6Q)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

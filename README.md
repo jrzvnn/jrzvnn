@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rhythms, which wants to use AI to analyze companies&#39; patterns such as monthly business reviews and weekly meetings, comes out of stealth with a $26M seed &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231207/p32#a231207p32)
  - [Amazon tests a $9.99/month grocery subscription service for Prime members, with unlimited grocery delivery from Whole Foods and Amazon Fresh on orders over $35 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231207/p31#a231207p31)
  - [Apple seeds second macOS 14.2 Sonoma release candidate beta](https://appleinsider.com/articles/23/12/07/apple-seeds-second-macos-142-sonoma-release-candidate-beta?utm_medium=rss)
  - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [Sources: Ganesh Venkataramanan, who led Tesla&#39;s Dojo supercomputer project for five years, left Tesla last month; Tesla executive Peter Bannon now leads Dojo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p30#a231207p30)
- - [Amazon&#39;s Holiday Apple Sale drives prices down to as low as $27](https://appleinsider.com/articles/23/12/05/amazons-holiday-apple-sale-drives-prices-down-to-as-low-as-27?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Ganesh Venkataramanan, who led Tesla&#39;s Dojo supercomputer project for five years, left Tesla last month; Tesla executive Peter Bannon now leads Dojo &lpar;Bloomberg&rpar;](http://www.techmeme.com/231207/p30#a231207p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

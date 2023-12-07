@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Oversight Board takes up two expedited cases, the first ever, related to the Israel-Hamas war, looking at posts that were removed and then reinstated &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/231207/p11#a231207p11)
  - [iPhone 16 rumored to get better Siri with AI and improved microphones](https://appleinsider.com/articles/23/12/07/iphone-16-rumored-to-get-better-siri-with-ai-and-better-microphones?utm_medium=rss)
  - [Sony&#39;s Discovery content removals due to licensing &quot;arrangements&quot; and unexpected account bans are timely reminders of why users don&#39;t really own digital content &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231207/p10#a231207p10)
  - [Israel-Hamas Conflict Sparks Meta Oversight Board&#39;s First Emergency Case](https://www.wired.com/story/oversight-board-meta-israel-hamas/)
- - [Proton Drive is adding an encrypted photo backup feature on Android](https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync)
- - [Researchers detail AutoSpill, a flaw on Android that can expose users&#39; saved credentials from 1Password, LastPass, and other popular password managers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231207/p9#a231207p9)<!-- TECH:END -->
+ - [Proton Drive is adding an encrypted photo backup feature on Android](https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi tony](http://9gag.com/gag/ap9M4P5)
- - 😝 [Richest man with the poorest taste](http://9gag.com/gag/ay2KjOM)
- - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
+ - 😝 [Why not?](http://9gag.com/gag/aYV0382)
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

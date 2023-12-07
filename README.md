@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New football skill](http://9gag.com/gag/aYV03PO)
  - 😝 [Honest relationship advice from the brilliant Beckham](http://9gag.com/gag/aZDY6e3)
- - 💣 [Trying to catch a spider goes wrong &lpar;NOPE&rpar;](http://9gag.com/gag/aVb6y1v)
  - 😝 [Bruh](http://9gag.com/gag/amAZ43j)
- - 👉 [Cartel leader threatens police squad to stand down.](http://9gag.com/gag/a3ZOOXN)<!-- MEMES:END -->
+ - 💣 [Sometimes it&#39;s not what you&#39;re asking, it&#39;s who&#39;s asking](http://9gag.com/gag/aoK7XQ2)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)<!-- MEMES:END -->
 
 ---
 

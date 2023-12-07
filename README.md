@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Spotify’s CFO is out days after mass layoffs](https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs)
- - [Spotify says CFO Paul Vogel will leave on March 31, 2024, and launches a search for a successor; Daniel Ek calls for a CFO &quot;with a different mix of experiences&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231207/p39#a231207p39)
+ - [Spotify says CFO Paul Vogel plans to leave on March 31, 2024, and launches a search for a successor; Daniel Ek wants a CFO &quot;with a different mix of experiences&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231207/p39#a231207p39)
  - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
- - [TikTok unveils a task force to tackle hate speech and plans to open up its research API to civil society groups, after complaints over Israel-Hamas videos &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/231207/p38#a231207p38)<!-- TECH:END -->
+ - [Apple Shares Cybersecurity Breach Report Amid Push for Encryption     - CNET](https://www.cnet.com/tech/mobile/apple-shares-cybersecurity-breach-report-amid-push-for-encryption/#ftag=CAD590a51e)
+ - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

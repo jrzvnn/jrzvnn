@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [One day, your EV might power your home’s A/C](https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging)
  - [American Express doesn&#39;t seem that interested in an Apple Card partnership](https://appleinsider.com/articles/23/12/07/american-express-doesnt-seem-that-interested-in-an-apple-card-partnership?utm_medium=rss)
  - [X rolls out xAI&#39;s chatbot Grok to X Premium+ users &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/231207/p34#a231207p34)
- - [Unity 6 announced with AI tools, plus Apple &amp; Meta partnerships](https://appleinsider.com/articles/23/12/07/unity-debuts-unity-6-lts-with-meta-apple-partnerships?utm_medium=rss)
- - [Apple including 25 hours of Xcode Cloud for all Apple Developer Program memberships](https://appleinsider.com/articles/23/12/07/apple-including-25-hours-of-xcode-cloud-for-all-apple-developer-program-memberships?utm_medium=rss)<!-- TECH:END -->
+ - [15 Best Food and Drink Cards to Give an Enthusiastic Eater in 2023     - CNET](https://www.cnet.com/news/gift-cards-for-a-foodie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

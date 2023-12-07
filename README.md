@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure and indeed](http://9gag.com/gag/amAZjQ9)
- - 😝 [This is BBC news!](http://9gag.com/gag/aOxWg26)
- - 💣 [You want to see the lambada ?](http://9gag.com/gag/ay2KgRq)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [There&#39;s a word for that](http://9gag.com/gag/aqeE3zY)<!-- MEMES:END -->
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
+ - 💣 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

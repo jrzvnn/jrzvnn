@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Apple issues grave warning on user privacy to promote its own data protection](https://appleinsider.com/articles/23/12/07/apple-issues-grave-warning-on-user-privacy-to-promote-its-own-data-protection?utm_medium=rss)
- - [Sources: Montenegro&#39;s Justice Minister has privately said he plans to extradite Do Kwon to the US rather than South Korea to face criminal charges &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p26#a231207p26)
- - [Apple refuses to recognize Southampton store union, staff pushes forward anyway](https://appleinsider.com/articles/23/12/07/apple-refuses-to-recognize-apple-southampton-unionization-requests-staff-pushes-forward-anyway?utm_medium=rss)
- - [TSMC and Arizona labor unions reach a deal covering foreign workers and more, to resolve labor disputes that have dogged TSMC&#39;s fab construction in Phoenix &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231207/p25#a231207p25)
- - [Microsoft announces a major security leadership reshuffle as part of its Secure Future Initiative, appoints Igor Tsyganskiy as CISO, replacing Bret Arsenault &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231207/p24#a231207p24)<!-- TECH:END -->
+ - [Google’s 4K-ready Chromecast has returned to its Cyber Monday price](https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale)
+ - [Google’s Gemini Is the Real Start of the Generative AI Boom](https://www.wired.com/story/google-gemini-generative-ai-boom/)
+ - [WhatsApp is rolling out self-destructing voice messages](https://www.theverge.com/2023/12/7/23992008/whatsapp-view-once-voice-notes-messages-self-destruct-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

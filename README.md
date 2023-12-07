@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mel not only dislikes jews but loves helping others. Truelly a great man.](http://9gag.com/gag/aOxW6Y3)
- - 😝 [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)
- - 💣 [Hamas supporters 2 months ago VS Hamas supporters today](http://9gag.com/gag/axorpMn)
- - 😝 [The Square Hole !!](http://9gag.com/gag/aZDY9Np)
- - 👉 [Sure and indeed](http://9gag.com/gag/amAZjQ9)<!-- MEMES:END -->
+ - 😝 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
+ - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---
 

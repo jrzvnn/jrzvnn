@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces Purple Llama, an initiative to promote responsible AI development through the release of tools and evaluations to build open generative AI models &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231207/p21#a231207p21)
- - [Psychological thriller &#39;Constellation&#39; premiers on Apple TV+ on February 21](https://appleinsider.com/articles/23/12/07/psychological-thriller-constellation-premiers-on-apple-tv-on-february-21?utm_medium=rss)
- - [Nab AirSelfie Camera Drones for the Holidays From $97     - CNET](https://www.cnet.com/deals/nab-airselfie-camera-drones-for-the-holidays-from-97/#ftag=CAD590a51e)
- - [A profile of Chinese whistleblower Tang Mingfang, who called out injustices at a Foxconn factory making Amazon devices in 2022 and says he still pays the price &lpar;Financial Times&rpar;](http://www.techmeme.com/231207/p20#a231207p20)
- - [Today&#39;s Best CD Rates: Dec. 7, 2023 -- Recent Rate Drops Make Now a Good Time to Open a CD     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-7-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [28 Delightful Gift Ideas for Music Lovers and Audiophiles](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
+ - [Stellantis makes a big bet on EV battery swapping in new deal with Ample](https://www.theverge.com/2023/12/7/23991923/stellantis-ample-ev-battery-swap-deal-fiat-500e-spain)
+ - [How to watch The Game Awards &lpar;and what to expect&rpar;](https://www.theverge.com/2023/12/7/23990722/how-to-watch-game-awards-2023)
+ - [Amazon’s latest Echo Frames are more style than substance](https://www.theverge.com/23989893/amazon-echo-frames-review-alexa-carrera-cruiser-smart-glasses)
+ - [OWC reveals Express 1M2, an ultra-fast USB 4 NVMe SSD enclosure](https://appleinsider.com/articles/23/12/07/owc-reveals-express-1m2-an-ultra-fast-usb-4-nvme-ssd-enclosure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

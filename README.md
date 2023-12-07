@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executive behind Touch ID, display multitouch is retiring](https://appleinsider.com/articles/23/12/06/apple-executive-behind-touch-id-display-multitouch-is-retiring?utm_medium=rss)
- - [Video Games That Encourage Human Interaction Can Build Better Vibes](https://www.wired.com/story/live-wired-panel-will-games-eat-the-world/)
- - [Ex-Twitter security head claims the company fired him to flout regulations](https://www.theverge.com/2023/12/6/23991216/twitter-lawsuit-former-security-chief-regulation-ftc-consent-decree-eu-digital-services-act)
- - [MIT spinoff Liquid AI, which aims to build AI systems powered by liquid neural networks, emerges from stealth with a $37.6M seed at a $303M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231206/p41#a231206p41)
- - [Google Drive offers possible fix for missing files, but isn&#39;t guaranteed](https://appleinsider.com/articles/23/12/06/google-drive-offers-possible-fix-for-missing-files-but-isnt-guaranteed?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Microsoft plans the next major Windows version for 2024, with an AI-powered Windows Shell, an &quot;advanced Copilot&quot;, natural language search, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231206/p44#a231206p44)
+ - [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta)
+ - [OpenAI Cofounder Reid Hoffman Gives Sam Altman a Vote of Confidence](https://www.wired.com/story/livewired-ai-hoffman-openai/)
+ - [Apple guidelines now say that US law enforcement can obtain the Apple ID associated with a push notification token via a subpoena; Google requires a court order &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231206/p43#a231206p43)
+ - [Sources: Steve Hotelling, the Apple VP overseeing technologies like touchscreen, health sensors, and Face ID, and one of the inventors of Touch ID, is retiring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231206/p42#a231206p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

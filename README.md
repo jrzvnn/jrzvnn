@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity Debuts Unity 6 LTS with Meta &amp; Apple Partnerships](https://appleinsider.com/articles/23/12/07/unity-debuts-unity-6-lts-with-meta-apple-partnerships?utm_medium=rss)
+ - [Unity 6 arrives with AI tools, plus Apple &amp; Meta partnerships](https://appleinsider.com/articles/23/12/07/unity-debuts-unity-6-lts-with-meta-apple-partnerships?utm_medium=rss)
  - [Earnest: Chinese e-commerce platform Temu had nearly 17% of US discount store market share in November, compared to Dollar General&#39;s 43% and Dollar Tree&#39;s 28% &lpar;Reuters&rpar;](http://www.techmeme.com/231207/p17#a231207p17)
  - [Epic kicks off Fortnite’s new era with Lego Fortnite](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
  - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)

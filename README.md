@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta announces Purple Llama, an initiative to promote responsible AI development through the release of tools and evaluations to build open generative AI models &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231207/p21#a231207p21)
  - [Psychological thriller &#39;Constellation&#39; premiers on Apple TV+ on February 21](https://appleinsider.com/articles/23/12/07/psychological-thriller-constellation-premiers-on-apple-tv-on-february-21?utm_medium=rss)
  - [Nab AirSelfie Camera Drones for the Holidays From $97     - CNET](https://www.cnet.com/deals/nab-airselfie-camera-drones-for-the-holidays-from-97/#ftag=CAD590a51e)
  - [A profile of Chinese whistleblower Tang Mingfang, who called out injustices at a Foxconn factory making Amazon devices in 2022 and says he still pays the price &lpar;Financial Times&rpar;](http://www.techmeme.com/231207/p20#a231207p20)
- - [Today&#39;s Best CD Rates: Dec. 7, 2023 -- Recent Rate Drops Make Now a Good Time to Open a CD     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-7-2023/#ftag=CAD590a51e)
- - [The race to 5G is over — now it’s time to pay the bill](https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition)<!-- TECH:END -->
+ - [Today&#39;s Best CD Rates: Dec. 7, 2023 -- Recent Rate Drops Make Now a Good Time to Open a CD     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-7-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

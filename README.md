@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifehack found](http://9gag.com/gag/aEq4rWx)
- - 😝 [Raised a kitten](http://9gag.com/gag/aA0zBR9)
- - 💣 [Why is that](http://9gag.com/gag/aKEo4Bb)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [Shoot your shot \ud83d\ude02](http://9gag.com/gag/a8qxdyV)<!-- MEMES:END -->
+ - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 😝 [Why is that](http://9gag.com/gag/aKEo4Bb)
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 😝 [Shoot your shot \ud83d\ude02](http://9gag.com/gag/a8qxdyV)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 

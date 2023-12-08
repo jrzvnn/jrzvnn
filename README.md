@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron strikes a labor deal to hire 3,700 union workers for its $15B chip plant in Boise, Idaho, potentially giving the company an edge for federal chip funds &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231208/p5#a231208p5)
+ - [YouTubers can now pause comments after Google moderation tweaks](https://www.theverge.com/2023/12/8/23993284/youtube-pause-comment-moderation-feature-announcement)
  - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)
  - [Best Internet Providers in Springfield, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)
- - [Abu Dhabi-based AI company G42 plans to cut ties with Chinese hardware suppliers in favor of US counterparts, saying &quot;we cannot work with both sides&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231208/p3#a231208p3)
- - [Sources: in a first, Apple is working with China&#39;s BYD to move new iPad product development to Vietnam, with test production set to begin around early 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231208/p2#a231208p2)
- - [Sources: Apple and its suppliers aim to make 50M+ iPhones annually in India in the next 2-3 years, and a quarter of global iPhones by the end of the decade &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p1#a231208p1)<!-- TECH:END -->
+ - [Abu Dhabi-based AI company G42 plans to cut ties with Chinese hardware suppliers in favor of US counterparts, saying &quot;we cannot work with both sides&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231208/p3#a231208p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

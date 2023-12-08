@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android iMessage app Beeper mini isn&#39;t working, and Apple probably killed it](https://appleinsider.com/articles/23/12/08/android-imessage-app-beeper-mini-isnt-working-and-apple-probably-killed-it?utm_medium=rss)
  - [Apple has seemingly found a way to block Android’s new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
  - [As Beeper Mini experiences an outage, Beeper CEO Eric Migicovsky says that &quot;all data indicates&quot; Apple found a way to cut off the app&#39;s ability to function &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231208/p23#a231208p23)
  - [Google Gemini AI Tries Outsmarting ChatGPT With Photo, Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)
- - [Best Air Fryer Deals: Up to $117 in Savings on Ninja, Bella Pro Series and More     - CNET](https://www.cnet.com/deals/best-air-fryer-deals/#ftag=CAD590a51e)
- - [The spreadsheet revealing who got cut at Spotify](https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker)<!-- TECH:END -->
+ - [Best Air Fryer Deals: Up to $117 in Savings on Ninja, Bella Pro Series and More     - CNET](https://www.cnet.com/deals/best-air-fryer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

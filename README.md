@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont eat stolen food.](http://9gag.com/gag/anzoLm5)
- - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 💣 [Peak performance](http://9gag.com/gag/a7qRLMq)
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 💣 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 

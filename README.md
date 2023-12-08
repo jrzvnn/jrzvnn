@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you start living alone.](http://9gag.com/gag/awZpq5R)
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 💣 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)
- - 😝 [BUSTED](http://9gag.com/gag/aYVXjNx)
- - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [Thank you](http://9gag.com/gag/aDYvK57)<!-- MEMES:END -->
 
 ---
 

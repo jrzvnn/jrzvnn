@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lifehack found](http://9gag.com/gag/aEq4rWx)
- - 😝 [Why is that](http://9gag.com/gag/aKEo4Bb)
- - 💣 [Raised a kitten](http://9gag.com/gag/aA0zBR9)
+ - 😝 [Raised a kitten](http://9gag.com/gag/aA0zBR9)
+ - 💣 [Why is that](http://9gag.com/gag/aKEo4Bb)
  - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
  - 👉 [Shoot your shot \ud83d\ude02](http://9gag.com/gag/a8qxdyV)<!-- MEMES:END -->
 

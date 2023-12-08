@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [As Beeper Mini experiences an outage, Beeper CEO says &quot;all data indicates&quot; that Apple possibly found a way to cut off the app&#39;s ability to function &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231208/p23#a231208p23)
  - [The spreadsheet revealing who got cut at Spotify](https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker)
  - [Apple&#39;s vice president of product design leaving in February](https://appleinsider.com/articles/23/12/08/apples-vice-president-of-product-design-leaving-in-february?utm_medium=rss)
- - [Sources: complaints from some senior OpenAI staff that Sam Altman had been psychologically abusive were a major factor in the board&#39;s decision to fire Altman &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231208/p22#a231208p22)
+ - [Sources: complaints from some senior OpenAI leaders that Sam Altman had been psychologically abusive were a major factor in the board&#39;s decision to fire Altman &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231208/p22#a231208p22)
  - [Amazon scammers used hacks and bribes to make millions off fake returns](https://www.theverge.com/2023/12/8/23993573/amazon-rekk-refund-return-fraud-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [Thank you](http://9gag.com/gag/aDYvK57)<!-- MEMES:END -->
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 😝 [BUSTED](http://9gag.com/gag/aYVXjNx)
+ - 👉 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)<!-- MEMES:END -->
 
 ---
 

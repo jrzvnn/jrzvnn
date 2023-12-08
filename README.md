@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
- - 💣 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
+ - 😝 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - 😝 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 👉 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)<!-- MEMES:END -->
 
 ---
 

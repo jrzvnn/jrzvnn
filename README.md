@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
  - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
- - [A countdown timer viewable only on the Threads.net home page in EU countries indicates the service will start rolling out to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)
+ - [An untitled countdown timer viewable only on the Threads.net homepage in EU countries suggests that the service will be expanded to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)
  - [Daily deals Dec. 8: 15&quot; MacBook Air $1,099, $200 off M2 Pro Mac mini, 67% off Google Nest WiFi Router, more](https://appleinsider.com/articles/23/12/08/daily-deals-dec-8-15-macbook-air-1099-200-off-m2-pro-mac-mini-67-off-google-nest-wifi-router-more?utm_medium=rss)
- - [Threads is counting down to an EU launch next week](https://www.theverge.com/2023/12/8/23993595/threads-meta-eu-europe-launch-date)
- - [Source: the US FTC is examining the nature of Microsoft&#39;s investment in OpenAI and whether it violates antitrust laws &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231208/p16#a231208p16)<!-- TECH:END -->
+ - [Threads is counting down to an EU launch next week](https://www.theverge.com/2023/12/8/23993595/threads-meta-eu-europe-launch-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

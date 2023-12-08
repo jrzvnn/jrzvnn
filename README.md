@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft has agreed to convert 77 contract staff at ZeniMax into unionized employees, as part of negotiations with the CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)
  - [Apple distributes second tvOS 17.2 release candidate](https://appleinsider.com/articles/23/12/08/apple-distributes-second-tvos-172-release-candidate?utm_medium=rss)
- - [Sources: X has had preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, as it seeks to attract smaller advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
+ - [Sources: X has held preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, seeking to attract more small advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
  - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
- - [An untitled countdown timer viewable only on the Threads.net homepage in EU countries suggests that the service will be expanded to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)
- - [Daily deals Dec. 8: 15&quot; MacBook Air $1,099, $200 off M2 Pro Mac mini, 67% off Google Nest WiFi Router, more](https://appleinsider.com/articles/23/12/08/daily-deals-dec-8-15-macbook-air-1099-200-off-m2-pro-mac-mini-67-off-google-nest-wifi-router-more?utm_medium=rss)<!-- TECH:END -->
+ - [An untitled countdown timer viewable only on the Threads.net homepage in EU countries suggests that the service will be expanded to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

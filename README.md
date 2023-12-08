@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the technical issues Meta faced as it developed E2EE for Messenger, including creating an encrypted storage protocol and re-architecting chat features &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231207/p44#a231207p44)
  - [Get Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD for $1,299](https://appleinsider.com/articles/23/12/08/get-apples-m2-macbook-air-with-16gb-ram-512gb-ssd-for-1299?utm_medium=rss)
  - [Arkane is making a Blade game](https://www.theverge.com/2023/12/7/23992733/arkane-lyon-marvel-blade-game)
  - [Blackstone and Digital Realty launch a joint venture to spend $7B developing 10 data centers across four campuses in Frankfurt, Paris, and Northern Virginia &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/231207/p43#a231207p43)
- - [Hideo Kojima teases mystery Xbox game OD](https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox)
- - [A researcher says a years-old Bluetooth authentication flaw lets attackers inject keystrokes to run arbitrary commands on Apple, Android, and some Linux devices &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/231207/p42#a231207p42)<!-- TECH:END -->
+ - [Hideo Kojima teases mystery Xbox game OD](https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

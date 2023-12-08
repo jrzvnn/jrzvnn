@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Beeper Mini experiences an outage, Beeper CEO says &quot;all data indicates&quot; that Apple possibly found a way to cut off the app&#39;s ability to function &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231208/p23#a231208p23)
- - [The spreadsheet revealing who got cut at Spotify](https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker)
- - [Apple&#39;s vice president of product design leaving in February](https://appleinsider.com/articles/23/12/08/apples-vice-president-of-product-design-leaving-in-february?utm_medium=rss)
- - [Sources: complaints from some senior OpenAI leaders that Sam Altman had been psychologically abusive were a major factor in the board&#39;s decision to fire Altman &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231208/p22#a231208p22)
- - [Amazon scammers used hacks and bribes to make millions off fake returns](https://www.theverge.com/2023/12/8/23993573/amazon-rekk-refund-return-fraud-lawsuit)<!-- TECH:END -->
+ - [Apple has seemingly found a way to block Android’s new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
+ - [As Beeper Mini experiences an outage, Beeper CEO Eric Migicovsky says that &quot;all data indicates&quot; Apple found a way to cut off the app&#39;s ability to function &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231208/p23#a231208p23)
+ - [Google Gemini AI Tries Outsmarting ChatGPT With Photo, Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)
+ - [Best Air Fryer Deals: Up to $117 in Savings on Ninja, Bella Pro Series and More     - CNET](https://www.cnet.com/deals/best-air-fryer-deals/#ftag=CAD590a51e)
+ - [The spreadsheet revealing who got cut at Spotify](https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

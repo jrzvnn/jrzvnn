@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 😝 [This is BBC news!](http://9gag.com/gag/aOxWg26)
- - 💣 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Just move](http://9gag.com/gag/aXnO5jD)
+ - 😝 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)
+ - 💣 [To the tunnels from the sea - Gaza will be free](http://9gag.com/gag/abv89YO)
+ - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
  - 👉 [Capt](http://9gag.com/gag/aL1EyG5)<!-- MEMES:END -->
 
 ---

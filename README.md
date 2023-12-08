@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)
- - 😝 [This was a joke 14 years ago!](http://9gag.com/gag/axorLGM)
- - 💣 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [Seriously, dafuko!](http://9gag.com/gag/aREpbmq)<!-- MEMES:END -->
+ - 😝 [Mel not only dislikes jews but loves helping others. Truelly a great man.](http://9gag.com/gag/aOxW6Y3)
+ - 😝 [It&#39;s time for someone to speak up.](http://9gag.com/gag/a1P64nv)
+ - 💣 [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)
+ - 😝 [Sure and indeed](http://9gag.com/gag/amAZjQ9)
+ - 👉 [The Square Hole !!](http://9gag.com/gag/aZDY9Np)<!-- MEMES:END -->
 
 ---
 

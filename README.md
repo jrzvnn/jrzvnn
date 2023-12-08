@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon scammers used hacks and bribes to make millions off fake returns](https://www.theverge.com/2023/12/8/23993573/amazon-rekk-refund-return-fraud-lawsuit)
+ - [Sources: Apple is reorganizing its hardware engineering team as Tang Tan, its VP in charge of iPhone and Watch product design, plans to step down in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231208/p21#a231208p21)
  - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
  - [US Residential Solar Installations Broke Record in Third Quarter     - CNET](https://www.cnet.com/home/energy-and-utilities/us-residential-solar-installations-broke-record-in-third-quarter/#ftag=CAD590a51e)
- - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)
- - [Best Laptop Deals: Save Up to $550 on Microsoft, Dell, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
- - [Morgan Stanley boosts AAPL target to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

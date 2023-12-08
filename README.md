@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s iPad development moves from China to Vietnam](https://appleinsider.com/articles/23/12/08/apples-ipad-development-moves-from-china-to-vietnam?utm_medium=rss)
+ - [Holiday Gifts and Gadgets That Cost $30 or Less     - CNET](https://www.cnet.com/tech/best-holiday-gifts-and-gadgets-under-30/#ftag=CAD590a51e)
+ - [The 34 Best Gift Baskets of 2023: Find the Perfect Edible Gift     - CNET](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
  - [A UK class action lawsuit against Vodafone, EE, Three UK, and O2, filed last week, accuses them of overcharging ~4.8M customers over 16 years and seeks &amp;pound;3.3B &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/231208/p8#a231208p8)
- - [The UK&#39;s CMA is considering whether Microsoft and OpenAI&#39;s partnership should be called in for a merger probe, and asks for comments from interested parties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231208/p7#a231208p7)
- - [A US federal judge rules Binance founder Changpeng Zhao cannot return to the UAE before his sentencing, set for February 2024, after his release on a $175M bond &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231208/p6#a231208p6)
- - [Micron strikes a labor deal to hire 3,700 union workers for its $15B chip plant in Boise, Idaho, potentially giving the company an edge for federal chip funds &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231208/p5#a231208p5)<!-- TECH:END -->
+ - [The UK&#39;s CMA is considering whether Microsoft and OpenAI&#39;s partnership should be called in for a merger probe, and asks for comments from interested parties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231208/p7#a231208p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

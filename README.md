@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
- - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 💣 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 💣 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
 
 ---
 

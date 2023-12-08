@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK&#39;s CMA is considering whether Microsoft and OpenAI&#39;s partnership should be called in for a merger probe, and asks for comments from interested parties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231208/p7#a231208p7)
  - [A US federal judge rules Binance founder Changpeng Zhao cannot return to the UAE before his sentencing, set for February 2024, after his release on a $175M bond &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231208/p6#a231208p6)
  - [Micron strikes a labor deal to hire 3,700 union workers for its $15B chip plant in Boise, Idaho, potentially giving the company an edge for federal chip funds &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231208/p5#a231208p5)
  - [YouTubers can now pause comments after Google moderation tweaks](https://www.theverge.com/2023/12/8/23993284/youtube-pause-comment-moderation-feature-announcement)
- - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)
- - [Best Internet Providers in Springfield, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

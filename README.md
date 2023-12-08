@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 😝 [Just move](http://9gag.com/gag/aXnO5jD)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 💣 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)
- - 😝 [Nope](http://9gag.com/gag/a2K6EQD)
- - 👉 [Women in national costume are so much prettier than those twerking b*tches.](http://9gag.com/gag/aVb6Gyd)<!-- MEMES:END -->
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 

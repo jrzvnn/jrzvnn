@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
  - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)
  - [Apple&#39;s iPad development moves from China to Vietnam](https://appleinsider.com/articles/23/12/08/apples-ipad-development-moves-from-china-to-vietnam?utm_medium=rss)
- - [A UK class action lawsuit against Vodafone, EE, Three UK, and O2, filed last week, accuses them of overcharging ~4.8M customers over 16 years and seeks &amp;pound;3.3B &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/231208/p8#a231208p8)<!-- TECH:END -->
+ - [Holiday Gifts and Gadgets That Cost $30 or Less     - CNET](https://www.cnet.com/tech/best-holiday-gifts-and-gadgets-under-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

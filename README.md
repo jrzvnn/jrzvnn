@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 💣 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
  - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 👉 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)<!-- MEMES:END -->
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

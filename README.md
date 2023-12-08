@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge rules Binance founder Changpeng Zhao cannot return to the UAE before his sentencing, set for February 2024, after his release on a $175M bond &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231208/p6#a231208p6)
  - [Micron strikes a labor deal to hire 3,700 union workers for its $15B chip plant in Boise, Idaho, potentially giving the company an edge for federal chip funds &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/231208/p5#a231208p5)
  - [YouTubers can now pause comments after Google moderation tweaks](https://www.theverge.com/2023/12/8/23993284/youtube-pause-comment-moderation-feature-announcement)
  - [A look at Alibaba&#39;s decline since China halted Ant&#39;s IPO in 2020, losing its online shopping dominance to rival PDD last week, and roadblocks in revival plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p4#a231208p4)
- - [Best Internet Providers in Springfield, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)
- - [Abu Dhabi-based AI company G42 plans to cut ties with Chinese hardware suppliers in favor of US counterparts, saying &quot;we cannot work with both sides&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231208/p3#a231208p3)<!-- TECH:END -->
+ - [Best Internet Providers in Springfield, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hayao Miyazaki’s The Boy and the Heron is a beautiful relic — and the end of an era](https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki)
+ - [Google Gemini AI Tries Outsmarting ChatGPT With Photo and Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)
  - [Amazon sues an &quot;international fraud organization&quot; for allegedly stealing millions of dollars in merchandise from the company through a series of refund scams &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p11#a231208p11)
  - [Belkin partners with AppleInsider to track down vintage cable for Mac users](https://appleinsider.com/articles/23/12/08/belkin-partners-with-appleinsider-to-track-down-vintage-cable-for-mac-users?utm_medium=rss)
- - [Google’s NotebookLM Aims to Be the Ultimate Writing Assistant](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
- - [Why is Elon Musk’s Grok chatbot so unfunny?](https://www.theverge.com/2023/12/8/23992489/xai-musk-grok-humor-chatbot)<!-- TECH:END -->
+ - [I Took a Magic VR Meow Wolf Journey, and You Can Too     - CNET](https://www.cnet.com/tech/computing/i-took-a-magic-vr-meow-wolf-journey-and-you-can-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

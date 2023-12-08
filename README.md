@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An ‘AI’ fast food drive-thru is mostly just human workers in the Philippines](https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers)
  - [Take $100 Off This Roku Streambar and Wireless Bass Bundle for the Holidays     - CNET](https://www.cnet.com/deals/take-100-off-this-roku-streambar-and-wireless-bass-bundle-for-the-holidays/#ftag=CAD590a51e)
  - [Apple Watch Ultra 2 Holiday Deal Offers Its Best Price to Date     - CNET](https://www.cnet.com/deals/apple-watch-ultra-2-holiday-deal-offers-its-best-price-to-date/#ftag=CAD590a51e)
  - [Google’s AI note-taking app is now available to users in the US](https://www.theverge.com/2023/12/8/23993441/google-notebooklm-available-gemini-pro)
- - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)
- - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)<!-- TECH:END -->
+ - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

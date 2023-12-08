@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [iPhone 16 microphones, Apple Watch flashlight, and Emergency SOS on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/08/iphone-16-microphones-apple-watch-flashlight-and-emergency-sos-on-the-appleinsider-podcast?utm_medium=rss)
  - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
  - [Hayao Miyazaki’s The Boy and the Heron is a beautiful relic — and the end of an era](https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki)
- - [Google Gemini AI Tries Outsmarting ChatGPT With Photo and Video Skills     - CNET](https://www.cnet.com/tech/computing/google-gemini-ai-tries-outsmarting-chatgpt-with-photo-video-skills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon sues an &quot;international fraud organization&quot; for allegedly stealing millions of dollars in merchandise from the company through a series of refund scams &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p11#a231208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

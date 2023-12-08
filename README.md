@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 💣 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)
- - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
+ - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [A honest and fallen brother.](http://9gag.com/gag/a3ZOmjm)
+ - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 

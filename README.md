@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)
  - [A look at NotebookLM and how author Steven Johnson, now a full-time Google employee for over a year, helped the company create the app &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231208/p14#a231208p14)
  - [Rumor: USB-C Magic Mouse, Magic Keyboard, and Trackpad are coming in spring 2024](https://appleinsider.com/articles/23/12/08/rumor-usb-c-magic-mouse-magic-keyboard-and-trackpad-are-coming-in-spring-2024?utm_medium=rss)
  - [Final day: get Apple&#39;s new M3 Pro 14-inch MacBook Pro for $1,749](https://appleinsider.com/articles/23/12/08/final-day-get-apples-new-m3-pro-14-inch-macbook-pro-for-1749?utm_medium=rss)
- - [Google launches the Gemini Pro-powered NotebookLM, demoed at I/O 2023 as an &quot;AI-first notebook&quot; that pulls information from users&#39; documents, in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231208/p13#a231208p13)
- - [Today&#39;s Best CD Rates: Dec. 8, 2023 -- Grow Your Savings Faster With APYs as High as 5.65%     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-8-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google launches the Gemini Pro-powered NotebookLM, demoed at I/O 2023 as an &quot;AI-first notebook&quot; that pulls information from users&#39; documents, in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231208/p13#a231208p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

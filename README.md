@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 💣 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Thank you](http://9gag.com/gag/aDYvK57)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
  - 👉 [Eliminated the Russian occupier with a sniper at 3800m. Vyacheslav Kovalskyi &lpar;Security Service of Ukraine&rpar;. MCR Horizon&#39;s Lord caliber 12.7\u00d7114 mm HL &lpar;bullet from .50 BMG + re-chambered case from 14.5\u00d7114 mm&rpar;. Bullet time ~ 10 s. Video of the shooting in the comments.](http://9gag.com/gag/a8qgZ2e)<!-- MEMES:END -->
 
 ---

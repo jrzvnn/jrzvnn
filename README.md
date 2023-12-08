@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capcom announces Monster Hunter Wilds for 2025](https://www.theverge.com/23991181/monster-hunter-wilds-trailer-capcom-announce-trailer)
+ - [‘Den of Wolves’ Will Be a Sci-Fi Heist—With a ‘Power Fantasy’ Soundtrack](https://www.wired.com/story/den-of-wolves-simon-viklund/)
+ - [The Finals launches with destructive chaos like I’ve never seen before](https://www.theverge.com/2023/12/7/23991851/the-finals-embark-studios-launch-xbox-ps5-pc-steam-available-now)
  - [Light No Fire is the next ambitious game from the studio behind No Man’s Sky](https://www.theverge.com/23990841/hello-games-light-no-fire-trailer)
- - [A look at the technical issues Meta faced as it developed E2EE for Messenger, including creating an encrypted storage protocol and re-architecting chat features &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231207/p44#a231207p44)
- - [Get Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD for $1,299](https://appleinsider.com/articles/23/12/08/get-apples-m2-macbook-air-with-16gb-ram-512gb-ssd-for-1299?utm_medium=rss)
- - [Arkane is making a Blade game](https://www.theverge.com/2023/12/7/23992733/arkane-lyon-marvel-blade-game)
- - [Blackstone and Digital Realty launch a joint venture to spend $7B developing 10 data centers across four campuses in Frankfurt, Paris, and Northern Virginia &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/231207/p43#a231207p43)<!-- TECH:END -->
+ - [A look at the technical issues Meta faced as it developed E2EE for Messenger, including creating an encrypted storage protocol and re-architecting chat features &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231207/p44#a231207p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

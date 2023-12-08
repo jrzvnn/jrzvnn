@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
- - 😝 [Just move](http://9gag.com/gag/aXnO5jD)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 😝 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 💣 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Original Pixel Watch Returns to Its Amazon All-Time Low for the Holidays     - CNET](https://www.cnet.com/deals/googles-original-pixel-watch-returns-to-its-amazon-all-time-low-for-the-holidays/#ftag=CAD590a51e)
- - [India&#39;s powerful and independent labor movement presents a challenge for Apple in its ambitions to diversify its production away from China &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/231208/p10#a231208p10)
- - [Tesla confirms Apple Podcasts coming in holiday update &#39;next week&#39;](https://appleinsider.com/articles/23/12/08/tesla-confirms-apple-podcasts-coming-in-holiday-update-next-week?utm_medium=rss)
- - [Mobile network companies have backed themselves into a corner by racing to roll out 5G, taking on piles of debt with few returns to show for their investments &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231208/p9#a231208p9)
- - [Mortgage Refinance Rates on Dec. 8, 2023: Rates Slide     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-dec-8-2023-rates-slide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon sues an &quot;international fraud organization&quot; for allegedly stealing millions of dollars in merchandise from the company through a series of refund scams &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p11#a231208p11)
+ - [Belkin partners with AppleInsider to track down vintage cable for Mac users](https://appleinsider.com/articles/23/12/08/belkin-partners-with-appleinsider-to-track-down-vintage-cable-for-mac-users?utm_medium=rss)
+ - [Google’s NotebookLM Aims to Be the Ultimate Writing Assistant](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
+ - [Why is Elon Musk’s Grok chatbot so unfunny?](https://www.theverge.com/2023/12/8/23992489/xai-musk-grok-humor-chatbot)
+ - [Google&#39;s Original Pixel Watch Returns to Its Amazon All-Time Low for the Holidays     - CNET](https://www.cnet.com/deals/googles-original-pixel-watch-returns-to-its-amazon-all-time-low-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

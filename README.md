@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
- - 😝 [Time to come back with old meme](http://9gag.com/gag/a7qxzVm)
- - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 👉 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)<!-- MEMES:END -->
+ - 😝 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
+ - 😝 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 👉 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)<!-- MEMES:END -->
 
 ---
 

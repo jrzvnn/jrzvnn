@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)
+ - [US Residential Solar Installations Broke Record in Third Quarter     - CNET](https://www.cnet.com/home/energy-and-utilities/us-residential-solar-installations-broke-record-in-third-quarter/#ftag=CAD590a51e)
  - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)
- - [Morgan Stanley boosts AAPL target to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
- - [Apple Wallet ticket sharing is becoming more like NameDrop](https://www.theverge.com/2023/12/8/23993780/apple-wallet-ticket-namedrop-ios-17-2)
- - [Microsoft agrees to convert 77 TCWGlobal contract staff at ZeniMax into unionized employees, as part of negotiations with CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)
- - [Amazon Launches Unlimited Grocery Delivery for $10 a Month. Is It Worth It?     - CNET](https://www.cnet.com/news/amazon-launches-unlimited-grocery-delivery-for-10-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Laptop Deals: Save Up to $550 on Microsoft, Dell, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
+ - [Morgan Stanley boosts AAPL target to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

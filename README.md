@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)<!-- MEMES:END -->
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 💣 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 👉 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)<!-- MEMES:END -->
 
 ---
 

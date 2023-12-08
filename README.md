@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
- - 😝 [Capt](http://9gag.com/gag/aL1EyG5)
- - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the main supporters in Spain for bodypositive has died at 47 for being fat &lpar;heart failure&rpar;. Ironic.](http://9gag.com/gag/aNwEr20)
- - 😝 [Cats](http://9gag.com/gag/aBdBRr2)
- - 💣 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
- - 😝 [For those who have a good father who&#39;s still around, appreciate him while he is.](http://9gag.com/gag/aeQ8jQj)
- - 👉 [Divided by country, United by alcohol](http://9gag.com/gag/aqeo9r7)<!-- MEMES:END -->
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
+ - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 👉 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)<!-- MEMES:END -->
 
 ---
 

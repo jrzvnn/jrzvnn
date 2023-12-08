@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google just launched a new AI, and has already admitted at least one demo wasn’t real](https://www.theverge.com/2023/12/7/23992737/google-gemini-misrepresentation-ai-accusation)
  - [The Game Awards 2023: the biggest news, trailers, and announcements](https://www.theverge.com/23981532/the-game-awards-2023-biggest-news-trailers-announcements)
+ - [Google Pixel Fold: Bag Big Savings on Google&#39;s Foldable Phone for the Holidays     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
  - [Steve Jobs $4.01 check to RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
- - [The US and UK governments jointly accuse Russia&#39;s FSB of orchestrating a wide-ranging, global hacking campaign since 2015 to interfere in British elections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p40#a231207p40)
- - [Spotify’s CFO is out days after mass layoffs](https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs)
- - [Spotify says CFO Paul Vogel plans to leave on March 31, 2024, and launches a search for a successor; Daniel Ek wants a CFO &quot;with a different mix of experiences&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231207/p39#a231207p39)<!-- TECH:END -->
+ - [The US and UK governments jointly accuse Russia&#39;s FSB of orchestrating a wide-ranging, global hacking campaign since 2015 to interfere in British elections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p40#a231207p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aNwEmGK)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
  - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---
 

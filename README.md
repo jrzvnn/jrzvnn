@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The spreadsheet revealing who got cut at Spotify](https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker)
  - [Apple&#39;s vice president of product design leaving in February](https://appleinsider.com/articles/23/12/08/apples-vice-president-of-product-design-leaving-in-february?utm_medium=rss)
  - [Sources: complaints from some senior OpenAI staff that Sam Altman had been psychologically abusive were a major factor in the board&#39;s decision to fire Altman &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231208/p22#a231208p22)
  - [Amazon scammers used hacks and bribes to make millions off fake returns](https://www.theverge.com/2023/12/8/23993573/amazon-rekk-refund-return-fraud-lawsuit)
- - [Sources: Apple is reorganizing its hardware engineering team as Tang Tan, its VP in charge of iPhone and Watch product design, plans to step down in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231208/p21#a231208p21)
- - [Tracxn: Indian startups raised ~$7B in 2023, the lowest since 2018 and down from ~$25B in 2022 and ~$37B in 2021; Bessemer made only one deal in India in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231208/p20#a231208p20)<!-- TECH:END -->
+ - [Sources: Apple is reorganizing its hardware engineering team as Tang Tan, its VP in charge of iPhone and Watch product design, plans to step down in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231208/p21#a231208p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

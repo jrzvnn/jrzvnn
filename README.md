@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There won’t be a small Chevy Bolt EV on GM’s Ultium platform](https://www.theverge.com/2023/12/8/23993840/chevy-bolt-ev-euv-gm-ultium-hatchback-size)
  - [Morgan Stanley boosts AAPL target to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
  - [Apple Wallet ticket sharing is becoming more like NameDrop](https://www.theverge.com/2023/12/8/23993780/apple-wallet-ticket-namedrop-ios-17-2)
  - [Microsoft agrees to convert 77 TCWGlobal contract staff at ZeniMax into unionized employees, as part of negotiations with CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)
- - [Apple distributes second tvOS 17.2 release candidate](https://appleinsider.com/articles/23/12/08/apple-distributes-second-tvos-172-release-candidate?utm_medium=rss)
- - [Sources: X has held preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, seeking to attract more small advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)<!-- TECH:END -->
+ - [Amazon Launches Unlimited Grocery Delivery for $10 a Month. Is It Worth It?     - CNET](https://www.cnet.com/news/amazon-launches-unlimited-grocery-delivery-for-10-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

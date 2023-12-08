@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just launched a new AI, and has already admitted at least one demo wasn’t real](https://www.theverge.com/2023/12/7/23992737/google-gemini-misrepresentation-ai-accusation)
- - [The Game Awards 2023: the biggest news, trailers, and announcements](https://www.theverge.com/23981532/the-game-awards-2023-biggest-news-trailers-announcements)
- - [Google Pixel Fold: Bag Big Savings on Google&#39;s Foldable Phone for the Holidays     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
- - [Steve Jobs $4.01 check to RadioShack sold for $46,063 at auction](https://appleinsider.com/articles/23/12/07/steve-jobs-401-check-for-radioshack-sold-for-46063-at-auction?utm_medium=rss)
- - [The US and UK governments jointly accuse Russia&#39;s FSB of orchestrating a wide-ranging, global hacking campaign since 2015 to interfere in British elections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231207/p40#a231207p40)<!-- TECH:END -->
+ - [The studio behind Ori and the Blind Forest is making a gorgeous action RPG](https://www.theverge.com/23990860/no-rest-for-the-wicked-trailer-announce-moon-studios)
+ - [God of War Ragnarök is getting free DLC this month](https://www.theverge.com/23992967/god-of-war-ragnarok-free-dlc-the-game-awards)
+ - [Google&#39;s Gemini video demo of its multimodal capabilities wasn&#39;t carried out in real time or in voice; the model was shown still images and given text prompts &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/231207/p41#a231207p41)
+ - [Amazon Prime tests a $9.99 per month unlimited grocery delivery subscription](https://www.theverge.com/2023/12/7/23992777/amazon-prime-unlimited-grocery-delivery-pilot)
+ - [Best Internet Providers in Fayetteville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

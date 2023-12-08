@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU reaches provisional agreement on AI Act, paving way for landmark law](https://www.theverge.com/2023/12/8/23991850/eu-ai-act-artificial-intelligence-regulation-provisional-deal-law-brussels)
  - [The EU Just Agreed Sweeping New Rules for AI](https://www.wired.com/story/eu-ai-act/)
  - [The EU reaches a deal on the AI Act, a comprehensive attempt to limit the use of the technology; the law still needs to go through a few steps for approval &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/231208/p24#a231208p24)
  - [Android iMessage app Beeper mini isn&#39;t working, and Apple probably killed it](https://appleinsider.com/articles/23/12/08/android-imessage-app-beeper-mini-isnt-working-and-apple-probably-killed-it?utm_medium=rss)
- - [Open Enrollment for Affordable Care Act Health Insurance Ends Soon. What to Know     - CNET](https://www.cnet.com/health/open-enrollment-for-affordable-care-act-health-insurance-ends-soon-what-to-know/#ftag=CAD590a51e)
- - [Josie Maran Intensive Hand Cream Duo     - CNET](https://www.cnet.com/health/personal-care/josie-maran-intensive-hand-cream-duo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Open Enrollment for Affordable Care Act Health Insurance Ends Soon. What to Know     - CNET](https://www.cnet.com/health/open-enrollment-for-affordable-care-act-health-insurance-ends-soon-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

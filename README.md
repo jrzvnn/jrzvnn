@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the US FTC is examining the nature of Microsoft&#39;s investment in OpenAI and whether it violates antitrust laws &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231208/p16#a231208p16)
+ - [Score Huge Discounts on Lego Sets for All the Family This Holiday Season     - CNET](https://www.cnet.com/deals/score-huge-discounts-on-lego-sets-for-all-the-family-this-holiday-season/#ftag=CAD590a51e)
  - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
- - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
- - [23andMe changed its TOS to prevent lawsuits after data breach; if customers disagree with the new terms, they must email the company within 30 days &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/231208/p15#a231208p15)
- - [An ‘AI’ fast food drive-thru is mostly just human workers in the Philippines](https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers)
- - [Take $100 Off This Roku Streambar and Wireless Bass Bundle for the Holidays     - CNET](https://www.cnet.com/deals/take-100-off-this-roku-streambar-and-wireless-bass-bundle-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Things That Might Make Your Insomnia Worse     - CNET](https://www.cnet.com/health/sleep/8-things-that-might-make-your-insomnia-worse/#ftag=CAD590a51e)
+ - [Best Places to Stream Christmas Movies Like Elf, The Santa Clause and More     - CNET](https://www.cnet.com/tech/services-and-software/best-places-to-stream-christmas-movies-like-elf-the-santa-clause-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

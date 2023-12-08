@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
  - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
- - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [Fern with the quickdraw](http://9gag.com/gag/armLjZ6)
+ - 💣 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)
+ - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
  - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have to start doing this](http://9gag.com/gag/a7qRvbq)
- - 😝 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)
- - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
  - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 😝 [Just move](http://9gag.com/gag/aXnO5jD)
+ - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
+ - 👉 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)<!-- MEMES:END -->
 
 ---
 

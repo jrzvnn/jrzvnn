@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 💣 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)
+ - 😝 [We have to start doing this](http://9gag.com/gag/a7qRvbq)
+ - 😝 [They&#39;re pulling out all the stops for Deadpool 3](http://9gag.com/gag/adPzmwZ)
+ - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
  - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 

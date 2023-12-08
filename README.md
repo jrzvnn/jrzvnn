@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mouse but in Japan](http://9gag.com/gag/aBdB9yz)
- - 😝 [Good weather for sleep](http://9gag.com/gag/aDYvB3O)
- - 💣 [If they can make an anime girl model I&#39;ll simp](http://9gag.com/gag/agoePK6)
- - 😝 [The Square Hole !!](http://9gag.com/gag/aZDY9Np)
- - 👉 [Damn, she got real skills](http://9gag.com/gag/aA09Wz2)<!-- MEMES:END -->
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 😝 [Well, she ain&#39;t depressed no more.](http://9gag.com/gag/aEq49eO)
+ - 💣 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 😝 [Fern with the quickdraw](http://9gag.com/gag/armLjZ6)
+ - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---
 

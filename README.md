@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 💣 [She\u2019s so full of shit that he leave before giver her a kid](http://9gag.com/gag/aWGXwR4)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
+ - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---
 

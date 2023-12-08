@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
+ - [Morgan Stanley boosts Apple price to $220 over AI and Vision Pro](https://appleinsider.com/articles/23/12/08/morgan-stanley-boosts-apple-price-to-220-over-ai-and-vision-pro?utm_medium=rss)
  - [23andMe changed its TOS to prevent lawsuits after data breach; if customers disagree with the new terms, they must email the company within 30 days &lpar;Jacob Knutson/Axios&rpar;](http://www.techmeme.com/231208/p15#a231208p15)
  - [An ‘AI’ fast food drive-thru is mostly just human workers in the Philippines](https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers)
- - [Take $100 Off This Roku Streambar and Wireless Bass Bundle for the Holidays     - CNET](https://www.cnet.com/deals/take-100-off-this-roku-streambar-and-wireless-bass-bundle-for-the-holidays/#ftag=CAD590a51e)
- - [Apple Watch Ultra 2 Holiday Deal Offers Its Best Price to Date     - CNET](https://www.cnet.com/deals/apple-watch-ultra-2-holiday-deal-offers-its-best-price-to-date/#ftag=CAD590a51e)
- - [Google’s AI note-taking app is now available to users in the US](https://www.theverge.com/2023/12/8/23993441/google-notebooklm-available-gemini-pro)<!-- TECH:END -->
+ - [Take $100 Off This Roku Streambar and Wireless Bass Bundle for the Holidays     - CNET](https://www.cnet.com/deals/take-100-off-this-roku-streambar-and-wireless-bass-bundle-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

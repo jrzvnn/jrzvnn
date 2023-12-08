@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A countdown timer viewable only on the Threads.net home page in EU countries indicates the service will start rolling out to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)
  - [Daily deals Dec. 8: 15&quot; MacBook Air $1,099, $200 off M2 Pro Mac mini, 67% off Google Nest WiFi Router, more](https://appleinsider.com/articles/23/12/08/daily-deals-dec-8-15-macbook-air-1099-200-off-m2-pro-mac-mini-67-off-google-nest-wifi-router-more?utm_medium=rss)
  - [Threads is counting down to an EU launch next week](https://www.theverge.com/2023/12/8/23993595/threads-meta-eu-europe-launch-date)
  - [Source: the US FTC is examining the nature of Microsoft&#39;s investment in OpenAI and whether it violates antitrust laws &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231208/p16#a231208p16)
- - [Score Huge Discounts on Lego Sets for All the Family This Holiday Season     - CNET](https://www.cnet.com/deals/score-huge-discounts-on-lego-sets-for-all-the-family-this-holiday-season/#ftag=CAD590a51e)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Score Huge Discounts on Lego Sets for All the Family This Holiday Season     - CNET](https://www.cnet.com/deals/score-huge-discounts-on-lego-sets-for-all-the-family-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

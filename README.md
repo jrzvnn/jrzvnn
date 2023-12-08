@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baldur’s Gate 3 is out now on Xbox](https://www.theverge.com/2023/12/7/23993155/baldurs-gate-3-xbox-release-game-of-the-year)
+ - [Final Fantasy XVI stealth launches one DLC with another on the way](https://www.theverge.com/games/23993141/final-fantasy-xvi-dlc-echoes-of-the-fallen-the-game-awards)
+ - [Sources: Tata plans to build one of India&#39;s largest iPhone plants employing 50,000 workers within two years, and expects operations to begin in 12-18 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231207/p45#a231207p45)
  - [Capcom announces Monster Hunter Wilds for 2025](https://www.theverge.com/23991181/monster-hunter-wilds-trailer-capcom-announce-trailer)
- - [‘Den of Wolves’ Will Be a Sci-Fi Heist—With a ‘Power Fantasy’ Soundtrack](https://www.wired.com/story/den-of-wolves-simon-viklund/)
- - [The Finals launches with destructive chaos like I’ve never seen before](https://www.theverge.com/2023/12/7/23991851/the-finals-embark-studios-launch-xbox-ps5-pc-steam-available-now)
- - [Light No Fire is the next ambitious game from the studio behind No Man’s Sky](https://www.theverge.com/23990841/hello-games-light-no-fire-trailer)
- - [A look at the technical issues Meta faced as it developed E2EE for Messenger, including creating an encrypted storage protocol and re-architecting chat features &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231207/p44#a231207p44)<!-- TECH:END -->
+ - [‘Den of Wolves’ Will Be a Sci-Fi Heist—With a ‘Power Fantasy’ Soundtrack](https://www.wired.com/story/den-of-wolves-simon-viklund/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

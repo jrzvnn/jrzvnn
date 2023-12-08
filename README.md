@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 💣 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
- - 👉 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)<!-- MEMES:END -->
+ - 😝 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 💣 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)
+ - 😝 [Nope](http://9gag.com/gag/a2K6EQD)
+ - 👉 [Women in national costume are so much prettier than those twerking b*tches.](http://9gag.com/gag/aVb6Gyd)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft agrees to convert 77 TCWGlobal contract staff at ZeniMax into unionized employees, as part of negotiations with CWA-affiliated ZeniMax Workers United &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231208/p19#a231208p19)
+ - [Amazon Launches Unlimited Grocery Delivery for $10 a Month. Is It Worth It?     - CNET](https://www.cnet.com/news/amazon-launches-unlimited-grocery-delivery-for-10-a-month/#ftag=CAD590a51e)
+ - [More Pack and Play Mattresses Recalled Over Suffocation Risk. Here&#39;s What to Know     - CNET](https://www.cnet.com/health/sleep/more-pack-and-play-mattresses-recalled-over-suffocation-risk-heres-what-to-know/#ftag=CAD590a51e)
  - [Apple distributes second tvOS 17.2 release candidate](https://appleinsider.com/articles/23/12/08/apple-distributes-second-tvos-172-release-candidate?utm_medium=rss)
- - [Sources: X has held preliminary talks with Amazon to make ads available via Amazon&#39;s ad-buying software, and PubMatic, seeking to attract more small advertisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231208/p18#a231208p18)
- - [The First Crispr Medicine Is Now Approved in the US](https://www.wired.com/story/the-first-crispr-medicine-is-now-approved-in-the-us/)
- - [An untitled countdown timer viewable only on the Threads.net homepage in EU countries suggests that the service will be expanded to EU users on December 14 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231208/p17#a231208p17)<!-- TECH:END -->
+ - [How Many Times Is Too Many to Wake Up to Pee?     - CNET](https://www.cnet.com/health/sleep/how-many-times-is-too-many-to-wake-up-to-pee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

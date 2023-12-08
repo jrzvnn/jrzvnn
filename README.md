@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
  - 💣 [It&#39;ll be interesting to see if his actions follow his words, and if France will be next](http://9gag.com/gag/aZDYAvV)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 👉 [Wait..](http://9gag.com/gag/aeQBorW)<!-- MEMES:END -->
 
 ---
 

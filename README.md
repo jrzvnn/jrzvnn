@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
  - 💣 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
+ - 👉 [I miss the old 9gag.](http://9gag.com/gag/aEqmd0G)<!-- MEMES:END -->
 
 ---
 

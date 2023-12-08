@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Laat Dovahkiin](http://9gag.com/gag/adPzZVB)
- - 😝 [GTA 6](http://9gag.com/gag/aXnOByz)
- - 💣 [A honest and fallen brother.](http://9gag.com/gag/a3ZOmjm)
- - 😝 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 😝 [Capt](http://9gag.com/gag/aL1EyG5)
+ - 💣 [GTA 6](http://9gag.com/gag/aXnOByz)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 

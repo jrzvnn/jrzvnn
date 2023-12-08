@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [American Pie Cast](http://9gag.com/gag/aGEQ3Q0)
- - 😝 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 👉 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)<!-- MEMES:END -->
+ - 💣 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
 
 ---
 

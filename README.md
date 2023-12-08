@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lol.](http://9gag.com/gag/aNwEmGK)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 💣 [Capt](http://9gag.com/gag/aL1EyG5)
  - 😝 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 😝 [Why is that](http://9gag.com/gag/aKEo4Bb)
- - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 😝 [Shoot your shot \ud83d\ude02](http://9gag.com/gag/a8qxdyV)
- - 👉 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)<!-- MEMES:END -->
+ - 👉 [Fak around and what?](http://9gag.com/gag/aEq4r5O)<!-- MEMES:END -->
 
 ---
 

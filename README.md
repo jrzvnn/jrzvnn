@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana](http://9gag.com/gag/anzPqnB)
- - 😝 [Oh no......anyway](http://9gag.com/gag/agozrR1)
- - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
  - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 👉 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)<!-- MEMES:END -->
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 💣 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)
+ - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 👉 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)<!-- MEMES:END -->
 
 ---
 

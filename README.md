@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
- - 💣 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
+ - 😝 [Beautiful](http://9gag.com/gag/a6qYrAm)
+ - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
  - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
 
 ---

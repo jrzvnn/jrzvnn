@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
  - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

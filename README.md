@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 💣 [Swedish Men](http://9gag.com/gag/a04yvQn)
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
+ - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 💣 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 👉 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak performance](http://9gag.com/gag/a7qRLMq)
  - 😝 [How&#39;s chemistry going?](http://9gag.com/gag/anzoAxq)
- - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [Swedish Men](http://9gag.com/gag/a04yvQn)
- - 👉 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)<!-- MEMES:END -->
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 💣 [Swedish Men](http://9gag.com/gag/a04yvQn)
+ - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
+ - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Great Deals on Headphones, Wireless Earbuds, and Gaming Headsets](https://www.wired.com/story/weekend-deals-december-9-2023/)
+ - [Best E-Bikes and Scooters to Give for the Holidays in 2023     - CNET](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give-for-the-holidays/#ftag=CAD590a51e)
+ - [The 41 Best Gifts for Teens in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-teenagers/#ftag=CAD590a51e)
  - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [EcoFlow Glacier review: a solar-powered fridge, freezer, and ice maker](https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price)
- - [How parametric insurance startups use data science and AI to limit their liability, as climate change makes typical kinds of coverage unprofitable &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p4#a231209p4)
- - [Lead attorneys for Epic and Google say Tim Sweeney and Sundar Pichai met for an hour on December 7 and the meeting &quot;did not result in a settlement&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231209/p3#a231209p3)
- - [Nvidia&#39;s stock has beaten every other stock in the S&amp;P 500 this year and is on pace for the best annual performance of any major stock in the past decade &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p2#a231209p2)<!-- TECH:END -->
+ - [EcoFlow Glacier review: a solar-powered fridge, freezer, and ice maker](https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 💣 [Oh no......anyway](http://9gag.com/gag/agozrR1)
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
+ - 😝 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - 😝 [For those who have a good father who&#39;s still around, appreciate him while he is.](http://9gag.com/gag/aeQ8jQj)
+ - 💣 [Harvard trying to explain itself](http://9gag.com/gag/aPgbvXg)
+ - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
+ - 👉 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)<!-- MEMES:END -->
 
 ---
 

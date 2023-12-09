@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
- - 😝 [Beautiful](http://9gag.com/gag/a6qYrAm)
- - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
  - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
+ - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

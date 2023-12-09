@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 😝 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
- - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 💣 [Oh no......anyway](http://9gag.com/gag/agozrR1)
  - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 👉 [Oh no......anyway](http://9gag.com/gag/agozrR1)<!-- MEMES:END -->
+ - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
 
 ---
 

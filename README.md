@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
  - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)
  - [Apple’s 10th-gen iPad is actually worthwhile when it’s $100 off](https://www.theverge.com/2023/12/9/23991542/apple-ipad-god-of-war-ragnarok-govee-light-strip-deal-sale)
- - [SwitchBot Curtain 3 review: An expensive way to make your curtains HomeKit-compatible](https://appleinsider.com/articles/23/12/09/switchbot-curtain-3-review-an-expensive-way-to-make-your-curtains-homekit-compatible?utm_medium=rss)
- - [The European Parliament and the EU&#39;s 27 member states will need to approve the AI Act, which seeks fines of up to &amp;euro;35M or 7% of global turnover for violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/231209/p6#a231209p6)
- - [How to build a bike lane in America](https://www.theverge.com/23992114/bike-lane-us-infrastructure-milwaukee-dallas-woodlands)<!-- TECH:END -->
+ - [Last Chance: Nab a Discounted Costco Gold Star Membership for the Holidays     - CNET](https://www.cnet.com/deals/sign-up-year-costco-free-40-credit/#ftag=CAD590a51e)
+ - [SwitchBot Curtain 3 review: An expensive way to make your curtains HomeKit-compatible](https://appleinsider.com/articles/23/12/09/switchbot-curtain-3-review-an-expensive-way-to-make-your-curtains-homekit-compatible?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

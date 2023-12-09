@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SwitchBot Curtain 3 review: An expensive way to make your curtains HomeKit-compatible](https://appleinsider.com/articles/23/12/09/switchbot-curtain-3-review-an-expensive-way-to-make-your-curtains-homekit-compatible?utm_medium=rss)
+ - [The European Parliament and the EU&#39;s 27 member states will need to approve the AI Act, which seeks fines of up to &amp;euro;35M or 7% of global turnover for violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/231209/p6#a231209p6)
  - [How to build a bike lane in America](https://www.theverge.com/23992114/bike-lane-us-infrastructure-milwaukee-dallas-woodlands)
  - [Shop the QVC Holiday Gift-A-Thon This Weekend to Prepare for the Holidays     - CNET](https://www.cnet.com/deals/shop-the-qvc-holiday-gift-a-thon-this-weekend-to-prepare-for-the-holidays/#ftag=CAD590a51e)
- - [Aston Villa vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [[Thread] Texas and Florida&#39;s online speech rules for platforms cannot be justified, as less restrictive tools that give users control over online content exist &lpar;Daphne Keller/@daphnehk&rpar;](http://www.techmeme.com/231209/p5#a231209p5)<!-- TECH:END -->
+ - [Aston Villa vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

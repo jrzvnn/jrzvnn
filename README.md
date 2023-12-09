@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
  - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
- - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 💣 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
  - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---

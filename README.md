@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 💣 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
+ - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
+ - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
+ - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 😝 [Log](http://9gag.com/gag/a6qYy7A)
+ - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
 
 ---
 

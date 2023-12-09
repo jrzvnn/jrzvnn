@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
  - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
+ - 😝 [Beautiful](http://9gag.com/gag/a6qYrAm)
+ - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 👉 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)<!-- MEMES:END -->
 
 ---
 

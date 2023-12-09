@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 😝 [Congrats on the third gate](http://9gag.com/gag/ap9Z0vM)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
- - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is how I like to wrap my gifts every year](http://9gag.com/gag/az2pLbB)
  - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
- - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
+ - 💣 [Have you tried?](http://9gag.com/gag/a8qxWoe)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 👉 [Any captains?](http://9gag.com/gag/aEqmwLM)<!-- MEMES:END -->
 
 ---
 

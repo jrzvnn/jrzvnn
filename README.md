@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OctoML ends its business with text-to-image AI model sharing platform Civitai, after a report found some images by Civitai users &quot;could be categorized as&quot; CSAM &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231209/p7#a231209p7)
  - [Daily deals Dec. 9: $699 Apple Watch Ultra 2, Magic Keyboard Folio for iPad $85, 45% off Google Pixel 7 Pro, more](https://appleinsider.com/articles/23/12/09/daily-deals-dec-9-699-apple-watch-ultra-2-magic-keyboard-folio-for-ipad-85-45-off-google-pixel-7-pro-more?utm_medium=rss)
  - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)
- - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
- - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)
- - [Apple’s 10th-gen iPad is actually worthwhile when it’s $100 off](https://www.theverge.com/2023/12/9/23991542/apple-ipad-god-of-war-ragnarok-govee-light-strip-deal-sale)<!-- TECH:END -->
+ - [Final Hours: Get Lifetime Access to Mac and Windows Versions of Office 2019 for Just $30     - CNET](https://www.cnet.com/deals/final-hours-get-lifetime-access-to-mac-and-windows-versions-of-office-2019-for-just-30/#ftag=CAD590a51e)
+ - [15 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/tech/mobile/last-minute-holiday-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

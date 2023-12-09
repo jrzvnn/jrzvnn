@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Tether freezes wallets of those sanctioned by the US Treasury&#39;s OFAC to prevent &quot;potential misuse&quot; of Tether tokens, the first significant move by its new CEO &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231209/p9#a231209p9)
  - [6 Best Vitamins and Supplements for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eye-health/#ftag=CAD590a51e)
- - [A bear case for the AI industry, as the sectors it seems to be able to disrupt so far, like writing, digital art, and programming help, are not very lucrative &lpar;Erik Hoel/The Intrinsic Perspective&rpar;](http://www.techmeme.com/231209/p8#a231209p8)
+ - [A bear case for the AI industry, as the sectors LLMs seem capable of disrupting so far, like writing, digital art, and programming help, are not very lucrative &lpar;Erik Hoel/The Intrinsic Perspective&rpar;](http://www.techmeme.com/231209/p8#a231209p8)
  - [Protect Your Vision as You Age by Exercising     - CNET](https://www.cnet.com/health/personal-care/exercise-can-protect-your-vision-as-you-age/#ftag=CAD590a51e)
  - [OctoML ends its business with text-to-image AI model sharing platform Civitai, after a report found some images by Civitai users &quot;could be categorized as&quot; CSAM &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231209/p7#a231209p7)<!-- TECH:END -->
 

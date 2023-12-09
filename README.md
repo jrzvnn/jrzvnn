@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
+ - 😝 [Faaack you bladdyy](http://9gag.com/gag/a04y9xZ)
+ - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
+ - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 ---
 

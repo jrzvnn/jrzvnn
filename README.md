@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla&#39;s 2023 Holiday Update, set for next week, includes a feature that automatically calls 911 if the car&#39;s airbags deploy in a crash, Apple Podcasts, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231209/p11#a231209p11)
+ - [Apple&#39;s M1 MacBook Air drops to $749.99 with delivery before Christmas](https://appleinsider.com/articles/23/12/09/apples-m1-macbook-air-drops-to-74999-with-delivery-before-christmas?utm_medium=rss)
  - [Beeper Mini developers say fix is &#39;coming soon&#39; for iMessage Android app](https://appleinsider.com/articles/23/12/09/beeper-mini-developers-say-fix-is-coming-soon-for-imessage-android-app?utm_medium=rss)
  - [Teslas will be able to automatically call 911 if you get in a crash](https://www.theverge.com/2023/12/9/23994910/tesla-2023-holiday-update-apple-podcasts-911-calling)
- - [A look at L4S, an internet standard finalized in January 2023, aiming to reduce latency, with interest from Apple, Google, Comcast, Nvidia, and other companies &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/231209/p10#a231209p10)
- - [Tether freezes the wallets of people sanctioned by the US Treasury&#39;s OFAC to stop &quot;potential misuse&quot; of its tokens, one of its new CEO&#39;s first significant moves &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231209/p9#a231209p9)
- - [6 Best Vitamins and Supplements for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Generators of December 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-generators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

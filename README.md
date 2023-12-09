@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)
  - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
  - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)
  - [Apple’s 10th-gen iPad is actually worthwhile when it’s $100 off](https://www.theverge.com/2023/12/9/23991542/apple-ipad-god-of-war-ragnarok-govee-light-strip-deal-sale)
- - [Last Chance: Nab a Discounted Costco Gold Star Membership for the Holidays     - CNET](https://www.cnet.com/deals/sign-up-year-costco-free-40-credit/#ftag=CAD590a51e)
- - [SwitchBot Curtain 3 review: An expensive way to make your curtains HomeKit-compatible](https://appleinsider.com/articles/23/12/09/switchbot-curtain-3-review-an-expensive-way-to-make-your-curtains-homekit-compatible?utm_medium=rss)<!-- TECH:END -->
+ - [Last Chance: Nab a Discounted Costco Gold Star Membership for the Holidays     - CNET](https://www.cnet.com/deals/sign-up-year-costco-free-40-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

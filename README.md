@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia&#39;s YTL Power partners with Nvidia in a $4.3B investment deal to create AI infrastructure in the country, including building a supercomputer in Malaysia &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p29#a231208p29)
+ - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)
  - [Axel Springer ends a deal to pre-install its Upday news aggregator on Samsung devices and plans to relaunch Upday in 2024 as an AI-driven &quot;trend news generator&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p28#a231208p28)
  - [Beeper Mini Outage Disconnects the Android App from Apple&#39;s iMessage     - CNET](https://www.cnet.com/tech/mobile/beeper-mini-outage-disconnects-the-android-app-from-apples-imessage/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in California     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)
- - [a16z-backed D2iQ, a cloud infrastructure startup formerly known as Mesosphere, is shutting down; D2iQ raised $250M and was valued at $775M in 2018 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231208/p27#a231208p27)
- - [Make Up That Guest Bed With Brooklinen&#39;s Luxury Linens and Towels, Now Up to 25% Off     - CNET](https://www.cnet.com/deals/make-up-that-guest-bed-with-up-to-25-off-brooklinens-luxury-linens-and-towels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in California     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

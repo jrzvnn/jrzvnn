@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well your wife ain&#39;t going to](http://9gag.com/gag/ajVeQO1)
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 💣 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
- - 👉 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)<!-- MEMES:END -->
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 💣 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
+ - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

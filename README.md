@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
  - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 💣 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 💣 [Swedish Men](http://9gag.com/gag/a04yvQn)
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
  - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---

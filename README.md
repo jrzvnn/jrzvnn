@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
- - 😝 [Repost from the heart](http://9gag.com/gag/abvn5pE)
- - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 😝 [FEMINISM](http://9gag.com/gag/axoq2NM)
- - 👉 [Based on true story](http://9gag.com/gag/arm7pop)<!-- MEMES:END -->
+ - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [I lol&#39;d](http://9gag.com/gag/aEq4eoM)
+ - 💣 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

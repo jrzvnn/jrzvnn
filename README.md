@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you tried?](http://9gag.com/gag/a8qxWoe)
  - 😝 [Repost from the heart](http://9gag.com/gag/abvn5pE)
- - 💣 [RAM\u2026](http://9gag.com/gag/arm7v2X)
+ - 😝 [RAM\u2026](http://9gag.com/gag/arm7v2X)
+ - 💣 [What is this video for?](http://9gag.com/gag/a7qRKVq)
  - 😝 [French Gov: We\u2019ve got to cut down on farming due to \u2018Climate Change\u2019\u2026Or people are going to starve\u2026 The farmers:](http://9gag.com/gag/aGE49PZ)
  - 👉 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)<!-- MEMES:END -->
 

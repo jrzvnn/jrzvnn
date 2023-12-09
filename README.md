@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 💣 [Life in California](http://9gag.com/gag/aqeom3Q)
- - 😝 [Instruction videos](http://9gag.com/gag/aVbyOyK)
- - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
+ - 💣 [Peak performance](http://9gag.com/gag/a7qRLMq)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
 
 ---
 

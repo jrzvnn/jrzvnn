@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon files a motion to dismiss FTC&#39;s lawsuit, arguing the agency relies on anecdotal evidence and fails to prove that Amazon&#39;s practices hurt consumers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p31#a231208p31)
  - [The EU AI Act includes restrictions for foundation models, with some proprietary models classified as having &quot;systemic risk&quot; subjected to additional obligations &lpar;Washington Post&rpar;](http://www.techmeme.com/231208/p30#a231208p30)
- - [Malaysia&#39;s YTL Power partners with Nvidia in a $4.3B investment deal to create AI infrastructure in the country, including building a supercomputer in Malaysia &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p29#a231208p29)
- - [Microsoft’s Edge Copilot AI can’t really summarize every YouTube video](https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript)
- - [Axel Springer ends a deal to pre-install its Upday news aggregator on Samsung devices and plans to relaunch Upday in 2024 as an AI-driven &quot;trend news generator&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231208/p28#a231208p28)
- - [Beeper Mini Outage Disconnects the Android App from Apple&#39;s iMessage     - CNET](https://www.cnet.com/tech/mobile/beeper-mini-outage-disconnects-the-android-app-from-apples-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Holiday Wish List: Current Meta Quest 3 Deals including Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
+ - [Best Workout Apps for Women in 2023     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [AI and You: Altman Says Humanity Needs to Solve for AI Safety, EU Agrees on &#39;Historic&#39; AI Law     - CNET](https://www.cnet.com/tech/computing/ai-and-you-altman-says-humanity-needs-to-solve-for-ai-safety-eu-agrees-on-historic-ai-law/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

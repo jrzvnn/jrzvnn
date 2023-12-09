@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A bear case for the AI industry, as the sectors it seems to be able to disrupt so far, like writing, digital art, and programming help, are not very lucrative &lpar;Erik Hoel/The Intrinsic Perspective&rpar;](http://www.techmeme.com/231209/p8#a231209p8)
+ - [Protect Your Vision as You Age by Exercising     - CNET](https://www.cnet.com/health/personal-care/exercise-can-protect-your-vision-as-you-age/#ftag=CAD590a51e)
  - [OctoML ends its business with text-to-image AI model sharing platform Civitai, after a report found some images by Civitai users &quot;could be categorized as&quot; CSAM &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231209/p7#a231209p7)
  - [Daily deals Dec. 9: $699 Apple Watch Ultra 2, Magic Keyboard Folio for iPad $85, 45% off Google Pixel 7 Pro, more](https://appleinsider.com/articles/23/12/09/daily-deals-dec-9-699-apple-watch-ultra-2-magic-keyboard-folio-for-ipad-85-45-off-google-pixel-7-pro-more?utm_medium=rss)
- - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)
- - [Final Hours: Get Lifetime Access to Mac and Windows Versions of Office 2019 for Just $30     - CNET](https://www.cnet.com/deals/final-hours-get-lifetime-access-to-mac-and-windows-versions-of-office-2019-for-just-30/#ftag=CAD590a51e)
- - [15 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/tech/mobile/last-minute-holiday-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

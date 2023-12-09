@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [[Thread] Texas and Florida&#39;s online speech rules for platforms cannot be justified, as less restrictive tools that give users control over online content exist &lpar;Daphne Keller/@daphnehk&rpar;](http://www.techmeme.com/231209/p5#a231209p5)
  - [Finishing every part of Mario Wonder is no peach](https://www.theverge.com/2023/12/9/23993642/mario-wonder-100-percent-final-test-badge-marathon)
  - [Hirokazu Kore-eda is so back](https://www.theverge.com/23992731/hirokazu-kore-eda-monster-interview)
- - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
- - [Aventon Soltera 2 E-Bike Review: Unrivaled Features, Style for Its Price     - CNET](https://www.cnet.com/roadshow/news/aventon-soltera-2-e-bike-review-unrivaled-features-style-for-its-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 20% Sitewide During Buffy&#39;s Holiday Sale     - CNET](https://www.cnet.com/deals/enjoy-25-off-during-buffys-early-black-friday-bedding-sale/#ftag=CAD590a51e)
+ - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

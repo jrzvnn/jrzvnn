@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Graphika: apps and websites using AI to undress women in photos are soaring in popularity; 34 such providers together had 24M+ unique visitors in September 2023 &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231209/p12#a231209p12)
  - [Tesla&#39;s 2023 Holiday Update, set for next week, includes a feature that automatically calls 911 if the car&#39;s airbags deploy in a crash, Apple Podcasts, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231209/p11#a231209p11)
  - [Apple&#39;s M1 MacBook Air drops to $749.99 with delivery before Christmas](https://appleinsider.com/articles/23/12/09/apples-m1-macbook-air-drops-to-74999-with-delivery-before-christmas?utm_medium=rss)
  - [Beeper Mini developers say fix is &#39;coming soon&#39; for iMessage Android app](https://appleinsider.com/articles/23/12/09/beeper-mini-developers-say-fix-is-coming-soon-for-imessage-android-app?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Michigan     - CNET](https://www.cnet.com/home/energy-and-utilities/michigan-solar-panels/#ftag=CAD590a51e)
- - [Teslas will be able to automatically call 911 if you get in a crash](https://www.theverge.com/2023/12/9/23994910/tesla-2023-holiday-update-apple-podcasts-911-calling)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Michigan     - CNET](https://www.cnet.com/home/energy-and-utilities/michigan-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

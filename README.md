@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how I like to wrap my gifts every year](http://9gag.com/gag/az2pLbB)
- - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
- - 💣 [Have you tried?](http://9gag.com/gag/a8qxWoe)
- - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 👉 [Any captains?](http://9gag.com/gag/aEqmwLM)<!-- MEMES:END -->
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
+ - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
 
 ---
 

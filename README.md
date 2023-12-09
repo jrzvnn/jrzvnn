@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faaack you bladdyy](http://9gag.com/gag/a04y9xZ)
+ - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 💣 [Peak performance](http://9gag.com/gag/a7qRLMq)
  - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 👉 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

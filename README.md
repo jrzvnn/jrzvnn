@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)
- - 💣 [Peak performance](http://9gag.com/gag/a7qRLMq)
- - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
- - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
+ - 😝 [For those who have a good father who&#39;s still around, appreciate him while he is.](http://9gag.com/gag/aeQ8jQj)
+ - 😝 [An elevator in Poland](http://9gag.com/gag/a1P3vNv)
+ - 💣 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
+ - 😝 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 👉 [Harvard trying to explain itself](http://9gag.com/gag/aPgbvXg)<!-- MEMES:END -->
 
 ---
 

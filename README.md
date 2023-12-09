@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [Wait..](http://9gag.com/gag/aeQBorW)
- - 👉 [Chinese Products. If you don&#39;t want to `survive` then choose the PINK Helmet.](http://9gag.com/gag/aeQBo4O)<!-- MEMES:END -->
+ - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
+ - 😝 [Repost from the heart](http://9gag.com/gag/abvn5pE)
+ - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 😝 [FEMINISM](http://9gag.com/gag/axoq2NM)
+ - 👉 [Based on true story](http://9gag.com/gag/arm7pop)<!-- MEMES:END -->
 
 ---
 

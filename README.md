@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
+ - 😝 [Swedish Men](http://9gag.com/gag/a04yvQn)
+ - 😝 [Beautiful](http://9gag.com/gag/a6qYrAm)
+ - 💣 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 👉 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)<!-- MEMES:END -->
 
 ---
 

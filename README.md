@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [Believe all women, or so they say.....](http://9gag.com/gag/ap9ZEYD)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [Gay kiss scene](http://9gag.com/gag/ajVeQBG)
- - 💣 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
- - 😝 [Don&#39;t let short-term happiness affect your long-term dreams](http://9gag.com/gag/ap9ZER9)
- - 👉 [Banana](http://9gag.com/gag/anzPqnB)<!-- MEMES:END -->
+ - 👉 [Alarm alarm!](http://9gag.com/gag/ay2j57V)<!-- MEMES:END -->
 
 ---
 

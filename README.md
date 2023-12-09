@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 💣 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 👉 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)<!-- MEMES:END -->
+ - 😝 [Have you tried?](http://9gag.com/gag/a8qxWoe)
+ - 😝 [Repost from the heart](http://9gag.com/gag/abvn5pE)
+ - 💣 [RAM\u2026](http://9gag.com/gag/arm7v2X)
+ - 😝 [French Gov: We\u2019ve got to cut down on farming due to \u2018Climate Change\u2019\u2026Or people are going to starve\u2026 The farmers:](http://9gag.com/gag/aGE49PZ)
+ - 👉 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)<!-- MEMES:END -->
 
 ---
 

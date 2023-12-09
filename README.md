@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 💣 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
- - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
+ - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 💣 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
 
 ---
 

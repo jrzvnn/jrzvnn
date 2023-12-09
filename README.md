@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 😝 [Congrats on the third gate](http://9gag.com/gag/ap9Z0vM)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
- - 😝 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)
- - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 💣 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
 
 ---
 

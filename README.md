@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
- - [Aventon Soltera 2 E-Bike Review: Unrivaled Features, Style for Its Price     - CNET](https://www.cnet.com/roadshow/news/aventon-soltera-2-e-bike-review-unrivaled-features-style-for-its-price/#ftag=CAD590a51e)
- - [Wolves vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Man United vs. Bournemouth Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-bournemouth-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17.1.2: Why You Should Download the iPhone Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-1-2-why-you-should-download-the-iphone-update-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Great Deals on Headphones, Wireless Earbuds, and Gaming Headsets](https://www.wired.com/story/weekend-deals-december-9-2023/)
+ - [Best E-Bikes and Scooters to Give for the Holidays in 2023     - CNET](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give-for-the-holidays/#ftag=CAD590a51e)
+ - [The 41 Best Gifts for Teens in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-teenagers/#ftag=CAD590a51e)
+ - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

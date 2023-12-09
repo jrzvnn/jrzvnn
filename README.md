@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
  - [13 Great Deals on Headphones, Wireless Earbuds, and Gaming Headsets](https://www.wired.com/story/weekend-deals-december-9-2023/)
  - [Best E-Bikes and Scooters to Give for the Holidays in 2023     - CNET](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give-for-the-holidays/#ftag=CAD590a51e)
  - [The 41 Best Gifts for Teens in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-teenagers/#ftag=CAD590a51e)
- - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [EcoFlow Glacier review: a solar-powered fridge, freezer, and ice maker](https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price)<!-- TECH:END -->
+ - [Crystal Palace vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

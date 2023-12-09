@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shop the QVC Holiday Gift-A-Thon This Weekend to Prepare for the Holidays     - CNET](https://www.cnet.com/deals/shop-the-qvc-holiday-gift-a-thon-this-weekend-to-prepare-for-the-holidays/#ftag=CAD590a51e)
+ - [Aston Villa vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [[Thread] Texas and Florida&#39;s online speech rules for platforms cannot be justified, as less restrictive tools that give users control over online content exist &lpar;Daphne Keller/@daphnehk&rpar;](http://www.techmeme.com/231209/p5#a231209p5)
- - [Finishing every part of Mario Wonder is no peach](https://www.theverge.com/2023/12/9/23993642/mario-wonder-100-percent-final-test-badge-marathon)
- - [Hirokazu Kore-eda is so back](https://www.theverge.com/23992731/hirokazu-kore-eda-monster-interview)
- - [Save 20% Sitewide During Buffy&#39;s Holiday Sale     - CNET](https://www.cnet.com/deals/enjoy-25-off-during-buffys-early-black-friday-bedding-sale/#ftag=CAD590a51e)
- - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)<!-- TECH:END -->
+ - [ExpressVPN Releases Apple TV App: Our Hands-On Impressions     - CNET](https://www.cnet.com/tech/services-and-software/expressvpn-released-its-vpn-app-for-apple-tv-here-are-my-initial-impressions/#ftag=CAD590a51e)
+ - [Don&#39;t Sleep On DreamCloud&#39;s Flash Sale This Weekend     - CNET](https://www.cnet.com/deals/dont-sleep-on-dreamclouds-flash-sale-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

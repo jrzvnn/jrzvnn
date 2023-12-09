@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it is aware of feedback about GPT-4 getting &quot;lazier&quot; and is &quot;looking into fixing it&quot;, and explains that model behavior can be unpredictable &lpar;ChatGPT/@chatgptapp&rpar;](http://www.techmeme.com/231209/p1#a231209p1)
  - [Amazon files a motion to dismiss FTC&#39;s lawsuit, arguing the agency relies on anecdotal evidence and fails to prove that Amazon&#39;s practices hurt consumers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p31#a231208p31)
  - [The EU AI Act includes restrictions for foundation models, with some proprietary models classified as having &quot;systemic risk&quot; subjected to additional obligations &lpar;Washington Post&rpar;](http://www.techmeme.com/231208/p30#a231208p30)
  - [Holiday Wish List: Current Meta Quest 3 Deals including Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
- - [Best Workout Apps for Women in 2023     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [AI and You: Altman Says Humanity Needs to Solve for AI Safety, EU Agrees on &#39;Historic&#39; AI Law     - CNET](https://www.cnet.com/tech/computing/ai-and-you-altman-says-humanity-needs-to-solve-for-ai-safety-eu-agrees-on-historic-ai-law/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Workout Apps for Women in 2023     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

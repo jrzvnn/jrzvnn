@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finishing every part of Mario Wonder is no peach](https://www.theverge.com/2023/12/9/23993642/mario-wonder-100-percent-final-test-badge-marathon)
+ - [Hirokazu Kore-eda is so back](https://www.theverge.com/23992731/hirokazu-kore-eda-monster-interview)
  - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
  - [Aventon Soltera 2 E-Bike Review: Unrivaled Features, Style for Its Price     - CNET](https://www.cnet.com/roadshow/news/aventon-soltera-2-e-bike-review-unrivaled-features-style-for-its-price/#ftag=CAD590a51e)
- - [Wolves vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Man United vs. Bournemouth Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-bournemouth-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17.1.2: Why You Should Download the iPhone Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-1-2-why-you-should-download-the-iphone-update-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wolves vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

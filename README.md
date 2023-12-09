@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lead attorneys for Epic and Google say Tim Sweeney and Sundar Pichai met for an hour on December 7 and the meeting &quot;did not result in a settlement&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231209/p3#a231209p3)
  - [Nvidia&#39;s stock has beaten every other stock in the S&amp;P 500 this year and is on pace for the best annual performance of any major stock in the past decade &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/231209/p2#a231209p2)
  - [OpenAI says it is aware of feedback about GPT-4 getting &quot;lazier&quot; and is &quot;looking into fixing it&quot;, and explains that model behavior can be unpredictable &lpar;ChatGPT/@chatgptapp&rpar;](http://www.techmeme.com/231209/p1#a231209p1)
  - [Amazon files a motion to dismiss FTC&#39;s lawsuit, arguing the agency relies on anecdotal evidence and fails to prove that Amazon&#39;s practices hurt consumers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231208/p31#a231208p31)
- - [Best Dash Cam Deals: Save Big on Basic Cams, 4K Models and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)
- - [The EU AI Act includes restrictions for foundation models, with some proprietary models classified as having &quot;systemic risk&quot; subjected to additional obligations &lpar;Washington Post&rpar;](http://www.techmeme.com/231208/p30#a231208p30)<!-- TECH:END -->
+ - [Best Dash Cam Deals: Save Big on Basic Cams, 4K Models and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

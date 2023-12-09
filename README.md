@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 💣 [Fak around and what?](http://9gag.com/gag/aEq4r5O)
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 👉 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)<!-- MEMES:END -->
+ - 😝 [Ehmm.. what??](http://9gag.com/gag/anzPqgE)
+ - 😝 [Alarm alarm!](http://9gag.com/gag/ay2j57V)
+ - 💣 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
+ - 😝 [What a mystery!](http://9gag.com/gag/aYVXjKN)
+ - 👉 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 😝 [TODD HOWARD: `It cost $400,000,000 and 9 years to make STARFIELD`](http://9gag.com/gag/anzPXjz)
- - 💣 [Peak performance](http://9gag.com/gag/a7qRLMq)
+ - 😝 [Banana](http://9gag.com/gag/anzPqnB)
+ - 😝 [Oh no......anyway](http://9gag.com/gag/agozrR1)
+ - 💣 [What a mystery!](http://9gag.com/gag/aYVXjKN)
  - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
+ - 👉 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)<!-- MEMES:END -->
 
 ---
 

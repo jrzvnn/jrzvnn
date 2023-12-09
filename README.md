@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Epic used Fortnite OG to lure players back to a very different game](https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite)
+ - [Final Hours: Get Lifetime Access to Mac and Windows Versions of Office 2019 for Just $30     - CNET](https://www.cnet.com/deals/final-hours-get-lifetime-access-to-mac-and-windows-versions-of-office-2019-for-just-30/#ftag=CAD590a51e)
+ - [15 Great Last-Minute Christmas Gifts You Can Print or Email     - CNET](https://www.cnet.com/tech/mobile/last-minute-holiday-gifts/#ftag=CAD590a51e)
  - [The quiet plan to make the internet feel faster](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
- - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)
- - [Apple’s 10th-gen iPad is actually worthwhile when it’s $100 off](https://www.theverge.com/2023/12/9/23991542/apple-ipad-god-of-war-ragnarok-govee-light-strip-deal-sale)
- - [Last Chance: Nab a Discounted Costco Gold Star Membership for the Holidays     - CNET](https://www.cnet.com/deals/sign-up-year-costco-free-40-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortnite Festival is Rock Band without the plastic instruments](https://www.theverge.com/2023/12/9/23992574/fortnite-festival-harmonix-guitar-hero-rock-band)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

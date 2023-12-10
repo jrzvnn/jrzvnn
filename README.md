@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only people of culture will know what this means](http://9gag.com/gag/aoKQz1x)
- - 😝 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
- - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
+ - 😝 [Wild samurai appear to hunt bicycle thieves. Story in comment.](http://9gag.com/gag/aVbyX5w)
+ - 😝 [Polish space program.](http://9gag.com/gag/aBdBYYQ)
+ - 💣 [For those wondering how the snow gets removed from the streets in Canada](http://9gag.com/gag/axoqGMM)
+ - 😝 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)
+ - 👉 [Absolute cinema, i ain&#39;t complaining](http://9gag.com/gag/aqeo5zP)<!-- MEMES:END -->
 
 ---
 

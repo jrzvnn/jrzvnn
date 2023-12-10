@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush raises &#39;resilient&#39; Apple&#39;s price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)
+ - [The &#39;Barbie&#39; Movie Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/the-barbie-movie-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)
  - [Apple Vision Pro launch expected as soon as January](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)
- - [Broncos vs. Chargers Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-chargers-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
- - [Bills vs. Chiefs Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-chiefs-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
- - [Don&#39;t Forget to Pay Your 2023 Estimated Taxes. Here&#39;s When the Final Payment&#39;s Due     - CNET](https://www.cnet.com/personal-finance/taxes/dont-forget-to-pay-your-2023-estimated-taxes-heres-when-the-final-payments-due/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Broncos vs. Chargers Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-chargers-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

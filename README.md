@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
  - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
- - 💣 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
  - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---

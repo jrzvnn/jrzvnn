@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail what happened at OpenAI in the build-up to Sam Altman&#39;s firing; some board members believed that Altman was trying to pit them against each other &lpar;New York Times&rpar;](http://www.techmeme.com/231209/p14#a231209p14)
  - [Final day: get Apple&#39;s new M3 Pro 14-inch MacBook Pro for $1,749](https://appleinsider.com/articles/23/12/08/final-day-get-apples-new-m3-pro-14-inch-macbook-pro-for-1749?utm_medium=rss)
  - [It Wasn&#39;t Just You: Apple Took Steps To Block Access to iMessage Using Fake Credentials     - CNET](https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/#ftag=CAD590a51e)
  - [After Beeper Mini&#39;s recent outage, Apple says it took steps &quot;to protect our users by blocking techniques that exploit fake credentials&quot; to gain iMessage access &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231209/p13#a231209p13)
- - [Apple responds to the Beeper iMessage saga: ‘We took steps to protect our users’](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement)
- - [Graphika: apps and websites using AI to undress women in photos are soaring in popularity; 34 such providers together had 24M+ unique visitors in September 2023 &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231209/p12#a231209p12)<!-- TECH:END -->
+ - [Apple responds to the Beeper iMessage saga: ‘We took steps to protect our users’](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

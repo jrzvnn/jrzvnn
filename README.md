@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
+ - [12.9-inch iPad Air display panels start shipping](https://appleinsider.com/articles/23/12/10/display-panels-for-129-inch-ipad-air-start-shipping?utm_medium=rss)
  - [A look at the Effective Accelerationism movement, which favors open-source AI tech and believes that AI&#39;s benefits outweigh its harms and shouldn&#39;t be regulated &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231210/p5#a231210p5)
  - [Daily deals Dec. 10: $100 off M2 Mac mini, 50% off Beats Solo 3 Headphones, $200 off Peloton Bike, more](https://appleinsider.com/articles/23/12/10/daily-deals-dec-10-100-off-m2-mac-mini-50-off-beats-solo-3-headphones-200-off-peloton-bike-more?utm_medium=rss)
- - [Display panels for 12.9-inch iPad Air start shipping](https://appleinsider.com/articles/23/12/10/display-panels-for-129-inch-ipad-air-start-shipping?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Maryland     - CNET](https://www.cnet.com/home/energy-and-utilities/maryland-solar-panels/#ftag=CAD590a51e)
- - [Grid Studio&#39;s Discounted Frames Are the Perfect Gift for the Techie in Your Life     - CNET](https://www.cnet.com/deals/grid-studios-discounted-frames-are-the-perfect-gift-for-the-techie-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Maryland     - CNET](https://www.cnet.com/home/energy-and-utilities/maryland-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

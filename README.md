@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
  - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
  - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
  - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [The Snow Leopard&#39;s camouflage is incredibly effective!](http://9gag.com/gag/a1P3ZmP)<!-- MEMES:END -->
+ - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
 
 ---
 

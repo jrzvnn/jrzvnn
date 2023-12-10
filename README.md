@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 😝 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
- - 💣 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 💣 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
  - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---

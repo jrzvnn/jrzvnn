@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 💣 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aL17Bx6)
+ - 😝 [Wild samurai appear to hunt bicycle thieves. Story in comment.](http://9gag.com/gag/aVbyX5w)
+ - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 😝 [There is a cure](http://9gag.com/gag/aGE4w26)
+ - 👉 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)<!-- MEMES:END -->
 
 ---
 

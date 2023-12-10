@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
- - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
- - 💣 [Log](http://9gag.com/gag/a6qYy7A)
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
+ - 😝 [I wanted to laugh but then I realized it&#39;s true and it&#39;s sad](http://9gag.com/gag/aWG3Q8q)
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 💣 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
+ - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
 
 ---
 

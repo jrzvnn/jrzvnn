@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)
  - [Wedbush raises &#39;resilient&#39; Apple&#39;s price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)
- - [The &#39;Barbie&#39; Movie Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/the-barbie-movie-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)
  - [Apple Vision Pro launch expected as soon as January](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
- - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)<!-- TECH:END -->
+ - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)
+ - [Broncos vs. Chargers Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-chargers-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

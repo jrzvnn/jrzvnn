@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
  - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
+ - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 👉 [AI being used to do good](http://9gag.com/gag/aDYe0RG)<!-- MEMES:END -->
 
 ---
 

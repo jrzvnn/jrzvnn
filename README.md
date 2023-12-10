@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [M3 MacBook Air update due in March, M3 Mac Pro in late 2024](https://appleinsider.com/articles/23/12/10/m3-macbook-air-update-due-in-march-m3-mac-pro-in-late-2024?utm_medium=rss)
  - [You&#39;ve Only Got a Few Hours Left to Save 74% on a Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/youve-only-got-a-few-hours-left-to-save-74-on-a-lifetime-babbel-subscription/#ftag=CAD590a51e)
  - [Here&#39;s How Much a Space Heater Can Save You on Heating Costs     - CNET](https://www.cnet.com/home/kitchen-and-household/yes-using-a-space-heater-could-save-you-hundreds-on-heating-costs-this-winter/#ftag=CAD590a51e)
- - [Lions vs. Bears Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-bears-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
- - [Texans vs. Jets Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-jets-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lions vs. Bears Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-bears-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

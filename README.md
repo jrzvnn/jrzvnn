@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)
  - [Paris-based Mistral AI has raised &amp;euro;385M, or about $415M, with investors including a16z and Lightspeed; sources: the deal values Mistral at about $2B &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231210/p6#a231210p6)
  - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [12.9-inch iPad Air display panels start shipping](https://appleinsider.com/articles/23/12/10/display-panels-for-129-inch-ipad-air-start-shipping?utm_medium=rss)
- - [A look at the Effective Accelerationism movement, which favors open-source AI tech and believes that AI&#39;s benefits outweigh its harms and shouldn&#39;t be regulated &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231210/p5#a231210p5)
- - [Daily deals Dec. 10: $100 off M2 Mac mini, 50% off Beats Solo 3 Headphones, $200 off Peloton Bike, more](https://appleinsider.com/articles/23/12/10/daily-deals-dec-10-100-off-m2-mac-mini-50-off-beats-solo-3-headphones-200-off-peloton-bike-more?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the Effective Accelerationism movement, which favors open-source AI tech and believes that AI&#39;s benefits outweigh its harms and shouldn&#39;t be regulated &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231210/p5#a231210p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

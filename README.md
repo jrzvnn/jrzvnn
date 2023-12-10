@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/)
  - [Google finally gives ChatGPT some competition](https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter)
  - [Apple confirms it blocked Beeper Mini citing security risks](https://appleinsider.com/articles/23/12/10/apple-confirms-it-blocked-beeper-mini-citing-security-risks?utm_medium=rss)
- - [Fulham vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17: What to Know About Apple&#39;s Journal App Before Its Release     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-what-to-know-about-apples-journal-app-before-its-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

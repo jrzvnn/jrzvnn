@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air update due in March, M3 Mac Pro in late 2024](https://appleinsider.com/articles/23/12/10/m3-macbook-air-update-due-in-march-m3-mac-pro-in-late-2024?utm_medium=rss)
  - [X lifts the permanent ban on Infowars host Alex Jones&#39; account, after Elon Musk conducted a poll that resulted in 70.1% voting in favor of restoring the account &lpar;Associated Press&rpar;](http://www.techmeme.com/231210/p4#a231210p4)
  - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
- - [6 Strategies That Will Help You Manage Your Stress During the Holidays     - CNET](https://www.cnet.com/health/mental/6-strategies-that-will-help-you-manage-your-stress-during-the-holidays/#ftag=CAD590a51e)
- - [How to Watch Lifetime TV Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-lifetime-tv-without-cable/#ftag=CAD590a51e)
- - [Best Internet Providers in Murfreesboro, Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tottenham vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

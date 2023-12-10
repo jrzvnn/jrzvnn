@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 😝 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
  - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
+ - 💣 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
 
 ---
 

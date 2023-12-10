@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aL17Bx6)
- - 😝 [Wild samurai appear to hunt bicycle thieves. Story in comment.](http://9gag.com/gag/aVbyX5w)
- - 💣 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 😝 [There is a cure](http://9gag.com/gag/aGE4w26)
- - 👉 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)<!-- MEMES:END -->
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---
 

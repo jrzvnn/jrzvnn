@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
- - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
+ - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
  - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
+ - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
 
 ---
 

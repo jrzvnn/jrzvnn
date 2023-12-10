@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BLM activist tried to burn down MLK&#39;s childhood home, start race war. Shhhh!](http://9gag.com/gag/aVbyQDP)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 💣 [The guy in the video is not stun_gravy](http://9gag.com/gag/aqeo99R)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 💣 [Natural selection](http://9gag.com/gag/amA4NAX)
  - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
  - 👉 [When someone thinks they&#39;re smart and want to share their `wisdom`](http://9gag.com/gag/aDYeRZx)<!-- MEMES:END -->
 

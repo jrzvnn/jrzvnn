@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grid Studio&#39;s Discounted Frames Are the Perfect Gift for the Techie in Your Life     - CNET](https://www.cnet.com/deals/grid-studios-discounted-frames-are-the-perfect-gift-for-the-techie-in-your-life/#ftag=CAD590a51e)
  - [Apple’s iPad plans for next year could be a lot less confusing](https://www.theverge.com/2023/12/10/23995488/apple-ipad-lineup-air-12-9-pro-13-pencil-magic-keyboard)
  - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [M3 MacBook Air update due in March, M3 Mac Pro in late 2024](https://appleinsider.com/articles/23/12/10/m3-macbook-air-update-due-in-march-m3-mac-pro-in-late-2024?utm_medium=rss)
- - [You&#39;ve Only Got a Few Hours Left to Save 74% on a Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/youve-only-got-a-few-hours-left-to-save-74-on-a-lifetime-babbel-subscription/#ftag=CAD590a51e)
  - [Here&#39;s How Much a Space Heater Can Save You on Heating Costs     - CNET](https://www.cnet.com/home/kitchen-and-household/yes-using-a-space-heater-could-save-you-hundreds-on-heating-costs-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

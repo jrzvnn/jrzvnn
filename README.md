@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 💣 [Best decision of the year so far](http://9gag.com/gag/aA0zrN0)
- - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
- - 👉 [There is a cure](http://9gag.com/gag/aGE4w26)<!-- MEMES:END -->
+ - 😝 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 💣 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
+ - 😝 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
+ - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
 
 ---
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 💣 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 😝 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)
- - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
+ - 💣 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---
 

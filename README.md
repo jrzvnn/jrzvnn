@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Be skeptical about QR codes, warns the FTC](https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing)
  - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)
  - [Wedbush raises &#39;resilient&#39; Apple&#39;s price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)
  - [Best Internet Providers in Plano, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-plano-tx/#ftag=CAD590a51e)
- - [The &#39;Barbie&#39; Movie Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/the-barbie-movie-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)
- - [Apple Vision Pro launch expected as soon as January](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)<!-- TECH:END -->
+ - [The &#39;Barbie&#39; Movie Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/the-barbie-movie-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

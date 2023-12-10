@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild samurai appear to hunt bicycle thieves. Story in comment.](http://9gag.com/gag/aVbyX5w)
- - 😝 [Polish space program.](http://9gag.com/gag/aBdBYYQ)
- - 💣 [For those wondering how the snow gets removed from the streets in Canada](http://9gag.com/gag/axoqGMM)
- - 😝 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)
- - 👉 [Absolute cinema, i ain&#39;t complaining](http://9gag.com/gag/aqeo5zP)<!-- MEMES:END -->
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here is the title](http://9gag.com/gag/aL17QxW)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 💣 [Boys Fighting An Entirely Different Battle](http://9gag.com/gag/aGE4YOX)
- - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 👉 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
+ - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
+ - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
+ - 💣 [Log](http://9gag.com/gag/a6qYy7A)
+ - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
 
 ---
 

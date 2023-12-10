@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro launch expected as soon as January](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [How to use macOS file search without using Spotlight](https://appleinsider.com/inside/macos/tips/how-to-use-macos-file-search-without-using-spotlight?utm_medium=rss)
  - [Broncos vs. Chargers Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-chargers-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
  - [Bills vs. Chiefs Livestream: How to Watch NFL Week 14 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-chiefs-livestream-how-to-watch-nfl-week-14-online-today/#ftag=CAD590a51e)
- - [Don&#39;t Forget to Pay Your 2023 Estimated Taxes. Here&#39;s When the Final Payment&#39;s Due     - CNET](https://www.cnet.com/personal-finance/taxes/dont-forget-to-pay-your-2023-estimated-taxes-heres-when-the-final-payments-due/#ftag=CAD590a51e)
- - [Paris-based Mistral AI has raised &amp;euro;385M, or about $415M, with investors including a16z and Lightspeed; sources: the deal values Mistral at about $2B &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/231210/p6#a231210p6)<!-- TECH:END -->
+ - [Don&#39;t Forget to Pay Your 2023 Estimated Taxes. Here&#39;s When the Final Payment&#39;s Due     - CNET](https://www.cnet.com/personal-finance/taxes/dont-forget-to-pay-your-2023-estimated-taxes-heres-when-the-final-payments-due/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

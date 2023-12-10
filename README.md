@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
+ - 😝 [Unit of a horse. His name is Raven](http://9gag.com/gag/arm7RYK)
+ - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
+ - 💣 [Best decision of the year so far](http://9gag.com/gag/aA0zrN0)
+ - 😝 [When Raven says THIS](http://9gag.com/gag/axoq2zW)
+ - 👉 [There is a cure](http://9gag.com/gag/aGE4w26)<!-- MEMES:END -->
 
 ---
 

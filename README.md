@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 10: $100 off M2 Mac mini, 50% off Beats Solo 3 Headphones, $200 off Peloton Bike, more](https://appleinsider.com/articles/23/12/10/daily-deals-dec-10-100-off-m2-mac-mini-50-off-beats-solo-3-headphones-200-off-peloton-bike-more?utm_medium=rss)
  - [Display panels for 12.9-inch iPad Air start shipping](https://appleinsider.com/articles/23/12/10/display-panels-for-129-inch-ipad-air-start-shipping?utm_medium=rss)
  - [Grid Studio&#39;s Discounted Frames Are the Perfect Gift for the Techie in Your Life     - CNET](https://www.cnet.com/deals/grid-studios-discounted-frames-are-the-perfect-gift-for-the-techie-in-your-life/#ftag=CAD590a51e)
  - [Apple’s iPad plans for next year could be a lot less confusing](https://www.theverge.com/2023/12/10/23995488/apple-ipad-lineup-air-12-9-pro-13-pencil-magic-keyboard)
- - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
- - [M3 MacBook Air update due in March, M3 Mac Pro in late 2024](https://appleinsider.com/articles/23/12/10/m3-macbook-air-update-due-in-march-m3-mac-pro-in-late-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

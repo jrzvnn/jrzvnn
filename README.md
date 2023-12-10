@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 💣 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
- - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
+ - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 😝 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
+ - 💣 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 😝 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---
 

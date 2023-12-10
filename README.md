@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
  - [Tottenham vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
  - [How to Customize Your Fitbit App&#39;s Focus Feature to See Your Favorite Stats     - CNET](https://www.cnet.com/tech/mobile/how-to-customize-your-fitbit-apps-focus-to-see-your-favorite-stats/#ftag=CAD590a51e)
- - [Competing to Make the World&#39;s Most Efficient Solar Car     - CNET](https://www.cnet.com/roadshow/news/competing-to-make-the-worlds-most-efficient-solar-car/#ftag=CAD590a51e)
- - [Creating the World&#39;s Most Efficient Solar Electric Car video     - CNET](https://www.cnet.com/roadshow/videos/creating-the-worlds-most-efficient-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Competing to Make the World&#39;s Most Efficient Solar Car     - CNET](https://www.cnet.com/roadshow/news/competing-to-make-the-worlds-most-efficient-solar-car/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

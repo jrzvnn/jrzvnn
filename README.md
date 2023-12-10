@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
- - 😝 [AI being used to do good](http://9gag.com/gag/aDYe0RG)
- - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 💣 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
+ - 😝 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
 
 ---
 

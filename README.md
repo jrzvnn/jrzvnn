@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple confirms it blocked Beeper Mini citing security risks](https://appleinsider.com/articles/23/12/10/apple-confirms-it-blocked-beeper-mini-citing-security-risks?utm_medium=rss)
  - [Fulham vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Luton vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Best Home Theater Gift Ideas of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-gifts-to-upgrade-a-home-theater/#ftag=CAD590a51e)
- - [Best Fitness Gifts for the Holidays 2023     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
- - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitness Gifts for the Holidays 2023     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know the sound of the cough of death](http://9gag.com/gag/arm7eQX)
- - 😝 [Boston Dynamics latest demonstration](http://9gag.com/gag/aMEMbWA)
- - 💣 [Log](http://9gag.com/gag/a6qYy7A)
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 👉 [When Raven says THIS](http://9gag.com/gag/axoq2zW)<!-- MEMES:END -->
+ - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
+ - 😝 [Congrats on the third gate](http://9gag.com/gag/ap9Z0vM)
+ - 💣 [Why won\u2019t racist trolls pay to see our movies?!](http://9gag.com/gag/a9qgbXL)
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 👉 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)<!-- MEMES:END -->
 
 ---
 

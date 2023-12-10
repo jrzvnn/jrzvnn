@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X lifts the permanent ban on Infowars host Alex Jones&#39; account, after Elon Musk conducted a poll that resulted in 70.1% voting in favor of restoring the account &lpar;Associated Press&rpar;](http://www.techmeme.com/231210/p4#a231210p4)
  - [Apple Vision Pro launch expected before March](https://appleinsider.com/articles/23/12/10/apple-vision-pro-launch-expected-before-march?utm_medium=rss)
- - [Tottenham vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
- - [How to Customize Your Fitbit App&#39;s Focus Feature to See Your Favorite Stats     - CNET](https://www.cnet.com/tech/mobile/how-to-customize-your-fitbit-apps-focus-to-see-your-favorite-stats/#ftag=CAD590a51e)
- - [Competing to Make the World&#39;s Most Efficient Solar Car     - CNET](https://www.cnet.com/roadshow/news/competing-to-make-the-worlds-most-efficient-solar-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Strategies That Will Help You Manage Your Stress During the Holidays     - CNET](https://www.cnet.com/health/mental/6-strategies-that-will-help-you-manage-your-stress-during-the-holidays/#ftag=CAD590a51e)
+ - [How to Watch Lifetime TV Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-lifetime-tv-without-cable/#ftag=CAD590a51e)
+ - [Best Internet Providers in Murfreesboro, Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

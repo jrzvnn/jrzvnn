@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 😝 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
  - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
+ - 💣 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
  - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 👉 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 👉 [Any captains?](http://9gag.com/gag/aEqmwLM)<!-- MEMES:END -->
 
 ---
 

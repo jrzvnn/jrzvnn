@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tottenham vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
- - [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/)
- - [Google finally gives ChatGPT some competition](https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter)
- - [Apple confirms it blocked Beeper Mini citing security risks](https://appleinsider.com/articles/23/12/10/apple-confirms-it-blocked-beeper-mini-citing-security-risks?utm_medium=rss)
- - [iOS 17: What to Know About Apple&#39;s Journal App Before Its Release     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-what-to-know-about-apples-journal-app-before-its-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Customize Your Fitbit App&#39;s Focus Feature to See Your Favorite Stats     - CNET](https://www.cnet.com/tech/mobile/how-to-customize-your-fitbit-apps-focus-to-see-your-favorite-stats/#ftag=CAD590a51e)
+ - [Competing to Make the World&#39;s Most Efficient Solar Car     - CNET](https://www.cnet.com/roadshow/news/competing-to-make-the-worlds-most-efficient-solar-car/#ftag=CAD590a51e)
+ - [Creating the World&#39;s Most Efficient Solar Electric Car video     - CNET](https://www.cnet.com/roadshow/videos/creating-the-worlds-most-efficient-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

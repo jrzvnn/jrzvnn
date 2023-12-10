@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Only people of culture will know what this means](http://9gag.com/gag/aoKQz1x)
  - 😝 [That&#39;s the reason why I&#39;ll never try it](http://9gag.com/gag/aDYe0ZK)
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
  - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [The Snow Leopard&#39;s camouflage is incredibly effective!](http://9gag.com/gag/a1P3ZmP)<!-- MEMES:END -->
+ - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
 
 ---
 

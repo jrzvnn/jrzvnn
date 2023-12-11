@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [Some of u have been wondering what happens to a long ship in a severe storm](http://9gag.com/gag/ay2j86Y)
- - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
- - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 👉 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)<!-- MEMES:END -->
+ - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 😝 [Some bosses](http://9gag.com/gag/aGE40pz)
+ - 💣 [The AI will destroy the world... Meamtime AI be like](http://9gag.com/gag/aEqmnzo)
+ - 😝 [Rats! No, wait...](http://9gag.com/gag/a5X0bpg)
+ - 👉 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)<!-- MEMES:END -->
 
 ---
 

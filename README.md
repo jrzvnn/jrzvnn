@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
- - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 😝 [Going to be fun](http://9gag.com/gag/aOxLmwr)
  - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 💣 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
  - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---

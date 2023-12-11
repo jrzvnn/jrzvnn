@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)
  - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)
- - [Sources detail Disinfo Lab, run by an Indian intelligence officer, that is behind a covert influence operation on social media discrediting PM Modi&#39;s critics &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p3#a231211p3)
- - [NY state, IBM, and others plan to invest $10B in a chip research facility at the University at Albany, set to include ASML&#39;s advanced chip-making equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p2#a231211p2)
- - [London-based crypto derivatives trading platform Global Futures and Options, or GFO-X, raised a $30M series B led by M&amp;G Investments &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231211/p1#a231211p1)
- - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)<!-- TECH:END -->
+ - [Sources detail Disinfo Lab: run by an Indian intelligence officer and behind a covert influence operation on social media discrediting Narendra Modi&#39;s critics &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p3#a231211p3)
+ - [New York state, IBM, and more plan to invest $10B in a chip research facility at the University at Albany, set to include ASML&#39;s advanced chip-making equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p2#a231211p2)
+ - [London-based crypto derivatives trading platform Global Futures and Options, or GFO-X, raised a $30M series B led by M&amp;G Investments &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231211/p1#a231211p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

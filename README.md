@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound On, for better experience.](http://9gag.com/gag/axoqDPM)
  - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
  - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
- - 👉 [Ohh mine god](http://9gag.com/gag/aZDOWy3)<!-- MEMES:END -->
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
+ - 😝 [Not only for women](http://9gag.com/gag/aPgbMjg)
+ - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
  - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
- - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 😝 [Arrive in Sweden in 2018. Gets citizenship in 2021. Doesn&#39;t speak Swedish. Apparently he is well integrated.... Both should be deported.](http://9gag.com/gag/aREqKNQ)
- - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
+ - 👉 [Arrive in Sweden in 2018. Gets citizenship in 2021. Doesn&#39;t speak Swedish. Apparently he is well integrated.... Both should be deported.](http://9gag.com/gag/aREqKNQ)<!-- MEMES:END -->
 
 ---
 

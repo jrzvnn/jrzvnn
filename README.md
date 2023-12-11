@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue Duo Review: A Return to PC Engine and TurboGrafx-16 Games](https://www.wired.com/review/analogue-duo/)
- - [Daily deals Dec. 11: $250 off M1 MacBook Air, 24% off Apple MagSafe Duo, AirPods 3 $139.99, more](https://appleinsider.com/articles/23/12/11/daily-deals-dec-11-250-off-m1-macbook-air-24-off-apple-magsafe-duo-airpods-3-13999-more?utm_medium=rss)
- - [Sizing up Tim Cook&#39;s vision for an immersive wearable](https://appleinsider.com/articles/23/12/11/sizing-up-tim-cooks-vision-for-an-immersive-wearable?utm_medium=rss)
- - [Microsoft partners with 60 unions representing 12.5M workers for &quot;an open dialogue&quot; on AI&#39;s impact on workers, and signs a ZeniMax staff contract on AI use &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/231211/p15#a231211p15)
- - [New Thread motion sensor, Find My wallet, &amp; hands-on with Eve Play on HomeKit Insider](https://appleinsider.com/articles/23/12/11/new-thread-motion-sensor-find-my-wallet-hands-on-with-eve-play-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix picks tennis and Rafael Nadal for its next live sports stream](https://www.theverge.com/2023/12/11/23996783/netflix-tennis-rafael-nadal-live-sports-stream)
+ - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)
+ - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)
+ - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
+ - [Wedbush raises &#39;resilient&#39; Apple stock price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

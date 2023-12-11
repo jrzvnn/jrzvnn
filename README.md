@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
- - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 💣 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 👉 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)<!-- MEMES:END -->
 
 ---
 

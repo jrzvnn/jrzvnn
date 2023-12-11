@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok to invest $1.5B in a joint venture with Indonesia&#39;s GoTo, aiming to address regulatory concerns so that TikTok can revive its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)
+ - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)
  - [London-based SumUp, which offers payments and other financial services to ~4M SMBs, raised &amp;euro;285M at a valuation higher than its $8.5B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231210/p9#a231210p9)
  - [Senator Warren wades into Apple&#39;s Beeper fight with irrelevant antitrust rhetoric](https://appleinsider.com/articles/23/12/11/senator-warren-wades-into-apples-beeper-fight-with-irrelevant-antitrust-rhetoric?utm_medium=rss)
  - [It Wasn&#39;t Just You: Apple Took Steps to Block Access to iMessage Using Fake Credentials     - CNET](https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/#ftag=CAD590a51e)

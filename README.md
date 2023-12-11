@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
+ - [US teens survey: 93% use YouTube, 63% use TikTok, 60% use Snapchat, 59% use Instagram, and 33% use Facebook; ~33% use at least one of these &quot;almost constantly&quot; &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231211/p20#a231211p20)
  - [Reddit has ‘restored services’ after major outage](https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading)
  - [The curtain’s coming down on Showtime... sort of](https://www.theverge.com/2023/12/11/23997042/showtime-paramount-plus-cable-streaming)
- - [Apple releases iOS 17.2, with a Journal app, a new Action button option, and Qi2 support on iPhone 13 and 14, alongside macOS, tvOS, watchOS, and iPadOS updates &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231211/p19#a231211p19)
- - [Sony’s New Access Controller Reveals a Big Problem in Adaptive Gaming](https://www.wired.com/story/affordable-accessibility-sony-access-microsoft-adaptive-controllers/)
- - [macOS Sonoma 14.2 now available with Apple Music changes &amp; more](https://appleinsider.com/articles/23/12/11/macos-sonoma-142-now-available-with-apple-music-changes-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases iOS 17.2, with a Journal app, a new Action button option, and Qi2 support on iPhone 13 and 14, alongside macOS, tvOS, watchOS, and iPadOS updates &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231211/p19#a231211p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

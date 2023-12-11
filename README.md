@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
  - [TechInsights: Huawei&#39;s Mate 60 Pro shows &quot;significant progress&quot; in China&#39;s domestic design and engineering of radio-frequency chips, replacing US suppliers &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p9#a231211p9)
  - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)
  - [The US awards the first CHIPS Act grant to BAE Systems, giving the defense contractor $35M to boost production of chips used in F-15 and F-35 fighter jets &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/231211/p8#a231211p8)
- - [Avoid a Surprise Tax Bill By Paying Your Estimated Taxes Now     - CNET](https://www.cnet.com/personal-finance/taxes/avoid-a-surprise-tax-bill-by-paying-your-estimated-taxes-now/#ftag=CAD590a51e)
- - [Best Smart Home Gifts for 2023     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Avoid a Surprise Tax Bill By Paying Your Estimated Taxes Now     - CNET](https://www.cnet.com/personal-finance/taxes/avoid-a-surprise-tax-bill-by-paying-your-estimated-taxes-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

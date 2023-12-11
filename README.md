@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is finally saying goodbye to Google Play Movies &amp; TV](https://www.theverge.com/2023/12/11/23997066/google-play-movies-tv-app-removal)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
  - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
  - [Oracle Q2: revenue up 5% YoY to $12.94B, vs. $13.05B est., net income up 44% to $2.5B, and cloud and on-prem license revenue down 18% to $1.18B; ORCL drops 8%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231211/p21#a231211p21)
- - [Best Holiday OnePlus Open Deals: Save Up to $1,200 on a Sleek, New Foldable Phone with Trade-In     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)
- - [Best Sports Drinks of 2023     - CNET](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [The best leather options for Apple iPhone and Watch cases for 2024](https://appleinsider.com/inside/iphone/best/best-leather-iphone-case-apple-watch-band?utm_medium=rss)<!-- TECH:END -->
+ - [Best Holiday OnePlus Open Deals: Save Up to $1,200 on a Sleek, New Foldable Phone with Trade-In     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

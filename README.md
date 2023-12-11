@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper says &quot;Beeper Mini is back&quot; but now requires users log in with their AppleID, as phone number registration is not working; Beeper makes the service free &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231211/p17#a231211p17)
- - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [TimeSplitters studio Free Radical Design appears to shut down as Embracer fallout continues](https://www.theverge.com/2023/12/11/23981094/timesplitters-studio-free-radical-design-shuts-down)
- - [More Apple Vision Pro environments surface to show where you can virtually be](https://appleinsider.com/articles/23/12/11/more-apple-vision-pro-environments-surface-to-show-where-you-can-virtually-be?utm_medium=rss)
- - [Dealroom: Nvidia is the most active large-scale investor in AI startups in 2023, excluding accelerator funds like YC, with 35 deals, almost 6x more than in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p16#a231211p16)<!-- TECH:END -->
+ - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
+ - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
+ - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)
+ - [Armada, aiming to bring AI grade computing capability to remote places like oil rigs using Starlink, raised a $40M Series A; source: at a nearly $250M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231211/p18#a231211p18)
+ - [iOS 17.2 arrives with new Journal app and spatial video capture support](https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 😝 [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
+ - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
+ - 😝 [How It Started... How It&#39;s Going](http://9gag.com/gag/awZWVMr)
+ - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealroom: Nvidia emerges as the most active large-scale investor in AI startups in 2023, excluding accelerators like YC, with 35 deals, 6x more than in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p16#a231211p16)
  - [Samsung Winter Sale knocks up to 64% off phones, monitors, Bespoke appliances &amp; storage](https://appleinsider.com/articles/23/12/11/samsung-winter-sale-knocks-up-to-64-off-phones-monitors-bespoke-appliances-storage?utm_medium=rss)
  - [Elon Musk unbans conspiracy theorist Alex Jones and hosts interview with him on X](https://www.theverge.com/2023/12/11/23996605/elon-musk-alex-jones-unban-x-twitter-conspiracy-theory)
  - [Netflix picks tennis and Rafael Nadal for its next live sports stream](https://www.theverge.com/2023/12/11/23996783/netflix-tennis-rafael-nadal-live-sports-stream)
- - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)
- - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)<!-- TECH:END -->
+ - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Blue Eye Samurai is coming back for a second season](https://www.theverge.com/2023/12/11/23997629/blue-eye-samurai-netflix-season-2-renewal)
  - [AppleInsider t-shirt giveaway: enter to win our new icon tee or buy one now](https://appleinsider.com/articles/23/12/11/appleinsider-t-shirt-giveaway-enter-to-win-our-new-icon-tee-or-buy-one-now?utm_medium=rss)
  - [Ford will cut weekly production of F-150 Lightning in response to slowing demand](https://www.theverge.com/2023/12/11/23997632/ford-f150-lightning-production-reduce-ev-demand)
  - [Google Fiber’s 20-gig service costs $250 per month](https://www.theverge.com/2023/12/11/23997336/google-fiber-20-gbps-speed-early-access-2024)
- - [Google is finally saying goodbye to Google Play Movies &amp; TV](https://www.theverge.com/2023/12/11/23997066/google-play-movies-tv-app-removal)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
+ - [Google is finally saying goodbye to Google Play Movies &amp; TV](https://www.theverge.com/2023/12/11/23997066/google-play-movies-tv-app-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

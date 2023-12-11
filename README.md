@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The curtain’s coming down on Showtime... sort of](https://www.theverge.com/2023/12/11/23997042/showtime-paramount-plus-cable-streaming)
  - [Apple releases iOS 17.2, with a Journal app, a new Action button option, and Qi2 support on iPhone 13 and 14, alongside macOS, tvOS, watchOS, and iPadOS updates &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231211/p19#a231211p19)
  - [Sony’s New Access Controller Reveals a Big Problem in Adaptive Gaming](https://www.wired.com/story/affordable-accessibility-sony-access-microsoft-adaptive-controllers/)
  - [macOS Sonoma 14.2 now available with Apple Music changes &amp; more](https://appleinsider.com/articles/23/12/11/macos-sonoma-142-now-available-with-apple-music-changes-more?utm_medium=rss)
- - [Best Portable Solar Panels of December 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)
- - [Taylor Swift, QAnon, and the Political Weaponization of Fandom](https://www.wired.com/story/taylor-swift-psyop-conspiracy-theory-person-of-the-year/)<!-- TECH:END -->
+ - [Best Portable Solar Panels of December 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
  - [Oracle Q2: revenue up 5% YoY to $12.94B, vs. $13.05B est., net income up 44% to $2.5B, and cloud and on-prem license revenue down 18% to $1.18B; ORCL drops 8%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231211/p21#a231211p21)
- - [The best leather options for Apple iPhone and Watch cases for 2024](https://appleinsider.com/inside/iphone/best/best-leather-iphone-case-apple-watch-band?utm_medium=rss)
- - [iOS 17.2: Apple&#39;s Journal App and More Are Finally Here     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-apples-journal-app-and-more-are-finally-here/#ftag=CAD590a51e)
- - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
- - [Best Queen Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Holiday OnePlus Open Deals: Save Up to $1,200 on a Sleek, New Foldable Phone with Trade-In     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)
+ - [Best Sports Drinks of 2023     - CNET](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
+ - [The best leather options for Apple iPhone and Watch cases for 2024](https://appleinsider.com/inside/iphone/best/best-leather-iphone-case-apple-watch-band?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

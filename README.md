@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 👉 [Some of u have been wondering what happens to a long ship in a severe storm](http://9gag.com/gag/ay2j86Y)<!-- MEMES:END -->
+ - 😝 [LMAO](http://9gag.com/gag/agozGgr)
+ - 😝 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 💣 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
+ - 😝 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
+ - 👉 [If you know you know](http://9gag.com/gag/aA0zdBR)<!-- MEMES:END -->
 
 ---
 

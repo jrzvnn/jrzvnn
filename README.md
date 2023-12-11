@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases tvOS 17.2 with 3D movies and better system navigation](https://appleinsider.com/articles/23/12/11/apple-releases-tvos-172-with-3d-movies-and-better-system-navigation?utm_medium=rss)
+ - [Beeper Mini for Android lives again, but for how long is anybody&#39;s guess](https://appleinsider.com/articles/23/12/11/beeper-mini-for-android-lives-again-but-for-how-long-is-anybodys-guess?utm_medium=rss)
  - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
  - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
- - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)
- - [Armada, aiming to bring AI grade computing capability to remote places like oil rigs using Starlink, raised a $40M Series A; source: at a nearly $250M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231211/p18#a231211p18)
- - [iOS 17.2 arrives with new Journal app and spatial video capture support](https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video)<!-- TECH:END -->
+ - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

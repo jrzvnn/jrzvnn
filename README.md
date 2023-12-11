@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 😝 [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
- - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [How It Started... How It&#39;s Going](http://9gag.com/gag/awZWVMr)
- - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
+ - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [Arrive in Sweden in 2018. Gets citizenship in 2021. Doesn&#39;t speak Swedish. Apparently he is well integrated.... Both should be deported.](http://9gag.com/gag/aREqKNQ)
+ - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
 
 ---
 

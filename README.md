@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Apple plans to give added weighting to streams of songs mixed in Dolby Atmos from 2024, possibly leading to higher royalties, to push Spatial Audio &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231211/p13#a231211p13)
  - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
  - [BlackBerry appoints John Giamatteo, an executive since 2021, as its CEO and no longer plans to spin off its IoT and cybersecurity businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231211/p12#a231211p12)
- - [If you want to use your phone’s digital key to drive your car, look for this logo](https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium)
- - [Best Streaming Service for 4K Content     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-4k-content/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Credit Cards for Instant Approval in December 2023     - CNET](https://www.cnet.com/personal-finance/best-instant-approval-credit-cards/#ftag=CAD590a51e)
+ - [If you want to use your phone’s digital key to drive your car, look for this logo](https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

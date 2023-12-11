@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO](http://9gag.com/gag/agozGgr)
- - 😝 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
- - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
  - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
- - 👉 [Million times better than my soft-spoken cheater ex](http://9gag.com/gag/aVbyX3O)<!-- MEMES:END -->
+ - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
 
 ---
 

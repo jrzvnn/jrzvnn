@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 😝 [What?? Who left it there and what Kind of car is that ?? Found in Cologne, Germany.](http://9gag.com/gag/a8qxYKO)
- - 💣 [Here is the title](http://9gag.com/gag/aL17QxW)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
+ - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 💣 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
+ - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
 
 ---
 

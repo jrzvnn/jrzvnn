@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma 14.2 now available with Apple Music changes &amp; more](https://appleinsider.com/articles/23/12/11/macos-sonoma-142-now-available-with-apple-music-changes-more?utm_medium=rss)
+ - [Taylor Swift, QAnon, and the Political Weaponization of Fandom](https://www.wired.com/story/taylor-swift-psyop-conspiracy-theory-person-of-the-year/)
  - [Apple releases tvOS 17.2 with 3D movies and better system navigation](https://appleinsider.com/articles/23/12/11/apple-releases-tvos-172-with-3d-movies-and-better-system-navigation?utm_medium=rss)
  - [Beeper Mini for Android lives again, but for how long is anybody&#39;s guess](https://appleinsider.com/articles/23/12/11/beeper-mini-for-android-lives-again-but-for-how-long-is-anybodys-guess?utm_medium=rss)
- - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
- - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
- - [iPadOS 17.2 is here with Apple Music updates, and other changes](https://appleinsider.com/articles/23/12/11/ipados-172-is-here-with-apple-music-and-other-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

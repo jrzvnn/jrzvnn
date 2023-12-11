@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going to be fun](http://9gag.com/gag/aOxLmwr)
- - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 💣 [Equality](http://9gag.com/gag/aBdBY4z)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 😝 [If we judged people on character instead of physical attractiveness, she would be the most beautiful person in the world.](http://9gag.com/gag/aDYejGO)
+ - 😝 [I figured you&#39;d appreciate this](http://9gag.com/gag/aEqmRvn)
+ - 💣 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 😝 [The AI will destroy the world... Meamtime AI be like](http://9gag.com/gag/aEqmnzo)
  - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---

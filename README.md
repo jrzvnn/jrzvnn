@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [London-based crypto derivatives trading platform Global Futures and Options, or GFO-X, raised a $30M series B led by M&amp;G Investments &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231211/p1#a231211p1)
  - [TikTok plans to invest $1.5B in a joint venture with GoTo, aiming to comply with regulations in Indonesia so that TikTok can restart its shopping service there &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231210/p10#a231210p10)
+ - [You Can Earn $200 From Bank of America When You Open a New Checking Account     - CNET](https://www.cnet.com/how-to/you-can-earn-200-from-bank-of-america-when-you-open-a-new-checking-account/#ftag=CAD590a51e)
  - [London-based SumUp, which offers payments and other financial services to ~4M SMBs, raised &amp;euro;285M at a valuation higher than its $8.5B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231210/p9#a231210p9)
- - [Senator Warren wades into Apple&#39;s Beeper fight with irrelevant antitrust rhetoric](https://appleinsider.com/articles/23/12/11/senator-warren-wades-into-apples-beeper-fight-with-irrelevant-antitrust-rhetoric?utm_medium=rss)
- - [It Wasn&#39;t Just You: Apple Took Steps to Block Access to iMessage Using Fake Credentials     - CNET](https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Senator Warren wades into Apple&#39;s Beeper fight with irrelevant antitrust rhetoric](https://appleinsider.com/articles/23/12/11/senator-warren-wades-into-apples-beeper-fight-with-irrelevant-antitrust-rhetoric?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

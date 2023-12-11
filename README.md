@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
- - 😝 [Title](http://9gag.com/gag/aPgbMPP)
- - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [How It Started... How It&#39;s Going](http://9gag.com/gag/awZWVMr)
- - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
+ - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
+ - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
 
 ---
 

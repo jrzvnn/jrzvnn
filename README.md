@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kratos voice actor &lpar;Christopher Lee&rpar; made a joke about Call of Duty. And now Call of Duty Dev team are trying to get him banned and force him to apologize...](http://9gag.com/gag/ay2jpVV)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 💣 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
- - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
- - 👉 [Equality](http://9gag.com/gag/aBdBY4z)<!-- MEMES:END -->
+ - 😝 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
+ - 😝 [Some bosses](http://9gag.com/gag/aGE40pz)
+ - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
+ - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
 
 ---
 

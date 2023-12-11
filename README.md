@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
- - 😝 [Some bosses](http://9gag.com/gag/aGE40pz)
- - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
- - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
+ - 😝 [Barber: we have the hottest hair cuts in town](http://9gag.com/gag/avQKrGZ)
+ - 😝 [My goodness ... Givin me the vapors](http://9gag.com/gag/ajVe0j0)
+ - 💣 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
+ - 👉 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)<!-- MEMES:END -->
 
 ---
 

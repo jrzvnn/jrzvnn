@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)
  - [The US awards the first CHIPS Act grant to BAE Systems, giving the defense contractor $35M to boost production of chips used in F-15 and F-35 fighter jets &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/231211/p8#a231211p8)
  - [Vietnamese media reports Nvidia CEO Jensen Huang sees Vietnam as a potential second home for the Silicon Valley company and plans to open a design center there &lpar;Quynh Nguyen/Bloomberg&rpar;](http://www.techmeme.com/231211/p7#a231211p7)
  - [The US needs an AI moonshot mentality, and in 2024 the government should galvanize support for a broad investment backed by strong public sector infrastructure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p6#a231211p6)
- - [Monday Night Football: How to Watch Titans vs. Dolphins, Packers vs. Giants Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-packers-vs-giants-tonight-without-cable/#ftag=CAD590a51e)
  - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

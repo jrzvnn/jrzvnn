@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
  - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
  - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
 
 ---

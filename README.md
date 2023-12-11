@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t tell corporate that](http://9gag.com/gag/a3ZX3M5)
- - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
- - 💣 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 😝 [One ticket please](http://9gag.com/gag/aVbye22)
  - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 💣 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
+ - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
  - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
 
 ---

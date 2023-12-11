@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
- - 😝 [I miss her bros](http://9gag.com/gag/az2pj3p)
- - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [Scandinavian be like :](http://9gag.com/gag/a4oOY1Q)<!-- MEMES:END -->
+ - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
+ - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 💣 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 😝 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)
+ - 👉 [Orginal script](http://9gag.com/gag/aPgbGyP)<!-- MEMES:END -->
 
 ---
 

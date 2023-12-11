@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a 2+ hour long talk on X with Alex Jones, Andrew Tate, Jack Posobiec, others, Elon Musk said X should avoid outright bans unless users &quot;do something illegal&quot; &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/231210/p8#a231210p8)
  - [Be skeptical about QR codes, warns the FTC](https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing)
  - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)
  - [Wedbush raises &#39;resilient&#39; Apple&#39;s price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)
- - [Best Internet Providers in Plano, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-plano-tx/#ftag=CAD590a51e)
- - [The &#39;Barbie&#39; Movie Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/the-barbie-movie-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Power Stations for December 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

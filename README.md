@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: starting December 13, Biden&#39;s team plans to meet companies, labor advocates, and experts to discuss global data flows to avoid a &quot;balkanized&quot; internet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p11#a231211p11)
  - [Folding displays for Apple is the focus of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
+ - [Sources: starting December 13, Biden&#39;s team plans to meet companies, labor advocates, and experts to discuss global data flows to avoid a &quot;balkanized&quot; internet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p11#a231211p11)
  - [US officials: China&#39;s military is ramping up its ability to disrupt key US infrastructure, including targeting a Hawaii utility and a West Coast port in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p10#a231211p10)
- - [TechInsights: Huawei&#39;s Mate 60 Pro shows &quot;significant progress&quot; in China&#39;s domestic design and engineering of radio-frequency chips, replacing US suppliers &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p9#a231211p9)
- - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Interest Rates for Dec. 11, 2023: Rates Slip     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-dec-11-2023-rates-slip/#ftag=CAD590a51e)
+ - [Refinance Rates for Dec. 11, 2023: Rate Moves Lower     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-dec-11-2023-rate-moves-lower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
- - 😝 [Dirt won&#39;t stick to my heart](http://9gag.com/gag/aQEWMV2)
- - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - 😝 [LMAO](http://9gag.com/gag/agozGgr)
  - 😝 [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
- - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
+ - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 👉 [Award winner reaction](http://9gag.com/gag/a6qYMoe)<!-- MEMES:END -->
 
 ---
 

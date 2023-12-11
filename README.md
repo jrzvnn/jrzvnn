@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ohh mine god](http://9gag.com/gag/aZDOWy3)
- - 😝 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)
- - 💣 [Any captains?](http://9gag.com/gag/aEqmwLM)
- - 😝 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 👉 [My bad bruh I ain&#39;t know that was yo mama](http://9gag.com/gag/ap9Z0KE)<!-- MEMES:END -->
+ - 😝 [This deserves equal pay](http://9gag.com/gag/aMEMQOX)
+ - 😝 [I miss her bros](http://9gag.com/gag/az2pj3p)
+ - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
+ - 👉 [Scandinavian be like :](http://9gag.com/gag/a4oOY1Q)<!-- MEMES:END -->
 
 ---
 

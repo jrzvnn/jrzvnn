@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
  - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [Being a man is already hard, but it&#39;s harder if you&#39;re a dickless short man.](http://9gag.com/gag/aWG3Oeq)
- - 💣 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
- - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
  - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---

@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress Clashes Over the Future of America’s Section 702 Spy Program](https://www.wired.com/story/section-702-house-bills-plewsa-frra/)
  - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
+ - [Congress Clashes Over the Future of America’s Section 702 Spy Program](https://www.wired.com/story/section-702-house-bills-plewsa-frra/)
  - [Apple delays AirPlay in Hotel, collaborative playlist iOS 17 features until 2024](https://appleinsider.com/articles/23/12/11/apple-delays-airplay-in-hotel-collaborative-playlist-ios-17-features-until-2024?utm_medium=rss)
  - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)
  - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)<!-- TECH:END -->

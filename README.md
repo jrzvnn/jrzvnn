@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TechInsights: Huawei&#39;s Mate 60 Pro shows &quot;significant progress&quot; in China&#39;s domestic design and engineering of radio-frequency chips, replacing US suppliers &lpar;Bloomberg&rpar;](http://www.techmeme.com/231211/p9#a231211p9)
  - [PETA names Apple as the 2023 Company of the Year](https://appleinsider.com/articles/23/12/11/peta-names-apple-as-the-2023-company-of-the-year?utm_medium=rss)
  - [The US awards the first CHIPS Act grant to BAE Systems, giving the defense contractor $35M to boost production of chips used in F-15 and F-35 fighter jets &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/231211/p8#a231211p8)
- - [Vietnamese media reports Nvidia CEO Jensen Huang sees Vietnam as a potential second home for the Silicon Valley company and plans to open a design center there &lpar;Quynh Nguyen/Bloomberg&rpar;](http://www.techmeme.com/231211/p7#a231211p7)
- - [The US needs an AI moonshot mentality, and in 2024 the government should galvanize support for a broad investment backed by strong public sector infrastructure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p6#a231211p6)<!-- TECH:END -->
+ - [Avoid a Surprise Tax Bill By Paying Your Estimated Taxes Now     - CNET](https://www.cnet.com/personal-finance/taxes/avoid-a-surprise-tax-bill-by-paying-your-estimated-taxes-now/#ftag=CAD590a51e)
+ - [Best Smart Home Gifts for 2023     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

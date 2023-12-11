@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple delays AirPlay in Hotel, collaborative playlist iOS 17 features until 2024](https://appleinsider.com/articles/23/12/11/apple-delays-airplay-in-hotel-collaborative-playlist-ios-17-features-until-2024?utm_medium=rss)
+ - [The Verge’s 2023 holiday gift guide for moms](https://www.theverge.com/23955826/holiday-gifts-mom-unique-ideas-2023-tech-gadgets)
  - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
- - [US teens survey: 93% use YouTube, 63% use TikTok, 60% use Snapchat, 59% use Instagram, and 33% use Facebook; ~33% use at least one of these &quot;almost constantly&quot; &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231211/p20#a231211p20)
- - [Reddit has ‘restored services’ after major outage](https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading)
- - [The curtain’s coming down on Showtime... sort of](https://www.theverge.com/2023/12/11/23997042/showtime-paramount-plus-cable-streaming)
- - [Apple releases iOS 17.2, with a Journal app, a new Action button option, and Qi2 support on iPhone 13 and 14, alongside macOS, tvOS, watchOS, and iPadOS updates &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231211/p19#a231211p19)<!-- TECH:END -->
+ - [Beeper Relaunches Its iMessage on Android App, but Requires Apple ID     - CNET](https://www.cnet.com/tech/mobile/beeper-relaunches-its-imessage-on-android-app-but-requires-apple-id/#ftag=CAD590a51e)
+ - [US teens survey: 93% use YouTube, 63% use TikTok, 60% use Snapchat, 59% use Instagram, and 33% use Facebook; ~33% use at least one of these &quot;almost constantly&quot; &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231211/p20#a231211p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

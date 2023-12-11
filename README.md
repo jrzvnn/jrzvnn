@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, sound about right changed my mind.](http://9gag.com/gag/aL17MGx)
  - 😝 [In case you&#39;re wondering where the meme comes from](http://9gag.com/gag/aqeorDQ)
- - 💣 [Dirt won&#39;t stick to my heart](http://9gag.com/gag/aQEWMV2)
+ - 😝 [Dirt won&#39;t stick to my heart](http://9gag.com/gag/aQEWMV2)
+ - 💣 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
  - 😝 [Give me upvotes. upvotes upvotes! yeah!!](http://9gag.com/gag/aMEMwWW)
  - 👉 [Everything is fine](http://9gag.com/gag/az2pA0Z)<!-- MEMES:END -->
 

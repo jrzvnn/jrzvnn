@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US awards the first CHIPS Act grant to BAE Systems, giving the defense contractor $35M to boost production of chips used in F-15 and F-35 fighter jets &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/231211/p8#a231211p8)
  - [Vietnamese media reports Nvidia CEO Jensen Huang sees Vietnam as a potential second home for the Silicon Valley company and plans to open a design center there &lpar;Quynh Nguyen/Bloomberg&rpar;](http://www.techmeme.com/231211/p7#a231211p7)
  - [The US needs an AI moonshot mentality, and in 2024 the government should galvanize support for a broad investment backed by strong public sector infrastructure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231211/p6#a231211p6)
- - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)
- - [A look at the race among chip giants to make 2nm chips, as Samsung and Intel see the next leap in chip manufacturing a chance to close the gap with TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/231211/p4#a231211p4)
- - [Sources detail Disinfo Lab: run by an Indian intelligence officer and behind a covert influence operation on social media discrediting Narendra Modi&#39;s critics &lpar;Washington Post&rpar;](http://www.techmeme.com/231211/p3#a231211p3)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Titans vs. Dolphins, Packers vs. Giants Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-packers-vs-giants-tonight-without-cable/#ftag=CAD590a51e)
+ - [How Street Sense, The Salvation Army, and Samaritan are using tech to help the unhoused, as people shift to cashless payment apps and don&#39;t carry spare change &lpar;Ashraf Khalil/Associated Press&rpar;](http://www.techmeme.com/231211/p5#a231211p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

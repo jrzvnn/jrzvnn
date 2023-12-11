@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
- - 😝 [B double o b s](http://9gag.com/gag/arm7RvX)
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 💣 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
  - 😝 [Orginal script](http://9gag.com/gag/aPgbGyP)
- - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
+ - 👉 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)<!-- MEMES:END -->
 
 ---
 

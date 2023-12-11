@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senator Warren wades into Apple&#39;s Beeper fight with irrelevant antitrust rhetoric](https://appleinsider.com/articles/23/12/11/senator-warren-wades-into-apples-beeper-fight-with-irrelevant-antitrust-rhetoric?utm_medium=rss)
+ - [It Wasn&#39;t Just You: Apple Took Steps to Block Access to iMessage Using Fake Credentials     - CNET](https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/#ftag=CAD590a51e)
  - [In a 2+ hour long talk on X with Alex Jones, Andrew Tate, Jack Posobiec, others, Elon Musk said X should avoid outright bans unless users &quot;do something illegal&quot; &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/231210/p8#a231210p8)
  - [Be skeptical about QR codes, warns the FTC](https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing)
- - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)
- - [Wedbush raises &#39;resilient&#39; Apple&#39;s price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)
- - [Best Portable Power Stations for December 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comparing the Gemini-powered Bard and ChatGPT for factual retrieval, summarization, creative writing, coding, and more: ChatGPT performs better, but not by much &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/231210/p7#a231210p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

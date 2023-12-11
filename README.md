@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sonos Era 100 is back down to its Black Friday best price of $199](https://www.theverge.com/2023/12/11/23994645/sonos-era-100-zelda-call-of-duty-google-pixel-tablet-deal-sale)
+ - [New Thread motion sensor, Find My wallet, &amp; hands-on with Eve Play on HomeKit Insider](https://appleinsider.com/articles/23/12/11/new-thread-motion-sensor-find-my-wallet-hands-on-with-eve-play-on-homekit-insider?utm_medium=rss)
  - [Apple offering musicians financial incentives to mix using Dolby Atmos](https://appleinsider.com/articles/23/12/11/apple-offering-musicians-financial-incentives-to-mix-using-dolby-atmos?utm_medium=rss)
+ - [The Sonos Era 100 is back down to its Black Friday best price of $199](https://www.theverge.com/2023/12/11/23994645/sonos-era-100-zelda-call-of-duty-google-pixel-tablet-deal-sale)
  - [TikTok reaches $10B in gross revenue, including $3.8B in revenue in 2023 so far, $3.3B in 2022, and $1.7B in 2021, the fifth app to do so and the first non-game &lpar;Randy Nelson/data.ai&rpar;](http://www.techmeme.com/231211/p14#a231211p14)
- - [&#39;Killers of the Flower Moon&#39; leads Apple&#39;s Golden Globe nominations](https://appleinsider.com/articles/23/12/11/killers-of-the-flower-moon-leads-apples-golden-globe-nominations?utm_medium=rss)
- - [Sources: Apple plans to give added weighting to streams of songs mixed in Dolby Atmos from 2024, possibly leading to higher royalties, to push Spatial Audio &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231211/p13#a231211p13)<!-- TECH:END -->
+ - [&#39;Killers of the Flower Moon&#39; leads Apple&#39;s Golden Globe nominations](https://appleinsider.com/articles/23/12/11/killers-of-the-flower-moon-leads-apples-golden-globe-nominations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

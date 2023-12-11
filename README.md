@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Winter Sale knocks up to 64% off phones, monitors, Bespoke appliances &amp; storage](https://appleinsider.com/articles/23/12/11/samsung-winter-sale-knocks-up-to-64-off-phones-monitors-bespoke-appliances-storage?utm_medium=rss)
+ - [Elon Musk unbans conspiracy theorist Alex Jones and hosts interview with him on X](https://www.theverge.com/2023/12/11/23996605/elon-musk-alex-jones-unban-x-twitter-conspiracy-theory)
  - [Netflix picks tennis and Rafael Nadal for its next live sports stream](https://www.theverge.com/2023/12/11/23996783/netflix-tennis-rafael-nadal-live-sports-stream)
  - [The AV industry sends an SOS to Pete Buttigieg](https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise)
- - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)
- - [Why Apple is focusing on 6G already](https://appleinsider.com/articles/23/12/11/why-apple-is-focusing-on-6g-already?utm_medium=rss)
- - [Wedbush raises &#39;resilient&#39; Apple stock price target to $250](https://appleinsider.com/articles/23/12/10/wedbush-raises-resilient-apples-price-target-to-250?utm_medium=rss)<!-- TECH:END -->
+ - [Apple might soon pay artists more for offering their music in Atmos](https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

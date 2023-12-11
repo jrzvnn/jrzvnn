@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coldest putt ever](http://9gag.com/gag/aA0zPW2)
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 💣 [One ticket please](http://9gag.com/gag/aVbye22)
- - 😝 [Everything is fine](http://9gag.com/gag/az2pA0Z)
- - 👉 [How It Started... How It&#39;s Going](http://9gag.com/gag/awZWVMr)<!-- MEMES:END -->
+ - 😝 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)
+ - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Equality](http://9gag.com/gag/aBdBY4z)
+ - 👉 [Award winner reaction](http://9gag.com/gag/a6qYMoe)<!-- MEMES:END -->
 
 ---
 

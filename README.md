@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to give added weighting to streams of songs mixed in Dolby Atmos from 2024, possibly leading to higher royalties, to push Spatial Audio &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231211/p13#a231211p13)
  - [How to clear Terminal&#39;s command history in macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos?utm_medium=rss)
  - [BlackBerry appoints John Giamatteo, an executive since 2021, as its CEO and no longer plans to spin off its IoT and cybersecurity businesses &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231211/p12#a231211p12)
  - [If you want to use your phone’s digital key to drive your car, look for this logo](https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium)
- - [Folding displays for iPhone &amp; MacBook Pro are the focuses of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
- - [iPhone buyer&#39;s guide: An iPhone to match any budget in winter 2023](https://appleinsider.com/articles/23/12/11/iphone-buyers-guide-an-iphone-to-match-any-budget-in-winter-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Best Streaming Service for 4K Content     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-4k-content/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

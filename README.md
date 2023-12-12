@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out multimodal AI to Meta Ray-Ban smart glasses as an early access test in the US, enabling the device to analyze photos taken with its camera &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/231212/p40#a231212p40)
+ - [Hot Pod Summit is back](https://www.theverge.com/2023/12/12/23998934/hot-pod-summit-2024-brooklyn-siriusxm-spotify-kcrw)
  - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
  - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)
- - [Hackers breached Coin Cloud, which went bankrupt in February 2023, and stole the data of 300K users; source: the Bitcoin ATM company didn&#39;t have a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)
- - [You won&#39;t find better discounts on Apple products than with these last-minute deals](https://appleinsider.com/articles/23/12/12/you-wont-find-better-discounts-on-apple-products-than-with-these-last-minute-deals?utm_medium=rss)
- - [The US DOE opens The Office of Critical and Emerging Technology to coordinate the use of AI and other tech to fight climate change, prevent pandemics, and more &lpar;Tim McDonnell/Semafor&rpar;](http://www.techmeme.com/231212/p37#a231212p37)<!-- TECH:END -->
+ - [Hackers breached Coin Cloud, which went bankrupt in February 2023, and stole the data of 300K users; source: the Bitcoin ATM company didn&#39;t have a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

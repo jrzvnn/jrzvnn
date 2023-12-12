@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games CEO Tim Sweeney discusses beating Google, attributing the win to a jury trial and Google deleting chats, and says &quot;Apple didn&#39;t write anything down&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231212/p28#a231212p28)
- - [WhatsApp now lets users pin a message within one-on-one and group conversations for 24 hours, seven days, or 30 days, limited to one pinned message at a time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231212/p27#a231212p27)
- - [USDS head Mina Hsiang wants Big Tech’s best minds to help fix the government](https://www.theverge.com/23997640/usds-mina-hsiang-white-house-obama-big-tech-government-decoder-interview)
- - [OpenAI&#39;s nonprofit arm reports $44,485 in revenue in 2022, even though the company is worth billions, avoiding California&#39;s $2M threshold for audited financials &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231212/p26#a231212p26)
- - [QNAP&#39;s new NASbook has both Thunderbolt 4 and network connectivity](https://appleinsider.com/articles/23/12/12/qnaps-new-nasbook-has-both-thunderbolt-4-and-network-connectivity?utm_medium=rss)<!-- TECH:END -->
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
+ - [Two become one: TP-Link’s two smart home brands finally use one app](https://www.theverge.com/2023/12/12/23998415/tp-link-smart-home-kasa-tapo-app-merge)
+ - [Apple distributes first watchOS 10.3 developer beta](https://appleinsider.com/articles/23/12/12/apple-distributes-first-watchos-103-developer-beta?utm_medium=rss)
+ - [Apple doles out first tvOS 17.3 developer beta](https://appleinsider.com/articles/23/12/12/apple-doles-out-first-tvos-173-developer-beta?utm_medium=rss)
+ - [First macOS Sonoma 14.3 developer beta issued for testing](https://appleinsider.com/articles/23/12/12/first-macos-sonoma-143-developer-beta-issued-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

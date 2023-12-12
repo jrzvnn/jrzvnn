@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Photo has holiday deals on the Apple products you need for the loved ones on your list](https://appleinsider.com/articles/23/12/12/bh-photo-has-holiday-deals-on-the-apple-products-you-need-for-the-loved-ones-on-your-list?utm_medium=rss)
  - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
  - [Grab One of These Keurig Coffee Makers and Save Up to $70     - CNET](https://www.cnet.com/deals/grab-one-of-these-keurig-coffee-makers-and-save-up-to-70/#ftag=CAD590a51e)
  - [WhatsApp’s new pinned messages make it easy to keep group chats on task](https://www.theverge.com/2023/12/12/23998425/whatsapp-pin-messages-meta-encrypted-messaging-chats)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [The new Doctor Who debut felt like a timey-wimey slap to the face](https://www.theverge.com/2023/12/12/23996697/doctor-who-the-giggle-bigeneration)<!-- TECH:END -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

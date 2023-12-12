@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 💣 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
+ - 😝 [Dude gonna be in there for a very long time](http://9gag.com/gag/aXn69rd)
+ - 😝 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
+ - 💣 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)<!-- MEMES:END -->
 
 ---
 

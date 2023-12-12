@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [How many times?](http://9gag.com/gag/aREq375)
- - 💣 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
- - 😝 [R.I.P](http://9gag.com/gag/aQEWeLd)
- - 👉 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)<!-- MEMES:END -->
+ - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 💣 [Life with a cat](http://9gag.com/gag/avQKG7E)
- - 😝 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
- - 👉 [What happend man](http://9gag.com/gag/a5X0bvq)<!-- MEMES:END -->
+ - 😝 [LMAO](http://9gag.com/gag/agozGgr)
+ - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---
 

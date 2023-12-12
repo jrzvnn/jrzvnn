@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese memory chipmaker Changxin is delaying its Shanghai IPO for a more favorable market and instead plans to raise funds at a ~$19.5B valuation &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/231211/p26#a231211p26)
  - [Epic win: Jury rules Google Play app store and billing an illegal monopoly](https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly?utm_medium=rss)
  - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)
  - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
- - [Best Roku Deals: Save Up to $33 on Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Apple&#39;s Legal Process Guidelines updated with stricter rules for notifications subpoena](https://appleinsider.com/articles/23/12/12/apples-legal-process-guidelines-updated-with-stricter-rules-for-notifications-subpoena?utm_medium=rss)<!-- TECH:END -->
+ - [Best Roku Deals: Save Up to $33 on Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

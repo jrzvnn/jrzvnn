@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US GAO review of nearly two-dozen agencies&#39; AI usage details 200+ current applications and 500+ planned uses of AI, despite little guidance or planning &lpar;CNN&rpar;](http://www.techmeme.com/231212/p23#a231212p23)
  - [Developers are wanting more than The Game Awards are delivering](https://www.theverge.com/2023/12/12/23993630/game-awards-2023-developers-react-future-class)
  - [iPhone 17 Pro will get TSMC&#39;s first 2nm chips](https://appleinsider.com/articles/23/12/12/iphone-17-pro-will-get-tsmcs-first-2nm-chips?utm_medium=rss)
  - [Daily deals Dec. 12: 15&quot; MacBook Air $1,049, Lego Harry Potter Hogwarts Express 30% off, Apple Watch 27% off, more](https://appleinsider.com/articles/23/12/12/daily-deals-dec-12-15-macbook-air-1049-lego-harry-potter-hogwarts-express-30-off-apple-watch-27-off-more?utm_medium=rss)
- - [The Bose Frames will soon be no more](https://www.theverge.com/2023/12/12/23998261/bose-frames-smart-glasses-discontinued-wearables)
- - [Snapchat+ subscribers can now make and send AI generated images based on a text prompt and add pictures of friends into Dream, its generative AI selfie feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231212/p22#a231212p22)<!-- TECH:END -->
+ - [The Bose Frames will soon be no more](https://www.theverge.com/2023/12/12/23998261/bose-frames-smart-glasses-discontinued-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

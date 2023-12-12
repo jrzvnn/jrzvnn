@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 😝 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)
- - 💣 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
+ - 😝 [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
  - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 ---

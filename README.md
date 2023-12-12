@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules to allow a class action lawsuit to proceed over Elon Musk&#39;s acquisition of Twitter, which alleges Musk lied about bots to manipulate its stock &lpar;Elura Nanos/Law &amp; Crime&rpar;](http://www.techmeme.com/231212/p29#a231212p29)
- - [Apple seeds first iOS 17.3, iPadOS 17.3 developer betas](https://appleinsider.com/articles/23/12/12/apple-seeds-first-ios-173-ipados-173-developer-betas?utm_medium=rss)
- - [Apple issues seventh visionOS developer beta to testers](https://appleinsider.com/articles/23/12/12/apple-issues-seventh-visionos-developer-beta-to-testers?utm_medium=rss)
+ - [WhatsApp’s new pinned messages make it easy to keep group chats on task](https://www.theverge.com/2023/12/12/23998425/whatsapp-pin-messages-meta-encrypted-messaging-chats)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [Two become one: TP-Link’s two smart home brands finally use one app](https://www.theverge.com/2023/12/12/23998415/tp-link-smart-home-kasa-tapo-app-merge)<!-- TECH:END -->
+ - [The new Doctor Who debut felt like a timey-wimey slap to the face](https://www.theverge.com/2023/12/12/23996697/doctor-who-the-giggle-bigeneration)
+ - [A US judge rules to allow a class action lawsuit to proceed over Elon Musk&#39;s acquisition of Twitter, which alleges Musk lied about bots to manipulate its stock &lpar;Elura Nanos/Law &amp; Crime&rpar;](http://www.techmeme.com/231212/p29#a231212p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

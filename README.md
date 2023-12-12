@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`you&#39;re gonna protect us one day, fella. Until then, let us protect you`](http://9gag.com/gag/a5X0nxg)
- - 😝 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)
- - 💣 [Netflix](http://9gag.com/gag/abvnpvB)
- - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
- - 👉 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)<!-- MEMES:END -->
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)<!-- MEMES:END -->
 
 ---
 

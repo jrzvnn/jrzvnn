@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BeReal plans to add Behind the Scenes, an iOS Live Photo-style feature, and RealGroups, for smaller groups; Pew estimates 13% of US teens age 13-17 use BeReal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231212/p14#a231212p14)
+ - [Stanford professor David Mills, who led SBF&#39;s defense as favor to his parents, says the FTX founder was &quot;the worst person I&#39;ve ever seen do a cross examination&quot; &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/231212/p13#a231212p13)
+ - [How to change the default iPhone notification sound in iOS 17.2](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-default-iphone-notification-sound-in-ios-172?utm_medium=rss)
  - [Essential AI, founded by two co-authors of Google&#39;s &quot;Attention Is All You Need&quot; paper, emerges from stealth with $56.5M and announces its Enterprise Brain tool &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231212/p12#a231212p12)
- - [Gina Raimondo says Nvidia &quot;can, will, and should&quot; sell commercial AI chips to China, but not advanced AI chips, and spoke to Jensen Huang about the US rules &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p11#a231212p11)
- - [YouTube Is Now Hiding Which Channels Get a Cut of Ad Revenue](https://www.wired.com/story/youtube-hiding-channels-ad-revenue/)
- - [Apple offers to open NFC on iPhone in EU, likely to stave off antitrust regulation](https://appleinsider.com/articles/23/12/12/apple-offers-to-open-nfc-on-iphone-in-eu-likely-to-stave-off-antitrust-regulation?utm_medium=rss)
- - [Sources: Apple offers to let rivals access its tap-and-go payments systems for mobile wallets, to settle EU antitrust charges and avoid a possible hefty fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231212/p10#a231212p10)<!-- TECH:END -->
+ - [Gina Raimondo says Nvidia &quot;can, will, and should&quot; sell commercial AI chips to China, but not advanced AI chips, and spoke to Jensen Huang about the US rules &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p11#a231212p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

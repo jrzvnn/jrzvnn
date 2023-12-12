@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is investigating an alleged ransomware attack on Insomniac](https://www.theverge.com/2023/12/12/23998342/insomniac-games-ransomware-attack-sony-rhysida)
- - [Game studio shuts down just days after launching anticipated MMO](https://www.theverge.com/games/2023/12/12/23998268/fntastic-shut-down-the-day-before)
- - [Meta’s AI for Ray-Ban smart glasses can identify objects and translate languages](https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Aqara’s presence sensor can tell when you’re sleeping](https://www.theverge.com/2023/12/12/23998677/aqara-presence-sensor-fp2-track-your-sleep)<!-- TECH:END -->
+ - [The US DOE opens The Office of Critical and Emerging Technology to coordinate the use of AI and other tech to fight climate change, prevent pandemics, and more &lpar;Tim McDonnell/Semafor&rpar;](http://www.techmeme.com/231212/p37#a231212p37)
+ - [Apple seeds first iOS 17.3, iPadOS 17.3 developer betas](https://appleinsider.com/articles/23/12/12/apple-seeds-first-ios-173-ipados-173-developer-betas?utm_medium=rss)
+ - [iOS 17.2 arrives with Journal app, and big Apple Music changes](https://appleinsider.com/articles/23/12/11/ios-172-arrives-with-journal-app-and-big-apple-music-changes?utm_medium=rss)
+ - [US Senate confirms Harry Coker, a former National Security Agency executive director, as the next National Cyber Director, 10 months after Chris Inglis resigned &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/231212/p36#a231212p36)
+ - [E3 was a concentrated dose of gaming — and I’m going miss it](https://www.theverge.com/2023/12/12/23998732/e3-eulogy-video-game-trade-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

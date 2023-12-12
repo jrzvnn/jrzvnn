@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I should&#39;ve done this years ago!`](http://9gag.com/gag/aVbyMxO)
- - 😝 [Entertainment that we deserved](http://9gag.com/gag/aKEoVO3)
- - 💣 [`you&#39;re gonna protect us one day, fella. Until then, let us protect you`](http://9gag.com/gag/a5X0nxg)
- - 😝 [Conor McGregor has indicated he will look to run for president of the Republic of Ireland](http://9gag.com/gag/awZWXVQ)
- - 👉 [Netflix](http://9gag.com/gag/abvnpvB)<!-- MEMES:END -->
+ - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 

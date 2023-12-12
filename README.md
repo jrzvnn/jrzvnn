@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude gonna be in there for a very long time](http://9gag.com/gag/aXn69rd)
+ - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
  - 😝 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
- - 💣 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)<!-- MEMES:END -->
+ - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 😝 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 ---
 

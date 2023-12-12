@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony is investigating an alleged ransomware attack on Insomniac](https://www.theverge.com/2023/12/12/23998342/insomniac-games-ransomware-attack-sony-rhysida)
+ - [Game studio shuts down just days after launching anticipated MMO](https://www.theverge.com/games/2023/12/12/23998268/fntastic-shut-down-the-day-before)
+ - [Meta’s AI for Ray-Ban smart glasses can identify objects and translate languages](https://www.theverge.com/2023/12/12/23998780/ray-ban-smart-glasses-hey-meta-multimodal-ai-features)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Aqara’s presence sensor can tell when you’re sleeping](https://www.theverge.com/2023/12/12/23998677/aqara-presence-sensor-fp2-track-your-sleep)
- - [YouTube no longer displays whether a channel is part of the YouTube Partner Program, which gives a cut of ad revenue, leaving researchers in the dark &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231212/p35#a231212p35)
- - [Microsoft debuts Phi-2, an AI language model it says can outperform Llama 2 and Mistral at 7B and 13B parameters and is small enough to run on a smartphone &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/231212/p34#a231212p34)
- - [Apple seeds beta firmware for AirPods lineup](https://appleinsider.com/articles/23/12/12/apple-seeds-beta-firmware-for-airpods-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara’s presence sensor can tell when you’re sleeping](https://www.theverge.com/2023/12/12/23998677/aqara-presence-sensor-fp2-track-your-sleep)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

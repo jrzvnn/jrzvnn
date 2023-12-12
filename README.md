@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
  - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
  - 👉 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)<!-- MEMES:END -->
 
 ---

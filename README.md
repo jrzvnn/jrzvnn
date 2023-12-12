@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
  - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - 💣 [Perky side profile](http://9gag.com/gag/aMEM8AW)
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 💣 [Hugeee](http://9gag.com/gag/aBdB1jx)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
  - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
 
 ---

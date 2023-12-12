@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stussy-branded Beats Studio Pro go on sale December 15](https://appleinsider.com/articles/23/12/12/stussy-branded-beats-studio-pro-go-on-sale-december-15?utm_medium=rss)
+ - [The AirPods Pro and Beats Studio Pro have hit near all-time low prices](https://www.theverge.com/2023/12/12/23997260/apple-airpods-pro-beats-studio-pro-philips-hue-deal-sale)
  - [Jitjatjo, a gig marketplace with 40K+ workers who businesses can book with as little as an hour&#39;s notice, raised a $30 Series B, bringing total funding to ~$65M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231212/p21#a231212p21)
  - [Memo: The New York Times has hired Quartz co-founder Zach Seward to work with the newsroom leadership in establishing principles around the use of generative AI &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/231212/p20#a231212p20)
- - [E3 is officially over forever](https://www.theverge.com/23998271/e3-gaming-convention-canceled-death)
- - [Beeper vs. iMessage is a fight about how tech works — and who’s really in charge](https://www.theverge.com/23998294/beeper-imessage-apple-app-security)
- - [TimeSplitters studio Free Radical Design shuts down as Embracer fallout continues](https://www.theverge.com/2023/12/11/23981094/timesplitters-studio-free-radical-design-shuts-down)<!-- TECH:END -->
+ - [E3 is officially over forever](https://www.theverge.com/23998271/e3-gaming-convention-canceled-death)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

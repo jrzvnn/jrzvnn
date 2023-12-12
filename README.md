@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Li Ying, a Chinese graduate who used his X account to tell the world about protests in 2022 and now lives in exile after losing his livelihood &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/231212/p15#a231212p15)
+ - [Panasonic&#39;s New Powder-Powered Batteries Will Supercharge EVs](https://www.wired.com/story/panasonic-powder-powered-silicone-ev-batteries/)
+ - [How to Use Double Tap on WatchOS &lpar;2023&rpar;](https://www.wired.com/story/how-to-double-tap-apple/)
  - [BeReal plans to add Behind the Scenes, an iOS Live Photo-style feature, and RealGroups, for smaller groups; Pew estimates 13% of US teens age 13-17 use BeReal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231212/p14#a231212p14)
- - [Stanford professor David Mills, who led SBF&#39;s defense as favor to his parents, says the FTX founder was &quot;the worst person I&#39;ve ever seen do a cross examination&quot; &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/231212/p13#a231212p13)
- - [How to change the default iPhone notification sound in iOS 17.2](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-default-iphone-notification-sound-in-ios-172?utm_medium=rss)
- - [Essential AI, founded by two co-authors of Google&#39;s &quot;Attention Is All You Need&quot; paper, emerges from stealth with $56.5M and announces its Enterprise Brain tool &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231212/p12#a231212p12)
- - [Gina Raimondo says Nvidia &quot;can, will, and should&quot; sell commercial AI chips to China, but not advanced AI chips, and spoke to Jensen Huang about the US rules &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p11#a231212p11)<!-- TECH:END -->
+ - [Stanford professor David Mills, who led SBF&#39;s defense as favor to his parents, says the FTX founder was &quot;the worst person I&#39;ve ever seen do a cross examination&quot; &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/231212/p13#a231212p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

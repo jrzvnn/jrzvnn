@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
- - 😝 [Not only for women](http://9gag.com/gag/aPgbMjg)
- - 💣 [Is he wrong?](http://9gag.com/gag/aL1792A)
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - 💣 [What happend man](http://9gag.com/gag/a5X0bvq)
+ - 😝 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
+ - 👉 [It&#39;s fkig true.](http://9gag.com/gag/aKEoVMj)<!-- MEMES:END -->
 
 ---
 

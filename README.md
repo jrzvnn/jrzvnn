@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly](http://9gag.com/gag/aGE415Z)
- - 😝 [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 💣 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
+ - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
  - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)<!-- MEMES:END -->
 
 ---
 

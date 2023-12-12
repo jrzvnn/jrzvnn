@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple offers to let rivals access its tap-and-go payments systems for mobile wallets, to settle EU antitrust charges and avoid a possible hefty fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231212/p10#a231212p10)
  - [Epic win: Jury rules Google Play app store and billing an illegal monopoly](https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly?utm_medium=rss)
  - [Filings: Berkshire Hathaway cut its HP stake by almost 50% to 51.5M shares, or 5.2% of the company, down from 97.85M in October, as Dell&#39;s stock outperforms HP &lpar;Abhishek Vishnoi/Bloomberg&rpar;](http://www.techmeme.com/231212/p9#a231212p9)
  - [Emmanuel Macron warns the EU&#39;s AI Act risks hampering tech companies compared to US, UK, and China rivals, and says France is &quot;neck and neck with the British&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231212/p8#a231212p8)
- - [Munich-based Tacto, which uses AI to help companies optimize their supply chains and cut costs by ~10%, raised &amp;euro;50M led by Sequoia and Index Ventures &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231212/p7#a231212p7)
- - [China plans to roll out RealDID, its Blockchain-based Service Network developed by China Mobile, UnionPay, and the government, to verify its 1.4B people &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231212/p6#a231212p6)<!-- TECH:END -->
+ - [Munich-based Tacto, which uses AI to help companies optimize their supply chains and cut costs by ~10%, raised &amp;euro;50M led by Sequoia and Index Ventures &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231212/p7#a231212p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

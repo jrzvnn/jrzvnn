@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s new iPhone security setting keeps thieves out of your digital accounts](https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta)
  - [Apple inks first-look deal with David and Jessica Oyelowo&#39;s Yoruba Saxton](https://appleinsider.com/articles/23/12/12/apple-inks-first-look-deal-with-david-and-jessica-oyelowos-yoruba-saxton?utm_medium=rss)
  - [Google plans to give users the option to store Maps Timeline data locally on their device and shorten Maps&#39; default auto-delete history feature to three months &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231212/p33#a231212p33)
  - [The 42 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [The UK Judicial Office issues guidance letting judges use AI tools like ChatGPT to perform tasks like writing legal rulings but warns of the tech&#39;s shortcomings &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231212/p32#a231212p32)
- - [Netflix posts its first ever What We Watched report, detailing the most-watched content from January to June 2023; The Night Agent was #1 with 812M hours viewed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231212/p31#a231212p31)<!-- TECH:END -->
+ - [The UK Judicial Office issues guidance letting judges use AI tools like ChatGPT to perform tasks like writing legal rulings but warns of the tech&#39;s shortcomings &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/231212/p32#a231212p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

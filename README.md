@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
  - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 💣 [Lol](http://9gag.com/gag/a5X0MWo)
+ - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 💣 [Perky side profile](http://9gag.com/gag/aMEM8AW)
  - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 👉 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
 
 ---
 

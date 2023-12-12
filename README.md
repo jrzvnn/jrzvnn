@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to shoot 3D video for Apple Vision Pro on iPhone 15 Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shoot-3d-video-for-apple-vision-pro-on-iphone-15-pro?utm_medium=rss)
+ - [Discord staff, moderators, and researchers say its rules and culture let a racist and antisemitic community flourish, after the April classified documents leak &lpar;Washington Post&rpar;](http://www.techmeme.com/231212/p16#a231212p16)
  - [A profile of Li Ying, a Chinese graduate who used his X account to tell the world about protests in 2022 and now lives in exile after losing his livelihood &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/231212/p15#a231212p15)
- - [Panasonic&#39;s New Powder-Powered Batteries Will Supercharge EVs](https://www.wired.com/story/panasonic-powder-powered-silicone-ev-batteries/)
- - [How to Use Double Tap on WatchOS &lpar;2023&rpar;](https://www.wired.com/story/how-to-double-tap-apple/)
- - [BeReal plans to add Behind the Scenes, an iOS Live Photo-style feature, and RealGroups, for smaller groups; Pew estimates 13% of US teens age 13-17 use BeReal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231212/p14#a231212p14)
- - [Stanford professor David Mills, who led SBF&#39;s defense as favor to his parents, says the FTX founder was &quot;the worst person I&#39;ve ever seen do a cross examination&quot; &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/231212/p13#a231212p13)<!-- TECH:END -->
+ - [iOS 17: What to Know About Apple&#39;s New Journal App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-what-to-know-about-apples-new-journal-app/#ftag=CAD590a51e)
+ - [You Can Now Buy a &#39;Peach Fuzz&#39; Motorola Razr Plus for $700     - CNET](https://www.cnet.com/tech/mobile/you-can-now-buy-a-peach-fuzz-motorola-razr-plus-for-700/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

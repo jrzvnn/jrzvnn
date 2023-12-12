@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USDS head Mina Hsiang wants Big Tech’s best minds to help fix the government](https://www.theverge.com/23997640/usds-mina-hsiang-white-house-obama-big-tech-government-decoder-interview)
+ - [OpenAI&#39;s nonprofit arm reports $44,485 in revenue in 2022, even though the company is worth billions, avoiding California&#39;s $2M threshold for audited financials &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231212/p26#a231212p26)
  - [QNAP&#39;s new NASbook has both Thunderbolt 4 and network connectivity](https://appleinsider.com/articles/23/12/12/qnaps-new-nasbook-has-both-thunderbolt-4-and-network-connectivity?utm_medium=rss)
  - [If the Cybertruck is deadly for pedestrians, it’s because all large trucks are](https://www.theverge.com/2023/12/12/23998308/tesla-cybertuck-safety-pedestrian-crash-test-nhtsa-iihs)
- - [Bose confirms the company is &quot;in the process of phasing out&quot; its Bose Frames line of audio glasses, launched in 2018 as part of Bose&#39;s AR initiative &lpar;Simon Cohen/Digital Trends&rpar;](http://www.techmeme.com/231212/p25#a231212p25)
- - [Nomad’s new 3-in-1 charging stand has MagSafe and one oddly specific design flaw](https://www.theverge.com/2023/12/12/23997680/nomad-stand-one-max-magsafe-charger-apple-price-specs)
- - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)<!-- TECH:END -->
+ - [Bose confirms the company is &quot;in the process of phasing out&quot; its Bose Frames line of audio glasses, launched in 2018 as part of Bose&#39;s AR initiative &lpar;Simon Cohen/Digital Trends&rpar;](http://www.techmeme.com/231212/p25#a231212p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

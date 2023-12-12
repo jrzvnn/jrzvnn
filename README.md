@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gina Raimondo says she plans to make ~12 chips awards within the next year, including some worth multi-billion dollars that could reshape US&#39; chips production &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231212/p2#a231212p2)
  - [Apptopia: shoppers spent ~22 minutes per day on Temu in October, up from 18 minutes in Q2 2023, compared with 10 minutes on Amazon and 11 on AliExpress in Q2 &lpar;Jinshan Hong/Bloomberg&rpar;](http://www.techmeme.com/231212/p1#a231212p1)
  - [Sources: Chinese memory chipmaker Changxin is delaying its Shanghai IPO for a more favorable market and instead plans to raise funds at a ~$19.5B valuation &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/231211/p26#a231211p26)
  - [Epic win: Jury rules Google Play app store and billing an illegal monopoly](https://appleinsider.com/articles/23/12/12/epic-win-jury-rules-google-play-app-store-and-billing-an-illegal-monopoly?utm_medium=rss)
- - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)
- - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

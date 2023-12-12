@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [QNAP&#39;s new NASbook has both Thunderbolt 4 and network connectivity](https://appleinsider.com/articles/23/12/12/qnaps-new-nasbook-has-both-thunderbolt-4-and-network-connectivity?utm_medium=rss)
+ - [If the Cybertruck is deadly for pedestrians, it’s because all large trucks are](https://www.theverge.com/2023/12/12/23998308/tesla-cybertuck-safety-pedestrian-crash-test-nhtsa-iihs)
+ - [Bose confirms the company is &quot;in the process of phasing out&quot; its Bose Frames line of audio glasses, launched in 2018 as part of Bose&#39;s AR initiative &lpar;Simon Cohen/Digital Trends&rpar;](http://www.techmeme.com/231212/p25#a231212p25)
  - [Nomad’s new 3-in-1 charging stand has MagSafe and one oddly specific design flaw](https://www.theverge.com/2023/12/12/23997680/nomad-stand-one-max-magsafe-charger-apple-price-specs)
- - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)
- - [Apple highlights the 2023 top App Store apps and games](https://appleinsider.com/articles/23/12/12/apple-highlights-the-2023-top-app-store-apps-and-games?utm_medium=rss)
- - [Sources: KKR is in advanced talks to buy payroll and HR tools maker Iris Software for ~&amp;pound;3B, in what could be 2023&#39;s biggest buyout of a European tech company &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p24#a231212p24)
- - [A US GAO review of nearly two-dozen agencies&#39; AI usage details 200+ current applications and 500+ planned uses of AI, despite little guidance or planning &lpar;CNN&rpar;](http://www.techmeme.com/231212/p23#a231212p23)<!-- TECH:END -->
+ - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

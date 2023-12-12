@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - 💣 [What happend man](http://9gag.com/gag/a5X0bvq)
- - 😝 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
- - 👉 [It&#39;s fkig true.](http://9gag.com/gag/aKEoVMj)<!-- MEMES:END -->
+ - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Going to be fun](http://9gag.com/gag/aOxLmwr)
+ - 💣 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
+ - 😝 [That escalated quickly](http://9gag.com/gag/aGE415Z)
+ - 👉 [London has fallen](http://9gag.com/gag/a8qxyNY)<!-- MEMES:END -->
 
 ---
 

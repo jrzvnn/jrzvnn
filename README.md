@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
- - 😝 [Does she give student discounts?](http://9gag.com/gag/a5X0Kmy)
- - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
  - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [Well umm?](http://9gag.com/gag/amA4zzv)<!-- MEMES:END -->
+ - 😝 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)
+ - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [Nice suit](http://9gag.com/gag/aNwEzpb)
+ - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
 
 ---
 

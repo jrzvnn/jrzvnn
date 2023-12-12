@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emmanuel Macron warns the EU&#39;s AI Act risks hampering tech companies compared to US, UK, and China rivals, and says France is &quot;neck and neck with the British&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231212/p8#a231212p8)
  - [Munich-based Tacto, which uses AI to help companies optimize their supply chains and cut costs by ~10%, raised &amp;euro;50M led by Sequoia and Index Ventures &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231212/p7#a231212p7)
  - [China plans to roll out RealDID, its Blockchain-based Service Network developed by China Mobile, UnionPay, and the government, to verify its 1.4B people &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231212/p6#a231212p6)
  - [Google&#39;s legal defeat to Epic threatens to roil an app store duopoly with Apple that generates ~$200B per year and will likely accelerate weaker app store rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p5#a231212p5)
- - [Abu Dhabi is becoming a popular destination for crypto companies, including Phoenix, Paxos, and eToro, as firms seek eager investors and friendlier regulators &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231212/p4#a231212p4)
- - [In his first public appearance since returning to OpenAI, Sam Altman says AI is &quot;going to lift the world up&quot; and companies cannot build AI &quot;safely in a vacuum&quot; &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231212/p3#a231212p3)<!-- TECH:END -->
+ - [Abu Dhabi is becoming a popular destination for crypto companies, including Phoenix, Paxos, and eToro, as firms seek eager investors and friendlier regulators &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231212/p4#a231212p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

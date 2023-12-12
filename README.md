@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)
+ - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
  - [Netflix is back, after an outage knocked many people offline for a few hours](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
- - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [Google’s App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games](https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/)
- - [Holly Jolly Pixel Watch Deals: Save on the Pixel Watch and Pixel Watch 2     - CNET](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Eugene, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tabletop Heater &amp; Fireplace     - CNET](https://www.cnet.com/news/tabletop-heater-fireplace-dpnl/#ftag=CAD590a51e)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2023: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

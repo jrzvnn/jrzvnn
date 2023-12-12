@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 😝 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
+ - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
+ - 😝 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 💣 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 ---
 

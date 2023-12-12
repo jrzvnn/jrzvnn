@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO](http://9gag.com/gag/agozGgr)
  - 😝 [I&#39;m uncomfortable](http://9gag.com/gag/aPgbWWn)
- - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 😝 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
  - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
 
 ---

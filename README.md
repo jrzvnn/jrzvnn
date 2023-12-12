@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
  - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 💣 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 👉 [Tom cruise](http://9gag.com/gag/aVbyqP8)<!-- MEMES:END -->
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 👉 [Spot the difference](http://9gag.com/gag/aGE41Ew)<!-- MEMES:END -->
 
 ---
 

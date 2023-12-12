@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)
+ - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
+ - [Best Roku Deals: Save Up to $33 on Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
  - [Apple&#39;s Legal Process Guidelines updated with stricter rules for notifications subpoena](https://appleinsider.com/articles/23/12/12/apples-legal-process-guidelines-updated-with-stricter-rules-for-notifications-subpoena?utm_medium=rss)
- - [Grooved Faux Fur Jacket     - CNET](https://www.cnet.com/culture/fashion/dennis-basso-faux-fur-coat-dpnl/#ftag=CAD590a51e)
- - [Stoneware Oval Baker w/ Platter Lid     - CNET](https://www.cnet.com/news/stoneware-oval-baker-w-platter-lid-dpnl/#ftag=CAD590a51e)
- - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)<!-- TECH:END -->
+ - [Grooved Faux Fur Jacket     - CNET](https://www.cnet.com/culture/fashion/dennis-basso-faux-fur-coat-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

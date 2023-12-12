@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ESA shuts down the Electronic Entertainment Expo, or E3, after over 20 years, following a collapse caused by new competitors, partner withdrawals, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/231212/p17#a231212p17)
  - [Mutalk Leakage Voice Suppression Microphone Review: Niche and Cringeworthy](https://www.wired.com/review/review-shiftall-mutalk-leakage-voice-suppression-microphone/)
  - [The Best Eero Wi-Fi Mesh Routers &lpar;2023&rpar;: Eero 6, 6+, Pro 6, Max 7, and More Tips](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
  - [Goodbye to all that harassment](https://www.theverge.com/c/features/23997516/harassment-twitter-sarah-jeong-canceled-social-change)
- - [Extremely softcore](https://www.theverge.com/c/features/23997510/twitter-jack-dorsey-workplace-extremely-softcore)
- - [Figma’s colorful macro pad aims to make life easier for designers](https://www.theverge.com/2023/12/12/23996534/figma-creator-micro-macro-pad-price-release-dates-specs-features)<!-- TECH:END -->
+ - [Extremely softcore](https://www.theverge.com/c/features/23997510/twitter-jack-dorsey-workplace-extremely-softcore)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

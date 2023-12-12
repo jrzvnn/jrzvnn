@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
  - [Get Apple&#39;s high-end M2 Pro Mac mini with 32GB RAM, 1TB SSD for $1,699](https://appleinsider.com/articles/23/12/12/m2-pro-mac-mini-now-200-off-at-bh?utm_medium=rss)
  - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
  - [Netflix is back, after an outage knocked many people offline for a few hours](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
- - [Tabletop Heater &amp; Fireplace     - CNET](https://www.cnet.com/news/tabletop-heater-fireplace-dpnl/#ftag=CAD590a51e)
- - [Best TV for PS5 and Xbox Series X, Series S for 2023: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tabletop Heater &amp; Fireplace     - CNET](https://www.cnet.com/news/tabletop-heater-fireplace-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

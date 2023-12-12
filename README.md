@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
- - 😝 [What a bro.](http://9gag.com/gag/aEqmxp9)
+ - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 😝 [Perky side profile](http://9gag.com/gag/aMEM8AW)
  - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [How many times?](http://9gag.com/gag/aREq375)
- - 👉 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)<!-- MEMES:END -->
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
 
 ---
 

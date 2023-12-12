@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp now lets users pin a message within one-on-one and group conversations for 24 hours, seven days, or 30 days, limited to one pinned message at a time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231212/p27#a231212p27)
  - [USDS head Mina Hsiang wants Big Tech’s best minds to help fix the government](https://www.theverge.com/23997640/usds-mina-hsiang-white-house-obama-big-tech-government-decoder-interview)
  - [OpenAI&#39;s nonprofit arm reports $44,485 in revenue in 2022, even though the company is worth billions, avoiding California&#39;s $2M threshold for audited financials &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231212/p26#a231212p26)
  - [QNAP&#39;s new NASbook has both Thunderbolt 4 and network connectivity](https://appleinsider.com/articles/23/12/12/qnaps-new-nasbook-has-both-thunderbolt-4-and-network-connectivity?utm_medium=rss)
- - [If the Cybertruck is deadly for pedestrians, it’s because all large trucks are](https://www.theverge.com/2023/12/12/23998308/tesla-cybertuck-safety-pedestrian-crash-test-nhtsa-iihs)
- - [Bose confirms the company is &quot;in the process of phasing out&quot; its Bose Frames line of audio glasses, launched in 2018 as part of Bose&#39;s AR initiative &lpar;Simon Cohen/Digital Trends&rpar;](http://www.techmeme.com/231212/p25#a231212p25)<!-- TECH:END -->
+ - [If the Cybertruck is deadly for pedestrians, it’s because all large trucks are](https://www.theverge.com/2023/12/12/23998308/tesla-cybertuck-safety-pedestrian-crash-test-nhtsa-iihs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 💣 [Perky side profile](http://9gag.com/gag/aMEM8AW)
+ - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 👉 [Meanwhile in Poland, a far-right MP grabbed a fire extinguisher from the wall and extinguished the Chanukah candles in the Polish Parliament today.](http://9gag.com/gag/aQEW3Br)<!-- MEMES:END -->
 
 ---
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 😝 [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
+ - 😝 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 💣 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
 
 ---
 

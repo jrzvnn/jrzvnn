@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: FTX asks the US IRS to substantiate its claim worth $24B against FTX in unpaid taxes; the IRS lowered the amount from $44B in April to $24B in November &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231211/p22#a231211p22)
- - [Netflix’s Blue Eye Samurai is coming back for a second season](https://www.theverge.com/2023/12/11/23997629/blue-eye-samurai-netflix-season-2-renewal)
- - [AppleInsider t-shirt giveaway: enter to win our new icon tee or buy one now](https://appleinsider.com/articles/23/12/11/appleinsider-t-shirt-giveaway-enter-to-win-our-new-icon-tee-or-buy-one-now?utm_medium=rss)
- - [Ford will cut weekly production of F-150 Lightning in response to slowing demand](https://www.theverge.com/2023/12/11/23997632/ford-f150-lightning-production-reduce-ev-demand)
- - [Google Fiber’s 20-gig service costs $250 per month](https://www.theverge.com/2023/12/11/23997336/google-fiber-20-gbps-speed-early-access-2024)<!-- TECH:END -->
+ - [Netflix is back, after an outage knocked many people offline for a few hours](https://www.theverge.com/2023/12/11/23997733/netflix-is-down-outage-checking-internet-connection-error)
+ - [Epic v. Google: everything we’re learning live in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+ - [Google’s App Store Ruled an Illegal Monopoly, as a Jury Sides With Epic Games](https://www.wired.com/story/googles-app-store-monopoly-ruled-illegal-jury-epic/)
+ - [Holly Jolly Pixel Watch Deals: Save on the Pixel Watch and Pixel Watch 2     - CNET](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Eugene, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

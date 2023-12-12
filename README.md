@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to shoot 3D video for Apple Vision Pro on iPhone 15 Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shoot-3d-video-for-apple-vision-pro-on-iphone-15-pro?utm_medium=rss)
- - [Discord staff, moderators, and researchers say its rules and culture let a racist and antisemitic community flourish, after the April classified documents leak &lpar;Washington Post&rpar;](http://www.techmeme.com/231212/p16#a231212p16)
- - [A profile of Li Ying, a Chinese graduate who used his X account to tell the world about protests in 2022 and now lives in exile after losing his livelihood &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/231212/p15#a231212p15)
- - [iOS 17: What to Know About Apple&#39;s New Journal App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-what-to-know-about-apples-new-journal-app/#ftag=CAD590a51e)
- - [You Can Now Buy a &#39;Peach Fuzz&#39; Motorola Razr Plus for $700     - CNET](https://www.cnet.com/tech/mobile/you-can-now-buy-a-peach-fuzz-motorola-razr-plus-for-700/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Eero Wi-Fi Mesh Routers &lpar;2023&rpar;: Eero 6, 6+, Pro 6, Max 7, and More Tips](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
+ - [Goodbye to all that harassment](https://www.theverge.com/c/features/23997516/harassment-twitter-sarah-jeong-canceled-social-change)
+ - [Extremely softcore](https://www.theverge.com/c/features/23997510/twitter-jack-dorsey-workplace-extremely-softcore)
+ - [Figma’s colorful macro pad aims to make life easier for designers](https://www.theverge.com/2023/12/12/23996534/figma-creator-micro-macro-pad-price-release-dates-specs-features)
+ - [How Twitter broke the news](https://www.theverge.com/c/features/23993135/twitter-breaking-news-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 👉 [Spot the difference](http://9gag.com/gag/aGE41Ew)<!-- MEMES:END -->
+ - 😝 [Netflix](http://9gag.com/gag/abvnpvB)
+ - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
+ - 💣 [How many times?](http://9gag.com/gag/aREq375)
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)<!-- MEMES:END -->
 
 ---
 

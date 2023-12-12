@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US GAO review of nearly two-dozen agencies&#39; AI usage details 200+ current applications and 500+ planned uses of AI, despite little guidance or planning &lpar;CNN&rpar;](http://www.techmeme.com/231212/p23#a231212p23)
- - [Developers are wanting more than The Game Awards are delivering](https://www.theverge.com/2023/12/12/23993630/game-awards-2023-developers-react-future-class)
- - [iPhone 17 Pro will get TSMC&#39;s first 2nm chips](https://appleinsider.com/articles/23/12/12/iphone-17-pro-will-get-tsmcs-first-2nm-chips?utm_medium=rss)
- - [Daily deals Dec. 12: 15&quot; MacBook Air $1,049, Lego Harry Potter Hogwarts Express 30% off, Apple Watch 27% off, more](https://appleinsider.com/articles/23/12/12/daily-deals-dec-12-15-macbook-air-1049-lego-harry-potter-hogwarts-express-30-off-apple-watch-27-off-more?utm_medium=rss)
- - [The Bose Frames will soon be no more](https://www.theverge.com/2023/12/12/23998261/bose-frames-smart-glasses-discontinued-wearables)<!-- TECH:END -->
+ - [Nomad’s new 3-in-1 charging stand has MagSafe and one oddly specific design flaw](https://www.theverge.com/2023/12/12/23997680/nomad-stand-one-max-magsafe-charger-apple-price-specs)
+ - [Google Maps gives you more control from the blue dot](https://www.theverge.com/2023/12/12/23997581/google-maps-timeline-location-history-activity-blue-dot)
+ - [Apple highlights the 2023 top App Store apps and games](https://appleinsider.com/articles/23/12/12/apple-highlights-the-2023-top-app-store-apps-and-games?utm_medium=rss)
+ - [Sources: KKR is in advanced talks to buy payroll and HR tools maker Iris Software for ~&amp;pound;3B, in what could be 2023&#39;s biggest buyout of a European tech company &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p24#a231212p24)
+ - [A US GAO review of nearly two-dozen agencies&#39; AI usage details 200+ current applications and 500+ planned uses of AI, despite little guidance or planning &lpar;CNN&rpar;](http://www.techmeme.com/231212/p23#a231212p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

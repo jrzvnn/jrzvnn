@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Geekbench ML 0.6 lets you directly compare Mac against iPhone](https://appleinsider.com/articles/23/12/12/geekbench-ml-06-lets-you-directly-compare-mac-against-iphone?utm_medium=rss)
  - [Tim Sweeney on Epic’s victory royale over Google](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
  - [Apple rolls out Stolen Device Protection in an iOS beta that, if enabled, restricts actions like Apple ID password resets while not in a &quot;familiar location&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231212/p30#a231212p30)
  - [B&amp;H Photo has holiday deals on the Apple products you need for the loved ones on your list](https://appleinsider.com/articles/23/12/12/bh-photo-has-holiday-deals-on-the-apple-products-you-need-for-the-loved-ones-on-your-list?utm_medium=rss)
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [Grab One of These Keurig Coffee Makers and Save Up to $70     - CNET](https://www.cnet.com/deals/grab-one-of-these-keurig-coffee-makers-and-save-up-to-70/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

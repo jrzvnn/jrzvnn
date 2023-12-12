@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 💣 [Hugeee](http://9gag.com/gag/aBdB1jx)
  - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Title](http://9gag.com/gag/aQEWeGd)<!-- MEMES:END -->
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 💣 [Meanwhile in Poland, a far-right MP grabbed a fire extinguisher from the wall and extinguished the Chanukah candles in the Polish Parliament today.](http://9gag.com/gag/aQEW3Br)
+ - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - 👉 [Tom cruise](http://9gag.com/gag/aVbyqP8)<!-- MEMES:END -->
 
 ---
 

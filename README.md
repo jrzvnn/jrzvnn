@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
- - [Sources: X brought in just over $600M in ad revenue in each of the first three quarters of 2023, down from $1B+ per quarter in 2022 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)
- - [Coin Cloud, a Bitcoin ATM company that filed for bankruptcy in February 2023, was allegedly hacked, and a source says the company lacked a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)
+ - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)
+ - [Hackers breached Coin Cloud, which went bankrupt in February 2023, and stole the data of 300K users; source: the Bitcoin ATM company didn&#39;t have a security team &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231212/p38#a231212p38)
  - [You won&#39;t find better discounts on Apple products than with these last-minute deals](https://appleinsider.com/articles/23/12/12/you-wont-find-better-discounts-on-apple-products-than-with-these-last-minute-deals?utm_medium=rss)
  - [The US DOE opens The Office of Critical and Emerging Technology to coordinate the use of AI and other tech to fight climate change, prevent pandemics, and more &lpar;Tim McDonnell/Semafor&rpar;](http://www.techmeme.com/231212/p37#a231212p37)<!-- TECH:END -->
 

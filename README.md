@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked](http://9gag.com/gag/a4oOjRZ)
- - 😝 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)
- - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [Nice suit](http://9gag.com/gag/aNwEzpb)
- - 👉 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)<!-- MEMES:END -->
+ - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
+ - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
+ - 💣 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
+ - 😝 [What happend man](http://9gag.com/gag/a5X0bvq)
+ - 👉 [It&#39;s fkig true.](http://9gag.com/gag/aKEoVMj)<!-- MEMES:END -->
 
 ---
 

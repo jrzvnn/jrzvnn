@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wakanda tech is far beyond rest of the world](http://9gag.com/gag/aZDOMV3)
  - 😝 [LMAO](http://9gag.com/gag/agozGgr)
- - 💣 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 👉 [Chabal, when in England a few years before this, asked if he could answer in question in French because his English wasn&#39;t that good. Reporter said no, we are in England. We speak English.](http://9gag.com/gag/aZDOpm9)<!-- MEMES:END -->
+ - 😝 [Player got kicked from a professional esports team because his mom was in the final stages of her cancer.](http://9gag.com/gag/a7qRZpq)
+ - 💣 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
+ - 👉 [If you know you know](http://9gag.com/gag/aA0zdBR)<!-- MEMES:END -->
 
 ---
 

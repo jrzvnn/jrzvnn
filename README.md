@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Death of E3 Signals the End of Gaming&#39;s Most Extravagant Era](https://www.wired.com/story/e3-death-end-of-era-streaming/)
- - [Meta rolls out multimodal AI to Meta Ray-Ban smart glasses as an early access test in the US, enabling the device to analyze photos taken with its camera &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/231212/p40#a231212p40)
+ - [Marvel’s Black Panther Disney Plus series will dig into Wakandan history](https://www.theverge.com/2023/12/12/23999034/marvel-black-panther-eyes-of-wakanda-disney-plus-series)
+ - [The Death of E3 Signals the End of Gaming’s Most Extravagant Era](https://www.wired.com/story/e3-death-end-of-era-streaming/)
+ - [Meta adds multimodal AI to its Meta Ray-Ban smart glasses as an early access beta in the US, letting Meta AI answer voice queries by taking and analyzing photos &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/231212/p40#a231212p40)
  - [Hot Pod Summit is back](https://www.theverge.com/2023/12/12/23998934/hot-pod-summit-2024-brooklyn-siriusxm-spotify-kcrw)
- - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)
- - [Sources: X generated just over $600M in ad revenue in each of 2023&#39;s first three quarters, down from $1B+ per quarter in 2022 and on track for ~$2.5B in 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/231212/p39#a231212p39)<!-- TECH:END -->
+ - [Tierra Whack Doesn’t Want Her Creativity Boxed In](https://www.wired.com/story/livewired-tierra-whack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

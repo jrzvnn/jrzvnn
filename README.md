@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple redesigns Apple TV in iOS 17.2 and tvOS 17.2 with a sidebar that unifies content; iTunes now redirects users searching for shows and movies to Apple TV &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231211/p25#a231211p25)
  - [Apple&#39;s Legal Process Guidelines updated with stricter rules for notifications subpoena](https://appleinsider.com/articles/23/12/12/apples-legal-process-guidelines-updated-with-stricter-rules-for-notifications-subpoena?utm_medium=rss)
  - [Grooved Faux Fur Jacket     - CNET](https://www.cnet.com/culture/fashion/dennis-basso-faux-fur-coat-dpnl/#ftag=CAD590a51e)
  - [Stoneware Oval Baker w/ Platter Lid     - CNET](https://www.cnet.com/news/stoneware-oval-baker-w-platter-lid-dpnl/#ftag=CAD590a51e)
- - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)
- - [IT Cosmetics Nude Glow Set     - CNET](https://www.cnet.com/health/personal-care/it-cosmetics-5-piece-face-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Apple TV app now looks more like an all-purpose streaming hub](https://www.theverge.com/2023/12/11/23997789/apple-tv-app-update-sidebar-tvos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

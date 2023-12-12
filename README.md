@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can we pet him? lol](http://9gag.com/gag/avQKrKd)
- - 😝 [Easy Garlic bread](http://9gag.com/gag/aXn6w7D)
- - 💣 [Reminder, Epstein didn&#39;t kill himself](http://9gag.com/gag/a2K6rPY)
- - 😝 [Life with a cat](http://9gag.com/gag/avQKG7E)
- - 👉 [What happend man](http://9gag.com/gag/a5X0bvq)<!-- MEMES:END -->
+ - 😝 [`I should&#39;ve done this years ago!`](http://9gag.com/gag/aVbyMxO)
+ - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
+ - 💣 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)
+ - 😝 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 👉 [Spot the difference](http://9gag.com/gag/aGE41Ew)<!-- MEMES:END -->
 
 ---
 

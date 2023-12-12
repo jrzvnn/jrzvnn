@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
+ - [Grab One of These Keurig Coffee Makers and Save Up to $70     - CNET](https://www.cnet.com/deals/grab-one-of-these-keurig-coffee-makers-and-save-up-to-70/#ftag=CAD590a51e)
  - [WhatsApp’s new pinned messages make it easy to keep group chats on task](https://www.theverge.com/2023/12/12/23998425/whatsapp-pin-messages-meta-encrypted-messaging-chats)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [The new Doctor Who debut felt like a timey-wimey slap to the face](https://www.theverge.com/2023/12/12/23996697/doctor-who-the-giggle-bigeneration)
- - [A US judge rules to allow a class action lawsuit to proceed over Elon Musk&#39;s acquisition of Twitter, which alleges Musk lied about bots to manipulate its stock &lpar;Elura Nanos/Law &amp; Crime&rpar;](http://www.techmeme.com/231212/p29#a231212p29)<!-- TECH:END -->
+ - [The new Doctor Who debut felt like a timey-wimey slap to the face](https://www.theverge.com/2023/12/12/23996697/doctor-who-the-giggle-bigeneration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

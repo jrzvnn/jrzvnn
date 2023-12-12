@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TimeSplitters studio Free Radical Design shuts down as Embracer fallout continues](https://www.theverge.com/2023/12/11/23981094/timesplitters-studio-free-radical-design-shuts-down)
  - [Hit the track with &#39;Grid Legends&#39;, now available for Apple Silicon Macs](https://appleinsider.com/articles/23/12/12/hit-the-track-with-grid-legends-now-available-for-apple-silicon-macs?utm_medium=rss)
  - [Ukraine&#39;s largest telco Kyivstar says it&#39;s mitigating a cyberattack that led to a &quot;large-scale technical failure&quot; denying millions internet and cell service &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/231212/p19#a231212p19)
  - [Seychelles-based crypto exchange KuCoin agrees to pay $22M and block New York users to settle a lawsuit brought by New York AG Letitia James in March 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231212/p18#a231212p18)
- - [The 30 Best Family Board Games &lpar;2023&rpar;: Cascadia, Labyrinth, and More](https://www.wired.com/gallery/best-family-board-games/)
- - [GM’s hydrogen ‘power cubes’ will be used to power massive mining trucks](https://www.theverge.com/2023/12/12/23997306/gm-hydrotec-komatsu-mining-truck-hydrogen-power-cube)<!-- TECH:END -->
+ - [The 30 Best Family Board Games &lpar;2023&rpar;: Cascadia, Labyrinth, and More](https://www.wired.com/gallery/best-family-board-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

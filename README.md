@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/aA0zdBR)
- - 😝 [Anyone can relate?](http://9gag.com/gag/aBdB1EZ)
- - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 👉 [Beautiful nature](http://9gag.com/gag/amA4Y8j)<!-- MEMES:END -->
+ - 😝 [`you&#39;re gonna protect us one day, fella. Until then, let us protect you`](http://9gag.com/gag/a5X0nxg)
+ - 😝 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)
+ - 💣 [Netflix](http://9gag.com/gag/abvnpvB)
+ - 😝 [What a waste of money](http://9gag.com/gag/amA4Ybj)
+ - 👉 [Sharia taking over the non-muslim world.](http://9gag.com/gag/arm75rX)<!-- MEMES:END -->
 
 ---
 

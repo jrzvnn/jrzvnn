@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands Self Service Repair to the iPhone 15 lineup and M2 Macs, brings the program to 24 new countries, and releases an Apple Diagnostics tool in the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231213/p18#a231213p18)
- - [Apple beefs up Self Service Repair with new diagnostic, extended to iPhone 15 &amp; M2 Mac](https://appleinsider.com/articles/23/12/13/apple-beefs-up-self-service-repair-with-new-diagnostic-extended-to-iphone-15-m2-mac?utm_medium=rss)
- - [Google&#39;s Epic loss, where a jury found Google guilty on all 11 antitrust claims, may portend its legal fate in two, more significant US antitrust cases in 2024 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231213/p17#a231213p17)
- - [US Regulators Want Cars to Include Drunk-Driver Detection Technology](https://www.wired.com/story/us-regulators-cars-drunk-driver-detection/)
- - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)<!-- TECH:END -->
+ - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)
+ - [Salesforce and Apple deepen partnership with Business Messaging and AR integrations](https://appleinsider.com/articles/23/12/13/salesforce-and-apple-deepen-partnership-with-business-messaging-and-ar-integrations?utm_medium=rss)
+ - [Who Knew That Rothy’s Made Men’s Shoes? They’re Great!](https://www.wired.com/story/rothys-mens-shoes-rave/)
+ - [Denon PerL Earbuds Review: Cool Idea, Imperfect Execution](https://www.wired.com/review/denon-perl-earbuds/)
+ - [A Pew survey of US adults finds ~38% support a federal TikTok ban, down from 50% in March 2023; Republicans&#39; support of a ban dropped from 60% to 50% &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231213/p19#a231213p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

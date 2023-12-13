@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla will update nearly every car sold in the US to address Autopilot ‘defect’](https://www.theverge.com/2023/12/13/23999683/tesla-autopilot-defect-software-update-recall-nhtsa)
- - [A profile of Microsoft&#39;s head of Japan partnerships Mena Kato, as she tries to make inroads in a Sony and Nintendo dominated market and reverse years of failure &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p20#a231213p20)
- - [Apple makes remote diagnostic tool available as it expands self-service repair program](https://www.theverge.com/2023/12/13/23999669/apple-self-service-repair-diagnostics-m2-macbook-iphone-15)
- - [Tesla Is Recalling Nearly All Vehicles Sold in US to Fix an Autopilot Fault](https://www.wired.com/story/tesla-us-recall-autopilot-fault/)
- - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)<!-- TECH:END -->
+ - [Axel Springer signs a multiyear licensing deal with OpenAI, which will pay to use content from Politico, Business Insider, and others to train its AI models &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p22#a231213p22)
+ - [America is on the brink in the first trailer for Alex Garland’s Civil War](https://www.theverge.com/23999689/civil-war-trailer-alex-garland-a24)
+ - [Sources: ByteDance cancels an upcoming VR headset from its Pico subsidiary, the Pico 5, after Pico 4 sales fell far short of expectations and the VR market sags &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231213/p21#a231213p21)
+ - [This smart mixer did not make me a better baker](https://www.theverge.com/23998244/ge-profile-smart-mixer-review)
+ - [Pixelmator Pro 3.5 update adds HDR image and video editing support](https://appleinsider.com/articles/23/12/13/pixelmator-pro-35-update-adds-hdr-image-and-video-editing-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

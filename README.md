@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name a woman](http://9gag.com/gag/aNwEYPv)
- - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
- - 💣 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 💣 [Perky side profile](http://9gag.com/gag/aMEM8AW)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
+ - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
 
 ---
 

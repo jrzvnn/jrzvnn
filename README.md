@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Fujitsu plans to sell its chip packaging unit Shinko Electric for ~$4.8B to a group led by Japan Investment Corp., in an effort to offload non-core operations &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231212/p49#a231212p49)
  - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
- - [Meta is working on extending its fact-checking program on Threads early next year, as third-party fact-checkers cannot currently rate Threads content on its own &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231212/p48#a231212p48)
+ - [Meta is working to extend its fact-checking to Threads early next year; its fact-checking now only rates Threads content matching posts on Facebook or Instagram &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231212/p48#a231212p48)
  - [True Anomaly, a startup designing hardware and software for military and intelligence space reconnaissance systems, raised a $100M Series B led by Riot Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p47#a231212p47)
  - [Microsoft warns that threat actors are misusing OAuth apps to automate phishing attacks, push spam, and deploy VMs for crypto mining &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231212/p46#a231212p46)<!-- TECH:END -->
 

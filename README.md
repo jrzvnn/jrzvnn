@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
  - [Threads will let you push fact-checked posts further down your feed](https://www.theverge.com/2023/12/13/24000356/threads-reduce-fact-checked-posts-moderation-meta-facebook-instagram)
  - [Now Microsoft PowerPoint for the web can add videos with closed captions](https://www.theverge.com/2023/12/13/24000229/microsoft-powerpoint-for-the-web-accessibility-tech-closed-captions)
  - [LGES 10H and 16H Prime Battery Review: Good Batteries at a Great Price     - CNET](https://www.cnet.com/home/energy-and-utilities/lges-battery-review/#ftag=CAD590a51e)
- - [Sonnen Battery Review: Solar Batteries That Aren&#39;t All About Backup Power     - CNET](https://www.cnet.com/home/energy-and-utilities/sonnen-battery-review/#ftag=CAD590a51e)
- - [Oral-B iO Series 3     - CNET](https://www.cnet.com/health/personal-care/oral-b-io-series-3-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonnen Battery Review: Solar Batteries That Aren&#39;t All About Backup Power     - CNET](https://www.cnet.com/home/energy-and-utilities/sonnen-battery-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

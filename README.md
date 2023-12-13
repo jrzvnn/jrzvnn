@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Different quality teapots.](http://9gag.com/gag/aYVXgpq)
- - 😝 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
- - 💣 [How much will you buy this for?](http://9gag.com/gag/aeQ8MoW)
- - 😝 [Imagine paying that amount of money to live in an Islamic city.](http://9gag.com/gag/aGE4jm0)
- - 👉 [What a bro.](http://9gag.com/gag/aEqmxp9)<!-- MEMES:END -->
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 ---
 

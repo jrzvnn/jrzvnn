@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 😝 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
- - 💣 [Pink](http://9gag.com/gag/aZDOL69)
+ - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 😝 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
+ - 💣 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)<!-- MEMES:END -->
+ - 👉 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)<!-- MEMES:END -->
 
 ---
 

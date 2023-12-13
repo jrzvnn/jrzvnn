@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 😝 [The process of making a potion](http://9gag.com/gag/aREq13q)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Knocked out and was found by a neighbor unconcious. Woke up after 2 days. Turns out i have a brain tumor. Thank you 9gag. Keep on being horny racists.](http://9gag.com/gag/aA0z3mZ)
+ - 💣 [The process of making a potion](http://9gag.com/gag/aREq13q)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)<!-- MEMES:END -->
+ - 👉 [Just some tips](http://9gag.com/gag/aA0zgdp)<!-- MEMES:END -->
 
 ---
 

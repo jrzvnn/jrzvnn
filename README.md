@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The world came tantalizingly close to a deal to phase out fossil fuels](https://www.theverge.com/2023/12/13/23993937/dubai-un-climate-change-conference-cop28-united-nations-fossil-fuels)
  - [Ampere: Disney+ and Hulu combined would have more popular titles in the US than any other service and its catalog size would rank second only to Prime Video &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/231213/p4#a231213p4)
  - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)
  - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
- - [Holiday Deals Under $25: Save Big on Stocking Stuffers and More     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)
- - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [Holiday Deals Under $25: Save Big on Stocking Stuffers and More     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

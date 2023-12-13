@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will make it harder for governments to get your push notifications](https://www.theverge.com/2023/12/13/23990706/google-apple-court-order-required-push-notification-ron-wyden-letter-surveillance-e2e-encryption)
  - [Xbox Cloud Gaming is now available in beta on Meta Quest 2, Quest 3, and Quest Pro, for Xbox Game Pass Ultimate subscribers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231213/p36#a231213p36)
  - [X outage breaks all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
  - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset)
- - [Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
- - [Mark Zuckerberg says Threads is testing making posts from Threads accounts available on &quot;Mastodon and other services that use the ActivityPub protocol&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231213/p35#a231213p35)<!-- TECH:END -->
+ - [Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

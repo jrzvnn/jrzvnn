@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 😝 [Beautiful nature](http://9gag.com/gag/amA4Y8j)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 😝 [Title](http://9gag.com/gag/aQEWeGd)
+ - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)<!-- MEMES:END -->
+ - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
 
 ---
 

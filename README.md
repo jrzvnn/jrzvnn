@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 😝 [London has fallen](http://9gag.com/gag/a8qxyNY)
- - 💣 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
+ - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
+ - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
+ - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset)
+ - [Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)
  - [Mark Zuckerberg says Threads is testing making posts from Threads accounts available on &quot;Mastodon and other services that use the ActivityPub protocol&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231213/p35#a231213p35)
  - [Threads is officially starting to test ActivityPub integration](https://www.theverge.com/2023/12/13/24000120/threads-meta-activitypub-test-mastodon)
- - [Starting a test where posts from Threads accounts will be available on Mastodon and other services that use the ActivityPub protocol.  Making Threads interoperable will give people more choice over how they interact and it will help content reach more people.  I&#39;m pretty optimistic about this. &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/231213/p34#a231213p34)
- - [Abu Dhabi-based Andalusia Labs, which offers risk management services for digital assets, raised a $48M Series A led by Lightspeed at a valuation &quot;north of&quot; $1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231213/p33#a231213p33)
- - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)<!-- TECH:END -->
+ - [Starting a test where posts from Threads accounts will be available on Mastodon and other services that use the ActivityPub protocol.  Making Threads interoperable will give people more choice over how they interact and it will help content reach more people.  I&#39;m pretty optimistic about this. &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/231213/p34#a231213p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

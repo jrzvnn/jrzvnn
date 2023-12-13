@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 💣 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
+ - 💣 [Pink](http://9gag.com/gag/aZDOL69)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
  - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase rolls out spot crypto trading on its international exchange as part of a global expansion, letting investors trade bitcoin and ether against USDC &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p28#a231213p28)
+ - [Range Rover opens a waiting list for its upcoming EV](https://www.theverge.com/2023/12/13/23999724/range-rover-ev-prototype-teaser-waiting-list)
  - [Google announces MedLM, a family of AI models fine-tuned for the medical industries and based on Med-PaLM 2, available to Google Cloud customers in the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231213/p27#a231213p27)
  - [Google releases Imagen 2, announced in preview in May 2023 and built with Google DeepMind tech, offering &quot;significantly&quot; improved image quality and new features &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231213/p26#a231213p26)
- - [Google announces Gemini Pro for enterprises, letting developers build apps, available for free at launch with limits, and adds Pro to AI Studio and Vertex AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231213/p25#a231213p25)
- - [Instagram is going to let you set video statuses](https://www.theverge.com/2023/12/13/23999150/instagram-notes-video-status-replies)
- - [Despite what you may have heard, don&#39;t write off the iMac just yet](https://appleinsider.com/articles/23/12/13/despite-what-you-may-have-heard-dont-write-off-the-imac-just-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Google announces Gemini Pro for enterprises, letting developers build apps, available for free at launch with limits, and adds Pro to AI Studio and Vertex AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231213/p25#a231213p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 💣 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
+ - 😝 [A long-established stores that have been loved in Fukuoka for many years. The food looks amazing](http://9gag.com/gag/ay2je1y)
+ - 😝 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Is it just me?](http://9gag.com/gag/aNwE1BK)<!-- MEMES:END -->
+ - 👉 [Where music?](http://9gag.com/gag/aZDOyoQ)<!-- MEMES:END -->
 
 ---
 

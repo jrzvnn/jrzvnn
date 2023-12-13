@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 😝 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
- - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 👉 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)<!-- MEMES:END -->
+ - 😝 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 💣 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 👉 [Title](http://9gag.com/gag/a2K6Zmw)<!-- MEMES:END -->
 
 ---
 

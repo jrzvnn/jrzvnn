@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces MedLM, a family of AI models fine-tuned for the medical industries and based on Med-PaLM 2, available to Google Cloud customers in the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231213/p27#a231213p27)
+ - [Google releases Imagen 2, announced in preview in May 2023 and built with Google DeepMind tech, offering &quot;significantly&quot; improved image quality and new features &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231213/p26#a231213p26)
+ - [Google announces Gemini Pro for enterprises, letting developers build apps, available for free at launch with limits, and adds Pro to AI Studio and Vertex AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231213/p25#a231213p25)
  - [Instagram is going to let you set video statuses](https://www.theverge.com/2023/12/13/23999150/instagram-notes-video-status-replies)
- - [Despite what you may have heard, don&#39;t write off the iMac just yet](https://appleinsider.com/articles/23/12/13/despite-what-you-may-have-heard-dont-write-off-the-imac-just-yet?utm_medium=rss)
- - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,499](https://appleinsider.com/articles/23/12/13/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1499?utm_medium=rss)
- - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
- - [The Drucker Institute&#39;s Management Top 250 shows tech remains at the top; Microsoft was first for the fourth year, followed by Apple, Nvidia, Alphabet, and IBM &lpar;Tom Corrigan/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p24#a231213p24)<!-- TECH:END -->
+ - [Despite what you may have heard, don&#39;t write off the iMac just yet](https://appleinsider.com/articles/23/12/13/despite-what-you-may-have-heard-dont-write-off-the-imac-just-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

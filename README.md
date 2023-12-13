@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple makes remote diagnostic tool available as it expands self-service repair program](https://www.theverge.com/2023/12/13/23999669/apple-self-service-repair-diagnostics-m2-macbook-iphone-15)
+ - [Tesla Is Recalling Nearly All Vehicles Sold in US to Fix an Autopilot Fault](https://www.wired.com/story/tesla-us-recall-autopilot-fault/)
  - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)
  - [Salesforce and Apple deepen partnership with Business Messaging and AR integrations](https://appleinsider.com/articles/23/12/13/salesforce-and-apple-deepen-partnership-with-business-messaging-and-ar-integrations?utm_medium=rss)
- - [Who Knew That Rothy’s Made Men’s Shoes? They’re Great!](https://www.wired.com/story/rothys-mens-shoes-rave/)
- - [Denon PerL Earbuds Review: Cool Idea, Imperfect Execution](https://www.wired.com/review/denon-perl-earbuds/)
- - [A Pew survey of US adults finds ~38% support a federal TikTok ban, down from 50% in March 2023; Republicans&#39; support of a ban dropped from 60% to 50% &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231213/p19#a231213p19)<!-- TECH:END -->
+ - [Who Knew That Rothy’s Made Men’s Shoes? They’re Great!](https://www.wired.com/story/rothys-mens-shoes-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

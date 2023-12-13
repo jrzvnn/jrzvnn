@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 😝 [Perky side profile](http://9gag.com/gag/aMEM8AW)
- - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 👉 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)<!-- MEMES:END -->
+ - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
+ - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 💣 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
+ - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
+ - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
 
 ---
 

@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple stock closes at an all-time-high, added $1 trillion to its market cap in 2023](https://appleinsider.com/articles/23/12/13/apple-stock-closes-at-an-all-time-high-added-1-trillion-to-its-market-cap-in-2023?utm_medium=rss)
  - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
  - [Supercharge your setup with the latest M3 Max MacBook Pro 14-inch, now $400 off](https://appleinsider.com/articles/23/12/13/supercharge-your-setup-with-the-latest-m3-max-macbook-pro-14-inch-now-400-off?utm_medium=rss)
- - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Fire TV     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

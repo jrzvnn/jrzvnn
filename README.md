@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Etsy plans to lay off 11% of its workforce, or ~225 employees, as the e-commerce marketplace grapples with slow consumer spending and increased competition &lpar;The Information&rpar;](http://www.techmeme.com/231213/p31#a231213p31)
- - [Sources: the EU plans to hit Apple with a ban on App Store rules for music streaming rivals and a potential hefty fine in early 2024, after Spotify&#39;s complaint &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231213/p30#a231213p30)
+ - [Etsy plans to lay off 11% of its workforce, or ~225 employees, as the e-commerce marketplace grapples with slow consumer spending and increased competition &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/231213/p31#a231213p31)
+ - [Sources: the EU plans to hit Apple with a ban on anti-steering App Store rules for music streaming rivals and a possible fine in 2024, after Spotify&#39;s complaint &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231213/p30#a231213p30)
  - [Why the AI Act was so hard to pass](https://www.theverge.com/2023/12/13/23999849/eu-ai-act-artificial-intelligence-regulations-complicated-delays)
  - [Tesla’s huge recall will make it harder — but not impossible — to misuse Autopilot](https://www.theverge.com/23999750/tesla-autopilot-recall-nhtsa-software-safety-problems)
  - [A profile of Nandini Jammi, co-founder of Check My Ads, a nonprofit ad watchdog that works to cut off the revenue streams of far-right creators and publishers &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231213/p29#a231213p29)<!-- TECH:END -->

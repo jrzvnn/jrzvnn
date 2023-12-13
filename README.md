@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe reports Q4 revenue up 12% YoY to $5.05B, vs. $5.03B est., Digital Media revenue up 13% YoY to $3.72B, FY 2024 revenue guidance below est.; ADBE drops 6%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231213/p38#a231213p38)
+ - [Adobe reports Q4 revenue up 12% YoY to $5.05B, vs. $5.03B est., Digital Media revenue up 13% YoY to $3.72B, and FY 2024 guidance below est.; ADBE drops 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231213/p38#a231213p38)
  - [Apple stock closes at an all-time-high, added $1 trillion to its market cap in 2023](https://appleinsider.com/articles/23/12/13/apple-stock-closes-at-an-all-time-high-added-1-trillion-to-its-market-cap-in-2023?utm_medium=rss)
  - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
  - [Supercharge your setup with the latest M3 Max MacBook Pro 14-inch, now $400 off](https://appleinsider.com/articles/23/12/13/supercharge-your-setup-with-the-latest-m3-max-macbook-pro-14-inch-now-400-off?utm_medium=rss)

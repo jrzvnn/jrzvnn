@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla recalls 2M+ vehicles after the NHTSA said its means for keeping drivers engaged in Autopilot were inadequate and open to misuse, part of a yearslong probe &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/231213/p11#a231213p11)
  - [An interview with USDS head Mina Hsiang, who previously worked for HealthCare.gov, on having more job applicants this year than in any prior year, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231213/p10#a231213p10)
  - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
  - [Here&#39;s Everything You Should Know About NameDrop     - CNET](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-namedrop/#ftag=CAD590a51e)
- - [Pro-government news outlets and influencers in Bangladesh are promoting AI-generated disinformation created with cheap tools ahead of elections in January 2024 &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/231213/p8#a231213p8)
- - [Line Next, a Line Corporation unit that focuses on NFTs and currently has 5.5M users globally, raised $140M led by Peter Thiel-backed Crescendo Equity Partners &lpar;Miguel Cordon/Tech in Asia&rpar;](http://www.techmeme.com/231213/p7#a231213p7)<!-- TECH:END -->
+ - [Pro-government news outlets and influencers in Bangladesh are promoting AI-generated disinformation created with cheap tools ahead of elections in January 2024 &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/231213/p8#a231213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

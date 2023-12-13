@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Nandini Jammi, co-founder of Check My Ads, a nonprofit ad watchdog that works to cut off the revenue streams of far-right creators and publishers &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231213/p29#a231213p29)
+ - [Netflix is bringing the excellent Sonic Mania to mobile](https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024)
+ - [Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar](https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/)
  - [Politico, Business Insider parent Axel Springer inks deal with OpenAI](https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico)
- - [Amazon is making it easier to browse your entire library of books](https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations)
- - [The US Supreme Court Will Decide the Fate of Medication Abortion](https://www.wired.com/story/supreme-court-medication-abortion-mifepristone/)
- - [Coinbase rolls out spot crypto trading on its international exchange as part of a global expansion, letting investors trade bitcoin and ether against USDC &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p28#a231213p28)
- - [Range Rover opens a waiting list for its upcoming EV](https://www.theverge.com/2023/12/13/23999724/range-rover-ev-prototype-teaser-waiting-list)<!-- TECH:END -->
+ - [Amazon is making it easier to browse your entire library of books](https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

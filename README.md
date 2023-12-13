@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 😝 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
+ - 😝 [Imagine paying that amount of money to live in an Islamic city.](http://9gag.com/gag/aGE4jm0)
+ - 😝 [What a bro.](http://9gag.com/gag/aEqmxp9)
+ - 💣 [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)
+ - 😝 [Why so weak?](http://9gag.com/gag/aMEMjoX)
+ - 👉 [Just because...](http://9gag.com/gag/aL17gMg)<!-- MEMES:END -->
 
 ---
 

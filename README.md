@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 💣 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
+ - 😝 [Camera man did her dirty](http://9gag.com/gag/axoq04W)
+ - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 💣 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)<!-- MEMES:END -->
+ - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
 
 ---
 

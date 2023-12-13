@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: 3AC co-founder Su Zhu for the first time faced questioning in a Singapore court about the fund&#39;s collapse; Teneo estimates 3AC owes creditors ~$3.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p16#a231213p16)
- - [A Brilliant COP Agreement? It Depends Who You Ask](https://www.wired.com/story/cop28-dubai-final-agreement/)
- - [The FCC issues a final denial of Starlink&#39;s request for $885M to expand rural coverage, saying Starlink &quot;failed to demonstrate&quot; an ability to offer the service &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231213/p15#a231213p15)
- - [Airbnb agrees to pay &amp;euro;576M to Italian authorities to end a long-running tax dispute, covering 2017 to 2021, that led to the country seizing funds in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231213/p14#a231213p14)
- - [Coinbase Asset Management debuts Project Diamond, combining Coinbase&#39;s custody tools, wallet, L2 network Base, and Circle&#39;s USDC to create a capital marketplace &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/231213/p13#a231213p13)<!-- TECH:END -->
+ - [Apple beefs up Self Service Repair with new diagnostic, extended to iPhone 15 &amp; M2 Mac](https://appleinsider.com/articles/23/12/13/apple-beefs-up-self-service-repair-with-new-diagnostic-extended-to-iphone-15-m2-mac?utm_medium=rss)
+ - [Google&#39;s Epic loss, where a jury found Google guilty on all 11 antitrust claims, may portend its legal fate in two, more significant US antitrust cases in 2024 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231213/p17#a231213p17)
+ - [US Regulators Want Cars to Include Drunk-Driver Detection Technology](https://www.wired.com/story/us-regulators-cars-drunk-driver-detection/)
+ - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
+ - [Why Even a Partial Digital Detox Is a Good Idea This Christmas](https://www.wired.com/story/partial-digital-detox-good-idea-holidays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

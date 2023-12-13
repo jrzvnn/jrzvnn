@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC issues a final denial of Starlink&#39;s request for $885M to expand rural coverage, saying Starlink &quot;failed to demonstrate&quot; an ability to offer the service &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231213/p15#a231213p15)
  - [Airbnb agrees to pay &amp;euro;576M to Italian authorities to end a long-running tax dispute, covering 2017 to 2021, that led to the country seizing funds in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231213/p14#a231213p14)
  - [Coinbase Asset Management debuts Project Diamond, combining Coinbase&#39;s custody tools, wallet, L2 network Base, and Circle&#39;s USDC to create a capital marketplace &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/231213/p13#a231213p13)
  - [How to save disk space in macOS by clearing Containers folders](https://appleinsider.com/inside/macos/tips/how-to-save-disk-space-in-macos-by-clearing-containers-folders?utm_medium=rss)
- - [The EU Council and Parliament agree a deal to reclassify millions of ride-hailing and food delivery app workers as staff, possibly costing the industry billions &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231213/p12#a231213p12)
- - [Tesla recalls 2M+ vehicles after the NHTSA said its means for keeping drivers engaged in Autopilot were inadequate and open to misuse, part of a yearslong probe &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/231213/p11#a231213p11)<!-- TECH:END -->
+ - [The EU Council and Parliament agree a deal to reclassify millions of ride-hailing and food delivery app workers as staff, possibly costing the industry billions &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231213/p12#a231213p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

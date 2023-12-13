@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 💣 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
- - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
+ - 😝 [What a bro.](http://9gag.com/gag/aEqmxp9)
+ - 😝 [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)
+ - 💣 [Why so weak?](http://9gag.com/gag/aMEMjoX)
+ - 😝 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
+ - 👉 [Just because...](http://9gag.com/gag/aL17gMg)<!-- MEMES:END -->
 
 ---
 

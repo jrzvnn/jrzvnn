@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine paying that amount of money to live in an Islamic city.](http://9gag.com/gag/aGE4jm0)
- - 😝 [What a bro.](http://9gag.com/gag/aEqmxp9)
- - 💣 [I can&#39;t find giant poster of obese black female in Asian countries, why....](http://9gag.com/gag/awZWXe8)
- - 😝 [Why so weak?](http://9gag.com/gag/aMEMjoX)
- - 👉 [Just because...](http://9gag.com/gag/aL17gMg)<!-- MEMES:END -->
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 😝 [Perky side profile](http://9gag.com/gag/aMEM8AW)
+ - 💣 [I can\u2019t believe Tim Burton is smashing Monica Belluci. Gives many ugly guys hope](http://9gag.com/gag/aKEoD51)
+ - 😝 [Title](http://9gag.com/gag/aQEWeGd)
+ - 👉 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)<!-- MEMES:END -->
 
 ---
 

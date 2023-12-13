@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla will update nearly every car sold in the US to address Autopilot ‘defect’](https://www.theverge.com/2023/12/13/23999683/tesla-autopilot-defect-software-update-recall-nhtsa)
+ - [A profile of Microsoft&#39;s head of Japan partnerships Mena Kato, as she tries to make inroads in a Sony and Nintendo dominated market and reverse years of failure &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p20#a231213p20)
  - [Apple makes remote diagnostic tool available as it expands self-service repair program](https://www.theverge.com/2023/12/13/23999669/apple-self-service-repair-diagnostics-m2-macbook-iphone-15)
  - [Tesla Is Recalling Nearly All Vehicles Sold in US to Fix an Autopilot Fault](https://www.wired.com/story/tesla-us-recall-autopilot-fault/)
- - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)
- - [Salesforce and Apple deepen partnership with Business Messaging and AR integrations](https://appleinsider.com/articles/23/12/13/salesforce-and-apple-deepen-partnership-with-business-messaging-and-ar-integrations?utm_medium=rss)
- - [Who Knew That Rothy’s Made Men’s Shoes? They’re Great!](https://www.wired.com/story/rothys-mens-shoes-rave/)<!-- TECH:END -->
+ - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

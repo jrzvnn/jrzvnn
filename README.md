@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [Knocked out and was found by a neighbor unconcious. Woke up after 2 days. Turns out i have a brain tumor. Thank you 9gag. Keep on being horny racists.](http://9gag.com/gag/aA0z3mZ)
- - 💣 [The process of making a potion](http://9gag.com/gag/aREq13q)
+ - 😝 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 💣 [Don&#39;t eat chips and play](http://9gag.com/gag/abvnGqb)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Just some tips](http://9gag.com/gag/aA0zgdp)<!-- MEMES:END -->
+ - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
 
 ---
 

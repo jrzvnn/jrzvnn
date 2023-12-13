@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
  - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
  - [Apple will make it harder for governments to get your push notifications](https://www.theverge.com/2023/12/13/23990706/google-apple-court-order-required-push-notification-ron-wyden-letter-surveillance-e2e-encryption)
  - [Xbox Cloud Gaming is now available in beta on Meta Quest 2, Quest 3, and Quest Pro, for Xbox Game Pass Ultimate subscribers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231213/p36#a231213p36)
- - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset)
- - [Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark](https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

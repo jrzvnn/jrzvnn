@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Politico, Business Insider parent Axel Springer inks deal with OpenAI](https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico)
  - [Amazon is making it easier to browse your entire library of books](https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations)
- - [The US Supreme Court Will Now Decide the Fate of Medication Abortion](https://www.wired.com/story/supreme-court-medication-abortion-mifepristone/)
+ - [The US Supreme Court Will Decide the Fate of Medication Abortion](https://www.wired.com/story/supreme-court-medication-abortion-mifepristone/)
  - [Coinbase rolls out spot crypto trading on its international exchange as part of a global expansion, letting investors trade bitcoin and ether against USDC &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p28#a231213p28)
  - [Range Rover opens a waiting list for its upcoming EV](https://www.theverge.com/2023/12/13/23999724/range-rover-ev-prototype-teaser-waiting-list)<!-- TECH:END -->
 

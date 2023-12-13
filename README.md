@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple selling a standalone second-generation AirPod Pro USB-C case for $99](https://appleinsider.com/articles/23/12/13/apple-selling-a-standalone-second-generation-airpod-pro-usb-c-case-for-99?utm_medium=rss)
  - [EU set to slam Apple with antitrust order over App Store practices and Spotify battle](https://appleinsider.com/articles/23/12/13/eu-set-to-slam-apple-with-antitrust-order-over-app-store-practices-and-spotify-battle?utm_medium=rss)
  - [Samsung’s Galaxy Buds 2 Pro are down to their lowest price to date](https://www.theverge.com/2023/12/13/23998703/samsung-galaxy-buds-2-pro-xbox-series-x-ipad-m1-deal-sale)
  - [Samsung&#39;s End-of-Year Sale Cuts Prices on Our Favorite Phones, TVs, and Tablets &lpar;2023&rpar;](https://www.wired.com/story/discover-samsung-sale-event-december-2023/)
- - [Tesla’s trash won’t get picked up as union actions in Sweden escalate](https://www.theverge.com/2023/12/13/23999848/tesla-sweden-union-autoworkers-transport-trash-waste-pickup)
- - [Apple now sells the AirPods Pro USB-C case by itself — for $99](https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available)<!-- TECH:END -->
+ - [Tesla’s trash won’t get picked up as union actions in Sweden escalate](https://www.theverge.com/2023/12/13/23999848/tesla-sweden-union-autoworkers-transport-trash-waste-pickup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

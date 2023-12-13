@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
  - [Meta is working on extending its fact-checking program on Threads early next year, as third-party fact-checkers cannot currently rate Threads content on its own &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231212/p48#a231212p48)
  - [True Anomaly, a startup designing hardware and software for military and intelligence space reconnaissance systems, raised a $100M Series B led by Riot Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/231212/p47#a231212p47)
  - [Microsoft warns that threat actors are misusing OAuth apps to automate phishing attacks, push spam, and deploy VMs for crypto mining &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231212/p46#a231212p46)
- - [Best Internet Providers in Plymouth, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)
- - [Ukraine&#39;s defense intelligence directorate claims to have hacked Russia&#39;s state tax service and that Russia has been trying to restore the service for four days &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/231212/p45#a231212p45)<!-- TECH:END -->
+ - [Best Internet Providers in Plymouth, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Politico, Business Insider parent Axel Springer inks deal with OpenAI](https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico)
+ - [Amazon is making it easier to browse your entire library of books](https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations)
+ - [The US Supreme Court Will Now Decide the Fate of Medication Abortion](https://www.wired.com/story/supreme-court-medication-abortion-mifepristone/)
  - [Coinbase rolls out spot crypto trading on its international exchange as part of a global expansion, letting investors trade bitcoin and ether against USDC &lpar;Bloomberg&rpar;](http://www.techmeme.com/231213/p28#a231213p28)
- - [Range Rover opens a waiting list for its upcoming EV](https://www.theverge.com/2023/12/13/23999724/range-rover-ev-prototype-teaser-waiting-list)
- - [Google announces MedLM, a family of AI models fine-tuned for the medical industries and based on Med-PaLM 2, available to Google Cloud customers in the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231213/p27#a231213p27)
- - [Google releases Imagen 2, announced in preview in May 2023 and built with Google DeepMind tech, offering &quot;significantly&quot; improved image quality and new features &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231213/p26#a231213p26)
- - [Google announces Gemini Pro for enterprises, letting developers build apps, available for free at launch with limits, and adds Pro to AI Studio and Vertex AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/231213/p25#a231213p25)<!-- TECH:END -->
+ - [Range Rover opens a waiting list for its upcoming EV](https://www.theverge.com/2023/12/13/23999724/range-rover-ev-prototype-teaser-waiting-list)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

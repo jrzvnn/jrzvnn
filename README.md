@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Now Microsoft PowerPoint for the web can add videos with closed captions](https://www.theverge.com/2023/12/13/24000229/microsoft-powerpoint-for-the-web-accessibility-tech-closed-captions)
- - [Adobe reports Q4 revenue up 12% YoY to $5.05B, vs. $5.03B est., Digital Media revenue up 13% YoY to $3.72B, and FY 2024 guidance below est.; ADBE drops 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231213/p38#a231213p38)
- - [Apple stock closes at an all-time-high, added $1 trillion to its market cap in 2023](https://appleinsider.com/articles/23/12/13/apple-stock-closes-at-an-all-time-high-added-1-trillion-to-its-market-cap-in-2023?utm_medium=rss)
- - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
- - [Supercharge your setup with the latest M3 Max MacBook Pro 14-inch, now $400 off](https://appleinsider.com/articles/23/12/13/supercharge-your-setup-with-the-latest-m3-max-macbook-pro-14-inch-now-400-off?utm_medium=rss)<!-- TECH:END -->
+ - [LGES 10H and 16H Prime Battery Review: Good Batteries at a Great Price     - CNET](https://www.cnet.com/home/energy-and-utilities/lges-battery-review/#ftag=CAD590a51e)
+ - [Sonnen Battery Review: Solar Batteries That Aren&#39;t All About Backup Power     - CNET](https://www.cnet.com/home/energy-and-utilities/sonnen-battery-review/#ftag=CAD590a51e)
+ - [Oral-B iO Series 3     - CNET](https://www.cnet.com/health/personal-care/oral-b-io-series-3-dpnl/#ftag=CAD590a51e)
+ - [Logitech G Powerplay     - CNET](https://www.cnet.com/tech/computing/logitech-g-powerplay-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

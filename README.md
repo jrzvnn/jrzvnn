@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Drucker Institute&#39;s Management Top 250 shows tech remains at the top; Microsoft was first for the fourth year, followed by Apple, Nvidia, Alphabet, and IBM &lpar;Tom Corrigan/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p24#a231213p24)
  - [Foxconn pours another $1 billion into India expansion](https://appleinsider.com/articles/23/12/13/foxconn-pours-another-1-billion-into-india-expansion?utm_medium=rss)
  - [Worldcoin now supports World ID integrations with Minecraft, Reddit, Telegram, Shopify, and Mercado Libre, expanding on Discord and others, part of World ID 2.0 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231213/p23#a231213p23)
  - [Axel Springer signs a multiyear licensing deal with OpenAI, which will pay to use content from Politico, Business Insider, and others to train its AI models &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/231213/p22#a231213p22)
- - [America is on the brink in the first trailer for Alex Garland’s Civil War](https://www.theverge.com/23999689/civil-war-trailer-alex-garland-a24)
- - [Sources: ByteDance cancels an upcoming VR headset from its Pico subsidiary, the Pico 5, after Pico 4 sales fell far short of expectations and the VR market sags &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/231213/p21#a231213p21)<!-- TECH:END -->
+ - [America is on the brink in the first trailer for Alex Garland’s Civil War](https://www.theverge.com/23999689/civil-war-trailer-alex-garland-a24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU set to slam Apple with antitrust order over App Store practices and Spotify battle](https://appleinsider.com/articles/23/12/13/eu-set-to-slam-apple-with-antitrust-order-over-app-store-practices-and-spotify-battle?utm_medium=rss)
+ - [Samsung’s Galaxy Buds 2 Pro are down to their lowest price to date](https://www.theverge.com/2023/12/13/23998703/samsung-galaxy-buds-2-pro-xbox-series-x-ipad-m1-deal-sale)
+ - [Samsung&#39;s End-of-Year Sale Cuts Prices on Our Favorite Phones, TVs, and Tablets &lpar;2023&rpar;](https://www.wired.com/story/discover-samsung-sale-event-december-2023/)
  - [Tesla’s trash won’t get picked up as union actions in Sweden escalate](https://www.theverge.com/2023/12/13/23999848/tesla-sweden-union-autoworkers-transport-trash-waste-pickup)
- - [Apple now sells the AirPods Pro USB-C case by itself — for $99](https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available)
- - [Epic is giving away 17 games as part of its holiday sale](https://www.theverge.com/2023/12/13/23999921/epic-games-store-holiday-sale-2023-free-games)
- - [Get ready for a powered-up Christmas with a Bluetti portable power station](https://appleinsider.com/articles/23/12/13/get-ready-for-a-powered-up-christmas-with-a-bluetti-portable-power-station?utm_medium=rss)
- - [Amazon launches Your Books, a hub to let users organize all of their books, including print, Kindle, and Audible titles, while also providing recommendations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231213/p32#a231213p32)<!-- TECH:END -->
+ - [Apple now sells the AirPods Pro USB-C case by itself — for $99](https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US, the UK, and Poland say state-backed Russian group APT29 has been targeting servers hosting Czech firm JetBrains&#39; TeamCity software since September 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
  - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
  - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
- - [Apple will make it harder for governments to get your push notifications](https://www.theverge.com/2023/12/13/23990706/google-apple-court-order-required-push-notification-ron-wyden-letter-surveillance-e2e-encryption)
- - [Xbox Cloud Gaming is now available in beta on Meta Quest 2, Quest 3, and Quest Pro, for Xbox Game Pass Ultimate subscribers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231213/p36#a231213p36)
- - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset)<!-- TECH:END -->
+ - [You Can Grab Our Overall Favorite Cordless Vacuum for $60 Off at Amazon     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-60-off/#ftag=CAD590a51e)
+ - [How We Test Mattresses     - CNET](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses-we-do-the-work-so-you-dont-have-to/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
- - [The US, the UK, and Poland say that since September 2023, state-backed Russian group APT29 has targeted servers hosting Czech firm JetBrains&#39; TeamCity software &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
- - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
- - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
- - [You Can Grab Our Overall Favorite Cordless Vacuum for $60 Off at Amazon     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-60-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score Half Off a Season Long Subscription to NBA League Pass &amp; League Pass Premium     - CNET](https://www.cnet.com/deals/score-half-off-a-season-long-subscription-to-nba-league-pass-league-pass-premium/#ftag=CAD590a51e)
+ - [Google Nest Thermostat     - CNET](https://www.cnet.com/home/smart-home/google-nest-thermostat-dpnl/#ftag=CAD590a51e)
+ - [The Xbox Series X Is Back Down to Its Lowest Price Ever     - CNET](https://www.cnet.com/deals/xbox-series-x-all-time-low-price/#ftag=CAD590a51e)
+ - [The US, the UK, and Poland say that since September 2023, state-backed Russian group APT29 has targeted servers hosting Czech firm JetBrains&#39; TeamCity software &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

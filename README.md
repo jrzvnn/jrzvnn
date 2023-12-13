@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/awZWBm8)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
  - 😝 [Just because...](http://9gag.com/gag/aL17gMg)
- - 💣 [Title](http://9gag.com/gag/aQEWeGd)
+ - 💣 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
+ - 👉 [Is it just me?](http://9gag.com/gag/aNwE1BK)<!-- MEMES:END -->
 
 ---
 

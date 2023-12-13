@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Line Next, a Line Corporation unit that focuses on NFTs and currently has 5.5M users globally, raised $140M led by Peter Thiel-backed Crescendo Equity Partners &lpar;Miguel Cordon/Tech in Asia&rpar;](http://www.techmeme.com/231213/p7#a231213p7)
  - [Sources: Foxconn plans to invest at least $1B more, on top of $1.6B it allocated earlier, in its 300-acre Bengaluru plant to make Apple devices &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231213/p6#a231213p6)
  - [Paris-based Pivot, which sells spend management and procurement software, raised a $21.6M Series A, after raising a $5.3M pre-seed round in April 2023 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/231213/p5#a231213p5)
  - [The world came tantalizingly close to a deal to phase out fossil fuels](https://www.theverge.com/2023/12/13/23993937/dubai-un-climate-change-conference-cop28-united-nations-fossil-fuels)
- - [Ampere: Disney+ and Hulu combined would have more popular titles in the US than any other service and its catalog size would rank second only to Prime Video &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/231213/p4#a231213p4)
- - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)<!-- TECH:END -->
+ - [Ampere: Disney+ and Hulu combined would have more popular titles in the US than any other service and its catalog size would rank second only to Prime Video &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/231213/p4#a231213p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

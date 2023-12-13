@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: Disney+ and Hulu combined would have more popular titles in the US than any other service and its catalog size would rank second only to Prime Video &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/231213/p4#a231213p4)
  - [As Taiwan&#39;s government rejects suggestions that the chip industry was crowding out other sectors, a look at TSMC&#39;s outsized economic role ahead of the elections &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/231213/p3#a231213p3)
  - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
- - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)
- - [A parliamentary report warns the UK is vulnerable to a &quot;catastrophic ransomware attack at any moment&quot; because of the government&#39;s failures to tackle ransomware &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/231213/p1#a231213p1)
- - [Apple updates its law enforcement guidelines to now require a judge&#39;s order before handing over users&#39; push notification data, instead of only a subpoena &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231212/p50#a231212p50)<!-- TECH:END -->
+ - [Holiday Deals Under $25: Save Big on Stocking Stuffers and More     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)
+ - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 💣 [Perky side profile](http://9gag.com/gag/aMEM8AW)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Does a good deed and refuses reward](http://9gag.com/gag/aVby30M)
+ - 💣 [Just because...](http://9gag.com/gag/aL17gMg)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
+ - 👉 [Just some tips](http://9gag.com/gag/aA0zgdp)<!-- MEMES:END -->
 
 ---
 

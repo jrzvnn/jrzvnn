@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, the UK, and Poland say state-backed Russian group APT29 has been targeting servers hosting Czech firm JetBrains&#39; TeamCity software since September 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
+ - [The US, the UK, and Poland say that since September 2023, state-backed Russian group APT29 has targeted servers hosting Czech firm JetBrains&#39; TeamCity software &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231213/p37#a231213p37)
  - [Daily deals Dec. 13: up to $400 off M3 MacBook Pro, $199 AirPods Pro USB-C, $100 off Google Pixel Tablet, more](https://appleinsider.com/articles/23/12/13/daily-deals-dec-13-up-to-400-off-m3-macbook-pro-199-airpods-pro-usb-c-100-off-google-pixel-tablet-more?utm_medium=rss)
  - [An X outage broke all outgoing links, again](https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken)
  - [You Can Grab Our Overall Favorite Cordless Vacuum for $60 Off at Amazon     - CNET](https://www.cnet.com/deals/tineco-pure-one-s11-60-off/#ftag=CAD590a51e)

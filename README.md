@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 😝 [Pink](http://9gag.com/gag/aZDOL69)
- - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 😝 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)
+ - 💣 [Pink](http://9gag.com/gag/aZDOL69)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Chinese coast guard attacks Philippine vessel with water cannon at Philippines own territory](http://9gag.com/gag/az2p8gm)<!-- MEMES:END -->
+ - 👉 [Is it just me?](http://9gag.com/gag/aNwE1BK)<!-- MEMES:END -->
 
 ---
 

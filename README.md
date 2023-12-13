@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kakao names Shina Chung, the head of its corporate VC arm, as its next CEO; Chung is a rare female leader in South Korea&#39;s male-dominated business sphere &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231213/p2#a231213p2)
+ - [Students: save up to 34% with limited-time MacBook Air &amp; Pro deals at B&amp;H](https://appleinsider.com/articles/23/12/13/students-save-up-to-34-with-limited-time-macbook-air-pro-deals-at-bh?utm_medium=rss)
  - [A parliamentary report warns the UK is vulnerable to a &quot;catastrophic ransomware attack at any moment&quot; because of the government&#39;s failures to tackle ransomware &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/231213/p1#a231213p1)
  - [Apple updates its law enforcement guidelines to now require a judge&#39;s order before handing over users&#39; push notification data, instead of only a subpoena &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/231212/p50#a231212p50)
- - [Fujitsu plans to sell its chip packaging unit Shinko Electric for ~$4.8B to a group led by Japan Investment Corp., in an effort to offload non-core operations &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231212/p49#a231212p49)
- - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
- - [Meta is working to extend its fact-checking to Threads early next year; its fact-checking now only rates Threads content matching posts on Facebook or Instagram &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231212/p48#a231212p48)<!-- TECH:END -->
+ - [Fujitsu plans to sell its chip packaging unit Shinko Electric for ~$4.8B to a group led by Japan Investment Corp., in an effort to offload non-core operations &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231212/p49#a231212p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

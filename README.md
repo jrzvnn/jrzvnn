@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s trash won’t get picked up as union actions in Sweden escalate](https://www.theverge.com/2023/12/13/23999848/tesla-sweden-union-autoworkers-transport-trash-waste-pickup)
  - [Apple now sells the AirPods Pro USB-C case by itself — for $99](https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available)
  - [Epic is giving away 17 games as part of its holiday sale](https://www.theverge.com/2023/12/13/23999921/epic-games-store-holiday-sale-2023-free-games)
  - [Get ready for a powered-up Christmas with a Bluetti portable power station](https://appleinsider.com/articles/23/12/13/get-ready-for-a-powered-up-christmas-with-a-bluetti-portable-power-station?utm_medium=rss)
- - [Amazon launches Your Books, a hub to let users organize all of their books, including print, Kindle, and Audible titles, while also providing recommendations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231213/p32#a231213p32)
- - [Etsy plans to lay off 11% of its workforce, or ~225 employees, as the e-commerce marketplace grapples with slow consumer spending and increased competition &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/231213/p31#a231213p31)<!-- TECH:END -->
+ - [Amazon launches Your Books, a hub to let users organize all of their books, including print, Kindle, and Audible titles, while also providing recommendations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231213/p32#a231213p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

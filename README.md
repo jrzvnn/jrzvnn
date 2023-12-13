@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How to save disk space in macOS by clearing Containers folders](https://appleinsider.com/inside/macos/tips/how-to-save-disk-space-in-macos-by-clearing-containers-folders?utm_medium=rss)
  - [The EU Council and Parliament agree a deal to reclassify millions of ride-hailing and food delivery app workers as staff, possibly costing the industry billions &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231213/p12#a231213p12)
  - [Tesla recalls 2M+ vehicles after the NHTSA said its means for keeping drivers engaged in Autopilot were inadequate and open to misuse, part of a yearslong probe &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/231213/p11#a231213p11)
- - [Here&#39;s How You Can Disable NameDrop in a Few Simple Steps     - CNET](https://www.cnet.com/tech/mobile/heres-how-you-can-disable-namedrop-in-a-few-simple-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with USDS head Mina Hsiang, who previously worked for HealthCare.gov, on having more job applicants this year than in any prior year, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231213/p10#a231213p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

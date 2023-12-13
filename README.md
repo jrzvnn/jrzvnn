@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with USDS head Mina Hsiang, who previously worked for HealthCare.gov, on having more job applicants this year than in any prior year, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231213/p10#a231213p10)
  - [Google, Meta, Qualcomm, and seven other tech companies form the Coalition for Open Digital Ecosystems, aiming to promote open digital ecosystems in the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231213/p9#a231213p9)
  - [Here&#39;s Everything You Should Know About NameDrop     - CNET](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-namedrop/#ftag=CAD590a51e)
  - [Pro-government news outlets and influencers in Bangladesh are promoting AI-generated disinformation created with cheap tools ahead of elections in January 2024 &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/231213/p8#a231213p8)
- - [Line Next, a Line Corporation unit that focuses on NFTs and currently has 5.5M users globally, raised $140M led by Peter Thiel-backed Crescendo Equity Partners &lpar;Miguel Cordon/Tech in Asia&rpar;](http://www.techmeme.com/231213/p7#a231213p7)
- - [Sources: Foxconn plans to invest at least $1B more, on top of the $1.6B allocated earlier, in to its 300-acre Bengaluru plant to make Apple devices &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/231213/p6#a231213p6)<!-- TECH:END -->
+ - [Line Next, a Line Corporation unit that focuses on NFTs and currently has 5.5M users globally, raised $140M led by Peter Thiel-backed Crescendo Equity Partners &lpar;Miguel Cordon/Tech in Asia&rpar;](http://www.techmeme.com/231213/p7#a231213p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

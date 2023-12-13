@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stolen Device Protection to thwart iPhone thieves with passcodes with time delay](https://appleinsider.com/articles/23/12/12/stolen-device-protection-to-thwart-iphone-thieves-with-passcodes-with-time-delay?utm_medium=rss)
  - [Supercharge your setup with the latest M3 Max MacBook Pro 14-inch, now $400 off](https://appleinsider.com/articles/23/12/13/supercharge-your-setup-with-the-latest-m3-max-macbook-pro-14-inch-now-400-off?utm_medium=rss)
  - [GM ditching Apple CarPlay is about money, not safety](https://appleinsider.com/articles/23/12/13/gm-ditching-apple-carplay-is-about-money-not-safety?utm_medium=rss)
  - [Score Half Off a Season Long Subscription to NBA League Pass &amp; League Pass Premium     - CNET](https://www.cnet.com/deals/score-half-off-a-season-long-subscription-to-nba-league-pass-league-pass-premium/#ftag=CAD590a51e)
- - [Google Nest Thermostat     - CNET](https://www.cnet.com/home/smart-home/google-nest-thermostat-dpnl/#ftag=CAD590a51e)
- - [The Xbox Series X Is Back Down to Its Lowest Price Ever     - CNET](https://www.cnet.com/deals/xbox-series-x-all-time-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Nest Thermostat     - CNET](https://www.cnet.com/home/smart-home/google-nest-thermostat-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

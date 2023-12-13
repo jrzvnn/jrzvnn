@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom cruise](http://9gag.com/gag/aVbyqP8)
- - 😝 [Title](http://9gag.com/gag/aQEWeGd)
- - 💣 [London has fallen](http://9gag.com/gag/a8qxyNY)
+ - 😝 [Why so weak?](http://9gag.com/gag/aMEMjoX)
+ - 😝 [Just some tips](http://9gag.com/gag/aA0zgdp)
+ - 💣 [Just because...](http://9gag.com/gag/aL17gMg)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
+ - 👉 [Does a good deed and refuses reward](http://9gag.com/gag/aVby30M)<!-- MEMES:END -->
 
 ---
 

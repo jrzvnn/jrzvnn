@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well, gotta go copter...](http://9gag.com/gag/avQKG4b)
+ - 😝 [Spot the difference](http://9gag.com/gag/aGE41Ew)
+ - 💣 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
  - 😝 [Just another Tuesday](http://9gag.com/gag/aXn6vQ6)
- - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
- - 💣 [What did the elves see?](http://9gag.com/gag/aeQ8MnQ)
- - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 👉 [Someone local? Is it average public school?](http://9gag.com/gag/a9qgrKZ)<!-- MEMES:END -->
+ - 👉 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)<!-- MEMES:END -->
 
 ---
 

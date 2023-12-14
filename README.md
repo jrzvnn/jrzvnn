@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
 
 ---
 

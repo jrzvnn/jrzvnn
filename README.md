@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [European Commission grills Apple and Google on app store risks and ad practices](https://appleinsider.com/articles/23/12/14/european-commission-grills-apple-and-google-on-app-store-risks-and-ad-practices?utm_medium=rss)
+ - [Snag These Open-Ear Soundcore AeroFit Earbuds at an All-Time Low Price     - CNET](https://www.cnet.com/deals/snag-these-open-ear-soundcore-aerofit-earbuds-at-an-all-time-low-price/#ftag=CAD590a51e)
  - [Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised a $40M Series B and $125M debt, after raising a $20M Series A in May 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231214/p20#a231214p20)
- - [Sources: LinkedIn halted an effort, announced in 2019, to relocate its data centers out of its physical facilities and into Azure, a setback for Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231214/p19#a231214p19)
- - [Google plans to start testing Tracking Protection on January 4 on ~1% of global Chrome users to block third-party cookies, ahead of a phased rollout in H2 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231214/p18#a231214p18)
- - [31 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)<!-- TECH:END -->
+ - [Today&#39;s Best CD Rates: Dec. 14, 2023 -- Have We Reached the Peak of High APYs?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-14-2023/#ftag=CAD590a51e)
+ - [Sources: LinkedIn halted an effort, announced in 2019, to relocate its data centers out of its physical facilities and into Azure, a setback for Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231214/p19#a231214p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

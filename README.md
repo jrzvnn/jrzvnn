@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [Squint your eyes hehe](http://9gag.com/gag/a1P3oDG)
- - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
+ - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 😝 [Title](http://9gag.com/gag/awZWBm8)
+ - 💣 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)
+ - 😝 [Is this toxic masculinity](http://9gag.com/gag/aWG3xpZ)
+ - 👉 [Two types of reactions...](http://9gag.com/gag/aVbywLv)<!-- MEMES:END -->
 
 ---
 

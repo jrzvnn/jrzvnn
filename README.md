@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
+ - [Temu sues Shein, alleging ‘Mafia-style’ intimidation of manufacturers](https://www.theverge.com/2023/12/14/24001274/temu-shein-lawsuit-ecommerce-merchant-intimidation-copyright-infringement-dmca)
  - [Neko Atsume on Quest is cute, cuddly, and a great use of mixed reality](https://www.theverge.com/2023/12/14/23999288/neko-atsume-purrfect-kitty-collector-meta-quests-trailer-release-date)
  - [Google DeepMind used its FunSearch model to crack the famous cap set problem in pure mathematics, the first time an LLM solved a long-standing scientific puzzle &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231214/p32#a231214p32)
- - [Cruise lays off nearly a quarter of the company after grounding its robotaxi fleet](https://www.theverge.com/2023/12/14/24001357/cruise-layoff-quarter-employee-gm-driverless-spending)
- - [Bag This Apple Watch Ultra 2 Holiday Deal Before It&#39;s Too Late     - CNET](https://www.cnet.com/deals/bag-this-apple-watch-ultra-2-holiday-deal-before-its-too-late/#ftag=CAD590a51e)
- - [YouTube updates its TV app to show longer but less frequent ad breaks, after testing since September 2023, and now shows a countdown in the bottom-right corner &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p31#a231214p31)<!-- TECH:END -->
+ - [Cruise lays off nearly a quarter of the company after grounding its robotaxi fleet](https://www.theverge.com/2023/12/14/24001357/cruise-layoff-quarter-employee-gm-driverless-spending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

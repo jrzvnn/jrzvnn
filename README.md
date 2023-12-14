@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
- - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
- - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
+ - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 💣 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
+ - 😝 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
+ - 👉 [These are the people in your neighborhood](http://9gag.com/gag/a3ZXQB7)<!-- MEMES:END -->
 
 ---
 

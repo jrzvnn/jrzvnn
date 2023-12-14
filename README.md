@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A long-established stores that have been loved in Fukuoka for many years. The food looks amazing](http://9gag.com/gag/ay2je1y)
- - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 💣 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 💣 [Is your wife single?](http://9gag.com/gag/aZDOy29)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Where music?](http://9gag.com/gag/aZDOyoQ)<!-- MEMES:END -->
+ - 👉 [Squint your eyes hehe](http://9gag.com/gag/a1P3oDG)<!-- MEMES:END -->
 
 ---
 

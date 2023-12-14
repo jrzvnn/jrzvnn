@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces Gaudi3, a generative AI chip launching in 2024 to compete with Nvidia&#39;s H100 and AMD&#39;s forthcoming MI300X, but was light on details &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231214/p29#a231214p29)
  - [Amazon successfully validates Project Kuiper&#39;s optical inter-satellite links, which use infrared lasers to move data 30% faster than terrestrial fiber cables &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231214/p28#a231214p28)
- - [Cable service cancellation fees might be on the way out](https://www.theverge.com/2023/12/14/24001225/fcc-ban-cable-service-cancellation-junk-fees)
- - [Moms For Liberty Is Tearing Itself Apart](https://www.wired.com/story/moms-for-liberty-ziegler/)
- - [Apple’s M2-powered MacBook Airs are up to $250 off](https://www.theverge.com/2023/12/14/23999837/apple-m2-macbook-air-eufy-security-smarttrack-card-kobo-libra-2-airpods-deal-sale)
- - [A deepfake of Putin, built by a student from Saint Petersburg State University, quizzed Putin about AI and doppelgangers during a Q&amp;A session with the public &lpar;David Averre/Daily Mail&rpar;](http://www.techmeme.com/231214/p27#a231214p27)<!-- TECH:END -->
+ - [With the Apple Watch Series 8 Down to $249, Why Spend More on a Series 9?     - CNET](https://www.cnet.com/deals/with-the-apple-watch-series-8-down-to-249-why-spend-more-on-a-series-9/#ftag=CAD590a51e)
+ - [This Compact Anker Power Station is Over $100 Off Today Only     - CNET](https://www.cnet.com/deals/this-compact-anker-power-station-is-over-100-off-today-only/#ftag=CAD590a51e)
+ - [Cable service cancellation fees might be on the way out](https://www.theverge.com/2023/12/14/24001225/fcc-ban-cable-service-cancellation-junk-fees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

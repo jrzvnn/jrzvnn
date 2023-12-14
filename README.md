@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pink](http://9gag.com/gag/aZDOL69)
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 😝 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
+ - 💣 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
  - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
+ - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
 
 ---
 

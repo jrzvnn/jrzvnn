@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [Pink](http://9gag.com/gag/aZDOL69)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 💣 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 

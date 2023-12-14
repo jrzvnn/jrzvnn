@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 👉 [These are the people in your neighborhood](http://9gag.com/gag/a3ZXQB7)<!-- MEMES:END -->
+ - 😝 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 👉 [Never forget!](http://9gag.com/gag/aMEMY2X)<!-- MEMES:END -->
 
 ---
 

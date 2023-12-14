@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
+ - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
  - 😝 [Pink](http://9gag.com/gag/aZDOL69)
- - 💣 [Name a woman](http://9gag.com/gag/aNwEYPv)
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
 
 ---
 

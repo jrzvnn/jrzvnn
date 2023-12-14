@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
- - 💣 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 😝 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
+ - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 😝 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 

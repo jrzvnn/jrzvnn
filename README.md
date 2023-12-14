@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised a $40M Series B and $125M debt, after raising a $20M Series A in May 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231214/p20#a231214p20)
  - [Sources: LinkedIn halted an effort, announced in 2019, to relocate its data centers out of its physical facilities and into Azure, a setback for Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231214/p19#a231214p19)
  - [Google plans to start testing Tracking Protection on January 4 on ~1% of global Chrome users to block third-party cookies, ahead of a phased rollout in H2 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231214/p18#a231214p18)
  - [31 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)
- - [5 Best Mattresses on Amazon &lpar;2023&rpar;: Leesa, Linenspa, Zinus](https://www.wired.com/gallery/best-amazon-mattresses/)
- - [Google will turn off third-party tracking for some Chrome users soon](https://www.theverge.com/2023/12/14/24000451/google-chrome-tracking-protection-launch-third-party-cookies-ads)<!-- TECH:END -->
+ - [5 Best Mattresses on Amazon &lpar;2023&rpar;: Leesa, Linenspa, Zinus](https://www.wired.com/gallery/best-amazon-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

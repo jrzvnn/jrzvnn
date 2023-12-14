@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: man can f****ck everything Also women:](http://9gag.com/gag/a4oO7x1)
- - 😝 [Pink](http://9gag.com/gag/aZDOL69)
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
+ - 😝 [I asked him what those things were, but he didn&#39;t want to tell, and I didn&#39;t want to push... But the way he said it... He meant it. I agreed to let him have this way.](http://9gag.com/gag/aL170xg)
+ - 💣 [Title](http://9gag.com/gag/aQEWeGd)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
+ - 👉 [Never forget!](http://9gag.com/gag/aMEMY2X)<!-- MEMES:END -->
 
 ---
 

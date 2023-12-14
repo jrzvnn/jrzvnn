@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta launches Threads in the European Union, expanding on the US, the UK, and 100+ other countries, and adds a way to browse Threads without a profile &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231214/p9#a231214p9)
+ - [How to clear and reset Firefox&#39;s profile folder on macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-and-reset-firefoxs-profile-folder-on-macos?utm_medium=rss)
  - [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
  - [UK-based Qogita, an e-commerce wholesale marketplace for the health and beauty sectors, raised an &amp;euro;80M Series B led by Dawn Capital, for &amp;euro;119M raised in total &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231214/p8#a231214p8)
- - [Inside Mark Zuckerberg’s Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
- - [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
- - [Save 15% on Your Next Peet&#39;s Coffee Fix This Holiday Season     - CNET](https://www.cnet.com/deals/save-15-on-your-next-peets-coffee-fix-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside Mark Zuckerberg’s Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

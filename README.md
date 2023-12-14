@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
- - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 💣 [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 😝 [When you&#39;re really happy and it&#39;s not appreciated...](http://9gag.com/gag/a7qRwjm)
+ - 😝 [Pink](http://9gag.com/gag/aZDOL69)
+ - 💣 [Name a woman](http://9gag.com/gag/aNwEYPv)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [Squint your eyes hehe](http://9gag.com/gag/a1P3oDG)<!-- MEMES:END -->
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 

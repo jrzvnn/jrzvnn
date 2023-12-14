@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind used its FunSearch model to crack the famous cap set problem in pure mathematics, the first time an LLM solved a long-standing scientific puzzle &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231214/p32#a231214p32)
  - [Cruise lays off nearly a quarter of the company after GM slashes driverless spending](https://www.theverge.com/2023/12/14/24001357/cruise-layoff-quarter-employee-gm-driverless-spending)
  - [YouTube updates its TV app to show longer but less frequent ad breaks, after testing since September 2023, and now shows a countdown in the bottom-right corner &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p31#a231214p31)
  - [Microsoft’s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime](https://www.wired.com/story/microsoft-digital-crime-unit-2023/)
- - [How to easily find the GTA trilogy &lpar;and other games&rpar; on Netflix](https://www.theverge.com/24001319/gta-trilogy-netflix-download-iphone-android)
- - [Google launches a Pixel Diagnostic App and English-language repair manuals in the US, the UK, Canada, Australia, and European countries where Pixels are sold &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231214/p30#a231214p30)<!-- TECH:END -->
+ - [How to easily find the GTA trilogy &lpar;and other games&rpar; on Netflix](https://www.theverge.com/24001319/gta-trilogy-netflix-download-iphone-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andreessen Horowitz says &quot;we will, for the first time, get involved with politics by supporting candidates who align with our vision and values&quot; for technology &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/231214/p40#a231214p40)
+ - [Mailchimp cancels podcast after refusing to work with union producers](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled)
  - [Grimes has a new line of AI plush toys, including one named Grok](https://www.theverge.com/2023/12/14/24001895/grimes-curio-ai-toy-grok-pre-order)
  - [The US FCC grants SpaceX temporary authorization to test its cellular Starlink system by beaming data to unmodified smartphones in over two dozen locations &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231214/p39#a231214p39)
- - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)
- - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)
- - [PlayStation 5     - CNET](https://www.cnet.com/tech/gaming/playstation-5-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU AI Act passed — now comes the waiting](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

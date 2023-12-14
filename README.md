@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At Intel&#39;s NYC event, Pat Gelsinger claimed that for AI, inference will become more important than training, and the industry wants to &quot;eliminate&quot; Nvidia&#39;s CUDA &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p37#a231214p37)
  - [Apple is making a Murderbot series starring Alexander Skarsgård](https://www.theverge.com/2023/12/14/24001803/murderbot-series-apple-tv-plus-alexander-skarsgard)
- - [A federal judge tentatively rules that Elon Musk must testify for the US SEC&#39;s investigation of his $44B takeover of Twitter, after the SEC sued Musk in October &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
+ - [A judge tentatively rules that Elon Musk must testify again for the US SEC&#39;s investigation of his $44B Twitter takeover, after the SEC sued Musk in October 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
  - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)
- - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)
- - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

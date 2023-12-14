@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 😝 [Immediate karma. Got heart attack after ask Allah for death of Israel supporters.](http://9gag.com/gag/aL17jdg)
  - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Title](http://9gag.com/gag/a2K6Zmw)
+ - 👉 [F**k around, find out](http://9gag.com/gag/a4oOEPp)<!-- MEMES:END -->
 
 ---
 

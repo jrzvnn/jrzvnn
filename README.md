@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Netflix’s Yu Yu Hakusho needed more time in the spirit world](https://www.theverge.com/24001423/yu-yu-hakusho-review-netflix-live-action)
  - [OpenAI details how its Superalignment research team is exploring ways to control strong AI models like GPT-4 with weak supervisor models like GPT-2 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231214/p35#a231214p35)
- - [Google releases on-device diagnostics tool and repair manuals for Pixel phones](https://www.theverge.com/2023/12/14/24001459/google-diagnostics-app-pixel-phones-repair)
- - [Apple&#39;s iPhone 15 Pro transforms memories into 3D magic with Apple Vision Pro](https://appleinsider.com/articles/23/12/14/apples-iphone-15-pro-transforms-memories-into-3d-magic-with-apple-vision-pro?utm_medium=rss)
- - [The US DOJ announces four indictments and two arrests have been made in an alleged international pig butchering crypto scam that cost victims $80M+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231214/p34#a231214p34)
- - [Massive Layoffs Hit Troubled Robotaxi Developer Cruise](https://www.wired.com/story/massive-layoffs-robotaxi-gm-cruise/)<!-- TECH:END -->
+ - [Earn a $100 Amazon Gift Card in Time for Christmas     - CNET](https://www.cnet.com/personal-finance/credit-cards/earn-a-100-amazon-gift-card-in-time-for-christmas/#ftag=CAD590a51e)
+ - [Don&#39;t Let Online Scammers Ruin Your Holiday Shopping     - CNET](https://www.cnet.com/tech/services-and-software/youd-better-watch-out-tis-the-season-for-holiday-shopping-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

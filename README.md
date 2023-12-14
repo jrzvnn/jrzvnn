@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube updates its TV app to show longer but less frequent ad breaks, after testing since September 2023, and now shows a countdown in the bottom-right corner &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p31#a231214p31)
+ - [Microsoft’s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime](https://www.wired.com/story/microsoft-digital-crime-unit-2023/)
  - [How to easily find the GTA trilogy &lpar;and other games&rpar; on Netflix](https://www.theverge.com/24001319/gta-trilogy-netflix-download-iphone-android)
  - [Google launches a Pixel Diagnostic App and English-language repair manuals in the US, the UK, Canada, Australia, and European countries where Pixels are sold &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231214/p30#a231214p30)
- - [My Surprisingly Unbiased Week With Elon Musk&#39;s &#39;Politically Biased&#39; Chatbot](https://www.wired.com/story/fast-forward-elon-musk-grok-political-bias-chatbot/)
- - [Intel announces Gaudi3, a generative AI chip launching in 2024 to compete with Nvidia&#39;s H100 and AMD&#39;s forthcoming MI300X, but was light on details &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231214/p29#a231214p29)
- - [Amazon successfully validates Project Kuiper&#39;s optical inter-satellite links, which use infrared lasers to move data 30% faster than terrestrial fiber cables &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231214/p28#a231214p28)<!-- TECH:END -->
+ - [My Surprisingly Unbiased Week With Elon Musk&#39;s &#39;Politically Biased&#39; Chatbot](https://www.wired.com/story/fast-forward-elon-musk-grok-political-bias-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

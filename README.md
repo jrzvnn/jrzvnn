@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
  - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
  - 💣 [Not on my watch](http://9gag.com/gag/aDYe4ew)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
+ - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
 
 ---
 

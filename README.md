@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
+ - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
  - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 😝 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
- - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
 
 ---
 

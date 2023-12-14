@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
  - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
 
 ---

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
+ - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 😝 [Pink](http://9gag.com/gag/aZDOL69)
+ - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
  - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 💣 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)
- - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
- - 👉 [That poor clown](http://9gag.com/gag/aZDO0X3)<!-- MEMES:END -->
+ - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
  - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
+ - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
 
 ---
 

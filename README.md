@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Commission grills Apple and Google on app store risks and ad practices](https://appleinsider.com/articles/23/12/14/european-commission-grills-apple-and-google-on-app-store-risks-and-ad-practices?utm_medium=rss)
- - [Snag These Open-Ear Soundcore AeroFit Earbuds at an All-Time Low Price     - CNET](https://www.cnet.com/deals/snag-these-open-ear-soundcore-aerofit-earbuds-at-an-all-time-low-price/#ftag=CAD590a51e)
- - [Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised a $40M Series B and $125M debt, after raising a $20M Series A in May 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231214/p20#a231214p20)
- - [Today&#39;s Best CD Rates: Dec. 14, 2023 -- Have We Reached the Peak of High APYs?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-14-2023/#ftag=CAD590a51e)
- - [Sources: LinkedIn halted an effort, announced in 2019, to relocate its data centers out of its physical facilities and into Azure, a setback for Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231214/p19#a231214p19)<!-- TECH:END -->
+ - [AT&amp;T is Rivian’s latest EV customer following Amazon deal](https://www.theverge.com/2023/12/14/24001138/rivian-commercial-van-ev-att-amazon-exclusivity-end)
+ - [Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI](https://www.theverge.com/2023/12/14/23998215/intel-core-ultra-cpu-specs-availability)
+ - [Elon Musk wants to open a university in Texas](https://www.theverge.com/2023/12/14/24001119/elon-musk-university-schools-texas)
+ - [An in-depth look at Mark Zuckerberg&#39;s 1,400-acre, $270M+ compound in Kauai, Hawaii, including a 5,000 sq. ft. underground shelter, a project shrouded in secrecy &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/231214/p21#a231214p21)
+ - [European Commission grills Apple and Google on app store risks and ad practices](https://appleinsider.com/articles/23/12/14/european-commission-grills-apple-and-google-on-app-store-risks-and-ad-practices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

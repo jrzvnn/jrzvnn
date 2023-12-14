@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 😝 [Is it just me?](http://9gag.com/gag/aNwE1BK)
- - 💣 [Radical feminists in a nutshell](http://9gag.com/gag/az2p9zN)
- - 😝 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
- - 👉 [These are the people in your neighborhood](http://9gag.com/gag/a3ZXQB7)<!-- MEMES:END -->
+ - 😝 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
+ - 💣 [Not on my watch](http://9gag.com/gag/aDYe4ew)
+ - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cable service cancellation fees might be on the way out](https://www.theverge.com/2023/12/14/24001225/fcc-ban-cable-service-cancellation-junk-fees)
+ - [Moms For Liberty Is Tearing Itself Apart](https://www.wired.com/story/moms-for-liberty-ziegler/)
  - [Apple’s M2-powered MacBook Airs are up to $250 off](https://www.theverge.com/2023/12/14/23999837/apple-m2-macbook-air-eufy-security-smarttrack-card-kobo-libra-2-airpods-deal-sale)
  - [A deepfake of Putin, built by a student from Saint Petersburg State University, quizzed Putin about AI and doppelgangers during a Q&amp;A session with the public &lpar;David Averre/Daily Mail&rpar;](http://www.techmeme.com/231214/p27#a231214p27)
- - [Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more](https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more?utm_medium=rss)
- - [Sources: Google plans to use Gemini across its entire line of products, including an AI assistant called Pixie that will be exclusive to its Pixel devices &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231214/p26#a231214p26)
- - [Sources: the UK is considering a crackdown on social media access for kids under 16, including potential bans, and is planning a consultation as soon as January &lpar;Bloomberg&rpar;](http://www.techmeme.com/231214/p25#a231214p25)<!-- TECH:END -->
+ - [Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more](https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

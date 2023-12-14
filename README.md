@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ announces four indictments and two arrests have been made in an alleged international pig butchering crypto scam that cost victims $80M+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231214/p34#a231214p34)
+ - [Massive Layoffs Hit Troubled Robotaxi Developer Cruise](https://www.wired.com/story/massive-layoffs-robotaxi-gm-cruise/)
  - [OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check](https://www.wired.com/story/openai-ilya-sutskever-ai-safety/)
- - [Pick up an Apple Watch for as low as $199 just in time for Christmas](https://appleinsider.com/articles/23/12/14/pick-up-an-apple-watch-for-as-low-as-199-just-in-time-for-christmas?utm_medium=rss)
- - [The confusion around Dropbox&#39;s AI toggle highlights an AI trust crisis where many users don&#39;t believe OpenAI&#39;s claims that their data won&#39;t be used for training &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231214/p33#a231214p33)
- - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [Temu sues Shein, alleging ‘Mafia-style’ intimidation of manufacturers](https://www.theverge.com/2023/12/14/24001274/temu-shein-lawsuit-ecommerce-merchant-intimidation-copyright-infringement-dmca)<!-- TECH:END -->
+ - [Best Internet Providers in Columbus, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-ga/#ftag=CAD590a51e)
+ - [DuckDuckGo&#39;s App Tracking Protection Is Now Out of Beta     - CNET](https://www.cnet.com/tech/services-and-software/duckduckgos-app-tracking-protection-is-now-out-of-beta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

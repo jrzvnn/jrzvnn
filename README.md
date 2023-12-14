@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [After an on-by-default AI toggle caused confusion, Dropbox says user data is only shared with OpenAI if the AI-powered search feature is actively being used &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231214/p3#a231214p3)
  - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)
  - [A Stanford survey of 40+ US high schools finds ChatGPT didn&#39;t increase cheating rates in 2023 versus prior years, suggesting the alarm may have been overblown &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/231214/p1#a231214p1)
- - [How the US rise of Japanese news aggregator SmartNews, valued at $2B in 2021, came to a halt in 2023, leading to the departure of CEO Ken Suzuki in November &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/231213/p45#a231213p45)
- - [Temu sues rival Shein in the US over &quot;intensified&quot; anti-competitive practices, reviving a legal fight after both had dropped earlier lawsuits against each other &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231213/p44#a231213p44)<!-- TECH:END -->
+ - [Best iPhone Deals 2023: Cheapest Ways to Get an Apple Phone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
+ - [How the US rise of Japanese news aggregator SmartNews, valued at $2B in 2021, came to a halt in 2023, leading to the departure of CEO Ken Suzuki in November &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/231213/p45#a231213p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

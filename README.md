@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s stock rose 1.7% to close at $197.96 on December 13, surpassing its previous record close in July 2023 and up 52% for the year, for a $3.08T market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/231214/p12#a231214p12)
- - [Privacy-focused developer Proton launches a Windows and macOS app that includes Proton Mail and Proton Calendar in beta ahead of a wider early 2024 launch &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/231214/p11#a231214p11)
- - [The CJEU upholds overturning an EU order to Amazon to pay back &amp;euro;250M in taxes to Luxembourg, ending an ongoing case since 2017; the ruling cannot be appealed &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231214/p10#a231214p10)
- - [Meta launches Threads in the European Union, expanding on the US, the UK, and 100+ other countries, and adds a way to browse Threads without a profile &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231214/p9#a231214p9)
- - [How to clear and reset Firefox&#39;s profile folder on macOS](https://appleinsider.com/inside/macos/tips/how-to-clear-and-reset-firefoxs-profile-folder-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Sensor Tower: 51 of the top 100 US advertisers on X in October 2022, when Elon Musk bought the platform, have ceased ad spending on X as of November 2023 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/231214/p14#a231214p14)
+ - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)
+ - [Pinterest Is Having a Moment](https://www.wired.com/story/pinterest-gen-z-future/)
+ - [Google’s Nest Renew joins Alphabet spinoff to form Renew Home](https://www.theverge.com/2023/12/14/24000407/google-nest-renew-smart-thermostat-renew-home-alphabet)
+ - [H&amp;R Block launches AI tax filing assistant](https://www.theverge.com/2023/12/14/24000368/hr-block-taxes-generative-ai-openai-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

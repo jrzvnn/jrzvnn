@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TikTok quietly changed its TOS in July 2023, including removing requiring users to go through private arbitration, making it more difficult to sue the company &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/231214/p38#a231214p38)
  - [At Intel&#39;s NYC event, Pat Gelsinger claimed that for AI, inference will become more important than training, and the industry wants to &quot;eliminate&quot; Nvidia&#39;s CUDA &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p37#a231214p37)
  - [Apple is making a Murderbot series starring Alexander Skarsgård](https://www.theverge.com/2023/12/14/24001803/murderbot-series-apple-tv-plus-alexander-skarsgard)
- - [A judge tentatively rules that Elon Musk must testify again for the US SEC&#39;s investigation of his $44B Twitter takeover, after the SEC sued Musk in October 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
- - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17.3 Beta 1: What Could Be Coming to Your iPhone Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-beta-1-what-could-be-coming-to-your-iphone-soon/#ftag=CAD590a51e)
+ - [A judge tentatively rules that Elon Musk must testify again for the US SEC&#39;s investigation of his $44B Twitter takeover, after the SEC sued Musk in October 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo, MSI, Acer, and Asus launch laptops with Intel&#39;s Core Ultra chips, featuring an NPU for &quot;low-power AI acceleration and CPU/GPU off-load&quot; for AI tasks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p23#a231214p23)
- - [Adobe faces big fines from FTC over difficult subscription cancellation](https://appleinsider.com/articles/23/12/14/adobe-faces-big-fines-from-ftc-over-difficult-subscription-cancellation?utm_medium=rss)
- - [&#39;Barbie&#39; Will Stream on Max Tomorrow: Here&#39;s What Time You Can Watch     - CNET](https://www.cnet.com/tech/services-and-software/barbie-will-stream-on-max-tomorrow-heres-what-time-you-can-watch/#ftag=CAD590a51e)
- - [Intel unveils the Core Ultra H and the Core Ultra U series, its first mobile processors based on the Meteor Lake platform, designed for ultra-portable notebooks &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231214/p22#a231214p22)
- - [Upgrade Your Christmas Tree With 50% Off Nanoleaf&#39;s Smart Holiday String Lights     - CNET](https://www.cnet.com/deals/upgrade-your-christmas-tree-with-50-off-nanoleafs-smart-holiday-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s M2-powered MacBook Airs are up to $250 off](https://www.theverge.com/2023/12/14/23999837/apple-m2-macbook-air-eufy-security-smarttrack-card-kobo-libra-2-airpods-deal-sale)
+ - [A deepfake of Putin, built by a student from Saint Petersburg State University, quizzed Putin about AI and doppelgangers during a Q&amp;A session with the public &lpar;David Averre/Daily Mail&rpar;](http://www.techmeme.com/231214/p27#a231214p27)
+ - [Daily deals Dec. 14: Apple Watch Ultra 2 $699, $100 off iPad Air 5, Apple TV for $45, more](https://appleinsider.com/articles/23/12/14/daily-deals-dec-14-apple-watch-ultra-2-699-100-off-ipad-air-5-apple-tv-for-45-more?utm_medium=rss)
+ - [Sources: Google plans to use Gemini across its entire line of products, including an AI assistant called Pixie that will be exclusive to its Pixel devices &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/231214/p26#a231214p26)
+ - [Sources: the UK is considering a crackdown on social media access for kids under 16, including potential bans, and is planning a consultation as soon as January &lpar;Bloomberg&rpar;](http://www.techmeme.com/231214/p25#a231214p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

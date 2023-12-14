@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Adobe faces big fines from FTC over difficult subscription cancellation](https://appleinsider.com/articles/23/12/14/adobe-faces-big-fines-from-ftc-over-difficult-subscription-cancellation?utm_medium=rss)
+ - [&#39;Barbie&#39; Will Stream on Max Tomorrow: Here&#39;s What Time You Can Watch     - CNET](https://www.cnet.com/tech/services-and-software/barbie-will-stream-on-max-tomorrow-heres-what-time-you-can-watch/#ftag=CAD590a51e)
  - [Intel unveils the Core Ultra H and the Core Ultra U series, its first mobile processors based on the Meteor Lake platform, designed for ultra-portable notebooks &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231214/p22#a231214p22)
- - [AT&amp;T is Rivian’s latest EV customer following Amazon deal](https://www.theverge.com/2023/12/14/24001138/rivian-commercial-van-ev-att-amazon-exclusivity-end)
- - [Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI](https://www.theverge.com/2023/12/14/23998215/intel-core-ultra-cpu-specs-availability)
- - [Elon Musk wants to open a university in Texas](https://www.theverge.com/2023/12/14/24001119/elon-musk-university-schools-texas)<!-- TECH:END -->
+ - [Upgrade Your Christmas Tree With 50% Off Nanoleaf&#39;s Smart Holiday String Lights     - CNET](https://www.cnet.com/deals/upgrade-your-christmas-tree-with-50-off-nanoleafs-smart-holiday-string-lights/#ftag=CAD590a51e)
+ - [Today&#39;s Best CD Rates: Dec. 14, 2023 -- Fed Holds Rates Steady. How Long Will CD Rates Stay High?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-14-2023-fed-holds-rates-steady-how-long-will-cd-rates-stay-high/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

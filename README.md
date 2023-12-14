@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
  - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
  - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---

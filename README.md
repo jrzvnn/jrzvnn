@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases on-device diagnostics tool and repair manuals for Pixel phones](https://www.theverge.com/2023/12/14/24001459/google-diagnostics-app-pixel-phones-repair)
+ - [Apple&#39;s iPhone 15 Pro transforms memories into 3D magic with Apple Vision Pro](https://appleinsider.com/articles/23/12/14/apples-iphone-15-pro-transforms-memories-into-3d-magic-with-apple-vision-pro?utm_medium=rss)
  - [The US DOJ announces four indictments and two arrests have been made in an alleged international pig butchering crypto scam that cost victims $80M+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231214/p34#a231214p34)
  - [Massive Layoffs Hit Troubled Robotaxi Developer Cruise](https://www.wired.com/story/massive-layoffs-robotaxi-gm-cruise/)
- - [OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check](https://www.wired.com/story/openai-ilya-sutskever-ai-safety/)
- - [Best Internet Providers in Columbus, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-ga/#ftag=CAD590a51e)
- - [DuckDuckGo&#39;s App Tracking Protection Is Now Out of Beta     - CNET](https://www.cnet.com/tech/services-and-software/duckduckgos-app-tracking-protection-is-now-out-of-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check](https://www.wired.com/story/openai-ilya-sutskever-ai-safety/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

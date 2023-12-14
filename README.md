@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
+ - 😝 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
  - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 💣 [Title](http://9gag.com/gag/a2K6Zmw)
- - 😝 [Wow/1](http://9gag.com/gag/aYVX7eO)
- - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
+ - 💣 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)
+ - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 👉 [That poor clown](http://9gag.com/gag/aZDO0X3)<!-- MEMES:END -->
 
 ---
 

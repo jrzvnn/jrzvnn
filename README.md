@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opera’s gamer browser now has a ‘panic button’ for when you’re caught in the act](https://www.theverge.com/2023/12/14/24001016/opera-gx-browser-panic-button)
  - [Bengaluru-based B2B e-commerce startup Udaan raised $340M led by UK retail bank M&amp;G, its first equity raise since 2021 and one of India&#39;s largest rounds in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231214/p7#a231214p7)
  - [These 10 Tips Can Help Enhance Your iPhone or Android&#39;s Reception     - CNET](https://www.cnet.com/tech/mobile/these-10-tips-can-help-enhance-your-iphone-or-androids-reception/#ftag=CAD590a51e)
  - [Three Polish hackers say they fixed trains allegedly bricked by manufacturer Newag after an independent repair shop worked on them; Newag denies bricking them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231214/p6#a231214p6)
- - [Here&#39;s How You Can Save Your Netflix Profile Even Once You&#39;ve Been Kicked Off Someone Else&#39;s Account     - CNET](https://www.cnet.com/tech/home-entertainment/heres-how-you-can-save-your-netflix-profile-even-once-youve-been-kicked-off-someone-elses-account/#ftag=CAD590a51e)
- - [Q&amp;A with ESA CEO Stanley Pierre-Louis on why the ESA couldn&#39;t save E3, his favorite E3 memory, competition, working with the media, the ESA&#39;s future, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231214/p5#a231214p5)<!-- TECH:END -->
+ - [Here&#39;s How You Can Save Your Netflix Profile Even Once You&#39;ve Been Kicked Off Someone Else&#39;s Account     - CNET](https://www.cnet.com/tech/home-entertainment/heres-how-you-can-save-your-netflix-profile-even-once-youve-been-kicked-off-someone-elses-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel unveils the Core Ultra H and the Core Ultra U series, its first mobile processors based on the Meteor Lake platform, designed for ultra-portable notebooks &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231214/p22#a231214p22)
  - [AT&amp;T is Rivian’s latest EV customer following Amazon deal](https://www.theverge.com/2023/12/14/24001138/rivian-commercial-van-ev-att-amazon-exclusivity-end)
  - [Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI](https://www.theverge.com/2023/12/14/23998215/intel-core-ultra-cpu-specs-availability)
  - [Elon Musk wants to open a university in Texas](https://www.theverge.com/2023/12/14/24001119/elon-musk-university-schools-texas)
- - [An in-depth look at Mark Zuckerberg&#39;s 1,400-acre, $270M+ compound in Kauai, Hawaii, including a 5,000 sq. ft. underground shelter, a project shrouded in secrecy &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/231214/p21#a231214p21)
- - [European Commission grills Apple and Google on app store risks and ad practices](https://appleinsider.com/articles/23/12/14/european-commission-grills-apple-and-google-on-app-store-risks-and-ad-practices?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Koolau Ranch, Mark Zuckerberg&#39;s 1,400-acre, $270M+ compound in Kauai, Hawaii, with a 5,000 sq. ft. underground shelter, a project shrouded in secrecy &lpar;Guthrie Scrimgeour/Wired&rpar;](http://www.techmeme.com/231214/p21#a231214p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

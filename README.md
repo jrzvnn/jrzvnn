@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 💣 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)
- - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
- - 👉 [That poor clown](http://9gag.com/gag/aZDO0X3)<!-- MEMES:END -->
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 

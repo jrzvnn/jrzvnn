@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where music?](http://9gag.com/gag/aZDOyoQ)
- - 😝 [Not on my watch](http://9gag.com/gag/aDYe4ew)
- - 💣 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [Squint your eyes hehe](http://9gag.com/gag/a1P3oDG)
+ - 💣 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
  - 😝 [\ud83c\udf819GAG fam x OnePlus Nord Giveaway\ud83c\udf89\ud83c\udf84Christmas is a time for giving! We have partnered with OnePlus Nord to give away 50 OnePlus Nord 3 phones. Join on @9GAG Instagram now!](http://9gag.com/gag/aqeognj)
- - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
+ - 👉 [His own fingerprints](http://9gag.com/gag/aA0zbE0)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 😝 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
- - 💣 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 👉 [That spit though](http://9gag.com/gag/ap9ZNe5)<!-- MEMES:END -->
+ - 😝 [Suposed `AAA` games and shitty multiplayer have made gaming a nasty experience. I realized that the most fun I have in games is when I play solo. With either a good story... or no story at all...](http://9gag.com/gag/aXn6o59)
+ - 😝 [His back half never lost focus....](http://9gag.com/gag/aVbyxDy)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 👉 [Was the Russian Empire actually tried to colonize Ethiopia?](http://9gag.com/gag/a5X01pO)<!-- MEMES:END -->
 
 ---
 

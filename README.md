@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)
+ - [Google says its Nest Renew service will merge with the OhmConnect energy management platform to form Renew Home, a new firm with $100M from Alphabet-backed SIP &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231214/p16#a231214p16)
+ - [Instagram launches a generative AI background editing tool in the US, letting users change the background for their Stories based on prompts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231214/p15#a231214p15)
  - [Sensor Tower: 51 of the top 100 US advertisers on X in October 2022, when Elon Musk bought the platform, have ceased ad spending on X as of November 2023 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/231214/p14#a231214p14)
- - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)
- - [Pinterest Is Having a Moment](https://www.wired.com/story/pinterest-gen-z-future/)
- - [Google’s Nest Renew joins Alphabet spinoff to form Renew Home](https://www.theverge.com/2023/12/14/24000407/google-nest-renew-smart-thermostat-renew-home-alphabet)
- - [H&amp;R Block launches AI tax filing assistant](https://www.theverge.com/2023/12/14/24000368/hr-block-taxes-generative-ai-openai-microsoft)<!-- TECH:END -->
+ - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

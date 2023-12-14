@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)
  - [A Stanford survey of 40+ US high schools finds ChatGPT didn&#39;t increase cheating rates in 2023 versus prior years, suggesting the alarm may have been overblown &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/231214/p1#a231214p1)
  - [How the US rise of Japanese news aggregator SmartNews, valued at $2B in 2021, came to a halt in 2023, leading to the departure of CEO Ken Suzuki in November &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/231213/p45#a231213p45)
  - [Temu sues rival Shein in the US over &quot;intensified&quot; anti-competitive practices, reviving a legal fight after both had dropped earlier lawsuits against each other &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231213/p44#a231213p44)
- - [Instagram plans to roll out new tools in the coming weeks to flag fake followers and spam content, giving users the option to delete those items in bulk &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231213/p43#a231213p43)
- - [Beeper Mini is down for 5% of users, but there&#39;s a fix](https://appleinsider.com/articles/23/12/14/beeper-mini-is-down-for-5-of-users-but-theres-a-fix?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram plans to roll out new tools in the coming weeks to flag fake followers and spam content, giving users the option to delete those items in bulk &lpar;Malak Saleh/Engadget&rpar;](http://www.techmeme.com/231213/p43#a231213p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

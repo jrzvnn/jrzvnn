@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opera’s gamer browser now has a ‘panic button’ for when you’re caught in the act](https://www.theverge.com/2023/12/14/24001016/opera-gx-browser-panic-button)
- - [Bengaluru-based B2B e-commerce startup Udaan raised $340M led by UK retail bank M&amp;G, its first equity raise since 2021 and one of India&#39;s largest rounds in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231214/p7#a231214p7)
- - [These 10 Tips Can Help Enhance Your iPhone or Android&#39;s Reception     - CNET](https://www.cnet.com/tech/mobile/these-10-tips-can-help-enhance-your-iphone-or-androids-reception/#ftag=CAD590a51e)
- - [Three Polish hackers say they fixed trains allegedly bricked by manufacturer Newag after an independent repair shop worked on them; Newag denies bricking them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231214/p6#a231214p6)
- - [Here&#39;s How You Can Save Your Netflix Profile Even Once You&#39;ve Been Kicked Off Someone Else&#39;s Account     - CNET](https://www.cnet.com/tech/home-entertainment/heres-how-you-can-save-your-netflix-profile-even-once-youve-been-kicked-off-someone-elses-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
+ - [UK-based Qogita, an e-commerce wholesale marketplace for the health and beauty sectors, raised an &amp;euro;80M Series B led by Dawn Capital, for &amp;euro;119M raised in total &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231214/p8#a231214p8)
+ - [Inside Mark Zuckerberg’s Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
+ - [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
+ - [Save 15% on Your Next Peet&#39;s Coffee Fix This Holiday Season     - CNET](https://www.cnet.com/deals/save-15-on-your-next-peets-coffee-fix-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

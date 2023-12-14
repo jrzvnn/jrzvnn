@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)
- - [Google says its Nest Renew service will merge with the OhmConnect energy management platform to form Renew Home, a new firm with $100M from Alphabet-backed SIP &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231214/p16#a231214p16)
- - [Instagram launches a generative AI background editing tool in the US, letting users change the background for their Stories based on prompts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231214/p15#a231214p15)
- - [Sensor Tower: 51 of the top 100 US advertisers on X in October 2022, when Elon Musk bought the platform, have ceased ad spending on X as of November 2023 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/231214/p14#a231214p14)
- - [Apple begins selling a $99 USB-C charging case for its second-generation AirPods Pro as a standalone purchase &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231214/p13#a231214p13)<!-- TECH:END -->
+ - [Why Deleting Carbon From the Atmosphere Is So Controversial](https://www.wired.com/story/why-deleting-carbon-from-the-atmosphere-is-so-controversial/)
+ - [LG C3 Review: The Best OLED for Most](https://www.wired.com/review/lg-c3-oled/)
+ - [Astrology Gifts Are Remarkably Intimate. These Picks Are Stellar](https://www.wired.com/story/astrology-gifts-rave/)
+ - [Meet Taylor Swift’s Pro-Russia Doppelganger](https://www.wired.com/story/gadget-lab-podcast-624/)
+ - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

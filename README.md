@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 😝 [Pink](http://9gag.com/gag/aZDOL69)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
  - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 💣 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 👉 [These are the people in your neighborhood](http://9gag.com/gag/a3ZXQB7)<!-- MEMES:END -->
+ - 👉 [Basketba\u2026..](http://9gag.com/gag/ay2jXyM)<!-- MEMES:END -->
 
 ---
 

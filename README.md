@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A federal judge tentatively rules that Elon Musk must testify for the US SEC&#39;s investigation of his $44B takeover of Twitter, after the SEC sued Musk in October &lpar;Reuters&rpar;](http://www.techmeme.com/231214/p36#a231214p36)
+ - [Apple TV+ secures deal for &#39;Murderbot&#39; sci-fi series starring Alexander Skarsgard and helmed by Weitz brothers](https://appleinsider.com/articles/23/12/14/apple-tv-secures-deal-for-murderbot-sci-fi-series-starring-alexander-skarsgard-and-helmed-by-weitz-brothers?utm_medium=rss)
+ - [The Verge’s 2023 digital gift guide](https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes)
  - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [Netflix’s Yu Yu Hakusho needed more time in the spirit world](https://www.theverge.com/24001423/yu-yu-hakusho-review-netflix-live-action)
- - [OpenAI details how its Superalignment research team is exploring ways to control strong AI models like GPT-4 with weak supervisor models like GPT-2 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/231214/p35#a231214p35)
- - [Earn a $100 Amazon Gift Card in Time for Christmas     - CNET](https://www.cnet.com/personal-finance/credit-cards/earn-a-100-amazon-gift-card-in-time-for-christmas/#ftag=CAD590a51e)
- - [Don&#39;t Let Online Scammers Ruin Your Holiday Shopping     - CNET](https://www.cnet.com/tech/services-and-software/youd-better-watch-out-tis-the-season-for-holiday-shopping-scams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s Yu Yu Hakusho needed more time in the spirit world](https://www.theverge.com/24001423/yu-yu-hakusho-review-netflix-live-action)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

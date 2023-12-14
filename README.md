@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK regulator Ofcom investigates TikTok over concerns of supplying &quot;inaccurate&quot; information on its parental controls; TikTok blames a technical issue &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231214/p17#a231214p17)
  - [Why Deleting Carbon From the Atmosphere Is So Controversial](https://www.wired.com/story/why-deleting-carbon-from-the-atmosphere-is-so-controversial/)
  - [LG C3 Review: The Best OLED for Most](https://www.wired.com/review/lg-c3-oled/)
  - [Astrology Gifts Are Remarkably Intimate. These Picks Are Stellar](https://www.wired.com/story/astrology-gifts-rave/)
- - [Meet Taylor Swift’s Pro-Russia Doppelganger](https://www.wired.com/story/gadget-lab-podcast-624/)
- - [iPhone 15 review three months later: Pro features, lower price, plus USB-C](https://appleinsider.com/articles/23/12/14/iphone-15-review-three-months-later-pro-features-lower-price-plus-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [Meet Taylor Swift’s Pro-Russia Doppelganger](https://www.wired.com/story/gadget-lab-podcast-624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

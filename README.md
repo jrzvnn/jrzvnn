@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo, MSI, Acer, and Asus launch laptops with Intel&#39;s Core Ultra chips, featuring an NPU for &quot;low-power AI acceleration and CPU/GPU off-load&quot; for AI tasks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231214/p23#a231214p23)
  - [Adobe faces big fines from FTC over difficult subscription cancellation](https://appleinsider.com/articles/23/12/14/adobe-faces-big-fines-from-ftc-over-difficult-subscription-cancellation?utm_medium=rss)
  - [&#39;Barbie&#39; Will Stream on Max Tomorrow: Here&#39;s What Time You Can Watch     - CNET](https://www.cnet.com/tech/services-and-software/barbie-will-stream-on-max-tomorrow-heres-what-time-you-can-watch/#ftag=CAD590a51e)
  - [Intel unveils the Core Ultra H and the Core Ultra U series, its first mobile processors based on the Meteor Lake platform, designed for ultra-portable notebooks &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231214/p22#a231214p22)
- - [Upgrade Your Christmas Tree With 50% Off Nanoleaf&#39;s Smart Holiday String Lights     - CNET](https://www.cnet.com/deals/upgrade-your-christmas-tree-with-50-off-nanoleafs-smart-holiday-string-lights/#ftag=CAD590a51e)
- - [Today&#39;s Best CD Rates: Dec. 14, 2023 -- Fed Holds Rates Steady. How Long Will CD Rates Stay High?     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-14-2023-fed-holds-rates-steady-how-long-will-cd-rates-stay-high/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrade Your Christmas Tree With 50% Off Nanoleaf&#39;s Smart Holiday String Lights     - CNET](https://www.cnet.com/deals/upgrade-your-christmas-tree-with-50-off-nanoleafs-smart-holiday-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
+ - 😝 [Pink](http://9gag.com/gag/aZDOL69)
  - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [RIP Captain](http://9gag.com/gag/aGE4Z5w)<!-- MEMES:END -->
 
 ---
 

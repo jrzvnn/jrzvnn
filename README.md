@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 10 Tips Can Help Enhance Your iPhone or Android&#39;s Reception     - CNET](https://www.cnet.com/tech/mobile/these-10-tips-can-help-enhance-your-iphone-or-androids-reception/#ftag=CAD590a51e)
  - [Three Polish hackers say they fixed trains allegedly bricked by manufacturer Newag after an independent repair shop worked on them; Newag denies bricking them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/231214/p6#a231214p6)
+ - [Here&#39;s How You Can Save Your Netflix Profile Even Once You&#39;ve Been Kicked Off Someone Else&#39;s Account     - CNET](https://www.cnet.com/tech/home-entertainment/heres-how-you-can-save-your-netflix-profile-even-once-youve-been-kicked-off-someone-elses-account/#ftag=CAD590a51e)
  - [Q&amp;A with ESA CEO Stanley Pierre-Louis on why the ESA couldn&#39;t save E3, his favorite E3 memory, competition, working with the media, the ESA&#39;s future, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231214/p5#a231214p5)
- - [Air cargo and logistics executives say booming demand in Western markets for goods sold by Chinese companies like Temu and Shein is buoying air freight rates &lpar;Financial Times&rpar;](http://www.techmeme.com/231214/p4#a231214p4)
- - [After an on-by-default AI toggle caused confusion, Dropbox says user data is only shared with OpenAI if the AI-powered search feature is actively being used &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231214/p3#a231214p3)
- - [Amazon introduces a slew of initiatives to help Chinese merchants sell abroad, including opening an innovation center in Shenzhen, the first in the Asia-Pacific &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/231214/p2#a231214p2)<!-- TECH:END -->
+ - [Air cargo and logistics executives say booming demand in Western markets for goods sold by Chinese companies like Temu and Shein is buoying air freight rates &lpar;Financial Times&rpar;](http://www.techmeme.com/231214/p4#a231214p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

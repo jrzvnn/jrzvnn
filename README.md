@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Captain](http://9gag.com/gag/aGE4Z5w)
- - 😝 [Not on my watch](http://9gag.com/gag/aDYe4ew)
- - 💣 [Wow/1](http://9gag.com/gag/aYVX7eO)
+ - 😝 [Never forget!](http://9gag.com/gag/aMEMY2X)
  - 😝 [His own fingerprints](http://9gag.com/gag/aA0zbE0)
- - 👉 [Title](http://9gag.com/gag/awZWBm8)<!-- MEMES:END -->
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 👉 [These are the people in your neighborhood](http://9gag.com/gag/a3ZXQB7)<!-- MEMES:END -->
 
 ---
 

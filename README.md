@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to deploy advanced OLED screens in high-end iPads in 2024 and in a MacBook model in H2 2025, and is also considering making foldable iPads &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231214/p47#a231214p47)
  - [Crypto wallet maker Ledger updates Connect Kit, saying a former employee &quot;fell victim to a phishing attack&quot; that let a hacker insert malicious code &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/231214/p46#a231214p46)
  - [Vivo’s X100 Pro offers another massive camera sensor to an international audience](https://www.theverge.com/2023/12/14/23999052/vivo-x100-pro-launch-europe-camera-specs)
  - [Supply chain report says OLED is next for iPad, but foldables don&#39;t have a concrete timeline](https://appleinsider.com/articles/23/12/15/supply-chain-report-says-oled-is-next-for-ipad-but-foldables-dont-have-a-concrete-timeline?utm_medium=rss)
- - [Toy startup Curio launches three AI-powered plush toys, including one called Grok, that use OpenAI&#39;s tech to converse with children and are voiced by Grimes &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231214/p45#a231214p45)
- - [Credit Karma co-founder and Chief Revenue Officer Nichole Mustard is leaving the company after 16 years, the third high-profile executive departure in 2023 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231214/p44#a231214p44)<!-- TECH:END -->
+ - [Toy startup Curio launches three AI-powered plush toys, including one called Grok, that use OpenAI&#39;s tech to converse with children and are voiced by Grimes &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231214/p45#a231214p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

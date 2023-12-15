@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 😝 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)
+ - 😝 [Same same but different but still same](http://9gag.com/gag/a5X0VdL)
  - 💣 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
 
 ---
 

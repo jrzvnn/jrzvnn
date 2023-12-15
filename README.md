@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
- - 💣 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
- - 😝 [One ticket please](http://9gag.com/gag/aREqLQq)
- - 👉 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)<!-- MEMES:END -->
+ - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 💣 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---
 

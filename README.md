@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
  - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
+ - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---
 

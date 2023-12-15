@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 years ago, Charles Ramsey saved 3 women... and gave this legendary interview.. Which became an early internet meme](http://9gag.com/gag/aeQ89Qq)
- - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [How to learn language](http://9gag.com/gag/avQKy4X)
- - 👉 [In light of the recent events:](http://9gag.com/gag/awZWyDB)<!-- MEMES:END -->
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
+ - 💣 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 ---
 

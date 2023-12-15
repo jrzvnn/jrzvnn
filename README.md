@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Days after updating its content policy to permit certain kinds of sexual content, Twitch rescinds its &quot;artistic nudity&quot; policy, citing community concern &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231215/p12#a231215p12)
  - [Sources: Musk gave verbal guarantees to some US banks that they would not lose money on the Twitter deal; banks face serious losses on the &quot;uninvestable&quot; debt &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p11#a231215p11)
  - [Twitch immediately rescinds its artistic nudity policy](https://www.theverge.com/2023/12/15/24002779/twitch-artistic-nudity-policy-cancelled)
  - [Google will update Maps to prevent authorities from accessing location history data](https://www.theverge.com/2023/12/15/24002693/google-maps-update-geofence-warrants-law-enforcement)
- - [Daily deals Dec. 15: Beats Studio Pro $250, Apple Watch Series 8 $249, 57% off Baseus Portable Power Bank, more](https://appleinsider.com/articles/23/12/15/daily-deals-dec-15-beats-studio-pro-250-apple-watch-series-8-249-57-off-baseus-portable-power-bank-more?utm_medium=rss)
- - [Microsoft launches the basic Office suite on the Meta Quest store for free; all three apps run in a MR environment and all Quest headsets are supported &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/231215/p10#a231215p10)<!-- TECH:END -->
+ - [Daily deals Dec. 15: Beats Studio Pro $250, Apple Watch Series 8 $249, 57% off Baseus Portable Power Bank, more](https://appleinsider.com/articles/23/12/15/daily-deals-dec-15-beats-studio-pro-250-apple-watch-series-8-249-57-off-baseus-portable-power-bank-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

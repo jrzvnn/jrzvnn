@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 💣 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
+ - 😝 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
  - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---

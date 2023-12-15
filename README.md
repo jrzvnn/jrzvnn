@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
- - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
- - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [Michael Caine and his long time wife Shakira &lpar;1973 &amp; 2023&rpar;](http://9gag.com/gag/aoKQ5On)
  - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 👉 [Hypergamy](http://9gag.com/gag/agozA8W)<!-- MEMES:END -->
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 👉 [Wow/1](http://9gag.com/gag/aYVX7eO)<!-- MEMES:END -->
 
 ---
 

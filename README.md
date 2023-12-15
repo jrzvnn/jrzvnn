@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 💣 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
- - 😝 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 😝 [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
+ - 😝 [In light of the recent events:](http://9gag.com/gag/awZWyDB)
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [History Friday](http://9gag.com/gag/a3ZX4mm)
+ - 👉 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)<!-- MEMES:END -->
 
 ---
 

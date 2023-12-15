@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look back at Yahoo Pipes, launched in 2007 to let users make custom data feeds by dragging elements in a web browser, influencing a generation of UI designers &lpar;Glenn Fleishman/Retool&rpar;](http://www.techmeme.com/231215/p6#a231215p6)
+ - [9 Best Flower Delivery Services to Send a Holiday Bouquet     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
+ - [Today&#39;s Best CD Rates: Dec. 15, 2023 -- The Fed’s Latest Rate Pause Means APYs Remain High     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-15-2023/#ftag=CAD590a51e)
  - [Krutrim, an AI startup founded by Ola&#39;s CEO Bhavish Aggarwal, unveils India&#39;s first multilingual LLM, capable of generating text in ten Indian languages &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231215/p5#a231215p5)
- - [Netflix&#39;s Big Data Dump Shows Just OK TV Is Here to Stay](https://www.wired.com/story/netflix-viewership-data-foretells-bland-streaming-future/)
- - [School of Rock: The Physics of Waves on Guitar Strings](https://www.wired.com/story/school-of-rock-the-physics-of-waves-on-guitar-strings/)
- - [16 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Rumored micro LED Apple Watch debut shifts again, this time to 2026](https://appleinsider.com/articles/23/12/15/rumored-micro-led-apple-watch-debut-shifts-again-this-time-to-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix&#39;s Big Data Dump Shows Just OK TV Is Here to Stay](https://www.wired.com/story/netflix-viewership-data-foretells-bland-streaming-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

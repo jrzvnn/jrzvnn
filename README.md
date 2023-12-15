@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supply chain report says OLED is next for iPad, but foldables don&#39;t have a concrete timeline](https://appleinsider.com/articles/23/12/15/supply-chain-report-says-oled-is-next-for-ipad-but-foldables-dont-have-a-concrete-timeline?utm_medium=rss)
  - [Toy startup Curio launches three AI-powered plush toys, including one called Grok, that use OpenAI&#39;s tech to converse with children and are voiced by Grimes &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231214/p45#a231214p45)
  - [Credit Karma co-founder and Chief Revenue Officer Nichole Mustard is leaving the company after 16 years, the third high-profile executive departure in 2023 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231214/p44#a231214p44)
- - [Google confirms that it will no longer respond to geofence warrants after making changes to the way Maps stores users&#39; location data &lpar;Forbes&rpar;](http://www.techmeme.com/231214/p43#a231214p43)
- - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)
- - [Apple and Corellium settle legal dispute over virtualized iPhone software](https://appleinsider.com/articles/23/12/15/apple-and-corellium-settle-legal-dispute-over-virtualized-iphone-software?utm_medium=rss)<!-- TECH:END -->
+ - [Best Electric Toothbrush Deals: Discounts for Oral-B, AquaSonic, Waterpik and More     - CNET](https://www.cnet.com/deals/best-electric-toothbrush-deals/#ftag=CAD590a51e)
+ - [Best Earplugs to Prevent Hearing Loss for 2023     - CNET](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

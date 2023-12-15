@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
  - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 👉 [Love and something something](http://9gag.com/gag/avQKoNZ)<!-- MEMES:END -->
 
 ---
 

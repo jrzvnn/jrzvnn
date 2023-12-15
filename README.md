@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
+ - 😝 [New fear unlocked: Sucked Into an Oil Pipe.](http://9gag.com/gag/amA4A7y)
+ - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
+ - 💣 [I mean, y&#39;all do make some pretty convincing arguments sometimes...](http://9gag.com/gag/aEqm8ON)
+ - 😝 [.....](http://9gag.com/gag/aYVXrPO)
+ - 👉 [4 days in Texas](http://9gag.com/gag/a04y4qQ)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumors of an iPhone ban in China&#39;s government &amp; businesses are popping up again](https://appleinsider.com/articles/23/12/15/rumors-of-an-iphone-ban-in-chinas-government-businesses-are-popping-up-again?utm_medium=rss)
  - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
  - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
  - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
- - [Sony KD65X80K     - CNET](https://www.cnet.com/tech/home-entertainment/sony-kd65x80k-dpnl/#ftag=CAD590a51e)
- - [Tesla Recalls 2 Million Vehicles Over Autopilot Issue. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/roadshow/news/tesla-recalls-2-million-vehicles-over-autopilot-issue-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony KD65X80K     - CNET](https://www.cnet.com/tech/home-entertainment/sony-kd65x80k-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

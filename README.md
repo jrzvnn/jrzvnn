@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored micro LED Apple Watch debut shifts again, this time to 2026](https://appleinsider.com/articles/23/12/15/rumored-micro-led-apple-watch-debut-shifts-again-this-time-to-2026?utm_medium=rss)
- - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Fill Out Your Toolkit With This Denali Sale and Save Up to 67%     - CNET](https://www.cnet.com/deals/fill-out-your-toolkit-with-this-denali-sale-and-save-up-to-67/#ftag=CAD590a51e)
- - [Apple in 2023: An Unexpectedly Less Predictable Year     - CNET](https://www.cnet.com/tech/mobile/apple-in-2023-an-unexpectedly-less-predictable-year/#ftag=CAD590a51e)
- - [New Jersey Solar Panel Incentives: Net Metering, Tax Breaks and More     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panel-incentives-net-metering-tax-breaks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Krutrim, an AI startup founded by Ola&#39;s CEO Bhavish Aggarwal, unveils India&#39;s first multilingual LLM, capable of generating text in ten Indian languages &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231215/p5#a231215p5)
+ - [Netflix&#39;s Big Data Dump Shows Just OK TV Is Here to Stay](https://www.wired.com/story/netflix-viewership-data-foretells-bland-streaming-future/)
+ - [School of Rock: The Physics of Waves on Guitar Strings](https://www.wired.com/story/school-of-rock-the-physics-of-waves-on-guitar-strings/)
+ - [16 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
+ - [Rumored micro LED Apple Watch debut shifts again, this time to 2026](https://appleinsider.com/articles/23/12/15/rumored-micro-led-apple-watch-debut-shifts-again-this-time-to-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

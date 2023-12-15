@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 💣 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
+ - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

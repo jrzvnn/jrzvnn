@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
+ - [Quest owners can use Word, Excel, and PowerPoint in VR, but do you really want to?](https://www.theverge.com/2023/12/15/24003037/microsoft-word-excel-powerpoint-meta-quest-vr)
  - [Apple settles Family Sharing lawsuit with $25 million fund](https://appleinsider.com/articles/23/12/15/apple-settles-family-sharing-lawsuit-with-25-million-fund?utm_medium=rss)
  - [Sources: DocuSign is working with advisers to explore a sale; DocuSign went public in 2018 and now has a market cap of $11B; DOCU jumps 13%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p17#a231215p17)
- - [Google gives Stadia controllers more time to switch to Bluetooth](https://www.theverge.com/2023/12/15/24003080/google-stadia-controllers-bluetooth-deadline-extended)
- - [UK&#39;s Age Check Certification Scheme registry: a Google system that scans users&#39; selfies to estimate age was approved, ahead of Ofcom&#39;s rules for adult sites &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231215/p16#a231215p16)
- - [Sony&#39;s Excellent CH-720N Headphones Are 40% Off Right Now     - CNET](https://www.cnet.com/deals/sonys-excellent-ch-720n-headphones-are-40-percent-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google gives Stadia controllers more time to switch to Bluetooth](https://www.theverge.com/2023/12/15/24003080/google-stadia-controllers-bluetooth-deadline-extended)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

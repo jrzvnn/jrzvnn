@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cox Media Group claims it can listen to conversations of consumers through microphones in smartphones, smart TVs, and other devices and use it to target ads &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231215/p4#a231215p4)
  - [How Microsoft&#39;s 10-year-old Digital Crime Unit uses unique legal tactics and the company&#39;s technical reach to disrupt global cybercrime and state-backed actors &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231215/p3#a231215p3)
  - [Holiday Deals and Great Gift Ideas From CNET Editors     - CNET](https://www.cnet.com/deals/holiday-deals-and-great-gift-ideas-from-cnet-editors/#ftag=CAD590a51e)
  - [Microsoft’s AI Chatbot Replies to Election Questions With Conspiracies, Fake Scandals, and Lies](https://www.wired.com/story/microsoft-ai-copilot-chatbot-election-conspiracy/)
- - [SafeMoon filed for Chapter 7 bankruptcy protection on December 14 after the US SEC charged the firm for selling unregistered crypto securities on November 1 &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231215/p2#a231215p2)
- - [Some publishers estimate that Google&#39;s Search Generative Experience could cut referral traffic by 20% to 40% if the final version resembles recent iterations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p1#a231215p1)<!-- TECH:END -->
+ - [SafeMoon filed for Chapter 7 bankruptcy protection on December 14 after the US SEC charged the firm for selling unregistered crypto securities on November 1 &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/231215/p2#a231215p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

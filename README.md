@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
  - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [Love and something something](http://9gag.com/gag/avQKoNZ)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
  - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
 
 ---

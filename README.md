@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever felt like swimming with the crocodiles?](http://9gag.com/gag/a5X0R5E)
- - 😝 [Pink](http://9gag.com/gag/aZDOL69)
- - 💣 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
- - 😝 [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
+ - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
+ - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
+ - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 😝 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)
  - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
 
 ---

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked: Sucked Into an Oil Pipe.](http://9gag.com/gag/amA4A7y)
- - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
- - 💣 [I mean, y&#39;all do make some pretty convincing arguments sometimes...](http://9gag.com/gag/aEqm8ON)
- - 😝 [.....](http://9gag.com/gag/aYVXrPO)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
 
 ---
 

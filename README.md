@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some X users report seeing ads for apps that use AI to &quot;undress&quot; women in photos; TikTok and Meta blocked certain search terms related to such &quot;nudify&quot; apps &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/231215/p19#a231215p19)
  - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
  - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
  - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
- - [Quest owners can use Word in VR, but do you really want to?](https://www.theverge.com/2023/12/15/24003037/microsoft-word-excel-powerpoint-meta-quest-vr)
- - [Apple settles Family Sharing lawsuit with $25 million fund](https://appleinsider.com/articles/23/12/15/apple-settles-family-sharing-lawsuit-with-25-million-fund?utm_medium=rss)<!-- TECH:END -->
+ - [Quest owners can use Word in VR, but do you really want to?](https://www.theverge.com/2023/12/15/24003037/microsoft-word-excel-powerpoint-meta-quest-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Credit Karma co-founder and Chief Revenue Officer Nichole Mustard is leaving the company after 16 years, the third high-profile executive departure in 2023 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231214/p44#a231214p44)
  - [Google confirms that it will no longer respond to geofence warrants after making changes to the way Maps stores users&#39; location data &lpar;Forbes&rpar;](http://www.techmeme.com/231214/p43#a231214p43)
  - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)
  - [Apple and Corellium settle legal dispute over virtualized iPhone software](https://appleinsider.com/articles/23/12/15/apple-and-corellium-settle-legal-dispute-over-virtualized-iphone-software?utm_medium=rss)
- - [Filing: Apple and Corellium settle a copyright dispute dating to 2019 in which Apple tried to shut down Corellium&#39;s virtual iPhone software &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/231214/p41#a231214p41)
- - [Naughty Dog cancels its The Last of Us multiplayer game](https://www.theverge.com/2023/12/14/24002141/naughty-dog-the-last-of-us-online-multiplayer-canceled)<!-- TECH:END -->
+ - [Filing: Apple and Corellium settle a copyright dispute dating to 2019 in which Apple tried to shut down Corellium&#39;s virtual iPhone software &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/231214/p41#a231214p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

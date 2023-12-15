@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 15: Beats Studio Pro $250, Apple Watch Series 8 $249, 57% off Baseus Portable Power Bank, more](https://appleinsider.com/articles/23/12/15/daily-deals-dec-15-beats-studio-pro-250-apple-watch-series-8-249-57-off-baseus-portable-power-bank-more?utm_medium=rss)
  - [Microsoft launches the basic Office suite on the Meta Quest store for free; all three apps run in a MR environment and all Quest headsets are supported &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/231215/p10#a231215p10)
  - [Nanoleaf’s smart holiday string lights are over half off](https://www.theverge.com/2023/12/15/24001447/nanoleaf-essentials-matter-smart-holiday-string-lights-amazon-fire-tv-omni-deal-sale)
  - [One advertiser may be able to listen in on you -- if you have an Android phone](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
- - [Get 10TB of Cloud Storage for Life for Just $100     - CNET](https://www.cnet.com/deals/get-10tb-of-cloud-storage-for-life-for-just-100/#ftag=CAD590a51e)
- - [Snag the Google Pixel 7 From Just $449 With Our Exclusive Coupon Code     - CNET](https://www.cnet.com/deals/snag-the-google-pixel-7-from-just-449-with-our-exclusive-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get 10TB of Cloud Storage for Life for Just $100     - CNET](https://www.cnet.com/deals/get-10tb-of-cloud-storage-for-life-for-just-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

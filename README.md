@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Rumored micro LED Apple Watch debut shifts again, this time to 2026](https://appleinsider.com/articles/23/12/15/rumored-micro-led-apple-watch-debut-shifts-again-this-time-to-2026?utm_medium=rss)
  - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [21 Best Gifts for PC Gamers &lpar;2023&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)
- - [Tesla Wireless Charger Review: Convenience Has a Cost](https://www.wired.com/review/tesla-wireless-charger/)<!-- TECH:END -->
+ - [Fill Out Your Toolkit With This Denali Sale and Save Up to 67%     - CNET](https://www.cnet.com/deals/fill-out-your-toolkit-with-this-denali-sale-and-save-up-to-67/#ftag=CAD590a51e)
+ - [Apple in 2023: An Unexpectedly Less Predictable Year     - CNET](https://www.cnet.com/tech/mobile/apple-in-2023-an-unexpectedly-less-predictable-year/#ftag=CAD590a51e)
+ - [New Jersey Solar Panel Incentives: Net Metering, Tax Breaks and More     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panel-incentives-net-metering-tax-breaks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

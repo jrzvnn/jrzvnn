@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
  - [In iOS 17.2, Apple has closed off Flipper Zero devices&#39; ability to carry out DoS attacks on iPhones by continuously sending Bluetooth pairing requests &lpar;Adrian Kingsley-Hughes/ZDNet&rpar;](http://www.techmeme.com/231215/p18#a231215p18)
  - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/23951136/gifts-under-100-best-cheap-tech-ideas-2023-budget)
  - [Quest owners can use Word, Excel, and PowerPoint in VR, but do you really want to?](https://www.theverge.com/2023/12/15/24003037/microsoft-word-excel-powerpoint-meta-quest-vr)
- - [Apple settles Family Sharing lawsuit with $25 million fund](https://appleinsider.com/articles/23/12/15/apple-settles-family-sharing-lawsuit-with-25-million-fund?utm_medium=rss)
- - [Sources: DocuSign is working with advisers to explore a sale; DocuSign went public in 2018 and now has a market cap of $11B; DOCU jumps 13%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p17#a231215p17)<!-- TECH:END -->
+ - [Apple settles Family Sharing lawsuit with $25 million fund](https://appleinsider.com/articles/23/12/15/apple-settles-family-sharing-lawsuit-with-25-million-fund?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

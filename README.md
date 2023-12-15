@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
+ - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

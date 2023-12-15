@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One advertiser may be able to listen in on you -- if you have an Android phone](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
+ - [Get 10TB of Cloud Storage for Life for Just $100     - CNET](https://www.cnet.com/deals/get-10tb-of-cloud-storage-for-life-for-just-100/#ftag=CAD590a51e)
+ - [Snag the Google Pixel 7 From Just $449 With Our Exclusive Coupon Code     - CNET](https://www.cnet.com/deals/snag-the-google-pixel-7-from-just-449-with-our-exclusive-coupon-code/#ftag=CAD590a51e)
  - [The SEC rejects a Coinbase petition for formal rules for digital assets, arguing the &quot;existing securities regime appropriately governs crypto asset securities&quot; &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231215/p9#a231215p9)
- - [Researchers: Microsoft Copilot is responding to some political queries in the US and other countries with conspiracies, information, and out-of-date information &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231215/p8#a231215p8)
- - [Delta&#39;s new plane lets you use AirPods to listen to movie audio in-flight](https://appleinsider.com/articles/23/12/15/deltas-new-plane-lets-you-use-airpods-to-listen-to-movie-audio-in-flight?utm_medium=rss)
- - [China proposes a four-tier, color-coded system for data security incidents; for red and orange alerts the government must be notified within 10 minutes &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/231215/p7#a231215p7)
- - [A look back at Yahoo Pipes, launched in 2007 to let users make custom data feeds by dragging elements in a web browser, influencing a generation of UI designers &lpar;Glenn Fleishman/Retool&rpar;](http://www.techmeme.com/231215/p6#a231215p6)<!-- TECH:END -->
+ - [Researchers: Microsoft Copilot is responding to some political queries in the US and other countries with conspiracies, information, and out-of-date information &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231215/p8#a231215p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

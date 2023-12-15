@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the complex structure of the OpenAI/Microsoft alliance; sources say it entitles Microsoft to up to 49% of earnings of OpenAI&#39;s for-profit subsidiary &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p14#a231215p14)
  - [Toronto Stock Exchange operator TMX acquires a 78% stake in US-based indexing and analytics company VettaFi for $848M, after previously buying 22% for $175M &lpar;Tyler Pathe/FinTech Futures&rpar;](http://www.techmeme.com/231215/p13#a231215p13)
  - [&#39;For All Mankind&#39; Deserves 7 Seasons](https://www.wired.com/2023/12/geeks-guide-for-all-mankind/)
  - [Days after updating its content policy to permit certain kinds of sexual content, Twitch rescinds the &quot;artistic nudity&quot; portion, citing &quot;community concern&quot; &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231215/p12#a231215p12)
- - [Sources: Musk gave verbal guarantees to some US banks that they would not lose money on the Twitter deal; banks face serious losses on the &quot;uninvestable&quot; debt &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p11#a231215p11)
- - [Twitch immediately rescinds its artistic nudity policy](https://www.theverge.com/2023/12/15/24002779/twitch-artistic-nudity-policy-cancelled)<!-- TECH:END -->
+ - [Sources: Musk gave verbal guarantees to some US banks that they would not lose money on the Twitter deal; banks face serious losses on the &quot;uninvestable&quot; debt &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p11#a231215p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

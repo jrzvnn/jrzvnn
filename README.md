@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: ByteDance used OpenAI&#39;s API to develop its own LLM, codenamed Project Seed; employees discussed &quot;whitewashing&quot; the evidence through &quot;data desensitization&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231215/p20#a231215p20)
- - [Apple signs order for drama &#39;Your Friends and Neighbors&#39; starring Jon Hamm](https://appleinsider.com/articles/23/12/15/apple-signs-order-for-drama-your-friends-and-neighbors-starring-jon-hamm?utm_medium=rss)
- - [Climate change is killing coral — can AI help protect the reefs?](https://www.theverge.com/23977907/ai-coral-restoration-foundation-florida-reefs-climate-change)
- - [Some X users report seeing ads for apps that use AI to &quot;undress&quot; women in photos; TikTok and Meta have started to block search terms related to &quot;nudify&quot; apps &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/231215/p19#a231215p19)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Sources: more Chinese government agencies and state-backed firms have ordered staff to stop bringing iPhones, Samsung phones, and other foreign devices to work &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p21#a231215p21)
+ - [Apple&#39;s M2 Pro MacBook Pro 16-inch drops to $1,849 with coupon](https://appleinsider.com/articles/23/12/15/apples-m2-pro-macbook-pro-16-inch-drops-to-1849-with-coupon?utm_medium=rss)
+ - [Researchers say Bing made up facts about European elections](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation)
+ - [You could be eligible for a piece of Apple’s Family Sharing settlement](https://www.theverge.com/2023/12/15/24003280/apple-family-sharing-settlement-class-action-lawsuit)
+ - [Docs: ByteDance used OpenAI&#39;s API to develop its own LLM, codenamed Project Seed; employees discussed &quot;whitewashing&quot; the evidence through &quot;data desensitization&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231215/p20#a231215p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

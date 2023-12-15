@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [The GOAT](http://9gag.com/gag/anzPQXB)
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
 
 ---
 

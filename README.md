@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
- - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
+ - 👉 [Dunno](http://9gag.com/gag/avQKQeM)<!-- MEMES:END -->
 
 ---
 

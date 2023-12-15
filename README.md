@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
  - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 💣 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
  - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 👉 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 ---
 

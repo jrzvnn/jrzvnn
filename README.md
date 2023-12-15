@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: ByteDance used OpenAI API to develop its own LLM, codenamed Project Seed; employees discussed &quot;whitewashing&quot; the evidence through &quot;data desensitization&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231215/p20#a231215p20)
+ - [Docs: ByteDance used OpenAI&#39;s API to develop its own LLM, codenamed Project Seed; employees discussed &quot;whitewashing&quot; the evidence through &quot;data desensitization&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231215/p20#a231215p20)
  - [Apple signs order for drama &#39;Your Friends and Neighbors&#39; starring Jon Hamm](https://appleinsider.com/articles/23/12/15/apple-signs-order-for-drama-your-friends-and-neighbors-starring-jon-hamm?utm_medium=rss)
  - [Climate change is killing coral — can AI help protect the reefs?](https://www.theverge.com/23977907/ai-coral-restoration-foundation-florida-reefs-climate-change)
  - [Some X users report seeing ads for apps that use AI to &quot;undress&quot; women in photos; TikTok and Meta have started to block search terms related to &quot;nudify&quot; apps &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/231215/p19#a231215p19)

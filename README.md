@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)
- - 😝 [Tibetian throat singing.](http://9gag.com/gag/aMEM4x1)
- - 💣 [Givning it 100%](http://9gag.com/gag/ay2j9By)
- - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
- - 👉 [That poor clown](http://9gag.com/gag/aZDO0X3)<!-- MEMES:END -->
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 😝 [People just stream events now](http://9gag.com/gag/arm7o8p)
+ - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
+ - 👉 [Hypergamy](http://9gag.com/gag/agozA8W)<!-- MEMES:END -->
 
 ---
 

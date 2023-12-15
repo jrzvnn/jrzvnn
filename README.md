@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
- - 💣 [History Friday](http://9gag.com/gag/a3ZX4mm)
- - 😝 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
- - 👉 [One ticket please](http://9gag.com/gag/aREqLQq)<!-- MEMES:END -->
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [The GOAT](http://9gag.com/gag/anzPQXB)
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 

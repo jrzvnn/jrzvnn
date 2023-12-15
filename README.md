@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 💣 [Danger noodle is a danger to itself](http://9gag.com/gag/a04y71Q)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
 
 ---
 

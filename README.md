@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That poor clown](http://9gag.com/gag/aZDO0X3)
- - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
- - 💣 [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)
- - 😝 [New fear unlocked: Sucked Into an Oil Pipe.](http://9gag.com/gag/amA4A7y)
- - 👉 [.....](http://9gag.com/gag/aYVXrPO)<!-- MEMES:END -->
+ - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 💣 [Two types of reactions...](http://9gag.com/gag/aVbywLv)
+ - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
 
 ---
 

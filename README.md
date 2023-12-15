@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [21 Best Gifts for PC Gamers &lpar;2023&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
  - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)
  - [Tesla Wireless Charger Review: Convenience Has a Cost](https://www.wired.com/review/tesla-wireless-charger/)
- - [Energy Drinks Are Out of Control](https://www.wired.com/story/panera-bread-charged-lemonade-caffeine-energy-drinks/)
- - [In a World First, a Patient&#39;s Antibody Cells Were Just Genetically Engineered](https://www.wired.com/story/b-cells-genetically-engineered-immusoft/)
- - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)<!-- TECH:END -->
+ - [Energy Drinks Are Out of Control](https://www.wired.com/story/panera-bread-charged-lemonade-caffeine-energy-drinks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

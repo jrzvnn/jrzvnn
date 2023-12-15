@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
+ - 💣 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
+ - 😝 [One ticket please](http://9gag.com/gag/aREqLQq)
+ - 👉 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)<!-- MEMES:END -->
 
 ---
 

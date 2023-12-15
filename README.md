@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 😝 [Winning at live](http://9gag.com/gag/axoqW62)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
 
 ---
 

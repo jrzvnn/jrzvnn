@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google gives Stadia controllers more time to switch to Bluetooth](https://www.theverge.com/2023/12/15/24003080/google-stadia-controllers-bluetooth-deadline-extended)
  - [UK&#39;s Age Check Certification Scheme registry: a Google system that scans users&#39; selfies to estimate age was approved, ahead of Ofcom&#39;s rules for adult sites &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231215/p16#a231215p16)
- - [YouTube creators MrBeast and Chucky Appleby launch ViewStats, which uses the YouTube API to unveil detailed stats about channels for creators and fans, in beta &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231215/p15#a231215p15)
- - [E3 is dead, and Apple helped kill it](https://appleinsider.com/articles/23/12/15/e3-is-dead-and-apple-helped-kill-it?utm_medium=rss)
- - [Grab Apple&#39;s M2 MacBook Air for $899 during today&#39;s holiday flash sale](https://appleinsider.com/articles/23/12/15/grab-apples-m2-macbook-air-for-899-during-todays-holiday-flash-sale?utm_medium=rss)
- - [A look at the complex structure of the OpenAI/Microsoft alliance; sources say it entitles Microsoft to up to 49% of earnings of OpenAI&#39;s for-profit subsidiary &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p14#a231215p14)<!-- TECH:END -->
+ - [Sony&#39;s Excellent CH-720N Headphones Are 40% Off Right Now     - CNET](https://www.cnet.com/deals/sonys-excellent-ch-720n-headphones-are-40-percent-off-right-now/#ftag=CAD590a51e)
+ - [Get This Surprisingly Decent Belkin Over-Ear Wireless Headset for Only $25     - CNET](https://www.cnet.com/deals/get-this-surprisingly-decent-belkin-over-ear-wireless-headset-for-only-25/#ftag=CAD590a51e)
+ - [YouTube creators MrBeast and Chucky Appleby launch ViewStats, which uses the YouTube API to unveil detailed stats about channels for creators and fans, in beta &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/231215/p15#a231215p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

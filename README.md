@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri spells out Threads’ plans for the fediverse](https://www.theverge.com/2023/12/15/24003435/adam-mosseri-threads-fediverse-plans)
- - [Rumors of an iPhone ban in China&#39;s government &amp; businesses are popping up again](https://appleinsider.com/articles/23/12/15/rumors-of-an-iphone-ban-in-chinas-government-businesses-are-popping-up-again?utm_medium=rss)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
- - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
- - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)<!-- TECH:END -->
+ - [Sources: Activision Blizzard has agreed to pay ~$50M to settle a California lawsuit from 2021 alleging sexual harassment, discrimination, and pay disparity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p23#a231215p23)
+ - [Apple fixed the iPhone’s Flipper Zero problem](https://www.theverge.com/2023/12/15/24003406/apple-iphone-flipper-zero-fix-ios-17-2)
+ - [Ordtop i13     - CNET](https://www.cnet.com/tech/mobile/ordtop-i13-dpnl/#ftag=CAD590a51e)
+ - [Bank of America Savings Account Rates for December 2023     - CNET](https://www.cnet.com/personal-finance/bank-of-america-savings-account-rates/#ftag=CAD590a51e)
+ - [Adam Mosseri spells out Threads’ plans for the fediverse](https://www.theverge.com/2023/12/15/24003435/adam-mosseri-threads-fediverse-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

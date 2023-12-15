@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony KD65X80K     - CNET](https://www.cnet.com/tech/home-entertainment/sony-kd65x80k-dpnl/#ftag=CAD590a51e)
+ - [Tesla Recalls 2 Million Vehicles Over Autopilot Issue. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/roadshow/news/tesla-recalls-2-million-vehicles-over-autopilot-issue-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [Sources: more Chinese government agencies and state-backed firms have ordered staff to stop bringing iPhones, Samsung phones, and other foreign devices to work &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p21#a231215p21)
  - [Apple&#39;s M2 Pro MacBook Pro 16-inch drops to $1,849 with coupon](https://appleinsider.com/articles/23/12/15/apples-m2-pro-macbook-pro-16-inch-drops-to-1849-with-coupon?utm_medium=rss)
- - [Researchers say Bing made up facts about European elections](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation)
- - [You could be eligible for a piece of Apple’s Family Sharing settlement](https://www.theverge.com/2023/12/15/24003280/apple-family-sharing-settlement-class-action-lawsuit)
- - [Docs: ByteDance used OpenAI&#39;s API to develop its own LLM, codenamed Project Seed; employees discussed &quot;whitewashing&quot; the evidence through &quot;data desensitization&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231215/p20#a231215p20)<!-- TECH:END -->
+ - [Researchers say Bing made up facts about European elections](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

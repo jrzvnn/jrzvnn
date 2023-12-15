@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget)
+ - [Apple agrees to pay $25M to settle a class action lawsuit alleging Apple misrepresented the way that third-party app subscriptions worked with Family Sharing &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231215/p22#a231215p22)
+ - [The Verge’s 2023 holiday gift guide for dads](https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets)
  - [Sony KD65X80K     - CNET](https://www.cnet.com/tech/home-entertainment/sony-kd65x80k-dpnl/#ftag=CAD590a51e)
- - [Tesla Recalls 2 Million Vehicles Over Autopilot Issue. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/roadshow/news/tesla-recalls-2-million-vehicles-over-autopilot-issue-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Sources: more Chinese government agencies and state-backed firms have ordered staff to stop bringing iPhones, Samsung phones, and other foreign devices to work &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p21#a231215p21)
- - [Apple&#39;s M2 Pro MacBook Pro 16-inch drops to $1,849 with coupon](https://appleinsider.com/articles/23/12/15/apples-m2-pro-macbook-pro-16-inch-drops-to-1849-with-coupon?utm_medium=rss)
- - [Researchers say Bing made up facts about European elections](https://www.theverge.com/2023/12/15/24003248/microsoft-ai-copilot-algorithm-watch-bing-election-misinformation)<!-- TECH:END -->
+ - [Tesla Recalls 2 Million Vehicles Over Autopilot Issue. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/roadshow/news/tesla-recalls-2-million-vehicles-over-autopilot-issue-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

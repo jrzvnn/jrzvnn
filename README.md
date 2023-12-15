@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 💣 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
+ - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---
 

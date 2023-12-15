@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 12: What to Expect With the Next OnePlus Flagship     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-what-to-expect-with-the-next-oneplus-flagship/#ftag=CAD590a51e)
  - [Sources: Activision Blizzard agreed to pay ~$50M to settle a 2021 lawsuit by California regulators alleging sexual harassment, discrimination, and pay disparity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p23#a231215p23)
+ - [Nerunsa Smart Watch     - CNET](https://www.cnet.com/health/fitness/nerunsa-smart-watch-dpnl/#ftag=CAD590a51e)
  - [Apple fixed the iPhone’s Flipper Zero problem](https://www.theverge.com/2023/12/15/24003406/apple-iphone-flipper-zero-fix-ios-17-2)
- - [Ordtop i13     - CNET](https://www.cnet.com/tech/mobile/ordtop-i13-dpnl/#ftag=CAD590a51e)
- - [Bank of America Savings Account Rates for December 2023     - CNET](https://www.cnet.com/personal-finance/bank-of-america-savings-account-rates/#ftag=CAD590a51e)
- - [Adam Mosseri spells out Threads’ plans for the fediverse](https://www.theverge.com/2023/12/15/24003435/adam-mosseri-threads-fediverse-plans)<!-- TECH:END -->
+ - [Sony WH-1000XM4     - CNET](https://www.cnet.com/tech/mobile/sony-wh-1000xm4-2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

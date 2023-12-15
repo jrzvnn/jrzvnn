@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
- - [Andreessen Horowitz says &quot;we will, for the first time, get involved with politics by supporting candidates who align with our vision and values&quot; for technology &lpar;Ben Horowitz/Andreessen Horowitz&rpar;](http://www.techmeme.com/231214/p40#a231214p40)
- - [Mailchimp cancels podcast after refusing to work with union producers](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled)
- - [Corner Display Rack     - CNET](https://www.cnet.com/news/corner-display-rack-dpnl/#ftag=CAD590a51e)
- - [KitchenAid Hand Mixer     - CNET](https://www.cnet.com/home/kitchen-and-household/kitchenaid-hand-mixer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel 5th-Gen Xeon Platinum 8592+ review: the $11,600 64-core chip outperforms AMD&#39;s 64-core EPYC Genoa in several benchmarks, particularly in AI workloads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231214/p42#a231214p42)
+ - [Apple and Corellium settle legal dispute over virtualized iPhone software](https://appleinsider.com/articles/23/12/15/apple-and-corellium-settle-legal-dispute-over-virtualized-iphone-software?utm_medium=rss)
+ - [Filing: Apple and Corellium settle a copyright dispute dating to 2019 in which Apple tried to shut down Corellium&#39;s virtual iPhone software &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/231214/p41#a231214p41)
+ - [Naughty Dog cancels its The Last of Us multiplayer game](https://www.theverge.com/2023/12/14/24002141/naughty-dog-the-last-of-us-online-multiplayer-canceled)
+ - [Best AirPods Deals: Save on Apple and Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

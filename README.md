@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [E3 is dead, and Apple helped kill it](https://appleinsider.com/articles/23/12/15/e3-is-dead-and-apple-helped-kill-it?utm_medium=rss)
  - [Grab Apple&#39;s M2 MacBook Air for $899 during today&#39;s holiday flash sale](https://appleinsider.com/articles/23/12/15/grab-apples-m2-macbook-air-for-899-during-todays-holiday-flash-sale?utm_medium=rss)
  - [A look at the complex structure of the OpenAI/Microsoft alliance; sources say it entitles Microsoft to up to 49% of earnings of OpenAI&#39;s for-profit subsidiary &lpar;Financial Times&rpar;](http://www.techmeme.com/231215/p14#a231215p14)
  - [Toronto Stock Exchange operator TMX acquires a 78% stake in US-based indexing and analytics company VettaFi for $848M, after previously buying 22% for $175M &lpar;Tyler Pathe/FinTech Futures&rpar;](http://www.techmeme.com/231215/p13#a231215p13)
- - [Save $400 on Some of Our Favorite Rowing Machines Ahead of the New Year     - CNET](https://www.cnet.com/deals/save-400-hydrow-rowers-holiday-sale/#ftag=CAD590a51e)
- - [Best Cheap TV Deals: Save Up to $250 on Toshiba, TCL, Fire TV and More     - CNET](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;For All Mankind&#39; Deserves 7 Seasons](https://www.wired.com/2023/12/geeks-guide-for-all-mankind/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

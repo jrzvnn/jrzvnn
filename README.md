@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got to roast everybody](http://9gag.com/gag/a6qYEMN)
- - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
+ - 💣 [History Friday](http://9gag.com/gag/a3ZX4mm)
+ - 😝 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)
+ - 👉 [One ticket please](http://9gag.com/gag/aREqLQq)<!-- MEMES:END -->
 
 ---
 

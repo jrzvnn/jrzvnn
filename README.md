@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 💣 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [The GOAT](http://9gag.com/gag/anzPQXB)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well...](http://9gag.com/gag/axoq7WD)
- - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
- - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 👉 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)<!-- MEMES:END -->
+ - 😝 [I need that for things i didnt figure out rn](http://9gag.com/gag/arm7mx0)
+ - 😝 [Tibetian throat singing.](http://9gag.com/gag/aMEM4x1)
+ - 💣 [Givning it 100%](http://9gag.com/gag/ay2j9By)
+ - 😝 [Is your wife single?](http://9gag.com/gag/aZDOy29)
+ - 👉 [That poor clown](http://9gag.com/gag/aZDO0X3)<!-- MEMES:END -->
 
 ---
 

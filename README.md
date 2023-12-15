@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nuked by community notes. When your race card has been declined.](http://9gag.com/gag/a1P37YR)
- - 😝 [In light of the recent events:](http://9gag.com/gag/awZWyDB)
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [History Friday](http://9gag.com/gag/a3ZX4mm)
- - 👉 [To powerful to stop.](http://9gag.com/gag/aqeoy0M)<!-- MEMES:END -->
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 😝 [Winning at live](http://9gag.com/gag/axoqW62)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---
 

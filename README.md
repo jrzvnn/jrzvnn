@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
- - 👉 [Caught stealing. No problem. Apply #2](http://9gag.com/gag/avQKz0M)<!-- MEMES:END -->
+ - 😝 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [F**k around, find out](http://9gag.com/gag/a4oOEPp)
+ - 💣 [Hardwired not to do that. Parenting is stronger than logic.](http://9gag.com/gag/aZDOyZ6)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

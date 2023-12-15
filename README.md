@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meross WiFi Dual Smart Outlet review: Double the outlets at half the price](https://appleinsider.com/articles/23/12/15/meross-wifi-dual-smart-outlet-review-double-the-outlets-at-half-the-price?utm_medium=rss)
- - [Cox Media Group claims it can listen to conversations of consumers through microphones in smartphones, smart TVs, and other devices and use it to target ads &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231215/p4#a231215p4)
- - [Score Lifetime Access to Headway Premium for Just $50     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-headway-premium-for-just-50/#ftag=CAD590a51e)
- - [How Microsoft&#39;s 10-year-old Digital Crime Unit uses unique legal tactics and the company&#39;s technical reach to disrupt global cybercrime and state-backed actors &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231215/p3#a231215p3)
- - [Holiday Deals and Great Gift Ideas From CNET Editors     - CNET](https://www.cnet.com/deals/holiday-deals-and-great-gift-ideas-from-cnet-editors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free?utm_medium=rss)
+ - [Tesla Wireless Charger Review: Convenience Has a Cost](https://www.wired.com/review/tesla-wireless-charger/)
+ - [Energy Drinks Are Out of Control](https://www.wired.com/story/panera-bread-charged-lemonade-caffeine-energy-drinks/)
+ - [In a World First, a Patient&#39;s Antibody Cells Were Just Genetically Engineered](https://www.wired.com/story/b-cells-genetically-engineered-immusoft/)
+ - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

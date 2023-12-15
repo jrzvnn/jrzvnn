@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: Microsoft Copilot is responding to some political queries in the US and other countries with conspiracies, information, and out-of-date information &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231215/p8#a231215p8)
+ - [Delta&#39;s new plane lets you use AirPods to listen to movie audio in-flight](https://appleinsider.com/articles/23/12/15/deltas-new-plane-lets-you-use-airpods-to-listen-to-movie-audio-in-flight?utm_medium=rss)
  - [China proposes a four-tier, color-coded system for data security incidents; for red and orange alerts the government must be notified within 10 minutes &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/231215/p7#a231215p7)
  - [A look back at Yahoo Pipes, launched in 2007 to let users make custom data feeds by dragging elements in a web browser, influencing a generation of UI designers &lpar;Glenn Fleishman/Retool&rpar;](http://www.techmeme.com/231215/p6#a231215p6)
- - [9 Best Flower Delivery Services to Send a Holiday Bouquet     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
- - [Today&#39;s Best CD Rates: Dec. 15, 2023 -- The Fed’s Latest Rate Pause Means APYs Remain High     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-15-2023/#ftag=CAD590a51e)
- - [Krutrim, an AI startup founded by Ola&#39;s CEO Bhavish Aggarwal, unveils India&#39;s first multilingual LLM, capable of generating text in ten Indian languages &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231215/p5#a231215p5)<!-- TECH:END -->
+ - [9 Best Flower Delivery Services to Send a Holiday Bouquet     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

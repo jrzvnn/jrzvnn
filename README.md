@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 💣 [Title](http://9gag.com/gag/anzPRmV)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Dumb and dumber](http://9gag.com/gag/a04yVVO)<!-- MEMES:END -->
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
 
 ---
 

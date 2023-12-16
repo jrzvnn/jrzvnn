@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 👉 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)<!-- MEMES:END -->
 
 ---
 

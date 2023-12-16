@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
- - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Aww damn, I love lemonade](http://9gag.com/gag/aZDOwpz)
+ - 💣 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 👉 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [When you show your ex wife a replica doll of herself and what she gonna do about that now, huh? The world stops.](http://9gag.com/gag/a8qxmKO)
- - 💣 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
  - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 👉 [Dumb and dumber](http://9gag.com/gag/a04yVVO)<!-- MEMES:END -->
 
 ---
 

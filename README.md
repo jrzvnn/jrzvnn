@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
- - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
- - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 😝 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
+ - 💣 [One ticket please](http://9gag.com/gag/aREqLQq)
+ - 😝 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)
+ - 👉 [Buy your man some flowers gurl](http://9gag.com/gag/ay2jNxM)<!-- MEMES:END -->
 
 ---
 

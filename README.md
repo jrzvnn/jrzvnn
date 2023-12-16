@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
- - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
+ - 😝 [Sings you&#39;re raising a confident kid](http://9gag.com/gag/aA0zyyZ)
+ - 💣 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
  - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
 
 ---
 

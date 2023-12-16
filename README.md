@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony A95L OLED Review: Stunning Picture](https://www.wired.com/review/sony-a95l-oled/)
- - [The Toxic Truth About Your Christmas Tree](https://www.wired.com/story/christmas-tree-toxic-truth-pollution-pesticide/)
- - [5 Best Smart Christmas Lights &lpar;2023&rpar;: String Lights, Garlands, Outdoor Lights](https://www.wired.com/gallery/best-smart-christmas-lights/)
- - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
- - [Chelsea vs. Sheffield United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-sheffield-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [19 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)
+ - [Inside the strange and stunning alien world of Scavengers Reign](https://www.theverge.com/24003065/scavengers-reign-max-alien-world-design-influences-interview)
+ - [Best Streaming Services for Documentaries     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)
+ - [Apple&#39;s iMessage Will Probably Never Come to Android. And That&#39;s OK     - CNET](https://www.cnet.com/tech/mobile/apples-imessage-will-probably-never-come-to-android-and-thats-ok/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

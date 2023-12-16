@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kids&#39; Tablets for 2023     - CNET](https://www.cnet.com/tech/computing/best-kids-tablet/#ftag=CAD590a51e)
  - [A look at the race for wearable AI as Meta adds multimodal AI to its Ray-Ban glasses and a source says OpenAI discussed adding GPT-4 with Vision to Snap devices &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231216/p9#a231216p9)
  - [Opal’s tiny, laptop-friendly Tadpole webcam is already 20 percent off](https://www.theverge.com/2023/12/16/24002959/opal-tadpole-webcam-google-pixel-watch-2-xbox-wireless-controller-deal-sale)
  - [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
- - [The Epic question: how Google lost when Apple won](https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly)
- - [Steelers vs. Colts Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-colts-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Holiday Deals Under $25: Grab Last-Minute Stocking Stuffers and More for Everyone     - CNET](https://www.cnet.com/deals/impulse-holiday-gift-ideas-on-sale-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)
  - [OpenAI says ByteDance&#39;s use of its API was minimal, suspends ByteDance&#39;s account while it investigates a report that ByteDance used OpenAI&#39;s API for its own LLM &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231216/p5#a231216p5)
  - [17 Gifts for People Who Really Need Some Sleep](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [19 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)<!-- TECH:END -->
+ - [Apple Watch Ultra Grade A Refurbs Are Just $530 at Woot     - CNET](https://www.cnet.com/deals/apple-watch-ultra-grade-a-refurbs-are-just-530-at-woot/#ftag=CAD590a51e)
+ - [How to Keep Your Plants Alive During Winter     - CNET](https://www.cnet.com/how-to/dont-kill-your-plants-this-winter-heres-how-to-save-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

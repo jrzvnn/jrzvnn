@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As TikTok rolls out its new Creativity Program Beta, some creators say they&#39;re frustrated by its push to become a &quot;mini YouTube&quot; with videos of up to 15 minutes &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/231216/p12#a231216p12)
  - [Apple pilots discounted subscription scheme to developers](https://appleinsider.com/articles/23/12/16/apple-pilots-discounted-subscription-scheme-to-developers?utm_medium=rss)
  - [Save up to 50% on electronics &amp; accessories that are perfect stocking stuffers](https://appleinsider.com/articles/23/12/16/save-up-to-50-on-electronics-accessories-that-are-perfect-stocking-stuffers?utm_medium=rss)
  - [Broncos vs. Lions Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/broncos-vs-lions-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)
- - [An interview with Stanford professor Fei-Fei Li on the lack of resources for academic AI, Silicon Valley&#39;s &quot;bro&quot; culture, keeping AI safe for humanity, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231216/p11#a231216p11)
- - [Best Free TV Streaming Services: Pluto TV, Tubi, Freevee and More     - CNET](https://www.cnet.com/tech/services-and-software/best-free-tv-streaming-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Stanford professor Fei-Fei Li on the lack of resources for academic AI, Silicon Valley&#39;s &quot;bro&quot; culture, keeping AI safe for humanity, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231216/p11#a231216p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

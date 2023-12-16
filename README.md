@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agree](http://9gag.com/gag/aVbyo6v)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 💣 [Same same but different but still same](http://9gag.com/gag/a5X0VdL)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
- - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Cocaine is helluva drug](http://9gag.com/gag/aL17vzx)
+ - 💣 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 👉 [Aww damn, I love lemonade](http://9gag.com/gag/aZDOwpz)<!-- MEMES:END -->
 
 ---
 

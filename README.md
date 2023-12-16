@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Opal’s tiny, laptop-friendly Tadpole webcam is already 20 percent off](https://www.theverge.com/2023/12/16/24002959/opal-tadpole-webcam-google-pixel-watch-2-xbox-wireless-controller-deal-sale)
  - [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
  - [The Epic question: how Google lost when Apple won](https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly)
- - [Apple, Visa, Mastercard face lawsuit over high merchant fees](https://appleinsider.com/articles/23/12/16/apple-visa-mastercard-face-lawsuit-over-high-merchant-fees?utm_medium=rss)<!-- TECH:END -->
+ - [Steelers vs. Colts Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-colts-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

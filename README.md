@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Title](http://9gag.com/gag/anzPRmV)
+ - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---
 

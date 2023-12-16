@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
  - 😝 [Title](http://9gag.com/gag/anzPRmV)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 💣 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)
- - 😝 [Buy your man some flowers gurl](http://9gag.com/gag/ay2jNxM)
- - 👉 [The way these tomato plants are protected from snails.](http://9gag.com/gag/aBdB6QZ)<!-- MEMES:END -->
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)
+ - [OpenAI says ByteDance&#39;s use of its API was minimal, suspends ByteDance&#39;s account while it investigates a report that ByteDance used OpenAI&#39;s API for its own LLM &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231216/p5#a231216p5)
+ - [17 Gifts for People Who Really Need Some Sleep](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
  - [19 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)
- - [Inside the strange and stunning alien world of Scavengers Reign](https://www.theverge.com/24003065/scavengers-reign-max-alien-world-design-influences-interview)
- - [Best Streaming Services for Documentaries     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-documentaries/#ftag=CAD590a51e)
- - [Apple&#39;s iMessage Will Probably Never Come to Android. And That&#39;s OK     - CNET](https://www.cnet.com/tech/mobile/apples-imessage-will-probably-never-come-to-android-and-thats-ok/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Just Denied Cops a Key Surveillance Tool](https://www.wired.com/story/google-geofence-warrants-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

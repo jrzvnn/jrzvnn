@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The gulf between the real world and streaming has never been further](https://www.theverge.com/24003126/netflix-viewing-data-ginny-georgia-witcher)
+ - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)
+ - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch-december-2023/#ftag=CAD590a51e)
  - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)
- - [OpenAI says ByteDance&#39;s use of its API was minimal, suspends ByteDance&#39;s account while it investigates a report that ByteDance used OpenAI&#39;s API for its own LLM &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231216/p5#a231216p5)
- - [17 Gifts for People Who Really Need Some Sleep](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [Apple Watch Ultra Grade A Refurbs Are Just $530 at Woot     - CNET](https://www.cnet.com/deals/apple-watch-ultra-grade-a-refurbs-are-just-530-at-woot/#ftag=CAD590a51e)
- - [How to Keep Your Plants Alive During Winter     - CNET](https://www.cnet.com/how-to/dont-kill-your-plants-this-winter-heres-how-to-save-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI says ByteDance&#39;s use of its API was minimal, suspends ByteDance&#39;s account while it investigates a report that ByteDance used OpenAI&#39;s API for its own LLM &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231216/p5#a231216p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

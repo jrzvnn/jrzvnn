@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
- - 💣 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
  - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 💣 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
+ - 👉 [2 hours](http://9gag.com/gag/aYVXO30)<!-- MEMES:END -->
 
 ---
 

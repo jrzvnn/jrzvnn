@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [Parked in handicap parking spot](http://9gag.com/gag/awZWggW)
- - 💣 [One ticket please](http://9gag.com/gag/aREqLQq)
- - 😝 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)
- - 👉 [Buy your man some flowers gurl](http://9gag.com/gag/ay2jNxM)<!-- MEMES:END -->
+ - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
+ - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 

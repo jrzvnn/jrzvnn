@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
- - 💣 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 💣 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
  - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
- - 👉 [2 hours](http://9gag.com/gag/aYVXO30)<!-- MEMES:END -->
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

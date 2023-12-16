@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
+ - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
  - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
- - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [Title](http://9gag.com/gag/anzPRmV)
+ - 💣 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
  - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
 
 ---

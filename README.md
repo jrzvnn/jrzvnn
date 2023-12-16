@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
- - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
- - 💣 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
  - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 💣 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
+ - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
+ - 👉 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)<!-- MEMES:END -->
 
 ---
 

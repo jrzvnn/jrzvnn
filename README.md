@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue reorganizes, plans job cuts to save $218 million annually](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)
+ - [A California state agency drops its 2021 sexual harassment case against Activision Blizzard, saying that no &quot;investigation has substantiated any allegations&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231215/p24#a231215p24)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [OnePlus 12: What to Expect With the Next OnePlus Flagship     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-what-to-expect-with-the-next-oneplus-flagship/#ftag=CAD590a51e)
- - [Sources: Activision Blizzard agreed to pay ~$50M to settle a 2021 lawsuit by California regulators alleging sexual harassment, discrimination, and pay disparity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p23#a231215p23)
- - [Nerunsa Smart Watch     - CNET](https://www.cnet.com/health/fitness/nerunsa-smart-watch-dpnl/#ftag=CAD590a51e)
- - [Apple fixed the iPhone’s Flipper Zero problem](https://www.theverge.com/2023/12/15/24003406/apple-iphone-flipper-zero-fix-ios-17-2)
- - [Sony WH-1000XM4     - CNET](https://www.cnet.com/tech/mobile/sony-wh-1000xm4-2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Activision Blizzard to Pay Around $50 Million to Settle Lawsuit That Spurred Microsoft&#39;s Takeover &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p23#a231215p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

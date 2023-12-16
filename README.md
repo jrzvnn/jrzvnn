@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
+ - 💣 [F**king Legend](http://9gag.com/gag/a5X06Nr)
  - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
- - 💣 [Being a robber in Spain is easy](http://9gag.com/gag/a9qg6oL)
- - 😝 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
- - 👉 [Your body your choice? My money...my...](http://9gag.com/gag/a9qgv81)<!-- MEMES:END -->
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

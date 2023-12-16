@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 💣 [The full clip](http://9gag.com/gag/aA0zQMZ)
+ - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
  - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 💣 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
+ - 👉 [The full clip](http://9gag.com/gag/aA0zQMZ)<!-- MEMES:END -->
 
 ---
 

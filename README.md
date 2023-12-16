@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 💣 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 👉 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)<!-- MEMES:END -->
+ - 😝 [Agree](http://9gag.com/gag/aVbyo6v)
+ - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
+ - 💣 [Same same but different but still same](http://9gag.com/gag/a5X0VdL)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
+ - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
 
 ---
 

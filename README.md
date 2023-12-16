@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 💣 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)<!-- MEMES:END -->
 
 ---
 

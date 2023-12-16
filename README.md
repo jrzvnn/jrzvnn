@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fire TV Stick for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
  - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
+ - [Are You Waking Up to Pee Too Often? Here&#39;s When It Becomes a Problem     - CNET](https://www.cnet.com/health/sleep/are-you-waking-up-to-pee-too-often-heres-when-it-becomes-a-problem/#ftag=CAD590a51e)
  - [The gulf between the real world and streaming has never been further](https://www.theverge.com/24003126/netflix-viewing-data-ginny-georgia-witcher)
- - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)
- - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch-december-2023/#ftag=CAD590a51e)
- - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)<!-- TECH:END -->
+ - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

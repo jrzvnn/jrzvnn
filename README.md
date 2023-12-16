@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Weibo sent notices warning users to &quot;avoid expressing pessimism about the economy&quot; and &quot;avoid crossing the red lines&quot; around economic or financial topics &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p26#a231215p26)
+ - [Adam Mosseri details Threads&#39; fediverse plans, including following non-Threads accounts, showing replies from other platforms, and follower portability &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231215/p25#a231215p25)
+ - [California settles Activision Blizzard gender discrimination lawsuit for $54 million](https://www.theverge.com/2023/12/15/24003556/california-activision-blizzard-gender-discrimination-lawsuit-settlement)
  - [Philips Hue reorganizes, plans job cuts to save $218 million annually](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)
- - [A California state agency drops its 2021 sexual harassment case against Activision Blizzard, saying that no &quot;investigation has substantiated any allegations&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231215/p24#a231215p24)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [OnePlus 12: What to Expect With the Next OnePlus Flagship     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-what-to-expect-with-the-next-oneplus-flagship/#ftag=CAD590a51e)
- - [Activision Blizzard to Pay Around $50 Million to Settle Lawsuit That Spurred Microsoft&#39;s Takeover &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231215/p23#a231215p23)<!-- TECH:END -->
+ - [A California state agency drops its 2021 sexual harassment case against Activision Blizzard, saying that no &quot;investigation has substantiated any allegations&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231215/p24#a231215p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

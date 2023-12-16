@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 💣 [Throwing Anna under the bus](http://9gag.com/gag/aVbyb1O)
- - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
- - 👉 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)<!-- MEMES:END -->
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
+ - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 ---
 

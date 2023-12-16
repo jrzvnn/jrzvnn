@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opal’s tiny, laptop-friendly Tadpole webcam is already 20 percent off](https://www.theverge.com/2023/12/16/24002959/opal-tadpole-webcam-google-pixel-watch-2-xbox-wireless-controller-deal-sale)
  - [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
  - [The Epic question: how Google lost when Apple won](https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly)
  - [Apple, Visa, Mastercard face lawsuit over high merchant fees](https://appleinsider.com/articles/23/12/16/apple-visa-mastercard-face-lawsuit-over-high-merchant-fees?utm_medium=rss)
- - [Robinhood received ~$1.1B in account transfers since it began offering a 1% match on transferred brokerage accounts on October 23, with 150+ transfers of $1M+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/231216/p8#a231216p8)
- - [Daily deals Dec. 16: $650 off 2023 MacBook Pro, $150 off Apple Watch Series 8, Apple Watch Ultra for $530, more](https://appleinsider.com/articles/23/12/16/daily-deals-dec-16-650-off-2023-macbook-pro-150-off-apple-watch-series-8-apple-watch-ultra-for-530-more?utm_medium=rss)<!-- TECH:END -->
+ - [Robinhood received ~$1.1B in account transfers since it began offering a 1% match on transferred brokerage accounts on October 23, with 150+ transfers of $1M+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/231216/p8#a231216p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

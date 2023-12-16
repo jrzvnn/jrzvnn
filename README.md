@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
- - 💣 [Title](http://9gag.com/gag/anzPRmV)
  - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 💣 [Title](http://9gag.com/gag/anzPRmV)
+ - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 👉 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)<!-- MEMES:END -->
 
 ---
 

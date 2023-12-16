@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
- - 💣 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
- - 😝 [Aww damn, I love lemonade](http://9gag.com/gag/aZDOwpz)
- - 👉 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)<!-- MEMES:END -->
+ - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
+ - 💣 [Title](http://9gag.com/gag/anzPRmV)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
 
 ---
 

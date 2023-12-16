@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to 50% on electronics &amp; accessories that are perfect stocking stuffers](https://appleinsider.com/articles/23/12/16/save-up-to-50-on-electronics-accessories-that-are-perfect-stocking-stuffers?utm_medium=rss)
  - [An interview with Stanford professor Fei-Fei Li on the lack of resources for academic AI, Silicon Valley&#39;s &quot;bro&quot; culture, keeping AI safe for humanity, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231216/p11#a231216p11)
  - [Best Free TV Streaming Services: Pluto TV, Tubi, Freevee and More     - CNET](https://www.cnet.com/tech/services-and-software/best-free-tv-streaming-services/#ftag=CAD590a51e)
  - [Ex-Amazon security engineer Shakeeb Ahmed pleads guilty to hacking and stealing over $12.3M from Nirvana Finance and an unnamed crypto exchange in July 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231216/p10#a231216p10)
- - [6 Effective Ways to Cope With Seasonal Affective Disorder This Winter     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)
- - [Best Kids&#39; Tablets for 2023     - CNET](https://www.cnet.com/tech/computing/best-kids-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Effective Ways to Cope With Seasonal Affective Disorder This Winter     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

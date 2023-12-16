@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
- - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Title](http://9gag.com/gag/anzPRmV)
- - 👉 [The full clip](http://9gag.com/gag/aA0zQMZ)<!-- MEMES:END -->
+ - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 💣 [Title](http://9gag.com/gag/anzPRmV)
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Dumb and dumber](http://9gag.com/gag/a04yVVO)<!-- MEMES:END -->
 
 ---
 

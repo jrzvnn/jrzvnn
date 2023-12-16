@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aWG3p86)
  - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Full story below](http://9gag.com/gag/arm7nEd)
- - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
+ - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
+ - 👉 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)<!-- MEMES:END -->
 
 ---
 

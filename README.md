@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age 20-35... this site is messed up.](http://9gag.com/gag/a4oOo5Z)
- - 😝 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
- - 💣 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 💣 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [Over the Pacific Ocean tonight](http://9gag.com/gag/aQEWz87)
+ - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
 
 ---
 

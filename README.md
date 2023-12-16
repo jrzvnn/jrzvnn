@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone’s Notes App Is the Purest Reflection of Our Messy Existence](https://www.wired.com/story/iphone-notes-app-purest-reflection-of-our-humanity/)
- - [How Spamouflage Dragon, China&#39;s largest disinformation campaign per Google and Meta, infiltrates platforms to promote Chinese policies and criticize dissidents &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/231216/p4#a231216p4)
- - [7 of the Best Board Games to Give in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)
- - [Hottest Holiday Toys of 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)
- - [Best Christmas Gifts 2023: Clear Your List With These 62 Ideas     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony A95L OLED Review: Stunning Picture](https://www.wired.com/review/sony-a95l-oled/)
+ - [The Toxic Truth About Your Christmas Tree](https://www.wired.com/story/christmas-tree-toxic-truth-pollution-pesticide/)
+ - [5 Best Smart Christmas Lights &lpar;2023&rpar;: String Lights, Garlands, Outdoor Lights](https://www.wired.com/gallery/best-smart-christmas-lights/)
+ - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
+ - [Chelsea vs. Sheffield United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-sheffield-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

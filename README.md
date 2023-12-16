@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
  - [The gulf between the real world and streaming has never been further](https://www.theverge.com/24003126/netflix-viewing-data-ginny-georgia-witcher)
  - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)
  - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch-december-2023/#ftag=CAD590a51e)
- - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)
- - [OpenAI says ByteDance&#39;s use of its API was minimal, suspends ByteDance&#39;s account while it investigates a report that ByteDance used OpenAI&#39;s API for its own LLM &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/231216/p5#a231216p5)<!-- TECH:END -->
+ - [VOCOlinc Smart LED Desk Lamp review: full of features without busting your budget](https://appleinsider.com/articles/23/12/16/vocolinc-smart-led-desk-lamp-review-full-of-features-without-busting-your-budget?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

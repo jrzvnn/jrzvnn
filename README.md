@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SmileDirectClub Shut Down: What We Know About Payments and Finding New Treatment     - CNET](https://www.cnet.com/health/personal-care/smiledirectclub-shut-down-what-we-know-about-payments-and-finding-new-treatment/#ftag=CAD590a51e)
  - [Memo: Weibo sent notices warning users to &quot;avoid expressing pessimism about the economy&quot; and &quot;avoid crossing the red lines&quot; around economic or financial topics &lpar;Bloomberg&rpar;](http://www.techmeme.com/231215/p26#a231215p26)
  - [Adam Mosseri details Threads&#39; fediverse plans, including following non-Threads accounts, showing replies from other platforms, and follower portability &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231215/p25#a231215p25)
  - [California settles Activision Blizzard gender discrimination lawsuit for $54 million](https://www.theverge.com/2023/12/15/24003556/california-activision-blizzard-gender-discrimination-lawsuit-settlement)
- - [Philips Hue reorganizes, plans job cuts to save $218 million annually](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)
- - [A California state agency drops its 2021 sexual harassment case against Activision Blizzard, saying that no &quot;investigation has substantiated any allegations&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231215/p24#a231215p24)<!-- TECH:END -->
+ - [Philips Hue reorganizes, plans job cuts to save $218 million annually](https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

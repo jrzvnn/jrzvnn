@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)
- - 😝 [Title](http://9gag.com/gag/anzPRmV)
- - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)<!-- MEMES:END -->
+ - 😝 [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
+ - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
+ - 💣 [That spit though](http://9gag.com/gag/ap9ZNe5)
+ - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
+ - 👉 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 ---
 

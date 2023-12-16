@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple, Visa, Mastercard face lawsuit over high merchant fees](https://appleinsider.com/articles/23/12/16/apple-visa-mastercard-face-lawsuit-over-high-merchant-fees?utm_medium=rss)
+ - [Robinhood received ~$1.1B in account transfers since it began offering a 1% match on transferred brokerage accounts on October 23, with 150+ transfers of $1M+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/231216/p8#a231216p8)
  - [Daily deals Dec. 16: $650 off 2023 MacBook Pro, $150 off Apple Watch Series 8, Apple Watch Ultra for $530, more](https://appleinsider.com/articles/23/12/16/daily-deals-dec-16-650-off-2023-macbook-pro-150-off-apple-watch-series-8-apple-watch-ultra-for-530-more?utm_medium=rss)
  - [An interview with Tim Sweeney about Epic&#39;s win over Google and his concerns that Google will &quot;get away with continuing their scheme&quot; through &quot;fake&quot; remedies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231216/p7#a231216p7)
- - [Best Fire TV Stick for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
- - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
- - [Are You Waking Up to Pee Too Often? Here&#39;s When It Becomes a Problem     - CNET](https://www.cnet.com/health/sleep/are-you-waking-up-to-pee-too-often-heres-when-it-becomes-a-problem/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fire TV Stick for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

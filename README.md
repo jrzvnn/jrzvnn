@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
- - 😝 [Sings you&#39;re raising a confident kid](http://9gag.com/gag/aA0zyyZ)
- - 💣 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/anzPRmV)
+ - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 💣 [Black Speaker TEARS INTO kids, says Black students are the RUDEST audience.](http://9gag.com/gag/aBdByyD)
+ - 😝 [Buy your man some flowers gurl](http://9gag.com/gag/ay2jNxM)
+ - 👉 [The way these tomato plants are protected from snails.](http://9gag.com/gag/aBdB6QZ)<!-- MEMES:END -->
 
 ---
 

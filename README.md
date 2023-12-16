@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
  - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 💣 [Disney wife](http://9gag.com/gag/agozoQq)
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 👉 [Dumb and dumber](http://9gag.com/gag/a04yVVO)<!-- MEMES:END -->
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 💣 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
+ - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 

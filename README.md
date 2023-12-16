@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 😝 [Disney wife](http://9gag.com/gag/agozoQq)
- - 💣 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
- - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
- - 👉 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 💣 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 😝 [Title](http://9gag.com/gag/anzPRmV)
+ - 👉 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)<!-- MEMES:END -->
 
 ---
 

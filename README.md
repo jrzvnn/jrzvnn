@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 16: $650 off 2023 MacBook Pro, $150 off Apple Watch Series 8, Apple Watch Ultra for $530, more](https://appleinsider.com/articles/23/12/16/daily-deals-dec-16-650-off-2023-macbook-pro-150-off-apple-watch-series-8-apple-watch-ultra-for-530-more?utm_medium=rss)
  - [An interview with Tim Sweeney about Epic&#39;s win over Google and his concerns that Google will &quot;get away with continuing their scheme&quot; through &quot;fake&quot; remedies &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231216/p7#a231216p7)
  - [Apple announces contingent pricing for subscriptions, letting developers give users a discounted price if they&#39;re actively subscribed to another subscription &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231216/p6#a231216p6)
  - [The gulf between the real world and streaming has never been further](https://www.theverge.com/24003126/netflix-viewing-data-ginny-georgia-witcher)
- - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)
- - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch-december-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get 20% Off Peet&#39;s Coffee Gift Subscriptions With This Holiday Sale     - CNET](https://www.cnet.com/deals/get-20-off-peets-coffee-gift-subscriptions-with-this-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

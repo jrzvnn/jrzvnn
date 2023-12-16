@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 😝 [Its not big but atleast shes cute af](http://9gag.com/gag/aA0z0p9)
+ - 😝 [Dunno](http://9gag.com/gag/avQKQeM)
  - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Cocaine is helluva drug](http://9gag.com/gag/aL17vzx)
- - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/anzPRmV)
+ - 👉 [The full clip](http://9gag.com/gag/aA0zQMZ)<!-- MEMES:END -->
 
 ---
 

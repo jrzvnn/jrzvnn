@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vera Molnar, considered the godmother of generative art for her computer-aided paintings and drawings that started in the 1960s, died on December 7 at age 99 &lpar;Alex Williams/New York Times&rpar;](http://www.techmeme.com/231216/p3#a231216p3)
  - [Tesla&#39;s Autopilot recall threatens to hurt the company&#39;s defense in six high-profile lawsuits set for 2024 over crashes linked to the driver-assistance program &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231216/p2#a231216p2)
  - [Polygon Labs discontinues contributions to Edge, the OSS used for Dogechain, and shifts towards the Polygon CDK, which is powered by zero-knowledge cryptography &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/231216/p1#a231216p1)
  - [Best Holiday Deals on E-Bikes: Save Hundreds on Top Brands Like BirdBike, Velowave and More     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
- - [CGIGC: China&#39;s video games market returned to growth in 2023 with domestic revenue up 13% YoY to ~$42.6B and the number of gamers up 0.61% YoY to a record 668M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231215/p27#a231215p27)
- - [SmileDirectClub Shut Down: What We Know About Payments and Finding New Treatment     - CNET](https://www.cnet.com/health/personal-care/smiledirectclub-shut-down-what-we-know-about-payments-and-finding-new-treatment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CGIGC: China&#39;s video games market returned to growth in 2023 with domestic revenue up 13% YoY to ~$42.6B and the number of gamers up 0.61% YoY to a record 668M &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231215/p27#a231215p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

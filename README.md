@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 💣 [Aww damn, I love lemonade](http://9gag.com/gag/aZDOwpz)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
  - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)<!-- MEMES:END -->
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
+ - 😝 [Uh oh](http://9gag.com/gag/avQK5VM)
+ - 💣 [Full story below](http://9gag.com/gag/arm7nEd)
  - 😝 [The full clip](http://9gag.com/gag/aA0zQMZ)
- - 😝 [Meanwhile in an alternate universe...](http://9gag.com/gag/aGE4ErZ)
- - 💣 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 😝 [Panama, yesterday](http://9gag.com/gag/aPgbgBQ)
- - 👉 [Disney wife](http://9gag.com/gag/agozoQq)<!-- MEMES:END -->
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

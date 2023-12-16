@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am sure he is doing very well](http://9gag.com/gag/abvnvxE)
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 💣 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [Aww damn, I love lemonade](http://9gag.com/gag/aZDOwpz)<!-- MEMES:END -->
+ - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 😝 [Dota 2 rolled out its ban wave, gift-wrapped.](http://9gag.com/gag/aXn6LO6)
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Cocaine is helluva drug](http://9gag.com/gag/aL17vzx)
+ - 👉 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)<!-- MEMES:END -->
 
 ---
 

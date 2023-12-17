@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton’s app now pairs with third-party treadmills for some subscribers](https://www.theverge.com/2023/12/17/24004950/peloton-plus-app-third-party-treadmill-support-subscriber-only)
  - [Apple tests a way for app developers to bundle subscription discounts](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
  - [Get free next day shipping &amp; save up to $1,800 on Apple gear at B&amp;H](https://appleinsider.com/articles/23/12/17/get-free-next-day-shipping-save-up-to-1800-on-apple-gear-at-bh?utm_medium=rss)
  - [Cowboys vs. Bills Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-bills-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)
- - [How conservationists are using an AI tool called CeruleanAI, developed by the Coral Restoration Foundation, to analyze 3D maps of reefs and monitor restoration &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231217/p5#a231217p5)
- - [Commanders vs. Rams Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-rams-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How conservationists are using an AI tool called CeruleanAI, developed by the Coral Restoration Foundation, to analyze 3D maps of reefs and monitor restoration &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231217/p5#a231217p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

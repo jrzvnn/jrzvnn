@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
  - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 💣 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [This is all wrong](http://9gag.com/gag/aZDO1Y9)<!-- MEMES:END -->
+ - 💣 [He did warn here](http://9gag.com/gag/aDYe6vN)
+ - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
+ - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
 
 ---
 

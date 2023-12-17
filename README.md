@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
- - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 💣 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
+ - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 💣 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 😝 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 

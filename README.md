@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 💣 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
+ - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 

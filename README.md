@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Female Influencer](http://9gag.com/gag/aEqmAPN)
  - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 💣 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 👉 [This is all wrong](http://9gag.com/gag/aZDO1Y9)<!-- MEMES:END -->
+ - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
 
 ---
 

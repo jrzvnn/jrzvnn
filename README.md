@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose your time traveler](http://9gag.com/gag/anzPvXz)
- - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 💣 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
+ - 💣 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)<!-- MEMES:END -->
 
 ---
 

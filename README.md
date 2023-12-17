@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
- - 💣 [Porch pirates New Orleans](http://9gag.com/gag/agoz1Ev)
- - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
+ - 😝 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 💣 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 ---
 

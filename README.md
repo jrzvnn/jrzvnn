@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
- - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
+ - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
+ - 💣 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
 
 ---
 

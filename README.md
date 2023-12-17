@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 💣 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
+ - 💣 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
+ - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
 
 ---
 

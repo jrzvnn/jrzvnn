@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 💣 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
- - 👉 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)<!-- MEMES:END -->
+ - 😝 [Being a robber in Spain is easy](http://9gag.com/gag/a9qg6oL)
+ - 😝 [Rate my setup. I recently started a new life after breaking up with my real woman wife.](http://9gag.com/gag/arm7XpX)
+ - 💣 [Tonight we aren&#39;t young](http://9gag.com/gag/a4oONV6)
+ - 😝 [Literally you](http://9gag.com/gag/a04yVBq)
+ - 👉 [My fellow bri&#39;ish](http://9gag.com/gag/a5X0wBL)<!-- MEMES:END -->
 
 ---
 

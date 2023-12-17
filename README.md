@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 💣 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
+ - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
+ - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 💣 [Just like for knights to be honest](http://9gag.com/gag/ay2j6eb)
+ - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

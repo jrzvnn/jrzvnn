@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a robber in Spain is easy](http://9gag.com/gag/a9qg6oL)
- - 😝 [Rate my setup. I recently started a new life after breaking up with my real woman wife.](http://9gag.com/gag/arm7XpX)
- - 💣 [Tonight we aren&#39;t young](http://9gag.com/gag/a4oONV6)
- - 😝 [Literally you](http://9gag.com/gag/a04yVBq)
- - 👉 [My fellow bri&#39;ish](http://9gag.com/gag/a5X0wBL)<!-- MEMES:END -->
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
 
 ---
 

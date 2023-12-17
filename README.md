@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Daily deals Dec. 17: $100 off AirPods Max, $200 off Apple Watch Series 8, Echelon Exercise Rower for $149, more](https://appleinsider.com/articles/23/12/17/daily-deals-dec-17-100-off-airpods-max-200-off-apple-watch-series-8-echelon-exercise-rower-for-149-more?utm_medium=rss)
+ - [Best Vitamins and Supplements for Eye Health     - CNET](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eye-health/#ftag=CAD590a51e)
  - [Big changes expected for iPad family in 2024](https://appleinsider.com/articles/23/12/17/big-changes-expected-for-ipad-family-in-2024?utm_medium=rss)
  - [Snag a 4-Pack of Apple&#39;s Top-Rated AirTag Bluetooth Trackers for Just $20 Apiece     - CNET](https://www.cnet.com/deals/snag-a-4-pack-of-apples-top-rated-airtag-bluetooth-trackers-for-just-20-apiece/#ftag=CAD590a51e)
- - [12 Bizarre Kitchen Tools That Actually Work     - CNET](https://www.cnet.com/news/bizarre-kitchen-tools-that-actually-work/#ftag=CAD590a51e)
- - [Chiefs vs. Patriots Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-patriots-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Bizarre Kitchen Tools That Actually Work     - CNET](https://www.cnet.com/news/bizarre-kitchen-tools-that-actually-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

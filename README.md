@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
- - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 💣 [Just like for knights to be honest](http://9gag.com/gag/ay2j6eb)
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
+ - 💣 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 😝 [What&#39;s up my mammals](http://9gag.com/gag/aVbyv6O)
+ - 👉 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)<!-- MEMES:END -->
 
 ---
 

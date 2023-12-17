@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 😝 [Just like for knights to be honest](http://9gag.com/gag/ay2j6eb)
- - 💣 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
+ - 😝 [Female Influencer](http://9gag.com/gag/aEqmAPN)
+ - 😝 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
+ - 💣 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 👉 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)<!-- MEMES:END -->
 
 ---
 

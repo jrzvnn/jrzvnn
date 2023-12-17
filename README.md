@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney, WBD, and other studios are licensing more content to Netflix in return for much-needed cash, but are holding back their most popular movies and shows &lpar;New York Times&rpar;](http://www.techmeme.com/231217/p4#a231217p4)
  - [AirPods&#39; 2024 refresh could include two Gen 4 models, AirPods Max update](https://appleinsider.com/articles/23/12/17/airpods-2024-refresh-could-include-two-gen-4-models-airpods-max-update?utm_medium=rss)
  - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
  - [Maxed Out: Inside America&#39;s Credit Card Debt Crisis -- and Where We Go From Here     - CNET](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-where-we-go-from-here/#ftag=CAD590a51e)
- - [Why I Need Apple to Make a Foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/why-i-need-apple-to-make-a-foldable-iphone/#ftag=CAD590a51e)
- - [Liverpool vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why I Need Apple to Make a Foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/why-i-need-apple-to-make-a-foldable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

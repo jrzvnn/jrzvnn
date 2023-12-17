@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female Influencer](http://9gag.com/gag/aEqmAPN)
- - 😝 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
- - 💣 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 👉 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)<!-- MEMES:END -->
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 💣 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
 
 ---
 

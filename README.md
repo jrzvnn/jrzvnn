@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tests a way for app developers to bundle subscription discounts](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
+ - [Get free next day shipping &amp; save up to $1,800 on Apple gear at B&amp;H](https://appleinsider.com/articles/23/12/17/get-free-next-day-shipping-save-up-to-1800-on-apple-gear-at-bh?utm_medium=rss)
+ - [Cowboys vs. Bills Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-bills-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)
  - [How conservationists are using an AI tool called CeruleanAI, developed by the Coral Restoration Foundation, to analyze 3D maps of reefs and monitor restoration &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231217/p5#a231217p5)
- - [Dangbei Mars Projector Review: Cinema at home](https://appleinsider.com/articles/23/12/17/dangbei-mars-projector-review-cinema-at-home?utm_medium=rss)
- - [10 Record-Low Holiday Deals You Can Still Grab in Time for Christmas     - CNET](https://www.cnet.com/deals/10-record-low-holiday-deals-you-can-still-grab-in-time-for-christmas/#ftag=CAD590a51e)
- - [Best Mattresses for Heavy People for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
- - [Best Internet Providers in Lafayette, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lafayette-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Commanders vs. Rams Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-rams-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

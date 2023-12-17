@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
+ - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 💣 [Dumb and dumber](http://9gag.com/gag/a04yVVO)
  - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 💣 [He did warn here](http://9gag.com/gag/aDYe6vN)
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
+ - 👉 [F**king Legend](http://9gag.com/gag/a5X06Nr)<!-- MEMES:END -->
 
 ---
 

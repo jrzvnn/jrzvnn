@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SenseTime says co-founder Tang Xiao&#39;ou, who was also a professor at the Chinese University of Hong Kong, died of an unspecified illness on December 15 at age 55 &lpar;Yue Wang/Forbes&rpar;](http://www.techmeme.com/231216/p13#a231216p13)
  - [Best Garmin Deals: Snag Garmin Wearables, Sporting Equipment and More at a Discount     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
  - [Best Blu-ray Player for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-blu-ray-player/#ftag=CAD590a51e)
  - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)
- - [Best MacBook Pro M2 Deals: $200 Off Select Configurations, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-13-inch-macbook-pro-m2-deals/#ftag=CAD590a51e)
- - [US Congress pushes warrantless wiretapping decision off until April next year](https://www.theverge.com/2023/12/16/24004356/section-207-reauthorized-until-april-fisa-national-defence-cyber-surveillance)<!-- TECH:END -->
+ - [Best MacBook Pro M2 Deals: $200 Off Select Configurations, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-13-inch-macbook-pro-m2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

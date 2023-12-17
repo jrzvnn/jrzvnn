@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ultimate app for reading the internet](https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter)
  - [Crime blotter: Apple Store crimes in the Bay Area](https://appleinsider.com/articles/23/12/17/crime-blotter-apple-store-crimes-in-the-bay-area?utm_medium=rss)
  - [A profile of Dr. Shih Chin-tay, who led Taiwan&#39;s foray into chip production in the 1970s after joining the Industrial Technology Research Institute in Hsinchu &lpar;Rupert Wingfield-Hayes/BBC&rpar;](http://www.techmeme.com/231217/p3#a231217p3)
- - [The Best Apps for Your Foldable Phone](https://www.wired.com/story/best-apps-foldable-phone/)
- - [Over 60 of the Best Star Wars Gifts for 2023: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
- - [Arsenal vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [70mai Dash Cam Omni Review: 360-Degree Secure Driving Experience     - CNET](https://www.cnet.com/tech/computing/70mai-dash-cam-omni-review-360-degree-secure-driving-experience/#ftag=CAD590a51e)
+ - [The Best Apps for Your Foldable Phone](https://www.wired.com/story/best-apps-foldable-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 😝 [Female Influencer](http://9gag.com/gag/aEqmAPN)
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
  - 💣 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 👉 [This is all wrong](http://9gag.com/gag/aZDO1Y9)<!-- MEMES:END -->
 
 ---
 

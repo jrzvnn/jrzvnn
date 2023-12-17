@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 💣 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)
- - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
+ - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
+ - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
 
 ---
 

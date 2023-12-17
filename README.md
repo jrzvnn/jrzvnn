@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
- - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
+ - 😝 [Choose your time traveler](http://9gag.com/gag/anzPvXz)
+ - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
+ - 💣 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
  - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---

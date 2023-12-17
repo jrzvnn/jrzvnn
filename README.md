@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work of a student for the title of Master](http://9gag.com/gag/aqeo6Ap)
- - 😝 [The One](http://9gag.com/gag/a2K6yyw)
- - 💣 [That nike bread just tastes differently](http://9gag.com/gag/aEqmWpp)
- - 😝 [This guy is gradually increasing kinetic energy with elastic energy to avoid lifting a huge tire](http://9gag.com/gag/a6qYnW8)
- - 👉 [This person has become famous for teaching his sick dog to drive both a vehicle and a motorcycle](http://9gag.com/gag/amA4x8X)<!-- MEMES:END -->
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
+ - 💣 [Porch pirates New Orleans](http://9gag.com/gag/agoz1Ev)
+ - 😝 [He did warn here](http://9gag.com/gag/aDYe6vN)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 

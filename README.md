@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
+ - 😝 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
+ - 💣 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
  - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 💣 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 😝 [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

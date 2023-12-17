@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
+ - 💣 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
  - 😝 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
- - 😝 [This Fella must completely confused](http://9gag.com/gag/arm73ZV)
- - 💣 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Allow me to unlock a new fear for you, ladies](http://9gag.com/gag/a04yo5O)
- - 👉 [2 hours](http://9gag.com/gag/aYVXO30)<!-- MEMES:END -->
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

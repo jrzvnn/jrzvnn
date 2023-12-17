@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
- - 😝 [Title](http://9gag.com/gag/anzPRmV)
- - 💣 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
+ - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
+ - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
+ - 💣 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 👉 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)<!-- MEMES:END -->
 
 ---
 

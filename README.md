@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
  - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)
  - [Work Louder Creator Board Review: An Ortholinear Keyboard](https://www.wired.com/review/work-louder-creator-board/)
  - [The ultimate app for reading the internet](https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter)
- - [Crime blotter: Apple Store crimes in the Bay Area](https://appleinsider.com/articles/23/12/17/crime-blotter-apple-store-crimes-in-the-bay-area?utm_medium=rss)
- - [A profile of Dr. Shih Chin-tay, who led Taiwan&#39;s foray into chip production in the 1970s after joining the Industrial Technology Research Institute in Hsinchu &lpar;Rupert Wingfield-Hayes/BBC&rpar;](http://www.techmeme.com/231217/p3#a231217p3)<!-- TECH:END -->
+ - [Crime blotter: Apple Store crimes in the Bay Area](https://appleinsider.com/articles/23/12/17/crime-blotter-apple-store-crimes-in-the-bay-area?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

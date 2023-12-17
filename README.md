@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
- - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 💣 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
+ - 😝 [Work of a student for the title of Master](http://9gag.com/gag/aqeo6Ap)
+ - 😝 [The One](http://9gag.com/gag/a2K6yyw)
+ - 💣 [That nike bread just tastes differently](http://9gag.com/gag/aEqmWpp)
+ - 😝 [This guy is gradually increasing kinetic energy with elastic energy to avoid lifting a huge tire](http://9gag.com/gag/a6qYnW8)
+ - 👉 [This person has become famous for teaching his sick dog to drive both a vehicle and a motorcycle](http://9gag.com/gag/amA4x8X)<!-- MEMES:END -->
 
 ---
 

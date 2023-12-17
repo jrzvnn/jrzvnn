@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 17: $100 off AirPods Max, $200 off Apple Watch Series 8, Echelon Exercise Rower for $149, more](https://appleinsider.com/articles/23/12/17/daily-deals-dec-17-100-off-airpods-max-200-off-apple-watch-series-8-echelon-exercise-rower-for-149-more?utm_medium=rss)
  - [Big changes expected for iPad family in 2024](https://appleinsider.com/articles/23/12/17/big-changes-expected-for-ipad-family-in-2024?utm_medium=rss)
- - [22 Best Bluetooth Speakers &lpar;2023&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [Disney, WBD, and other studios are licensing more content to Netflix in return for much-needed cash, but are holding back their most popular movies and shows &lpar;New York Times&rpar;](http://www.techmeme.com/231217/p4#a231217p4)
- - [AirPods&#39; 2024 refresh could include two Gen 4 models, AirPods Max update](https://appleinsider.com/articles/23/12/17/airpods-2024-refresh-could-include-two-gen-4-models-airpods-max-update?utm_medium=rss)
- - [Meal Kits, Prepared Meals or Grocery Subscription: Which Is the Best Deal in 2023?     - CNET](https://www.cnet.com/health/nutrition/grocery-delivery-meal-kits-or-prepared-meal-subscription-which-one-should-you-pick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag a 4-Pack of Apple&#39;s Top-Rated AirTag Bluetooth Trackers for Just $20 Apiece     - CNET](https://www.cnet.com/deals/snag-a-4-pack-of-apples-top-rated-airtag-bluetooth-trackers-for-just-20-apiece/#ftag=CAD590a51e)
+ - [12 Bizarre Kitchen Tools That Actually Work     - CNET](https://www.cnet.com/news/bizarre-kitchen-tools-that-actually-work/#ftag=CAD590a51e)
+ - [Chiefs vs. Patriots Livestream: How to Watch NFL Week 15 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-patriots-livestream-how-to-watch-nfl-week-15-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

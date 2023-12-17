@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)
  - [Q&amp;A with Deepu Talla, Nvidia&#39;s VP and GM for Embedded and Edge Computing, on the role of generative AI in robotics, designing humanoid robots, trends, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231217/p6#a231217p6)
  - [How to use SideCar on iPad in portrait orientation with BetterDisplay](https://appleinsider.com/inside/sidecar/tips/how-to-use-sidecar-on-ipad-in-portrait-orientation-with-betterdisplay?utm_medium=rss)
  - [Best Webcams From 1080p to 4K for 2023     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)
- - [Best Fitbit Deals: $30 Off Charge 6, $70 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Best iPad for 2023     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitbit Deals: $30 Off Charge 6, $70 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

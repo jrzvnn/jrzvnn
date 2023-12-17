@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
- - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)
- - [Work Louder Creator Board Review: An Ortholinear Keyboard](https://www.wired.com/review/work-louder-creator-board/)
- - [The ultimate app for reading the internet](https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter)
- - [Crime blotter: Apple Store crimes in the Bay Area](https://appleinsider.com/articles/23/12/17/crime-blotter-apple-store-crimes-in-the-bay-area?utm_medium=rss)<!-- TECH:END -->
+ - [Maxed Out: Inside America&#39;s Credit Card Debt Crisis -- and Where We Go From Here     - CNET](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-where-we-go-from-here/#ftag=CAD590a51e)
+ - [Why I Need Apple to Make a Foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/why-i-need-apple-to-make-a-foldable-iphone/#ftag=CAD590a51e)
+ - [Liverpool vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best TVs of 2023: From High-End to Budget, to the Price-to-Picture Sweet Spot video     - CNET](https://www.cnet.com/videos/best-tvs-of-2023-from-high-end-to-budget-to-the-price-to-picture-sweet-spot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

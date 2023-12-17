@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods&#39; 2024 refresh could include two Gen 4 models, AirPods Max update](https://appleinsider.com/articles/23/12/17/airpods-2024-refresh-could-include-two-gen-4-models-airpods-max-update?utm_medium=rss)
  - [The Best Pet Cameras &lpar;2023&rpar;: Treat Dispensing, Laser Pointer, and 360 Degrees](https://www.wired.com/story/best-pet-cameras/)
  - [Maxed Out: Inside America&#39;s Credit Card Debt Crisis -- and Where We Go From Here     - CNET](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-where-we-go-from-here/#ftag=CAD590a51e)
  - [Why I Need Apple to Make a Foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/why-i-need-apple-to-make-a-foldable-iphone/#ftag=CAD590a51e)
- - [Liverpool vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best TVs of 2023: From High-End to Budget, to the Price-to-Picture Sweet Spot video     - CNET](https://www.cnet.com/videos/best-tvs-of-2023-from-high-end-to-budget-to-the-price-to-picture-sweet-spot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Liverpool vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

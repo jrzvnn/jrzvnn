@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [Just like for knights to be honest](http://9gag.com/gag/ay2j6eb)
+ - 💣 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
  - 👉 [You know you know](http://9gag.com/gag/aeQ8Ovm)<!-- MEMES:END -->
 
 ---

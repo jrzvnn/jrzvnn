@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alligators getting fed](http://9gag.com/gag/a1P37b6)
- - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 💣 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 👉 [2 hours](http://9gag.com/gag/aYVXO30)<!-- MEMES:END -->
+ - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 💣 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

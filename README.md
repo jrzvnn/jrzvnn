@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [David Caruso 2012 / 2023](http://9gag.com/gag/arm7AMd)
- - 😝 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 💣 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)<!-- MEMES:END -->
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 😝 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)
+ - 💣 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 😝 [Porch pirates New Orleans](http://9gag.com/gag/agoz1Ev)
+ - 👉 [Alligators getting fed](http://9gag.com/gag/a1P37b6)<!-- MEMES:END -->
 
 ---
 

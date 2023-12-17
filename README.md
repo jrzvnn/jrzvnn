@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
  - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 💣 [Choose your keyboard](http://9gag.com/gag/aBdBLE2)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [It can&#39;t be only me](http://9gag.com/gag/aYVXPBm)<!-- MEMES:END -->
+ - 💣 [When you show your ex wife a replica doll of herself and what she gonna do about that now, huh? The world stops.](http://9gag.com/gag/a8qxmKO)
+ - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
 
 ---
 

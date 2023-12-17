@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just three US states enacted laws in 2023 related to the use of AI and deepfakes in political campaigns, as the federal government fails to address the issue &lpar;Adam Edelman/NBC News&rpar;](http://www.techmeme.com/231217/p1#a231217p1)
  - [SenseTime says co-founder Tang Xiao&#39;ou, who was also a professor at the Chinese University of Hong Kong, died of an unspecified illness on December 15 at age 55 &lpar;Yue Wang/Forbes&rpar;](http://www.techmeme.com/231216/p13#a231216p13)
  - [Best Garmin Deals: Snag Garmin Wearables, Sporting Equipment and More at a Discount     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
  - [Best Blu-ray Player for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-blu-ray-player/#ftag=CAD590a51e)
- - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)
- - [Best MacBook Pro M2 Deals: $200 Off Select Configurations, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-13-inch-macbook-pro-m2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Startup That Transformed the Hack-for-Hire Industry](https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

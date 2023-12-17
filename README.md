@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mostly peaceful hitchhiker](http://9gag.com/gag/avQKe2W)
- - 😝 [F**king Legend](http://9gag.com/gag/a5X06Nr)
- - 💣 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 👉 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)<!-- MEMES:END -->
+ - 😝 [Don&#39;t sit like that](http://9gag.com/gag/ay2jq8X)
+ - 😝 [The best world record](http://9gag.com/gag/aPgboLw)
+ - 💣 [This is all wrong](http://9gag.com/gag/aZDO1Y9)
+ - 😝 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 👉 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)<!-- MEMES:END -->
 
 ---
 

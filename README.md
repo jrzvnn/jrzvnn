@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [Choose your time traveler](http://9gag.com/gag/anzPvXz)<!-- MEMES:END -->
+ - 😝 [It hurts right in my meow meow](http://9gag.com/gag/aeQ87bQ)
+ - 😝 [Looking for some free Palestine you got some?](http://9gag.com/gag/ap9ZYLD)
+ - 💣 [.](http://9gag.com/gag/amA4xp6)
+ - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
+ - 👉 [About time they realized this](http://9gag.com/gag/aBdBXAZ)<!-- MEMES:END -->
 
 ---
 

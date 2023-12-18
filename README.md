@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
+ - [Worried About Deepfakes? Don’t Forget “Cheapfakes”](https://www.wired.com/story/meta-youtube-ai-political-ads/)
+ - [Apple plans to halt Apple Watch Series 9 and Ultra 2 sales in the US starting this week, to &quot;preemptively&quot; comply with an ITC patent ruling now under US review &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231218/p13#a231218p13)
  - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
- - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
- - [Eve’s new smart outlet has Matter, Thread, and energy monitoring](https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring)
- - [In 2020, two Black Nvidia staff met with Jensen Huang to warn over AI discrimination for minorities, but did not feel that he listened or prioritized the issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p12#a231218p12)
- - [The Verge’s favorite books from 2023](https://www.theverge.com/23971310/verge-2023-favorite-books)<!-- TECH:END -->
+ - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

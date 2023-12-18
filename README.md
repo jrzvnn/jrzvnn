@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
- - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
+ - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 💣 [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
- - 😝 [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
- - 💣 [Title](http://9gag.com/gag/ap9ZPq8)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
  - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/ap9ZPq8)
+ - 😝 [1977 World Series, fans stormed the field and Reggie Jackson tries to get to the clubhouse before the mob takes him.](http://9gag.com/gag/aREqom7)
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

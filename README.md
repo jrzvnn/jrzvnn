@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2020, two Black Nvidia staff met with Jensen Huang to warn over AI discrimination for minorities, but did not feel that he listened or prioritized the issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p12#a231218p12)
  - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
- - [The Verge’s favorite books from 2023](https://www.theverge.com/23971310/the-verges-favorite-books-from-2023)
- - [You Can Easily Track Flights in iMessage on Your iPhone This Holiday Season. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/you-can-easily-track-flights-in-imessage-on-your-iphone-this-holiday-season-heres-how/#ftag=CAD590a51e)
- - [Adobe and Figma agree to terminate their $20B merger, announced in September 2022, after seeing &quot;no clear path&quot; to UK and EU regulatory approval &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p11#a231218p11)<!-- TECH:END -->
+ - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
+ - [Eve’s new smart outlet has Matter, Thread, and energy monitoring](https://www.theverge.com/2023/12/18/24003299/eve-matter-thread-wall-outlet-energy-monitoring)
+ - [In 2020, two Black Nvidia staff met with Jensen Huang to warn over AI discrimination for minorities, but did not feel that he listened or prioritized the issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p12#a231218p12)
+ - [The Verge’s favorite books from 2023](https://www.theverge.com/23971310/verge-2023-favorite-books)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
+ - [US lawmakers push DOJ to investigate Apple following Beeper shutdowns](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android)
  - [Worried About Deepfakes? Don’t Forget “Cheapfakes”](https://www.wired.com/story/meta-youtube-ai-political-ads/)
  - [Apple plans to halt Apple Watch Series 9 and Ultra 2 sales in the US starting this week, to &quot;preemptively&quot; comply with an ITC patent ruling now under US review &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231218/p13#a231218p13)
- - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
- - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)<!-- TECH:END -->
+ - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

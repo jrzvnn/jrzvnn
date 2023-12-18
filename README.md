@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pakistan’s former prime minister is using an AI voice clone to campaign from prison](https://www.theverge.com/2023/12/18/24006968/imran-khan-ai-pakistan-prime-minister-voice-clone-elevenlabs)
+ - [Disney drops Marvel lead Jonathan Majors following assault verdict](https://www.theverge.com/2023/12/18/24007030/disney-jonathan-majors-marvel-fired-kang-conquerer)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)
- - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)
- - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by its antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)<!-- TECH:END -->
+ - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

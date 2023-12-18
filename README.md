@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 😝 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
  - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
 
 ---

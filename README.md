@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best action game of 2023 is now selling for $20 off](https://www.theverge.com/2023/12/18/24005718/armored-core-vi-fires-of-rubicon-shokz-openrun-pro-deal-sale)
+ - [London-based luxury clothing marketplace Farfetch borrows $500M from Coupang, which will buy its assets and delist the company; FTCH dropped 90%+ in five years &lpar;Thomas Mulier/Bloomberg&rpar;](http://www.techmeme.com/231218/p15#a231218p15)
  - [Eve launches new Matter devices for your smart home ahead of CES](https://appleinsider.com/articles/23/12/18/eve-launches-new-matter-devices-for-your-smart-home-ahead-of-ces?utm_medium=rss)
  - [An Apple Watch ban is about to take effect, grab the best deals now](https://appleinsider.com/articles/23/12/18/an-apple-watch-ban-is-about-to-take-effect-grab-the-best-deals-now?utm_medium=rss)
- - [Netflix’s The Kitchen turns London into a cyberpunk dystopia in new trailer](https://www.theverge.com/24006099/netflix-the-kitchen-trailer-release-date)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [Southwest Airlines fined $140 million for holiday meltdown that stranded millions](https://www.theverge.com/2023/12/18/24006045/southwest-fined-dot-holiday-delays-fund)<!-- TECH:END -->
+ - [Netflix’s The Kitchen turns London into a cyberpunk dystopia in new trailer](https://www.theverge.com/24006099/netflix-the-kitchen-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

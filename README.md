@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
  - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
  - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
+ - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

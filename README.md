@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [I got The new PS5](http://9gag.com/gag/a4oOWxv)
  - 😝 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
- - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [There should be a law to handle such absurdity](http://9gag.com/gag/a5X0GWE)<!-- MEMES:END -->
+ - 💣 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
 
 ---
 

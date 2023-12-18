@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
  - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [Everywhere I look, there is a Puta](http://9gag.com/gag/a4oOqPd)
  - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---

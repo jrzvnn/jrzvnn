@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City council member-elect used AI to answer questions](https://www.theverge.com/2023/12/18/24006544/new-york-city-councilwoman-elect-susan-zhuang-ai-response)
  - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
+ - [New York City council member-elect used AI to answer questions](https://www.theverge.com/2023/12/18/24006544/new-york-city-councilwoman-elect-susan-zhuang-ai-response)
  - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
  - [Sources: Amazon is in talks with Diamond Sports Group, the biggest US regional-sports programmer, about an investment and a multiyear streaming partnership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231218/p25#a231218p25)
  - [Filing: a cyberattack hit VF Corp., owner of Vans, Supreme, JanSport, and The North Face, stealing customer data and impacting order fulfillment; VFC drops 6%+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231218/p24#a231218p24)<!-- TECH:END -->

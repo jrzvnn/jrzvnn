@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wrapped 2023: what you’ve been doing in every app, analyzed](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
  - [Apple to Halt Sales of the Apple Watch Series 9 and Watch Ultra 2](https://www.wired.com/story/apple-suspends-sales-watch/)
  - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
  - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)
- - [Jeff Bezos wants Elon Musk to know Blue Origin is serious now](https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry)
- - [Internal docs: TikTok gave a &quot;protected list&quot; to some moderators to prevent action being taken against accounts related to heavy advertisers, like Amazon &lpar;The Guardian&rpar;](http://www.techmeme.com/231218/p19#a231218p19)<!-- TECH:END -->
+ - [Best Budget Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

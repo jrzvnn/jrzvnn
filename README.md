@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)<!-- MEMES:END -->
+ - 😝 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
+ - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 💣 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

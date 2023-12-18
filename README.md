@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Daily deals Dec. 18: 1TB M3 MacBook Pro $1,599, Beats Studio Buds $79, Apple Watch from $199, more](https://appleinsider.com/articles/23/12/18/daily-deals-dec-18-1tb-m3-macbook-pro-1599-beats-studio-buds-79-apple-watch-from-199-more?utm_medium=rss)
  - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)
  - [After Dave Willner&#39;s July exit from OpenAI as the head of the trust and safety team, OpenAI has broken up the team, whose vetting process some devs called slow &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231218/p21#a231218p21)
- - [StackSocial Knocks 50% Off a PDF Expert Lifetime License     - CNET](https://www.cnet.com/deals/70-off-pdf-expert-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wrapped 2023: what you’ve been doing in every app, analyzed](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

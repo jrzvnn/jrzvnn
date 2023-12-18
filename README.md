@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
  - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 💣 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 👉 [Choose your time traveler](http://9gag.com/gag/anzPvXz)<!-- MEMES:END -->
 
 ---
 

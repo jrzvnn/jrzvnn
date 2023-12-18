@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)
  - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
 
 ---
 

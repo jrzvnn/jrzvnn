@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozzy made a point](http://9gag.com/gag/aKEoOYg)
- - 😝 [.](http://9gag.com/gag/amA4xp6)
- - 💣 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 😝 [Looking for some free Palestine you got some?](http://9gag.com/gag/ap9ZYLD)
- - 👉 [About time they realized this](http://9gag.com/gag/aBdBXAZ)<!-- MEMES:END -->
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
 
 ---
 

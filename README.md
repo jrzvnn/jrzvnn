@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush still very happy with &#39;resilient&#39; Apple in China](https://appleinsider.com/articles/23/12/18/wedbush-still-very-happy-with-resilient-apple-in-china?utm_medium=rss)
+ - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
+ - [Adobe&#39;s Figma buy isn&#39;t going to happen, and will cost Adobe $1 billion](https://appleinsider.com/articles/23/12/18/adobes-figma-deal-isnt-going-to-happen-and-will-cost-adobe-1-billion?utm_medium=rss)
  - [Expedia wants to use AI to cut Google out of its trip-planning business](https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model)
- - [Flipboard says it plans to replace its entire social back end with ActivityPub, and by April 2024 will let any Flipboard user follow any fediverse account &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231218/p18#a231218p18)
- - [Terabytes of TestFlight game betas from 2012 to 2015 leaked, and it&#39;s not clear how](https://appleinsider.com/articles/23/12/18/terabytes-of-testflight-game-betas-from-2012-to-2015-are-on-the-internet-and-its-not-clear-how?utm_medium=rss)
- - [Mortgage and loan giant Mr. Cooper says hackers stole personal data on 14M customers, including dates of birth, phone numbers, SSNs, and bank account numbers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231218/p17#a231218p17)
- - [NordVPN releases app for Apple TVs running tvOS 17](https://appleinsider.com/articles/23/12/18/nordvpn-releases-app-for-apple-tvs-running-tvos-17?utm_medium=rss)<!-- TECH:END -->
+ - [Flipboard says it plans to replace its entire social back end with ActivityPub, and by April 2024 will let any Flipboard user follow any fediverse account &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231218/p18#a231218p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

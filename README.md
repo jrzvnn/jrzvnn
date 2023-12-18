@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
- - 😝 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 💣 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [Draymond Green: Officially Suspended Forever. Hoping I never see him on NBA court again!](http://9gag.com/gag/az2pdyK)<!-- MEMES:END -->
+ - 😝 [Merry Chrstmus](http://9gag.com/gag/adPDepZ)
+ - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
+ - 😝 [`Art`](http://9gag.com/gag/aBdBLmx)
+ - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon is in talks with Diamond Sports Group, the biggest US regional-sports programmer, about an investment and a multiyear streaming partnership &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231218/p25#a231218p25)
  - [Filing: a cyberattack hit VF Corp., owner of Vans, Supreme, JanSport, and The North Face, stealing customer data and impacting order fulfillment; VFC drops 6%+ &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231218/p24#a231218p24)
  - [Pakistan&#39;s ex-PM Imran Khan, in jail since August for allegedly leaking classified documents, uses AI from ElevenLabs to clone his voice for a campaign speech &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/231218/p23#a231218p23)
  - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
- - [Nikola founder Trevor Milton sentenced to four years in prison in EV truck fraud case](https://www.theverge.com/2023/12/18/24006571/nikola-trevor-milton-sentence-prison-fraud-electric-truck)
- - [Daily deals Dec. 18: 1TB M3 MacBook Pro $1,599, Beats Studio Buds $79, Apple Watch from $199, more](https://appleinsider.com/articles/23/12/18/daily-deals-dec-18-1tb-m3-macbook-pro-1599-beats-studio-buds-79-apple-watch-from-199-more?utm_medium=rss)<!-- TECH:END -->
+ - [Nikola founder Trevor Milton sentenced to four years in prison in EV truck fraud case](https://www.theverge.com/2023/12/18/24006571/nikola-trevor-milton-sentence-prison-fraud-electric-truck)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western intelligence officials say former Wirecard COO Jan Marsalek, who absconded to Moscow after billions of dollars went missing, was likely a Russian agent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231217/p8#a231217p8)
  - [Deloitte is using AI to evaluate its staff&#39;s skills and map out plans to shift employees into more in-demand roles, as a part of plans to moderate hiring growth &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231217/p7#a231217p7)
  - [Blue Origin will livestream its first launch in over a year tomorrow](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)
  - [The 14 Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-horror-movies-on-prime-video-december-2023/#ftag=CAD590a51e)
- - [Q&amp;A with Deepu Talla, Nvidia&#39;s VP and GM for Embedded and Edge Computing, on generative AI&#39;s roles in robotics, designing humanoid robots, platforms, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231217/p6#a231217p6)
- - [How to use SideCar on iPad in portrait orientation with BetterDisplay](https://appleinsider.com/inside/sidecar/tips/how-to-use-sidecar-on-ipad-in-portrait-orientation-with-betterdisplay?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Deepu Talla, Nvidia&#39;s VP and GM for Embedded and Edge Computing, on generative AI&#39;s roles in robotics, designing humanoid robots, platforms, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231217/p6#a231217p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

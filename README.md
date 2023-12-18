@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
- - [In the Age of AI, &#39;Her&#39; Is a Fairy Tale](https://www.wired.com/story/spike-jonze-her-10-year-anniversary-artificial-intelligence/)
- - [Sources: Chinese chip design companies are increasingly using Malaysian firms to assemble a portion of their high-end GPUs; the move does not break US rules &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p14#a231218p14)
- - [Apple to pull Apple Watch Series 9 and Ultra 2 this week due to ITC ban](https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import)
- - [US lawmakers push DOJ to investigate Apple following Beeper shutdowns](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android)<!-- TECH:END -->
+ - [An Apple Watch ban is about to take effect, grab the best deals now](https://appleinsider.com/articles/23/12/18/an-apple-watch-ban-is-about-to-take-effect-grab-the-best-deals-now?utm_medium=rss)
+ - [Netflix’s The Kitchen turns London into a cyberpunk dystopia in new trailer](https://www.theverge.com/24006099/netflix-the-kitchen-trailer-release-date)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [Southwest Airlines fined $140 million for holiday meltdown that stranded millions](https://www.theverge.com/2023/12/18/24006045/southwest-fined-dot-holiday-delays-fund)
+ - [iOS 17.2 released, HomeKit routers, and sleep sensors, on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/12/18/ios-172-released-homekit-routers-and-sleep-sensors-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

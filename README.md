@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
  - 😝 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
+ - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [There should be a law to handle such absurdity](http://9gag.com/gag/a5X0GWE)<!-- MEMES:END -->
 
 ---
 

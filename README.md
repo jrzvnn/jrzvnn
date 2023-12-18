@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 💣 [I got The new PS5](http://9gag.com/gag/a4oOWxv)
  - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
+ - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
 
 ---
 

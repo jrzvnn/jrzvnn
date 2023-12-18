@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe and Figma agree to terminate their $20B merger, announced in September 2022, after seeing &quot;no clear path&quot; to UK and EU regulatory approval &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p11#a231218p11)
+ - [Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
+ - [EU Investigates Elon Musk’s X for Spreading Illegal Content](https://www.wired.com/story/eu-x-twitter-illegal-content/)
  - [30 Best Online Co-Op Games &lpar;2023&rpar;: Playstation, Xbox, PC, Switch](https://www.wired.com/gallery/best-online-co-op-games/)
- - [2023 in smartwatches: the Googlefication of Fitbit](https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration)
- - [2024 Apple Watch with new design rumored to get sleep apnea &amp; blood pressure sensing](https://appleinsider.com/articles/23/12/18/2024-apple-watch-with-new-design-rumored-to-get-sleep-apnea-blood-pressure-sensing?utm_medium=rss)
- - [Inside Amazon&#39;s Mission Operations Center during Project Kuiper&#39;s launch, part of an ambitious $10B effort to launch 3,000+ satellites and challenge Starlink &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231218/p10#a231218p10)
- - [Adobe refuses to compromise on its bid for Figma](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)<!-- TECH:END -->
+ - [2023 in smartwatches: the Googlefication of Fitbit](https://www.theverge.com/23972335/smartwatches-2023-fitbit-google-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

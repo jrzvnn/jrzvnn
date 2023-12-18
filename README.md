@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo Electron, Asia&#39;s largest chip equipment maker, has largely offset US export controls on China by expanding sales of less advanced chip equipment to China &lpar;Financial Times&rpar;](http://www.techmeme.com/231218/p7#a231218p7)
+ - [EU opens formal DSA investigation into X in wake of Israel-Hamas war](https://www.theverge.com/2023/12/18/24005947/eu-x-twitter-dsa-formal-investigation-hamas-israel-terrorist-attacks)
  - [How to use SideCar on iPad in portrait orientation with BetterDisplay](https://appleinsider.com/inside/sidecar/tips/how-to-use-sidecar-on-ipad-in-portrait-orientation-with-betterdisplay?utm_medium=rss)
  - [Apple pilots new way to allow developers to offer discounted subscriptions](https://appleinsider.com/articles/23/12/16/apple-pilots-discounted-subscription-scheme-to-developers?utm_medium=rss)
- - [Freebeat MorphRover e-bike review: a 2-in-1 workout bike indoors and out](https://appleinsider.com/articles/23/12/18/freebeat-morphrover-e-bike-review-a-2-in-1-workout-bike-indoors-and-out?utm_medium=rss)
- - [Saudi shopping and BNPL startup Tamara raised a $340M Series C led by PIF-owned SNB Capital at a $1B valuation, taking its total funding to $500M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231218/p6#a231218p6)
- - [After releasing its DreamStar party game, Tencent placed ~38% of its ads on ByteDance&#39;s Pangolin; Tencent hopes to challenge NetEase&#39;s surprise hit Eggy Party &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231218/p5#a231218p5)<!-- TECH:END -->
+ - [Freebeat MorphRover e-bike review: a 2-in-1 workout bike indoors and out](https://appleinsider.com/articles/23/12/18/freebeat-morphrover-e-bike-review-a-2-in-1-workout-bike-indoors-and-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

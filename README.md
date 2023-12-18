@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)
- - [US lawmakers push DOJ to investigate Apple following Beeper shutdowns](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android)
- - [Worried About Deepfakes? Don’t Forget “Cheapfakes”](https://www.wired.com/story/meta-youtube-ai-political-ads/)
- - [Apple plans to halt Apple Watch Series 9 and Ultra 2 sales in the US starting this week, to &quot;preemptively&quot; comply with an ITC patent ruling now under US review &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/231218/p13#a231218p13)
- - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)<!-- TECH:END -->
+ - [In the Age of AI, &#39;Her&#39; Is a Fairy Tale](https://www.wired.com/story/spike-jonze-her-10-year-anniversary-artificial-intelligence/)
+ - [Sources: Chinese chip design companies are increasingly using Malaysian firms to assemble a portion of their high-end GPUs; the move does not break US rules &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p14#a231218p14)
+ - [Apple to pull Apple Watch Series 9 and Ultra 2 this week due to ITC ban](https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import)
+ - [US lawmakers push DOJ to investigate Apple following Beeper shutdowns](https://www.theverge.com/2023/12/18/24006037/apple-beeper-doj-investigation-imessage-letter-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

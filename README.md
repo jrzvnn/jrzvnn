@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iran says a cyberattack disrupted services at ~70% of gas stations across the country; a group that Iran accuses of having links to Israel claims responsibility &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p31#a231218p31)
  - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)
  - [TikTok updates its app for tablets and foldable devices, adding streamlined navigation bars and a landscape mode, as the company seeks to compete with YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231218/p30#a231218p30)
  - [Xfinity discloses a data breach — but doesn’t say how many users are affected](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
- - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)
- - [A bipartisan group of US lawmakers warn Biden that EU technology regulations are unfairly targeting US companies and not including many Chinese or EU companies &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231218/p29#a231218p29)<!-- TECH:END -->
+ - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

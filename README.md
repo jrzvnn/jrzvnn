@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry Chrstmus](http://9gag.com/gag/adPDepZ)
- - 😝 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
- - 💣 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
- - 😝 [When you show your ex wife a replica doll of herself and what she gonna do about that now, huh? The world stops.](http://9gag.com/gag/a8qxmKO)
+ - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
+ - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
+ - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [.](http://9gag.com/gag/amA4xp6)
  - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 ---

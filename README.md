@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC sues NJ-based Tingo Group, which sells credit and phones to Nigerian farmers, for allegedly booking billions in false transactions with subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)
+ - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)
  - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
  - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by its antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)
  - [The Fight Tearing the Game Awards Apart](https://www.wired.com/story/the-game-awards-israel-palestine-open-letter-future-class/)
- - [Former iPhone designer joins a space habitation company as advisor](https://appleinsider.com/articles/23/12/18/former-iphone-designer-joins-a-space-habitation-company-as-advisor?utm_medium=rss)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Hundreds Off Models From Sony, Samsung and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What outside!? No outside!](http://9gag.com/gag/aA0z2P0)
- - 😝 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
- - 💣 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)
- - 😝 [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 👉 [Save it for never use it](http://9gag.com/gag/a8qx2XY)<!-- MEMES:END -->
+ - 😝 [We are experiencing the last days of Europe.](http://9gag.com/gag/anzP2QE)
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok updates its app for tablets and foldable devices, adding streamlined navigation bars and a landscape mode, as the company seeks to compete with YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231218/p30#a231218p30)
+ - [Xfinity discloses a data breach — but doesn’t say how many users are affected](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
+ - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)
  - [Letter: a bipartisan group of lawmakers warn Biden that EU technology regulations are unfairly targeting US companies and not including many Chinese or EU firms &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231218/p29#a231218p29)
- - [Pakistan’s former prime minister is using an AI voice clone to campaign from prison](https://www.theverge.com/2023/12/18/24006968/imran-khan-ai-pakistan-prime-minister-voice-clone-elevenlabs)
- - [Disney drops Marvel lead Jonathan Majors following assault verdict](https://www.theverge.com/2023/12/18/24007030/disney-jonathan-majors-marvel-fired-kang-conquerer)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)<!-- TECH:END -->
+ - [Saiji Tablet Stand     - CNET](https://www.cnet.com/tech/mobile/saiji-tablet-stand-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

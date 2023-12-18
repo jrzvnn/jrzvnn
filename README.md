@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [What outside!? No outside!](http://9gag.com/gag/aA0z2P0)
+ - 💣 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
+ - 😝 [You want to sleep at night but there are noises coming from the backyard](http://9gag.com/gag/axoqRBD)
+ - 👉 [Nostalgia](http://9gag.com/gag/a2K6y29)<!-- MEMES:END -->
 
 ---
 

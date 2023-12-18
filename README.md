@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)
+ - [After Dave Willner&#39;s July exit from OpenAI as the head of the trust and safety team, OpenAI has broken up the team, whose vetting process some devs called slow &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231218/p21#a231218p21)
  - [Wrapped 2023: what you’ve been doing in every app, analyzed](https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap)
  - [Apple to Halt Sales of the Apple Watch Series 9 and Watch Ultra 2](https://www.wired.com/story/apple-suspends-sales-watch/)
- - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)
- - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)
- - [Best Budget Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acura opens up reservations for all-electric ZDX SUV](https://www.theverge.com/2023/12/18/24006119/acura-zdx-reservation-ev-price-specs-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

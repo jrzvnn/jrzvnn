@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK NHS partners with Zipline on plans to deliver medical and surgical supplies by drone to 30+ hospitals in northern England in H2 2024, to help cut costs &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231218/p4#a231218p4)
  - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)
  - [Look closely, and you’ll find America’s ‘climate abandonment areas’](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
  - [How May Mobility went fully driverless while avoiding the pitfalls of robotaxis](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)
- - [This Holiday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)
- - [Make Post-Holiday Cleanup a Breeze With 40% Off the Dyson V12 Detect     - CNET](https://www.cnet.com/deals/make-post-holiday-cleanup-a-breeze-with-40-off-the-dyson-v12-detect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Holiday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

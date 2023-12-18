@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
  - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)
  - [Best Gifts for Photographers in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
  - [Western intelligence officials say that former Wirecard COO Jan Marsalek, who fled to Moscow after nearly $2B went missing, was likely a Russian agent for years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231217/p8#a231217p8)
- - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)
- - [Deloitte is using AI to evaluate its staff&#39;s skills and map out plans to shift employees into more in-demand roles, as a part of plans to moderate hiring growth &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231217/p7#a231217p7)<!-- TECH:END -->
+ - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

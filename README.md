@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [What&#39;s happening....](http://9gag.com/gag/aWG3oNx)
+ - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
  - 😝 [Uber](http://9gag.com/gag/amA4mZd)
- - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
  - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
 
 ---

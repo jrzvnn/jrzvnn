@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When your ho-bag girlfriend is a good christian..](http://9gag.com/gag/aMEMPoW)
- - 😝 [You know you know](http://9gag.com/gag/aeQ8Ovm)
- - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
- - 😝 [.](http://9gag.com/gag/amA4xp6)
- - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
+ - 😝 [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
+ - 💣 [Title](http://9gag.com/gag/ap9ZPq8)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
 
 ---
 

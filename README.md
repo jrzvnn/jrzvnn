@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Look closely, and you’ll find America’s ‘climate abandonment areas’](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
+ - [How May Mobility went fully driverless while avoiding the pitfalls of robotaxis](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)
  - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
  - [Best Holiday Mattress Deals: Save on Top Brands Before the New Year     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)
- - [Best Gifts for Photographers in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
- - [Best Booze for Sci-Fi Fans: Star Wars Wine, GoT Whiskey and More     - CNET](https://www.cnet.com/culture/best-nerd-booze-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

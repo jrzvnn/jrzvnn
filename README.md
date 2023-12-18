@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission opens an official DSA investigation into X, focusing on illegal content, disinformation, transparency, and &quot;deceptive design&quot; in its UI &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231218/p8#a231218p8)
- - [Tokyo Electron, Asia&#39;s largest chip equipment maker, has largely offset US export controls on China by expanding sales of less advanced chip equipment to China &lpar;Financial Times&rpar;](http://www.techmeme.com/231218/p7#a231218p7)
- - [EU opens formal DSA investigation into X in wake of Israel-Hamas war](https://www.theverge.com/2023/12/18/24005947/eu-x-twitter-dsa-formal-investigation-hamas-israel-terrorist-attacks)
- - [How to use SideCar on iPad in portrait orientation with BetterDisplay](https://appleinsider.com/inside/sidecar/tips/how-to-use-sidecar-on-ipad-in-portrait-orientation-with-betterdisplay?utm_medium=rss)
- - [Apple pilots new way to allow developers to offer discounted subscriptions](https://appleinsider.com/articles/23/12/16/apple-pilots-discounted-subscription-scheme-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Coinbase, a16z, the Winklevoss twins, and more put $78M in crypto super PACs, an immense figure raised in just three months, ahead of the 2024 elections &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/231218/p9#a231218p9)
+ - [Oh Good, Hurricanes Are Now Made of Microplastics](https://www.wired.com/story/oh-good-hurricanes-are-now-made-of-microplastics/)
+ - [Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents](https://www.wired.com/story/telegram-covid-19-vaccination-fakes/)
+ - [The slow death of Beeper continues, and more senators want to get involved](https://appleinsider.com/articles/23/12/18/the-slow-death-of-beeper-continues-and-more-senators-want-to-get-involved?utm_medium=rss)
+ - [The European Commission opens an official DSA investigation into X, focusing on illegal content, disinformation, transparency, and &quot;deceptive design&quot; in its UI &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231218/p8#a231218p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

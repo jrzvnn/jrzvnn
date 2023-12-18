@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 💣 [Uber](http://9gag.com/gag/amA4mZd)
- - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
- - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
+ - 😝 [Code : Dark brown](http://9gag.com/gag/aA0zOKZ)
+ - 😝 [Looking for some free Palestine you got some?](http://9gag.com/gag/ap9ZYLD)
+ - 💣 [From Pakistan to Italy and Europe via Libya. All young men. I don&#39;t understand why our politicians and EU don&#39;t stop this. Isn&#39;t illegal migration - you know - illegal?](http://9gag.com/gag/aKEoOx1)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/az2pYwm)
+ - 👉 [Fat positive! long story short...](http://9gag.com/gag/aEqmXMo)<!-- MEMES:END -->
 
 ---
 

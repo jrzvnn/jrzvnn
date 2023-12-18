@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use SideCar on iPad in portrait orientation with BetterDisplay](https://appleinsider.com/inside/sidecar/tips/how-to-use-sidecar-on-ipad-in-portrait-orientation-with-betterdisplay?utm_medium=rss)
+ - [Apple pilots new way to allow developers to offer discounted subscriptions](https://appleinsider.com/articles/23/12/16/apple-pilots-discounted-subscription-scheme-to-developers?utm_medium=rss)
+ - [Freebeat MorphRover e-bike review: a 2-in-1 workout bike indoors and out](https://appleinsider.com/articles/23/12/18/freebeat-morphrover-e-bike-review-a-2-in-1-workout-bike-indoors-and-out?utm_medium=rss)
  - [Saudi shopping and BNPL startup Tamara raised a $340M Series C led by PIF-owned SNB Capital at a $1B valuation, taking its total funding to $500M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231218/p6#a231218p6)
- - [After releasing its DreamStar party game, Tencent placed ~38% of its ads on ByteDance&#39;s Pangolin; Tencent hopes to challenge NetEase&#39;s surprise hit Eggy Party &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231218/p5#a231218p5)
- - [The UK NHS partners with Zipline on plans to deliver medical and surgical supplies by drone to 30+ hospitals in northern England in H2 2024, to help cut costs &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/231218/p4#a231218p4)
- - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)
- - [Monday Night Football: How to Watch Eagles vs. Seahawks, ManningCast Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-eagles-vs-seahawks-manningcast-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After releasing its DreamStar party game, Tencent placed ~38% of its ads on ByteDance&#39;s Pangolin; Tencent hopes to challenge NetEase&#39;s surprise hit Eggy Party &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231218/p5#a231218p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

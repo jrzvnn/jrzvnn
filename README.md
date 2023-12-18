@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)
+ - [The Fight Tearing the Game Awards Apart](https://www.wired.com/story/the-game-awards-israel-palestine-open-letter-future-class/)
  - [Former iPhone designer joins a space habitation company as advisor](https://appleinsider.com/articles/23/12/18/former-iphone-designer-joins-a-space-habitation-company-as-advisor?utm_medium=rss)
  - [Game preservationists dig for lost apps in TestFlight ‘teraleak’](https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists)
- - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
- - [New York City council member-elect used AI to answer questions](https://www.theverge.com/2023/12/18/24006544/new-york-city-councilwoman-elect-susan-zhuang-ai-response)
- - [Apple will pause U.S. Apple Watch sales starting December 21](https://appleinsider.com/articles/23/12/18/apple-will-pause-us-apple-watch-sales-starting-december-21?utm_medium=rss)<!-- TECH:END -->
+ - [Why Apple is pausing sales of the Apple Watch](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to upgrade iPhone 16 Pro ultra-wide lens to 48MP](https://appleinsider.com/articles/23/12/18/apple-rumored-to-upgrade-iphone-16-pro-ultra-wide-lens-to-48mp?utm_medium=rss)
  - [The Verge’s favorite books from 2023](https://www.theverge.com/23971310/the-verges-favorite-books-from-2023)
  - [Adobe and Figma agree to terminate their $20B merger, announced in September 2022, after seeing &quot;no clear path&quot; to UK and EU regulatory approval &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p11#a231218p11)
  - [Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
- - [EU Investigates Elon Musk’s X for Spreading Illegal Content](https://www.wired.com/story/eu-x-twitter-illegal-content/)
- - [30 Best Online Co-Op Games &lpar;2023&rpar;: Playstation, Xbox, PC, Switch](https://www.wired.com/gallery/best-online-co-op-games/)<!-- TECH:END -->
+ - [EU Investigates Elon Musk’s X for Spreading Illegal Content](https://www.wired.com/story/eu-x-twitter-illegal-content/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

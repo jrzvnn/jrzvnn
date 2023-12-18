@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
+ - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
  - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 💣 [Title](http://9gag.com/gag/ap9ZPq8)
- - 😝 [1977 World Series, fans stormed the field and Reggie Jackson tries to get to the clubhouse before the mob takes him.](http://9gag.com/gag/aREqom7)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---
 

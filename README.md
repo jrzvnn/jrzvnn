@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
+ - [Best Holiday Mattress Deals: Save on Top Brands Before the New Year     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
  - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)
  - [Best Gifts for Photographers in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
- - [Western intelligence officials say that former Wirecard COO Jan Marsalek, who fled to Moscow after nearly $2B went missing, was likely a Russian agent for years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231217/p8#a231217p8)
- - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Booze for Sci-Fi Fans: Star Wars Wine, GoT Whiskey and More     - CNET](https://www.cnet.com/culture/best-nerd-booze-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

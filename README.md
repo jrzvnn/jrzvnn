@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)
  - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)
  - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by its antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)
- - [The Fight Tearing the Game Awards Apart](https://www.wired.com/story/the-game-awards-israel-palestine-open-letter-future-class/)
- - [Best 4K TV Deals: Save Hundreds Off Models From Sony, Samsung and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOT fines Southwest Airlines $140M, in addition to customer refunds, for the December 2022 meltdown caused by its antiquated flight scheduling software &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/231218/p26#a231218p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

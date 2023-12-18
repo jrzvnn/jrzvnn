@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 😝 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
+ - 😝 [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)
+ - 💣 [Save it for never use it](http://9gag.com/gag/a8qx2XY)
+ - 😝 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 👉 [I earn $10k a year. Work 12 hours a day. It&#39;s not much, but it&#39;s mine and it gives me joy in this sad af life.](http://9gag.com/gag/a8qx2qQ)<!-- MEMES:END -->
 
 ---
 

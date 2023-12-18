@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
  - 😝 [What if Indy was too slow?](http://9gag.com/gag/aoKQR60)
- - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
  - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
+ - 👉 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)<!-- MEMES:END -->
 
 ---
 

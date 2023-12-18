@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I got The new PS5](http://9gag.com/gag/a4oOWxv)
- - 😝 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)
- - 💣 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
  - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
 
 ---

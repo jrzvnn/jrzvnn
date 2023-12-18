@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
  - [Adobe&#39;s Figma buy isn&#39;t going to happen, and will cost Adobe $1 billion](https://appleinsider.com/articles/23/12/18/adobes-figma-deal-isnt-going-to-happen-and-will-cost-adobe-1-billion?utm_medium=rss)
  - [Expedia wants to use AI to cut Google out of its trip-planning business](https://www.theverge.com/2023/12/18/24003416/expedia-travel-generative-ai-personalized-model)
- - [Flipboard says it plans to replace its entire social back end with ActivityPub, and by April 2024 will let any Flipboard user follow any fediverse account &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231218/p18#a231218p18)<!-- TECH:END -->
+ - [Clean Your Floors in Style With a Refurb Roomba J7 Plus for Just $270     - CNET](https://www.cnet.com/deals/clean-your-floors-in-style-with-a-refurb-roomba-j7-plus-for-just-270/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

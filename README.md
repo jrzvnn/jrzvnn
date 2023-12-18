@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pakistan&#39;s ex-PM Imran Khan, in jail since August for allegedly leaking classified documents, uses AI from ElevenLabs to clone his voice for a campaign speech &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/231218/p23#a231218p23)
  - [Here are the shipping deadlines to get your holiday gifts on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
  - [Nikola founder Trevor Milton sentenced to four years in prison in EV truck fraud case](https://www.theverge.com/2023/12/18/24006571/nikola-trevor-milton-sentence-prison-fraud-electric-truck)
  - [Daily deals Dec. 18: 1TB M3 MacBook Pro $1,599, Beats Studio Buds $79, Apple Watch from $199, more](https://appleinsider.com/articles/23/12/18/daily-deals-dec-18-1tb-m3-macbook-pro-1599-beats-studio-buds-79-apple-watch-from-199-more?utm_medium=rss)
- - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)
- - [After Dave Willner&#39;s July exit from OpenAI as the head of the trust and safety team, OpenAI has broken up the team, whose vetting process some devs called slow &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231218/p21#a231218p21)<!-- TECH:END -->
+ - [OpenAI says its board can hold back the release of an AI model even if OpenAI&#39;s leadership says it&#39;s safe, and announces a new internal safety advisory group &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231218/p22#a231218p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

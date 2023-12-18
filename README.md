@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
- - 😝 [Everywhere I look, there is a Puta](http://9gag.com/gag/a4oOqPd)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 😝 [You left the toilet seat up...](http://9gag.com/gag/a4oO2Dw)
+ - 😝 [Clip from the movie \u2018The Little Death\u2019](http://9gag.com/gag/aDYebBZ)
+ - 💣 [Nostalgia](http://9gag.com/gag/a2K6y29)
+ - 😝 [Save it for never use it](http://9gag.com/gag/a8qx2XY)
+ - 👉 [I earn $10k a year. Work 12 hours a day. It&#39;s not much, but it&#39;s mine and it gives me joy in this sad af life.](http://9gag.com/gag/a8qx2qQ)<!-- MEMES:END -->
 
 ---
 

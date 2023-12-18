@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It hurts right in my meow meow](http://9gag.com/gag/aeQ87bQ)
+ - 😝 [Ozzy made a point](http://9gag.com/gag/aKEoOYg)
+ - 😝 [.](http://9gag.com/gag/amA4xp6)
+ - 💣 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
  - 😝 [Looking for some free Palestine you got some?](http://9gag.com/gag/ap9ZYLD)
- - 💣 [.](http://9gag.com/gag/amA4xp6)
- - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
  - 👉 [About time they realized this](http://9gag.com/gag/aBdBXAZ)<!-- MEMES:END -->
 
 ---

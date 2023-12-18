@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ap9ZPq8)
  - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
  - 💣 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
  - 👉 [Never going to austria](http://9gag.com/gag/arm7xYX)<!-- MEMES:END -->
 
 ---

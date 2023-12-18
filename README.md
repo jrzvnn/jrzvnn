@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM plans to acquire data integration platforms StreamSets and WebMethods from Germany-based Software AG for &amp;euro;2.13B in cash, expected to close in Q2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p3#a231218p3)
  - [Look closely, and you’ll find America’s ‘climate abandonment areas’](https://www.theverge.com/2023/12/18/24003005/flood-risk-migration-climate-change-abandonment-areas)
  - [How May Mobility went fully driverless while avoiding the pitfalls of robotaxis](https://www.theverge.com/24001741/may-mobility-driverless-service-microtransit-robotaxi)
- - [Streaming TV appears to have entered its franchise era; Netflix plans spinoffs of the Addams Family, Peaky Blinders, and action movie Extraction, among others &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231218/p2#a231218p2)
- - [Best Holiday Mattress Deals: Save on Top Brands Before the New Year     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Tokyo-based chip equipment maker Kokusai expects nearly 50% of its revenue to come from China in the coming months; its stock is up ~66% since its October IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p1#a231218p1)<!-- TECH:END -->
+ - [This Holiday Deal Gets You the Ultraloq U-Bolt Pro for Only $119     - CNET](https://www.cnet.com/deals/holiday-deal-ultraloq-u-bolt-pro-119/#ftag=CAD590a51e)
+ - [Make Post-Holiday Cleanup a Breeze With 40% Off the Dyson V12 Detect     - CNET](https://www.cnet.com/deals/make-post-holiday-cleanup-a-breeze-with-40-off-the-dyson-v12-detect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

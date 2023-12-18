@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: a bipartisan group of lawmakers warn Biden that EU technology regulations are unfairly targeting US companies and not including many Chinese or EU firms &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/231218/p29#a231218p29)
  - [Pakistan’s former prime minister is using an AI voice clone to campaign from prison](https://www.theverge.com/2023/12/18/24006968/imran-khan-ai-pakistan-prime-minister-voice-clone-elevenlabs)
  - [Disney drops Marvel lead Jonathan Majors following assault verdict](https://www.theverge.com/2023/12/18/24007030/disney-jonathan-majors-marvel-fired-kang-conquerer)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)
- - [The US SEC sues New Jersey-based Tingo Group, which sells phones to African farmers, for allegedly booking billions in false transactions via two subsidiaries &lpar;Bloomberg&rpar;](http://www.techmeme.com/231218/p27#a231218p27)<!-- TECH:END -->
+ - [Game preservationists are digging into a 1.2TB cache of TestFlight data, from roughly 2012 to 2015, found on the Internet Archive, containing a ton of old apps &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231218/p28#a231218p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

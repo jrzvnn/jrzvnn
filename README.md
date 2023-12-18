@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Coinbase, a16z, the Winklevoss twins, and more put $78M in crypto super PACs, an immense figure raised in just three months, ahead of the 2024 elections &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/231218/p9#a231218p9)
+ - [Inside Amazon&#39;s Mission Operations Center during Project Kuiper&#39;s launch, part of an ambitious $10B effort to launch 3,000+ satellites and challenge Starlink &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231218/p10#a231218p10)
+ - [Adobe refuses to compromise on its bid for Figma](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
+ - [Coinbase, a16z, the Winklevoss twins, and others put $78M in crypto super PACs, an immense figure raised in just three months, ahead of the 2024 US elections &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/231218/p9#a231218p9)
  - [Oh Good, Hurricanes Are Now Made of Microplastics](https://www.wired.com/story/oh-good-hurricanes-are-now-made-of-microplastics/)
- - [Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents](https://www.wired.com/story/telegram-covid-19-vaccination-fakes/)
- - [The slow death of Beeper continues, and more senators want to get involved](https://appleinsider.com/articles/23/12/18/the-slow-death-of-beeper-continues-and-more-senators-want-to-get-involved?utm_medium=rss)
- - [The European Commission opens an official DSA investigation into X, focusing on illegal content, disinformation, transparency, and &quot;deceptive design&quot; in its UI &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231218/p8#a231218p8)<!-- TECH:END -->
+ - [Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents](https://www.wired.com/story/telegram-covid-19-vaccination-fakes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

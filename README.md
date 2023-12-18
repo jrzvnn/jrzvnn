@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data analytics company Alteryx says it has agreed to be acquired by PE firms Clearlake Capital and Insight Partners, in a deal valued at $4.4B including debt &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231218/p20#a231218p20)
  - [Jeff Bezos wants Elon Musk to know Blue Origin is serious now](https://www.theverge.com/24001656/jeff-bezos-elon-musk-space-blue-origin-rivalry)
  - [Internal docs: TikTok gave a &quot;protected list&quot; to some moderators to prevent action being taken against accounts related to heavy advertisers, like Amazon &lpar;The Guardian&rpar;](http://www.techmeme.com/231218/p19#a231218p19)
  - [Wedbush still very happy with &#39;resilient&#39; Apple in China](https://appleinsider.com/articles/23/12/18/wedbush-still-very-happy-with-resilient-apple-in-china?utm_medium=rss)
- - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)
- - [Adobe&#39;s Figma buy isn&#39;t going to happen, and will cost Adobe $1 billion](https://appleinsider.com/articles/23/12/18/adobes-figma-deal-isnt-going-to-happen-and-will-cost-adobe-1-billion?utm_medium=rss)<!-- TECH:END -->
+ - [One advertiser may be able to listen in on you -- if you have an older Android device](https://appleinsider.com/articles/23/12/15/one-advertiser-may-be-able-to-listen-in-on-you----if-you-have-an-android-phone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

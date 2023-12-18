@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 😝 [What&#39;s happening....](http://9gag.com/gag/aWG3oNx)
- - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
  - 😝 [Uber](http://9gag.com/gag/amA4mZd)
- - 👉 [The education system at its finest.](http://9gag.com/gag/amA4xQV)<!-- MEMES:END -->
+ - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 👉 [Time to hijack everyone&#39;s imagination.](http://9gag.com/gag/axoqbv2)<!-- MEMES:END -->
 
 ---
 

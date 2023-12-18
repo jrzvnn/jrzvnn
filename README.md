@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay attention to your surroundings](http://9gag.com/gag/aL17e15)
  - 😝 [Merry Chrstmus](http://9gag.com/gag/adPDepZ)
- - 💣 [I need more queen stabs cake memes. Where are they!!! Make more!!!](http://9gag.com/gag/aqeo8pQ)
- - 😝 [`Art`](http://9gag.com/gag/aBdBLmx)
+ - 😝 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)
+ - 💣 [Simulation of Ceres hiting earth &lpar; spoiler no where to hide &rpar;](http://9gag.com/gag/a7qR0Px)
+ - 😝 [When you show your ex wife a replica doll of herself and what she gonna do about that now, huh? The world stops.](http://9gag.com/gag/a8qxmKO)
  - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 ---

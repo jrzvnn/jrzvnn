@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
  - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 💣 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too Soon?](http://9gag.com/gag/aREqORA)
- - 😝 [.](http://9gag.com/gag/amA4xp6)
- - 💣 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 😝 [Beautiful set up](http://9gag.com/gag/aVby288)
- - 👉 [And i will do it again](http://9gag.com/gag/aPgb1jV)<!-- MEMES:END -->
+ - 😝 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 💣 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 👉 [Uber](http://9gag.com/gag/amA4mZd)<!-- MEMES:END -->
 
 ---
 

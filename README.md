@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)
- - [Meta&#39;s Oversight Board says Meta should not have removed two Israel-Hamas war videos, as they were valuable to showing human suffering, its first expedited case &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231219/p6#a231219p6)
- - [A source and document shows RAND Corporation, backed by $15M from Dustin Moskovitz&#39;s effective altruism-focused Open Philanthropy, helped craft Biden&#39;s AI EO &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231219/p5#a231219p5)
- - [Google to pay $700 million after one Play Store antitrust case](https://appleinsider.com/articles/23/12/19/google-to-pay-700-million-after-one-play-store-antitrust-case?utm_medium=rss)
- - [You Know It’s a Placebo. So Why Does It Still Work?](https://www.wired.com/story/open-label-placebo-why-does-it-work/)<!-- TECH:END -->
+ - [Tech group NetChoice, representing TikTok, Meta, X, and others, sues Utah over its laws requiring kids and teens to obtain parental consent to use social media &lpar;Hannah Schoenbaum/Associated Press&rpar;](http://www.techmeme.com/231219/p8#a231219p8)
+ - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
+ - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)
+ - [Here Are Today&#39;s Refinance Rates, Dec. 19, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-19-2023-rates-decline/#ftag=CAD590a51e)
+ - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

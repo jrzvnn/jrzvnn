@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
+ - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
  - [Here are a few last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24005725/best-last-minute-christmas-gifts-ideas-tech-wireless-earbuds-laptops-gaming-shipping)
  - [iPad Pro could get MagSafe in future hardware update](https://appleinsider.com/articles/23/12/19/ipad-pro-could-get-magsafe-in-future-hardware-update?utm_medium=rss)
- - [Stability AI debuts Stability AI Membership, with free, $20/month, and custom pricing enterprise tiers, limiting commercial use of its models to the paid tiers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231219/p28#a231219p28)
- - [You can create your own AI songs with this new Copilot extension](https://www.theverge.com/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension)
- - [Internal messages: TikTok told some moderators to let users under 13-years-old stay on the platform if they claimed their parents were overseeing their accounts &lpar;The Guardian&rpar;](http://www.techmeme.com/231219/p27#a231219p27)<!-- TECH:END -->
+ - [Stability AI debuts Stability AI Membership, with free, $20/month, and custom pricing enterprise tiers, limiting commercial use of its models to the paid tiers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231219/p28#a231219p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

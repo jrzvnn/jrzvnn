@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iPhone satellite system has a new option for roadside assistance](https://www.theverge.com/2023/12/19/24008362/apple-iphone-verizon-roadside-assistance-satellite)
+ - [Volkswagen, Porsche, and Audi finally say they will use Tesla’s EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
  - [Samsung&#39;s Self-Repair program includes foldable devices for the first time, the Galaxy Z Flip 5 and Z Fold 5, and expands to 30 additional countries in Europe &lpar;Nickolas Diaz/Android Central&rpar;](http://www.techmeme.com/231219/p29#a231219p29)
  - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
- - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
- - [Score Major Discounts on the Apple Watch Series 9 and Ultra 2 While You Still Can     - CNET](https://www.cnet.com/deals/score-major-discounts-on-the-apple-watch-series-9-and-ultra-2-while-you-still-can/#ftag=CAD590a51e)
- - [Hydroponic Indoor Garden     - CNET](https://www.cnet.com/home/kitchen-and-household/hydroponic-indoor-garden-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

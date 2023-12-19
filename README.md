@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 💣 [Yes](http://9gag.com/gag/aKEoOrb)
- - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
+ - 😝 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

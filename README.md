@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple News+ signs up &#39;The Athletic&#39; sports magazine](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
+ - [Barcelona Apple Store union will strike on December 23](https://appleinsider.com/articles/23/12/19/spanish-apple-store-union-to-hold-dec-23-strike-in-barcelona?utm_medium=rss)
+ - [Montenegro&#39;s Appeals Court rejects a high court order to extradite Terra founder Do Kwon to the US or South Korea, after Kwon appealed, and orders a retrial &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231219/p9#a231219p9)
  - [Tech group NetChoice, representing TikTok, Meta, X, and others, sues Utah over its laws requiring kids and teens to obtain parental consent to use social media &lpar;Hannah Schoenbaum/Associated Press&rpar;](http://www.techmeme.com/231219/p8#a231219p8)
- - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
- - [Current Mortgage Interest Rates on Dec. 19, 2023: Rates Trailed Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-dec-19-2023-rates-trailed-off-for-homeseekers/#ftag=CAD590a51e)
- - [Here Are Today&#39;s Refinance Rates, Dec. 19, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-19-2023-rates-decline/#ftag=CAD590a51e)
- - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)<!-- TECH:END -->
+ - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

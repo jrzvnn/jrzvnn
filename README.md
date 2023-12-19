@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Masimo open to an Apple Watch settlement, if Apple would only call](https://appleinsider.com/articles/23/12/19/masimo-open-to-an-apple-watch-settlement-if-apple-would-only-call?utm_medium=rss)
+ - [Samsung adds foldable phones to its self-repair program](https://www.theverge.com/2023/12/19/24008066/samsung-galaxy-z-fold-5-z-flip-5-ifixit-self-repair)
  - [Microsoft Copilot can now compose songs, due to a new integration with generative AI music app Suno &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p26#a231219p26)
  - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
- - [HughesNet’s Satellite Internet Is Getting Faster. Why That’s Good News for Rural Americans     - CNET](https://www.cnet.com/home/internet/new-hughesnet-plans-bring-faster-better-broadband-to-rural-areas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interpol: a global law enforcement operation led by South Korea seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

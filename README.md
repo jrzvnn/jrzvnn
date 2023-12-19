@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston-based Lightmatter, which uses light for AI computing, adds $155M led by GV to its $154M Series C at a $1.2B valuation, taking its total funding to $420M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231219/p16#a231219p16)
+ - [UK regulator prepares to restart Apple cloud gaming probe in January](https://appleinsider.com/articles/23/12/19/uk-regulator-prepares-to-restart-apple-cloud-gaming-probe-in-january?utm_medium=rss)
  - [An analysis of Amazon&#39;s AI review summaries shows they sometimes mischaracterize products or exaggerate negative feedback, which sellers say can threaten sales &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231219/p15#a231219p15)
  - [Adam Sandler is a haunted astronaut in the first teaser for Netflix’s Spaceman](https://www.theverge.com/24007706/spaceman-trailer-netflix-adam-sandler)
- - [UK regulator prepares to restart Apple cloud gaming probe in January](https://appleinsider.com/articles/23/12/19/uk-regulator-prepares-to-restart-apple-cloud-gaming-probe-in-january?utm_medium=rss)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [Comcast Xfinity data breach affects over 35 million people](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)<!-- TECH:END -->
+ - [Save 29% on Setapp&#39;s Mac App Subscription Service for a Whole Year     - CNET](https://www.cnet.com/deals/save-29-on-setapps-mac-app-subscription-service-for-a-whole-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

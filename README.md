@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Flexport CEO Ryan Petersen on returning as CEO after firing Dave Clark, buying Deliverr and Convoy, Amazon, Vision Fund, growing the company, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231219/p22#a231219p22)
+ - [Why the Apple Watch is being banned — and how Apple can avoid it](https://www.theverge.com/24006607/apple-watch-series-9-ultra-2-itc-import-ban)
  - [Not dead yet: Beeper Mini&#39;s new fix requires Mac access](https://appleinsider.com/articles/23/12/19/not-dead-yet-beeper-minis-new-fix-requires-mac-access?utm_medium=rss)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [B&amp;H Photo has last-minute deals of up to $2,000 off the hottest Apple products](https://appleinsider.com/articles/23/12/19/bh-photo-has-last-minute-deals-of-up-to-2000-off-the-hottest-apple-products?utm_medium=rss)
- - [Blue Origin successfully launched and recovered its New Shepard booster](https://www.theverge.com/2023/12/19/24007941/blue-origin-new-shepard-ns-24-launch-success)
- - [Why Google lost its mobile app store fight with Epic, and Apple won](https://appleinsider.com/articles/23/12/19/why-google-lost-its-mobile-app-store-fight-with-epic-and-apple-won?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H Photo has last-minute deals of up to $2,000 off the hottest Apple products](https://appleinsider.com/articles/23/12/19/bh-photo-has-last-minute-deals-of-up-to-2000-off-the-hottest-apple-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
  - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)
- - 👉 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)<!-- MEMES:END -->
+ - 👉 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)<!-- MEMES:END -->
 
 ---
 

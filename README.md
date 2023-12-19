@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/anzPD95)
- - 😝 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)
+ - 😝 [Work Christmas party](http://9gag.com/gag/aGE4bA6)
+ - 😝 [Watching this artist create a realistic moon](http://9gag.com/gag/az2pBGz)
+ - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [China!](http://9gag.com/gag/aVbyBdO)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)
  - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)
  - [Algae-covered iPhone 12 recovered from 3-month dip in river, still works](https://appleinsider.com/articles/23/12/19/algae-covered-iphone-12-recovered-from-3-month-dip-in-river-still-works?utm_medium=rss)
  - [A US judge approves a previously announced settlement between Binance and the CFTC, asking Binance to pay $2.7B and Changpeng Zhao to pay $150M to the regulator &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/231218/p36#a231218p36)
- - [The Apple Watch Sales Ban Impacts One of Apple&#39;s Biggest Products video     - CNET](https://www.cnet.com/videos/the-apple-watch-sales-ban-impacts-one-of-apples-biggest-products/#ftag=CAD590a51e)
- - [Sources: Appin co-founder Rajat Khare used law firms to threaten US, UK, Swiss, Indian, and Luxembourg outlets to kill stories about the hack-for-hire industry &lpar;Lachlan Cartwright/The Daily Beast&rpar;](http://www.techmeme.com/231218/p35#a231218p35)<!-- TECH:END -->
+ - [The Apple Watch Sales Ban Impacts One of Apple&#39;s Biggest Products video     - CNET](https://www.cnet.com/videos/the-apple-watch-sales-ban-impacts-one-of-apples-biggest-products/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

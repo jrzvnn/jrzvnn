@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
  - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
+ - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
  - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
+ - 👉 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)<!-- MEMES:END -->
 
 ---
 

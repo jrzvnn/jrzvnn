@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases updates for iOS 16.7.4 and iPadOS 16.7.4](https://appleinsider.com/articles/23/12/19/apple-releases-updates-for-ios-1674-and-ipados-1674?utm_medium=rss)
  - [Apple releases macOS Sonoma 14.2.1 with bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-macos-sonoma-1421-with-bug-fixes?utm_medium=rss)
  - [Apple releases iOS 17.2.1 update with unspecified bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-ios-1721-incremental-update?utm_medium=rss)
  - [Q&amp;A with Flexport CEO Ryan Petersen on returning as CEO after firing Dave Clark, buying Deliverr and Convoy, Amazon, Vision Fund, growing the company, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231219/p22#a231219p22)
- - [Why the Apple Watch is being banned — and how Apple can avoid it](https://www.theverge.com/24006607/apple-watch-series-9-ultra-2-itc-import-ban)
- - [Not dead yet: Beeper Mini&#39;s new fix requires Mac access](https://appleinsider.com/articles/23/12/19/not-dead-yet-beeper-minis-new-fix-requires-mac-access?utm_medium=rss)<!-- TECH:END -->
+ - [Why the Apple Watch is being banned — and how Apple can avoid it](https://www.theverge.com/24006607/apple-watch-series-9-ultra-2-itc-import-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

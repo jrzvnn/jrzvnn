@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 😝 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
- - 💣 [Uber](http://9gag.com/gag/amA4mZd)
- - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
+ - 😝 [Mom, come and pick me up. There are girls here](http://9gag.com/gag/aqeoD2j)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 💣 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
 
 ---
 

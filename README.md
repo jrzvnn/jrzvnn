@@ -161,7 +161,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News Plus now has The New York Times’ sports coverage, but not the NYT](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
+ - [Apple News Plus gets The New York Times’ sports coverage, but not the NYT itself](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
  - [The Xbox Series X is available for a new low of $339.99, if you’re quick](https://www.theverge.com/2023/12/19/24007889/microsoft-xbox-series-x-console-best-buy-drop-deal-sale)
  - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)
  - [Meta adds tongue tracking in an update to its OpenXR extension, letting developers bring the feature to the Quest Pro; Meta Avatars SDK hasn&#39;t yet added support &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/231219/p18#a231219p18)

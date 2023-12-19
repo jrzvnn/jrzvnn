@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 👉 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)<!-- MEMES:END -->
+ - 😝 [Teacher to the rescue!](http://9gag.com/gag/arm783V)
+ - 😝 [Beautiful set up](http://9gag.com/gag/aVby288)
+ - 💣 [.](http://9gag.com/gag/amA4xp6)
+ - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
+ - 👉 [Fat positive! long story short...](http://9gag.com/gag/aEqmXMo)<!-- MEMES:END -->
 
 ---
 

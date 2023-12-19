@@ -170,9 +170,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - 😝 [Yes](http://9gag.com/gag/aKEoOrb)
- - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
  - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 

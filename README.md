@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [A classic](http://9gag.com/gag/avQKRLO)
- - 👉 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)<!-- MEMES:END -->
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 😝 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)
+ - 👉 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)<!-- MEMES:END -->
 
 ---
 

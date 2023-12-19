@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [This is real. This actually hapened.](http://9gag.com/gag/aYVXMom)
+ - 💣 [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
+ - 👉 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)<!-- MEMES:END -->
 
 ---
 

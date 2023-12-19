@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 💣 [An mi-8 helicopter crashing over the core of the chernobyl reactor on October,1986](http://9gag.com/gag/aeQ8dGv)
- - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - 💣 [Yes](http://9gag.com/gag/aKEoOrb)
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

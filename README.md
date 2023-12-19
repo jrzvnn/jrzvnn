@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 😝 [Right now in other dimension the women wait on line to enter the club while the men just go direct inside...](http://9gag.com/gag/amA4nxd)
- - 💣 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 😝 [Bro was homeless for like 5 seconds](http://9gag.com/gag/az2pRjj)
+ - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

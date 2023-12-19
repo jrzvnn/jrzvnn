@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran says a cyberattack disrupted services at ~70% of gas stations across the country; a group that Iran accuses of having links to Israel claims responsibility &lpar;Reuters&rpar;](http://www.techmeme.com/231218/p31#a231218p31)
- - [The Verge’s 2023 holiday gift guide for kids](https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets)
- - [TikTok updates its app for tablets and foldable devices, adding streamlined navigation bars and a landscape mode, as the company seeks to compete with YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231218/p30#a231218p30)
- - [Xfinity discloses a data breach — but doesn’t say how many users are affected](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
- - [Apple TV+ pulls five wins at the Children&#39;s and Family Emmy Awards](https://appleinsider.com/articles/23/12/18/apple-tv-pulls-five-wins-at-the-childrens-and-family-emmy-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could avoid US Apple Watch ban with software update](https://appleinsider.com/articles/23/12/19/apple-could-avoid-us-apple-watch-ban-with-software-update?utm_medium=rss)
+ - [Sources: Figma expects to finish 2023 with $600M+ in ARR, up 40% YoY, and is considering selling employee shares in a secondary offering in the coming months &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231218/p33#a231218p33)
+ - [The Verge’s favorite holiday gifts under $25](https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget)
+ - [Sources: Apple is working on a software fix to avoid an Apple Watch ban in the US over Masimo&#39;s patents; Masimo says &quot;the hardware needs to change&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231218/p32#a231218p32)
+ - [NASA’s GUSTO balloon telescope will map part of the Milky Way](https://www.theverge.com/2023/12/18/24006983/nasa-gusto-balloon-telescope-mission-milky-way-map)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

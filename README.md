@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can still grab an Apple Watch Series 9 for $329 before Apple halts sales](https://www.theverge.com/2023/12/19/24006394/apple-watch-series-9-ultra-2-sony-srs-xb100-bluetooth-speaker-deal-sale)
+ - [The FBI, UK, Germany, and more seize the dark web leak site of the notorious ransomware gang ALPHV, or BlackCat; the US also seized &quot;several&quot; other ALPHV sites &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231219/p14#a231219p14)
  - [5 Best Rain Jackets &lpar;2023&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
  - [How Russia uses specialized e-commerce sites, secretive shipping workarounds, and numerous middlemen to buy Cisco and other Western tech to maintain its economy &lpar;New York Times&rpar;](http://www.techmeme.com/231219/p13#a231219p13)
- - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)
- - [2023 in the smart home: Matter’s broken promises](https://www.theverge.com/23997548/matter-smart-home-2023-platforms)
- - [Q&amp;A with Andrew Ng, a Google Brain cofounder, Stanford professor, ex-Baidu executive, and investor, on AI models, training, regulation, Big Tech, and Biden&#39;s EO &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/231219/p12#a231219p12)<!-- TECH:END -->
+ - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Google lost its mobile app store fight with Epic, and Apple won](https://appleinsider.com/articles/23/12/19/why-google-lost-its-mobile-app-store-fight-with-epic-and-apple-won?utm_medium=rss)
  - [Walmart expands its Affirm partnership and says more than 4,500 Walmart stores now offer BNPL at self checkout kiosks; AFRM jumps 15%+ &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/231219/p21#a231219p21)
+ - [Two become one: TP-Link’s two smart home brands finally use one app](https://www.theverge.com/2023/12/12/23998415/tp-link-smart-home-kasa-tapo-app-merge)
  - [Beeper’s effort to keep iMessage on Android keeps getting more complex](https://www.theverge.com/2023/12/19/24007919/beeper-mini-cloud-android-imessage-fix)
- - [Chinese GPU maker Moore Threads unveils the MTT S4000, which lags Nvidia&#39;s 2020-era Ampere, working with China&#39;s Lenovo and others to boost its KUAE ecosystem &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231219/p20#a231219p20)
- - [Ninja’s New Year’s Eve stream will be a multi-platform affair](https://www.theverge.com/2023/12/19/24007852/ninja-new-years-eve-twitch-tiktok-youtube)
- - [Apple News Plus gets The New York Times’ sports coverage, but not the NYT itself](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)<!-- TECH:END -->
+ - [Chinese GPU maker Moore Threads unveils the MTT S4000, which lags Nvidia&#39;s 2020-era Ampere, working with China&#39;s Lenovo and others to boost its KUAE ecosystem &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231219/p20#a231219p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

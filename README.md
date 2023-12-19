@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work Christmas party](http://9gag.com/gag/aGE4bA6)
- - 😝 [The right makeup for a first date](http://9gag.com/gag/axoq41Y)
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [China!](http://9gag.com/gag/aVbyBdO)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 💣 [An mi-8 helicopter crashing over the core of the chernobyl reactor on October,1986](http://9gag.com/gag/aeQ8dGv)
+ - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A soldier&#39;s iPhone stopped a bullet, saving his life](https://appleinsider.com/articles/23/12/19/a-soldiers-iphone-stopped-a-bullet-saving-his-life?utm_medium=rss)
  - [HughesNet debuts a $110/month 100Mbps satellite internet plan, double its previous top speed; Starlink offers 220Mbps, but US Ookla data shows many get ~70Mbps &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231219/p30#a231219p30)
  - [Apple’s iPhone satellite system has a new option for roadside assistance](https://www.theverge.com/2023/12/19/24008362/apple-iphone-verizon-roadside-assistance-satellite)
  - [Volkswagen, Porsche, and Audi finally say they will use Tesla’s EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
- - [Samsung&#39;s Self-Repair program includes foldable devices for the first time, the Galaxy Z Flip 5 and Z Fold 5, and expands to 30 additional countries in Europe &lpar;Nickolas Diaz/Android Central&rpar;](http://www.techmeme.com/231219/p29#a231219p29)
- - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung&#39;s Self-Repair program includes foldable devices for the first time, the Galaxy Z Flip 5 and Z Fold 5, and expands to 30 additional countries in Europe &lpar;Nickolas Diaz/Android Central&rpar;](http://www.techmeme.com/231219/p29#a231219p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

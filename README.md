@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 💣 [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 😝 [Yes](http://9gag.com/gag/aKEoOrb)
+ - 😝 [Work Christmas party](http://9gag.com/gag/aGE4bA6)
+ - 😝 [The right makeup for a first date](http://9gag.com/gag/axoq41Y)
+ - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [China!](http://9gag.com/gag/aVbyBdO)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

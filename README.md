@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: AWS plans to overhaul its sales team as it aims to increase the share of Fortune 1,000 firms spending over $10M/year on AWS, from less than 20% to 80% &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231219/p31#a231219p31)
  - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
  - [A soldier&#39;s iPhone stopped a bullet, saving his life](https://appleinsider.com/articles/23/12/19/a-soldiers-iphone-stopped-a-bullet-saving-his-life?utm_medium=rss)
- - [Best Internet Providers in Mobile, Alabama     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-mobile-al/#ftag=CAD590a51e)
- - [HughesNet debuts a $110/month 100Mbps satellite internet plan, double its previous top speed; Starlink offers 220Mbps, but US Ookla data shows many get ~70Mbps &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231219/p30#a231219p30)<!-- TECH:END -->
+ - [HughesNet debuts a $110/month 100Mbps satellite internet plan, double its previous top speed; Starlink offers 220Mbps, but US Ookla data shows many get ~70Mbps &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231219/p30#a231219p30)
+ - [Apple’s iPhone satellite system has a new option for roadside assistance](https://www.theverge.com/2023/12/19/24008362/apple-iphone-verizon-roadside-assistance-satellite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

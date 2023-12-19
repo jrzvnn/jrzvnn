@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Google&#39;s $700M settlement in Utah et al v. Google, an estimated 102M US Android users will split $630M and an additional $70M will go to other claims &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/231219/p3#a231219p3)
  - [An interview with Intel CVP and GM of Xeon Products Lisa Spelman on Intel&#39;s trajectory for datacenter processors, Sapphire Rapids development missteps, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231219/p2#a231219p2)
  - [Wolverine part of massive Insomniac Games leak after ransomware deadline passes](https://www.theverge.com/2023/12/19/24007570/insomniac-games-hack-wolverine-x-men-ryhsida)
  - [TSMC Chair Mark Liu plans to retire in 2024, replaced by CEO C.C. Wei, set to become one of the most influential executives in tech; shareholders must approve &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p1#a231219p1)
- - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
- - [Best Internet Providers in Conroe, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-conroe-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

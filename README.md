@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
  - 😝 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
- - 💣 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)
- - 😝 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)
- - 👉 [A classic](http://9gag.com/gag/avQKRLO)<!-- MEMES:END -->
+ - 💣 [.](http://9gag.com/gag/amA4xp6)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 👉 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)<!-- MEMES:END -->
 
 ---
 

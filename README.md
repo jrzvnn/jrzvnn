@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News+ signs up &#39;The Athletic&#39; sports magazine](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
+ - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
+ - [2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
+ - [Comcast&#39;s Xfinity discloses hackers breached a Citrix server in October 2023, two weeks after Citrix issued a patch, and stole data on 35,879,455 people &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231219/p10#a231219p10)
  - [Barcelona Apple Store union will strike on December 23](https://appleinsider.com/articles/23/12/19/spanish-apple-store-union-to-hold-dec-23-strike-in-barcelona?utm_medium=rss)
- - [Montenegro&#39;s Appeals Court rejects a high court order to extradite Terra founder Do Kwon to the US or South Korea, after Kwon appealed, and orders a retrial &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231219/p9#a231219p9)
- - [Tech group NetChoice, representing TikTok, Meta, X, and others, sues Utah over its laws requiring kids and teens to obtain parental consent to use social media &lpar;Hannah Schoenbaum/Associated Press&rpar;](http://www.techmeme.com/231219/p8#a231219p8)
- - [36 Best Cheap Gear Under $30 &lpar;2023&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
+ - [Montenegro&#39;s Appeals Court rejects a high court order to extradite Terra founder Do Kwon to the US or South Korea, after Kwon appealed, and orders a retrial &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231219/p9#a231219p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Self-Repair program includes foldable devices for the first time, the Galaxy Z Flip 5 and Z Fold 5, and expands to 30 additional countries in Europe &lpar;Nickolas Diaz/Android Central&rpar;](http://www.techmeme.com/231219/p29#a231219p29)
  - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
  - [White House is tracking Apple Watch ban with no sign of intervening](https://appleinsider.com/articles/23/12/19/white-house-is-tracking-apple-watch-ban-with-no-sign-of-intervening?utm_medium=rss)
- - [Here are a few last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24005725/best-last-minute-christmas-gifts-ideas-tech-wireless-earbuds-laptops-gaming-shipping)
- - [iPad Pro could get MagSafe in future hardware update](https://appleinsider.com/articles/23/12/19/ipad-pro-could-get-magsafe-in-future-hardware-update?utm_medium=rss)
- - [Stability AI debuts Stability AI Membership, with free, $20/month, and custom pricing enterprise tiers, limiting commercial use of its models to the paid tiers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231219/p28#a231219p28)<!-- TECH:END -->
+ - [Score Major Discounts on the Apple Watch Series 9 and Ultra 2 While You Still Can     - CNET](https://www.cnet.com/deals/score-major-discounts-on-the-apple-watch-series-9-and-ultra-2-while-you-still-can/#ftag=CAD590a51e)
+ - [Hydroponic Indoor Garden     - CNET](https://www.cnet.com/home/kitchen-and-household/hydroponic-indoor-garden-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

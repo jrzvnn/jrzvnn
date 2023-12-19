@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interpol: a global law enforcement operation led by South Korea has seized $300M and led to the arrest of 3,500 cybercrime suspects between July and December &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231219/p25#a231219p25)
  - [Apple isn&#39;t standing still on generative AI, and making human models dance is proof](https://appleinsider.com/articles/23/12/19/apple-isnt-standing-still-on-generative-ai-and-making-human-models-dance-is-proof?utm_medium=rss)
  - [&#39;Death Stranding: Director&#39;s Cut&#39; for iPhone &amp; Mac pushed to early 2024](https://appleinsider.com/articles/23/12/19/death-stranding-directors-cut-for-iphone-mac-pushed-to-early-2024?utm_medium=rss)
  - [A Major Ransomware Takedown Suffers a Strange Setback](https://www.wired.com/story/alphv-blackcat-ransomware-doj-takedown/)
- - [Researchers detail a MITM attack on SSH that can break the integrity of the protocol, the first &quot;practical attack of its kind&quot;; fixes face compatibility issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231219/p24#a231219p24)
- - [Okta is acquiring Israeli cybersecurity company Spera, which raised a $10M seed in March 2023; source: the deal is worth ~$100M-$130M, contingent on milestones &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/231219/p23#a231219p23)<!-- TECH:END -->
+ - [Researchers detail a MITM attack on SSH that can break the integrity of the protocol, the first &quot;practical attack of its kind&quot;; fixes face compatibility issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231219/p24#a231219p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A source and document shows RAND Corporation, backed by $15M from Dustin Moskovitz&#39;s effective altruism-focused Open Philanthropy, helped craft Biden&#39;s AI EO &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231219/p5#a231219p5)
  - [Google to pay $700 million after one Play Store antitrust case](https://appleinsider.com/articles/23/12/19/google-to-pay-700-million-after-one-play-store-antitrust-case?utm_medium=rss)
  - [You Know It’s a Placebo. So Why Does It Still Work?](https://www.wired.com/story/open-label-placebo-why-does-it-work/)
  - [Hackers post 1.67TB of Insomniac Games&#39; internal data, including an apparent upcoming Wolverine game, HR files, Slack screenshots, and a Marvel-Sony agreement &lpar;David Hollingworth/Cyber Daily&rpar;](http://www.techmeme.com/231219/p4#a231219p4)
- - [In Google&#39;s $700M settlement in Utah et al v. Google, an estimated 102M US Android users will split $630M and an additional $70M will go to other claims &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/231219/p3#a231219p3)
- - [An interview with Intel CVP and GM of Xeon Products Lisa Spelman on Intel&#39;s trajectory for datacenter processors, Sapphire Rapids development missteps, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231219/p2#a231219p2)<!-- TECH:END -->
+ - [In Google&#39;s $700M settlement in Utah et al v. Google, an estimated 102M US Android users will split $630M and an additional $70M will go to other claims &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/231219/p3#a231219p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

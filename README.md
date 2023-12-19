@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK regulator prepares to restart Apple cloud gaming probe in January](https://appleinsider.com/articles/23/12/19/uk-regulator-prepares-to-restart-apple-cloud-gaming-probe-in-january?utm_medium=rss)
+ - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
+ - [Comcast Xfinity data breach affects over 35 million people](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
  - [You can still grab an Apple Watch Series 9 for $329 before Apple halts sales](https://www.theverge.com/2023/12/19/24006394/apple-watch-series-9-ultra-2-sony-srs-xb100-bluetooth-speaker-deal-sale)
- - [The FBI, UK, Germany, and more seize the dark web leak site of the notorious ransomware gang ALPHV, or BlackCat; the US also seized &quot;several&quot; other ALPHV sites &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231219/p14#a231219p14)
- - [5 Best Rain Jackets &lpar;2023&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
- - [How Russia uses specialized e-commerce sites, secretive shipping workarounds, and numerous middlemen to buy Cisco and other Western tech to maintain its economy &lpar;New York Times&rpar;](http://www.techmeme.com/231219/p13#a231219p13)
- - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)<!-- TECH:END -->
+ - [The FBI, UK, Germany, and more seize the dark web leak site of the notorious ransomware gang ALPHV, or BlackCat; the US also seized &quot;several&quot; other ALPHV sites &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231219/p14#a231219p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

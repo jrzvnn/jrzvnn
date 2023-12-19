@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to limit the types of election-related queries Bard and SGE can return responses for, starting in early 2024, to prepare for elections worldwide &lpar;Brady Snyder/Android Central&rpar;](http://www.techmeme.com/231219/p33#a231219p33)
+ - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
+ - [Ransomware gang ‘unseizes’ its site and issues new threats after FBI takedown](https://www.theverge.com/2023/12/19/24008093/alphv-blackcat-ransomware-gang-site-seized-fbi-doj)
  - [25 Last-Minute Deals on Gifts That Will Arrive by Christmas](https://www.wired.com/story/last-minute-deals-and-gifts-2023/)
- - [NewsGuard: since May 2023, websites hosting AI-created fake news articles have grown from 49 to 600+; some post &quot;hundreds if not thousands of articles&quot; per day &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/231219/p32#a231219p32)
- - [Sources: AWS plans to overhaul its sales team as it aims to increase the share of Fortune 1,000 firms spending over $10M/year on AWS, from less than 20% to 80% &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231219/p31#a231219p31)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [A soldier&#39;s iPhone stopped a bullet, saving his life](https://appleinsider.com/articles/23/12/19/a-soldiers-iphone-stopped-a-bullet-saving-his-life?utm_medium=rss)<!-- TECH:END -->
+ - [NewsGuard: since May 2023, websites hosting AI-created fake news articles have grown from 49 to 600+; some post &quot;hundreds if not thousands of articles&quot; per day &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/231219/p32#a231219p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

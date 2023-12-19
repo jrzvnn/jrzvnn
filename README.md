@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Code : Dark brown](http://9gag.com/gag/aA0zOKZ)
+ - 😝 [.](http://9gag.com/gag/amA4xp6)
  - 😝 [Too Soon?](http://9gag.com/gag/aREqORA)
  - 💣 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 😝 [Beautiful set up](http://9gag.com/gag/aVby288)
  - 👉 [And i will do it again](http://9gag.com/gag/aPgb1jV)<!-- MEMES:END -->
 
 ---

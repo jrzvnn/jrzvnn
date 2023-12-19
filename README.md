@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SimSpace, which replicates organizations&#39; tech stacks for cybersecurity training, raised $45M led by L2 Point Management, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p17#a231219p17)
  - [Netflix’s Carol and the End of World is a heartwarming view of the end times](https://www.theverge.com/24006568/carol-and-the-end-of-world-review-netflix)
  - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Meta’s Oversight Board says it unfairly removed videos of Israel-Hamas war](https://www.theverge.com/2023/12/19/24007655/meta-oversight-board-removed-videos-israel-hamas-conflict)
- - [Daily deals Dec. 19: HomePod 2 $275, M2 Mac mini $479, $1,800 off MacBook Pro, more](https://appleinsider.com/articles/23/12/19/daily-deals-dec-19-homepod-2-275-m2-mac-mini-479-1800-off-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s Oversight Board says it unfairly removed videos of Israel-Hamas war](https://www.theverge.com/2023/12/19/24007655/meta-oversight-board-removed-videos-israel-hamas-conflict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

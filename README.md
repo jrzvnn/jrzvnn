@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
- - 💣 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 👉 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)<!-- MEMES:END -->
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [A classic](http://9gag.com/gag/avQKRLO)
+ - 👉 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)<!-- MEMES:END -->
 
 ---
 

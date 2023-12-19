@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work Christmas party](http://9gag.com/gag/aGE4bA6)
- - 😝 [Watching this artist create a realistic moon](http://9gag.com/gag/az2pBGz)
- - 💣 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [China!](http://9gag.com/gag/aVbyBdO)
+ - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

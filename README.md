@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teacher to the rescue!](http://9gag.com/gag/arm783V)
- - 😝 [Beautiful set up](http://9gag.com/gag/aVby288)
- - 💣 [.](http://9gag.com/gag/amA4xp6)
- - 😝 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
- - 👉 [Fat positive! long story short...](http://9gag.com/gag/aEqmXMo)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 💣 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
 
 ---
 

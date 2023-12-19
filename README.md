@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Blue Origin’s latest New Shepard launch attempt](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)
+ - [Get free next day shipping &amp; save up to $1,800 on Apple gear at B&amp;H](https://appleinsider.com/articles/23/12/17/get-free-next-day-shipping-save-up-to-1800-on-apple-gear-at-bh?utm_medium=rss)
  - [SimSpace, which replicates organizations&#39; tech stacks for cybersecurity training, raised $45M led by L2 Point Management, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p17#a231219p17)
  - [Netflix’s Carol and the End of World is a heartwarming view of the end times](https://www.theverge.com/24006568/carol-and-the-end-of-world-review-netflix)
- - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Meta’s Oversight Board says it unfairly removed videos of Israel-Hamas war](https://www.theverge.com/2023/12/19/24007655/meta-oversight-board-removed-videos-israel-hamas-conflict)<!-- TECH:END -->
+ - [Oversight Board Criticizes Meta’s Automated Moderation in Israel-Hamas War](https://www.wired.com/story/meta-oversight-board-emergency-decision/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

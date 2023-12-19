@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail a MITM attack on SSH that can break the integrity of the protocol, the first &quot;practical attack of its kind&quot;; fixes face compatibility issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231219/p24#a231219p24)
  - [Okta is acquiring Israeli cybersecurity company Spera, which raised a $10M seed in March 2023; source: the deal is worth ~$100-130M, contingent on milestones &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/231219/p23#a231219p23)
  - [Apple releases updates for iOS 16.7.4 and iPadOS 16.7.4](https://appleinsider.com/articles/23/12/19/apple-releases-updates-for-ios-1674-and-ipados-1674?utm_medium=rss)
  - [Apple releases macOS Sonoma 14.2.1 with bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-macos-sonoma-1421-with-bug-fixes?utm_medium=rss)
- - [Apple releases iOS 17.2.1 update with unspecified bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-ios-1721-incremental-update?utm_medium=rss)
- - [Q&amp;A with Flexport CEO Ryan Petersen on returning as CEO after firing Dave Clark, buying Deliverr and Convoy, Amazon, Vision Fund, growing the company, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231219/p22#a231219p22)<!-- TECH:END -->
+ - [Apple releases iOS 17.2.1 update with unspecified bug fixes](https://appleinsider.com/articles/23/12/19/apple-releases-ios-1721-incremental-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

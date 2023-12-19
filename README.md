@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI announces paid membership for commercial use of its models](https://www.theverge.com/2023/12/19/24008149/stability-ai-paid-subscription-commercial-rights-safety)
  - [Apple TV+ renews period drama &#39;The Buccaneers&#39; for second season](https://appleinsider.com/articles/23/12/19/apple-tv-renews-period-drama-the-buccaneers-for-second-season?utm_medium=rss)
+ - [Beeper’s iMessage Fight With Apple Has Blown Up Into a Debate Over Regulating Big Tech](https://www.wired.com/story/beeper-apple-imessage-fight/)
  - [iPad Pro could get MagSafe in future hardware update](https://appleinsider.com/articles/23/12/19/ipad-pro-could-get-magsafe-in-future-hardware-update?utm_medium=rss)
- - [Masimo open to an Apple Watch settlement, if Apple would only call](https://appleinsider.com/articles/23/12/19/masimo-open-to-an-apple-watch-settlement-if-apple-would-only-call?utm_medium=rss)
- - [Samsung adds foldable phones to its self-repair program](https://www.theverge.com/2023/12/19/24008066/samsung-galaxy-z-fold-5-z-flip-5-ifixit-self-repair)
- - [Microsoft Copilot can now compose songs, due to a new integration with generative AI music app Suno &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231219/p26#a231219p26)<!-- TECH:END -->
+ - [Masimo open to an Apple Watch settlement, if Apple would only call](https://appleinsider.com/articles/23/12/19/masimo-open-to-an-apple-watch-settlement-if-apple-would-only-call?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

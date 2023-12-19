@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uber](http://9gag.com/gag/amA4mZd)
- - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)
- - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
+ - 😝 [Code : Dark brown](http://9gag.com/gag/aA0zOKZ)
+ - 😝 [Too Soon?](http://9gag.com/gag/aREqORA)
+ - 💣 [Live with your choices](http://9gag.com/gag/ap9Zx9n)
+ - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 👉 [And i will do it again](http://9gag.com/gag/aPgb1jV)<!-- MEMES:END -->
 
 ---
 

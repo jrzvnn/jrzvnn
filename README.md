@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart expands its Affirm partnership and says more than 4,500 Walmart stores now offer BNPL at self checkout kiosks; AFRM jumps 15%+ &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/231219/p21#a231219p21)
+ - [Beeper’s effort to keep iMessage on Android keeps getting more complex](https://www.theverge.com/2023/12/19/24007919/beeper-mini-cloud-android-imessage-fix)
  - [Chinese GPU maker Moore Threads unveils the MTT S4000, which lags Nvidia&#39;s 2020-era Ampere, working with China&#39;s Lenovo and others to boost its KUAE ecosystem &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231219/p20#a231219p20)
  - [Ninja’s New Year’s Eve stream will be a multi-platform affair](https://www.theverge.com/2023/12/19/24007852/ninja-new-years-eve-twitch-tiktok-youtube)
- - [Apple News Plus gets The New York Times’ sports coverage, but not the NYT itself](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
- - [The Xbox Series X is available for a new low of $339.99, if you’re quick](https://www.theverge.com/2023/12/19/24007889/microsoft-xbox-series-x-console-best-buy-drop-deal-sale)
- - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)<!-- TECH:END -->
+ - [Apple News Plus gets The New York Times’ sports coverage, but not the NYT itself](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

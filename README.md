@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, come and pick me up. There are girls here](http://9gag.com/gag/aqeoD2j)
- - 😝 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 💣 [Paria diving tragedy](http://9gag.com/gag/ay2jWvy)
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 👉 [He almost died](http://9gag.com/gag/a8qxeYV)<!-- MEMES:END -->
+ - 😝 [Uber](http://9gag.com/gag/amA4mZd)
+ - 😝 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 😝 [Mycelium growing in someone\u2019s basement](http://9gag.com/gag/agoz2gg)
+ - 👉 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe&#39;s failed Figma deals leaves the company with ~$6B in cash to invest in AI and stock buybacks, but upstart rivals still represent a threat to its growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p7#a231219p7)
  - [Meta&#39;s Oversight Board says Meta should not have removed two Israel-Hamas war videos, as they were valuable to showing human suffering, its first expedited case &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231219/p6#a231219p6)
  - [A source and document shows RAND Corporation, backed by $15M from Dustin Moskovitz&#39;s effective altruism-focused Open Philanthropy, helped craft Biden&#39;s AI EO &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231219/p5#a231219p5)
  - [Google to pay $700 million after one Play Store antitrust case](https://appleinsider.com/articles/23/12/19/google-to-pay-700-million-after-one-play-store-antitrust-case?utm_medium=rss)
- - [You Know It’s a Placebo. So Why Does It Still Work?](https://www.wired.com/story/open-label-placebo-why-does-it-work/)
- - [Hackers post 1.67TB of Insomniac Games&#39; internal data, including an apparent upcoming Wolverine game, HR files, Slack screenshots, and a Marvel-Sony agreement &lpar;David Hollingworth/Cyber Daily&rpar;](http://www.techmeme.com/231219/p4#a231219p4)<!-- TECH:END -->
+ - [You Know It’s a Placebo. So Why Does It Still Work?](https://www.wired.com/story/open-label-placebo-why-does-it-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lamborghini Revuelto 2024 Review, Specs, Price, Availability](https://www.wired.com/story/lamborghini-revuelto-2024-review/)
+ - [2023 in the smart home: Matter’s broken promises](https://www.theverge.com/23997548/matter-smart-home-2023-platforms)
  - [Q&amp;A with Andrew Ng, a Google Brain cofounder, Stanford professor, ex-Baidu executive, and investor, on AI models, training, regulation, Big Tech, and Biden&#39;s EO &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/231219/p12#a231219p12)
  - [As NYC&#39;s $17.96+ minimum wage law for delivery apps begins, Uber and DoorDash update their apps to make tipping harder and, workers say, reduce their hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p11#a231219p11)
- - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)
- - [2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
- - [Comcast&#39;s Xfinity discloses hackers breached a Citrix server in October 2023, two weeks after Citrix issued a patch, and stole data on 35,879,455 people &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231219/p10#a231219p10)<!-- TECH:END -->
+ - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

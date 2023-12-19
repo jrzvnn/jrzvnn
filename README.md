@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI debuts Stability AI Membership, with free, $20/month, and custom pricing enterprise tiers, limiting the commercial use of models to the paid tiers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231219/p28#a231219p28)
  - [You can create your own AI songs with this new Copilot extension](https://www.theverge.com/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension)
  - [Internal messages: some TikTok moderators have been told to let under-13s stay on the platform if they claimed their parents were overseeing their accounts &lpar;The Guardian&rpar;](http://www.techmeme.com/231219/p27#a231219p27)
  - [Stability AI announces paid membership for commercial use of its models](https://www.theverge.com/2023/12/19/24008149/stability-ai-paid-subscription-commercial-rights-safety)
- - [Apple TV+ renews period drama &#39;The Buccaneers&#39; for second season](https://appleinsider.com/articles/23/12/19/apple-tv-renews-period-drama-the-buccaneers-for-second-season?utm_medium=rss)
- - [Beeper’s iMessage Fight With Apple Has Blown Up Into a Debate Over Regulating Big Tech](https://www.wired.com/story/beeper-apple-imessage-fight/)<!-- TECH:END -->
+ - [Apple TV+ renews period drama &#39;The Buccaneers&#39; for second season](https://appleinsider.com/articles/23/12/19/apple-tv-renews-period-drama-the-buccaneers-for-second-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

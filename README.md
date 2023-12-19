@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wolverine part of massive Insomniac Games leak after ransomware deadline passes](https://www.theverge.com/2023/12/19/24007570/insomniac-games-hack-wolverine-x-men-ryhsida)
  - [TSMC Chair Mark Liu plans to retire in 2024, replaced by CEO C.C. Wei, set to become one of the most influential executives in tech; shareholders must approve &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p1#a231219p1)
  - [Google to pay $700 million and make tiny app store changes to settle with 50 states](https://www.theverge.com/23994177/google-states-ag-google-play-antitrust-settlement)
  - [Best Internet Providers in Conroe, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-conroe-tx/#ftag=CAD590a51e)
- - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)
- - [A US judge orders a Tesla driver to pay $23K+ for a 2019 crash that killed two, likely the first US felony case involving a partially automated driving system &lpar;Stefanie Dazio/Associated Press&rpar;](http://www.techmeme.com/231218/p37#a231218p37)<!-- TECH:END -->
+ - [Google agrees to pay $700M and make certain changes to its app store to settle a 2021 antitrust lawsuit brought by 36 US states and the District of Columbia &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231218/p38#a231218p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

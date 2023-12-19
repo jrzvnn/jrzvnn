@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
  - [Meta’s Oversight Board says it unfairly removed videos of Israel-Hamas war](https://www.theverge.com/2023/12/19/24007655/meta-oversight-board-removed-videos-israel-hamas-conflict)
  - [Daily deals Dec. 19: HomePod 2 $275, M2 Mac mini $479, $1,800 off MacBook Pro, more](https://appleinsider.com/articles/23/12/19/daily-deals-dec-19-homepod-2-275-m2-mac-mini-479-1800-off-macbook-pro-more?utm_medium=rss)
  - [The Age of Crispr Medicine Is Here](https://www.wired.com/story/the-age-of-crispr-medicine-is-here/)
- - [Why Flexport CEO Ryan Petersen took his company back](https://www.theverge.com/24006936/flexport-ceo-ryan-petersen-logistics-fired-dave-clark-return-decoder)
- - [Boston-based Lightmatter, which uses light for AI computing, adds $155M led by GV to its $154M Series C at a $1.2B valuation, taking its total funding to $420M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/231219/p16#a231219p16)<!-- TECH:END -->
+ - [Why Flexport CEO Ryan Petersen took his company back](https://www.theverge.com/24006936/flexport-ceo-ryan-petersen-logistics-fired-dave-clark-return-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

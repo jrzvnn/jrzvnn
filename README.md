@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of Amazon&#39;s AI review summaries shows they sometimes mischaracterize products or exaggerate negative feedback, which sellers say can threaten sales &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/231219/p15#a231219p15)
+ - [Adam Sandler is a haunted astronaut in the first teaser for Netflix’s Spaceman](https://www.theverge.com/24007706/spaceman-trailer-netflix-adam-sandler)
  - [UK regulator prepares to restart Apple cloud gaming probe in January](https://appleinsider.com/articles/23/12/19/uk-regulator-prepares-to-restart-apple-cloud-gaming-probe-in-january?utm_medium=rss)
  - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [Comcast Xfinity data breach affects over 35 million people](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)
- - [You can still grab an Apple Watch Series 9 for $329 before Apple halts sales](https://www.theverge.com/2023/12/19/24006394/apple-watch-series-9-ultra-2-sony-srs-xb100-bluetooth-speaker-deal-sale)
- - [The FBI, UK, Germany, and more seize the dark web leak site of the notorious ransomware gang ALPHV, or BlackCat; the US also seized &quot;several&quot; other ALPHV sites &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231219/p14#a231219p14)<!-- TECH:END -->
+ - [Comcast Xfinity data breach affects over 35 million people](https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

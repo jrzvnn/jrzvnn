@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese GPU maker Moore Threads unveils the MTT S4000, which lags Nvidia&#39;s 2020-era Ampere, working with China&#39;s Lenovo and others to boost its KUAE ecosystem &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231219/p20#a231219p20)
+ - [Ninja’s New Year’s Eve stream will be a multi-platform affair](https://www.theverge.com/2023/12/19/24007852/ninja-new-years-eve-twitch-tiktok-youtube)
  - [Apple News Plus gets The New York Times’ sports coverage, but not the NYT itself](https://www.theverge.com/2023/12/19/24007645/apple-news-plus-the-athletic-wirecutter-new-york-times)
  - [The Xbox Series X is available for a new low of $339.99, if you’re quick](https://www.theverge.com/2023/12/19/24007889/microsoft-xbox-series-x-console-best-buy-drop-deal-sale)
- - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)
- - [Meta adds tongue tracking in an update to its OpenXR extension, letting developers bring the feature to the Quest Pro; Meta Avatars SDK hasn&#39;t yet added support &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/231219/p18#a231219p18)
- - [Watch Blue Origin’s latest New Shepard launch attempt](https://www.theverge.com/2023/12/17/24005428/blue-origin-launch-december-18-livestream)<!-- TECH:END -->
+ - [The reintroduction of wolves in Colorado is giving me life right now](https://www.theverge.com/2023/12/19/24007786/colorado-wild-wolves-release-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

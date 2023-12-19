@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Generic Chaos.](http://9gag.com/gag/aoKQ80x)
- - 😝 [Never going to austria](http://9gag.com/gag/arm7xYX)
- - 💣 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
- - 👉 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)<!-- MEMES:END -->
+ - 😝 [Mikayla Demaiter](http://9gag.com/gag/aOxL1eE)
+ - 😝 [\ud83c\udf1a\ud83e\udee1\ud83e\udd1e](http://9gag.com/gag/aWG3oGd)
+ - 💣 [I hope I&#39;m not late](http://9gag.com/gag/aDYebbw)
+ - 😝 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)
+ - 👉 [A classic](http://9gag.com/gag/avQKRLO)<!-- MEMES:END -->
 
 ---
 

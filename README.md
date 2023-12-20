@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
- - 😝 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
- - 💣 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
- - 😝 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)
- - 👉 [It will be a long night](http://9gag.com/gag/aKEoLMj)<!-- MEMES:END -->
+ - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
+ - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
+ - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---
 

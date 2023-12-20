@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 😝 [It will be a long night](http://9gag.com/gag/aKEoLMj)
+ - 😝 [Emmanuel just thrives on chaos .](http://9gag.com/gag/aDYer1B)
+ - 💣 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 😝 [I love this community.](http://9gag.com/gag/aeQ8yjq)
+ - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 ---
 

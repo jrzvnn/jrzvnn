@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arizona&#39;s Secretary of State Is Already Sick of Election Conspiracy Theories](https://www.wired.com/story/adrian-fontes-secretary-of-state-arizona/)
  - [Apple&#39;s legal bid to pause Apple Watch sales &amp; import ban fails](https://appleinsider.com/articles/23/12/20/apples-legal-bid-to-pause-apple-watch-sales-import-ban-fails?utm_medium=rss)
  - [Warner Bros. Discovery and Paramount in discussions for a max merger](https://www.theverge.com/2023/12/20/24010115/warner-bros-discovery-paramount-merger-streaming)
  - [Apple Vision Pro shipments rumored to start as soon as February](https://appleinsider.com/articles/23/12/20/apple-vision-pro-shipments-rumored-to-start-as-soon-as-february?utm_medium=rss)
- - [Filing: the US ITC denies Apple&#39;s motion to stay an import and sales ban on the Watch Series 9 and Watch Ultra 2 while awaiting an appeal &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231220/p27#a231220p27)
- - [The US FTC proposes more data protections for kids, including making targeted ads for under-13s opt-in and banning using select data for kids push notifications &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231220/p26#a231220p26)<!-- TECH:END -->
+ - [Filing: the US ITC denies Apple&#39;s motion to stay an import and sales ban on the Watch Series 9 and Watch Ultra 2 while awaiting an appeal &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231220/p27#a231220p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

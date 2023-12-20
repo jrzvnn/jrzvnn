@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 👉 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)<!-- MEMES:END -->
+ - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 💣 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
 
 ---
 

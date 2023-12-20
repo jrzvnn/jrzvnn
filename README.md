@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC proposes expanded protections on children&#39;s personal data, including new limits on targeted advertising and push notifications directed at kids &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231220/p26#a231220p26)
+ - [Apple loses attempt to halt Apple Watch sales ban](https://www.theverge.com/2023/12/20/24010011/apple-loses-attempt-halt-apple-watch-sales-ban-itc)
+ - [Apple reportedly plans Vision Pro launch by February](https://www.theverge.com/2023/12/20/24010038/apple-vision-pro-launch-planned-february)
  - [Sources: Apple is ramping up production of Vision Pro, aiming for customer-bound units to be ready by the end of January and planning a retail debut in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231220/p25#a231220p25)
- - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)
- - [Best Wi-Fi 6 Routers of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)
- - [Solar Cheat Sheet: Your Guide to Getting Solar Panels     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-cheat-sheet-your-complete-guide-to-getting-solar-panels-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

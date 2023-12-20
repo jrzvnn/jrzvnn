@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 in review](https://www.theverge.com/23998898/2023-best-worst-streaming-gaming-tech-roundup)
- - [Investors are spending hundreds of millions on FTX bankruptcy claims, betting that its new leadership will recover funds that Sam Bankman-Fried misappropriated &lpar;New York Times&rpar;](http://www.techmeme.com/231220/p19#a231220p19)
- - [PlayStation 5 sales have surpassed 50 million units](https://www.theverge.com/2023/12/20/24009270/playstation-5-sales-surpass-50-million-units-sony)
- - [Best 4K Blu-Ray Players &lpar;2023&rpar;: Sony, Panasonic and More](https://www.wired.com/gallery/best-4k-blu-ray-players/)
- - [Apple Card, Apple Pay, and Wallet hit by outages](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Card, Apple Pay, and Wallet hit by outages [u]](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
+ - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
+ - [Pondering the biggest orb](https://www.theverge.com/tech/24008239/sphere-las-vegas-experience-u2-screen)
+ - [AI image training dataset found to include child sexual abuse imagery](https://www.theverge.com/2023/12/20/24009418/generative-ai-image-laion-csam-google-stability-stanford)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

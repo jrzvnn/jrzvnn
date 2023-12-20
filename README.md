@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)
  - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)
- - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [&#39;Resident Evil 4&#39; now available on iPhone 15 Pro, iPad, &amp; Mac](https://appleinsider.com/articles/23/12/20/resident-evil-4-now-available-on-iphone-15-pro-ipad-mac?utm_medium=rss)
- - [An interview with Reddit CEO Steve Huffman about the moderator rebellion, limiting free access to the company&#39;s API, AI&#39;s role in Reddit&#39;s future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231219/p39#a231219p39)<!-- TECH:END -->
+ - [An interview with Reddit CEO Steve Huffman about the moderator rebellion, limiting free access to the company&#39;s API, AI&#39;s role in Reddit&#39;s future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231219/p39#a231219p39)
+ - [Alibaba CEO Eddie Wu takes over for e-commerce business head Trudy Dai, one of Alibaba&#39;s earliest employees, who will now help oversee non-core assets globally &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/231219/p38#a231219p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

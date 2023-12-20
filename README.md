@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU designates Pornhub, XVideos, and Stripchat as Very Large Online Platforms under the DSA, meaning stricter rules on age verification and illegal content &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231220/p11#a231220p11)
  - [A look at South Korea&#39;s AI industry, one of the world&#39;s most competitive and diverse, as startups train on Korean language and culture to compete with US giants &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/231220/p10#a231220p10)
  - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
  - [The UK Supreme Court rules that AI can&#39;t be a patent &quot;inventor&quot;, rejecting a bid to register patents by US computer scientist Stephen Thaler, in a landmark case &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231220/p9#a231220p9)
- - [Take 40% Off PF Flyers Sneakers This Holiday Season     - CNET](https://www.cnet.com/deals/take-40-off-pf-flyers-sneakers-this-holiday-season/#ftag=CAD590a51e)
- - [Save and Sleep Sweet With Crane &amp; Canopy&#39;s Holiday Sale     - CNET](https://www.cnet.com/deals/save-and-sleep-sweet-with-crane-canopys-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take 40% Off PF Flyers Sneakers This Holiday Season     - CNET](https://www.cnet.com/deals/take-40-off-pf-flyers-sneakers-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

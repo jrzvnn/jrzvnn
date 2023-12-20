@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 😝 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
- - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
+ - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
+ - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
+ - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
 
 ---
 

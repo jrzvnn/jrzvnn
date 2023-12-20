@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well x3](http://9gag.com/gag/a04yOyO)
- - 😝 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 💣 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
+ - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
  - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
 
 ---
 

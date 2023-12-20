@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After analyzing 7.14M miles driven, Waymo claims its autonomous driving system had an 85% reduction in injury-causing crash rates compared to human benchmarks &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231220/p29#a231220p29)
+ - [All iPhone 16 models to get A18 processor according to iOS 18 code leak](https://appleinsider.com/articles/23/12/20/all-iphone-16-models-to-get-a18-processor-according-to-ios-18-code-leak?utm_medium=rss)
  - [The FTC proposes new rules to curb the monetization of children’s data](https://www.theverge.com/2023/12/20/24009666/ftc-child-data-collection-privacy-law-coppa)
  - [Steam is going to let you hide the games you don’t want your friends to see](https://www.theverge.com/2023/12/20/24010116/steam-beta-update-hide-games-private-shopping-cart)
- - [Micron reports Q1 revenue up 16% YoY to $4.73B, vs. $4.54B est., and forecasts Q2 revenue above estimates, after strong data center demand &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231220/p28#a231220p28)
- - [Arizona&#39;s Secretary of State Is Already Sick of Election Conspiracy Theories](https://www.wired.com/story/adrian-fontes-secretary-of-state-arizona/)
- - [Apple&#39;s legal bid to pause Apple Watch sales &amp; import ban fails](https://appleinsider.com/articles/23/12/20/apples-legal-bid-to-pause-apple-watch-sales-import-ban-fails?utm_medium=rss)<!-- TECH:END -->
+ - [Micron reports Q1 revenue up 16% YoY to $4.73B, vs. $4.54B est., and forecasts Q2 revenue above estimates, after strong data center demand &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231220/p28#a231220p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

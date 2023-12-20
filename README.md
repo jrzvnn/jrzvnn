@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Beeper&#39;s CEO wants to sue Apple for blocking its iMessage bridge hack](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
+ - [Sorry California, Amazon Will No Longer Sell You Donkey Meat](https://www.wired.com/story/amazon-donkey-meat-ejiao-california-settlement/)
  - [Peloton’s oldest bike tablet will be cut off from classes in a few months](https://www.theverge.com/2023/12/20/24009458/peloton-bike-quartz-tablet-shutdown-classes-ending)
  - [Daily deals Dec. 20: Apple Watch Ultra $599, M1 Max Mac Studio $1,499, M2 Mac mini $479, more](https://appleinsider.com/articles/23/12/20/daily-deals-dec-20-apple-watch-ultra-599-m1-max-mac-studio-1499-m2-mac-mini-479-more?utm_medium=rss)
- - [Waymo has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human)
- - [Best Chase Southwest Rapid Rewards Cards for December 2023     - CNET](https://www.cnet.com/personal-finance/best-chase-southwest-rapid-rewards-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

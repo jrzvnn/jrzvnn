@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 😝 [Well x3](http://9gag.com/gag/a04yOyO)
- - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - 😝 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
+ - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)<!-- MEMES:END -->
+ - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 
 ---
 

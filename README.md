@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)
  - [A profile of PDD, the parent of Pinduoduo and Temu, which has grown rapidly since its founding in 2015 despite allegations over malware and counterfeit goods &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/231220/p5#a231220p5)
  - [Researchers say AI robot CyberRunner outmaneuvers humans in the maze game Labyrinth, in a breakthrough for AI beating humans at direct physical applications &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231220/p4#a231220p4)
  - [Media monitoring and analytics firm Meltwater raises ~$65M from PE firm Verdane for an 11% stake at a $592M valuation, down from $1B+ valuation in December 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231220/p3#a231220p3)
- - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)
- - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)<!-- TECH:END -->
+ - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
  - [We Found 14 Popular Christmas Toys Worth Gifting &lpar;and 3 to Avoid&rpar;](https://www.wired.com/story/popular-christmas-toys-gifts-we-like/)
+ - [Best Internet Providers in Greensboro, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-greensboro-nc/#ftag=CAD590a51e)
  - [The four podcast stories that will shape 2024](https://www.theverge.com/2023/12/20/24010208/podcast-2024-layoff-ai-spotify-apple-rogan)
- - [After analyzing 7.14M miles driven, Waymo claims its autonomous driving system had an 85% reduction in injury-causing crash rates compared to human benchmarks &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231220/p29#a231220p29)
- - [All iPhone 16 models to get A18 processor according to iOS 18 code leak](https://appleinsider.com/articles/23/12/20/all-iphone-16-models-to-get-a18-processor-according-to-ios-18-code-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Irvine, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-irvine-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
  - 😝 [Facts](http://9gag.com/gag/aL17NwM)
  - 💣 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
- - 😝 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)
- - 👉 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)<!-- MEMES:END -->
+ - 😝 [It is Wednesday my dudes](http://9gag.com/gag/aDYeNe9)
+ - 👉 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)<!-- MEMES:END -->
 
 ---
 

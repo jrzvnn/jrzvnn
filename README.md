@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
  - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 😝 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

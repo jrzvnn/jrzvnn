@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA engineers streamed an HD cat video from 18.6M miles away, the farthest ever, using lasers instead of radio frequencies to achieve speeds of 267 Mbps &lpar;Sopan Deb/New York Times&rpar;](http://www.techmeme.com/231220/p13#a231220p13)
+ - [What Happens When Facebook Heats Your Home](https://www.wired.com/story/facebook-energy-heating-homes/)
+ - [The Obscure Google Deal That Defines America’s Broken Privacy Protections](https://www.wired.com/story/google-consent-decree-ftc-broken-privacy-protections/)
  - [Sources: ByteDance&#39;s 2023 sales surged to $110B+, broadly matching 2022&#39;s 30% growth rate, despite economic turbulence in China and scrutiny in the US and India &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p12#a231220p12)
- - [How a brazen passcode thief used stolen iPhones to rob $2 million](https://appleinsider.com/articles/23/12/20/how-a-brazen-passcode-thief-used-stolen-iphones-to-rob-2-million?utm_medium=rss)
- - [The EU designates Pornhub, XVideos, and Stripchat as Very Large Online Platforms under the DSA, meaning stricter rules on age verification and illegal content &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231220/p11#a231220p11)
- - [A look at South Korea&#39;s AI industry, one of the world&#39;s most competitive and diverse, as startups train on Korean language and culture to compete with US giants &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/231220/p10#a231220p10)
- - [Three porn sites hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)<!-- TECH:END -->
+ - [Today&#39;s Mortgage Rates for Dec. 20, 2023: Rates Fall for Prospective Buyers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-20-2023-rates-fall-for-prospective-buyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

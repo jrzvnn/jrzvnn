@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
  - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 💣 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
- - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
+ - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
  - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---

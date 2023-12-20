@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 💣 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
+ - 😝 [Emmanuel just thrives on chaos .](http://9gag.com/gag/aDYer1B)
+ - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
+ - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [A wholesome ending](http://9gag.com/gag/aWG3N4A)
+ - 👉 [Effort to make 9gag great again](http://9gag.com/gag/adPD4XD)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - 😝 [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
  - 😝 [Facts](http://9gag.com/gag/aL17NwM)
  - 💣 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
- - 😝 [It is Wednesday my dudes](http://9gag.com/gag/aDYeNe9)
+ - 😝 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
  - 👉 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)<!-- MEMES:END -->
 
 ---

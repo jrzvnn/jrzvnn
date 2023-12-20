@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X set up a 10-person team to help reach $100M in US political ad spend in 2024, to offset other ad losses, a goal industry executives are skeptical of &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231220/p15#a231220p15)
- - [Stanford researchers: LAION-5B, a dataset of 5B images used by Stability AI and others, contains 1,008 instances of CSAM, possibly helping to create AI CSAM &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p14#a231220p14)
- - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
- - [NASA engineers streamed an HD cat video from 18.6M miles away, the farthest ever, using lasers instead of radio frequencies to achieve speeds of 267 Mbps &lpar;Sopan Deb/New York Times&rpar;](http://www.techmeme.com/231220/p13#a231220p13)
- - [What Happens When Facebook Heats Your Home](https://www.wired.com/story/facebook-energy-heating-homes/)<!-- TECH:END -->
+ - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
+ - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)
+ - [2023: a year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
+ - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)
+ - [Apple Watch Series X won&#39;t work with old bands, claims leaker](https://appleinsider.com/articles/23/12/20/apple-watch-series-x-wont-work-with-old-bands-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

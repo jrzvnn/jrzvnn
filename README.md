@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 💣 [Title](http://9gag.com/gag/aBdBvwA)
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
+ - 😝 [It will be a long night](http://9gag.com/gag/aKEoLMj)
+ - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 💣 [I love this community.](http://9gag.com/gag/aeQ8yjq)
+ - 😝 [Emmanuel just thrives on chaos .](http://9gag.com/gag/aDYer1B)
+ - 👉 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)<!-- MEMES:END -->
 
 ---
 

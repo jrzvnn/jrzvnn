@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It will be a long night](http://9gag.com/gag/aKEoLMj)
- - 😝 [Emmanuel just thrives on chaos .](http://9gag.com/gag/aDYer1B)
- - 💣 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
- - 😝 [I love this community.](http://9gag.com/gag/aeQ8yjq)
- - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 💣 [Simple beauty](http://9gag.com/gag/aVbyRDP)
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
+ - 👉 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 😝 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [It is Wednesday my dudes](http://9gag.com/gag/aDYeNe9)
+ - 😝 [It will be a long night](http://9gag.com/gag/aKEoLMj)
+ - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
  - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---

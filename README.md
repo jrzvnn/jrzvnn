@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone know why the deep ice is darker than that what is closer to the surface?](http://9gag.com/gag/ay2jQqV)
- - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 😝 [Well x3](http://9gag.com/gag/a04yOyO)
  - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [Hans?!...](http://9gag.com/gag/az2pDej)<!-- MEMES:END -->
+ - 👉 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)<!-- MEMES:END -->
 
 ---
 

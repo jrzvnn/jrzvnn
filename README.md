@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beeper&#39;s CEO wants to sue Apple for blocking its iMessage bridge hack](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
+ - [Peloton’s oldest bike tablet will be cut off from classes in a few months](https://www.theverge.com/2023/12/20/24009458/peloton-bike-quartz-tablet-shutdown-classes-ending)
+ - [Daily deals Dec. 20: Apple Watch Ultra $599, M1 Max Mac Studio $1,499, M2 Mac mini $479, more](https://appleinsider.com/articles/23/12/20/daily-deals-dec-20-apple-watch-ultra-599-m1-max-mac-studio-1499-m2-mac-mini-479-more?utm_medium=rss)
  - [Waymo has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human)
- - [CEO claims Beeper makes iMessage more secure, may sue Apple for blocking it](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
- - [Should the Apple Store be forced to sell lemons?](https://appleinsider.com/articles/23/12/20/should-the-apple-store-be-forced-to-sell-lemons?utm_medium=rss)
- - [Interviews with 20 current and former Meta and Google staff say FTC consent decrees blocked some user data harvesting, but they are now outdated and inadequate &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231220/p20#a231220p20)
- - [Apple Card, Apple Pay, and Wallet were hit by outages on Wednesday](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)<!-- TECH:END -->
+ - [Best Chase Southwest Rapid Rewards Cards for December 2023     - CNET](https://www.cnet.com/personal-finance/best-chase-southwest-rapid-rewards-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

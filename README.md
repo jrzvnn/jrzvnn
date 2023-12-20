@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
  - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
  - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)
  - [2023: a year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
- - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)
- - [Apple Watch Series X won&#39;t work with old bands, claims leaker](https://appleinsider.com/articles/23/12/20/apple-watch-series-x-wont-work-with-old-bands-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [She is single btw.](http://9gag.com/gag/aBdBOxO)<!-- MEMES:END -->
+ - 😝 [Moving to Canada just to give cops death threats!](http://9gag.com/gag/abvnmEb)
+ - 😝 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
+ - 💣 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
+ - 😝 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)
+ - 👉 [It will be a long night](http://9gag.com/gag/aKEoLMj)<!-- MEMES:END -->
 
 ---
 

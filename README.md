@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Etsy, despite its guidelines, lists tons of AI-generated porn for sale found via simple searches; it removed deepfake porn of 55+ celebs after it was notified &lpar;Cyrus Farivar/Forbes&rpar;](http://www.techmeme.com/231220/p23#a231220p23)
+ - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)
  - [Apple shows off next generation CarPlay in Porsche and Aston Martin cars](https://appleinsider.com/articles/23/12/20/apple-shows-off-next-generation-carplay-in-porsche-and-aston-martin-cars?utm_medium=rss)
  - [UK Supreme Court rules AI is not an inventor](https://www.theverge.com/2023/12/20/24009524/uk-supreme-court-ai-inventor-copyright-patent)
- - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)
- - [Tax Day 2024: The Soonest and Latest You Can File Your Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/tax-day-2024-the-soonest-and-latest-you-can-file-your-taxes/#ftag=CAD590a51e)
- - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)<!-- TECH:END -->
+ - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

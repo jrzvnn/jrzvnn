@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance&#39;s 2023 sales surged to $110B+, broadly matching 2022&#39;s 30% growth rate, despite economic turbulence in China and scrutiny in the US and India &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p12#a231220p12)
  - [How a brazen passcode thief used stolen iPhones to rob $2 million](https://appleinsider.com/articles/23/12/20/how-a-brazen-passcode-thief-used-stolen-iphones-to-rob-2-million?utm_medium=rss)
  - [The EU designates Pornhub, XVideos, and Stripchat as Very Large Online Platforms under the DSA, meaning stricter rules on age verification and illegal content &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231220/p11#a231220p11)
  - [A look at South Korea&#39;s AI industry, one of the world&#39;s most competitive and diverse, as startups train on Korean language and culture to compete with US giants &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/231220/p10#a231220p10)
- - [Three porn sites hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
- - [The UK Supreme Court rules that AI can&#39;t be a patent &quot;inventor&quot;, rejecting a bid to register patents by US computer scientist Stephen Thaler, in a landmark case &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231220/p9#a231220p9)<!-- TECH:END -->
+ - [Three porn sites hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

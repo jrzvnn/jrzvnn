@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 😝 [Andrewphysictwitch \u2764\ufe0f](http://9gag.com/gag/aVbyRLw)
- - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 😝 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - 😝 [Facts](http://9gag.com/gag/aL17NwM)
+ - 💣 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
+ - 😝 [Never have I ever thought that there would exist a smart sewing machine in my lifetime](http://9gag.com/gag/aDYeNZK)
+ - 👉 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)<!-- MEMES:END -->
 
 ---
 

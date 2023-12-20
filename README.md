@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK Supreme Court rules AI is not an inventor](https://www.theverge.com/2023/12/20/24009524/uk-supreme-court-ai-inventor-copyright-patent)
+ - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)
+ - [Tax Day 2024: The Soonest and Latest You Can File Your Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/tax-day-2024-the-soonest-and-latest-you-can-file-your-taxes/#ftag=CAD590a51e)
  - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
- - [Microsoft announces more Xbox leadership changes as Activision’s Bobby Kotick departs](https://www.theverge.com/2023/12/20/24009129/microsoft-gaming-xbox-phil-spencer-bobby-kotick-activision-leadership-changes)
- - [Snow Sports Are Getting More Dangerous](https://www.wired.com/story/snow-sports-are-becoming-more-dangerous/)
- - [Beeper&#39;s CEO wants to sue Apple for blocking its iMessage bridge hack](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
- - [Sorry California, Amazon Will No Longer Sell You Donkey Meat](https://www.wired.com/story/amazon-donkey-meat-ejiao-california-settlement/)<!-- TECH:END -->
+ - [Microsoft announces more Xbox leadership changes as Activision’s Bobby Kotick departs](https://www.theverge.com/2023/12/20/24009129/microsoft-gaming-xbox-phil-spencer-bobby-kotick-activision-leadership-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

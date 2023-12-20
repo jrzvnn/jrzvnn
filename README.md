@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is ramping up production of Vision Pro, aiming for customer-bound units to be ready by the end of January and planning a retail debut in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231220/p25#a231220p25)
  - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)
+ - [Best Wi-Fi 6 Routers of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
  - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)
- - [Apple’s immersive next-gen CarPlay will start with Porsche and Aston Martin](https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin)
- - [Etsy, despite its guidelines, lists tons of AI-generated porn for sale found via simple searches; it removed deepfake porn of 55+ celebs after it was notified &lpar;Cyrus Farivar/Forbes&rpar;](http://www.techmeme.com/231220/p23#a231220p23)
- - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)<!-- TECH:END -->
+ - [Solar Cheat Sheet: Your Guide to Getting Solar Panels     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-cheat-sheet-your-complete-guide-to-getting-solar-panels-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

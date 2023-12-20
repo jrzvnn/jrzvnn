@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Activision CEO Bobby Kotick will step down on December 29; Activision leadership structure will be kept in place as it integrates into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
  - [Microsoft announces more Xbox leadership changes as Activision’s Bobby Kotick departs](https://www.theverge.com/2023/12/20/24009129/microsoft-gaming-xbox-phil-spencer-bobby-kotick-activision-leadership-changes)
  - [Snow Sports Are Getting More Dangerous](https://www.wired.com/story/snow-sports-are-becoming-more-dangerous/)
  - [Beeper&#39;s CEO wants to sue Apple for blocking its iMessage bridge hack](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)
- - [Sorry California, Amazon Will No Longer Sell You Donkey Meat](https://www.wired.com/story/amazon-donkey-meat-ejiao-california-settlement/)
- - [Peloton’s oldest bike tablet will be cut off from classes in a few months](https://www.theverge.com/2023/12/20/24009458/peloton-bike-quartz-tablet-shutdown-classes-ending)<!-- TECH:END -->
+ - [Sorry California, Amazon Will No Longer Sell You Donkey Meat](https://www.wired.com/story/amazon-donkey-meat-ejiao-california-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

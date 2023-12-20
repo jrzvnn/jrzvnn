@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
  - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
+ - 💣 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 👉 [Hans?!...](http://9gag.com/gag/az2pDej)<!-- MEMES:END -->
 
 ---
 

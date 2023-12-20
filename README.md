@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
- - 😝 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
- - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [Title](http://9gag.com/gag/aBdBvwA)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 
 ---
 

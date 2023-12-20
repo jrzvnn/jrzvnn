@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching this artist create a realistic moon](http://9gag.com/gag/az2pBGz)
- - 😝 [The right makeup for a first date](http://9gag.com/gag/axoq41Y)
- - 💣 [China!](http://9gag.com/gag/aVbyBdO)
- - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 💣 [I don&#39;t understand.iv seen people spend hundreds if not thousands of dollars on OnlyFans.why ?? Just get a hooker !](http://9gag.com/gag/aeQ87yp)
+ - 😝 [Priority](http://9gag.com/gag/abvnQOX)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

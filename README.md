@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis of 2K misleading Israel-Hamas war posts on X, viewed 500M+ times: verified users posting debunked claims are thriving and Community Notes can&#39;t keep up &lpar;ProPublica&rpar;](http://www.techmeme.com/231220/p16#a231220p16)
+ - [2023 in smartphones: it was the little things](https://www.theverge.com/23992429/smartphones-2023-foldables-photography-ai)
  - [God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
  - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
- - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)
- - [2023: a year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
- - [Nomad unveils its first fast Qi2 wireless stand charger](https://www.theverge.com/2023/12/20/24009185/nomad-stand-qi2-wireless-charger-price-fast-magsafe)<!-- TECH:END -->
+ - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

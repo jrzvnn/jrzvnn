@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony sold 50M PS5 consoles in the three years since its November 2020 launch, almost as fast as the PS4 reached 50M, and outsold Xbox by almost 3:1 in 2023 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231220/p17#a231220p17)
- - [Analysis of 2K misleading Israel-Hamas war posts on X, viewed 500M+ times: verified users posting debunked claims are thriving and Community Notes can&#39;t keep up &lpar;ProPublica&rpar;](http://www.techmeme.com/231220/p16#a231220p16)
- - [2023 in smartphones: it was the little things](https://www.theverge.com/23992429/smartphones-2023-foldables-photography-ai)
- - [God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
- - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
+ - [Pixelmator Pro update gets more speed, and opens Illustrator EPS files](https://appleinsider.com/articles/23/12/20/pixelmator-pro-update-gets-more-speed-and-opens-illustrator-eps-files?utm_medium=rss)
+ - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)
+ - [Best Stand Mixers &lpar;2023&rpar;: 5 Baking Gadgets](https://www.wired.com/gallery/best-stand-mixers/)
+ - [Adobe explains why it abandoned the Figma deal](https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder)
+ - [Ferrari stalls out](https://www.theverge.com/24006341/ferrari-movie-review-michael-mann-adam-driver-penelope-cruz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

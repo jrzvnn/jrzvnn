@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)
  - [Not everyone is convinced that the Apple Watch ban will only have a small financial impact](https://appleinsider.com/articles/23/12/20/not-everyone-is-convinced-that-the-apple-watch-ban-will-only-have-a-small-financial-impact?utm_medium=rss)
  - [Apple’s immersive next-gen CarPlay will start with Porsche and Aston Martin](https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin)
  - [Etsy, despite its guidelines, lists tons of AI-generated porn for sale found via simple searches; it removed deepfake porn of 55+ celebs after it was notified &lpar;Cyrus Farivar/Forbes&rpar;](http://www.techmeme.com/231220/p23#a231220p23)
- - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)
- - [Best Smart Scale Deals: Save Up to $46 on Renpho, Wyze, QuardioBase and More     - CNET](https://www.cnet.com/deals/best-smart-scale-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

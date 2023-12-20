@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the tech sector&#39;s longevity obsession, with Jeff Bezos, Sam Altman, Larry Page, and others pledging millions of dollars to firms pursuing longer life &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/231220/p8#a231220p8)
  - [VanMoof 2.0: a new hope](https://www.theverge.com/24009091/vanmoof-scooter-next-steps-parts-service-e-bikes)
  - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; the NYSE began delisting the e-scooter rental company in September 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)
  - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)
- - [A profile of PDD, the parent of Pinduoduo and Temu, which has grown rapidly since its founding in 2015 despite allegations over malware and counterfeit goods &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/231220/p5#a231220p5)
- - [Researchers say AI robot CyberRunner outmaneuvers humans in the maze game Labyrinth, in a breakthrough for AI beating humans at direct physical applications &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231220/p4#a231220p4)<!-- TECH:END -->
+ - [A profile of PDD, the parent of Pinduoduo and Temu, which has grown rapidly since its founding in 2015 despite allegations over malware and counterfeit goods &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/231220/p5#a231220p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

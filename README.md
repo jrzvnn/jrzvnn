@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The US FTC proposes expanded protections on children&#39;s personal data, including new limits on targeted advertising and push notifications directed at kids &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231220/p26#a231220p26)
  - [Apple loses attempt to halt Apple Watch sales ban](https://www.theverge.com/2023/12/20/24010011/apple-loses-attempt-halt-apple-watch-sales-ban-itc)
  - [Apple reportedly plans Vision Pro launch by February](https://www.theverge.com/2023/12/20/24010038/apple-vision-pro-launch-planned-february)
- - [Sources: Apple is ramping up production of Vision Pro, aiming for customer-bound units to be ready by the end of January and planning a retail debut in February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231220/p25#a231220p25)
- - [Q&amp;A with Meta CTO Andrew Bosworth on how generative AI is reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)<!-- TECH:END -->
+ - [Sources: Apple is ramping up Vision Pro production, aiming for customer-bound units to be ready by the end of January and a retail debut planned for February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231220/p25#a231220p25)
+ - [Q&amp;A with Meta CTO Andrew Bosworth on generative AI reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, Mistral AI, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

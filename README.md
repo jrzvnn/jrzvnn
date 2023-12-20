@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card, Apple Pay, and Wallet hit by outages](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
  - [Apple&#39;s System Status page reports an ongoing outage for Apple Card, Apple Cash, Apple Pay, and Wallet since 6:15AM ET; users report issues with IAPs and more &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231220/p18#a231220p18)
  - [New York’s Airbnb Ban Is Causing a Christmas Crunch](https://www.wired.com/story/airbnb-new-york-ban-christmas/)
  - [Pixelmator Pro update gets more speed, and opens Illustrator EPS files](https://appleinsider.com/articles/23/12/20/pixelmator-pro-update-gets-more-speed-and-opens-illustrator-eps-files?utm_medium=rss)
- - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)
- - [Best Stand Mixers &lpar;2023&rpar;: 5 Baking Gadgets](https://www.wired.com/gallery/best-stand-mixers/)<!-- TECH:END -->
+ - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

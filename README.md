@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Should the Apple Store be forced to sell lemons?](https://appleinsider.com/articles/23/12/20/should-the-apple-store-be-forced-to-sell-lemons?utm_medium=rss)
- - [Interviews with 20 Meta and Google staff say FTC consent decrees sometimes blocked data harvesting, but the agreements are now outdated and inadequate &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231220/p20#a231220p20)
+ - [Interviews with 20 current and former Meta and Google staff say FTC consent decrees blocked some user data harvesting, but they are now outdated and inadequate &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231220/p20#a231220p20)
  - [Apple Card, Apple Pay, and Wallet were hit by outages on Wednesday](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
  - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
  - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)<!-- TECH:END -->

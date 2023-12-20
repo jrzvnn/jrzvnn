@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 4K Blu-Ray Players &lpar;2023&rpar;: Sony, Panasonic and More](https://www.wired.com/gallery/best-4k-blu-ray-players/)
  - [Apple Card, Apple Pay, and Wallet hit by outages](https://appleinsider.com/articles/23/12/20/apple-card-apple-pay-and-wallet-hit-by-outages?utm_medium=rss)
  - [Apple&#39;s System Status page reports an ongoing outage for Apple Card, Apple Cash, Apple Pay, and Wallet since 6:15AM ET; users report issues with IAPs and more &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231220/p18#a231220p18)
- - [New York’s Airbnb Ban Is Causing a Christmas Crunch](https://www.wired.com/story/airbnb-new-york-ban-christmas/)
- - [Pixelmator Pro update gets more speed, and opens Illustrator EPS files](https://appleinsider.com/articles/23/12/20/pixelmator-pro-update-gets-more-speed-and-opens-illustrator-eps-files?utm_medium=rss)
- - [Best Cookbooks of 2023: Grilling, Baking, Fermenting, Cocktails](https://www.wired.com/gallery/best-cookbooks-2023/)<!-- TECH:END -->
+ - [Today&#39;s Best CD Rates, Dec. 20, 2023: APYs Top 5.5% – For Now     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-cd-rates-dec-20-2023/#ftag=CAD590a51e)
+ - [CD and Savings Rates Are High, but This Expert Warns Against Timing the Savings Market     - CNET](https://www.cnet.com/personal-finance/cd-and-savings-rates-are-high-but-this-expert-warns-against-timing-the-savings-market/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

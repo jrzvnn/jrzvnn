@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
  - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
  - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
+ - 👉 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)<!-- MEMES:END -->
 
 ---
 

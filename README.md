@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s immersive next-gen CarPlay will start with Porsche and Aston Martin](https://www.theverge.com/2023/12/20/24009697/apple-next-generation-wireless-carplay-porsche-aston-martin)
  - [Etsy, despite its guidelines, lists tons of AI-generated porn for sale found via simple searches; it removed deepfake porn of 55+ celebs after it was notified &lpar;Cyrus Farivar/Forbes&rpar;](http://www.techmeme.com/231220/p23#a231220p23)
  - [Belkin’s 3-in-1 charger with MagSafe has fallen to an all-time low](https://www.theverge.com/2023/12/20/24008159/belkin-boostcharge-pro-3-in-1-magsafe-charger-apple-mac-mini-m2-deal-sale)
  - [Apple shows off next generation CarPlay in Porsche and Aston Martin cars](https://appleinsider.com/articles/23/12/20/apple-shows-off-next-generation-carplay-in-porsche-and-aston-martin-cars?utm_medium=rss)
- - [UK Supreme Court rules AI is not an inventor](https://www.theverge.com/2023/12/20/24009524/uk-supreme-court-ai-inventor-copyright-patent)
- - [Aston Martin and Porsche preview bespoke interfaces for the next generation of Apple CarPlay, which integrates into all of the displays of the vehicle &lpar;Greg S. Fink/Car and Driver&rpar;](http://www.techmeme.com/231220/p22#a231220p22)<!-- TECH:END -->
+ - [UK Supreme Court rules AI is not an inventor](https://www.theverge.com/2023/12/20/24009524/uk-supreme-court-ai-inventor-copyright-patent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

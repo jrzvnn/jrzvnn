@@ -162,7 +162,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Activision CEO Bobby Kotick will step down on December 29; Activision leadership structure will be kept in place as it integrates into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
+ - [Memo: Activision Blizzard CEO Bobby Kotick is leaving Microsoft on December 29; Activision&#39;s leadership remains and is being integrated into Microsoft Gaming &lpar;The Verge&rpar;](http://www.techmeme.com/231220/p21#a231220p21)
  - [Microsoft announces more Xbox leadership changes as Activision’s Bobby Kotick departs](https://www.theverge.com/2023/12/20/24009129/microsoft-gaming-xbox-phil-spencer-bobby-kotick-activision-leadership-changes)
  - [Snow Sports Are Getting More Dangerous](https://www.wired.com/story/snow-sports-are-becoming-more-dangerous/)
  - [Beeper&#39;s CEO wants to sue Apple for blocking its iMessage bridge hack](https://appleinsider.com/articles/23/12/20/ceo-claims-beeper-makes-imessage-more-secure-may-sue-apple-for-blocking-it?utm_medium=rss)

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
  - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 💣 [Simple beauty](http://9gag.com/gag/aVbyRDP)
+ - 💣 [Title](http://9gag.com/gag/aBdBvwA)
  - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 👉 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)<!-- MEMES:END -->
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

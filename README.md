@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK Supreme Court rules that AI can&#39;t be a patent &quot;inventor&quot;, rejecting a bid to register patents by US computer scientist Stephen Thaler, in a landmark case &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231220/p9#a231220p9)
  - [The Biden administration has a new strategy for getting federal funds to grassroots environmental groups](https://www.theverge.com/2023/12/20/24008381/epa-grantmakers-harris-biden-administration-environmental-justice)
  - [A look at the tech sector&#39;s longevity obsession, with Jeff Bezos, Sam Altman, Larry Page, and others pledging millions of dollars to firms pursuing longer life &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/231220/p8#a231220p8)
  - [VanMoof 2.0: a new hope](https://www.theverge.com/24009091/vanmoof-scooter-next-steps-parts-service-e-bikes)
- - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; the NYSE began delisting the e-scooter rental company in September 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)
- - [OpenAI&#39;s deals with publishers are a hedge against a scenario in which scraping becomes harder, training material more expensive, and real-time data more scarce &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/231220/p6#a231220p6)<!-- TECH:END -->
+ - [Bird files for Chapter 11 bankruptcy in Florida, listing $100M-$500M in liabilities; the NYSE began delisting the e-scooter rental company in September 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231220/p7#a231220p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

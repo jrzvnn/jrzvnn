@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)
- - 😝 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [Yes](http://9gag.com/gag/aKEoOrb)
+ - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
  - 💣 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
  - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
 
 ---

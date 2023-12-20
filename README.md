@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
- - 😝 [Yes](http://9gag.com/gag/aKEoOrb)
- - 💣 [Got any cool phone wallpapers?](http://9gag.com/gag/a4oOV9Q)
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 💣 [Nobody is surprised](http://9gag.com/gag/aWG3R34)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
+ - 👉 [Yes](http://9gag.com/gag/aKEoOrb)<!-- MEMES:END -->
 
 ---
 

@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Media monitoring and analytics firm Meltwater raises ~$65M from PE firm Verdane for an 11% stake at a $592M valuation, down from $1B+ valuation in December 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231220/p3#a231220p3)
  - [NIST seeks public input by February 2, 2024 for setting guidelines in order to evaluate the safety of generative AI systems as directed by President Biden&#39;s EO &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231220/p2#a231220p2)
  - [Google introduces a range of new features and updates for Google Maps in India, including Live View walking navigation, ML-powered Address Descriptors, and more &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/231220/p1#a231220p1)
- - [&#39;Resident Evil 4&#39; now available on iPhone 15 Pro, iPad, &amp; Mac](https://appleinsider.com/articles/23/12/20/resident-evil-4-now-available-on-iphone-15-pro-ipad-mac?utm_medium=rss)
- - [An interview with Reddit CEO Steve Huffman about the moderator rebellion, limiting free access to the company&#39;s API, AI&#39;s role in Reddit&#39;s future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231219/p39#a231219p39)<!-- TECH:END -->
+ - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
+ - [&#39;Resident Evil 4&#39; now available on iPhone 15 Pro, iPad, &amp; Mac](https://appleinsider.com/articles/23/12/20/resident-evil-4-now-available-on-iphone-15-pro-ipad-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

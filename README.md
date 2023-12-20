@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro shipments rumored to start as soon as February](https://appleinsider.com/articles/23/12/20/apple-vision-pro-shipments-rumored-to-start-as-soon-as-february?utm_medium=rss)
+ - [Filing: the US ITC denies Apple&#39;s motion to stay an import and sales ban on the Watch Series 9 and Watch Ultra 2 while awaiting an appeal &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231220/p27#a231220p27)
  - [The US FTC proposes expanded protections on children&#39;s personal data, including new limits on targeted advertising and push notifications directed at kids &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/231220/p26#a231220p26)
  - [Apple loses attempt to halt Apple Watch sales ban](https://www.theverge.com/2023/12/20/24010011/apple-loses-attempt-halt-apple-watch-sales-ban-itc)
- - [Apple reportedly plans Vision Pro launch by February](https://www.theverge.com/2023/12/20/24010038/apple-vision-pro-launch-planned-february)
- - [Sources: Apple is ramping up Vision Pro production, aiming for customer-bound units to be ready by the end of January and a retail debut planned for February &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231220/p25#a231220p25)
- - [Q&amp;A with Meta CTO Andrew Bosworth on generative AI reshaping Meta, facial recognition, regulations, open source, Llama, AGI, recruiting, Mistral AI, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231220/p24#a231220p24)<!-- TECH:END -->
+ - [Apple reportedly plans Vision Pro launch by February](https://www.theverge.com/2023/12/20/24010038/apple-vision-pro-launch-planned-february)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

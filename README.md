@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to limit the types of election-related queries Bard and SGE can return responses for, starting in early 2024, to prepare for elections worldwide &lpar;Brady Snyder/Android Central&rpar;](http://www.techmeme.com/231219/p33#a231219p33)
- - [The Verge’s 2023 home tech holiday gift guide](https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums)
- - [Ransomware gang ‘unseizes’ its site and issues new threats after FBI takedown](https://www.theverge.com/2023/12/19/24008093/alphv-blackcat-ransomware-gang-site-seized-fbi-doj)
- - [25 Last-Minute Deals on Gifts That Will Arrive by Christmas](https://www.wired.com/story/last-minute-deals-and-gifts-2023/)
- - [NewsGuard: since May 2023, websites hosting AI-created fake news articles have grown from 49 to 600+; some post &quot;hundreds if not thousands of articles&quot; per day &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/231219/p32#a231219p32)<!-- TECH:END -->
+ - [The Verge’s 2023 gaming and entertainment holiday gift guide](https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories)
+ - [Harvey, which builds generative AI tools for law firms, raised a $80M Series B co-led by Elad Gil and Kleiner Perkins at a $715M valuation &lpar;Isabel Gottlieb/Bloomberg Law&rpar;](http://www.techmeme.com/231219/p35#a231219p35)
+ - [Rite Aid hit with five-year facial recognition ban over ‘reckless’ use](https://www.theverge.com/2023/12/19/24008516/rite-aid-facial-recognition-ban-ftc-five-years)
+ - [Pharmacy chain Rite Aid must stop using facial recognition for five years as part of a settlement with the US FTC, which said the tech falsely flagged customers &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231219/p34#a231219p34)
+ - [Epic won’t ban blockchain games over adults-only ratings](https://www.theverge.com/2023/12/19/24008602/epic-games-store-adults-only-blockchain-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 😝 [Yes](http://9gag.com/gag/aKEoOrb)
- - 💣 [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 👉 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)<!-- MEMES:END -->
+ - 😝 [The right makeup for a first date](http://9gag.com/gag/axoq41Y)
+ - 😝 [China!](http://9gag.com/gag/aVbyBdO)
+ - 💣 [Not the hero we need, but the one we deserve.](http://9gag.com/gag/aqeodMQ)
+ - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
+ - 👉 [Let&#39;s go!!!!](http://9gag.com/gag/aMEMWZW)<!-- MEMES:END -->
 
 ---
 

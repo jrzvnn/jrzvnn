@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
- - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 💣 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
  - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

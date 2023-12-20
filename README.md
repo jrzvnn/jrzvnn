@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony sold 50M PS5 consoles in the three years since its November 2020 launch, almost as fast as the PS4 reached 50M, and outsold Xbox by almost 3:1 in 2023 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231220/p17#a231220p17)
  - [Analysis of 2K misleading Israel-Hamas war posts on X, viewed 500M+ times: verified users posting debunked claims are thriving and Community Notes can&#39;t keep up &lpar;ProPublica&rpar;](http://www.techmeme.com/231220/p16#a231220p16)
  - [2023 in smartphones: it was the little things](https://www.theverge.com/23992429/smartphones-2023-foldables-photography-ai)
  - [God of War Ragnarök: Valhalla uses an old genre to tell a new story](https://www.theverge.com/24008099/god-of-war-ragnarok-valhalla-review)
- - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
- - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)<!-- TECH:END -->
+ - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

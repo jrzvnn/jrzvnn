@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aBdBvwA)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 💣 [Get a haircut later](http://9gag.com/gag/a5X0jyE)
+ - 😝 [I think Sony has just lost their collective shit! Resale of legally purchased physical game are no longer allowed](http://9gag.com/gag/arm784y)
+ - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
+ - 💣 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
  - 👉 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 

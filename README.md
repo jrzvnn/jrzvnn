@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 😝 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)
- - 💣 [Well x3](http://9gag.com/gag/a04yOyO)
+ - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
+ - 😝 [How many Courics would you estimate it weighs?](http://9gag.com/gag/aqeoDPR)
+ - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
  - 😝 [Behold! The OnePlus Nord factory is hustling for your biggest holiday surprise. \ud83c\udf81\ud83c\udf84](http://9gag.com/gag/aMEMyWW)
- - 👉 [Get a haircut later](http://9gag.com/gag/a5X0jyE)<!-- MEMES:END -->
+ - 👉 [Feels bad buddy](http://9gag.com/gag/aoKQnA3)<!-- MEMES:END -->
 
 ---
 

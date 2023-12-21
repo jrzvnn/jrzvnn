@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab the best deals on gifts you can still get before Christmas](https://appleinsider.com/articles/23/12/21/grab-the-best-deals-on-gifts-you-can-still-get-before-christmas?utm_medium=rss)
  - [Apple halts sales of the Apple Watch Series 9, Apple Watch Ultra 2 in its online store ahead of Dec 25 ban](https://appleinsider.com/articles/23/12/21/apple-halts-sales-of-the-apple-watch-series-9-apple-watch-ultra-2-in-its-online-store-ahead-of-dec-25-ban?utm_medium=rss)
  - [Apple officially stops selling its latest Apple Watches online](https://www.theverge.com/2023/12/21/24010965/apple-watch-series-9-ultra-2-removed-from-online-sale-store)
  - [Substack co-founder Hamish McKenzie defends not removing or demonetizing Nazi content after 200+ authors criticize it for &quot;platforming and monetizing Nazis&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231221/p20#a231221p20)
- - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Memo: Apple won&#39;t offer hardware swaps for out-of-warranty Watch models going back to Series 6 in the US during ITC&#39;s ban but will offer software-based repairs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231221/p19#a231221p19)<!-- TECH:END -->
+ - [The 37 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

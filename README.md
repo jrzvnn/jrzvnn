@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is already gearing up for the Apple Watch online sales ban](https://appleinsider.com/articles/23/12/21/apple-is-already-gearing-up-for-the-apple-watch-online-sales-ban?utm_medium=rss)
- - [The year in arthouse movies](https://www.theverge.com/23994888/best-arthouse-movies-2023)
- - [Microsoft plans to deprecate Windows Mixed Reality and remove the feature in a future OS update; most Windows VR headsets launched between 2017 and 2021 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231221/p11#a231221p11)
- - [Apple isn&#39;t behind on AI, it&#39;s looking ahead to the future of smartphones](https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones?utm_medium=rss)
- - [America’s Big AI Safety Plan Faces a Budget Crunch](https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/)<!-- TECH:END -->
+ - [The best app to download videos from any website on Mac in high quality](https://appleinsider.com/articles/23/12/21/the-best-app-to-download-videos-from-any-website-on-mac-in-high-quality?utm_medium=rss)
+ - [Meet Flip, the Viral Video App Giving Away Free Stuff](https://www.wired.com/story/flip-viral-video-app-shopping-free-stuff/)
+ - [Journalists Had &#39;No Idea&#39; About OpenAI&#39;s Deal to Use Their Stories](https://www.wired.com/story/openai-axel-springer-news-licensing-deal-whats-in-it-for-writers/)
+ - [Add 3 Indoor Ring Cams to Your Smart Home for Just $100 Today Only     - CNET](https://www.cnet.com/deals/add-3-indoor-ring-cams-to-your-smart-home-for-just-100-today-only/#ftag=CAD590a51e)
+ - [Apple is already gearing up for the Apple Watch online sales ban](https://appleinsider.com/articles/23/12/21/apple-is-already-gearing-up-for-the-apple-watch-online-sales-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

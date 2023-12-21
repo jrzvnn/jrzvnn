@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 😝 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 👉 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)<!-- MEMES:END -->
+ - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
+ - 😝 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 💣 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
+ - 😝 [THE HORROR, just imagine living like that!](http://9gag.com/gag/aEqmENN)
+ - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---
 

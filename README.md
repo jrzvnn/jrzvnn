@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
  - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
+ - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
 
 ---
 

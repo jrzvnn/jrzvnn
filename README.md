@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
  - [Email: Meta&#39;s India policy head, Shivnath Thukral, says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Chandra R. Srikanth/@chandrarsrikant&rpar;](http://www.techmeme.com/231221/p22#a231221p22)
  - [Discovery shows you’ve bought on PlayStation actually won’t be taken away](https://www.theverge.com/2023/12/21/24011168/sony-playstation-discovery-shows-not-removed)
  - [The hyperloop is dead for real this time](https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk)
- - [Android phones may finally be getting a battery health indicator](https://www.theverge.com/2023/12/21/24011265/android-battery-health-indicator-features)
- - [Best Apple Pencil Deals: Up to $40 Off Apple Styluses and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/6-best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
  - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 😝 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
- - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 

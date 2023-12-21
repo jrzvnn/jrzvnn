@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
+ - [New York’s attorney general says SiriusXM’s annoying cancellation process is actually illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
+ - [Apple’s 15-inch MacBook Air is $300 off and arrives in time for Christmas](https://www.theverge.com/2023/12/21/24009412/apple-macbook-air-15-baldurs-gate-3-playstation-anker-powercore-deal-sale)
  - [France&#39;s AMF watchdog gives Coinbase virtual asset service provider approval, as the company pushes deeper into Europe amid a rift with the US SEC &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231221/p14#a231221p14)
- - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)
- - [The US plans to launch a review of the US semiconductor supply chain in January to assess national security concerns about sourcing of legacy chips from China &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231221/p13#a231221p13)
- - [You Can Save Up to $400 on Select Purple Mattresses for the Holidays     - CNET](https://www.cnet.com/deals/you-can-save-up-to-400-on-select-purple-mattresses-for-the-holidays/#ftag=CAD590a51e)
- - [Best Internet Providers in Bloomington, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
- - 😝 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 👉 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)<!-- MEMES:END -->
+ - 😝 [What](http://9gag.com/gag/aBdBNKP)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 💣 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
+ - 😝 [When you make your own rules in life.](http://9gag.com/gag/aVby1Xd)
+ - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
 
 ---
 

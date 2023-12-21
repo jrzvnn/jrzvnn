@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US plans to launch a review of the US semiconductor supply chain in January to assess national security concerns about sourcing of legacy chips from China &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231221/p13#a231221p13)
  - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
  - [A year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
  - [Best MP3 Players, Portable Media Players and Digital Audio Players &lpar;2023&rpar;](https://www.wired.com/gallery/best-mp3-players/)
- - [The Best Dyson Vacuums &lpar;2023&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Microsoft is discontinuing Windows Mixed Reality](https://www.theverge.com/2023/12/21/24010787/microsoft-windows-mixed-reality-deprecated)<!-- TECH:END -->
+ - [The Best Dyson Vacuums &lpar;2023&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Movies of 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-of-2023/)
- - [Your Money Is Funding Fossil Fuels Without You Knowing It](https://www.wired.com/story/your-money-is-funding-fossil-fuels-without-you-knowing-it/)
- - [A Demographic Time Bomb Is About to Hit the Beef Industry](https://www.wired.com/story/beef-consumption-boomers/)
- - [The Race to Fill Crypto’s FTX-Shaped Hole](https://www.wired.com/story/ftx-new-crypto-exchanges-backpack/)
- - [Apple’s Tight Grip on iMessage Spurs Fresh Calls for an Antitrust Probe](https://www.wired.com/story/apple-imessage-department-justice-antitrust-probe/)<!-- TECH:END -->
+ - [Evan Blass leaks an purported countdown to Galaxy Unpacked on January 17, which says &quot;Galaxy AI is coming&quot;, and a spec sheet for the Galaxy S24, Plus, and Ultra &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231221/p10#a231221p10)
+ - [If you want blue iMessage bubbles that much, buy an iPhone](https://appleinsider.com/articles/23/12/21/if-you-want-blue-imessage-bubbles-that-much-buy-an-iphone?utm_medium=rss)
+ - [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak)
+ - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)
+ - [The 15 Best Movies of 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-of-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

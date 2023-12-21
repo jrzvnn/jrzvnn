@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/a9qgVoZ)
- - 💣 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)<!-- MEMES:END -->
+ - 😝 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
+ - 😝 [This is how you do it, not 3 hours to make a pot](http://9gag.com/gag/arm7dWd)
+ - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 👉 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)<!-- MEMES:END -->
 
 ---
 

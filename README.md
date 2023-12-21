@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF again.](http://9gag.com/gag/aeQ8dGW)
- - 😝 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
- - 💣 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)
- - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 👉 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)<!-- MEMES:END -->
+ - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
+ - 😝 [She&#39;s a keeper](http://9gag.com/gag/a9qgVoZ)
+ - 💣 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 👉 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)<!-- MEMES:END -->
 
 ---
 

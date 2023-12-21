@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
- - 😝 [Women](http://9gag.com/gag/amA4Og4)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 😝 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
- - 👉 [Hey bro, forget what&#39;s going on in the world for a moment, here&#39;s a dog doing a backflip.](http://9gag.com/gag/avQKVy5)<!-- MEMES:END -->
+ - 😝 [Gays for palestine met palestinians.](http://9gag.com/gag/abvnoQE)
+ - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 💣 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
 

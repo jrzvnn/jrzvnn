@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 😝 [I was raised in Finland as a Muslim, but I am glad I woke up and managed to integrate and adopt Western values. I wish more Muslims would wake up and abandon their iron age beliefs.](http://9gag.com/gag/a9qgerW)
+ - 😝 [Again disney ...Athena from Percy Jackson and the Olympians...](http://9gag.com/gag/aBdBMLP)
+ - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 👉 [Man from future](http://9gag.com/gag/aZDOXn6)<!-- MEMES:END -->
 
 ---
 

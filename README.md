@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple &amp; Google close to rolling out final Bluetooth tracker misuse standard](https://appleinsider.com/articles/23/12/21/apple-google-close-to-rolling-out-final-bluetooth-tracker-misuse-standard?utm_medium=rss)
  - [This unexpectedly charming gadget saved my Christmas lights — and my sanity](https://www.theverge.com/2023/12/21/24009962/lightkeeper-pro-christmas-light-tool-voltage-detector)
  - [I upgraded my Hue Bridge to Matter, so you don’t have to](https://www.theverge.com/24009519/hue-bridge-matter-upgrade-problems)
  - [How to set up your Philips Hue lights with Matter](https://www.theverge.com/24009423/philips-hue-lights-matter-set-up-how-to)
- - [A UK judge sentences Arion Kurtaj, the 18-year-old who leaked GTA VI code and hacked Nvidia, to a secure hospital until a mental health tribunal lets him leave &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231221/p15#a231221p15)
- - [HelloFresh Is Slashing Subscription Costs and Throwing In Freebies for New Customers     - CNET](https://www.cnet.com/deals/hellofresh-is-slashing-subscription-costs-and-throwing-in-freebies-for-new-customers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UK judge sentences Arion Kurtaj, the 18-year-old who leaked GTA VI code and hacked Nvidia, to a secure hospital until a mental health tribunal lets him leave &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231221/p15#a231221p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

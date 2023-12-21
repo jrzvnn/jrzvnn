@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gays for palestine met palestinians.](http://9gag.com/gag/abvnoQE)
- - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
- - 💣 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
+ - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 💣 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
 

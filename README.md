@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the first annual VTuber Awards, a five-hour, live awards show for virtual YouTubers, hosted from an enclosed green box in WePlay&#39;s LA studio &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231220/p32#a231220p32)
  - [Scammers are impersonating Binance, zkSync, and other crypto accounts on X by creating fake URLs to promote scams, giveaways, and more to steal crypto and NFTs &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231220/p31#a231220p31)
  - [Best Smart Home Deals: Save Big on Smart Bulbs, Robot Vacuums, Thermostats and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
  - [Sources: Anthropic is in talks to raise $750M in a round led by Menlo Ventures at a $15B valuation, tripling from spring 2023; its final valuation may top $18B &lpar;The Information&rpar;](http://www.techmeme.com/231220/p30#a231220p30)
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [This Is How Much Money Solar Panels Can Save You     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-money-do-solar-panels-save/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

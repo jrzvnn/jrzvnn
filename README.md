@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
  - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
- - 👉 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)<!-- MEMES:END -->
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 💣 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 👉 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)<!-- MEMES:END -->
 
 ---
 

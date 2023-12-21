@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
  - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 💣 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
+ - 😝 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
+ - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 👉 [Didnt learn to count to 10](http://9gag.com/gag/ajVev10)<!-- MEMES:END -->
 
 ---
 

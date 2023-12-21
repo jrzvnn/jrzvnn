@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
  - 😝 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 💣 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
- - 😝 [THE HORROR, just imagine living like that!](http://9gag.com/gag/aEqmENN)
- - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
+ - 💣 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
+ - 😝 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 

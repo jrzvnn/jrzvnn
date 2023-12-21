@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
  - 💣 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
+ - 😝 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

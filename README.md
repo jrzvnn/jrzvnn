@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Privacy campaigners say the UK quietly introduced legislation to let police run facial recognition searches on 50M+ driving license holders without oversight &lpar;Daniel Boffey/The Guardian&rpar;](http://www.techmeme.com/231221/p9#a231221p9)
  - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
  - [Worldcoin developer Tools for Humanity no longer offers its Orb-verification service in India, Brazil, and France, months after a &quot;limited time access&quot; launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/231221/p8#a231221p8)
- - [In five experiments, encouraging people to use search engines to evaluate the veracity of fake news posts increased the likelihood of them being rated as true &lpar;Lauren Leffer/Scientific American&rpar;](http://www.techmeme.com/231221/p7#a231221p7)
- - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)<!-- TECH:END -->
+ - [Smile Bright With Snow&#39;s Holiday Sale On All Things Oral Care     - CNET](https://www.cnet.com/deals/smile-bright-with-snows-holiday-sale-on-all-things-oral-care/#ftag=CAD590a51e)
+ - [In five experiments, encouraging people to use search engines to evaluate the veracity of fake news posts increased the likelihood of them being rated as true &lpar;Lauren Leffer/Scientific American&rpar;](http://www.techmeme.com/231221/p7#a231221p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

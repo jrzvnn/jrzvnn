@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What](http://9gag.com/gag/aBdBNKP)
- - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 😝 [WTF again.](http://9gag.com/gag/aeQ8dGW)
+ - 😝 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
  - 💣 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)
- - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
- - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
+ - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 👉 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)<!-- MEMES:END -->
 
 ---
 

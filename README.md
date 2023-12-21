@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - 😝 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)
+ - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)<!-- MEMES:END -->
+ - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 ---
 

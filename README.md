@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [A US appeals court finalizes a mandate for the forfeiture of 69,370 BTC and other crypto connected to Silk Road, handed over by a hacker named &quot;Individual X&quot; &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p4#a231221p4)
  - [NYC-based Vestwell, a SaaS workplace savings and investment management platform, raised a $125M Series D led by Lightspeed, sources say at a ~$1B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231221/p3#a231221p3)
  - [Samsung plans to invest ~$280M over five years in a chip packaging research facility in Yokohama, Japan and will receive up to ~$140M in government subsidies &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p2#a231221p2)
- - [Apple AI researchers publish papers on using human gaussian splats to generate animated 3D avatars and deploying LLMs on devices with limited memory &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231221/p1#a231221p1)<!-- TECH:END -->
+ - [Best Internet Providers in Clovis, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-clovis-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

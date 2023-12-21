@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UK judge sentences Arion Kurtaj, the 18-year-old who leaked GTA VI code and hacked Nvidia, to a secure hospital until a mental health tribunal lets him leave &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/231221/p15#a231221p15)
  - [Beeper has more ridiculous work-arounds for its iMessage bridge hack](https://appleinsider.com/articles/23/12/21/beeper-has-more-ridiculous-work-arounds-for-its-imessage-bridge-hack?utm_medium=rss)
  - [Daily deals Dec. 21: $999 15-inch MacBook Air, $249 iPad, $199 AirPods Pro 2 USB-C, more](https://appleinsider.com/articles/23/12/21/daily-deals-dec-21-999-15-inch-macbook-air-249-ipad-199-airpods-pro-2-usb-c-more?utm_medium=rss)
  - [How Donald Trump and Elon Musk killed Twitter, with Marty Baron and Zoe Schiffer](https://www.theverge.com/24010916/twitter-x-donald-trump-elon-musk-marty-baron-zoe-schiffer-decoder-interview)
- - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
- - [New York’s attorney general says SiriusXM’s annoying cancellation process is actually illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)<!-- TECH:END -->
+ - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

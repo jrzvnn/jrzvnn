@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The year in arthouse movies](https://www.theverge.com/23994888/best-arthouse-movies-2023)
+ - [Microsoft plans to deprecate Windows Mixed Reality and remove the feature in a future OS update; most Windows VR headsets launched between 2017 and 2021 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231221/p11#a231221p11)
  - [Apple isn&#39;t behind on AI, it&#39;s looking ahead to the future of smartphones](https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones?utm_medium=rss)
  - [America’s Big AI Safety Plan Faces a Budget Crunch](https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/)
- - [Samsung HW-Q800C Soundbar Review: Standout Midrange Performance](https://www.wired.com/review/samsung-hw-q800c/)
- - [The 8 Best Video Games of 2023](https://www.wired.com/story/video-games-of-the-year-2023/)
- - [We Have Some Things to Recommend to You](https://www.wired.com/story/gadget-lab-podcast-625/)<!-- TECH:END -->
+ - [Samsung HW-Q800C Soundbar Review: Standout Midrange Performance](https://www.wired.com/review/samsung-hw-q800c/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

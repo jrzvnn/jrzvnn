@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fml...](http://9gag.com/gag/anzPW1L)
  - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 💣 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [Assault attempt, 1 injured](http://9gag.com/gag/aEqmEPK)
+ - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
  - 👉 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)<!-- MEMES:END -->
 
 ---

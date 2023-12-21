@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Teen GTA VI hacker sentenced to life in a secure hospital](https://www.theverge.com/2023/12/21/24011153/gta-vi-hacker-lapsus-sentencing-hospital-prison)
  - [The Apple-Masimo fight is a dramatic demonstration of the collision of different IP regimes when tech companies like Apple move into new markets like healthcare &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/231221/p18#a231221p18)
- - [American automakers are losing the race to make more fuel-efficient vehicles](https://www.theverge.com/2023/12/21/24010938/car-suv-truck-fuel-efficiency-emissions-epa-trends-report)
- - [Even after a tumultuous year, Apple TV+ doubled its viewing hours in 2023](https://appleinsider.com/articles/23/12/21/even-after-a-tumultuous-year-apple-tv-doubled-its-viewing-hours-in-2023?utm_medium=rss)
- - [Prometheum says it received the first-ever FINRA approval to offer digital asset securities clearing services through its special purpose broker dealer license &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p17#a231221p17)
- - [Cisco acquires cloud-native security and networking startup Isovalent, which had raised $69M and has helped develop open-source projects eBPF and Cilium &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)<!-- TECH:END -->
+ - [25 Work From Home Gift Ideas: Chairs, Desks, Webcams, and Peripherals](https://www.wired.com/gallery/work-from-home-gift-ideas/)
+ - [American automakers are losing the race to make more fuel-efficient vehicles](https://www.theverge.com/2023/12/21/24010938/car-suv-truck-fuel-efficiency-emissions-epa-trends-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

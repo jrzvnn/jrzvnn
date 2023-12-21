@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evan Blass leaks an purported countdown to Galaxy Unpacked on January 17, which says &quot;Galaxy AI is coming&quot;, and a spec sheet for the Galaxy S24, Plus, and Ultra &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231221/p10#a231221p10)
- - [If you want blue iMessage bubbles that much, buy an iPhone](https://appleinsider.com/articles/23/12/21/if-you-want-blue-imessage-bubbles-that-much-buy-an-iphone?utm_medium=rss)
- - [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak)
- - [How to turn photos into iMessage stickers with iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-photos-into-imessage-stickers-with-ios-17?utm_medium=rss)
- - [The 15 Best Movies of 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-of-2023/)<!-- TECH:END -->
+ - [Apple isn&#39;t behind on AI, it&#39;s looking ahead to the future of smartphones](https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones?utm_medium=rss)
+ - [America’s Big AI Safety Plan Faces a Budget Crunch](https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/)
+ - [Samsung HW-Q800C Soundbar Review: Standout Midrange Performance](https://www.wired.com/review/samsung-hw-q800c/)
+ - [The 8 Best Video Games of 2023](https://www.wired.com/story/video-games-of-the-year-2023/)
+ - [We Have Some Things to Recommend to You](https://www.wired.com/story/gadget-lab-podcast-625/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

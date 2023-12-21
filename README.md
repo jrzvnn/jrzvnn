@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect welding doesn&#39;t exi...](http://9gag.com/gag/aNwEGeb)
- - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 💣 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
+ - 😝 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
+ - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
  - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
+ - 👉 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)<!-- MEMES:END -->
 
 ---
 

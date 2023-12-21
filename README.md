@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprised about the lack of coverage on this](http://9gag.com/gag/aBdBjL1)
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
+ - 😝 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 💣 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
+ - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
+ - 👉 [Hans?!...](http://9gag.com/gag/az2pDej)<!-- MEMES:END -->
 
 ---
 

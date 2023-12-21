@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sickened but curious](http://9gag.com/gag/arm7zod)
- - 😝 [13-year-old Wiam, a Muslim girl, married to 29-year-old Muhammad](http://9gag.com/gag/a4oOBEv)
- - 💣 [Never underestimate the intelligent design of this planet](http://9gag.com/gag/a4oOVYA)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
+ - 💣 [Shortest woman in the world, 62.8 cm, 30 years old](http://9gag.com/gag/ay2jZ78)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
  - 👉 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)<!-- MEMES:END -->
 
 ---

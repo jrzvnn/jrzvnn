@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Behold! Someone is investing in a podcast company](https://www.theverge.com/2023/12/21/24011567/podcast-podimo-funding-siriusxm-lawsuit)
  - [US consumer groups and lawmakers say Klarna, Affirm, Afterpay, and other BNPL services may encourage younger and lower-income Americans to take on too much debt &lpar;New York Times&rpar;](http://www.techmeme.com/231221/p23#a231221p23)
  - [The Apple Watch ban is preventing repairs of many models](https://www.theverge.com/2023/12/21/24011536/apple-watch-ban-series-repairs-replacements)
- - [Email: Meta&#39;s India policy head, Shivnath Thukral, says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Chandra R. Srikanth/@chandrarsrikant&rpar;](http://www.techmeme.com/231221/p22#a231221p22)
- - [Discovery shows you’ve bought on PlayStation actually won’t be taken away](https://www.theverge.com/2023/12/21/24011168/sony-playstation-discovery-shows-not-removed)<!-- TECH:END -->
+ - [Best 3D Printer Deals: 11 Deals to Get You Printing ASAP     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Email: Meta&#39;s India policy head, Shivnath Thukral, says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Chandra R. Srikanth/@chandrarsrikant&rpar;](http://www.techmeme.com/231221/p22#a231221p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

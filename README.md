@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
  - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
  - 💣 [German kid humiliated and beaten. Normal school day in Germany](http://9gag.com/gag/aYVXZA7)
- - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
- - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
+ - 😝 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

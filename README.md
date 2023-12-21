@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No sauce for you](http://9gag.com/gag/a8qxz9Z)
- - 😝 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
- - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand](http://9gag.com/gag/abvnEnB)
+ - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 💣 [German kid humiliated and beaten. Normal school day in Germany](http://9gag.com/gag/aYVXZA7)
+ - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
+ - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
 
 ---
 

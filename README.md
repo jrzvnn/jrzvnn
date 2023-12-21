@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Aurora, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
  - [Get an M2 MacBook Air 16GB for $1,099 with free next day delivery](https://appleinsider.com/articles/23/12/21/get-an-m2-macbook-air-16gb-for-1099-with-free-next-day-delivery?utm_medium=rss)
  - [Apple Savings APY increases from 4.15% to 4.25%](https://appleinsider.com/articles/23/12/21/apple-savings-apy-increases-from-415-to-425?utm_medium=rss)
  - [A look at the first annual VTuber Awards, a five-hour, live awards show for virtual YouTubers, hosted from an enclosed green box in WePlay&#39;s LA studio &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231220/p32#a231220p32)
- - [Scammers are impersonating Binance, zkSync, and other crypto accounts on X by creating fake URLs to promote scams, giveaways, and more to steal crypto and NFTs &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231220/p31#a231220p31)
- - [Best Smart Home Deals: Save Big on Smart Bulbs, Robot Vacuums, Thermostats and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Monitor Deals: Big Savings on Samsung, LG, MSI and More     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

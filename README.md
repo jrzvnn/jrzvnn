@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
- - 😝 [Hey bro, forget what&#39;s going on in the world for a moment, here&#39;s a dog doing a backflip.](http://9gag.com/gag/avQKVy5)
- - 💣 [The art of hustle.](http://9gag.com/gag/a7qRmO2)
+ - 😝 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 💣 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [A chubby wombat comes to the man every evening to eat and spend the night, and in the morning he always goes about his important business.](http://9gag.com/gag/amA4KEo)<!-- MEMES:END -->
+ - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
 
 ---
 

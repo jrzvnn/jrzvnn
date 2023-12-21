@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
- - 😝 [This one stuck with me. :/](http://9gag.com/gag/adPD4v9)
- - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
- - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Didnt learn to count to 10](http://9gag.com/gag/ajVev10)<!-- MEMES:END -->
+ - 😝 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 💣 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
+ - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 ---
 

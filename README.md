@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was raised in Finland as a Muslim, but I am glad I woke up and managed to integrate and adopt Western values. I wish more Muslims would wake up and abandon their iron age beliefs.](http://9gag.com/gag/a9qgerW)
- - 😝 [Whoever posted this ... thank you.](http://9gag.com/gag/avQKwrd)
- - 💣 [The safest country on the earth.](http://9gag.com/gag/ajVejbR)
+ - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Man from future](http://9gag.com/gag/aZDOXn6)<!-- MEMES:END -->
+ - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
 
 ---
 

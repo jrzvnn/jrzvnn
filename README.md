@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe&#39;s net revenue reached ~$1B in Q3 2023; the company generated $150M+ in operating income in Q3 and nearly $200M from January to September 2023 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231221/p12#a231221p12)
  - [The best app to download videos from any website on Mac in high quality](https://appleinsider.com/articles/23/12/21/the-best-app-to-download-videos-from-any-website-on-mac-in-high-quality?utm_medium=rss)
  - [Meet Flip, the Viral Video App Giving Away Free Stuff](https://www.wired.com/story/flip-viral-video-app-shopping-free-stuff/)
  - [Journalists Had &#39;No Idea&#39; About OpenAI&#39;s Deal to Use Their Stories](https://www.wired.com/story/openai-axel-springer-news-licensing-deal-whats-in-it-for-writers/)
- - [Add 3 Indoor Ring Cams to Your Smart Home for Just $100 Today Only     - CNET](https://www.cnet.com/deals/add-3-indoor-ring-cams-to-your-smart-home-for-just-100-today-only/#ftag=CAD590a51e)
  - [Apple is already gearing up for the Apple Watch online sales ban](https://appleinsider.com/articles/23/12/21/apple-is-already-gearing-up-for-the-apple-watch-online-sales-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

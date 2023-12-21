@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beeper has more ridiculous work-arounds for its iMessage bridge hack](https://appleinsider.com/articles/23/12/21/beeper-has-more-ridiculous-work-arounds-for-its-imessage-bridge-hack?utm_medium=rss)
+ - [Daily deals Dec. 21: $999 15-inch MacBook Air, $249 iPad, $199 AirPods Pro 2 USB-C, more](https://appleinsider.com/articles/23/12/21/daily-deals-dec-21-999-15-inch-macbook-air-249-ipad-199-airpods-pro-2-usb-c-more?utm_medium=rss)
+ - [How Donald Trump and Elon Musk killed Twitter, with Marty Baron and Zoe Schiffer](https://www.theverge.com/24010916/twitter-x-donald-trump-elon-musk-marty-baron-zoe-schiffer-decoder-interview)
  - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
- - [New York’s attorney general says SiriusXM’s annoying cancellation process is actually illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
- - [Apple’s 15-inch MacBook Air is $300 off and arrives in time for Christmas](https://www.theverge.com/2023/12/21/24009412/apple-macbook-air-15-baldurs-gate-3-playstation-anker-powercore-deal-sale)
- - [France&#39;s AMF watchdog gives Coinbase virtual asset service provider approval, as the company pushes deeper into Europe amid a rift with the US SEC &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231221/p14#a231221p14)
- - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New York’s attorney general says SiriusXM’s annoying cancellation process is actually illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

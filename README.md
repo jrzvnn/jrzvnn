@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 😝 [Got this from a sweet waitress.](http://9gag.com/gag/amA4Kdv)
- - 💣 [German kid humiliated and beaten. Normal school day in Germany](http://9gag.com/gag/aYVXZA7)
- - 😝 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
- - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
+ - 😝 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
+ - 😝 [Women](http://9gag.com/gag/amA4Og4)
+ - 💣 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [Hey bro, forget what&#39;s going on in the world for a moment, here&#39;s a dog doing a backflip.](http://9gag.com/gag/avQKVy5)
+ - 👉 [He is not wrong!](http://9gag.com/gag/ay2jm0b)<!-- MEMES:END -->
 
 ---
 

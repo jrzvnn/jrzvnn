@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy campaigners say the UK quietly introduced legislation to let police run facial recognition searches on 50M+ driving license holders without oversight &lpar;Daniel Boffey/The Guardian&rpar;](http://www.techmeme.com/231221/p9#a231221p9)
- - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
- - [Worldcoin developer Tools for Humanity no longer offers its Orb-verification service in India, Brazil, and France, months after a &quot;limited time access&quot; launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/231221/p8#a231221p8)
- - [Smile Bright With Snow&#39;s Holiday Sale On All Things Oral Care     - CNET](https://www.cnet.com/deals/smile-bright-with-snows-holiday-sale-on-all-things-oral-care/#ftag=CAD590a51e)
- - [In five experiments, encouraging people to use search engines to evaluate the veracity of fake news posts increased the likelihood of them being rated as true &lpar;Lauren Leffer/Scientific American&rpar;](http://www.techmeme.com/231221/p7#a231221p7)<!-- TECH:END -->
+ - [The 15 Best Movies of 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-of-2023/)
+ - [Your Money Is Funding Fossil Fuels Without You Knowing It](https://www.wired.com/story/your-money-is-funding-fossil-fuels-without-you-knowing-it/)
+ - [A Demographic Time Bomb Is About to Hit the Beef Industry](https://www.wired.com/story/beef-consumption-boomers/)
+ - [The Race to Fill Crypto’s FTX-Shaped Hole](https://www.wired.com/story/ftx-new-crypto-exchanges-backpack/)
+ - [Apple’s Tight Grip on iMessage Spurs Fresh Calls for an Antitrust Probe](https://www.wired.com/story/apple-imessage-department-justice-antitrust-probe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

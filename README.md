@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to recognize a heavy player](http://9gag.com/gag/a9qgNvZ)
- - 😝 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
- - 💣 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
- - 😝 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
- - 👉 [Those who know know](http://9gag.com/gag/aKEoNZ3)<!-- MEMES:END -->
+ - 😝 [What](http://9gag.com/gag/aBdBNKP)
+ - 😝 [How the tents have been folded](http://9gag.com/gag/aKEonPZ)
+ - 💣 [Birmingham, UK. The British are shopping at the Christmas sales.](http://9gag.com/gag/anzPdVb)
+ - 😝 [They can watch the video](http://9gag.com/gag/a4oOxbQ)
+ - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
 
 ---
 

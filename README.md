@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s AMF watchdog gives Coinbase virtual asset service provider approval, as the company pushes deeper into Europe amid a rift with the US SEC &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231221/p14#a231221p14)
+ - [Best Internet Providers in Lakewood, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lakewood-co/#ftag=CAD590a51e)
  - [The US plans to launch a review of the US semiconductor supply chain in January to assess national security concerns about sourcing of legacy chips from China &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231221/p13#a231221p13)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [A year in art on The Verge](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup)
- - [Best MP3 Players, Portable Media Players and Digital Audio Players &lpar;2023&rpar;](https://www.wired.com/gallery/best-mp3-players/)
- - [The Best Dyson Vacuums &lpar;2023&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
+ - [You Can Save Up to $400 on Select Purple Mattresses for the Holidays     - CNET](https://www.cnet.com/deals/you-can-save-up-to-400-on-select-purple-mattresses-for-the-holidays/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bloomington, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

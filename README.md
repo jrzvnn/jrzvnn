@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Surprised about the lack of coverage on this](http://9gag.com/gag/aBdBjL1)
+ - 😝 [Hans?!...](http://9gag.com/gag/az2pDej)
+ - 💣 [Nothing and everything](http://9gag.com/gag/aBdBjA2)
  - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 💣 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 👉 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
+ - 👉 [When you use pronouns in your job application](http://9gag.com/gag/abvnmz9)<!-- MEMES:END -->
 
 ---
 

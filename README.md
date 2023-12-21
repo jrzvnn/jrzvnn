@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How excess heat from Meta&#39;s hyperscale data center in Odense, opened in 2020, helps heat roughly 11,000 homes in the Danish city &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/231221/p6#a231221p6)
  - [Most big brands haven&#39;t yet created AI-specific roles despite many marketers fearing AI will change their jobs; Coca-Cola promoted two execs to new AI roles &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231221/p5#a231221p5)
  - [X, Formerly Known As Twitter, Suffers Global Outage     - CNET](https://www.cnet.com/tech/mobile/x-formerly-known-as-twitter-suffers-global-outage/#ftag=CAD590a51e)
  - [X was down](https://www.theverge.com/2023/12/21/24010656/x-is-down-twitter-outage)
- - [A US appeals court finalizes a mandate for the forfeiture of 69,370 BTC and other crypto connected to Silk Road, handed over by a hacker named &quot;Individual X&quot; &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p4#a231221p4)
- - [NYC-based Vestwell, a SaaS workplace savings and investment management platform, raised a $125M Series D led by Lightspeed, sources say at a ~$1B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/231221/p3#a231221p3)<!-- TECH:END -->
+ - [A US appeals court finalizes a mandate for the forfeiture of 69,370 BTC and other crypto connected to Silk Road, handed over by a hacker named &quot;Individual X&quot; &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p4#a231221p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

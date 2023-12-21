@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Android phones may finally be getting a battery health indicator](https://www.theverge.com/2023/12/21/24011265/android-battery-health-indicator-features)
+ - [Best Apple Pencil Deals: Up to $40 Off Apple Styluses and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Apple won&#39;t offer Apple Watch service replacements on out of warranty devices](https://appleinsider.com/articles/23/12/21/apple-wont-offer-apple-watch-service-replacements-on-out-of-warranty-devices?utm_medium=rss)
  - [Apple stops selling the Apple Watch Series 9 and Apple Watch Ultra 2 in its online store in the US, days before the ITC&#39;s Watch import ban goes into effect &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231221/p21#a231221p21)
- - [Grab the best deals on gifts you can still get before Christmas](https://appleinsider.com/articles/23/12/21/grab-the-best-deals-on-gifts-you-can-still-get-before-christmas?utm_medium=rss)
- - [Apple halts sales of the Apple Watch Series 9, Apple Watch Ultra 2 in its online store ahead of Dec 25 ban](https://appleinsider.com/articles/23/12/21/apple-halts-sales-of-the-apple-watch-series-9-apple-watch-ultra-2-in-its-online-store-ahead-of-dec-25-ban?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Stops Selling Its Newest Watches Online. What to Know     - CNET](https://www.cnet.com/tech/mobile/apple-to-halt-sales-of-its-newest-apple-watches-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

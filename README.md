@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung plans to invest ~$280M over five years in a chip packaging research facility in Yokohama, Japan and will receive up to ~$140M in government subsidies &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p2#a231221p2)
  - [Apple AI researchers publish papers on using human gaussian splats to generate animated 3D avatars and deploying LLMs on devices with limited memory &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231221/p1#a231221p1)
  - [Email: Meta&#39;s India policy head Shivnath Thukral says the government could choose to apply its proposed telecom law to Meta&#39;s OTT services at a &quot;future date&quot; &lpar;Moneycontrol&rpar;](http://www.techmeme.com/231220/p34#a231220p34)
  - [India&#39;s lower house of parliament passes the Telecommunication Bill, 2023, despite a lack of clarity on whether online services will fall under the bill&#39;s scope &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/231220/p33#a231220p33)
- - [Best Internet Providers in Aurora, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
- - [Get an M2 MacBook Air 16GB for $1,099 with free next day delivery](https://appleinsider.com/articles/23/12/21/get-an-m2-macbook-air-16gb-for-1099-with-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Aurora, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

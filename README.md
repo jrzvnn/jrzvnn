@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco acquires cloud-native security and networking startup Isovalent, which helped develop open source projects eBPF and Cilium and has raised $69M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)
+ - [Prometheum says it received the first-ever FINRA approval to offer digital asset securities clearing services through its special purpose broker dealer license &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231221/p17#a231221p17)
+ - [Cisco acquires cloud-native security and networking startup Isovalent, which had raised $69M and has helped develop open-source projects eBPF and Cilium &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231221/p16#a231221p16)
  - [Bird may be bankrupt, but shared micromobility is doing just fine](https://www.theverge.com/2023/12/21/24010902/bird-bankrupt-electric-scooter-micromobility-ridership-future)
- - [Apple &amp; Google close to rolling out final Bluetooth tracker misuse standard](https://appleinsider.com/articles/23/12/21/apple-google-close-to-rolling-out-final-bluetooth-tracker-misuse-standard?utm_medium=rss)
- - [This unexpectedly charming gadget saved my Christmas lights — and my sanity](https://www.theverge.com/2023/12/21/24009962/lightkeeper-pro-christmas-light-tool-voltage-detector)
- - [I upgraded my Hue Bridge to Matter, so you don’t have to](https://www.theverge.com/24009519/hue-bridge-matter-upgrade-problems)<!-- TECH:END -->
+ - [Fastest VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)
+ - [Apple &amp; Google close to rolling out final Bluetooth tracker misuse standard](https://appleinsider.com/articles/23/12/21/apple-google-close-to-rolling-out-final-bluetooth-tracker-misuse-standard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

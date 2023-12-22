@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy&#39;s Apple sale slashes prices by up to $300 with store pickup for Christmas](https://appleinsider.com/articles/23/12/22/best-buys-apple-sale-slashes-prices-by-up-to-300-with-store-pickup-for-christmas?utm_medium=rss)
+ - [A Google Play Services update suggests Google&#39;s file-sharing feature Nearby Share could be rebranded to Quick Share, the name Samsung uses for a similar tool &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/231222/p20#a231222p20)
  - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
  - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
- - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)
- - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)
- - [Sources: OpenAI is in early talks to raise funding at a $100B+ valuation, and discussed raising between $8B and $10B from Abu Dhabi-based G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)<!-- TECH:END -->
+ - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

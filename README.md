@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
  - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 💣 [The compliment](http://9gag.com/gag/anzPwBB)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
+ - 👉 [Shoutout to the brave police officers trying to get the shooter to focus on them instead of civilians.](http://9gag.com/gag/ap9Zw6M)<!-- MEMES:END -->
 
 ---
 

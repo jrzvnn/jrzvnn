@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 😝 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 💣 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 😝 [The compliment](http://9gag.com/gag/anzPwBB)
+ - 💣 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [The compliment](http://9gag.com/gag/anzPwBB)<!-- MEMES:END -->
+ - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
 
 ---
 

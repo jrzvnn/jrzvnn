@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
  - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
- - 💣 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 💣 [Javier](http://9gag.com/gag/ay2jwR8)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [How has Disney not learned their lesson yet?](http://9gag.com/gag/adPDrXN)<!-- MEMES:END -->
+ - 👉 [The tiger showing how many ways it could eat her](http://9gag.com/gag/aeQ8yP5)<!-- MEMES:END -->
 
 ---
 

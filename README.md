@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 💣 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
 
 ---
 

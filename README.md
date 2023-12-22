@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insomniac&#39;s hacked files show challenges it faces juggling teams, timelines, and budgets amid possible Sony cuts; Spider-Man 2 cost ~$300M, 3x 2018&#39;s Spider-Man &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/231221/p24#a231221p24)
  - [Chrome’s password safety tool will now automatically run in the background](https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background)
  - [Apple Store Infinite Loop is closing for good January 20](https://appleinsider.com/articles/23/12/21/apple-store-infinite-loop-is-closing-for-good-january-20?utm_medium=rss)
  - [Behold! Someone is investing in a podcast company](https://www.theverge.com/2023/12/21/24011567/podcast-podimo-funding-siriusxm-lawsuit)
- - [US consumer groups and lawmakers say Klarna, Affirm, Afterpay, and other BNPL services may encourage younger and lower-income Americans to take on too much debt &lpar;New York Times&rpar;](http://www.techmeme.com/231221/p23#a231221p23)
- - [The Apple Watch ban is preventing repairs of many models](https://www.theverge.com/2023/12/21/24011536/apple-watch-ban-series-repairs-replacements)<!-- TECH:END -->
+ - [US consumer groups and lawmakers say Klarna, Affirm, Afterpay, and other BNPL services may encourage younger and lower-income Americans to take on too much debt &lpar;New York Times&rpar;](http://www.techmeme.com/231221/p23#a231221p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

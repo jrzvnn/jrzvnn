@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
- - 😝 [It\u2019s Chromium, all the way down](http://9gag.com/gag/a04y3eO)
- - 💣 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 😝 [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
+ - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 💣 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
+ - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [The future of clean hydrogen in the US could hinge on a new tax credit](https://www.theverge.com/2023/12/22/24012141/hydrogen-tax-credit-45v-biden-treasury-irs-clean-energy)
  - [Microsoft just paid $76 million for a Wisconsin pumpkin farm](https://www.theverge.com/2023/12/22/24012534/microsoft-wisconsin-pumpkin-farm-foxconn-76-million-mount-pleasant)
- - [&#39;Short Sleep:&#39; How Losing Even a Little Rest Adds Up Over Time     - CNET](https://www.cnet.com/health/sleep/short-sleep-how-losing-even-a-little-rest-adds-up-over-time/#ftag=CAD590a51e)
- - [What Is a Flexible Spending Account and How Does It Work?     - CNET](https://www.cnet.com/personal-finance/banking/what-is-a-flexible-spending-account/#ftag=CAD590a51e)
- - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)<!-- TECH:END -->
+ - [&#39;Short Sleep:&#39; How Losing Even a Little Rest Adds Up Over Time     - CNET](https://www.cnet.com/health/sleep/short-sleep-how-losing-even-a-little-rest-adds-up-over-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

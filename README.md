@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple discussed multiyear deals worth $50M+ with NBC News, Cond&amp;eacute; Nast, IAC, and other publishers to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)
- - [Court docs: how false claims and risky trades by HeadSpin&#39;s CEO and a lack of oversight by investors like GV and Iconiq Capital led to the startup&#39;s unraveling &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231222/p15#a231222p15)
- - [Samsung Galaxy Tab S9 Deals: Free Storage Upgrades and $750 of Trade-In Credits     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [Best Mesh Router Deals: Up to $200 in Savings on TP-Link, Linksys and NetGear     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
- - [Every HDR TV Format Explained     - CNET](https://www.cnet.com/tech/home-entertainment/every-hdr-tv-format-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)
+ - [Sources: OpenAI is in early talks to raise new funding at a valuation at or above $100B, and discussed raising between $8B and $10B from G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)
+ - [Aquaman and the Lost Kingdom is the quintessential DCEU movie](https://www.theverge.com/24012151/aquaman-and-the-lost-kingdom-review)
+ - [Source: Cisco is paying around $650M in cash for Isovalent, or 32 times the startup&#39;s ARR; Isovalent was valued at $250M in a funding round in September 2022 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231222/p17#a231222p17)
+ - [Sources: Apple discussed multiyear deals worth $50M+ with NBC News, Cond&amp;eacute; Nast, IAC, and other publishers to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

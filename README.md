@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
+ - [Best Banks for Nonprofits     - CNET](https://www.cnet.com/personal-finance/best-banks-for-nonprofits/#ftag=CAD590a51e)
  - [Humane’s AI Pin will start shipping in March](https://www.theverge.com/2023/12/22/24012429/humane-ai-pin-shipping-march)
- - [Steam’s Winter Sale is taking up to 60 percent off some of our favorite games](https://www.theverge.com/2023/12/22/24009370/steam-winter-sale-diablo-iv-elgato-stream-deck-mini-xl-deal)
- - [How to use Reactions in video calls in iOS 17 and iPadOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-reactions-in-video-calls-in-ios-17-and-ipados-17?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Let Burglars Ruin Your Holidays: 10 Home Security Tips to Stop Break-Ins     - CNET](https://www.cnet.com/home/security/dont-let-burglars-ruin-your-holidays-10-home-security-tips-to-stop-break-ins/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

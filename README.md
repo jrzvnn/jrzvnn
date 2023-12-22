@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The future of clean hydrogen in the US could hinge on a new tax credit](https://www.theverge.com/2023/12/22/24012141/hydrogen-tax-credit-45v-biden-treasury-irs-clean-energy)
  - [Microsoft just paid $76 million for a Wisconsin pumpkin farm](https://www.theverge.com/2023/12/22/24012534/microsoft-wisconsin-pumpkin-farm-foxconn-76-million-mount-pleasant)
  - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
- - [Best Banks for Nonprofits     - CNET](https://www.cnet.com/personal-finance/best-banks-for-nonprofits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 💣 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
+ - 😝 [I appeal to all my fellow wankers too.](http://9gag.com/gag/az2py8m)
+ - 😝 [We&#39;re all eating each other](http://9gag.com/gag/agozevv)
+ - 💣 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
+ - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
  - [Best Banks for Nonprofits     - CNET](https://www.cnet.com/personal-finance/best-banks-for-nonprofits/#ftag=CAD590a51e)
- - [Humane’s AI Pin will start shipping in March](https://www.theverge.com/2023/12/22/24012429/humane-ai-pin-shipping-march)
- - [Don&#39;t Let Burglars Ruin Your Holidays: 10 Home Security Tips to Stop Break-Ins     - CNET](https://www.cnet.com/home/security/dont-let-burglars-ruin-your-holidays-10-home-security-tips-to-stop-break-ins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humane’s AI Pin will start shipping in March](https://www.theverge.com/2023/12/22/24012429/humane-ai-pin-shipping-march)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

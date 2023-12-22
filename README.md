@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
- - 😝 [Javier](http://9gag.com/gag/ay2jwR8)
- - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
+ - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 💣 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
+ - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
 
 ---
 

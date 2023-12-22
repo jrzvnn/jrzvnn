@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 💣 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
+ - 😝 [The compliment](http://9gag.com/gag/anzPwBB)
+ - 😝 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
+ - 💣 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
+ - 👉 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)<!-- MEMES:END -->
 
 ---
 

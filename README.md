@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple discussed multiyear deals worth $50M+ with NBC News, Cond&amp;eacute; Nast, IAC, and other publishers to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)
- - [Court docs: how false claims and risky trades by the HeadSpin CEO and a lack of oversight by investors like GV and Iconiq Capital led to the startup&#39;s implosion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231222/p15#a231222p15)
+ - [Court docs: how false claims and risky trades by HeadSpin&#39;s CEO and a lack of oversight by investors like GV and Iconiq Capital led to the startup&#39;s unraveling &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231222/p15#a231222p15)
  - [Samsung Galaxy Tab S9 Deals: Free Storage Upgrades and $750 of Trade-In Credits     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
  - [Best Mesh Router Deals: Up to $200 in Savings on TP-Link, Linksys and NetGear     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
  - [Every HDR TV Format Explained     - CNET](https://www.cnet.com/tech/home-entertainment/every-hdr-tv-format-explained/#ftag=CAD590a51e)<!-- TECH:END -->

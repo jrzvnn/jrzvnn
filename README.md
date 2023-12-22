@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple blocking Beeper Mini has caught the attention of the DOJ, which is in the middle of a four-year-old probe into Apple&#39;s anticompetitive behavior &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p5#a231222p5)
+ - [How to add HomeKit light switches without rewiring your house](https://appleinsider.com/inside/homekit/tips/how-to-add-homekit-light-switches-without-rewiring-your-house?utm_medium=rss)
  - [Facebook Marketplace Is Being Ruined by Zelle Scammers](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
  - [The 16 Best Books of 2023](https://www.wired.com/story/best-books-of-2023/)
- - [Congress Sure Made a Lot of Noise About Kids’ Privacy in 2023—and Not Much Else](https://www.wired.com/story/us-congress-children-privacy-reform-2023/)
- - [Former employees say Meta considered measures to limit encryption but rejected them to avoid potential liability for kids&#39; safety on its apps and to cut costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231222/p4#a231222p4)
- - [How Not to Be Stupid About AI, With Yann LeCun](https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/)<!-- TECH:END -->
+ - [Congress Sure Made a Lot of Noise About Kids’ Privacy in 2023—and Not Much Else](https://www.wired.com/story/us-congress-children-privacy-reform-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
- - 😝 [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)
- - 💣 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
+ - 😝 [NEW: A man from Guinea who had just crossed illegally into Lukeville, AZ tells me he plans to go to Philadelphia. When I asked why, he didn\u2019t know, and pulled out a piece of paper w/ an address written on it he\u2019s supposed to go to. We looked it up, it\u2019s a local community center.](http://9gag.com/gag/ajVe4Yx)
+ - 😝 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
+ - 💣 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
+ - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
  - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 💣 [I miss high school, I miss fun, I miss love](http://9gag.com/gag/a9qgebL)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [I miss high school, I miss fun, I miss love](http://9gag.com/gag/a9qgebL)<!-- MEMES:END -->
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
 

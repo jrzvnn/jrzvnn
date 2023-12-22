@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NEW: A man from Guinea who had just crossed illegally into Lukeville, AZ tells me he plans to go to Philadelphia. When I asked why, he didn\u2019t know, and pulled out a piece of paper w/ an address written on it he\u2019s supposed to go to. We looked it up, it\u2019s a local community center.](http://9gag.com/gag/ajVe4Yx)
- - 😝 [He is not wrong!](http://9gag.com/gag/ay2jm0b)
- - 💣 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
+ - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 💣 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
+ - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
 
 ---
 

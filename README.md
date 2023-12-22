@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Spotify pulls support for two music festivals in France, in protest against a new tax that will impose a levy of 1.5% to 1.75% on all music-streaming services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231222/p11#a231222p11)
  - [Insomniac finally responds to hack that leaked ‘Wolverine’ game and more](https://www.theverge.com/2023/12/22/24012215/insomniac-wolverine-leak-hack-ransomware)
- - [Pornhub parent company fined $1.8 million over sex trafficking charge](https://www.theverge.com/2023/12/22/24012152/pornhub-mindgeek-sex-trafficking-fine)
- - [Paxos plans to expand its products to the Solana blockchain on January 17, 2024, after receiving approval from the NY financial regulator &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231222/p10#a231222p10)
- - [Daily deals Dec. 22: $200 off M3 Max MacBook Pro, 50% off Apple Watch, $150 off Xbox Series X, more](https://appleinsider.com/articles/23/12/22/daily-deals-dec-22-200-off-m3-max-macbook-pro-50-off-apple-watch-150-off-xbox-series-x-more?utm_medium=rss)<!-- TECH:END -->
+ - [Score Up to $300 With SoFi’s Updated Direct Deposit Promotion     - CNET](https://www.cnet.com/personal-finance/score-up-to-300-with-sofis-updated-direct-deposit-promotion/#ftag=CAD590a51e)
+ - [Today&#39;s Best Savings Rates, Dec. 22, 2023: These Top High-Yield Savings Accounts Boast APYs Over 5%     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-dec-22-2023/#ftag=CAD590a51e)
+ - [Pornhub parent company fined $1.8 million over sex trafficking charge](https://www.theverge.com/2023/12/22/24012152/pornhub-mindgeek-sex-trafficking-fine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

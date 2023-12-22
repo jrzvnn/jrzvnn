@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
- - 😝 [The most wanted man alive right now](http://9gag.com/gag/a9qg4q0)
- - 💣 [The tiger showing how many ways it could eat her](http://9gag.com/gag/aeQ8yP5)
+ - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
+ - 😝 [I think I ate the dogs food](http://9gag.com/gag/abvnoML)
+ - 💣 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
  - 👉 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)<!-- MEMES:END -->
 

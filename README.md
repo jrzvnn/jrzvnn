@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)
  - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)
  - [Sources: OpenAI is in early talks to raise funding at a $100B+ valuation, and discussed raising between $8B and $10B from Abu Dhabi-based G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)
  - [Aquaman and the Lost Kingdom is the quintessential DCEU movie](https://www.theverge.com/24012151/aquaman-and-the-lost-kingdom-review)
- - [Source: Cisco is paying around $650M in cash for Isovalent, or 32 times the startup&#39;s ARR; Isovalent was valued at $250M in a funding round in September 2022 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231222/p17#a231222p17)
- - [Sources: Apple discussed multiyear $50M+ deals with NBC News, Cond&amp;eacute; Nast, IAC, and other media organizations to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)<!-- TECH:END -->
+ - [Source: Cisco is paying ~$650M in cash for Isovalent, or 32 times the startup&#39;s ARR; Isovalent raised a $40M Series B at a ~$250M valuation in September 2022 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231222/p17#a231222p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

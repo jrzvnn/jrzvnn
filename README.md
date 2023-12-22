@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those who know know](http://9gag.com/gag/aKEoNZ3)
- - 😝 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
- - 💣 [Javier](http://9gag.com/gag/ay2jwR8)
+ - 😝 [Nature is f**king scary](http://9gag.com/gag/aKEoyqN)
+ - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
+ - 💣 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [The tiger showing how many ways it could eat her](http://9gag.com/gag/aeQ8yP5)<!-- MEMES:END -->
+ - 👉 [A chubby wombat comes to the man every evening to eat and spend the night, and in the morning he always goes about his important business.](http://9gag.com/gag/amA4KEo)<!-- MEMES:END -->
 
 ---
 

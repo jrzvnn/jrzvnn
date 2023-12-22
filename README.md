@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU member states reject a provisional deal that would have required platforms like Uber and Deliveroo to give full employment status to around 5.5M gig workers &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/231222/p9#a231222p9)
  - [How SoftBank&#39;s $500M bet on US mortgage lender Better, once valued at $7B, backfired; BETR is down 90%+ since its August 2023 IPO after a US SEC investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/231222/p8#a231222p8)
  - [Google’s ChatGPT competitor Bard is nearly as good — just slower](https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared)
  - [DOJ antitrust lawyers question Beeper over Apple&#39;s iMessage hack](https://appleinsider.com/articles/23/12/22/doj-antitrust-lawyers-question-beeper-over-apples-imessage-hack?utm_medium=rss)
- - [Review: &#39;Ferrari&#39; Is Michael Mann’s Cinematic Auto Biography](https://www.wired.com/story/ferrari-michael-mann-auto-biography/)
- - [A merging of Warner Bros. Discovery and Paramount would be very bad](https://www.theverge.com/2023/12/22/24011064/warner-bros-discovery-paramount-merger-very-bad)<!-- TECH:END -->
+ - [Review: &#39;Ferrari&#39; Is Michael Mann’s Cinematic Auto Biography](https://www.wired.com/story/ferrari-michael-mann-auto-biography/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

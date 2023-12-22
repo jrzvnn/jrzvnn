@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
- - 😝 [Stress](http://9gag.com/gag/aVby5dP)
- - 💣 [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)
+ - 😝 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
+ - 😝 [It\u2019s Chromium, all the way down](http://9gag.com/gag/a04y3eO)
+ - 💣 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [The tiger showing how many ways it could eat her](http://9gag.com/gag/aeQ8yP5)<!-- MEMES:END -->
+ - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
 
 ---
 

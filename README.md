@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s ChatGPT competitor Bard is nearly as good — just slower](https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared)
  - [DOJ antitrust lawyers question Beeper over Apple&#39;s iMessage hack](https://appleinsider.com/articles/23/12/22/doj-antitrust-lawyers-question-beeper-over-apples-imessage-hack?utm_medium=rss)
  - [Review: &#39;Ferrari&#39; Is Michael Mann’s Cinematic Auto Biography](https://www.wired.com/story/ferrari-michael-mann-auto-biography/)
  - [A merging of Warner Bros. Discovery and Paramount would be very bad](https://www.theverge.com/2023/12/22/24011064/warner-bros-discovery-paramount-merger-very-bad)
- - [2024 in laptops: it’s shaping up to be a big year for Windows](https://www.theverge.com/23979164/laptops-2024-ai-surface-windows-intel-amd)
- - [Prosecutors: Pornhub operator Aylo admits that it had profited from porn that depicted sex trafficking victims, will pay a $1.8M fine and be assigned a monitor &lpar;Erin Nolan/New York Times&rpar;](http://www.techmeme.com/231222/p7#a231222p7)<!-- TECH:END -->
+ - [2024 in laptops: it’s shaping up to be a big year for Windows](https://www.theverge.com/23979164/laptops-2024-ai-surface-windows-intel-amd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

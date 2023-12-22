@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Short Sleep:&#39; How Losing Even a Little Rest Adds Up Over Time     - CNET](https://www.cnet.com/health/sleep/short-sleep-how-losing-even-a-little-rest-adds-up-over-time/#ftag=CAD590a51e)
- - [What Is a Flexible Spending Account and How Does It Work?     - CNET](https://www.cnet.com/personal-finance/banking/what-is-a-flexible-spending-account/#ftag=CAD590a51e)
+ - [Microsoft just paid $76 million for a Wisconsin pumpkin farm](https://www.theverge.com/2023/12/22/24012534/microsoft-wisconsin-pumpkin-farm-foxconn-76-million-mount-pleasant)
  - [Data center infrastructure company Arkon Energy raised $110M to grow its US bitcoin mining capacity and plans to launch an AI cloud service in Norway &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231222/p14#a231222p14)
- - [Smartflower Solar Review: Beautiful Solar for Up to $65,000     - CNET](https://www.cnet.com/home/energy-and-utilities/smartflower-solar-review-beautiful-solar-sculpture/#ftag=CAD590a51e)
- - [Tesla Solar Panels Review: Cheaper Than Other National Players     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-panels-review-cheaper-than-other-national-players/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Humane says it will begin shipping its Ai Pin in March 2024, starting with customers who placed priority orders &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p13#a231222p13)
+ - [Best Banks for Nonprofits     - CNET](https://www.cnet.com/personal-finance/best-banks-for-nonprofits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

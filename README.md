@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paxos plans to expand its products to the Solana blockchain on January 17, 2024, after receiving approval from the NY financial regulator &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231222/p10#a231222p10)
  - [Daily deals Dec. 22: $200 off M3 Max MacBook Pro, 50% off Apple Watch, $150 off Xbox Series X, more](https://appleinsider.com/articles/23/12/22/daily-deals-dec-22-200-off-m3-max-macbook-pro-50-off-apple-watch-150-off-xbox-series-x-more?utm_medium=rss)
  - [EU member states reject a provisional deal that would have required platforms like Uber and Deliveroo to give full employment status to around 5.5M gig workers &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/231222/p9#a231222p9)
  - [How SoftBank&#39;s $500M bet on US mortgage lender Better, once valued at $7B, backfired; BETR is down 90%+ since its August 2023 IPO after a US SEC investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/231222/p8#a231222p8)
- - [Google’s ChatGPT competitor Bard is nearly as good — just slower](https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared)
- - [DOJ antitrust lawyers question Beeper over Apple&#39;s iMessage hack](https://appleinsider.com/articles/23/12/22/doj-antitrust-lawyers-question-beeper-over-apples-imessage-hack?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s ChatGPT competitor Bard is nearly as good — just slower](https://www.theverge.com/24011112/google-bard-gemini-chatgpt-openai-compared)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ScamSniffer: Google and X ads are promoting sites containing a crypto drainer named &quot;MS Drainer&quot; that has stolen $59M from 63,210 victims since March 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231222/p3#a231222p3)
  - [Toshiba sees power management chips as a profit driver and plans to spend ~$175M to double production as the company completes its $14B buyout by PE firm JIP &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/231222/p2#a231222p2)
  - [Cheapest Meal Delivery Services of 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
  - [China publishes draft rules for online gaming, including setting spending limits and banning daily login rewards; Tencent plunges 10%+ and NetEase 20%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p1#a231222p1)
- - [ImpriMed, which builds AI-powered drug response prediction tech to help treat cancer in dogs and cats, raised a $23M Series A led by SoftBank Ventures Asia &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231221/p27#a231221p27)
- - [Analysis: ABBA Voyage, the London show performed by 3D avatars of the band created using motion capture, made &amp;pound;322.6M in revenue in the 12 months since May 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p26#a231221p26)<!-- TECH:END -->
+ - [ImpriMed, which builds AI-powered drug response prediction tech to help treat cancer in dogs and cats, raised a $23M Series A led by SoftBank Ventures Asia &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231221/p27#a231221p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

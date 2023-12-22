@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
  - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
+ - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

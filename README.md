@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prosecutors: Pornhub operator Aylo admits that it had profited from porn that depicted sex trafficking victims, will pay a $1.8M fine and be assigned a monitor &lpar;Erin Nolan/New York Times&rpar;](http://www.techmeme.com/231222/p7#a231222p7)
  - [Apple Watch ban, new CarPlay, and Beeper struggles on the AppleInsider podcast](https://appleinsider.com/articles/23/12/22/apple-watch-ban-new-carplay-and-beeper-struggles-on-the-appleinsider-podcast?utm_medium=rss)
  - [Revolut publishes delayed 2022 accounts, removing a hurdle in its UK banking license bid; revenue grew 45% YoY to &amp;pound;922.5M, while pretax loss grew to &amp;pound;25.4Mg2 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231222/p6#a231222p6)
  - [Guava Family Roam Stroller Review &lpar;2023&rpar;: Convenient Jogging Stroller](https://www.wired.com/review/guava-roam-jogging-stroller-review/)
- - [Podcasts are in the middle of a numbers and people crisis](https://www.theverge.com/24002021/podcasts-2023-layoffs-analytics)
- - [Sources: Apple blocking Beeper Mini has caught the attention of the DOJ, which is in the middle of a four-year-old probe into Apple&#39;s anticompetitive behavior &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p5#a231222p5)<!-- TECH:END -->
+ - [Podcasts are in the middle of a numbers and people crisis](https://www.theverge.com/24002021/podcasts-2023-layoffs-analytics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

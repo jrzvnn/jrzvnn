@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Analysis: ABBA Voyage, the London show performed by 3D avatars of the band created using motion capture, made &amp;pound;322.6M in revenue in the 12 months since May 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p26#a231221p26)
  - [Best Indoor Bike Trainers for 2023: Tacx, Wahoo, Saris and More Compared     - CNET](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)
  - [Boston-based knownwell, which provides virtual and in-person primary care and obesity treatment for patients, raised a $20M Series A led by a16z &lpar;Anastassia Gliadkovskaya/Fierce Heal ...&rpar;](http://www.techmeme.com/231221/p25#a231221p25)
- - [Get Apple&#39;s new M3 MacBook Pro for just $1,399 with free expedited shipping](https://appleinsider.com/articles/23/12/22/get-apples-new-m3-macbook-pro-for-just-1399-with-free-expedited-shipping?utm_medium=rss)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Women Over 50 of 2023     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

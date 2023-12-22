@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But , why?](http://9gag.com/gag/axoqQ4Y)
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 💣 [Shooting at the Faculty of Philosophy in Prague, students hiding on the roof. Shooter is now dead and the number of dead people is yet to be reported.](http://9gag.com/gag/ajVevZp)
+ - 😝 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
+ - 😝 [Stress](http://9gag.com/gag/aVby5dP)
+ - 💣 [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
+ - 👉 [The tiger showing how many ways it could eat her](http://9gag.com/gag/aeQ8yP5)<!-- MEMES:END -->
 
 ---
 

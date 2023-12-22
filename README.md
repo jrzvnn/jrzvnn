@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After the Jedi cloud contract fell apart, the US DOD has allocated less than 2% of its $9B Joint Warfighting Cloud Capability program, started in December 2022 &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/231222/p12#a231222p12)
+ - [This Pair of Blink Outdoor Security Cameras Is $100 Off For a Limited Time     - CNET](https://www.cnet.com/deals/this-pair-of-blink-outdoor-security-cameras-is-100-off-for-a-limited-time/#ftag=CAD590a51e)
+ - [Best Banks for Nonprofits     - CNET](https://www.cnet.com/personal-finance/banking/best-banks-for-nonprofits/#ftag=CAD590a51e)
  - [Spotify pulls support for two music festivals in France, in protest against a new tax that will impose a levy of 1.5% to 1.75% on all music-streaming services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231222/p11#a231222p11)
- - [Insomniac finally responds to hack that leaked ‘Wolverine’ game and more](https://www.theverge.com/2023/12/22/24012215/insomniac-wolverine-leak-hack-ransomware)
- - [Score Up to $300 With SoFi’s Updated Direct Deposit Promotion     - CNET](https://www.cnet.com/personal-finance/score-up-to-300-with-sofis-updated-direct-deposit-promotion/#ftag=CAD590a51e)
- - [Today&#39;s Best Savings Rates, Dec. 22, 2023: These Top High-Yield Savings Accounts Boast APYs Over 5%     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-dec-22-2023/#ftag=CAD590a51e)
- - [Pornhub parent company fined $1.8 million over sex trafficking charge](https://www.theverge.com/2023/12/22/24012152/pornhub-mindgeek-sex-trafficking-fine)<!-- TECH:END -->
+ - [Insomniac finally responds to hack that leaked ‘Wolverine’ game and more](https://www.theverge.com/2023/12/22/24012215/insomniac-wolverine-leak-hack-ransomware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

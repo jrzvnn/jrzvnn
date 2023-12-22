@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: ABBA Voyage, the London show performed by 3D avatars of the band created using motion capture, made &amp;pound;322.6M in revenue in the 12 months since May 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/231221/p26#a231221p26)
+ - [Best Indoor Bike Trainers for 2023: Tacx, Wahoo, Saris and More Compared     - CNET](https://www.cnet.com/health/fitness/best-indoor-bike-trainer/#ftag=CAD590a51e)
  - [Boston-based knownwell, which provides virtual and in-person primary care and obesity treatment for patients, raised a $20M Series A led by a16z &lpar;Anastassia Gliadkovskaya/Fierce Heal ...&rpar;](http://www.techmeme.com/231221/p25#a231221p25)
  - [Get Apple&#39;s new M3 MacBook Pro for just $1,399 with free expedited shipping](https://appleinsider.com/articles/23/12/22/get-apples-new-m3-macbook-pro-for-just-1399-with-free-expedited-shipping?utm_medium=rss)
- - [Insomniac&#39;s hacked files show challenges it faces juggling teams, timelines, and budgets amid possible Sony cuts; Spider-Man 2 cost ~$300M, 3x 2018&#39;s Spider-Man &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/231221/p24#a231221p24)
- - [Chrome’s password safety tool will now automatically run in the background](https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background)
- - [Apple Store Infinite Loop is closing for good January 20](https://appleinsider.com/articles/23/12/21/apple-store-infinite-loop-is-closing-for-good-january-20?utm_medium=rss)<!-- TECH:END -->
+ - [Insomniac&#39;s hacked files show challenges it faces juggling teams, timelines, and budgets amid possible Sony cuts; Spider-Man 2 cost ~$300M, 3x 2018&#39;s Spider-Man &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/231221/p24#a231221p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

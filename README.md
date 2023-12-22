@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
  - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
- - 💣 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
+ - 💣 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
+ - 👉 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)<!-- MEMES:END -->
 
 ---
 

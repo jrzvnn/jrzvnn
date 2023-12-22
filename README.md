@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former employees say Meta considered measures to limit encryption but rejected them to avoid potential liability for kids&#39; safety on its apps and to cut costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231222/p4#a231222p4)
  - [How Not to Be Stupid About AI, With Yann LeCun](https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/)
+ - [Grab New Furniture and Home Decor at Discounted Prices This Holiday Season     - CNET](https://www.cnet.com/deals/grab-new-furniture-and-home-decor-at-discounted-prices-this-holiday-season/#ftag=CAD590a51e)
  - [ScamSniffer: Google and X ads are promoting sites containing a crypto drainer named &quot;MS Drainer&quot; that has stolen $59M from 63,210 victims since March 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231222/p3#a231222p3)
- - [Toshiba sees power management chips as a profit driver and plans to spend ~$175M to double production as the company completes its $14B buyout by PE firm JIP &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/231222/p2#a231222p2)
- - [Cheapest Meal Delivery Services of 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [China publishes draft rules for online gaming, including setting spending limits and banning daily login rewards; Tencent plunges 10%+ and NetEase 20%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p1#a231222p1)<!-- TECH:END -->
+ - [Kickstart Your New Year Fitness Journey With These QVC Deals     - CNET](https://www.cnet.com/deals/kickstart-your-new-year-fitness-journey-with-these-qvc-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

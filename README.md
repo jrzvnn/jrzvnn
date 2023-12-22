@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man from future](http://9gag.com/gag/aZDOXn6)
- - 😝 [Leonardo DiCaprio and his girlfriend celebrating her 25th birthday](http://9gag.com/gag/a2K6gXO)
- - 💣 [Lavish lunches](http://9gag.com/gag/aNwEMnG)
+ - 😝 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)
+ - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 💣 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [I can feel the burn through my phone](http://9gag.com/gag/abvnwAp)<!-- MEMES:END -->
+ - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
 
 ---
 

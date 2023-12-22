@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Best Buy&#39;s Apple sale slashes prices by up to $300 with store pickup for Christmas](https://appleinsider.com/articles/23/12/22/best-buys-apple-sale-slashes-prices-by-up-to-300-with-store-pickup-for-christmas?utm_medium=rss)
  - [A Google Play Services update suggests Google&#39;s file-sharing feature Nearby Share could be rebranded to Quick Share, the name Samsung uses for a similar tool &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/231222/p20#a231222p20)
  - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
- - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)<!-- TECH:END -->
+ - [No Costco Membership? How to Shop There for the Holidays Anyway     - CNET](https://www.cnet.com/culture/no-costco-membership-how-to-shop-there-for-the-holidays-anyway/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

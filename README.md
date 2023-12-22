@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is f**king scary](http://9gag.com/gag/aKEoyqN)
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 💣 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 😝 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
+ - 😝 [Who would like a traditional wife?](http://9gag.com/gag/aBdBMW1)
+ - 💣 [If you import trash, don&#39;t expect your neighborhood to smell nice. Also, why no Muslim tag 9gag?](http://9gag.com/gag/a04yzAd)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [A chubby wombat comes to the man every evening to eat and spend the night, and in the morning he always goes about his important business.](http://9gag.com/gag/amA4KEo)<!-- MEMES:END -->
+ - 👉 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)<!-- MEMES:END -->
 
 ---
 

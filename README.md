@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - 💣 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
+ - 😝 [Can we get rid of Nancy Faeser as the federal minister of the Interior and Community and have this based turkish guy instead?](http://9gag.com/gag/aREqpyQ)
+ - 😝 [This picture will be used in history book while discussing the fall of Western civilization.](http://9gag.com/gag/a9qgGE0)
+ - 💣 [Mom Exposed](http://9gag.com/gag/anzPowB)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
+ - 👉 [Free choice](http://9gag.com/gag/aoKQ7w3)<!-- MEMES:END -->
 
 ---
 

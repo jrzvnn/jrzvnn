@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re all eating each other](http://9gag.com/gag/agozevv)
- - 😝 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
- - 💣 [Rest in peace my friend :&#39;&rpar;](http://9gag.com/gag/anzPoPz)
+ - 😝 [The best way to learn French](http://9gag.com/gag/axoq8Pp)
+ - 😝 [Javier](http://9gag.com/gag/ay2jwR8)
+ - 💣 [These are the Best Movie Sites Now &lpar;UPDATED 2023&rpar;](http://9gag.com/gag/aREqGpQ)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [The best way to learn French](http://9gag.com/gag/axoq8Pp)<!-- MEMES:END -->
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 ---
 

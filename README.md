@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)
- - 😝 [The compliment](http://9gag.com/gag/anzPwBB)
- - 💣 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
+ - 😝 [Why are Chinese Admins blocking this photo? It&#39;s on Google Maps?! Why am I not allowed to post this? It is just a building.](http://9gag.com/gag/adPDrPB)
+ - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 💣 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
  - 😝 [Santa calls\ud83c\udf85\ud83c\udffb! He has a surprise from OnePlus Nord for you! \ud83c\udf81](http://9gag.com/gag/aOxLO6E)
- - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
+ - 👉 [Yup.. definitely illegal](http://9gag.com/gag/aBdBMmD)<!-- MEMES:END -->
 
 ---
 

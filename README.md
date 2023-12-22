@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
+ - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
  - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)
  - [Apple reportedly wants to use the news to help train its AI models](https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers)
- - [Sources: OpenAI is in early talks to raise funding at a $100B+ valuation, and discussed raising between $8B and $10B from Abu Dhabi-based G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)
- - [Aquaman and the Lost Kingdom is the quintessential DCEU movie](https://www.theverge.com/24012151/aquaman-and-the-lost-kingdom-review)
- - [Source: Cisco is paying ~$650M in cash for Isovalent, or 32 times the startup&#39;s ARR; Isovalent raised a $40M Series B at a ~$250M valuation in September 2022 &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231222/p17#a231222p17)<!-- TECH:END -->
+ - [Sources: OpenAI is in early talks to raise funding at a $100B+ valuation, and discussed raising between $8B and $10B from Abu Dhabi-based G42 for a chip venture &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p18#a231222p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

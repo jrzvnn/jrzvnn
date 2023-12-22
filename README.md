@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky posts are finally visible if you’re not logged in](https://www.theverge.com/2023/12/22/24012862/bluesky-posts-visible-not-logged-in-new-logo)
  - [Best Buy&#39;s Apple sale slashes prices by up to $300 with store pickup for Christmas](https://appleinsider.com/articles/23/12/22/best-buys-apple-sale-slashes-prices-by-up-to-300-with-store-pickup-for-christmas?utm_medium=rss)
  - [A Google Play Services update suggests Google&#39;s file-sharing feature Nearby Share could be rebranded to Quick Share, the name Samsung uses for a similar tool &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/231222/p20#a231222p20)
  - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
- - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
- - [Court docs: Google considered changing its Play Store pricing model in 2021 but abandoned the plans over potential $1B-$2B losses for apps and $6B-$9B for games &lpar;Bloomberg&rpar;](http://www.techmeme.com/231222/p19#a231222p19)<!-- TECH:END -->
+ - [AI companies would be required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

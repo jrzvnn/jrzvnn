@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple discussed multiyear deals worth $50M+ with NBC News, Cond&amp;eacute; Nast, IAC, and other publishers to train its generative AI systems on news articles &lpar;New York Times&rpar;](http://www.techmeme.com/231222/p16#a231222p16)
  - [Court docs: how false claims and risky trades by the HeadSpin CEO and a lack of oversight by investors like GV and Iconiq Capital led to the startup&#39;s implosion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/231222/p15#a231222p15)
  - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The future of clean hydrogen in the US could hinge on a new tax credit](https://www.theverge.com/2023/12/22/24012141/hydrogen-tax-credit-45v-biden-treasury-irs-clean-energy)
- - [Microsoft just paid $76 million for a Wisconsin pumpkin farm](https://www.theverge.com/2023/12/22/24012534/microsoft-wisconsin-pumpkin-farm-foxconn-76-million-mount-pleasant)<!-- TECH:END -->
+ - [The future of clean hydrogen in the US could hinge on a new tax credit](https://www.theverge.com/2023/12/22/24012141/hydrogen-tax-credit-45v-biden-treasury-irs-clean-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
- - 💣 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
- - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 👉 [Dindindindindin](http://9gag.com/gag/aA0zzYg)<!-- MEMES:END -->
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
+ - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

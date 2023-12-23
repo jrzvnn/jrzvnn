@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Daily deals Dec. 23: $250 off M3 MacBook Pro, iPhones as low as $110, $20 off AirTags, more](https://appleinsider.com/articles/23/12/23/daily-deals-dec-23-250-off-m3-macbook-pro-iphones-as-low-as-110-20-off-airtags-more?utm_medium=rss)
  - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
  - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
- - [Are You Peeing Too Much at Night? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/sleep/are-you-peeing-too-much-at-night-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Berkeley, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

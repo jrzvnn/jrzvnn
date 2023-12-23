@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use Xcode Previews to see how your app appears as you make it](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-previews-to-see-how-your-app-appears-as-you-make-it?utm_medium=rss)
- - [Apple offers publishers millions to train AI on archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)
- - [Ubisoft is investigating reports of a new security breach after security research collective VX-Underground shared screenshots of the company&#39;s internal tools &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231223/p10#a231223p10)
- - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
- - [Experts warn against unrealistic expectations for quantum computers, citing the challenges in making fault-tolerant systems, Qubits&#39; slow operating speeds, more &lpar;Edd Gent/IEEE Spectrum&rpar;](http://www.techmeme.com/231223/p9#a231223p9)<!-- TECH:END -->
+ - [Don&#39;t Wait on These Walmart Deals You Can Still Get By Christmas     - CNET](https://www.cnet.com/deals/12-walmart-deals-you-can-still-get-in-time-for-christmas/#ftag=CAD590a51e)
+ - [Bills vs. Chargers Livestream: How to Watch NFL Week 16 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-chargers-livestream-how-to-watch-nfl-week-16-online-today/#ftag=CAD590a51e)
+ - [Safely Clean Your Cast-Iron Pan With This Common Pantry Staple     - CNET](https://www.cnet.com/how-to/the-best-way-to-clean-cast-iron-cookware/#ftag=CAD590a51e)
+ - [Apple offers publishers millions to train AI on archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

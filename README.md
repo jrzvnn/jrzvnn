@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [All 90s kids know this!](http://9gag.com/gag/aDYey4x)
+ - 💣 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
 
 ---
 

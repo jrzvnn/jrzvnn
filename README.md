@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
  - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
  - [How Sam Altman, the dealmaking prodigy full of contradictions, became one of the best-known tech CEOs, including by cultivating close ties with Peter Thiel &lpar;Washington Post&rpar;](http://www.techmeme.com/231223/p6#a231223p6)
  - [Liverpool vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Bots registered as 13-year-old users on TikTok were shown highly polarized content about the Israel-Hamas war in the For You feed, within hours after signing up &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231223/p5#a231223p5)
- - [Give Your iPhone a Gift: Clear Your Cache     - CNET](https://www.cnet.com/tech/mobile/give-your-iphone-a-gift-clear-your-cache/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bots registered as 13-year-old users on TikTok were shown highly polarized content about the Israel-Hamas war in the For You feed, within hours after signing up &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231223/p5#a231223p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

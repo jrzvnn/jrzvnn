@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
  - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [How Sam Altman, the dealmaking prodigy full of contradictions, became one of the best-known tech CEOs, including by cultivating close ties with Peter Thiel &lpar;Washington Post&rpar;](http://www.techmeme.com/231223/p6#a231223p6)
- - [Liverpool vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are You Peeing Too Much at Night? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/sleep/are-you-peeing-too-much-at-night-heres-what-to-know/#ftag=CAD590a51e)
+ - [Best Internet Providers in Berkeley, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
+ - [Last Minute Holiday iPad Deals: Up to $100 in Savings on iPad Pro, Air, Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

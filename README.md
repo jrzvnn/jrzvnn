@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 💣 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
- - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
- - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
+ - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
 
 ---
 

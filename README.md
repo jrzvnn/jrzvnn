@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM stops selling the Chevy Blazer EV to deal with ‘software quality issues’](https://www.theverge.com/2023/12/23/24013357/2024-chevy-blazer-ev-stop-sale-software-problems)
  - [VOCOlinc VHI review: The nightlight that can help you breathe better](https://appleinsider.com/articles/23/12/23/vocolinc-vhi-review-the-nightlight-that-can-help-you-breathe-better?utm_medium=rss)
  - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [How AI defense tech developer Rebellion Defense is struggling to survive after failing to win a US DOD contract, losing its founders, and shuttering its UK arm &lpar;Forbes&rpar;](http://www.techmeme.com/231223/p8#a231223p8)
- - [Bose’s QuietComfort Ultra Earbuds are still sitting at their lowest price to date](https://www.theverge.com/2023/12/23/24011716/bose-quietcomfort-ultra-earbuds-amazon-echo-show-8-anker-usb-c-hub-deal-sale)
- - [Daily deals Dec. 23: $250 off M3 MacBook Pro, iPhones as low as $110, $20 off AirTags, more](https://appleinsider.com/articles/23/12/23/daily-deals-dec-23-250-off-m3-macbook-pro-iphones-as-low-as-110-20-off-airtags-more?utm_medium=rss)<!-- TECH:END -->
+ - [Bose’s QuietComfort Ultra Earbuds are still sitting at their lowest price to date](https://www.theverge.com/2023/12/23/24011716/bose-quietcomfort-ultra-earbuds-amazon-echo-show-8-anker-usb-c-hub-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

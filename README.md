@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers publishers millions to train AI on archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)
  - [Ubisoft is investigating reports of a new security breach after security research collective VX-Underground shared screenshots of the company&#39;s internal tools &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231223/p10#a231223p10)
  - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
  - [Experts warn against unrealistic expectations for quantum computers, citing the challenges in making fault-tolerant systems, Qubits&#39; slow operating speeds, more &lpar;Edd Gent/IEEE Spectrum&rpar;](http://www.techmeme.com/231223/p9#a231223p9)
- - [GM stops selling the Chevy Blazer EV to deal with ‘software quality issues’](https://www.theverge.com/2023/12/23/24013357/2024-chevy-blazer-ev-stop-sale-software-problems)
- - [VOCOlinc VHI review: The nightlight that can help you breathe better](https://appleinsider.com/articles/23/12/23/vocolinc-vhi-review-the-nightlight-that-can-help-you-breathe-better?utm_medium=rss)<!-- TECH:END -->
+ - [GM stops selling the Chevy Blazer EV to deal with ‘software quality issues’](https://www.theverge.com/2023/12/23/24013357/2024-chevy-blazer-ev-stop-sale-software-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

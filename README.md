@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers publishers millions for AI access to archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)
  - [Video Games as Art](https://www.wired.com/story/difference-machines-art-exhibition-video-games/)
  - [This Radical Plan to Make Roads Greener Actually Works](https://www.wired.com/story/this-radical-plan-to-make-roads-greener-actually-works/)
  - [A profile of FTC Chair Lina Khan, who on a trip to Silicon Valley in November aimed to convince a skeptical tech sector that the government was there to help &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/231223/p4#a231223p4)
- - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)
- - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)<!-- TECH:END -->
+ - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

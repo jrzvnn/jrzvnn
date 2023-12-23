@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)
+ - [Bluesky releases a public web view, allowing users to view posts on the platform without being logged in, and unveils a new logo with a butterfly &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231222/p21#a231222p21)
+ - [Best Mattress for Back Pain in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
  - [Bluesky posts are finally visible if you’re not logged in](https://www.theverge.com/2023/12/22/24012862/bluesky-posts-visible-not-logged-in-new-logo)
- - [Best Buy&#39;s Apple sale slashes prices by up to $300 with store pickup for Christmas](https://appleinsider.com/articles/23/12/22/best-buys-apple-sale-slashes-prices-by-up-to-300-with-store-pickup-for-christmas?utm_medium=rss)
- - [A Google Play Services update suggests Google&#39;s file-sharing feature Nearby Share could be rebranded to Quick Share, the name Samsung uses for a similar tool &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/231222/p20#a231222p20)
- - [Everyone’s getting their podcast lawsuits in before the year is over](https://www.theverge.com/2023/12/22/24012794/podcast-lawsuit-siriusxm-laura-ingraham-spotify-france-who-shat-at-my-wedding)
- - [No Costco Membership? How to Shop There for the Holidays Anyway     - CNET](https://www.cnet.com/culture/no-costco-membership-how-to-shop-there-for-the-holidays-anyway/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Apple sale slashes prices by up to $300 with store pickup for Christmas](https://appleinsider.com/articles/23/12/22/best-buys-apple-sale-slashes-prices-by-up-to-300-with-store-pickup-for-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

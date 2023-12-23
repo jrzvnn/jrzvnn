@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [All 90s kids know this!](http://9gag.com/gag/aDYey4x)
- - 💣 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
+ - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
+ - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
+ - 💣 [There is always this one that is mutated.](http://9gag.com/gag/avQKMqb)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
+ - 👉 [He knew](http://9gag.com/gag/anzPPB0)<!-- MEMES:END -->
 
 ---
 

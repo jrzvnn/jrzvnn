@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Video Games as Art](https://www.wired.com/story/difference-machines-art-exhibition-video-games/)
+ - [This Radical Plan to Make Roads Greener Actually Works](https://www.wired.com/story/this-radical-plan-to-make-roads-greener-actually-works/)
  - [A profile of FTC Chair Lina Khan, who on a trip to Silicon Valley in November aimed to convince a skeptical tech sector that the government was there to help &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/231223/p4#a231223p4)
  - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)
- - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)
- - [The Internet Isn&#39;t Dead. It&#39;s &#39;Saturday Night Live&#39;](https://www.wired.com/story/the-internet-isnt-dying-its-saturday-night-live/)
- - [The Pixel 8 Pro’s videos get a whole lot brighter with video boost — if you use it right](https://www.theverge.com/24012568/google-pixel-8-pro-video-boost-ai-photos)<!-- TECH:END -->
+ - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

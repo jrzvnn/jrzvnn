@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 😝 [He knew](http://9gag.com/gag/anzPPB0)
+ - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 💣 [Just German things.](http://9gag.com/gag/anzP6Bz)
+ - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
+ - 👉 [Blows my mind to think people used to spend 6+ weeks on a 200ft wooden ship, entirely reliant on the wind, to cross the freaking Atlantic.](http://9gag.com/gag/aDYeyY9)<!-- MEMES:END -->
 
 ---
 

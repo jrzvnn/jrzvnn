@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)
+ - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 💣 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
+ - 👉 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)<!-- MEMES:END -->
 
 ---
 

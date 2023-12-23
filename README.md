@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Maybe...](http://9gag.com/gag/avQKjXq)
  - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 😝 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
- - 💣 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
+ - 💣 [Really?](http://9gag.com/gag/avQKMOb)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
  - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 

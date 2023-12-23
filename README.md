@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knew](http://9gag.com/gag/anzPPB0)
- - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 💣 [Just German things.](http://9gag.com/gag/anzP6Bz)
- - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
- - 👉 [Blows my mind to think people used to spend 6+ weeks on a 200ft wooden ship, entirely reliant on the wind, to cross the freaking Atlantic.](http://9gag.com/gag/aDYeyY9)<!-- MEMES:END -->
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
+ - 😝 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

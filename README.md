@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
- - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
+ - 😝 [Blows my mind to think people used to spend 6+ weeks on a 200ft wooden ship, entirely reliant on the wind, to cross the freaking Atlantic.](http://9gag.com/gag/aDYeyY9)
+ - 💣 [The struggle is real](http://9gag.com/gag/a5X087V)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
 
 ---
 

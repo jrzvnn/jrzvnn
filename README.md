@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
  - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)
  - [Best Internet Providers in Berkeley, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
  - [Last Minute Holiday iPad Deals: Up to $100 in Savings on iPad Pro, Air, Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Copy Text Directly From Images in Seconds With a $4 Lifetime TextSniper Subscription     - CNET](https://www.cnet.com/deals/copy-text-directly-from-images-with-a-4-lifetime-textsniper-subscription/#ftag=CAD590a51e)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)<!-- TECH:END -->
+ - [Copy Text Directly From Images in Seconds With a $4 Lifetime TextSniper Subscription     - CNET](https://www.cnet.com/deals/copy-text-directly-from-images-with-a-4-lifetime-textsniper-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

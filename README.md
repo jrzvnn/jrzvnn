@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
- - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 💣 [There is always this one that is mutated.](http://9gag.com/gag/avQKMqb)
+ - 😝 [Maybe...](http://9gag.com/gag/avQKjXq)
+ - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
+ - 💣 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [He knew](http://9gag.com/gag/anzPPB0)<!-- MEMES:END -->
+ - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
 
 ---
 

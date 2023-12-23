@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of FTC Chair Lina Khan, who on a trip to Silicon Valley in November aimed to convince a skeptical tech sector that the government was there to help &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/231223/p4#a231223p4)
  - [The Best Photography Books of 2023](https://www.wired.com/gallery/best-photo-books-2023/)
  - [The Race to Put Brain Implants in People Is Heating Up](https://www.wired.com/story/the-race-to-put-brain-implants-in-people-is-heating-up/)
  - [The Internet Isn&#39;t Dead. It&#39;s &#39;Saturday Night Live&#39;](https://www.wired.com/story/the-internet-isnt-dying-its-saturday-night-live/)
- - [The Pixel 8 Pro’s videos get a whole lot brighter with video boost — if you use it right](https://www.theverge.com/24012568/google-pixel-8-pro-video-boost-ai-photos)
- - [West Ham vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 8 Pro’s videos get a whole lot brighter with video boost — if you use it right](https://www.theverge.com/24012568/google-pixel-8-pro-video-boost-ai-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

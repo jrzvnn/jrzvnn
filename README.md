@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
  - [How Sam Altman, the dealmaking prodigy full of contradictions, became one of the best-known tech CEOs, including by cultivating close ties with Peter Thiel &lpar;Washington Post&rpar;](http://www.techmeme.com/231223/p6#a231223p6)
+ - [Liverpool vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Bots registered as 13-year-old users on TikTok were shown highly polarized content about the Israel-Hamas war in the For You feed, within hours after signing up &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231223/p5#a231223p5)
- - [The Vergecast USB-C Holiday Spec-tacular](https://www.theverge.com/24012468/vergecast-podcast-holiday-special-usb-c)
- - [8 fantastic shows from 2023 to stream on Netflix](https://www.theverge.com/23979537/netflix-best-shows-2023)<!-- TECH:END -->
+ - [Give Your iPhone a Gift: Clear Your Cache     - CNET](https://www.cnet.com/tech/mobile/give-your-iphone-a-gift-clear-your-cache/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

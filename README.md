@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
  - 😝 [Really?](http://9gag.com/gag/avQKMOb)
  - 💣 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
  - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
 
 ---
 

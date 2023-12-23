@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
- - 💣 [This picture will be used in history book while discussing the fall of Western civilization.](http://9gag.com/gag/a9qgGE0)
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
+ - 💣 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
+ - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
- - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
- - 💣 [How do you Double Jump?](http://9gag.com/gag/aeQ8Bdq)
+ - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [A valuable lesson was learned that day](http://9gag.com/gag/a7qRX7m)
+ - 💣 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Maybe...](http://9gag.com/gag/avQKjXq)<!-- MEMES:END -->
+ - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe...](http://9gag.com/gag/avQKjXq)
- - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 💣 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
+ - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
+ - 💣 [Mom Exposed](http://9gag.com/gag/anzPowB)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 👉 [Rest in peace my friend :&#39;&rpar;](http://9gag.com/gag/anzPoPz)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Vergecast USB-C Holiday Spec-tacular](https://www.theverge.com/24012468/vergecast-podcast-holiday-special-usb-c)
+ - [8 fantastic shows from 2023 to stream on Netflix](https://www.theverge.com/23979537/netflix-best-shows-2023)
  - [Undersea-Aged Champagne Is Starting to Surface](https://www.wired.com/story/undersea-aged-champagne-is-starting-to-surface/)
  - [Apple offers publishers millions for AI access to archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)
- - [Video Games as Art](https://www.wired.com/story/difference-machines-art-exhibition-video-games/)
- - [This Radical Plan to Make Roads Greener Actually Works](https://www.wired.com/story/this-radical-plan-to-make-roads-greener-actually-works/)
- - [A profile of FTC Chair Lina Khan, who on a trip to Silicon Valley in November aimed to convince a skeptical tech sector that the government was there to help &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/231223/p4#a231223p4)<!-- TECH:END -->
+ - [What a Fusion Energy Breakthrough Means for Green Power     - CNET](https://www.cnet.com/science/what-a-fusion-energy-breakthrough-means-for-green-power/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

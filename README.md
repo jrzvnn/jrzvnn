@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
  - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
- - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
+ - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)<!-- MEMES:END -->
+ - 👉 [Really?](http://9gag.com/gag/avQKMOb)<!-- MEMES:END -->
 
 ---
 

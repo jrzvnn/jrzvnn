@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
- - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
+ - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 💣 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

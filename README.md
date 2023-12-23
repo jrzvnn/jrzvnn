@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
  - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
  - 💣 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
+ - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 👉 [Dindindindindin](http://9gag.com/gag/aA0zzYg)<!-- MEMES:END -->
 
 ---
 

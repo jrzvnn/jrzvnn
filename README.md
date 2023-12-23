@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 💣 [Really?](http://9gag.com/gag/avQKMOb)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

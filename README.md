@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 💣 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
+ - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
 
 ---
 

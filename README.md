@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wow](http://9gag.com/gag/aA0z942)
- - 😝 [This is a hall of fame insult](http://9gag.com/gag/a6qY6AL)
- - 💣 [Title](http://9gag.com/gag/aBdBejN)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 💣 [This picture will be used in history book while discussing the fall of Western civilization.](http://9gag.com/gag/a9qgGE0)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)<!-- MEMES:END -->
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 ---
 

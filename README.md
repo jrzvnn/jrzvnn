@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
  - 💣 [Whoulda thunk](http://9gag.com/gag/aQEWWEz)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [What kind of magic trick is this](http://9gag.com/gag/a2K63EZ)<!-- MEMES:END -->
+ - 👉 [Mom Exposed](http://9gag.com/gag/anzPowB)<!-- MEMES:END -->
 
 ---
 

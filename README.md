@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
- - 😝 [Widowed father of 7 has Xmas presents](http://9gag.com/gag/aREqb1M)
- - 💣 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
+ - 💣 [Simple. Elegant. Efficient. Less words. Gestures. Best friends.](http://9gag.com/gag/ap9Z4KW)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Rest in peace my friend :&#39;&rpar;](http://9gag.com/gag/anzPoPz)<!-- MEMES:END -->
+ - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
 
 ---
 

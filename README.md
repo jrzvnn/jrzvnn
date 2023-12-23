@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
- - 😝 [Blows my mind to think people used to spend 6+ weeks on a 200ft wooden ship, entirely reliant on the wind, to cross the freaking Atlantic.](http://9gag.com/gag/aDYeyY9)
- - 💣 [The struggle is real](http://9gag.com/gag/a5X087V)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
+ - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
+ - 💣 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bulgaria ends criminal proceedings against crypto lender Nexo, finding no evidence of money laundering, tax crimes, computer fraud, or other criminal activity &lpar;The Block&rpar;](http://www.techmeme.com/231223/p2#a231223p2)
  - [A US federal judge rules that Twitter breached its contracts with its employees by failing to pay bonuses in 2022, despite promising to pay 50% of the amounts &lpar;Michael Gennaro/Courthouse News Service&rpar;](http://www.techmeme.com/231223/p1#a231223p1)
  - [New Year, New Glasses: Save 40% and More on Frames, Sunglasses and Contacts at GlassesUSA     - CNET](https://www.cnet.com/deals/new-year-new-glasses-save-40-and-more-on-frames-sunglasses-and-contacts-at-glassesusa/#ftag=CAD590a51e)
  - [An interview with Meta Chief AI Scientist Yann LeCun on open source AI, why AI danger is overhyped, whether AI could produce artistic work that has soul, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/231222/p23#a231222p23)
- - [Substack brands itself as avoiding value judgments, but its justification for allowing certain offensive speech is full of value judgments, chosen to make money &lpar;Ken White/The Popehat Report&rpar;](http://www.techmeme.com/231222/p22#a231222p22)
- - [The Verge’s 2023 holiday gift guide](https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets)<!-- TECH:END -->
+ - [Substack brands itself as avoiding value judgments, but its justification for allowing certain offensive speech is full of value judgments, chosen to make money &lpar;Ken White/The Popehat Report&rpar;](http://www.techmeme.com/231222/p22#a231222p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 💣 [Maybe...](http://9gag.com/gag/avQKjXq)
+ - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 💣 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Harry, you&#39;re a wizard!](http://9gag.com/gag/aBdBznZ)<!-- MEMES:END -->
+ - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 
 ---
 

@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
- - 💣 [Simple. Elegant. Efficient. Less words. Gestures. Best friends.](http://9gag.com/gag/ap9Z4KW)
+ - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [O..kay... Thats very awesome of you miss Hitomi](http://9gag.com/gag/adPDwGj)<!-- MEMES:END -->
+ - 👉 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)<!-- MEMES:END -->
 
 ---
 

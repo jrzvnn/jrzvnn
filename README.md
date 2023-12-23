@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
+ - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 💣 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
+ - 👉 [Me paul](http://9gag.com/gag/aEqm3YG)<!-- MEMES:END -->
 
 ---
 

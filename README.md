@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Sam Altman, the dealing-making prodigy full of contradictions, became one of the best-known tech CEOs, including by cultivating close ties with Peter Thiel &lpar;Washington Post&rpar;](http://www.techmeme.com/231223/p6#a231223p6)
  - [Bots registered as 13-year-old users on TikTok were shown highly polarized content about the Israel-Hamas war in the For You feed, within hours after signing up &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231223/p5#a231223p5)
  - [The Vergecast USB-C Holiday Spec-tacular](https://www.theverge.com/24012468/vergecast-podcast-holiday-special-usb-c)
  - [8 fantastic shows from 2023 to stream on Netflix](https://www.theverge.com/23979537/netflix-best-shows-2023)
- - [Undersea-Aged Champagne Is Starting to Surface](https://www.wired.com/story/undersea-aged-champagne-is-starting-to-surface/)
- - [Apple offers publishers millions for AI access to archives](https://appleinsider.com/articles/23/12/23/apple-offers-publishers-millions-for-ai-access-to-archives?utm_medium=rss)<!-- TECH:END -->
+ - [Undersea-Aged Champagne Is Starting to Surface](https://www.wired.com/story/undersea-aged-champagne-is-starting-to-surface/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

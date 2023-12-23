@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe...](http://9gag.com/gag/avQKjXq)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
  - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 💣 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
+ - 💣 [Really?](http://9gag.com/gag/avQKMOb)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 ---
 

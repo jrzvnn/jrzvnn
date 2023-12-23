@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [So calm even when being attacked](http://9gag.com/gag/aOxLEmR)
- - 💣 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
+ - 😝 [There is always this one that is mutated.](http://9gag.com/gag/avQKMqb)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 💣 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
+ - 👉 [What kind of magic trick is this](http://9gag.com/gag/a2K63EZ)<!-- MEMES:END -->
 
 ---
 

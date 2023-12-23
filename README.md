@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
- - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
  - 💣 [Woman: self-downgrade](http://9gag.com/gag/aREqWe5)
  - 😝 [Nothing\u2019s better than sharing a chicken dinner with your PUBG Mobile squad! Let\u2018s submit your chicken dinner to share the joy!](http://9gag.com/gag/ap9ZMYb)
- - 👉 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)<!-- MEMES:END -->
+ - 👉 [Dindindindindin](http://9gag.com/gag/aA0zzYg)<!-- MEMES:END -->
 
 ---
 

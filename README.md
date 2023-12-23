@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [Macrodactyly is a disease where a finger is greatly enlarged in girth and length.](http://9gag.com/gag/a6qY6Dq)
- - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 😝 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
- - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 💣 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
+ - 😝 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)
+ - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
 
 ---
 

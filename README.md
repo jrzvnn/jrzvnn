@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [How AI defense tech developer Rebellion Defense is struggling to survive after failing to win a US DOD contract, losing its founders, and shuttering its UK arm &lpar;Forbes&rpar;](http://www.techmeme.com/231223/p8#a231223p8)
  - [Bose’s QuietComfort Ultra Earbuds are still sitting at their lowest price to date](https://www.theverge.com/2023/12/23/24011716/bose-quietcomfort-ultra-earbuds-amazon-echo-show-8-anker-usb-c-hub-deal-sale)
  - [Daily deals Dec. 23: $250 off M3 MacBook Pro, iPhones as low as $110, $20 off AirTags, more](https://appleinsider.com/articles/23/12/23/daily-deals-dec-23-250-off-m3-macbook-pro-iphones-as-low-as-110-20-off-airtags-more?utm_medium=rss)
- - [How to run basic and advanced Shortcuts on iPhone &amp; Mac](https://appleinsider.com/inside/macos/tips/how-to-run-basic-and-advanced-shortcuts-on-iphone-mac?utm_medium=rss)
- - [The Central Bank of Nigeria lifts a ban, imposed in February 2021, on cryptocurrency transactions but says global trends show a need to regulate such activities &lpar;MacDonald Dzirutwe/Reuters&rpar;](http://www.techmeme.com/231223/p7#a231223p7)<!-- TECH:END -->
+ - [Got Goals? Gain Lifetime Access to Headway Premium for Just $50     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-headway-premium-for-just-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

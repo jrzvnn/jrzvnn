@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 💣 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
+ - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
 
 ---
 

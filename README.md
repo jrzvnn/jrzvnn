@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study estimates that there are 13.3B+ videos on YouTube, of which 4B+ were posted to the platform in 2023, and the median YouTube video has 39 views &lpar;Ethan Zuckerman&rpar;](http://www.techmeme.com/231224/p4#a231224p4)
  - [Data.ai: puzzle app Royal Match has held the top spot for the biggest mobile game by monthly revenue globally since July, ahead of Candy Crush Saga &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231224/p3#a231224p3)
  - [Elon Musk is fielding complaints about Grok giving liberal responses on diversity, transgender rights, and inequality, despite promising an &quot;anti-woke&quot; chatbot &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/231224/p2#a231224p2)
  - [Micron says it has reached a global settlement agreement to end all lawsuits, including claims of IP theft, with Chinese state-backed chipmaker Fujian Jinhua &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231224/p1#a231224p1)
- - [GM pauses Chevy Blazer EV sales as it works to fix software problems, including the infotainment screen going blank, which affect a &quot;limited number&quot; of vehicles &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/231223/p13#a231223p13)
- - [Buyout firm Leonard Green agrees to buy a stake in UK-based Iris Software, which makes payroll and HR tools, from Hg in a deal valuing Iris at ~&amp;pound;3.15B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/231223/p12#a231223p12)<!-- TECH:END -->
+ - [GM pauses Chevy Blazer EV sales as it works to fix software problems, including the infotainment screen going blank, which affect a &quot;limited number&quot; of vehicles &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/231223/p13#a231223p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

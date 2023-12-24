@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
  - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 😝 [This is so appropriate.](http://9gag.com/gag/aEqm3VN)
- - 💣 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
+ - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
 
 ---
 

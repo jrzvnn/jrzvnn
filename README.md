@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 😝 [Hilarious attempt at insurance fraud](http://9gag.com/gag/arm77zp)
- - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
+ - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 💣 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
+ - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you Double Jump?](http://9gag.com/gag/aeQ8Bdq)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 💣 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
- - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
+ - 😝 [Different LEGO steering systems](http://9gag.com/gag/aBdB7y2)
+ - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
+ - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
 
 ---
 

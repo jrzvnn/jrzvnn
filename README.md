@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
- - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 💣 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
+ - 😝 [Guys please what is this anime called?](http://9gag.com/gag/a4oOegy)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 😝 [Hilarious attempt at insurance fraud](http://9gag.com/gag/arm77zp)
+ - 👉 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)<!-- MEMES:END -->
 
 ---
 

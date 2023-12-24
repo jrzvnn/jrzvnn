@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why i don&#39;t want to sit in the middle](http://9gag.com/gag/aoKQr4e)
- - 😝 [Lol.](http://9gag.com/gag/aPgbNOn)
- - 💣 [Daily routine](http://9gag.com/gag/aOxLgLD)
- - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
- - 👉 [Go home](http://9gag.com/gag/a4oOM6d)<!-- MEMES:END -->
+ - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 👉 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)<!-- MEMES:END -->
 
 ---
 

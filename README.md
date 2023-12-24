@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
  - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
  - 💣 [Good way to lose your license](http://9gag.com/gag/avQKMGX)
- - 😝 [A man tries to wave the Canadian flag in Toronto and is quickly confronted by protesters](http://9gag.com/gag/aWG3VR4)
- - 👉 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)<!-- MEMES:END -->
+ - 😝 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
+ - 👉 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 💣 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 😝 [Something , somewhere , somehow , SOME....BODY](http://9gag.com/gag/aL17xdg)
  - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
+ - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
 
 ---
 

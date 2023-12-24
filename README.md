@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truth hurts them gorlock](http://9gag.com/gag/az2p0wq)
- - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
- - 💣 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
- - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 👉 [Hey yall, 9gag enjoyers since 2010, just happy that i went down from 135-85kg in 8 months purely from workout, i have no social media so allow me to post here, cheers!](http://9gag.com/gag/aOxLMGR)<!-- MEMES:END -->
+ - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 👉 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
 
 ---
 

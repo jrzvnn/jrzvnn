@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A lesson in how autotune/pitch correction software works in the most extreme case when you sing a song extremely out of tune](http://9gag.com/gag/avQKY35)
- - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
- - 💣 [Oscar&#39;s sixth sense](http://9gag.com/gag/aGE431Z)
- - 😝 [Brave Irish woman tells a pair of creepy migrants to piss off and stop following them. Ireland is seeing a massive influx of 3rd world migrants. Something their government and media celebrate. Don&#39;t be naive Ireland, don&#39;t be naive.](http://9gag.com/gag/avQKYjq)
- - 👉 [Daily routine](http://9gag.com/gag/aOxLgLD)<!-- MEMES:END -->
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 

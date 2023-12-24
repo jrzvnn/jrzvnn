@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple in-house Wi-Fi chips probably won&#39;t make it into the iPhone 17](https://appleinsider.com/articles/23/12/24/apple-in-house-wi-fi-chips-probably-wont-make-it-into-the-iphone-17?utm_medium=rss)
  - [Researchers from Apple and Columbia University released Ferret, an open source multimodal LLM that can recognize and describe any shape in an image, in October &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231224/p7#a231224p7)
  - [Christmas Eve deals: M2 MacBook Air $899, $100 off iPad 10th Gen, Apple TV 4K $99, more](https://appleinsider.com/articles/23/12/24/christmas-eve-deals-m2-macbook-air-899-100-off-ipad-10th-gen-apple-tv-4k-99-more?utm_medium=rss)
  - [The Best Online Hearing Tests of 2023     - CNET](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
- - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
- - [Nvidia and its staff donated $15M to Israeli nonprofits helping civilians affected by the Israel-Hamas war, the largest humanitarian fundraiser for the company &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231224/p6#a231224p6)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

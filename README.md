@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
- - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
- - 💣 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
- - 😝 [Real corpses were used in the 1982 film Poltergeist.](http://9gag.com/gag/aoKQXXw)
- - 👉 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)<!-- MEMES:END -->
+ - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
+ - 😝 [This is why i don&#39;t want to sit in the middle](http://9gag.com/gag/aoKQr4e)
+ - 💣 [Lol.](http://9gag.com/gag/aPgbNOn)
+ - 😝 [Daily routine](http://9gag.com/gag/aOxLgLD)
+ - 👉 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)<!-- MEMES:END -->
 
 ---
 

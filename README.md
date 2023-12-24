@@ -171,8 +171,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
+ - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
  - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
  - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 

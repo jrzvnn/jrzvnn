@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
- - 😝 [Eugene Stoner and Mikhail Kalashnikov both shooting each other.......s rifles](http://9gag.com/gag/aZDOAbX)
- - 💣 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 👉 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
+ - 💣 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
 
 ---
 

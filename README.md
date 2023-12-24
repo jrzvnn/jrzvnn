@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 💣 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
- - 😝 [Brave Irish woman tells a pair of creepy migrants to piss off and stop following them. Ireland is seeing a massive influx of 3rd world migrants. Something their government and media celebrate. Don&#39;t be naive Ireland, don&#39;t be naive.](http://9gag.com/gag/avQKYjq)
- - 👉 [I love mints but that might be like 4 or 5 too many.](http://9gag.com/gag/axoqXWp)<!-- MEMES:END -->
+ - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 💣 [Balls of steel](http://9gag.com/gag/aMEM3x1)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you Double Jump?](http://9gag.com/gag/aeQ8Bdq)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
+ - 💣 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 ---
 

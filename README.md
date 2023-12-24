@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
  - [Apple hardware execs discuss &#39;profound&#39; changes in chip business](https://appleinsider.com/articles/23/12/24/apple-hardware-execs-discuss-profound-changes-in-chip-business?utm_medium=rss)
  - [What to Know About EndeavorRX, the Video Game to Treat ADHD     - CNET](https://www.cnet.com/health/mental/what-to-know-about-endeavor-the-video-game-to-treat-adhd/#ftag=CAD590a51e)
  - [A look at Sam Altman&#39;s history at Loopt and Y Combinator, where his side activities and personal projects riled colleagues and forced his departure from YC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p8#a231224p8)
- - [Apple&#39;s in-house Wi-Fi chips probably won&#39;t make it into the iPhone 17](https://appleinsider.com/articles/23/12/24/apple-in-house-wi-fi-chips-probably-wont-make-it-into-the-iphone-17?utm_medium=rss)
- - [Researchers from Apple and Columbia University released Ferret, an open source multimodal LLM that can recognize and describe any shape in an image, in October &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231224/p7#a231224p7)<!-- TECH:END -->
+ - [Apple&#39;s in-house Wi-Fi chips probably won&#39;t make it into the iPhone 17](https://appleinsider.com/articles/23/12/24/apple-in-house-wi-fi-chips-probably-wont-make-it-into-the-iphone-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

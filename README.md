@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PlayStation Portal is flawed but fun](https://www.theverge.com/24012547/sony-playstation-portal-handheld-remote-player-ps5-chiaki-review)
  - [How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)
  - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
  - [10 great shows from 2023 to watch on Hulu](https://www.theverge.com/23965702/hulu-best-shows-2023-streaming)
- - [A look at Take-Two&#39;s $12B Zynga deal in 2022, just as casual games peaked post pandemic, Apple introduced ATT, and the mobile game market headed into a downturn &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231224/p5#a231224p5)
- - [My Favorite Motorola Phone in 2023 Is on Sale for $400     - CNET](https://www.cnet.com/tech/mobile/my-favorite-motorola-phone-in-2023-is-on-sale-for-400/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Take-Two&#39;s $12B Zynga deal in 2022, just as casual games peaked post pandemic, Apple introduced ATT, and the mobile game market headed into a downturn &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231224/p5#a231224p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

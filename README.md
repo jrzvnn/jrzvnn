@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something , somewhere , somehow , SOME....BODY](http://9gag.com/gag/aL17xdg)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
- - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
+ - 😝 [Truth hurts them gorlock](http://9gag.com/gag/az2p0wq)
+ - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
+ - 💣 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
+ - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
+ - 👉 [I love mints but that might be like 4 or 5 too many.](http://9gag.com/gag/axoqXWp)<!-- MEMES:END -->
 
 ---
 

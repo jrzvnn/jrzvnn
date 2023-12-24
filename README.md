@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
- - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 👉 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)<!-- MEMES:END -->
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
+ - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 😝 [How the turn tables](http://9gag.com/gag/a6qYWWb)
+ - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 😝 [Dindindindindin](http://9gag.com/gag/aA0zzYg)
- - 💣 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
+ - 😝 [Truth hurts them gorlock](http://9gag.com/gag/az2p0wq)
+ - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
+ - 💣 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
+ - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
+ - 👉 [Hey yall, 9gag enjoyers since 2010, just happy that i went down from 135-85kg in 8 months purely from workout, i have no social media so allow me to post here, cheers!](http://9gag.com/gag/aOxLMGR)<!-- MEMES:END -->
 
 ---
 

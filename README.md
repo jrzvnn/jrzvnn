@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
  - 😝 [This is why i don&#39;t want to sit in the middle](http://9gag.com/gag/aoKQr4e)
- - 💣 [Lol.](http://9gag.com/gag/aPgbNOn)
- - 😝 [Daily routine](http://9gag.com/gag/aOxLgLD)
- - 👉 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aPgbNOn)
+ - 💣 [Daily routine](http://9gag.com/gag/aOxLgLD)
+ - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
+ - 👉 [Go home](http://9gag.com/gag/a4oOM6d)<!-- MEMES:END -->
 
 ---
 

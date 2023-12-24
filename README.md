@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
- - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 💣 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
  - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---

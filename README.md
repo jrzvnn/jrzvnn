@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys please what is this anime called?](http://9gag.com/gag/a4oOegy)
- - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 💣 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)
- - 😝 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
- - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 💣 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
+ - 😝 [Real corpses were used in the 1982 film Poltergeist.](http://9gag.com/gag/aoKQXXw)
+ - 👉 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)<!-- MEMES:END -->
 
 ---
 

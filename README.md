@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Different LEGO steering systems](http://9gag.com/gag/aBdB7y2)
- - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
- - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
+ - 💣 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 ---
 

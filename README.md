@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron says it has reached a global settlement agreement to end all lawsuits, including claims of IP theft, with Chinese state-backed chipmaker Fujian Jinhua &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231224/p1#a231224p1)
  - [GM pauses Chevy Blazer EV sales as it works to fix software problems, including the infotainment screen going blank, which affect a &quot;limited number&quot; of vehicles &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/231223/p13#a231223p13)
  - [Buyout firm Leonard Green agrees to buy a stake in UK-based Iris Software, which makes payroll and HR tools, from Hg in a deal valuing Iris at ~&amp;pound;3.15B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/231223/p12#a231223p12)
  - [12 Mistakes to Avoid When Setting Up a New TV for the Holidays     - CNET](https://www.cnet.com/tech/home-entertainment/12-mistakes-to-avoid-when-setting-up-a-new-tv-for-the-holidays/#ftag=CAD590a51e)
- - [A look at the American Journalism Project&#39;s Product &amp; AI Studio, launched with OpenAI in summer 2023 to explore how to apply emerging tech in local journalism &lpar;Trei Brundrett/American Journalism Project&rpar;](http://www.techmeme.com/231223/p11#a231223p11)
- - [How to use Xcode Previews to see how your app appears as you make it](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-previews-to-see-how-your-app-appears-as-you-make-it?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the American Journalism Project&#39;s Product &amp; AI Studio, launched with OpenAI in summer 2023 to explore how to apply emerging tech in local journalism &lpar;Trei Brundrett/American Journalism Project&rpar;](http://www.techmeme.com/231223/p11#a231223p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

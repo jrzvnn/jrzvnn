@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [Spiderman behind the scenes.](http://9gag.com/gag/a1P337R)
- - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
+ - 😝 [Oscar&#39;s sixth sense](http://9gag.com/gag/aGE431Z)
+ - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
 
 ---
 

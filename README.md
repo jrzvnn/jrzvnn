@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 😝 [Oscar&#39;s sixth sense](http://9gag.com/gag/aGE431Z)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 💣 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
  - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
+ - 👉 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)<!-- MEMES:END -->
 
 ---
 

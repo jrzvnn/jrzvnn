@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
- - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 💣 [Good way to lose your license](http://9gag.com/gag/avQKMGX)
+ - 😝 [Guys please what is this anime called?](http://9gag.com/gag/a4oOegy)
+ - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 💣 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)
  - 😝 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
- - 👉 [Ate posts here always deleted when you ask wrong questions? Also J. E. didn&#39;t kill ihmself](http://9gag.com/gag/aDYeBRN)<!-- MEMES:END -->
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 

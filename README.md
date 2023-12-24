@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 😝 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [Mom Exposed](http://9gag.com/gag/anzPowB)
+ - 😝 [Eugene Stoner and Mikhail Kalashnikov both shooting each other.......s rifles](http://9gag.com/gag/aZDOAbX)
+ - 💣 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
  - 👉 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
 
 ---

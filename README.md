@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
+ - 😝 [Guys please what is this anime called?](http://9gag.com/gag/a4oOegy)
+ - 💣 [Perfect Wife](http://9gag.com/gag/a9qgodj)
  - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
- - 👉 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)<!-- MEMES:END -->
+ - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---
 

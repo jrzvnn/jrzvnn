@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 😝 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
- - 💣 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 😝 [I love mints but that might be like 4 or 5 too many.](http://9gag.com/gag/axoqXWp)
- - 👉 [All 90s kids know this!](http://9gag.com/gag/aDYey4x)<!-- MEMES:END -->
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 💣 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 😝 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
+ - 👉 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)<!-- MEMES:END -->
 
 ---
 

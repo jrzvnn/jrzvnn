@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Is Telling Bedtime Stories to Your Kids Now](https://www.wired.com/story/bluey-gpts-bedtime-stories-artificial-intelligence-copyright/)
  - [I&#39;ve Been Making Bacon Wrong. Here&#39;s the Best &lpar;and Cleanest&rpar; Way to Cook It     - CNET](https://www.cnet.com/how-to/best-way-to-cook-bacon/#ftag=CAD590a51e)
  - [A study estimates that there are 13.3B+ videos on YouTube, of which 4B+ were posted to the platform in 2023, and the median YouTube video has 39 views &lpar;Ethan Zuckerman&rpar;](http://www.techmeme.com/231224/p4#a231224p4)
  - [Data.ai: puzzle app Royal Match has held the top spot for the biggest mobile game by monthly revenue globally since July, ahead of Candy Crush Saga &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231224/p3#a231224p3)
- - [Elon Musk is fielding complaints about Grok giving liberal responses on diversity, transgender rights, and inequality, despite promising an &quot;anti-woke&quot; chatbot &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/231224/p2#a231224p2)
- - [Micron says it has reached a global settlement agreement to end all lawsuits, including claims of IP theft, with Chinese state-backed chipmaker Fujian Jinhua &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231224/p1#a231224p1)<!-- TECH:END -->
+ - [Elon Musk is fielding complaints about Grok giving liberal responses on diversity, transgender rights, and inequality, despite promising an &quot;anti-woke&quot; chatbot &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/231224/p2#a231224p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

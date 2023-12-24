@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
- - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
+ - 😝 [Rams QB Matthew Stafford with his four daughters pregame](http://9gag.com/gag/adPDmrM)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
+ - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
+ - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
 
 ---
 

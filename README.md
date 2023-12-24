@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
- - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 😝 [How the turn tables](http://9gag.com/gag/a6qYWWb)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 😝 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
+ - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
  - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---

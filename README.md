@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AI Is Telling Bedtime Stories to Your Kids Now](https://www.wired.com/story/bluey-gpts-bedtime-stories-artificial-intelligence-copyright/)
- - [I&#39;ve Been Making Bacon Wrong. Here&#39;s the Best &lpar;and Cleanest&rpar; Way to Cook It     - CNET](https://www.cnet.com/how-to/best-way-to-cook-bacon/#ftag=CAD590a51e)
- - [A study estimates that there are 13.3B+ videos on YouTube, of which 4B+ were posted to the platform in 2023, and the median YouTube video has 39 views &lpar;Ethan Zuckerman&rpar;](http://www.techmeme.com/231224/p4#a231224p4)
- - [Data.ai: puzzle app Royal Match has held the top spot for the biggest mobile game by monthly revenue globally since July, ahead of Candy Crush Saga &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231224/p3#a231224p3)
- - [Elon Musk is fielding complaints about Grok giving liberal responses on diversity, transgender rights, and inequality, despite promising an &quot;anti-woke&quot; chatbot &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/231224/p2#a231224p2)<!-- TECH:END -->
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [The Best Streaming Services to Give as Holiday Gifts     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-service-to-gift/#ftag=CAD590a51e)
+ - [These Digital Gifts Are Quick, Easy and Actually Thoughtful     - CNET](https://www.cnet.com/tech/services-and-software/these-holiday-gift-ideas-are-quick-easy-and-actually-good/#ftag=CAD590a51e)
+ - [These Restaurant Gift Cards Give You Something for the Holidays, Too     - CNET](https://www.cnet.com/deals/restaurant-gift-cards-that-give-you-something-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

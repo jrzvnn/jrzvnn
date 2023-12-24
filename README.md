@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [12 Mistakes to Avoid When Setting Up a New TV for the Holidays     - CNET](https://www.cnet.com/tech/home-entertainment/12-mistakes-to-avoid-when-setting-up-a-new-tv-for-the-holidays/#ftag=CAD590a51e)
  - [A look at the American Journalism Project&#39;s Product &amp; AI Studio, launched with OpenAI in summer 2023 to explore how to apply emerging tech in local journalism &lpar;Trei Brundrett/American Journalism Project&rpar;](http://www.techmeme.com/231223/p11#a231223p11)
  - [How to use Xcode Previews to see how your app appears as you make it](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-previews-to-see-how-your-app-appears-as-you-make-it?utm_medium=rss)
- - [Don&#39;t Wait on These Walmart Deals You Can Still Get By Christmas     - CNET](https://www.cnet.com/deals/12-walmart-deals-you-can-still-get-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Wait on These Walmart Deals You Can Still Get by Christmas     - CNET](https://www.cnet.com/deals/12-walmart-deals-you-can-still-get-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

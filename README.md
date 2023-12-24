@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Online Hearing Tests of 2023     - CNET](https://www.cnet.com/health/medical/best-online-hearing-tests/#ftag=CAD590a51e)
  - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
  - [Nvidia and its staff donated $15M to Israeli nonprofits helping civilians affected by the Israel-Hamas war, the largest humanitarian fundraiser for the company &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231224/p6#a231224p6)
- - [The PlayStation Portal is flawed but fun](https://www.theverge.com/24012547/sony-playstation-portal-handheld-remote-player-ps5-chiaki-review)
- - [How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)
- - [How to Watch the &#39;Doctor Who&#39; Christmas Special From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-doctor-who-christmas-special-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seahawks vs. Titans Livestream: How to Watch NFL Week 16 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-titans-livestream-how-to-watch-nfl-week-16-online-today/#ftag=CAD590a51e)
+ - [Lions vs. Vikings Livestream: How to Watch NFL Week 16 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-vikings-livestream-how-to-watch-nfl-week-16-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

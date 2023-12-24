@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, hol the f up bruh \ud83d\udc80](http://9gag.com/gag/aWG3znA)
+ - 😝 [Different LEGO steering systems](http://9gag.com/gag/aBdB7y2)
+ - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
+ - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
  - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
- - 💣 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
- - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
+ - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
 
 ---
 

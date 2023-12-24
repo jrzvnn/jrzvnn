@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joy from My Name is Earl is one of the best sitcom characters of all time.](http://9gag.com/gag/aBdBBKO)
- - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 💣 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
+ - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
+ - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 💣 [NEW: A man from Guinea who had just crossed illegally into Lukeville, AZ tells me he plans to go to Philadelphia. When I asked why, he didn\u2019t know, and pulled out a piece of paper w/ an address written on it he\u2019s supposed to go to. We looked it up, it\u2019s a local community center.](http://9gag.com/gag/ajVe4Yx)
+ - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
+ - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
 
 ---
 

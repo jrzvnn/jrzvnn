@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rams QB Matthew Stafford with his four daughters pregame](http://9gag.com/gag/adPDmrM)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 💣 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 😝 [He\u2019ll be thinking about this for years to come](http://9gag.com/gag/a3ZXXGv)
+ - 😝 [How do you Double Jump?](http://9gag.com/gag/aeQ8Bdq)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
+ - 😝 [Really?](http://9gag.com/gag/avQKMOb)
  - 👉 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)<!-- MEMES:END -->
 
 ---

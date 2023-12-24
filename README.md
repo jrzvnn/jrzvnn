@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
+ - 😝 [Good way to lose your license](http://9gag.com/gag/avQKMGX)
+ - 💣 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
  - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
+ - 👉 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)<!-- MEMES:END -->
 
 ---
 

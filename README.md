@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)
- - 😝 [Guys please what is this anime called?](http://9gag.com/gag/a4oOegy)
- - 💣 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
- - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
+ - 😝 [A lesson in how autotune/pitch correction software works in the most extreme case when you sing a song extremely out of tune](http://9gag.com/gag/avQKY35)
+ - 😝 [Hurry! before 9gag deletes this!](http://9gag.com/gag/a8qxPPp)
+ - 💣 [Oscar&#39;s sixth sense](http://9gag.com/gag/aGE431Z)
+ - 😝 [Brave Irish woman tells a pair of creepy migrants to piss off and stop following them. Ireland is seeing a massive influx of 3rd world migrants. Something their government and media celebrate. Don&#39;t be naive Ireland, don&#39;t be naive.](http://9gag.com/gag/avQKYjq)
+ - 👉 [Daily routine](http://9gag.com/gag/aOxLgLD)<!-- MEMES:END -->
 
 ---
 

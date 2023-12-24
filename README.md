@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 😝 [Balls of steel](http://9gag.com/gag/aMEM3x1)
- - 💣 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
- - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 👉 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 😝 [Wait, hol the f up bruh \ud83d\udc80](http://9gag.com/gag/aWG3znA)
+ - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
+ - 💣 [Balls of steel](http://9gag.com/gag/aMEM3x1)
+ - 😝 [Feel a bit bad](http://9gag.com/gag/aBdBeNN)
+ - 👉 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)<!-- MEMES:END -->
 
 ---
 

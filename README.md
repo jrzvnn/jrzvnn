@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [10 great shows from 2023 to watch on Hulu](https://www.theverge.com/23965702/hulu-best-shows-2023-streaming)
  - [A look at Take-Two&#39;s $12B Zynga deal in 2022, just as casual games peaked post pandemic, Apple introduced ATT, and the mobile game market headed into a downturn &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231224/p5#a231224p5)
- - [The Tantalizing Mystery of the Solar System’s Hidden Oceans](https://www.wired.com/story/frozen-seas-solar-system/)
- - [iOS 17 Cheat Sheet: The Latest on Apple&#39;s iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-the-latest-on-apples-iphone-update/#ftag=CAD590a51e)
- - [Level Up Your Spotify Listening Experience With These Tips and Tricks     - CNET](https://www.cnet.com/tech/services-and-software/level-up-your-spotify-listening-experience-with-these-tips-and-tricks/#ftag=CAD590a51e)
- - [AI Is Telling Bedtime Stories to Your Kids Now](https://www.wired.com/story/bluey-gpts-bedtime-stories-artificial-intelligence-copyright/)<!-- TECH:END -->
+ - [My Favorite Motorola Phone in 2023 Is on Sale for $400     - CNET](https://www.cnet.com/tech/mobile/my-favorite-motorola-phone-in-2023-is-on-sale-for-400/#ftag=CAD590a51e)
+ - [The Tantalizing Mystery of the Solar System’s Hidden Oceans](https://www.wired.com/story/frozen-seas-solar-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

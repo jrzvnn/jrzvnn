@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
+ - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
  - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
- - 😝 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
- - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
- - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
  - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
 
 ---

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [6x200 = 1200](http://9gag.com/gag/aNwEEEw)
- - 😝 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
- - 💣 [NEW: A man from Guinea who had just crossed illegally into Lukeville, AZ tells me he plans to go to Philadelphia. When I asked why, he didn\u2019t know, and pulled out a piece of paper w/ an address written on it he\u2019s supposed to go to. We looked it up, it\u2019s a local community center.](http://9gag.com/gag/ajVe4Yx)
- - 😝 [Brand new, out of the box..then I see this &lpar;5800x&rpar;](http://9gag.com/gag/amA44Mo)
- - 👉 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)<!-- MEMES:END -->
+ - 😝 [A classic love story about a man and his murderous crane wife](http://9gag.com/gag/aoKQXQx)
+ - 😝 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 💣 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
 
 ---
 

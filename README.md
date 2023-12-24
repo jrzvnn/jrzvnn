@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
  - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
- - 💣 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 😝 [How stupid are you? Yes.](http://9gag.com/gag/az2ppOb)
- - 👉 [Indians must have opposite](http://9gag.com/gag/a4oOv5y)<!-- MEMES:END -->
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
+ - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
+ - 👉 [A very expensive beach house.](http://9gag.com/gag/aMEMgw1)<!-- MEMES:END -->
 
 ---
 

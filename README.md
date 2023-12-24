@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers extract business and personal email addresses for 30+ NYT staff by fine tuning GPT-3.5 Turbo, bypassing the safeguards for privacy-related queries &lpar;Jeremy White/New York Times&rpar;](http://www.techmeme.com/231224/p9#a231224p9)
+ - [Jet Lagged? 7 Tips to Protect Your Sleep From Time Zone Changes     - CNET](https://www.cnet.com/health/sleep/jet-lagged-7-tips-to-protect-your-sleep-from-time-zone-changes/#ftag=CAD590a51e)
  - [Here are over 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
  - [How to troubleshoot file transfers from iPhone to Mac over a cable or AirDrop](https://appleinsider.com/inside/ios/tips/how-to-troubleshoot-file-transfers-from-iphone-to-mac-over-a-cable-or-airdrop?utm_medium=rss)
- - [Apple&#39;s &#39;Ferret&#39; is a new open-source machine learning model](https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_medium=rss)
- - [Scammed With Zelle Over the Holidays? Banks May Now Reverse the Charges     - CNET](https://www.cnet.com/personal-finance/banking/scammed-with-zelle-over-the-holidays-banks-may-now-reverse-the-charges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses for Heavy People for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

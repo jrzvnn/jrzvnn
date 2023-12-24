@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Different LEGO steering systems](http://9gag.com/gag/aBdB7y2)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [That time of the year again](http://9gag.com/gag/aBdB7R1)
- - 👉 [Sign of true Friendship](http://9gag.com/gag/avQK3An)<!-- MEMES:END -->
+ - 😝 [Perfect packing! And without any single tape, boxes, or plastic.](http://9gag.com/gag/a6qYYM8)
+ - 😝 [Me paul](http://9gag.com/gag/aEqm3YG)
+ - 💣 [Really?](http://9gag.com/gag/avQKMOb)
+ - 😝 [Which pill will you choose between these two pills?](http://9gag.com/gag/az2ppzx)
+ - 👉 [Perfect Wife](http://9gag.com/gag/a9qgodj)<!-- MEMES:END -->
 
 ---
 

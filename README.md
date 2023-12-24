@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Different LEGO steering systems](http://9gag.com/gag/aBdB7y2)
  - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
  - 💣 [Bro imagined a whole life with her](http://9gag.com/gag/aXn6yBD)
- - 😝 [Sign of true Friendship](http://9gag.com/gag/avQK3An)
- - 👉 [How the internet changed a homeless man&#39;s life.](http://9gag.com/gag/aZDO64X)<!-- MEMES:END -->
+ - 😝 [That time of the year again](http://9gag.com/gag/aBdB7R1)
+ - 👉 [Sign of true Friendship](http://9gag.com/gag/avQK3An)<!-- MEMES:END -->
 
 ---
 

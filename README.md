@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019ll show him](http://9gag.com/gag/aKEQwA1)
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 💣 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
- - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
- - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
+ - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
+ - 😝 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
+ - 💣 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)
+ - 😝 [As a means to fight depression I took to carpentry. This is my first piece, it ain&#39;t much but I&#39;m proud of it. Took me 2 weeks at a rather comfortable pace.](http://9gag.com/gag/aNwEyG0)
+ - 👉 [The way she captured the family dynamic as well amazing caricature](http://9gag.com/gag/armQvg6)<!-- MEMES:END -->
 
 ---
 

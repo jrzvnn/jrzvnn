@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christmas deals: AirTag for $23, $120 off iPad Air 5, Apple MagSafe Charger $29, more](https://appleinsider.com/articles/23/12/25/christmas-deals-airtag-for-23-120-off-ipad-air-5-apple-magsafe-charger-29-more?utm_medium=rss)
  - [10 great Game Pass games for your Xbox](https://www.theverge.com/2023/12/25/23999612/xbox-games-game-pass-2023-best-roundup)
  - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)
  - [You Can Fix the Most Annoying iOS 17 Features on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/you-can-fix-the-most-annoying-ios-17-features-on-your-iphone/#ftag=CAD590a51e)
- - [Sunrun Solar Review: Is the Biggest Company Your Best Deal?     - CNET](https://www.cnet.com/home/energy-and-utilities/sunrun-solar-panels-review-does-biggest-mean-best/#ftag=CAD590a51e)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sunrun Solar Review: Is the Biggest Company Your Best Deal?     - CNET](https://www.cnet.com/home/energy-and-utilities/sunrun-solar-panels-review-does-biggest-mean-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

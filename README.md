@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canada is a WOKE nightmare](http://9gag.com/gag/aEq9vPG)
- - 😝 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
- - 💣 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
- - 😝 [No pro Palestine no Hamas no Lego concrete. No bombing no stabbing. Just pure Christmas. Marry Christmas from Estonia.](http://9gag.com/gag/az2pNWN)
- - 👉 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)<!-- MEMES:END -->
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 😝 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
 
 ---
 

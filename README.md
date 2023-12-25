@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
  - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
+ - 😝 [That makes all of us](http://9gag.com/gag/adPDmxd)
+ - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
+ - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
+ - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
 
 ---
 

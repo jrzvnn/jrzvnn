@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Need a Cheap Home Security Camera? Try an Old iPhone or Android Smartphone     - CNET](https://www.cnet.com/home/security/need-a-cheap-home-security-camera-try-an-old-iphone-or-android-smartphone/#ftag=CAD590a51e)
  - [Kuo: Apple&#39;s 2024 starts with Apple Vision Pro, ends with a new Mac event](https://appleinsider.com/articles/23/12/25/kuo-apples-2024-starts-with-apple-vision-pro-ends-with-a-new-mac-event?utm_medium=rss)
  - [Giants vs. Eagles Livestream: How to Watch NFL on Christmas Day Online     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-eagles-livestream-how-to-watch-nfl-on-christmas-day-online/#ftag=CAD590a51e)
- - [Kuo: Apple Vision Pro shipments are estimated to be approximately 500,000 units in 2024 and will most likely be available in late January or early February &lpar;Omar Sohail/Wccftech&rpar;](http://www.techmeme.com/231225/p4#a231225p4)
+ - [Kuo: Apple is expected to ship an estimated 500,000 Vision Pro units in 2024; the headset will most likely be available in late January or early February &lpar;Omar Sohail/Wccftech&rpar;](http://www.techmeme.com/231225/p4#a231225p4)
  - [Apple Watch Tips: Change These Settings for a Better Experience     - CNET](https://www.cnet.com/tech/mobile/apple-watch-tips-change-these-settings-for-a-better-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

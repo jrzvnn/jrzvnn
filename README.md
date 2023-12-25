@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
- - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 😝 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
  - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
 
 ---

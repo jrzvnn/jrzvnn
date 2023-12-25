@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old times](http://9gag.com/gag/aXnyZAg)
- - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
- - 💣 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
  - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 👉 [Too slow](http://9gag.com/gag/aQEL6Eq)<!-- MEMES:END -->
+ - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 💣 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 😝 [Good old times](http://9gag.com/gag/aXnyZAg)
+ - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
 
 ---
 

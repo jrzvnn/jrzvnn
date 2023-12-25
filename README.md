@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Last christmas](http://9gag.com/gag/avQMpvO)
- - 💣 [Times when having a gun makes sense](http://9gag.com/gag/aNw7rqw)
- - 😝 [Proud dad moment](http://9gag.com/gag/aVbpz2w)
- - 👉 [Precise ball placement.](http://9gag.com/gag/avQMpbW)<!-- MEMES:END -->
+ - 😝 [Teach them early, teach them well... oh, btw, be carrying as well](http://9gag.com/gag/aNw7m2A)
+ - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
+ - 💣 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 👉 [Too slow](http://9gag.com/gag/aQEL6Eq)<!-- MEMES:END -->
 
 ---
 

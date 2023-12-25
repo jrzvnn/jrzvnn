@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GTA V source code appears to have been leaked on Discord, Telegram, a dark web site, and more, a little over a year after Rockstar was hacked &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231225/p6#a231225p6)
  - [After vocal commitments following George Floyd&#39;s murder in 2020, DEI programs at Big Tech companies, including Meta and Google, are in broad retreat in 2023 &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/231225/p5#a231225p5)
  - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)
- - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)
- - [Best Latex Mattresses of 2023     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)
- - [Ravens vs. 49ers Livestream: How to Watch NFL on Christmas Day Online     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-49ers-livestream-how-to-watch-nfl-on-christmas-day-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ravens vs. 49ers Livestream: How to Watch NFL on Christmas Day Online     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-49ers-livestream-how-to-watch-nfl-on-christmas-day-online/#ftag=CAD590a51e)
+ - [Need a Cheap Home Security Camera? Try an Old iPhone or Android Smartphone     - CNET](https://www.cnet.com/home/security/need-a-cheap-home-security-camera-try-an-old-iphone-or-android-smartphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

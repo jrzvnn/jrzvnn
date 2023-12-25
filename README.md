@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paul](http://9gag.com/gag/aKEobGW)
- - 😝 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
- - 💣 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
+ - 😝 [Good old times](http://9gag.com/gag/aXnyZAg)
+ - 💣 [That makes all of us](http://9gag.com/gag/adPDmxd)
  - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 👉 [Wood](http://9gag.com/gag/a8qxP91)<!-- MEMES:END -->
+ - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
 
 ---
 

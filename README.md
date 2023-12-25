@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As a means to fight depression I took to carpentry. This is my first piece, it ain&#39;t much but I&#39;m proud of it. Took me 2 weeks at a rather comfortable pace.](http://9gag.com/gag/aNwEyG0)
- - 😝 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
- - 💣 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
- - 😝 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)
- - 👉 [The way she captured the family dynamic as well amazing caricature](http://9gag.com/gag/armQvg6)<!-- MEMES:END -->
+ - 😝 [Canada is a WOKE nightmare](http://9gag.com/gag/aEq9vPG)
+ - 😝 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
+ - 💣 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
+ - 😝 [No pro Palestine no Hamas no Lego concrete. No bombing no stabbing. Just pure Christmas. Marry Christmas from Estonia.](http://9gag.com/gag/az2pNWN)
+ - 👉 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)<!-- MEMES:END -->
 
 ---
 

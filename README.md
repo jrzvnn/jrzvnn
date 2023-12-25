@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Kuo: Apple&#39;s 2024 starts with Apple Vision Pro, ends with a new Mac event](https://appleinsider.com/articles/23/12/25/kuo-apples-2024-starts-with-apple-vision-pro-ends-with-a-new-mac-event?utm_medium=rss)
  - [Kuo: Apple Vision Pro shipments are estimated to be approximately 500,000 units in 2024 and will most likely be available in late January or early February &lpar;Omar Sohail/Wccftech&rpar;](http://www.techmeme.com/231225/p4#a231225p4)
- - [Christmas deals: AirTag for $23, $120 off iPad Air 5, Apple MagSafe Charger $29, more](https://appleinsider.com/articles/23/12/25/christmas-deals-airtag-for-23-120-off-ipad-air-5-apple-magsafe-charger-29-more?utm_medium=rss)
- - [These Green Energy Tax Breaks Could Give You a Bigger Tax Refund in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/these-green-energy-tax-breaks-could-give-you-a-bigger-tax-refund-in-2024/#ftag=CAD590a51e)
- - [6 Amazon Alexa Settings to Change for a Personalized Smart Home Experience     - CNET](https://www.cnet.com/home/smart-home/6-amazon-alexa-settings-to-change-for-a-personalized-smart-home-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Tips: Change These Settings for a Better Experience     - CNET](https://www.cnet.com/tech/mobile/apple-watch-tips-change-these-settings-for-a-better-experience/#ftag=CAD590a51e)
+ - [Twin vs. Twin XL Mattresses: Differences, Dimensions and Who They&#39;re Best For     - CNET](https://www.cnet.com/health/sleep/twin-vs-twin-xl-mattresses/#ftag=CAD590a51e)
+ - [Christmas deals: AirTag for $23, $120 off iPad Air 5, Apple MagSafe Charger $29, more](https://appleinsider.com/articles/23/12/25/christmas-deals-airtag-for-23-120-off-ipad-air-5-apple-magsafe-charger-29-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

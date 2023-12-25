@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christmas memories that last a lifetime](http://9gag.com/gag/a3Z6vM8)
- - 😝 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)
- - 💣 [Time is dragging](http://9gag.com/gag/aqeov0M)
- - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
- - 👉 [Tipping is not mandatory.its a way to show appreciation for the service you receive. I absolutely hate it when restaurants in the US try to force/shame you into tipping more.](http://9gag.com/gag/aNwEynr)<!-- MEMES:END -->
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 💣 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 😝 [I\u2019m fine](http://9gag.com/gag/aEqm9re)
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 

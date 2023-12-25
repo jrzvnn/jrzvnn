@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
- - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 💣 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [Precise ball placement.](http://9gag.com/gag/avQMpbW)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 💣 [Thanks paul.](http://9gag.com/gag/aREbQAG)
+ - 😝 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
+ - 👉 [Race card declined.](http://9gag.com/gag/amAeXMd)<!-- MEMES:END -->
 
 ---
 

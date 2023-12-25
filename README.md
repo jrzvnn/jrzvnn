@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Researchers: an updated Chameleon trojan uses an HTML page trick to disrupt biometrics on Android like Face Unlock to steal PINs and unlock the device at will &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231224/p12#a231224p12)
  - [China approves 105 local games, including titles from Tencent and NetEase, after the announcement of a new set of restrictions led to a $80B rout last week &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/231224/p11#a231224p11)
+ - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
  - [Merry Christmas from all of us, here at AppleInsider](https://appleinsider.com/articles/23/12/25/merry-christmas-from-all-of-us-here-at-appleinsider?utm_medium=rss)
- - [Apple halts Apple Watch Series 9, Apple Watch Ultra 2 sales in U.S. Apple Stores ahead of ITC ban](https://appleinsider.com/articles/23/12/24/apple-halts-apple-watch-series-9-apple-watch-ultra-2-sales-in-us-apple-stores-ahead-of-itc-ban?utm_medium=rss)
- - [A profile of Yi He, a former talk-show host, who co-founded Binance with Changpeng Zhao and has sweeping control over its marketing and investment divisions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231224/p10#a231224p10)<!-- TECH:END -->
+ - [Apple halts Apple Watch Series 9, Apple Watch Ultra 2 sales in U.S. Apple Stores ahead of ITC ban](https://appleinsider.com/articles/23/12/24/apple-halts-apple-watch-series-9-apple-watch-ultra-2-sales-in-us-apple-stores-ahead-of-itc-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

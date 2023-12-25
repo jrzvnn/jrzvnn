@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Perfect Wife](http://9gag.com/gag/a9qgodj)
- - 💣 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
+ - 😝 [Good old times](http://9gag.com/gag/aXnyZAg)
+ - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 💣 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
+ - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 👉 [Too slow](http://9gag.com/gag/aQEL6Eq)<!-- MEMES:END -->
 
 ---
 

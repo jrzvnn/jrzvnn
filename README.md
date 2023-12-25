@@ -172,8 +172,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
  - 😝 [Last christmas](http://9gag.com/gag/avQMpvO)
- - 💣 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
- - 😝 [Robin from/the hood](http://9gag.com/gag/a2K3Nme)
+ - 💣 [Times when having a gun makes sense](http://9gag.com/gag/aNw7rqw)
+ - 😝 [Proud dad moment](http://9gag.com/gag/aVbpz2w)
  - 👉 [Precise ball placement.](http://9gag.com/gag/avQMpbW)<!-- MEMES:END -->
 
 ---

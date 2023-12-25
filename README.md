@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avian Terminology...](http://9gag.com/gag/abvN50O)
- - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 💣 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 👉 [SANTA!](http://9gag.com/gag/adPGNBV)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 😝 [A little reminder to fellow russians to not mess with nato borders](http://9gag.com/gag/aBdBq92)
+ - 💣 [Avian Terminology...](http://9gag.com/gag/abvN50O)
+ - 😝 [Wood](http://9gag.com/gag/a8qxP91)
+ - 👉 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)<!-- MEMES:END -->
 
 ---
 

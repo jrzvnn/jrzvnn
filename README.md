@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [10 great Game Pass games for your Xbox](https://www.theverge.com/2023/12/25/23999612/xbox-games-game-pass-2023-best-roundup)
  - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)
- - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)<!-- TECH:END -->
+ - [You Can Fix the Most Annoying iOS 17 Features on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/you-can-fix-the-most-annoying-ios-17-features-on-your-iphone/#ftag=CAD590a51e)
+ - [Sunrun Solar Review: Is the Biggest Company Your Best Deal?     - CNET](https://www.cnet.com/home/energy-and-utilities/sunrun-solar-panels-review-does-biggest-mean-best/#ftag=CAD590a51e)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

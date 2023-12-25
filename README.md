@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
+ - 😝 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
  - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 💣 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)
- - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
+ - 💣 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
+ - 👉 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)<!-- MEMES:END -->
 
 ---
 

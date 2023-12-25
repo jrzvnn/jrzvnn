@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Go home](http://9gag.com/gag/a4oOM6d)
  - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Packgod vs Twitch Streamer](http://9gag.com/gag/ajVeoQx)
- - 💣 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 👉 [Lost her in every universe](http://9gag.com/gag/az2pnWm)<!-- MEMES:END -->
+ - 💣 [Merry Christmas to all you morons and retards who also spend Christmas eve alone. Love you guys. Life would be a lot less fun without you.](http://9gag.com/gag/abvnjmE)
+ - 😝 [Tipping is not mandatory.its a way to show appreciation for the service you receive. I absolutely hate it when restaurants in the US try to force/shame you into tipping more.](http://9gag.com/gag/aNwEynr)
+ - 👉 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)<!-- MEMES:END -->
 
 ---
 

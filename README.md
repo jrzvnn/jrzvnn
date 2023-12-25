@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
- - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 💣 [Teach them early, teach them well... oh, btw, be carrying as well](http://9gag.com/gag/aNw7m2A)
+ - 😝 [Teach them early, teach them well... oh, btw, be carrying as well](http://9gag.com/gag/aNw7m2A)
  - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
- - 👉 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)<!-- MEMES:END -->
+ - 💣 [ThinK Smart...](http://9gag.com/gag/a3ZX9y8)
+ - 😝 [Wood](http://9gag.com/gag/a8qxP91)
+ - 👉 [L\u00e8 collector](http://9gag.com/gag/a7qRzre)<!-- MEMES:END -->
 
 ---
 

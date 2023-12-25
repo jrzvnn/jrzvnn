@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your dad after finding your league account](http://9gag.com/gag/awZENN8)
- - 😝 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
- - 💣 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)
  - 😝 [As a means to fight depression I took to carpentry. This is my first piece, it ain&#39;t much but I&#39;m proud of it. Took me 2 weeks at a rather comfortable pace.](http://9gag.com/gag/aNwEyG0)
+ - 😝 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
+ - 💣 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)
+ - 😝 [Don&#39;t have anyone to celebrate Christmas with so decided to feast on some steak. Merry Christmas everyone. I dumped all the leftover juice from steak on the fries.](http://9gag.com/gag/a7qYLwL)
  - 👉 [The way she captured the family dynamic as well amazing caricature](http://9gag.com/gag/armQvg6)<!-- MEMES:END -->
 
 ---

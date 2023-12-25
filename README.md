@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 great Game Pass games for your Xbox](https://www.theverge.com/2023/12/25/23999612/xbox-games-game-pass-2023-best-roundup)
  - [Eve Matter Devices, Next Gen CarPlay, &amp; ESR MagSafe Chargers on HomeKit Insider](https://appleinsider.com/articles/23/12/25/eve-matter-devices-next-gen-carplay-esr-magsafe-chargers-on-homekit-insider?utm_medium=rss)
  - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)
  - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)
- - [The Hollywood Strikes Stopped AI From Taking Your Job. But for How Long?](https://www.wired.com/story/hollywood-saved-your-job-from-ai-2023-will-it-last/)<!-- TECH:END -->
+ - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

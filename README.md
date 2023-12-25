@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV Tax Credit 2023: Do You Qualify for the $7,500 Tax Break?     - CNET](https://www.cnet.com/roadshow/news/ev-tax-credit-2023-do-you-qualify-for-the-7500-tax-break/#ftag=CAD590a51e)
- - [A look at Microsoft&#39;s Xbox partnership with Inworld AI, focused on using AI to let NPCs in games evolve beyond predefined roles and adapt to player behavior &lpar;Trevor Laurence Jockims/CNBC&rpar;](http://www.techmeme.com/231225/p2#a231225p2)
- - [New iPhone 15? Let&#39;s Talk Data Transfer: Easy Tips for a Smooth Phone Change     - CNET](https://www.cnet.com/tech/mobile/new-iphone-15-lets-talk-data-transfer-easy-tips-for-a-smooth-phone-change/#ftag=CAD590a51e)
- - [A look at TikTok Shop, as big companies shun the e-commerce app, which has a clunky interface and is full of dubious merchandise, like a $50 plastic fork &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p1#a231225p1)
- - [Researchers: an updated Chameleon trojan uses an HTML page trick to disrupt biometrics on Android like Face Unlock to steal PINs and unlock the device at will &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231224/p12#a231224p12)<!-- TECH:END -->
+ - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)
+ - [The Hollywood Strikes Stopped AI From Taking Your Job. But for How Long?](https://www.wired.com/story/hollywood-saved-your-job-from-ai-2023-will-it-last/)
+ - [Current Mortgage Rates for Dec. 25, 2023: Rates Cool Off for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-dec-25-2023-rates-cool-off-for-homeseekers/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates for Dec. 25, 2023: Rates Decline for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-dec-25-2023-rates-decline-for-homeowners/#ftag=CAD590a51e)
+ - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

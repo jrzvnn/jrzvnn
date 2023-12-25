@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
  - 😝 [Lost her in every universe](http://9gag.com/gag/az2pnWm)
- - 👉 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)<!-- MEMES:END -->
+ - 😝 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 💣 [Teach them early, teach them well... oh, btw, be carrying as well](http://9gag.com/gag/aNw7m2A)
+ - 😝 [Gym lover](http://9gag.com/gag/ay2jODV)
+ - 👉 [The ideal way for Pok\u00e9mon to be](http://9gag.com/gag/a04y2QL)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F around find out](http://9gag.com/gag/a8qRb3Y)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
- - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 😝 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
+ - 👉 [Father of the year](http://9gag.com/gag/axoLZXb)<!-- MEMES:END -->
 
 ---
 

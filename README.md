@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [Race card declined.](http://9gag.com/gag/amAeXMd)
- - 💣 [Women](http://9gag.com/gag/a8qRLbV)
- - 😝 [F around find out](http://9gag.com/gag/a8qRb3Y)
- - 👉 [SANTA!](http://9gag.com/gag/adPGNBV)<!-- MEMES:END -->
+ - 😝 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 💣 [F around find out](http://9gag.com/gag/a8qRb3Y)
+ - 😝 [Women](http://9gag.com/gag/a8qRLbV)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

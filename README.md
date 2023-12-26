@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)
- - 😝 [Phones were great. Those things, not so much.](http://9gag.com/gag/aZD6xm3)
- - 💣 [The bestfriend I approve](http://9gag.com/gag/awZEKWB)
- - 😝 [Based man, wish everyone was like him](http://9gag.com/gag/aVbpQ98)
- - 👉 [Mother finds son after searching for hours. If she had a sandal, she would throw it at him.](http://9gag.com/gag/ajVz0Vx)<!-- MEMES:END -->
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

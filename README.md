@@ -161,7 +161,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo: Have You Tried These 5 Alexa Features Yet?     - CNET](https://www.cnet.com/home/smart-home/amazon-echo-have-you-tried-these-5-alexa-features-yet/#ftag=CAD590a51e)
+ - [Apple offers free AirTag for Japanese New Year festival](https://appleinsider.com/articles/23/12/26/apple-offers-free-airtag-for-japanese-new-year-festival?utm_medium=rss)
  - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
  - [Microsoft tests a feature that lets Windows 11 users reinstall the OS using Windows Update, a method that preserves files, settings, and installed apps &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p10#a231226p10)
  - [Apple&#39;s February 2023 in review: Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)

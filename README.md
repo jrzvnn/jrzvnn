@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
+ - 😝 [Strong and independend](http://9gag.com/gag/axoL28b)
+ - 😝 [Phones were great. Those things, not so much.](http://9gag.com/gag/aZD6xm3)
+ - 💣 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)
+ - 😝 [Based man, wish everyone was like him](http://9gag.com/gag/aVbpQ98)
+ - 👉 [Mother finds son after searching for hours. If she had a sandal, she would throw it at him.](http://9gag.com/gag/ajVz0Vx)<!-- MEMES:END -->
 
 ---
 

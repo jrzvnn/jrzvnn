@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
  - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 😝 [How to make music](http://9gag.com/gag/az2WVeb)
  - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)<!-- MEMES:END -->
 
 ---
 

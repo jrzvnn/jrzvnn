@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
- - 😝 [Dindindindindin](http://9gag.com/gag/abvnj1r)
- - 👉 [Ohh no.](http://9gag.com/gag/a9qxjOj)<!-- MEMES:END -->
+ - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
+ - 😝 [Henry and Amy getting Iced.](http://9gag.com/gag/aZD6qK3)
+ - 💣 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
 
 ---
 

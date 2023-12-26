@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AI apps like Bluey-GPT, Oscar, Once Upon a Bot, and Bedtimestory.ai, which create stories for kids, and concerns over copyright, trademark, and safety &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/231226/p2#a231226p2)
+ - [Here&#39;s How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/how-an-online-irs-account-can-help-you-get-your-taxes-finished/#ftag=CAD590a51e)
  - [How flood monitoring companies, like 7Analytics and Neara, are using AI to make real-time flooding predictions and help businesses minimize damage &lpar;Suzanne Bearne/BBC&rpar;](http://www.techmeme.com/231226/p1#a231226p1)
  - [B&amp;H&#39;s Mega Deal Zone shaves $250 off Apple&#39;s M3 MacBook Pro](https://appleinsider.com/articles/23/12/26/bhs-mega-deal-zone-shaves-250-off-apples-m3-macbook-pro?utm_medium=rss)
- - [Samsung delays chip production in its $17B Texas fab, saying the company could not confirm its production schedule, a blow to the US&#39; local chip ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p9#a231225p9)
- - [Experts detail how Facebook Marketplace users are getting scammed; Meta plans to add a notification system to let users identify &quot;scams around payment apps&quot; &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231225/p8#a231225p8)
- - [11 of the Best Walking Shoes for Women in 2023     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung delays chip production in its $17B Texas fab, saying the company could not confirm its production schedule, a blow to the US&#39; local chip ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231225/p9#a231225p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

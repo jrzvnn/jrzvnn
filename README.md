@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan plans to fine Apple over app stores and antitrust issues](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
  - [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
  - [Customers can now pay for goods with Apple Pay in Lowe&#39;s home improvement stores](https://appleinsider.com/articles/23/12/26/customers-can-now-pay-for-goods-with-apple-pay-in-lowes-home-improvement-stores?utm_medium=rss)
- - [Apple offers free AirTag for Japanese New Year festival](https://appleinsider.com/articles/23/12/26/apple-offers-free-airtag-for-japanese-new-year-festival?utm_medium=rss)
- - [Amazon Echo: Have You Tried These 5 Alexa Features Yet?     - CNET](https://www.cnet.com/home/smart-home/amazon-echo-have-you-tried-these-5-alexa-features-yet/#ftag=CAD590a51e)
- - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Apple offers free AirTag for Japanese New Year festival](https://appleinsider.com/articles/23/12/26/apple-offers-free-airtag-for-japanese-new-year-festival?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

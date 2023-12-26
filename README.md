@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 💣 [Women](http://9gag.com/gag/a8qRLbV)
  - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
+ - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
 
 ---
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a8qRLbV)
+ - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
  - 😝 [Wood](http://9gag.com/gag/a8qxP91)
- - 💣 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 😝 [F around find out](http://9gag.com/gag/a8qRb3Y)
+ - 💣 [Women](http://9gag.com/gag/a8qRLbV)
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
  - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---

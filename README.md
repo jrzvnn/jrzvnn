@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
  - [Microsoft tests a feature that lets Windows 11 users reinstall the OS using Windows Update, a method that preserves files, settings, and installed apps &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p10#a231226p10)
  - [Apple&#39;s February 2023 in review: Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
- - [Nielsen: YouTube&#39;s share of US viewership by 2- to 11-year-olds jumped from 29.4% in September 2021 to 33% in September 2023, while Netflix fell from 25% to 21% &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231226/p9#a231226p9)
- - [Apple Stops Selling Its Newest Watches in the US. What to Know     - CNET](https://www.cnet.com/tech/mobile/apple-to-halt-sales-of-its-newest-apple-watches-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Dispose of Your Old Mattress     - CNET](https://www.cnet.com/health/sleep/8-ways-to-dispose-of-your-old-mattress/#ftag=CAD590a51e)
+ - [No Sound in One AirPod? Troubleshooting Steps to Get It Working Again     - CNET](https://www.cnet.com/tech/mobile/no-sound-in-one-airpod-troubleshooting-steps-to-get-it-working-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

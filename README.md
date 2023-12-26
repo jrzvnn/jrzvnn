@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019ll show him](http://9gag.com/gag/aKEQwA1)
- - 😝 [Why People Why ??](http://9gag.com/gag/aA08RR0)
- - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
+ - 😝 [Swish](http://9gag.com/gag/aeQn3qv)
+ - 😝 [Mother finds son after searching for hours. If she had a sandal, she would throw it at him.](http://9gag.com/gag/ajVz0Vx)
+ - 💣 [Strong and independend](http://9gag.com/gag/axoL28b)
+ - 😝 [Phones were great. Those things, not so much.](http://9gag.com/gag/aZD6xm3)
+ - 👉 [Stopyerjewmediawhining](http://9gag.com/gag/ap9409b)<!-- MEMES:END -->
 
 ---
 

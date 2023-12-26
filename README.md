@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks paul.](http://9gag.com/gag/aREbQAG)
- - 😝 [Finally able to buy a car that&#39;s not older than 15-20 years for the first time in my life, this one being from late 2021 &lpar;green plates are dealership temp insurance plates, not the final plates&rpar; and i am f**king proud of that.](http://9gag.com/gag/aWGr0Wd)
- - 💣 [That\u2019ll show him](http://9gag.com/gag/aKEQwA1)
- - 😝 [Race card declined.](http://9gag.com/gag/amAeXMd)
- - 👉 [Swish](http://9gag.com/gag/aeQn3qv)<!-- MEMES:END -->
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [Good old times](http://9gag.com/gag/aXnyZAg)
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Powertrip](http://9gag.com/gag/a9qxj40)
+ - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
 
 ---
 

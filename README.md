@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
  - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
  - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
- - [How to Use OpenAI’s ChatGPT to Create Your Own Custom GPT](https://www.wired.com/story/how-to-use-chatgpt-create-custom-gpt-openai/)
- - [WIRED&#39;s 11 Noteworthy Long-form Stories of 2023](https://www.wired.com/gallery/wired-longreads-2023/)<!-- TECH:END -->
+ - [Best Travel Tech Gifts: Gadgets for the Journey and the Destination     - CNET](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
+ - [28 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

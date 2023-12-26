@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
  - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
  - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
 
 ---

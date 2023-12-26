@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [Wood](http://9gag.com/gag/a8qxP91)<!-- MEMES:END -->
+ - 😝 [More of this guy please](http://9gag.com/gag/abvN5Ep)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 💣 [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 😝 [Thanks paul.](http://9gag.com/gag/aREbQAG)
+ - 👉 [Just a couple of legends](http://9gag.com/gag/ap94o5M)<!-- MEMES:END -->
 
 ---
 

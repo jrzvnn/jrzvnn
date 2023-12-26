@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
  - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
  - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
  - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
- - [Best Travel Tech Gifts: Gadgets for the Journey and the Destination     - CNET](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
- - [28 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Travel Tech Gifts: Gadgets for the Journey and the Destination     - CNET](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

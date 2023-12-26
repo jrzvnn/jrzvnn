@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 😝 [Why People Why ??](http://9gag.com/gag/aA08RR0)
- - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 💣 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
 
 ---
 

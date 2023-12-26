@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scully](http://9gag.com/gag/a8qRY5e)
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [How to make music](http://9gag.com/gag/az2WVeb)
+ - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
  - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 😝 [Father of the year](http://9gag.com/gag/axoLZXb)
- - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
+ - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
 
 ---
 

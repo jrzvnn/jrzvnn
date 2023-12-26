@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [Scully](http://9gag.com/gag/a8qRY5e)
  - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
- - 😝 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 👉 [Father of the year](http://9gag.com/gag/axoLZXb)<!-- MEMES:END -->
+ - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [Father of the year](http://9gag.com/gag/axoLZXb)
+ - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
 
 ---
 

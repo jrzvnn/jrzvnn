@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s February 2023 in review: Apple Watch ban threat, layoffs, and Jony Ive&#39;s red nose](https://appleinsider.com/articles/23/03/04/apple-watch-ban-threat-layoffs-and-jony-ives-red-nose----february-2023-in-review?utm_medium=rss)
  - [Nielsen: YouTube&#39;s share of US viewership by 2- to 11-year-olds jumped from 29.4% in September 2021 to 33% in September 2023, while Netflix fell from 25% to 21% &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231226/p9#a231226p9)
+ - [Apple Stops Selling Its Newest Watches in the US. What to Know     - CNET](https://www.cnet.com/tech/mobile/apple-to-halt-sales-of-its-newest-apple-watches-heres-what-to-know/#ftag=CAD590a51e)
  - [20 Best After-Christmas Sales and Deals &lpar;2023&rpar;](https://www.wired.com/story/after-christmas-sales-and-deals-2023/)
- - [Apple appeals Apple Watch ban, citing &#39;irreparable harm&#39; to its business](https://appleinsider.com/articles/23/12/26/apple-appeals-apple-watch-ban-citing-irreparable-harm-to-its-business?utm_medium=rss)
- - [Sleep Smarter With Up to $500 Off Eight Sleep&#39;s Pod and Mattress Bundles     - CNET](https://www.cnet.com/deals/sleep-smarter-with-up-to-500-off-eight-sleeps-pod-and-mattress-bundles/#ftag=CAD590a51e)
- - [Get a Good Night&#39;s Sleep With Helix&#39;s 25% Sitewide Sale on Mattresses, Bedding and More     - CNET](https://www.cnet.com/deals/sleep-better-with-this-25-sitewide-sale-at-helix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple appeals Apple Watch ban, citing &#39;irreparable harm&#39; to its business](https://appleinsider.com/articles/23/12/26/apple-appeals-apple-watch-ban-citing-irreparable-harm-to-its-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

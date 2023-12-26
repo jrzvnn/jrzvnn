@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
- - 💣 [Avian Terminology...](http://9gag.com/gag/abvN50O)
  - 😝 [Race card declined.](http://9gag.com/gag/amAeXMd)
- - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
+ - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
+ - 💣 [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
+ - 👉 [Wood](http://9gag.com/gag/a8qxP91)<!-- MEMES:END -->
 
 ---
 

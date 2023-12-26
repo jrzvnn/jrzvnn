@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple appeals US ban on Apple Watch Ultra 2 and Series 9](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
+ - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
+ - [Microsoft launches Microsoft Copilot for Android, a free ChatGPT-like app that supports GPT-4 and DALL-E 3; sources: a Copilot iOS app is nearly ready &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p8#a231226p8)
  - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)
- - [Filing: Grayscale Investments, which runs the world&#39;s largest crypto trust, says Barry Silbert resigned as chair, replaced by Mark Shifke, and offers no reason &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/231226/p7#a231226p7)
- - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
- - [Microsoft Copilot is now available as a ChatGPT-like app on Android](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch)
- - [Sources: Reddit expects 2023 ad revenue up 20%+ to slightly over $800M; ad executives say Reddit is asking them to increase their spending by ~20% in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/231226/p6#a231226p6)<!-- TECH:END -->
+ - [Save Up to $675 on Top Tech at Dell With These Year-End Deals     - CNET](https://www.cnet.com/deals/save-up-to-675-on-top-tech-at-dell-with-these-end-of-the-year-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

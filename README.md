@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple appeals Apple Watch ban, citing &#39;irreparable harm&#39; to its business](https://appleinsider.com/articles/23/12/26/apple-appeals-apple-watch-ban-citing-irreparable-harm-to-its-business?utm_medium=rss)
- - [Sleep Smarter With Up to $500 Off Eight Sleep&#39;s Pod and Mattress Bundles     - CNET](https://www.cnet.com/deals/sleep-smarter-with-up-to-500-off-eight-sleeps-pod-and-mattress-bundles/#ftag=CAD590a51e)
- - [Get a Good Night&#39;s Sleep With Helix&#39;s 25% Sitewide Sale on Mattresses, Bedding and More     - CNET](https://www.cnet.com/deals/sleep-better-with-this-25-sitewide-sale-at-helix/#ftag=CAD590a51e)
- - [Get a New Look for 2024 With Up to 50% Off Frames at Zenni Optical     - CNET](https://www.cnet.com/deals/get-a-new-look-for-2024-with-up-to-50-off-frames-at-zenni-optical/#ftag=CAD590a51e)
- - [Apple appeals US ban on Apple Watch Ultra 2 and Series 9](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)<!-- TECH:END -->
+ - [Apple appeals US ban on Apple Watch Ultra 2 and Series 9](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
+ - [Apple is now banned from selling its latest Apple Watches in the US](https://www.theverge.com/2023/12/26/24012382/apple-import-ban-watch-series-9-ultra-2)
+ - [Microsoft launches Microsoft Copilot for Android, a free ChatGPT-like app that supports GPT-4 and DALL-E 3; sources say an iOS version should arrive soon &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/231226/p8#a231226p8)
+ - [Daily deals Dec. 26: 41% off MacBook Pro, $138 off Apple Watch S9, 42% off Aqara HomeKit lock, more](https://appleinsider.com/articles/23/12/26/daily-deals-dec-26-41-off-macbook-pro-138-off-apple-watch-s9-42-off-aqara-homekit-lock-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

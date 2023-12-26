@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Race card declined.](http://9gag.com/gag/amAeXMd)
- - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
- - 💣 [Fairness](http://9gag.com/gag/a2K3NMD)
- - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 👉 [Wood](http://9gag.com/gag/a8qxP91)<!-- MEMES:END -->
+ - 😝 [Wood](http://9gag.com/gag/a8qxP91)
+ - 😝 [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 💣 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
+ - 😝 [Would](http://9gag.com/gag/aMEobZV)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

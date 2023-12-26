@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Grayscale Investments, which runs the world&#39;s largest crypto trust, says Barry Silbert resigned as chair, replaced by Mark Shifke, and offers no reason &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/231226/p7#a231226p7)
+ - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
  - [Microsoft Copilot is now available as a ChatGPT-like app on Android](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch)
  - [Sources: Reddit expects 2023 ad revenue up 20%+ to slightly over $800M; ad executives say Reddit is asking them to increase their spending by ~20% in 2024 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/231226/p6#a231226p6)
- - [8 great games for your Switch from 2023](https://www.theverge.com/23978273/nintendo-switch-best-games-2023)
- - [Future MagSafe could transmit data and authenticate users through peripherals](https://appleinsider.com/articles/22/04/14/future-magsafe-could-transmit-data-and-authenticate-users-through-peripherals?utm_medium=rss)
- - [A legal dispute about a Bitcoin mine in a small Texas town reveals how Chinese nationals are using Tether to move money to the US without drawing attention &lpar;New York Times&rpar;](http://www.techmeme.com/231226/p5#a231226p5)<!-- TECH:END -->
+ - [8 great games for your Switch from 2023](https://www.theverge.com/23978273/nintendo-switch-best-games-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

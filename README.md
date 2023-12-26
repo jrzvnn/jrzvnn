@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indians Take &#39;Paving the Way&#39; a Bit Too Literally, Steal Newly Laid Road!](http://9gag.com/gag/az2pNMq)
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 💣 [F around find out](http://9gag.com/gag/a8qRb3Y)
- - 😝 [Women](http://9gag.com/gag/a8qRLbV)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 💣 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
+ - 😝 [More of this guy please](http://9gag.com/gag/abvN5Ep)
+ - 👉 [Fairness](http://9gag.com/gag/a2K3NMD)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [50 Best After-Christmas Deals You Can Get Right Now     - CNET](https://www.cnet.com/deals/best-after-christmas-sales/#ftag=CAD590a51e)
  - [Filing: xAI incorporates as a for-profit benefit corporation, allowing it to prioritize having a positive impact on society over its obligations to shareholders &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/231226/p11#a231226p11)
- - [Japan plans to fine Apple over app stores and antitrust issues](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
- - [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
- - [Customers can now pay for goods with Apple Pay in Lowe&#39;s home improvement stores](https://appleinsider.com/articles/23/12/26/customers-can-now-pay-for-goods-with-apple-pay-in-lowes-home-improvement-stores?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Where to Buy Apple&#39;s Latest and Older Versions     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [The Best Way to Reheat Leftovers Is Definitely Not in a Microwave     - CNET](https://www.cnet.com/how-to/best-way-to-reheat-leftover-food/#ftag=CAD590a51e)
+ - [Japan plans to fine Apple over app stores and antitrust issues](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

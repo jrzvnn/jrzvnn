@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
  - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
+ - 💣 [Powertrip](http://9gag.com/gag/a9qxj40)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 great games for your Switch from 2023](https://www.theverge.com/23978273/nintendo-switch-best-games-2023)
  - [Future MagSafe could transmit data and authenticate users through peripherals](https://appleinsider.com/articles/22/04/14/future-magsafe-could-transmit-data-and-authenticate-users-through-peripherals?utm_medium=rss)
  - [A legal dispute about a Bitcoin mine in a small Texas town reveals how Chinese nationals are using Tether to move money to the US without drawing attention &lpar;New York Times&rpar;](http://www.techmeme.com/231226/p5#a231226p5)
  - [The 10 Best Albums of 2023](https://www.wired.com/story/best-albums-of-2023/)
- - [The best shows on Paramount Plus in 2023](https://www.theverge.com/23999770/paramount-plus-best-shows-2023)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [The best shows on Paramount Plus in 2023](https://www.theverge.com/23999770/paramount-plus-best-shows-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

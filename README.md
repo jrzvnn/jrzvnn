@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [Powertrip](http://9gag.com/gag/a9qxj40)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 😝 [Why People Why ??](http://9gag.com/gag/aA08RR0)
+ - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [The real sword in the stone. The perspex cover makes it look like a bad render, but it is real. Many people have tried to steal it. On display at the chapel are the mummified hands of a thief who tried to remove the sword and was suddenly slaughtered by wild wolves. Pic in comms](http://9gag.com/gag/ay2jgOV)
- - 💣 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
- - 😝 [Mr Cristiano Ronaldo se booked you I&#39;m our best seat, but it has a little problem, Connor McGregor will be next to you.](http://9gag.com/gag/a2K6BW9)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
+ - 💣 [Avian Terminology...](http://9gag.com/gag/abvN50O)
+ - 😝 [Race card declined.](http://9gag.com/gag/amAeXMd)
+ - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
 
 ---
 

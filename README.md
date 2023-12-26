@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 😝 [Tourist throw rock into vulcano. Vulcano goes boom.](http://9gag.com/gag/aqeP4ZY)
- - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [SANTA!](http://9gag.com/gag/adPGNBV)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [Wood](http://9gag.com/gag/a8qxP91)<!-- MEMES:END -->
 
 ---
 

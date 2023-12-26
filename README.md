@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Henry and Amy getting Iced.](http://9gag.com/gag/aZD6qK3)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
  - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/a8qRLbV)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 👉 [Powertrip](http://9gag.com/gag/a9qxj40)<!-- MEMES:END -->
 
 ---
 

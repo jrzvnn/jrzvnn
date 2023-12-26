@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Too slow](http://9gag.com/gag/aQEL6Eq)
- - 😝 [Wood](http://9gag.com/gag/a8qxP91)
- - 💣 [Women](http://9gag.com/gag/a8qRLbV)
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 💣 [When your telephone is more important than your life...](http://9gag.com/gag/aQEWwK2)
+ - 😝 [Dindindindindin](http://9gag.com/gag/abvnj1r)
+ - 👉 [Ohh no.](http://9gag.com/gag/a9qxjOj)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
  - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
  - [Researchers detail a zero-click iMessage attack that used four zero-days and hacked iPhones for over four years, including dozens belonging to Kaspersky staff &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231227/p20#a231227p20)
- - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Tiger, Coatue, Vision Fund, a16z, Insight, Accel, Sequoia, Lightspeed, and Index together invested in 44 unicorns in 2023, down from 213 in 2022 and 471 in 2021 &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/231227/p19#a231227p19)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

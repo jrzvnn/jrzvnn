@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazilian Gamers Aren&#39;t Waiting for Hollywood. They&#39;re Building Their Own Cons](https://www.wired.com/story/brazil-games-fandom-perifacon/)
+ - [5 Best Food Processors and Choppers &lpar;2023&rpar;](https://www.wired.com/gallery/best-food-processors/)
+ - [8 great series and movies to stream on Disney Plus](https://www.theverge.com/23979424/disney-plus-best-shows-movies-streaming-2023)
  - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
- - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
- - [SoftBank tells T-Mobile US to issue 48.75M shares, worth $7.59B, to the conglomerate after the Sprint and T-Mobile merger, taking its stake from 3.75% to 7.64% &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231227/p13#a231227p13)
- - [Jony Ive hires ex-Apple design lead for OpenAI project](https://appleinsider.com/articles/23/12/27/jony-ive-hires-ex-apple-design-lead-for-openai-project?utm_medium=rss)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)<!-- TECH:END -->
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

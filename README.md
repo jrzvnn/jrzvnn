@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
  - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
- - 💣 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
+ - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
  - 😝 [Clever man finds god mode loophole to evict squatters](http://9gag.com/gag/aWGrWe4)
- - 👉 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)<!-- MEMES:END -->
+ - 👉 [Malacology is the study of molluscs](http://9gag.com/gag/a1Pye5D)<!-- MEMES:END -->
 
 ---
 

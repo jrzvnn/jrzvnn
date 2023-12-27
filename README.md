@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the challenges Amazon faces in selling cars in the US: only 11% of its customers report buying $1,000+ items, dealerships sell most new cars, and more &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231227/p9#a231227p9)
- - [China struggles to contain a shadow market for business data, as most companies shun the 48 official exchanges for data sales set up by local governments &lpar;Financial Times&rpar;](http://www.techmeme.com/231227/p8#a231227p8)
- - [When&#39;s the Best Time to Weigh Yourself to Get the Most Accurate Results?     - CNET](https://www.cnet.com/health/fitness/whens-the-best-time-to-weigh-yourself-to-get-the-most-accurate-results/#ftag=CAD590a51e)
- - [Amazon Prime Video plans to start showing ads starting on January 29, with an option for customers to pay an additional $2.99 per month to avoid the ads &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231227/p7#a231227p7)
- - [Hollywood unions resisting AI being used to recreate actors&#39; performances sets a precedent for future labor movements on how to push back against automation &lpar;Angela Watercutter/Wired&rpar;](http://www.techmeme.com/231227/p6#a231227p6)<!-- TECH:END -->
+ - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)
+ - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
+ - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)
+ - [Yes, the Climate Crisis Is Now ‘Gobsmacking.’ But So Is Progress](https://www.wired.com/story/yes-the-climate-crisis-is-now-gobsmacking-but-so-is-progress/)
+ - [A look at the challenges Amazon faces in selling cars in the US: only 11% of its customers report buying $1,000+ items, dealerships sell most new cars, and more &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231227/p9#a231227p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

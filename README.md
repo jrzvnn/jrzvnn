@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
- - 😝 [Wait a min..](http://9gag.com/gag/aQELn62)
- - 💣 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
- - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
- - 👉 [Clever man finds god mode loophole to evict squatters](http://9gag.com/gag/aWGrWe4)<!-- MEMES:END -->
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 💣 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
 
 ---
 

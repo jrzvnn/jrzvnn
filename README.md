@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
- - 😝 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
- - 💣 [Wait a min..](http://9gag.com/gag/aQELn62)
- - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
- - 👉 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)<!-- MEMES:END -->
+ - 😝 [It works](http://9gag.com/gag/aZD6WOz)
+ - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Scully](http://9gag.com/gag/a8qRY5e)
+ - 👉 [Race card declined.](http://9gag.com/gag/amAeXMd)<!-- MEMES:END -->
 
 ---
 

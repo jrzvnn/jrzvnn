@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
- - 👉 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)<!-- MEMES:END -->
+ - 😝 [How to make music](http://9gag.com/gag/az2WVeb)
+ - 😝 [To buy a Christmas gift](http://9gag.com/gag/aA08r4o)
+ - 💣 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
+ - 😝 [Be water](http://9gag.com/gag/aVbpX5d)
+ - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
 
 ---
 

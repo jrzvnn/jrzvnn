@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
  - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
 
 ---
 

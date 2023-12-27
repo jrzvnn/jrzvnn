@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
  - 😝 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 💣 [Hear me out](http://9gag.com/gag/awZE79R)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
+ - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
 
 ---
 

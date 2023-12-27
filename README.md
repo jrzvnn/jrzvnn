@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: MicroStrategy acquired 14,620 BTC for $616M in cash, taking its total holdings to 189,150 BTC, worth $8B+, or almost 1% of the 19.58M BTC outstanding &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/231227/p15#a231227p15)
  - [Apple Watch import ban kicked off a decade ago by an early-morning email to Tim Cook](https://appleinsider.com/articles/23/12/27/apple-watch-patent-lawsuit-started-by-an-email-to-tim-cook?utm_medium=rss)
  - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
  - [10 great Windows PC games from 2023](https://www.theverge.com/23979457/best-windows-pc-games-2023)
- - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)
- - [Apple Pay now available in Lowe&#39;s home improvement stores](https://appleinsider.com/articles/23/12/26/customers-can-now-pay-for-goods-with-apple-pay-in-lowes-home-improvement-stores?utm_medium=rss)<!-- TECH:END -->
+ - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

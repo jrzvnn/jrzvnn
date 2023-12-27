@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new AI-enabled smart fridge can design recipes based on your dietary needs](https://www.theverge.com/2023/12/27/24016939/samsung-2024-ai-family-hub-smart-fridge-features)
  - [Apple Watch Series 9, Apple Watch Ultra 2 return to Apple Stores](https://appleinsider.com/articles/23/12/27/apple-watch-series-9-apple-watch-ultra-2-return-to-apple-stores?utm_medium=rss)
  - [Apple resumes Watch Series 9 and Ultra 2 sales in some physical US stores starting today, with online sales resuming tomorrow by 3PM ET &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/231227/p22#a231227p22)
  - [Astrohaus will be shipping its cheapest Freewrite digital typewriter in January](https://www.theverge.com/2023/12/27/24016791/astrohaus-freewrite-alpha-digital-typewriter-e-ink)
- - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
- - [Apple resumes Apple Watch sales after ban is paused](https://www.theverge.com/2023/12/27/24016684/apple-watch-on-sale-again-import-sales-bans-paused)<!-- TECH:END -->
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

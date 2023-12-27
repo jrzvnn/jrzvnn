@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What If…? season 2 doesn’t get good until it really lets loose](https://www.theverge.com/24015321/marvel-what-if-season-2-kahhori-captain-carter)
  - [Researchers detail a zero-click iMessage attack that used four zero-days and hacked iPhones for over four years, including dozens belonging to Kaspersky staff &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231227/p20#a231227p20)
  - [Tiger, Coatue, Vision Fund, a16z, Insight, Accel, Sequoia, Lightspeed, and Index together invested in 44 unicorns in 2023, down from 213 in 2022 and 471 in 2021 &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/231227/p19#a231227p19)
  - [Apple&#39;s April 2023 in review: Honoring Steve Jobs, opening up India, and learning to save](https://appleinsider.com/articles/23/12/27/apples-april-2023-in-review-honoring-steve-jobs-opening-up-india-and-learning-to-save?utm_medium=rss)
- - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [Daily deals Dec. 27: 24-inch iMac $899, MacBook Pro from $849, 30% off Plex, 50% off Mophie 3-in-1 Charging Pad, more](https://appleinsider.com/articles/23/12/27/daily-deals-dec-27-24-inch-imac-899-macbook-pro-from-849-30-off-plex-50-off-mophie-3-in-1-charging-pad-more?utm_medium=rss)<!-- TECH:END -->
+ - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

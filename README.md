@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)
- - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [Women](http://9gag.com/gag/a8qRLbV)
  - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
- - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
+ - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
+ - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
 
 ---
 

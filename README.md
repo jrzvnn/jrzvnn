@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 💣 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
  - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 ---

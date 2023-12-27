@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Netflix doing something right for once.](http://9gag.com/gag/avQM0nO)
  - 😝 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 💣 [Avian Terminology...](http://9gag.com/gag/abvN50O)
- - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 💣 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)
+ - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
+ - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
 
 ---
 

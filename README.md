@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+ - [Apple&#39;s January 2023 in review: New Macs, HomePod, and an event deleted scene](https://appleinsider.com/articles/23/02/04/new-macs-homepod-and-an-event-deleted-scene----january-2023-in-review?utm_medium=rss)
+ - [SoftBank tells T-Mobile US to issue 48.75M shares, worth $7.59B, to the conglomerate after the Sprint and T-Mobile merger, taking its stake from 3.75% to 7.64% &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/231227/p13#a231227p13)
  - [Jony Ive hires ex-Apple design lead for OpenAI project](https://appleinsider.com/articles/23/12/27/jony-ive-hires-ex-apple-design-lead-for-openai-project?utm_medium=rss)
- - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)
- - [The NYT sues OpenAI and Microsoft for copyright infringement, alleging millions of articles were used in training, the first major US media organization to sue &lpar;New York Times&rpar;](http://www.techmeme.com/231227/p12#a231227p12)
- - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
- - [How Apple hiring Stanford PhD Marcelo Lamego, who was CTO of Masimo sister Cercacor, in 2013 to add Watch health features sparked a fight that led to the US ban &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231227/p11#a231227p11)<!-- TECH:END -->
+ - [The Verge’s 2023 in review](https://www.theverge.com/24006441/2023-best-worst-gadgets-entertainment-social)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

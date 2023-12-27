@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It works](http://9gag.com/gag/aZD6WOz)
- - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
- - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
  - 😝 [Scully](http://9gag.com/gag/a8qRY5e)
- - 👉 [Race card declined.](http://9gag.com/gag/amAeXMd)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 💣 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
+ - 👉 [Hamas supporters stormed Christmas charity event for blind kids in Australia](http://9gag.com/gag/a4oX4v1)<!-- MEMES:END -->
 
 ---
 

@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Humor is one of the finest traits in life.](http://9gag.com/gag/a4oXdW1)
+ - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
+ - 💣 [Wait a min..](http://9gag.com/gag/aQELn62)
  - 😝 [Be water](http://9gag.com/gag/aVbpX5d)
- - 💣 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
- - 😝 [Wait a min..](http://9gag.com/gag/aQELn62)
  - 👉 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)<!-- MEMES:END -->
 
 ---

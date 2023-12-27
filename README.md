@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 😝 [Oh damn, the window shattered again for no reason](http://9gag.com/gag/anzm1Vb)
+ - 😝 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
+ - 💣 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---

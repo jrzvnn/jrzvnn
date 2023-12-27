@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
  - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)
  - [Yes, the Climate Crisis Is Now ‘Gobsmacking.’ But So Is Progress](https://www.wired.com/story/yes-the-climate-crisis-is-now-gobsmacking-but-so-is-progress/)
- - [A look at the challenges Amazon faces in selling cars in the US: only 11% of its customers report buying $1,000+ items, dealerships sell most new cars, and more &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231227/p9#a231227p9)<!-- TECH:END -->
+ - [Mortgage Refinance Rates on Dec. 27, 2023: Rates Dip Since Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-dec-27-2023-rates-dip-since-last-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

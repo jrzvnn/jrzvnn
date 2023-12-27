@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
  - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 💣 [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 💣 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
  - 😝 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
- - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
+ - 👉 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)<!-- MEMES:END -->
 
 ---
 

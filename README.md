@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)
  - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
- - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
- - [Apple Watch ban temporarily paused](https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused)
- - [A US appeals court pauses the ITC&#39;s Apple Watch Series 9 and Ultra 2 import ban over Masimo&#39;s patents, after the Biden administration declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)<!-- TECH:END -->
+ - [Apple Watch Series 9 and Ultra 2 Ban: The Latest and What You Need To Know     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-ban-the-latest-and-what-you-need-to-know/#ftag=CAD590a51e)
+ - [Snag a 32-ounce Brumate Toddy XL at a 30% Discount Right Now     - CNET](https://www.cnet.com/deals/snag-a-32-ounce-brumate-toddy-xl-at-a-30-discount-right-now/#ftag=CAD590a51e)
+ - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)
+ - [New Year, New Router: Save Up to $200 Off at TP-Link&#39;s End-of-the-Year Sale     - CNET](https://www.cnet.com/deals/new-year-new-router-save-up-to-200-off-at-tp-links-end-of-the-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

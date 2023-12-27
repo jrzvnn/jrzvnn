@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers propose a protocol to secure AirTag against stalking while maintaining privacy; Apple revised its system to rotate device identifiers every 24 hours &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231227/p16#a231227p16)
+ - [How to use the new spirit level in the iOS 17 Camera app](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spirit-level-in-the-ios-17-camera-app?utm_medium=rss)
  - [Filing: MicroStrategy acquired 14,620 BTC for $616M in cash, taking its total holdings to 189,150 BTC, worth $8B+, or almost 1% of the 19.58M BTC outstanding &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/231227/p15#a231227p15)
  - [Apple Watch import ban kicked off a decade ago by an early-morning email to Tim Cook](https://appleinsider.com/articles/23/12/27/apple-watch-patent-lawsuit-started-by-an-email-to-tim-cook?utm_medium=rss)
- - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
- - [10 great Windows PC games from 2023](https://www.theverge.com/23979457/best-windows-pc-games-2023)
- - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

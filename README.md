@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After over a year of testing, South Korean internet giant Naver plans to let companies use its Rookie office helper robots that can deliver meals and parcels &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/231227/p5#a231227p5)
  - [Integris Health, Oklahoma&#39;s largest not-for-profit health network, confirms a November cyberattack resulting in stolen data, after patients get extortion emails &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231227/p4#a231227p4)
  - [PitchBook: Microsoft, Google, and Amazon made investments amounting to two-thirds of the $27B raised by AI startups in 2023, vastly outspending VC firms &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231227/p3#a231227p3)
  - [Researchers are increasingly using the Harry Potter books to experiment with generative AI, citing the series&#39; wide range of language data and complex wordplay &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/231227/p2#a231227p2)
- - [The creators of an NHS scheme to use AI sensors in kettles and fridges to monitor ~140 discharged patients say the program reduced unplanned readmissions by 77% &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/231227/p1#a231227p1)
- - [China&#39;s gaming regulator says it will &quot;carefully study&quot; the concerns of all stakeholders on draft rules aimed at curbing excessive online gaming and spending &lpar;Clement Tan/CNBC&rpar;](http://www.techmeme.com/231226/p15#a231226p15)<!-- TECH:END -->
+ - [The creators of an NHS scheme to use AI sensors in kettles and fridges to monitor ~140 discharged patients say the program reduced unplanned readmissions by 77% &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/231227/p1#a231227p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

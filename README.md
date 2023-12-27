@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [1994 Nissan Skyline GT-R&lpar;R32&rpar;](http://9gag.com/gag/aBdAQx1)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [Random Tolkien fact.](http://9gag.com/gag/a4oXLYd)
+ - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 💣 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)
  - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
- - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
+ - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
 
 ---
 

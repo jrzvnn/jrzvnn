@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
  - 😝 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 💣 [Father of the year](http://9gag.com/gag/axoLZXb)
- - 😝 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
+ - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
+ - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
 
 ---
 

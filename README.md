@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 💣 [The Swedish government has announced it will stop paying development aid to countries that don\u2019t take back rejected asylum seekers from Sweden....After so many girls have been raped, are they starting to realize?](http://9gag.com/gag/aKEQzPN)
+ - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
  - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---

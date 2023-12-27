@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court pauses the ITC&#39;s ban on Apple Watch Series 9 and Ultra 2 imports due to the Masimo patent dispute, after Biden declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)
  - [US Apple Watch sales and import ban: What you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
  - [Investigation: China&#39;s Ministry of State Security intel agency uses AI and other tech to challenge the CIA; US officials describe an AI system to track US spies &lpar;New York Times&rpar;](http://www.techmeme.com/231227/p17#a231227p17)
  - [How to protect yourself from QR code scams](https://appleinsider.com/articles/23/12/27/how-to-protect-yourself-from-qr-code-scams?utm_medium=rss)
- - [Apple&#39;s M3 Pro MacBook Pro with 36GB RAM drops to record-low $1,999](https://appleinsider.com/articles/23/12/27/apples-m3-pro-macbook-pro-with-36gb-ram-drops-to-record-low-1999?utm_medium=rss)
- - [Researchers propose a protocol to secure AirTag against stalking while maintaining privacy; Apple revised its system to rotate device identifiers every 24 hours &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231227/p16#a231227p16)<!-- TECH:END -->
+ - [Apple&#39;s M3 Pro MacBook Pro with 36GB RAM drops to record-low $1,999](https://appleinsider.com/articles/23/12/27/apples-m3-pro-macbook-pro-with-36gb-ram-drops-to-record-low-1999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [SANTA!](http://9gag.com/gag/adPGNBV)
- - 💣 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [Why People Why ??](http://9gag.com/gag/aA08RR0)<!-- MEMES:END -->
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 💣 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
+ - 👉 [Lol](http://9gag.com/gag/aA08Yw0)<!-- MEMES:END -->
 
 ---
 

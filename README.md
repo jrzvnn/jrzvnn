@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
+ - [Hands on with Holafly eSIM: Easy and hassle-free mobile data for travelers](https://appleinsider.com/articles/23/12/27/hands-on-with-holafly-esim-easy-and-hassle-free-mobile-data-for-travelers?utm_medium=rss)
  - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)
  - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
- - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)
- - [Yes, the Climate Crisis Is Now ‘Gobsmacking.’ But So Is Progress](https://www.wired.com/story/yes-the-climate-crisis-is-now-gobsmacking-but-so-is-progress/)
- - [Mortgage Refinance Rates on Dec. 27, 2023: Rates Dip Since Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-dec-27-2023-rates-dip-since-last-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)
  - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
  - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [Apple Watch ban temporarily paused](https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused)
- - [A US appeals court pauses the ITC&#39;s Apple Watch Series 9 and Ultra 2 import ban over Masimo&#39;s patent, after the Biden administration declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)
- - [This Newegg After-Christmas Sale Will Net You Big Savings on Laptops, PC Components and More     - CNET](https://www.cnet.com/deals/this-newegg-after-christmas-sale-will-net-you-big-savings-on-computers-headphones-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US appeals court pauses the ITC&#39;s Apple Watch Series 9 and Ultra 2 import ban over Masimo&#39;s patents, after the Biden administration declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

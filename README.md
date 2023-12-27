@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 😝 [Father of the year](http://9gag.com/gag/axoLZXb)
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---

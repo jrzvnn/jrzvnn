@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
  - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 

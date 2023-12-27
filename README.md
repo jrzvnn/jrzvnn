@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
- - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/aKEQzqb)
- - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 👉 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)<!-- MEMES:END -->
+ - 😝 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)
+ - 😝 [She ate him after that](http://9gag.com/gag/a2K3EBO)
+ - 💣 [I want to believe](http://9gag.com/gag/a1PyAgD)
+ - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 👉 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)<!-- MEMES:END -->
 
 ---
 

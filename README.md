@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Astrohaus will be shipping its cheapest Freewrite digital typewriter in January](https://www.theverge.com/2023/12/27/24016791/astrohaus-freewrite-alpha-digital-typewriter-e-ink)
  - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [Apple resumes Apple Watch sales after ban is paused](https://www.theverge.com/2023/12/27/24016684/apple-watch-on-sale-again-import-sales-bans-paused)
  - [Study: social media companies collectively made ~$11B in US ad revenue from minors in 2022; YouTube earned the most at $959.1M from users 12 and under &lpar;Associated Press&rpar;](http://www.techmeme.com/231227/p21#a231227p21)
- - [Protect Your Amazon Echo: Don&#39;t Place Your Device in These High-Risk Areas     - CNET](https://www.cnet.com/home/smart-home/protect-your-amazon-echo-dont-place-your-device-in-these-high-risk-areas/#ftag=CAD590a51e)
- - [How to take advantage of Chrome’s side panel](https://www.theverge.com/24016278/chrome-google-side-panel-how-to)<!-- TECH:END -->
+ - [Protect Your Amazon Echo: Don&#39;t Place Your Device in These High-Risk Areas     - CNET](https://www.cnet.com/home/smart-home/protect-your-amazon-echo-dont-place-your-device-in-these-high-risk-areas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

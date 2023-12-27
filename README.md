@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [Random Tolkien fact.](http://9gag.com/gag/a4oXLYd)
- - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
  - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---

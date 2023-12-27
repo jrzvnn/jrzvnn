@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s gaming regulator says it will &quot;carefully study&quot; the concerns of all stakeholders on draft rules aimed at curbing excessive online gaming and spending &lpar;Clement Tan/CNBC&rpar;](http://www.techmeme.com/231226/p15#a231226p15)
  - [Sources: Japan is preparing regulations requiring Apple, Google, and others to allow third-party app stores and payment systems on their mobile platforms &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231226/p14#a231226p14)
  - [Sources: outgoing Apple exec Tang Tan to join Jony Ive&#39;s LoveFrom to work on AI hardware products; Sam Altman to provide software underpinnings for the project &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231226/p13#a231226p13)
  - [Sources: Anthropic projects $850M+ in annualized revenue by the end of 2024, or ~$70M/mo, an increase of more than 8x from its monthly revenue around Sept. 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231226/p12#a231226p12)
- - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)
- - [50 Best After-Christmas Deals You Can Get Right Now     - CNET](https://www.cnet.com/deals/best-after-christmas-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B&amp;H Photo&#39;s year-end Mega Deal Zone knocks up to $2,000 off Apple](https://appleinsider.com/articles/23/12/26/bh-photos-year-end-mega-deal-zone-knocks-up-to-2000-off-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

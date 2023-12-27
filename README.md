@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 15 Best Movies You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-in-2023/)
+ - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
  - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
  - [Hands on with Holafly eSIM: Easy and hassle-free mobile data for travelers](https://appleinsider.com/articles/23/12/27/hands-on-with-holafly-esim-easy-and-hassle-free-mobile-data-for-travelers?utm_medium=rss)
- - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)
- - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/)
- - [Cars Are Getting Bigger. Can Smarter Software Make Them Safer?](https://www.wired.com/story/bigger-cars-safety-software/)<!-- TECH:END -->
+ - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

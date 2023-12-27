@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 27: 24-inch iMac $899, MacBook Pro from $849, 30% off Plex, 50% off Mophie 3-in-1 Charging Pad, more](https://appleinsider.com/articles/23/12/27/daily-deals-dec-27-24-inch-imac-899-macbook-pro-from-849-30-off-plex-50-off-mophie-3-in-1-charging-pad-more?utm_medium=rss)
+ - [US Apple Watch sales and import ban: What you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
  - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
  - [Apple Watch Series 9 and Ultra 2 Ban: The Latest and What You Need To Know     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-ban-the-latest-and-what-you-need-to-know/#ftag=CAD590a51e)
- - [Snag a 32-ounce Brumate Toddy XL at a 30% Discount Right Now     - CNET](https://www.cnet.com/deals/snag-a-32-ounce-brumate-toddy-xl-at-a-30-discount-right-now/#ftag=CAD590a51e)
- - [This heavy-duty battery pack for travelers is $80 off](https://www.theverge.com/2023/12/27/24016275/zendure-supertank-pro-apple-14-inch-macbook-pro-deal-sale)
- - [New Year, New Router: Save Up to $200 Off at TP-Link&#39;s End-of-the-Year Sale     - CNET](https://www.cnet.com/deals/new-year-new-router-save-up-to-200-off-at-tp-links-end-of-the-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag a 32-ounce Brumate Toddy XL at a 30% Discount Right Now     - CNET](https://www.cnet.com/deals/snag-a-32-ounce-brumate-toddy-xl-at-a-30-discount-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

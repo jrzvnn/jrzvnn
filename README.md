@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I paid for the shovel, Im gonna use the shovel](http://9gag.com/gag/agoDVoq)
- - 😝 [Maybe having all that access wasn&#39;t a good idea](http://9gag.com/gag/az2Wj4p)
- - 💣 [We&#39;ve ran out of wednesdays, dudes](http://9gag.com/gag/aYV3Lp2)
- - 😝 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
- - 👉 [Shitty ps5...](http://9gag.com/gag/avQMn2M)<!-- MEMES:END -->
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [1994 Nissan Skyline GT-R&lpar;R32&rpar;](http://9gag.com/gag/aBdAQx1)
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 

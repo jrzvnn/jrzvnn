@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 💣 [Lol](http://9gag.com/gag/aA08Yw0)
- - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
- - 👉 [Grab the bat](http://9gag.com/gag/a04rPBv)<!-- MEMES:END -->
+ - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 😝 [A good way to handle the leftist pronoun snowflakes](http://9gag.com/gag/aeQnpyj)
+ - 💣 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
+ - 😝 [Clever man finds god mode loophole to evict squatters](http://9gag.com/gag/aWGrWe4)
+ - 👉 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
+ - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 💣 [Grab the bat](http://9gag.com/gag/a04rPBv)
  - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 😝 [How dare you follow the law](http://9gag.com/gag/aL1ZBQ6)
- - 💣 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 

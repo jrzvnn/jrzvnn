@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US Apple Watch import ban is on hold, for now](https://appleinsider.com/articles/23/12/27/us-apple-watch-import-ban-is-on-hold-for-now?utm_medium=rss)
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [Apple Watch ban temporarily paused](https://www.theverge.com/2023/12/27/24016464/apple-watch-itc-ban-paused)
  - [A US appeals court pauses the ITC&#39;s ban on Apple Watch Series 9 and Ultra 2 imports due to the Masimo patent dispute, after Biden declined to veto the ban &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231227/p18#a231227p18)
- - [This Newegg After-Christmas Sale Will Net You Big Savings on Laptops, PC Components and More     - CNET](https://www.cnet.com/deals/this-newegg-after-christmas-sale-will-net-you-big-savings-on-computers-headphones-appliances-and-more/#ftag=CAD590a51e)
- - [US Apple Watch sales and import ban: What you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
+ - [This Newegg After-Christmas Sale Will Net You Big Savings on Laptops, PC Components and More     - CNET](https://www.cnet.com/deals/this-newegg-after-christmas-sale-will-net-you-big-savings-on-computers-headphones-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a8qRLbV)
- - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
- - 💣 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Migrant smoking on the train in London](http://9gag.com/gag/avQMLpE)
- - 👉 [Lighting up the oil well](http://9gag.com/gag/a1Pyv2G)<!-- MEMES:END -->
+ - 😝 [Hmmmm interesting.](http://9gag.com/gag/aOxMm03)
+ - 😝 [Wait a min..](http://9gag.com/gag/aQELn62)
+ - 💣 [All a matter of perspective](http://9gag.com/gag/a9qxPLZ)
+ - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
+ - 👉 [Clever man finds god mode loophole to evict squatters](http://9gag.com/gag/aWGrWe4)<!-- MEMES:END -->
 
 ---
 

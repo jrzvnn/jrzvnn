@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screensaver prank goes sideways](http://9gag.com/gag/aoKvZZe)
- - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
- - 💣 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
- - 😝 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
+ - 😝 [It&#39;s true](http://9gag.com/gag/aGEmRmX)
+ - 💣 [Wait a min..](http://9gag.com/gag/aQELn62)
+ - 😝 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
+ - 👉 [Be water](http://9gag.com/gag/aVbpX5d)<!-- MEMES:END -->
 
 ---
 

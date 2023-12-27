@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NYT sues OpenAI and Microsoft for copyright infringement, alleging millions of articles were used in training, the first major US media organization to sue &lpar;New York Times&rpar;](http://www.techmeme.com/231227/p12#a231227p12)
+ - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
+ - [How Apple hiring Stanford PhD Marcelo Lamego, who was CTO of Masimo sister Cercacor, in 2013 to add Watch health features sparked a fight that led to the US ban &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231227/p11#a231227p11)
  - [The 15 Best Movies You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-in-2023/)
- - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)
- - [Apple&#39;s March 2023 in review - Classical music, ChatGPT, and a yellow iPhone](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
- - [Hands on with Holafly eSIM: Easy and hassle-free mobile data for travelers](https://appleinsider.com/articles/23/12/27/hands-on-with-holafly-esim-easy-and-hassle-free-mobile-data-for-travelers?utm_medium=rss)
- - [As more high-performance computing chips pushed past 1 kW in 2023, like Nvidia&#39;s GH200 Superchips, many manufacturers embraced direct liquid cooling &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/231227/p10#a231227p10)<!-- TECH:END -->
+ - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

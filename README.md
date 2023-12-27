@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China struggles to contain a shadow market for business data, as most companies shun the 48 official exchanges for data sales set up by local governments &lpar;Financial Times&rpar;](http://www.techmeme.com/231227/p8#a231227p8)
  - [Amazon Prime Video plans to start showing ads starting on January 29, with an option for customers to pay an additional $2.99 per month to avoid the ads &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231227/p7#a231227p7)
  - [Hollywood unions resisting AI being used to recreate actors&#39; performances sets a precedent for future labor movements on how to push back against automation &lpar;Angela Watercutter/Wired&rpar;](http://www.techmeme.com/231227/p6#a231227p6)
  - [After over a year of testing, South Korean internet giant Naver plans to let companies use its Rookie office helper robots that can deliver meals and parcels &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/231227/p5#a231227p5)
- - [Integris Health, Oklahoma&#39;s largest not-for-profit health network, confirms a November cyberattack resulting in stolen data, after patients get extortion emails &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231227/p4#a231227p4)
- - [PitchBook: Microsoft, Google, and Amazon made investments amounting to two-thirds of the $27B raised by AI startups in 2023, vastly outspending VC firms &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231227/p3#a231227p3)<!-- TECH:END -->
+ - [Integris Health, Oklahoma&#39;s largest not-for-profit health network, confirms a November cyberattack resulting in stolen data, after patients get extortion emails &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231227/p4#a231227p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

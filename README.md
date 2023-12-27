@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so accurate, it&#39;s terrifying...](http://9gag.com/gag/a6q0y29)
- - 😝 [It&#39;s true](http://9gag.com/gag/aGEmRmX)
- - 💣 [Wait a min..](http://9gag.com/gag/aQELn62)
- - 😝 [Not.one.single.one](http://9gag.com/gag/aMEoQbR)
- - 👉 [Be water](http://9gag.com/gag/aVbpX5d)<!-- MEMES:END -->
+ - 😝 [Grab the bat](http://9gag.com/gag/a04rPBv)
+ - 😝 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
+ - 💣 [Father of the year](http://9gag.com/gag/axoLZXb)
+ - 😝 [How To Get Attractive Girlfriend 101](http://9gag.com/gag/az2WgDN)
+ - 👉 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 ---
 

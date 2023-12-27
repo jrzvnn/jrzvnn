@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to make music](http://9gag.com/gag/az2WVeb)
- - 😝 [To buy a Christmas gift](http://9gag.com/gag/aA08r4o)
- - 💣 [You probably didn&#39;t even notice the cat](http://9gag.com/gag/aYV3w82)
- - 😝 [Be water](http://9gag.com/gag/aVbpX5d)
- - 👉 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 😝 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 💣 [Fairness](http://9gag.com/gag/a2K3NMD)
+ - 😝 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
+ - 👉 [Hate when this happens](http://9gag.com/gag/a2K3PM9)<!-- MEMES:END -->
 
 ---
 

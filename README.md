@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
- - 💣 [Random Tolkien fact.](http://9gag.com/gag/a4oXLYd)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
+ - 😝 [I paid for the shovel, Im gonna use the shovel](http://9gag.com/gag/agoDVoq)
+ - 😝 [Maybe having all that access wasn&#39;t a good idea](http://9gag.com/gag/az2Wj4p)
+ - 💣 [We&#39;ve ran out of wednesdays, dudes](http://9gag.com/gag/aYV3Lp2)
+ - 😝 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
+ - 👉 [Shitty ps5...](http://9gag.com/gag/avQMn2M)<!-- MEMES:END -->
 
 ---
 

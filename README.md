@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
+ - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
  - 😝 [I want to believe](http://9gag.com/gag/a1PyAgD)
- - 💣 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [Father of the year](http://9gag.com/gag/axoLZXb)
  - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India seeks to block the URLs of nine crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for non-compliance with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)
+ - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% in 2023 and now has a total of 170M accounts &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)
+ - [India seeks to block the URLs of nine offshore crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for not complying with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)
  - [Amazon plans to make its own hydrogen to power vehicles](https://www.theverge.com/2023/12/28/24017535/amazon-fulfillment-center-warehouse-hydrogen-fuel-plug)
  - [Apple is now selling Apple Watches on its website again](https://www.theverge.com/2023/12/28/24017640/apple-watch-import-ban-online-website-sales-resume)
- - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)
- - [Apple submitted a software workaround that could let the company sell non-infringing Apple Watch versions as soon as January 12, while appealing the US ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)<!-- TECH:END -->
+ - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

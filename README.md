@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s June 2023 in review: Vision Pro, Mac Pro, and tech titan fighting talk](https://appleinsider.com/articles/23/12/28/apples-june-2023-in-review-vision-pro-mac-pro-and-tech-titan-fighting-talk?utm_medium=rss)
  - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [Why Masimo thought it could take on Apple](https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables)
  - [Pokémon Concierge is a beautiful reminder to take some time off](https://www.theverge.com/24017505/pokemon-concierge-review-netflix)
- - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)
- - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)<!-- TECH:END -->
+ - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

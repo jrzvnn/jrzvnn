@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu CTO says the company&#39;s ChatGPT-like Ernie Bot now has 100M+ users, after launching the chatbot to the public in August, 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p6#a231228p6)
  - [Transgender people say games help them explore their identities; character creation in RPGs like Starfield and Baldur&#39;s Gate 3 makes fewer gendered assumptions &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/231228/p5#a231228p5)
  - [Xiaomi unveils its first EV, SU7, and says it wants to become a top global carmaker in 15 to 20 years; CEO Lei Jun calls it his final entrepreneurial bet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p4#a231228p4)
  - [Disney, WBD, Comcast, and Paramount face a year of reckoning in 2024 after losing $5B+ in 2023 from the streaming services they built to compete with Netflix &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p3#a231228p3)
- - [South Korean national statistics data: chip production grew 42% YoY in November, the most since early 2017; shipments rose 80%, the biggest gain since late 2002 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231228/p2#a231228p2)
- - [Insider Intelligence: LinkedIn&#39;s annual advertising revenue, which rose 10.1% YoY to nearly $4B in 2023, is expected to grow 14.1% YoY in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p1#a231228p1)<!-- TECH:END -->
+ - [South Korean national statistics data: chip production grew 42% YoY in November, the most since early 2017; shipments rose 80%, the biggest gain since late 2002 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231228/p2#a231228p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

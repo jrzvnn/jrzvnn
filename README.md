@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is pushing hard to make the Mac relevant in gaming](https://appleinsider.com/articles/23/12/28/apple-is-pushing-hard-to-make-the-mac-relevant-in-gaming?utm_medium=rss)
  - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
  - [The best PlayStation games from 2023](https://www.theverge.com/24008545/playstation-ps5-best-games-2023)
  - [A look at Apple&#39;s renewed interest in gaming on the Mac, powered by Apple silicon, and an interview with Apple executives about Dynamic Caching and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/231228/p9#a231228p9)
- - [Apple TV+ has one key component to make excellent sci-fi -- money](https://appleinsider.com/articles/23/12/28/apple-tv-has-one-key-component-to-make-excellent-sci-fi----money?utm_medium=rss)
- - [Apple gets backlash from India after uncovering hacks on journalists](https://appleinsider.com/articles/23/12/28/apple-gets-backlash-from-india-after-uncovering-hacks-on-journalists?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ has one key component to make excellent sci-fi -- money](https://appleinsider.com/articles/23/12/28/apple-tv-has-one-key-component-to-make-excellent-sci-fi----money?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

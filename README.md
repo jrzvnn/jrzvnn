@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
  - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
  - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
+ - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
 
 ---
 

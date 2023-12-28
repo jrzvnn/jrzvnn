@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clutch](http://9gag.com/gag/a2K3mMD)
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
- - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 👉 [In Germany right now.](http://9gag.com/gag/adPGpAV)<!-- MEMES:END -->
+ - 😝 [Weird way to come out. At least mom&#39;s cool with it.](http://9gag.com/gag/awZEVrD)
+ - 😝 [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
+ - 💣 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
+ - 😝 [Fun Goku fact](http://9gag.com/gag/aWGrM9d)
+ - 👉 [Adam Driver on SNL `...I didn&#39;t kill Han Solo, Wokeness killed Han Solo...`](http://9gag.com/gag/anzm1oq)<!-- MEMES:END -->
 
 ---
 

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 💣 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 💣 [Clutch](http://9gag.com/gag/a2K3mMD)
  - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
 
 ---
 

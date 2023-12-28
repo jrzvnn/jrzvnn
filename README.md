@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This post contain adult gifs in the comments section, here we go..](http://9gag.com/gag/aeQnYVj)
- - 😝 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
- - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
  - 😝 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 💣 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
  - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
 
 ---

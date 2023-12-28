@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM claims in a lawsuit that SF unfairly taxed it $108M over seven years, using the presence of Cruise to tie its tax bill to a portion of GM&#39;s global revenue &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231227/p25#a231227p25)
  - [Seattle-based e-commerce website Zulily, valued at ~$7B in 2014, winds down its business; in a lawsuit, Zulily accused Amazon of stifling its business &lpar;Lauren Rosenblatt/The Seattle Times&rpar;](http://www.techmeme.com/231227/p24#a231227p24)
  - [Best Buy launches year-end Apple AirTag sale](https://appleinsider.com/articles/23/12/28/best-buy-launches-year-end-apple-airtag-sale?utm_medium=rss)
  - [Sources: India pressed Apple to come up with alternative explanations for warning Indian journalists and opposition politicians of state-sponsored iPhone hacks &lpar;Washington Post&rpar;](http://www.techmeme.com/231227/p23#a231227p23)
- - [Score Over $1700 Off This Portable Power Station from Ouiketel     - CNET](https://www.cnet.com/deals/score-over-1700-off-this-portable-power-station-from-ouiketel/#ftag=CAD590a51e)
- - [8 Best Roku Deals: Save Up to $33 on Our Favorite Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score Over $1700 Off This Portable Power Station from Ouiketel     - CNET](https://www.cnet.com/deals/score-over-1700-off-this-portable-power-station-from-ouiketel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

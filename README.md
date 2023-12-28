@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple submitted a software workaround that could let it sell noninfringing Apple Watch versions as soon as January 12, as the company appeals the ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
  - [Apple Watch now fully available online and in-store after import ban stay](https://appleinsider.com/articles/23/12/28/apple-watch-now-fully-available-online-and-in-store-after-import-ban-stay?utm_medium=rss)
+ - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
  - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [Daily deals Dec. 28: $500 off M2 Pro MacBook Pro, $249 iPad, $170 off Bose 700 Headphones, $399 Asus ROG Ally, more](https://appleinsider.com/articles/23/12/28/daily-deals-dec-28-500-off-m2-pro-macbook-pro-249-ipad-170-off-bose-700-headphones-399-asus-rog-ally-more?utm_medium=rss)
- - [Apple is pushing hard to make the Mac relevant in gaming](https://appleinsider.com/articles/23/12/28/apple-is-pushing-hard-to-make-the-mac-relevant-in-gaming?utm_medium=rss)
- - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Dec. 28: $500 off M2 Pro MacBook Pro, $249 iPad, $170 off Bose 700 Headphones, $399 Asus ROG Ally, more](https://appleinsider.com/articles/23/12/28/daily-deals-dec-28-500-off-m2-pro-macbook-pro-249-ipad-170-off-bose-700-headphones-399-asus-rog-ally-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

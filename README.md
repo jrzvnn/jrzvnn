@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
  - 👉 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)<!-- MEMES:END -->
 

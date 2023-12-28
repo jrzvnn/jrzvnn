@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
- - 😝 [German cops react to being called a Nazi](http://9gag.com/gag/aPgEGrq)
+ - 😝 [Things were seen, decisions were regretted](http://9gag.com/gag/aREbV9q)
+ - 😝 [Hate when this happens](http://9gag.com/gag/a2K3PM9)
  - 💣 [`Calling Eminem the greatest at rap is white supremacy`](http://9gag.com/gag/a4oXL0v)
  - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
- - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---
 

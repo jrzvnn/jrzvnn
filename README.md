@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weird way to come out. At least mom&#39;s cool with it.](http://9gag.com/gag/awZEVrD)
- - 😝 [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
- - 💣 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
- - 😝 [Fun Goku fact](http://9gag.com/gag/aWGrM9d)
- - 👉 [Adam Driver on SNL `...I didn&#39;t kill Han Solo, Wokeness killed Han Solo...`](http://9gag.com/gag/anzm1oq)<!-- MEMES:END -->
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [Clutch](http://9gag.com/gag/a2K3mMD)
+ - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 😝 [Hear me out](http://9gag.com/gag/awZE79R)
+ - 👉 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 ---
 

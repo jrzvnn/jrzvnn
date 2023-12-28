@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple still pursuing software fix to avoid Apple Watch import ban altogether](https://appleinsider.com/articles/23/12/28/apple-still-pursuing-software-fix-to-avoid-apple-watch-import-ban-altogether?utm_medium=rss)
  - [Sources: Microsoft readies AI-focused Surface Pro 10 and Surface Laptop 6 for spring 2024, in both Intel and Arm variants with improved designs and new features &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231228/p14#a231228p14)
  - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
  - [Apple&#39;s June 2023 in review: Vision Pro, Mac Pro, and tech titan fighting talk](https://appleinsider.com/articles/23/12/28/apples-june-2023-in-review-vision-pro-mac-pro-and-tech-titan-fighting-talk?utm_medium=rss)
- - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
- - [Why Masimo thought it could take on Apple](https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables)<!-- TECH:END -->
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

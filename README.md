@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 💣 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)
+ - 😝 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)
+ - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
+ - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
 
 ---
 

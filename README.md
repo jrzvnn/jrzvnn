@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to sell or trade in your old Android phone](https://www.theverge.com/22666545/android-pixel-samsung-galaxy-sell-trade-how-to-google)
+ - [Apple Vision Pro 2 rumored to get brighter displays in 2027](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)
  - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
  - [Affirm stock grew 430% in 2023, outperforming all US tech companies worth $5B+ and rebounding from 2022&#39;s 90% fall, thanks to partnerships with Amazon, others &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231228/p8#a231228p8)
- - [Best Slow Cookers &lpar;2023&rpar; for Soups, Stews and Casseroles](https://www.wired.com/gallery/best-slow-cookers/)
- - [10 great shows from 2023 to stream on Amazon Prime Video](https://www.theverge.com/23952477/amazon-prime-video-best-shows-2023)
- - [&#39;Operation Triangulation&#39; exposes advanced iMessage attack on security firm](https://appleinsider.com/articles/23/12/28/operation-triangulation-exposes-advanced-imessage-attack-on-security-firm?utm_medium=rss)<!-- TECH:END -->
+ - [Best Slow Cookers &lpar;2023&rpar; for Soups, Stews and Casseroles](https://www.wired.com/gallery/best-slow-cookers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

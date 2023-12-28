@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ has one key component to make excellent sci-fi -- money](https://appleinsider.com/articles/23/12/28/apple-tv-has-one-key-component-to-make-excellent-sci-fi----money?utm_medium=rss)
  - [Apple gets backlash from India after uncovering hacks on journalists](https://appleinsider.com/articles/23/12/28/apple-gets-backlash-from-india-after-uncovering-hacks-on-journalists?utm_medium=rss)
  - [How to sell or trade in your old Android phone](https://www.theverge.com/22666545/android-pixel-samsung-galaxy-sell-trade-how-to-google)
  - [Apple Vision Pro 2 rumored to get brighter displays in 2027](https://appleinsider.com/articles/23/12/28/apple-vision-pro-2-could-get-brighter-rgb-oledos-displays?utm_medium=rss)
- - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
- - [Affirm stock grew 430% in 2023, outperforming all US tech companies worth $5B+ and rebounding from 2022&#39;s 90% fall, thanks to partnerships with Amazon, others &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231228/p8#a231228p8)<!-- TECH:END -->
+ - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

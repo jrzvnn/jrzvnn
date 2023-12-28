@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% in 2023 and now has a total of 170M accounts &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)
- - [India seeks to block the URLs of nine offshore crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for not complying with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)
- - [Amazon plans to make its own hydrogen to power vehicles](https://www.theverge.com/2023/12/28/24017535/amazon-fulfillment-center-warehouse-hydrogen-fuel-plug)
- - [Apple is now selling Apple Watches on its website again](https://www.theverge.com/2023/12/28/24017640/apple-watch-import-ban-online-website-sales-resume)
- - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)
+ - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)
+ - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% to 170M accounts in 2023; Binance Pay, Binance Earn, and Binance&#39;s P2P platform all grew &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)
+ - [Living With the Apple Watch Series 9: My Thoughts 3 Months Later     - CNET](https://www.cnet.com/tech/mobile/living-with-the-apple-watch-series-9-my-thoughts-3-months-later/#ftag=CAD590a51e)
+ - [Apple Restarts Sales of Watch Series 9 and Ultra 2 in the US     - CNET](https://www.cnet.com/tech/mobile/apple-restarts-sales-of-latest-smartwatches-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

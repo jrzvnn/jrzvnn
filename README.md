@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Apparently, this was someone&#39;s wisdom tooth:](http://9gag.com/gag/aKEQV7Q)
+ - 😝 [Olivia casta](http://9gag.com/gag/az2WjqB)
+ - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [For you..](http://9gag.com/gag/aL1Z2LP)<!-- MEMES:END -->
+ - 👉 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
 
 ---
 

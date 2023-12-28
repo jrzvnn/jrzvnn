@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 💣 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
  - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
- - 💣 [Clutch](http://9gag.com/gag/a2K3mMD)
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 👉 [Life goals!](http://9gag.com/gag/ap94L7b)<!-- MEMES:END -->
+ - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
 
 ---
 

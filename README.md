@@ -172,7 +172,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Practicing some James Brown moves](http://9gag.com/gag/aXnyAeb)
+ - 😝 [\u201cWhy was Frodo the best burglar? Because he was always up to Mordor.\u201d](http://9gag.com/gag/anzmbBo)
  - 😝 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
  - 💣 [GO SPORTS!](http://9gag.com/gag/adPGqZZ)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)

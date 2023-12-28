@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s May 2023 in review: Apple Vision Pro rumors, writers&#39; strikes, AirTags, and a lack of layoffs](https://appleinsider.com/articles/23/12/28/apples-may-2023-in-review-apple-vision-pro-rumors-writers-strikes-airtags-and-a-lack-of-layoffs?utm_medium=rss)
  - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
  - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
  - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)
- - [Video Game Adaptations Could Keep Beating Marvel at the Box Office in 2024](https://www.wired.com/story/video-game-adaptations-overtake-superheroes/)
- - [Generative AI is repeating all of Web 2.0’s mistakes](https://www.wired.com/story/generative-ai-web-2-mistakes/)<!-- TECH:END -->
+ - [Video Game Adaptations Could Keep Beating Marvel at the Box Office in 2024](https://www.wired.com/story/video-game-adaptations-overtake-superheroes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

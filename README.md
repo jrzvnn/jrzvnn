@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India seeks to block the URLs of nine crypto exchanges, including Binance, Kraken, KuCoin, and Huobi, for non-compliance with anti-money laundering laws &lpar;The Indian Express&rpar;](http://www.techmeme.com/231228/p11#a231228p11)
+ - [Amazon plans to make its own hydrogen to power vehicles](https://www.theverge.com/2023/12/28/24017535/amazon-fulfillment-center-warehouse-hydrogen-fuel-plug)
  - [Apple is now selling Apple Watches on its website again](https://www.theverge.com/2023/12/28/24017640/apple-watch-import-ban-online-website-sales-resume)
  - [How to get apps for old iPhones and iPads](https://appleinsider.com/inside/ios/tips/how-to-get-apps-for-old-iphones-and-ipads?utm_medium=rss)
- - [Apple submitted a software workaround that could let the company sell non-infringing Apple Watch versions as soon as January 12, while appealing the US ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
- - [Apple Watch now fully available online and in-store after import ban stay](https://appleinsider.com/articles/23/12/28/apple-watch-now-fully-available-online-and-in-store-after-import-ban-stay?utm_medium=rss)
- - [Best Adjustable Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple submitted a software workaround that could let the company sell non-infringing Apple Watch versions as soon as January 12, while appealing the US ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

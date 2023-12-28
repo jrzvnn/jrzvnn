@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
  - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
  - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)
  - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)
- - [Unable to Pay Your Credit Card Bills This Month? Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/unable-to-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
- - [Apple Watch Series 9 and Ultra 2 Ban: The Latest and What You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-ban-the-latest-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unable to Pay Your Credit Card Bills This Month? Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/unable-to-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cWhy was Frodo the best burglar? Because he was always up to Mordor.\u201d](http://9gag.com/gag/anzmbBo)
- - 😝 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
- - 💣 [GO SPORTS!](http://9gag.com/gag/adPGqZZ)
+ - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
+ - 💣 [Life goals!](http://9gag.com/gag/ap94L7b)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [She found herself a new ride...](http://9gag.com/gag/a7qYZ4q)<!-- MEMES:END -->
+ - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
 
 ---
 

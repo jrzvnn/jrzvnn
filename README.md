@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Filing: FirstCry, India&#39;s biggest e-commerce platform for baby products, is aiming to raise $218M in its IPO; source: the startup is eyeing a valuation of ~$4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231228/p18#a231228p18)
  - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
- - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
- - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)
- - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)<!-- TECH:END -->
+ - [Best AirPods Deals: Save on Apple and Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [How to Ditch Your Internet Provider and Find a Better Option     - CNET](https://www.cnet.com/home/internet/how-to-ditch-your-internet-provider-and-find-a-better-option/#ftag=CAD590a51e)
+ - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

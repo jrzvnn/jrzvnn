@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
- - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
+ - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
 
 ---
 

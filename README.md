@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GM claims in a lawsuit that SF unfairly taxed it $108M over seven years, using the presence of Cruise to tie its tax bill to a portion of GM&#39;s global revenue &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231227/p25#a231227p25)
+ - [Sleep Sweet With Huge Savings During Crane &amp; Canopy&#39;s Mega Winter Sale     - CNET](https://www.cnet.com/deals/save-and-sleep-sweet-with-crane-canopys-holiday-sale/#ftag=CAD590a51e)
  - [Save Big and Capture All the Action With These Insta360 Cameras     - CNET](https://www.cnet.com/deals/save-big-and-capture-all-the-action-with-these-insta360-cameras/#ftag=CAD590a51e)
  - [Seattle-based e-commerce website Zulily, valued at ~$7B in 2014, winds down its business; in a lawsuit, Zulily accused Amazon of stifling its business &lpar;Lauren Rosenblatt/The Seattle Times&rpar;](http://www.techmeme.com/231227/p24#a231227p24)
- - [Best Buy launches year-end Apple AirTag sale](https://appleinsider.com/articles/23/12/28/best-buy-launches-year-end-apple-airtag-sale?utm_medium=rss)
- - [Sources: India pressed Apple to come up with alternative explanations for warning Indian journalists and opposition politicians of state-sponsored iPhone hacks &lpar;Washington Post&rpar;](http://www.techmeme.com/231227/p23#a231227p23)<!-- TECH:END -->
+ - [Best Buy launches year-end Apple AirTag sale](https://appleinsider.com/articles/23/12/28/best-buy-launches-year-end-apple-airtag-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

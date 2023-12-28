@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
  - [The Most Dangerous People on the Internet in 2023](https://www.wired.com/story/most-dangerous-people-2023/)
  - [Video Game Adaptations Could Keep Beating Marvel at the Box Office in 2024](https://www.wired.com/story/video-game-adaptations-overtake-superheroes/)
  - [Generative AI is repeating all of Web 2.0’s mistakes](https://www.wired.com/story/generative-ai-web-2-mistakes/)
- - [Spying on Beavers From Space Could Help Save California](https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/)
- - [Baidu CTO says the company&#39;s ChatGPT-like Ernie Bot now has 100M+ users, after launching the chatbot to the public in August, 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p6#a231228p6)<!-- TECH:END -->
+ - [Spying on Beavers From Space Could Help Save California](https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

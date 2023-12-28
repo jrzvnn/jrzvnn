@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple submitted a software workaround that could let it sell noninfringing Apple Watch versions as soon as January 12, as the company appeals the ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
+ - [Apple submitted a software workaround that could let the company sell non-infringing Apple Watch versions as soon as January 12, while appealing the US ITC ban &lpar;Christopher Yasiejko/Bloomberg&rpar;](http://www.techmeme.com/231228/p10#a231228p10)
  - [Apple Watch now fully available online and in-store after import ban stay](https://appleinsider.com/articles/23/12/28/apple-watch-now-fully-available-online-and-in-store-after-import-ban-stay?utm_medium=rss)
  - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
  - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: FirstCry, India&#39;s biggest e-commerce platform for baby products, is aiming to raise $218M in its IPO; source: the startup is eyeing a valuation of ~$4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231228/p18#a231228p18)
  - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)
  - [Filing: Google agrees to settle a 2020 lawsuit that accused Google of tracking activity in Chrome&#39;s incognito mode and tying it to users&#39; profiles &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/231228/p16#a231228p16)
  - [Hey Alexa, quit it with the bootleg Viagra, says the FDA](https://www.theverge.com/2023/12/28/24017935/fda-warns-amazon-fake-supplements-viagra-cialis-erectile-dysfunction-drugs)
- - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)
- - [Unable to Pay Your Credit Card Bills This Month? Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/unable-to-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

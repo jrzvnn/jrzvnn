@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
+ - [Daily deals Dec. 28: $500 off M2 Pro MacBook Pro, $249 iPad, $170 off Bose 700 Headphones, $399 Asus ROG Ally, more](https://appleinsider.com/articles/23/12/28/daily-deals-dec-28-500-off-m2-pro-macbook-pro-249-ipad-170-off-bose-700-headphones-399-asus-rog-ally-more?utm_medium=rss)
  - [Apple is pushing hard to make the Mac relevant in gaming](https://appleinsider.com/articles/23/12/28/apple-is-pushing-hard-to-make-the-mac-relevant-in-gaming?utm_medium=rss)
  - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
- - [The best PlayStation games from 2023](https://www.theverge.com/24008545/playstation-ps5-best-games-2023)
- - [A look at Apple&#39;s renewed interest in gaming on the Mac, powered by Apple silicon, and an interview with Apple executives about Dynamic Caching and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/231228/p9#a231228p9)
- - [Apple TV+ has one key component to make excellent sci-fi -- money](https://appleinsider.com/articles/23/12/28/apple-tv-has-one-key-component-to-make-excellent-sci-fi----money?utm_medium=rss)<!-- TECH:END -->
+ - [The best PlayStation games from 2023](https://www.theverge.com/24008545/playstation-ps5-best-games-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

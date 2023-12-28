@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
- - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
- - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Typical things](http://9gag.com/gag/a3Z6B4Q)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [Practicing some James Brown moves](http://9gag.com/gag/aXnyAeb)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)<!-- MEMES:END -->
+ - 👉 [Time will tell](http://9gag.com/gag/aGEm07z)<!-- MEMES:END -->
 
 ---
 

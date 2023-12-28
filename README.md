@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)
- - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
+ - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 💣 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
+ - 👉 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)<!-- MEMES:END -->
 
 ---
 

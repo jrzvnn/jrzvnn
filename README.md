@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi unveils its first EV, SU7, and says it wants to become a top global carmaker in 15 to 20 years; CEO Lei Jun calls it his final entrepreneurial bet &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p4#a231228p4)
  - [Disney, WBD, Comcast, and Paramount face a year of reckoning in 2024 after losing $5B+ in 2023 from the streaming services they built to compete with Netflix &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p3#a231228p3)
  - [South Korean national statistics data: chip production grew 42% YoY in November, the most since early 2017; shipments rose 80%, the biggest gain since late 2002 &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/231228/p2#a231228p2)
  - [Insider Intelligence: LinkedIn&#39;s annual advertising revenue, which rose 10.1% YoY to nearly $4B in 2023, is expected to grow 14.1% YoY in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/231228/p1#a231228p1)
- - [Apple Restarts Sales Of Watch Series 9 and Ultra 2 in the US     - CNET](https://www.cnet.com/tech/mobile/apple-restarts-sales-of-latest-smartwatches-in-the-us/#ftag=CAD590a51e)
- - [GM claims in a lawsuit that SF unfairly taxed it $108M over seven years, using the presence of Cruise to tie its tax bill to a portion of GM&#39;s global revenue &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/231227/p25#a231227p25)<!-- TECH:END -->
+ - [Apple Restarts Sales Of Watch Series 9 and Ultra 2 in the US     - CNET](https://www.cnet.com/tech/mobile/apple-restarts-sales-of-latest-smartwatches-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

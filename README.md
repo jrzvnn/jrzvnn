@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [Clutch](http://9gag.com/gag/a2K3mMD)
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
  - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)<!-- MEMES:END -->
+ - 👉 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)<!-- MEMES:END -->
 
 ---
 

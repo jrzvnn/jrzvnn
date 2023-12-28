@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft’s next Surface laptops will reportedly be its first true ‘AI PCs’](https://www.theverge.com/2023/12/28/24017890/microsoft-ai-surface-laptops-arm)
+ - [Unable to Pay Your Credit Card Bills This Month? Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/unable-to-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
+ - [Apple Watch Series 9 and Ultra 2 Ban: The Latest and What You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-ban-the-latest-and-what-you-need-to-know/#ftag=CAD590a51e)
  - [Immunefi: crypto users lost $1.8B in hacks and scams in 2023, down 54% YoY, as single incidents grew 90% YoY to 319; Lazarus remained the most prolific attacker &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231228/p15#a231228p15)
- - [Apple&#39;s new M3 Pro MacBook Pro just scored a $300 price drop](https://appleinsider.com/articles/23/12/28/apples-new-m3-pro-macbook-pro-just-scored-a-300-price-drop?utm_medium=rss)
- - [Apple still pursuing software fix to avoid Apple Watch import ban altogether](https://appleinsider.com/articles/23/12/28/apple-still-pursuing-software-fix-to-avoid-apple-watch-import-ban-altogether?utm_medium=rss)
- - [Sources: Microsoft readies AI-focused Surface Pro 10 and Surface Laptop 6 for spring 2024, in both Intel and Arm variants with improved designs and new features &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231228/p14#a231228p14)<!-- TECH:END -->
+ - [Apple&#39;s new M3 Pro MacBook Pro just scored a $300 price drop](https://appleinsider.com/articles/23/12/28/apples-new-m3-pro-macbook-pro-just-scored-a-300-price-drop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

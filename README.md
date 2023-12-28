@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch ban: everything you need to know](https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute)
  - [Why Masimo thought it could take on Apple](https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables)
  - [Pokémon Concierge is a beautiful reminder to take some time off](https://www.theverge.com/24017505/pokemon-concierge-review-netflix)
  - [OnePlus’ first mechanical keyboard is on sale today for $40 off](https://www.theverge.com/2023/12/28/24016560/one-plus-mechanical-keyboard-81-pro-apple-pencil-echo-buds-deal-sale)
- - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)
- - [Binance CEO Richard Teng says the crypto exchange&#39;s user base grew 30% to 170M accounts in 2023; Binance Pay, Binance Earn, and Binance&#39;s P2P platform all grew &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/231228/p12#a231228p12)<!-- TECH:END -->
+ - [Nvidia launches the GeForce RTX 4090 D in China, featuring ~10% fewer processing cores than the 4090 sold in other countries, to comply with US export controls &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231228/p13#a231228p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

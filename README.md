@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shitty ps5...](http://9gag.com/gag/avQMn2M)
- - 😝 [When someone asks me about today&#39;s shit around the world....](http://9gag.com/gag/aBdA1AZ)
- - 💣 [Classic iconic](http://9gag.com/gag/aqeP2Rv)
- - 😝 [Fun Goku fact](http://9gag.com/gag/aWGrM9d)
- - 👉 [Adam Driver on SNL `...I didn&#39;t kill Han Solo, Wokeness killed Han Solo...`](http://9gag.com/gag/anzm1oq)<!-- MEMES:END -->
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 💣 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 👉 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)<!-- MEMES:END -->
 
 ---
 

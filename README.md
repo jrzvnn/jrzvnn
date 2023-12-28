@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 😝 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
+ - 👉 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)<!-- MEMES:END -->
 
 ---
 

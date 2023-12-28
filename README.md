@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Immunefi: crypto users lost $1.8B in hacks and scams in 2023, down 54% YoY, as single incidents grew 90% YoY to 319; Lazarus remained the most prolific attacker &lpar;Anna Baydakova/The Block&rpar;](http://www.techmeme.com/231228/p15#a231228p15)
  - [Apple&#39;s new M3 Pro MacBook Pro just scored a $300 price drop](https://appleinsider.com/articles/23/12/28/apples-new-m3-pro-macbook-pro-just-scored-a-300-price-drop?utm_medium=rss)
  - [Apple still pursuing software fix to avoid Apple Watch import ban altogether](https://appleinsider.com/articles/23/12/28/apple-still-pursuing-software-fix-to-avoid-apple-watch-import-ban-altogether?utm_medium=rss)
  - [Sources: Microsoft readies AI-focused Surface Pro 10 and Surface Laptop 6 for spring 2024, in both Intel and Arm variants with improved designs and new features &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231228/p14#a231228p14)
- - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
- - [Apple&#39;s June 2023 in review: Vision Pro, Mac Pro, and tech titan fighting talk](https://appleinsider.com/articles/23/12/28/apples-june-2023-in-review-vision-pro-mac-pro-and-tech-titan-fighting-talk?utm_medium=rss)<!-- TECH:END -->
+ - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

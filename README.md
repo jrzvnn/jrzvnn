@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
  - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 💣 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 😝 [She used to be super open, enterprising and all. I&#39;m tired of being the bad guy for this.](http://9gag.com/gag/anzmKVz)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 😝 [For you..](http://9gag.com/gag/aL1Z2LP)
  - 👉 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)<!-- MEMES:END -->
 

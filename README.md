@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s May 2023 in review: Apple Vision Pro rumors, writers&#39; strikes, AirTags, and a lack of layoffs](https://appleinsider.com/articles/23/12/28/apples-may-2023-in-review-apple-vision-pro-rumors-writers-strikes-airtags-and-a-lack-of-layoffs?utm_medium=rss)
- - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
- - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
- - [Break Down All Those Holiday Delivery Boxes With a $25 Worx ZipSnip Box Cutter &lpar;Save $20&rpar;     - CNET](https://www.cnet.com/deals/break-down-holiday-boxes-worx-zipsnip-25-dec/#ftag=CAD590a51e)
- - [Amazon&#39;s Latest Echo Show 8 Is Down to a New All-Time Low Price for Prime Members     - CNET](https://www.cnet.com/deals/amazons-latest-echo-show-8-is-down-to-a-new-all-time-low-price-for-prime-members/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to pair a new Apple TV remote](https://appleinsider.com/inside/apple-tv/tips/how-to-pair-a-new-apple-tv-remote?utm_medium=rss)
+ - [Affirm stock grew 430% in 2023, outperforming all US tech companies worth $5B+ and rebounding from 2022&#39;s 90% fall, thanks to partnerships with Amazon, others &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231228/p8#a231228p8)
+ - [Best Slow Cookers &lpar;2023&rpar; for Soups, Stews and Casseroles](https://www.wired.com/gallery/best-slow-cookers/)
+ - [10 great shows from 2023 to stream on Amazon Prime Video](https://www.theverge.com/23952477/amazon-prime-video-best-shows-2023)
+ - [&#39;Operation Triangulation&#39; exposes advanced iMessage attack on security firm](https://appleinsider.com/articles/23/12/28/operation-triangulation-exposes-advanced-imessage-attack-on-security-firm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

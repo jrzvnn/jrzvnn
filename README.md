@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Dec. 29: M3 iMac $1,199, Speck iPhone 14 cases for $5, 48% off Samsung 5K monitor, more](https://appleinsider.com/articles/23/12/29/daily-deals-dec-29-m3-imac-1199-speck-iphone-14-cases-for-5-48-off-samsung-5k-monitor-more?utm_medium=rss)
+ - [Elon Musk’s X can’t get around California’s content moderation law, judge rules](https://www.theverge.com/2023/12/29/24018645/x-twitter-elon-musk-content-moderation-law-california-decision)
+ - [Source: Shield AI, which makes autonomous drones and other military tech, raised $300M in equity and debt at a $2.8B valuation, bringing its Series F to $500M &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231229/p9#a231229p9)
  - [The best shows on Apple TV Plus in 2023](https://www.theverge.com/24002720/best-apple-tv-plus-shows-2023)
- - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)
- - [Apple stock jumped 54% in 2023 but underperformed tech peers after Apple suffered four straight quarters of declining revenue, its longest such slide since 2001 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231229/p8#a231229p8)
- - [Rising star Luxshare secures major stake in Pegatron&#39;s iPhone factory](https://appleinsider.com/articles/23/12/29/rising-star-luxshare-secures-major-stake-in-pegatrons-iphone-factory?utm_medium=rss)
- - [Apple Watch Series 9 review three months later: Don&#39;t buy it for Double Tap](https://appleinsider.com/articles/23/12/29/apple-watch-series-9-review-three-months-later-dont-buy-it-for-double-tap?utm_medium=rss)<!-- TECH:END -->
+ - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

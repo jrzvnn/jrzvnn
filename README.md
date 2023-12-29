@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
- - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
+ - 😝 [How?](http://9gag.com/gag/aREbjEB)
+ - 😝 [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)
+ - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
+ - 👉 [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)<!-- MEMES:END -->
 
 ---
 

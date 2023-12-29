@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub launches GPT-4-powered Copilot Chat in general availability for all users, in the sidebar of Microsoft&#39;s IDEs, Visual Studio Code and Visual Studio &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231229/p13#a231229p13)
  - [Microsoft disables Windows App Installer&#39;s MSIX protocol handler after it was used to spread malware, after previously disabling it in 2022 and re-enabling it &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/231229/p12#a231229p12)
  - [&#39;Baldur&#39;s Gate 3&#39; Captures the Magic of D&amp;D](https://www.wired.com/2023/12/geeks-guide-baldurs-gate-3/)
  - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
- - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
- - [The fourth-gen Echo and latest Echo Show 8 are up to 50 percent off](https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale)<!-- TECH:END -->
+ - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

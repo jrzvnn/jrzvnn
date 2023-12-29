@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slide into the New Year with up to $950 in savings on Apple computers](https://appleinsider.com/articles/23/12/29/slide-into-the-new-year-with-up-to-950-in-savings-on-apple-computers?utm_medium=rss)
+ - [Sources: US intelligence officials determined that the Chinese spy balloon that flew across the US in February 2023 used a US internet provider to communicate &lpar;NBC News&rpar;](http://www.techmeme.com/231229/p14#a231229p14)
  - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)
  - [How to locate an Apple TV remote in iOS 17](https://appleinsider.com/inside/apple-tv/tips/how-to-locate-an-apple-tv-remote-in-ios-17?utm_medium=rss)
- - [GitHub launches GPT-4-powered Copilot Chat in general availability for all users, in the sidebar of Microsoft&#39;s IDEs, Visual Studio Code and Visual Studio &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231229/p13#a231229p13)
- - [Microsoft disables Windows App Installer&#39;s ms-appinstaller after the URI scheme was used to spread malware; Microsoft disabled and re-enabled the scheme in 2022 &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/231229/p12#a231229p12)
- - [&#39;Baldur&#39;s Gate 3&#39; Captures the Magic of D&amp;D](https://www.wired.com/2023/12/geeks-guide-baldurs-gate-3/)<!-- TECH:END -->
+ - [GitHub launches GPT-4-powered Copilot Chat in general availability for all users, in the sidebar of Microsoft&#39;s IDEs, Visual Studio Code and Visual Studio &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231229/p13#a231229p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

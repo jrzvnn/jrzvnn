@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
- - 😝 [When you get older](http://9gag.com/gag/a2K3oge)
- - 💣 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 😝 [Boomers selling their homes for $2 million after buying them in 1969 for 7 raspberries](http://9gag.com/gag/a9qxp6K)
- - 👉 [Haters will say it&#39;s fake](http://9gag.com/gag/aMEoZr1)<!-- MEMES:END -->
+ - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 

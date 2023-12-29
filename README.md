@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
  - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 💣 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 

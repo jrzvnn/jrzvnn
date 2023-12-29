@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
  - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
  - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [Enjoying the game?](http://9gag.com/gag/avQMGxO)<!-- MEMES:END -->
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 

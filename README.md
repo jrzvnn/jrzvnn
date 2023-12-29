@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best shows on Apple TV Plus in 2023](https://www.theverge.com/24002720/best-apple-tv-plus-shows-2023)
  - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)
  - [Apple stock jumped 54% in 2023 but underperformed tech peers after Apple suffered four straight quarters of declining revenue, its longest such slide since 2001 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231229/p8#a231229p8)
  - [Rising star Luxshare secures major stake in Pegatron&#39;s iPhone factory](https://appleinsider.com/articles/23/12/29/rising-star-luxshare-secures-major-stake-in-pegatrons-iphone-factory?utm_medium=rss)
- - [Apple Watch Series 9 review three months later: Don&#39;t buy it for Double Tap](https://appleinsider.com/articles/23/12/29/apple-watch-series-9-review-three-months-later-dont-buy-it-for-double-tap?utm_medium=rss)
- - [The best shows on Max in 2023](https://www.theverge.com/24003340/max-best-shows-2023)<!-- TECH:END -->
+ - [Apple Watch Series 9 review three months later: Don&#39;t buy it for Double Tap](https://appleinsider.com/articles/23/12/29/apple-watch-series-9-review-three-months-later-dont-buy-it-for-double-tap?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

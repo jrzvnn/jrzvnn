@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
- - 😝 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
- - 💣 [Olivia casta](http://9gag.com/gag/az2WjqB)
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
+ - 💣 [For you..](http://9gag.com/gag/aL1Z2LP)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Life goals!](http://9gag.com/gag/ap94L7b)<!-- MEMES:END -->
+ - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
 
 ---
 

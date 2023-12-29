@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
+ - 💣 [That escalated quickly](http://9gag.com/gag/axoLjP1)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
+ - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s new ultra-lightweight Gram laptops include some OLED screens and AI Boost](https://www.theverge.com/2023/12/28/24018312/lg-gram-pro-laptops-2024-ces)
  - [A US judge rejects X&#39;s bid to block California&#39;s AB 587, which seeks to control toxic social media posts by requiring companies to disclose moderation policies &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p21#a231228p21)
  - [A US judge sides with the SEC, ruling that Terraform is liable for offering and selling unregistered securities, but dismisses SEC&#39;s security-based swap claims &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p20#a231228p20)
  - [Vitalik Buterin proposes requiring only 8,192 validator signatures to make Ethereum&#39;s proof-of-stake &quot;simpler and lighter&quot;; ETH currently has ~895K validators &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/231228/p19#a231228p19)
- - [Birch’s End-of-Year Sale Brings 25% Off Sitewide     - CNET](https://www.cnet.com/deals/birchs-end-of-year-sale-brings-25-off-sitewide/#ftag=CAD590a51e)
- - [Filing: FirstCry, India&#39;s biggest e-commerce platform for baby products, is aiming to raise $218M in its IPO; source: the startup is eyeing a valuation of ~$4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231228/p18#a231228p18)<!-- TECH:END -->
+ - [Birch’s End-of-Year Sale Brings 25% Off Sitewide     - CNET](https://www.cnet.com/deals/birchs-end-of-year-sale-brings-25-off-sitewide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

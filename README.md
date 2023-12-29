@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A US judge sides with the SEC, ruling that Terraform is liable for offering and selling unregistered securities, but dismisses SEC&#39;s security-based swap claims &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p20#a231228p20)
  - [Vitalik Buterin proposes requiring only 8,192 validator signatures to make Ethereum&#39;s proof-of-stake &quot;simpler and lighter&quot;; ETH currently has ~895K validators &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/231228/p19#a231228p19)
- - [Birch’s End of Year Sale Brings 25% Off Sitewide     - CNET](https://www.cnet.com/deals/birchs-end-of-year-sale-brings-25-off-sitewide/#ftag=CAD590a51e)
+ - [Birch’s End-of-Year Sale Brings 25% Off Sitewide     - CNET](https://www.cnet.com/deals/birchs-end-of-year-sale-brings-25-off-sitewide/#ftag=CAD590a51e)
  - [Filing: FirstCry, India&#39;s biggest e-commerce platform for baby products, is aiming to raise $218M in its IPO; source: the startup is eyeing a valuation of ~$4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231228/p18#a231228p18)
  - [The New York Times&#39; lawsuit against OpenAI and Microsoft relies on a false belief that copyright can limit the right to read and process data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/231228/p17#a231228p17)<!-- TECH:END -->
 

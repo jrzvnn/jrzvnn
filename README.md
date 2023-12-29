@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Margrethe Vestager says AI Act will &quot;not harm innovation and research, but actually enhance it&quot; as it &quot;creates predictability and legal certainty in the market&quot; &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231229/p1#a231229p1)
- - [Texas Solar Panel Incentives: Tax Credits, Rebates and Buyback Programs     - CNET](https://www.cnet.com/home/energy-and-utilities/texas-solar-panel-incentives-tax-credits-rebates-and-buyback-programs/#ftag=CAD590a51e)
  - [First reported Tesla Cybertruck accident results in only ‘minor’ injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
  - [LG debuts new Gram and Gram Pro laptops ahead of CES 2024; the processors in the Pro lineup include Intel&#39;s AI Boost NPU hardware for on-device AI tasks &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/231228/p23#a231228p23)
- - [Microsoft&#39;s AI Image Creator, part of Bing and Paint, can generate realistic, violent images; Microsoft says some use the tech &quot;in ways that were not intended&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231228/p22#a231228p22)<!-- TECH:END -->
+ - [Microsoft&#39;s AI Image Creator, part of Bing and Paint, can generate realistic, violent images; Microsoft says some use the tech &quot;in ways that were not intended&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231228/p22#a231228p22)
+ - [LG’s new ultra-lightweight Gram laptops include some OLED screens and AI Boost](https://www.theverge.com/2023/12/28/24018312/lg-gram-pro-laptops-2024-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

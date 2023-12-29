@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
  - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 ---
 

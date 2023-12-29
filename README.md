@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Microsoft&#39;s AI Image Creator, part of Bing and Paint, can make violent images that look realistic, and Microsoft appears to lay much of the blame on users &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231228/p22#a231228p22)
  - [LG’s new ultra-lightweight Gram laptops include some OLED screens and AI Boost](https://www.theverge.com/2023/12/28/24018312/lg-gram-pro-laptops-2024-ces)
  - [A US judge rejects X&#39;s bid to block California&#39;s AB 587, which seeks to control toxic social media posts by requiring companies to disclose moderation policies &lpar;Bloomberg&rpar;](http://www.techmeme.com/231228/p21#a231228p21)
- - [A US judge sides with the SEC, ruling that Terraform broke the law by not registering four cryptocurrencies, but dismisses the SEC&#39;s security-based swap claims &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p20#a231228p20)
- - [Vitalik Buterin proposes requiring only 8,192 validator signatures to make Ethereum&#39;s proof-of-stake &quot;simpler and lighter&quot;; ETH currently has ~895K validators &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/231228/p19#a231228p19)<!-- TECH:END -->
+ - [Best Tablet Deals: Save Up to $670 on Microsoft, Apple, Samsung and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
+ - [A US judge sides with the SEC, ruling that Terraform broke the law by not registering four cryptocurrencies, but dismisses the SEC&#39;s security-based swap claims &lpar;Reuters&rpar;](http://www.techmeme.com/231228/p20#a231228p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

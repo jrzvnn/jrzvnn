@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)
- - [JD.com says a Beijing court fined Alibaba ~$141M after finding that Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
+ - [A Beijing court fined Alibaba ~$141M in a lawsuit brought by JD.com alleging Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
  - [Financial Intelligence Unit India &lpar;FIU IND&rpar; issues compliance Show Cause Notices to nine offshore Virtual Digital Assets Service Providers &lpar;VDA SPs&rpar; &lpar;Press Information Bureau&rpar;](http://www.techmeme.com/231229/p3#a231229p3)
  - [Q&amp;A with Hinge founder and CEO Justin McLeod on selling the startup to Match Group, AI&#39;s potential, making the app less addictive, expanding to Europe, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231229/p2#a231229p2)
  - [Margrethe Vestager says AI Act will &quot;not harm innovation and research, but actually enhance it&quot; as it &quot;creates predictability and legal certainty in the market&quot; &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231229/p1#a231229p1)<!-- TECH:END -->

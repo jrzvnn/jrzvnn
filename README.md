@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 😝 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [True, nowhere close 7mil](http://9gag.com/gag/aDYKGn7)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 👉 [True, nowhere close 7mil](http://9gag.com/gag/aDYKGn7)<!-- MEMES:END -->
 
 ---
 

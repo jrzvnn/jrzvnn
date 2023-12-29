@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
  - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
 
 ---

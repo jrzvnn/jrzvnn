@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple blocking Beeper Mini, not a service unto itself but an unauthorized client for a proprietary platform that costs a lot to run, is not anticompetitive &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231229/p10#a231229p10)
  - [Daily deals Dec. 29: M3 iMac $1,199, Speck iPhone 14 cases for $5, 48% off Samsung 5K monitor, more](https://appleinsider.com/articles/23/12/29/daily-deals-dec-29-m3-imac-1199-speck-iphone-14-cases-for-5-48-off-samsung-5k-monitor-more?utm_medium=rss)
  - [Elon Musk’s X can’t get around California’s content moderation law, judge rules](https://www.theverge.com/2023/12/29/24018645/x-twitter-elon-musk-content-moderation-law-california-decision)
  - [Source: Shield AI, which makes autonomous drones and other military tech, raised $300M in equity and debt at a $2.8B valuation, bringing its Series F to $500M &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/231229/p9#a231229p9)
- - [The best shows on Apple TV Plus in 2023](https://www.theverge.com/24002720/best-apple-tv-plus-shows-2023)
- - [AirTag saves Christmas, tracks down luggage stolen from Charlotte airport](https://appleinsider.com/articles/23/12/29/airtag-saves-christmas-tracks-down-luggage-stolen-from-charlotte-airport?utm_medium=rss)<!-- TECH:END -->
+ - [The best shows on Apple TV Plus in 2023](https://www.theverge.com/24002720/best-apple-tv-plus-shows-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

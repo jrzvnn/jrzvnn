@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
- - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
+ - 😝 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
+ - 😝 [When you get older](http://9gag.com/gag/a2K3oge)
+ - 💣 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 😝 [Boomers selling their homes for $2 million after buying them in 1969 for 7 raspberries](http://9gag.com/gag/a9qxp6K)
+ - 👉 [Haters will say it&#39;s fake](http://9gag.com/gag/aMEoZr1)<!-- MEMES:END -->
 
 ---
 

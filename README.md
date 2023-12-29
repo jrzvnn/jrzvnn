@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: BuzzFeed is close to selling most of Complex Networks to livestream shopping startup Ntwrk for ~$100M, far below what Jonah Peretti originally sought &lpar;The Information&rpar;](http://www.techmeme.com/231229/p17#a231229p17)
  - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Researchers: hackers are abusing Google OAuth endpoint &quot;MultiLogin&quot; to restore expired authentication cookies and log into accounts even after a password reset &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231229/p16#a231229p16)
- - [Apple&#39;s August 2023 in review - Vision Pro grows nearer, Apple TV+ gets Messi, iPhone end call button drama](https://appleinsider.com/articles/23/12/29/apples-august-2023-in-review---vision-pro-grows-nearer-apple-tv-gets-messi-iphone-end-call-button-drama?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s How to Use Your Nintendo Switch Joy-Cons to Play Games on Your iPad and iPhone     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-use-your-nintendo-switch-joy-cons-to-play-games-on-your-ipad-and-iphone/#ftag=CAD590a51e)
+ - [Researchers: hackers are abusing Google OAuth endpoint &quot;MultiLogin&quot; to restore expired authentication cookies and log into accounts even after a password reset &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231229/p16#a231229p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

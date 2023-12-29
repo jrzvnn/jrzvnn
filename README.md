@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - 😝 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
- - 💣 [Audacity](http://9gag.com/gag/avQM7z5)
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 💣 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)<!-- MEMES:END -->
+ - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
 
 ---
 

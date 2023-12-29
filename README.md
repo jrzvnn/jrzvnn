@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 💣 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 😝 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)<!-- MEMES:END -->
+ - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
 
 ---
 

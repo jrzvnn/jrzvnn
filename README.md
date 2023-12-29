@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft disables Windows App Installer&#39;s MSIX protocol handler after it was used to spread malware, after previously disabling it in 2022 and re-enabling it &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/231229/p12#a231229p12)
+ - [&#39;Baldur&#39;s Gate 3&#39; Captures the Magic of D&amp;D](https://www.wired.com/2023/12/geeks-guide-baldurs-gate-3/)
+ - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
  - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
- - [The fourth-gen Echo and latest Echo Show 8 are up to 50 percent off](https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale)
- - [Apple blocking Beeper Mini, not a service unto itself but an unauthorized client for a proprietary platform that costs a lot to run, is not anticompetitive &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231229/p10#a231229p10)
- - [Best Sunscreens for Dark Skin for 2023     - CNET](https://www.cnet.com/health/personal-care/best-sunscreens-for-dark-skin/#ftag=CAD590a51e)
- - [Daily deals Dec. 29: M3 iMac $1,199, Speck iPhone 14 cases for $5, 48% off Samsung 5K monitor, more](https://appleinsider.com/articles/23/12/29/daily-deals-dec-29-m3-imac-1199-speck-iphone-14-cases-for-5-48-off-samsung-5k-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [The fourth-gen Echo and latest Echo Show 8 are up to 50 percent off](https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
- - 😝 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
- - 💣 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)
- - 😝 [Eat fruits](http://9gag.com/gag/a5XOnAV)
- - 👉 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)<!-- MEMES:END -->
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
+ - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [True, nowhere close 7mil](http://9gag.com/gag/aDYKGn7)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 

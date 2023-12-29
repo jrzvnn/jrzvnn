@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 😝 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)
+ - 😝 [How?](http://9gag.com/gag/aREbjEB)
+ - 💣 [Audacity](http://9gag.com/gag/avQM7z5)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
+ - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
 
 ---
 

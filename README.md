@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
  - 😝 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
  - 😝 [True, nowhere close 7mil](http://9gag.com/gag/aDYKGn7)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

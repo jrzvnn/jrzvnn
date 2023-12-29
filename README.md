@@ -172,8 +172,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP trevor](http://9gag.com/gag/az2W8NZ)
  - 😝 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
+ - 😝 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
  - 💣 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)
  - 😝 [Eat fruits](http://9gag.com/gag/a5XOnAV)
  - 👉 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)<!-- MEMES:END -->

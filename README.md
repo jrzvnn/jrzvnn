@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/aREbjEB)
- - 😝 [Audacity](http://9gag.com/gag/avQM7z5)
- - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)<!-- MEMES:END -->
+ - 😝 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 💣 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 😝 [Almost as brilliant as nuking hurricanes.](http://9gag.com/gag/aL1Z9Kv)
+ - 👉 [Ackchyually...](http://9gag.com/gag/a3Z67z8)<!-- MEMES:END -->
 
 ---
 

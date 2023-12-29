@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rising star Luxshare secures major stake in Pegatron&#39;s iPhone factory](https://appleinsider.com/articles/23/12/29/rising-star-luxshare-secures-major-stake-in-pegatrons-iphone-factory?utm_medium=rss)
+ - [Apple Watch Series 9 review three months later: Don&#39;t buy it for Double Tap](https://appleinsider.com/articles/23/12/29/apple-watch-series-9-review-three-months-later-dont-buy-it-for-double-tap?utm_medium=rss)
  - [The best shows on Max in 2023](https://www.theverge.com/24003340/max-best-shows-2023)
- - [Apple&#39;s July 2023 in review: Goldman Sachs wants out of Apple Card, Threads, Underdogs and more](https://appleinsider.com/articles/23/12/29/apples-july-2023-in-review-goldman-sachs-wants-out-of-apple-card-threads-underdogs-and-more?utm_medium=rss)
- - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)
- - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
- - [Get Ready for Tax Season With This $25 H&amp;R Block Tax Software Deal     - CNET](https://www.cnet.com/deals/get-ready-for-tax-season-with-this-25-h-r-block-tax-software-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stock Up on Official Apple Watch Bands With Up to 50% Off Regular Prices     - CNET](https://www.cnet.com/deals/stock-up-official-apple-watch-bands-50-off/#ftag=CAD590a51e)
+ - [Best Website Builder for 2023: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

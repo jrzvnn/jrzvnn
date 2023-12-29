@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 

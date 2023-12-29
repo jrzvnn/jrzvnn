@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audacity](http://9gag.com/gag/avQM7z5)
- - 😝 [Bank Employees were passing by and noticed a 2yr old was climbing out a window and fell 6 floors....](http://9gag.com/gag/a04rKjX)
- - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 😝 [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - 👉 [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)<!-- MEMES:END -->
+ - 😝 [Welcome to Kevin Spaceys TED Talk](http://9gag.com/gag/a5XOrdg)
+ - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
+ - 👉 [Almost as brilliant as nuking hurricanes.](http://9gag.com/gag/aL1Z9Kv)<!-- MEMES:END -->
 
 ---
 

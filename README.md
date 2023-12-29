@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 😝 [Best day ever.](http://9gag.com/gag/aPgEDQV)
- - 💣 [That escalated quickly](http://9gag.com/gag/axoLjP1)
+ - 😝 [Eye didnt see that coming](http://9gag.com/gag/aGEmxB0)
+ - 😝 [Final self photo of kayaker Andrew McCauley recovered from his memory stick after his disappearance. Credit : jamesishere](http://9gag.com/gag/ay2bdzY)
+ - 💣 [Olivia casta](http://9gag.com/gag/az2WjqB)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Olivia casta](http://9gag.com/gag/az2WjqB)<!-- MEMES:END -->
+ - 👉 [Life goals!](http://9gag.com/gag/ap94L7b)<!-- MEMES:END -->
 
 ---
 

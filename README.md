@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
  - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
  - 😝 [Almost as brilliant as nuking hurricanes.](http://9gag.com/gag/aL1Z9Kv)
- - 👉 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)<!-- MEMES:END -->
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 😝 [Almost as brilliant as nuking hurricanes.](http://9gag.com/gag/aL1Z9Kv)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 😝 [RIP trevor](http://9gag.com/gag/az2W8NZ)
+ - 😝 [Yeah....if you know, you know.](http://9gag.com/gag/armQgmy)
+ - 💣 [Indonesian citizenss are fed up with illegal immigrants and decide to do about it themselves...](http://9gag.com/gag/agoDXgK)
+ - 😝 [Eat fruits](http://9gag.com/gag/a5XOnAV)
+ - 👉 [While there is no coverage on this news](http://9gag.com/gag/aZD6pe6)<!-- MEMES:END -->
 
 ---
 

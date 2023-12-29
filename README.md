@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Kevin Spaceys TED Talk](http://9gag.com/gag/a5XOrdg)
+ - 😝 [2024](http://9gag.com/gag/a8qRymO)
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 💣 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
  - 😝 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 💣 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
  - 👉 [Almost as brilliant as nuking hurricanes.](http://9gag.com/gag/aL1Z9Kv)<!-- MEMES:END -->
 
 ---

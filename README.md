@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 💣 [Olivia casta](http://9gag.com/gag/az2WjqB)
+ - 😝 [Ugly](http://9gag.com/gag/aGEm16w)
+ - 😝 [Audacity](http://9gag.com/gag/avQM7z5)
+ - 💣 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->
+ - 👉 [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)<!-- MEMES:END -->
 
 ---
 

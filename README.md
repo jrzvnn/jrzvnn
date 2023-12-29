@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [How?](http://9gag.com/gag/aREbjEB)
  - 😝 [Audacity](http://9gag.com/gag/avQM7z5)
  - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
- - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [100% how the world works today \ud83d\udd95](http://9gag.com/gag/aBdA8EO)<!-- MEMES:END -->
 
 ---
 

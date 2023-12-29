@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist baiting Snoop Dogg be like](http://9gag.com/gag/ap94rWb)
  - 😝 [How?](http://9gag.com/gag/aREbjEB)
- - 💣 [Audacity](http://9gag.com/gag/avQM7z5)
+ - 😝 [Audacity](http://9gag.com/gag/avQM7z5)
+ - 💣 [RIP trevor](http://9gag.com/gag/az2W8NZ)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
- - 👉 [RIP trevor](http://9gag.com/gag/az2W8NZ)<!-- MEMES:END -->
+ - 👉 [Teach by example.](http://9gag.com/gag/aDYKWbw)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei says its full-year sales for 2023 would be more than $99B, up 9% YoY but down 20% from 2020 peak; Chairman Ken Hu says &quot;we&#39;re pretty much back on track&quot; &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/231229/p5#a231229p5)
- - [Huawei&#39;s 2023 Revenue Soars Despite US Sanctions     - CNET](https://www.cnet.com/tech/mobile/huaweis-2023-revenue-soars-despite-us-sanctions/#ftag=CAD590a51e)
- - [A Beijing court fined Alibaba ~$141M in a lawsuit brought by JD.com alleging Alibaba&#39;s Tmall adopted monopolistic practices known as &quot;choosing one from two&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231229/p4#a231229p4)
- - [Financial Intelligence Unit India &lpar;FIU IND&rpar; issues compliance Show Cause Notices to nine offshore Virtual Digital Assets Service Providers &lpar;VDA SPs&rpar; &lpar;Press Information Bureau&rpar;](http://www.techmeme.com/231229/p3#a231229p3)
- - [Q&amp;A with Hinge founder and CEO Justin McLeod on selling the startup to Match Group, AI&#39;s potential, making the app less addictive, expanding to Europe, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231229/p2#a231229p2)<!-- TECH:END -->
+ - [IVC: Israeli startups raised ~$1.5B in Q4 2023, down 15% QoQ, despite increased foreign investor participation, and ~$7B in all of 2023, vs. nearly $16B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231229/p6#a231229p6)
+ - [The 10 Best TV Shows of 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-of-2023/)
+ - [Your Eco-Friendly Lifestyle Is a Big Lie](https://www.wired.com/story/eco-friendly-myth/)
+ - [The Worst Hacks of 2023](https://www.wired.com/story/worst-hacks-2023/)
+ - [WIRED’s 2023 Year-in-Review Quiz](https://www.wired.com/story/2023-year-in-review-quiz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

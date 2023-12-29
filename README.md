@@ -172,8 +172,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
  - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)
  - 💣 [Olivia casta](http://9gag.com/gag/az2WjqB)
  - 😝 [Want to win an ROG Ally yourself? Join ROG CES 2024 Livestream event on January 08 at 3 PM PST.](http://9gag.com/gag/aREbABB)
  - 👉 [Best day ever.](http://9gag.com/gag/aPgEDQV)<!-- MEMES:END -->

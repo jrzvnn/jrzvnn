@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)
+ - [Sources: OpenAI held talks with major news publishers including Gannett, News Corp, and IAC on the price and terms of licensing their content &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/231229/p7#a231229p7)
  - [IVC: Israeli startups raised ~$1.5B in Q4 2023, down 15% QoQ, despite increased foreign investor participation, and ~$7B in all of 2023, vs. nearly $16B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231229/p6#a231229p6)
  - [The 10 Best TV Shows of 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-of-2023/)
- - [Your Eco-Friendly Lifestyle Is a Big Lie](https://www.wired.com/story/eco-friendly-myth/)
- - [The Worst Hacks of 2023](https://www.wired.com/story/worst-hacks-2023/)
- - [WIRED’s 2023 Year-in-Review Quiz](https://www.wired.com/story/2023-year-in-review-quiz/)<!-- TECH:END -->
+ - [Your Eco-Friendly Lifestyle Is a Big Lie](https://www.wired.com/story/eco-friendly-myth/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

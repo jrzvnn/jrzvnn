@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s August 2023 in review - Vision Pro grows nearer, Apple TV+ gets Messi, iPhone end call button drama](https://appleinsider.com/articles/23/12/29/apples-august-2023-in-review---vision-pro-grows-nearer-apple-tv-gets-messi-iphone-end-call-button-drama?utm_medium=rss)
  - [Donald Trump&#39;s former lawyer Michael Cohen says he mistakenly used bogus legal citations from Google Bard in a motion seeking an early end to court supervision &lpar;Benjamin Weiser/New York Times&rpar;](http://www.techmeme.com/231229/p15#a231229p15)
  - [Slide into the New Year with up to $950 in savings on Apple computers](https://appleinsider.com/articles/23/12/29/slide-into-the-new-year-with-up-to-950-in-savings-on-apple-computers?utm_medium=rss)
  - [Sources: US intelligence determined that the Chinese spy balloon that flew across the US in January and February 2023 used a US ISP to communicate with China &lpar;NBC News&rpar;](http://www.techmeme.com/231229/p14#a231229p14)
- - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)
- - [How to locate an Apple TV remote in iOS 17](https://appleinsider.com/inside/apple-tv/tips/how-to-locate-an-apple-tv-remote-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia is releasing a slower RTX 4090 in China to comply with US restrictions](https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

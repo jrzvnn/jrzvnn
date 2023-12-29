@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India&#39;s decision to seek the blocking of URLs of nine foreign crypto exchanges came after a letter from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
+ - [Sources: India&#39;s decision to seek the blocking of the URLs of nine foreign crypto exchanges followed a request from the Indian crypto and Web3 advocacy body &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/231229/p11#a231229p11)
  - [The fourth-gen Echo and latest Echo Show 8 are up to 50 percent off](https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale)
  - [Apple blocking Beeper Mini, not a service unto itself but an unauthorized client for a proprietary platform that costs a lot to run, is not anticompetitive &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231229/p10#a231229p10)
  - [Best Sunscreens for Dark Skin for 2023     - CNET](https://www.cnet.com/health/personal-care/best-sunscreens-for-dark-skin/#ftag=CAD590a51e)

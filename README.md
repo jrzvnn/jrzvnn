@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 💣 [Pick your Mugshawty](http://9gag.com/gag/abvNZeB)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [True, nowhere close 7mil](http://9gag.com/gag/aDYKGn7)<!-- MEMES:END -->
+ - 😝 [Hell must be filled with long backs](http://9gag.com/gag/ajVzE7R)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 💣 [This post contain adult gifs in the comments section, here we go..](http://9gag.com/gag/aeQnYVj)
+ - 😝 [Bank Employees were passing by and noticed a 2yr old was climbing out a window and fell 6 floors....](http://9gag.com/gag/a04rKjX)
+ - 👉 [Boomers selling their homes for $2 million after buying them in 1969 for 7 raspberries](http://9gag.com/gag/a9qxp6K)<!-- MEMES:END -->
 
 ---
 

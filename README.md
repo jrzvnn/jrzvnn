@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
  - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
  - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

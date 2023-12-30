@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do These 3 Things First if You Just Got a New iPhone 15 Pro or Pro Max     - CNET](https://www.cnet.com/tech/mobile/do-these-3-things-first-if-you-just-got-a-new-iphone-15-pro-or-pro-max/#ftag=CAD590a51e)
  - [Sources: OpenAI recently topped $1.6B in annualized revenue, up from $1.3B in mid-October; some OpenAI leaders believe OpenAI can reach a $5B ARR by 2024&#39;s end &lpar;The Information&rpar;](http://www.techmeme.com/231230/p7#a231230p7)
+ - [5 Facial Products to Protect Your Skin for a Day in the Sun     - CNET](https://www.cnet.com/health/personal-care/5-facial-products-to-protect-your-skin-for-a-day-in-the-sun/#ftag=CAD590a51e)
  - [People&#39;s Bank of China lists Ant Group&#39;s Alipay as having no controller, as Ant finished removing controlling stakeholders almost a year after Jack Ma&#39;s promise &lpar;Bloomberg&rpar;](http://www.techmeme.com/231230/p6#a231230p6)
- - [How Figma is adding AI into its products, including launching FigJam AI in public beta in November to help improve meetings with summaries, next steps, and more &lpar;Ryan McCarthy/Fast Company&rpar;](http://www.techmeme.com/231230/p5#a231230p5)
- - [Enphase IQ Battery Review: Less Power Than Competitors, But a Stronger Model Is Here     - CNET](https://www.cnet.com/home/energy-and-utilities/enphase-battery-review/#ftag=CAD590a51e)
- - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)<!-- TECH:END -->
+ - [Become a Windows 11 Master With These 70+ Keyboard Shortcuts     - CNET](https://www.cnet.com/tech/computing/become-a-windows-11-master-with-these-70-keyboard-shortcuts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI is based](http://9gag.com/gag/axoL1XY)
- - 😝 [Enemy for the reason](http://9gag.com/gag/amAe7rj)
- - 💣 [Hopefully...](http://9gag.com/gag/aGEmZQ6)
- - 😝 [But, but, the colonisers....](http://9gag.com/gag/aREb1dj)
- - 👉 [Snack](http://9gag.com/gag/aBdA0eO)<!-- MEMES:END -->
+ - 😝 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 ---
 

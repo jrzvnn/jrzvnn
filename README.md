@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
  - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---

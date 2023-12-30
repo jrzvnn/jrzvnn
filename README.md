@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 💣 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 👉 [To cancel a comedian](http://9gag.com/gag/avQMz85)<!-- MEMES:END -->
+ - 😝 [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
+ - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 ---
 

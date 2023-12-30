@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [He is really determined to live 1520 years.](http://9gag.com/gag/aoKv1Ln)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 😝 [This solder paste](http://9gag.com/gag/aQELR3K)
+ - 😝 [AI is based](http://9gag.com/gag/axoL1XY)
+ - 💣 [Enemy for the reason](http://9gag.com/gag/amAe7rj)
+ - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
+ - 👉 [Hopefully...](http://9gag.com/gag/aGEmZQ6)<!-- MEMES:END -->
 
 ---
 

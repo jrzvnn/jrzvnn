@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 😝 [Carrom board](http://9gag.com/gag/aeQnrBv)
- - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
+ - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 ---
 

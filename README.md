@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best TV Deals: Save Up to $600 on Samsung, LG, Fire TV and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Microsoft launches Microsoft Copilot on the App Store for iPhone and iPad, a free ChatGPT-like app that supports GPT-4 and DALL-E 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231229/p20#a231229p20)
+ - [Best Nintendo Switch Deals: Big Savings on Physical and Digital Games, Refurbished Consoles, Accessories and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
  - [Microsoft’s Copilot app is now available on iOS](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai)
- - [OpenAI and others face more copyright lawsuits as systems like DALL-E produce materials that infringe on copyright without giving attribution or informing users &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231229/p19#a231229p19)
- - [It&#39;s Easy to Put Microsoft Office 365 on Your New Chromebook     - CNET](https://www.cnet.com/tech/computing/its-easy-to-put-microsoft-office-365-on-your-new-chromebook/#ftag=CAD590a51e)
- - [Microsoft Copilot AI chatbot arrives on App Store for iPhone and iPad](https://appleinsider.com/articles/23/12/29/microsoft-copilot-ai-chatbot-arrives-on-app-store-for-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI and others will likely face more copyright lawsuits as systems like DALL-E produce copyright-infringing materials without attribution or informing users &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231229/p19#a231229p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

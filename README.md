@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An arrow and a Bow. But lets just go wa wa wa](http://9gag.com/gag/aGEm1L6)
  - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
- - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
 
 ---
 

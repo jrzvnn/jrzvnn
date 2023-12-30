@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey is a legend](http://9gag.com/gag/aoKv1EX)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 💣 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
  - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 

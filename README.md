@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
  - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 👉 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)<!-- MEMES:END -->
+ - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
+ - 💣 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [Random facts](http://9gag.com/gag/aKEQ6xj)
+ - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
 
 ---
 

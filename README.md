@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
  - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 😝 [That was real quick...](http://9gag.com/gag/aGEmjBz)
+ - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
 
 ---
 

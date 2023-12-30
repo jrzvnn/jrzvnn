@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [That was real quick...](http://9gag.com/gag/aGEmjBz)
- - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
+ - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
+ - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
+ - 💣 [Nice](http://9gag.com/gag/aGEmg3n)
+ - 😝 [Carrom board](http://9gag.com/gag/aeQnrBv)
+ - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
 
 ---
 

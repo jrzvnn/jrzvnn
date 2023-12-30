@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 💣 [I beg to differ.](http://9gag.com/gag/a04r7pX)
  - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 👉 [To cancel a comedian](http://9gag.com/gag/avQMz85)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
  - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

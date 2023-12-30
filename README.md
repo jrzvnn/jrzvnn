@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 😝 [Why did he turn his head?](http://9gag.com/gag/aREb38M)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
  - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 💣 [Carrom board](http://9gag.com/gag/aeQnrBv)
- - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 👉 [Enjoying the game?](http://9gag.com/gag/avQMGxO)<!-- MEMES:END -->
 
 ---
 

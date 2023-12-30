@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully...](http://9gag.com/gag/aGEmZQ6)
- - 😝 [Enemy for the reason](http://9gag.com/gag/amAe7rj)
- - 💣 [Snack](http://9gag.com/gag/aBdA0eO)
- - 😝 [I just don&#39;t like wide noses and sometimes how big their asses tend to be for some reason.](http://9gag.com/gag/ay2bB6q)
- - 👉 [Hardcore fishing.](http://9gag.com/gag/a8qR393)<!-- MEMES:END -->
+ - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
+ - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 😝 [Skilled mason with a sense of humour](http://9gag.com/gag/aeQnrzQ)
+ - 😝 [Hopefully...](http://9gag.com/gag/aGEmZQ6)
+ - 💣 [Enemy for the reason](http://9gag.com/gag/amAe7rj)
+ - 😝 [Snack](http://9gag.com/gag/aBdA0eO)
+ - 👉 [But, but, the colonisers....](http://9gag.com/gag/aREb1dj)<!-- MEMES:END -->
 
 ---
 

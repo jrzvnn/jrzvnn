@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People&#39;s Bank of China lists Ant Group&#39;s Alipay as having no controller, as Ant finished removing controlling stakeholders a year after Jack Ma&#39;s announcement &lpar;Bloomberg&rpar;](http://www.techmeme.com/231230/p6#a231230p6)
+ - [People&#39;s Bank of China lists Ant Group&#39;s Alipay as having no controller, as Ant finished removing controlling stakeholders almost a year after Jack Ma&#39;s promise &lpar;Bloomberg&rpar;](http://www.techmeme.com/231230/p6#a231230p6)
  - [How Figma is adding AI into its products, including launching FigJam AI in public beta in November to help improve meetings with summaries, next steps, and more &lpar;Ryan McCarthy/Fast Company&rpar;](http://www.techmeme.com/231230/p5#a231230p5)
  - [Enphase IQ Battery Review: Less Power Than Competitors, But a Stronger Model Is Here     - CNET](https://www.cnet.com/home/energy-and-utilities/enphase-battery-review/#ftag=CAD590a51e)
  - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)

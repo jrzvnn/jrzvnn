@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
- - 💣 [Nice](http://9gag.com/gag/aGEmg3n)
- - 😝 [Carrom board](http://9gag.com/gag/aeQnrBv)
- - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
+ - 😝 [That was real quick...](http://9gag.com/gag/aGEmjBz)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

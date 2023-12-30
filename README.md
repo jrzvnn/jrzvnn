@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was real quick...](http://9gag.com/gag/aGEmjBz)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 😝 [3d printing a swirling tree](http://9gag.com/gag/aYV3yK7)
+ - 😝 [Nice](http://9gag.com/gag/aGEmg3n)
+ - 💣 [The coach &lpar;Daniel Farke&rpar; is still worthy](http://9gag.com/gag/aoKvNQX)
+ - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
+ - 👉 [It looked so tasty](http://9gag.com/gag/aREb1nG)<!-- MEMES:END -->
 
 ---
 

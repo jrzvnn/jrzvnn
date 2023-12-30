@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)
+ - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)
  - [Some authors are embracing chatbots as the latest iteration of an ancient literary conceit: a &quot;muse&quot;, or an extra intelligence, a supplemental mental database &lpar;A.O. Scott/New York Times&rpar;](http://www.techmeme.com/231230/p3#a231230p3)
  - [The UK&#39;s NHS deploys an AI stethoscope from Mayo Clinic spinoff Eko in 200 GP surgeries to detect heart failure, atrial fibrillation, and valvular heart disease &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231230/p2#a231230p2)
- - [A look at Chinese startup SEIDA, which claims to be developing the optical proximity correction chip design software to help China&#39;s chip self-reliance vision &lpar;Reuters&rpar;](http://www.techmeme.com/231230/p1#a231230p1)
- - [Lidar sensor tech is the latest flashpoint in the US-China trade war, as the US lidar industry mounts a lobbying offensive against Chinese companies like Hesai &lpar;Tanya Snyder/Politico&rpar;](http://www.techmeme.com/231229/p22#a231229p22)
- - [Get Apple&#39;s M2 Mac mini with 16GB RAM for as low as $699](https://appleinsider.com/articles/23/12/30/get-apples-m2-mac-mini-with-16gb-ram-for-as-low-as-699?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Chinese startup SEIDA, which claims to be developing the optical proximity correction chip design software to help China&#39;s chip self-reliance vision &lpar;Reuters&rpar;](http://www.techmeme.com/231230/p1#a231230p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

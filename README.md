@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)
  - [Vizio agrees to pay $3 million for alleged ‘false’ refresh rate claims](https://www.theverge.com/2023/12/30/24019780/vizio-settlement-effective-refresh-rate-class-action-lawsuit)
  - [How to master the camera app on iPhone 15 &amp; iPhone 15 Plus](https://appleinsider.com/inside/iphone-15/tips/how-to-master-the-camera-app-on-iphone-15-iphone-15-plus?utm_medium=rss)
  - [A profile of Joe Kiani, whose company Masimo spent ~$100M suing Apple, as some say his aggressive use of the US patent system stymies the innovation of others &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/231230/p8#a231230p8)
- - [Best Fiber Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)
- - [Do These 3 Things First if You Just Got a New iPhone 15 Pro or Pro Max     - CNET](https://www.cnet.com/tech/mobile/do-these-3-things-first-if-you-just-got-a-new-iphone-15-pro-or-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fiber Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

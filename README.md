@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bottle of shampoo on the washing machines be like](http://9gag.com/gag/aqePgVP)
- - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
- - 💣 [3d printing a swirling tree](http://9gag.com/gag/aYV3yK7)
- - 😝 [I just don&#39;t like wide noses and sometimes how big their asses tend to be for some reason.](http://9gag.com/gag/ay2bB6q)
- - 👉 [To cancel a comedian](http://9gag.com/gag/avQMz85)<!-- MEMES:END -->
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 ---
 

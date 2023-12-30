@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This solder paste](http://9gag.com/gag/aQELR3K)
- - 😝 [AI is based](http://9gag.com/gag/axoL1XY)
- - 💣 [Enemy for the reason](http://9gag.com/gag/amAe7rj)
- - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 👉 [Hopefully...](http://9gag.com/gag/aGEmZQ6)<!-- MEMES:END -->
+ - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
+ - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

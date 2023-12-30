@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [2023’s great games were overshadowed by a dark cloud of layoffs](https://www.theverge.com/24009039/video-game-layoffs-2023)
  - [A look at Australia&#39;s maturing tech sector, which faces challenges like a shortage of late-stage capital and a scarcity of executives with scaling experience &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231230/p4#a231230p4)
  - [Apple&#39;s September 2023 in review: &#39;Wonderlust,&#39; iPhone 15, a French iPhone ban, and more](https://appleinsider.com/articles/23/12/30/apples-september-2023-in-review-wonderlust-iphone-15-a-french-iphone-ban-and-more?utm_medium=rss)
- - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
- - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)
- - [Social Security Payments for January 2024: Is Your Check Coming This Week?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-for-january-2024-is-your-cola-check-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Foldable Face-Off: How Samsung&#39;s Z Fold 5 Compares to Its Predecessors     - CNET](https://www.cnet.com/tech/mobile/galaxy-foldable-face-off-how-the-z-fold-5-compares-predecessors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

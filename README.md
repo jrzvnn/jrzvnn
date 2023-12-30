@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 😝 [Enjoying the game?](http://9gag.com/gag/avQMGxO)
  - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 💣 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---
 

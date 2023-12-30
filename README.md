@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chinese startup SEIDA, which claims to be developing the optical proximity correction chip design software to help China&#39;s chip self-reliance vision &lpar;Reuters&rpar;](http://www.techmeme.com/231230/p1#a231230p1)
  - [Lidar sensor tech is the latest flashpoint in the US-China trade war, as the US lidar industry mounts a lobbying offensive against Chinese companies like Hesai &lpar;Tanya Snyder/Politico&rpar;](http://www.techmeme.com/231229/p22#a231229p22)
  - [Get Apple&#39;s M2 Mac mini with 16GB RAM for as low as $699](https://appleinsider.com/articles/23/12/30/get-apples-m2-mac-mini-with-16gb-ram-for-as-low-as-699?utm_medium=rss)
  - [Filing: US prosecutors have decided not to pursue a second trial against Sam Bankman-Fried, as much of the evidence was already presented at the first trial &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/231229/p21#a231229p21)
- - [Best TV Deals: Save Up to $600 on Samsung, LG, Fire TV and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Microsoft launches Microsoft Copilot for iOS and iPadOS, a free ChatGPT-like app that supports GPT-4 and DALL-E 3, three days after its Android launch &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231229/p20#a231229p20)<!-- TECH:END -->
+ - [Best TV Deals: Save Up to $600 on Samsung, LG, Fire TV and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
- - 💣 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 😝 [Random facts](http://9gag.com/gag/aKEQ6xj)
+ - 😝 [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
  - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
 
 ---

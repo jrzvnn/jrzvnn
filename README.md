@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s September 2023 in review: &#39;Wonderlust,&#39; iPhone 15, a French iPhone ban, and more](https://appleinsider.com/articles/23/12/30/apples-september-2023-in-review-wonderlust-iphone-15-a-french-iphone-ban-and-more?utm_medium=rss)
+ - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
+ - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)
  - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)
- - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)
- - [Some authors are embracing chatbots as the latest iteration of an ancient literary conceit: a &quot;muse&quot;, or an extra intelligence, a supplemental mental database &lpar;A.O. Scott/New York Times&rpar;](http://www.techmeme.com/231230/p3#a231230p3)
- - [The UK&#39;s NHS deploys an AI stethoscope from Mayo Clinic spinoff Eko in 200 GP surgeries to detect heart failure, atrial fibrillation, and valvular heart disease &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231230/p2#a231230p2)
- - [A look at Chinese startup SEIDA, which claims to be developing the optical proximity correction chip design software to help China&#39;s chip self-reliance vision &lpar;Reuters&rpar;](http://www.techmeme.com/231230/p1#a231230p1)<!-- TECH:END -->
+ - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

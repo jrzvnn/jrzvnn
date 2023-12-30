@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the rise of AI-generated virtual influencers, with some charging thousands of dollars to promote products, leading to concerns from human influencers &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231230/p10#a231230p10)
+ - [5 Quick Tips to Lower Your Heat and Electric Bills This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/yes-you-can-cut-your-heat-and-electric-bills-5-easy-tips/#ftag=CAD590a51e)
  - [Apple&#39;s October 2023 in review: Scary Fast new Macs, Google&#39;s trial, and The Afterparty&#39;s over](https://appleinsider.com/articles/23/12/30/apples-october-2023-in-review-scary-fast-new-macs-googles-trial-and-the-afterpartys-over?utm_medium=rss)
  - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)
- - [Refresh Your Space and Save Up to 20% with Ruggable End-of-Year Sale     - CNET](https://www.cnet.com/deals/save-up-to-20-on-ruggable-rugs-end-of-year-sale/#ftag=CAD590a51e)
- - [Vizio agrees to pay $3 million for alleged ‘false’ refresh rate claims](https://www.theverge.com/2023/12/30/24019780/vizio-settlement-effective-refresh-rate-class-action-lawsuit)<!-- TECH:END -->
+ - [Refresh Your Space and Save Up to 20% With Ruggable&#39;s End-of-Year Sale     - CNET](https://www.cnet.com/deals/save-up-to-20-on-ruggable-rugs-end-of-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

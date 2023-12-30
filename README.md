@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [He is really determined to live 1520 years.](http://9gag.com/gag/aoKv1Ln)
  - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

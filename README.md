@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody\u2019s gonna have a good time](http://9gag.com/gag/aeQnbem)
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
- - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
- - 👉 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)<!-- MEMES:END -->
+ - 😝 [Delta Employee Gives Perfect Response To Pronoun Warrior](http://9gag.com/gag/aNw7A1v)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
 
 ---
 

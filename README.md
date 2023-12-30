@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
  - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 💣 [Free candy](http://9gag.com/gag/aOxMB2R)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 💣 [Carrom board](http://9gag.com/gag/aeQnrBv)
+ - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
 
 ---
 

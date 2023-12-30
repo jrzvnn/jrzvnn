@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 👉 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)<!-- MEMES:END -->
 
 ---
 

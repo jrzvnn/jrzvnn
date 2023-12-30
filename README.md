@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)
- - 😝 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 😝 [Teach by example.](http://9gag.com/gag/aDYKWbw)
+ - 😝 [Carrom board](http://9gag.com/gag/aeQnrBv)
+ - 💣 [Go on and tell him](http://9gag.com/gag/aYV3K3O)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---
 

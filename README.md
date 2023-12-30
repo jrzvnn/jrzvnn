@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
  - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [Free candy](http://9gag.com/gag/aOxMB2R)<!-- MEMES:END -->
+ - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
+ - 👉 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)<!-- MEMES:END -->
 
 ---
 

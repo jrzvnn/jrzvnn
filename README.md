@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2024, the internet is about to see the biggest reshuffling of power in 25 years, with the &quot;human web&quot; resurgent and regulators forcing tech giants to open up &lpar;Anil Dash/Rolling Stone&rpar;](http://www.techmeme.com/231230/p11#a231230p11)
  - [A look at the rise of AI-generated virtual influencers, with some charging thousands of dollars to promote products, leading to concerns from human influencers &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231230/p10#a231230p10)
  - [5 Quick Tips to Lower Your Heat and Electric Bills This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/yes-you-can-cut-your-heat-and-electric-bills-5-easy-tips/#ftag=CAD590a51e)
  - [Apple&#39;s October 2023 in review: Scary Fast new Macs, Google&#39;s trial, and The Afterparty&#39;s over](https://appleinsider.com/articles/23/12/30/apples-october-2023-in-review-scary-fast-new-macs-googles-trial-and-the-afterpartys-over?utm_medium=rss)
- - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)
- - [Refresh Your Space and Save Up to 20% With Ruggable&#39;s End-of-Year Sale     - CNET](https://www.cnet.com/deals/save-up-to-20-on-ruggable-rugs-end-of-year-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese robotaxi companies are shifting to less advanced but more commercially viable smart-driving solutions, as funding dries up and losses continue to mount &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/231230/p9#a231230p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

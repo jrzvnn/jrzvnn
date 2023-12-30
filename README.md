@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Figma is adding AI into its products, including launching FigJam AI in public beta in November to help improve meetings with summaries, next steps, and more &lpar;Ryan McCarthy/Fast Company&rpar;](http://www.techmeme.com/231230/p5#a231230p5)
+ - [Enphase IQ Battery Review: Less Power Than Competitors, But a Stronger Model Is Here     - CNET](https://www.cnet.com/home/energy-and-utilities/enphase-battery-review/#ftag=CAD590a51e)
  - [8 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)
- - [2023’s great games were overshadowed by a dark cloud of layoffs](https://www.theverge.com/24009039/video-game-layoffs-2023)
- - [A look at Australia&#39;s maturing tech sector, which faces challenges like a shortage of late-stage capital and a scarcity of executives with scaling experience &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231230/p4#a231230p4)
- - [Apple&#39;s September 2023 in review: &#39;Wonderlust,&#39; iPhone 15, a French iPhone ban, and more](https://appleinsider.com/articles/23/12/30/apples-september-2023-in-review-wonderlust-iphone-15-a-french-iphone-ban-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in San Antonio, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
+ - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

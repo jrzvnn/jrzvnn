@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to master the camera app on iPhone 15 &amp; iPhone 15 Plus](https://appleinsider.com/inside/iphone-15/tips/how-to-master-the-camera-app-on-iphone-15-iphone-15-plus?utm_medium=rss)
  - [A profile of Joe Kiani, whose company Masimo spent ~$100M suing Apple, as some say his aggressive use of the US patent system stymies the innovation of others &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/231230/p8#a231230p8)
+ - [Best Fiber Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-fiber-internet/#ftag=CAD590a51e)
  - [Do These 3 Things First if You Just Got a New iPhone 15 Pro or Pro Max     - CNET](https://www.cnet.com/tech/mobile/do-these-3-things-first-if-you-just-got-a-new-iphone-15-pro-or-pro-max/#ftag=CAD590a51e)
- - [Sources: OpenAI recently topped $1.6B in annualized revenue, up from $1.3B in mid-October; some OpenAI leaders believe OpenAI can reach a $5B ARR by 2024&#39;s end &lpar;The Information&rpar;](http://www.techmeme.com/231230/p7#a231230p7)
- - [5 Facial Products to Protect Your Skin for a Day in the Sun     - CNET](https://www.cnet.com/health/personal-care/5-facial-products-to-protect-your-skin-for-a-day-in-the-sun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI recently topped $1.6B in annualized revenue, up from $1.3B in mid-October; some OpenAI leaders believe OpenAI can reach a $5B ARR by 2024&#39;s end &lpar;The Information&rpar;](http://www.techmeme.com/231230/p7#a231230p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

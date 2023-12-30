@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Australia&#39;s maturing tech sector, which faces challenges like a shortage of late-stage capital and a scarcity of executives with scaling experience &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231230/p4#a231230p4)
  - [Apple&#39;s September 2023 in review: &#39;Wonderlust,&#39; iPhone 15, a French iPhone ban, and more](https://appleinsider.com/articles/23/12/30/apples-september-2023-in-review-wonderlust-iphone-15-a-french-iphone-ban-and-more?utm_medium=rss)
  - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
  - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)
- - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)
- - [WIRED’s Biggest Interviews of 2023](https://www.wired.com/story/wired-big-interviews-2023/)<!-- TECH:END -->
+ - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

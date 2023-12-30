@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s September 2023 in review: &#39;Wonderlust,&#39; iPhone 15, a French iPhone ban, and more](https://appleinsider.com/articles/23/12/30/apples-september-2023-in-review-wonderlust-iphone-15-a-french-iphone-ban-and-more?utm_medium=rss)
  - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
  - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)
- - [The Year the Millennial Internet Died](https://www.wired.com/story/end-of-the-millennial-internet/)<!-- TECH:END -->
+ - [Social Security Payments for January 2024: Is Your Check Coming This Week?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-for-january-2024-is-your-cola-check-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

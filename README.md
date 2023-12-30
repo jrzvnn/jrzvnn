@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free candy](http://9gag.com/gag/aOxMB2R)
+ - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
  - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
  - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
- - 👉 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)<!-- MEMES:END -->
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
 
 ---
 

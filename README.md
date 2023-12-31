@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
  - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
- - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 💣 [That was real quick...](http://9gag.com/gag/aGEmjBz)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---
 

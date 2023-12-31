@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
  - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
- - 💣 [That was real quick...](http://9gag.com/gag/aGEmjBz)
- - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 💣 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 ---
 

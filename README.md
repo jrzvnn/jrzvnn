@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
  - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
- - 💣 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
+ - 💣 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
+ - 😝 [Yup](http://9gag.com/gag/armQoQ0)
+ - 👉 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)<!-- MEMES:END -->
 
 ---
 

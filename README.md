@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 😝 [Back when memes were funny.](http://9gag.com/gag/aVbpwKK)
- - 💣 [Why r u geh?](http://9gag.com/gag/ap94Gb5)
- - 😝 [Where&#39;s the media? 160 Christians were killed by Islamic Jihadists the day after Christmas in Nigeria.](http://9gag.com/gag/abvNgz9)
- - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
+ - 😝 [High](http://9gag.com/gag/aVbp0pM)
+ - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 💣 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
+ - 😝 [That was real quick...](http://9gag.com/gag/aGEmjBz)
+ - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [Why did he turn his head?](http://9gag.com/gag/aREb38M)
- - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 😝 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)
+ - 😝 [Building snow shelter during snow storm](http://9gag.com/gag/ap94m2E)
+ - 💣 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 👉 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)<!-- MEMES:END -->
 
 ---
 

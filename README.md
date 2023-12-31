@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Skillful Massage Technique Helps Align Catheter in Angiographic Exam](http://9gag.com/gag/aYV3oDV)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 💣 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)
  - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [Avril Lavigne](http://9gag.com/gag/armQM4p)
- - 💣 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
+ - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
 
 ---
 

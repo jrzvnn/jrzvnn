@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Los Angeles, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
+ - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
  - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/23979444/apple-arcade-best-games-2023-iphone-ipad)
- - [Save 73% on a Lifetime Babbel Subscription When You Sign Up Today     - CNET](https://www.cnet.com/deals/save-73-on-a-lifetime-babbel-subscription-when-you-sign-up-today/#ftag=CAD590a51e)
  - [Apple&#39;s November 2023 in review: Nothing on iMessage, Crash Detection, and a confusing bridal photo](https://appleinsider.com/articles/23/12/31/apples-november-2023-in-review-nothing-on-imessage-crash-detection-and-a-confusing-bridal-photo?utm_medium=rss)
- - [Why You Shouldn&#39;t Use a Free VPN     - CNET](https://www.cnet.com/tech/services-and-software/why-you-shouldnt-use-a-free-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
+ - [Here&#39;s How Insulating Your Water Pipes Can Save You Money This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-insulating-your-water-pipes-can-save-you-money-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

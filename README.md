@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High](http://9gag.com/gag/aVbp0pM)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 💣 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 👉 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)<!-- MEMES:END -->
+ - 😝 [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 👉 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)<!-- MEMES:END -->
 
 ---
 

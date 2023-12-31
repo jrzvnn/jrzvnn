@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s November 2023 in review: Nothing on iMessage, Crash Detection, and a confusing bridal photo](https://appleinsider.com/articles/23/12/31/apples-november-2023-in-review-nothing-on-imessage-crash-detection-and-a-confusing-bridal-photo?utm_medium=rss)
  - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
  - [Here&#39;s How Insulating Your Water Pipes Can Save You Money This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-insulating-your-water-pipes-can-save-you-money-this-winter/#ftag=CAD590a51e)
  - [How AI Will Change Our World In 2024 video     - CNET](https://www.cnet.com/videos/how-ai-will-change-our-world-in-2024/#ftag=CAD590a51e)
- - [These Rogue Worlds Upend the Theory of How Planets Form](https://www.wired.com/story/these-rogue-worlds-upend-the-theory-of-how-planets-form/)
- - [The apps, movies, games, and everything else we loved in 2023](https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023)<!-- TECH:END -->
+ - [These Rogue Worlds Upend the Theory of How Planets Form](https://www.wired.com/story/these-rogue-worlds-upend-the-theory-of-how-planets-form/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

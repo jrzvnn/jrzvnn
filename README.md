@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 😝 [Yup](http://9gag.com/gag/armQoQ0)
- - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
  - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 💣 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 ---
 

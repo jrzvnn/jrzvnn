@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Class of 2000 you are looking rough. I just saw a few of them when I came home from Xmas.](http://9gag.com/gag/aMEojdP)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
  - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
 
 ---
 

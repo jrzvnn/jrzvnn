@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 💣 [Why did he turn his head?](http://9gag.com/gag/aREb38M)
- - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
+ - 😝 [Why did he turn his head?](http://9gag.com/gag/aREb38M)
+ - 💣 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---
 

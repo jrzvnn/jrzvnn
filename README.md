@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 💣 [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 😝 [Every villain backstory](http://9gag.com/gag/aMEoxeG)
+ - 💣 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
+ - [Here&#39;s How Insulating Your Water Pipes Can Save You Money This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-insulating-your-water-pipes-can-save-you-money-this-winter/#ftag=CAD590a51e)
+ - [How AI Will Change Our World In 2024 video     - CNET](https://www.cnet.com/videos/how-ai-will-change-our-world-in-2024/#ftag=CAD590a51e)
  - [These Rogue Worlds Upend the Theory of How Planets Form](https://www.wired.com/story/these-rogue-worlds-upend-the-theory-of-how-planets-form/)
- - [The apps, movies, games, and everything else we loved in 2023](https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023)
- - [20 Things That Made the World a Better Place in 2023](https://www.wired.com/story/2023-positive-news/)
- - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)<!-- TECH:END -->
+ - [The apps, movies, games, and everything else we loved in 2023](https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

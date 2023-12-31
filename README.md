@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with those dumb b*tches](http://9gag.com/gag/a1PyPrY)
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 💣 [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 😝 [Yup](http://9gag.com/gag/armQoQ0)
- - 👉 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)<!-- MEMES:END -->
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
+ - 💣 [So?](http://9gag.com/gag/aDYKY0K)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [Happens to best of us](http://9gag.com/gag/aPgEgYB)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG says its new 4K projector is a ‘stylish art object’](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos)
+ - [Nikon, Sony, and Canon are developing camera tech that embeds digital signatures in images so that they can be distinguished from realistic AI-generated fakes &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231230/p13#a231230p13)
  - [How effective altruism, described by some as a cult obsessed with AI doomsday, is influencing White House, Congress, and others&#39; approach toward AI regulation &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231230/p12#a231230p12)
  - [Best Garmin Deals: Snag Garmin Smartwatches and More, Thanks to End-of-Year Discounts     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Create Your Own Home Theater with Xgimi Projectors: Up to 42% Off Right Now     - CNET](https://www.cnet.com/deals/create-your-own-home-theater-with-xgimi-projectors-up-to-42-off-right-now/#ftag=CAD590a51e)
- - [In 2024, the internet is about to see the biggest reshuffling of power in 25 years, with a resurgent &quot;human web&quot; and regulators forcing tech giants to open up &lpar;Anil Dash/Rolling Stone&rpar;](http://www.techmeme.com/231230/p11#a231230p11)
- - [Get the Cubii Under-Desk Elliptical for $148 Off Right Now at QVC     - CNET](https://www.cnet.com/deals/get-the-cubii-under-desk-elliptical-for-148-off-right-now-at-qvc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Create Your Own Home Theater with Xgimi Projectors: Up to 42% Off Right Now     - CNET](https://www.cnet.com/deals/create-your-own-home-theater-with-xgimi-projectors-up-to-42-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

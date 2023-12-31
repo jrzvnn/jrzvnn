@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 💣 [So?](http://9gag.com/gag/aDYKY0K)
- - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 👉 [Happens to best of us](http://9gag.com/gag/aPgEgYB)<!-- MEMES:END -->
+ - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
+ - 💣 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
+ - 😝 [So?](http://9gag.com/gag/aDYKY0K)
+ - 👉 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)<!-- MEMES:END -->
 
 ---
 

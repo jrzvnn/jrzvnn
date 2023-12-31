@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
  - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 💣 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 👉 [I beg to differ.](http://9gag.com/gag/a04r7pX)<!-- MEMES:END -->
+ - 💣 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
 
 ---
 

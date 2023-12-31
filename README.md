@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got some sauce to my baguette?](http://9gag.com/gag/a8qR1nd)
- - 😝 [Happy new year](http://9gag.com/gag/a8qRqVZ)
- - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 😝 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)
- - 👉 [Ladies &amp; Gentlemen, it is with great pleasure to inform you, that for the first time ever, I\u2019ve nailed a girl at work!](http://9gag.com/gag/aA080wL)<!-- MEMES:END -->
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 😝 [So?](http://9gag.com/gag/aDYKY0K)
+ - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 😝 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
+ - 👉 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)<!-- MEMES:END -->
 
 ---
 

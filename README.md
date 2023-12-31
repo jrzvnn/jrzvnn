@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paying for App Subscriptions You Don&#39;t Use Anymore? Cancel Them Quickly and Easily     - CNET](https://www.cnet.com/tech/services-and-software/paying-for-app-subscriptions-you-dont-use-anymore-quickly-cancel-them-now/#ftag=CAD590a51e)
  - [Masimo has spent $100M in Apple Watch patent infringement fight](https://appleinsider.com/articles/23/12/31/masimo-has-spent-100m-in-apple-watch-patent-infringement-fight?utm_medium=rss)
+ - [You Can Grab a Sam&#39;s Club Membership at Half-Price Right Now     - CNET](https://www.cnet.com/deals/you-can-grab-a-sams-club-membership-at-half-price-right-now/#ftag=CAD590a51e)
  - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Best Internet Providers in Los Angeles, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
- - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/23979444/apple-arcade-best-games-2023-iphone-ipad)
- - [Save 73% on a Lifetime Babbel Subscription When You Sign Up Today     - CNET](https://www.cnet.com/deals/save-73-on-a-lifetime-babbel-subscription-when-you-sign-up-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

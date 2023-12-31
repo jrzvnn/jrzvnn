@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
- - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 👉 [So?](http://9gag.com/gag/aDYKY0K)<!-- MEMES:END -->
+ - 😝 [Got some sauce to my baguette?](http://9gag.com/gag/a8qR1nd)
+ - 😝 [Happy new year](http://9gag.com/gag/a8qRqVZ)
+ - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 😝 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)
+ - 👉 [Ladies &amp; Gentlemen, it is with great pleasure to inform you, that for the first time ever, I\u2019ve nailed a girl at work!](http://9gag.com/gag/aA080wL)<!-- MEMES:END -->
 
 ---
 

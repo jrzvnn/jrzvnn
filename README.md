@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 💣 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
- - 👉 [Top college recruits](http://9gag.com/gag/awZEXGB)<!-- MEMES:END -->
+ - 😝 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
+ - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
+ - 💣 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
+ - 👉 [I beg to differ.](http://9gag.com/gag/a04r7pX)<!-- MEMES:END -->
 
 ---
 

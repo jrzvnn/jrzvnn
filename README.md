@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 😝 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)
+ - 😝 [How to deal with those dumb b*tches](http://9gag.com/gag/a1PyPrY)
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
  - 💣 [Happens all the time](http://9gag.com/gag/awZEMV4)
  - 😝 [Yup](http://9gag.com/gag/armQoQ0)
- - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
+ - 👉 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)<!-- MEMES:END -->
 
 ---
 

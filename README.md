@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 😝 [Always happens like this](http://9gag.com/gag/avQMAVX)
- - 💣 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 💣 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 😝 [Yup](http://9gag.com/gag/armQoQ0)
+ - 👉 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)<!-- MEMES:END -->
 
 ---
 

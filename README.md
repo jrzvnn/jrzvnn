@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The lawsuits against AI companies could shape the future of copyright or may simply serve as leverage for plaintiffs to secure more favorable licensing deals &lpar;J. Edward Moreno/New York Times&rpar;](http://www.techmeme.com/231231/p5#a231231p5)
  - [Best Soft Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)
  - [Save Up to $150 on Bose Speakers, Earbuds and Headphones Right Now     - CNET](https://www.cnet.com/deals/save-up-to-150-on-bose-speakers-earbuds-and-headphones-right-now/#ftag=CAD590a51e)
  - [Best Mattresses for Kids in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Daily deals Dec. 31: Desktop Macs as low as $399, Apple Watch Ultra $599, iPhone XR for $180, more](https://appleinsider.com/articles/23/12/31/daily-deals-dec-31-desktop-macs-as-low-as-399-apple-watch-ultra-599-iphone-xr-for-180-more?utm_medium=rss)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Dec. 31: Desktop Macs as low as $399, Apple Watch Ultra $599, iPhone XR for $180, more](https://appleinsider.com/articles/23/12/31/daily-deals-dec-31-desktop-macs-as-low-as-399-apple-watch-ultra-599-iphone-xr-for-180-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

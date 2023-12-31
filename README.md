@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
  - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 💣 [Who did it better](http://9gag.com/gag/a6q0KD2)
- - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)
+ - 💣 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 😝 [So?](http://9gag.com/gag/aDYKY0K)
+ - 👉 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)<!-- MEMES:END -->
 
 ---
 

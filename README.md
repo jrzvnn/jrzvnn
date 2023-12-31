@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [Always happens like this](http://9gag.com/gag/avQMAVX)
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
  - 💣 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
  - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
 
 ---
 

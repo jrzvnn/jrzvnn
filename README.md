@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AWS developer claims Amazon is silently sacking people after enforcing a strict RTO policy, without being required to give them severance or announce layoffs &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)
+ - [Counterpoint: about 16M foldable phones were sold in 2023, just 1.3% of the 1.2B smartphone market, as foldables start to gain traction in the US and China &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/231231/p1#a231231p1)
+ - [An AWS developer claims Amazon is silently sacking people after enforcing a strict RTO policy, without announcing the layoffs or giving severance &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/231230/p14#a231230p14)
  - [Save $440 on a lifetime Babbel subscription with this year-end flash deal](https://appleinsider.com/articles/23/12/31/save-440-on-a-lifetime-babbel-subscription-with-this-year-end-flash-deal?utm_medium=rss)
  - [LG says its new 4K projector is a ‘stylish art object’](https://www.theverge.com/2023/12/30/24019922/lg-cinebeam-qube-4k-uhd-projector-webos)
- - [Nikon, Sony, and Canon are developing camera tech that embeds digital signatures in images so that they can be distinguished from realistic AI-generated fakes &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231230/p13#a231230p13)
- - [How effective altruism, described by some as a cult obsessed with AI doomsday, is influencing White House, Congress, and others&#39; approach toward AI regulation &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231230/p12#a231230p12)<!-- TECH:END -->
+ - [Nikon, Sony, and Canon are developing camera tech that embeds digital signatures in images so that they can be distinguished from realistic AI-generated fakes &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231230/p13#a231230p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 😝 [Loyce Edward Dean, buried at sea with with his Avenger , 1944](http://9gag.com/gag/aL1Zvz6)
- - 💣 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
- - 👉 [Happens all the time](http://9gag.com/gag/awZEMV4)<!-- MEMES:END -->
+ - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 😝 [Who did it better](http://9gag.com/gag/a6q0KD2)
+ - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 😝 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)
+ - 👉 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)<!-- MEMES:END -->
 
 ---
 

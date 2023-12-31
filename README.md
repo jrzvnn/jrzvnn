@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
- - 💣 [Back when memes were funny.](http://9gag.com/gag/aVbpwKK)
- - 😝 [Why r u geh?](http://9gag.com/gag/ap94Gb5)
- - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
+ - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [Avril Lavigne](http://9gag.com/gag/armQM4p)
+ - 💣 [Apple stores in japan](http://9gag.com/gag/aYV3oxv)
+ - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 👉 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)<!-- MEMES:END -->
 
 ---
 

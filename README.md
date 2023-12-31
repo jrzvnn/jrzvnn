@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Alexander Reben, who will become OpenAI&#39;s first artist in residence for three months starting January 2024, amid a debate over the use of AI in art &lpar;Leslie Katz/New York Times&rpar;](http://www.techmeme.com/231231/p6#a231231p6)
  - [Oversized Mattress Guide: Types, Price Range and Things to Consider Before Buying     - CNET](https://www.cnet.com/health/sleep/oversized-mattress-guide-types-price-range-and-things-to-consider-before-buying/#ftag=CAD590a51e)
  - [Disable This One Apple iPhone Setting to Prevent App Tracking Now     - CNET](https://www.cnet.com/tech/services-and-software/disable-this-one-apple-iphone-setting-to-prevent-app-tracking-now/#ftag=CAD590a51e)
  - [The lawsuits against AI companies could shape the future of copyright or may simply serve as leverage for plaintiffs to secure more favorable licensing deals &lpar;J. Edward Moreno/New York Times&rpar;](http://www.techmeme.com/231231/p5#a231231p5)
- - [Take 30% Off Sitewide During Xtrema&#39;s New Year&#39;s Eve Sale     - CNET](https://www.cnet.com/deals/take-30-off-sitewide-during-xtremas-new-years-eve-sale/#ftag=CAD590a51e)
- - [Best Soft Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take 30% Off Sitewide During Xtrema&#39;s New Year&#39;s Eve Sale     - CNET](https://www.cnet.com/deals/take-30-off-sitewide-during-xtremas-new-years-eve-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh god, oh f**k!!](http://9gag.com/gag/az2W9PN)
  - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
  - 😝 [Always happens like this](http://9gag.com/gag/avQMAVX)
- - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
+ - 💣 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The scale of layoffs in the gaming industry in 2023 was far beyond a typical year, with an estimated 9,000+ workers losing their jobs globally &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231231/p4#a231231p4)
  - [Paying for App Subscriptions You Don&#39;t Use Anymore? Cancel Them Quickly and Easily     - CNET](https://www.cnet.com/tech/services-and-software/paying-for-app-subscriptions-you-dont-use-anymore-quickly-cancel-them-now/#ftag=CAD590a51e)
  - [Masimo has spent $100M in Apple Watch patent infringement fight](https://appleinsider.com/articles/23/12/31/masimo-has-spent-100m-in-apple-watch-patent-infringement-fight?utm_medium=rss)
  - [You Can Grab a Sam&#39;s Club Membership at Half-Price Right Now     - CNET](https://www.cnet.com/deals/you-can-grab-a-sams-club-membership-at-half-price-right-now/#ftag=CAD590a51e)
- - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Best Internet Providers in Los Angeles, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

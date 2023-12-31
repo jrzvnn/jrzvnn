@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come to Dubai](http://9gag.com/gag/a8qRoBZ)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 💣 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
- - 😝 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 💣 [Back when memes were funny.](http://9gag.com/gag/aVbpwKK)
+ - 😝 [Why r u geh?](http://9gag.com/gag/ap94Gb5)
+ - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
 
 ---
 

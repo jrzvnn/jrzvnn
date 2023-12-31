@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
+ - [These Rogue Worlds Upend the Theory of How Planets Form](https://www.wired.com/story/these-rogue-worlds-upend-the-theory-of-how-planets-form/)
+ - [The apps, movies, games, and everything else we loved in 2023](https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023)
  - [20 Things That Made the World a Better Place in 2023](https://www.wired.com/story/2023-positive-news/)
- - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
- - [The 22 Most Anticipated Movies of 2024](https://www.wired.com/story/22-most-anticipated-movies-of-2024/)
- - [Google Fixes Nearly 100 Android Security Issues](https://www.wired.com/story/google-100-android-security-issues-critical-update/)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

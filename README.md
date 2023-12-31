@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 😝 [Pakistan is another level](http://9gag.com/gag/a7qYWBr)
- - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
- - 😝 [`Show it to me 4 the last time`](http://9gag.com/gag/a8qRox1)
- - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
+ - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 💣 [Back when memes were funny.](http://9gag.com/gag/aVbpwKK)
+ - 😝 [Why r u geh?](http://9gag.com/gag/ap94Gb5)
+ - 👉 [She&#39;s not paid enough..](http://9gag.com/gag/adPGVVV)<!-- MEMES:END -->
 
 ---
 

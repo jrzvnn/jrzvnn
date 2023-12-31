@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 💣 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
  - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 💣 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 😝 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
- - 👉 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)<!-- MEMES:END -->
+ - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
 
 ---
 

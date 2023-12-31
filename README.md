@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Masimo has spent $100M in Apple Watch patent infringement fight](https://appleinsider.com/articles/23/12/31/masimo-has-spent-100m-in-apple-watch-patent-infringement-fight?utm_medium=rss)
  - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
  - [Best Internet Providers in Los Angeles, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
  - [8 great Apple Arcade games for your iPhone or iPad](https://www.theverge.com/23979444/apple-arcade-best-games-2023-iphone-ipad)
- - [Save 73% on a Lifetime Babbel Subscription When You Sign Up Today     - CNET](https://www.cnet.com/deals/save-73-on-a-lifetime-babbel-subscription-when-you-sign-up-today/#ftag=CAD590a51e)
- - [Apple&#39;s November 2023 in review: Nothing on iMessage, Crash Detection, and a confusing bridal photo](https://appleinsider.com/articles/23/12/31/apples-november-2023-in-review-nothing-on-imessage-crash-detection-and-a-confusing-bridal-photo?utm_medium=rss)<!-- TECH:END -->
+ - [Save 73% on a Lifetime Babbel Subscription When You Sign Up Today     - CNET](https://www.cnet.com/deals/save-73-on-a-lifetime-babbel-subscription-when-you-sign-up-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

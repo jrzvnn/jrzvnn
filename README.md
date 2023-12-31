@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skillful Massage Technique Helps Align Catheter in Angiographic Exam](http://9gag.com/gag/aYV3oDV)
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 💣 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)
  - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
- - 👉 [That was real quick...](http://9gag.com/gag/aGEmjBz)<!-- MEMES:END -->
+ - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 💣 [It&#39;s not the money, it&#39;s the person](http://9gag.com/gag/a9qxEG6)
+ - 😝 [Bar made 0$ that night](http://9gag.com/gag/aWGr1o6)
+ - 👉 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 💣 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
+ - 😝 [Where&#39;s the media? 160 Christians were killed by Islamic Jihadists the day after Christmas in Nigeria.](http://9gag.com/gag/abvNgz9)
+ - 😝 [Just tags](http://9gag.com/gag/aQELE8r)
+ - 💣 [Got some sauce to my baguette?](http://9gag.com/gag/a8qR1nd)
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To cancel a comedian](http://9gag.com/gag/avQMz85)
- - 😝 [I beg to differ.](http://9gag.com/gag/a04r7pX)
- - 💣 [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 😝 [Yup](http://9gag.com/gag/armQoQ0)
- - 👉 [Simp vs Cuck](http://9gag.com/gag/aVbpYGw)<!-- MEMES:END -->
+ - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 💣 [Who did it better](http://9gag.com/gag/a6q0KD2)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
 
 ---
 

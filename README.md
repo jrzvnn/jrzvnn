@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s the media? 160 Christians were killed by Islamic Jihadists the day after Christmas in Nigeria.](http://9gag.com/gag/abvNgz9)
- - 😝 [Just tags](http://9gag.com/gag/aQELE8r)
- - 💣 [Got some sauce to my baguette?](http://9gag.com/gag/a8qR1nd)
- - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 👉 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)<!-- MEMES:END -->
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
+ - 😝 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)
+ - 👉 [So?](http://9gag.com/gag/aDYKY0K)<!-- MEMES:END -->
 
 ---
 

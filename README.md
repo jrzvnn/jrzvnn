@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California laws leave driverless vehicles immune from traffic tickets, while Texas and Arizona rewrote traffic laws to issue tickets to owners for AV violations &lpar;NBC News&rpar;](http://www.techmeme.com/240101/p1#a240101p1)
- - [Best Earplugs to Prevent Hearing Loss for 2024     - CNET](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
- - [Best Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)
- - [Best Light Therapy Lamps for 2024     - CNET](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
- - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)
+ - [Best Kamado Grill for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
+ - [Best M.2 SSD for PS5 in 2024: Top Storage for Your Console     - CNET](https://www.cnet.com/tech/gaming/best-m2-ssd/#ftag=CAD590a51e)
+ - [Best Resume Writing Services for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
+ - [Best Apple HomeKit devices to buy for 2024     - CNET](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

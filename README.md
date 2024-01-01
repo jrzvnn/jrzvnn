@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ASML canceled shipments of some machines to China at the request of the US, weeks before export bans on the chipmaking equipment came into effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
  - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
  - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
  - [Best Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best Strollers of 2024     - CNET](https://www.cnet.com/health/parenting/best-baby-strollers/#ftag=CAD590a51e)
- - [Best Smart Garage Door Opener of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-garage-door-opener-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Strollers of 2024     - CNET](https://www.cnet.com/health/parenting/best-baby-strollers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

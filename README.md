@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch ban, passcode thieves and Beeper -- December 2023 in review](https://appleinsider.com/articles/24/01/01/apple-watch-ban-passcode-thieves-and-beeper----december-2023-in-review?utm_medium=rss)
- - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
- - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024     - CNET](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)
+ - [The 18 Best EVs Coming in 2024](https://www.wired.com/story/best-evs-2024/)
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)
+ - [The 15 Most Anticipated Shows of 2024](https://www.wired.com/story/most-anticipated-tv-shows-2024/)
+ - [Welcome to the public domain, Mickey Mouse](https://www.theverge.com/24006670/mickey-mouse-steamboat-willie-enters-copyright-public-domain-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

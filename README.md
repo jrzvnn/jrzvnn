@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Add Apple CarPlay and Android Auto to Your Vehicle for Just $96 With This Foldable Display     - CNET](https://www.cnet.com/deals/add-apple-carplay-and-android-auto-to-your-vehicle-for-just-96-with-this-foldable-display/#ftag=CAD590a51e)
+ - [The AI Doctor Is In. Here&#39;s How ChatGPT May Pave a New Era of Self-Diagnosis     - CNET](https://www.cnet.com/health/medical/the-ai-doctor-is-in-heres-how-chatgpt-may-pave-a-new-era-of-self-diagnosis/#ftag=CAD590a51e)
+ - [Streaming TV on a Budget: Tips to Save Money on Netflix, Hulu and More     - CNET](https://www.cnet.com/tech/services-and-software/streaming-tv-on-budget-tips-to-save-money-netflix-hulu-other-subscriptions/#ftag=CAD590a51e)
  - [How to Back Up Your Emails in Gmail, Outlook, and iCloud](https://www.wired.com/story/how-to-back-up-email-gmail-outlook-icloud/)
- - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)
- - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)
- - [The 18 Best EVs Coming in 2024](https://www.wired.com/story/best-evs-2024/)
- - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)<!-- TECH:END -->
+ - [Best Smart Thermostats for December 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

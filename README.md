@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
- - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 😝 [Yup](http://9gag.com/gag/armQoQ0)
- - 👉 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)<!-- MEMES:END -->
+ - 😝 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
+ - 😝 [Sure everything could be better but it could also be much worse](http://9gag.com/gag/aA08yeE)
+ - 💣 [Based YouTuber](http://9gag.com/gag/aDYK2vG)
+ - 😝 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)
+ - 👉 [He still got it](http://9gag.com/gag/aeQn9Qp)<!-- MEMES:END -->
 
 ---
 

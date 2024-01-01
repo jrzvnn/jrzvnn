@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Quit Drinking: 8 Essential Tips for Success     - CNET](https://www.cnet.com/health/medical/how-to-quit-drinking-8-essential-tips-for-success/#ftag=CAD590a51e)
- - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [Save up to $150 on Apple&#39;s iPad Air with new 2024 discounts](https://appleinsider.com/articles/24/01/01/save-up-to-150-on-apples-ipad-air-with-new-2024-discounts?utm_medium=rss)
- - [Best 3D Printing Filament in 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
- - [Best Electric Lawn Mower of 2024     - CNET](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [Best Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Best Strollers of 2024     - CNET](https://www.cnet.com/health/parenting/best-baby-strollers/#ftag=CAD590a51e)
+ - [Best Smart Garage Door Opener of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-garage-door-opener-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

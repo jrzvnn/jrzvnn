@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 💣 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 👉 [Wait\u2026really???](http://9gag.com/gag/armQVvV)<!-- MEMES:END -->
+ - 😝 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
+ - 😝 [Sure everything could be better but it could also be much worse](http://9gag.com/gag/aA08yeE)
+ - 💣 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)
+ - 😝 [He still got it](http://9gag.com/gag/aeQn9Qp)
+ - 👉 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
 
 ---
 

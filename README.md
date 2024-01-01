@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Galaxy S23 Base, Plus, and Ultra: A Spec-By-Spec Comparison of Each Phone     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-base-plus-ultra-spec-by-spec-comparison/#ftag=CAD590a51e)
- - [A look at AI chatbots modeled on real experts, like US psychologist Martin Seligman, that are often created without permission, highlighting a policy gray area &lpar;Mohar Chatterjee/Politico&rpar;](http://www.techmeme.com/231231/p8#a231231p8)
- - [Best Fitbit Deals: $30 Off Charge 6, $50 Off Sense 2 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [In his year-end report, US Chief Justice John Roberts says AI is a mixed blessing for the legal field and urges &quot;caution and humility&quot; as the tech is adopted &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/231231/p7#a231231p7)
- - [Happy New Year from all of us here at AppleInsider](https://appleinsider.com/articles/23/12/31/happy-new-year-from-all-of-us-here-at-appleinsider?utm_medium=rss)<!-- TECH:END -->
+ - [Best HP Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)
+ - [Best Cheap Alexa Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-cheap-alexa-devices/#ftag=CAD590a51e)
+ - [Best Laptop for High School Students in 2024     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)
+ - [Best 15-Inch Gaming and Work Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)
+ - [Best Pizza Ovens for 2024, All Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

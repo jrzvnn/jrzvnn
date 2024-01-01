@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 😝 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 😝 [Is this true? which part of asia is acceptable?](http://9gag.com/gag/a9qxyAK)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 💣 [My new years 9gag resolution is to photoshop Jesus into places that are both funny and will trigger heathens and cockroaches. What&#39;s your 9gag resolution?](http://9gag.com/gag/aQELzD8)
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
+ - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
 
 ---
 

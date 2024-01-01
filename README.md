@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
  - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 💣 [My new years 9gag resolution is to photoshop Jesus into places that are both funny and will trigger heathens and cockroaches. What&#39;s your 9gag resolution?](http://9gag.com/gag/aQELzD8)
+ - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
  - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
+ - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - 💣 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
+ - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)
+ - 👉 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)<!-- MEMES:END -->
 
 ---
 

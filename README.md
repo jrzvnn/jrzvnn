@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - 😝 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
+ - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 

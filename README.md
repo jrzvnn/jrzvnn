@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
+ - 😝 [Jessechriss is a jealous girl](http://9gag.com/gag/a1PyNVv)
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 💣 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 

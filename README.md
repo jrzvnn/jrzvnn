@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only wants one thing\u2026..](http://9gag.com/gag/a8qRqYp)
- - 😝 [Sure everything could be better but it could also be much worse](http://9gag.com/gag/aA08yeE)
- - 💣 [Based YouTuber](http://9gag.com/gag/aDYK2vG)
- - 😝 [Rare pepe sighted](http://9gag.com/gag/aMEoxE1)
- - 👉 [He still got it](http://9gag.com/gag/aeQn9Qp)<!-- MEMES:END -->
+ - 😝 [Bro was doing his job](http://9gag.com/gag/aL1Zp6v)
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)<!-- MEMES:END -->
 
 ---
 

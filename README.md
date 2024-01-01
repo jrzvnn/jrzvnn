@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Back Up Your Emails in Gmail, Outlook, and iCloud](https://www.wired.com/story/how-to-back-up-email-gmail-outlook-icloud/)
  - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)
  - [Filing: Baidu&#39;s $3.6B deal to buy Joyy&#39;s Chinese livestreaming business YY Live, announced in 2020, expires as China regulators didn&#39;t approve it by December 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p2#a240101p2)
  - [The 18 Best EVs Coming in 2024](https://www.wired.com/story/best-evs-2024/)
- - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)
- - [The 15 Most Anticipated Shows of 2024](https://www.wired.com/story/most-anticipated-tv-shows-2024/)<!-- TECH:END -->
+ - [How to Start &lpar;and Keep&rpar; a Healthy Habit](https://www.wired.com/story/how-to-start-a-healthy-habit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

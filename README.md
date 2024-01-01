@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 😝 [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
- - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
  - 😝 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
+ - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch ban, passcode thieves and Beeper -- December 2023 in review](https://appleinsider.com/articles/24/01/01/apple-watch-ban-passcode-thieves-and-beeper----december-2023-in-review?utm_medium=rss)
  - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
  - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
  - [Best True Wireless Sports Earbuds With Ear Hooks for 2024     - CNET](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
- - [Best Budget Soundbars for 2024: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

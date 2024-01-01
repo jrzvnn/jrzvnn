@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)
- - [Texas&#39; Unique Energy Industry Is Helping the State Become a Renewables Leader     - CNET](https://www.cnet.com/news/texas-unique-energy-industry-is-helping-the-state-become-a-renewables-leader/#ftag=CAD590a51e)
- - [3 Reasons to Embrace the Early Bird Lifestyle for Better Health     - CNET](https://www.cnet.com/health/sleep/3-reasons-to-embrace-the-early-bird-lifestyle-for-better-health/#ftag=CAD590a51e)
- - [Best Riding Mowers for 2024     - CNET](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
- - [Best Unlimited Data Plans for December 2024     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Mario and Zelda creator Shigeru Miyamoto, who joined Nintendo in the 1970s and says he has no plans to retire as game director at the company &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240101/p3#a240101p3)
+ - [CES preview, Qi2 chargers, AI kitchens, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)
+ - [Save 40% Off Your New MasterClass Subscription and Learn How to Meet Your 2024 Goals     - CNET](https://www.cnet.com/deals/save-40-off-your-new-masterclass-subscription-and-learn-how-to-meet-your-2024-goals/#ftag=CAD590a51e)
+ - [Why We Sleep More in the Winter     - CNET](https://www.cnet.com/health/sleep/why-we-sleep-more-in-the-winter/#ftag=CAD590a51e)
+ - [Best Pillows for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

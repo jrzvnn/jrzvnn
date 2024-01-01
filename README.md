@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thought this was real until](http://9gag.com/gag/aOxMx4N)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
- - 😝 [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)
- - 👉 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
+ - 😝 [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
+ - 💣 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 😝 [They tricked you](http://9gag.com/gag/a1Py1Rw)
+ - 👉 [Happens all the time](http://9gag.com/gag/awZEMV4)<!-- MEMES:END -->
 
 ---
 

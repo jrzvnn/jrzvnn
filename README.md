@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
  - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)<!-- MEMES:END -->
+ - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
 
 ---
 

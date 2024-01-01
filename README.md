@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 😝 [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)
- - 💣 [Yup](http://9gag.com/gag/armQoQ0)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 💣 [I beg to differ.](http://9gag.com/gag/a04r7pX)
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
  - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
 
 ---

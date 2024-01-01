@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 😝 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
+ - 😝 [Something that\u2019s gonna be unpopular here, but anyway: Muslims symbolically protecting the Cologne cathedral &lpar;a planned terrorist attack has been uncovered by police several days before Christmas, all suspects in custody, progress and state of plans rather unclear though&rpar;](http://9gag.com/gag/aeQn4wO)
+ - 😝 [Footage of 7.6 magnitude earthquake struck in Japan](http://9gag.com/gag/aeQn49m)
+ - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 😝 [Based YouTuber](http://9gag.com/gag/aDYK2vG)
+ - 👉 [A happy new year\u2019s facepalm.](http://9gag.com/gag/abvNAzB)<!-- MEMES:END -->
 
 ---
 

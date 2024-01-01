@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was almost one of them](http://9gag.com/gag/aoKvyeA)
- - 😝 [Such a truthful post](http://9gag.com/gag/aeQn4dv)
- - 💣 [Footage of 7.6 magnitude earthquake struck in Japan](http://9gag.com/gag/aeQn49m)
- - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 👉 [It is finished](http://9gag.com/gag/aA08Q9Z)<!-- MEMES:END -->
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 👉 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)<!-- MEMES:END -->
 
 ---
 

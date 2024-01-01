@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not push this red button](http://9gag.com/gag/az2W5oj)
- - 😝 [Very cool](http://9gag.com/gag/aXnyMEg)
- - 💣 [Haha](http://9gag.com/gag/agoD1qr)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 👉 [It is finished](http://9gag.com/gag/aA08Q9Z)<!-- MEMES:END -->
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
+ - 💣 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 

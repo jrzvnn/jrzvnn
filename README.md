@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
  - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
+ - 😝 [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)
+ - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
+ - 😝 [Wait\u2026really???](http://9gag.com/gag/armQVvV)
+ - 👉 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
 
 ---
 

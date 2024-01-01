@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 😝 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 💣 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [What fans?](http://9gag.com/gag/aBdAZR2)
+ - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 👉 [Based YouTuber](http://9gag.com/gag/aDYK2vG)<!-- MEMES:END -->
 
 ---
 

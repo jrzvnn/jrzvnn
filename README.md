@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [California laws leave driverless vehicles immune from traffic tickets, while Texas and Arizona rewrote traffic laws to issue tickets to owners for AV violations &lpar;NBC News&rpar;](http://www.techmeme.com/240101/p1#a240101p1)
- - [Best TV for 2024: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Best Earbuds and Headphones for Working Out for 2024     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
- - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
- - [Best Home Office Essentials for 2024     - CNET](https://www.cnet.com/tech/computing/home-office-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Earplugs to Prevent Hearing Loss for 2024     - CNET](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)
+ - [Best Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)
+ - [Best Light Therapy Lamps for 2024     - CNET](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)
+ - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

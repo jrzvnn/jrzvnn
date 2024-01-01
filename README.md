@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
  - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)<!-- MEMES:END -->
+ - 😝 [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
 
 ---
 

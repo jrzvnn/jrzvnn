@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES preview, Qi2 chargers, AI kitchens, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)
+ - [2024: Apple&#39;s 40 year old Macintosh survives another year](https://appleinsider.com/articles/24/01/01/2024-apples-40-year-old-macintosh-survives-another-year?utm_medium=rss)
  - [Best TV Antenna for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
  - [Best Dell Laptops for 2024: Top picks for all budgets and users     - CNET](https://www.cnet.com/tech/computing/best-dell-laptops/#ftag=CAD590a51e)
- - [Best Running Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e)
- - [Best Heated Blankets for 2024     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)
- - [Best Cable Internet Providers of 2024: Comparing the Top ISPs     - CNET](https://www.cnet.com/home/internet/best-cable-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Running Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

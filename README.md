@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
  - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 💣 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
 
 ---
 

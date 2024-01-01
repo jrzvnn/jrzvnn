@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
  - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 😝 [Happens all the time](http://9gag.com/gag/awZEMV4)
+ - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 😝 [Yup](http://9gag.com/gag/armQoQ0)
  - 👉 [I ront know what prince harry did but iam on cillian murphy side](http://9gag.com/gag/aA08bzZ)<!-- MEMES:END -->
 
 ---

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought this was real until](http://9gag.com/gag/aOxMx4N)
- - 😝 [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
- - 💣 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 😝 [They tricked you](http://9gag.com/gag/a1Py1Rw)
- - 👉 [Happens all the time](http://9gag.com/gag/awZEMV4)<!-- MEMES:END -->
+ - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 💣 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 😝 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 👉 [Yup](http://9gag.com/gag/armQoQ0)<!-- MEMES:END -->
 
 ---
 

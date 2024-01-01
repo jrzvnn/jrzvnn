@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Add Apple CarPlay and Android Auto to Your Vehicle for Just $96 With This Foldable Display     - CNET](https://www.cnet.com/deals/add-apple-carplay-and-android-auto-to-your-vehicle-for-just-96-with-this-foldable-display/#ftag=CAD590a51e)
- - [The AI Doctor Is In. Here&#39;s How ChatGPT May Pave a New Era of Self-Diagnosis     - CNET](https://www.cnet.com/health/medical/the-ai-doctor-is-in-heres-how-chatgpt-may-pave-a-new-era-of-self-diagnosis/#ftag=CAD590a51e)
- - [Streaming TV on a Budget: Tips to Save Money on Netflix, Hulu and More     - CNET](https://www.cnet.com/tech/services-and-software/streaming-tv-on-budget-tips-to-save-money-netflix-hulu-other-subscriptions/#ftag=CAD590a51e)
- - [How to Back Up Your Emails in Gmail, Outlook, and iCloud](https://www.wired.com/story/how-to-back-up-email-gmail-outlook-icloud/)
- - [Best Smart Thermostats for December 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas&#39; Unique Energy Industry Is Helping the State Become a Renewables Leader     - CNET](https://www.cnet.com/news/texas-unique-energy-industry-is-helping-the-state-become-a-renewables-leader/#ftag=CAD590a51e)
+ - [3 Reasons to Embrace the Early Bird Lifestyle for Better Health     - CNET](https://www.cnet.com/health/sleep/3-reasons-to-embrace-the-early-bird-lifestyle-for-better-health/#ftag=CAD590a51e)
+ - [Best Riding Mowers for 2024     - CNET](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
+ - [Best Unlimited Data Plans for December 2024     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)
+ - [Best Fire Pit for 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-fire-pit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

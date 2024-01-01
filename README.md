@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [What fans?](http://9gag.com/gag/aBdAZR2)
- - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 👉 [Based YouTuber](http://9gag.com/gag/aDYK2vG)<!-- MEMES:END -->
+ - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 😝 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
+ - 😝 [Is this true? which part of asia is acceptable?](http://9gag.com/gag/a9qxyAK)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)<!-- MEMES:END -->
 
 ---
 

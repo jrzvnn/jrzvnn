@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 😝 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
+ - 💣 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
  - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
+ - 👉 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)<!-- MEMES:END -->
 
 ---
 

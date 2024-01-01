@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
- - [7 Beginner Workouts to Start Doing in 2024     - CNET](https://www.cnet.com/health/fitness/best-beginner-workouts/#ftag=CAD590a51e)
- - [Best Keto Meal Delivery Services in 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
- - [CES preview, Qi2 chargers, AI kitchens, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/24/01/01/ces-preview-qi2-chargers-ai-kitchens-more-on-homekit-insider?utm_medium=rss)
- - [2024: Apple&#39;s 40 year old Macintosh survives another year](https://appleinsider.com/articles/24/01/01/2024-apples-40-year-old-macintosh-survives-another-year?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the challenges faced by Apple&#39;s $85B/year services business, as the company faces key US court cases and prepares to allow app sideloading in the EU &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240101/p4#a240101p4)
+ - [Best Cooling Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)
+ - [Best Keyboard for 2024     - CNET](https://www.cnet.com/tech/computing/best-keyboard/#ftag=CAD590a51e)
+ - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)
+ - [Best Food Delivery Services of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

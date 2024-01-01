@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Years Eve. Not a woman in sight in Alexanderplatz, Berlin. We all know why.](http://9gag.com/gag/a6q0Z4b)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 💣 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)
- - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 😝 [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 💣 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
+ - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 ---
 

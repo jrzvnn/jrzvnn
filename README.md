@@ -164,7 +164,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alamo Drafthouse blames ‘nationwide’ theater outage on Sony projector fail](https://www.theverge.com/2024/1/1/24021915/alamo-drafthouse-outage-sony-projector)
- - [Sources: ASML canceled shipments of some machines to China at the request of the US, weeks before export bans on the chipmaking equipment came into effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
+ - [Sources: ASML canceled shipments of some of its machines to China at the US&#39; request, weeks before export bans on the high-end chipmaking equipment took effect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240101/p5#a240101p5)
  - [Best Ring Video Doorbells of 2024     - CNET](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)
  - [Best Cheap Gaming Laptop of 2024     - CNET](https://www.cnet.com/tech/computing/best-cheap-gaming-laptop/#ftag=CAD590a51e)
  - [Best Meta Quest 2 Accessories for 2024     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)<!-- TECH:END -->

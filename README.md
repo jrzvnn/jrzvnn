@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 💣 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 😝 [Shocking Baptism oof](http://9gag.com/gag/a9qxEAW)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 😝 [I was almost one of them](http://9gag.com/gag/aoKvyeA)
+ - 😝 [Such a truthful post](http://9gag.com/gag/aeQn4dv)
+ - 💣 [Footage of 7.6 magnitude earthquake struck in Japan](http://9gag.com/gag/aeQn49m)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 👉 [It is finished](http://9gag.com/gag/aA08Q9Z)<!-- MEMES:END -->
 
 ---
 

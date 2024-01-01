@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So?](http://9gag.com/gag/aDYKY0K)
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 💣 [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)
- - 😝 [Jesus Christ Chad...](http://9gag.com/gag/abvNgGO)
- - 👉 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)<!-- MEMES:END -->
+ - 😝 [Thought this was real until](http://9gag.com/gag/aOxMx4N)
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 💣 [From 14 year to a lifetime](http://9gag.com/gag/abvNrNE)
+ - 😝 [They said that men only fell in love once. Then they wander aimlessly to find the one that resembles that first gaze.](http://9gag.com/gag/adPGPpN)
+ - 👉 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
 
 ---
 

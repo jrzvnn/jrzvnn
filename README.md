@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Quit Drinking: 8 Essential Tips for Success     - CNET](https://www.cnet.com/health/medical/how-to-quit-drinking-8-essential-tips-for-success/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
  - [Save up to $150 on Apple&#39;s iPad Air with new 2024 discounts](https://appleinsider.com/articles/24/01/01/save-up-to-150-on-apples-ipad-air-with-new-2024-discounts?utm_medium=rss)
- - [A look at the challenges faced by Apple&#39;s $85B/year services business, as the company faces key US court cases and prepares to allow app sideloading in the EU &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240101/p4#a240101p4)
- - [Best Cooling Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)
- - [Best Keyboard for 2024     - CNET](https://www.cnet.com/tech/computing/best-keyboard/#ftag=CAD590a51e)
- - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 3D Printing Filament in 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
+ - [Best Electric Lawn Mower of 2024     - CNET](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

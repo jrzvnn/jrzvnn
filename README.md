@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
  - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
- - 😝 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 💣 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
  - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 💣 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 ---
 

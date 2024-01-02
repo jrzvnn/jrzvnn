@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)
+ - [UK eBay and Airbnb sellers could have app sales data sent to tax office](https://appleinsider.com/articles/24/01/02/uk-ebay-and-airbnb-sellers-could-have-app-sales-data-sent-to-tax-office?utm_medium=rss)
  - [Telegram rolls out version 10.5.0, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)
  - [Protect Your Credit Card by Changing This iPhone Setting     - CNET](https://www.cnet.com/tech/services-and-software/protect-your-credit-card-by-changing-this-iphone-setting/#ftag=CAD590a51e)
- - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)
- - [The Plan to Put Pig Genes in Soy Beans for Tastier Fake Meat](https://www.wired.com/story/moolecs-plant-pig-hybrids-will-make-fake-meat-taste-meatier/)
- - [What It’s Like to Use Apple’s Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/)<!-- TECH:END -->
+ - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

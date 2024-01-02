@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
  - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 💣 [Food is ready](http://9gag.com/gag/anzm7K5)
  - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 💣 [Relationship advice I found on the interweb...](http://9gag.com/gag/aMEo4xV)
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Can someone translate?](http://9gag.com/gag/aVbpEMn)<!-- MEMES:END -->
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fidelity and other spot bitcoin ETF issuers jockey for an early advantage to attract investors, as they reportedly may get approval to launch by January 10 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240102/p17#a240102p17)
  - [Emergency SOS on Apple Watch saves life after potentially fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
  - [Pornhub blocks North Carolina and Montana as porn regulation spreads](https://www.theverge.com/2024/1/2/24022539/pornhub-blocked-montana-north-carolina-age-verification-law-protest)
  - [Best MacBook Deals: Save Up to $250 on the Best Apple MacBooks     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Unplug These Devices to Reduce Your Electric Bill by $100 a Year     - CNET](https://www.cnet.com/how-to/unplug-these-devices-to-reduce-your-electric-bill-by-100-a-year/#ftag=CAD590a51e)
- - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)<!-- TECH:END -->
+ - [Unplug These Devices to Reduce Your Electric Bill by $100 a Year     - CNET](https://www.cnet.com/how-to/unplug-these-devices-to-reduce-your-electric-bill-by-100-a-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

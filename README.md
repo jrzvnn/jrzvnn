@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Canva nears a deal to let longtime staff and investors sell $1B+ in stock to new investors at a $26B valuation, about the same as in a 2023 share sale &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240102/p11#a240102p11)
  - [In 2023, global premium smartphone sales are likely to grow 6% YoY; Apple had a 71% share, down from 75% in 2022, Samsung had 17%, and Huawei had 5%, up from 3% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240102/p10#a240102p10)
  - [After UK regulators approved Microsoft&#39;s Activision deal in October, Brad Smith rows back on criticism of the UK, saying the CMA has been &quot;tough and fair&quot; &lpar;BBC&rpar;](http://www.techmeme.com/240102/p9#a240102p9)
  - [IRS Tax Delay: If You Use Venmo, PayPal, or Cash App Here&#39;s What You Should Know     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-delay-if-you-use-venmo-paypal-or-cash-app-heres-what-you-should-know/#ftag=CAD590a51e)
- - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)
- - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)<!-- TECH:END -->
+ - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity and other spot bitcoin ETF issuers jockey for an early advantage to attract investors, as they reportedly may get approval to launch by January 10 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240102/p17#a240102p17)
- - [Emergency SOS on Apple Watch saves life after potentially fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
- - [Pornhub blocks North Carolina and Montana as porn regulation spreads](https://www.theverge.com/2024/1/2/24022539/pornhub-blocked-montana-north-carolina-age-verification-law-protest)
- - [Best MacBook Deals: Save Up to $250 on the Best Apple MacBooks     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Unplug These Devices to Reduce Your Electric Bill by $100 a Year     - CNET](https://www.cnet.com/how-to/unplug-these-devices-to-reduce-your-electric-bill-by-100-a-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jony Ive imagined the Vision Pro giving you Zoom eyes and sunglasses](https://www.theverge.com/2024/1/2/24022803/apple-vision-pro-jony-ive-zoom-eyes-sunglasses-patent)
+ - [Samsung&#39;s New Galaxy Phones Are Coming Jan. 17     - CNET](https://www.cnet.com/tech/mobile/samsungs-new-galaxy-phones-are-coming-on-jan-17/#ftag=CAD590a51e)
+ - [QD-OLED Gaming Monitors to Hit Higher Speeds, New Sizes in 2024     - CNET](https://www.cnet.com/tech/computing/qd-oled-gaming-monitors-to-hit-higher-speeds-new-sizes-in-2024/#ftag=CAD590a51e)
+ - [Best Fitness Deals for the New Year: Save Hundreds on Home Gym Equipment, Accessories and More     - CNET](https://www.cnet.com/deals/best-fitness-deals/#ftag=CAD590a51e)
+ - [Samsung is hosting Unpacked in the heart of Silicon Valley](https://www.theverge.com/2024/1/2/24022816/samsung-galaxy-s24-unpacked-2024-date-time-san-jose)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

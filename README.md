@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Black rumored to play Steve in the Minecraft movie](https://www.theverge.com/2024/1/2/24022838/jack-black-steve-minecraft-movie)
  - [Orbit Chain, which facilitates cross-blockchain transactions, loses ~$81M after an attack on its cross-chain bridge protocol, similar to hacks by Lazarus Group &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240102/p16#a240102p16)
  - [The 23 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)
- - [Electric Throw Blanket     - CNET](https://www.cnet.com/news/electric-throw-blanket-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

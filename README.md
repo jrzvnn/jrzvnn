@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 💣 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
+ - 😝 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
  - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 😝 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
+ - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
 
 ---
 

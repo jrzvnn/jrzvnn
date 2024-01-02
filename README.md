@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
- - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
+ - 😝 [JAL plane collision](http://9gag.com/gag/aZD68x6)
+ - 💣 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 

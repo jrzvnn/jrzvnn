@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Emergency SOS saves woman after near-fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
+ - [Samsung announces that it will hold its next Galaxy Unpacked event on January 17 at 10am PT in San Jose, to showcase new mobile devices and Galaxy AI &lpar;Iyaz Akhtar/PCMag&rpar;](http://www.techmeme.com/240102/p18#a240102p18)
+ - [A New Year’s resolution for tech companies: knock it off with the CAPTCHAs](https://www.theverge.com/2024/1/2/24022948/captcha-test-bots-puzzle-grid-google)
  - [Jony Ive imagined the Vision Pro giving you Zoom eyes and sunglasses](https://www.theverge.com/2024/1/2/24022803/apple-vision-pro-jony-ive-zoom-eyes-sunglasses-patent)
- - [Samsung&#39;s New Galaxy Phones Are Coming Jan. 17     - CNET](https://www.cnet.com/tech/mobile/samsungs-new-galaxy-phones-are-coming-on-jan-17/#ftag=CAD590a51e)
- - [QD-OLED Gaming Monitors to Hit Higher Speeds, New Sizes in 2024     - CNET](https://www.cnet.com/tech/computing/qd-oled-gaming-monitors-to-hit-higher-speeds-new-sizes-in-2024/#ftag=CAD590a51e)
- - [Best Fitness Deals for the New Year: Save Hundreds on Home Gym Equipment, Accessories and More     - CNET](https://www.cnet.com/deals/best-fitness-deals/#ftag=CAD590a51e)
  - [Samsung is hosting Unpacked in the heart of Silicon Valley](https://www.theverge.com/2024/1/2/24022816/samsung-galaxy-s24-unpacked-2024-date-time-san-jose)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

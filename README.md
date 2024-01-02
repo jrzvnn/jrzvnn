@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 😝 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
+ - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - 💣 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 😝 [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 ---
 

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
  - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 👉 [Can someone translate?](http://9gag.com/gag/aVbpEMn)<!-- MEMES:END -->
+ - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
 
 ---
 

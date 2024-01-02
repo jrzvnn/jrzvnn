@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
  - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 👉 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)<!-- MEMES:END -->
+ - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

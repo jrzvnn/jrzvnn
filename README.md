@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 💣 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 💣 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - 😝 [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

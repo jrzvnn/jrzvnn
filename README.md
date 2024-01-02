@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)
+ - [Amazon&#39;s 2024 price drops on Apple knock up to $600 off popular tech](https://appleinsider.com/articles/24/01/02/amazons-2024-price-drops-on-apple-knock-up-to-600-off-popular-tech?utm_medium=rss)
  - [Google Pixel 8&#39;s camera repair parts as expensive as iPhone&#39;s](https://appleinsider.com/articles/24/01/02/google-pixel-8s-camera-repair-parts-as-expensive-as-iphones?utm_medium=rss)
- - [Apple Vision Pro &#39;imminent&#39; with end of January launch](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)
- - [How to transfer ownership of a Google Drive folder or file](https://www.theverge.com/24022400/google-drive-transfer-how-to)
- - [Jack Black rumored to play Steve in the Minecraft movie](https://www.theverge.com/2024/1/2/24022838/jack-black-steve-minecraft-movie)
- - [Orbit Chain, which facilitates cross-blockchain transactions, loses ~$81M after an attack on its cross-chain bridge protocol, similar to hacks by Lazarus Group &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240102/p16#a240102p16)<!-- TECH:END -->
+ - [The Quest 2 Price Cut Becomes Permanent: $250 Gets You Into the Metaverse     - CNET](https://www.cnet.com/deals/the-quest-2-price-cut-becomes-permanent-250-gets-you-into-the-metaverse/#ftag=CAD590a51e)
+ - [How to transfer ownership of a Google Drive folder or file](https://www.theverge.com/24022400/google-drive-transfer-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

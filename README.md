@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
+ - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [A deal by OECD members, including the US and France, that took effect January 1 says platforms must report users&#39; earnings made on their services to authorities &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240102/p12#a240102p12)
- - [Women in the US Are Now Stockpiling Abortion Pills](https://www.wired.com/story/stockpiliing-abortion-pills-new-study/)
- - [Best Multidevice VPNs     - CNET](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)
- - [Apple will soon send Apple Card Savings users 1099-INT tax forms](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
- - [Amazon&#39;s fan-favorite $189.99 AirPods Pro USB-C deal is back for 2024](https://appleinsider.com/articles/24/01/02/amazons-fan-favorite-18999-airpods-pro-usb-c-deal-is-back-for-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Women in the US Are Now Stockpiling Abortion Pills](https://www.wired.com/story/stockpiliing-abortion-pills-new-study/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

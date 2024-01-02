@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 💣 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 😝 [What a weight loss journey! She looks so much happier now](http://9gag.com/gag/aoKv370)
+ - 😝 [Happy New Year 2024 from Korea](http://9gag.com/gag/a8qRmQQ)
+ - 💣 [This man has a lot of commitment](http://9gag.com/gag/armQAD5)
  - 😝 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 👉 [If I ever go to jail, I hope it&#39;s in California.](http://9gag.com/gag/aL1Ze7W)<!-- MEMES:END -->
 
 ---
 

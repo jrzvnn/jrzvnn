@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emergency SOS on Apple Watch saves life after potentially fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
+ - [Pornhub blocks North Carolina and Montana as porn regulation spreads](https://www.theverge.com/2024/1/2/24022539/pornhub-blocked-montana-north-carolina-age-verification-law-protest)
  - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
  - [iPhone 16 won&#39;t be compelling, says analyst with no compelling data](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)
- - [Amazon&#39;s 2024 price drops on Apple knock up to $600 off popular tech](https://appleinsider.com/articles/24/01/02/amazons-2024-price-drops-on-apple-knock-up-to-600-off-popular-tech?utm_medium=rss)
- - [Google Pixel 8&#39;s camera repair parts as expensive as iPhone&#39;s](https://appleinsider.com/articles/24/01/02/google-pixel-8s-camera-repair-parts-as-expensive-as-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

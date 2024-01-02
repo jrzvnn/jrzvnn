@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)
+ - [Samsung’s new robot vacuum can steam clean your floors](https://www.theverge.com/2024/1/2/24022573/samsung-jet-bot-combo-robot-vacuum-steam-clean-ces-2024)
  - [X once again adds headlines to article links — but with tiny text](https://www.theverge.com/2024/1/2/24022563/x-twitter-headlines-article-links-tiny-text)
- - [10.1&quot; WiFi Digital Picture Frame     - CNET](https://www.cnet.com/news/10-1-wifi-digital-picture-frame-dpnl/#ftag=CAD590a51e)
  - [X posts that have link previews now display titles or headlines in the corner of the image preview, but the text size is small and long headlines get cut off &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p14#a240102p14)
- - [Get Your Coffee Fix for Less With 30% Off Peet&#39;s Beans, Gift Sets and More     - CNET](https://www.cnet.com/deals/get-your-coffee-fix-for-less-with-30-off-peets-beans-gift-sets-and-more/#ftag=CAD590a51e)
- - [Light Bulb Security Cameras     - CNET](https://www.cnet.com/home/security/light-bulb-security-camera-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just a handful of EVs still qualify for the full $7,500 tax credit](https://www.theverge.com/2024/1/2/24022509/ev-tax-credit-eligible-cars-list-chevy-tesla-ford)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

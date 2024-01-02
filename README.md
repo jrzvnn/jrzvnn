@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Apple Watch SE is $50 off just in time for your New Year’s fitness goals](https://www.theverge.com/2024/1/2/24022374/apple-watch-se-smartwatch-newyears-resolutions-airtag-8bitdo-deal-sale)
+ - [Dish Network rejoins EchoStar as it tries to compete in 5G](https://www.theverge.com/2024/1/2/24022413/dish-network-echostar-acquisition-5g-boost-mobile-wireless)
  - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
  - [Save $1,600 on this loaded MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/24/01/01/save-1600-on-this-loaded-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [A deal by OECD members, including the US and France, that took effect January 1 says platforms must report users&#39; earnings made on their services to authorities &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240102/p12#a240102p12)
- - [Women in the US Are Now Stockpiling Abortion Pills](https://www.wired.com/story/stockpiliing-abortion-pills-new-study/)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

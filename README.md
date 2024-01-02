@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [After UK regulators approved Microsoft&#39;s Activision deal in October, Brad Smith rows back on criticism of the UK, saying the CMA has been &quot;tough and fair&quot; &lpar;BBC&rpar;](http://www.techmeme.com/240102/p9#a240102p9)
- - [IRS Tax Delay: If You Use Venmo, PayPal, or Cash App Here&#39;s What You Should Know     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-delay-if-you-use-venmo-paypal-or-cash-app-heres-what-you-should-know/#ftag=CAD590a51e)
  - [BT says 99% of its UK &quot;core traffic is now being served by non-Huawei kit&quot;, missing the UK deadline to move data flows off Huawei&#39;s equipment after the 2020 ban &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240102/p8#a240102p8)
  - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)
- - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)<!-- TECH:END -->
+ - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)
+ - [How to Get Good Answers From an AI Chatbot video     - CNET](https://www.cnet.com/videos/how-to-get-good-answers-from-an-ai-chatbot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

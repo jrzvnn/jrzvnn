@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Fidelity marks down the value of its Twitter stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)
+ - [Filing: Fidelity marks down the value of its X stake, estimating the company is worth ~28% of the $44B that Elon Musk paid, down from 33% in May 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240101/p6#a240101p6)
  - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
  - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Best Gaming Keyboard Under $100 for 2024     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard-under-100/#ftag=CAD590a51e)

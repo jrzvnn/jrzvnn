@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Luke Litter, 16 year old dart phenomenon.. mf&#39;er look like he&#39;s 30.](http://9gag.com/gag/aPgEm8g)
  - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
  - 💣 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
+ - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 👉 [I&#39;m still wondering what these symbols mean. I cant let go](http://9gag.com/gag/ap9418E)<!-- MEMES:END -->
 
 ---
 

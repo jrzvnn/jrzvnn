@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
  - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 💣 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [Bro, it&#39;s just a game](http://9gag.com/gag/a8qR7G6)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
+ - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 😝 [Japanese Airlines aircraft crash in Haneda Airport](http://9gag.com/gag/a5XOBLq)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

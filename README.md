@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy New Year from Poland!](http://9gag.com/gag/aA086ME)
- - 😝 [It is finished](http://9gag.com/gag/aA08Q9Z)
- - 💣 [Fair enough tbf](http://9gag.com/gag/agoD1Qg)
- - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
- - 👉 [This world is so cruel, but yet so beautiful](http://9gag.com/gag/az2W5mN)<!-- MEMES:END -->
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 😝 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
 
 ---
 

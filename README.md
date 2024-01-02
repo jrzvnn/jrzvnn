@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a weight loss journey! She looks so much happier now](http://9gag.com/gag/aoKv370)
- - 😝 [Happy New Year 2024 from Korea](http://9gag.com/gag/a8qRmQQ)
- - 💣 [This man has a lot of commitment](http://9gag.com/gag/armQAD5)
- - 😝 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
- - 👉 [If I ever go to jail, I hope it&#39;s in California.](http://9gag.com/gag/aL1Ze7W)<!-- MEMES:END -->
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 💣 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
+ - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 

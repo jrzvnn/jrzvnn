@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 😝 [Cultural enricer in Spain. : Men won\u2019t help, police won\u2019t help, and the government won\u2019t help.](http://9gag.com/gag/ay2bW2y)
+ - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
  - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
  - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 👉 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)<!-- MEMES:END -->
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

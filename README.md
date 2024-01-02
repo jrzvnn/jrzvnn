@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The chip industry is the new star on the political scene, bringing opportunities and challenges; Nvidia and others have rapidly built US lobbying operations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240102/p4#a240102p4)
- - [Sources: Merck&#39;s bid for Japanese chip materials maker JSR, not disclosed to JSR shareholders, triggered a $6.4B offer by a state-backed fund in June 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240102/p3#a240102p3)
- - [Retiring generals and departing top Pentagon officials are increasingly flocking to VC firms that have pumped billions into defense tech startups like Anduril &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/240102/p2#a240102p2)
- - [Everyday AI: Chatbots Are Rewriting How We Live and Work Today     - CNET](https://www.cnet.com/tech/computing/features/everyday-ai-chatbots-are-rewriting-how-we-live-and-work-today/#ftag=CAD590a51e)
- - [Best Coffee Accessories for 2024     - CNET](https://www.cnet.com/how-to/best-coffee-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram rolls out version 10.5.0, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)
+ - [Protect Your Credit Card by Changing This iPhone Setting     - CNET](https://www.cnet.com/tech/services-and-software/protect-your-credit-card-by-changing-this-iphone-setting/#ftag=CAD590a51e)
+ - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)
+ - [The Plan to Put Pig Genes in Soy Beans for Tastier Fake Meat](https://www.wired.com/story/moolecs-plant-pig-hybrids-will-make-fake-meat-taste-meatier/)
+ - [What It’s Like to Use Apple’s Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

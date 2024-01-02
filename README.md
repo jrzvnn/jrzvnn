@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
- - [Best LastPass Alternative in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
- - [Best Apple Watch Bands for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)
- - [Best Graphics Card for Gamers and Creatives in 2024     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
- - [Best Speakerphone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
+ - [Best Gaming Keyboard Under $100 for 2024     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard-under-100/#ftag=CAD590a51e)
+ - [Best USB-C Hub 2024     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)
+ - [Best Gear for Online Classes or Meetings in 2024: Webcams, Lights, Mics, Tripods and More     - CNET](https://www.cnet.com/tech/computing/best-webcam-and-gear-for-online-meetings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

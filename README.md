@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Steam ended support for Windows 7, 8, and 8.1 on January 1, saying the app used a now-unsupported embedded Chrome version; &lt;1% of Steam users are on those OSes &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240102/p15#a240102p15)
+ - [Electric Throw Blanket     - CNET](https://www.cnet.com/news/electric-throw-blanket-deal-dpnl/#ftag=CAD590a51e)
  - [Samsung’s new robot vacuum can steam clean your floors](https://www.theverge.com/2024/1/2/24022573/samsung-jet-bot-combo-robot-vacuum-steam-clean-ces-2024)
- - [X once again adds headlines to article links — but with tiny text](https://www.theverge.com/2024/1/2/24022563/x-twitter-headlines-article-links-tiny-text)
- - [10.1&quot; WiFi Digital Picture Frame     - CNET](https://www.cnet.com/news/10-1-wifi-digital-picture-frame-dpnl/#ftag=CAD590a51e)
- - [X posts that have link previews now display titles or headlines in the corner of the image preview, but the text size is small and long headlines get cut off &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p14#a240102p14)<!-- TECH:END -->
+ - [Oversized Wearable Blanket Hoodie     - CNET](https://www.cnet.com/culture/fashion/oversized-wearable-blanket-hoodie-dpnl/#ftag=CAD590a51e)
+ - [Faux Fireplace Wax Warmer     - CNET](https://www.cnet.com/news/faux-fireplace-wax-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

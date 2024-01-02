@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never seen this before but looks interesting](http://9gag.com/gag/aDYK8xG)
- - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

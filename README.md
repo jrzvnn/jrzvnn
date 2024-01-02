@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X once again adds headlines to article links — but with tiny text](https://www.theverge.com/2024/1/2/24022563/x-twitter-headlines-article-links-tiny-text)
+ - [10.1&quot; WiFi Digital Picture Frame     - CNET](https://www.cnet.com/news/10-1-wifi-digital-picture-frame-dpnl/#ftag=CAD590a51e)
  - [X posts that have link previews now display titles or headlines in the corner of the image preview, but the text size is small and long headlines get cut off &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p14#a240102p14)
- - [We’re down to just a handful of EVs that qualify for the full $7,500 tax credit in the US](https://www.theverge.com/2024/1/2/24022509/ev-tax-credit-eligible-cars-list-chevy-tesla-ford)
- - [HSBC plans to launch international payments app Zing in the UK in the coming days before a wider rollout, seeking to compete with Revolut and Wise &lpar;Harry Wilson/Bloomberg&rpar;](http://www.techmeme.com/240102/p13#a240102p13)
- - [Barclays says iPhone 16 won&#39;t be compelling](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [The latest Apple Watch SE is $50 off just in time for your New Year’s fitness goals](https://www.theverge.com/2024/1/2/24022374/apple-watch-se-smartwatch-newyears-resolutions-airtag-8bitdo-deal-sale)<!-- TECH:END -->
+ - [Get Your Coffee Fix for Less With 30% Off Peet&#39;s Beans, Gift Sets and More     - CNET](https://www.cnet.com/deals/get-your-coffee-fix-for-less-with-30-off-peets-beans-gift-sets-and-more/#ftag=CAD590a51e)
+ - [Light Bulb Security Cameras     - CNET](https://www.cnet.com/home/security/light-bulb-security-camera-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

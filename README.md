@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
+ - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
  - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)
  - [UK eBay and Airbnb sellers could have app sales data sent to tax office](https://appleinsider.com/articles/24/01/02/uk-ebay-and-airbnb-sellers-could-have-app-sales-data-sent-to-tax-office?utm_medium=rss)
- - [Telegram rolls out version 10.5.0, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)
- - [Protect Your Credit Card by Changing This iPhone Setting     - CNET](https://www.cnet.com/tech/services-and-software/protect-your-credit-card-by-changing-this-iphone-setting/#ftag=CAD590a51e)
- - [AI May Not Steal Your Job, but It Could Stop You Getting Hired](https://www.wired.com/story/hilke-schellmann-algorithm-book-ai-jobs-hiring/)<!-- TECH:END -->
+ - [Telegram rolls out version 10.5, offering &quot;totally redesigned&quot; voice and video calls with new animations and backgrounds while using fewer resources &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240102/p5#a240102p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

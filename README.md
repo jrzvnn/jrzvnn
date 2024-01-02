@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Emergency SOS on Apple Watch saves life after potentially fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
  - [Pornhub blocks North Carolina and Montana as porn regulation spreads](https://www.theverge.com/2024/1/2/24022539/pornhub-blocked-montana-north-carolina-age-verification-law-protest)
- - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)
- - [iPhone 16 won&#39;t be compelling, says analyst with no compelling data](https://appleinsider.com/articles/24/01/02/barclays-says-iphone-16-wont-be-compelling?utm_medium=rss)
- - [Apple Vision Pro imminent, with launch rumored at end of January](https://appleinsider.com/articles/24/01/02/apple-vision-pro-imminent-with-end-of-january-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Best MacBook Deals: Save Up to $250 on the Best Apple MacBooks     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Unplug These Devices to Reduce Your Electric Bill by $100 a Year     - CNET](https://www.cnet.com/how-to/unplug-these-devices-to-reduce-your-electric-bill-by-100-a-year/#ftag=CAD590a51e)
+ - [Got Apple Card Savings? Your interest tax form is coming very soon](https://appleinsider.com/articles/24/01/02/apple-will-soon-send-apple-card-savings-users-1099-int-tax-forms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

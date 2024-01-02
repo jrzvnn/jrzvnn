@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 💣 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 💣 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 

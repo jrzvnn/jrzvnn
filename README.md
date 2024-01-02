@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 😝 [\u201cAnd that\u2019s how I met your mother\u201d](http://9gag.com/gag/aGEm8zn)
- - 💣 [If I ever go to jail, I hope it&#39;s in California.](http://9gag.com/gag/aL1Ze7W)
- - 😝 [Girl: \u201cI\u2019m only 15\u201d. Man: \u201cOkay, good\u201d. This is a video that was recorded in Kirkby, UK by a schoolgirl approached by a `refugee`. The video sparked a protest by locals outside the refugee hotel. These were branded &#39;far-right&#39; by The Guardian. Modern journalists are rubbish.](http://9gag.com/gag/aBdAVVA)
- - 👉 [Sienfeld spontaneously calling out a virtue signaling jackass](http://9gag.com/gag/awZE1vx)<!-- MEMES:END -->
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

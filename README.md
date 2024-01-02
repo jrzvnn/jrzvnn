@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Coffee Accessories for 2024     - CNET](https://www.cnet.com/how-to/best-coffee-accessories/#ftag=CAD590a51e)
  - [Employees, sources, and experts describe crisis at Alibaba as the company struggles to chart a new course and an ambitious restructuring did not go as planned &lpar;Financial Times&rpar;](http://www.techmeme.com/240102/p1#a240102p1)
  - [Best Places to Sell Your Used Electronics for 2024     - CNET](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)
  - [Best Beer Clubs for 2024     - CNET](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Best Air Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

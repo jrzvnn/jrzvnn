@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
- - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
  - 😝 [I must have missed this riverdale episode.](http://9gag.com/gag/aQELEvd)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 😝 [A S A W T D T T](http://9gag.com/gag/aYV3Vgm)
+ - 👉 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)<!-- MEMES:END -->
 
 ---
 

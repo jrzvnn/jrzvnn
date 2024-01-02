@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 😝 [This man has a lot of commitment](http://9gag.com/gag/armQAD5)
- - 💣 [Girl: \u201cI\u2019m only 15\u201d. Man: \u201cOkay, good\u201d. This is a video that was recorded in Kirkby, UK by a schoolgirl approached by a `refugee`. The video sparked a protest by locals outside the refugee hotel. These were branded &#39;far-right&#39; by The Guardian. Modern journalists are rubbish.](http://9gag.com/gag/aBdAVVA)
- - 😝 [Happy New Year 2024 from Korea](http://9gag.com/gag/a8qRmQQ)
- - 👉 [\u201cAnd that\u2019s how I met your mother\u201d](http://9gag.com/gag/aGEm8zn)<!-- MEMES:END -->
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 😝 [Man finds out the hard way to not taunt a lion](http://9gag.com/gag/agoDmpK)
+ - 💣 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 

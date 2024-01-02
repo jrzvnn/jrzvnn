@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoJ&#39;s Apple App Store probe is &#39;firing on all cylinders&#39;](https://appleinsider.com/articles/24/01/02/dojs-apple-app-store-probe-is-firing-on-all-cylinders?utm_medium=rss)
  - [Apple released no new iPads in 2023, the first year without a new tablet since the iPad&#39;s launch in 2010; rumors suggest all iPad models will get a 2024 update &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240102/p7#a240102p7)
  - [How to Get Good Answers From an AI Chatbot video     - CNET](https://www.cnet.com/videos/how-to-get-good-answers-from-an-ai-chatbot/#ftag=CAD590a51e)
  - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
- - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
- - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)<!-- TECH:END -->
+ - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

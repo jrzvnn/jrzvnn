@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)
- - 😝 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 💣 [How the last 3 presidents announced the death of terrorist leaders](http://9gag.com/gag/ap94RX9)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/aNw7py6)
- - 👉 [Yo wtf?](http://9gag.com/gag/az2WeDb)<!-- MEMES:END -->
+ - 😝 [This ain\u2019t a wingman, this is an aircraft carrier](http://9gag.com/gag/axoLoyb)
+ - 💣 [Thought this was real until](http://9gag.com/gag/aOxMx4N)
+ - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
+ - 👉 [What a Chad](http://9gag.com/gag/a6q0DrR)<!-- MEMES:END -->
 
 ---
 

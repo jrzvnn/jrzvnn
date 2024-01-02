@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [Play stupid games and well you know the rest](http://9gag.com/gag/aL1Z4B6)
- - 💣 [Sir,this is a marker](http://9gag.com/gag/aKEQ10g)
- - 😝 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - 👉 [Food is ready](http://9gag.com/gag/anzm7K5)<!-- MEMES:END -->
+ - 😝 [Sir,this is a marker](http://9gag.com/gag/aKEQ10g)
+ - 💣 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 😝 [Food is ready](http://9gag.com/gag/anzm7K5)
+ - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
 

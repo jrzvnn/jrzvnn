@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
- - 💣 [Trap](http://9gag.com/gag/adPGn6B)
- - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 😝 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)
+ - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 👉 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)<!-- MEMES:END -->
 
 ---
 

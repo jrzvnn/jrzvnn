@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She will regret this](http://9gag.com/gag/a8qR0z1)
- - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [Trap](http://9gag.com/gag/adPGn6B)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 😝 [Name one](http://9gag.com/gag/amAemz2)
+ - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
 
 ---
 

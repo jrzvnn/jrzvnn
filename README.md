@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ orders fifth season for darkly comedic spy thriller &#39;Slow Horses&#39;](https://appleinsider.com/articles/24/01/03/apple-tv-orders-fifth-season-for-darkly-comedic-spy-thriller-slow-horses?utm_medium=rss)
+ - [Best Monitor Deals: Save Up to $250 on Samsung, Dell, LG and More     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
  - [Starbucks customers can drive up to the window with their reusable cups now](https://www.theverge.com/2024/1/3/24023832/starbucks-us-canada-drive-through-reusable-cup-waste)
  - [Xerox aims to cut 15% of its workforce as part of a restructuring plan; the company had ~20,500 employees as of Dec. 31, 2022, per an SEC filing; XRX drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240103/p20#a240103p20)
- - [Second macOS Sonoma 14.3 developer beta now available for testing](https://appleinsider.com/articles/24/01/03/second-macos-sonoma-143-developer-beta-now-available-for-testing?utm_medium=rss)
- - [Apple issues second iOS 17.3, iPadOS 17.3 developer betas](https://appleinsider.com/articles/24/01/03/apple-issues-second-ios-173-ipados-173-developer-betas?utm_medium=rss)
- - [Apple distributes second watchOS 10.3 developer beta](https://appleinsider.com/articles/24/01/03/apple-distributes-second-watchos-103-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Second macOS Sonoma 14.3 developer beta now available for testing](https://appleinsider.com/articles/24/01/03/second-macos-sonoma-143-developer-beta-now-available-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

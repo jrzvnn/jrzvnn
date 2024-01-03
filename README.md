@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
+ - 😝 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
+ - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
  - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
+ - 👉 [The Korean War and casualties](http://9gag.com/gag/armQX6X)<!-- MEMES:END -->
 
 ---
 

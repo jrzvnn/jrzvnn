@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook rolled out Link History, which creates a repository of all the links clicked on by a user on the mobile app, with the data being used for targeted ads &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240102/p21#a240102p21)
  - [Antenna: US customer cancellations at major streamers rose to 6.3% in November, up from 5.1% YoY; 24% of users canceled 3+ subscriptions over the past two years &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/240102/p20#a240102p20)
  - [Tired of Feeling Groggy? Upgrade Your Sleep Routine With This Alternative to Melatonin     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-dietary-supplement-to-fall-asleep-instead/#ftag=CAD590a51e)
  - [Best Internet Providers in Bellevue, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)
- - [Best Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)
- - [Pornhub blocks access in two more states, Montana and North Carolina, in protest of the states&#39; age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240102/p19#a240102p19)<!-- TECH:END -->
+ - [Best Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

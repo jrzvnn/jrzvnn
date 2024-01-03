@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 😝 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
- - 💣 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
+ - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 😝 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
+ - 💣 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
  - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
+ - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
 
 ---
 

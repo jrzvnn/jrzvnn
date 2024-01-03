@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 predictions: AI will help make Web3 usable in mainstream applications and Web3 will help us trust AI, Web3 regulatory clarity, flat VC investing, and more &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/240103/p13#a240103p13)
- - [TicWatch Pro 5 Review: A Big WearOS Watch with Battery Life Tricks     - CNET](https://www.cnet.com/tech/mobile/ticwatch-pro-5-review-big-wearos-watch-with-battery-life-tricks/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 Rumors: More AI, Titanium Design and Other Leaks     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-all-the-biggest-rumors-for-samsungs-next-phone/#ftag=CAD590a51e)
- - [What To Expect From Smartphones in 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-smartphones-in-2024/#ftag=CAD590a51e)
- - [16 Best Paper Planners &lpar;2024&rpar;: Weekly and Daily Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [Mickey Mouse has left the house: Steamboat Willie enters the public domain](https://www.theverge.com/24023543/disney-mickey-mouse-steamboat-willie-public-domain)
+ - [Forget Growth. Optimize for Resilience](https://www.wired.com/story/forget-growth-optimize-resilience/)
+ - [LG’s 2024 OLED TVs put a bigger focus on AI processing than ever before](https://www.theverge.com/2024/1/3/24023584/lg-2024-oled-tv-lineup-m4-g4-c4-b4-features-specs)
+ - [How to change alert volume in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-alert-volume-in-macos-sonoma?utm_medium=rss)
+ - [Sony’s XM5 headphones are over $100 off thanks to eBay’s New Year’s sale](https://www.theverge.com/2024/1/3/24022457/sony-wh-1000xm5-headphones-fitbit-beats-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

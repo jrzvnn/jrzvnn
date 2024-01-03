@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Best Smart Home Deals for the New Year: Save on Smart Bulbs, Plugs, Speakers &amp; More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
  - [Best Apple TV Deals: Save on Streaming Boxes and Remotes     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
  - [Best Internet Providers in Myrtle Beach, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)
- - [In a letter to a group of victims of its October 2023 breach, 23andMe blames them, saying that &quot;users negligently recycled and failed to update their passwords&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240103/p24#a240103p24)
- - [10 Best Deals on Fitness Trackers and Smartwatches](https://www.wired.com/story/fitness-tracker-and-smartwatch-deals-january-2024/)<!-- TECH:END -->
+ - [In a letter to a group of victims of its October 2023 breach, 23andMe blames them, saying that &quot;users negligently recycled and failed to update their passwords&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240103/p24#a240103p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

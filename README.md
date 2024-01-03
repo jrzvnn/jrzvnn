@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newest trend on the internet Is Hamas leaders posting pics with a red `X` under then and I don&#39;t get what they mean.](http://9gag.com/gag/aGEmGP5)
- - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 💣 [The great Kibgdom of Arabia](http://9gag.com/gag/a2K38qE)
- - 😝 [Just to clarify what copyright has expired](http://9gag.com/gag/abvNxNL)
- - 👉 [This is a great idea](http://9gag.com/gag/armQA3B)<!-- MEMES:END -->
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 💣 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 ---
 

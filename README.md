@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Antenna: US customer cancellations at major streamers rose to 6.3% in November, up from 5.1% YoY; 24% of users canceled 3+ subscriptions over the past two years &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/240102/p20#a240102p20)
- - [Pornhub blocks access in two more states, Montana and North Carolina, in protest of the states&#39; age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240102/p19#a240102p19)
- - [Sex, Drugs, and AI Mickey Mouse](https://www.wired.com/story/mickey-mouse-steamboat-willie-public-domain-artificial-intelligence/)
- - [Apple Watch Emergency SOS saves woman after near-fatal carbon monoxide poisoning](https://appleinsider.com/articles/24/01/02/emergency-sos-on-apple-watch-saves-life-after-potentially-fatal-carbon-monoxide-poisoning?utm_medium=rss)
- - [Samsung announces that it will hold its next Galaxy Unpacked event on January 17 at 10am PT in San Jose, to showcase new mobile devices and Galaxy AI &lpar;Iyaz Akhtar/PCMag&rpar;](http://www.techmeme.com/240102/p18#a240102p18)<!-- TECH:END -->
+ - [Tired of Feeling Groggy? Upgrade Your Sleep Routine With This Alternative to Melatonin     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-dietary-supplement-to-fall-asleep-instead/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bellevue, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)
+ - [Best Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)
+ - [Pornhub blocks access in two more states, Montana and North Carolina, in protest of the states&#39; age verification laws &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240102/p19#a240102p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 💣 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [I think it was the left thing to do](http://9gag.com/gag/aeQnxZ5)
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 💣 [Lmao](http://9gag.com/gag/ap94xD8)
+ - 😝 [Sad day for Hamas](http://9gag.com/gag/aDYKbyd)
+ - 👉 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)<!-- MEMES:END -->
 
 ---
 

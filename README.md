@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 💣 [Saving 290\u20ac The dishwasher is broken, the technician arrives and asks for \u20ac350 to replace the electronic board, I ask him to leave it so I can buy the same one. Total cost \u20ac60](http://9gag.com/gag/aZD6jvV)
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
+ - 😝 [That pice of junk in house that comes in handy.](http://9gag.com/gag/aREb26G)
+ - 💣 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
+ - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 👉 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)<!-- MEMES:END -->
 
 ---
 

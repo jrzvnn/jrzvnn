@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the cottage industry of lawyers helping Amazon marketplace sellers reactivate their accounts after suspensions, as Amazon cracks down on millions &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240103/p17#a240103p17)
  - [Assassin’s Creed Valhalla and Resident Evil 2 hit Xbox Game Pass this month — but no Call of Duty yet](https://www.theverge.com/2024/1/3/24023670/xbox-game-pass-2024-assassins-creed-valhalla-resident-evil-2)
  - [How crowded are the oceans? New maps show what flew under the radar until now](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
  - [Premium smartphone market earned record sales in 2023](https://appleinsider.com/articles/24/01/03/premium-smartphone-market-earned-record-sales-in-2023?utm_medium=rss)
- - [How to click a greyed-out Agree button in macOS setup](https://appleinsider.com/inside/macos/tips/how-to-click-a-greyed-out-agree-button-in-macos-setup?utm_medium=rss)
- - [Urbanista’s solar headphone lineup adds adaptive noise cancellation at lower prices](https://www.theverge.com/2024/1/3/24012094/urbanistas-headphones-los-angeles-phoenix-solar-charging-second-generation-ces-2024)<!-- TECH:END -->
+ - [How to click a greyed-out Agree button in macOS setup](https://appleinsider.com/inside/macos/tips/how-to-click-a-greyed-out-agree-button-in-macos-setup?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

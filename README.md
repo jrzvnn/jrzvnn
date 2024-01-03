@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joe Rogan STUMPS Woke Comedian With A Simple Question](http://9gag.com/gag/aoKv4P2)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
+ - 💣 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
  - 😝 [The Korean War and casualties](http://9gag.com/gag/armQX6X)
- - 💣 [A ride for 9gag](http://9gag.com/gag/ay2b6z8)
- - 😝 [Trap](http://9gag.com/gag/adPGn6B)
- - 👉 [Shower thoughts](http://9gag.com/gag/aDYKnex)<!-- MEMES:END -->
+ - 👉 [She will regret this](http://9gag.com/gag/a8qR0z1)<!-- MEMES:END -->
 
 ---
 

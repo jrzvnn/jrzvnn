@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 💣 [A transformation is happening in El Salvador](http://9gag.com/gag/a1PyN3G)
- - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 👉 [JAL plane collision](http://9gag.com/gag/aZD68x6)<!-- MEMES:END -->
+ - 😝 [Joe Rogan STUMPS Woke Comedian With A Simple Question](http://9gag.com/gag/aoKv4P2)
+ - 😝 [The Korean War and casualties](http://9gag.com/gag/armQX6X)
+ - 💣 [A ride for 9gag](http://9gag.com/gag/ay2b6z8)
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 👉 [Shower thoughts](http://9gag.com/gag/aDYKnex)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
- - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 💣 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
+ - 💣 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
 
 ---
 

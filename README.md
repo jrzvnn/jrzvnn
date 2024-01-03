@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She will regret this](http://9gag.com/gag/a8qR0z1)
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 💣 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
+ - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
 

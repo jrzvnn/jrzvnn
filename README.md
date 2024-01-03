@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)
+ - [This Ultrasound Bra Could Detect Cancer Sooner](https://www.wired.com/story/ultrasound-bra-breast-cancer-detection/)
+ - [Former NBA Star Rick Fox Is Making a Play for Carbon-Neutral Concrete](https://www.wired.com/story/former-nba-star-rick-fox-is-shooting-for-carbon-neutral-concrete/)
  - [Amazon UK will charge more for ad-free Prime Video from February](https://appleinsider.com/articles/24/01/03/amazon-uk-will-charge-more-for-ad-free-prime-video-from-february?utm_medium=rss)
- - [US federal prosecutors charge Tingo Group founder Mmobuosi Odogwu Banye with securities fraud in New York, accusing him of massively inflating Tingo&#39;s finances &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/240103/p11#a240103p11)
- - [Despite the focus on generative AI misinformation, much of the policy discourse ignores that politicians pose the gravest threat, ahead of big elections in 2024 &lpar;Rasmus Nielsen/Financial Times&rpar;](http://www.techmeme.com/240103/p10#a240103p10)
- - [Your Next Phone Will Likely Be Smarter, Faster and More Bendy     - CNET](https://www.cnet.com/tech/mobile/your-next-phone-will-likely-be-smarter-faster-and-more-bendy/#ftag=CAD590a51e)
- - [A look at Shein and Temu&#39;s Chinese supply chain: the platforms offer a lifeline to suppliers, but margins are razor-thin, prices must stay low, and unsold stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240103/p9#a240103p9)<!-- TECH:END -->
+ - [US federal prosecutors charge Tingo Group founder Mmobuosi Odogwu Banye with securities fraud in New York, accusing him of massively inflating Tingo&#39;s finances &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/240103/p11#a240103p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

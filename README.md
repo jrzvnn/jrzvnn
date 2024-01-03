@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 💣 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 👉 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)<!-- MEMES:END -->
+ - 😝 [She will regret this](http://9gag.com/gag/a8qR0z1)
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 💣 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
 
 ---
 

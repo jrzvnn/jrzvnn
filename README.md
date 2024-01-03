@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
- - 😝 [The exhaustion level of the participants of the French Cross Race Championship](http://9gag.com/gag/a04rXzB)
- - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 👉 [Trap](http://9gag.com/gag/adPGn6B)<!-- MEMES:END -->
+ - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
+ - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 ---
 

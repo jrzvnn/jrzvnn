@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [2024 predictions: AI will help make Web3 usable in mainstream applications and Web3 will help us trust AI, Web3 regulatory clarity, flat VC investing, and more &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/240103/p13#a240103p13)
- - [16 Best Paper Planners &lpar;2024&rpar;: Weekly and Daily Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/story/best-paper-planners/)
- - [A UK study of 7,000 people born between 2000 and 2002: 48% agreed with &quot;I think I am addicted to social media&quot;; 57% of girls agreed, compared to 37% of boys &lpar;Hannah Devlin/The Guardian&rpar;](http://www.techmeme.com/240103/p12#a240103p12)
- - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)
- - [iOS 17: Play Your Daily Crossword Puzzle in the News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-play-your-daily-crossword-puzzle-in-the-news-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TicWatch Pro 5 Review: A Big WearOS Watch with Battery Life Tricks     - CNET](https://www.cnet.com/tech/mobile/ticwatch-pro-5-review-big-wearos-watch-with-battery-life-tricks/#ftag=CAD590a51e)
+ - [Samsung Galaxy S24 Rumors: More AI, Titanium Design and Other Leaks     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-all-the-biggest-rumors-for-samsungs-next-phone/#ftag=CAD590a51e)
+ - [What To Expect From Smartphones in 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-smartphones-in-2024/#ftag=CAD590a51e)
+ - [16 Best Paper Planners &lpar;2024&rpar;: Weekly and Daily Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

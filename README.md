@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy New Year \ud83e\udd73](http://9gag.com/gag/aXnyLrz)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 💣 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
- - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
+ - 😝 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
+ - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 💣 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

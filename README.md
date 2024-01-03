@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want beach? Too bad, here shadow](http://9gag.com/gag/aMEoBNX)
  - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 💣 [The Korean War and casualties](http://9gag.com/gag/armQX6X)
+ - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
  - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
 
 ---

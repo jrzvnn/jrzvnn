@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the battle brewing between satellite operators over the use of orbit spectrum, as SpaceX&#39;s Starlink, Project Kuiper, and others push for looser rules &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/240103/p8#a240103p8)
  - [A profile of Midjourney founder David Holz, who co-founded Leap Motion in 2008 before a $30M sale in 2019, as the AI art tool prepares for the 2024 US elections &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240103/p7#a240103p7)
  - [Former employees at IRL, which is being sued by SoftBank for fraud, detail several problems that were apparent from the start, including inflated user metrics &lpar;Financial Times&rpar;](http://www.techmeme.com/240103/p6#a240103p6)
  - [Airbus begins talks to acquire Atos&#39; cybersecurity and data unit, in a deal that could be valued up to &amp;euro;1.8B; Atos says another company had also made an offer &lpar;Wout Vergauwen/Bloomberg&rpar;](http://www.techmeme.com/240103/p5#a240103p5)
- - [Sources: the Cybersecurity Administration of China approved only ~25% of data export applications since data security laws came into effect in September 2022 &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/240103/p4#a240103p4)
- - [Critics and tech firms worry that the UK&#39;s Investigatory Powers &lpar;Amendment&rpar; Bill, a surveillance law now whisking through parliament, undermines user privacy &lpar;Laurie Clarke/Politico&rpar;](http://www.techmeme.com/240103/p3#a240103p3)<!-- TECH:END -->
+ - [Sources: the Cybersecurity Administration of China approved only ~25% of data export applications since data security laws came into effect in September 2022 &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/240103/p4#a240103p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop Apple Music from adding songs you favorite to your library](https://appleinsider.com/inside/apple-music/tips/how-to-stop-apple-music-from-adding-songs-you-favorite-to-your-library?utm_medium=rss)
+ - [iPhone-dominant premium smartphone market generated record sales in 2023](https://appleinsider.com/articles/24/01/03/premium-smartphone-market-earned-record-sales-in-2023?utm_medium=rss)
  - [Twitch will ban people pretending to be naked](https://www.theverge.com/2024/1/3/24023829/twitch-ban-people-pretending-naked-implied-nudity-policy)
- - [Researchers developed three AI models to analyze 2,000TB of maritime data and create the first global map of vessel traffic and offshore infrastructure &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240103/p18#a240103p18)
- - [Daily deals Jan. 3: 40% off iPad Pro &amp; M1 Max MacBook Pro, $100 off iPad 10th Gen, more](https://appleinsider.com/articles/24/01/03/daily-deals-jan-3-40-off-ipad-pro-m1-max-macbook-pro-100-off-ipad-10th-gen-more?utm_medium=rss)
- - [Roku is getting serious about making TVs that look great](https://www.theverge.com/2024/1/3/24023732/roku-pro-tvs-smart-picture-features-specs-price)
- - [A look at the cottage industry of lawyers helping Amazon marketplace sellers reactivate their accounts after suspensions, as Amazon cracks down on millions &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240103/p17#a240103p17)<!-- TECH:END -->
+ - [Best MicroSD Card Deals: Save Up to $155 on Sizes Up to 1TB From Samsung, SanDisk and More     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)
+ - [Researchers developed three AI models to analyze 2,000TB of maritime data and create the first global map of vessel traffic and offshore infrastructure &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240103/p18#a240103p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

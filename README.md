@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
- - 😝 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
- - 💣 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 👉 [The Korean War and casualties](http://9gag.com/gag/armQX6X)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
+ - 💣 [Trap](http://9gag.com/gag/adPGn6B)
+ - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 👉 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)<!-- MEMES:END -->
 
 ---
 

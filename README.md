@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to click a greyed-out Agree button in macOS setup](https://appleinsider.com/inside/macos/tips/how-to-click-a-greyed-out-agree-button-in-macos-setup?utm_medium=rss)
  - [Urbanista’s solar headphone lineup adds adaptive noise cancellation at lower prices](https://www.theverge.com/2024/1/3/24012094/urbanistas-headphones-los-angeles-phoenix-solar-charging-second-generation-ces-2024)
- - [Apple&#39;s USB-C AirPods Pro 2 Are Back Down to Their Best Price Ever     - CNET](https://www.cnet.com/deals/apples-usb-c-airpods-pro-2-are-back-down-to-their-best-price-ever/#ftag=CAD590a51e)
  - [Unlock high-performance computing with an $1,100 discount on this 16-inch MacBook Pro](https://appleinsider.com/articles/24/01/03/unlock-high-performance-computing-with-an-1100-discount-on-this-16-inch-macbook-pro?utm_medium=rss)
- - [Stock Your Cellar With 50% Off Sitewide at Naked Wines     - CNET](https://www.cnet.com/deals/stock-your-cellar-with-50-off-sitewide-at-naked-wines/#ftag=CAD590a51e)
- - [SpaceX launches its first six Starlink satellites capable of offering mobile phone service, as part of its Direct to Cell service with T-Mobile US &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/240103/p16#a240103p16)<!-- TECH:END -->
+ - [SpaceX launches its first six Starlink satellites capable of offering mobile phone service, as part of its Direct to Cell service with T-Mobile US &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/240103/p16#a240103p16)
+ - [Intel forms Articul8 AI, an AI company with backing from DigitalBridge and others; executives did not give the deal&#39;s value or say if Intel had a majority stake &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240103/p15#a240103p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

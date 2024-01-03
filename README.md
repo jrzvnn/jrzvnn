@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
+ - 😝 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 😝 [We want justice](http://9gag.com/gag/ay2b6Zq)
+ - 💣 [Sliced](http://9gag.com/gag/amAe6X6)
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 👉 [This is a great idea](http://9gag.com/gag/armQA3B)<!-- MEMES:END -->
 
 ---
 

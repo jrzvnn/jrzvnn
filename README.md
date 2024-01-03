@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Shop will raise its US seller fees from 2% to 8% over the next few months; a source says TikTok Shop has started reducing some subsidies for merchants &lpar;The Information&rpar;](http://www.techmeme.com/240103/p21#a240103p21)
  - [Now you can smoke your ribs indoors](https://www.theverge.com/2024/1/3/24023919/ge-profile-smart-indoor-smoker-price-release-date-ces24)
  - [Apple TV+ orders fifth season for darkly comedic spy thriller &#39;Slow Horses&#39;](https://appleinsider.com/articles/24/01/03/apple-tv-orders-fifth-season-for-darkly-comedic-spy-thriller-slow-horses?utm_medium=rss)
  - [Best Monitor Deals: Save Up to $250 on Samsung, Dell, LG and More     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Starbucks customers can drive up to the window with their reusable cups now](https://www.theverge.com/2024/1/3/24023832/starbucks-us-canada-drive-through-reusable-cup-waste)
- - [Xerox aims to cut 15% of its workforce as part of a restructuring plan; the company had ~20,500 employees as of Dec. 31, 2022, per an SEC filing; XRX drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240103/p20#a240103p20)<!-- TECH:END -->
+ - [Starbucks customers can drive up to the window with their reusable cups now](https://www.theverge.com/2024/1/3/24023832/starbucks-us-canada-drive-through-reusable-cup-waste)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

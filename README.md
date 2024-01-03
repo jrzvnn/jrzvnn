@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
  - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 👉 [This is a great idea](http://9gag.com/gag/armQA3B)<!-- MEMES:END -->
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 💣 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 👉 [Nope](http://9gag.com/gag/aDYK8Od)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [Name one](http://9gag.com/gag/amAemz2)
- - 💣 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
+ - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 💣 [African men cannot relate to a woman&#39;s r*pe trauma.](http://9gag.com/gag/aMEoPrR)
  - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

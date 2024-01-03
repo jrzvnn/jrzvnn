@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Now you can smoke your ribs indoors](https://www.theverge.com/2024/1/3/24023919/ge-profile-smart-indoor-smoker-price-release-date-ces24)
  - [Apple TV+ orders fifth season for darkly comedic spy thriller &#39;Slow Horses&#39;](https://appleinsider.com/articles/24/01/03/apple-tv-orders-fifth-season-for-darkly-comedic-spy-thriller-slow-horses?utm_medium=rss)
+ - [Best Monitor Deals: Save Up to $250 on Samsung, Dell, LG and More     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
  - [Starbucks customers can drive up to the window with their reusable cups now](https://www.theverge.com/2024/1/3/24023832/starbucks-us-canada-drive-through-reusable-cup-waste)
- - [Xerox aims to cut 15% of its workforce as part of a restructuring plan; the company had ~20,500 employees as of Dec. 31, 2022, per an SEC filing; XRX drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240103/p20#a240103p20)
- - [Second macOS Sonoma 14.3 developer beta now available for testing](https://appleinsider.com/articles/24/01/03/second-macos-sonoma-143-developer-beta-now-available-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Xerox aims to cut 15% of its workforce as part of a restructuring plan; the company had ~20,500 employees as of Dec. 31, 2022, per an SEC filing; XRX drops 8%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240103/p20#a240103p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

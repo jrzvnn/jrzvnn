@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joe Rogan STUMPS Woke Comedian With A Simple Question](http://9gag.com/gag/aoKv4P2)
- - 😝 [The Korean War and casualties](http://9gag.com/gag/armQX6X)
- - 💣 [A ride for 9gag](http://9gag.com/gag/ay2b6z8)
- - 😝 [Trap](http://9gag.com/gag/adPGn6B)
- - 👉 [Shower thoughts](http://9gag.com/gag/aDYKnex)<!-- MEMES:END -->
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)
+ - 💣 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 👉 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)<!-- MEMES:END -->
 
 ---
 

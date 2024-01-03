@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.3 Beta 2 locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
  - [Etherscan, the leading block explorer for Ethereum that was founded in 2015, acquires Solscan, a block explorer for Solana founded in 2021 &lpar;Macauley Peterson/Blockworks&rpar;](http://www.techmeme.com/240103/p22#a240103p22)
  - [SpaceX accused of illegally firing employees who criticized Elon Musk](https://www.theverge.com/2024/1/3/24024253/spacex-elon-musk-nlrb-complaint-unfair-labor-practices-workers-fired)
  - [LastPass will finally enforce a 12-character minimum master password](https://www.theverge.com/2024/1/3/24024012/lastpass-master-password-12-character-minimum-requirement-data-breach)
- - [iOS 17.3 Beta 2 locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
  - [Adjustable Dumbbell Deals: Save Up to $170 on Bowflex, Flybird and More     - CNET](https://www.cnet.com/deals/best-adjustable-dumbbell-deals-bowflex-powerblock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

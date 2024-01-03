@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 3: 40% off iPad Pro &amp; M1 Max MacBook Pro, $100 off iPad 10th Gen, more](https://appleinsider.com/articles/24/01/03/daily-deals-jan-3-40-off-ipad-pro-m1-max-macbook-pro-100-off-ipad-10th-gen-more?utm_medium=rss)
  - [Roku is getting serious about making TVs that look great](https://www.theverge.com/2024/1/3/24023732/roku-pro-tvs-smart-picture-features-specs-price)
  - [A look at the cottage industry of lawyers helping Amazon marketplace sellers reactivate their accounts after suspensions, as Amazon cracks down on millions &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240103/p17#a240103p17)
  - [Assassin’s Creed Valhalla and Resident Evil 2 hit Xbox Game Pass this month — but no Call of Duty yet](https://www.theverge.com/2024/1/3/24023670/xbox-game-pass-2024-assassins-creed-valhalla-resident-evil-2)
- - [How crowded are the oceans? New maps show what flew under the radar until now](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
- - [Premium smartphone market earned record sales in 2023](https://appleinsider.com/articles/24/01/03/premium-smartphone-market-earned-record-sales-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Can&#39;t Get Therapy? 4 Ways to Boost Your Mental Health Right Now for Free     - CNET](https://www.cnet.com/health/mental/cant-get-therapy-4-ways-to-boost-your-mental-health-right-now-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UK study of 7,000 people born between 2000 and 2002: 48% agreed with &quot;I think I am addicted to social media&quot;; 57% of girls agreed, compared to 37% of boys &lpar;Hannah Devlin/The Guardian&rpar;](http://www.techmeme.com/240103/p12#a240103p12)
  - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)
+ - [iOS 17: Play Your Daily Crossword Puzzle in the News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-play-your-daily-crossword-puzzle-in-the-news-app/#ftag=CAD590a51e)
  - [This Ultrasound Bra Could Detect Cancer Sooner](https://www.wired.com/story/ultrasound-bra-breast-cancer-detection/)
- - [Former NBA Star Rick Fox Is Making a Play for Carbon-Neutral Concrete](https://www.wired.com/story/former-nba-star-rick-fox-is-shooting-for-carbon-neutral-concrete/)
- - [Amazon UK will charge more for ad-free Prime Video from February](https://appleinsider.com/articles/24/01/03/amazon-uk-will-charge-more-for-ad-free-prime-video-from-february?utm_medium=rss)
- - [US federal prosecutors charge Tingo Group founder Mmobuosi Odogwu Banye with securities fraud in New York, accusing him of massively inflating Tingo&#39;s finances &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/240103/p11#a240103p11)<!-- TECH:END -->
+ - [Former NBA Star Rick Fox Is Making a Play for Carbon-Neutral Concrete](https://www.wired.com/story/former-nba-star-rick-fox-is-shooting-for-carbon-neutral-concrete/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

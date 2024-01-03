@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unlock high performance computing with an $1,100 discount on this 16-inch MacBook Pro](https://appleinsider.com/articles/24/01/03/unlock-high-performance-computing-with-an-1100-discount-on-this-16-inch-macbook-pro?utm_medium=rss)
  - [SpaceX launches its first six Starlink satellites capable of offering mobile phone service, as part of its Direct to Cell service with T-Mobile US &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/240103/p16#a240103p16)
  - [Intel forms Articul8 AI, an AI company with backing from DigitalBridge and others; executives did not give the deal&#39;s value or say if Intel had a majority stake &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240103/p15#a240103p15)
  - [Roku plans to launch its first high-end TVs in spring 2024, including the 55-inch, 65-inch, and 75-inch Pro Series for up to $1,500 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240103/p14#a240103p14)
- - [Mickey Mouse has left the house: Steamboat Willie enters the public domain](https://www.theverge.com/24023543/disney-mickey-mouse-steamboat-willie-public-domain)
- - [LG OLED TVs Promise Better Picture Thanks to AI Processing     - CNET](https://www.cnet.com/tech/home-entertainment/lg-oled-tvs-promise-better-picture-thanks-to-ai-processing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mickey Mouse has left the house: Steamboat Willie enters the public domain](https://www.theverge.com/24023543/disney-mickey-mouse-steamboat-willie-public-domain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

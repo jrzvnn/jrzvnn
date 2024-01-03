@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
- - 😝 [Milan last night. Zero Italians, zero women and zero tourists.](http://9gag.com/gag/aEq9Vvx)
- - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
+ - 😝 [She will regret this](http://9gag.com/gag/a8qR0z1)
+ - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

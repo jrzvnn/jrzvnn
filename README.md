@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
- - 😝 [That pice of junk in house that comes in handy.](http://9gag.com/gag/aREb26G)
- - 💣 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
- - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
- - 👉 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)<!-- MEMES:END -->
+ - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
 
 ---
 

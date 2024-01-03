@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a Chad](http://9gag.com/gag/a6q0DrR)
- - 😝 [Trap](http://9gag.com/gag/adPGn6B)
- - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [Change my mind](http://9gag.com/gag/aA086j0)
- - 👉 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)<!-- MEMES:END -->
+ - 😝 [Ah yes, the \u201cunauthorized activities\u201d.](http://9gag.com/gag/aQELAOK)
+ - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 💣 [A transformation is happening in El Salvador](http://9gag.com/gag/a1PyN3G)
+ - 😝 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - 👉 [JAL plane collision](http://9gag.com/gag/aZD68x6)<!-- MEMES:END -->
 
 ---
 

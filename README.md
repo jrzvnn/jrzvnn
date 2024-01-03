@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Want beach? Too bad, here shadow](http://9gag.com/gag/aMEoBNX)
+ - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
+ - 💣 [Better than the series](http://9gag.com/gag/axoLW7M)
  - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [Give me your best pethetic meme](http://9gag.com/gag/anzmnML)
- - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [Nope](http://9gag.com/gag/aDYK8Od)
- - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
+ - 👉 [Milan Italy, last night. Europe is dead.](http://9gag.com/gag/aqePX8j)<!-- MEMES:END -->
 
 ---
 

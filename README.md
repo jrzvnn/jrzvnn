@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 💣 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)
- - 👉 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
+ - 😝 [\u201cAnd that\u2019s how I met your mother\u201d](http://9gag.com/gag/aGEm8zn)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 💣 [Almost 3 yers later and this post stills haunts me. Hope this fallen brother found peace wherever he is](http://9gag.com/gag/aREb42A)
+ - 😝 [Just about 50% in additional fees for NYE dinner.](http://9gag.com/gag/a2K3wQw)
+ - 👉 [Change my mind](http://9gag.com/gag/aA086j0)<!-- MEMES:END -->
 
 ---
 

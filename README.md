@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Fitness+ launches new workouts and meditation for 2024](https://appleinsider.com/articles/24/01/04/apple-fitness-launches-new-workouts-and-meditation-for-2024?utm_medium=rss)
+ - [Sources: OpenAI offered some media companies as little as between $1M and $5M per year to license their news articles for use in model training, a tiny amount &lpar;The Information&rpar;](http://www.techmeme.com/240104/p18#a240104p18)
  - [Qualcomm announces Snapdragon XR2 Plus Gen 2, an update to the XR2 Gen 2 used in the Meta Quest 3, offering 4.3K resolution at 90fps per eye, up from 3K per eye &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240104/p17#a240104p17)
  - [A Gel Injected Into the Scrotum Could Be the Next Male Contraceptive](https://www.wired.com/story/male-contraceptive-contraline-vasalgel-hydrogel/)
- - [Qualcomm’s new XR chipset aims to compete with the Vision Pro](https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google)
- - [AI-improved Siri to launch at WWDC 2024, claims leaker](https://appleinsider.com/articles/24/01/04/ai-improved-siri-to-launch-at-wwdc-2024-claims-leaker?utm_medium=rss)
- - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm’s new XR chipset aims to compete with the Vision Pro](https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [A video segment of English television presenter Ross Kemp speaking with migrant men about rape is going viral on social media](http://9gag.com/gag/a2K329D)
  - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
+ - 💣 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
  - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
 
 ---

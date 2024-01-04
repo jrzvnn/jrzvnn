@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)
- - [Apple pulls iOS 17.3 Beta 2 after locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
- - [Sources: TikTok aims to grow TikTok Shop US&#39; merchandise volume tenfold to $17.5B in 2024 and plans to launch TikTok Shop in Latin America in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/240103/p25#a240103p25)
- - [Driver flees scene after Crash Detection alerts police](https://appleinsider.com/articles/24/01/03/driver-flees-scene-after-crash-detection-alerts-police?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [LG Will Bring 480Hz OLED QHD Screen to Gaming Monitors This Year     - CNET](https://www.cnet.com/tech/computing/lg-will-bring-480hz-oled-qhd-screen-to-gaming-monitors-this-year/#ftag=CAD590a51e)
+ - [LG just made the fastest OLED gaming display yet](https://www.theverge.com/2024/1/3/24024042/lg-display-oled-480hz-oled-gaming-monitor)
+ - [Paraffin Wax Machine     - CNET](https://www.cnet.com/health/personal-care/paraffin-wax-machine-dpnl/#ftag=CAD590a51e)
+ - [Cetaphil Body Moisturizer     - CNET](https://www.cnet.com/health/personal-care/cetaphil-body-moisturizer-dpnl/#ftag=CAD590a51e)
+ - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

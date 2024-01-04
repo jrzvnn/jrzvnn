@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 💣 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 😝 [Never learn](http://9gag.com/gag/aeQn2Gj)
+ - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 💣 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 😝 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
+ - 👉 [Nice..](http://9gag.com/gag/az2WZNb)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan can you stop for a minute? Damn. Bingo card making it an everyday card.](http://9gag.com/gag/aBdAXez)
- - 😝 [We want justice](http://9gag.com/gag/ay2b6Zq)
- - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
+ - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
 
 ---
 

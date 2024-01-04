@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Eufy SmartTrack Card review: A great Find My tracker for your wallet](https://appleinsider.com/articles/24/01/04/eufy-smarttrack-card-review-a-great-find-my-tracker-for-your-wallet?utm_medium=rss)
+ - [Best iPhone 15 Deals: Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [The CEO of collapsed crypto fund HyperVerse, introduced to investors in 2021, doesn&#39;t appear to exist; Chainalysis: HyperVerse&#39;s 2022 consumer losses were $1.3B &lpar;Sarah Martin/The Guardian&rpar;](http://www.techmeme.com/240103/p26#a240103p26)
- - [Best Apple Watch Ultra 2 and Ultra Deals: Save $50 on Ultra 2, $170 on Ultra and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
- - [Essential Oils Soap Set     - CNET](https://www.cnet.com/health/personal-care/essential-oils-soap-set-dpnl/#ftag=CAD590a51e)
- - [100% Pure Argan Oil     - CNET](https://www.cnet.com/health/personal-care/100-pure-argan-oil-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gold Bond Overnight     - CNET](https://www.cnet.com/health/personal-care/gold-bond-overnight-dpnl/#ftag=CAD590a51e)
+ - [LED Flame Humidifier/ Diffuser     - CNET](https://www.cnet.com/news/smart-humidifier-diffuser-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

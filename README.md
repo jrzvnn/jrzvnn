@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
+ - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
+ - 💣 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 ---
 

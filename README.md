@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
+ - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 💣 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
+ - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
 
 ---
 

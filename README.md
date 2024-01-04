@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unhealthy diet](http://9gag.com/gag/aPgE16V)
  - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 💣 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)
- - 😝 [Artificial `intelligence`](http://9gag.com/gag/adPGQAN)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 💣 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 👉 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)<!-- MEMES:END -->
 
 ---
 

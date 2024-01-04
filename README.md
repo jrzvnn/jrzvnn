@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)
- - [Ford raises — and lowers — prices on its F-150 Lightning pickups](https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024)
- - [Chinese Premier Li Qiang, the country&#39;s No. 2 official, visited YMTC&#39;s memory chip production lines, the latest show of support for the US-sanctioned company &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240104/p8#a240104p8)
- - [Research: deliberate internet shutdowns affected 747M people globally in 2023, costing $9.01B; Russia accounted for $4.02B; X was the most blocked platform &lpar;Top10VPN&rpar;](http://www.techmeme.com/240104/p7#a240104p7)
- - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)<!-- TECH:END -->
+ - [Layered Reality announces Elvis Evolution, an AI, AR, and holographic-based show, launching in London in 2024 before traveling to Las Vegas, Tokyo, and Berlin &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/240104/p10#a240104p10)
+ - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
+ - [My Parents’ Dementia Felt Like the End of Joy. Then Came the Robots](https://www.wired.com/parents-dementia-robots-warm-technology/)
+ - [Dell’s XPS laptop line up is about to look very different](https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops)
+ - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

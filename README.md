@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clicks brings a physical keyboard to your iPhone](https://appleinsider.com/articles/24/01/04/clicks-brings-a-physical-keyboard-to-your-iphone?utm_medium=rss)
  - [A California judge lets a suit against Snap from relatives of dead kids move forward, saying Section 230 doesn&#39;t apply because of disappearing messages and more &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240104/p26#a240104p26)
  - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
  - [Clicks is a BlackBerry-style iPhone keyboard case designed for creators](https://www.theverge.com/2024/1/4/24024957/clicks-iphone-keyboard-case-iphone-14-15-lightning-usb-c)
- - [M3 Ultra Mac Studio rumored to debut in mid-2024 -- without a Mac Pro](https://appleinsider.com/articles/24/01/04/m3-ultra-mac-studio-rumored-to-debut-in-mid-2024----without-a-mac-pro?utm_medium=rss)
- - [Amazon’s note-taking Kindle Scribe has fallen to one of its best prices to date](https://www.theverge.com/2024/1/4/24023130/kindle-scribe-apple-airpods-pro-usb-c-samsung-frame-tv-deal-sale)<!-- TECH:END -->
+ - [M3 Ultra Mac Studio rumored to debut in mid-2024 -- without a Mac Pro](https://appleinsider.com/articles/24/01/04/m3-ultra-mac-studio-rumored-to-debut-in-mid-2024----without-a-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

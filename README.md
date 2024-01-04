@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Man Who Made Robots Dance Now Wants Them to Think for Themselves](https://www.wired.com/story/boston-dynamics-institute-robots-marc-raibert/)
+ - [Route package data: Amazon had 29% of global online order volume in the two weeks before Christmas, up from 21% in the week of Thanksgiving and Black Friday &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240104/p22#a240104p22)
  - [ChatGPT, Copilot, and Bard: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Mobileye stock drops 25% after the self-driving tech company warned that customer orders may fall in Q1 as automakers stocked up during chip shortages &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240104/p21#a240104p21)
- - [Apple&#39;s suppliers have so far spent $16 billion to move from China](https://appleinsider.com/articles/24/01/04/apples-suppliers-have-so-far-spent-16-billion-to-move-from-china?utm_medium=rss)
- - [Razer updates Blade 16 and 18 with new displays](https://www.theverge.com/2024/1/4/24024217/razer-gaming-laptop-updates-blade-16-18-oled-4k-ces)
- - [Snag 3 Months of Apple Music for Free With This Limited-Time Offer     - CNET](https://www.cnet.com/deals/snag-3-months-of-apple-music-for-free-with-this-limited-time-offer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Space Heater Safety Guide: How to Run a Space Heater Without Risk of Fire     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-safely-run-your-space-heater/#ftag=CAD590a51e)
+ - [You Can Save 66% on B&amp;O&#39;s Beoplay Portal Headphones If You&#39;re Quick     - CNET](https://www.cnet.com/deals/you-can-save-66-on-b-os-beoplay-portal-headphones-if-youre-quick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

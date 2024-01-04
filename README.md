@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 💣 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [Trap](http://9gag.com/gag/adPGn6B)
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
  - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 ---

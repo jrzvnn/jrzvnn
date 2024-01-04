@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on generative AI moving from the cloud into mobile devices, AI changing the UX of smartphones, AI coming into VR, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240104/p4#a240104p4)
  - [PitchBook: VC investment in the US fell 30% YoY to $170.6B in 2023, lowest since 2019, and declined 35% YoY to $345.7B globally, lowest since 2017 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240104/p3#a240104p3)
  - [Q&amp;A with Jacob Bakkila, who ran the popular @Horse_ebooks Twitter account for two years, on the inspiration for the language bot, AI chatbots, and more &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240104/p2#a240104p2)
  - [Tencent bought back a record $1.3B of shares in December as China&#39;s gaming rules triggered a selloff; daily buybacks more than doubled since December 22, 2023 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240104/p1#a240104p1)
- - [Eufy SmartTrack Card review: A great Find My tracker for your wallet](https://appleinsider.com/articles/24/01/04/eufy-smarttrack-card-review-a-great-find-my-tracker-for-your-wallet?utm_medium=rss)
- - [Best iPhone 15 Deals: Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eufy SmartTrack Card review: A great Find My tracker for your wallet](https://appleinsider.com/articles/24/01/04/eufy-smarttrack-card-review-a-great-find-my-tracker-for-your-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

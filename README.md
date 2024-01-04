@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 💣 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 😝 [There it is](http://9gag.com/gag/aQEL25r)
+ - 💣 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
  - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
+ - 👉 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)<!-- MEMES:END -->
 
 ---
 

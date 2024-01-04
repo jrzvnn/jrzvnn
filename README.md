@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)
+ - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
+ - [Using a Galaxy Z Flip 5 as a minimalist phone](https://www.theverge.com/24024002/samsung-galaxy-z-flip-5-minimalist-phone)
  - [&#39;Killers of the Flower Moon&#39; streams on Apple TV+ very soon](https://appleinsider.com/articles/24/01/04/killers-of-the-flower-moon-streams-on-apple-tv-very-soon?utm_medium=rss)
- - [As Google restricts third-party cookies for 1% of Chrome users, marketers, adtech companies, and publishers say Google has not done enough to prepare the market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240104/p19#a240104p19)
- - [Apple Fitness+ launches new workouts and meditation for 2024](https://appleinsider.com/articles/24/01/04/apple-fitness-launches-new-workouts-and-meditation-for-2024?utm_medium=rss)
- - [Buy a Costco membership this week &amp; score a free gift card valued up to $40](https://appleinsider.com/articles/24/01/04/buy-a-costco-membership-this-week-score-a-free-gift-card-valued-up-to-40?utm_medium=rss)
- - [Killers of the Flower Moon starts streaming on Apple TV Plus next week](https://www.theverge.com/2024/1/4/23993356/killers-of-the-flower-moon-apple-tv-plus-streaming-date)<!-- TECH:END -->
+ - [As Google restricts third-party cookies for 1% of Chrome users, marketers, adtech companies, and publishers say Google has not done enough to prepare the market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240104/p19#a240104p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

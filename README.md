@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [GroupM forms a consortium with Disney, Roku, NBCU, YouTube, and others to push for standardized measurements and ad formats that can be used across streamers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240104/p20#a240104p20)
  - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)
  - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
- - [Using a Galaxy Z Flip 5 as a minimalist phone](https://www.theverge.com/24024002/samsung-galaxy-z-flip-5-minimalist-phone)
- - [&#39;Killers of the Flower Moon&#39; streams on Apple TV+ very soon](https://appleinsider.com/articles/24/01/04/killers-of-the-flower-moon-streams-on-apple-tv-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Still Not Sure What an Air Fryer Is? Here&#39;s Everything You Need to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/a-complete-guide-to-air-fryers/#ftag=CAD590a51e)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

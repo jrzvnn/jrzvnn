@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://www.theverge.com/2024/1/4/24025535/google-ai-robot-constitution-autort-deepmind-three-laws)
- - [Best Coffee Maker Deals Right Now: Get Your Fix for as Low as $20     - CNET](https://www.cnet.com/deals/best-coffee-maker-deals/#ftag=CAD590a51e)
  - [Hackers are hijacking X accounts of governments and businesses marked with gold and gray checkmarks, including Google&#39;s Mandiant, to promote crypto scams &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p29#a240104p29)
  - [OpenAI will open its custom ChatGPT store next week](https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay)
- - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)<!-- TECH:END -->
+ - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)
+ - [Display More of Your Favorite Photos with Aura Frames&#39; Buy Two, Save $15 Sale     - CNET](https://www.cnet.com/deals/aura-smart-picture-frames-buy-two-get-15-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

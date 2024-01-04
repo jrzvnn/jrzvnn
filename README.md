@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)
+ - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 😝 [I&#39;ll just leave this here...](http://9gag.com/gag/a8qR2Ze)
+ - 💣 [At least he tried](http://9gag.com/gag/a3Z6211)
  - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 💣 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 😝 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
+ - 👉 [Never learn](http://9gag.com/gag/aeQn2Gj)<!-- MEMES:END -->
 
 ---
 

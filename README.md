@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [To Beat Russia, Ukraine Needs a Major Tech Breakthrough](https://www.wired.com/story/ukraine-russia-future-war-tech/)
  - [Google appears to be working on an ‘advanced’ version of Bard that you have to pay for](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription)
  - [Software design pioneer and Pascal creator Niklaus Wirth, who devised nine programming languages and won the Turing Award in 1984, dies at 89 &lpar;Liam Proven/The Register&rpar;](http://www.techmeme.com/240104/p24#a240104p24)
- - [You can get $50 in Samsung credit when you reserve a Galaxy S24 phone](https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone)
- - [How to quickly share &amp; manage file paths in macOS Finder](https://appleinsider.com/articles/24/01/04/how-to-quickly-share-manage-file-paths-in-macos-finder?utm_medium=rss)<!-- TECH:END -->
+ - [New Physical Keyboard Case Brings iPhones Back to BlackBerry&#39;s Glory Days     - CNET](https://www.cnet.com/tech/mobile/new-physical-keyboard-case-brings-iphones-back-to-blackberrys-glory-days/#ftag=CAD590a51e)
+ - [Compare 15-Year Mortgage Rates for January 2024     - CNET](https://www.cnet.com/personal-finance/15-year-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

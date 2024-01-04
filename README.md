@@ -161,10 +161,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kim Kardashian says her Glu Mobile-developed game, Kim Kardashian: Hollywood, will shut down on April 8; between 2014 and 2016, the game made $156M in sales &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240104/p15#a240104p15)
  - [Apple stock takes another hit, as Piper Sandler downgrades to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
  - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)
  - [The Biden administration awards $162M in federal grants to Arizona-based Microchip Technology to expand in Oregon and Colorado, the second CHIPS Act award &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/240104/p13#a240104p13)
- - [New Year, New Games. Check Out the Latest Apple Arcade Titles     - CNET](https://www.cnet.com/tech/gaming/new-year-new-games-check-out-the-latest-apple-arcade-titles/#ftag=CAD590a51e)
  - [As Robotaxis Hit City Streets, Local Officials Often Have Little Power Over Them](https://www.wired.com/story/robotaxis-cities-cruise-waymo-officials-regulation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

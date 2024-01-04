@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
+ - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
  - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
 
 ---
 

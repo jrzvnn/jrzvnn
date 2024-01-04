@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)
+ - [Ford raises — and lowers — prices on its F-150 Lightning pickups](https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024)
  - [Chinese Premier Li Qiang, the country&#39;s No. 2 official, visited YMTC&#39;s memory chip production lines, the latest show of support for the US-sanctioned company &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240104/p8#a240104p8)
  - [Research: deliberate internet shutdowns affected 747M people globally in 2023, costing $9.01B; Russia accounted for $4.02B; X was the most blocked platform &lpar;Top10VPN&rpar;](http://www.techmeme.com/240104/p7#a240104p7)
- - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)
- - [Catch a Deal or Two With These End-of-Year Sales on Fashion, Tech and More     - CNET](https://www.cnet.com/deals/catch-a-deal-or-two-with-these-end-of-year-sales-on-fashion-tech-and-more/#ftag=CAD590a51e)
- - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)<!-- TECH:END -->
+ - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

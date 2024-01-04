@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
- - 💣 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
+ - 😝 [Unhealthy diet](http://9gag.com/gag/aPgE16V)
+ - 😝 [One for the autistic audience](http://9gag.com/gag/ay2b1vW)
+ - 💣 [Now let&#39;s see their reaction again](http://9gag.com/gag/a8qRwPd)
+ - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
 
 ---
 

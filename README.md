@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
- - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
+ - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
+ - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 👉 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)<!-- MEMES:END -->
 
 ---
 

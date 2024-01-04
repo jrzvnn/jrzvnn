@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 😝 [I&#39;ll just leave this here...](http://9gag.com/gag/a8qR2Ze)
- - 💣 [At least he tried](http://9gag.com/gag/a3Z6211)
- - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 👉 [Never learn](http://9gag.com/gag/aeQn2Gj)<!-- MEMES:END -->
+ - 😝 [Japan can you stop for a minute? Damn. Bingo card making it an everyday card.](http://9gag.com/gag/aBdAXez)
+ - 😝 [We want justice](http://9gag.com/gag/ay2b6Zq)
+ - 💣 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 ---
 

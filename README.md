@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To Beat Russia, Ukraine Needs a Major Tech Breakthrough](https://www.wired.com/story/ukraine-russia-future-war-tech/)
+ - [Google appears to be working on an ‘advanced’ version of Bard that you have to pay for](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription)
+ - [Software design pioneer and Pascal creator Niklaus Wirth, who devised nine programming languages and won the Turing Award in 1984, dies at 89 &lpar;Liam Proven/The Register&rpar;](http://www.techmeme.com/240104/p24#a240104p24)
  - [You can get $50 in Samsung credit when you reserve a Galaxy S24 phone](https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone)
- - [How to quickly share &amp; manage file paths in macOS Finder](https://appleinsider.com/articles/24/01/04/how-to-quickly-share-manage-file-paths-in-macos-finder?utm_medium=rss)
- - [The US NLRB rules that Alphabet illegally refused to negotiate with a group of YouTube Music contract workers working at Cognizant after they voted to unionize &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240104/p23#a240104p23)
- - [The Man Who Made Robots Dance Now Wants Them to Think for Themselves](https://www.wired.com/story/boston-dynamics-institute-robots-marc-raibert/)
- - [Route package data: Amazon had 29% of global online order volume in the two weeks before Christmas, up from 21% in the week of Thanksgiving and Black Friday &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240104/p22#a240104p22)<!-- TECH:END -->
+ - [How to quickly share &amp; manage file paths in macOS Finder](https://appleinsider.com/articles/24/01/04/how-to-quickly-share-manage-file-paths-in-macos-finder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

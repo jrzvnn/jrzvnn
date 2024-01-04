@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 😝 [Name this band..](http://9gag.com/gag/avQM6rZ)
- - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
- - 👉 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)<!-- MEMES:END -->
+ - 😝 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [Chat gpt professor](http://9gag.com/gag/abvNW9B)
+ - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 ---
 

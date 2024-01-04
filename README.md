@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kim Kardashian says her Glu Mobile-developed game, Kim Kardashian: Hollywood, will shut down on April 8; between 2014 and 2016, the game made $156M in sales &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240104/p15#a240104p15)
- - [Apple stock takes another hit, as Piper Sandler downgrades to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
- - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)
- - [The Biden administration awards $162M in federal grants to Arizona-based Microchip Technology to expand in Oregon and Colorado, the second CHIPS Act award &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/240104/p13#a240104p13)
- - [As Robotaxis Hit City Streets, Local Officials Often Have Little Power Over Them](https://www.wired.com/story/robotaxis-cities-cruise-waymo-officials-regulation/)<!-- TECH:END -->
+ - [SteamDB: developers released a record 14,531 game titles on Valve&#39;s Steam in 2023, or around 40 per day, breaking 2022&#39;s record by just under 2,000 games &lpar;Ali Jones/GamesRadar&rpar;](http://www.techmeme.com/240104/p16#a240104p16)
+ - [Apple&#39;s rumored buy of Peloton ignores giant factors weighing against it](https://appleinsider.com/articles/24/01/04/apples-rumored-buy-of-peloton-ignores-giant-factors-weighing-against-it?utm_medium=rss)
+ - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
+ - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)
+ - [New iPhone? How to Activate a New SIM Card in 5 Easy Steps     - CNET](https://www.cnet.com/tech/mobile/new-iphone-how-to-activate-a-new-sim-card-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

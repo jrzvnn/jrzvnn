@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)
- - [SteamDB: developers released a record 14,531 game titles on Valve&#39;s Steam in 2023, or around 40 per day, breaking 2022&#39;s record by just under 2,000 games &lpar;Ali Jones/GamesRadar&rpar;](http://www.techmeme.com/240104/p16#a240104p16)
- - [Apple&#39;s rumored buy of Peloton ignores giant factors weighing against it](https://appleinsider.com/articles/24/01/04/apples-rumored-buy-of-peloton-ignores-giant-factors-weighing-against-it?utm_medium=rss)
- - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
- - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qualcomm announces Snapdragon XR2 Plus Gen 2, an update to the XR2 Gen 2 used in the Meta Quest 3, offering 4.3K resolution at 90fps per eye, up from 3K per eye &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240104/p17#a240104p17)
+ - [A Gel Injected Into the Scrotum Could Be the Next Male Contraceptive](https://www.wired.com/story/male-contraceptive-contraline-vasalgel-hydrogel/)
+ - [Qualcomm’s new XR chipset aims to compete with the Vision Pro](https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google)
+ - [AI-improved Siri to launch at WWDC 2024, claims leaker](https://appleinsider.com/articles/24/01/04/ai-improved-siri-to-launch-at-wwdc-2024-claims-leaker?utm_medium=rss)
+ - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

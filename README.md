@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock takes another hit, as Piper Sandler downgrades to neutral](https://appleinsider.com/articles/24/01/04/apple-stock-takes-another-hit-as-piper-sandler-downgrades-stock-to-neutral?utm_medium=rss)
+ - [Intel appoints HPE executive Justin Hotard to lead its data center and AI group, a crucial unit to its turnaround, replacing veteran Sandra Rivera on February 1 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240104/p14#a240104p14)
  - [The Biden administration awards $162M in federal grants to Arizona-based Microchip Technology to expand in Oregon and Colorado, the second CHIPS Act award &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/240104/p13#a240104p13)
- - [As Robotaxis Hit City Streets, Local Officials Often Have Little Power Over Them](https://www.wired.com/story/robotaxis-cities-cruise-waymo-officials-regulation/)
- - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
- - [Apple moves to settle gift card scam lawsuit](https://appleinsider.com/articles/24/01/04/apple-moves-to-settle-gift-card-scam-lawsuit?utm_medium=rss)
- - [One of Dell&#39;s new Thunderbolt monitors is aimed right at Apple&#39;s Studio Display](https://appleinsider.com/articles/24/01/04/one-of-dells-new-thunderbolt-monitors-is-aimed-right-at-apples-studio-display?utm_medium=rss)<!-- TECH:END -->
+ - [New Year, New Games. Check Out the Latest Apple Arcade Titles     - CNET](https://www.cnet.com/tech/gaming/new-year-new-games-check-out-the-latest-apple-arcade-titles/#ftag=CAD590a51e)
+ - [As Robotaxis Hit City Streets, Local Officials Often Have Little Power Over Them](https://www.wired.com/story/robotaxis-cities-cruise-waymo-officials-regulation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese Premier Li Qiang, the country&#39;s No. 2 official, visited YMTC&#39;s memory chip production lines, the latest show of support for the US-sanctioned company &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240104/p8#a240104p8)
  - [Research: deliberate internet shutdowns affected 747M people globally in 2023, costing $9.01B; Russia accounted for $4.02B; X was the most blocked platform &lpar;Top10VPN&rpar;](http://www.techmeme.com/240104/p7#a240104p7)
  - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)
- - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)
- - [Microsoft announces a new Copilot keyboard key, shipping in new PCs and laptops from partners, the first major change to Windows PC keyboard layouts in 30 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240104/p5#a240104p5)
- - [The Xbox Series S toaster is real](https://www.theverge.com/2024/1/4/24024939/xbox-series-s-toaster-bread-xbox-logo)<!-- TECH:END -->
+ - [Catch a Deal or Two With These End-of-Year Sales on Fashion, Tech and More     - CNET](https://www.cnet.com/deals/catch-a-deal-or-two-with-these-end-of-year-sales-on-fashion-tech-and-more/#ftag=CAD590a51e)
+ - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

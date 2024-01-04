@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 💣 [Social Experiment](http://9gag.com/gag/a04rnqX)
  - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
+ - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
 
 ---
 

@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Hackers are hijacking X accounts of governments and businesses marked with gold and gray checkmarks, including Google&#39;s Mandiant, to promote crypto scams &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p29#a240104p29)
  - [OpenAI will open its custom ChatGPT store next week](https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay)
  - [The European Central Bank plans to award &amp;euro;1.3B in contracts to help develop a digital euro; Amazon was selected in the past to help design the CBDC prototype &lpar;Inbar Preiss/DL News&rpar;](http://www.techmeme.com/240104/p28#a240104p28)
- - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [A look at the current AI philosophy landscape, with existential pessimism and accelerationism, and the need for a balanced, enterprising optimism as a third way &lpar;Brendan McCord/Cosmos Institute&rpar;](http://www.techmeme.com/240104/p27#a240104p27)<!-- TECH:END -->
+ - [Display More of Your Favorite Photos with Aura Frames&#39; Buy Two, Save $15 Sale     - CNET](https://www.cnet.com/deals/aura-smart-picture-frames-buy-two-get-15-off/#ftag=CAD590a51e)
+ - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

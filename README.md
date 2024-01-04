@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To Beat Russia, Ukraine Needs a Major Tech Breakthrough](https://www.wired.com/story/ukraine-russia-future-war-tech/)
- - [Google appears to be working on an ‘advanced’ version of Bard that you have to pay for](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription)
- - [Software design pioneer and Pascal creator Niklaus Wirth, who devised nine programming languages and won the Turing Award in 1984, dies at 89 &lpar;Liam Proven/The Register&rpar;](http://www.techmeme.com/240104/p24#a240104p24)
- - [New Physical Keyboard Case Brings iPhones Back to BlackBerry&#39;s Glory Days     - CNET](https://www.cnet.com/tech/mobile/new-physical-keyboard-case-brings-iphones-back-to-blackberrys-glory-days/#ftag=CAD590a51e)
- - [Compare 15-Year Mortgage Rates for January 2024     - CNET](https://www.cnet.com/personal-finance/15-year-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first US commercial-scale offshore wind farm is live, but the industry faces strong headwinds](https://www.theverge.com/2024/1/4/24025186/offshore-wind-joe-biden-climate-clean-energy-vineyard)
+ - [Memo: OpenAI plans to launch its GPT store next week; the store was originally slated to open in November, but it was delayed after OpenAI&#39;s leadership crisis &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240104/p25#a240104p25)
+ - [Clicks is a BlackBerry-style iPhone keyboard case designed for creators](https://www.theverge.com/2024/1/4/24024957/clicks-iphone-keyboard-case-iphone-14-15-lightning-usb-c)
+ - [SEC denies Apple&#39;s bid to stop shareholders questioning its use of AI](https://appleinsider.com/articles/24/01/04/sec-denies-apples-bid-to-stop-shareholders-questioning-its-use-of-ai?utm_medium=rss)
+ - [To Beat Russia, Ukraine Needs a Major Tech Breakthrough](https://www.wired.com/story/ukraine-russia-future-war-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

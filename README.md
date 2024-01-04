@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
  - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
  - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 👉 [Egg](http://9gag.com/gag/aGEmAgn)<!-- MEMES:END -->
+ - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
+ - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
 
 ---
 

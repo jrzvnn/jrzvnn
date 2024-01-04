@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell announces the $1,299+ XPS 13, the $1,699+ XPS 14, replacing the XPS 13 Plus, and the $1,899+ XPS 16, offering Intel Core 7 and 9 and up to 4TB of storage &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/240104/p11#a240104p11)
  - [Layered Reality announces Elvis Evolution, an AI, AR, and holographic-based show, launching in London in 2024 before traveling to Las Vegas, Tokyo, and Berlin &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/240104/p10#a240104p10)
  - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
  - [My Parents’ Dementia Felt Like the End of Joy. Then Came the Robots](https://www.wired.com/parents-dementia-robots-warm-technology/)
- - [Dell’s XPS laptop line up is about to look very different](https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops)
- - [LastPass now requires users to set a complex master password with a minimum of 12 characters; users have been able to set a weaker master password since 2018 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240104/p9#a240104p9)<!-- TECH:END -->
+ - [Dell’s XPS laptop line up is about to look very different](https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

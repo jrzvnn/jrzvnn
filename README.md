@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 💣 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
+ - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 💣 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
+ - 😝 [Never learn](http://9gag.com/gag/aeQn2Gj)
+ - 👉 [At least he tried](http://9gag.com/gag/a3Z6211)<!-- MEMES:END -->
 
 ---
 

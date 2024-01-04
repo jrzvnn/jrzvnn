@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 😝 [There it is](http://9gag.com/gag/aQEL25r)
- - 💣 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
- - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 👉 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)<!-- MEMES:END -->
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 💣 [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
 
 ---
 

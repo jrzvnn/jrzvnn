@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge denies Apple a sanction it demanded on patent troll&#39;s lawyer](https://appleinsider.com/articles/24/01/04/judge-denies-apple-a-sanction-it-demanded-on-patent-trolls-lawyer?utm_medium=rss)
+ - [Apple pulls iOS 17.3 Beta 2 after locking up iPhones for some users](https://appleinsider.com/articles/24/01/03/ios-173-beta-2-locking-up-iphones-for-some-users?utm_medium=rss)
+ - [Sources: TikTok aims to grow TikTok Shop US&#39; merchandise volume tenfold to $17.5B in 2024 and plans to launch TikTok Shop in Latin America in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/240103/p25#a240103p25)
  - [Driver flees scene after Crash Detection alerts police](https://appleinsider.com/articles/24/01/03/driver-flees-scene-after-crash-detection-alerts-police?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best Smart Home Deals for the New Year: Save on Smart Bulbs, Plugs, Speakers &amp; More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Best Apple TV Deals: Save on Streaming Boxes and Remotes     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Myrtle Beach, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

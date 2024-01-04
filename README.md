@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
  - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 💣 [Disney has announced that the next Star Wars movie will be made by Obaid-Chinoy, a Canadian-Pakistani feminist. Here she is saying that her goal is to \u201cmake men uncomfortable.\u201d I cannot wait for the movie to flop and her blaming it on men.](http://9gag.com/gag/aGEmA7w)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
 
 ---
 

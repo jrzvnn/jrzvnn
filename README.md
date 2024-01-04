@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [This is a great idea](http://9gag.com/gag/armQA3B)
- - 💣 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 😝 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 👉 [Wild wanker](http://9gag.com/gag/awZEdmx)<!-- MEMES:END -->
+ - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
+ - 💣 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
+ - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
+ - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why was one of the biggest law podcasts shut down?](https://www.theverge.com/2024/1/4/24025899/legal-podcast-pro-say-law-360-she-hulk-cancel)
+ - [Samsung and Hyundai are teaming up to add SmartThings to cars](https://www.theverge.com/2024/1/4/24025674/samsung-hyundai-kia-smartthings-cars)
  - [DeepMind Robotics researchers outline new methods for training robots, like AutoRT, which can leverage a visual language model for better situational awareness &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240104/p30#a240104p30)
  - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
- - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
- - [Best 3D Printer Deals: Save Up to $388 on Elegoo, Creality, Anycubic and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://www.theverge.com/2024/1/4/24025535/google-ai-robot-constitution-autort-deepmind-three-laws)<!-- TECH:END -->
+ - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

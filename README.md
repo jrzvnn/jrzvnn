@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Dell&#39;s new Thunderbolt monitors is aimed right at Apple&#39;s Studio Display](https://appleinsider.com/articles/24/01/04/one-of-dells-new-thunderbolt-monitors-is-aimed-right-at-apples-studio-display?utm_medium=rss)
- - [Perplexity, which offers an AI-based &quot;answer engine&quot; used by 10M to compete with Google, raised $74M at a $520M valuation from IVP, Jeff Bezos, and others &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/240104/p12#a240104p12)
- - [Dell announces the $1,299+ XPS 13, the $1,699+ XPS 14, replacing the XPS 13 Plus, and the $1,899+ XPS 16, offering Intel Core 7 and 9 and up to 4TB of storage &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/240104/p11#a240104p11)
- - [Layered Reality announces Elvis Evolution, an AI, AR, and holographic-based show, launching in London in 2024 before traveling to Las Vegas, Tokyo, and Berlin &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/240104/p10#a240104p10)
- - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [The Biden administration awards $162M in federal grants to Arizona-based Microchip Technology to expand in Oregon and Colorado, the second CHIPS Act award &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/240104/p13#a240104p13)
+ - [As Robotaxis Hit City Streets, Local Officials Often Have Little Power Over Them](https://www.wired.com/story/robotaxis-cities-cruise-waymo-officials-regulation/)
+ - [iPhone 17&#39;s front camera will be upgraded to 24MP, says Kuo](https://appleinsider.com/articles/24/01/04/iphone-17s-front-camera-will-be-upgraded-to-24mp-says-kuo?utm_medium=rss)
+ - [Apple moves to settle gift card scam lawsuit](https://appleinsider.com/articles/24/01/04/apple-moves-to-settle-gift-card-scam-lawsuit?utm_medium=rss)
+ - [One of Dell&#39;s new Thunderbolt monitors is aimed right at Apple&#39;s Studio Display](https://appleinsider.com/articles/24/01/04/one-of-dells-new-thunderbolt-monitors-is-aimed-right-at-apples-studio-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

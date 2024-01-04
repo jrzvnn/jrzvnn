@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to do if your iPhone 15 is peeling on the edge of the back glass](https://appleinsider.com/articles/24/01/04/what-to-do-if-your-iphone-15-is-peeling-on-the-edge-of-the-back-glass?utm_medium=rss)
  - [SteamDB: developers released a record 14,531 game titles on Valve&#39;s Steam in 2023, or around 40 per day, breaking 2022&#39;s record by just under 2,000 games &lpar;Ali Jones/GamesRadar&rpar;](http://www.techmeme.com/240104/p16#a240104p16)
  - [Apple&#39;s rumored buy of Peloton ignores giant factors weighing against it](https://appleinsider.com/articles/24/01/04/apples-rumored-buy-of-peloton-ignores-giant-factors-weighing-against-it?utm_medium=rss)
  - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
- - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)
- - [New iPhone? How to Activate a New SIM Card in 5 Easy Steps     - CNET](https://www.cnet.com/tech/mobile/new-iphone-how-to-activate-a-new-sim-card-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 😝 [They never learn\u2026. Biggest flop incoming](http://9gag.com/gag/a5XOj0G)
- - 👉 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)<!-- MEMES:END -->
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 😝 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
+ - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
+ - 👉 [Nice..](http://9gag.com/gag/az2WZNb)<!-- MEMES:END -->
 
 ---
 

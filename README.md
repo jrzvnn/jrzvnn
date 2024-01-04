@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 years ago I would have told you that all races and religions are equal, and can work together. Today I&#39;m convinced that unity is an unobtainable dream.](http://9gag.com/gag/a7qY2Ke)
  - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 💣 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
- - 😝 [Never learn](http://9gag.com/gag/aeQn2Gj)
- - 👉 [At least he tried](http://9gag.com/gag/a3Z6211)<!-- MEMES:END -->
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
+ - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
 
 ---
 

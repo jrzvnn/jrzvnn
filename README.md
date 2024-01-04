@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US NLRB rules that Alphabet illegally refused to negotiate with a group of YouTube Music contract workers working at Cognizant after they voted to unionize &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240104/p23#a240104p23)
  - [The Man Who Made Robots Dance Now Wants Them to Think for Themselves](https://www.wired.com/story/boston-dynamics-institute-robots-marc-raibert/)
  - [Route package data: Amazon had 29% of global online order volume in the two weeks before Christmas, up from 21% in the week of Thanksgiving and Black Friday &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240104/p22#a240104p22)
  - [ChatGPT, Copilot, and Bard: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Space Heater Safety Guide: How to Run a Space Heater Without Risk of Fire     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-safely-run-your-space-heater/#ftag=CAD590a51e)
- - [You Can Save 66% on B&amp;O&#39;s Beoplay Portal Headphones If You&#39;re Quick     - CNET](https://www.cnet.com/deals/you-can-save-66-on-b-os-beoplay-portal-headphones-if-youre-quick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Space Heater Safety Guide: How to Run a Space Heater Without Risk of Fire     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-safely-run-your-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s trade ministry says the electronics sector drew $3B in foreign direct investment in 2023; the country is building a chip cluster south of Seoul &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240104/p6#a240104p6)
  - [Dell’s new 120Hz ultrawide monitors max out at 40 inches and 5K](https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features)
  - [Microsoft announces a new Copilot keyboard key, shipping in new PCs and laptops from partners, the first major change to Windows PC keyboard layouts in 30 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240104/p5#a240104p5)
  - [The Xbox Series S toaster is real](https://www.theverge.com/2024/1/4/24024939/xbox-series-s-toaster-bread-xbox-logo)
- - [Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs)
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on generative AI moving from the cloud into mobile devices, AI changing the UX of smartphones, AI coming into VR, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240104/p4#a240104p4)<!-- TECH:END -->
+ - [Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

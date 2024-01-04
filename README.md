@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 😝 [Programmers competing to make the worst volume slider of all time &lpar;3:39&rpar;](http://9gag.com/gag/aPgEo0g)
- - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 👉 [Nice..](http://9gag.com/gag/az2WZNb)<!-- MEMES:END -->
+ - 😝 [He felt happiness for 10 seconds](http://9gag.com/gag/adPGxeV)
+ - 😝 [Wild wanker](http://9gag.com/gag/awZEdmx)
+ - 💣 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 👉 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)<!-- MEMES:END -->
 
 ---
 

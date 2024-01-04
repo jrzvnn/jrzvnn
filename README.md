@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mobileye stock drops 25% after the self-driving tech company warned that customer orders may fall in Q1 as automakers stocked up during chip shortages &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240104/p21#a240104p21)
+ - [Apple&#39;s suppliers have so far spent $16 billion to move from China](https://appleinsider.com/articles/24/01/04/apples-suppliers-have-so-far-spent-16-billion-to-move-from-china?utm_medium=rss)
+ - [Razer updates Blade 16 and 18 with new displays](https://www.theverge.com/2024/1/4/24024217/razer-gaming-laptop-updates-blade-16-18-oled-4k-ces)
  - [GroupM forms a consortium with Disney, Roku, NBCU, YouTube, and others to push for standardized measurements and ad formats that can be used across streamers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240104/p20#a240104p20)
- - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)
- - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
- - [Still Not Sure What an Air Fryer Is? Here&#39;s Everything You Need to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/a-complete-guide-to-air-fryers/#ftag=CAD590a51e)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Jan. 4: $399 iPad Pro, $749 MacBook Air, $60 off AirPods Pro, $189 Google Nest Hub Max, more](https://appleinsider.com/articles/24/01/04/daily-deals-jan-4-399-ipad-pro-749-macbook-air-60-off-airpods-pro-189-google-nest-hub-max-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

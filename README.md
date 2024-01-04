@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI reportedly lowballing news partners for licensed data](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright)
+ - [A look at the current AI philosophy landscape, with existential pessimism and accelerationism, and the need for a balanced, enterprising optimism as a third way &lpar;Brendan McCord/Cosmos Institute&rpar;](http://www.techmeme.com/240104/p27#a240104p27)
+ - [OpenAI’s news publisher deals reportedly top out at $5 million a year](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright)
  - [Clicks brings a physical keyboard to your iPhone](https://appleinsider.com/articles/24/01/04/clicks-brings-a-physical-keyboard-to-your-iphone?utm_medium=rss)
  - [A California judge lets a suit against Snap from relatives of dead kids move forward, saying Section 230 doesn&#39;t apply because of disappearing messages and more &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240104/p26#a240104p26)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
- - [Clicks is a BlackBerry-style iPhone keyboard case designed for creators](https://www.theverge.com/2024/1/4/24024957/clicks-iphone-keyboard-case-iphone-14-15-lightning-usb-c)<!-- TECH:END -->
+ - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

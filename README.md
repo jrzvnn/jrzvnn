@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But friend shape..](http://9gag.com/gag/aGEmAG5)
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 💣 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 😝 [Social Experiment](http://9gag.com/gag/a04rnqX)
- - 👉 [It\u2019s here\u2026.](http://9gag.com/gag/agoD79W)<!-- MEMES:END -->
+ - 😝 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 💣 [I think I downloaded the wrong Skyrim](http://9gag.com/gag/aDYK8Vw)
+ - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - 👉 [Social Experiment](http://9gag.com/gag/a04rnqX)<!-- MEMES:END -->
 
 ---
 

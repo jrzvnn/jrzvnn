@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2023 and the 2024 Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/05/apples-2023-and-the-2024-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Qi2 Wireless Charging: Everything You Need to Know](https://www.wired.com/story/what-is-qi2-wireless-charging/)
+ - [EU antitrust chief to meet with Tim Cook to discuss fines and regulation](https://appleinsider.com/articles/24/01/05/eu-antitrust-chief-to-meet-with-tim-cook-to-discuss-fines-and-regulation?utm_medium=rss)
  - [Samsung debuts Designed for Samsung Gaming Hub accessories for the cloud Gaming Hub on its smart TVs, including a new controller from PDP &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240105/p7#a240105p7)
- - [MSI’s Steam Deck competitor has leaked, and it’s powered by an Intel Meteor Lake chip](https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024)
- - [Not all financial predictions for Apple&#39;s holiday quarter are doom and gloom](https://appleinsider.com/articles/24/01/05/not-all-financial-predictions-for-apples-holiday-quarter-are-doom-and-gloom?utm_medium=rss)
- - [Memo: Coatue closes its European office in London two years after it opened to &quot;streamline&quot; its investing and prioritize domain expertise over regional coverage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p6#a240105p6)
- - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)<!-- TECH:END -->
+ - [MSI’s Steam Deck competitor has leaked, and it’s powered by an Intel Meteor Lake chip](https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

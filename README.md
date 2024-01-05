@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Design software company InVision, once valued at $2B, plans to shut down at the end of 2024, after raising $350M+ from Goldman Sachs, Spark Capital, and others &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/240104/p32#a240104p32)
  - [Google broke labor laws when it refused to bargain with YouTube Music contract workers](https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union)
  - [Tesla’s first smart home partner is Samsung SmartThings](https://www.theverge.com/2024/1/4/24026070/tesla-smart-home-samsung-smartthings-energy)
  - [The Best Fitness Gifts for Every Kind of Exercise Enthusiast     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
- - [Adobe: US online holiday sales between November 1 and December 31, 2023, reached a record $222.1B, up 4.9% YoY; BNPL contributed a record $16.6B, up 14% YoY &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240104/p31#a240104p31)
- - [Handheld Clothes Steamer     - CNET](https://www.cnet.com/news/handheld-clothes-steamer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe: US online holiday sales between November 1 and December 31, 2023, reached a record $222.1B, up 4.9% YoY; BNPL contributed a record $16.6B, up 14% YoY &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240104/p31#a240104p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

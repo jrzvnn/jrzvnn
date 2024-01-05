@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
+ - 😝 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 💣 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
+ - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 👉 [Amusement park hack.](http://9gag.com/gag/aNw7qow)<!-- MEMES:END -->
 
 ---
 

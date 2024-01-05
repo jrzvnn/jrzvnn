@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monarch: Legacy of Monsters’ new titans were inspired by the weird, freakiness of nature](https://www.theverge.com/23993939/monarch-legacy-of-monsters-sean-konrad)
+ - [Incase partners with Microsoft to sell PC accessories, which Microsoft stopped making in 2022; products will include ones Microsoft designed but never shipped &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240105/p8#a240105p8)
  - [Daily deals Dec. 5: $700 off 27&quot; iMac, Mac Studio for $1,499, 512GB Mac mini $499, HP Envy printer $89, more](https://appleinsider.com/articles/24/01/05/daily-deals-dec-5-700-off-27-imac-mac-studio-for-1499-512gb-mac-mini-499-hp-envy-printer-89-more?utm_medium=rss)
  - [Apple&#39;s 2023 and the 2024 Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/05/apples-2023-and-the-2024-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [Qi2 Wireless Charging: Everything You Need to Know](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [EU antitrust chief to meet with Tim Cook to discuss fines and regulation](https://appleinsider.com/articles/24/01/05/eu-antitrust-chief-to-meet-with-tim-cook-to-discuss-fines-and-regulation?utm_medium=rss)
- - [Bag a 4-Pack of Apple&#39;s Top-Rated AirTag Bluetooth Trackers for Just $79     - CNET](https://www.cnet.com/deals/bag-a-4-pack-of-apples-top-rated-airtag-bluetooth-trackers-for-just-79/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qi2 Wireless Charging: Everything You Need to Know](https://www.wired.com/story/what-is-qi2-wireless-charging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

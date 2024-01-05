@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase says it has agreed to buy an unnamed holding company which holds a MiFID II license, allowing Coinbase to launch crypto derivatives in the EU &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p17#a240105p17)
  - [Get H&amp;R Block Deluxe + State 2023 for just $34.99, a 30% price cut](https://appleinsider.com/articles/24/01/05/get-hr-block-deluxe-state-2023-for-just-3499-a-30-price-cut?utm_medium=rss)
  - [Source: Microsoft executive Dee Templeton has joined OpenAI&#39;s board as a nonvoting observer, as part of a broader boardroom overhaul after Altman&#39;s brief ouster &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p16#a240105p16)
  - [Uber is testing Uber Flex, a flexible pricing service that lets riders pick a fare of their choice that will be shared with nearby drivers, in 12+ Indian cities &lpar;TechCrunch&rpar;](http://www.techmeme.com/240105/p15#a240105p15)
- - [Apple might be the next Big Tech company facing antitrust charges in the US](https://www.theverge.com/2024/1/5/24027001/apple-doj-antitrust-lawsuit-investigation)
- - [Merck settles its $1.4B legal dispute with insurers over denying coverage for NotPetya losses claiming an &quot;Act of War&quot;; the settlement amount was not disclosed &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/240105/p14#a240105p14)<!-- TECH:END -->
+ - [Apple might be the next Big Tech company facing antitrust charges in the US](https://www.theverge.com/2024/1/5/24027001/apple-doj-antitrust-lawsuit-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

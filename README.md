@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
- - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 💣 [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 👉 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)<!-- MEMES:END -->
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 😝 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 💣 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
+ - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
+ - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
 
 ---
 

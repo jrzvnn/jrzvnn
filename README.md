@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)
  - [Netflix is considering ways to make money from video games, including via IAPs and ads; Apptopia: as of October 2023, &lt;1% of subscribers played its games daily &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240105/p4#a240105p4)
  - [Balmuda The Brew Review: This $700 Coffee Maker Struggles to Make a Great Cup](https://www.wired.com/review/balmuda-the-brew-coffee-maker/)
  - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
- - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)
- - [Microsoft poised to overtake Apple as most valuable company](https://appleinsider.com/articles/24/01/05/microsoft-poised-to-overtake-apple-as-most-valuable-company?utm_medium=rss)<!-- TECH:END -->
+ - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
+ - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
+ - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 👉 [Egg](http://9gag.com/gag/aGEmAgn)<!-- MEMES:END -->
 
 ---
 

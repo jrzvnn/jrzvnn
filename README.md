@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 😝 [Awful, just awful](http://9gag.com/gag/adPGb7D)
  - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
+ - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)<!-- MEMES:END -->
 
 ---
 

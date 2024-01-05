@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real world diverse Superman](http://9gag.com/gag/a6q08je)
- - 😝 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
- - 💣 [Comfortable collective transport](http://9gag.com/gag/ap94V8n)
- - 😝 [That quick?](http://9gag.com/gag/anzmGGL)
- - 👉 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)<!-- MEMES:END -->
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 💣 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
+ - 😝 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 👉 [Tractors vs government](http://9gag.com/gag/amAeVV2)<!-- MEMES:END -->
 
 ---
 

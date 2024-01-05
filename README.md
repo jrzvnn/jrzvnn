@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 💣 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
  - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [It&#39;s cruel!](http://9gag.com/gag/aDYKO39)<!-- MEMES:END -->
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
+ - 👉 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)<!-- MEMES:END -->
 
 ---
 

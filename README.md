@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Merck settles its $1.4B legal dispute with insurers over denying coverage for NotPetya losses claiming an &quot;Act of War&quot;; the settlement amount was not disclosed &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/240105/p14#a240105p14)
+ - [Here we go again - Apple rejects Hey Calendar app from App Store](https://appleinsider.com/articles/24/01/05/here-we-go-again---apple-rejects-hey-calendar-app-from-app-store?utm_medium=rss)
  - [Department of Justice antitrust filing against Apple said to be imminent, for the fourth consecutive year](https://appleinsider.com/articles/24/01/05/department-of-justice-antitrust-filing-against-apple-said-to-be-imminent-for-the-fourth-consecutive-year?utm_medium=rss)
  - [Coinbase and other cryptocurrency exchanges introduce risk assessments and finance tests for UK users ahead of strict new rules for digital asset products in UK &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p13#a240105p13)
- - [The internet copyright machine wasn’t made for Mickey Mouse](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)
- - [Sources: DOJ may file an antitrust lawsuit against Apple targeting Apple&#39;s strategies to protect the dominance of the iPhone as soon as the first half of 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/240105/p12#a240105p12)
- - [Sources: Synopsys is in advanced talks to acquire Ansys, which makes software used by aerospace and manufacturing sectors, for ~$35B in a stock-and-cash deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240105/p11#a240105p11)<!-- TECH:END -->
+ - [The internet copyright machine wasn’t made for Mickey Mouse](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

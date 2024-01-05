@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Not all financial predictions for Apple&#39;s holiday quarter are doom and gloom](https://appleinsider.com/articles/24/01/05/not-all-financial-predictions-for-apples-holiday-quarter-are-doom-and-gloom?utm_medium=rss)
+ - [Memo: Coatue closes its European office in London two years after it opened to &quot;streamline&quot; its investing and prioritize domain expertise over regional coverage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p6#a240105p6)
  - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
  - [In Defense of AI Hallucinations](https://www.wired.com/story/plaintext-in-defense-of-ai-hallucinations-chatgpt/)
- - [Why Everyone Is Obsessed With the Kid Who Beat &#39;Tetris&#39;](https://www.wired.com/story/why-everyone-is-obsessed-with-the-kid-who-beat-tetris/)
- - [What to expect at CES 2024](https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect)
- - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)<!-- TECH:END -->
+ - [Why Everyone Is Obsessed With the Kid Who Beat &#39;Tetris&#39;](https://www.wired.com/story/why-everyone-is-obsessed-with-the-kid-who-beat-tetris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

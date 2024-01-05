@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 😝 [When shoplifter meets Indians](http://9gag.com/gag/aeQnWnv)
- - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
+ - 😝 [Awful, just awful](http://9gag.com/gag/adPGb7D)
+ - 😝 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
+ - 💣 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
 
 ---
 

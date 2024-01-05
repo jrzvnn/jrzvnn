@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former employees detail Baidu&#39;s difficulty incubating new businesses including CEO Robin Li&#39;s leadership style and most talented staff leaving &lpar;Financial Times&rpar;](http://www.techmeme.com/240105/p1#a240105p1)
  - [Logan Paul says he is &quot;personally committing&quot; $2.3M+ to offer refunds for CryptoZoo, the allegedly fraudulent Pok&amp;eacute;mon-inspired NFT game that he launched in 2021 &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/240104/p36#a240104p36)
  - [Health management solutions provider HealthEC suffered a data breach between July 14 and July 23, 2023 that impacted close to 4.5M patients &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p35#a240104p35)
  - [Best Phone Plan Deals: Get Unlimited 5G, Free Streaming Services and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
- - [TechInsights teardown: Huawei&#39;s newest laptop, the Qingyun L540 notebook, runs on a chip made by TSMC, quashing talks of another Chinese tech breakthrough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240104/p34#a240104p34)
- - [Apple Savings APY increases from 4.25% to 4.35%](https://appleinsider.com/articles/24/01/05/apple-savings-apy-increases-from-425-to-435?utm_medium=rss)<!-- TECH:END -->
+ - [TechInsights teardown: Huawei&#39;s newest laptop, the Qingyun L540 notebook, runs on a chip made by TSMC, quashing talks of another Chinese tech breakthrough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240104/p34#a240104p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

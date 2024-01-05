@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [There it is](http://9gag.com/gag/aQEL25r)
- - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 👉 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)<!-- MEMES:END -->
+ - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
 
 ---
 

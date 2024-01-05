@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A developer finds that Google seems to be working on an upgraded version of Bard called Bard Advanced that will be available through a Google One subscription &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240105/p10#a240105p10)
  - [Read up on Apple’s tremendous Godzilla series, Monarch: Legacy of Monsters](https://www.theverge.com/24025765/monarch-legacy-of-monsters-news-trailers-reviews-interviews-roundup)
  - [How a change to US tax law Section 174, forcing amortization of software labor, led to higher tax bills, less hiring and more layoffs, IP moving abroad, more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/240105/p9#a240105p9)
  - [Kick Off the Year With Best Buy&#39;s 3-Day Sale and Get Top Tech for Less     - CNET](https://www.cnet.com/deals/kick-off-the-year-with-best-buys-3-day-sale-and-get-top-tech-for-less/#ftag=CAD590a51e)
- - [Samsung Unpacked Event: What to Expect From Galaxy S24 Phones     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-event-what-to-expect-from-galaxy-s24-phones/#ftag=CAD590a51e)
- - [Tips to Conserve Your Energy and Help Prevent Outages During Extreme Weather Events     - CNET](https://www.cnet.com/home/energy-and-utilities/tips-to-conserve-your-energy-and-help-prevent-outages-during-extreme-weather-events/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Unpacked Event: What to Expect From Galaxy S24 Phones     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-event-what-to-expect-from-galaxy-s24-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

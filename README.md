@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC denies Apple&#39;s bid to stop shareholders questioning its use of AI](https://appleinsider.com/articles/24/01/04/sec-denies-apples-bid-to-stop-shareholders-questioning-its-use-of-ai?utm_medium=rss)
  - [A developer finds that Google seems to be working on an upgraded version of Bard called Bard Advanced that will be available through a Google One subscription &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240105/p10#a240105p10)
  - [7 Mint Alternatives When the Budgeting App Goes Away This Year     - CNET](https://www.cnet.com/personal-finance/mint-alternatives/#ftag=CAD590a51e)
  - [Everything You Need to Know About Safe Eye Drops Amid Recent Recalls     - CNET](https://www.cnet.com/health/personal-care/how-to-find-safe-eye-drops/#ftag=CAD590a51e)
- - [Get the Newest M3 MacBook Pro for $200 off the Apple Store Price     - CNET](https://www.cnet.com/deals/get-the-newest-m3-macbook-pro-for-200-off-the-apple-store-price/#ftag=CAD590a51e)
- - [&#39;Solo Leveling&#39; Season Premiere: Release Time and How to Stream From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/solo-leveling-season-premiere-release-time-and-how-to-stream-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get the Newest M3 MacBook Pro for $200 off the Apple Store Price     - CNET](https://www.cnet.com/deals/get-the-newest-m3-macbook-pro-for-200-off-the-apple-store-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

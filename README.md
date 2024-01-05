@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 💣 [Toronto, Canada](http://9gag.com/gag/avQMRMX)
- - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
+ - 😝 [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
+ - 💣 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 👉 [It&#39;s cruel!](http://9gag.com/gag/aDYKO39)<!-- MEMES:END -->
 
 ---
 

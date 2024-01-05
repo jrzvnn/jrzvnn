@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
- - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 💣 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
+ - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
+ - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 👉 [Processing breakups\u2026\u2026](http://9gag.com/gag/az2WB0m)<!-- MEMES:END -->
 
 ---
 

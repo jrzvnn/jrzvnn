@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 👉 [Mom of the year](http://9gag.com/gag/avQMXLO)<!-- MEMES:END -->
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 💣 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 😝 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
+ - 👉 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)<!-- MEMES:END -->
 
 ---
 

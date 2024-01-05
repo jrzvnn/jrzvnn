@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
- - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
- - 💣 [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
+ - 😝 [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
+ - 😝 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)
+ - 💣 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
+ - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
+ - 👉 [Comfortable collective transport](http://9gag.com/gag/ap94V8n)<!-- MEMES:END -->
 
 ---
 

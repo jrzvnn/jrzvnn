@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild wanker](http://9gag.com/gag/awZEdmx)
- - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
- - 💣 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
+ - 😝 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
+ - 😝 [Hey, he got a point!](http://9gag.com/gag/amAenLv)
+ - 💣 [Awful, just awful](http://9gag.com/gag/adPGb7D)
+ - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 👉 [Egg](http://9gag.com/gag/aGEmAgn)<!-- MEMES:END -->
 
 ---
 

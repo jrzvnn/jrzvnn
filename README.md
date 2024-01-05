@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun family games, nice](http://9gag.com/gag/aBdA4bO)
- - 😝 [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
- - 💣 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)
- - 😝 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
- - 👉 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 😝 [There it is](http://9gag.com/gag/aQEL25r)
+ - 💣 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 👉 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
- - 😝 [Hey, he got a point!](http://9gag.com/gag/amAenLv)
- - 💣 [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 👉 [Egg](http://9gag.com/gag/aGEmAgn)<!-- MEMES:END -->
+ - 😝 [Awful, just awful](http://9gag.com/gag/adPGb7D)
+ - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
+ - 💣 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
+ - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/ap94VD8)
+ - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
 
 ---
 

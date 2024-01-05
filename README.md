@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - 😝 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
- - 💣 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
+ - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
  - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
+ - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 👉 [Curious\u2026.](http://9gag.com/gag/a8qRwg6)<!-- MEMES:END -->
 
 ---
 

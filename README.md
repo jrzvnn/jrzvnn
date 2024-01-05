@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
- - 😝 [Imagine trying to humiliate a child who just achieved something no human could do in 39 years since Tetris was released](http://9gag.com/gag/avQMDRO)
- - 💣 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
- - 😝 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 😝 [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 💣 [The law of nature](http://9gag.com/gag/aeQnWqp)
+ - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
 
 ---
 

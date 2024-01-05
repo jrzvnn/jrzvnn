@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron C3 Pro review: Affordable excellence in a mechanical keyboard](https://appleinsider.com/articles/24/01/05/keychron-c3-pro-review-affordable-excellence-in-a-mechanical-keyboard?utm_medium=rss)
+ - [Critical Infrastructure Is Sinking Along the US East Coast](https://www.wired.com/story/critical-infrastructure-is-sinking-along-the-us-east-coast/)
+ - [How to Be More Anonymous Online](https://www.wired.com/story/how-to-be-more-anonymous-online/)
  - [Foxconn expects Q1 revenue drop as iPhone demand falls](https://appleinsider.com/articles/24/01/05/foxconn-expects-q1-revenue-drop-as-iphone-demand-falls?utm_medium=rss)
- - [2024 Will Be the Year We Figure Out EV Charging     - CNET](https://www.cnet.com/roadshow/news/2024-will-be-the-year-we-figure-out-ev-charging/#ftag=CAD590a51e)
- - [Microsoft’s keyboards and mice will live on under a unique new partnership](https://www.theverge.com/2024/1/5/24026323/microsoft-incase-partnership-keyboards-accessories-partnership)
- - [Tesla recalls virtually every car it ever sold in China, or more than 1.6M, due to potential issues with Autopilot, after a similar recall in the US in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p2#a240105p2)
- - [They Had PTSD. A Psychedelic Called Ibogaine Helped Them Get Better](https://www.wired.com/story/they-had-ptsd-a-psychedelic-called-ibogaine-helped-them-get-better/)<!-- TECH:END -->
+ - [2024 Will Be the Year We Figure Out EV Charging     - CNET](https://www.cnet.com/roadshow/news/2024-will-be-the-year-we-figure-out-ev-charging/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

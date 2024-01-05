@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Our childhood crush](http://9gag.com/gag/aZD6dL9)
- - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
- - 💣 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)
- - 😝 [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
- - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
+ - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
+ - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 💣 [It&#39;s cruel!](http://9gag.com/gag/aDYKO39)
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
 
 ---
 

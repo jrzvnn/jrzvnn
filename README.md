@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Podcast downloads are down &lpar;again&rpar; thanks to iOS 17](https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet)
  - [UK&#39;s NHS probes if Palantir breached contract terms after Palantir launched an influencer campaign to counter criticism of the patient data system it&#39;s building &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240105/p18#a240105p18)
  - [Coinbase says it has agreed to buy an unnamed holding company which holds a MiFID II license, allowing Coinbase to launch crypto derivatives in the EU &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240105/p17#a240105p17)
- - [Get H&amp;R Block Deluxe + State 2023 for just $34.99, a 30% price cut](https://appleinsider.com/articles/24/01/05/get-hr-block-deluxe-state-2023-for-just-3499-a-30-price-cut?utm_medium=rss)
- - [Source: Microsoft executive Dee Templeton has joined OpenAI&#39;s board as a nonvoting observer, as part of a broader boardroom overhaul after Altman&#39;s brief ouster &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p16#a240105p16)<!-- TECH:END -->
+ - [Get H&amp;R Block Deluxe + State 2023 for just $34.99, a 30% price cut](https://appleinsider.com/articles/24/01/05/get-hr-block-deluxe-state-2023-for-just-3499-a-30-price-cut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe: US online holiday sales between November 1 and December 31, 2023, reached a record $222.1B, up 4.9% YoY; BNPL contributed a record $16.6B, up 14% YoY &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240104/p31#a240104p31)
+ - [Best Apple Pencil Deals: Save Money Off Apple Styluses and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Why was one of the biggest law podcasts shut down?](https://www.theverge.com/2024/1/4/24025899/legal-podcast-pro-say-law-360-she-hulk-cancel)
  - [Samsung and Hyundai are teaming up to add SmartThings to cars](https://www.theverge.com/2024/1/4/24025674/samsung-hyundai-kia-smartthings-cars)
- - [DeepMind Robotics researchers outline new methods for training robots, like AutoRT, which can leverage a visual language model for better situational awareness &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240104/p30#a240104p30)
- - [How to configure and use hot corners on macOS](https://www.theverge.com/24025728/hot-corners-macos-how-to)
- - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)<!-- TECH:END -->
+ - [DeepMind Robotics researchers outline new methods for training robots, like AutoRT, which can leverage a visual language model for better situational awareness &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240104/p30#a240104p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

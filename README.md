@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple might be the next Big Tech company facing antitrust charges in the US](https://www.theverge.com/2024/1/5/24027001/apple-doj-antitrust-lawsuit-investigation)
  - [Merck settles its $1.4B legal dispute with insurers over denying coverage for NotPetya losses claiming an &quot;Act of War&quot;; the settlement amount was not disclosed &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/240105/p14#a240105p14)
  - [Here we go again - Apple rejects Hey Calendar app from App Store](https://appleinsider.com/articles/24/01/05/here-we-go-again---apple-rejects-hey-calendar-app-from-app-store?utm_medium=rss)
- - [Department of Justice antitrust filing against Apple said to be imminent, for the fourth consecutive year](https://appleinsider.com/articles/24/01/05/department-of-justice-antitrust-filing-against-apple-said-to-be-imminent-for-the-fourth-consecutive-year?utm_medium=rss)<!-- TECH:END -->
+ - [PS5 Spider Man 2 Bundle     - CNET](https://www.cnet.com/tech/gaming/ps5-spider-man-bundle-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

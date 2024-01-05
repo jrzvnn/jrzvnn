@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 💣 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
  - 😝 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
- - 👉 [I want to become like him](http://9gag.com/gag/aL1Zb9A)<!-- MEMES:END -->
+ - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
 
 ---
 

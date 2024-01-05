@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
- - 💣 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
+ - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
+ - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 👉 [Mom of the year](http://9gag.com/gag/avQMXLO)<!-- MEMES:END -->
 
 ---
 

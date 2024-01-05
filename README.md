@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tractors vs government](http://9gag.com/gag/amAeVV2)
  - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
- - 💣 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
- - 👉 [Egg](http://9gag.com/gag/aGEmAgn)<!-- MEMES:END -->
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 💣 [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
 
 ---
 

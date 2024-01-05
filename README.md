@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a change to US tax law Section 174, forcing amortization of software labor, led to higher tax bills, less hiring and more layoffs, IP moving abroad, more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/240105/p9#a240105p9)
  - [Google’s Nest Wifi Pro has returned to its best price yet](https://www.theverge.com/2024/1/5/24025332/google-nest-wifi-pro-apple-ipad-amazon-smart-air-quality-monitor-deal-sale)
  - [Major Winter Storms Are on the Way. Here&#39;s What to Stock Up on Now     - CNET](https://www.cnet.com/home/energy-and-utilities/major-winter-storms-are-on-the-way-heres-what-to-stock-up-on-now/#ftag=CAD590a51e)
  - [California King vs. King Mattress: What to Consider for Your Bedroom     - CNET](https://www.cnet.com/health/sleep/california-king-vs-king-mattress/#ftag=CAD590a51e)
- - [Monarch: Legacy of Monsters’ new titans were inspired by the weird, freakiness of nature](https://www.theverge.com/23993939/monarch-legacy-of-monsters-sean-konrad)
- - [Incase partners with Microsoft to sell PC accessories, which Microsoft stopped making in 2022; products will include ones Microsoft designed but never shipped &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240105/p8#a240105p8)<!-- TECH:END -->
+ - [Monarch: Legacy of Monsters’ new titans were inspired by the weird, freakiness of nature](https://www.theverge.com/23993939/monarch-legacy-of-monsters-sean-konrad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

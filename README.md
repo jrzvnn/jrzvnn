@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)
- - [Netflix is considering ways to make money from video games, including via IAPs and ads; Apptopia: as of October 2023, &lt;1% of subscribers played its games daily &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240105/p4#a240105p4)
- - [Samsung Galaxy S24 Features I Want to See: More AI, Faster Charging     - CNET](https://www.cnet.com/tech/mobile/what-i-want-from-samsungs-galaxy-s24-more-ai-faster-charging/#ftag=CAD590a51e)
- - [Best Solar Panels for Your Home for January 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)
- - [How to Eat Your Way to More Collagen     - CNET](https://www.cnet.com/health/nutrition/how-to-eat-your-way-to-more-collagen-and-better-skin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [In Defense of AI Hallucinations](https://www.wired.com/story/plaintext-in-defense-of-ai-hallucinations-chatgpt/)
+ - [Why Everyone Is Obsessed With the Kid Who Beat &#39;Tetris&#39;](https://www.wired.com/story/why-everyone-is-obsessed-with-the-kid-who-beat-tetris/)
+ - [What to expect at CES 2024](https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect)
+ - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

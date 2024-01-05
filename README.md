@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
- - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
- - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 👉 [Processing breakups\u2026\u2026](http://9gag.com/gag/az2WB0m)<!-- MEMES:END -->
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 😝 [The Simpsons](http://9gag.com/gag/a04rEVd)
+ - 💣 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 ---
 

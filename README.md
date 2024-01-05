@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)
- - 😝 [The law of nature](http://9gag.com/gag/aeQnWqp)
- - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
  - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [Curious\u2026.](http://9gag.com/gag/a8qRwg6)
+ - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
+ - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
+ - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
 
 ---
 

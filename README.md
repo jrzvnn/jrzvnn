@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awful, just awful](http://9gag.com/gag/adPGb7D)
- - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
- - 💣 [Amusement park hack.](http://9gag.com/gag/aNw7qow)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/ap94VD8)
- - 👉 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)<!-- MEMES:END -->
+ - 😝 [Our childhood crush](http://9gag.com/gag/aZD6dL9)
+ - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
+ - 💣 [I like the part where they go `Hahahahahaha`](http://9gag.com/gag/axoLm4p)
+ - 😝 [This is the strongest female protagonist\u2026 Ever!](http://9gag.com/gag/aoKvn7g)
+ - 👉 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)<!-- MEMES:END -->
 
 ---
 

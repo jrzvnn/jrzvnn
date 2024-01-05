@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 😝 [Parents watching their kid take his first steps](http://9gag.com/gag/aBdAOG2)
- - 💣 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
- - 😝 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)
- - 👉 [There it is](http://9gag.com/gag/aQEL25r)<!-- MEMES:END -->
+ - 😝 [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [Finally, true love.](http://9gag.com/gag/ap94VKp)
+ - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
+ - 😝 [Disney has announced that the next Star Wars movie will be made by Obaid-Chinoy, a Canadian-Pakistani feminist. Here she is saying that her goal is to \u201cmake men uncomfortable.\u201d I cannot wait for the movie to flop and her blaming it on men.](http://9gag.com/gag/aGEmA7w)
+ - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 😝 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
- - 👉 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)<!-- MEMES:END -->
+ - 😝 [Real world diverse Superman](http://9gag.com/gag/a6q08je)
+ - 😝 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
+ - 💣 [Comfortable collective transport](http://9gag.com/gag/ap94V8n)
+ - 😝 [That quick?](http://9gag.com/gag/anzmGGL)
+ - 👉 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)<!-- MEMES:END -->
 
 ---
 

@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Tesla recalls virtually every car it ever sold in China, or more than 1.6M, due to potential issues with Autopilot, after a similar recall in the US in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/240105/p2#a240105p2)
  - [They Had PTSD. A Psychedelic Called Ibogaine Helped Them Get Better](https://www.wired.com/story/they-had-ptsd-a-psychedelic-called-ibogaine-helped-them-get-better/)
- - [Save Up to $1,020 on Samsung&#39;s Upcoming Galaxy S24 Lineup When You Reserve Now     - CNET](https://www.cnet.com/deals/save-up-to-1020-on-samsungs-upcoming-galaxy-s24-lineup-when-you-reserve-now/#ftag=CAD590a51e)
  - [Current and former employees detail Baidu&#39;s difficulty incubating new businesses including CEO Robin Li&#39;s leadership style and most talented staff leaving &lpar;Financial Times&rpar;](http://www.techmeme.com/240105/p1#a240105p1)
- - [Logan Paul says he is &quot;personally committing&quot; $2.3M+ to offer refunds for CryptoZoo, the allegedly fraudulent Pok&amp;eacute;mon-inspired NFT game that he launched in 2021 &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/240104/p36#a240104p36)<!-- TECH:END -->
+ - [Logan Paul says he is &quot;personally committing&quot; $2.3M+ to offer refunds for CryptoZoo, the allegedly fraudulent Pok&amp;eacute;mon-inspired NFT game that he launched in 2021 &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/240104/p36#a240104p36)
+ - [Health management solutions provider HealthEC suffered a data breach between July 14 and July 23, 2023 that impacted close to 4.5M patients &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240104/p35#a240104p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

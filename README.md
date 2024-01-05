@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
  - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [Curious\u2026.](http://9gag.com/gag/a8qRwg6)<!-- MEMES:END -->
+ - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 👉 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
 
 ---
 

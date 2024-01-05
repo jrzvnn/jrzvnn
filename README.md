@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
- - 💣 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
- - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
- - 👉 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper, though](http://9gag.com/gag/axoLOAp)
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 💣 [I forgot what I was going to write here too](http://9gag.com/gag/az2WQRN)
+ - 😝 [When shoplifter meets Indians](http://9gag.com/gag/aeQnWnv)
+ - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
 
 ---
 

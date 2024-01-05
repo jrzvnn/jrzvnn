@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
- - 😝 [When You Love Your Work](http://9gag.com/gag/ajVzxb0)
- - 💣 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)
- - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
- - 👉 [The Simpsons](http://9gag.com/gag/a04rEVd)<!-- MEMES:END -->
+ - 😝 [Which movie scene do you despise the most?](http://9gag.com/gag/ap94ARn)
+ - 😝 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)
+ - 💣 [There it is](http://9gag.com/gag/aQEL25r)
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 👉 [Christmas Time in Westeros!](http://9gag.com/gag/a2K3OrO)<!-- MEMES:END -->
 
 ---
 

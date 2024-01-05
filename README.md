@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)
  - [Apple revives old fight with Hey after rejecting new calendar app](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)
  - [Max’s live sports add-on will be free for a few more months](https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Podcast downloads are down &lpar;again&rpar; thanks to iOS 17](https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet)
- - [The UK&#39;s NHS probes whether Palantir breached contract terms by launching an influencer campaign to counter criticism of the patient data platform it&#39;s building &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240105/p18#a240105p18)<!-- TECH:END -->
+ - [Podcast downloads are down &lpar;again&rpar; thanks to iOS 17](https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

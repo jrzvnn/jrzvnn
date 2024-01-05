@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The EU&#39;s antitrust chief Margrethe Vestager plans to meet with the CEOs of Google, Apple, Nvidia, and Broadcom in the US next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240105/p5#a240105p5)
  - [Netflix is considering ways to make money from video games, including via IAPs and ads; Apptopia: as of October 2023, &lt;1% of subscribers played its games daily &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240105/p4#a240105p4)
- - [Balmuda The Brew Review: This $700 Coffee Maker Struggles to Make a Great Cup](https://www.wired.com/review/balmuda-the-brew-coffee-maker/)
- - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
- - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Features I Want to See: More AI, Faster Charging     - CNET](https://www.cnet.com/tech/mobile/what-i-want-from-samsungs-galaxy-s24-more-ai-faster-charging/#ftag=CAD590a51e)
+ - [Best Solar Panels for Your Home for January 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)
+ - [How to Eat Your Way to More Collagen     - CNET](https://www.cnet.com/health/nutrition/how-to-eat-your-way-to-more-collagen-and-better-skin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s 2023 and the 2024 Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/05/apples-2023-and-the-2024-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
  - [Qi2 Wireless Charging: Everything You Need to Know](https://www.wired.com/story/what-is-qi2-wireless-charging/)
  - [EU antitrust chief to meet with Tim Cook to discuss fines and regulation](https://appleinsider.com/articles/24/01/05/eu-antitrust-chief-to-meet-with-tim-cook-to-discuss-fines-and-regulation?utm_medium=rss)
- - [Samsung debuts Designed for Samsung Gaming Hub accessories for the cloud Gaming Hub on its smart TVs, including a new controller from PDP &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240105/p7#a240105p7)
- - [MSI’s Steam Deck competitor has leaked, and it’s powered by an Intel Meteor Lake chip](https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024)<!-- TECH:END -->
+ - [Bag a 4-Pack of Apple&#39;s Top-Rated AirTag Bluetooth Trackers for Just $79     - CNET](https://www.cnet.com/deals/bag-a-4-pack-of-apples-top-rated-airtag-bluetooth-trackers-for-just-79/#ftag=CAD590a51e)
+ - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

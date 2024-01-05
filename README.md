@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
- - 😝 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)
- - 💣 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
- - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
- - 👉 [Comfortable collective transport](http://9gag.com/gag/ap94V8n)<!-- MEMES:END -->
+ - 😝 [The wildest movie ive seen in a long time, anyone else?](http://9gag.com/gag/aqePxEQ)
+ - 😝 [The state of jeans these days](http://9gag.com/gag/aXnyWKz)
+ - 💣 [Taxi driver in Bali threatening two tourists. The driver ignores the women\u2019s demands to be let out of the vehicle, tries to extort USD 50 from them, and threatens them with what appears to be a knife.](http://9gag.com/gag/a8qRzMQ)
+ - 😝 [Egg](http://9gag.com/gag/aGEmAgn)
+ - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
 
 ---
 

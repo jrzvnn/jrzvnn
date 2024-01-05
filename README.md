@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Balmuda The Brew Review: This $700 Coffee Maker Struggles to Make a Great Cup](https://www.wired.com/review/balmuda-the-brew-coffee-maker/)
+ - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
+ - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)
  - [Microsoft poised to overtake Apple as most valuable company](https://appleinsider.com/articles/24/01/05/microsoft-poised-to-overtake-apple-as-most-valuable-company?utm_medium=rss)
- - [CertiK: over $1.8B were lost across 751 crypto hacks in 2023, down 51% YoY from $3.7B in 2022; Q3 recorded the most losses at over $686M &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/240105/p3#a240105p3)
- - [Tesla lowers Model Y, S, and X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
- - [Keychron C3 Pro review: Affordable excellence in a mechanical keyboard](https://appleinsider.com/articles/24/01/05/keychron-c3-pro-review-affordable-excellence-in-a-mechanical-keyboard?utm_medium=rss)
- - [Critical Infrastructure Is Sinking Along the US East Coast](https://www.wired.com/story/critical-infrastructure-is-sinking-along-the-us-east-coast/)<!-- TECH:END -->
+ - [CertiK: over $1.8B were lost across 751 crypto hacks in 2023, down 51% YoY from $3.7B in 2022; Q3 recorded the most losses at over $686M &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/240105/p3#a240105p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

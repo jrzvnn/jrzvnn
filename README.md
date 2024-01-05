@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There it is](http://9gag.com/gag/aQEL25r)
- - 😝 [Finally, true love.](http://9gag.com/gag/ap94VKp)
- - 💣 [Tractors vs government](http://9gag.com/gag/amAeVV2)
- - 😝 [Disney has announced that the next Star Wars movie will be made by Obaid-Chinoy, a Canadian-Pakistani feminist. Here she is saying that her goal is to \u201cmake men uncomfortable.\u201d I cannot wait for the movie to flop and her blaming it on men.](http://9gag.com/gag/aGEmA7w)
- - 👉 [Game launchers tier list](http://9gag.com/gag/aWGrbW3)<!-- MEMES:END -->
+ - 😝 [Fun family games, nice](http://9gag.com/gag/aBdA4bO)
+ - 😝 [Ladies, always be considerate](http://9gag.com/gag/axoLm92)
+ - 💣 [The moment a 13-year-old competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze, and his score read \u201c999999.\u201d](http://9gag.com/gag/aOxMpQr)
+ - 😝 [Stephen Hawking as soon as the plane touched ground on Epstein&#39;s Island](http://9gag.com/gag/ajVzR0G)
+ - 👉 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)<!-- MEMES:END -->
 
 ---
 

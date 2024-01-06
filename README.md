@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data from the Department of Labor shows the US IT sector grew by only 700 jobs over 2023, down from 267,000 jobs added in 2022, despite the AI boom &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p3#a240106p3)
  - [What to expect at CES 2024: laptops with Intel&#39;s new Core Ultra chips, TVs with AI processing, AI-powered smart home devices and appliances, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240106/p2#a240106p2)
  - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)
  - [Filing: MobiKwik, a Peak XV-backed Indian fintech startup, seeks to raise about $84.2M in an IPO in India, and plans to raise about $16M in a pre-IPO round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240105/p22#a240105p22)
- - [Alibaba-backed Chinese lidar maker RoboSense raised $126.14M in its Hong Kong IPO by offering 22.9M shares at HK$43 each, with the stock falling 2% on its debut &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/240105/p21#a240105p21)
- - [Best AT&amp;T Deals Available: Take Up to $1,000 Off Right Now     - CNET](https://www.cnet.com/deals/best-att-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba-backed Chinese lidar maker RoboSense raised $126.14M in its Hong Kong IPO by offering 22.9M shares at HK$43 each, with the stock falling 2% on its debut &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/240105/p21#a240105p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

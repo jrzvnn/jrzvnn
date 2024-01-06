@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)
  - [Filing: MobiKwik, a Peak XV-backed Indian fintech startup, seeks to raise about $84.2M in an IPO in India, and plans to raise about $16M in a pre-IPO round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240105/p22#a240105p22)
  - [Alibaba-backed Chinese lidar maker RoboSense raised $126.14M in its Hong Kong IPO by offering 22.9M shares at HK$43 each, with the stock falling 2% on its debut &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/240105/p21#a240105p21)
  - [Best AT&amp;T Deals Available: Take Up to $1,000 Off Right Now     - CNET](https://www.cnet.com/deals/best-att-deals/#ftag=CAD590a51e)
- - [Best Verizon Deals: Get Up to $830 Off Flagship Phones From Apple, Samsung and Google     - CNET](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)
- - [A look at the MVNO market as eSIM eases distribution; the global MVNO market is valued at $84B and is expected to grow 40% in the next five years to $116.8B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240105/p20#a240105p20)<!-- TECH:END -->
+ - [Best Verizon Deals: Get Up to $830 Off Flagship Phones From Apple, Samsung and Google     - CNET](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

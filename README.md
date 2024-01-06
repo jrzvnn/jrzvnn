@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 💣 [Mom of the year](http://9gag.com/gag/avQMXLO)
  - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
- - 👉 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)<!-- MEMES:END -->
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 💣 [The law of nature](http://9gag.com/gag/aeQnWqp)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)<!-- MEMES:END -->
 
 ---
 

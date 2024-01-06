@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 💣 [Oh common girls.](http://9gag.com/gag/anzmGpE)
- - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
- - 👉 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)<!-- MEMES:END -->
+ - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
+ - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 💣 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 😝 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)
+ - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
- - 💣 [When you get into a relationship with an abuser and you&#39;ll be blamed as THE abuser...](http://9gag.com/gag/aqePAgv)
- - 😝 [The law of nature](http://9gag.com/gag/aeQnWqp)
- - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 💣 [Oh common girls.](http://9gag.com/gag/anzmGpE)
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 👉 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)<!-- MEMES:END -->
 
 ---
 

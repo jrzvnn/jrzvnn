@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
+ - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
  - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
 
 ---
 

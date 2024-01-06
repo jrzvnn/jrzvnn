@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
+ - 😝 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
+ - 💣 [Awww deer](http://9gag.com/gag/a1PyBNv)
  - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 💣 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 👉 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)<!-- MEMES:END -->
+ - 👉 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)<!-- MEMES:END -->
 
 ---
 

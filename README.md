@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Ridiculous and Weird CES Gadgets From the Last 25 Years     - CNET](https://www.cnet.com/tech/computing/the-most-ridiculous-and-weird-tech-gadgets-from-the-last-25-years/#ftag=CAD590a51e)
- - [Wild Weather Ahead: How to Prep for 2024&#39;s Climate Shifts     - CNET](https://www.cnet.com/science/climate/wild-weather-ahead-how-to-prep-for-2024s-climate-shifts/#ftag=CAD590a51e)
- - [Verizon Customers Could Get a $100 Payout. Here&#39;s How to Claim Class Action Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-payout-heres-how-to-claim-class-action-money/#ftag=CAD590a51e)
- - [Regain Control of Your Data in 2024 and Delete Your Digital History. Here&#39;s How to Do It     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-and-delete-your-digital-history-heres-how-to-do-it/#ftag=CAD590a51e)
- - [Legal experts offer mixed opinions about how earlier copyright and fair use cases could affect The New York Times&#39; case against OpenAI and Microsoft &lpar;Washington Post&rpar;](http://www.techmeme.com/240106/p6#a240106p6)<!-- TECH:END -->
+ - [Legal experts offer mixed opinions about how earlier copyright and fair use cases could affect The New York Times&#39; case against OpenAI and Microsoft &lpar;Washington Post&rpar;](http://www.techmeme.com/240106/p6#a240106p6)
+ - [SK Hynix was second behind Samsung Electronics in the Korea Exchange&#39;s market cap ranking at the end of 2023, with its market cap rising 89% to ~$78B in 2023 &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/240106/p5#a240106p5)
+ - [China&#39;s newly created National Data Administration unveils a three-year action plan to boost the country&#39;s economy by growing its data sector by 20% every year &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240106/p4#a240106p4)
+ - [Data from the Department of Labor shows the US IT sector grew by only 700 jobs over 2023, down from 267,000 jobs added in 2022, despite the AI boom &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p3#a240106p3)
+ - [What to expect at CES 2024: laptops with Intel&#39;s new Core Ultra chips, TVs with AI processing, AI-powered smart home devices and appliances, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240106/p2#a240106p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

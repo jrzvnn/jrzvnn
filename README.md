@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/ap94VD8)
- - 💣 [Japanese Gameshow](http://9gag.com/gag/aVbp19w)
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 👉 [They did her wrong](http://9gag.com/gag/a2K3Grp)<!-- MEMES:END -->
+ - 😝 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)<!-- MEMES:END -->
 
 ---
 

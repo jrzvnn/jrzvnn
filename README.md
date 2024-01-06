@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine trying to humiliate a child who just achieved something no human could do in 39 years since Tetris was released](http://9gag.com/gag/avQMDRO)
- - 😝 [I want to become like him](http://9gag.com/gag/aL1Zb9A)
- - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 😝 [Processing breakups\u2026\u2026](http://9gag.com/gag/az2WB0m)
- - 👉 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)<!-- MEMES:END -->
+ - 😝 [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 💣 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 👉 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)<!-- MEMES:END -->
 
 ---
 

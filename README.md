@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The luxe DreameBot L20 Ultra vacuum is selling for its lowest price of $1,049](https://www.theverge.com/2024/1/6/24027023/dreamebot-l20-ultra-robovac-humble-tabletop-digital-game-bundle-deal-sale)
  - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)
  - [Understanding Xcode Cloud, Apple&#39;s CI build service](https://appleinsider.com/inside/xcode/tips/understanding-xcode-cloud-apples-ci-build-service?utm_medium=rss)
  - [&#39;Ted&#39; Prequel Series Streaming on Peacock: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/ted-prequel-series-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
- - [The British Library will spend &amp;pound;6M-&amp;pound;7M, or 40% of its reserves, to recover from an October 2023 cyber attack that has rendered most of its services inaccessible &lpar;Financial Times&rpar;](http://www.techmeme.com/240106/p8#a240106p8)
- - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)<!-- TECH:END -->
+ - [The British Library will spend &amp;pound;6M-&amp;pound;7M, or 40% of its reserves, to recover from an October 2023 cyber attack that has rendered most of its services inaccessible &lpar;Financial Times&rpar;](http://www.techmeme.com/240106/p8#a240106p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

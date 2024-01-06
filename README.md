@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
  - 😝 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
- - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 💣 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
  - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
+ - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
 
 ---
 

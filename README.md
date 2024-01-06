@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must&#39;ve been wind!!!](http://9gag.com/gag/agoD6Yw)
- - 😝 [Awww deer](http://9gag.com/gag/a1PyBNv)
- - 💣 [Council of men approves](http://9gag.com/gag/aeQnPvm)
- - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
- - 👉 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)<!-- MEMES:END -->
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - 😝 [Respect\u2026..](http://9gag.com/gag/aNw7jW0)
+ - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
+ - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 ---
 

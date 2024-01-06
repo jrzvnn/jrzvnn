@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe Blames Users for Recent Data Breach as It&#39;s Hit With Dozens of Lawsuits](https://www.wired.com/story/23andme-blames-users-data-breach-security-roundup/)
+ - [The 18 Best Games on PlayStation Plus &lpar;January 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
  - [Go wild with Bluetti with the debut of industry-first power solutions at CES 2024](https://appleinsider.com/articles/24/01/06/go-wild-with-bluetti-with-the-debut-of-industry-first-power-solutions-at-ces-2024?utm_medium=rss)
- - [California Is Solving Its Water Problems by Flooding Its Best Farmland](https://www.wired.com/story/california-is-solving-its-water-problems-by-flooding-its-best-farmland/)
- - [Philips Hue Secure Wired Camera Review: Works if You Love Hue](https://www.wired.com/review/philips-hue-secure-wired-camera/)
- - [Daniel Stenberg, founder of open-source project curl, says easy access to LLMs is resulting in junk AI-assisted bug reports, wasting developer time and energy &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](http://www.techmeme.com/240106/p7#a240106p7)
- - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)<!-- TECH:END -->
+ - [Georgia Solar Panel Incentives: Solar Loans, Efficiency Rebates     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panel-incentives-solar-loans-efficiency-rebates/#ftag=CAD590a51e)
+ - [California Is Solving Its Water Problems by Flooding Its Best Farmland](https://www.wired.com/story/california-is-solving-its-water-problems-by-flooding-its-best-farmland/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

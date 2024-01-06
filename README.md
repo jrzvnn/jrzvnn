@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)
  - [Understanding Xcode Cloud, Apple&#39;s CI build service](https://appleinsider.com/inside/xcode/tips/understanding-xcode-cloud-apples-ci-build-service?utm_medium=rss)
- - [&#39;Ted&#39; Prequel Series Streaming on Peacock: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/ted-prequel-series-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
  - [The British Library will spend &amp;pound;6M-&amp;pound;7M, or 40% of its reserves, to recover from an October 2023 cyber attack that has rendered most of its services inaccessible &lpar;Financial Times&rpar;](http://www.techmeme.com/240106/p8#a240106p8)
  - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
- - [VR and AR in 2024: Apple, Samsung, Google, Meta, AI, and a quest for function video     - CNET](https://www.cnet.com/videos/vr-and-ar-in-2024-apple-samsung-google-meta-ai-and-a-quest-for-function/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [23andMe Blames Users for Recent Data Breach as It&#39;s Hit With Dozens of Lawsuits](https://www.wired.com/story/23andme-blames-users-data-breach-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

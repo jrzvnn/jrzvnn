@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 6: $1,600 off MacBook Pro, $50 off wireless Apple CarPlay display, Philips lights as low as $10, more](https://appleinsider.com/articles/24/01/06/daily-deals-jan-6-1600-off-macbook-pro-50-off-wireless-apple-carplay-display-philips-lights-as-low-as-10-more?utm_medium=rss)
  - [Users say X is increasingly showing malicious crypto ads, including links to crypto drainers, fake airdrops, and Telegram channels promoting pump and dumps &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240106/p10#a240106p10)
  - [The luxe DreameBot L20 Ultra vacuum is selling for its lowest price of $1,049](https://www.theverge.com/2024/1/6/24027023/dreamebot-l20-ultra-robovac-humble-tabletop-digital-game-bundle-deal-sale)
  - [Knock Out Your Goals With Lifetime Access to Headway Premium for Just $60     - CNET](https://www.cnet.com/deals/knock-out-your-goals-with-lifetime-access-to-headway-premium-for-just-60/#ftag=CAD590a51e)
- - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)
- - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)<!-- TECH:END -->
+ - [Adam Mosseri says Threads had some issues with &quot;low quality recommendations&quot; over the last few weeks and should get &quot;much better over the next few weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240106/p9#a240106p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

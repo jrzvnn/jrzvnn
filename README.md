@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)
  - [Apple revives old fight with Hey after rejecting new calendar app](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)
- - [Max’s live sports add-on will be free for a few more months](https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 Deals: Over $1,000 Off Unlocked, Trade-In and Bundled Items     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
+ - [Max’s live sports add-on will be free for a few more months](https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

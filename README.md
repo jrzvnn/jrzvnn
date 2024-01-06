@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Georgia Solar Panel Incentives: Solar Loans, Efficiency Rebates     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panel-incentives-solar-loans-efficiency-rebates/#ftag=CAD590a51e)
+ - [Go wild with Bluetti with the debut of industry-first power solutions at CES 2024](https://appleinsider.com/articles/24/01/06/go-wild-with-bluetti-with-the-debut-of-industry-first-power-solutions-at-ces-2024?utm_medium=rss)
  - [California Is Solving Its Water Problems by Flooding Its Best Farmland](https://www.wired.com/story/california-is-solving-its-water-problems-by-flooding-its-best-farmland/)
  - [Philips Hue Secure Wired Camera Review: Works if You Love Hue](https://www.wired.com/review/philips-hue-secure-wired-camera/)
- - [Best Internet Providers in Garland, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-garland-tx/#ftag=CAD590a51e)
- - [Daniel Stenberg, founder of open-source project curl, says easy access to LLMs is resulting in junk AI-assisted bug reports, wasting developer time and energy &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](http://www.techmeme.com/240106/p7#a240106p7)<!-- TECH:END -->
+ - [Daniel Stenberg, founder of open-source project curl, says easy access to LLMs is resulting in junk AI-assisted bug reports, wasting developer time and energy &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](http://www.techmeme.com/240106/p7#a240106p7)
+ - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

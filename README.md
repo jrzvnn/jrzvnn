@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba-backed Chinese lidar maker RoboSense raised $126.14M in its Hong Kong IPO by offering 22.9M shares at HK$43 each, with the stock falling 2% on its debut &lpar;Lim Hui Jie/CNBC&rpar;](http://www.techmeme.com/240105/p21#a240105p21)
  - [Best AT&amp;T Deals Available: Take Up to $1,000 Off Right Now     - CNET](https://www.cnet.com/deals/best-att-deals/#ftag=CAD590a51e)
  - [Best Verizon Deals: Get Up to $830 Off Flagship Phones From Apple, Samsung and Google     - CNET](https://www.cnet.com/deals/best-verizon-deals/#ftag=CAD590a51e)
  - [A look at the MVNO market as eSIM eases distribution; the global MVNO market is valued at $84B and is expected to grow 40% in the next five years to $116.8B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240105/p20#a240105p20)
- - [Samsung Galaxy S23 Deals: Save Up to $1,000 on the S23 Ultra, S23 Plus, S23 and S23 FE     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Save Up to $1,000 on the S23 Ultra, S23 Plus, S23 and S23 FE     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

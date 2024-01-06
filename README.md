@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)
+ - [Steelers vs. Ravens Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-ravens-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
  - [TwelveSouth Butterfly Charger review: Compact and convenient charging](https://appleinsider.com/articles/24/01/06/twelvesouth-butterfly-charger-review-compact-and-convenient-charging?utm_medium=rss)
  - [The US IRS starts testing its free, &quot;mobile friendly&quot; direct e-filing system with some low- and moderate-income taxpayers in 12 US states &lpar;Ann Carrns/New York Times&rpar;](http://www.techmeme.com/240106/p11#a240106p11)
- - [Best Google Pixel Deals Right Now: Kick Off the Year With Savings on Latest and Older Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Get the Most Accurate Results. Here&#39;s the Best Time to Weigh Yourself     - CNET](https://www.cnet.com/health/fitness/whens-the-best-time-to-weigh-yourself-to-get-the-most-accurate-results/#ftag=CAD590a51e)
- - [Apple finally sends &#39;batterygate&#39; checks to iPhone owners](https://appleinsider.com/articles/24/01/06/apple-finally-sends-batterygate-checks-to-iphone-owners?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals Right Now: Kick Off the Year With Savings on Latest and Older Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

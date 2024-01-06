@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
- - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
- - 💣 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 👉 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)<!-- MEMES:END -->
+ - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 💣 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 👉 [Miniature dam](http://9gag.com/gag/aoKvGX0)<!-- MEMES:END -->
 
 ---
 

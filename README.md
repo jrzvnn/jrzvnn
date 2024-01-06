@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amerisleep Mattresses Review: A Memory Foam Feel With Multiple Firmness Options     - CNET](https://www.cnet.com/health/sleep/amerisleep-mattresses-review/#ftag=CAD590a51e)
  - [Hands-on with Midjourney v6: generates highly detailed images that sometimes seem unrealistic, a different approach to prompting compared to v5, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240106/p12#a240106p12)
  - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)
- - [Steelers vs. Ravens Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-ravens-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
- - [TwelveSouth Butterfly Charger review: Compact and convenient charging](https://appleinsider.com/articles/24/01/06/twelvesouth-butterfly-charger-review-compact-and-convenient-charging?utm_medium=rss)
- - [The US IRS starts testing its free, &quot;mobile friendly&quot; direct e-filing system with some low- and moderate-income taxpayers in 12 US states &lpar;Ann Carrns/New York Times&rpar;](http://www.techmeme.com/240106/p11#a240106p11)<!-- TECH:END -->
+ - [Best Gifts for Tweens in 2024     - CNET](https://www.cnet.com/culture/fashion/best-gifts-for-tweens/#ftag=CAD590a51e)
+ - [Steelers vs. Ravens Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-ravens-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

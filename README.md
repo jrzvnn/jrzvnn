@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
+ - [How Your Body Adapts to Extreme Cold](https://www.wired.com/story/how-your-body-adapts-to-extreme-cold/)
+ - [10 Best Deals on Laptops, Routers, and Apple Watch](https://www.wired.com/story/weekend-deals-jan-6-2024/)
  - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [The Most Ridiculous and Weird CES Gadgets From the Last 25 Years     - CNET](https://www.cnet.com/tech/computing/the-most-ridiculous-and-weird-tech-gadgets-from-the-last-25-years/#ftag=CAD590a51e)
- - [Wild Weather Ahead: How to Prep for 2024&#39;s Climate Shifts     - CNET](https://www.cnet.com/science/climate/wild-weather-ahead-how-to-prep-for-2024s-climate-shifts/#ftag=CAD590a51e)
- - [Verizon Customers Could Get a $100 Payout. Here&#39;s How to Claim Class Action Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-payout-heres-how-to-claim-class-action-money/#ftag=CAD590a51e)
- - [Regain Control of Your Data in 2024 and Delete Your Digital History. Here&#39;s How to Do It     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-and-delete-your-digital-history-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Most Ridiculous and Weird CES Gadgets From the Last 25 Years     - CNET](https://www.cnet.com/tech/computing/the-most-ridiculous-and-weird-tech-gadgets-from-the-last-25-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daniel Stenberg, founder of open-source project curl, says easy access to LLMs is resulting in junk AI-assisted bug reports, wasting developer time and energy &lpar;Daniel Stenberg/daniel.haxx.se&rpar;](http://www.techmeme.com/240106/p7#a240106p7)
  - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
  - [How Your Body Adapts to Extreme Cold](https://www.wired.com/story/how-your-body-adapts-to-extreme-cold/)
  - [10 Best Deals on Laptops, Routers, and Apple Watch](https://www.wired.com/story/weekend-deals-jan-6-2024/)
- - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [The Most Ridiculous and Weird CES Gadgets From the Last 25 Years     - CNET](https://www.cnet.com/tech/computing/the-most-ridiculous-and-weird-tech-gadgets-from-the-last-25-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix was second behind Samsung Electronics in the Korea Exchange&#39;s market cap ranking at the end of 2023, with its market cap rising 89% to ~$78B in 2023 &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/240106/p5#a240106p5)
  - [China&#39;s newly created National Data Administration unveils a three-year action plan to boost the country&#39;s economy by growing its data sector by 20% every year &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240106/p4#a240106p4)
  - [Data from the Department of Labor shows the US IT sector grew by only 700 jobs over 2023, down from 267,000 jobs added in 2022, despite the AI boom &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p3#a240106p3)
  - [What to expect at CES 2024: laptops with Intel&#39;s new Core Ultra chips, TVs with AI processing, AI-powered smart home devices and appliances, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240106/p2#a240106p2)
- - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)
- - [Filing: MobiKwik, a Peak XV-backed Indian payments and digital wallet provider, seeks to raise ~$84.2M in an IPO, and plans to raise ~$16M in a pre-IPO round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240105/p22#a240105p22)<!-- TECH:END -->
+ - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

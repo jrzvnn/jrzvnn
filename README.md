@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
- - 💣 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
  - 😝 [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
- - 👉 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)<!-- MEMES:END -->
+ - 😝 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)
+ - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Japanese Gameshow](http://9gag.com/gag/aVbp19w)
+ - 👉 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)<!-- MEMES:END -->
 
 ---
 

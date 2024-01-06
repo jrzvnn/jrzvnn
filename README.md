@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
- - 😝 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
- - 💣 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
+ - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
+ - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 💣 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 👉 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)<!-- MEMES:END -->
 
 ---
 

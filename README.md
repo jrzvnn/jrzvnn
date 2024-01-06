@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Understanding Xcode Cloud, Apple&#39;s CI build service](https://appleinsider.com/inside/xcode/tips/understanding-xcode-cloud-apples-ci-build-service?utm_medium=rss)
  - [The British Library will spend &amp;pound;6M-&amp;pound;7M, or 40% of its reserves, to recover from an October 2023 cyber attack that has rendered most of its services inaccessible &lpar;Financial Times&rpar;](http://www.techmeme.com/240106/p8#a240106p8)
  - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
  - [23andMe Blames Users for Recent Data Breach as It&#39;s Hit With Dozens of Lawsuits](https://www.wired.com/story/23andme-blames-users-data-breach-security-roundup/)
- - [The 18 Best Games on PlayStation Plus &lpar;January 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [Go wild with Bluetti with the debut of industry-first power solutions at CES 2024](https://appleinsider.com/articles/24/01/06/go-wild-with-bluetti-with-the-debut-of-industry-first-power-solutions-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [The 18 Best Games on PlayStation Plus &lpar;January 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

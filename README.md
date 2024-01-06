@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Data from the Department of Labor shows the US IT sector grew by only 700 jobs over 2023, down from 267,000 jobs added in 2022, despite the AI boom &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p3#a240106p3)
  - [What to expect at CES 2024: laptops with Intel&#39;s new Core Ultra chips, TVs with AI processing, AI-powered smart home devices and appliances, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240106/p2#a240106p2)
  - [Peloton partners with TikTok to create an exclusive, co-branded workout content hub on the short-video platform, available in the US, UK, and Canada &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p1#a240106p1)
- - [Filing: MobiKwik, a Peak XV-backed Indian fintech startup, seeks to raise about $84.2M in an IPO in India, and plans to raise about $16M in a pre-IPO round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240105/p22#a240105p22)<!-- TECH:END -->
+ - [Filing: MobiKwik, a Peak XV-backed Indian payments and digital wallet provider, seeks to raise ~$84.2M in an IPO, and plans to raise ~$16M in a pre-IPO round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240105/p22#a240105p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

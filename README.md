@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the MVNO market as eSIM eases distribution; the global MVNO market is valued at $84B and is expected to grow 40% in the next five years to $116.8B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240105/p20#a240105p20)
+ - [Samsung Galaxy S23 Deals: Save Up to $1,000 on the S23 Ultra, S23 Plus, S23 and S23 FE     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [A survey of 2,778 AI researchers: 38.4% support faster development and 34.7% support slower development, AI development&#39;s pace will keep accelerating, and more &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240105/p19#a240105p19)
- - [Apple revives old fight with Hey after rejecting new calendar app](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)
- - [Samsung Galaxy Z Fold 4 Deals: Over $1,000 Off Unlocked, Trade-In and Bundled Items     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple revives old fight with Hey after rejecting new calendar app](https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

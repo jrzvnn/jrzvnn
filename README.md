@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww deer](http://9gag.com/gag/a1PyBNv)
- - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 💣 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
- - 😝 [Gas leak mistaken as fog](http://9gag.com/gag/adPGW5B)
- - 👉 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)<!-- MEMES:END -->
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 💣 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neobank Dave has reached an agreement to pay $71M to FTX liquidators to buy back a $100M convertible promissory note it issued to FTX Ventures in 2022 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240106/p14#a240106p14)
  - [Texans vs. Colts Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-colts-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
  - [Best Internet Providers in York, Pennsylvania     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)
  - [Google downplays reports of malware abusing an undocumented Chrome API to generate new authentication cookies, saying such token theft attacks &quot;are not new&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240106/p13#a240106p13)
- - [Amerisleep Mattresses Review: A Memory Foam Feel With Multiple Firmness Options     - CNET](https://www.cnet.com/health/sleep/amerisleep-mattresses-review/#ftag=CAD590a51e)
- - [Hands-on with Midjourney v6: generates highly detailed images that sometimes seem unrealistic, a different approach to prompting compared to v5, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240106/p12#a240106p12)<!-- TECH:END -->
+ - [Amerisleep Mattresses Review: A Memory Foam Feel With Multiple Firmness Options     - CNET](https://www.cnet.com/health/sleep/amerisleep-mattresses-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

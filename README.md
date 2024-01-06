@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
- - 💣 [The law of nature](http://9gag.com/gag/aeQnWqp)
+ - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
  - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 👉 [A Kid on Epsteins island when Naomi Campbell enters the room to bang him...](http://9gag.com/gag/abvNQZL)<!-- MEMES:END -->
+ - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 ---
 

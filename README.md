@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
+ - 😝 [Gas leak mistaken as fog](http://9gag.com/gag/adPGW5B)
+ - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
+ - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
 
 ---
 

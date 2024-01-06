@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 💣 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
- - 👉 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)<!-- MEMES:END -->
+ - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 😝 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
+ - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - 😝 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)
  - 💣 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
+ - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
+ - 👉 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)<!-- MEMES:END -->
 
 ---
 

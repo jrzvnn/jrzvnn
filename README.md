@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [What&#39;s going on here](http://9gag.com/gag/aEq9NzM)
+ - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
  - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
- - 💣 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
  - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
 
 ---

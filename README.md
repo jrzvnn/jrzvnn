@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 😝 [What&#39;s going on here](http://9gag.com/gag/aEq9NzM)
- - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
+ - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
+ - 💣 [Awww deer](http://9gag.com/gag/a1PyBNv)
  - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 👉 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)<!-- MEMES:END -->
+ - 👉 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)<!-- MEMES:END -->
 
 ---
 

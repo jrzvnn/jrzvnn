@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Welcome to the club](http://9gag.com/gag/aqePY8R)
- - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
  - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)<!-- MEMES:END -->
+ - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
 
 ---
 

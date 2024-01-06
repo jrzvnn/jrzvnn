@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
  - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 👉 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)<!-- MEMES:END -->
+ - 😝 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
+ - 💣 [When you get into a relationship with an abuser and you&#39;ll be blamed as THE abuser...](http://9gag.com/gag/aqePAgv)
+ - 😝 [The law of nature](http://9gag.com/gag/aeQnWqp)
+ - 👉 [What the actual f**k](http://9gag.com/gag/aeQn7eq)<!-- MEMES:END -->
 
 ---
 

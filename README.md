@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
+ - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 💣 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
  - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 💣 [It will be a fun year](http://9gag.com/gag/aYV3ZW2)
- - 😝 [Do you have to pay it in 1520s currency](http://9gag.com/gag/aPgEVQg)
- - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
+ - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
 
 ---
 

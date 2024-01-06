@@ -170,8 +170,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
  - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
  - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
  - 😝 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
  - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->

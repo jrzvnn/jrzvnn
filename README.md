@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
- - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
- - 💣 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 😝 [Good thing the phone was in airplane mode...](http://9gag.com/gag/az2WQ5j)
+ - 💣 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
  - 👉 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)<!-- MEMES:END -->
 
 ---

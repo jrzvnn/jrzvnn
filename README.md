@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
- - 😝 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
- - 💣 [Awww deer](http://9gag.com/gag/a1PyBNv)
+ - 😝 [Awww deer](http://9gag.com/gag/a1PyBNv)
  - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 👉 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)<!-- MEMES:END -->
+ - 💣 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)
+ - 😝 [Gas leak mistaken as fog](http://9gag.com/gag/adPGW5B)
+ - 👉 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)<!-- MEMES:END -->
 
 ---
 

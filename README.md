@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mohammed Qahtani, the winner of the Toastmasters World Championship of Public Speaking, brilliant speech!](http://9gag.com/gag/a5XOxKy)
- - 😝 [Filters shmilters](http://9gag.com/gag/aDYKrOB)
- - 💣 [Awww deer](http://9gag.com/gag/a1PyBNv)
- - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 👉 [Oppenheimer Prime](http://9gag.com/gag/abvNdPE)<!-- MEMES:END -->
+ - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
+ - 😝 [Dammnnn these woke mfs](http://9gag.com/gag/abvNmqp)
+ - 💣 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)<!-- MEMES:END -->
 
 ---
 

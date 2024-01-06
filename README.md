@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
  - 💣 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
- - 👉 [Do you have to pay it in 1520s currency](http://9gag.com/gag/aPgEVQg)<!-- MEMES:END -->
+ - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 👉 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)<!-- MEMES:END -->
 
 ---
 

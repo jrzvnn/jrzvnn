@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a6q081q)
- - 😝 [Japanese Gameshow](http://9gag.com/gag/aVbp19w)
- - 💣 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
- - 😝 [I thought this would be greatly appreciated on 9gag](http://9gag.com/gag/aeQn7Dj)
+ - 😝 [Strange streak of light in the sky spotted in Vietnam at night](http://9gag.com/gag/a8qRwr3)
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
+ - 💣 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
  - 👉 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)<!-- MEMES:END -->
 
 ---

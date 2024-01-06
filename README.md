@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dockcase Smart USB-C Hub 7-in-1 Explorer Edition review: A sleek design with out-of-date USB ports](https://appleinsider.com/articles/24/01/06/dockcase-smart-usb-c-hub-7-in-1-explorer-edition-review-a-sleek-design-with-out-of-date-usb-ports?utm_medium=rss)
  - [Apple is sending out checks for ‘batterygate’  class action claims](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)
  - [Neobank Dave has reached an agreement to pay $71M to FTX liquidators to buy back a $100M convertible promissory note it issued to FTX Ventures in 2022 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240106/p14#a240106p14)
  - [Texans vs. Colts Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-colts-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
- - [Best Internet Providers in York, Pennsylvania     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)
- - [Google downplays reports of malware abusing an undocumented Chrome API to generate new authentication cookies, saying such token theft attacks &quot;are not new&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240106/p13#a240106p13)<!-- TECH:END -->
+ - [Best Internet Providers in York, Pennsylvania     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

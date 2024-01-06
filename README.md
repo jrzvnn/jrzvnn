@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the actual f**k](http://9gag.com/gag/aeQn7eq)
+ - 😝 [Woman destroys the entire store!](http://9gag.com/gag/aNw73nv)
+ - 😝 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
+ - 💣 [Not in the flight logs nor have any association with any other. Men of honor and principals.](http://9gag.com/gag/amAeR3y)
  - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [Current state of Europe](http://9gag.com/gag/a8qRKKe)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 👉 [Welcome to the club](http://9gag.com/gag/aqePY8R)<!-- MEMES:END -->
 
 ---
 

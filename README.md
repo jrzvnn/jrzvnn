@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 😝 [Mom of the year](http://9gag.com/gag/avQMXLO)
  - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
- - 👉 [Ass is Ass](http://9gag.com/gag/axoLK3n)<!-- MEMES:END -->
+ - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
 
 ---
 

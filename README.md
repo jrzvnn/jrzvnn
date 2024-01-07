@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
- - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 👉 [Haunt me forever](http://9gag.com/gag/ap94zED)<!-- MEMES:END -->
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 💣 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 ---
 

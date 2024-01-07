@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Linear&#39;s CEO, who uses Carta to manage its cap table, says Carta tried to sell Linear shares without its consent; Carta CEO blames a rogue employee &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240107/p8#a240107p8)
  - [The Acer 57-inch Predator Z57 is a periphery-gobbling curved Mini LED display](https://www.theverge.com/2024/1/7/24028819/acer-predator-z57-57-inch-display-120hz-ces-2024)
  - [Samsung&#39;s New Robot Mop-Vac Hunts Down Stains and Steam Cleans Them for You     - CNET](https://www.cnet.com/home/kitchen-and-household/samsungs-new-robot-mop-vac-hunts-down-stains-and-steam-cleans-them-for-you/#ftag=CAD590a51e)
  - [How to instantly change text between upper, lower, and title case on a Mac](https://appleinsider.com/inside/macos/tips/how-to-instantly-change-text-between-upper-lower-and-title-case-on-a-mac?utm_medium=rss)
- - [DeepMind spinout Isomorphic Labs partners with Eli Lilly and Novartis on AI-based drug discovery, for $82.5M paid upfront and $2.9B in performance incentives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240107/p7#a240107p7)
- - [Soon You Can Give Your iPhone a Physical Keyboard With Real Buttons     - CNET](https://www.cnet.com/tech/mobile/soon-you-can-give-your-iphone-a-physical-keyboard-with-real-buttons/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepMind spinout Isomorphic Labs partners with Eli Lilly and Novartis on AI-based drug discovery, for $82.5M paid upfront and $2.9B in performance incentives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240107/p7#a240107p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

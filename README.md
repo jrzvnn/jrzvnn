@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
- - 😝 [Destroyer of Worlds over Pasadena](http://9gag.com/gag/abvNd6B)
- - 💣 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [Kojimasan likes scanning](http://9gag.com/gag/aPgEzAG)
+ - 💣 [What&#39;s going on here](http://9gag.com/gag/aEq9NzM)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 👉 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)<!-- MEMES:END -->
 
 ---
 

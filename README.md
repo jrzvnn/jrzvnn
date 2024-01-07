@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepMind spinout Isomorphic Labs partners with Eli Lilly and Novartis on AI-based drug discovery, receiving $82.5M upfront and $2.9B in performance incentives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240107/p7#a240107p7)
  - [Acer announces Intel Core Ultra-based Swift laptops, including the Swift X 14 with Nvidia RTX 4070 and 120Hz OLED display, starting at $1,399 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240107/p6#a240107p6)
  - [Xreal unveils the $699 Air 2 Ultra AR glasses, adding dual 3D cameras to map the wearer&#39;s environment and enable features like hand tracking, shipping in March &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240107/p5#a240107p5)
  - [Vikings vs. Lions Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-lions-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
- - [Acer&#39;s 3D Screen Coming to Gaming Monitor, Mainstream Laptop     - CNET](https://www.cnet.com/tech/computing/acers-3d-screen-coming-to-gaming-monitor-mainstream-laptop/#ftag=CAD590a51e)
- - [Acer Adds New Intel Core Ultra Laptops to its Swift Series     - CNET](https://www.cnet.com/tech/computing/acer-adds-new-intel-core-ultra-laptops-to-its-swift-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acer&#39;s 3D Screen Coming to Gaming Monitor, Mainstream Laptop     - CNET](https://www.cnet.com/tech/computing/acers-3d-screen-coming-to-gaming-monitor-mainstream-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

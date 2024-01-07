@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [I miss being young](http://9gag.com/gag/amAeyx2)
  - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
  - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
  - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
+ - 👉 [Mommy](http://9gag.com/gag/a9qxZD1)<!-- MEMES:END -->
 
 ---
 

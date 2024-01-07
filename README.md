@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was a good time](http://9gag.com/gag/az2Wyjx)
- - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
  - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 💣 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
 
 ---
 

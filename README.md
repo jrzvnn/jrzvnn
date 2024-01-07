@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your perfect Sunday?](http://9gag.com/gag/aMEo7jA)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 💣 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
- - 😝 [Accidents happen](http://9gag.com/gag/aWGr5Mq)
- - 👉 [Hey guys. I&#39;m a medic from Czechia in Ukraine. Training soldiers, evacuating the wounded ones. Support Ukraine.](http://9gag.com/gag/axoLwVK)<!-- MEMES:END -->
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
- - 💣 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 👉 [Haunt me forever](http://9gag.com/gag/ap94zED)<!-- MEMES:END -->
+ - 😝 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
+ - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
+ - 💣 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
+ - 😝 [Defensive formation](http://9gag.com/gag/az2WzyK)
+ - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
 
 ---
 

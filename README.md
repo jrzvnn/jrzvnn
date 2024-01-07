@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)
  - [Linear&#39;s CEO, who uses Carta to manage its cap table, says Carta tried to sell Linear shares without its consent; Carta CEO blames a rogue employee &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240107/p8#a240107p8)
- - [The Acer 57-inch Predator Z57 is a periphery-gobbling curved Mini LED display](https://www.theverge.com/2024/1/7/24028819/acer-predator-z57-57-inch-display-120hz-ces-2024)
- - [Samsung&#39;s New Robot Mop-Vac Hunts Down Stains and Steam Cleans Them for You     - CNET](https://www.cnet.com/home/kitchen-and-household/samsungs-new-robot-mop-vac-hunts-down-stains-and-steam-cleans-them-for-you/#ftag=CAD590a51e)
- - [How to instantly change text between upper, lower, and title case on a Mac](https://appleinsider.com/inside/macos/tips/how-to-instantly-change-text-between-upper-lower-and-title-case-on-a-mac?utm_medium=rss)
- - [DeepMind spinout Isomorphic Labs partners with Eli Lilly and Novartis on AI-based drug discovery, for $82.5M paid upfront and $2.9B in performance incentives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240107/p7#a240107p7)<!-- TECH:END -->
+ - [Cowboys vs. Commanders Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-commanders-livestream-how-to-watch-nfl-week-18-2024-online-today/#ftag=CAD590a51e)
+ - [Seahawks vs. Cardinals Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
+ - [Rams vs. 49ers Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-49ers-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

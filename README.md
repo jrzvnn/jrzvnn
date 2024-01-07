@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hippo trying to escape gets slapped by security guard.](http://9gag.com/gag/a3Z6pGQ)
- - 😝 [I miss being young](http://9gag.com/gag/amAeyx2)
- - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 👉 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)<!-- MEMES:END -->
+ - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
+ - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
+ - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
+ - 😝 [Title](http://9gag.com/gag/anzm32q)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 ---
 

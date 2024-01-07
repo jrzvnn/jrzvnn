@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
+ - 💣 [Title](http://9gag.com/gag/anzm32q)
  - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
- - 😝 [That&#39;s a healthy looking beverage](http://9gag.com/gag/agoDddK)
- - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
- - 😝 [Title](http://9gag.com/gag/anzm32q)
- - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
+ - 👉 [Playing on easy mode](http://9gag.com/gag/aNw7253)<!-- MEMES:END -->
 
 ---
 

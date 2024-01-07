@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple nabs four Creative Arts Emmys in first ceremony](https://appleinsider.com/articles/24/01/07/apple-nabs-four-creative-arts-emmys-in-first-ceremony?utm_medium=rss)
  - [A look at Apple&#39;s preparations for the Vision Pro&#39;s US launch and main challenges in 2024, like lagging in generative AI, reviving revenue growth, and antitrust &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240107/p4#a240107p4)
  - [Second-gen AirTag probably won&#39;t ship until 2025](https://appleinsider.com/articles/24/01/07/second-gen-airtag-probably-wont-ship-until-2025?utm_medium=rss)
  - [Apple Vision Pro expected to launch in February](https://appleinsider.com/articles/24/01/07/apple-vision-pro-expected-to-launch-in-february?utm_medium=rss)
- - [Apple&#39;s generative AI push includes Xcode tools, auto-summarizing features in apps](https://appleinsider.com/articles/24/01/07/apples-generative-ai-push-includes-xcode-tools-auto-summarizing-features-in-apps?utm_medium=rss)
- - [Last Chance to Score a OneAir Elite Lifetime Subscription for $80 for Travel Savings     - CNET](https://www.cnet.com/deals/last-chance-to-score-a-oneair-elite-lifetime-subscription-for-80-for-travel-savings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s generative AI push includes Xcode tools, auto-summarizing features in apps](https://appleinsider.com/articles/24/01/07/apples-generative-ai-push-includes-xcode-tools-auto-summarizing-features-in-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

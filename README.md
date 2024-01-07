@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
- - 😝 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
- - 💣 [Checkpoint](http://9gag.com/gag/aDYKL3K)
- - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
- - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 💣 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
 
 ---
 

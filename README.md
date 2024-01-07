@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xreal unveils the $699 Air 2 Ultra glasses, adding dual 3D cameras to map the wearer&#39;s environment and enable hand tracking, with shipments starting in March &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240107/p5#a240107p5)
- - [Acer is bringing its glasses-free 3D screen to a more affordable laptop](https://www.theverge.com/2024/1/7/24022614/acer-aspire-3d-15-spatial-labs-predator-view-ces)
- - [Xgimi launches its brightest projector yet, hides another inside a ceiling lamp](https://www.theverge.com/2024/1/7/24018693/brightest-4k-projector-speaker-ceiling-lamp-combo-prices-specs)
- - [Apple nabs four Creative Arts Emmys in first ceremony](https://appleinsider.com/articles/24/01/07/apple-nabs-four-creative-arts-emmys-in-first-ceremony?utm_medium=rss)
- - [A look at Apple&#39;s preparations for the Vision Pro&#39;s US launch and main challenges in 2024, like lagging in generative AI, reviving revenue growth, and antitrust &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240107/p4#a240107p4)<!-- TECH:END -->
+ - [Xreal unveils the $699 Air 2 Ultra AR glasses, adding dual 3D cameras to map the wearer&#39;s environment and enable features like hand tracking, shipping in March &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240107/p5#a240107p5)
+ - [Vikings vs. Lions Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-lions-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
+ - [Acer&#39;s 3D Screen Coming to Gaming Monitor, Mainstream Laptop     - CNET](https://www.cnet.com/tech/computing/acers-3d-screen-coming-to-gaming-monitor-mainstream-laptop/#ftag=CAD590a51e)
+ - [Acer Adds New Intel Core Ultra Laptops to its Swift Series     - CNET](https://www.cnet.com/tech/computing/acer-adds-new-intel-core-ultra-laptops-to-its-swift-series/#ftag=CAD590a51e)
+ - [Acer is bringing its glasses-free 3D screen to a more affordable laptop](https://www.theverge.com/2024/1/7/24022614/acer-aspire-3d-15-spatial-labs-predator-view-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

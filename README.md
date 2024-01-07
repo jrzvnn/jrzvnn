@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Arizona Secretary of State Adrian Fontes about the state&#39;s efforts to curb AI-manufactured deceptions ahead of the upcoming 2024 US elections &lpar;A Mart&amp;iacute;nez/NPR&rpar;](http://www.techmeme.com/240107/p3#a240107p3)
  - [Apple&#39;s generative AI push includes Xcode tools, auto-summarizing features in apps](https://appleinsider.com/articles/24/01/07/apples-generative-ai-push-includes-xcode-tools-auto-summarizing-features-in-apps?utm_medium=rss)
+ - [Daily deals Jan. 7: $100 off Apple Studio Display, AirPods Max $479, 38% off Peloton Guide, more](https://appleinsider.com/articles/24/01/07/daily-deals-jan-7-100-off-apple-studio-display-airpods-max-479-38-off-peloton-guide-more?utm_medium=rss)
+ - [An interview with Arizona Secretary of State Adrian Fontes about the state&#39;s efforts to curb AI-manufactured deceptions ahead of the upcoming 2024 US elections &lpar;A Mart&amp;iacute;nez/NPR&rpar;](http://www.techmeme.com/240107/p3#a240107p3)
  - [Apple Vision Pro expected to launch in February](https://appleinsider.com/articles/24/01/07/apple-vision-pro-expected-to-launch-in-february?utm_medium=rss)
- - [AI Chatbots Are Here to Stay. Learn How They Can Work for You     - CNET](https://www.cnet.com/tech/computing/features/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/#ftag=CAD590a51e)
- - [What Does Spirulina Do to the Body? 5 Surprising Health Benefits     - CNET](https://www.cnet.com/health/nutrition/what-does-spirulina-do-to-the-body-5-surprising-health-benefits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Chatbots Are Here to Stay. Learn How They Can Work for You     - CNET](https://www.cnet.com/tech/computing/features/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

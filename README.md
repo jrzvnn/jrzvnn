@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)
  - [Acer&#39;s CES 2024 displays include a massive 57-inch mini LED monitor](https://appleinsider.com/articles/24/01/07/acers-ces-2024-displays-include-a-massive-57-inch-mini-led-monitor?utm_medium=rss)
  - [The Castro podcast app and its website are down](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
  - [Microsoft&#39;s New AI Key For Windows 11 Laptops Is A Bold Bid For AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)
- - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)
- - [Linear&#39;s CEO, who uses Carta to manage its cap table, says Carta tried to sell Linear shares without its consent; Carta CEO blames a rogue employee &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240107/p8#a240107p8)<!-- TECH:END -->
+ - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TRM Labs: North Korea-affiliated hackers were responsible for a third of all crypto thefts in 2023, stealing $600M+, which is about 30% less than in 2022 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240106/p16#a240106p16)
  - [Take home hot Apple products at discounts of up to $950 off](https://appleinsider.com/articles/24/01/07/take-home-hot-apple-products-at-discounts-of-up-to-950-off?utm_medium=rss)
  - [A defense of AI hallucinations, which can spur human creativity and, by forcing users to fact-check, act as a firewall in the transition to superintelligent AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240106/p15#a240106p15)
  - [Dockcase Smart USB-C Hub 7-in-1 Explorer Edition review: A sleek design with out-of-date USB ports](https://appleinsider.com/articles/24/01/06/dockcase-smart-usb-c-hub-7-in-1-explorer-edition-review-a-sleek-design-with-out-of-date-usb-ports?utm_medium=rss)
- - [Apple is sending out checks for ‘batterygate’  class action claims](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)
- - [Neobank Dave has reached an agreement to pay $71M to FTX liquidators to buy back a $100M convertible promissory note it issued to FTX Ventures in 2022 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240106/p14#a240106p14)<!-- TECH:END -->
+ - [Apple is sending out checks for ‘batterygate’  class action claims](https://www.theverge.com/2024/1/6/24028162/apple-batterygate-payments-issued-class-action-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

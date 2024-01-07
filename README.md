@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 😝 [Miniature dam](http://9gag.com/gag/aoKvGX0)
+ - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
  - 💣 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
+ - 😝 [What&#39;s your perfect Sunday?](http://9gag.com/gag/aMEo7jA)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 ---
 

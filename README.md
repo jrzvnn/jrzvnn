@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/awZEjNB)
- - 😝 [Or helicopter flyover.](http://9gag.com/gag/aBdAM8P)
- - 💣 [Sauron armor.](http://9gag.com/gag/aWGryG6)
- - 😝 [Miniature dam](http://9gag.com/gag/aoKvGX0)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)<!-- MEMES:END -->
+ - 😝 [Natural selection](http://9gag.com/gag/aL1ZO6A)
+ - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 💣 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 👉 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)<!-- MEMES:END -->
 
 ---
 

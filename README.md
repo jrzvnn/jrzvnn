@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Midjourney v6 and DALL-E 3 produce &quot;plagiaristic outputs&quot;, even when not directly asked to do so, which could expose users to copyright infringement claims &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240107/p2#a240107p2)
  - [Sources: some executives and board members at companies run by Elon Musk fear his use of drugs, including LSD, cocaine, and ecstasy, could harm his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240107/p1#a240107p1)
  - [Sources: Alibaba, Tencent, Baidu, and ByteDance aren&#39;t keen on buying Nvidia&#39;s lower-powered AI chips and are shifting some orders to Huawei&#39;s China-made chips &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240106/p17#a240106p17)
  - [TRM Labs: North Korea-affiliated hackers were responsible for a third of all crypto thefts in 2023, stealing $600M+, which is about 30% less than in 2022 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240106/p16#a240106p16)
- - [Take home hot Apple products at discounts of up to $950 off](https://appleinsider.com/articles/24/01/07/take-home-hot-apple-products-at-discounts-of-up-to-950-off?utm_medium=rss)
- - [A defense of AI hallucinations, which can spur human creativity and, by forcing users to fact-check, act as a firewall in the transition to superintelligent AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240106/p15#a240106p15)<!-- TECH:END -->
+ - [Take home hot Apple products at discounts of up to $950 off](https://appleinsider.com/articles/24/01/07/take-home-hot-apple-products-at-discounts-of-up-to-950-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

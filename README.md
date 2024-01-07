@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 💣 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
  - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
+ - 👉 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)<!-- MEMES:END -->
 
 ---
 

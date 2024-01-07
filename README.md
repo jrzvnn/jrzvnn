@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
  - 😝 [Defensive formation](http://9gag.com/gag/az2WzyK)
- - 💣 [Sauron armor.](http://9gag.com/gag/aWGryG6)
  - 😝 [The average 9gager](http://9gag.com/gag/axoL8zW)
- - 👉 [Lol.](http://9gag.com/gag/awZEjNB)<!-- MEMES:END -->
+ - 💣 [Sauron armor.](http://9gag.com/gag/aWGryG6)
+ - 😝 [Lol.](http://9gag.com/gag/awZEjNB)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 ---
 

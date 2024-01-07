@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 😝 [I just leave this here](http://9gag.com/gag/adPGwMZ)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 ---
 

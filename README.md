@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Queen you dropped this \ud83d\udc51](http://9gag.com/gag/a9qx46Z)
- - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
- - 💣 [Back when western animation was at its peak.](http://9gag.com/gag/a7qYmnm)
- - 😝 [Defensive formation](http://9gag.com/gag/az2WzyK)
- - 👉 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)<!-- MEMES:END -->
+ - 😝 [Hippo trying to escape gets slapped by security guard.](http://9gag.com/gag/a3Z6pGQ)
+ - 😝 [I miss being young](http://9gag.com/gag/amAeyx2)
+ - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 👉 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)<!-- MEMES:END -->
 
 ---
 

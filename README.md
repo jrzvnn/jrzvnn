@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
  - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
+ - 💣 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
  - 👉 [Haunt me forever](http://9gag.com/gag/ap94zED)<!-- MEMES:END -->
 
 ---

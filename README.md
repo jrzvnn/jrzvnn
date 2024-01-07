@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)<!-- MEMES:END -->
+ - 😝 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
+ - 💣 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 😝 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
+ - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
 
 ---
 

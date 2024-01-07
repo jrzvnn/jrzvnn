@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 💣 [Title](http://9gag.com/gag/anzm32q)
- - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
- - 👉 [Playing on easy mode](http://9gag.com/gag/aNw7253)<!-- MEMES:END -->
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
+ - 👉 [Ass is Ass](http://9gag.com/gag/axoLK3n)<!-- MEMES:END -->
 
 ---
 

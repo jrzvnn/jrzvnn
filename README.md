@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I miss being young](http://9gag.com/gag/amAeyx2)
- - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
  - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 👉 [Mommy](http://9gag.com/gag/a9qxZD1)<!-- MEMES:END -->
+ - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 👉 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)<!-- MEMES:END -->
 
 ---
 

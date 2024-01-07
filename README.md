@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 💣 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/awZEjNB)
+ - 😝 [Or helicopter flyover.](http://9gag.com/gag/aBdAM8P)
+ - 💣 [Sauron armor.](http://9gag.com/gag/aWGryG6)
+ - 😝 [Miniature dam](http://9gag.com/gag/aoKvGX0)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)<!-- MEMES:END -->
 
 ---
 

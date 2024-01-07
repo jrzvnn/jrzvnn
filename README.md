@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 👉 [Really!?](http://9gag.com/gag/ay2bA3M)<!-- MEMES:END -->
+ - 😝 [The average 9gager](http://9gag.com/gag/axoL8zW)
+ - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 💣 [The original `they/them`](http://9gag.com/gag/ay2bVzY)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 👉 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)<!-- MEMES:END -->
 
 ---
 

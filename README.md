@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
- - 💣 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 😝 [This is an elected official. You&#39;ll NEVER GUESS which party.](http://9gag.com/gag/aeQny6W)
- - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
+ - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
+ - 😝 [Destroyer of Worlds over Pasadena](http://9gag.com/gag/abvNd6B)
+ - 💣 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
+ - 😝 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
+ - 👉 [Poor girls](http://9gag.com/gag/aVbp9o2)<!-- MEMES:END -->
 
 ---
 

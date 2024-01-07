@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
- - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 💣 [Father confronts teacher that hit his child](http://9gag.com/gag/awZEDby)
- - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 👉 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)<!-- MEMES:END -->
 
 ---
 

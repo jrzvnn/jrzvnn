@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
- - 😝 [I don&#39;t recall learning this technique back in school.](http://9gag.com/gag/ay2bZ2q)
- - 💣 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
  - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Is it even possible...](http://9gag.com/gag/agoDwOq)<!-- MEMES:END -->
+ - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
 
 ---
 

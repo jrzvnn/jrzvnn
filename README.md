@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
  - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
- - 👉 [I miss being young](http://9gag.com/gag/amAeyx2)<!-- MEMES:END -->
+ - 💣 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
+ - 👉 [Playing on easy mode](http://9gag.com/gag/aNw7253)<!-- MEMES:END -->
 
 ---
 

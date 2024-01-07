@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miniature dam](http://9gag.com/gag/aoKvGX0)
- - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
+ - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
  - 💣 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 😝 [What&#39;s your perfect Sunday?](http://9gag.com/gag/aMEo7jA)
- - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 ---
 

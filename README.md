@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Castro podcast app and its website is gone](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
  - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)
  - [Linear&#39;s CEO, who uses Carta to manage its cap table, says Carta tried to sell Linear shares without its consent; Carta CEO blames a rogue employee &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240107/p8#a240107p8)
  - [Cowboys vs. Commanders Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-commanders-livestream-how-to-watch-nfl-week-18-2024-online-today/#ftag=CAD590a51e)
- - [Seahawks vs. Cardinals Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)
- - [Rams vs. 49ers Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-49ers-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seahawks vs. Cardinals Livestream: How to Watch NFL Week 18 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-livestream-how-to-watch-nfl-week-18-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

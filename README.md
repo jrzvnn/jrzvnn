@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime Blotter: Thief taunts London man via Ring after stealing iPhone](https://appleinsider.com/articles/24/01/07/crime-blotter-thief-taunts-london-man-via-ring-after-stealing-iphone?utm_medium=rss)
- - [What’s the Value of 3 Million LPs in a Digital World?](https://www.wired.com/story/archive-of-contemporary-music-save-3-million-records-digital-streaming/)
- - [How Midjourney v6 and DALL-E 3 produce &quot;plagiaristic outputs&quot;, even when not directly asked to do so, which could expose users to copyright infringement claims &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240107/p2#a240107p2)
- - [2024 Is the Year You Take Control of Your Home&#39;s Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/2024-is-the-year-you-take-control-of-your-homes-energy/#ftag=CAD590a51e)
- - [Sources: some executives and board members at companies run by Elon Musk fear his use of drugs, including LSD, cocaine, and ecstasy, could harm his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240107/p1#a240107p1)<!-- TECH:END -->
+ - [What&#39;s Next for EVs in 2024 video     - CNET](https://www.cnet.com/roadshow/videos/whats-next-for-evs-in-2024/#ftag=CAD590a51e)
+ - [Cybex Sirona S Review &lpar;2023&rpar;: Parenthood From the Future](https://www.wired.com/review/cybex-sensorsafe-sirona-s-car-seat-review/)
+ - [During Pregnancy, the Placenta Hacks the Immune System to Protect the Fetus](https://www.wired.com/story/during-pregnancy-the-placenta-hacks-the-immune-system-to-protect-the-fetus/)
+ - [The hubless electric motorcycle with sci-fi style and a great name](https://www.theverge.com/2024/1/7/24028300/verge-electric-motorcylce-ts-ultra-price-photo-ces)
+ - [A better all-in-one AI app is finally here](https://www.theverge.com/2024/1/7/24026904/copilot-ai-bitconned-storygraph-clicks-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

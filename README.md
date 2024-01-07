@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Vision Pro expected to launch in February](https://appleinsider.com/articles/24/01/07/apple-vision-pro-expected-to-launch-in-february?utm_medium=rss)
+ - [AI Chatbots Are Here to Stay. Learn How They Can Work for You     - CNET](https://www.cnet.com/tech/computing/features/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/#ftag=CAD590a51e)
+ - [What Does Spirulina Do to the Body? 5 Surprising Health Benefits     - CNET](https://www.cnet.com/health/nutrition/what-does-spirulina-do-to-the-body-5-surprising-health-benefits/#ftag=CAD590a51e)
  - [6 Best Smart Shades, Blinds, and Curtains &lpar;2023&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [Xreal’s new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
- - [What&#39;s Next for EVs in 2024 video     - CNET](https://www.cnet.com/roadshow/videos/whats-next-for-evs-in-2024/#ftag=CAD590a51e)
- - [Cybex Sirona S Review &lpar;2023&rpar;: Parenthood From the Future](https://www.wired.com/review/cybex-sensorsafe-sirona-s-car-seat-review/)<!-- TECH:END -->
+ - [Best Mac VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

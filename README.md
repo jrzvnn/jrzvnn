@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average 9gager](http://9gag.com/gag/axoL8zW)
- - 😝 [Earthquake filmed from an airplane](http://9gag.com/gag/a8qRQeQ)
- - 💣 [The original `they/them`](http://9gag.com/gag/ay2bVzY)
+ - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
  - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 👉 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)<!-- MEMES:END -->
+ - 💣 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
+ - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Music industry insiders reflect on the waning influence of popular, human-curated Spotify playlists, as the company shifts towards AI-driven personalization &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240107/p9#a240107p9)
  - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)
  - [Acer&#39;s CES 2024 displays include a massive 57-inch mini LED monitor](https://appleinsider.com/articles/24/01/07/acers-ces-2024-displays-include-a-massive-57-inch-mini-led-monitor?utm_medium=rss)
  - [Qualcomm&#39;s New VR Chip Gives More Power to Apple Vision Pro Competitors     - CNET](https://www.cnet.com/tech/computing/qualcomms-new-vr-chip-gives-more-power-to-apple-vision-pro-competitors/#ftag=CAD590a51e)
- - [The Castro podcast app and its website are down](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
- - [Microsoft&#39;s New AI Key for Windows 11 Laptops Is a Bold Bid for AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Castro podcast app and its website are down](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

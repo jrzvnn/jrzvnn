@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you have to pay it in 1520s currency](http://9gag.com/gag/aPgEVQg)
- - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
- - 💣 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
- - 😝 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 👉 [Look at them](http://9gag.com/gag/aBdAvQN)<!-- MEMES:END -->
+ - 😝 [So exactly as it should be](http://9gag.com/gag/az2Wv6x)
+ - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
+ - 💣 [Father confronts teacher that hit his child](http://9gag.com/gag/awZEDby)
+ - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 👉 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)<!-- MEMES:END -->
 
 ---
 

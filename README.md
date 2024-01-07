@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Smart Shades, Blinds, and Curtains &lpar;2023&rpar;](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [Xreal’s new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
  - [What&#39;s Next for EVs in 2024 video     - CNET](https://www.cnet.com/roadshow/videos/whats-next-for-evs-in-2024/#ftag=CAD590a51e)
  - [Cybex Sirona S Review &lpar;2023&rpar;: Parenthood From the Future](https://www.wired.com/review/cybex-sensorsafe-sirona-s-car-seat-review/)
- - [During Pregnancy, the Placenta Hacks the Immune System to Protect the Fetus](https://www.wired.com/story/during-pregnancy-the-placenta-hacks-the-immune-system-to-protect-the-fetus/)
- - [The hubless electric motorcycle with sci-fi style and a great name](https://www.theverge.com/2024/1/7/24028300/verge-electric-motorcylce-ts-ultra-price-photo-ces)
- - [A better all-in-one AI app is finally here](https://www.theverge.com/2024/1/7/24026904/copilot-ai-bitconned-storygraph-clicks-installer-newsletter)<!-- TECH:END -->
+ - [During Pregnancy, the Placenta Hacks the Immune System to Protect the Fetus](https://www.wired.com/story/during-pregnancy-the-placenta-hacks-the-immune-system-to-protect-the-fetus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

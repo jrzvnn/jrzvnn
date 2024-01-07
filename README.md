@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natural selection](http://9gag.com/gag/aL1ZO6A)
+ - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
+ - 😝 [Homeboy wanted the blood](http://9gag.com/gag/aZD6X5p)
+ - 💣 [Poor girls](http://9gag.com/gag/aVbp9o2)
  - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 💣 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 👉 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)<!-- MEMES:END -->
+ - 👉 [Haunt me forever](http://9gag.com/gag/ap94zED)<!-- MEMES:END -->
 
 ---
 

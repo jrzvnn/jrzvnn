@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
  - 😝 [Haunt me forever](http://9gag.com/gag/ap94zED)
- - 💣 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
  - 👉 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)<!-- MEMES:END -->
 
 ---

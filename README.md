@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
  - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
- - 👉 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)<!-- MEMES:END -->
+ - 😝 [The Internet in North Korea](http://9gag.com/gag/aOxMNv6)
+ - 💣 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
+ - 😝 [This is an elected official. You&#39;ll NEVER GUESS which party.](http://9gag.com/gag/aeQny6W)
+ - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
 
 ---
 

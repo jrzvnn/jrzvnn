@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
- - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
- - 💣 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
  - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 👉 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)<!-- MEMES:END -->
+ - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 💣 [Playing on easy mode](http://9gag.com/gag/aNw7253)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ay2bVwq)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 ---
 

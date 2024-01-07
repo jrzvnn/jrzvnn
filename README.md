@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)
  - [Acer&#39;s CES 2024 displays include a massive 57-inch mini LED monitor](https://appleinsider.com/articles/24/01/07/acers-ces-2024-displays-include-a-massive-57-inch-mini-led-monitor?utm_medium=rss)
+ - [Qualcomm&#39;s New VR Chip Gives More Power to Apple Vision Pro Competitors     - CNET](https://www.cnet.com/tech/computing/qualcomms-new-vr-chip-gives-more-power-to-apple-vision-pro-competitors/#ftag=CAD590a51e)
  - [The Castro podcast app and its website are down](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
- - [Microsoft&#39;s New AI Key For Windows 11 Laptops Is A Bold Bid For AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)
- - [Bills vs. Dolphins Livestream: How to Watch Sunday Night Football Online     - CNET](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-livestream-how-to-watch-sunday-night-football-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft&#39;s New AI Key for Windows 11 Laptops Is a Bold Bid for AI Dominance     - CNET](https://www.cnet.com/tech/computing/microsofts-new-ai-key-for-windows-11-laptops-is-a-bold-bid-for-ai-dominance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

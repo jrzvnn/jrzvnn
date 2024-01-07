@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Defensive formation](http://9gag.com/gag/az2WzyK)
- - 😝 [The average 9gager](http://9gag.com/gag/axoL8zW)
- - 💣 [Sauron armor.](http://9gag.com/gag/aWGryG6)
- - 😝 [Lol.](http://9gag.com/gag/awZEjNB)
- - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
+ - 😝 [Was a good time](http://9gag.com/gag/az2Wyjx)
+ - 😝 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 💣 [I miss being young](http://9gag.com/gag/amAeyx2)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 👉 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)<!-- MEMES:END -->
 
 ---
 

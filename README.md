@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [Kojimasan likes scanning](http://9gag.com/gag/aPgEzAG)
- - 💣 [What&#39;s going on here](http://9gag.com/gag/aEq9NzM)
- - 😝 [Women Logic](http://9gag.com/gag/a9qx4pD)
- - 👉 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)<!-- MEMES:END -->
+ - 😝 [Bailing out mega companies explained for the Economically Illiterate](http://9gag.com/gag/aqePObP)
+ - 😝 [Poor girls](http://9gag.com/gag/aVbp9o2)
+ - 💣 [Look at them](http://9gag.com/gag/aBdAvQN)
+ - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
+ - 👉 [Really!?](http://9gag.com/gag/ay2bA3M)<!-- MEMES:END -->
 
 ---
 

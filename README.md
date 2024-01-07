@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at them](http://9gag.com/gag/aBdAvQN)
- - 😝 [I really doesn&#39;t](http://9gag.com/gag/amAedEo)
- - 💣 [Don\u2019t stop recording!](http://9gag.com/gag/abvNdEX)
- - 😝 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)
- - 👉 [Women Logic](http://9gag.com/gag/a9qx4pD)<!-- MEMES:END -->
+ - 😝 [The original `they/them`](http://9gag.com/gag/ay2bVzY)
+ - 😝 [This looks like a fun . movie](http://9gag.com/gag/axoLQPn)
+ - 💣 [His first day at work he delivered cars and the car owner recorded his new Audi.](http://9gag.com/gag/aZD64Zz)
+ - 😝 [Some people will not be lucky for long to live. Kurt Caz](http://9gag.com/gag/aGEmN3z)
+ - 👉 [The work of a motion capture performer](http://9gag.com/gag/avQMXz5)<!-- MEMES:END -->
 
 ---
 

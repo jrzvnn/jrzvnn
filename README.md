@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)
- - [Apple China iPhone downturn expected to continue throughout 2024](https://appleinsider.com/articles/24/01/08/apple-china-iphone-downturn-expected-to-continue-throughout-2024?utm_medium=rss)
- - [The New Digital Dark Age](https://www.wired.com/story/the-new-digital-dark-age/)
- - [It’s No Wonder People Are Getting Emotionally Attached to Chatbots](https://www.wired.com/story/its-no-wonder-people-are-getting-emotionally-attached-to-chatbots/)
- - [The Fight to Unite iPhone and Android Users Is Far From Over](https://www.wired.com/story/iphone-android-apple-imessage-beeper/)<!-- TECH:END -->
+ - [New M3 iPad Pro with OLED may have a ridiculously higher starting price](https://appleinsider.com/articles/24/01/08/new-m3-ipad-pro-with-oled-may-have-a-ridiculously-higher-starting-price?utm_medium=rss)
+ - [US launches its first moon-bound lander since the Apollo 17 mission](https://www.theverge.com/2024/1/8/24029705/nasa-peregrine-mission-one-moon-lander-vulcan-centaur-rocket-launch)
+ - [&#39;Still: A Michael J. Fox Movie&#39; wins four Emmy Awards](https://appleinsider.com/articles/24/01/08/still-a-michael-j-fox-movie-wins-four-emmy-awards?utm_medium=rss)
+ - [Letter: bipartisan House lawmakers call on the Biden administration to take stronger action to stem China&#39;s growing dominance in making older-generation chips &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p9#a240108p9)
+ - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mophie resurrects its battery case most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
+ - [&#39;Killers of the Flower Moon&#39; lands single Golden Globe award for Apple](https://appleinsider.com/articles/24/01/08/killers-of-the-flower-moon-lands-single-golden-globe-award-for-apple?utm_medium=rss)
+ - [iPhone 15 isn&#39;t regarded as well as the iPhone 14 or iPhone 13 were](https://appleinsider.com/articles/24/01/08/iphone-15-isnt-regarded-as-well-as-the-iphone-14-or-iphone-13-were?utm_medium=rss)
  - [New M3 iPad Pro with OLED may have a ridiculously higher starting price](https://appleinsider.com/articles/24/01/08/new-m3-ipad-pro-with-oled-may-have-a-ridiculously-higher-starting-price?utm_medium=rss)
- - [US launches its first moon-bound lander since the Apollo 17 mission](https://www.theverge.com/2024/1/8/24029705/nasa-peregrine-mission-one-moon-lander-vulcan-centaur-rocket-launch)
- - [&#39;Still: A Michael J. Fox Movie&#39; wins four Emmy Awards](https://appleinsider.com/articles/24/01/08/still-a-michael-j-fox-movie-wins-four-emmy-awards?utm_medium=rss)
- - [Letter: bipartisan House lawmakers call on the Biden administration to take stronger action to stem China&#39;s growing dominance in making older-generation chips &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p9#a240108p9)
- - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)<!-- TECH:END -->
+ - [US launches its first moon-bound lander since the Apollo 17 mission](https://www.theverge.com/2024/1/8/24029705/nasa-peregrine-mission-one-moon-lander-vulcan-centaur-rocket-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

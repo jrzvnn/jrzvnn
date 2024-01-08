@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys. I&#39;m a medic from Czechia in Ukraine. Training soldiers, evacuating the wounded ones. Support Ukraine.](http://9gag.com/gag/axoLwVK)
- - 😝 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
- - 💣 [Asked my grandfather the type of music he listened to at my age, he told me to search this song and now I&#39;m hooked.](http://9gag.com/gag/aoKvw7n)
- - 😝 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
- - 👉 [As a german I agree](http://9gag.com/gag/aWGr5b4)<!-- MEMES:END -->
+ - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 😝 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
+ - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
 
 ---
 

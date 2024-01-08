@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)
+ - [Oppo&#39;s &quot;Ultimate Camera Phone&quot; Is Impressive, but You Can&#39;t Buy It     - CNET](https://www.cnet.com/tech/mobile/oppos-ultimate-camera-phone-is-impressive-but-you-cant-buy-it/#ftag=CAD590a51e)
  - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
  - [Legal experts say pledges from Amazon, Microsoft, and Google to defend their customers from IP issues only extend to AI models built with their oversight &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240108/p4#a240108p4)
- - [Measurable AI: KeeTa, Meituan&#39;s sister app, has gained 37% marketshare of Hong Kong&#39;s food delivery market after debuting in May 2023; Foodpanda leads with 42% &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240108/p3#a240108p3)
- - [Sources: China acts to ease fears of a regulatory crackdown on its video game industry, including firing an official and convening consultations on new measures &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240108/p2#a240108p2)
- - [The European Commission urges Google, Meta, and others to help dissident Belarusian media by promoting their stories higher than those from pro-regime outlets &lpar;Raphael Minder/Financial Times&rpar;](http://www.techmeme.com/240108/p1#a240108p1)<!-- TECH:END -->
+ - [Measurable AI: KeeTa, Meituan&#39;s sister app, has gained 37% marketshare of Hong Kong&#39;s food delivery market after debuting in May 2023; Foodpanda leads with 42% &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240108/p3#a240108p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

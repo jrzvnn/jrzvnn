@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
  - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
  - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 👉 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)<!-- MEMES:END -->
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 

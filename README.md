@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cried](http://9gag.com/gag/aPgE2QB)
- - 😝 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
- - 💣 [Perfect](http://9gag.com/gag/a8qROxV)
- - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
- - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 😝 [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
+ - 💣 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---
 

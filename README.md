@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [Excellent police work...](http://9gag.com/gag/axoLrRL)
- - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
  - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [Unveiling of the newest Spanish train](http://9gag.com/gag/awZEEz1)<!-- MEMES:END -->
+ - 👉 [They are soulmates](http://9gag.com/gag/aVbp6jP)<!-- MEMES:END -->
 
 ---
 

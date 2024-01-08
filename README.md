@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tells developers how to submit apps to Apple Vision Pro App Store](https://appleinsider.com/articles/24/01/08/apple-tells-developers-how-to-submit-apps-to-apple-vision-pro-app-store?utm_medium=rss)
+ - [Hyundai says hydrogen will play a ‘prominent role’ in going carbon neutral](https://www.theverge.com/2024/1/8/24029789/hyundai-hydrogen-software-ai-ces-2024)
  - [Apple insists to EU antitrust regulators that it runs five App Stores, not one](https://appleinsider.com/articles/24/01/08/apple-insists-to-eu-antitrust-regulators-that-it-runs-five-app-stores-not-one?utm_medium=rss)
  - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demos](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
- - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)
- - [Final Fantasy XIV’s new class will unleash your inner Bob Ross](https://www.theverge.com/2024/1/8/24030282/final-fantasy-14-new-class-pictomancer-ffxiv-fan-fest-tokyo)
- - [Best Sonos Deals: Save on Move, Era 300, Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

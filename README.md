@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 💣 [Mommy](http://9gag.com/gag/a9qxZD1)
  - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 😝 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
- - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)<!-- MEMES:END -->
+ - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
 
 ---
 

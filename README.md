@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)
- - [Nvidia’s RTX 4080 Super arrives on January 31st at a more reasonable $999](https://www.theverge.com/2024/1/8/24028636/nvidia-rtx-4080-super-4070-ti-specs-release-date-pricing)
- - [Nvidia’s GeForce Now is getting cloud G-Sync support and streaming day passes](https://www.theverge.com/2024/1/8/24029674/nvidia-geforce-now-cloud-g-sync-day-pass-support)
- - [ChatGPT Coming to VWs so You Can Talk to Your Car     - CNET](https://www.cnet.com/roadshow/news/chatgpt-coming-to-vws-so-you-can-talk-to-your-car/#ftag=CAD590a51e)
- - [Appliance makers are teaming up to reduce your electricity usage — and save you cash](https://www.theverge.com/2024/1/8/24027381/samsung-lg-ge-launch-new-connected-energy-management-interface)<!-- TECH:END -->
+ - [Starting this month Waymo plans to run its SUVs on Phoenix freeways, initially with just its staff, making it the first robotaxi company to prep faster rides &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240108/p18#a240108p18)
+ - [Supreme Court rejects decade-old Twitter First Amendment case](https://www.theverge.com/2024/1/8/24029915/supreme-court-rejects-x-twitter-garland-fbi-surveillance-transparency-lawsuit)
+ - [Getty and Nvidia bring generative AI to stock photos](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos)
+ - [Nvidia unveils the RTX 4080 Super for $999, slightly faster than the RTX 4080 for $200 less, coming Jan. 31, alongside the RTX 4070 Super and RTX 4070 Ti Super &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p17#a240108p17)
+ - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

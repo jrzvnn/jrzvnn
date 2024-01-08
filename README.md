@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie resurrects its battery case most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
- - [&#39;Killers of the Flower Moon&#39; lands single Golden Globe award for Apple](https://appleinsider.com/articles/24/01/08/killers-of-the-flower-moon-lands-single-golden-globe-award-for-apple?utm_medium=rss)
- - [iPhone 15 isn&#39;t regarded as well as the iPhone 14 or iPhone 13 were](https://appleinsider.com/articles/24/01/08/iphone-15-isnt-regarded-as-well-as-the-iphone-14-or-iphone-13-were?utm_medium=rss)
- - [New M3 iPad Pro with OLED may have a ridiculously higher starting price](https://appleinsider.com/articles/24/01/08/new-m3-ipad-pro-with-oled-may-have-a-ridiculously-higher-starting-price?utm_medium=rss)
- - [US launches its first moon-bound lander since the Apollo 17 mission](https://www.theverge.com/2024/1/8/24029705/nasa-peregrine-mission-one-moon-lander-vulcan-centaur-rocket-launch)<!-- TECH:END -->
+ - [The Wi-Fi Alliance begins certifying Wi-Fi 7 devices, which could offer big speed and efficiency gains over Wi-Fi 6 in new phones, laptops, and routers in 2024 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240108/p10#a240108p10)
+ - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
+ - [This Ankle Wearable Wants to Fix the Way You Walk     - CNET](https://www.cnet.com/tech/mobile/this-ankle-wearable-wants-to-fix-the-way-you-walk/#ftag=CAD590a51e)
+ - [HP Omen Transcend 14 Is More Versatile Than Your Average Gaming Laptop     - CNET](https://www.cnet.com/tech/computing/hp-omen-transcend-14-is-more-versatile-than-your-average-gaming-laptop/#ftag=CAD590a51e)
+ - [JBL Upgrades Bluetooth Speaker Lineup With Several New Models     - CNET](https://www.cnet.com/tech/home-entertainment/jbl-upgrades-its-2024-bluetooth-speaker-lineup-with-several-new-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

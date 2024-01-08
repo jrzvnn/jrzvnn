@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My sister doesn&#39;t mess around.her rule is simple `if you embarrass me in front of people, I&#39;ll slap the silly out of you`.our mum was the same way.](http://9gag.com/gag/aDYK5xd)
- - 😝 [Rate my wallpaper](http://9gag.com/gag/avQMqqZ)
- - 💣 [We have been tricked](http://9gag.com/gag/aVbppj8)
- - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - 👉 [Stats can&#39;t scare you if you refuse to believe in them](http://9gag.com/gag/aVbpyL2)<!-- MEMES:END -->
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 

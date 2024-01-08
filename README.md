@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
  - 💣 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 👉 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)<!-- MEMES:END -->
+ - 😝 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 

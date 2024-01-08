@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 😝 [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
+ - 😝 [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 😝 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)
  - 💣 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
  - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 👉 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)<!-- MEMES:END -->
 
 ---
 

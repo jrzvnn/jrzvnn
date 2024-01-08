@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [They are soulmates](http://9gag.com/gag/aVbp6jP)<!-- MEMES:END -->
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---
 

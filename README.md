@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces the $329 Radeon RX 7600 XT, an update to the Radeon RX 7600 that is &quot;ready to take on 1440p&quot; gaming, shipping on January 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p16#a240108p16)
  - [AMD announces the $329 Ryzen 7 8700G, $229 Ryzen 5 8600G, and $179 Ryzen 5 8500G for desktop, offering Zen 4 cores and Radeon 780M graphics, shipping January 31 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240108/p15#a240108p15)
  - [AMD’s new $329 Radeon RX 7600 XT is ‘ready to take on 1440p’](https://www.theverge.com/2024/1/8/24029653/amd-radeon-rx-7600-xt-specs-release-date-price)
  - [AMD’s Ryzen 8000-series chips get an AI upgrade](https://www.theverge.com/2024/1/8/24026575/amd-8000-series-chips-ai-upgrade-ces-2024)
- - [iPhone AI and Siri 2.0 will launch in 2024, predicts Morgan Stanley](https://appleinsider.com/articles/24/01/08/iphone-ai-and-siri-20-will-launch-in-2024-predicts-morgan-stanley?utm_medium=rss)
- - [Last-Minute Gifts Available on Amazon: 26 Gifts From $15 to $250     - CNET](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone AI and Siri 2.0 will launch in 2024, predicts Morgan Stanley](https://appleinsider.com/articles/24/01/08/iphone-ai-and-siri-20-will-launch-in-2024-predicts-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

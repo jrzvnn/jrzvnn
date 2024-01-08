@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xcode 15.2 arrives, featuring support for Apple Vision Pro app creation](https://appleinsider.com/articles/24/01/08/xcode-152-arrives-featuring-support-for-apple-vision-pro-app-creation?utm_medium=rss)
  - [JBL&#39;s Live Buds 3 range adds a color display to the charging case](https://appleinsider.com/articles/24/01/08/jbls-live-buds-3-range-adds-a-color-display-to-the-charging-case?utm_medium=rss)
  - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)
  - [Duolingo cuts 10% of its contractors, partly attributing the move to its use of more AI to create app content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p24#a240108p24)
- - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)
- - [OpenAI responds to the NYT lawsuit, says training is fair use and there is an opt-out, &quot;regurgitation&quot; is a rare bug, and NYT is not telling the full story &lpar;OpenAI&rpar;](http://www.techmeme.com/240108/p23#a240108p23)<!-- TECH:END -->
+ - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Google, and Microsoft received licenses to establish HQs in Riyadh, after the government planned to halt contracts to companies without regional HQs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p8#a240108p8)
- - [Sources: Nvidia plans to begin mass producing its chips designed for China, the H20, L20, and L2, in Q2 2024, after the original November 2023 goal was delayed &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p7#a240108p7)
- - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)
- - [Taxes 2024 Cheat Sheet: Your Guide to Filing Your Tax Return     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-cheat-sheet-your-guide-to-filing-your-tax-return/#ftag=CAD590a51e)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
+ - [Tata, Pegatron commit over $1 billion to expand iPhone production in Tamil Nadu](https://appleinsider.com/articles/24/01/08/tata-pegatron-commit-over-1-billion-to-expand-iphone-production-in-tamil-nadu?utm_medium=rss)
+ - [Apple China iPhone downturn expected to continue throughout 2024](https://appleinsider.com/articles/24/01/08/apple-china-iphone-downturn-expected-to-continue-throughout-2024?utm_medium=rss)
+ - [The New Digital Dark Age](https://www.wired.com/story/the-new-digital-dark-age/)
+ - [It’s No Wonder People Are Getting Emotionally Attached to Chatbots](https://www.wired.com/story/its-no-wonder-people-are-getting-emotionally-attached-to-chatbots/)
+ - [The Fight to Unite iPhone and Android Users Is Far From Over](https://www.wired.com/story/iphone-android-apple-imessage-beeper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

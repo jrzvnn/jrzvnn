@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)
+ - [Narwal introduces Narwal Freo X Ultra and other robot vacuums at CES](https://appleinsider.com/articles/24/01/08/narwal-introduces-narwal-freo-x-ultra-and-other-robot-vacuums-at-ces?utm_medium=rss)
  - [Mui Board 2 reappears at CES 2024 with Matter support](https://appleinsider.com/articles/24/01/08/mui-board-2-reappears-at-ces-2024-with-matter-support?utm_medium=rss)
  - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)
- - [Prescription lenses for Apple Vision Pro are cheaper than expected](https://appleinsider.com/articles/24/01/08/prescription-lenses-for-apple-vision-pro-are-cheaper-than-expected?utm_medium=rss)
- - [Apple says Vision Pro ships with 256GB of storage and the ZEISS Optical Inserts for readers cost $99 and prescription ZEISS Optical Inserts cost $149 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240108/p13#a240108p13)
- - [Apple Vision Pro prescription lenses will cost $149 extra](https://www.theverge.com/2024/1/8/24029805/apple-vision-pro-price-lenses-prescription-zeiss)<!-- TECH:END -->
+ - [Prescription lenses for Apple Vision Pro are cheaper than expected](https://appleinsider.com/articles/24/01/08/prescription-lenses-for-apple-vision-pro-are-cheaper-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

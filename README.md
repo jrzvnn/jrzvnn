@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect](http://9gag.com/gag/a8qROxV)
+ - 😝 [I cried](http://9gag.com/gag/aPgE2QB)
+ - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 💣 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
  - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 💣 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
- - 😝 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
  - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
 
 ---

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon dropped prices on hot Apple gear in celebration of CES 2024](https://appleinsider.com/articles/24/01/08/amazon-dropped-prices-on-hot-apple-gear-in-celebration-of-ces-2024?utm_medium=rss)
- - [United Airlines says it found loose bolts while inspecting Boeing 737 Max 9 planes](https://www.theverge.com/2024/1/8/24030619/united-airlines-loose-bolts-door-plugs-boeing-737-max-9-plane-inspection-canceled-flights)
- - [Sources: former Twitter CEO Parag Agrawal&#39;s new AI startup, which is making software for LLM developers, raised ~$30M led by Khosla Ventures &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240108/p28#a240108p28)
- - [Rumble Is Part of an &#39;Active and Ongoing&#39; SEC Investigation](https://www.wired.com/story/rumble-sec-investigation/)
- - [Samsung finally puts the TV at the heart of its smart home](https://www.theverge.com/2024/1/8/24028857/samsung-tv-smart-display-ballie-smartthings)<!-- TECH:END -->
+ - [Lenovo’s latest 2-in-1 crams Windows and Android into one device](https://www.theverge.com/2024/1/8/24030533/lenovo-ces-laptops-legion-thinkpad-thinkbook)
+ - [Unity is laying off 25 percent of its staff](https://www.theverge.com/2024/1/8/24030695/unity-layoff-staff-25-percent)
+ - [Intel’s new 14th Gen mobile processors are here for 2024’s gaming laptops](https://www.theverge.com/2024/1/8/24029708/intel-14th-gen-mobile-processors-specs-release-date-pricing-ces-2024)
+ - [Kia’s ‘Platform Beyond Vehicles’ is a family of modular electric minivans for businesses](https://www.theverge.com/2024/1/8/24028828/kia-platform-beyond-vehicle-pbv-modular-ev-ces)
+ - [Alienware’s latest laptop has shrunken the butt](https://www.theverge.com/2024/1/8/24026555/dell-alienware-m16-r2-ces-2024-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

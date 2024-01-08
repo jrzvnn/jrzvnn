@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, This 800-Pound Steel Box Extracts Drinking Water From Thin Air     - CNET](https://www.cnet.com/how-to/yes-this-800-pound-steel-box-extracts-drinking-water-from-thin-air/#ftag=CAD590a51e)
- - [LG&#39;s Weird Speaker-TV Hybrid Puts Video on Top of Vacuum Tubes     - CNET](https://www.cnet.com/tech/home-entertainment/lgs-weird-speaker-tv-hybrid-puts-video-on-top-of-vacuum-tubes/#ftag=CAD590a51e)
- - [Browse Netflix By Tapping Your Fingers? This Smartwatch Software Is a First Step     - CNET](https://www.cnet.com/tech/mobile/browse-netflix-by-tapping-your-fingers-this-smartwatch-software-is-a-first-step/#ftag=CAD590a51e)
- - [j5create&#39;s new Thunderbolt 4 docking station supports 8K 60Hz video](https://appleinsider.com/articles/24/01/08/j5creates-new-thunderbolt-4-docking-station-supports-8k-60hz-video?utm_medium=rss)
- - [Samsung Teases Monitor Designed to Look Good in Multiples, Jumps into 3D Monitors     - CNET](https://www.cnet.com/tech/computing/samsung-teases-monitor-designed-to-look-good-in-multiples-jumps-into-3d-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Commission urges Google, Meta, and others to help dissident Belarusian media by promoting their stories higher than those from pro-regime outlets &lpar;Raphael Minder/Financial Times&rpar;](http://www.techmeme.com/240108/p1#a240108p1)
+ - [LG&#39;s 2024 OLED TVs Cut Wires, Boost Brightness video     - CNET](https://www.cnet.com/videos/lgs-2024-oled-tvs-cut-wires-boost-brightness/#ftag=CAD590a51e)
+ - [LG Transparent OLED Turns From TV Into Animated Art video     - CNET](https://www.cnet.com/videos/lg-transparent-oled-turns-from-tv-into-animated-art/#ftag=CAD590a51e)
+ - [LG&#39;s Wireless OLED TV Gets More Attainable at 65 Inches     - CNET](https://www.cnet.com/tech/home-entertainment/lgs-wireless-oled-tv-gets-slightly-more-attainable-at-65-inches/#ftag=CAD590a51e)
+ - [Wildly Impressive LG Transparent OLED Transforms From TV into Fish Tank     - CNET](https://www.cnet.com/tech/home-entertainment/wildly-impressive-lg-transparent-oled-transforms-from-tv-into-fish-tank/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

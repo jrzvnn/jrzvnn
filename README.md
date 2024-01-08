@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getty Images and Nvidia launch Generative AI by iStock, a text-to-image service that generates stock photos and is aimed at SMBs &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240108/p19#a240108p19)
+ - [Oppenheimer, Succession, and The Bear win big at the 2024 Golden Globes](https://www.theverge.com/2024/1/8/24029812/2024-golden-globes-winners-oppenheimer-bear-succession)
  - [Starting this month Waymo plans to run its SUVs on Phoenix freeways, initially with just its staff, making it the first robotaxi company to prep faster rides &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240108/p18#a240108p18)
  - [Supreme Court rejects decade-old Twitter First Amendment case](https://www.theverge.com/2024/1/8/24029915/supreme-court-rejects-x-twitter-garland-fbi-surveillance-transparency-lawsuit)
- - [Getty and Nvidia bring generative AI to stock photos](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos)
- - [Nvidia unveils the RTX 4080 Super for $999, slightly faster than the RTX 4080 for $200 less, coming Jan. 31, alongside the RTX 4070 Super and RTX 4070 Ti Super &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p17#a240108p17)
- - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)<!-- TECH:END -->
+ - [Getty and Nvidia bring generative AI to stock photos](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

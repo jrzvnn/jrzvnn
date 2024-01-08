@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon, Google, and Microsoft received licenses to establish HQs in Riyadh, after the government planned to halt contracts to companies without regional HQs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p8#a240108p8)
  - [Sources: Nvidia plans to begin mass producing its chips designed for China, the H20, L20, and L2, in Q2 2024, after the original November 2023 goal was delayed &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p7#a240108p7)
  - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)
  - [Taxes 2024 Cheat Sheet: Your Guide to Filing Your Tax Return     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-cheat-sheet-your-guide-to-filing-your-tax-return/#ftag=CAD590a51e)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Sennheiser Unveils New Momentum True Wireless 4 and Sport Earbuds at CES 2024     - CNET](https://www.cnet.com/tech/mobile/sennheiser-unveils-new-momentum-true-wireless-4-and-sport-earbuds-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

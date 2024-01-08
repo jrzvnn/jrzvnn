@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [HP debuts the $1,600+ Omen Transcend 14, with a 14-inch OLED display, Intel Core Ultra 7 or Ultra 9, two USB-A and two USB-C, and RTX 4070, weighing just 1.6kg &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240108/p11#a240108p11)
- - [The Wi-Fi Alliance begins certifying Wi-Fi 7 devices, which could offer big speed and efficiency gains over Wi-Fi 6 in new phones, laptops, and routers in 2024 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240108/p10#a240108p10)
- - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
- - [This Ankle Wearable Wants to Fix the Way You Walk     - CNET](https://www.cnet.com/tech/mobile/this-ankle-wearable-wants-to-fix-the-way-you-walk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)
+ - [Apple plans to start shipping the $3,499+ Vision Pro on February 2 in the US after opening pre-orders on January 19 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240108/p12#a240108p12)
+ - [OWC&#39;s ThunderBlade X8 SSD delivers unmatched performance for Apple Silicon](https://appleinsider.com/articles/24/01/08/owcs-thunderblade-x8-ssd-delivers-unmatched-performance-for-apple-silicon?utm_medium=rss)
+ - [Scosche unveils Qi2 chargers &amp; MagSafe mounts at CES 2024](https://appleinsider.com/articles/24/01/08/scosche-unveils-qi2-chargers-magsafe-mounts-at-ces-2024?utm_medium=rss)
+ - [Catalyst launches dog collar for AirTag &amp; rugged iPhone 15 cases](https://appleinsider.com/articles/24/01/08/catalyst-launches-dog-collar-for-airtag-rugged-iphone-15-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

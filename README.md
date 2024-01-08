@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia plans to begin mass producing its chips designed for China, the H20, L20, and L2, in Q2 2024, after the original November 2023 goal was delayed &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p7#a240108p7)
  - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [What&#39;s On Netflix data: Netflix released about 130, or 16%, fewer original programs in 2023 than 2022, after a decade of increasing output &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240108/p6#a240108p6)
- - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)
- - [Q&amp;A with University of Michigan researchers about their research into the effectiveness of using prompts to assign interpersonal and professional roles to LLMs &lpar;Sisi Wei/The Markup&rpar;](http://www.techmeme.com/240108/p5#a240108p5)
- - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)<!-- TECH:END -->
+ - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

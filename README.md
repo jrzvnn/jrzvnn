@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal introduces Narwal Freo X Ultra and other robot vacuums at CES](https://appleinsider.com/articles/24/01/08/narwal-introduces-narwal-freo-x-ultra-and-other-robot-vacuums-at-ces?utm_medium=rss)
- - [Hyper goes all out with new Thunderbolt 5, Qi2, &amp; GaN accessories at CES 2024](https://appleinsider.com/articles/24/01/08/hyper-goes-all-out-with-new-thunderbolt-5-qi2-gan-accessories-at-ces-2024?utm_medium=rss)
+ - [Carta says it is investigating an internal policy violation that affected Linear and two other companies, where someone &quot;on the cap table&quot; was contacted &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240107/p10#a240107p10)
+ - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)
+ - [Withings BeamO is a 4-in-1 checkup device that does more than take your temperature](https://appleinsider.com/articles/24/01/08/withings-beamo-is-a-4-in-1-checkup-device-that-does-more-than-take-your-temperature?utm_medium=rss)
  - [Govee debuts two new Matter-enabled devices at CES 2024](https://appleinsider.com/articles/24/01/08/govee-debuts-two-new-matter-enabled-devices-at-ces-2024?utm_medium=rss)
- - [Music industry insiders reflect on the waning influence of popular, human-curated Spotify playlists, as the company shifts towards AI-driven personalization &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240107/p9#a240107p9)
- - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)<!-- TECH:END -->
+ - [Narwal introduces Narwal Freo X Ultra and other robot vacuums at CES](https://appleinsider.com/articles/24/01/08/narwal-introduces-narwal-freo-x-ultra-and-other-robot-vacuums-at-ces?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

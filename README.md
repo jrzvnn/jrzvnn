@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
  - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 💣 [Mommy](http://9gag.com/gag/a9qxZD1)
- - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
+ - 💣 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 😝 [Mommy](http://9gag.com/gag/a9qxZD1)
+ - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - 😝 [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 💣 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Mommy](http://9gag.com/gag/a9qxZD1)<!-- MEMES:END -->
+ - 😝 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
+ - 😝 [As a german I agree](http://9gag.com/gag/aWGr5b4)
+ - 💣 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 👉 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)<!-- MEMES:END -->
 
 ---
 

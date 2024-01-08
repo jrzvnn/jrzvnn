@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
- - [Source: Perplexity, a generative AI search engine with a Pro tier for file upload, choice of model, and unlimited queries, has doubled ARR since October to ~$6M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240108/p22#a240108p22)
- - [Early CES releases, new version of Thread, &amp; listener questions on HomeKit Insider](https://appleinsider.com/articles/24/01/08/early-ces-releases-new-version-of-thread-listener-questions-on-homekit-insider?utm_medium=rss)
- - [You can ignore your phone with the JBL Live 3 earbuds’ touchscreen smart case](https://www.theverge.com/2024/1/8/24030097/jbl-live-3-earbuds-touchscreen-charging-case)
- - [SCOTUS declines to hear a case filed by Twitter in 2014, in which Twitter argued that disclosing data requests in national security probes was protected by 1A &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240108/p21#a240108p21)<!-- TECH:END -->
+ - [Daily deals Jan. 8: $249 iPad 9th Gen, $100 off iPad Air 5, 50% off Beats headphones, Nanoleaf lights $59, more](https://appleinsider.com/articles/24/01/08/daily-deals-jan-8-249-ipad-9th-gen-100-off-ipad-air-5-50-off-beats-headphones-nanoleaf-lights-59-more?utm_medium=rss)
+ - [Google’s Pixel Watch 2, our favorite Fitbit smartwatch, is cheaper than ever](https://www.theverge.com/2024/1/8/24029920/google-pixel-watch-2-anker-622-magnetic-battery-maggo-tile-mate-philips-hue)
+ - [Tigo Energy EI Battery Review: A Solar Storage System That Prioritizes Ease of Installation     - CNET](https://www.cnet.com/home/energy-and-utilities/tigo-energy-ei-battery-review-a-solar-storage-system-that-prioritizes-ease-of-installation/#ftag=CAD590a51e)
+ - [Best Internet Providers in Rio Rancho, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-rio-rancho-nm/#ftag=CAD590a51e)
+ - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

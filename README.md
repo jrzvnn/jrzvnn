@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a filing and internal memo, Unity Software says it plans to lay off ~25% of its workforce, or 1,800 jobs, by the end of March, its largest layoff ever &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240108/p27#a240108p27)
- - [Sennheiser announces Momentum 4 earbuds and revamped sport buds with health sensors](https://www.theverge.com/2024/1/8/24024989/sennheiser-momentum-4-sport-accentum-plus-price-release-date-features-heart-rate)
- - [Apple tells developers how to submit apps to Apple Vision Pro App Store](https://appleinsider.com/articles/24/01/08/apple-tells-developers-how-to-submit-apps-to-apple-vision-pro-app-store?utm_medium=rss)
- - [Hyundai says hydrogen will play a ‘prominent role’ in going carbon neutral](https://www.theverge.com/2024/1/8/24029789/hyundai-hydrogen-software-ai-ces-2024)
- - [Apple insists to EU antitrust regulators that it runs five App Stores, not one](https://appleinsider.com/articles/24/01/08/apple-insists-to-eu-antitrust-regulators-that-it-runs-five-app-stores-not-one?utm_medium=rss)<!-- TECH:END -->
+ - [Rumble Is Part of an &#39;Active and Ongoing&#39; SEC Investigation](https://www.wired.com/story/rumble-sec-investigation/)
+ - [Best MacBook Air M2 Deals: Save Up to $250 on Portable Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Google Pixel Fold Deals: Save Up to $1,040 on Google&#39;s Foldable Phone     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
+ - [Samsung finally puts the TV at the heart of its smart home](https://www.theverge.com/2024/1/8/24028857/samsung-tv-smart-display-ballie-smartthings)
+ - [Authy is shutting down its desktop app](https://www.theverge.com/2024/1/8/24030477/authy-desktop-app-shutting-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

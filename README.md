@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
+ - [Source: Perplexity, a generative AI search engine with a Pro tier for file upload, choice of model, and unlimited queries, has doubled ARR since October to ~$6M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240108/p22#a240108p22)
+ - [Early CES releases, new version of Thread, &amp; listener questions on HomeKit Insider](https://appleinsider.com/articles/24/01/08/early-ces-releases-new-version-of-thread-listener-questions-on-homekit-insider?utm_medium=rss)
  - [You can ignore your phone with the JBL Live 3 earbuds’ touchscreen smart case](https://www.theverge.com/2024/1/8/24030097/jbl-live-3-earbuds-touchscreen-charging-case)
- - [SCOTUS declines to hear a case filed by Twitter in 2014, in which Twitter argued that disclosing data requests in national security probes was protected by 1A &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240108/p21#a240108p21)
- - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
- - [Everything Announced at LG&#39;s CES Press Conference video     - CNET](https://www.cnet.com/videos/everything-announced-at-lgs-ces-press-conference/#ftag=CAD590a51e)
- - [Lockly introduces its first Home Key enabled lock alongside a Matter hub](https://appleinsider.com/articles/24/01/08/lockly-introduces-its-first-home-key-enabled-lock-alongside-a-matter-hub?utm_medium=rss)<!-- TECH:END -->
+ - [SCOTUS declines to hear a case filed by Twitter in 2014, in which Twitter argued that disclosing data requests in national security probes was protected by 1A &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240108/p21#a240108p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

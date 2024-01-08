@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple appeals after EU’s tough new DMA rules target App Store](https://www.theverge.com/2024/1/8/23961923/apple-app-store-appeal-european-union-digital-markets-act-core-platform-service-gatekeeper)
+ - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)
  - [Xcode 15.2 arrives, featuring support for Apple Vision Pro app creation](https://appleinsider.com/articles/24/01/08/xcode-152-arrives-featuring-support-for-apple-vision-pro-app-creation?utm_medium=rss)
  - [JBL&#39;s Live Buds 3 range adds a color display to the charging case](https://appleinsider.com/articles/24/01/08/jbls-live-buds-3-range-adds-a-color-display-to-the-charging-case?utm_medium=rss)
- - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)
- - [Duolingo cuts 10% of its contractors, partly attributing the move to its use of more AI to create app content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p24#a240108p24)
- - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)<!-- TECH:END -->
+ - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

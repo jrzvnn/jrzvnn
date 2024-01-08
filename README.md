@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS declines to hear a case filed by Twitter in 2014, in which Twitter argued that disclosing data requests in national security probes was protected by 1A &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240108/p21#a240108p21)
+ - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
  - [Lockly introduces its first Home Key enabled lock alongside a Matter hub](https://appleinsider.com/articles/24/01/08/lockly-introduces-its-first-home-key-enabled-lock-alongside-a-matter-hub?utm_medium=rss)
  - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)
- - [Nvidia debuts GeForce Now day passes, starting at $8 for Ultimate, which includes RTX 4080 access, and Priority for $4; GeForce Now will soon support G-Sync &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p20#a240108p20)
- - [Buy or rent &#39;Napoleon&#39; before its Apple TV+ debut](https://appleinsider.com/articles/24/01/08/buy-or-rent-napoleon-before-its-apple-tv-debut?utm_medium=rss)
- - [Aqara’s new hub is a multi-protocol Matter powerhouse](https://www.theverge.com/2024/1/8/24028209/aqara-hub-m3-matter-controller-thread-border-router-ces2024)<!-- TECH:END -->
+ - [Nvidia debuts GeForce Now day passes, starting at $8 for Ultimate, which includes RTX 4080 access, and Priority for $4; GeForce Now will soon support G-Sync &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p20#a240108p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

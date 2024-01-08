@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
  - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
+ - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
 
 ---
 

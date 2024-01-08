@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am poor because my dad is poor.](http://9gag.com/gag/aPgEVgR)
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 💣 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)<!-- MEMES:END -->
+ - 😝 [Perfect](http://9gag.com/gag/a8qROxV)
+ - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 💣 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 😝 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
+ - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
 
 ---
 

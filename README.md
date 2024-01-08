@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
  - [Legal experts say pledges from Amazon, Microsoft, and Google to defend their customers from IP issues only extend to AI models built with their oversight &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240108/p4#a240108p4)
  - [Measurable AI: KeeTa, Meituan&#39;s sister app, has gained 37% marketshare of Hong Kong&#39;s food delivery market after debuting in May 2023; Foodpanda leads with 42% &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240108/p3#a240108p3)
  - [Sources: China acts to ease fears of a regulatory crackdown on its video game industry, including firing an official and convening consultations on new measures &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240108/p2#a240108p2)
- - [The European Commission urges Google, Meta, and others to help dissident Belarusian media by promoting their stories higher than those from pro-regime outlets &lpar;Raphael Minder/Financial Times&rpar;](http://www.techmeme.com/240108/p1#a240108p1)
- - [LG&#39;s 2024 OLED TVs Cut Wires, Boost Brightness video     - CNET](https://www.cnet.com/videos/lgs-2024-oled-tvs-cut-wires-boost-brightness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Commission urges Google, Meta, and others to help dissident Belarusian media by promoting their stories higher than those from pro-regime outlets &lpar;Raphael Minder/Financial Times&rpar;](http://www.techmeme.com/240108/p1#a240108p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

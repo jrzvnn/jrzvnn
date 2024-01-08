@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demos](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
  - [This security camera’s 1.5-mile range is perfect for your sprawling mansion](https://www.theverge.com/2024/1/8/24030379/abode-edge-camera-long-range-facial-recognition-ai-ces-2024)
  - [Final Fantasy XIV’s new class will unleash your inner Bob Ross](https://www.theverge.com/2024/1/8/24030282/final-fantasy-14-new-class-pictomancer-ffxiv-fan-fest-tokyo)
- - [YouTube updates its cyberbullying policy to ban AI-generated content that &quot;realistically simulates&quot; deceased children or victims of crimes or deadly events &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240108/p26#a240108p26)<!-- TECH:END -->
+ - [Best Sonos Deals: Save on Move, Era 300, Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

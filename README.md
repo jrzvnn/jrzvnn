@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
  - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 😝 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [What magic?](http://9gag.com/gag/aeQnqN5)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 

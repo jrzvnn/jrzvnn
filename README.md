@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 💣 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)
- - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
+ - 😝 [I cried](http://9gag.com/gag/aPgE2QB)
+ - 😝 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
+ - 💣 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 😝 [Asked my grandfather the type of music he listened to at my age, he told me to search this song and now I&#39;m hooked.](http://9gag.com/gag/aoKvw7n)
+ - 👉 [Life hack](http://9gag.com/gag/aKEQMy3)<!-- MEMES:END -->
 
 ---
 

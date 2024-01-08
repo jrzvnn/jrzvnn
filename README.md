@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [j5create&#39;s new Thunderbolt 4 docking station supports 8K 60Hz video](https://appleinsider.com/articles/24/01/08/j5creates-new-thunderbolt-4-docking-station-supports-8k-60hz-video?utm_medium=rss)
- - [The Frame has become such a hit that Samsung is making a speaker version](https://www.theverge.com/2024/1/7/24029243/samsung-music-frame-speaker-announced-specs-features)
- - [Samsung’s new OLED TV could make annoying glare a thing of the past](https://www.theverge.com/2024/1/7/24028974/samsung-s95d-qd-oled-tv-announced-glare-free-screen)
- - [Mui Board 2 reappears at CES 2024 with Matter support](https://appleinsider.com/articles/24/01/08/mui-board-2-reappears-at-ces-2024-with-matter-support?utm_medium=rss)
- - [Oclean X Ultra Toothbrush Offers Feedback on How Clean Your Teeth Are     - CNET](https://www.cnet.com/health/medical/oclean-x-ultra-toothbrush-offers-feedback-on-how-clean-your-teeth-are/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Teases Monitor Designed to Look Good in Multiples, Jumps into 3D Monitors     - CNET](https://www.cnet.com/tech/computing/samsung-teases-monitor-designed-to-look-good-in-multiples-jumps-into-3d-monitors/#ftag=CAD590a51e)
+ - [Samsung QLED and 8K TVs Amp Up Style, Picture and Game Bar     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-qled-and-8k-tvs-amp-up-style-picture-and-game-bar/#ftag=CAD590a51e)
+ - [Samsung&#39;s The Premiere Projectors Make Your Room a Touchscreen     - CNET](https://www.cnet.com/tech/home-entertainment/samsungs-the-premiere-projectors-make-your-room-a-touchscreen/#ftag=CAD590a51e)
+ - [Samsung OLED TVs Improve Anti-Glare Screen for Bright Rooms     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-oled-tvs-improve-anti-glare-screen-for-bright-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 😝 [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
+ - 😝 [In the zone](http://9gag.com/gag/a04ryOn)
+ - 💣 [Unveiling of the newest Spanish train](http://9gag.com/gag/awZEEz1)
+ - 😝 [The Sound Of The 90\u2019s // Synth Edition - Do you remember all the sounds??? CLMC Music](http://9gag.com/gag/anzmm5z)
+ - 👉 [This is way too accurate](http://9gag.com/gag/aBdAB1P)<!-- MEMES:END -->
 
 ---
 

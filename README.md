@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty Images and Nvidia launch Generative AI by iStock, a text-to-image service that generates stock photos and is aimed at SMBs &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240108/p19#a240108p19)
- - [Oppenheimer, Succession, and The Bear win big at the 2024 Golden Globes](https://www.theverge.com/2024/1/8/24029812/2024-golden-globes-winners-oppenheimer-bear-succession)
- - [Starting this month Waymo plans to run its SUVs on Phoenix freeways, initially with just its staff, making it the first robotaxi company to prep faster rides &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240108/p18#a240108p18)
- - [Supreme Court rejects decade-old Twitter First Amendment case](https://www.theverge.com/2024/1/8/24029915/supreme-court-rejects-x-twitter-garland-fbi-surveillance-transparency-lawsuit)
- - [Getty and Nvidia bring generative AI to stock photos](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos)<!-- TECH:END -->
+ - [Lockly introduces its first Home Key enabled lock alongside a Matter hub](https://appleinsider.com/articles/24/01/08/lockly-introduces-its-first-home-key-enabled-lock-alongside-a-matter-hub?utm_medium=rss)
+ - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)
+ - [Nvidia debuts GeForce Now day passes, starting at $8 for Ultimate, which includes RTX 4080 access, and Priority for $4; GeForce Now will soon support G-Sync &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p20#a240108p20)
+ - [Buy or rent &#39;Napoleon&#39; before its Apple TV+ debut](https://appleinsider.com/articles/24/01/08/buy-or-rent-napoleon-before-its-apple-tv-debut?utm_medium=rss)
+ - [Aqara’s new hub is a multi-protocol Matter powerhouse](https://www.theverge.com/2024/1/8/24028209/aqara-hub-m3-matter-controller-thread-border-router-ces2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

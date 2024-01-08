@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone survives fall from Alaska Airlines midair blowout](https://appleinsider.com/articles/24/01/08/iphone-survives-fall-from-alaska-airlines-midair-blowout?utm_medium=rss)
  - [What&#39;s On Netflix data: Netflix released about 130, or 16%, fewer original programs in 2023 than 2022, after a decade of increasing output &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240108/p6#a240108p6)
  - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)
  - [Q&amp;A with University of Michigan researchers about their research into the effectiveness of using prompts to assign interpersonal and professional roles to LLMs &lpar;Sisi Wei/The Markup&rpar;](http://www.techmeme.com/240108/p5#a240108p5)
- - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)
- - [Oppo&#39;s &quot;Ultimate Camera Phone&quot; Is Impressive, but You Can&#39;t Buy It     - CNET](https://www.cnet.com/tech/mobile/oppos-ultimate-camera-phone-is-impressive-but-you-cant-buy-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

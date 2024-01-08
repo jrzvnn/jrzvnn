@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s driverless cars are finally ready for the highway](https://www.theverge.com/2024/1/8/24029932/waymo-driverless-highway-trips-phoenix-speed-testing)
- - [Apple&#39;s holiday quarter earnings call &amp; report scheduled for February 1](https://appleinsider.com/articles/24/01/08/apples-holiday-quarter-earnings-call-report-scheduled-for-february-1?utm_medium=rss)
- - [This iPhone fell out of Alaska Airlines Flight 1282](https://www.theverge.com/2024/1/8/24029806/boeing-737-max-9-iphone-found-working)
- - [AMD announces the $329 Radeon RX 7600 XT, an update to the Radeon RX 7600 that is &quot;ready to take on 1440p&quot; gaming, shipping on January 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p16#a240108p16)
- - [AMD announces the $329 Ryzen 7 8700G, $229 Ryzen 5 8600G, and $179 Ryzen 5 8500G for desktop, offering Zen 4 cores and Radeon 780M graphics, shipping January 31 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240108/p15#a240108p15)<!-- TECH:END -->
+ - [Apple Vision Pro will ship to customers on February 2](https://appleinsider.com/articles/24/01/08/apple-vision-pro-will-ship-to-customers-on-february-2?utm_medium=rss)
+ - [Nvidia’s RTX 4080 Super arrives on January 31st at a more reasonable $999](https://www.theverge.com/2024/1/8/24028636/nvidia-rtx-4080-super-4070-ti-specs-release-date-pricing)
+ - [Nvidia’s GeForce Now is getting cloud G-Sync support and streaming day passes](https://www.theverge.com/2024/1/8/24029674/nvidia-geforce-now-cloud-g-sync-day-pass-support)
+ - [ChatGPT Coming to VWs so You Can Talk to Your Car     - CNET](https://www.cnet.com/roadshow/news/chatgpt-coming-to-vws-so-you-can-talk-to-your-car/#ftag=CAD590a51e)
+ - [Appliance makers are teaming up to reduce your electricity usage — and save you cash](https://www.theverge.com/2024/1/8/24027381/samsung-lg-ge-launch-new-connected-energy-management-interface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

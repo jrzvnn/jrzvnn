@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI claims The New York Times tricked ChatGPT into copying its articles](https://www.theverge.com/2024/1/8/24030283/openai-nyt-lawsuit-fair-use-ai-copyright)
+ - [YouTube is cracking down on AI-generated true crime deepfakes](https://www.theverge.com/2024/1/8/24030107/youtube-ai-deepfakes-true-crime-victims-minors)
  - [Apple opening retail locations early on Feb. 2 for Apple Vision Pro demoes](https://appleinsider.com/articles/24/01/08/apple-opening-retail-locations-early-on-feb-2-for-apple-vision-pro-demoes?utm_medium=rss)
  - [Twilio is killing off the Authy desktop app, but Mac users have a work-around](https://appleinsider.com/articles/24/01/08/twilio-is-killing-off-the-authy-desktop-app-but-mac-users-have-a-work-around?utm_medium=rss)
- - [Apple is going to offer Vision Pro demos at its retail stores](https://www.theverge.com/2024/1/8/24030346/apple-vision-pro-store-demo)
- - [Apple appeals after EU’s tough new DMA rules target App Store](https://www.theverge.com/2024/1/8/23961923/apple-app-store-appeal-european-union-digital-markets-act-core-platform-service-gatekeeper)
- - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is going to offer Vision Pro demos at its retail stores](https://www.theverge.com/2024/1/8/24030346/apple-vision-pro-store-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

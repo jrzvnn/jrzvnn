@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [United Airlines says it found loose bolts while inspecting Boeing 737 Max 9 planes](https://www.theverge.com/2024/1/8/24030619/united-airlines-loose-bolts-door-plugs-boeing-737-max-9-plane-inspection-canceled-flights)
+ - [Sources: former Twitter CEO Parag Agrawal&#39;s new AI startup, which is making software for LLM developers, raised ~$30M led by Khosla Ventures &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240108/p28#a240108p28)
  - [Rumble Is Part of an &#39;Active and Ongoing&#39; SEC Investigation](https://www.wired.com/story/rumble-sec-investigation/)
- - [Best MacBook Air M2 Deals: Save Up to $250 on Portable Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
- - [Google Pixel Fold Deals: Save Up to $1,040 on Google&#39;s Foldable Phone     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
  - [Samsung finally puts the TV at the heart of its smart home](https://www.theverge.com/2024/1/8/24028857/samsung-tv-smart-display-ballie-smartthings)
  - [Authy is shutting down its desktop app](https://www.theverge.com/2024/1/8/24030477/authy-desktop-app-shutting-down)<!-- TECH:END -->
 

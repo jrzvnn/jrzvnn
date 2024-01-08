@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [McAfee unveils AI-powered tool to combat deepfake audio scams](https://appleinsider.com/articles/24/01/08/mcafee-unveils-ai-powered-tool-to-combat-deepfake-audio-scams?utm_medium=rss)
+ - [Would You Put Your Ribeye in a Toaster? The Makers of the New Perfecta Grill Think You Should     - CNET](https://www.cnet.com/home/yard-and-outdoors/would-you-put-your-ribeye-in-a-toaster-the-makers-of-the-new-perfecta-grill-think-you-should/#ftag=CAD590a51e)
+ - [How to Track Your Paper Tax Refund Check That&#39;s Coming in the Mail     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-track-your-paper-tax-refund-check-thats-coming-in-the-mail/#ftag=CAD590a51e)
  - [Q&amp;A with University of Michigan researchers about their research into the effectiveness of using prompts to assign interpersonal and professional roles to LLMs &lpar;Sisi Wei/The Markup&rpar;](http://www.techmeme.com/240108/p5#a240108p5)
- - [Oppo’s Find X7 Ultra pairs a 1-inch sensor with not one but two periscope cameras](https://www.theverge.com/2024/1/8/24029647/oppo-find-x7-ultra-two-periscope-cameras-price-release-date-specs-features-1-inch-sensor)
- - [Oppo&#39;s &quot;Ultimate Camera Phone&quot; Is Impressive, but You Can&#39;t Buy It     - CNET](https://www.cnet.com/tech/mobile/oppos-ultimate-camera-phone-is-impressive-but-you-cant-buy-it/#ftag=CAD590a51e)
- - [I’ve looked through LG’s new transparent OLED TV, and seen something special](https://www.theverge.com/2024/1/8/24029590/lg-oled-t-transparent-tv-announced-specs-features)
- - [Legal experts say pledges from Amazon, Microsoft, and Google to defend their customers from IP issues only extend to AI models built with their oversight &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240108/p4#a240108p4)<!-- TECH:END -->
+ - [CES 2024&#39;s Cutting-Edge Tech: Here Are Our Early Favorites     - CNET](https://www.cnet.com/tech/cutting-edge-tech-ces-2024-here-are-our-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

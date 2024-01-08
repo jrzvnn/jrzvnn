@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the US will release a rule soon, first proposed in 2022, requiring some independent contractors be considered employees, which may upend the gig economy &lpar;Reuters&rpar;](http://www.techmeme.com/240108/p25#a240108p25)
  - [Duolingo cuts 10% of its contractors, partly attributing the move to its use of more AI to create app content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240108/p24#a240108p24)
  - [Boeing 737 Max planes are grounded after a hole blew in one mid-flight](https://www.theverge.com/2024/1/6/24027943/boeing-737-max-9-planes-grounded-faa-fuselage-hole-alaska-airlines)
  - [OpenAI responds to the NYT lawsuit, says training is fair use and there is an opt-out, &quot;regurgitation&quot; is a rare bug, and NYT is not telling the full story &lpar;OpenAI&rpar;](http://www.techmeme.com/240108/p23#a240108p23)
- - [Daily deals Jan. 8: $249 iPad 9th Gen, $100 off iPad Air 5, 50% off Beats headphones, Nanoleaf lights $59, more](https://appleinsider.com/articles/24/01/08/daily-deals-jan-8-249-ipad-9th-gen-100-off-ipad-air-5-50-off-beats-headphones-nanoleaf-lights-59-more?utm_medium=rss)
- - [Google’s Pixel Watch 2, our favorite Fitbit smartwatch, is cheaper than ever](https://www.theverge.com/2024/1/8/24029920/google-pixel-watch-2-anker-622-magnetic-battery-maggo-tile-mate-philips-hue)<!-- TECH:END -->
+ - [Daily deals Jan. 8: $249 iPad 9th Gen, $100 off iPad Air 5, 50% off Beats headphones, Nanoleaf lights $59, more](https://appleinsider.com/articles/24/01/08/daily-deals-jan-8-249-ipad-9th-gen-100-off-ipad-air-5-50-off-beats-headphones-nanoleaf-lights-59-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

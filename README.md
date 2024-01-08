@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
  - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 💣 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
  - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
 
 ---

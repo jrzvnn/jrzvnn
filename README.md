@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legendary bringer of `find out` to a world full of `f**k around`.](http://9gag.com/gag/aREbWpq)
- - 😝 [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 💣 [What magic?](http://9gag.com/gag/aeQnqN5)
- - 😝 [Mommy](http://9gag.com/gag/a9qxZD1)
- - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
+ - 😝 [I cried](http://9gag.com/gag/aPgE2QB)
+ - 😝 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
+ - 💣 [Perfect](http://9gag.com/gag/a8qROxV)
+ - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
+ - 👉 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)<!-- MEMES:END -->
 
 ---
 

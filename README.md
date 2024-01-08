@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cried](http://9gag.com/gag/aPgE2QB)
- - 😝 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)
- - 💣 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
+ - 😝 [Now these disgusting feminists attack handicaped men...](http://9gag.com/gag/aOxMnWv)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
+ - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 ---
 

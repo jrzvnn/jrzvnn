@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone AI and Siri 2.0 will launch in 2024, predicts Morgan Stanley](https://appleinsider.com/articles/24/01/08/iphone-ai-and-siri-20-will-launch-in-2024-predicts-morgan-stanley?utm_medium=rss)
  - [CES 2024 Live Blog: News, Gadgets, and Photos From Tech&#39;s Big Show](https://www.wired.com/live/ces-2024-liveblog/)
  - [This new robovac has an arm and can phone home](https://www.theverge.com/2024/1/8/24024235/roborock-s8-maxv-ultra-robot-vacuum-arm-matter-video)
  - [Twilio co-founder and CEO Jeff Lawson steps down as CEO and from the board, replaced by Khozema Shipchandler, amid slow growth and activist investor pressure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240108/p14#a240108p14)
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

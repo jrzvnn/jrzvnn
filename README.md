@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science has gone too far](http://9gag.com/gag/a2K3gPe)
- - 😝 [I just leave this here](http://9gag.com/gag/adPGwMZ)
- - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
- - 😝 [Mommy](http://9gag.com/gag/a9qxZD1)
+ - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 😝 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 💣 [I just leave this here](http://9gag.com/gag/adPGwMZ)
+ - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
  - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
 
 ---

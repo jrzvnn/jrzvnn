@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oclean X Ultra Toothbrush Offers Feedback on How Clean Your Teeth Are     - CNET](https://www.cnet.com/health/medical/oclean-x-ultra-toothbrush-offers-feedback-on-how-clean-your-teeth-are/#ftag=CAD590a51e)
  - [Carta says it is investigating an internal policy violation that affected Linear and two other companies, where someone &quot;on the cap table&quot; was contacted &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240107/p10#a240107p10)
  - [Belkin intros first user-tracking iPhone camera stand, Qi2 gear, &amp; more at CES 2024](https://appleinsider.com/articles/24/01/08/belkin-intros-first-user-tracking-iphone-camera-stand-qi2-gear-more-at-ces-2024?utm_medium=rss)
  - [Withings BeamO is a 4-in-1 checkup device that does more than take your temperature](https://appleinsider.com/articles/24/01/08/withings-beamo-is-a-4-in-1-checkup-device-that-does-more-than-take-your-temperature?utm_medium=rss)
- - [Govee debuts two new Matter-enabled devices at CES 2024](https://appleinsider.com/articles/24/01/08/govee-debuts-two-new-matter-enabled-devices-at-ces-2024?utm_medium=rss)
- - [Narwal introduces Narwal Freo X Ultra and other robot vacuums at CES](https://appleinsider.com/articles/24/01/08/narwal-introduces-narwal-freo-x-ultra-and-other-robot-vacuums-at-ces?utm_medium=rss)<!-- TECH:END -->
+ - [Govee debuts two new Matter-enabled devices at CES 2024](https://appleinsider.com/articles/24/01/08/govee-debuts-two-new-matter-enabled-devices-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

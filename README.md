@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 💣 [When you hire a budget magician for your talk show](http://9gag.com/gag/aZD6K1W)
- - 😝 [Mommy](http://9gag.com/gag/a9qxZD1)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 😝 [Anon&#39;s maternal affair](http://9gag.com/gag/awZE2L1)
+ - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 💣 [As a german I agree](http://9gag.com/gag/aWGr5b4)
+ - 😝 [That&#39;s a damn good idea.](http://9gag.com/gag/aZD65zQ)
+ - 👉 [Maybe it would help someone, a 10kg hammer and a tractor tire is also nice](http://9gag.com/gag/a04rq9B)<!-- MEMES:END -->
 
 ---
 

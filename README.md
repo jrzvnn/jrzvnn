@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Narwal introduces Narwal Freo X Ultra and other robot vacuums at CES](https://appleinsider.com/articles/24/01/08/narwal-introduces-narwal-freo-x-ultra-and-other-robot-vacuums-at-ces?utm_medium=rss)
+ - [Hyper goes all out with new Thunderbolt 5, Qi2, &amp; GaN accessories at CES 2024](https://appleinsider.com/articles/24/01/08/hyper-goes-all-out-with-new-thunderbolt-5-qi2-gan-accessories-at-ces-2024?utm_medium=rss)
+ - [Govee debuts two new Matter-enabled devices at CES 2024](https://appleinsider.com/articles/24/01/08/govee-debuts-two-new-matter-enabled-devices-at-ces-2024?utm_medium=rss)
  - [Music industry insiders reflect on the waning influence of popular, human-curated Spotify playlists, as the company shifts towards AI-driven personalization &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240107/p9#a240107p9)
- - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)
- - [Acer&#39;s CES 2024 displays include a massive 57-inch mini LED monitor](https://appleinsider.com/articles/24/01/07/acers-ces-2024-displays-include-a-massive-57-inch-mini-led-monitor?utm_medium=rss)
- - [Qualcomm&#39;s New VR Chip Gives More Power to Apple Vision Pro Competitors     - CNET](https://www.cnet.com/tech/computing/qualcomms-new-vr-chip-gives-more-power-to-apple-vision-pro-competitors/#ftag=CAD590a51e)
- - [The Castro podcast app and its website are down](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)<!-- TECH:END -->
+ - [The horror and allure of the diagonal monitor](https://www.theverge.com/2024/1/7/24029104/linux-diagonal-monitor-display-rotation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

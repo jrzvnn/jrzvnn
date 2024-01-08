@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 😝 [A &#39;coyote&#39; or human smuggler drops off his clients and takes proof of delivery.](http://9gag.com/gag/adPGwVQ)
- - 💣 [Science has gone too far](http://9gag.com/gag/a2K3gPe)
- - 😝 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 👉 [Mommy](http://9gag.com/gag/a9qxZD1)<!-- MEMES:END -->
+ - 😝 [Science has gone too far](http://9gag.com/gag/a2K3gPe)
+ - 😝 [I just leave this here](http://9gag.com/gag/adPGwMZ)
+ - 💣 [Even now -- her eyes are just as captivating -- but there is a real person &amp; her story behind them](http://9gag.com/gag/aWGrPo6)
+ - 😝 [Mommy](http://9gag.com/gag/a9qxZD1)
+ - 👉 [What magic?](http://9gag.com/gag/aeQnqN5)<!-- MEMES:END -->
 
 ---
 

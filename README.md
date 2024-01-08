@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [SCOTUS declines to hear a case filed by Twitter in 2014, in which Twitter argued that disclosing data requests in national security probes was protected by 1A &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240108/p21#a240108p21)
  - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
+ - [Everything Announced at LG&#39;s CES Press Conference video     - CNET](https://www.cnet.com/videos/everything-announced-at-lgs-ces-press-conference/#ftag=CAD590a51e)
  - [Lockly introduces its first Home Key enabled lock alongside a Matter hub](https://appleinsider.com/articles/24/01/08/lockly-introduces-its-first-home-key-enabled-lock-alongside-a-matter-hub?utm_medium=rss)
- - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)
- - [Nvidia debuts GeForce Now day passes, starting at $8 for Ultimate, which includes RTX 4080 access, and Priority for $4; GeForce Now will soon support G-Sync &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240108/p20#a240108p20)<!-- TECH:END -->
+ - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

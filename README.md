@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [In a November 2023 appeal, Apple objected to EU&#39;s DMA designation of all App Stores as a single service, iOS interoperability, and iMessage NIICS designation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240109/p5#a240109p5)
  - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)
- - [Tax Season 2024: How to Create an Online IRS Account     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-how-to-create-an-online-irs-account/#ftag=CAD590a51e)
- - [Hottest Toys of 2024     - CNET](https://www.cnet.com/culture/entertainment/hottest-toys/#ftag=CAD590a51e)
- - [You Can Order Another Round of Free COVID Tests Through the USPS. Here&#39;s Everything You Need to Know     - CNET](https://www.cnet.com/health/heres-how-to-order-another-round-of-free-covid-tests-through-the-usps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
+ - [Regain Control of Your Data in 2024. Here&#39;s Everything You Need to Know About Deleting Your Information     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-heres-everything-you-need-to-know-about-deleting-your-information/#ftag=CAD590a51e)
+ - [Here&#39;s Everything to Know About a Form W-2     - CNET](https://www.cnet.com/personal-finance/taxes/heres-everything-to-know-about-a-form-w-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

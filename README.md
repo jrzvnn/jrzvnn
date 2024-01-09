@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 💣 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)<!-- MEMES:END -->
+ - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
+ - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 💣 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---
 

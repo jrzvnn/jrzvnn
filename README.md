@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
  - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
+ - 😝 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 👉 [They are soulmates](http://9gag.com/gag/aVbp6jP)<!-- MEMES:END -->
 
 ---
 

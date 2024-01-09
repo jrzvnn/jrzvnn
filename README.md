@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
- - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 💣 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
  - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 ---

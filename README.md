@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
  - [Filing: JD-backed Dada Nexus is investigating &quot;suspicious practices&quot;, including a ~$140M overstatement of revenue and costs in 2023, triggering a 46% stock dive &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240108/p46#a240108p46)
- - [MSI&#39;s Claw Gaming Handheld Is a Sign of Steam Decks To Come     - CNET](https://www.cnet.com/tech/gaming/msis-claw-gaming-handheld-is-a-sign-of-steam-decks-to-come/#ftag=CAD590a51e)
- - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)
- - [Hands-On With the First ChatGPT-Enabled Electric Car video     - CNET](https://www.cnet.com/roadshow/videos/hands-on-with-the-first-chatgpt-enabled-electric-car/#ftag=CAD590a51e)
- - [Sources: Elliott Management has built a ~$1B stake in Match Group and plans to push the online dating company to take steps to boost its languishing stock &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p44#a240108p44)<!-- TECH:END -->
+ - [This Smart Energy System Lets You Go Off Grid at the Touch of a Button     - CNET](https://www.cnet.com/home/energy-and-utilities/this-smart-energy-system-lets-you-go-off-grid-at-the-touch-of-a-button/#ftag=CAD590a51e)
+ - [Sony Drives Its New EV Onstage With a PS5 Controller video     - CNET](https://www.cnet.com/videos/sony-drives-its-new-ev-onstage-with-a-ps5-controller/#ftag=CAD590a51e)
+ - [Cutting-Edge Tech Is at CES 2024. These Are Our Faves Today     - CNET](https://www.cnet.com/tech/cutting-edge-tech-ces-2024-here-are-our-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

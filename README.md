@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 💣 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 👉 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)<!-- MEMES:END -->
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 😝 [Bruh](http://9gag.com/gag/amAeEyo)
+ - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 👉 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)<!-- MEMES:END -->
 
 ---
 

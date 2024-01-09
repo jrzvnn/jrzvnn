@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit R1 is the latest AI hand-held that wants to kill the iPhone](https://appleinsider.com/articles/24/01/09/rabbit-r1-is-the-latest-ai-hand-held-that-wants-to-kill-the-iphone?utm_medium=rss)
+ - [Sony brought its new PS5 colors to CES](https://www.theverge.com/2024/1/9/24031802/sony-ps5-slim-new-colors-hands-on-photos)
  - [Source: the US is planning rules would require hospitals impose new cybersecurity requirements to get federal funding, amid a barrage of hacks in the industry &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/240109/p23#a240109p23)
  - [Google and Samsung merge their respective Nearby Share and Quick Share features under the Quick Share name, for a more unified cross-Android sharing option &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/240109/p22#a240109p22)
- - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)
- - [Supernal SA-2: Specs, Price, Availability, Release Date](https://www.wired.com/story/supernal-sa2-passenger-evtol/)
- - [Honda debuts new global EV series, Honda Zero, coming in 2026](https://www.theverge.com/2024/1/9/24030236/honda-zero-ev-global-series-concept-ces)<!-- TECH:END -->
+ - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

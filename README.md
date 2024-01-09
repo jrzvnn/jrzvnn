@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
  - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)
  - [&#39;The Mandalorian&#39; Is Getting a Movie—Which It Should Have Been All Along](https://www.wired.com/story/the-mandalorian-and-grogu-movie-coming/)
- - [Elections and disinfo are colliding like never before in 2024, as social networks reduce protections and state influence campaigns and AI-fueled disinfo ramp up &lpar;New York Times&rpar;](http://www.techmeme.com/240109/p24#a240109p24)
- - [Netflix’s new 3 Body Problem trailer is all about the mystery](https://www.theverge.com/24030500/3-body-problem-trailer-netflix-sci-fi-mystery)<!-- TECH:END -->
+ - [No, Netflix Is Not Releasing Its Own VR Headset, But Here&#39;s What&#39;s Going On     - CNET](https://www.cnet.com/tech/services-and-software/no-netflix-is-not-releasing-its-own-vr-headset-but-heres-whats-going-on/#ftag=CAD590a51e)
+ - [Inside-Out Samsung Phone, See-Through TVs: Most Captivating CES 2024 Tech We&#39;re Seeing     - CNET](https://www.cnet.com/tech/inside-out-samsung-phone-see-through-tvs-most-captivating-ces-2024-tech-were-seeing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

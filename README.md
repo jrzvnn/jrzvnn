@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: crypto and digital payments companies paid $5.8B in fines in 2023, including Binance&#39;s $4.3B, more than the $835M paid by TradFi companies, a first &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p11#a240109p11)
- - [Ming-Chi Kuo: Investors should be cautious about Apple Vision Pro launch hype](https://appleinsider.com/articles/24/01/09/ming-chi-kuo-investors-should-be-cautious-about-apple-vision-pro-launch-hype?utm_medium=rss)
- - [Apple has designed a MagSafe gimbal camera mount for iPhones](https://appleinsider.com/articles/24/01/09/apple-has-designed-a-magsafe-gimbal-camera-mount-for-iphones?utm_medium=rss)
- - [Second Dinner, the developer behind Marvel Snap, raised a $100M Series B led by Griffin Gaming Partners to build out its popular mobile collectible card game &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240109/p10#a240109p10)
- - [Samsung&#39;s Flip Phone Concept Gives You a Dual-Folding Experience     - CNET](https://www.cnet.com/tech/mobile/samsungs-flip-phone-concept-lets-you-turn-the-screen-inside-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
+ - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)
+ - [Dutch online grocery store Picnic raised &amp;euro;355M from the Gates Foundation, Germany&#39;s largest supermarket group Edeka, and others to expand in France and Germany &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/240109/p12#a240109p12)
+ - [Meta will hide suicide and eating disorder content from teens as government pressure mounts](https://www.theverge.com/2024/1/9/24030571/meta-facebook-instagram-child-safety-dsa-online-safety-act)
+ - [Amazon is trying to fix content casting with an open standard](https://www.theverge.com/2024/1/9/24030324/amazon-matter-casting-echo-show-fire-tv-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

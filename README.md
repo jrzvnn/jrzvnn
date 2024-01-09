@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of OpenAI VP of Global Affairs Anna Makanju, who helped transform Sam Altman from a startup darling to an AI ambassador and worked in Obama&#39;s admin &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240109/p15#a240109p15)
- - [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024)
- - [X’s Grok chatbot has no reason to exist](https://www.theverge.com/2024/1/9/24030261/grok-ai-chatbot-test-chatgpt-twitter-x)
- - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
- - [Meta plans to start automatically restricting teen Instagram and Facebook accounts from harmful content, including posts about self-harm, in the coming weeks &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240109/p14#a240109p14)<!-- TECH:END -->
+ - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
+ - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)
+ - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
+ - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)
+ - [A profile of OpenAI VP of Global Affairs Anna Makanju, who helped transform Sam Altman from a startup darling to an AI ambassador and worked in Obama&#39;s admin &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240109/p15#a240109p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

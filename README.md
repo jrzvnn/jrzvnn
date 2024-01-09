@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 😝 [Bruh](http://9gag.com/gag/amAeEyo)
- - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
  - 👉 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)<!-- MEMES:END -->
 
 ---

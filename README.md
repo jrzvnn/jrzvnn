@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases new visionOS developer guidelines, asking developers to refer to Apple Vision Pro apps as &quot;spatial computing apps&quot;, not AR, VR, XR, or MR apps &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240109/p9#a240109p9)
- - [Alogic launches new MagSafe battery pack &amp; larger Clarity monitors](https://appleinsider.com/articles/24/01/09/alogic-launches-new-magsafe-battery-pack-larger-clarity-monitors?utm_medium=rss)
- - [Netflix defeats a shareholder lawsuit over accusations of hiding the impact of account sharing; Netflix lost ~50% of its value in 2022 after growth warnings &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240109/p8#a240109p8)
- - [The EU begins investigating whether Microsoft&#39;s OpenAI investment is reviewable under its rules, and asks for feedback on generative AI and virtual worlds &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240109/p7#a240109p7)
- - [Learn a New Language in 2024 With 74% Off a Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-new-language-2024-74-off-lifetime-babbel-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple had a pretty good year for patent grants, but not its best](https://appleinsider.com/articles/24/01/09/apple-had-a-pretty-good-year-for-patent-grants-but-not-its-best?utm_medium=rss)
+ - [Marvel&#39;s &#39;Echo&#39;: How to Stream the New Superhero Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/marvels-echo-how-to-stream-the-new-superhero-series-from-anywhere/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate Adding AC Valhalla, RE 2 and More in January     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-ac-valhalla-re-2-and-more-in-january/#ftag=CAD590a51e)
+ - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)
+ - [9 More of the Bizarre and Wonderful Things We’ve Seen at CES 2024](https://www.wired.com/gallery/ces-2024-photo-gallery-day-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

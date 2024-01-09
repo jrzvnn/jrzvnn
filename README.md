@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
+ - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
+ - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 😝 [Anyone remember Trevor and Carol?](http://9gag.com/gag/a4oXXpp)
+ - 👉 [Would you dare to try this?](http://9gag.com/gag/amAew56)<!-- MEMES:END -->
 
 ---
 

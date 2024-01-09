@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom creates a new team of nearly 350 people, including hires from Meta, Google, and Microsoft, dedicated to online safety and plans to hire 100 more in 2024 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240109/p2#a240109p2)
  - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
  - [Filing: JD-backed Dada Nexus is investigating &quot;suspicious practices&quot;, including a ~$140M overstatement of revenue and costs in 2023, triggering a 46% stock dive &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240108/p46#a240108p46)
  - [This Smart Energy System Lets You Go Off Grid at the Touch of a Button     - CNET](https://www.cnet.com/home/energy-and-utilities/this-smart-energy-system-lets-you-go-off-grid-at-the-touch-of-a-button/#ftag=CAD590a51e)
- - [Sony Drives Its New EV Onstage With a PS5 Controller video     - CNET](https://www.cnet.com/videos/sony-drives-its-new-ev-onstage-with-a-ps5-controller/#ftag=CAD590a51e)
- - [Cutting-Edge Tech Is at CES 2024. These Are Our Faves Today     - CNET](https://www.cnet.com/tech/cutting-edge-tech-ces-2024-here-are-our-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Drives Its New EV Onstage With a PS5 Controller video     - CNET](https://www.cnet.com/videos/sony-drives-its-new-ev-onstage-with-a-ps5-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

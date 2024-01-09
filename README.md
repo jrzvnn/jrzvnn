@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC&#39;s Official X Account Was ‘Compromised’](https://www.wired.com/story/sec-x-account-compromise/)
+ - [Walmart is betting that AI can help you shop faster — and maybe do your shopping for you](https://www.theverge.com/2024/1/9/24032017/walmart-ai-shopping-replenishment-in-home)
+ - [Walmart is bringing drone deliveries to 1.8 million more Texas households](https://www.theverge.com/2024/1/9/24031714/walmart-drone-delivery-wing-zipline-dallas-fort-worth-texas)
  - [Startup Rabbit Inc. debuts the R1, a $199 handheld AI device meant to be a virtual assistant to complete tasks without a smartphone, shipping in late March &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240109/p31#a240109p31)
- - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
- - [An X post from US SEC Chair Gary Gensler says the @SECGov&#39;s &quot;twitter account was compromised&quot;, and that the SEC has not approved spot bitcoin ETFs &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240109/p30#a240109p30)
- - [The FCC plans shutdown of the two-year-old Affordable Connectivity Program, which currently has 23M enrolled households, as GOP withholds funding &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240109/p29#a240109p29)
- - [Third tvOS 17.3 developer beta is now available for testing](https://appleinsider.com/articles/24/01/09/third-tvos-173-developer-beta-is-now-available-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

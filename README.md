@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
- - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - 💣 [In the zone](http://9gag.com/gag/a04ryOn)
- - 😝 [The Sound Of The 90\u2019s // Synth Edition - Do you remember all the sounds??? CLMC Music](http://9gag.com/gag/anzmm5z)
- - 👉 [This is way too accurate](http://9gag.com/gag/aBdAB1P)<!-- MEMES:END -->
+ - 😝 [Don&#39;t mind mom, she likes to watch](http://9gag.com/gag/a2K369E)
+ - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
+ - 💣 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 

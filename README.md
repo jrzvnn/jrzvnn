@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music Classical will soon expand into Japan, China, Korea, and more](https://appleinsider.com/articles/24/01/09/apple-music-classical-will-soon-expand-into-japan-china-korea-and-more?utm_medium=rss)
+ - [Luma, which is building AI models that generate 3D models from text prompts, raised a $43M Series B, a source says at a valuation between $200M and $300M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240109/p16#a240109p16)
  - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)
  - [Future AirDrop could use light for incredibly fast and secure data transfers](https://appleinsider.com/articles/24/01/09/future-airdrop-could-use-light-for-incredibly-fast-and-secure-data-transfers?utm_medium=rss)
- - [Microsoft’s second Xbox Developer_Direct on January 18th will feature Indiana Jones](https://www.theverge.com/2024/1/9/24031246/microsoft-xbox-event-developer-direct-date-2024)
- - [Nanoleaf&#39;s new Matter products will light up the outside at CES 2024](https://appleinsider.com/articles/24/01/09/nanoleafs-new-matter-products-will-light-up-the-outside-at-ces-2024?utm_medium=rss)
- - [TP-Link’s new video door lock unlocks with a tap of your iPhone](https://www.theverge.com/2024/1/9/24029781/tp-link-tapo-dl130-video-door-lock-apple-homekit-home-key-google-alexa)<!-- TECH:END -->
+ - [Microsoft’s second Xbox Developer_Direct on January 18th will feature Indiana Jones](https://www.theverge.com/2024/1/9/24031246/microsoft-xbox-event-developer-direct-date-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

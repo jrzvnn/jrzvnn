@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HPE plans to acquire Juniper Networks for about $14B, or $40 per share, in an all-cash deal &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240109/p37#a240109p37)
+ - [Intel: ‘We are bringing the AI PC to the car’](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces)
+ - [Podcasting is in its YouTube era](https://www.theverge.com/2024/1/9/24032155/youtube-podcast-rss-spotify-apple-audacy-bankruptcy)
  - [Former Apple VP of finance Saori Casey will become CFO at Sonos, replacing Eddie Lazarus, who will take on the new role of chief strategy officer &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p36#a240109p36)
- - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on generative AI, IP issues, cloud security, the Figma deal, regulation, antitrust, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240109/p35#a240109p35)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Sources: Twitch could cut 500 employees, or about 35% of its staff, as soon as Wednesday amid concerns over losses at Twitch and after several top execs left &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240109/p34#a240109p34)
- - [Quora says it raised $75M from Andreessen Horowitz, to be used to accelerate the growth of Poe and pay bot creators through its creator monetization program &lpar;Adam D&#39;Angelo/Quora&rpar;](http://www.techmeme.com/240109/p33#a240109p33)<!-- TECH:END -->
+ - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on generative AI, IP issues, cloud security, the Figma deal, regulation, antitrust, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240109/p35#a240109p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

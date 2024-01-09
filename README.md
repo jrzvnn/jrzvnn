@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 👉 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 👉 [Would you dare to try this?](http://9gag.com/gag/amAew56)<!-- MEMES:END -->
 
 ---
 

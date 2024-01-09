@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
  - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 💣 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
  - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
+ - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of OpenAI VP of Global Affairs Anna Makanju, who helped transform Sam Altman from a startup darling to an AI ambassador and worked in Obama&#39;s admin &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240109/p15#a240109p15)
+ - [Movano’s smart ring is the rare CES health gadget that will actually ship](https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024)
+ - [X’s Grok chatbot has no reason to exist](https://www.theverge.com/2024/1/9/24030261/grok-ai-chatbot-test-chatgpt-twitter-x)
  - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
- - [Meta plans to start automatically restricting teen Instagram and Facebook accounts from harmful content, including posts about self-harm, in the coming weeks &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240109/p14#a240109p14)
- - [Amazon announces Matter Casting, an Apple AirPlay-like feature to send video from different platforms to Amazon devices, initially supporting Echo Show devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p13#a240109p13)
- - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)
- - [Dutch online grocery store Picnic raised &amp;euro;355M from the Gates Foundation, Germany&#39;s largest supermarket group Edeka, and others to expand in France and Germany &lpar;Charlotte Van Campenhout/Reuters&rpar;](http://www.techmeme.com/240109/p12#a240109p12)<!-- TECH:END -->
+ - [Meta plans to start automatically restricting teen Instagram and Facebook accounts from harmful content, including posts about self-harm, in the coming weeks &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240109/p14#a240109p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

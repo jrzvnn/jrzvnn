@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a first, the US FTC bans the data broker X-Mode Social, now known as Outlogic, from selling phone location data and orders it to delete collected data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240109/p21#a240109p21)
- - [L’Oréal’s futuristic hairdryer uses infrared light for smoother, more hydrated hair](https://www.theverge.com/2024/1/9/24028805/loreal-airlight-pro-beauty-tech-ces-2024)
- - [Apple Vision Pro has 16GB of memory, potentially 1TB of storage](https://appleinsider.com/articles/24/01/09/apple-vision-pro-has-16gb-of-memory-potentially-1tb-of-storage?utm_medium=rss)
- - [Rabbit R1 AI Assistant: Price, Specs, Release Date](https://www.wired.com/story/rabbit-r1/)
- - [The Rabbit R1 is an AI-powered gadget that can use your apps for you](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date)<!-- TECH:END -->
+ - [Source: the US is planning rules would require hospitals impose new cybersecurity requirements to get federal funding, amid a barrage of hacks in the industry &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/240109/p23#a240109p23)
+ - [Google and Samsung merge their respective Nearby Share and Quick Share features under the Quick Share name, for a more unified cross-Android sharing option &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/240109/p22#a240109p22)
+ - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)
+ - [Supernal SA-2: Specs, Price, Availability, Release Date](https://www.wired.com/story/supernal-sa2-passenger-evtol/)
+ - [Honda debuts new global EV series, Honda Zero, coming in 2026](https://www.theverge.com/2024/1/9/24030236/honda-zero-ev-global-series-concept-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Sound Of The 90\u2019s // Synth Edition - Do you remember all the sounds??? CLMC Music](http://9gag.com/gag/anzmm5z)
- - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
- - 💣 [This is way too accurate](http://9gag.com/gag/aBdAB1P)
- - 😝 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
- - 👉 [He\u2019s right you know](http://9gag.com/gag/aEq9mmp)<!-- MEMES:END -->
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 💣 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
 
 ---
 

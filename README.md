@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t mind mom, she likes to watch](http://9gag.com/gag/a2K369E)
- - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
+ - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
  - 💣 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
- - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 👉 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)<!-- MEMES:END -->
 
 ---
 

@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
  - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)
  - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)
- - [Ofcom creates a new team of nearly 350 people, including hires from Meta, Google, and Microsoft, dedicated to online safety and plans to hire 100 more in 2024 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240109/p2#a240109p2)<!-- TECH:END -->
+ - [Samsung Concept Flip Phone Lets You Bend It in Both Directions     - CNET](https://www.cnet.com/pictures/samsung-concept-flip-phone-lets-you-bend-it-in-both-directions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

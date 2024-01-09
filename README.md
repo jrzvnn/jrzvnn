@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Hey squash another App Store beef](https://www.theverge.com/2024/1/9/24031596/apple-hey-calendar-app-store-approval)
- - [Micron announces LPCAMM2, thinner and lighter laptop RAM that may replace SODIMM, the nearly 25-year-old standard, as Samsung, Dell, and more also make progress &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240109/p20#a240109p20)
- - [Today is the last day to take advantage of Epic Games’ annual winter sale](https://www.theverge.com/2024/1/9/24030190/epic-game-store-holiday-sale-alan-wake-2-google-pixel-7a-deal)
- - [Artists are making creative companies apologize for using AI](https://www.theverge.com/2024/1/9/24031468/wacom-wizards-of-the-coast-mtg-artists-against-generative-ai)
- - [Artwork for &#39;Silo,&#39; &#39;Napoleon&#39; revealed by Art Directors&#39; Guild awards](https://appleinsider.com/articles/24/01/09/artwork-for-silo-napoleon-revealed-by-art-directors-guild-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Aukey highlights new Qi2 multi-chargers for Apple users at CES 2024](https://appleinsider.com/articles/24/01/09/aukey-highlights-new-qi2-multi-chargers-for-apple-users-at-ces-2024?utm_medium=rss)
+ - [Asus’ new laptop has two screens and a removable keyboard](https://www.theverge.com/2024/1/9/24031220/asus-zenbook-duo-dual-oled-screen-laptop-vivobook-pro-tuf-gaming)
+ - [Asus targets Apple’s Vision Pro &lpar;with M2&rpar; with the AirVision M1](https://www.theverge.com/2024/1/9/24031135/asus-air-vision-m1-wearable-display-glasses-screen)
+ - [Asus made a big portable OLED monitor you can fold in half](https://www.theverge.com/2024/1/9/24030378/asus-zenscreen-fold-oled-ces-2024)
+ - [Google is making your smart devices play nicer together](https://www.theverge.com/2024/1/9/24030353/google-quick-share-tiktok-home-hub-matter-lg-tv-chromecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

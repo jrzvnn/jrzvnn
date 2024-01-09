@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 👉 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)<!-- MEMES:END -->
+ - 😝 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
+ - 😝 [Or it&#39;d make Steve...](http://9gag.com/gag/a2K33y1)
+ - 💣 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 😝 [Finally, after 15 years watching all my friends get cool desktop setups, the Nintendos, PS, Xboxes while I didn\u2019t.. I worked my ass off and made this little thingy. For the 8 people that\u2019ll see this, it means a lot to me, so f**k you beforehand and see you tomorrow.](http://9gag.com/gag/aGEm4ZX)
+ - 👉 [You know how much I sacrificed?](http://9gag.com/gag/a1Py9DR)<!-- MEMES:END -->
 
 ---
 

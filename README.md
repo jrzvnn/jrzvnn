@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple had a pretty good year for patent grants, but not its best](https://appleinsider.com/articles/24/01/09/apple-had-a-pretty-good-year-for-patent-grants-but-not-its-best?utm_medium=rss)
- - [Marvel&#39;s &#39;Echo&#39;: How to Stream the New Superhero Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/marvels-echo-how-to-stream-the-new-superhero-series-from-anywhere/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate Adding AC Valhalla, RE 2 and More in January     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-ac-valhalla-re-2-and-more-in-january/#ftag=CAD590a51e)
- - [​​24 Entertaining Gifts for Curious Toddlers     - CNET](https://www.cnet.com/culture/entertainment/gifts-for-toddlers/#ftag=CAD590a51e)
- - [9 More of the Bizarre and Wonderful Things We’ve Seen at CES 2024](https://www.wired.com/gallery/ces-2024-photo-gallery-day-2/)<!-- TECH:END -->
+ - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
+ - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)
+ - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
+ - [Mila rolls out HomeKit air quality solutions at CES 2024](https://appleinsider.com/articles/24/01/09/mila-rolls-out-homekit-air-quality-solutions-at-ces-2024?utm_medium=rss)
+ - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

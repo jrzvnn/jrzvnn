@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)
- - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
- - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)
- - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
- - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)<!-- TECH:END -->
+ - [Future AirDrop could use light for incredibly fast and secure data transfers](https://appleinsider.com/articles/24/01/09/future-airdrop-could-use-light-for-incredibly-fast-and-secure-data-transfers?utm_medium=rss)
+ - [Microsoft’s second Xbox Developer_Direct on January 18th will feature Indiana Jones](https://www.theverge.com/2024/1/9/24031246/microsoft-xbox-event-developer-direct-date-2024)
+ - [Nanoleaf&#39;s new Matter products will light up the outside at CES 2024](https://appleinsider.com/articles/24/01/09/nanoleafs-new-matter-products-will-light-up-the-outside-at-ces-2024?utm_medium=rss)
+ - [TP-Link’s new video door lock unlocks with a tap of your iPhone](https://www.theverge.com/2024/1/9/24029781/tp-link-tapo-dl130-video-door-lock-apple-homekit-home-key-google-alexa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

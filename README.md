@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Startup Rabbit Inc. debuts the R1, a $199 handheld AI device meant to be a virtual assistant to complete tasks without a smartphone, shipping in late March &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240109/p31#a240109p31)
+ - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
  - [An X post from US SEC Chair Gary Gensler says the @SECGov&#39;s &quot;twitter account was compromised&quot;, and that the SEC has not approved spot bitcoin ETFs &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240109/p30#a240109p30)
  - [The FCC plans shutdown of the two-year-old Affordable Connectivity Program, which currently has 23M enrolled households, as GOP withholds funding &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240109/p29#a240109p29)
- - [Third tvOS 17.3 developer beta is now available for testing](https://appleinsider.com/articles/24/01/09/third-tvos-173-developer-beta-is-now-available-for-testing?utm_medium=rss)
- - [I just watched the first interactive broadcast TV channel in the US](https://www.theverge.com/2024/1/9/24031887/roxi-atsc-3-0-ces-2024-music-broadcast-app)
- - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)<!-- TECH:END -->
+ - [Third tvOS 17.3 developer beta is now available for testing](https://appleinsider.com/articles/24/01/09/third-tvos-173-developer-beta-is-now-available-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

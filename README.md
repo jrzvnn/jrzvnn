@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
- - 😝 [Anyone remember Trevor and Carol?](http://9gag.com/gag/a4oXXpp)
- - 👉 [Would you dare to try this?](http://9gag.com/gag/amAew56)<!-- MEMES:END -->
+ - 😝 [The Sound Of The 90\u2019s // Synth Edition - Do you remember all the sounds??? CLMC Music](http://9gag.com/gag/anzmm5z)
+ - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
+ - 💣 [This is way too accurate](http://9gag.com/gag/aBdAB1P)
+ - 😝 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
+ - 👉 [He\u2019s right you know](http://9gag.com/gag/aEq9mmp)<!-- MEMES:END -->
 
 ---
 

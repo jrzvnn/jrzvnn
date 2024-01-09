@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An X post from US SEC Chair Gary Gensler says the @SECGov&#39;s &quot;twitter account was compromised&quot;, and that the SEC has not approved spot bitcoin ETFs &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240109/p30#a240109p30)
  - [The FCC plans shutdown of the two-year-old Affordable Connectivity Program, which currently has 23M enrolled households, as GOP withholds funding &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240109/p29#a240109p29)
  - [Third tvOS 17.3 developer beta is now available for testing](https://appleinsider.com/articles/24/01/09/third-tvos-173-developer-beta-is-now-available-for-testing?utm_medium=rss)
  - [I just watched the first interactive broadcast TV channel in the US](https://www.theverge.com/2024/1/9/24031887/roxi-atsc-3-0-ces-2024-music-broadcast-app)
- - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)
- - [Cybersecurity company ExtraHop raises $100M in new funding from existing investors and says it ended 2023 with ~$200M ARR, double what it reported in 2021 &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240109/p26#a240109p26)<!-- TECH:END -->
+ - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

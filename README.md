@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [When you are sick and your sisters takes care of you](http://9gag.com/gag/aYV350N)
- - 💣 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 👉 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 💣 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Bjj...](http://9gag.com/gag/aEq9Ko9)<!-- MEMES:END -->
 
 ---
 

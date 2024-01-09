@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Ming-Chi Kuo: Investors should be cautious about Apple Vision Pro launch hype](https://appleinsider.com/articles/24/01/09/ming-chi-kuo-investors-should-be-cautious-about-apple-vision-pro-launch-hype?utm_medium=rss)
  - [Apple has designed a MagSafe gimbal camera mount for iPhones](https://appleinsider.com/articles/24/01/09/apple-has-designed-a-magsafe-gimbal-camera-mount-for-iphones?utm_medium=rss)
  - [Second Dinner, the developer behind Marvel Snap, raised a $100M Series B led by Griffin Gaming Partners to build out its popular mobile collectible card game &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240109/p10#a240109p10)
- - [Expand CarPlay &amp; Android Auto in-car capabilities with an Ottocast device that enriches the driver and passenger experience](https://appleinsider.com/articles/24/01/09/expand-carplay-android-auto-in-car-capabilities-with-an-ottocast-device-that-enriches-the-driver-and-passenger-experience?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung&#39;s Flip Phone Concept Gives You a Dual-Folding Experience     - CNET](https://www.cnet.com/tech/mobile/samsungs-flip-phone-concept-lets-you-turn-the-screen-inside-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

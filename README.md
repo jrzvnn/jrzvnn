@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU begins investigating whether Microsoft&#39;s OpenAI investment is reviewable under its rules, and asks for feedback on generative AI and virtual worlds &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240109/p7#a240109p7)
+ - [China claims to have cracked AirDrop security to find senders&#39; details](https://appleinsider.com/articles/24/01/09/china-claims-to-have-cracked-airdrop-security-to-find-senders-details?utm_medium=rss)
+ - [Berlin-based Robinhood rival Trade Republic reported a &quot;solid double-digit million euro&quot; net profit in the year to September, a first, up from a &amp;euro;145M loss YoY &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240109/p6#a240109p6)
  - [In a November 2023 appeal, Apple objected to EU&#39;s DMA designation of all App Stores as a single service, iOS interoperability, and iMessage NIICS designation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240109/p5#a240109p5)
- - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)
- - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
- - [Regain Control of Your Data in 2024. Here&#39;s Everything You Need to Know About Deleting Your Information     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-heres-everything-you-need-to-know-about-deleting-your-information/#ftag=CAD590a51e)
- - [Here&#39;s Everything to Know About a Form W-2     - CNET](https://www.cnet.com/personal-finance/taxes/heres-everything-to-know-about-a-form-w-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,7 +172,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 😝 [Expensive dinner](http://9gag.com/gag/a5XO4Mr)
  - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
  - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
  - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)

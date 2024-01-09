@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC bans data broker X-Mode Social, now known as Outlogic, from selling phone location data and orders it to delete collected data &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240109/p21#a240109p21)
  - [Apple Vision Pro has 16GB of memory, potentially 1TB of storage](https://appleinsider.com/articles/24/01/09/apple-vision-pro-has-16gb-of-memory-potentially-1tb-of-storage?utm_medium=rss)
  - [Rabbit R1 AI Assistant: Price, Specs, Release Date](https://www.wired.com/story/rabbit-r1/)
  - [The Rabbit R1 is an AI-powered gadget that can use your apps for you](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date)
- - [EcoFlow’s scalable solar generator can power your entire home or just a weekend away](https://www.theverge.com/2024/1/9/23996517/ecoflow-delta-pro-ultra-solar-generator-home-backup-price-specs)
- - [Don Lemon, Tulsi Gabbard, and Jim Rome are pivoting to Twitter videos](https://www.theverge.com/2024/1/9/24031614/x-don-lemon-show-tulsi-gabbard-jim-rome)<!-- TECH:END -->
+ - [EcoFlow’s scalable solar generator can power your entire home or just a weekend away](https://www.theverge.com/2024/1/9/23996517/ecoflow-delta-pro-ultra-solar-generator-home-backup-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

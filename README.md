@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Did she just...](http://9gag.com/gag/a1PyGLR)
  - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 💣 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
  - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
+ - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
 
 ---
 

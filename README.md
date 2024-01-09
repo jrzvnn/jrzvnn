@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)
  - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)
  - [Zens reveals lineup of premium Qi2 chargers for iPhone at CES 2024](https://appleinsider.com/articles/24/01/09/zens-reveals-lineup-of-premium-qi2-chargers-for-iphone-at-ces-2024?utm_medium=rss)
  - [OtterBox leads green tech accessories with cactus leather iPhone 15 cases](https://appleinsider.com/articles/24/01/09/otterbox-leads-green-tech-accessories-with-cactus-leather-iphone-15-cases?utm_medium=rss)
- - [Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)
- - [Anker’s flagship power station can charge an EV and make homes energy independent](https://www.theverge.com/2024/1/8/24026404/anker-solix-emergency-home-backup-power-price-specs)<!-- TECH:END -->
+ - [Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

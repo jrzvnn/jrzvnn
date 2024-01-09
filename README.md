@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft finds a material that could replace ~70% of lithium in a battery, by using Azure Quantum Elements HPC resources to run simulations and AI models &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240109/p17#a240109p17)
+ - [Sennheiser&#39;s new earbuds boast heart rate monitoring &amp; excellent sound](https://appleinsider.com/articles/24/01/09/sennheisers-new-earbuds-boast-heart-rate-monitoring-excellent-sound?utm_medium=rss)
  - [Samsung’s Galaxy phones will soon work as a PC webcam for Microsoft Teams](https://www.theverge.com/2024/1/9/24031445/samsung-galaxy-phones-microsoft-teams-webcam-copilot-integration)
  - [Ultrahuman Home monitors your environment to keep you healthy](https://appleinsider.com/articles/24/01/09/ultrahuman-home-monitors-your-environment-to-keep-you-healthy?utm_medium=rss)
- - [Daily deals Jan. 9: $200 off Apple Watch Series 8, TVs from $189, Canon printer $99, more](https://appleinsider.com/articles/24/01/09/daily-deals-jan-9-200-off-apple-watch-series-8-tvs-from-189-canon-printer-99-more?utm_medium=rss)
- - [Gunnar&#39;s new &#39;Clear Pro&#39; glasses will protect your eyes from blue light](https://appleinsider.com/articles/24/01/09/gunnars-new-clear-pro-glasses-will-protect-your-eyes-from-blue-light?utm_medium=rss)
- - [How Microsoft found a potential new battery material using AI](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai)<!-- TECH:END -->
+ - [Daily deals Jan. 9: $200 off Apple Watch Series 8, TVs from $189, Canon printer $99, more](https://appleinsider.com/articles/24/01/09/daily-deals-jan-9-200-off-apple-watch-series-8-tvs-from-189-canon-printer-99-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

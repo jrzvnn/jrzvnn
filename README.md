@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has designed a MagSafe gimbal camera mount for iPhones](https://appleinsider.com/articles/24/01/09/apple-has-designed-a-magsafe-gimbal-camera-mount-for-iphones?utm_medium=rss)
+ - [Second Dinner, the developer behind Marvel Snap, raised a $100M Series B led by Griffin Gaming Partners to build out its popular mobile collectible card game &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240109/p10#a240109p10)
+ - [Expand CarPlay &amp; Android Auto in-car capabilities with an Ottocast device that enriches the driver and passenger experience](https://appleinsider.com/articles/24/01/09/expand-carplay-android-auto-in-car-capabilities-with-an-ottocast-device-that-enriches-the-driver-and-passenger-experience?utm_medium=rss)
  - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
- - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)
- - [Roborock upgrades flagship robotic vacuum with Matter support &amp; more](https://appleinsider.com/articles/24/01/08/roborock-upgrades-flagship-robotic-vacuum-with-matter-support-more?utm_medium=rss)
- - [Mila rolls out HomeKit air quality solutions at CES 2024](https://appleinsider.com/articles/24/01/09/mila-rolls-out-homekit-air-quality-solutions-at-ces-2024?utm_medium=rss)
- - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara shows off new smart home gear at CES 2024](https://appleinsider.com/articles/24/01/08/aqara-shows-off-new-smart-home-gear-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)
  - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
  - [Regain Control of Your Data in 2024. Here&#39;s Everything You Need to Know About Deleting Your Information     - CNET](https://www.cnet.com/tech/services-and-software/regain-control-of-your-data-in-2024-heres-everything-you-need-to-know-about-deleting-your-information/#ftag=CAD590a51e)
  - [Here&#39;s Everything to Know About a Form W-2     - CNET](https://www.cnet.com/personal-finance/taxes/heres-everything-to-know-about-a-form-w-2/#ftag=CAD590a51e)
- - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
- - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)<!-- TECH:END -->
+ - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

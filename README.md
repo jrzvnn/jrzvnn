@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Artemis mission to take humans back to the Moon has been delayed until 2025](https://www.theverge.com/2024/1/9/24031869/nasa-artemis-ii-crewed-moon-mission-delayed-2025)
- - [Mercedes-Benz’s best-in-class voice assistant is getting an AI boost](https://www.theverge.com/2024/1/9/24028012/mercedes-benz-mbux-voice-assistant-ai-llm-mbos-ces)
- - [Mercedes-Benz taps Will.i.am to create an ‘interactive musical experience’ for its cars](https://www.theverge.com/2024/1/9/24026661/mercedes-sound-drive-mbux-william-black-eyed-peas-ces)
- - [Rabbit R1 is the latest AI hand-held that wants to kill the iPhone](https://appleinsider.com/articles/24/01/09/rabbit-r1-is-the-latest-ai-hand-held-that-wants-to-kill-the-iphone?utm_medium=rss)
- - [Sony brought its new PS5 colors to CES](https://www.theverge.com/2024/1/9/24031802/sony-ps5-slim-new-colors-hands-on-photos)<!-- TECH:END -->
+ - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
+ - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)
+ - [&#39;The Mandalorian&#39; Is Getting a Movie—Which It Should Have Been All Along](https://www.wired.com/story/the-mandalorian-and-grogu-movie-coming/)
+ - [Elections and disinfo are colliding like never before in 2024, as social networks reduce protections and state influence campaigns and AI-fueled disinfo ramp up &lpar;New York Times&rpar;](http://www.techmeme.com/240109/p24#a240109p24)
+ - [Netflix’s new 3 Body Problem trailer is all about the mystery](https://www.theverge.com/24030500/3-body-problem-trailer-netflix-sci-fi-mystery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

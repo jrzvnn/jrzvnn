@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Mandalorian and Grogu are getting a movie](https://www.theverge.com/2024/1/9/24031612/the-mandalorian-movie-star-wars)
  - [PerformYard, which offers staff retention, management, and upskilling tools, raised $95M from Updata Partners after being mostly bootstrapped besides a $3M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240109/p19#a240109p19)
  - [Ecovacs new Deebot X2 Combo brings Matter support to its flagship vacuum](https://appleinsider.com/articles/24/01/09/ecovacs-new-deebot-x2-combo-brings-matter-support-to-its-flagship-vacuum?utm_medium=rss)
  - [Satechi introduces mechanical keyboard &amp; Qi2 chargers at CES 2024](https://appleinsider.com/articles/24/01/09/satechi-introduces-mechanical-keyboard-qi2-chargers-at-ces-2024?utm_medium=rss)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Telly’s free ad-supported TV will use ChatGPT for its voice assistant](https://www.theverge.com/2024/1/9/24031322/telly-free-tv-chatgpt-ai-chatbot-zoom-watch-party)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

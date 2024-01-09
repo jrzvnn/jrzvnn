@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Sources: Twitch could cut 500 employees, or about 35% of its staff, as soon as Wednesday amid concerns over losses at Twitch and after several top execs left &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240109/p34#a240109p34)
  - [Quora says it raised $75M from Andreessen Horowitz, to be used to accelerate the growth of Poe and pay bot creators through its creator monetization program &lpar;Adam D&#39;Angelo/Quora&rpar;](http://www.techmeme.com/240109/p33#a240109p33)
  - [Not even Notepad is safe from Microsoft’s big AI push in Windows](https://www.theverge.com/2024/1/9/24032117/microsoft-windows-notepad-generative-ai-option)
- - [Apple finance executive departs to become CFO at Sonos](https://appleinsider.com/articles/24/01/09/apple-finance-executive-departs-to-become-cfo-at-sonos?utm_medium=rss)
- - [Match Group names Tinder COO Faye Iosotaluno as CEO of Tinder, ending a nearly two-year vacancy during which Match Group&#39;s CEO held both titles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240109/p32#a240109p32)
- - [The SEC&#39;s Official X Account Was ‘Compromised’ and Used to Post Fake Bitcoin News](https://www.wired.com/story/sec-x-account-compromise/)<!-- TECH:END -->
+ - [Apple finance executive departs to become CFO at Sonos](https://appleinsider.com/articles/24/01/09/apple-finance-executive-departs-to-become-cfo-at-sonos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

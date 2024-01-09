@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aukey highlights new Qi2 multi-chargers for Apple users at CES 2024](https://appleinsider.com/articles/24/01/09/aukey-highlights-new-qi2-multi-chargers-for-apple-users-at-ces-2024?utm_medium=rss)
- - [Asus’ new laptop has two screens and a removable keyboard](https://www.theverge.com/2024/1/9/24031220/asus-zenbook-duo-dual-oled-screen-laptop-vivobook-pro-tuf-gaming)
- - [Asus targets Apple’s Vision Pro &lpar;with M2&rpar; with the AirVision M1](https://www.theverge.com/2024/1/9/24031135/asus-air-vision-m1-wearable-display-glasses-screen)
- - [Asus made a big portable OLED monitor you can fold in half](https://www.theverge.com/2024/1/9/24030378/asus-zenscreen-fold-oled-ces-2024)
- - [Google is making your smart devices play nicer together](https://www.theverge.com/2024/1/9/24030353/google-quick-share-tiktok-home-hub-matter-lg-tv-chromecast)<!-- TECH:END -->
+ - [Apple issues third watchOS 10.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-issues-third-watchos-103-developer-beta?utm_medium=rss)
+ - [Apple seeds third macOS Sonoma 14.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-seeds-third-macos-sonoma-143-developer-beta?utm_medium=rss)
+ - [Apple distributes third iOS 17.3 iPadOS 17.3 developer betas](https://appleinsider.com/articles/24/01/09/apple-distributes-third-ios-173-ipados-173-developer-betas?utm_medium=rss)
+ - [The Last of Us casts Kaitlyn Dever as Abby](https://www.theverge.com/2024/1/9/24031649/the-last-of-us-kaitlyn-dever-abby-max-casting)
+ - [Aukey highlights new Qi2 multi-chargers for Apple users at CES 2024](https://appleinsider.com/articles/24/01/09/aukey-highlights-new-qi2-multi-chargers-for-apple-users-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

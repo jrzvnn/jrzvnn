@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quora says it raised $75M from Andreessen Horowitz, to be used to accelerate the growth of Poe and pay bot creators through its creator monetization program &lpar;Adam D&#39;Angelo/Quora&rpar;](http://www.techmeme.com/240109/p33#a240109p33)
+ - [Not even Notepad is safe from Microsoft’s big AI push in Windows](https://www.theverge.com/2024/1/9/24032117/microsoft-windows-notepad-generative-ai-option)
  - [Apple finance executive departs to become CFO at Sonos](https://appleinsider.com/articles/24/01/09/apple-finance-executive-departs-to-become-cfo-at-sonos?utm_medium=rss)
  - [Match Group names Tinder COO Faye Iosotaluno as CEO of Tinder, ending a nearly two-year vacancy during which Match Group&#39;s CEO held both titles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240109/p32#a240109p32)
- - [The SEC&#39;s Official X Account Was ‘Compromised’ and Used to Post Fake Bitcoin News](https://www.wired.com/story/sec-x-account-compromise/)
- - [Walmart is betting that AI can help you shop faster — and maybe do your shopping for you](https://www.theverge.com/2024/1/9/24032017/walmart-ai-shopping-replenishment-in-home)
- - [Walmart is bringing drone deliveries to 1.8 million more Texas households](https://www.theverge.com/2024/1/9/24031714/walmart-drone-delivery-wing-zipline-dallas-fort-worth-texas)<!-- TECH:END -->
+ - [The SEC&#39;s Official X Account Was ‘Compromised’ and Used to Post Fake Bitcoin News](https://www.wired.com/story/sec-x-account-compromise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)
  - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)
  - [Zens reveals lineup of premium Qi2 chargers for iPhone at CES 2024](https://appleinsider.com/articles/24/01/09/zens-reveals-lineup-of-premium-qi2-chargers-for-iphone-at-ces-2024?utm_medium=rss)
- - [OtterBox leads green tech accessories with cactus leather iPhone 15 cases](https://appleinsider.com/articles/24/01/09/otterbox-leads-green-tech-accessories-with-cactus-leather-iphone-15-cases?utm_medium=rss)<!-- TECH:END -->
+ - [Anker Just Released a Bunch of Qi2 Charging Accessories You&#39;re Probably Going to Want     - CNET](https://www.cnet.com/tech/mobile/anker-just-released-a-bunch-of-qi2-charging-accessories-youre-probably-going-to-want/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

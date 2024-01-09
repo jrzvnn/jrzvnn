@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TP-Link reveals its new video door lock with HomeKey support](https://appleinsider.com/articles/24/01/09/tp-link-reveals-its-new-video-door-lock-with-homekey-support?utm_medium=rss)
- - [The final numbers are in, and the heat in 2023 was record-smashing](https://www.theverge.com/2024/1/9/24031317/heat-record-2023-copernicus-climate-change-el-nino-forecast)
- - [Apple Music Classical will soon expand into Japan, China, Korea, and more](https://appleinsider.com/articles/24/01/09/apple-music-classical-will-soon-expand-into-japan-china-korea-and-more?utm_medium=rss)
- - [Luma, which is building AI models that generate 3D models from text prompts, raised a $43M Series B, a source says at a valuation between $200M and $300M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240109/p16#a240109p16)
- - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy phones will soon work as a PC webcam for Microsoft Teams](https://www.theverge.com/2024/1/9/24031445/samsung-galaxy-phones-microsoft-teams-webcam-copilot-integration)
+ - [Ultrahuman Home monitors your environment to keep you healthy](https://appleinsider.com/articles/24/01/09/ultrahuman-home-monitors-your-environment-to-keep-you-healthy?utm_medium=rss)
+ - [Daily deals Jan. 9: $200 off Apple Watch Series 8, TVs from $189, Canon printer $99, more](https://appleinsider.com/articles/24/01/09/daily-deals-jan-9-200-off-apple-watch-series-8-tvs-from-189-canon-printer-99-more?utm_medium=rss)
+ - [Gunnar&#39;s new &#39;Clear Pro&#39; glasses will protect your eyes from blue light](https://appleinsider.com/articles/24/01/09/gunnars-new-clear-pro-glasses-will-protect-your-eyes-from-blue-light?utm_medium=rss)
+ - [How Microsoft found a potential new battery material using AI](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

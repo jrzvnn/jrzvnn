@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 💣 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [Dope with a knife](http://9gag.com/gag/az2W0RK)
- - 👉 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)<!-- MEMES:END -->
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 💣 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 ---
 

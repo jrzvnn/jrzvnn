@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
  - 😝 [As a Kid, It Was Scary as HELL!](http://9gag.com/gag/aMEooY6)
- - 😝 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
- - 💣 [When you are sick and your sisters takes care of you](http://9gag.com/gag/aYV350N)
- - 😝 [Footage of fight in supermarket: man suspected of attempted manslaughter](http://9gag.com/gag/aEq995o)
- - 👉 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)<!-- MEMES:END -->
+ - 💣 [Bjj...](http://9gag.com/gag/aEq9Ko9)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 

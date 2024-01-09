@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I just watched the first interactive broadcast TV channel in the US](https://www.theverge.com/2024/1/9/24031887/roxi-atsc-3-0-ces-2024-music-broadcast-app)
+ - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)
+ - [Cybersecurity company ExtraHop raises $100M in new funding from existing investors and says it ended 2023 with ~$200M ARR, double what it reported in 2021 &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240109/p26#a240109p26)
  - [Pennsylvania government workers will start using ChatGPT in test program](https://www.theverge.com/2024/1/9/24031904/openai-pennsylvania-chatgpt-pilot-program-ai)
- - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)
- - [&#39;The Mandalorian&#39; Is Getting a Movie—Which It Should Have Been All Along](https://www.wired.com/story/the-mandalorian-and-grogu-movie-coming/)
- - [No, Netflix Is Not Releasing Its Own VR Headset, But Here&#39;s What&#39;s Going On     - CNET](https://www.cnet.com/tech/services-and-software/no-netflix-is-not-releasing-its-own-vr-headset-but-heres-whats-going-on/#ftag=CAD590a51e)
- - [Inside-Out Samsung Phone, See-Through TVs: Most Captivating CES 2024 Tech We&#39;re Seeing     - CNET](https://www.cnet.com/tech/inside-out-samsung-phone-see-through-tvs-most-captivating-ces-2024-tech-were-seeing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus revamps the Zenbook Duo with two 14&quot; 120Hz OLED displays and a detachable bluetooth keyboard; in the UK it will debut in late January for &amp;pound;1,699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240109/p25#a240109p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

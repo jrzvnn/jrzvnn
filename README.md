@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
- - 💣 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
- - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
+ - 😝 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
+ - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
 
 ---
 

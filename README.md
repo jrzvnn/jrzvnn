@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The FCC plans shutdown of the two-year-old Affordable Connectivity Program, which currently has 23M enrolled households, as GOP withholds funding &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240109/p29#a240109p29)
  - [Third tvOS 17.3 developer beta is now available for testing](https://appleinsider.com/articles/24/01/09/third-tvos-173-developer-beta-is-now-available-for-testing?utm_medium=rss)
- - [The US SEC grants approval for Bitcoin ETFs for listing on all registered national securities exchanges &lpar;@secgov&rpar;](http://www.techmeme.com/240109/p28#a240109p28)
  - [I just watched the first interactive broadcast TV channel in the US](https://www.theverge.com/2024/1/9/24031887/roxi-atsc-3-0-ces-2024-music-broadcast-app)
- - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)<!-- TECH:END -->
+ - [Keith Rabois is returning to Khosla Ventures as a managing director, after five years at Founders Fund &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240109/p27#a240109p27)
+ - [Cybersecurity company ExtraHop raises $100M in new funding from existing investors and says it ended 2023 with ~$200M ARR, double what it reported in 2021 &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/240109/p26#a240109p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony teases a &quot;spatial&quot; VR headset designed for 3D content creation with 4K OLED microdisplays and powered by Snapdragon XR2+ Gen 2, available later in 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240108/p42#a240108p42)
- - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
- - [Samsung Rollable OLED Is Changing Automotive Design video     - CNET](https://www.cnet.com/roadshow/videos/samsung-rollable-oled-is-changing-automotive-design/#ftag=CAD590a51e)
- - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
- - [Project Esther Concept Showcases Razer&#39;s New Vibrations     - CNET](https://www.cnet.com/tech/gaming/project-esther-concept-showcases-razers-new-vibrations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)
+ - [Zens reveals lineup of premium Qi2 chargers for iPhone at CES 2024](https://appleinsider.com/articles/24/01/09/zens-reveals-lineup-of-premium-qi2-chargers-for-iphone-at-ces-2024?utm_medium=rss)
+ - [OtterBox leads green tech accessories with cactus leather iPhone 15 cases](https://appleinsider.com/articles/24/01/09/otterbox-leads-green-tech-accessories-with-cactus-leather-iphone-15-cases?utm_medium=rss)
+ - [Anker’s new Qi2 chargers deliver MagSafe speed without MagSafe pricing](https://www.theverge.com/24027019/anker-qi2-hands-on-magsafe-speed)
+ - [Anker’s flagship power station can charge an EV and make homes energy independent](https://www.theverge.com/2024/1/8/24026404/anker-solix-emergency-home-backup-power-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

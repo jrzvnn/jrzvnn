@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro has 16GB of memory, potentially 1TB of storage](https://appleinsider.com/articles/24/01/09/apple-vision-pro-has-16gb-of-memory-potentially-1tb-of-storage?utm_medium=rss)
+ - [Rabbit R1 AI Assistant: Price, Specs, Release Date](https://www.wired.com/story/rabbit-r1/)
+ - [The Rabbit R1 is an AI-powered gadget that can use your apps for you](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date)
  - [EcoFlow’s scalable solar generator can power your entire home or just a weekend away](https://www.theverge.com/2024/1/9/23996517/ecoflow-delta-pro-ultra-solar-generator-home-backup-price-specs)
- - [Don Lemon, Tulsi Gabbard, and Jim Rome are pivoting to Twitter videos](https://www.theverge.com/2024/1/9/24031614/x-don-lemon-show-tulsi-gabbard-jim-rome)
- - [Apple issues third watchOS 10.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-issues-third-watchos-103-developer-beta?utm_medium=rss)
- - [Apple seeds third macOS Sonoma 14.3 developer beta](https://appleinsider.com/articles/24/01/09/apple-seeds-third-macos-sonoma-143-developer-beta?utm_medium=rss)
- - [Apple distributes third iOS 17.3 iPadOS 17.3 developer betas](https://appleinsider.com/articles/24/01/09/apple-distributes-third-ios-173-ipados-173-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Don Lemon, Tulsi Gabbard, and Jim Rome are pivoting to Twitter videos](https://www.theverge.com/2024/1/9/24031614/x-don-lemon-show-tulsi-gabbard-jim-rome)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

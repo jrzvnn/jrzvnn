@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC&#39;s Official X Account Was ‘Compromised’](https://www.wired.com/story/sec-x-account-compromise/)
+ - [Apple finance executive departs to become CFO at Sonos](https://appleinsider.com/articles/24/01/09/apple-finance-executive-departs-to-become-cfo-at-sonos?utm_medium=rss)
+ - [Match Group names Tinder COO Faye Iosotaluno as CEO of Tinder, ending a nearly two-year vacancy during which Match Group&#39;s CEO held both titles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240109/p32#a240109p32)
+ - [The SEC&#39;s Official X Account Was ‘Compromised’ and Used to Post Fake Bitcoin News](https://www.wired.com/story/sec-x-account-compromise/)
  - [Walmart is betting that AI can help you shop faster — and maybe do your shopping for you](https://www.theverge.com/2024/1/9/24032017/walmart-ai-shopping-replenishment-in-home)
- - [Walmart is bringing drone deliveries to 1.8 million more Texas households](https://www.theverge.com/2024/1/9/24031714/walmart-drone-delivery-wing-zipline-dallas-fort-worth-texas)
- - [Startup Rabbit Inc. debuts the R1, a $199 handheld AI device meant to be a virtual assistant to complete tasks without a smartphone, shipping in late March &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240109/p31#a240109p31)
- - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)<!-- TECH:END -->
+ - [Walmart is bringing drone deliveries to 1.8 million more Texas households](https://www.theverge.com/2024/1/9/24031714/walmart-drone-delivery-wing-zipline-dallas-fort-worth-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

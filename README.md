@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kojima you old Sly bastard](http://9gag.com/gag/anzm6nz)
- - 😝 [Canada is now arresting reporters](http://9gag.com/gag/aL1Zxpg)
- - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 👉 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)<!-- MEMES:END -->
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
+ - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 👉 [Would you dare to try this?](http://9gag.com/gag/amAew56)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 💣 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 😝 [Kojima you old Sly bastard](http://9gag.com/gag/anzm6nz)
+ - 😝 [Canada is now arresting reporters](http://9gag.com/gag/aL1Zxpg)
+ - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
  - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
+ - 👉 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony teases a &quot;spatial&quot; VR headset designed for 3D content creation with 4K OLED microdisplays and powered by Snapdragon XR2+ Gen 2, available later in 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240108/p42#a240108p42)
  - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
  - [Samsung Rollable OLED Is Changing Automotive Design video     - CNET](https://www.cnet.com/roadshow/videos/samsung-rollable-oled-is-changing-automotive-design/#ftag=CAD590a51e)
  - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
- - [Project Esther Concept Showcases Razer&#39;s New Vibrations     - CNET](https://www.cnet.com/tech/gaming/project-esther-concept-showcases-razers-new-vibrations/#ftag=CAD590a51e)
- - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)<!-- TECH:END -->
+ - [Project Esther Concept Showcases Razer&#39;s New Vibrations     - CNET](https://www.cnet.com/tech/gaming/project-esther-concept-showcases-razers-new-vibrations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

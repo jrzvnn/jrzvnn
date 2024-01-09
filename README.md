@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok restricts Creative Center, used by advertisers to track hashtags, after it was used by critics to scrutinize content on the Israel-Hamas war and more &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240108/p45#a240108p45)
  - [Sources: Elliott Management has built a ~$1B stake in Match Group and plans to push the online dating company to take steps to boost its languishing stock &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240108/p44#a240108p44)
  - [ByteDance says it is in talks with multiple prospective buyers, including Tencent, to sell its Nuverse gaming unit as part of a plan to exit the gaming industry &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240108/p43#a240108p43)
  - [Anker Solix F3800 home battery backup review: pushing the limits of portable power](https://appleinsider.com/articles/24/01/09/anker-solix-f3800-home-battery-backup-review-pushing-the-limits-of-portable-power?utm_medium=rss)
- - [Zens reveals lineup of premium Qi2 chargers for iPhone at CES 2024](https://appleinsider.com/articles/24/01/09/zens-reveals-lineup-of-premium-qi2-chargers-for-iphone-at-ces-2024?utm_medium=rss)
- - [Anker Just Released a Bunch of Qi2 Charging Accessories You&#39;re Probably Going to Want     - CNET](https://www.cnet.com/tech/mobile/anker-just-released-a-bunch-of-qi2-charging-accessories-youre-probably-going-to-want/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zens reveals lineup of premium Qi2 chargers for iPhone at CES 2024](https://appleinsider.com/articles/24/01/09/zens-reveals-lineup-of-premium-qi2-chargers-for-iphone-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

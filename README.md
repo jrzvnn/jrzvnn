@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)
  - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 💣 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 👉 [Predictable](http://9gag.com/gag/aQELLPq)<!-- MEMES:END -->
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 💣 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 👉 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI unveils the Claw, a Windows-based gaming handheld powered by Intel&#39;s Meteor Lake Core Ultra processor with a 7&quot; 1080p 120Hz IPS display, starting at $699 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240108/p31#a240108p31)
- - [Sources: HPE is in advanced talks to buy Juniper Networks for about $13B, in a deal that could be announced as soon as this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240108/p30#a240108p30)
- - [Substack says it&#39;ll remove some Nazi publications, but its new policy interpretation won&#39;t include proactively removing neo-Nazi and far-right extremism content &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240108/p29#a240108p29)
- - [Here are the best new devices from CES Unveiled 2024](https://appleinsider.com/articles/24/01/08/here-are-the-best-new-devices-from-ces-unveiled-2024?utm_medium=rss)
- - [Lenovo’s latest 2-in-1 crams Windows and Android into one device](https://www.theverge.com/2024/1/8/24030533/lenovo-ces-laptops-legion-thinkpad-thinkbook)<!-- TECH:END -->
+ - [Asus announces the ROG Phone 8 series, with Snapdragon 8 Gen 3 chip, 5,500mAh battery, 6.78&quot; 165Hz OLED display, and 32MP front camera, starting at $1,100 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240108/p35#a240108p35)
+ - [MSI Claw hands-on: the Steam Deck rival with Intel inside](https://www.theverge.com/24030779/msi-claw-portable-gaming-pc-hands-on)
+ - [Lenovo debuts the ThinkBook Plus Gen 5 Hybrid, a 2-in-1 Windows laptop with a 14&quot; 2.8K OLED display that can function as an Android tablet, starting at $2,000 &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/240108/p34#a240108p34)
+ - [Substack is going to remove five Nazi newsletters](https://www.theverge.com/2024/1/8/24030756/substack-nazi-newsletter-content-moderation)
+ - [Razer updates the Blade 16 with a 240Hz OLED display and new Intel and Nvidia chips, and previews a new Blade 18 with a 4K 165Hz display and Thunderbolt 5 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240108/p33#a240108p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

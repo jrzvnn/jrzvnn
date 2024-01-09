@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just leave this here](http://9gag.com/gag/adPGwMZ)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 💣 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 👉 [Thief slap](http://9gag.com/gag/aZD6eWX)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom creates a new team of nearly 350 people, including hires from Meta, Google, and Microsoft, dedicated to online safety and plans to hire 100 more in 2024 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240109/p2#a240109p2)
- - [A look at the rising subscription prices of dating apps as competition intensifies and growth slows down; data.ai: consumers spent $5B+ on dating apps in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240109/p1#a240109p1)
- - [Filing: JD-backed Dada Nexus is investigating &quot;suspicious practices&quot;, including a ~$140M overstatement of revenue and costs in 2023, triggering a 46% stock dive &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240108/p46#a240108p46)
- - [This Smart Energy System Lets You Go Off Grid at the Touch of a Button     - CNET](https://www.cnet.com/home/energy-and-utilities/this-smart-energy-system-lets-you-go-off-grid-at-the-touch-of-a-button/#ftag=CAD590a51e)
- - [Sony Drives Its New EV Onstage With a PS5 Controller video     - CNET](https://www.cnet.com/videos/sony-drives-its-new-ev-onstage-with-a-ps5-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
+ - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
+ - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)
+ - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)
+ - [Ofcom creates a new team of nearly 350 people, including hires from Meta, Google, and Microsoft, dedicated to online safety and plans to hire 100 more in 2024 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240109/p2#a240109p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

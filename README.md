@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canada is now arresting reporters](http://9gag.com/gag/aL1Zxpg)
+ - 😝 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
+ - 😝 [The wait](http://9gag.com/gag/agoDWev)
+ - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
  - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
  - 👉 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)<!-- MEMES:END -->
 
 ---

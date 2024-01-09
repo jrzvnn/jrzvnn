@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X suspends several podcasters and journalists, including The Intercept&#39;s Ken Klippenstein and Texas Observer&#39;s Steven Monacelli, with little to no explanation &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240109/p18#a240109p18)
- - [Microsoft finds a material that could replace ~70% of lithium in a battery, by using Azure Quantum Elements HPC resources to run simulations and AI models &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240109/p17#a240109p17)
- - [Sennheiser&#39;s new earbuds boast heart rate monitoring &amp; excellent sound](https://appleinsider.com/articles/24/01/09/sennheisers-new-earbuds-boast-heart-rate-monitoring-excellent-sound?utm_medium=rss)
- - [Samsung’s Galaxy phones will soon work as a PC webcam for Microsoft Teams](https://www.theverge.com/2024/1/9/24031445/samsung-galaxy-phones-microsoft-teams-webcam-copilot-integration)
- - [Ultrahuman Home monitors your environment to keep you healthy](https://appleinsider.com/articles/24/01/09/ultrahuman-home-monitors-your-environment-to-keep-you-healthy?utm_medium=rss)<!-- TECH:END -->
+ - [PerformYard, which offers staff retention, management, and upskilling tools, raised $95M from Updata Partners after being mostly bootstrapped besides a $3M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240109/p19#a240109p19)
+ - [Ecovacs new Deebot X2 Combo brings Matter support to its flagship vacuum](https://appleinsider.com/articles/24/01/09/ecovacs-new-deebot-x2-combo-brings-matter-support-to-its-flagship-vacuum?utm_medium=rss)
+ - [Satechi introduces mechanical keyboard &amp; Qi2 chargers at CES 2024](https://appleinsider.com/articles/24/01/09/satechi-introduces-mechanical-keyboard-qi2-chargers-at-ces-2024?utm_medium=rss)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+ - [Telly’s free ad-supported TV will use ChatGPT for its voice assistant](https://www.theverge.com/2024/1/9/24031322/telly-free-tv-chatgpt-ai-chatbot-zoom-watch-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

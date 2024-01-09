@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the internet reshaped itself around Google&#39;s algorithms, including by using SEO tricks, and the company&#39;s role in many websites now using similar designs &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240109/p3#a240109p3)
  - [Learn a new language for less with this $149 Babbel lifetime subscription flash deal](https://appleinsider.com/articles/24/01/09/learn-a-new-language-for-less-with-this-149-babbel-lifetime-subscription-flash-deal?utm_medium=rss)
  - [Hyperkin has made a handheld Sega Genesis that plays original carts](https://www.theverge.com/2024/1/9/24029916/sega-genesis-emulator-cartridges-handheld-hyperkin-95-mega-drive)
  - [Hyperkin is rereleasing the original Xbox ‘Controller S’ with Hall effect sticks and triggers](https://www.theverge.com/2024/1/9/24029712/original-xbox-controller-s-re-release-hyperkin-duchess)
- - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)
- - [Samsung Concept Flip Phone Lets You Bend It in Both Directions     - CNET](https://www.cnet.com/pictures/samsung-concept-flip-phone-lets-you-bend-it-in-both-directions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huion’s new, cheaper drawing tablets take on Wacom’s Cintiq Pro lineup](https://www.theverge.com/2024/1/9/24025705/huion-kamvas-pro-27-19-display-drawing-tablets-release-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 👉 [Anyone remember Trevor and Carol?](http://9gag.com/gag/a4oXXpp)<!-- MEMES:END -->
+ - 😝 [Every strong nation can be defeated if you can convince them, they are not under attack](http://9gag.com/gag/az2WpLN)
+ - 😝 [Ass is Ass](http://9gag.com/gag/axoLK3n)
+ - 💣 [In the zone](http://9gag.com/gag/a04ryOn)
+ - 😝 [The Sound Of The 90\u2019s // Synth Edition - Do you remember all the sounds??? CLMC Music](http://9gag.com/gag/anzmm5z)
+ - 👉 [This is way too accurate](http://9gag.com/gag/aBdAB1P)<!-- MEMES:END -->
 
 ---
 

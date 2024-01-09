@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 💣 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
  - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 👉 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)<!-- MEMES:END -->
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 💣 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 👉 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)<!-- MEMES:END -->
 
 ---
 

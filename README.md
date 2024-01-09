@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
- - 😝 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 💣 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 👉 [Would you dare to try this?](http://9gag.com/gag/amAew56)<!-- MEMES:END -->
+ - 😝 [Canada is now arresting reporters](http://9gag.com/gag/aL1Zxpg)
+ - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 💣 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 👉 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)<!-- MEMES:END -->
 
 ---
 

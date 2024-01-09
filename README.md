@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally met his mother](http://9gag.com/gag/aGEmmmz)
- - 😝 [The wait](http://9gag.com/gag/agoDWev)
- - 💣 [Predictable](http://9gag.com/gag/aQELLPq)
- - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
- - 👉 [Images of the man who jumped on the judge in Las Vegas reappearing in court today.](http://9gag.com/gag/ajVzzxQ)<!-- MEMES:END -->
+ - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
+ - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 😝 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
+ - 👉 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
 
 ---
 

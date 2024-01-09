@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pennsylvania becomes the first US state to use ChatGPT Enterprise in a pilot with OpenAI, in which state employees will use AI tools for daily operations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240109/p38#a240109p38)
  - [HPE plans to acquire Juniper Networks for about $14B, or $40 per share, in an all-cash deal &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240109/p37#a240109p37)
  - [Intel: ‘We are bringing the AI PC to the car’](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces)
  - [Podcasting is in its YouTube era](https://www.theverge.com/2024/1/9/24032155/youtube-podcast-rss-spotify-apple-audacy-bankruptcy)
- - [Former Apple VP of finance Saori Casey will become CFO at Sonos, replacing Eddie Lazarus, who will take on the new role of chief strategy officer &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p36#a240109p36)
- - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on generative AI, IP issues, cloud security, the Figma deal, regulation, antitrust, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240109/p35#a240109p35)<!-- TECH:END -->
+ - [Former Apple VP of finance Saori Casey will become CFO at Sonos, replacing Eddie Lazarus, who will take on the new role of chief strategy officer &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p36#a240109p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

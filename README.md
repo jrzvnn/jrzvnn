@@ -164,10 +164,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
+ - [Samsung Rollable OLED Is Changing Automotive Design video     - CNET](https://www.cnet.com/roadshow/videos/samsung-rollable-oled-is-changing-automotive-design/#ftag=CAD590a51e)
  - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
- - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)
- - [UK-first streaming service EE TV launches on Apple TV 4K with branded remote](https://appleinsider.com/articles/24/01/09/uk-first-streaming-service-ee-tv-launches-on-apple-tv-4k-with-branded-remote?utm_medium=rss)
- - [Carta has decided to close its liquidity services business, which matched buyers and sellers of private company stock &lpar;Axios&rpar;](http://www.techmeme.com/240108/p40#a240108p40)<!-- TECH:END -->
+ - [Project Esther Concept Showcases Razer&#39;s New Vibrations     - CNET](https://www.cnet.com/tech/gaming/project-esther-concept-showcases-razers-new-vibrations/#ftag=CAD590a51e)
+ - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

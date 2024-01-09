@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Hey squash another App Store beef](https://www.theverge.com/2024/1/9/24031596/apple-hey-calendar-app-store-approval)
+ - [Micron announces LPCAMM2, thinner and lighter laptop RAM that may replace SODIMM, the nearly 25-year-old standard, as Samsung, Dell, and more also make progress &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240109/p20#a240109p20)
  - [Today is the last day to take advantage of Epic Games’ annual winter sale](https://www.theverge.com/2024/1/9/24030190/epic-game-store-holiday-sale-alan-wake-2-google-pixel-7a-deal)
  - [Artists are making creative companies apologize for using AI](https://www.theverge.com/2024/1/9/24031468/wacom-wizards-of-the-coast-mtg-artists-against-generative-ai)
- - [Artwork for &#39;Silo,&#39; &#39;Napoleon&#39; revealed by Art Directors&#39; Guild awards](https://appleinsider.com/articles/24/01/09/artwork-for-silo-napoleon-revealed-by-art-directors-guild-awards?utm_medium=rss)
- - [The Mandalorian and Grogu are getting a movie](https://www.theverge.com/2024/1/9/24031612/the-mandalorian-movie-star-wars)
- - [PerformYard, which offers staff retention, management, and upskilling tools, raised $95M from Updata Partners after being mostly bootstrapped besides a $3M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240109/p19#a240109p19)<!-- TECH:END -->
+ - [Artwork for &#39;Silo,&#39; &#39;Napoleon&#39; revealed by Art Directors&#39; Guild awards](https://appleinsider.com/articles/24/01/09/artwork-for-silo-napoleon-revealed-by-art-directors-guild-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

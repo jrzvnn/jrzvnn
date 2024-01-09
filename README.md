@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s Artemis mission to take humans back to the Moon has been delayed until 2025](https://www.theverge.com/2024/1/9/24031869/nasa-artemis-ii-crewed-moon-mission-delayed-2025)
+ - [Mercedes-Benz’s best-in-class voice assistant is getting an AI boost](https://www.theverge.com/2024/1/9/24028012/mercedes-benz-mbux-voice-assistant-ai-llm-mbos-ces)
+ - [Mercedes-Benz taps Will.i.am to create an ‘interactive musical experience’ for its cars](https://www.theverge.com/2024/1/9/24026661/mercedes-sound-drive-mbux-william-black-eyed-peas-ces)
  - [Rabbit R1 is the latest AI hand-held that wants to kill the iPhone](https://appleinsider.com/articles/24/01/09/rabbit-r1-is-the-latest-ai-hand-held-that-wants-to-kill-the-iphone?utm_medium=rss)
- - [Sony brought its new PS5 colors to CES](https://www.theverge.com/2024/1/9/24031802/sony-ps5-slim-new-colors-hands-on-photos)
- - [Source: the US is planning rules would require hospitals impose new cybersecurity requirements to get federal funding, amid a barrage of hacks in the industry &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/240109/p23#a240109p23)
- - [Google and Samsung merge their respective Nearby Share and Quick Share features under the Quick Share name, for a more unified cross-Android sharing option &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/240109/p22#a240109p22)
- - [EcoFlow Delta Pro Ultra is a smart hybrid whole-house battery generator](https://appleinsider.com/articles/24/01/09/ecoflow-delta-pro-ultra-is-a-smart-hybrid-whole-house-battery-generator?utm_medium=rss)<!-- TECH:END -->
+ - [Sony brought its new PS5 colors to CES](https://www.theverge.com/2024/1/9/24031802/sony-ps5-slim-new-colors-hands-on-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

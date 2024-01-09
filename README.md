@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that\u2019s surprising](http://9gag.com/gag/aPgELzq)
- - 😝 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)
- - 💣 [Proof that some people can live without a brain.](http://9gag.com/gag/a4oXyDd)
- - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 😝 [Is this not wrong?](http://9gag.com/gag/a9qx0gZ)
+ - 💣 [Being IT is\u2026](http://9gag.com/gag/avQMjvd)
+ - 😝 [Karen with the bike was correct all along. She has provided evidence of her payment for the bicycle.](http://9gag.com/gag/aL1Z5gV)
  - 👉 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)<!-- MEMES:END -->
 
 ---

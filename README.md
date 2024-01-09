@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus announces the ROG Phone 8 series, with Snapdragon 8 Gen 3 chip, 5,500mAh battery, 6.78&quot; 165Hz OLED display, and 32MP front camera, starting at $1,100 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240108/p35#a240108p35)
- - [MSI Claw hands-on: the Steam Deck rival with Intel inside](https://www.theverge.com/24030779/msi-claw-portable-gaming-pc-hands-on)
- - [Lenovo debuts the ThinkBook Plus Gen 5 Hybrid, a 2-in-1 Windows laptop with a 14&quot; 2.8K OLED display that can function as an Android tablet, starting at $2,000 &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/240108/p34#a240108p34)
- - [Substack is going to remove five Nazi newsletters](https://www.theverge.com/2024/1/8/24030756/substack-nazi-newsletter-content-moderation)
- - [Razer updates the Blade 16 with a 240Hz OLED display and new Intel and Nvidia chips, and previews a new Blade 18 with a 4K 165Hz display and Thunderbolt 5 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240108/p33#a240108p33)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
+ - [Apple’s first Vision Pro ad echoes the original iPhone commercial](https://www.theverge.com/2024/1/8/24030919/apple-vision-pro-ad-echoes-iphone-commercial-get-ready)
+ - [Apple released a short video teasing Apple Vision Pro, paying homage to original iPhone ad](https://appleinsider.com/articles/24/01/09/apple-released-a-short-video-teasing-apple-vision-pro?utm_medium=rss)
+ - [Asus announces its first mini-PC, the ROG NUC, featuring Intel Core Ultra CPUs, up to an Nvidia RTX 4070 GPU, quad 4K display support, and Wi-Fi 6E &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/240108/p39#a240108p39)
+ - [Former X VP of Trust and Safety Ella Irwin joins Stability AI to oversee its strategy and implementation of safeguarding around issues like child safety and IP &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240108/p38#a240108p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker ships its Qi2-enabled MagGo charging accessories at CES 2024](https://appleinsider.com/articles/24/01/09/anker-ships-its-qi2-enabled-maggo-charging-accessories-at-ces-2024?utm_medium=rss)
  - [Chipolo &#39;Perfectly Imperfect&#39; campaign launches with limited-edition Find My trackers](https://appleinsider.com/articles/24/01/08/chipolo-perfectly-imperfect-campaign-launches-with-limited-edition-find-my-trackers?utm_medium=rss)
  - [GoalZero reveals three new portable power stations and a fridge at CES](https://appleinsider.com/articles/24/01/08/goalzero-reveals-three-new-portable-power-stations-and-a-fridge-at-ces?utm_medium=rss)
  - [Wi-Fi 7 spec finalized with promises of high-speed wireless networking](https://appleinsider.com/articles/24/01/08/wi-fi-7-spec-finalized-with-promises-of-high-speed-wireless-networking?utm_medium=rss)
- - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)
- - [A profile of OpenAI VP of Global Affairs Anna Makanju, who helped transform Sam Altman from a startup darling to an AI ambassador and worked in Obama&#39;s admin &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240109/p15#a240109p15)<!-- TECH:END -->
+ - [Get your beer from an app-connected roving robot with the Ottobot Brew](https://appleinsider.com/articles/24/01/09/get-your-beer-from-an-app-connected-roving-robot-with-the-ottobot-brew?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

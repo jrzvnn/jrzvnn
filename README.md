@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Apple’s first Vision Pro ad echoes the original iPhone commercial](https://www.theverge.com/2024/1/8/24030919/apple-vision-pro-ad-echoes-iphone-commercial-get-ready)
- - [Apple released a short video teasing Apple Vision Pro, paying homage to original iPhone ad](https://appleinsider.com/articles/24/01/09/apple-released-a-short-video-teasing-apple-vision-pro?utm_medium=rss)
- - [Asus announces its first mini-PC, the ROG NUC, featuring Intel Core Ultra CPUs, up to an Nvidia RTX 4070 GPU, quad 4K display support, and Wi-Fi 6E &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/240108/p39#a240108p39)
- - [Former X VP of Trust and Safety Ella Irwin joins Stability AI to oversee its strategy and implementation of safeguarding around issues like child safety and IP &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240108/p38#a240108p38)<!-- TECH:END -->
+ - [The Mayo Clinic partners with Cerebras to use Cerebras&#39; computing chips and systems to develop its own AI models based on anonymized medical records and data &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240108/p41#a240108p41)
+ - [Sony teased a ‘spatial’ VR headset with a smart control ring](https://www.theverge.com/2024/1/8/24030930/sony-vr-spatial-smart-control-ring-ces)
+ - [Razer’s new light bar is a mullet for your monitor](https://www.theverge.com/2024/1/8/24025923/razer-aether-matter-monitor-light-bar-rgb-high-cri-ces-2024)
+ - [UK-first streaming service EE TV launches on Apple TV 4K with branded remote](https://appleinsider.com/articles/24/01/09/uk-first-streaming-service-ee-tv-launches-on-apple-tv-4k-with-branded-remote?utm_medium=rss)
+ - [Carta has decided to close its liquidity services business, which matched buyers and sellers of private company stock &lpar;Axios&rpar;](http://www.techmeme.com/240108/p40#a240108p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

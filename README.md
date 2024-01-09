@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix defeats a shareholder lawsuit over accusations of hiding the impact of account sharing; Netflix lost ~50% of its value in 2022 after growth warnings &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240109/p8#a240109p8)
  - [The EU begins investigating whether Microsoft&#39;s OpenAI investment is reviewable under its rules, and asks for feedback on generative AI and virtual worlds &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240109/p7#a240109p7)
+ - [Learn a New Language in 2024 With 74% Off a Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-new-language-2024-74-off-lifetime-babbel-subscription/#ftag=CAD590a51e)
  - [China claims to have cracked AirDrop security to find senders&#39; details](https://appleinsider.com/articles/24/01/09/china-claims-to-have-cracked-airdrop-security-to-find-senders-details?utm_medium=rss)
- - [Berlin-based Robinhood rival Trade Republic reported a &quot;solid double-digit million euro&quot; net profit in the year to September, a first, up from a &amp;euro;145M loss YoY &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240109/p6#a240109p6)
- - [In a November 2023 appeal, Apple objected to EU&#39;s DMA designation of all App Stores as a single service, iOS interoperability, and iMessage NIICS designation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240109/p5#a240109p5)
- - [Beijing&#39;s judicial bureau says a state-backed institution cracked Apple&#39;s AirDrop to identify message senders, and police found multiple suspects via the method &lpar;Bloomberg&rpar;](http://www.techmeme.com/240109/p4#a240109p4)<!-- TECH:END -->
+ - [Berlin-based Robinhood rival Trade Republic reported a &quot;solid double-digit million euro&quot; net profit in the year to September, a first, up from a &amp;euro;145M loss YoY &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/240109/p6#a240109p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

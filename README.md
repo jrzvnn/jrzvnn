@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s right just stand there instead of apologizing](http://9gag.com/gag/aqePEmP)
- - 😝 [Woman enters military base without permission](http://9gag.com/gag/aZD65O6)
- - 💣 [Have a nice week sportsman.](http://9gag.com/gag/a8qRgjQ)
- - 😝 [Would you dare to try this?](http://9gag.com/gag/amAew56)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 😝 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
+ - 💣 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
+ - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 👉 [Japan is not that bad guys,even now](http://9gag.com/gag/a5XO3EV)<!-- MEMES:END -->
 
 ---
 

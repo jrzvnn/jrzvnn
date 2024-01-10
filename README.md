@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tampa-based Rewst, which provides robotic process automation services to managed service providers, raised a $31M Series B led by Meritech Capital &lpar;Stephen Pastis/Tampa Bay Business Journal&rpar;](http://www.techmeme.com/240110/p2#a240110p2)
  - [Bengaluru-based Impact Analytics, which offers retail, grocery, CPG, and supply chain planning and merchandising software, raised $40M led by Sageview Capital &lpar;The Economic Times&rpar;](http://www.techmeme.com/240110/p1#a240110p1)
  - [SentinelOne acquires Bengaluru-based cloud security provider PingSafe, sources say for a $100M+ valuation; PingSafe had raised ~$3.3M from Peak XV and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p47#a240109p47)
  - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

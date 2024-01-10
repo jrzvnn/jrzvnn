@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else?](http://9gag.com/gag/aGEmW5n)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
- - 👉 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)<!-- MEMES:END -->
+ - 😝 [Bruh](http://9gag.com/gag/amAeEyo)
+ - 😝 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)
+ - 💣 [Ecuador currently in total chaos. Armed gangs storming the university to kidnap students. Live TV crew taken hostage, filmed gang executions carried out. Cartel response to Ecuador\u2019s president declaring a state of emergency because of the escape of cartel kingpin Adolfo Macias.](http://9gag.com/gag/aA08nVp)
+ - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 👉 [She&#39;s a keeper](http://9gag.com/gag/a9qx9O0)<!-- MEMES:END -->
 
 ---
 

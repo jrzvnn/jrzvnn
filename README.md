@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 😝 [An attempt at carjacking](http://9gag.com/gag/aQELYYe)
- - 💣 [Camping Knowledge](http://9gag.com/gag/ajVz23g)
- - 😝 [Doesn&#39;t it?](http://9gag.com/gag/agoDP7K)
- - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
+ - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
 
 ---
 

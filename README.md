@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US ITC files its opposition to Apple&#39;s motion for the Watch Series 9 and Ultra 2 sales ban to be paused for the duration of Apple&#39;s appeal &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240110/p36#a240110p36)
  - [Congress Wants Tech Companies to Pay Up for AI Training Data](https://www.wired.com/story/congress-senate-tech-companies-pay-ai-training-data/)
  - [US SEC Chair Gary Gensler concedes that the SEC&#39;s loss in court over rejecting Grayscale&#39;s spot bitcoin ETF left it with little choice but to approve such ETFs &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240110/p35#a240110p35)
  - [Apple Watch import ban stay opposed by ITC](https://appleinsider.com/articles/24/01/10/apple-watch-import-ban-stay-opposed-by-itc?utm_medium=rss)
- - [Voice-Controlled Bidets, Pet Robots and Steak Toasters: Our Favorite Home Tech of CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-pet-robots-and-steak-toasters-our-favorite-home-tech-of-ces-2024/#ftag=CAD590a51e)
- - [Stunning TVs, Flying Taxi, Inside-Out Phone: We&#39;re Vibing This Captivating CES 2024 Tech     - CNET](https://www.cnet.com/tech/stunning-tvs-flying-taxi-inside-out-phone-were-vibing-this-captivating-ces-2024-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Voice-Controlled Bidets, Pet Robots and Steak Toasters: Our Favorite Home Tech of CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-pet-robots-and-steak-toasters-our-favorite-home-tech-of-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

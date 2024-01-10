@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
  - 😝 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
- - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
  - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 👉 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
+ - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 😝 [Never forget](http://9gag.com/gag/aA0jB6E)
+ - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
 
 ---
 

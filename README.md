@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TVs, monitors, and laptops of CES 2024](https://www.theverge.com/2024/1/10/24033247/ces-2024-tvs-monitors-laptops-vergecast-podcast)
  - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
  - [How to sue a hacker using Bitcoin](https://www.theverge.com/2024/1/10/24033166/bitcoin-crypto-ryan-dellone-lawsuit-hacker)
  - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [CES 2024 Live Blog: More News, Photos, and Videos From Tech&#39;s Big Show](https://www.wired.com/live/ces-2024-liveblog-3/)
- - [X has quietly removed the ability for paying subscribers to set an NFT as a profile picture, a feature Twitter launched in early 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240110/p30#a240110p30)<!-- TECH:END -->
+ - [CES 2024 Live Blog: More News, Photos, and Videos From Tech&#39;s Big Show](https://www.wired.com/live/ces-2024-liveblog-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

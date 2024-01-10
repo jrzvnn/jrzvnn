@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
- - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
+ - 😝 [The wait](http://9gag.com/gag/agoDWev)
+ - 😝 [The first girl was totally going to give him a chance.This will haunt him for the rest of his life.](http://9gag.com/gag/aBdA7GP)
+ - 💣 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)
+ - 😝 [Becoming a legend](http://9gag.com/gag/adPGENj)
+ - 👉 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Amazon Studios SVP Mike Hopkins says &quot;several hundred roles&quot; are being cut in its Prime Video and MGM Studios units; both had cuts in early 2023 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240110/p23#a240110p23)
+ - [VinFast shows off a midsize truck and small utility EV for North America](https://www.theverge.com/2024/1/10/24032769/vinfast-vf-wild-vf3-ev-concept-ces-2024)
  - [The Castro podcast app and its website are back up](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
  - [How RISC-V, the US-developed, open-source chip instruction set architecture, became a central tool for Chinese companies and governments, leading to US concerns &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p22#a240110p22)
- - [I Found David Lynch’s Lost &#39;Dune II&#39; Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
- - [How UK online clothes shoppers shifting back to physical stores post-pandemic exacerbated online retailers&#39; challenges, including logistics and new upstarts &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p21#a240110p21)
- - [Documents: sanctioned Russian billionaire Roman Abramovich quietly invested $63M+ in European startups via London VC firm Target Global between 2015 and 2021 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/240110/p20#a240110p20)<!-- TECH:END -->
+ - [I Found David Lynch’s Lost &#39;Dune II&#39; Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

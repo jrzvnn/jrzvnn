@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)
  - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
  - [PC market decline decelerating, Apple holding firm](https://appleinsider.com/articles/24/01/10/jp-morgan-pc-shipment-decline-trending-upward-as-apple-market-share-remains-stable?utm_medium=rss)
  - [Bitcoin ETFs Have Arrived. Here’s Who Stands to Get Rich](https://www.wired.com/story/spot-bitcoin-etfs-launch/)
- - [The US SEC approves 11 spot bitcoin ETFs, including those of Grayscale, Bitwise, and Hashdex &lpar;Reuters&rpar;](http://www.techmeme.com/240110/p34#a240110p34)
- - [Rabbit sells out 10,000 units of its R1 pocket AI companion in one day](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)<!-- TECH:END -->
+ - [The US SEC approves 11 spot bitcoin ETFs, including those of Grayscale, Bitwise, and Hashdex &lpar;Reuters&rpar;](http://www.techmeme.com/240110/p34#a240110p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

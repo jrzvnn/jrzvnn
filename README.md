@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [iPhone sales might be down, but buyers are opting for more storage](https://appleinsider.com/articles/24/01/10/iphone-sales-might-be-down-but-buyers-are-opting-for-more-storage?utm_medium=rss)
  - [Apple earns ten Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
  - [There’s a Huge Covid Surge Right Now and Nobody Is Talking About It](https://www.wired.com/story/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/)
- - [OpenAI launches GPT Store, where users can share their custom chatbots, says users made 3M chatbots so far, and it will launch a revenue sharing program in Q1 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240110/p28#a240110p28)<!-- TECH:END -->
+ - [Stay Charged On the Go With This Portable Anker Power Station at $55 Off     - CNET](https://www.cnet.com/deals/stay-charged-on-the-go-with-this-portable-anker-power-station-at-55-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

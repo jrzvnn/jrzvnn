@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won&#39;t send reviewers a Vision Pro without briefings, says Gurman](https://appleinsider.com/articles/24/01/10/apple-wont-send-reviewers-a-vision-pro-without-briefings-says-gurman?utm_medium=rss)
+ - [TSMC makes up for falling iPhone demand with AI processors](https://appleinsider.com/articles/24/01/10/tsmc-makes-up-for-falling-iphone-demand-with-ai-processors?utm_medium=rss)
+ - [YouTube partners with Mass General Brigham and the Mexican Red Cross to show brief, step-by-step first-aid videos atop searches about heart attacks and more &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240110/p17#a240110p17)
  - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
- - [Air Pollution Is Ruining Your Skin](https://www.wired.com/story/air-pollution-is-ruining-your-skin/)
- - [The Best of CES 2024](https://www.wired.com/gallery/best-of-ces-2024/)
- - [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
- - [The Ocean’s Mysteries—and Marvels—Are About to Reach New Depths](https://www.wired.com/story/the-oceans-mysteries-and-marvels-are-about-to-reach-new-depths/)<!-- TECH:END -->
+ - [No CES 2024 Vaporware Here. You Can Buy These 13 New Products Now     - CNET](https://www.cnet.com/deals/no-ces-2024-vaporware-here-buy-these-13-products-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

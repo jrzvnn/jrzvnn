@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 😝 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
- - 💣 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
- - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
- - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
+ - 😝 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 💣 [Snow Cats](http://9gag.com/gag/amA3qpd)
+ - 😝 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
+ - 👉 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)<!-- MEMES:END -->
 
 ---
 

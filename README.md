@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)
  - [Apple Vision Pro won&#39;t get challenged by CES AR &amp; VR hardware](https://appleinsider.com/articles/24/01/10/apple-vision-pro-wont-get-challenged-by-ces-ar-vr-hardware?utm_medium=rss)
  - [Apple was warned of AirDrop flaws before China&#39;s hack](https://appleinsider.com/articles/24/01/10/apple-was-warned-of-airdrop-flaws-before-chinas-hack?utm_medium=rss)
  - [Twitch CEO Dan Clancy confirms plans to cut 500+ jobs, or 35% of its staff, and says the workforce was oversized for its current position, after March 2023 cuts &lpar;The Verge&rpar;](http://www.techmeme.com/240110/p25#a240110p25)
- - [Third investment firm downgrades Apple, but expects iPhone demand to improve](https://appleinsider.com/articles/24/01/10/third-investment-firm-downgrades-apple-but-expects-iphone-demand-to-improve?utm_medium=rss)
- - [E-scooter rental startups Tier and Dott plan to merge, with their investors Mubadala, Sofina, and others putting in &amp;euro;60M, forming Europe&#39;s largest operator &lpar;Nick Carey/Reuters&rpar;](http://www.techmeme.com/240110/p24#a240110p24)<!-- TECH:END -->
+ - [Third investment firm downgrades Apple, but expects iPhone demand to improve](https://appleinsider.com/articles/24/01/10/third-investment-firm-downgrades-apple-but-expects-iphone-demand-to-improve?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)
  - [An investigation finds over 1,600 YouTube videos featuring celebrity deepfakes promoting Medicaid and Medicare scams; the videos have over 195M views in total &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240110/p9#a240110p9)
- - [Some startup founders are building up protections, including implementing supervoting shares or dual-class shares, to avoid getting ousted like Sam Altman &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240110/p8#a240110p8)
- - [Demis Hassabis, chief of DeepMind spinout Isomorphic Labs, believes the company would halve drug discovery times after inking deals with Eli Lilly and Novartis &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p7#a240110p7)
- - [Intel unveils AI-enabled SoCs for cars and agrees to buy Silicon Mobility, a French fabless silicon and software company that develops EV energy management SoCs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240110/p6#a240110p6)<!-- TECH:END -->
+ - [Verizon Customers Could Get a $100 Class Action Payout. Here&#39;s How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-class-action-payout-heres-how-to-claim-the-money/#ftag=CAD590a51e)
+ - [Get a Head Start on Your Taxes: Here Are the Documents You Need to Collect Before Filing     - CNET](https://www.cnet.com/personal-finance/taxes/get-a-head-start-on-your-taxes-here-are-the-documents-you-need-to-collect-before-filing/#ftag=CAD590a51e)
+ - [SSDI Check for January 2023: Will Your COLA Money Arrive Today?     - CNET](https://www.cnet.com/personal-finance/ssdi-check-for-january-2023-will-your-cola-money-arrive-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

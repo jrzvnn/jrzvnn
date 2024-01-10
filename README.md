@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)
- - 😝 [Becoming a legend](http://9gag.com/gag/adPGENj)
- - 💣 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)
- - 😝 [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)
- - 👉 [Bruh](http://9gag.com/gag/amAeEyo)<!-- MEMES:END -->
+ - 😝 [Predictable](http://9gag.com/gag/aQELLPq)
+ - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
 
 ---
 

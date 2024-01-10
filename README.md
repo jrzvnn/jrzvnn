@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)
- - [Apple Vision Pro won&#39;t get challenged by CES AR &amp; VR hardware](https://appleinsider.com/articles/24/01/10/apple-vision-pro-wont-get-challenged-by-ces-ar-vr-hardware?utm_medium=rss)
- - [Apple was warned of AirDrop flaws before China&#39;s hack](https://appleinsider.com/articles/24/01/10/apple-was-warned-of-airdrop-flaws-before-chinas-hack?utm_medium=rss)
- - [Twitch CEO Dan Clancy confirms plans to cut 500+ jobs, or 35% of its staff, and says the workforce was oversized for its current position, after March 2023 cuts &lpar;The Verge&rpar;](http://www.techmeme.com/240110/p25#a240110p25)
- - [Third investment firm downgrades Apple, but expects iPhone demand to improve](https://appleinsider.com/articles/24/01/10/third-investment-firm-downgrades-apple-but-expects-iphone-demand-to-improve?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan. 10: Apple TV 4K $115, Apple MagSafe Charger $29, 49% off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/10/daily-deals-jan-10-apple-tv-4k-115-apple-magsafe-charger-29-49-off-beats-studio-pro-more?utm_medium=rss)
+ - [Snowpack is shrinking across the Northern Hemisphere](https://www.theverge.com/2024/1/10/24031852/snow-loss-climate-change-drought-research)
+ - [Victrola’s Sonos-compatible turntables are down to their best prices to date](https://www.theverge.com/2024/1/10/24031490/victrola-stream-onyx-carbon-amazon-fire-tv-stick-4k-max-deal-sale)
+ - [Lawmakers Are Out for Blood After a Hack of the SEC’s X Account Causes Bitcoin Chaos](https://www.wired.com/story/sec-x-account-hack-investigation/)
+ - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New England Patriots documentary to stream from February 16](https://appleinsider.com/articles/24/01/10/new-england-patriots-documentary-to-stream-from-february-16?utm_medium=rss)
+ - [YouTube will now direct you to the right first-aid videos during an emergency](https://www.theverge.com/2024/1/10/24032134/youtube-first-aid-explainer-mass-general-mexican-red-cross)
+ - [Valve&#39;s Steam plans to add an &quot;AI disclosure section&quot;, asking developers to describe how their games use AI content, and to let gamers report illegal AI content &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/240110/p13#a240110p13)
  - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)
- - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)
- - [Aeva, founded by Apple veterans, reaches a $1B deal with Germany&#39;s Daimler Truck for self-driving sensors for trucks expected in 2027, but offers few details &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240110/p11#a240110p11)
- - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)
- - [An investigation finds over 1,600 YouTube videos featuring celebrity deepfakes promoting Medicaid and Medicare scams; the videos have over 195M views in total &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240110/p9#a240110p9)<!-- TECH:END -->
+ - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

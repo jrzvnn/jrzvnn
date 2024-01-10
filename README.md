@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Hostage.](http://9gag.com/gag/a3Z6VR1)
- - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 💣 [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)
- - 😝 [Becoming a legend](http://9gag.com/gag/adPGENj)
- - 👉 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)<!-- MEMES:END -->
+ - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
+ - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches ChatGPT Team, a new subscription plan for teams up to 149 people, for $30 per user per month, or $25 per user per month billed annually &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240110/p29#a240110p29)
  - [iPhone sales might be down, but buyers are opting for more storage](https://appleinsider.com/articles/24/01/10/iphone-sales-might-be-down-but-buyers-are-opting-for-more-storage?utm_medium=rss)
  - [Apple earns ten Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
  - [There’s a Huge Covid Surge Right Now and Nobody Is Talking About It](https://www.wired.com/story/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/)
- - [OpenAI launches GPT Store, where users can share their custom chatbots, says users made 3M chatbots so far, and it will launch a revenue sharing program in Q1 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240110/p28#a240110p28)
- - [Satechi unveils upgrades for Mac Mini &amp; Mac Studio Stand &amp; Hub at CES 2024](https://appleinsider.com/articles/24/01/10/satechi-unveils-upgrades-for-mac-mini-mac-studio-stand-hub-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI launches GPT Store, where users can share their custom chatbots, says users made 3M chatbots so far, and it will launch a revenue sharing program in Q1 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240110/p28#a240110p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

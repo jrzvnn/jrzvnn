@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The US DOJ says SAP will pay over $220M to settle investigations into worldwide &quot;recidivist&quot; foreign bribery practices &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240110/p31#a240110p31)
  - [The TVs, monitors, and laptops of CES 2024](https://www.theverge.com/2024/1/10/24033247/ces-2024-tvs-monitors-laptops-vergecast-podcast)
- - [Best VPN for Canada     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-canada/#ftag=CAD590a51e)
  - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
- - [Best Apple Watch Deals: Save Up to $150 on the Ultra, Ultra 2, Series 9 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to sue a hacker using Bitcoin](https://www.theverge.com/2024/1/10/24033166/bitcoin-crypto-ryan-dellone-lawsuit-hacker)
+ - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

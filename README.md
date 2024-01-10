@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)
  - [An investigation finds over 1,600 YouTube videos featuring celebrity deepfakes promoting Medicaid and Medicare scams; the videos have over 195M views in total &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240110/p9#a240110p9)
  - [Some startup founders are building up protections, including implementing supervoting shares or dual-class shares, to avoid getting ousted like Sam Altman &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240110/p8#a240110p8)
  - [Demis Hassabis, chief of DeepMind spinout Isomorphic Labs, believes the company would halve drug discovery times after inking deals with Eli Lilly and Novartis &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p7#a240110p7)
- - [Intel unveils AI-enabled SoCs for cars and agrees to buy Silicon Mobility, a French fabless silicon and software company that develops EV energy management SoCs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240110/p6#a240110p6)
- - [TSMC reports December 2023 revenue down 8.4% YoY to ~$5.7B, Q4 revenue flat YoY to ~$20.1B, beating estimates, and 2023 revenue down 4.5% YoY to ~$69.56B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240110/p5#a240110p5)<!-- TECH:END -->
+ - [Intel unveils AI-enabled SoCs for cars and agrees to buy Silicon Mobility, a French fabless silicon and software company that develops EV energy management SoCs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240110/p6#a240110p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

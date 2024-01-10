@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance, Kraken, Mexc, KuCoin, and four other crypto exchanges have been pulled from the App Store in India after being flagged for operating &quot;illegally&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p45#a240109p45)
  - [Vietnam-based Be Group, which provides ride-hailing, delivery, and digital financial services, raised ~$30M from VPBank, in a bid to take on Grab and GoTo &lpar;Nguyen Kieu Giang/Bloomberg&rpar;](http://www.techmeme.com/240109/p44#a240109p44)
  - [SAG-AFTRA signs a deal with AI voiceover company Replica Studios, requiring consent to create voice replicas for use in video games and safe storage of assets &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/240109/p43#a240109p43)
  - [Echo brings the best of Netflix’s Marvel era energy to Disney Plus](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
- - [I Saw Panasonic&#39;s Plan to Turn Walls and Windows Into Solar Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/i-saw-panasonics-plan-to-turn-walls-and-windows-into-solar-energy/#ftag=CAD590a51e)
- - [Foldable TVs, Inside-Out Samsung Phone: Most Captivating CES 2024 Tech We&#39;re Seeing     - CNET](https://www.cnet.com/tech/foldable-tvs-inside-out-samsung-phone-most-captivating-ces-2024-tech-were-seeing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Saw Panasonic&#39;s Plan to Turn Walls and Windows Into Solar Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/i-saw-panasonics-plan-to-turn-walls-and-windows-into-solar-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge temporarily halts the enforcement of a pending Ohio law that would require children to get parental consent to use social media apps &lpar;Julie Carr Smyth/Associated Press&rpar;](http://www.techmeme.com/240109/p40#a240109p40)
- - [Sony brings Fortnite to the car &lpar;bumper&rpar;](https://www.theverge.com/2024/1/9/24032316/sony-afeela-fortnite-bumper-video-monster-view)
- - [AI is Everywhere at CES 2024. Here&#39;s The Coolest Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/#ftag=CAD590a51e)
- - [I Tried the Buzzy Clicks Keyboard iPhone Case: Typing With Real Buttons On an iPhone     - CNET](https://www.cnet.com/tech/mobile/i-tried-the-buzzy-clicks-keyboard-iphone-case-typing-with-real-buttons-on-an-iphone/#ftag=CAD590a51e)
- - [The Best Foods for Heart Health Are Surprisingly Common: Here&#39;s What to Know     - CNET](https://www.cnet.com/health/nutrition/the-best-foods-for-heart-health-are-surprisingly-common-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Echo brings the best of Netflix’s Marvel era energy to Disney Plus](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
+ - [At CES 2024, Walmart unveils a generative AI search tool and says it is developing a tool to help InHome users quickly add commonly ordered items to their carts &lpar;Siddharth Cavale/Reuters&rpar;](http://www.techmeme.com/240109/p42#a240109p42)
+ - [X announces new shows with former CNN host Don Lemon, former Hawaii congresswoman Tulsi Gabbard, and sports commentator Jim Rome, amid a push into video &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240109/p41#a240109p41)
+ - [ESR has a range of Qi2 charging products at CES 2024](https://appleinsider.com/articles/24/01/10/esr-has-a-range-of-qi2-charging-products-at-ces-2024?utm_medium=rss)
+ - [This App Says It Can Translate Your Baby&#39;s Cries Using AI     - CNET](https://www.cnet.com/tech/services-and-software/this-app-says-it-can-translate-your-babys-cries-using-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
  - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
  - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
+ - 💣 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
 
 ---
 

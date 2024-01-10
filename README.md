@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan. 10: Apple TV 4K $115, Apple MagSafe Charger $29, 49% off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/10/daily-deals-jan-10-apple-tv-4k-115-apple-magsafe-charger-29-49-off-beats-studio-pro-more?utm_medium=rss)
- - [Snowpack is shrinking across the Northern Hemisphere](https://www.theverge.com/2024/1/10/24031852/snow-loss-climate-change-drought-research)
- - [Victrola’s Sonos-compatible turntables are down to their best prices to date](https://www.theverge.com/2024/1/10/24031490/victrola-stream-onyx-carbon-amazon-fire-tv-stick-4k-max-deal-sale)
- - [Lawmakers Are Out for Blood After a Hack of the SEC’s X Account Causes Bitcoin Chaos](https://www.wired.com/story/sec-x-account-hack-investigation/)
- - [Luminate&#39;s 2023 report: the global music industry passed 4T streams in 2023, a new record and up 34% from 2022; Taylor Swift had one in every 78 US streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/240110/p26#a240110p26)<!-- TECH:END -->
+ - [Satechi unveils upgrades for Mac Mini &amp; Mac Studio Stand &amp; Hub at CES 2024](https://appleinsider.com/articles/24/01/10/satechi-unveils-upgrades-for-mac-mini-mac-studio-stand-hub-at-ces-2024?utm_medium=rss)
+ - [Sensor Tower: Netflix Games downloads rose 180% YoY to 81.2M globally across the App Store and Google Play in 2023, with Q4 accounting for 53% of downloads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240110/p27#a240110p27)
+ - [OpenAI’s New App Store Could Turn ChatGPT Into an Everything App](https://www.wired.com/story/openais-app-store-chatgpt-everything-app/)
+ - [OpenAI’s custom GPT Store is now open for business](https://www.theverge.com/2024/1/10/24032144/openai-chatgpt-gpt-store-ai-launch)
+ - [Slack’s Catch Up feature is like Tinder for your work messages](https://www.theverge.com/2024/1/10/24026571/slack-catch-up-mobile-messaging-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

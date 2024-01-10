@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best VPN for Canada     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-canada/#ftag=CAD590a51e)
  - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
+ - [Best Apple Watch Deals: Save Up to $150 on the Ultra, Ultra 2, Series 9 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
  - [How to sue a hacker using Bitcoin](https://www.theverge.com/2024/1/10/24033166/bitcoin-crypto-ryan-dellone-lawsuit-hacker)
- - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
- - [CES 2024 Live Blog: More News, Photos, and Videos From Tech&#39;s Big Show](https://www.wired.com/live/ces-2024-liveblog-3/)
- - [X has quietly removed the ability for paying subscribers to set an NFT as a profile picture, a feature Twitter launched in early 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240110/p30#a240110p30)<!-- TECH:END -->
+ - [The New TVs You Must See at CES 2024     - CNET](https://www.cnet.com/pictures/the-new-tvs-you-must-see-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

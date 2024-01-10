@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pennsylvania becomes the first US state to use ChatGPT Enterprise in a pilot with OpenAI, in which state employees will use AI tools for daily operations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240109/p38#a240109p38)
- - [HPE plans to acquire Juniper Networks for about $14B, or $40 per share, in an all-cash deal &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240109/p37#a240109p37)
- - [Intel: ‘We are bringing the AI PC to the car’](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces)
- - [Podcasting is in its YouTube era](https://www.theverge.com/2024/1/9/24032155/youtube-podcast-rss-spotify-apple-audacy-bankruptcy)
- - [Former Apple VP of finance Saori Casey will become CFO at Sonos, replacing Eddie Lazarus, who will take on the new role of chief strategy officer &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240109/p36#a240109p36)<!-- TECH:END -->
+ - [Source: Humane laid off ten employees this week in a cost cutting measure and plans to lower budgets this year, as it reshuffles some of its executive positions &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240109/p39#a240109p39)
+ - [FCC says low-income internet subsidies are endangered as funding runs low](https://www.theverge.com/2024/1/9/24032123/fcc-affordable-connectivity-program-extension-funding-shutdown-gop-block)
+ - [Hey Calendar approved by App Review after tongue-in-cheek Apple history calendar addition](https://appleinsider.com/articles/24/01/10/hey-calendar-approved-by-app-review-after-tongue-in-cheek-apple-history-calendar-addition?utm_medium=rss)
+ - [Humane lays off 4 percent of employees before releasing its AI Pin](https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin)
+ - [Pennsylvania becomes the first US state to use ChatGPT Enterprise in a pilot with OpenAI, in which state employees will use AI tools for daily operations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240109/p38#a240109p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

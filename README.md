@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin ETFs Have Arrived. Here’s Who Stands to Get Rich](https://www.wired.com/story/spot-bitcoin-etfs-launch/)
+ - [The US SEC approves 11 spot bitcoin ETFs, including those of Grayscale, Bitwise, and Hashdex &lpar;Reuters&rpar;](http://www.techmeme.com/240110/p34#a240110p34)
  - [Rabbit sells out 10,000 units of its R1 pocket AI companion in one day](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)
- - [Sources: Amazon won&#39;t offer concessions to the European Commission in a bid to garner approval for its planned $1.4B takeover of iRobot &lpar;Politico&rpar;](http://www.techmeme.com/240110/p33#a240110p33)
- - [The SEC says it is working with the FBI in investigating the false X post about spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240110/p32#a240110p32)
- - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
+ - [CES 2024: The Best Home Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/how-to/ces-2024-the-best-home-tech-weve-seen-so-far/#ftag=CAD590a51e)
+ - [The Latest Sex Tech at CES This Year Gives You the &#39;Oh!&#39;     - CNET](https://www.cnet.com/health/personal-care/the-latest-sex-tech-at-ces-this-year-gives-you-the-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

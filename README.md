@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch import ban stay opposed by ITC](https://appleinsider.com/articles/24/01/10/apple-watch-import-ban-stay-opposed-by-itc?utm_medium=rss)
  - [Voice-Controlled Bidets, Pet Robots and Steak Toasters: Our Favorite Home Tech of CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-pet-robots-and-steak-toasters-our-favorite-home-tech-of-ces-2024/#ftag=CAD590a51e)
  - [Stunning TVs, Flying Taxi, Inside-Out Phone: We&#39;re Vibing This Captivating CES 2024 Tech     - CNET](https://www.cnet.com/tech/stunning-tvs-flying-taxi-inside-out-phone-were-vibing-this-captivating-ces-2024-tech/#ftag=CAD590a51e)
  - [Here&#39;s When the &#39;Ted&#39; Prequel Series Drops on Peacock     - CNET](https://www.cnet.com/tech/services-and-software/heres-when-you-can-watch-the-ted-prequel-series-on-peacock/#ftag=CAD590a51e)
- - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)
- - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)<!-- TECH:END -->
+ - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

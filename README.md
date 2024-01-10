@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC says it is working with the FBI in investigating the false X post about spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240110/p32#a240110p32)
  - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [Best Wi-Fi 6 Router Deals: Save up to $343 on Netgear, TP-Link, Asus and More     - CNET](https://www.cnet.com/deals/best-wifi-6-router-deals/#ftag=CAD590a51e)
- - [Cut Back on These 11 Foods and Your Health Will Thank You     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-your-health-will-thank-you/#ftag=CAD590a51e)
- - [Google VP: Here&#39;s How AI Will Slowly But Surely Take Over Your Smartphone     - CNET](https://www.cnet.com/tech/mobile/google-vp-heres-how-ai-will-slowly-but-surely-take-over-your-smartphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cut Back on These 11 Foods and Your Health Will Thank You     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-your-health-will-thank-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese companies are repurposing Nvidia&#39;s gaming chips for AI to counter US&#39; sanctions; RTX 4090 is one of the most popular models to be repurposed &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240110/p4#a240110p4)
+ - [Bank of America values Jio Platforms at $107B, up 64.6% from $65B in 2020 when the Indian telecoms and digital conglomerate raised $20B+ from Meta and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240110/p3#a240110p3)
  - [Tesla’s upgraded 2024 Model 3 is now available in the US](https://www.theverge.com/2024/1/10/24032562/tesla-model-3-2024-refresh-us-available-highland)
  - [Tampa-based Rewst, which provides robotic process automation services to managed service providers, raised a $31M Series B led by Meritech Capital &lpar;Stephen Pastis/Tampa Bay Business Journal&rpar;](http://www.techmeme.com/240110/p2#a240110p2)
- - [Bengaluru-based Impact Analytics, which offers retail, grocery, CPG, and supply chain planning and merchandising software, raised $40M led by Sageview Capital &lpar;The Economic Times&rpar;](http://www.techmeme.com/240110/p1#a240110p1)
- - [SentinelOne acquires Bengaluru-based cloud security provider PingSafe, sources say for a $100M+ valuation; PingSafe had raised ~$3.3M from Peak XV and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p47#a240109p47)
- - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)<!-- TECH:END -->
+ - [Bengaluru-based Impact Analytics, which offers retail, grocery, CPG, and supply chain planning and merchandising software, raised $40M led by Sageview Capital &lpar;The Economic Times&rpar;](http://www.techmeme.com/240110/p1#a240110p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

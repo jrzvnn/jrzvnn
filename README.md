@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA signs a deal with AI voiceover company Replica Studios, requiring consent to create voice replicas for use in video games and safe storage of assets &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/240109/p43#a240109p43)
  - [Echo brings the best of Netflix’s Marvel era energy to Disney Plus](https://www.theverge.com/24030104/marvel-echo-review-daredevil-mcu-disney-plus-hulu)
  - [At CES 2024, Walmart unveils a generative AI search tool and says it is developing a tool to help InHome users quickly add commonly ordered items to their carts &lpar;Siddharth Cavale/Reuters&rpar;](http://www.techmeme.com/240109/p42#a240109p42)
  - [X announces new shows with former CNN host Don Lemon, former Hawaii congresswoman Tulsi Gabbard, and sports commentator Jim Rome, amid a push into video &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240109/p41#a240109p41)
- - [ESR has a range of Qi2 charging products at CES 2024](https://appleinsider.com/articles/24/01/10/esr-has-a-range-of-qi2-charging-products-at-ces-2024?utm_medium=rss)
- - [This App Says It Can Translate Your Baby&#39;s Cries Using AI     - CNET](https://www.cnet.com/tech/services-and-software/this-app-says-it-can-translate-your-babys-cries-using-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ESR has a range of Qi2 charging products at CES 2024](https://appleinsider.com/articles/24/01/10/esr-has-a-range-of-qi2-charging-products-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

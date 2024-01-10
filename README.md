@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds over 1,600 YouTube videos featuring celebrity deepfakes promoting Medicaid and Medicare scams; the videos have over 195M views in total &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240110/p9#a240110p9)
  - [Some startup founders are building up protections, including implementing supervoting shares or dual-class shares, to avoid getting ousted like Sam Altman &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240110/p8#a240110p8)
  - [Demis Hassabis, chief of DeepMind spinout Isomorphic Labs, believes the company would halve drug discovery times after inking deals with Eli Lilly and Novartis &lpar;Financial Times&rpar;](http://www.techmeme.com/240110/p7#a240110p7)
  - [Intel unveils AI-enabled SoCs for cars and agrees to buy Silicon Mobility, a French fabless silicon and software company that develops EV energy management SoCs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240110/p6#a240110p6)
- - [TSMC reports December 2023 revenue down 8.4% YoY to ~$5.7B, Q4 revenue flat YoY to ~$20.1B, beating estimates, and 2023 revenue down 4.5% YoY to ~$69.56B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240110/p5#a240110p5)
- - [Sources: Chinese companies are repurposing Nvidia&#39;s gaming chips for AI to counter US&#39; sanctions; RTX 4090 is one of the most popular models to be repurposed &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240110/p4#a240110p4)<!-- TECH:END -->
+ - [TSMC reports December 2023 revenue down 8.4% YoY to ~$5.7B, Q4 revenue flat YoY to ~$20.1B, beating estimates, and 2023 revenue down 4.5% YoY to ~$69.56B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240110/p5#a240110p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

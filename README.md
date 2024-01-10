@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports December 2023 revenue down 8.4% YoY to ~$5.7B, Q4 revenue flat YoY to ~$20.1B, beating estimates, and 2023 revenue down 4.5% YoY to ~$69.56B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240110/p5#a240110p5)
  - [Sources: Chinese companies are repurposing Nvidia&#39;s gaming chips for AI to counter US&#39; sanctions; RTX 4090 is one of the most popular models to be repurposed &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240110/p4#a240110p4)
  - [Bank of America values Jio Platforms at $107B, up 64.6% from $65B in 2020 when the Indian telecoms and digital conglomerate raised $20B+ from Meta and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240110/p3#a240110p3)
  - [Tesla’s upgraded 2024 Model 3 is now available in the US](https://www.theverge.com/2024/1/10/24032562/tesla-model-3-2024-refresh-us-available-highland)
- - [Tampa-based Rewst, which provides robotic process automation services to managed service providers, raised a $31M Series B led by Meritech Capital &lpar;Stephen Pastis/Tampa Bay Business Journal&rpar;](http://www.techmeme.com/240110/p2#a240110p2)
- - [Bengaluru-based Impact Analytics, which offers retail, grocery, CPG, and supply chain planning and merchandising software, raised $40M led by Sageview Capital &lpar;The Economic Times&rpar;](http://www.techmeme.com/240110/p1#a240110p1)<!-- TECH:END -->
+ - [Tampa-based Rewst, which provides robotic process automation services to managed service providers, raised a $31M Series B led by Meritech Capital &lpar;Stephen Pastis/Tampa Bay Business Journal&rpar;](http://www.techmeme.com/240110/p2#a240110p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

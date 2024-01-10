@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches ChatGPT Team, a new subscription plan for teams up to 149 people, for $30 per user per month, or $25 per user per month billed annually &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240110/p29#a240110p29)
- - [iPhone sales might be down, but buyers are opting for more storage](https://appleinsider.com/articles/24/01/10/iphone-sales-might-be-down-but-buyers-are-opting-for-more-storage?utm_medium=rss)
- - [Apple earns ten Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
- - [There’s a Huge Covid Surge Right Now and Nobody Is Talking About It](https://www.wired.com/story/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/)
- - [Stay Charged On the Go With This Portable Anker Power Station at $55 Off     - CNET](https://www.cnet.com/deals/stay-charged-on-the-go-with-this-portable-anker-power-station-at-55-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X has quietly removed the ability for paying subscribers to set an NFT as a profile picture, a feature Twitter launched in early 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240110/p30#a240110p30)
+ - [These smart binoculars can identify birds and animals for you](https://www.theverge.com/2024/1/10/24032871/ai-binoculars-swarovski-optic-ax-visio-ces-price-release-date)
+ - [7 of the Best Board Games to Give in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)
+ - [Tempur-Pedic Mattress Review 2024: Is the Bed Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
+ - [The Best Pet Tech We&#39;ve Seen at CES 2024 So Far     - CNET](https://www.cnet.com/how-to/the-best-pet-tech-weve-seen-at-ces-2024-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

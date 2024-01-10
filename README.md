@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Steam Deck competitor with SteamOS is almost here](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [CES 2024 Live Blog: More News, Photos, and Videos From Tech&#39;s Big Show](https://www.wired.com/live/ces-2024-liveblog-3/)
  - [X has quietly removed the ability for paying subscribers to set an NFT as a profile picture, a feature Twitter launched in early 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240110/p30#a240110p30)
  - [These smart binoculars can identify birds and animals for you](https://www.theverge.com/2024/1/10/24032871/ai-binoculars-swarovski-optic-ax-visio-ces-price-release-date)
- - [7 of the Best Board Games to Give in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)
- - [Tempur-Pedic Mattress Review 2024: Is the Bed Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
- - [The Best Pet Tech We&#39;ve Seen at CES 2024 So Far     - CNET](https://www.cnet.com/how-to/the-best-pet-tech-weve-seen-at-ces-2024-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 of the Best Board Games to Give in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

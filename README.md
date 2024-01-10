@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as US-China tensions rise, Microsoft debates what to do with its prized 800-person Beijing research lab, opened in 1998; Microsoft has added guardrails &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p16#a240110p16)
- - [Apple won&#39;t send reviewers a Vision Pro without briefings, says Gurman](https://appleinsider.com/articles/24/01/10/apple-wont-send-reviewers-a-vision-pro-without-briefings-says-gurman?utm_medium=rss)
- - [Data.ai&#39;s State of Mobile 2023: global consumer app spending rose 3% YoY to $171B, non-game spending rose 11% YoY to $64B, and app downloads rose 1% YoY to 257B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240110/p15#a240110p15)
- - [SIA: global chip revenue rose 5.3% YoY to $48B in November 2023, the first YoY growth since August 2022; China sales rose 7.6% YoY and Americas rose 3.5% YoY &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240110/p14#a240110p14)
- - [New England Patriots documentary to stream from February 16](https://appleinsider.com/articles/24/01/10/new-england-patriots-documentary-to-stream-from-february-16?utm_medium=rss)<!-- TECH:END -->
+ - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
+ - [Air Pollution Is Ruining Your Skin](https://www.wired.com/story/air-pollution-is-ruining-your-skin/)
+ - [The Best of CES 2024](https://www.wired.com/gallery/best-of-ces-2024/)
+ - [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
+ - [The Ocean’s Mysteries—and Marvels—Are About to Reach New Depths](https://www.wired.com/story/the-oceans-mysteries-and-marvels-are-about-to-reach-new-depths/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

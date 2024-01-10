@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SIA: global chip revenue rose 5.3% YoY to $48B in November 2023, the first YoY growth since August 2022; China sales rose 7.6% YoY and Americas rose 3.5% YoY &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240110/p14#a240110p14)
  - [New England Patriots documentary to stream from February 16](https://appleinsider.com/articles/24/01/10/new-england-patriots-documentary-to-stream-from-february-16?utm_medium=rss)
  - [YouTube will now direct you to the right first-aid videos during an emergency](https://www.theverge.com/2024/1/10/24032134/youtube-first-aid-explainer-mass-general-mexican-red-cross)
  - [Valve&#39;s Steam plans to add an &quot;AI disclosure section&quot;, asking developers to describe how their games use AI content, and to let gamers report illegal AI content &lpar;Kat Bailey/IGN&rpar;](http://www.techmeme.com/240110/p13#a240110p13)
- - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)
- - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)<!-- TECH:END -->
+ - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

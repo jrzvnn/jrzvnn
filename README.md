@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
  - 😝 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
- - 💣 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
  - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 👉 [Uhm guys....](http://9gag.com/gag/a8qRr4V)<!-- MEMES:END -->
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - 👉 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)<!-- MEMES:END -->
 
 ---
 

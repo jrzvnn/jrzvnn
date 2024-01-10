@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Humane laid off ten employees this week in a cost cutting measure and plans to lower budgets this year, as it reshuffles some of its executive positions &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240109/p39#a240109p39)
- - [FCC says low-income internet subsidies are endangered as funding runs low](https://www.theverge.com/2024/1/9/24032123/fcc-affordable-connectivity-program-extension-funding-shutdown-gop-block)
- - [Hey Calendar approved by App Review after tongue-in-cheek Apple history calendar addition](https://appleinsider.com/articles/24/01/10/hey-calendar-approved-by-app-review-after-tongue-in-cheek-apple-history-calendar-addition?utm_medium=rss)
- - [Humane lays off 4 percent of employees before releasing its AI Pin](https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin)
- - [Pennsylvania becomes the first US state to use ChatGPT Enterprise in a pilot with OpenAI, in which state employees will use AI tools for daily operations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240109/p38#a240109p38)<!-- TECH:END -->
+ - [A US federal judge temporarily halts the enforcement of a pending Ohio law that would require children to get parental consent to use social media apps &lpar;Julie Carr Smyth/Associated Press&rpar;](http://www.techmeme.com/240109/p40#a240109p40)
+ - [Sony brings Fortnite to the car &lpar;bumper&rpar;](https://www.theverge.com/2024/1/9/24032316/sony-afeela-fortnite-bumper-video-monster-view)
+ - [AI is Everywhere at CES 2024. Here&#39;s The Coolest Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/#ftag=CAD590a51e)
+ - [I Tried the Buzzy Clicks Keyboard iPhone Case: Typing With Real Buttons On an iPhone     - CNET](https://www.cnet.com/tech/mobile/i-tried-the-buzzy-clicks-keyboard-iphone-case-typing-with-real-buttons-on-an-iphone/#ftag=CAD590a51e)
+ - [The Best Foods for Heart Health Are Surprisingly Common: Here&#39;s What to Know     - CNET](https://www.cnet.com/health/nutrition/the-best-foods-for-heart-health-are-surprisingly-common-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

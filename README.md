@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon won&#39;t offer concessions to the European Commission in a bid to garner approval for its planned $1.4B takeover of iRobot &lpar;Politico&rpar;](http://www.techmeme.com/240110/p33#a240110p33)
  - [The SEC says it is working with the FBI in investigating the false X post about spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240110/p32#a240110p32)
  - [Thread border router fix should improve smart home networking](https://appleinsider.com/articles/24/01/10/thread-border-router-fix-should-improve-smart-home-networking?utm_medium=rss)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Best Wi-Fi 6 Router Deals: Save up to $343 on Netgear, TP-Link, Asus and More     - CNET](https://www.cnet.com/deals/best-wifi-6-router-deals/#ftag=CAD590a51e)
- - [Cut Back on These 11 Foods and Your Health Will Thank You     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-your-health-will-thank-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOJ says SAP will pay over $220M to settle investigations into worldwide &quot;recidivist&quot; foreign bribery practices &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240110/p31#a240110p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

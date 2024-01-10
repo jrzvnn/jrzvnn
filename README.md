@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve opens the door to more Steam games developed with AI](https://www.theverge.com/2024/1/10/24032678/valve-steam-generative-ai-rules-disclosure-pre-generated-live-illegal-content-copyright)
  - [Meituan&#39;s market cap fell ~60% from ~$138.2B to ~$56.4B since the start of 2023, weighed down by rising competition and a slowdown in its food delivery business &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240110/p12#a240110p12)
  - [Aeva, founded by Apple veterans, reaches a $1B deal with Germany&#39;s Daimler Truck for self-driving sensors for trucks expected in 2027, but offers few details &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240110/p11#a240110p11)
- - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)
- - [An investigation finds over 1,600 YouTube videos featuring celebrity deepfakes promoting Medicaid and Medicare scams; the videos have over 195M views in total &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240110/p9#a240110p9)
- - [Verizon Customers Could Get a $100 Class Action Payout. Here&#39;s How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-class-action-payout-heres-how-to-claim-the-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Whizbang CES 2024 Tech Concepts We Wish Were Already Real     - CNET](https://www.cnet.com/pictures/whizbang-ces-2024-tech-concepts-we-wish-were-already-real/#ftag=CAD590a51e)
+ - [Magnitt: startups in Saudi Arabia raised $1.4B in 2023, up 33% YoY, for a 52% share of VC funding in the MENA region, beating the UAE for the first time &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p10#a240110p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

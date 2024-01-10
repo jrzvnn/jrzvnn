@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Legendary mixtape platform DatPiff uploads its 50TB cache of 366,420 mixtapes and free albums to the Internet Archive, after a server crash in March 2023 &lpar;Andre Gee/Rolling Stone&rpar;](http://www.techmeme.com/240110/p18#a240110p18)
  - [Apple won&#39;t send reviewers a Vision Pro without briefings, says Gurman](https://appleinsider.com/articles/24/01/10/apple-wont-send-reviewers-a-vision-pro-without-briefings-says-gurman?utm_medium=rss)
  - [TSMC makes up for falling iPhone demand with AI processors](https://appleinsider.com/articles/24/01/10/tsmc-makes-up-for-falling-iphone-demand-with-ai-processors?utm_medium=rss)
  - [YouTube partners with Mass General Brigham and the Mexican Red Cross to show brief, step-by-step first-aid videos atop searches about heart attacks and more &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240110/p17#a240110p17)
- - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
- - [No CES 2024 Vaporware Here. You Can Buy These 13 New Products Now     - CNET](https://www.cnet.com/deals/no-ces-2024-vaporware-here-buy-these-13-products-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jackery’s rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

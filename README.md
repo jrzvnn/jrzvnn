@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Expensive dinner](http://9gag.com/gag/a5XO4Mr)
+ - 😝 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
  - 😝 [They are all the same. As soon as they get to power their promises get scrapped](http://9gag.com/gag/awZEwDW)
  - 💣 [Thief slap](http://9gag.com/gag/aZD6eWX)
- - 😝 [There are 3 meanings for this sign](http://9gag.com/gag/a4oXvYp)
- - 👉 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)<!-- MEMES:END -->
+ - 😝 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 👉 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)<!-- MEMES:END -->
 
 ---
 

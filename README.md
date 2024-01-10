@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lucky SoaB](http://9gag.com/gag/a2K3Qy1)
- - 😝 [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)
- - 💣 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
- - 👉 [Doesn&#39;t it?](http://9gag.com/gag/agoDP7K)<!-- MEMES:END -->
+ - 😝 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 😝 [Thief slap](http://9gag.com/gag/aZD6eWX)
+ - 💣 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
 
 ---
 

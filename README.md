@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SentinelOne acquires Bengaluru-based cloud security provider PingSafe, sources say for a $100M+ valuation; PingSafe had raised ~$3.3M from Peak XV and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p47#a240109p47)
  - [The SEC’s X account was hijacked to post a fake approval of Bitcoin ETFs](https://www.theverge.com/2024/1/9/24032095/bitcoin-etf-sec-fake-tweet-x-gary-gensler)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)
- - [X confirms the @SECGov account was compromised and says &quot;the compromise was not due to any breach of X&#39;s systems&quot; and that the account didn&#39;t have 2FA enabled &lpar;CNBC&rpar;](http://www.techmeme.com/240109/p46#a240109p46)
- - [Binance, Kraken, Mexc, KuCoin, and four other crypto exchanges have been pulled from the App Store in India after being flagged for operating &quot;illegally&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240109/p45#a240109p45)<!-- TECH:END -->
+ - [X confirms the @SECGov account was compromised and says &quot;the compromise was not due to any breach of X&#39;s systems&quot; and that the account didn&#39;t have 2FA enabled &lpar;CNBC&rpar;](http://www.techmeme.com/240109/p46#a240109p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

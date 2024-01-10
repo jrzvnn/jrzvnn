@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Voice-Controlled Bidets, Pet Robots and Steak Toasters: Our Favorite Home Tech of CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-pet-robots-and-steak-toasters-our-favorite-home-tech-of-ces-2024/#ftag=CAD590a51e)
+ - [Stunning TVs, Flying Taxi, Inside-Out Phone: We&#39;re Vibing This Captivating CES 2024 Tech     - CNET](https://www.cnet.com/tech/stunning-tvs-flying-taxi-inside-out-phone-were-vibing-this-captivating-ces-2024-tech/#ftag=CAD590a51e)
+ - [Here&#39;s When the &#39;Ted&#39; Prequel Series Drops on Peacock     - CNET](https://www.cnet.com/tech/services-and-software/heres-when-you-can-watch-the-ted-prequel-series-on-peacock/#ftag=CAD590a51e)
  - [Kia gets its first customer for the PV5 modular electric vehicle: Uber](https://www.theverge.com/2024/1/10/24033010/kia-uber-mou-pv5-modular-ev-ridehail-deal)
- - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)
- - [PC market decline decelerating, Apple holding firm](https://appleinsider.com/articles/24/01/10/jp-morgan-pc-shipment-decline-trending-upward-as-apple-market-share-remains-stable?utm_medium=rss)
- - [Bitcoin ETFs Have Arrived. Here’s Who Stands to Get Rich](https://www.wired.com/story/spot-bitcoin-etfs-launch/)
- - [The US SEC approves 11 spot bitcoin ETFs, including those of Grayscale, Bitwise, and Hashdex &lpar;Reuters&rpar;](http://www.techmeme.com/240110/p34#a240110p34)<!-- TECH:END -->
+ - [First Bitcoin ETFs approved by US regulators](https://www.theverge.com/2024/1/10/24026863/bitcoin-etf-sec-crypto-finance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

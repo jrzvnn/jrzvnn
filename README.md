@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 😝 [Could you share with me your best wallpaper for the phone? Please...](http://9gag.com/gag/ajVzp1p)
- - 💣 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
+ - 😝 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)
+ - 💣 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 😝 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
+ - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
 
 ---
 

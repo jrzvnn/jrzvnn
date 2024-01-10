@@ -176,7 +176,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [A life changing moment when the big kid finally realizes what it means to be Bigger against a bully](http://9gag.com/gag/agoDM2g)
  - 💣 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
  - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
- - 👉 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)<!-- MEMES:END -->
+ - 👉 [Doesn&#39;t it?](http://9gag.com/gag/agoDP7K)<!-- MEMES:END -->
 
 ---
 

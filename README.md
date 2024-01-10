@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Women in eastern video games aren&#39;t realistic`. Meanwhile in east asia...](http://9gag.com/gag/aZD6GDz)
+ - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
  - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 💣 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
  - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 👉 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)<!-- MEMES:END -->
+ - 👉 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)<!-- MEMES:END -->
 
 ---
 

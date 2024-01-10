@@ -172,7 +172,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh](http://9gag.com/gag/amAeEyo)
+ - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
  - 😝 [My newest Tetten collection in the comments section, here we go](http://9gag.com/gag/aGEmXon)
  - 💣 [Ecuador currently in total chaos. Armed gangs storming the university to kidnap students. Live TV crew taken hostage, filmed gang executions carried out. Cartel response to Ecuador\u2019s president declaring a state of emergency because of the escape of cartel kingpin Adolfo Macias.](http://9gag.com/gag/aA08nVp)
  - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)

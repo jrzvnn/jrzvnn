@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 😝 [Terrifying](http://9gag.com/gag/avQMMNM)
- - 💣 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
+ - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - 😝 [An attempt at carjacking](http://9gag.com/gag/aQELYYe)
+ - 💣 [Camping Knowledge](http://9gag.com/gag/ajVz23g)
+ - 😝 [Doesn&#39;t it?](http://9gag.com/gag/agoDP7K)
+ - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US-Sanctioned Oligarch Ran Pro-Kremlin Ads on Facebook—Again](https://www.wired.com/story/ilan-shor-facebook-ads-moldova-elections/)
  - [Internal memo: Amazon Studios SVP Mike Hopkins says &quot;several hundred roles&quot; are being cut in its Prime Video and MGM Studios units; both had cuts in early 2023 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240110/p23#a240110p23)
  - [VinFast shows off a midsize truck and small utility EV for North America](https://www.theverge.com/2024/1/10/24032769/vinfast-vf-wild-vf3-ev-concept-ces-2024)
  - [The Castro podcast app and its website are back up](https://www.theverge.com/2024/1/7/24028955/castro-podcast-player-shut-down-rumor-ios-app)
- - [How RISC-V, the US-developed, open-source chip instruction set architecture, became a central tool for Chinese companies and governments, leading to US concerns &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p22#a240110p22)
- - [I Found David Lynch’s Lost &#39;Dune II&#39; Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)<!-- TECH:END -->
+ - [How RISC-V, the US-developed, open-source chip instruction set architecture, became a central tool for Chinese companies and governments, leading to US concerns &lpar;New York Times&rpar;](http://www.techmeme.com/240110/p22#a240110p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

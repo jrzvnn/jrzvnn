@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 😝 [There is only one thing worse than a rapist](http://9gag.com/gag/aWGrwB3)
+ - 😝 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
  - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
- - 😝 [Anyone else?](http://9gag.com/gag/aGEmW5n)
- - 👉 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)<!-- MEMES:END -->
+ - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 ---
 

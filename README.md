@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google lays off hundreds of people working on Assistant and says the restructuring would help improve Assistant as it explores integrating newer AI technology &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/240111/p1#a240111p1)
  - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
- - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
- - [Google is losing its Fitbit leaders and laying off hundreds of AR employees](https://www.theverge.com/2024/1/10/24033994/google-reorganization-fitbit-park-friedman-ar-layoffs)
- - [A survey of 9,388 software engineers in December 2023 finds ~90% believe getting a job now is harder than pre-pandemic, 60%+ believe AI will lead to less hiring &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/240110/p39#a240110p39)
- - [Netflix says its ad tier has 23M+ MAUs globally, up from 15M+ in November 2023, and 85% of customers on the ad tier are streaming for over 2 hours per day &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240110/p38#a240110p38)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 Deals: $300 Off Unlocked Models, Up to $1,200 in Trade-In Savings and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
+ - [OnePlus 11 Deals: $170 Off Select Configurations, Trade-In Credits     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)
+ - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

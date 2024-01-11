@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [eBay will pay $3M to resolve charges over a harassment campaign by staffers who sent spiders and other disturbing items to those behind the EcommerceBytes blog &lpar;Alanna Durkin Richer/Associated Press&rpar;](http://www.techmeme.com/240111/p32#a240111p32)
- - [eBay will pay $3 million over bizarre cyberstalking campaign](https://www.theverge.com/2024/1/11/24034688/ebay-cyberstalking-campaign-settlement-doj)
- - [For John Deere, A 50,000-Pound Tractor Controlled By a Phone Is Just the Beginning     - CNET](https://www.cnet.com/roadshow/news/for-john-deere-a-50000-pound-tractor-controlled-by-a-phone-is-just-the-beginning/#ftag=CAD590a51e)
- - [Wi-Fi 7 quietly took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)<!-- TECH:END -->
+ - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)
+ - [The Real Problem With the Boeing 737 Max](https://www.wired.com/story/boeing-737-max-accident-alaska-airlines-as1282-united-door-plug/)
+ - [Top 8 Weirdest Products We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/tech/top-8-weirdest-products-weve-seen-at-ces-2024/#ftag=CAD590a51e)
+ - [Tesla&#39;s 2024 Model 3 Is Now Available in the US     - CNET](https://www.cnet.com/roadshow/news/tesla-model-3-refreshed-with-new-look-longer-range/#ftag=CAD590a51e)
+ - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

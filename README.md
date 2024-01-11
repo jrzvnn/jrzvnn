@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
- - 😝 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
- - 💣 [Snow Cats](http://9gag.com/gag/amA3qpd)
- - 😝 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
- - 👉 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)<!-- MEMES:END -->
+ - 😝 [Context Matters: Clarifying the Context](http://9gag.com/gag/aL1ZqpP)
+ - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - 💣 [Illegal tunnel/expansion Crown Heights BK Hasidic Jewish community](http://9gag.com/gag/aXnyBjv)
+ - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 ---
 

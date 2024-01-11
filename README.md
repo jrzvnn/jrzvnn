@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Corsair, Asus, and others are making it easier to build a beautiful PC](https://www.theverge.com/2024/1/11/24034189/corsair-msi-phanteks-lian-li-pc-build-zero-cables)
- - [The Big Problem With the Giant Stanley Cup](https://www.wired.com/story/stanley-cup-quencher-environment/)
- - [Canada partners with SecurityScorecard to assess the cyber resilience of companies critical to the country&#39;s infrastructure and assign them letter grades &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/240111/p27#a240111p27)
- - [Satechi reveals game-changing 145W GaN travel charger at CES 2024](https://appleinsider.com/articles/24/01/11/satechi-reveals-game-changing-145w-gan-travel-charger-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Pixel 8 and Pixel 8 Pro are matching their best prices to date](https://www.theverge.com/2024/1/11/24033632/google-pixel-8-pro-apple-airtag-asus-rog-ally-deal-sale)
+ - [Some crypto advocates welcome bitcoin ETFs as an inevitable part of going mainstream, while others worry they threaten the original promise of decentralization &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240111/p28#a240111p28)
+ - [How to manage activity on the Dynamic Island in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-manage-activity-on-the-dynamic-island-in-ios-17?utm_medium=rss)
+ - [Why Crypto Idealogues Won’t Touch Bitcoin ETFs](https://www.wired.com/story/bitcoin-etf-cryptocurrencies-split/)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

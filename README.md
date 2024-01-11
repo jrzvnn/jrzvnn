@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After announcing the $199 R1 &quot;Large Action Model&quot; AI handheld at CES, Rabbit sold 10,000 units in one day; second batch orders should ship in April to May 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240111/p13#a240111p13)
  - [Google&#39;s Gboard adds a physical keyboard toolbar on Android tablets, to access the clipboard, translation, and more, after adding stylus handwriting support &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p12#a240111p12)
  - [Ripple Labs, creator of the XRP cryptocurrency, plans to buy back $285M in shares from early investors and employees, sources say at an $11.3B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240111/p11#a240111p11)
  - [Munich-based car subscription startup Finn, which manages 25K subscriptions in Germany and the US, raised a &amp;euro;100M Series C at a &amp;euro;600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240111/p10#a240111p10)
- - [London-based Hyperexponential, which offers math modeling tools to insurance companies to help price policies, raised $73M led by Battery Ventures &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240111/p9#a240111p9)
- - [The White House Just Announced a $623 Million EV-Charging Bonanza](https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/)<!-- TECH:END -->
+ - [London-based Hyperexponential, which offers math modeling tools to insurance companies to help price policies, raised $73M led by Battery Ventures &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240111/p9#a240111p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

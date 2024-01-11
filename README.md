@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet Union says Wednesday&#39;s layoffs at Google impacted more than 1,000 people, making it the largest round of cuts since January 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240111/p34#a240111p34)
  - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)
  - [The Real Problem With the Boeing 737 Max](https://www.wired.com/story/boeing-737-max-accident-alaska-airlines-as1282-united-door-plug/)
  - [Top 8 Weirdest Products We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/tech/top-8-weirdest-products-weve-seen-at-ces-2024/#ftag=CAD590a51e)
- - [Tesla&#39;s 2024 Model 3 Is Now Available in the US     - CNET](https://www.cnet.com/roadshow/news/tesla-model-3-refreshed-with-new-look-longer-range/#ftag=CAD590a51e)
- - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Tesla&#39;s 2024 Model 3 Is Now Available in the US     - CNET](https://www.cnet.com/roadshow/news/tesla-model-3-refreshed-with-new-look-longer-range/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

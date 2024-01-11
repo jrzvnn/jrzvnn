@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
- - 😝 [Best pitcher ever](http://9gag.com/gag/aOxwq82)
- - 💣 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)
- - 😝 [William Dafoe receives his own star on the Hollywood Walk of Fame](http://9gag.com/gag/aWGzBv4)
- - 👉 [She ate them all](http://9gag.com/gag/aNwNeo6)<!-- MEMES:END -->
+ - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 😝 [Riddle me this!](http://9gag.com/gag/anz6q1b)
+ - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)
+ - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---
 

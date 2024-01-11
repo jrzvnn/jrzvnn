@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [UK&#39;s antitrust agency is going to put the screws to US big tech in 2024](https://appleinsider.com/articles/24/01/11/uks-antitrust-agency-is-going-to-lean-on-us-big-tech-heavily-in-2024?utm_medium=rss)
  - [New York&#39;s weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing?utm_medium=rss)
  - [Apple&#39;s 2024 annual shareholder meeting is on February 28](https://appleinsider.com/articles/24/01/11/apples-2024-annual-shareholder-meeting-is-on-february-28?utm_medium=rss)
- - [LSEG: US bitcoin ETFs saw $4.6B worth of shares traded on January 11, their first day of trading; Grayscale, BlackRock, and Fidelity dominated trading volumes &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p39#a240111p39)
- - [The FCC sends letters to nine of the largest automakers, raising concerns about abusive partners using connected car apps to harass and track their victims &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240111/p38#a240111p38)<!-- TECH:END -->
+ - [Cars That Talk, Dance and Fly: The Best Car Tech at CES 2024     - CNET](https://www.cnet.com/roadshow/news/the-best-car-tech-at-ces-2024/#ftag=CAD590a51e)
+ - [AI Toothbrush to Hearing Glasses: CES 2024 Health Tech We Couldn&#39;t Ignore     - CNET](https://www.cnet.com/health/ai-toothbrush-to-hearing-glasses-ces-2024-health-tech-we-couldnt-ignore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

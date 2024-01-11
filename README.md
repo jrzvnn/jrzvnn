@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)
  - [ByteDance plans to shut down music streaming service Resso in India on January 31, after removing the App Store and Google Play apps in mid-December 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240111/p15#a240111p15)
  - [Google plans to remove 17 &quot;underutilized&quot; Assistant features in February, including voice-controlled Play Books audiobooks, media alarms, and Calm meditation &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p14#a240111p14)
  - [Dough Spectrum One monitor with Gorilla Glass review: crystal clear 4K HDR at a good price](https://appleinsider.com/articles/24/01/11/dough-spectrum-one-monitor-with-gorilla-glass-review-crystal-clear-4k-hdr-at-a-good-price?utm_medium=rss)
- - [iOS 17.2: How to Easily Turn On Contact Key Verification     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-how-to-easily-turn-on-contact-key-verification/#ftag=CAD590a51e)
- - [US School Shooter Emergency Plans Exposed in a Highly Sensitive Database Leak](https://www.wired.com/story/us-school-shooter-emergency-plans-leak/)<!-- TECH:END -->
+ - [iOS 17.2: How to Easily Turn On Contact Key Verification     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-how-to-easily-turn-on-contact-key-verification/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

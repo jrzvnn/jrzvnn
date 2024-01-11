@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Sources: OpenAI is in talks with CNN and Fox Corp. to license text, video, and image content; Time says it &quot;is in discussions with OpenAI&quot; about an agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240110/p37#a240110p37)
- - [The US ITC files its opposition to Apple&#39;s motion for the Watch Series 9 and Ultra 2 sales ban to be paused for the duration of Apple&#39;s appeal &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240110/p36#a240110p36)
- - [Samsung Galaxy Watch 5 and 5 Pro Deals: Up to $100 in Direct Discounts     - CNET](https://www.cnet.com/deals/best-galaxy-watch-5-deals/#ftag=CAD590a51e)
- - [Congress Wants Tech Companies to Pay Up for AI Training Data](https://www.wired.com/story/congress-senate-tech-companies-pay-ai-training-data/)<!-- TECH:END -->
+ - [Here’s what we know about the SAG-AFTRA AI voice acting licensing deal](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)
+ - [Xreal Air 2 Ultra Hands On: These Glasses Put Screens All Around You     - CNET](https://www.cnet.com/tech/mobile/xreal-air-2-ultra-hands-on-these-glasses-put-screens-all-around-you/#ftag=CAD590a51e)
+ - [All the Robot-Made Food and Drink I Tried at CES, Ranked From Worst to Best     - CNET](https://www.cnet.com/how-to/all-the-robot-made-food-and-drink-i-tried-at-ces-ranked-from-worst-to-best/#ftag=CAD590a51e)
+ - [Check Out These Smart Glasses That Put Screens All Around You video     - CNET](https://www.cnet.com/videos/check-out-these-smart-glasses-that-put-screens-all-around-you/#ftag=CAD590a51e)
+ - [Asus&#39; ZenScreen Fold OLED Fits a Big Display in a Small Package     - CNET](https://www.cnet.com/tech/computing/asus-zenscreen-fold-oled-fits-a-big-display-in-a-small-package/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple earns 11 Screen Actors Guild nominations, including last ones for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/24/01/10/apple-earns-ten-screen-actors-guild-nominations-including-last-ones-for-ted-lasso?utm_medium=rss)
- - [After announcing the $199 R1 &quot;Large Action Model&quot; AI handheld at CES, Rabbit sold 10,000 units in one day; second batch orders should ship in April to May 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240111/p13#a240111p13)
- - [Google&#39;s Gboard adds a physical keyboard toolbar on Android tablets, to access the clipboard, translation, and more, after adding stylus handwriting support &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p12#a240111p12)
- - [Ripple Labs, creator of the XRP cryptocurrency, plans to buy back $285M in shares from early investors and employees, sources say at an $11.3B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240111/p11#a240111p11)
- - [Munich-based car subscription startup Finn, which manages 25K subscriptions in Germany and the US, raised a &amp;euro;100M Series C at a &amp;euro;600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240111/p10#a240111p10)<!-- TECH:END -->
+ - [ByteDance plans to shut down music streaming service Resso in India on January 31, after removing the App Store and Google Play apps in mid-December 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240111/p15#a240111p15)
+ - [Google plans to remove 17 &quot;underutilized&quot; Assistant features in February, including voice-controlled Play Books audiobooks, media alarms, and Calm meditation &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p14#a240111p14)
+ - [Dough Spectrum One monitor with Gorilla Glass review: crystal clear 4K HDR at a good price](https://appleinsider.com/articles/24/01/11/dough-spectrum-one-monitor-with-gorilla-glass-review-crystal-clear-4k-hdr-at-a-good-price?utm_medium=rss)
+ - [iOS 17.2: How to Easily Turn On Contact Key Verification     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-how-to-easily-turn-on-contact-key-verification/#ftag=CAD590a51e)
+ - [US School Shooter Emergency Plans Exposed in a Highly Sensitive Database Leak](https://www.wired.com/story/us-school-shooter-emergency-plans-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 9,388 software engineers in December 2023 finds ~90% believe getting a job now is harder than pre-pandemic, 60%+ believe AI will lead to less hiring &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/240110/p39#a240110p39)
  - [Netflix says its ad tier has 23M+ MAUs globally, up from 15M+ in November 2023, and 85% of customers on the ad tier are streaming for over 2 hours per day &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240110/p38#a240110p38)
  - [The PlantPetz Smart Pot Turns Ho-Hum Plants Into Lively, Dancing Friends     - CNET](https://www.cnet.com/tech/plantpetz-smart-pot-turns-ho-hum-plants-into-lively-dancing-pets/#ftag=CAD590a51e)
  - [CES 2024 Is All About AI. You Can Blame ChatGPT for That     - CNET](https://www.cnet.com/tech/ces-2024-is-all-about-ai-you-can-blame-chatgpt-for-that/#ftag=CAD590a51e)
- - [Tax Season 2024: File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)
- - [Drone Powerhouse DJI Gets Into the Delivery Business     - CNET](https://www.cnet.com/tech/computing/drone-powerhouse-dji-gets-into-the-delivery-business/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Season 2024: File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Hyperexponential, which offers math modeling tools to insurance companies to help price policies, raised $73M led by Battery Ventures &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240111/p9#a240111p9)
  - [The White House Just Announced a $623 Million EV-Charging Bonanza](https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/)
  - [PitchBook: female-founded US companies raised $44.4B out of $170.59B in VC funding in 2023; companies with all-female founding teams raised ~$3.1B, down 39% YoY &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240111/p8#a240111p8)
  - [Make Up That Guest Bed With Brooklinen&#39;s Luxury Linens and Towels, Now Up to 15% Off     - CNET](https://www.cnet.com/deals/make-up-that-guest-bed-with-up-to-15-off-brooklinens-luxury-linens-and-towels/#ftag=CAD590a51e)
- - [Enhance Your Travel Experience and Save With This Exclusive Viator Coupon     - CNET](https://www.cnet.com/deals/enhance-your-travel-experience-and-save-with-this-exclusive-viator-coupon/#ftag=CAD590a51e)
- - [PitchBook: VC investment in the crypto industry totaled $9.5B in 2023, less than a third of 2022; CryptoSlam says NFT sales fell 63% to $8.7B in 2023 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240111/p7#a240111p7)<!-- TECH:END -->
+ - [Enhance Your Travel Experience and Save With This Exclusive Viator Coupon     - CNET](https://www.cnet.com/deals/enhance-your-travel-experience-and-save-with-this-exclusive-viator-coupon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

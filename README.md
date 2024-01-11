@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [She ate them all](http://9gag.com/gag/aNwNeo6)
+ - 💣 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)
  - 😝 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
- - 💣 [She ate them all](http://9gag.com/gag/aNwNeo6)
- - 😝 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)
  - 👉 [Take notes guys](http://9gag.com/gag/a8qZLrV)<!-- MEMES:END -->
 
 ---

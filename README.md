@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1st class flight](http://9gag.com/gag/a2K3QnD)
- - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 💣 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
+ - 😝 [WTF](http://9gag.com/gag/aPgEOvR)
  - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 💣 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
  - 👉 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)<!-- MEMES:END -->
 
 ---

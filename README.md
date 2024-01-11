@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
- - 😝 [Is that fella a fella???](http://9gag.com/gag/aoKvB7A)
- - 💣 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
- - 😝 [Never forget](http://9gag.com/gag/aA0jB6E)
- - 👉 [Peak male performance](http://9gag.com/gag/abvNjn8)<!-- MEMES:END -->
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 💣 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---
 

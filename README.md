@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/amAejqy)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)
+ - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
  - 💣 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)
- - 😝 [Who came up with this idea?](http://9gag.com/gag/aL1x6YA)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
  - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---

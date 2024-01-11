@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harvard spinout QuEra, a quantum computing startup, plans to release an error-corrected quantum computer with 10,000 physical and 100 logical qubits by 2026 &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240111/p4#a240111p4)
+ - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)
  - [Sources: OpenAI, Inflection, and Cohere held back-channel talks on AI safety with Chinese state-backed groups in Geneva in July 2023 and October 2023 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240111/p3#a240111p3)
  - [Sources: several hundred employees from Google&#39;s core engineering division received notices that their roles were eliminated and lost corporate access &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240111/p2#a240111p2)
- - [Google lays off hundreds of people working on Assistant and says the restructuring would help improve Assistant as it explores integrating newer AI technology &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/240111/p1#a240111p1)
- - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
- - [Samsung Galaxy Z Fold 5 Deals: $300 Off Unlocked Models, Up to $1,200 in Trade-In Savings and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google lays off hundreds of people working on Assistant and says the restructuring would help improve Assistant as it explores integrating newer AI technology &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/240111/p1#a240111p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest mini-console is this adorable Atari 400](https://www.theverge.com/2024/1/11/24034344/atari-400-mini-release-date-price)
+ - [Google Cloud eliminates fees levied on customers who leave for a rival service, effective immediately, which may put pressure on AWS and Azure to do the same &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240111/p22#a240111p22)
  - [India may make it cheaper to produce iPhones](https://appleinsider.com/articles/24/01/11/india-may-make-it-cheaper-to-produce-iphones?utm_medium=rss)
  - [28 Years Later is coming from Danny Boyle and Alex Garland](https://www.theverge.com/24034340/28-years-later-movie-danny-boyle-alex-garland)
- - [Analysis: Google and Bing showed deepfake porn images of female celebrities atop search results for their names plus &quot;deepfakes&quot;, &quot;fake nudes&quot;, and other terms &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240111/p21#a240111p21)
- - [PC sales are not declining, they&#39;re growing, says another report](https://appleinsider.com/articles/24/01/11/pc-sales-are-not-declining-theyre-growing-says-another-report?utm_medium=rss)
- - [Apple patches security flaw that allowed Magic Keyboard Bluetooth connections to be faked](https://appleinsider.com/articles/24/01/11/apple-patches-security-flaw-that-allowed-magic-keyboard-bluetooth-connections-to-be-faked?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: Google and Bing showed deepfake porn images of female celebrities atop search results for their names plus &quot;deepfakes&quot;, &quot;fake nudes&quot;, and other terms &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240111/p21#a240111p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

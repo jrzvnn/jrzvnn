@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: female-founded US companies raised $44.4B out of $170.59B in VC funding in 2023; companies with all-female founding teams raised ~$3.1B, down 39% YoY &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240111/p8#a240111p8)
  - [PitchBook: VC investment in the crypto industry totaled $9.5B in 2023, less than a third of 2022; CryptoSlam says NFT sales fell 63% to $8.7B in 2023 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240111/p7#a240111p7)
  - [Social Security COLA 2024: Have You Received Your First Increased Check Yet?     - CNET](https://www.cnet.com/personal-finance/social-security-cola-2024-have-you-received-your-first-increased-check-yet/#ftag=CAD590a51e)
  - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)
- - [Toto Haba, the SVP of LVMH brand Benefit Cosmetics, says the luxury conglomerate is discussing a plan with TikTok for limiting counterfeit products on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)
- - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)<!-- TECH:END -->
+ - [Toto Haba, the SVP of LVMH brand Benefit Cosmetics, says the luxury conglomerate is discussing a plan with TikTok for limiting counterfeit products on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

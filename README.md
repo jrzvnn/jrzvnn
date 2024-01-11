@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [1X, an OpenAI-backed developer of humanoid robots with plans to bring its bipedal robot NEO to the market, raised a $100M Series B from EQT Ventures and others &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240111/p31#a240111p31)
+ - [CES 2024: The 26 Best Gadgets You Can Buy Right Now](https://www.wired.com/story/ces-2024-gadgets-you-can-buy-right-now/)
+ - [Internal memo: Discord CEO Jason Citron says the company is laying off 17% of its staff, or 170 people, after growing its workforce &quot;by 5x since 2020&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240111/p30#a240111p30)
  - [Google formally endorses right to repair and will testify in favor of a law in Oregon, says regulators should ban &quot;parts pairing&quot;, a tactic used by Apple &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240111/p29#a240111p29)
- - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
- - [Google’s Pixel 8 and Pixel 8 Pro are matching their best prices to date](https://www.theverge.com/2024/1/11/24033632/google-pixel-8-pro-apple-airtag-asus-rog-ally-deal-sale)
- - [Some crypto advocates welcome bitcoin ETFs as an inevitable part of going mainstream, while others worry they threaten the original promise of decentralization &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240111/p28#a240111p28)<!-- TECH:END -->
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

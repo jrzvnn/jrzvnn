@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How old am I](http://9gag.com/gag/aOxwyEE)
- - 😝 [Take notes guys](http://9gag.com/gag/a8qZLrV)
- - 💣 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 👉 [Nice Play](http://9gag.com/gag/aOxwq5R)<!-- MEMES:END -->
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 💣 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 😝 [Didn&#39;t see it coming..](http://9gag.com/gag/awZEqrW)
+ - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---
 

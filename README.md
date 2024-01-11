@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix says its ad tier has 23M+ MAUs globally, up from 15M+ in November 2023, and 85% of customers on the ad tier are streaming for over 2 hours per day &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240110/p38#a240110p38)
  - [CES 2024 Is All About AI. You Can Blame ChatGPT for That     - CNET](https://www.cnet.com/tech/ces-2024-is-all-about-ai-you-can-blame-chatgpt-for-that/#ftag=CAD590a51e)
  - [Tax Season 2024: File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)
  - [Drone Powerhouse DJI Gets Into the Delivery Business     - CNET](https://www.cnet.com/tech/computing/drone-powerhouse-dji-gets-into-the-delivery-business/#ftag=CAD590a51e)
- - [iOS 17.3 Beta 3: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-beta-3-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)
- - [Here’s what we know about the SAG-AFTRA AI voice acting licensing deal](https://www.theverge.com/2024/1/10/24033258/sag-aftra-ai-video-game-voice-acting-licensing-replica-studios)<!-- TECH:END -->
+ - [iOS 17.3 Beta 3: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-beta-3-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

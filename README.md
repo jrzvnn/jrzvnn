@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: several hundred employees from Google&#39;s core engineering division received notices that their roles were eliminated and lost corporate access &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240111/p2#a240111p2)
  - [Google lays off hundreds of people working on Assistant and says the restructuring would help improve Assistant as it explores integrating newer AI technology &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/240111/p1#a240111p1)
  - [Google is reorganizing the Devices &amp; Services teams working on the Pixel, Fitbit, and Nest; Fitbit co-founders James Park and Eric Friedman are leaving Google &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240110/p40#a240110p40)
  - [Samsung Galaxy Z Fold 5 Deals: $300 Off Unlocked Models, Up to $1,200 in Trade-In Savings and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
- - [OnePlus 11 Deals: $170 Off Select Configurations, Trade-In Credits     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)
- - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 11 Deals: $170 Off Select Configurations, Trade-In Credits     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

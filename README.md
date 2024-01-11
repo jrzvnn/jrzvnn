@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
+ - 😝 [Perfectly balanced](http://9gag.com/gag/aDYyRdK)
  - 😝 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
- - 💣 [Never forget](http://9gag.com/gag/aA0jB6E)
- - 😝 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
- - 👉 [WTF](http://9gag.com/gag/aPgEOvR)<!-- MEMES:END -->
+ - 💣 [So that&#39;s what happens when you stop allowing your device to be used for crypto mining or whatever the f**k it was doing](http://9gag.com/gag/aGEmPbZ)
+ - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 👉 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)<!-- MEMES:END -->
 
 ---
 

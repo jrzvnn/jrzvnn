@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CES 2024 Day 2: The best gear for Apple users from the show floor](https://appleinsider.com/articles/24/01/11/ces-2024-day-2-the-best-gear-for-apple-users-from-the-show-floor?utm_medium=rss)
  - [A look at SEC&#39;s hilariously grudging approval of bitcoin ETFs and the likelihood that they will be &quot;physical&quot; ETFs or interest-paying ETFs in the future &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240111/p35#a240111p35)
- - [Alphabet Union says Wednesday&#39;s layoffs at Google impacted more than 1,000 people, making it the largest round of cuts since January 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240111/p34#a240111p34)
- - [Google Cloud launches new generative AI tools for retailers to improve online shopping, including a chatbot that can offer product recommendations to consumers &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240111/p33#a240111p33)
- - [The Real Problem With the Boeing 737 Max](https://www.wired.com/story/boeing-737-max-accident-alaska-airlines-as1282-united-door-plug/)
- - [Top 8 Weirdest Products We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/tech/top-8-weirdest-products-weve-seen-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [New Weber Gas Grill Feature Is the First of Its Kind &lpar;but Probably Not for Long&rpar;     - CNET](https://www.cnet.com/home/yard-and-outdoors/new-weber-gas-grill-feature-is-the-first-of-its-kind-but-probably-not-for-long/#ftag=CAD590a51e)
+ - [Alphabet Union says Wednesday&#39;s layoffs at Google impacted more than 1,000 people, making it the largest round of cuts since January 2023 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240111/p34#a240111p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

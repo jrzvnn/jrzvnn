@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)
  - [Microsoft briefly unseated Apple as the world&#39;s most valuable publicly traded company in early trading on Thursday but closed out the day under Apple &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240111/p36#a240111p36)
  - [CES 2024 Day 2: The best gear for Apple users from the show floor](https://appleinsider.com/articles/24/01/11/ces-2024-day-2-the-best-gear-for-apple-users-from-the-show-floor?utm_medium=rss)
  - [A look at SEC&#39;s hilariously grudging approval of bitcoin ETFs and the likelihood that they will be &quot;physical&quot; ETFs or interest-paying ETFs in the future &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240111/p35#a240111p35)
- - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [New Weber Gas Grill Feature Is the First of Its Kind &lpar;but Probably Not for Long&rpar;     - CNET](https://www.cnet.com/home/yard-and-outdoors/new-weber-gas-grill-feature-is-the-first-of-its-kind-but-probably-not-for-long/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

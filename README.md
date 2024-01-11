@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
  - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - 💣 [Never forget](http://9gag.com/gag/aA0jB6E)
- - 😝 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
+ - 💣 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
+ - 😝 [Never forget](http://9gag.com/gag/aA0jB6E)
  - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 ---

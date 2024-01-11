@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
  - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 💣 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)
- - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
- - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
+ - 😝 [A core memory](http://9gag.com/gag/a7qQvxz)
+ - 💣 [She ate them all](http://9gag.com/gag/aNwNeo6)
+ - 😝 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)
+ - 👉 [Nice Play](http://9gag.com/gag/aOxwq5R)<!-- MEMES:END -->
 
 ---
 

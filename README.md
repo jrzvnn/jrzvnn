@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 😝 [A core memory](http://9gag.com/gag/a7qQvxz)
- - 💣 [She ate them all](http://9gag.com/gag/aNwNeo6)
- - 😝 [Look what they did to my Force !](http://9gag.com/gag/aVbAO8d)
- - 👉 [Nice Play](http://9gag.com/gag/aOxwq5R)<!-- MEMES:END -->
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
+ - 👉 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)<!-- MEMES:END -->
 
 ---
 

@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uhm guys....](http://9gag.com/gag/a8qRr4V)
- - 😝 [Raynaud&#39;s syndrome](http://9gag.com/gag/aYV326x)
- - 💣 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
- - 😝 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
+ - 😝 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 😝 [Anyone else?](http://9gag.com/gag/aGEmW5n)
+ - 💣 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
  - 👉 [Happened 10 years ago](http://9gag.com/gag/aqeP3OL)<!-- MEMES:END -->
 
 ---

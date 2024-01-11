@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada partners with SecurityScorecard to assess the cyber resilience of companies critical to the country&#39;s infrastructure and assign them letter grades &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/240111/p27#a240111p27)
  - [Satechi reveals game-changing 145W GaN travel charger at CES 2024](https://appleinsider.com/articles/24/01/11/satechi-reveals-game-changing-145w-gan-travel-charger-at-ces-2024?utm_medium=rss)
  - [Hertz is selling 20,000 EVs so it can buy more gas guzzlers](https://www.theverge.com/2024/1/11/24034462/hertz-ev-sell-one-third-fleet-ice-tesla-polestar-used)
  - [Toyota&#39;s Robots Are Learning to Do Housework—By Copying Humans](https://www.wired.com/story/fast-forward-toyota-robots-learning-housework/)
- - [Netflix removes an Indian film depicting a Hindu character eating meat after backlash from Hindu groups; producer Zee apologizes and plans to edit the film &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240111/p26#a240111p26)
- - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix removes an Indian film depicting a Hindu character eating meat after backlash from Hindu groups; producer Zee apologizes and plans to edit the film &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240111/p26#a240111p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

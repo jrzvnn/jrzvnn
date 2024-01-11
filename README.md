@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)
  - [Ivanti confirms hackers are exploiting two critical vulnerabilities in its corporate VPN software, but says patches won&#39;t be available until the end of January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240111/p25#a240111p25)
  - [Microsoft briefly overtakes Apple to become the world’s most valuable company again](https://www.theverge.com/2024/1/11/24034434/microsoft-apple-market-cap-business-valuable-company)
  - [Filing: ironSource founders, including CEO and Unity Grow president Tomer Bar-Zeev, are exiting Unity amid mass layoffs; Unity merged with ironSource in 2022 &lpar;Chris Kerr/gamedeveloper&rpar;](http://www.techmeme.com/240111/p24#a240111p24)
- - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)
- - [Daily deals Jan. 11: LG UltraFine 5K Display $899, $199 off Mac mini, Apple AirTag 4-Pack $79, more](https://appleinsider.com/articles/24/01/11/daily-deals-jan-11-lg-ultrafine-5k-display-899-199-off-mac-mini-apple-airtag-4-pack-79-more?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

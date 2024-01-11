@@ -172,11 +172,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 😝 [Smart appliances were a mistake.](http://9gag.com/gag/amAej12)
- - 💣 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
+ - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
+ - 😝 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 💣 [Didn&#39;t see it coming..](http://9gag.com/gag/awZEqrW)
+ - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 👉 [Subjects for research. Feel free to add more in the comments](http://9gag.com/gag/aBdAq4D)<!-- MEMES:END -->
 
 ---
 

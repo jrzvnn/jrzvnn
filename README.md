@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Google and Bing showed deepfake porn images of female celebrities atop search results for their names plus &quot;deepfakes&quot;, &quot;fake nudes&quot;, and other terms &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240111/p21#a240111p21)
  - [PC sales are not declining, they&#39;re growing, says another report](https://appleinsider.com/articles/24/01/11/pc-sales-are-not-declining-theyre-growing-says-another-report?utm_medium=rss)
  - [Apple patches security flaw that allowed Magic Keyboard Bluetooth connections to be faked](https://appleinsider.com/articles/24/01/11/apple-patches-security-flaw-that-allowed-magic-keyboard-bluetooth-connections-to-be-faked?utm_medium=rss)
  - [Sources describe how AI replaced the metaverse as Mark Zuckerberg&#39;s top priority, leading Meta to ruthlessly cut jobs and focus on quickly releasing AI products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p20#a240111p20)
- - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/)
- - [Sony’s Afeela needs to be more than a feeling](https://www.theverge.com/24033762/sony-afeela-hands-on-ces-2024)<!-- TECH:END -->
+ - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

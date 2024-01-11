@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 18 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [eBay will pay $3M to resolve charges over a harassment campaign by staffers who sent spiders and other disturbing items to those behind the EcommerceBytes blog &lpar;Alanna Durkin Richer/Associated Press&rpar;](http://www.techmeme.com/240111/p32#a240111p32)
  - [eBay will pay $3 million over bizarre cyberstalking campaign](https://www.theverge.com/2024/1/11/24034688/ebay-cyberstalking-campaign-settlement-doj)
  - [For John Deere, A 50,000-Pound Tractor Controlled By a Phone Is Just the Beginning     - CNET](https://www.cnet.com/roadshow/news/for-john-deere-a-50000-pound-tractor-controlled-by-a-phone-is-just-the-beginning/#ftag=CAD590a51e)
- - [Wi-Fi 7 quietly took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
- - [Apple Vision Pro launch quantities rumored to be far tighter than previously estimated](https://appleinsider.com/articles/24/01/11/apple-vision-pro-launch-quantities-rumored-to-be-far-tighter-than-previously-estimated?utm_medium=rss)<!-- TECH:END -->
+ - [Wi-Fi 7 quietly took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

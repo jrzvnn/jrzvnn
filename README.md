@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple Board of Directors shuffle sees Al Gore &amp; James Bell retire](https://appleinsider.com/articles/24/01/11/apple-board-of-directors-shuffle-sees-al-gore-james-bell-retire?utm_medium=rss)
  - [Dexcom’s new continuous glucose monitor is a health tech gadget with purpose](https://www.theverge.com/2024/1/11/24034098/dexcom-stelo-cgm-diabetes-health-tech-ces-2024)
  - [Apple says Al Gore and James Bell will retire from its board this year, and Wanda Austin, ex-president and CEO of The Aerospace Corporation, will join the board &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240111/p37#a240111p37)
- - [Microsoft briefly unseated Apple as the world&#39;s most valuable publicly traded company in early trading on Thursday but closed out the day under Apple &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240111/p36#a240111p36)
- - [CES 2024 Day 2: The best gear for Apple users from the show floor](https://appleinsider.com/articles/24/01/11/ces-2024-day-2-the-best-gear-for-apple-users-from-the-show-floor?utm_medium=rss)<!-- TECH:END -->
+ - [Look at This Adorable Little Power Station I Saw at CES     - CNET](https://www.cnet.com/home/energy-and-utilities/look-at-this-adorable-little-power-station-i-saw-at-ces/#ftag=CAD590a51e)
+ - [Microsoft briefly unseated Apple as the world&#39;s most valuable publicly traded company in early trading on Thursday but closed out the day under Apple &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240111/p36#a240111p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

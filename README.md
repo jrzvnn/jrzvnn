@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ecuador currently in total chaos. Armed gangs storming the university to kidnap students. Live TV crew taken hostage, filmed gang executions carried out. Cartel response to Ecuador\u2019s president declaring a state of emergency because of the escape of cartel kingpin Adolfo Macias.](http://9gag.com/gag/aA08nVp)
+ - 😝 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)
+ - 😝 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
+ - 💣 [Never forget](http://9gag.com/gag/aA0jB6E)
  - 😝 [Migrants on their way to Europe proudly film how they get rid of their id&#39;s. Then when they reach Europe they are all 17 years old with no home country and can&#39;t be expelled from Europe. Notice how they are all younger men. Europe needs a new migration policy before it&#39;s to late](http://9gag.com/gag/a3Z6oXv)
- - 💣 [And then fighting the police that wants to fill those tunnels up. What the hell is going on?](http://9gag.com/gag/a9qxQzo)
- - 😝 [Never forget](http://9gag.com/gag/aA0jB6E)
  - 👉 [Surgery sometimes does help wonders](http://9gag.com/gag/abvNPZ8)<!-- MEMES:END -->
 
 ---

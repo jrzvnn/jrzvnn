@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satechi reveals game-changing 145W GaN travel charger at CES 2024](https://appleinsider.com/articles/24/01/11/satechi-reveals-game-changing-145w-gan-travel-charger-at-ces-2024?utm_medium=rss)
+ - [Hertz is selling 20,000 EVs so it can buy more gas guzzlers](https://www.theverge.com/2024/1/11/24034462/hertz-ev-sell-one-third-fleet-ice-tesla-polestar-used)
  - [Toyota&#39;s Robots Are Learning to Do Housework—By Copying Humans](https://www.wired.com/story/fast-forward-toyota-robots-learning-housework/)
  - [Netflix removes an Indian film depicting a Hindu character eating meat after backlash from Hindu groups; producer Zee apologizes and plans to edit the film &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240111/p26#a240111p26)
- - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)
- - [Ivanti confirms hackers are exploiting two critical vulnerabilities in its corporate VPN software, but says patches won&#39;t be available until the end of January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240111/p25#a240111p25)
- - [Microsoft briefly overtakes Apple to become the world’s most valuable company again](https://www.theverge.com/2024/1/11/24034434/microsoft-apple-market-cap-business-valuable-company)<!-- TECH:END -->
+ - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

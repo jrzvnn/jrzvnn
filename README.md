@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix removes an Indian film depicting a Hindu character eating meat after backlash from Hindu groups; producer Zee apologizes and plans to edit the film &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240111/p26#a240111p26)
  - [Microsoft briefly edged out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)
  - [Ivanti confirms hackers are exploiting two critical vulnerabilities in its corporate VPN software, but says patches won&#39;t be available until the end of January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240111/p25#a240111p25)
  - [Microsoft briefly overtakes Apple to become the world’s most valuable company again](https://www.theverge.com/2024/1/11/24034434/microsoft-apple-market-cap-business-valuable-company)
- - [Filing: ironSource founders, including CEO and Unity Grow president Tomer Bar-Zeev, are exiting Unity amid mass layoffs; Unity merged with ironSource in 2022 &lpar;Chris Kerr/gamedeveloper&rpar;](http://www.techmeme.com/240111/p24#a240111p24)
- - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)<!-- TECH:END -->
+ - [This $200 Bundle for Travelers Includes Rosetta Stone, Dollar Flight Club, RealVPN and More     - CNET](https://www.cnet.com/deals/this-200-bundle-for-travelers-includes-rosetta-stone-dollar-flight-club-realvpn-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

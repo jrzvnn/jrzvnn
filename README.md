@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Gboard adds a physical keyboard toolbar on Android tablets, to access the clipboard, translation, and more, after adding stylus handwriting support &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p12#a240111p12)
  - [Ripple Labs, creator of the XRP cryptocurrency, plans to buy back $285M in shares from early investors and employees, sources say at an $11.3B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240111/p11#a240111p11)
  - [Munich-based car subscription startup Finn, which manages 25K subscriptions in Germany and the US, raised a &amp;euro;100M Series C at a &amp;euro;600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240111/p10#a240111p10)
  - [London-based Hyperexponential, which offers math modeling tools to insurance companies to help price policies, raised $73M led by Battery Ventures &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240111/p9#a240111p9)
- - [The White House Just Announced a $623 Million EV-Charging Bonanza](https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/)
- - [PitchBook: female-founded US companies raised $44.4B out of $170.59B in VC funding in 2023; companies with all-female founding teams raised ~$3.1B, down 39% YoY &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240111/p8#a240111p8)<!-- TECH:END -->
+ - [The White House Just Announced a $623 Million EV-Charging Bonanza](https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

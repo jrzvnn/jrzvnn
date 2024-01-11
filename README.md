@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: VC investment in the crypto industry totaled $9.5B in 2023, less than a third of 2022; CryptoSlam says NFT sales fell 63% to $8.7B in 2023 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240111/p7#a240111p7)
  - [A look at some of the most interesting tech from CES 2024: Roxi&#39;s interactive music video channels for linear TV, Samsung&#39;s Ballie AI robot projector, and more &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240111/p6#a240111p6)
  - [SVP of LVMH brand Benefit Cosmetics says the luxury conglomerate is in discussions with TikTok on a plan for limiting counterfeit products sold on the app &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240111/p5#a240111p5)
  - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
- - [Harvard spinout QuEra, a quantum computing startup, plans to release an error-corrected quantum computer with 10,000 physical and 100 logical qubits by 2026 &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240111/p4#a240111p4)
- - [The biggest and boldest TV launches at CES 2024](https://appleinsider.com/articles/24/01/10/the-biggest-and-boldest-tv-launches-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Harvard spinout QuEra, a quantum computing startup, plans to release an error-corrected quantum computer with 10,000 physical and 100 logical qubits by 2026 &lpar;John Timmer/Ars Technica&rpar;](http://www.techmeme.com/240111/p4#a240111p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

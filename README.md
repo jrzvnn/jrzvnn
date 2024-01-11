@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: ironSource founders, including CEO and Unity Grow president Tomer Bar-Zeev, are exiting Unity amid mass layoffs; Unity merged with ironSource in 2022 &lpar;Chris Kerr/gamedeveloper&rpar;](http://www.techmeme.com/240111/p24#a240111p24)
  - [WhatsApp’s custom sticker maker on iOS is here to spice up your chats](https://www.theverge.com/2024/1/11/24034382/whatsapp-create-share-stickers-ios-17)
  - [Daily deals Jan. 11: LG UltraFine 5K Display $899, $199 off Mac mini, Apple AirTag 4-Pack $79, more](https://appleinsider.com/articles/24/01/11/daily-deals-jan-11-lg-ultrafine-5k-display-899-199-off-mac-mini-apple-airtag-4-pack-79-more?utm_medium=rss)
  - [Amazon launches &quot;badge pay,&quot; which uses its Just Walk Out retail tech to let employees use their badges for payments, starting with a hospital in Savannah, GA &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240111/p23#a240111p23)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Microsoft edges out Apple as the most valuable company in the US](https://appleinsider.com/articles/24/01/11/microsoft-edges-out-apple-as-the-most-valuable-company-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

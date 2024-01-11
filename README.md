@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the CES Trends That Mattered](https://www.wired.com/story/gadget-lab-podcast-628/)
- - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)
- - [ByteDance plans to shut down music streaming service Resso in India on January 31, after removing the App Store and Google Play apps in mid-December 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240111/p15#a240111p15)
- - [Google plans to remove 17 &quot;underutilized&quot; Assistant features in February, including voice-controlled Play Books audiobooks, media alarms, and Calm meditation &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240111/p14#a240111p14)
- - [Dough Spectrum One monitor with Gorilla Glass review: crystal clear 4K HDR at a good price](https://appleinsider.com/articles/24/01/11/dough-spectrum-one-monitor-with-gorilla-glass-review-crystal-clear-4k-hdr-at-a-good-price?utm_medium=rss)<!-- TECH:END -->
+ - [Google removes 17 features from Google Assistant](https://www.theverge.com/2024/1/11/24034262/google-assistant-removes-17-features-layoffs-pixel-voice-commands)
+ - [Vision Pro could gain an Apple Pencil-like controller](https://appleinsider.com/articles/24/01/11/vision-pro-could-gain-an-apple-pencil-like-controller?utm_medium=rss)
+ - [USDC stablecoin issuer Circle confidentially files for a US IPO, without saying the number of shares for sale or price range; Circle had a $9B valuation in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p17#a240111p17)
+ - [Don&#39;t Let Your New Year&#39;s Resolutions Die in February. These Apps Can Help     - CNET](https://www.cnet.com/tech/services-and-software/dont-let-your-new-years-resolutions-die-in-february-these-apps-can-help/#ftag=CAD590a51e)
+ - [Best Solar Companies of January 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

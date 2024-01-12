@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI has signed up 260 enterprise customers with 150K+ employees combined for the corporate version of ChatGPT, barely four months after launching the product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240111/p42#a240111p42)
  - [Ayaneo’s Next Lite takes on the Steam Deck with an unofficial version of SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [Best iPhone Deals 2024: Cheapest Ways to Get an Apple Phone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
  - [Substack keeps the Nazis, loses Platformer](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)
- - [Platformer is leaving Substack and migrating to Ghost, saying it doesn&#39;t believe Substack will publicly commit to proactively removing pro-Nazi material &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240111/p41#a240111p41)
- - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)<!-- TECH:END -->
+ - [Platformer is leaving Substack and migrating to Ghost, saying it doesn&#39;t believe Substack will publicly commit to proactively removing pro-Nazi material &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240111/p41#a240111p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

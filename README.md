@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
- - 😝 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
- - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
+ - 💣 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)<!-- MEMES:END -->
+ - 👉 [Ultra chad](http://9gag.com/gag/a8qZLv3)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
- - 💣 [Nice Play](http://9gag.com/gag/aOxwq5R)
- - 😝 [The future is now, old man](http://9gag.com/gag/aL1xQZP)
- - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->
+ - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 👉 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)<!-- MEMES:END -->
 
 ---
 

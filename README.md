@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
- - 💣 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
+ - 😝 [Dinner time](http://9gag.com/gag/a9qoPV1)
+ - 😝 [Let&#39;s party](http://9gag.com/gag/a2KeYQZ)
+ - 💣 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)<!-- MEMES:END -->
+ - 👉 [It&#39;s so simple...](http://9gag.com/gag/a6qPLWb)<!-- MEMES:END -->
 
 ---
 

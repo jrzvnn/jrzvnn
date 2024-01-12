@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kevin Systrom says news sharing app Artifact will shut down after concluding that &quot;the market opportunity isn&#39;t big enough to warrant continued investment&quot; &lpar;Kevin Systrom/Artifact News&rpar;](http://www.techmeme.com/240112/p18#a240112p18)
+ - [Watch Segway&#39;s New Kart Go From Racing to Gaming video     - CNET](https://www.cnet.com/roadshow/videos/watch-segways-new-kart-go-from-racing-to-gaming/#ftag=CAD590a51e)
+ - [The Best Keurig Deals: Save Up to $100 on Special Edition, K-Elite, Slim Plus and More     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
  - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
- - [An analysis of fediverse backend hosting providers finds Germany-based Hetzner hosts 51% of the network by number of active users, followed by France-based OVH &lpar;Ben Cox/Ben&#39;s Blog&rpar;](http://www.techmeme.com/240112/p17#a240112p17)
- - [Google will now let EU users select which services share their data, thanks to the DMA](https://www.theverge.com/2024/1/12/24036312/google-digital-markets-act-services-user-data-opt-out)
- - [Control Netflix and Lamps With a Twist of Your Hand? With This Smartwatch Tech, You Can     - CNET](https://www.cnet.com/tech/mobile/control-netflix-and-lamps-with-a-twist-of-your-hand-with-this-smartwatch-tech-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

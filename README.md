@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
  - 😝 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
- - 💣 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
+ - 💣 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Ultra chad](http://9gag.com/gag/a8qZLv3)<!-- MEMES:END -->
+ - 👉 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)<!-- MEMES:END -->
 
 ---
 

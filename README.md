@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This might be the year of the smart ring](https://www.theverge.com/2024/1/12/24034978/smart-ring-oura-ring-evie-ring-zepp-helio-ces-2024)
- - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
- - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)
- - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)
- - [EU antitrust chief to Tim Cook: Apple must allow third-party app stores](https://appleinsider.com/articles/24/01/12/eu-antitrust-chief-to-tim-cook-apple-must-allow-third-party-app-stores?utm_medium=rss)<!-- TECH:END -->
+ - [Vision Pro nears, AirTags 2 don&#39;t, and an OLED iPad could be coming, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Track Your 2024 Goals With 24% Off the Withings Body Smart Scale     - CNET](https://www.cnet.com/deals/track-your-2024-goals-with-24-off-the-withings-body-smart-scale/#ftag=CAD590a51e)
+ - [This Smart Ring Shines! Living with Evie at CES video     - CNET](https://www.cnet.com/videos/this-smart-ring-shines-living-with-evie-at-ces/#ftag=CAD590a51e)
+ - [EVs Are Adopting Tesla Charging. Here&#39;s When It&#39;ll Actually Happen     - CNET](https://www.cnet.com/roadshow/news/evs-are-adopting-tesla-charging-heres-when-itll-actually-happen/#ftag=CAD590a51e)
+ - [These Are the Biggest Trends of CES 2024 video     - CNET](https://www.cnet.com/videos/these-are-the-biggest-trends-of-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

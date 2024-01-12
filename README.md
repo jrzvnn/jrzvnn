@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)
  - [B&amp;H&#39;s latest discounts slash up to $1,700 off Apple computers](https://appleinsider.com/articles/24/01/12/bhs-latest-discounts-slash-up-to-1700-off-apple-computers?utm_medium=rss)
  - [Build Your Own Home Fitness Routine With the Echelon Row for Just $658 &lpar;Save $342&rpar;     - CNET](https://www.cnet.com/deals/build-your-own-home-fitness-routine-with-the-echelon-row-for-just-658-save-342/#ftag=CAD590a51e)
  - [&#39;True Detective: Night Country&#39;: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/true-detective-night-country-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [Saatva Mattress Review 2024: A Premium Bed With Great Support and a Responsive Feel     - CNET](https://www.cnet.com/health/sleep/saatva-mattress-review/#ftag=CAD590a51e)
- - [Give the Gift of Learning With These Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/give-the-gift-of-learning-with-these-discounted-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Saatva Mattress Review 2024: A Premium Bed With Great Support and a Responsive Feel     - CNET](https://www.cnet.com/health/sleep/saatva-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

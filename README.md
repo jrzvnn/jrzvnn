@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)
  - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)
  - [Notes on Meta&#39;s plans for Threads integration with the fediverse, which, at least superficially, the company is carrying out cautiously and in good faith &lpar;Tom Coates/plasticbag.org&rpar;](http://www.techmeme.com/240112/p1#a240112p1)
  - [How Menlo Ventures is using a special purpose vehicle to lead Anthropic&#39;s unusual $750M fundraise, helping, in part, to price bets by Amazon and Google &lpar;Forbes&rpar;](http://www.techmeme.com/240111/p45#a240111p45)
- - [Apple quietly increased the Find My limit to 32 items](https://appleinsider.com/articles/24/01/12/apple-quietly-increased-the-find-my-limit-to-32-items?utm_medium=rss)
- - [Google plans to allow more real-money games on the Play Store, starting with India, Brazil, and Mexico in June 2024, in compliance with local laws &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240111/p44#a240111p44)<!-- TECH:END -->
+ - [Apple quietly increased the Find My limit to 32 items](https://appleinsider.com/articles/24/01/12/apple-quietly-increased-the-find-my-limit-to-32-items?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

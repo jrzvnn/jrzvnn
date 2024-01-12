@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice Play](http://9gag.com/gag/aOxwq5R)
- - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
- - 💣 [The future is now, old man](http://9gag.com/gag/aL1xQZP)
- - 😝 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - 👉 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)<!-- MEMES:END -->
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 👉 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)<!-- MEMES:END -->
 
 ---
 

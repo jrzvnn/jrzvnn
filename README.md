@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
- - 💣 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
+ - 💣 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
+ - 👉 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)<!-- MEMES:END -->
 
 ---
 

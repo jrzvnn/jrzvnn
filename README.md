@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ordering Apple Vision Pro gets more complex with face scan](https://appleinsider.com/articles/24/01/12/ordering-apple-vision-pro-gets-more-complex-with-face-scan?utm_medium=rss)
- - [Rabbit sells out two batches of 10,000 R1 pocket AI companions over two days](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)
- - [Smartphone Photo Color Problems? Spectricity Expects to Fix Them     - CNET](https://www.cnet.com/tech/mobile/smartphone-photo-color-problems-spectricity-expects-to-fix-them/#ftag=CAD590a51e)
- - [Inflation Rose to 3.4% in December, Which Could Delay Fed’s Anticipated Rate Cuts     - CNET](https://www.cnet.com/personal-finance/inflation-rates-2/#ftag=CAD590a51e)
- - [Jackery Wants to Power Your Next Trip to the Campground. Or to… Mars?     - CNET](https://www.cnet.com/home/energy-and-utilities/jackery-wants-to-power-your-next-trip-to-the-campground-or-to-mars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Platformer is leaving Substack and migrating to Ghost, saying it doesn&#39;t believe Substack will publicly commit to proactively removing pro-Nazi material &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240111/p41#a240111p41)
+ - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)
+ - [The Rabbit R1 AI Assistant Looks Downright Retro in Orange     - CNET](https://www.cnet.com/pictures/the-rabbit-r1-ai-assistant-looks-downright-retro-in-orange/#ftag=CAD590a51e)
+ - [The Peregrine lunar lander didn’t land, but it’s still collecting data](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)
+ - [Google Layoffs Hit Pixel, Fitbit, Nest and AR teams, Reports Say     - CNET](https://www.cnet.com/tech/google-layoffs-hit-pixel-fitbit-nest-and-ar-teams-reports-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

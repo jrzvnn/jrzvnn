@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 💣 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
+ - 😝 [Incoming CAT scans and follow up, but it&#39;s looking good.](http://9gag.com/gag/a9qod2Z)
+ - 😝 [Got anyone of u more of this?](http://9gag.com/gag/aoKXZVw)
+ - 💣 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
+ - 👉 [Perfect place to watch a perfect movie!](http://9gag.com/gag/aMEgrrG)<!-- MEMES:END -->
 
 ---
 

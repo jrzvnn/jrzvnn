@@ -163,11 +163,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s antitrust agency is going to put the screws to US big tech in 2024](https://appleinsider.com/articles/24/01/11/uks-antitrust-agency-is-going-to-lean-on-us-big-tech-heavily-in-2024?utm_medium=rss)
- - [New York&#39;s weak right to repair bill is now in effect, and changes almost nothing](https://appleinsider.com/articles/24/01/11/new-yorks-weak-right-to-repair-bill-is-now-in-effect-and-changes-almost-nothing?utm_medium=rss)
- - [Apple&#39;s 2024 annual shareholder meeting is on February 28](https://appleinsider.com/articles/24/01/11/apples-2024-annual-shareholder-meeting-is-on-february-28?utm_medium=rss)
- - [Cars That Talk, Dance and Fly: The Best Car Tech at CES 2024     - CNET](https://www.cnet.com/roadshow/news/the-best-car-tech-at-ces-2024/#ftag=CAD590a51e)
- - [AI Toothbrush to Hearing Glasses: CES 2024 Health Tech We Couldn&#39;t Ignore     - CNET](https://www.cnet.com/health/ai-toothbrush-to-hearing-glasses-ces-2024-health-tech-we-couldnt-ignore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ordering Apple Vision Pro gets more complex with face scan](https://appleinsider.com/articles/24/01/12/ordering-apple-vision-pro-gets-more-complex-with-face-scan?utm_medium=rss)
+ - [Rabbit sells out two batches of 10,000 R1 pocket AI companions over two days](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)
+ - [Smartphone Photo Color Problems? Spectricity Expects to Fix Them     - CNET](https://www.cnet.com/tech/mobile/smartphone-photo-color-problems-spectricity-expects-to-fix-them/#ftag=CAD590a51e)
+ - [Inflation Rose to 3.4% in December, Which Could Delay Fed’s Anticipated Rate Cuts     - CNET](https://www.cnet.com/personal-finance/inflation-rates-2/#ftag=CAD590a51e)
+ - [Jackery Wants to Power Your Next Trip to the Campground. Or to… Mars?     - CNET](https://www.cnet.com/home/energy-and-utilities/jackery-wants-to-power-your-next-trip-to-the-campground-or-to-mars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

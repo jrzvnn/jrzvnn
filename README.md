@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 💣 [Revenge](http://9gag.com/gag/az2ngdN)
- - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
- - 👉 [Happy accident for him](http://9gag.com/gag/abv73Wv)<!-- MEMES:END -->
+ - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
 
 ---
 

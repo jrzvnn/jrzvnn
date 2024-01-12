@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [The future is now, old man](http://9gag.com/gag/aL1xQZP)
- - 💣 [Incoming CAT scans and follow up, but it&#39;s looking good.](http://9gag.com/gag/a9qod2Z)
- - 😝 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
- - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->
+ - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 😝 [Riddle me this!](http://9gag.com/gag/anz6q1b)
+ - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---
 

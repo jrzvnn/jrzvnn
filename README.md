@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)
  - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)
  - [The Best Luxury Gifts for Those Who Appreciate the Finer Things     - CNET](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
  - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Snag Up to 25% Off Air Purifiers From Blueair for Your Home     - CNET](https://www.cnet.com/deals/snag-up-to-25-off-air-purifiers-from-blueair-for-your-home/#ftag=CAD590a51e)
- - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)<!-- TECH:END -->
+ - [Snag Up to 25% Off Air Purifiers From Blueair for Your Home     - CNET](https://www.cnet.com/deals/snag-up-to-25-off-air-purifiers-from-blueair-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

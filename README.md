@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
  - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)
  - [Do Social Security Recipients Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/do-social-security-recipients-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)
  - [As deepfakes warp elections overseas, US state legislators race to enact laws, with varying penalties, requiring disclosure of the use of AI in political ads &lpar;David W. Chen/New York Times&rpar;](http://www.techmeme.com/240112/p3#a240112p3)
- - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)
- - [Notes on Meta&#39;s plans for Threads integration with the fediverse, which, at least superficially, the company is carrying out cautiously and in good faith &lpar;Tom Coates/plasticbag.org&rpar;](http://www.techmeme.com/240112/p1#a240112p1)<!-- TECH:END -->
+ - [Sources: the UK plans to publish &quot;key tests&quot; that need to be met to pass new AI laws, including if its new AI Safety Institute fails to identify risks &lpar;Financial Times&rpar;](http://www.techmeme.com/240112/p2#a240112p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

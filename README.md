@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mission Impossible : Toy Heist](http://9gag.com/gag/a9qoPo6)
- - 😝 [80s Bush](http://9gag.com/gag/aVbAXAw)
- - 💣 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [Cry for help from Germany. -9\u00b0C outside and the temperature in my new build house dropped below 22\u00b0C. Had to switch off the heat pump because energy is so expensive &lpar;27ct/kwh&rpar;. Can&#39;t even cook the squirrels because there is no gas.](http://9gag.com/gag/anz6X0o)
+ - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Boys don&#39;t cry.](http://9gag.com/gag/aMEgGw1)<!-- MEMES:END -->
+ - 👉 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)<!-- MEMES:END -->
 
 ---
 

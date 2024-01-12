@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 😝 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [The best reaction](http://9gag.com/gag/amA3Lo9)
+ - 😝 [Turkish Air Force F-16 fighter jet passing at extremely low altitude over a ship at the sea.](http://9gag.com/gag/aVbAOVy)
+ - 💣 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)<!-- MEMES:END -->
+ - 👉 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)<!-- MEMES:END -->
 
 ---
 

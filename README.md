@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vision Pro nears, AirTags 2 don&#39;t, and an OLED iPad could be coming, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
  - [Track Your 2024 Goals With 24% Off the Withings Body Smart Scale     - CNET](https://www.cnet.com/deals/track-your-2024-goals-with-24-off-the-withings-body-smart-scale/#ftag=CAD590a51e)
  - [This Smart Ring Shines! Living with Evie at CES video     - CNET](https://www.cnet.com/videos/this-smart-ring-shines-living-with-evie-at-ces/#ftag=CAD590a51e)
  - [EVs Are Adopting Tesla Charging. Here&#39;s When It&#39;ll Actually Happen     - CNET](https://www.cnet.com/roadshow/news/evs-are-adopting-tesla-charging-heres-when-itll-actually-happen/#ftag=CAD590a51e)

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy Buds 2 Pro have dropped to $130 for the first time](https://www.theverge.com/2024/1/12/24034852/samsung-galaxy-buds-2-pro-apple-watch-series-9-sling-tv-deal-sale)
  - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [Bitconned is a scammer’s guide to crypto](https://www.theverge.com/24035066/bitconned-ray-trapani-centra-tech)
- - [The Boeing 737 Max Crisis Reignites Arguments Over Infant Safety on Planes](https://www.wired.com/story/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/)
- - [Apptopia: WhatsApp&#39;s daily business users increased by 80% in the US in 2023 after a 122% jump in 2022, and daily users in the US grew by 9% in 2023 &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240112/p12#a240112p12)<!-- TECH:END -->
+ - [The Boeing 737 Max Crisis Reignites Arguments Over Infant Safety on Planes](https://www.wired.com/story/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

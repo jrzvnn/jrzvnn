@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won the CES headset game without showing up](https://www.theverge.com/2024/1/12/24035028/apple-vision-pro-ces-headset-game)
  - [An interview with Garry Tan, who confirms that Y Combinator moved its HQ from Mountain View to SF, saying &quot;you sort of have to be in San Francisco&quot; these days &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240112/p7#a240112p7)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
- - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)
- - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)<!-- TECH:END -->
+ - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

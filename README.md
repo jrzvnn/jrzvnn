@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic toyota ad](http://9gag.com/gag/aYV9NrN)
- - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 💣 [Revenge](http://9gag.com/gag/az2ngdN)
  - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
- - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
+ - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---
 

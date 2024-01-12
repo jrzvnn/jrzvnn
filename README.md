@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York installed new turnstiles at a cost of $700,000 per installation that are more difficult to jump over. But this most ingenious system has already been bypassed by the best hare minds.](http://9gag.com/gag/ap9OqWE)
- - 😝 [Riddle me this!](http://9gag.com/gag/anz6q1b)
- - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
+ - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
  - 👉 [Happy accident for him](http://9gag.com/gag/abv73Wv)<!-- MEMES:END -->
 
 ---

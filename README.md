@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AAAAAAAAAAAAAAAAAAA](http://9gag.com/gag/aA0jR72)
- - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
- - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [Mission Impossible : Toy Heist](http://9gag.com/gag/a9qoPo6)
+ - 😝 [80s Bush](http://9gag.com/gag/aVbAXAw)
+ - 💣 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [What game?](http://9gag.com/gag/agoWvzK)<!-- MEMES:END -->
+ - 👉 [Boys don&#39;t cry.](http://9gag.com/gag/aMEgGw1)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incoming CAT scans and follow up, but it&#39;s looking good.](http://9gag.com/gag/a9qod2Z)
- - 😝 [Got anyone of u more of this?](http://9gag.com/gag/aoKXZVw)
- - 💣 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)
+ - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 💣 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Perfect place to watch a perfect movie!](http://9gag.com/gag/aMEgrrG)<!-- MEMES:END -->
+ - 👉 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)<!-- MEMES:END -->
 
 ---
 

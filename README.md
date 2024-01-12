@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Stop Your X Account From Getting Hacked Like the SEC&#39;s](https://www.wired.com/story/sec-mandiant-x-two-factor-settings/)
+ - [Screens keep getting faster. Can you even tell?](https://www.theverge.com/24035804/360hz-480hz-oled-monitors-samsung-lg-display-dell-alienware-msi-asus)
  - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
  - [Cal Henderson, Slack&#39;s CTO and sole remaining cofounder, is stepping down effective immediately, to be replaced by Salesforce cofounder and CTO Parker Harris &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240112/p11#a240112p11)
- - [Rabbit, Ballie, and the other gadgets of CES 2024](https://www.theverge.com/24035283/rabbit-r1-ballie-honda-zero-best-gadgets-ces-2024-vergecast)
- - [&#39;Bodies&#39; Is a Fun Time Travel Mystery](https://www.wired.com/2024/01/geeks-guide-bodies-netflix/)
- - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)<!-- TECH:END -->
+ - [Rabbit, Ballie, and the other gadgets of CES 2024](https://www.theverge.com/24035283/rabbit-r1-ballie-honda-zero-best-gadgets-ces-2024-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

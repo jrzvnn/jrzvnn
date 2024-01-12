@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t see it coming..](http://9gag.com/gag/awZEqrW)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 😝 [She ate them all](http://9gag.com/gag/aNwNeo6)
- - 👉 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)<!-- MEMES:END -->
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
+ - 💣 [Revenge](http://9gag.com/gag/az2ngdN)
+ - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 👉 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)<!-- MEMES:END -->
 
 ---
 

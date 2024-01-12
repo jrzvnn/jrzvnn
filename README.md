@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
- - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [AAAAAAAAAAAAAAAAAAA](http://9gag.com/gag/aA0jR72)
+ - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
+ - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
  - 👉 [What game?](http://9gag.com/gag/agoWvzK)<!-- MEMES:END -->
 

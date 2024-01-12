@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Tim Cook&#39;s pay drops to $63 million for 2023](https://appleinsider.com/articles/24/01/12/tim-cooks-pay-drops-to-63-million-for-2023?utm_medium=rss)
  - [The first two Golden Sun games arrive on Nintendo Switch Online next week](https://www.theverge.com/2024/1/12/24035626/nintendo-switch-online-expansion-pack-golden-sun-lost-age-game-boy-advance)
- - [Here&#39;s Everything to Know About Prompt Engineering     - CNET](https://www.cnet.com/tech/services-and-software/heres-everything-to-know-about-prompt-engineering/#ftag=CAD590a51e)
  - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
- - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)
+ - [Do Social Security Recipients Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/do-social-security-recipients-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

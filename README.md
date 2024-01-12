@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of fediverse backend hosting providers finds Germany-based Hetzner hosts 51% of the network by number of active users, followed by France-based OVH &lpar;benjojo blog&rpar;](http://www.techmeme.com/240112/p17#a240112p17)
+ - [An analysis of fediverse backend hosting providers finds Germany-based Hetzner hosts 51% of the network by number of active users, followed by France-based OVH &lpar;Ben Cox/Ben&#39;s Blog&rpar;](http://www.techmeme.com/240112/p17#a240112p17)
  - [Google will now let EU users select which services share their data, thanks to the DMA](https://www.theverge.com/2024/1/12/24036312/google-digital-markets-act-services-user-data-opt-out)
  - [Control Netflix and Lamps With a Twist of Your Hand? With This Smartwatch Tech, You Can     - CNET](https://www.cnet.com/tech/mobile/control-netflix-and-lamps-with-a-twist-of-your-hand-with-this-smartwatch-tech-you-can/#ftag=CAD590a51e)
  - [CHI Steam Iron     - CNET](https://www.cnet.com/home/kitchen-and-household/chi-steam-iron-dpnl/#ftag=CAD590a51e)

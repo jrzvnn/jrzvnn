@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got anyone of u more of this?](http://9gag.com/gag/aoKXZVw)
  - 😝 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
+ - 😝 [Its not mine anyway](http://9gag.com/gag/a6qPLLR)
  - 💣 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
  - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->

@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
  - 😝 [Nice Play](http://9gag.com/gag/aOxwq5R)
+ - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
  - 💣 [The future is now, old man](http://9gag.com/gag/aL1xQZP)
  - 😝 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)
  - 👉 [I think tatas should be unrestricted.](http://9gag.com/gag/ap9Oox5)<!-- MEMES:END -->

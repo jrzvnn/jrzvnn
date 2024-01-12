@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 💣 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
- - 😝 [Didn&#39;t see it coming..](http://9gag.com/gag/awZEqrW)
- - 👉 [Free sample](http://9gag.com/gag/axoLp5W)<!-- MEMES:END -->
+ - 😝 [Riddle me this!](http://9gag.com/gag/anz6q1b)
+ - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
+ - 👉 [Didn&#39;t see it coming..](http://9gag.com/gag/awZEqrW)<!-- MEMES:END -->
 
 ---
 

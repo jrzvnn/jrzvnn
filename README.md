@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir EVP Josh Harris says Palantir and Israel agreed to a strategic partnership to use &quot;Palantir&#39;s advanced technology in support of war-related missions&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240112/p5#a240112p5)
+ - [I rode in a Hyundai Ioniq 5 with wheels that go sideways](https://www.theverge.com/24035050/hyundai-mobis-e-corner-system-ioniq-5-crab-drive-360)
+ - [Rivian aims to slash carbon footprint of its next-generation EVs](https://www.theverge.com/2024/1/12/24034894/rivian-impact-report-carbon-footprint-renewable-energy-ev)
  - [Tim Cook&#39;s pay drops to $63 million for 2023](https://appleinsider.com/articles/24/01/12/tim-cooks-pay-drops-to-63-million-for-2023?utm_medium=rss)
- - [The first two Golden Sun games arrive on Nintendo Switch Online next week](https://www.theverge.com/2024/1/12/24035626/nintendo-switch-online-expansion-pack-golden-sun-lost-age-game-boy-advance)
- - [Here&#39;s Everything to Know About Prompt Engineering     - CNET](https://www.cnet.com/tech/services-and-software/heres-everything-to-know-about-prompt-engineering/#ftag=CAD590a51e)
- - [Q&amp;A with OpenAI COO Brad Lightcap on managing deals with publishers, launching the GPT Store, OpenAI&#39;s corporate structure, Sam Altman&#39;s departure, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240112/p4#a240112p4)
- - [Tax Season 2024: Here&#39;s How to File Your Taxes for Free With This IRS Program     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-how-to-file-your-taxes-for-free-with-this-irs-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first two Golden Sun games arrive on Nintendo Switch Online next week](https://www.theverge.com/2024/1/12/24035626/nintendo-switch-online-expansion-pack-golden-sun-lost-age-game-boy-advance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

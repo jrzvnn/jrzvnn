@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
+ - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)
  - [&#39;Killers of the Flower Moon&#39; is now streaming on Apple TV+](https://appleinsider.com/articles/24/01/12/killers-of-the-flower-moon-is-now-streaming-on-apple-tv?utm_medium=rss)
  - [EU antitrust chief to Tim Cook: Apple must allow third-party app stores](https://appleinsider.com/articles/24/01/12/eu-antitrust-chief-to-tim-cook-apple-must-allow-third-party-app-stores?utm_medium=rss)
- - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
- - [No, the Great Tech Layoffs of 2023 Aren’t Happening Again](https://www.wired.com/story/tech-layoffs-2024-amazon-google-discord-twitch/)
- - [Regulators Are Finally Catching Up With Big Tech](https://www.wired.com/story/regulators-are-finally-catching-up-with-big-tech/)<!-- TECH:END -->
+ - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

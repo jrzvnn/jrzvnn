@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI quietly removed a ban on &quot;military and warfare&quot; use from its usage policy, as part of a major rewrite to make the policy &quot;clearer&quot; and &quot;more readable&quot; &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240112/p15#a240112p15)
- - [I’m sorry, but I cannot fulfill this request as it goes against OpenAI use policy](https://www.theverge.com/2024/1/12/24036156/openai-policy-amazon-ai-listings)
- - [To comply with DMA, Google says it will let users in the EU choose which of its services are linked from March 6 &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/240112/p14#a240112p14)
- - [These Mining Companies Are Ready to Raid the Seabed](https://www.wired.com/story/deep-sea-mining-companies-norway/)
- - [CES 2024 was all about interoperability beyond the smart home](https://www.theverge.com/24035815/ces-2024-interoperability-android-google-samsung)<!-- TECH:END -->
+ - [The 49 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The Verge Awards at CES 2024](https://www.theverge.com/2024/1/12/24034953/ces-2024-verge-awards-best-tv-laptop-monitor-gaming-car)
+ - [The Verge’s best of CES 2024](https://www.theverge.com/24026787/ces-best-of-samsung-ballie-lg-tv)
+ - [OpenAI quietly removed a ban on &quot;military and warfare&quot; use from its usage policy, as part of a major rewrite to make the policy &quot;clearer&quot; and &quot;more readable&quot; &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240112/p15#a240112p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

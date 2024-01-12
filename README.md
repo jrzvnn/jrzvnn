@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fubo raised the price of all plans by $5/month as of January 10, with the base plan starting at $80/mo, and plans to offer unlimited DVR &quot;in the coming months&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240112/p16#a240112p16)
+ - [The Surprising Things That Helped Make 2023 the Hottest Year Ever](https://www.wired.com/story/the-surprising-things-that-helped-make-2023-the-hottest-year-ever/)
  - [The 49 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The Verge Awards at CES 2024](https://www.theverge.com/2024/1/12/24034953/ces-2024-verge-awards-best-tv-laptop-monitor-gaming-car)
- - [The Verge’s best of CES 2024](https://www.theverge.com/24026787/ces-best-of-samsung-ballie-lg-tv)
- - [OpenAI quietly removed a ban on &quot;military and warfare&quot; use from its usage policy, as part of a major rewrite to make the policy &quot;clearer&quot; and &quot;more readable&quot; &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240112/p15#a240112p15)<!-- TECH:END -->
+ - [The Verge Awards at CES 2024](https://www.theverge.com/2024/1/12/24034953/ces-2024-verge-awards-best-tv-laptop-monitor-gaming-car)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

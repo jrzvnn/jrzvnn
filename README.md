@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
  - [Cal Henderson, Slack&#39;s CTO and sole remaining cofounder, is stepping down effective immediately, to be replaced by Salesforce cofounder and CTO Parker Harris &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240112/p11#a240112p11)
  - [Rabbit, Ballie, and the other gadgets of CES 2024](https://www.theverge.com/24035283/rabbit-r1-ballie-honda-zero-best-gadgets-ces-2024-vergecast)
  - [&#39;Bodies&#39; Is a Fun Time Travel Mystery](https://www.wired.com/2024/01/geeks-guide-bodies-netflix/)
- - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)
- - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)<!-- TECH:END -->
+ - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

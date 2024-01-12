@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
  - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)
- - 💣 [Revenge](http://9gag.com/gag/az2ngdN)
+ - 💣 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)<!-- MEMES:END -->
+ - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
 
 ---
 

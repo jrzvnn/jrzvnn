@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Palantir EVP Josh Harris says Palantir and Israel agreed to a strategic partnership to use &quot;Palantir&#39;s advanced technology in support of war-related missions&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240112/p5#a240112p5)
+ - [Child Tax Credit 2024: How Much You Could Get and Who&#39;s Eligible     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-how-much-you-could-get-and-whos-eligible/#ftag=CAD590a51e)
  - [I rode in a Hyundai Ioniq 5 with wheels that go sideways](https://www.theverge.com/24035050/hyundai-mobis-e-corner-system-ioniq-5-crab-drive-360)
  - [Rivian aims to slash carbon footprint of its next-generation EVs](https://www.theverge.com/2024/1/12/24034894/rivian-impact-report-carbon-footprint-renewable-energy-ev)
- - [Tim Cook&#39;s pay drops to $63 million for 2023](https://appleinsider.com/articles/24/01/12/tim-cooks-pay-drops-to-63-million-for-2023?utm_medium=rss)
- - [The first two Golden Sun games arrive on Nintendo Switch Online next week](https://www.theverge.com/2024/1/12/24035626/nintendo-switch-online-expansion-pack-golden-sun-lost-age-game-boy-advance)<!-- TECH:END -->
+ - [Track Your Fitness Goals With a New Wearable Device and Save Big     - CNET](https://www.cnet.com/deals/track-your-fitness-goals-with-a-new-wearable-device-and-save-big/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

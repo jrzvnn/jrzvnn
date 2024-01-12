@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says users will need an iPhone or iPad with Face ID to pre-order the Vision Pro, to scan their face and determine the right size Light Seal and head bands &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240112/p8#a240112p8)
  - [Apple won the CES headset game without showing up](https://www.theverge.com/2024/1/12/24035028/apple-vision-pro-ces-headset-game)
  - [An interview with Garry Tan, who confirms that Y Combinator moved its HQ from Mountain View to SF, saying &quot;you sort of have to be in San Francisco&quot; these days &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240112/p7#a240112p7)
  - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
- - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
- - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)<!-- TECH:END -->
+ - [Best of Show: Our Most Exciting, Innovative and Impactful Tech Winners of CES 2024     - CNET](https://www.cnet.com/tech/computing/best-of-show-our-most-exciting-innovative-and-impactful-tech-winners-of-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

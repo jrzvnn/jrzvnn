@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI quietly removed a ban on &quot;military and warfare&quot; use from its usage policy, as part of a major rewrite to make the policy &quot;clearer&quot; and &quot;more readable&quot; &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240112/p15#a240112p15)
  - [I’m sorry, but I cannot fulfill this request as it goes against OpenAI use policy](https://www.theverge.com/2024/1/12/24036156/openai-policy-amazon-ai-listings)
  - [To comply with DMA, Google says it will let users in the EU choose which of its services are linked from March 6 &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/240112/p14#a240112p14)
  - [These Mining Companies Are Ready to Raid the Seabed](https://www.wired.com/story/deep-sea-mining-companies-norway/)
- - [CES 2024 was all about interoperability beyond the smart home](https://www.theverge.com/24035815/ces-2024-interoperability-android-google-samsung)
- - [Apple Arcade user volume nearly matches Nintendo Switch Online and Steam players](https://appleinsider.com/articles/24/01/12/apple-arcade-user-volume-nearly-matches-nintendo-switch-online-and-steam-players?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2024 was all about interoperability beyond the smart home](https://www.theverge.com/24035815/ces-2024-interoperability-android-google-samsung)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

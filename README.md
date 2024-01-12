@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 💣 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 😝 [Riddle me this!](http://9gag.com/gag/anz6q1b)
- - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
+ - 😝 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
+ - 😝 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
+ - 💣 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 👉 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)<!-- MEMES:END -->
 
 ---
 

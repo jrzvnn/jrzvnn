@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free sample](http://9gag.com/gag/axoLp5W)
- - 😝 [Happy accident for him](http://9gag.com/gag/abv73Wv)
- - 💣 [Revenge](http://9gag.com/gag/az2ngdN)
- - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 😝 [Thoughtful boyfriend](http://9gag.com/gag/a04rmgq)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 💣 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
  - 👉 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)<!-- MEMES:END -->
 
 ---

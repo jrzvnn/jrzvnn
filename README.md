@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir EVP Josh Harris says Palantir and Israel agreed to a strategic partnership to use &quot;Palantir&#39;s advanced technology in support of war-related missions&quot; &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240112/p5#a240112p5)
- - [Child Tax Credit 2024: How Much You Could Get and Who&#39;s Eligible     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-how-much-you-could-get-and-whos-eligible/#ftag=CAD590a51e)
- - [I rode in a Hyundai Ioniq 5 with wheels that go sideways](https://www.theverge.com/24035050/hyundai-mobis-e-corner-system-ioniq-5-crab-drive-360)
- - [Rivian aims to slash carbon footprint of its next-generation EVs](https://www.theverge.com/2024/1/12/24034894/rivian-impact-report-carbon-footprint-renewable-energy-ev)
- - [Track Your Fitness Goals With a New Wearable Device and Save Big     - CNET](https://www.cnet.com/deals/track-your-fitness-goals-with-a-new-wearable-device-and-save-big/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU antitrust chief to Tim Cook: Apple must allow third-party app stores](https://appleinsider.com/articles/24/01/12/eu-antitrust-chief-to-tim-cook-apple-must-allow-third-party-app-stores?utm_medium=rss)
+ - [Here&#39;s how to get unlimited data abroad on your iPhone with this complete eSIM guide](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
+ - [No, the Great Tech Layoffs of 2023 Aren’t Happening Again](https://www.wired.com/story/tech-layoffs-2024-amazon-google-discord-twitch/)
+ - [Regulators Are Finally Catching Up With Big Tech](https://www.wired.com/story/regulators-are-finally-catching-up-with-big-tech/)
+ - [How Charlie Kirk and TPUSA Plan to Discredit Martin Luther King Jr. and the Civil Rights Act](https://www.wired.com/story/charlie-kirk-tpusa-mlk-civil-rights-act/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

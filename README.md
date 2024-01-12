@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Genesis agrees to a settlement with the NYDFS, under the terms of which it will surrender its BitLicense, cease operations in New York, and pay an $8M fine &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240112/p6#a240112p6)
  - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
  - [Track Your 2024 Goals With 24% Off the Withings Body Smart Scale     - CNET](https://www.cnet.com/deals/track-your-2024-goals-with-24-off-the-withings-body-smart-scale/#ftag=CAD590a51e)
  - [This Smart Ring Shines! Living with Evie at CES video     - CNET](https://www.cnet.com/videos/this-smart-ring-shines-living-with-evie-at-ces/#ftag=CAD590a51e)
- - [EVs Are Adopting Tesla Charging. Here&#39;s When It&#39;ll Actually Happen     - CNET](https://www.cnet.com/roadshow/news/evs-are-adopting-tesla-charging-heres-when-itll-actually-happen/#ftag=CAD590a51e)
- - [These Are the Biggest Trends of CES 2024 video     - CNET](https://www.cnet.com/videos/these-are-the-biggest-trends-of-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EVs Are Adopting Tesla Charging. Here&#39;s When It&#39;ll Actually Happen     - CNET](https://www.cnet.com/roadshow/news/evs-are-adopting-tesla-charging-heres-when-itll-actually-happen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

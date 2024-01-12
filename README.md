@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI has signed up 260 enterprise customers with 150K+ employees combined for the corporate version of ChatGPT, barely four months after launching the product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240111/p42#a240111p42)
+ - [Ayaneo’s Next Lite takes on the Steam Deck with an unofficial version of SteamOS](https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos)
+ - [Substack keeps the Nazis, loses Platformer](https://www.theverge.com/2024/1/11/24035338/substack-nazis-platformer-newsletter-switch-to-ghost)
  - [Platformer is leaving Substack and migrating to Ghost, saying it doesn&#39;t believe Substack will publicly commit to proactively removing pro-Nazi material &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240111/p41#a240111p41)
- - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)
- - [The Rabbit R1 AI Assistant Looks Downright Retro in Orange     - CNET](https://www.cnet.com/pictures/the-rabbit-r1-ai-assistant-looks-downright-retro-in-orange/#ftag=CAD590a51e)
- - [The Peregrine lunar lander didn’t land, but it’s still collecting data](https://www.theverge.com/2024/1/11/24035242/astrobotic-peregrine-lunar-lander-nasa-data-payloads)
- - [Google Layoffs Hit Pixel, Fitbit, Nest and AR teams, Reports Say     - CNET](https://www.cnet.com/tech/google-layoffs-hit-pixel-fitbit-nest-and-ar-teams-reports-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: PE firms Bain Capital and Hellman &amp; Friedman are competing to buy DocuSign but may partner to clinch a deal; an outcome is expected in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/240111/p40#a240111p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

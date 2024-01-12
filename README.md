@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dinner time](http://9gag.com/gag/a9qoPV1)
- - 😝 [Let&#39;s party](http://9gag.com/gag/a2KeYQZ)
- - 💣 [That is not metal scream. a dragon marking his territory.](http://9gag.com/gag/awZw7Vr)
+ - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
+ - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
+ - 💣 [How you sleep? and result ?](http://9gag.com/gag/aYV9NZ2)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [It&#39;s so simple...](http://9gag.com/gag/a6qPLWb)<!-- MEMES:END -->
+ - 👉 [What game?](http://9gag.com/gag/agoWvzK)<!-- MEMES:END -->
 
 ---
 

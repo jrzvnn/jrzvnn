@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apptopia: WhatsApp&#39;s daily business users increased by 80% in the US in 2023 after a 122% jump in 2022, and daily users in the US grew by 9% in 2023 &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240112/p12#a240112p12)
+ - [CES 2024 in Photos: The Year AI Ate Vegas](https://www.wired.com/gallery/ces-2024-in-photos-alex-welsh/)
  - [How to Stop Your X Account From Getting Hacked Like the SEC&#39;s](https://www.wired.com/story/sec-mandiant-x-two-factor-settings/)
  - [Screens keep getting faster. Can you even tell?](https://www.theverge.com/24035804/360hz-480hz-oled-monitors-samsung-lg-display-dell-alienware-msi-asus)
- - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)
- - [Cal Henderson, Slack&#39;s CTO and sole remaining cofounder, is stepping down effective immediately, to be replaced by Salesforce cofounder and CTO Parker Harris &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240112/p11#a240112p11)
- - [Rabbit, Ballie, and the other gadgets of CES 2024](https://www.theverge.com/24035283/rabbit-r1-ballie-honda-zero-best-gadgets-ces-2024-vergecast)<!-- TECH:END -->
+ - [The best Apple Vision Pro productivity apps at launch](https://appleinsider.com/inside/apple-vision-pro/best/the-best-apple-vision-pro-productivity-apps-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

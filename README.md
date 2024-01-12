@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
+ - 😝 [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
  - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Parallax Effect](http://9gag.com/gag/aQEGPDK)<!-- MEMES:END -->
+ - 👉 [Riddle me this!](http://9gag.com/gag/anz6q1b)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)
- - [B&amp;H&#39;s latest discounts slash up to $1,700 off Apple computers](https://appleinsider.com/articles/24/01/12/bhs-latest-discounts-slash-up-to-1700-off-apple-computers?utm_medium=rss)
- - [What you need to order Apple Vision Pro from the Apple Store online](https://appleinsider.com/articles/24/01/12/what-you-need-to-order-apple-vision-pro-from-the-apple-store-online?utm_medium=rss)
- - [Apple says users will need an iPhone or iPad with Face ID to pre-order the Vision Pro, to scan their face and determine the right size Light Seal and head bands &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240112/p8#a240112p8)
- - [Apple won the CES headset game without showing up](https://www.theverge.com/2024/1/12/24035028/apple-vision-pro-ces-headset-game)<!-- TECH:END -->
+ - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)
+ - [The Best Luxury Gifts for Those Who Appreciate the Finer Things     - CNET](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Snag Up to 25% Off Air Purifiers From Blueair for Your Home     - CNET](https://www.cnet.com/deals/snag-up-to-25-off-air-purifiers-from-blueair-for-your-home/#ftag=CAD590a51e)
+ - [South Korea&#39;s financial regulator says US bitcoin ETFs may conflict with the country&#39;s Virtual Asset User Protection Act and Capital Markets Act, plans a review &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/240112/p9#a240112p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

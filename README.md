@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cal Henderson, Slack&#39;s CTO and sole remaining cofounder, is stepping down effective immediately, to be replaced by Salesforce cofounder and CTO Parker Harris &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240112/p11#a240112p11)
+ - [Rabbit, Ballie, and the other gadgets of CES 2024](https://www.theverge.com/24035283/rabbit-r1-ballie-honda-zero-best-gadgets-ces-2024-vergecast)
+ - [&#39;Bodies&#39; Is a Fun Time Travel Mystery](https://www.wired.com/2024/01/geeks-guide-bodies-netflix/)
  - [Oppenheimer will stream on Peacock in February](https://www.theverge.com/2024/1/12/24035900/oppenheimer-peacock-streaming-date)
- - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)
- - [This high-tech sex toy syncs its vibes with music](https://www.theverge.com/2024/1/12/24035200/oh-ohdoki-vibrator-sex-tech-ces)
- - [The Best Luxury Gifts for Those Who Appreciate the Finer Things     - CNET](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
- - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Security researchers say they warned Apple as early as 2019 about AirDrop vulnerabilities that Chinese authorities claim they recently used to identify users &lpar;CNN&rpar;](http://www.techmeme.com/240112/p10#a240112p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

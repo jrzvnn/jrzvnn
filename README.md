@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Garry Tan, who confirms that Y Combinator moved its HQ from Mountain View to SF, saying &quot;you sort of have to be in San Francisco&quot; these days &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240112/p7#a240112p7)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [Your Medical Data Is Code Blue](https://www.wired.com/story/plaintext-our-medical-security-is-code-blue/)
  - [2024 Is Going to Be a Rough Year for TV](https://www.wired.com/story/2024-is-going-to-be-a-rough-year-for-tv/)
- - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)
- - [Genesis agrees to a settlement with the NYDFS, under the terms of which it will surrender its BitLicense, cease operations in New York, and pay an $8M fine &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240112/p6#a240112p6)
- - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [How to report problems on the road in Apple Maps or Google Maps](https://www.theverge.com/24034847/maps-google-apple-traffic-report-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

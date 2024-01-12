@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To comply with DMA, Google says it will let users in the EU choose which of its services are linked from March 6 &lpar;Ryan McNeal/Android Authority&rpar;](http://www.techmeme.com/240112/p14#a240112p14)
  - [These Mining Companies Are Ready to Raid the Seabed](https://www.wired.com/story/deep-sea-mining-companies-norway/)
  - [CES 2024 was all about interoperability beyond the smart home](https://www.theverge.com/24035815/ces-2024-interoperability-android-google-samsung)
  - [Apple Arcade user volume nearly matches Nintendo Switch Online and Steam players](https://appleinsider.com/articles/24/01/12/apple-arcade-user-volume-nearly-matches-nintendo-switch-online-and-steam-players?utm_medium=rss)
- - [A look at CD Projekt&#39;s three-year journey to turn around Cyberpunk 2077, which has now sold over 25M units and won a major award, after a disastrous 2020 launch &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p13#a240112p13)
- - [Samsung’s Galaxy Buds 2 Pro have dropped to $130 for the first time](https://www.theverge.com/2024/1/12/24034852/samsung-galaxy-buds-2-pro-apple-watch-series-9-sling-tv-deal-sale)<!-- TECH:END -->
+ - [A look at CD Projekt&#39;s three-year journey to turn around Cyberpunk 2077, which has now sold over 25M units and won a major award, after a disastrous 2020 launch &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p13#a240112p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

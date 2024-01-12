@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
- - 😝 [My new favourite thing: People trying to photo mirrors to sell on marketplace](http://9gag.com/gag/aEq3dqo)
- - 💣 [What&#39;s your most disturbing movie ? The one, maybe, you even regret to watch. Mine `martyrs`2008.](http://9gag.com/gag/aL1x6q5)
- - 😝 [Life is hard sometimes](http://9gag.com/gag/axo5dWM)
- - 👉 [Happy accident for him](http://9gag.com/gag/abv73Wv)<!-- MEMES:END -->
+ - 😝 [Nice Play](http://9gag.com/gag/aOxwq5R)
+ - 😝 [How old am I](http://9gag.com/gag/aOxwyEE)
+ - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [My gf always thought my friends were illiterate and low class because they work construction jobs and didn&#39;t go to college but they&#39;ve been my friends for 20years.the choice was simple.](http://9gag.com/gag/aKERzr1)
+ - 👉 [+100 situational awareness](http://9gag.com/gag/a3Zm3d3)<!-- MEMES:END -->
 
 ---
 

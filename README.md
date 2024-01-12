@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Windows startup sound started playing in his head.](http://9gag.com/gag/agoWveg)
- - 😝 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)
- - 💣 [Perfect place to watch a perfect movie!](http://9gag.com/gag/aMEgrrG)
+ - 😝 [Parallax Effect](http://9gag.com/gag/aQEGPDK)
+ - 😝 [What is the source of Minas Morgul&#39;s green light? Where does it come from?](http://9gag.com/gag/aYV9N4x)
+ - 💣 [What happened](http://9gag.com/gag/a3Zmvx1)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)<!-- MEMES:END -->
+ - 👉 [The chaos in Ecuador continues.](http://9gag.com/gag/aKERwxN)<!-- MEMES:END -->
 
 ---
 

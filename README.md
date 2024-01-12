@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Fubo raised the price of all plans by $5/month as of January 10, with the base plan starting at $80/mo, and plans to offer unlimited DVR &quot;in the coming months&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240112/p16#a240112p16)
  - [The Surprising Things That Helped Make 2023 the Hottest Year Ever](https://www.wired.com/story/the-surprising-things-that-helped-make-2023-the-hottest-year-ever/)
  - [The 49 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The Verge Awards at CES 2024](https://www.theverge.com/2024/1/12/24034953/ces-2024-verge-awards-best-tv-laptop-monitor-gaming-car)<!-- TECH:END -->
+ - [The 51 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

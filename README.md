@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does everyone agree that chaining a dog up 24/7 outside with no interaction to anyone is a form of animal abuse?](http://9gag.com/gag/a1P9Mb6)
- - 😝 [My childhood became a lie](http://9gag.com/gag/aNwNZ34)
- - 💣 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)
+ - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
+ - 💣 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Maybe maybe maybe](http://9gag.com/gag/aQEG40z)<!-- MEMES:END -->
+ - 👉 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)<!-- MEMES:END -->
 
 ---
 

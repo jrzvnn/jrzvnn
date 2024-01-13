@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The tech industry’s layoffs and hiring freezes: all of the news](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)
  - [A joint US-China research effort finds that graphene can act as a semiconductor, but experts say graphene chips face immense manufacturing hurdles &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p20#a240112p20)
- - [First Look at Xpeng AeroHT Flying Car Concept video     - CNET](https://www.cnet.com/videos/first-look-at-xpeng-aeroht-flying-car-concept/#ftag=CAD590a51e)
- - [Samsung’s inexpensive Tab A9 Plus is now on sale in the US](https://www.theverge.com/2024/1/12/24036471/samsung-galaxy-tab-a9-plus-wifi-5g-price-specs)
- - [Instagram’s co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)<!-- TECH:END -->
+ - [The Quirky, Cool and Unusual at CES 2024 video     - CNET](https://www.cnet.com/videos/the-quirky-cool-and-unusual-at-ces-2024/#ftag=CAD590a51e)
+ - [Best of CES 2024: The Coolest Gadgets video     - CNET](https://www.cnet.com/videos/best-of-ces-2024-the-coolest-gadgets/#ftag=CAD590a51e)
+ - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

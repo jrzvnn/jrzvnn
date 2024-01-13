@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Student Loan Plan Will Speed Up Forgiveness for Low-Income Borrowers: Who Qualifies     - CNET](https://www.cnet.com/personal-finance/loans/new-student-loan-plan-will-speed-up-forgiveness-for-low-income-borrowers-who-qualifies/#ftag=CAD590a51e)
+ - [Voice-Controlled Bidets, Steak Toasters and Super-Fast Ice Cream Makers: The Coolest Home Tech We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-steak-toasters-and-super-fast-ice-cream-makers-the-coolest-home-tech-weve-seen-at-ces-2024/#ftag=CAD590a51e)
+ - [Is Your State Sending Child Tax Credit Payments in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/is-your-state-sending-child-tax-credit-payments-in-2024-find-out-here/#ftag=CAD590a51e)
  - [A look at TikTok&#39;s dogged e-commerce push by subsidizing sales and promoting sellers in user feeds, as ad sales weaken and social media stagnates &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240113/p3#a240113p3)
- - [The hack of the @SECGov X account highlights security gaps at the agency, which wasn&#39;t fully adhering to the federal cybersecurity standards as of last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240113/p2#a240113p2)
- - [Security researchers at Recorded Future detail various ways criminals are frequently abusing GitHub&#39;s infrastructure to support and deliver malware &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240113/p1#a240113p1)
- - [In a countersuit, Carta&#39;s ex-CTO Jerry Talton accuses CEO Henry Ward of misusing company resources and claims he was fired for expressing concerns to the board &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240112/p24#a240112p24)
- - [Nearly 500 South Korean startups set up booths at CES 2024&#39;s Eureka Park, the most by one country in terms of government-subsidized participation in the zone &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240112/p23#a240112p23)<!-- TECH:END -->
+ - [The hack of the @SECGov X account highlights security gaps at the agency, which wasn&#39;t fully adhering to the federal cybersecurity standards as of last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240113/p2#a240113p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

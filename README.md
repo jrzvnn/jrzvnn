@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
  - 😝 [...](http://9gag.com/gag/aGEXRqn)
- - 💣 [Ultra chad](http://9gag.com/gag/a8qZLv3)
+ - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
+ - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)<!-- MEMES:END -->
+ - 👉 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)<!-- MEMES:END -->
 
 ---
 

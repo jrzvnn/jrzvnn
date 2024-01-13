@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)
- - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
- - [Protect Your Passwords With This $20 Discount on Dashlane Premium     - CNET](https://www.cnet.com/deals/protect-your-passwords-with-this-20-discount-on-dashlane-premium/#ftag=CAD590a51e)
- - [Browns vs. Texans Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-texans-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
- - [Lubbock, Texas, Residents Need to Choose a New Electric Provider by Feb.15     - CNET](https://www.cnet.com/news/lubbock-texas-residents-need-to-choose-a-new-electric-provider-by-feb-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best GoPro Deals: Save $50 on Hero 12, Hero 11, $100 on Max     - CNET](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Deals: Save Up to $56 on Nintendo Switch Lite, Refurbished Models, Accessories and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
+ - [AI at CES 2024: Take a Look at the Coolest Tech From the Show     - CNET](https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/#ftag=CAD590a51e)
+ - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does everyone agree that chaining a dog up 24/7 outside with no interaction to anyone is a form of animal abuse?](http://9gag.com/gag/a1P9Mb6)
- - 😝 [Personal collection dump 31/x](http://9gag.com/gag/a1P9Yjw)
- - 💣 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)
+ - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
+ - 😝 [Please, &lpar;don\u2019t&rpar; stop!](http://9gag.com/gag/aZDeM3Q)
+ - 💣 [Remember the guy who flew like Superman and assaulted the judge? Here&#39;s a video update.....](http://9gag.com/gag/anz6qp5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Maybe maybe maybe](http://9gag.com/gag/aQEG40z)<!-- MEMES:END -->
+ - 👉 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)<!-- MEMES:END -->
 
 ---
 

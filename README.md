@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wild Weather Ahead: Here&#39;s What Comes Next After the Hottest Year on Record     - CNET](https://www.cnet.com/science/climate/wild-weather-ahead-heres-what-comes-next-after-the-hottest-year-on-record/#ftag=CAD590a51e)
+ - [CES 2024: The Best Pet Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/how-to/ces-2024-the-best-pet-tech-weve-seen-so-far/#ftag=CAD590a51e)
+ - [Chelsea vs. Fulham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-fulham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [New Student Loan Plan Will Speed Up Forgiveness for Low-Income Borrowers: Who Qualifies     - CNET](https://www.cnet.com/personal-finance/loans/new-student-loan-plan-will-speed-up-forgiveness-for-low-income-borrowers-who-qualifies/#ftag=CAD590a51e)
- - [Voice-Controlled Bidets, Steak Toasters and Super-Fast Ice Cream Makers: The Coolest Home Tech We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-steak-toasters-and-super-fast-ice-cream-makers-the-coolest-home-tech-weve-seen-at-ces-2024/#ftag=CAD590a51e)
- - [Is Your State Sending Child Tax Credit Payments in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/is-your-state-sending-child-tax-credit-payments-in-2024-find-out-here/#ftag=CAD590a51e)
- - [A look at TikTok&#39;s dogged e-commerce push by subsidizing sales and promoting sellers in user feeds, as ad sales weaken and social media stagnates &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240113/p3#a240113p3)
- - [The hack of the @SECGov X account highlights security gaps at the agency, which wasn&#39;t fully adhering to the federal cybersecurity standards as of last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240113/p2#a240113p2)<!-- TECH:END -->
+ - [Voice-Controlled Bidets, Steak Toasters and Super-Fast Ice Cream Makers: The Coolest Home Tech We&#39;ve Seen at CES 2024     - CNET](https://www.cnet.com/how-to/voice-controlled-bidets-steak-toasters-and-super-fast-ice-cream-makers-the-coolest-home-tech-weve-seen-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

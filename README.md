@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)
+ - [WowMouse turns your smartwatch into a gesture-based Bluetooth mouse](https://www.theverge.com/2024/1/13/24037132/wowmouse-wear-os-samsung-galaxy-watch-bluetooth-mouse-gesture-control-doublepoint)
  - [The best Meta Quest 2 deal from Black Friday is back with a $50 credit](https://www.theverge.com/2024/1/13/24036568/meta-quest-2-headset-arcade1up-cabinets-bang-olufsen-bluetooth-speaker-deal-sale)
  - [This Smart Mirror Scans Your Face to Evaluate Your Vital Signs     - CNET](https://www.cnet.com/health/medical/this-smart-mirror-scans-your-face-to-evaluate-your-vital-signs/#ftag=CAD590a51e)
- - [Australian Open 2024 Livestream: How to Watch Grand Slam Tennis From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-livestream-how-to-watch-grand-slam-tennis-from-anywhere/#ftag=CAD590a51e)
- - [We found the smartest gadgets for every room in your home](https://www.theverge.com/24026790/smart-home-gadgets-ces-samsung-ballie-matic-robot-vacuum)
- - [Google pulls Binance, Kraken, and other global crypto apps from the Play Store in India, after the country flagged them for operating illegally in December 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240113/p6#a240113p6)<!-- TECH:END -->
+ - [Australian Open 2024 Livestream: How to Watch Grand Slam Tennis From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-livestream-how-to-watch-grand-slam-tennis-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

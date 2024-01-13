@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
  - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)
  - [WowMouse turns your smartwatch into a gesture-based Bluetooth mouse](https://www.theverge.com/2024/1/13/24037132/wowmouse-wear-os-samsung-galaxy-watch-bluetooth-mouse-gesture-control-doublepoint)
- - [The best Meta Quest 2 deal from Black Friday is back with a $50 credit](https://www.theverge.com/2024/1/13/24036568/meta-quest-2-headset-arcade1up-cabinets-bang-olufsen-bluetooth-speaker-deal-sale)
- - [This Smart Mirror Scans Your Face to Evaluate Your Vital Signs     - CNET](https://www.cnet.com/health/medical/this-smart-mirror-scans-your-face-to-evaluate-your-vital-signs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s It Like to Use an iPhone With a Physical Keyboard? I Got a Chance to Find Out     - CNET](https://www.cnet.com/tech/mobile/whats-it-like-to-use-an-iphone-with-a-physical-keyboard-i-got-a-chance-to-find-out/#ftag=CAD590a51e)
+ - [When and How to Weigh Yourself for the Most Accurate Results     - CNET](https://www.cnet.com/health/fitness/when-and-how-to-weigh-yourself-for-the-most-accurate-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

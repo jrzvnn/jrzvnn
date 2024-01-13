@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Werewolf](http://9gag.com/gag/aZDeMGW)
  - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
- - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
- - 💣 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
+ - 💣 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
+ - 😝 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
+ - 👉 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)<!-- MEMES:END -->
 
 ---
 

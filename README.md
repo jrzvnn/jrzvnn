@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
  - 😝 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
- - 😝 [Life hack for parents.](http://9gag.com/gag/armYNXV)
- - 💣 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
+ - 💣 [Satisfying pool break](http://9gag.com/gag/aEq37EK)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)<!-- MEMES:END -->
+ - 👉 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)<!-- MEMES:END -->
 
 ---
 

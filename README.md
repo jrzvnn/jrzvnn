@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Tech&#39;s CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans     - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/#ftag=CAD590a51e)
- - [Georgia Solar Panel Incentives: Solar Loans, Efficiency Rebates     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panel-incentives-solar-loans-efficiency-rebates/#ftag=CAD590a51e)
- - [What to Expect from Samsung Unpacked 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-samsung-unpacked-2024/#ftag=CAD590a51e)
- - [Social Security Payments for January 2024: When Will Your Increased Check Come?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-for-january-2024-when-will-your-increased-check-come/#ftag=CAD590a51e)
- - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)<!-- TECH:END -->
+ - [Baseus Bowie MA10 Wireless Earbuds review: Affordable ANC with compromise](https://appleinsider.com/articles/24/01/13/baseus-bowie-ma10-wireless-earbuds-review-affordable-anc-with-compromise?utm_medium=rss)
+ - [A Bloody Pig Mask Is Just Part of a Wild New Criminal Charge Against eBay](https://www.wired.com/story/ebay-criminal-charge-bloody-pig-mask/)
+ - [At CES, everything was AI, even when it wasn’t](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots)
+ - [How to copy and paste on an iPhone](https://www.theverge.com/24035085/iphone-ios-copy-paste-how-to)
+ - [Big Tech&#39;s CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans     - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What game?](http://9gag.com/gag/agoWvzK)
- - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
- - 💣 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 💣 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)
  - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
  - 👉 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)<!-- MEMES:END -->
 

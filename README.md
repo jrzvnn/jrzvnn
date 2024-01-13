@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)
+ - [iOS 17: Everything You Should Know About Offline Maps     - CNET](https://www.cnet.com/tech/mobile/ios-17-everything-you-should-know-about-offline-maps/#ftag=CAD590a51e)
+ - [11 of the Absolute Best Anime You Should Stream in January 2024     - CNET](https://www.cnet.com/tech/services-and-software/11-absolute-best-anime-you-should-stream/#ftag=CAD590a51e)
  - [US chipmaker Wolfspeed was the only stock in the Philadelphia Stock Exchange Semiconductor index to decline in 2023, amid struggles at its new plant in NY &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240113/p4#a240113p4)
- - [Wild Weather Ahead: Here&#39;s What Comes Next After the Hottest Year on Record     - CNET](https://www.cnet.com/science/climate/wild-weather-ahead-heres-what-comes-next-after-the-hottest-year-on-record/#ftag=CAD590a51e)
- - [CES 2024: The Best Pet Tech We&#39;ve Seen So Far     - CNET](https://www.cnet.com/how-to/ces-2024-the-best-pet-tech-weve-seen-so-far/#ftag=CAD590a51e)
- - [Chelsea vs. Fulham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-fulham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [New Student Loan Plan Will Speed Up Forgiveness for Low-Income Borrowers: Who Qualifies     - CNET](https://www.cnet.com/personal-finance/loans/new-student-loan-plan-will-speed-up-forgiveness-for-low-income-borrowers-who-qualifies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get the Future Today: 21 Gadgets From CES 2024 for Sale Now     - CNET](https://www.cnet.com/deals/get-the-future-today-21-gadgets-from-ces-2024-for-sale-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

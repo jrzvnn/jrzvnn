@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Calm yourself 9gag gentelman](http://9gag.com/gag/aBdpYEN)
  - 😝 [Wild and real &lpar;90s kids too&rpar;](http://9gag.com/gag/aDYyo7w)
  - 💣 [Maybe maybe maybe](http://9gag.com/gag/aQEG40z)
- - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Boys don&#39;t cry.](http://9gag.com/gag/aMEgGw1)<!-- MEMES:END -->
+ - 😝 [Boys don&#39;t cry.](http://9gag.com/gag/aMEgGw1)
+ - 👉 [Give this game a title](http://9gag.com/gag/aQEG8Z8)<!-- MEMES:END -->
 
 ---
 

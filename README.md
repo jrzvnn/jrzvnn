@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my opinion](http://9gag.com/gag/aL1xPAW)
- - 😝 [Dark and fun](http://9gag.com/gag/aYV9LEx)
- - 💣 [A loyal friend](http://9gag.com/gag/aMEg9DA)
+ - 😝 [Lol !](http://9gag.com/gag/adPEXED)
+ - 😝 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)
+ - 💣 [Why he flipped](http://9gag.com/gag/ap9OvdW)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [That prank escalated quickly. &lpar;Felt good to see all of them having fun&rpar;](http://9gag.com/gag/aA0jrXg)<!-- MEMES:END -->
+ - 👉 [Not like this](http://9gag.com/gag/a4ov9qQ)<!-- MEMES:END -->
 
 ---
 

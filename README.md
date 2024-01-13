@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
  - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 😝 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
- - 💣 [Satisfying pool break](http://9gag.com/gag/aEq37EK)
+ - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)<!-- MEMES:END -->
+ - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
 
 ---
 

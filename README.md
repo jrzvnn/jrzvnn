@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI news curation service Artifact is closing down very soon](https://appleinsider.com/articles/24/01/13/ai-news-curation-service-artifact-is-closing-down-very-soon?utm_medium=rss)
+ - [Daily deals Jan. 12: $50 off Magic Keyboard &amp; Case for iPad Pro, 31% off iPad Pro, $60 off AirPods Pro 2, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-12-50-off-magic-keyboard-case-for-ipad-pro-31-off-ipad-pro-60-off-airpods-pro-2-more?utm_medium=rss)
+ - [Best Cheap VPN for 2024: Privacy on a Budget     - CNET](https://www.cnet.com/tech/services-and-software/best-cheap-vpn/#ftag=CAD590a51e)
  - [The tech industry’s layoffs and hiring freezes: all of the news](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)
- - [A joint US-China research effort finds that graphene can act as a semiconductor, but experts say graphene chips face immense manufacturing hurdles &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p20#a240112p20)
- - [The Quirky, Cool and Unusual at CES 2024 video     - CNET](https://www.cnet.com/videos/the-quirky-cool-and-unusual-at-ces-2024/#ftag=CAD590a51e)
- - [Best of CES 2024: The Coolest Gadgets video     - CNET](https://www.cnet.com/videos/best-of-ces-2024-the-coolest-gadgets/#ftag=CAD590a51e)
- - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A joint US-China research effort finds that graphene can act as a semiconductor, but experts say graphene chips face immense manufacturing hurdles and costs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240112/p20#a240112p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

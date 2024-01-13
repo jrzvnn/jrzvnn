@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)
  - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
  - [Protect Your Passwords With This $20 Discount on Dashlane Premium     - CNET](https://www.cnet.com/deals/protect-your-passwords-with-this-20-discount-on-dashlane-premium/#ftag=CAD590a51e)
  - [Browns vs. Texans Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-texans-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
- - [Lubbock, Texas, Residents Need to Choose a New Electric Provider by Feb.15     - CNET](https://www.cnet.com/news/lubbock-texas-residents-need-to-choose-a-new-electric-provider-by-feb-15/#ftag=CAD590a51e)
- - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)<!-- TECH:END -->
+ - [Lubbock, Texas, Residents Need to Choose a New Electric Provider by Feb.15     - CNET](https://www.cnet.com/news/lubbock-texas-residents-need-to-choose-a-new-electric-provider-by-feb-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

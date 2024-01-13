@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
  - 😝 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 💣 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)<!-- MEMES:END -->
+ - 👉 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very Thai.](http://9gag.com/gag/avQNZzM)
- - 😝 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
+ - 😝 [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [17 years isn\u2019t long enough!!](http://9gag.com/gag/avQN09Z)
  - 💣 [...](http://9gag.com/gag/aGEXRqn)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)<!-- MEMES:END -->
+ - 👉 [Give this game a title](http://9gag.com/gag/aQEG8Z8)<!-- MEMES:END -->
 
 ---
 

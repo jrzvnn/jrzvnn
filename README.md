@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
- - 😝 [Please, &lpar;don\u2019t&rpar; stop!](http://9gag.com/gag/aZDeM3Q)
- - 💣 [Remember the guy who flew like Superman and assaulted the judge? Here&#39;s a video update.....](http://9gag.com/gag/anz6qp5)
+ - 😝 [Werewolf](http://9gag.com/gag/aZDeMGW)
+ - 😝 [...](http://9gag.com/gag/aGEXRqn)
+ - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
  - 👉 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)<!-- MEMES:END -->
 

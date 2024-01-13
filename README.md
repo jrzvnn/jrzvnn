@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
- - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
+ - 😝 [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
  - 💣 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)<!-- MEMES:END -->
+ - 👉 [Not like this](http://9gag.com/gag/a4ov9qQ)<!-- MEMES:END -->
 
 ---
 

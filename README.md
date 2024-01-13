@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google pulls global crypto apps, including Binance and Kraken, from the Play Store in India, after they were flagged for operating &quot;illegally&quot; in December 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240113/p6#a240113p6)
+ - [Boost Your Eye Health With These 10 Simple Tips     - CNET](https://www.cnet.com/health/personal-care/boost-your-eye-health-with-these-10-simple-tips/#ftag=CAD590a51e)
  - [Pokémon Scarlet and Violet could have been so much more](https://www.theverge.com/2024/1/13/24035986/pokemon-scarlet-and-violet-indigo-disk-mochi-mayhem)
- - [What We Didn&#39;t Get at CES 2024     - CNET](https://www.cnet.com/tech/what-we-didnt-get-at-ces-2024/#ftag=CAD590a51e)
- - [How the Scandinavian Sleep Method Can Save Your Sleep and Your Relationship     - CNET](https://www.cnet.com/health/sleep/how-the-scandinavian-sleep-method-can-save-your-sleep-and-your-relationship/#ftag=CAD590a51e)
- - [Chainalysis analysis of 400 crypto wallets of CSAM sellers: revenue is down since 2021, but sellers are using mixers and privacy coins to evade law enforcement &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240113/p5#a240113p5)
- - [Grab Rokform Phone Cases, Mounts and More for 25% Off     - CNET](https://www.cnet.com/deals/grab-rokform-phone-cases-mounts-and-more-for-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab a Ruggable Carpet and Save 15% With This Flash Sale     - CNET](https://www.cnet.com/deals/grab-a-ruggable-carpet-and-save-15-with-this-flash-sale/#ftag=CAD590a51e)
+ - [What We Didn&#39;t Get at CES 2024     - CNET](https://www.cnet.com/tech/what-we-didnt-get-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)
- - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)
- - [iOS 17: Everything You Should Know About Offline Maps     - CNET](https://www.cnet.com/tech/mobile/ios-17-everything-you-should-know-about-offline-maps/#ftag=CAD590a51e)
- - [11 of the Absolute Best Anime You Should Stream in January 2024     - CNET](https://www.cnet.com/tech/services-and-software/11-absolute-best-anime-you-should-stream/#ftag=CAD590a51e)
- - [US chipmaker Wolfspeed was the only stock in the Philadelphia Stock Exchange Semiconductor index to decline in 2023, amid struggles at its new plant in NY &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240113/p4#a240113p4)<!-- TECH:END -->
+ - [Big Tech&#39;s CES 2024 Sustainability Goals: More Recycled Materials, Longer Lifespans     - CNET](https://www.cnet.com/tech/mobile/big-techs-ces-2024-sustainability-goals-more-recycled-materials-longer-lifespans/#ftag=CAD590a51e)
+ - [Georgia Solar Panel Incentives: Solar Loans, Efficiency Rebates     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panel-incentives-solar-loans-efficiency-rebates/#ftag=CAD590a51e)
+ - [What to Expect from Samsung Unpacked 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-samsung-unpacked-2024/#ftag=CAD590a51e)
+ - [Social Security Payments for January 2024: When Will Your Increased Check Come?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-for-january-2024-when-will-your-increased-check-come/#ftag=CAD590a51e)
+ - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

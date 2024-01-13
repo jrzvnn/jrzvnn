@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What game?](http://9gag.com/gag/agoWvzK)
  - 😝 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
- - 💣 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 💣 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Not like this](http://9gag.com/gag/a4ov9qQ)<!-- MEMES:END -->
+ - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---
 

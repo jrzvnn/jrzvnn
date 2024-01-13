@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan 13: 15&quot; MacBook Air $1,049, MacBook Pro sale, Apple Watch Ultra $599, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-13-15-macbook-air-1049-macbook-pro-sale-apple-watch-ultra-599-more?utm_medium=rss)
  - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
  - [Anthropic researchers: AI models can be trained to deceive and the most commonly used AI safety techniques had little to no effect on the deceptive behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240113/p9#a240113p9)
  - [Hands on with Clicks Creator Keyboard case for iPhone](https://appleinsider.com/articles/24/01/13/hands-on-with-clicks-creator-keyboard-case-for-iphone?utm_medium=rss)
- - [Apple Watch SE &lpar;2022&rpar; Deals: Save Up to $50 in Direct Discounts, Free Apple Fitness Plus and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)
- - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)<!-- TECH:END -->
+ - [Apple Watch SE &lpar;2022&rpar; Deals: Save Up to $50 in Direct Discounts, Free Apple Fitness Plus and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

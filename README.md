@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Werewolf](http://9gag.com/gag/aZDeMGW)
- - 😝 [...](http://9gag.com/gag/aGEXRqn)
- - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
+ - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
+ - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [I- i&#39;d love her.](http://9gag.com/gag/aEq3Grp)<!-- MEMES:END -->
+ - 👉 [Please, &lpar;don\u2019t&rpar; stop!](http://9gag.com/gag/aZDeM3Q)<!-- MEMES:END -->
 
 ---
 

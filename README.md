@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
  - [Hands on with Clicks Creator Keyboard case for iPhone](https://appleinsider.com/articles/24/01/13/hands-on-with-clicks-creator-keyboard-case-for-iphone?utm_medium=rss)
  - [SIA expects global semiconductor sales to recover and grow 13% in 2024 to $588B thanks to high-priced AI chips, but some analysts question the speed of recovery &lpar;Financial Times&rpar;](http://www.techmeme.com/240113/p8#a240113p8)
  - [Best GoPro Deals: Save $50 on Hero 12, Hero 11, $100 on Max     - CNET](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)
- - [Best Nintendo Switch Deals: Save Up to $56 on Nintendo Switch Lite, Refurbished Models, Accessories and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
- - [AI at CES 2024: Take a Look at the Coolest Tech From the Show     - CNET](https://www.cnet.com/pictures/coolest-ai-tech-ces-2024-weve-seen-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Nintendo Switch Deals: Save Up to $56 on Nintendo Switch Lite, Refurbished Models, Accessories and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at TikTok&#39;s dogged e-commerce push by subsidizing sales and promoting sellers in user feeds, as ad sales weaken and social media stagnates &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240113/p3#a240113p3)
  - [The hack of the @SECGov X account highlights security gaps at the agency, which wasn&#39;t fully adhering to the federal cybersecurity standards as of last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240113/p2#a240113p2)
  - [Security researchers at Recorded Future detail various ways criminals are frequently abusing GitHub&#39;s infrastructure to support and deliver malware &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240113/p1#a240113p1)
  - [In a countersuit, Carta&#39;s ex-CTO Jerry Talton accuses CEO Henry Ward of misusing company resources and claims he was fired for expressing concerns to the board &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/240112/p24#a240112p24)
- - [Nearly 500 South Korean startups set up booths at CES 2024&#39;s Eureka Park, the most by one country in terms of government-subsidized participation in the zone &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240112/p23#a240112p23)
- - [Best TV Deals: Save Up to $700 on Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nearly 500 South Korean startups set up booths at CES 2024&#39;s Eureka Park, the most by one country in terms of government-subsidized participation in the zone &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240112/p23#a240112p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [QRD Stellar T3 Wireless Joycon Controller review: large and in charge, yet precise](https://appleinsider.com/articles/24/01/13/qrd-stellar-t3-wireless-joycon-controller-review-large-and-in-charge-yet-precise?utm_medium=rss)
  - [Galaxy S22 Deals: Save on Direct Discounts, Trade-In Offers and Carrier Plans     - CNET](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
  - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
  - [Daily deals Jan 13: 15&quot; MacBook Air $1,049, MacBook Pro sale, Apple Watch Ultra $599, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-13-15-macbook-air-1049-macbook-pro-sale-apple-watch-ultra-599-more?utm_medium=rss)
- - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
- - [Dolphins vs. Chiefs Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-chiefs-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

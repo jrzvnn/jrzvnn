@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)
  - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)
  - [iOS 17: Everything You Should Know About Offline Maps     - CNET](https://www.cnet.com/tech/mobile/ios-17-everything-you-should-know-about-offline-maps/#ftag=CAD590a51e)
  - [11 of the Absolute Best Anime You Should Stream in January 2024     - CNET](https://www.cnet.com/tech/services-and-software/11-absolute-best-anime-you-should-stream/#ftag=CAD590a51e)
- - [US chipmaker Wolfspeed was the only stock in the Philadelphia Stock Exchange Semiconductor index to decline in 2023, amid struggles at its new plant in NY &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240113/p4#a240113p4)
- - [Get the Future Today: 21 Gadgets From CES 2024 for Sale Now     - CNET](https://www.cnet.com/deals/get-the-future-today-21-gadgets-from-ces-2024-for-sale-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US chipmaker Wolfspeed was the only stock in the Philadelphia Stock Exchange Semiconductor index to decline in 2023, amid struggles at its new plant in NY &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240113/p4#a240113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

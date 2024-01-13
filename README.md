@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 💣 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 😝 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 💣 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)<!-- MEMES:END -->
+ - 👉 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Understanding CPU job scheduling for Apple Silicon game development](https://appleinsider.com/inside/apple-silicon/tips/understanding-cpu-job-scheduling-for-apple-silicon-game-development?utm_medium=rss)
- - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)
- - [WowMouse turns your smartwatch into a gesture-based Bluetooth mouse](https://www.theverge.com/2024/1/13/24037132/wowmouse-wear-os-samsung-galaxy-watch-bluetooth-mouse-gesture-control-doublepoint)
- - [What&#39;s It Like to Use an iPhone With a Physical Keyboard? I Got a Chance to Find Out     - CNET](https://www.cnet.com/tech/mobile/whats-it-like-to-use-an-iphone-with-a-physical-keyboard-i-got-a-chance-to-find-out/#ftag=CAD590a51e)
- - [When and How to Weigh Yourself for the Most Accurate Results     - CNET](https://www.cnet.com/health/fitness/when-and-how-to-weigh-yourself-for-the-most-accurate-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Protect Your Passwords With This $20 Discount on Dashlane Premium     - CNET](https://www.cnet.com/deals/protect-your-passwords-with-this-20-discount-on-dashlane-premium/#ftag=CAD590a51e)
+ - [Browns vs. Texans Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-texans-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
+ - [Lubbock, Texas, Residents Need to Choose a New Electric Provider by Feb.15     - CNET](https://www.cnet.com/news/lubbock-texas-residents-need-to-choose-a-new-electric-provider-by-feb-15/#ftag=CAD590a51e)
+ - [Interoperability across ecosystems was one of CES 2024&#39;s main themes, with widespread support for Qi2 wireless charging perhaps being the most significant shift &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240113/p7#a240113p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

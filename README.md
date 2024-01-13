@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We found the smartest gadgets for every room in your home](https://www.theverge.com/24026790/smart-home-gadgets-ces-samsung-ballie-matic-robot-vacuum)
  - [Google pulls Binance, Kraken, and other global crypto apps from the Play Store in India, after the country flagged them for operating illegally in December 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240113/p6#a240113p6)
  - [Boost Your Eye Health With These 10 Simple Tips     - CNET](https://www.cnet.com/health/personal-care/boost-your-eye-health-with-these-10-simple-tips/#ftag=CAD590a51e)
  - [Pokémon Scarlet and Violet could have been so much more](https://www.theverge.com/2024/1/13/24035986/pokemon-scarlet-and-violet-indigo-disk-mochi-mayhem)
- - [Grab a Ruggable Carpet and Save 15% With This Flash Sale     - CNET](https://www.cnet.com/deals/grab-a-ruggable-carpet-and-save-15-with-this-flash-sale/#ftag=CAD590a51e)
- - [What We Didn&#39;t Get at CES 2024     - CNET](https://www.cnet.com/tech/what-we-didnt-get-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab a Ruggable Carpet and Save 15% With This Flash Sale     - CNET](https://www.cnet.com/deals/grab-a-ruggable-carpet-and-save-15-with-this-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

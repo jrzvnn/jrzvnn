@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
- - 😝 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)
- - 💣 [I know, it is not funny anymore, poor citizens of brave russia are suffering!](http://9gag.com/gag/a7qQ5ne)
+ - 😝 [Very Thai.](http://9gag.com/gag/avQNZzM)
+ - 😝 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
+ - 💣 [...](http://9gag.com/gag/aGEXRqn)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Please, &lpar;don\u2019t&rpar; stop!](http://9gag.com/gag/aZDeM3Q)<!-- MEMES:END -->
+ - 👉 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly 500 South Korean startups set up booths at CES 2024&#39;s Eureka Park, the most by one country in terms of government-subsidized participation in the zone &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240112/p23#a240112p23)
  - [Best TV Deals: Save Up to $700 on Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Indian crypto exchange WazirX says deposit inflows jumped ~250% in the four days after India blocked nine offshore platforms on Dec. 28; ~70% came from Binance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240112/p22#a240112p22)
  - [GameStop plans to shut down its NFT marketplace on February 2, 2024, due to &quot;continuing regulatory uncertainty&quot;, after launching the platform in October 2022 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/240112/p21#a240112p21)
- - [AI news curation service Artifact is closing down very soon](https://appleinsider.com/articles/24/01/13/ai-news-curation-service-artifact-is-closing-down-very-soon?utm_medium=rss)
- - [CES 2024 Health Tech: The Things That May Actually Improve Your Wellness     - CNET](https://www.cnet.com/health/ces-2024-health-tech-the-things-that-may-actually-improve-your-wellness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI news curation service Artifact is closing down very soon](https://appleinsider.com/articles/24/01/13/ai-news-curation-service-artifact-is-closing-down-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

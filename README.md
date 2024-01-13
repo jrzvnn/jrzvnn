@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chainalysis analysis of 400 crypto wallets of CSAM sellers: revenue is down since 2021, but sellers are using mixers and privacy coins to evade law enforcement &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240113/p5#a240113p5)
  - [Baseus Bowie MA10 Wireless Earbuds review: Affordable ANC with compromise](https://appleinsider.com/articles/24/01/13/baseus-bowie-ma10-wireless-earbuds-review-affordable-anc-with-compromise?utm_medium=rss)
+ - [The xTool S1 Laser Cutter Review: A Great Diode Laser With a Giant Price Tag     - CNET](https://www.cnet.com/tech/computing/the-xtool-s1-laser-cutter-review-a-great-diode-laser-with-a-giant-price-tag/#ftag=CAD590a51e)
  - [A Bloody Pig Mask Is Just Part of a Wild New Criminal Charge Against eBay](https://www.wired.com/story/ebay-criminal-charge-bloody-pig-mask/)
- - [At CES, everything was AI, even when it wasn’t](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots)
- - [How to copy and paste on an iPhone](https://www.theverge.com/24035085/iphone-ios-copy-paste-how-to)<!-- TECH:END -->
+ - [Best Internet Providers in Phoenix, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

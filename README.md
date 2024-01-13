@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/aQEG40z)
- - 😝 [Boys don&#39;t cry.](http://9gag.com/gag/aMEgGw1)
- - 💣 [MORE!!!](http://9gag.com/gag/adPEXeZ)
+ - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 💣 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [Give this game a title](http://9gag.com/gag/aQEG8Z8)<!-- MEMES:END -->
+ - 👉 [Somebody unlock this man&#39;s chastity belt.](http://9gag.com/gag/aL1xKN5)<!-- MEMES:END -->
 
 ---
 

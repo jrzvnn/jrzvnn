@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
- - 😝 [Now that is cool technology!](http://9gag.com/gag/abv7qQL)
- - 💣 [Ultra chad](http://9gag.com/gag/a8qZLv3)
+ - 😝 [I wonder what it feels like getting kicked by this horse? What breed cap?](http://9gag.com/gag/a04B8mQ)
+ - 😝 [Company Sells Free water by putting ads on the bottle](http://9gag.com/gag/aWGzQv2)
+ - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [Parallax Effect](http://9gag.com/gag/aQEGPDK)<!-- MEMES:END -->
+ - 👉 [What game?](http://9gag.com/gag/agoWvzK)<!-- MEMES:END -->
 
 ---
 

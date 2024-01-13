@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They know a thing or two](http://9gag.com/gag/a8qZ4N6)
- - 😝 [MORE!!!](http://9gag.com/gag/adPEXeZ)
- - 💣 [Life hack for parents.](http://9gag.com/gag/armYNXV)
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 😝 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
+ - 💣 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)<!-- MEMES:END -->
+ - 👉 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)<!-- MEMES:END -->
 
 ---
 

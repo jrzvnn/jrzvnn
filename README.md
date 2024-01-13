@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what it feels like getting kicked by this horse? What breed cap?](http://9gag.com/gag/a04B8mQ)
- - 😝 [Company Sells Free water by putting ads on the bottle](http://9gag.com/gag/aWGzQv2)
- - 💣 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [Give this game a title](http://9gag.com/gag/aQEG8Z8)
+ - 😝 [...](http://9gag.com/gag/aGEXRqn)
+ - 💣 [Ultra chad](http://9gag.com/gag/a8qZLv3)
  - 😝 [New year, old me. Keep your new year spirit alive because OnePlus Nord is preparing a delightful surprise for you. Look at the description!](http://9gag.com/gag/a8qZj4e)
- - 👉 [What game?](http://9gag.com/gag/agoWvzK)<!-- MEMES:END -->
+ - 👉 [How to build a parkour trap](http://9gag.com/gag/a7qQbYA)<!-- MEMES:END -->
 
 ---
 

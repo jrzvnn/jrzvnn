@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [MORE!!!](http://9gag.com/gag/adPEXeZ)
+ - 😝 [That prank escalated quickly. &lpar;Felt good to see all of them having fun&rpar;](http://9gag.com/gag/aA0jrXg)
+ - 💣 [How my wife wants me to reply](http://9gag.com/gag/aGEX06K)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
+ - 👉 [Life hack for parents.](http://9gag.com/gag/armYNXV)<!-- MEMES:END -->
 
 ---
 

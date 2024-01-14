@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 💣 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 💣 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
  - 👉 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)<!-- MEMES:END -->
 
 ---

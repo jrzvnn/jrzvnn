@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple asks its San Diego Siri quality control team to relocate to Texas](https://www.theverge.com/2024/1/14/24037904/apple-san-diego-siri-ai-team-relocating)
  - [This Smart Pillow Uses AI to Adjust Your Head and Keep You From Snoring     - CNET](https://www.cnet.com/health/sleep/this-smart-pillow-uses-ai-to-adjust-your-head-and-keep-you-from-snoring/#ftag=CAD590a51e)
  - [Want to Quit Drinking? Use These 8 Strategies to Make It a Reality     - CNET](https://www.cnet.com/health/medical/want-to-quit-drinking-use-these-8-strategies-to-make-it-a-reality/#ftag=CAD590a51e)
  - [Vision Pro demos will include scanning your glasses to identify your prescription](https://www.theverge.com/2024/1/14/24037822/apple-vision-pro-store-demos-release)
- - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)
- - [Belkin will sell Apple Vision Pro battery clip in time for launch](https://appleinsider.com/articles/24/01/14/belkin-will-sell-apple-vision-pro-battery-clip-in-time-for-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

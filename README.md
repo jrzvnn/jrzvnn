@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
- - 😝 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)
- - 💣 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 😝 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
+ - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
+ - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)<!-- MEMES:END -->
+ - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)
- - 😝 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
- - 💣 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
+ - 💣 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [What did you see?](http://9gag.com/gag/a3ZmLG5)<!-- MEMES:END -->
+ - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---
 

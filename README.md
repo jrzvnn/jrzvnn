@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real G](http://9gag.com/gag/az2n8OK)
- - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
- - 💣 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
+ - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 💣 [Aids kaboom? Yes Rico, kaboom](http://9gag.com/gag/aYV9K0q)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)<!-- MEMES:END -->
+ - 👉 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)<!-- MEMES:END -->
 
 ---
 

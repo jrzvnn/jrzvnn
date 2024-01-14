@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
- - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
- - 👉 [Always has been](http://9gag.com/gag/az2nXxm)<!-- MEMES:END -->
+ - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
+ - 💣 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---
 

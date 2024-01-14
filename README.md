@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
  - 😝 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)
- - 💣 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 😝 [And for no valid reason](http://9gag.com/gag/a7qQZew)
+ - 💣 [And for no valid reason](http://9gag.com/gag/a7qQZew)
+ - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
  - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
 
 ---

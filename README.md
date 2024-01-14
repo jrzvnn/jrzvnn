@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
- - 😝 [Down with the system](http://9gag.com/gag/aeQLeGB)
- - 💣 [Werewolf](http://9gag.com/gag/aZDeMGW)
- - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 👉 [Go Horse!!!](http://9gag.com/gag/adPE9gd)<!-- MEMES:END -->
+ - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Laptops of CES 2024     - CNET](https://www.cnet.com/tech/computing/best-laptops-of-ces-2024/#ftag=CAD590a51e)
+ - [Use These 8 Hacks to Make 2024 Your Most Productive Year Yet     - CNET](https://www.cnet.com/health/mental/use-these-8-hacks-to-make-2024-your-most-productive-year-yet/#ftag=CAD590a51e)
  - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)
- - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
- - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)
- - [’Tis the season for AI apps and AI gadgets](https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter)
- - [From AI to Mixed Reality, CES 2024 Products Imagine a World Beyond Mobile Apps     - CNET](https://www.cnet.com/tech/mobile/from-ai-to-mixed-reality-ces-2024-products-imagine-a-world-beyond-mobile-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Man United vs. Tottenham Hotspur Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-tottenham-hotspur-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [This Discreet Smart Ring Health Tracker Survived &lpar;and Thrived at&rpar; CES 2024     - CNET](https://www.cnet.com/health/medical/this-discreet-smart-ring-health-tracker-survived-and-thrived-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

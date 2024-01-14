@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
- - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
- - 💣 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)<!-- MEMES:END -->
+ - 😝 [Karma doing its thing](http://9gag.com/gag/aXnBvBP)
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 💣 [Go Horse!!!](http://9gag.com/gag/adPE9gd)
+ - 😝 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
+ - 👉 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)<!-- MEMES:END -->
 
 ---
 

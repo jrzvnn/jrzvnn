@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin will sell Apple Vision Pro battery clip in time for launch](https://appleinsider.com/articles/24/01/14/belkin-will-sell-apple-vision-pro-battery-clip-in-time-for-launch?utm_medium=rss)
+ - [Sources detail the Vision Pro&#39;s in-store sales process, which includes extensive fitting and calibration and an employee-guided demo lasting up to 25 minutes &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p3#a240114p3)
  - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)
  - [Prince of Persia: The Lost Crown is part metroidvania, part soulslike, and all fun](https://www.theverge.com/24035933/prince-of-persia-the-lost-crown-review-ubisoft)
- - [Best Laptops of CES 2024     - CNET](https://www.cnet.com/tech/computing/best-laptops-of-ces-2024/#ftag=CAD590a51e)
- - [Use These 8 Hacks to Make 2024 Your Most Productive Year Yet     - CNET](https://www.cnet.com/health/mental/use-these-8-hacks-to-make-2024-your-most-productive-year-yet/#ftag=CAD590a51e)
- - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Best Laptops of CES 2024     - CNET](https://www.cnet.com/tech/computing/best-laptops-of-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

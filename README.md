@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 💣 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
+ - 😝 [And for no valid reason](http://9gag.com/gag/a7qQZew)
+ - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 

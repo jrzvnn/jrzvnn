@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Paris Rhone SP005 True 4K Ultra HD Projector review: Minimalistic design with detailed projections](https://appleinsider.com/articles/24/01/14/paris-rhone-sp005-true-4k-ultra-hd-projector-review-minimalistic-design-with-detailed-projections?utm_medium=rss)
+ - [Rams vs. Lions Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-lions-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
  - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network?utm_medium=rss)
- - [FedEx is launching a new e-commerce platform as it competes with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
- - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)
- - [Best Garmin Deals: Save Up to $450 on Watches, GPS Trackers and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $100 in Direct Discounts and Up to $850 of Trade-In Credit     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
+ - [Best Mac VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

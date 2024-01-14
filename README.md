@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)
+ - [Prince of Persia: The Lost Crown is part metroidvania, part soulslike, and all fun](https://www.theverge.com/24035933/prince-of-persia-the-lost-crown-review-ubisoft)
  - [Best Laptops of CES 2024     - CNET](https://www.cnet.com/tech/computing/best-laptops-of-ces-2024/#ftag=CAD590a51e)
  - [Use These 8 Hacks to Make 2024 Your Most Productive Year Yet     - CNET](https://www.cnet.com/health/mental/use-these-8-hacks-to-make-2024-your-most-productive-year-yet/#ftag=CAD590a51e)
- - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)
- - [Man United vs. Tottenham Hotspur Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-tottenham-hotspur-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [This Discreet Smart Ring Health Tracker Survived &lpar;and Thrived at&rpar; CES 2024     - CNET](https://www.cnet.com/health/medical/this-discreet-smart-ring-health-tracker-survived-and-thrived-at-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Akko MOD007B Mechanical Keyboard review: beautiful design and solid quality in a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

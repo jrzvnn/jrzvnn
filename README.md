@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 💣 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 👉 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)<!-- MEMES:END -->
+ - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
+ - 😝 [Down with the system](http://9gag.com/gag/aeQLeGB)
+ - 💣 [Werewolf](http://9gag.com/gag/aZDeMGW)
+ - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
+ - 👉 [Go Horse!!!](http://9gag.com/gag/adPE9gd)<!-- MEMES:END -->
 
 ---
 

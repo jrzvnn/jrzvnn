@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
+ - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
+ - 💣 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
  - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
- - 💣 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 👉 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)<!-- MEMES:END -->
+ - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 💣 [What game?](http://9gag.com/gag/agoWvzK)
+ - 😝 [What did you see?](http://9gag.com/gag/a3ZmLG5)
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 💣 [Life hack for parents.](http://9gag.com/gag/armYNXV)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
+ - 👉 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)<!-- MEMES:END -->
 
 ---
 

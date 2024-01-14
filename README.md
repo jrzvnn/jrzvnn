@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [CES 2024 was all about &quot;AI&quot;, with many companies rebranding anything involving algorithms as AI and running the risk of overpromising to consumers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240113/p10#a240113p10)
  - [QRD Stellar T3 Wireless Joycon Controller review: large and in charge, yet precise](https://appleinsider.com/articles/24/01/13/qrd-stellar-t3-wireless-joycon-controller-review-large-and-in-charge-yet-precise?utm_medium=rss)
+ - [AFCON Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/afcon-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Galaxy S22 Deals: Save on Direct Discounts, Trade-In Offers and Carrier Plans     - CNET](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
- - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
- - [Daily deals Jan 13: 15&quot; MacBook Air $1,049, MacBook Pro sale, Apple Watch Ultra $599, more](https://appleinsider.com/articles/24/01/13/daily-deals-jan-13-15-macbook-air-1049-macbook-pro-sale-apple-watch-ultra-599-more?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

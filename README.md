@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Werewolf](http://9gag.com/gag/aZDeMGW)
- - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 💣 [Down with the system](http://9gag.com/gag/aeQLeGB)
- - 😝 [Price rise is scary](http://9gag.com/gag/amA3YOd)
- - 👉 [Mishel](http://9gag.com/gag/ay2GDKY)<!-- MEMES:END -->
+ - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
+ - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
+ - 💣 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 👉 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)<!-- MEMES:END -->
 
 ---
 

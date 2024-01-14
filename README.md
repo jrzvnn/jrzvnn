@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
- - 😝 [And for no valid reason](http://9gag.com/gag/a7qQZew)
- - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
+ - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 💣 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
+ - 👉 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)<!-- MEMES:END -->
 
 ---
 

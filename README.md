@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Pro demos will include scanning your glasses to identify your prescription](https://www.theverge.com/2024/1/14/24037822/apple-vision-pro-store-demos-release)
  - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)
  - [Belkin will sell Apple Vision Pro battery clip in time for launch](https://appleinsider.com/articles/24/01/14/belkin-will-sell-apple-vision-pro-battery-clip-in-time-for-launch?utm_medium=rss)
  - [Sources detail the Vision Pro&#39;s in-store sales process, which includes extensive fitting and calibration and an employee-guided demo lasting up to 25 minutes &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p3#a240114p3)
- - [I Tried a Wristband at CES That Tests Agility. The Results Were Surprising     - CNET](https://www.cnet.com/tech/mobile/i-tried-the-wristband-that-a-nascar-driver-wears-to-stay-alert/#ftag=CAD590a51e)
- - [Prince of Persia: The Lost Crown is part metroidvania, part soulslike, and all fun](https://www.theverge.com/24035933/prince-of-persia-the-lost-crown-review-ubisoft)<!-- TECH:END -->
+ - [I Tried a Wristband at CES That Tests Agility. The Results Were Surprising     - CNET](https://www.cnet.com/tech/mobile/i-tried-the-wristband-that-a-nascar-driver-wears-to-stay-alert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

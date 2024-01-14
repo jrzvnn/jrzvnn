@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 😝 [Entertainment worthy of a man](http://9gag.com/gag/aVbAMx8)
- - 💣 [Price rise is scary](http://9gag.com/gag/amA3YOd)
- - 😝 [Mishel](http://9gag.com/gag/ay2GDKY)
+ - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 💣 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
  - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---

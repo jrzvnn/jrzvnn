@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entertainment worthy of a man](http://9gag.com/gag/aVbAMx8)
- - 😝 [Mishel](http://9gag.com/gag/ay2GDKY)
- - 💣 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 👉 [Go Horse!!!](http://9gag.com/gag/adPE9gd)<!-- MEMES:END -->
+ - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
+ - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
+ - 💣 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 👉 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)<!-- MEMES:END -->
 
 ---
 

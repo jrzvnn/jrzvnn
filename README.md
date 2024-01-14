@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 💣 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
- - 😝 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)
- - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
+ - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
+ - 😝 [Entertainment worthy of a man](http://9gag.com/gag/aVbAMx8)
+ - 💣 [Price rise is scary](http://9gag.com/gag/amA3YOd)
+ - 😝 [Mishel](http://9gag.com/gag/ay2GDKY)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 

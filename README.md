@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why he flipped](http://9gag.com/gag/ap9OvdW)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 💣 [Satisfying pool break](http://9gag.com/gag/aEq37EK)
+ - 😝 [The real G](http://9gag.com/gag/az2n8OK)
+ - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
+ - 💣 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
  - 👉 [She&#39;s going to be half out that TV for a while](http://9gag.com/gag/aREne3A)<!-- MEMES:END -->
 

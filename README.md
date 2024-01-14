@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
+ - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)
  - [’Tis the season for AI apps and AI gadgets](https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter)
- - [The Danger of Digitizing Everything](https://www.wired.com/story/the-danger-of-digitizing-everything/)
- - [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
- - [OpenAI&#39;s GPT Store debut is reminiscent of Facebook Platform&#39;s 2007 launch, which allowed Facebook to use third-party developers&#39; products to boost stickiness &lpar;David Karpf/The Atlantic&rpar;](http://www.techmeme.com/240114/p2#a240114p2)
- - [Everton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IRS Change: Here&#39;s What PayPal, Venmo and Cash App Users Need to Know About Their 2023 Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/irs-change-heres-what-paypal-venmo-and-cash-app-users-need-to-know-about-their-2023-taxes/#ftag=CAD590a51e)
+ - [The Danger of Digitizing Everything](https://www.wired.com/story/the-danger-of-digitizing-everything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

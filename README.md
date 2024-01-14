@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title you choose](http://9gag.com/gag/a6qPM8q)
- - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
- - 💣 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)
+ - 😝 [Something foul in the air I would say my dear Watson\u2026](http://9gag.com/gag/anz6y35)
+ - 😝 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)
+ - 💣 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)<!-- MEMES:END -->
+ - 👉 [Price rise is scary](http://9gag.com/gag/amA3YOd)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
- - 💣 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
  - 😝 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
- - 👉 [The exact right amount of love](http://9gag.com/gag/abv7z2B)<!-- MEMES:END -->
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 💣 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disable NameDrop in a Few Quick Steps     - CNET](https://www.cnet.com/tech/mobile/disable-namedrop-in-a-few-quick-steps/#ftag=CAD590a51e)
  - [Only 2 Days Left to Sign Up for Affordable Care Act Health Insurance. Here&#39;s How     - CNET](https://www.cnet.com/health/only-2-days-left-to-sign-up-for-affordable-care-act-health-insurance-heres-how/#ftag=CAD590a51e)
  - [Apple is shutting a 121-person San Diego team of the Data Operations Annotations group, responsible for improving Siri&#39;s accuracy, and moving staff to Austin &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p1#a240114p1)
  - [The NFL and Taylor Swift surprisingly aren’t enough to crash Peacock](https://www.theverge.com/2024/1/13/24037524/peacock-nfl-exclusive-miami-dolphins-kansas-city-chiefs-streaming)
- - [The Oh! Vibrator Elevated the CES Sex Tech Scene This Year     - CNET](https://www.cnet.com/health/personal-care/the-oh-vibrator-elevated-the-ces-sex-tech-scene-this-year/#ftag=CAD590a51e)
- - [Dolphins vs. Chiefs Livestream: How to Watch NFL Wild Card Game Online Today on Peacock     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-chiefs-livestream-how-to-watch-nfl-wild-card-game-online-today-on-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Oh! Vibrator Elevated the CES Sex Tech Scene This Year     - CNET](https://www.cnet.com/health/personal-care/the-oh-vibrator-elevated-the-ces-sex-tech-scene-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

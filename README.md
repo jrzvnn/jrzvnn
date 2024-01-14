@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [OpenAI&#39;s GPT Store debut is reminiscent of Facebook Platform&#39;s 2007 launch, which allowed Facebook to use third-party developers&#39; products to boost stickiness &lpar;David Karpf/The Atlantic&rpar;](http://www.techmeme.com/240114/p2#a240114p2)
  - [Disable NameDrop in a Few Quick Steps     - CNET](https://www.cnet.com/tech/mobile/disable-namedrop-in-a-few-quick-steps/#ftag=CAD590a51e)
  - [Only 2 Days Left to Sign Up for Affordable Care Act Health Insurance. Here&#39;s How     - CNET](https://www.cnet.com/health/only-2-days-left-to-sign-up-for-affordable-care-act-health-insurance-heres-how/#ftag=CAD590a51e)
  - [Apple is shutting a 121-person San Diego team of the Data Operations Annotations group, responsible for improving Siri&#39;s accuracy, and moving staff to Austin &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p1#a240114p1)

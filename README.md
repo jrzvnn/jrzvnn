@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IRS Change: Here&#39;s What PayPal, Venmo and Cash App Users Need to Know About Their 2023 Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/irs-change-heres-what-paypal-venmo-and-cash-app-users-need-to-know-about-their-2023-taxes/#ftag=CAD590a51e)
  - [The Danger of Digitizing Everything](https://www.wired.com/story/the-danger-of-digitizing-everything/)
  - [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
- - [OpenAI&#39;s GPT Store debut is reminiscent of Facebook Platform&#39;s 2007 launch, which allowed Facebook to use third-party developers&#39; products to boost stickiness &lpar;David Karpf/The Atlantic&rpar;](http://www.techmeme.com/240114/p2#a240114p2)
- - [Everton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Disable NameDrop in a Few Quick Steps     - CNET](https://www.cnet.com/tech/mobile/disable-namedrop-in-a-few-quick-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Most Ridiculous and Weird CES Gadgets From the Last 25 Years     - CNET](https://www.cnet.com/tech/computing/the-most-ridiculous-and-weird-tech-gadgets-from-the-last-25-years/#ftag=CAD590a51e)
+ - [OpenAI&#39;s GPT Store debut is reminiscent of Facebook Platform&#39;s 2007 launch, which allowed Facebook to use third-party developers&#39; products to boost stickiness &lpar;David Karpf/The Atlantic&rpar;](http://www.techmeme.com/240114/p2#a240114p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

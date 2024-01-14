@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma doing its thing](http://9gag.com/gag/aXnBvBP)
  - 😝 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
  - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
- - 👉 [Ecuadorian military won the 1st battle against the cartel and gangs, they freed every single hostage and neutralized more than 1000 cartel members Bukele style](http://9gag.com/gag/axo51OK)<!-- MEMES:END -->
+ - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
+ - 👉 [Always has been](http://9gag.com/gag/az2nXxm)<!-- MEMES:END -->
 
 ---
 

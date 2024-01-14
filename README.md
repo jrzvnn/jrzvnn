@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is shutting a 121-person San Diego team of the Data Operations Annotations group, responsible for improving Siri&#39;s accuracy, and moving staff to Austin &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240114/p1#a240114p1)
  - [The NFL and Taylor Swift surprisingly aren’t enough to crash Peacock](https://www.theverge.com/2024/1/13/24037524/peacock-nfl-exclusive-miami-dolphins-kansas-city-chiefs-streaming)
  - [The Oh! Vibrator Elevated the CES Sex Tech Scene This Year     - CNET](https://www.cnet.com/health/personal-care/the-oh-vibrator-elevated-the-ces-sex-tech-scene-this-year/#ftag=CAD590a51e)
  - [Dolphins vs. Chiefs Livestream: How to Watch NFL Wild Card Game Online Today on Peacock     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-chiefs-livestream-how-to-watch-nfl-wild-card-game-online-today-on-peacock/#ftag=CAD590a51e)
- - [CES 2024 was all about &quot;AI&quot;, with many companies rebranding anything involving algorithms as AI and running the risk of overpromising to consumers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240113/p10#a240113p10)
- - [QRD Stellar T3 Wireless Joycon Controller review: large and in charge, yet precise](https://appleinsider.com/articles/24/01/13/qrd-stellar-t3-wireless-joycon-controller-review-large-and-in-charge-yet-precise?utm_medium=rss)<!-- TECH:END -->
+ - [CES 2024 was all about &quot;AI&quot;, with many companies rebranding anything involving algorithms as AI and running the risk of overpromising to consumers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240113/p10#a240113p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

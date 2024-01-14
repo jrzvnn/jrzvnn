@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Akko MOD007B Mechanical Keyboard review: beautiful design, complete customizability, and solid quality make for a near-perfect keyboard](https://appleinsider.com/articles/24/01/14/akko-mod007b-mechanical-keyboard-review-beautiful-design-complete-customizability-and-solid-quality-make-for-a-near-perfect-keyboard?utm_medium=rss)
  - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
  - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)
  - [’Tis the season for AI apps and AI gadgets](https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter)
- - [From AI to Mixed Reality, CES 2024 Products Imagine a World Beyond Mobile Apps     - CNET](https://www.cnet.com/tech/mobile/from-ai-to-mixed-reality-ces-2024-products-imagine-a-world-beyond-mobile-apps/#ftag=CAD590a51e)
- - [IRS Change: Here&#39;s What PayPal, Venmo and Cash App Users Need to Know About Their 2023 Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/irs-change-heres-what-paypal-venmo-and-cash-app-users-need-to-know-about-their-2023-taxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [From AI to Mixed Reality, CES 2024 Products Imagine a World Beyond Mobile Apps     - CNET](https://www.cnet.com/tech/mobile/from-ai-to-mixed-reality-ces-2024-products-imagine-a-world-beyond-mobile-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

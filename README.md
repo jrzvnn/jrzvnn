@@ -165,9 +165,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best USB-C and Thunderbolt docks that debuted at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
  - [Documents show Turkey told ISPs to block access to 16 VPN services, fueling concerns of the government stifling news and information before elections in March &lpar;Adam Samson/Financial Times&rpar;](http://www.techmeme.com/240114/p4#a240114p4)
  - [Hands on with Belkin&#39;s Auto-Tracking Stand Pro with DockKit](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)
- - [The best docks for your Mac to appear at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
  - [Save 20% on Speck iPhone 15 Cases With This CNET Promo     - CNET](https://www.cnet.com/deals/save-20-on-speck-iphone-15-cases-with-this-cnet-promo/#ftag=CAD590a51e)
  - [Tesla Solar Roof Review: A Sleek Look at a Stiff Price     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-roof-is-the-sleekest-solar-option-your-best-one/#ftag=CAD590a51e)<!-- TECH:END -->
 

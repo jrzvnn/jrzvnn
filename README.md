@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
  - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 👉 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)<!-- MEMES:END -->
+ - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---
 

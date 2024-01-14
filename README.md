@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [FedEx is launching a new e-commerce platform as it competes with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
  - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)
+ - [Best Garmin Deals: Save Up to $450 on Watches, GPS Trackers and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
  - [Hands on: Belkin&#39;s Auto-Tracking Stand Pro with DockKit for iPhone](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)
- - [Best USB-C and Thunderbolt docks that debuted at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
- - [This Smart Bed Uses AI Sensors and Strings to Adjust to Your Sleeping Needs     - CNET](https://www.cnet.com/health/sleep/this-smart-bed-uses-ai-sensors-and-strings-to-adjust-to-your-sleeping-needs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best USB-C and Thunderbolt docks that debuted at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

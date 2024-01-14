@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma doing its thing](http://9gag.com/gag/aXnBvBP)
- - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 💣 [Go Horse!!!](http://9gag.com/gag/adPE9gd)
- - 😝 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
- - 👉 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)<!-- MEMES:END -->
+ - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
+ - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 💣 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 😝 [My luck](http://9gag.com/gag/agoWX8w)
+ - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
 
 ---
 

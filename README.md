@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 💣 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
- - 👉 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)<!-- MEMES:END -->
+ - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---
 

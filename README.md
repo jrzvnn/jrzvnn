@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
  - 😝 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)
  - 💣 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [And for no valid reason](http://9gag.com/gag/a7qQZew)<!-- MEMES:END -->
+ - 😝 [And for no valid reason](http://9gag.com/gag/a7qQZew)
+ - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
 
 ---
 

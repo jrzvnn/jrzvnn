@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not sure who won the fight](http://9gag.com/gag/aYV9eBm)
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 💣 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
+ - 😝 [Karma doing its thing](http://9gag.com/gag/aXnBvBP)
+ - 😝 [Yeah dude. It sucks. Escorting yourself out. Sorry the UN sold you a lie](http://9gag.com/gag/a4ovGeQ)
+ - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 👉 [Ecuadorian military won the 1st battle against the cartel and gangs, they freed every single hostage and neutralized more than 1000 cartel members Bukele style](http://9gag.com/gag/axo51OK)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
- - 💣 [Lara Croft cosplay](http://9gag.com/gag/adPEXQd)
+ - 😝 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
+ - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
+ - 💣 [Fook your burger](http://9gag.com/gag/a6qPM4A)
  - 😝 [\ud83c\udf89 OnePlus New Year 50 Phones Massive Giveaway! Let\u2019s start your wonderful year with the blessings from OnePlus! Share your New Year Resolution for this year and get a chance to win a OnePlus Nord!](http://9gag.com/gag/a7qQdj2)
- - 👉 [The real G](http://9gag.com/gag/az2n8OK)<!-- MEMES:END -->
+ - 👉 [Velma?](http://9gag.com/gag/aBdpWNO)<!-- MEMES:END -->
 
 ---
 

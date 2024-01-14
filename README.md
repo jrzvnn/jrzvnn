@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents show Turkey told ISPs to block access to 16 VPN services, fueling concerns of the government stifling news and information before elections in March &lpar;Adam Samson/Financial Times&rpar;](http://www.techmeme.com/240114/p4#a240114p4)
  - [Hands on with Belkin&#39;s Auto-Tracking Stand Pro with DockKit](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)
  - [The best docks for your Mac to appear at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
- - [Apple asks its San Diego Siri quality control team to relocate to Texas](https://www.theverge.com/2024/1/14/24037904/apple-san-diego-siri-ai-team-relocating)
- - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)
- - [Say Hello to Rabbit R1: A Tiny Orange Box That Trades Phone Apps for AI     - CNET](https://www.cnet.com/tech/mobile/this-retro-looking-ai-gadget-wants-to-be-a-better-personal-assistant-than-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 20% on Speck iPhone 15 Cases With This CNET Promo     - CNET](https://www.cnet.com/deals/save-20-on-speck-iphone-15-cases-with-this-cnet-promo/#ftag=CAD590a51e)
+ - [Tesla Solar Roof Review: A Sleek Look at a Stiff Price     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-roof-is-the-sleekest-solar-option-your-best-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

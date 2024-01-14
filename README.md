@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First post in 10 years you f**king degenerates](http://9gag.com/gag/aL1xMwA)
- - 😝 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)
- - 💣 [And for no valid reason](http://9gag.com/gag/a7qQZew)
- - 😝 [Keanu Reeves as Alucard from Hellsing.](http://9gag.com/gag/abv7pEE)
- - 👉 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)<!-- MEMES:END -->
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
+ - 💣 [Lil Bro is having 3am thoughts](http://9gag.com/gag/aWGzm3A)
+ - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
+ - 👉 [Satisfying pool break](http://9gag.com/gag/aEq37EK)<!-- MEMES:END -->
 
 ---
 

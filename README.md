@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)
  - [Hands on: Belkin&#39;s Auto-Tracking Stand Pro with DockKit for iPhone](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)
  - [Best USB-C and Thunderbolt docks that debuted at CES 2024](https://appleinsider.com/articles/24/01/14/the-best-docks-for-your-mac-to-appear-at-ces-2024?utm_medium=rss)
- - [Documents show Turkey told ISPs to block access to 16 VPN services, fueling concerns of the government stifling news and information before elections in March &lpar;Adam Samson/Financial Times&rpar;](http://www.techmeme.com/240114/p4#a240114p4)
- - [Save 20% on Speck iPhone 15 Cases With This CNET Promo     - CNET](https://www.cnet.com/deals/save-20-on-speck-iphone-15-cases-with-this-cnet-promo/#ftag=CAD590a51e)
- - [Tesla Solar Roof Review: A Sleek Look at a Stiff Price     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-solar-roof-is-the-sleekest-solar-option-your-best-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Smart Bed Uses AI Sensors and Strings to Adjust to Your Sleeping Needs     - CNET](https://www.cnet.com/health/sleep/this-smart-bed-uses-ai-sensors-and-strings-to-adjust-to-your-sleeping-needs/#ftag=CAD590a51e)
+ - [Documents show Turkey told ISPs to block access to 16 VPN services, fueling concerns of the government stifling news and information before elections in March &lpar;Adam Samson/Financial Times&rpar;](http://www.techmeme.com/240114/p4#a240114p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

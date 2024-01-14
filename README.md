@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
  - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 💣 [Lil Bro is having 3am thoughts](http://9gag.com/gag/aWGzm3A)
- - 😝 [Been waiting a long time for this](http://9gag.com/gag/aA0jpnZ)
- - 👉 [Satisfying pool break](http://9gag.com/gag/aEq37EK)<!-- MEMES:END -->
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 💣 [In the streets of Paris](http://9gag.com/gag/aoKX9Oe)
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 👉 [I have never thought of that](http://9gag.com/gag/a8qZj2Q)<!-- MEMES:END -->
 
 ---
 

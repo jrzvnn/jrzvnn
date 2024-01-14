@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
+ - 😝 [The real G](http://9gag.com/gag/az2n8OK)
  - 💣 [World is crazy place again](http://9gag.com/gag/ajVpDPG)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
+ - 😝 [Who had `a new plague of insects` for 2024? A city in Brazil has been invaded by little beetles known as `catorra` &lpar;pic on comments&rpar;.](http://9gag.com/gag/aZDeMwz)
+ - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple asks its San Diego Siri quality control team to relocate to Texas](https://www.theverge.com/2024/1/14/24037904/apple-san-diego-siri-ai-team-relocating)
- - [This Smart Pillow Uses AI to Adjust Your Head and Keep You From Snoring     - CNET](https://www.cnet.com/health/sleep/this-smart-pillow-uses-ai-to-adjust-your-head-and-keep-you-from-snoring/#ftag=CAD590a51e)
- - [Want to Quit Drinking? Use These 8 Strategies to Make It a Reality     - CNET](https://www.cnet.com/health/medical/want-to-quit-drinking-use-these-8-strategies-to-make-it-a-reality/#ftag=CAD590a51e)
- - [Vision Pro demos will include scanning your glasses to identify your prescription](https://www.theverge.com/2024/1/14/24037822/apple-vision-pro-store-demos-release)
- - [Apple Vision Pro customers face a 25-minute in-store sales pitch](https://appleinsider.com/articles/24/01/14/apple-vision-pro-customers-face-a-25-minute-in-store-sales-pitch?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)
+ - [Say Hello to Rabbit R1: A Tiny Orange Box That Trades Phone Apps for AI     - CNET](https://www.cnet.com/tech/mobile/this-retro-looking-ai-gadget-wants-to-be-a-better-personal-assistant-than-your-phone/#ftag=CAD590a51e)
+ - [Timberline Solar by GAF Energy Review: A Solid Solar Roof Option     - CNET](https://www.cnet.com/home/energy-and-utilities/gaf-energy-review/#ftag=CAD590a51e)
+ - [How Beets Can Help You Perform Better During Workouts     - CNET](https://www.cnet.com/health/nutrition/how-beets-can-help-you-perform-better-during-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

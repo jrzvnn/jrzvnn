@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Xreal Air 2 Ultra -- The would-be Apple Vision Pro competitor](https://appleinsider.com/articles/24/01/14/hands-on-with-xreal-air-2-ultra----the-would-be-apple-vision-pro-competitor?utm_medium=rss)
+ - [How dye-sensitized solar cells, which are lightweight, bendable, and manufactured cheaply, can capture light indoors to charge small gadgets like headphones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240114/p5#a240114p5)
  - [Best Fitbit Deals: Save Up to $100 on Sense 2, Charge 6, Luxe, and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [Paris Rhone SP005 True 4K Ultra HD Projector review: Minimalistic design with detailed projections](https://appleinsider.com/articles/24/01/14/paris-rhone-sp005-true-4k-ultra-hd-projector-review-minimalistic-design-with-detailed-projections?utm_medium=rss)
- - [Rams vs. Lions Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-lions-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
- - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network?utm_medium=rss)
- - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $100 in Direct Discounts and Up to $850 of Trade-In Credit     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rams vs. Lions Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-lions-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

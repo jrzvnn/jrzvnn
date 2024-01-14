@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dolphins vs. Chiefs Livestream: How to Watch NFL Wild Card Game Online Today on Peacock     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-chiefs-livestream-how-to-watch-nfl-wild-card-game-online-today-on-peacock/#ftag=CAD590a51e)
  - [CES 2024 was all about &quot;AI&quot;, with many companies rebranding anything involving algorithms as AI and running the risk of overpromising to consumers &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240113/p10#a240113p10)
  - [QRD Stellar T3 Wireless Joycon Controller review: large and in charge, yet precise](https://appleinsider.com/articles/24/01/13/qrd-stellar-t3-wireless-joycon-controller-review-large-and-in-charge-yet-precise?utm_medium=rss)
  - [AFCON Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/afcon-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Galaxy S22 Deals: Save on Direct Discounts, Trade-In Offers and Carrier Plans     - CNET](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
  - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

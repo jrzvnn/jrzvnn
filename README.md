@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris Rhone SP005 True 4K Ultra HD Projector review: Minimalistic design with detailed projections](https://appleinsider.com/articles/24/01/14/paris-rhone-sp005-true-4k-ultra-hd-projector-review-minimalistic-design-with-detailed-projections?utm_medium=rss)
  - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network?utm_medium=rss)
  - [FedEx is launching a new e-commerce platform as it competes with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
  - [Daily deals Jan. 14: Apple Watch Series 9 $329, $100 off iPad Air, 53% off Powerbeats Pro, more](https://appleinsider.com/articles/24/01/14/daily-deals-jan-14-apple-watch-series-9-329-100-off-ipad-air-53-off-powerbeats-pro-more?utm_medium=rss)
- - [Best Garmin Deals: Save Up to $450 on Watches, GPS Trackers and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Hands on: Belkin&#39;s Auto-Tracking Stand Pro with DockKit for iPhone](https://appleinsider.com/articles/24/01/14/hands-on-with-belkins-auto-tracking-stand-pro-with-dockkit?utm_medium=rss)<!-- TECH:END -->
+ - [Best Garmin Deals: Save Up to $450 on Watches, GPS Trackers and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

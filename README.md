@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
- - 💣 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
- - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
- - 👉 [Can&#39;t ride in peace](http://9gag.com/gag/avQN82X)<!-- MEMES:END -->
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
+ - 💣 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
+ - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
 
 ---
 

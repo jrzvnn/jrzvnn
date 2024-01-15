@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
  - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 💣 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
- - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
+ - 💣 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [True facts](http://9gag.com/gag/armY5XK)<!-- MEMES:END -->
 
 ---
 

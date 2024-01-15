@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the certified Wi-Fi 7 devices you can buy now](https://www.theverge.com/2024/1/14/24038284/wi-fi-certified-7-products-list-wi-fi-alliance)
  - [Sources: dozens of Chinese entities, including military bodies, AI research institutes, and universities bought small batches of Nvidia chips despite a US ban &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240114/p6#a240114p6)
  - [InfinaCore T3 Wireless Charging Station review: affordable multi-device charging with a compact design](https://appleinsider.com/articles/24/01/14/infinacore-t3-wireless-charging-station-review-affordable-multi-device-charging-with-a-compact-design?utm_medium=rss)
  - [Hands on with Xreal Air 2 Ultra -- The would-be Apple Vision Pro competitor](https://appleinsider.com/articles/24/01/14/hands-on-with-xreal-air-2-ultra----the-would-be-apple-vision-pro-competitor?utm_medium=rss)
- - [How dye-sensitized solar cells, which are lightweight, bendable, and manufactured cheaply, can capture light indoors to charge small gadgets like headphones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240114/p5#a240114p5)
- - [Best Fitbit Deals: Save Up to $100 on Sense 2, Charge 6, Luxe, and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How dye-sensitized solar cells, which are lightweight, bendable, and manufactured cheaply, can capture light indoors to charge small gadgets like headphones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240114/p5#a240114p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Donald](http://9gag.com/gag/a6qPNNA)
- - 😝 [The gun that started WW1](http://9gag.com/gag/aA0jgq2)
- - 💣 [Downloaded the wrong Harry potter again](http://9gag.com/gag/aXnBj6D)
- - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 👉 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)<!-- MEMES:END -->
+ - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
 
 ---
 

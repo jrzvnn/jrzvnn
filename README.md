@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-ray of a hand after a meat grinder accident..in case you thought you had a bad day](http://9gag.com/gag/adPELKM)
+ - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
  - 😝 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
  - 💣 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
+ - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 

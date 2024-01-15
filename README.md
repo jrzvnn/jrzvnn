@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 😝 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
- - 💣 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
- - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
+ - 😝 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
+ - 💣 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 ---
 

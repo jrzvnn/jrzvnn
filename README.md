@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max will still be the best-selling model in early 2024, says Kuo](https://appleinsider.com/articles/24/01/15/iphone-15-pro-max-will-still-be-the-best-selling-model-in-early-2024-says-kuo?utm_medium=rss)
  - [China gets another iPhone discount for Lunar New Year](https://appleinsider.com/articles/24/01/15/china-gets-another-iphone-discount-for-lunar-new-year?utm_medium=rss)
  - [Apple&#39;s September 2023 change to how its Podcasts app automatically downloaded episodes has dramatically curtailed download numbers for some podcasts &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240115/p5#a240115p5)
  - [Switzerland-based SoftwareOne, which advises companies on cloud strategies, rejects Bain&#39;s $3.5B takeover, ending months of back-and-forth; SWON.SW drops 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p4#a240115p4)
- - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)
- - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

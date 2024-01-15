@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Daily deals Jan. 15: $1,300 off M1 Max MacBook Pro, 59% off Apple Magic Keyboard Folio for iPad, 20% off AirPods Max, more](https://appleinsider.com/articles/24/01/15/daily-deals-jan-15-1300-off-m1-max-macbook-pro-59-off-apple-magic-keyboard-folio-for-ipad-20-off-airpods-max-more?utm_medium=rss)
+ - [OnePlus 12 Packs a Snapdragon 8 Gen 3 Processor, Wireless Charging, Hasselblad Camera     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-packs-a-snapdragon-8-gen-3-wireless-charging-hasselblad-camera/#ftag=CAD590a51e)
  - [Sources and ads: Chinese chipmakers are taking group tours to network with their Japanese counterparts, seeking ways to cope with tightening US export controls &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240115/p9#a240115p9)
- - [Apple marks Dr. Martin Luther King Jr. Day with homepage memorial](https://appleinsider.com/articles/24/01/15/apple-marks-dr-martin-luther-king-jr-day-with-homepage-memorial?utm_medium=rss)
- - [Vision Pro has Mac mini&#39;s M2 processor](https://appleinsider.com/articles/24/01/15/vision-pro-has-mac-minis-m2-processor-says-gurman?utm_medium=rss)
- - [China&#39;s chip imports fell 15.4% YoY to $349.4B in 2023, the sharpest fall on record and down for a second straight year; shipment volume also declined by 10.8% &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p8#a240115p8)<!-- TECH:END -->
+ - [How to Watch the 2024 Emmy Awards Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-emmy-awards-without-cable/#ftag=CAD590a51e)
+ - [Optavia Diet Review: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
  - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 👉 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)<!-- MEMES:END -->
+ - 😝 [Velma?](http://9gag.com/gag/aBdpWNO)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 ---
 

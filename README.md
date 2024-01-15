@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty Sweet](http://9gag.com/gag/aMEgwd1)
- - 😝 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 💣 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
+ - 😝 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
+ - 💣 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 

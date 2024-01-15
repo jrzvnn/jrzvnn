@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)
  - [Microsoft unlocks Copilot AI inside Office apps for all businesses](https://www.theverge.com/2024/1/15/24038726/microsoft-copilot-microsoft-365-business-launch-availability)
  - [Microsoft’s new Copilot Pro brings AI-powered Office features to the rest of us](https://www.theverge.com/2024/1/15/24038711/microsoft-copilot-pro-office-ai-apps)
  - [Microsoft debuts Copilot Pro for $20/mo./user, offering access to the latest models and features, like custom Copilot GPTs and integration into Office products &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240115/p11#a240115p11)
- - [Apple TV+ falls flat at Critics Choice Awards](https://appleinsider.com/articles/24/01/15/apple-tv-falls-flat-at-critics-choice-awards?utm_medium=rss)
- - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ falls flat at Critics Choice Awards](https://appleinsider.com/articles/24/01/15/apple-tv-falls-flat-at-critics-choice-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

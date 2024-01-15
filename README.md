@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
+ - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
+ - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [Ecuadorian military won the 1st battle against the cartel and gangs, they freed every single hostage and neutralized more than 1000 cartel members Bukele style](http://9gag.com/gag/axo51OK)
+ - 👉 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)<!-- MEMES:END -->
 
 ---
 

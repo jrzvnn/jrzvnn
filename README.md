@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t ride in peace](http://9gag.com/gag/avQN82X)
- - 😝 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
- - 💣 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 👉 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)<!-- MEMES:END -->
+ - 😝 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
+ - 💣 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 👉 [I love cheese. Here are some combinations you should try. Save this for later. Bon appetite!](http://9gag.com/gag/aGEXj4X)<!-- MEMES:END -->
 
 ---
 

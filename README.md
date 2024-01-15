@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
  - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
- - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
  - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---

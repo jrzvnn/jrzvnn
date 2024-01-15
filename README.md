@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [U.S. Customs say Apple Watch changes are enough to beat ITC ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
+ - [Filing: US CBP decides, regarding the Masimo patent fight, that Apple can avoid a ban and sell the Apple Watch Series 9 if pulse oximetry features are disabled &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)
  - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)
  - [Best Internet Providers in Tempe, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tempe-az/#ftag=CAD590a51e)
- - [Could a &#39;Smart&quot; Pillow Use AI to Stop Your Snoring?     - CNET](https://www.cnet.com/health/sleep/this-smart-pillow-uses-ai-to-adjust-your-head-and-keep-you-from-snoring/#ftag=CAD590a51e)
- - [The New BeamO Is a Stethoscope and Thermometer, and It Looks Like a Game Stick     - CNET](https://www.cnet.com/health/medical/the-new-beamo-is-a-stethoscope-and-thermometer-and-it-looks-like-a-game-stick/#ftag=CAD590a51e)
- - [There Is an Ideal Time of Day to Exercise. Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/there-is-an-ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Could a &#39;Smart&quot; Pillow Use AI to Stop Your Snoring?     - CNET](https://www.cnet.com/health/sleep/this-smart-pillow-uses-ai-to-adjust-your-head-and-keep-you-from-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

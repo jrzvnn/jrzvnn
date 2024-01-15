@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - 😝 [Graphic Capitulation](http://9gag.com/gag/axo5zP1)
- - 💣 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
- - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
+ - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
+ - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
 
 ---
 

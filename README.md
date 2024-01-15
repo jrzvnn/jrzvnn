@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French IT group Atos names Paul Saleh as CEO, its fourth in under two years, and forecasts H2 2024 cash flow below targets; stock drops 12%+, down ~40% in 2024 &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240115/p7#a240115p7)
+ - [How to Launch a Custom Chatbot on OpenAI’s GPT Store](https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/)
  - [Google follows Apple in pulling crypto apps in India](https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india?utm_medium=rss)
  - [Knock 25% Off Eero&#39;s Most Powerful Mesh Routers With This Coupon     - CNET](https://www.cnet.com/deals/knock-25-off-eeros-most-powerful-mesh-routers-with-this-coupon/#ftag=CAD590a51e)
- - [After NFT sales dropped 63% YoY to $8.7B in 2023, OpenSea CEO Devin Finzer talks OpenSea 2.0, set to offer improved differentiation between NFT categories &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240115/p6#a240115p6)
- - [Xbox Game Pass Ultimate Adding AC Valhalla, RE 2 and More in January     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-ac-valhalla-re-2-and-more-in-january/#ftag=CAD590a51e)
- - [A Key to Detecting Brain Disease Earlier Than Ever](https://www.wired.com/story/a-key-to-detecting-brain-disease-earlier-than-ever/)<!-- TECH:END -->
+ - [After NFT sales dropped 63% YoY to $8.7B in 2023, OpenSea CEO Devin Finzer talks OpenSea 2.0, set to offer improved differentiation between NFT categories &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240115/p6#a240115p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

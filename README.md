@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 💣 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
  - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
+ - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 👉 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)<!-- MEMES:END -->
 
 ---
 

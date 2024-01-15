@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here’s OpenAI’s big plan to combat election misinformation](https://www.theverge.com/2024/1/15/24039333/openai-chatgpt-dalle-ai-2024-election-misinformation-plan)
+ - [Best Earbuds for Phone Calls for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
  - [Uber is shutting down alcohol delivery service Drizly, which had operated &quot;independently within the Uber family&quot; since its $1.1B acquisition three years ago &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240115/p15#a240115p15)
- - [Apple prepares to enable sideloading and App Store changes in EU](https://appleinsider.com/articles/24/01/15/apple-prepares-to-enable-sideloading-and-app-store-changes-in-eu?utm_medium=rss)
- - [A look at music streaming fraud, including bot farms and pirates relabeling musicians&#39; work to steal revenue; Beatdapp estimates fraud costs musicians $2B/year &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/240115/p14#a240115p14)
- - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Lenovo Laptop Deals: Big Savings on the Legion, ThinkPad X1 Carbon, Ideapad and More     - CNET](https://www.cnet.com/deals/best-lenovo-laptop-deals/#ftag=CAD590a51e)
+ - [Apple prepares to enable sideloading and App Store changes in EU](https://appleinsider.com/articles/24/01/15/apple-prepares-to-enable-sideloading-and-app-store-changes-in-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

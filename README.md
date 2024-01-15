@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at music streaming fraud, including bot farms and pirates relabeling musicians&#39; work to steal revenue; Beatdapp estimates fraud costs musicians $2B/year &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/240115/p14#a240115p14)
  - [OpenAI shares its plans ahead of 2024 elections, including image provenance tools, not letting users make tools for impersonation or political campaigning, more &lpar;OpenAI&rpar;](http://www.techmeme.com/240115/p13#a240115p13)
  - [Apple Watch drops blood oxygen features to dodge the import ban](https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision)
  - [Best Fire TV Stick for 2024: Fire Stick 4K, Lite and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
- - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in Ithaca, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

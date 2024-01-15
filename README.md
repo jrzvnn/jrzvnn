@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
+ - 💣 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
  - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 😝 [Lol !](http://9gag.com/gag/adPEXED)
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [The real G](http://9gag.com/gag/az2n8OK)
- - 👉 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)<!-- MEMES:END -->
+ - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
 
 ---
 

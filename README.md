@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/amA3BMd)
+ - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
  - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
- - 👉 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)<!-- MEMES:END -->
+ - 💣 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
+ - 😝 [Sad for Starlight](http://9gag.com/gag/a8qZ5yO)
+ - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
 
 ---
 

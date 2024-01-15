@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 💣 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
  - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
+ - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---
 

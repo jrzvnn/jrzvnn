@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
- - 💣 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 👉 [True facts](http://9gag.com/gag/armY5XK)<!-- MEMES:END -->
+ - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
 
 ---
 

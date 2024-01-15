@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google follows Apple in pulling crypto apps in India](https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india?utm_medium=rss)
+ - [Knock 25% Off Eero&#39;s Most Powerful Mesh Routers With This Coupon     - CNET](https://www.cnet.com/deals/knock-25-off-eeros-most-powerful-mesh-routers-with-this-coupon/#ftag=CAD590a51e)
  - [After NFT sales dropped 63% YoY to $8.7B in 2023, OpenSea CEO Devin Finzer talks OpenSea 2.0, set to offer improved differentiation between NFT categories &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240115/p6#a240115p6)
- - [A Key to Detecting Brain Disease Earlier Than Ever](https://www.wired.com/story/a-key-to-detecting-brain-disease-earlier-than-ever/)
- - [A Scandal Is Tearing the World of Record-Breaking Dogs Apart](https://www.wired.com/story/guinness-worlds-oldest-dog-scandal/)
- - [iPhone 15 Pro Max will still be the best-selling model in early 2024, says Kuo](https://appleinsider.com/articles/24/01/15/iphone-15-pro-max-will-still-be-the-best-selling-model-in-early-2024-says-kuo?utm_medium=rss)
- - [China gets another iPhone discount for Lunar New Year](https://appleinsider.com/articles/24/01/15/china-gets-another-iphone-discount-for-lunar-new-year?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate Adding AC Valhalla, RE 2 and More in January     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-ac-valhalla-re-2-and-more-in-january/#ftag=CAD590a51e)
+ - [A Key to Detecting Brain Disease Earlier Than Ever](https://www.wired.com/story/a-key-to-detecting-brain-disease-earlier-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

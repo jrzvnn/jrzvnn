@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Watch drops blood oxygen features to dodge the import ban](https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision)
- - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)
- - [Microsoft unlocks Copilot AI inside Office apps for all businesses](https://www.theverge.com/2024/1/15/24038726/microsoft-copilot-microsoft-365-business-launch-availability)
- - [Microsoft’s new Copilot Pro brings AI-powered Office features to the rest of us](https://www.theverge.com/2024/1/15/24038711/microsoft-copilot-pro-office-ai-apps)
- - [Microsoft debuts Copilot Pro for $20/mo./user, offering access to the latest models and features, like custom Copilot GPTs and integration into Office products &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240115/p11#a240115p11)<!-- TECH:END -->
+ - [Best Fire TV Stick for 2024: Fire Stick 4K, Lite and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
+ - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Ithaca, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
+ - [Report: Apple prepares to split its App Store in two to serve the EU, as the deadline for the DMA, which mandates sideloading support, looms on March 7 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240115/p12#a240115p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

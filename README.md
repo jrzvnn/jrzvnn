@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
  - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
+ - 👉 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)<!-- MEMES:END -->
 
 ---
 

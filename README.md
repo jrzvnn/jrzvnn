@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
+ - 💣 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
  - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
- - 💣 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
+ - 👉 [Can&#39;t ride in peace](http://9gag.com/gag/avQN82X)<!-- MEMES:END -->
 
 ---
 

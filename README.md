@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
  - 😝 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 💣 [Enjoy your food](http://9gag.com/gag/agoWnoq)
- - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
+ - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
+ - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 👉 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)<!-- MEMES:END -->
 
 ---
 

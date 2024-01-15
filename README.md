@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody tell me why this job cannot be done by robots by now](http://9gag.com/gag/aQEGMyq)
- - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
- - 💣 [Welcome to Portugal](http://9gag.com/gag/aKER22j)
- - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 😝 [Share your stories in comments, I&#39;m sure you are all experts at this](http://9gag.com/gag/aMEg9dM)
+ - 💣 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
  - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
 
 ---

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 15: $1,300 off M1 Max MacBook Pro, 59% off Apple Magic Keyboard Folio for iPad, 20% off AirPods Max, more](https://appleinsider.com/articles/24/01/15/daily-deals-jan-15-1300-off-m1-max-macbook-pro-59-off-apple-magic-keyboard-folio-for-ipad-20-off-airpods-max-more?utm_medium=rss)
  - [Sources and ads: Chinese chipmakers are taking group tours to network with their Japanese counterparts, seeking ways to cope with tightening US export controls &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240115/p9#a240115p9)
  - [Apple marks Dr. Martin Luther King Jr. Day with homepage memorial](https://appleinsider.com/articles/24/01/15/apple-marks-dr-martin-luther-king-jr-day-with-homepage-memorial?utm_medium=rss)
  - [Vision Pro has Mac mini&#39;s M2 processor](https://appleinsider.com/articles/24/01/15/vision-pro-has-mac-minis-m2-processor-says-gurman?utm_medium=rss)
- - [China&#39;s chip imports fell 15.4% YoY to $349.4B in 2023, the sharpest fall on record and down for a second straight year; shipment volume also declined by 10.8% &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p8#a240115p8)
- - [Solar Tents and Windows, Battery on Wheels: Energy Tech From CES 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/stained-glass-solar-windows-battery-on-wheels-our-favorite-energy-tech-from-ces-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s chip imports fell 15.4% YoY to $349.4B in 2023, the sharpest fall on record and down for a second straight year; shipment volume also declined by 10.8% &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p8#a240115p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

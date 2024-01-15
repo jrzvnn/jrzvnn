@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 💣 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
- - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
- - 👉 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)<!-- MEMES:END -->
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 😝 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
+ - 💣 [Enjoy your food](http://9gag.com/gag/agoWnoq)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
 
 ---
 

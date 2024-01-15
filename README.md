@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
- - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
- - 💣 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
  - 😝 [Guess the country...](http://9gag.com/gag/a04BKWn)
- - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
+ - 💣 [Share your stories in comments, I&#39;m sure you are all experts at this](http://9gag.com/gag/aMEg9dM)
+ - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
+ - 👉 [Of course the GOAT has to be watching it](http://9gag.com/gag/aZDemnp)<!-- MEMES:END -->
 
 ---
 

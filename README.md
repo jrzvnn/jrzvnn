@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s OpenAI’s big plan to combat election misinformation](https://www.theverge.com/2024/1/15/24039333/openai-chatgpt-dalle-ai-2024-election-misinformation-plan)
  - [Uber is shutting down alcohol delivery service Drizly, which had operated &quot;independently within the Uber family&quot; since its $1.1B acquisition three years ago &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240115/p15#a240115p15)
  - [Apple prepares to enable sideloading and App Store changes in EU](https://appleinsider.com/articles/24/01/15/apple-prepares-to-enable-sideloading-and-app-store-changes-in-eu?utm_medium=rss)
  - [A look at music streaming fraud, including bot farms and pirates relabeling musicians&#39; work to steal revenue; Beatdapp estimates fraud costs musicians $2B/year &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/240115/p14#a240115p14)
- - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
- - [OpenAI shares its plans ahead of 2024 elections, including image provenance tools, not letting users make tools for impersonation or political campaigning, more &lpar;OpenAI&rpar;](http://www.techmeme.com/240115/p13#a240115p13)<!-- TECH:END -->
+ - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switzerland-based SoftwareOne, which advises companies on cloud strategies, rejects Bain&#39;s $3.5B takeover, ending months of back-and-forth; SWON.SW drops 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240115/p4#a240115p4)
  - [How some artists are incorporating Dall-E, Midjourney, and other AI tools into their work, while others remain anxious about AI&#39;s impact on their livelihoods &lpar;Emma Park/Financial Times&rpar;](http://www.techmeme.com/240115/p3#a240115p3)
  - [ChatGPT for Self-Diagnosis: AI Is Changing the Way We Answer Our Own Health Questions     - CNET](https://www.cnet.com/health/medical/chatgpt-for-self-diagnosis-ai-is-changing-the-way-we-answer-our-own-health-questions/#ftag=CAD590a51e)
  - [South Korea says Samsung and SK Hynix plan to invest more than $470B by 2047 to build 13 new chip plants and three research facilities in the country &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/240115/p2#a240115p2)
- - [A UN report says Tether&#39;s token is one of the leading payment methods for money laundering and frauds, including pig butchering scams, in Southeast Asia &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240115/p1#a240115p1)
- - [Nielsen: Peacock&#39;s exclusive stream of the NFL AFC Wild Card game was the &quot;most-streamed event in US history&quot;, with 27.6M total viewers and a 24.6M peak average &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240114/p8#a240114p8)<!-- TECH:END -->
+ - [A UN report says Tether&#39;s token is one of the leading payment methods for money laundering and frauds, including pig butchering scams, in Southeast Asia &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240115/p1#a240115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

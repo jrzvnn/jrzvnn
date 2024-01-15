@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
- - 😝 [Share your stories in comments, I&#39;m sure you are all experts at this](http://9gag.com/gag/aMEg9dM)
- - 💣 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
- - 😝 [If you know what this did in your car, your back hurts and you&#39;re probably close to death](http://9gag.com/gag/aA0jx7d)
- - 👉 [World is crazy place again](http://9gag.com/gag/ajVpDPG)<!-- MEMES:END -->
+ - 😝 [GTA VI early beta gameplay.](http://9gag.com/gag/ap9OrAE)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 💣 [I was wondering why it was slow as f**k \u201cusing edge + adblock\u201d](http://9gag.com/gag/aEq3B6N)
+ - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 

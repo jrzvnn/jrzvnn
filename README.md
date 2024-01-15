@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best monitor upgrades for your Mac from CES 2024](https://appleinsider.com/articles/24/01/15/the-best-monitor-upgrades-for-your-mac-from-ces-2024?utm_medium=rss)
- - [Apple&#39;s stripping out blood oxygen sensing from Apple Watch enough to skirt import ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
- - [Save $100 Off the DJI Osmo Action 4 Video Camera and Capture Everything     - CNET](https://www.cnet.com/deals/save-100-off-the-dji-osmo-action-4-video-camera-and-capture-everything/#ftag=CAD590a51e)
- - [Weber New Tricked-Out Gas Grill Has a First-Ever Feature, and It&#39;s Brilliant     - CNET](https://www.cnet.com/home/yard-and-outdoors/weber-new-tricked-out-gas-grill-showcases-a-first-ever-feature/#ftag=CAD590a51e)
- - [Filing: as part of the Masimo patent fight, US CBP decides that Apple can avoid a ban and sell the Apple Watch Series 9 by removing its pulse oximetry features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)<!-- TECH:END -->
+ - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)
+ - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
+ - [Steelers vs. Bills Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
+ - [Best Mattress for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-sleepers/#ftag=CAD590a51e)
+ - [Best Internet Providers in Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

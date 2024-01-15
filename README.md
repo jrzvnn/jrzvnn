@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
  - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 💣 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
  - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
  - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone know how to use these things?](http://9gag.com/gag/ajVpXzw)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
  - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
  - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---

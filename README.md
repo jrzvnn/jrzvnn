@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Barely noticeable](http://9gag.com/gag/a2KeZ4w)
- - 😝 [Enjoy your food](http://9gag.com/gag/agoWnoq)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
+ - 😝 [She really looks like a cartoon mobster \ud83d\ude02\ud83e\udd23](http://9gag.com/gag/adPELpZ)
+ - 😝 [I love cheese. Here are some combinations you should try. Save this for later. Bon appetite!](http://9gag.com/gag/aGEXj4X)
+ - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [Always has been](http://9gag.com/gag/az2nXxm)
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 

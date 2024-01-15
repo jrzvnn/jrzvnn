@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unlocks Copilot AI inside Office apps for all businesses](https://www.theverge.com/2024/1/15/24038726/microsoft-copilot-microsoft-365-business-launch-availability)
+ - [Microsoft’s new Copilot Pro brings AI-powered Office features to the rest of us](https://www.theverge.com/2024/1/15/24038711/microsoft-copilot-pro-office-ai-apps)
  - [Microsoft launches Copilot Pro for $20 per month per user, offering the latest features, like creating custom Copilot GPTs, and access to the latest models &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240115/p11#a240115p11)
  - [Apple TV+ falls flat at Critics Choice Awards](https://appleinsider.com/articles/24/01/15/apple-tv-falls-flat-at-critics-choice-awards?utm_medium=rss)
- - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)
- - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
- - [Steelers vs. Bills Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/steelers-vs-bills-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Watch TikTok on Your TV? Chromecast Has You Covered     - CNET](https://www.cnet.com/tech/mobile/want-to-watch-tiktok-on-your-tv-chromecast-has-you-covered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

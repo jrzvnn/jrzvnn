@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 😝 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 😝 [Ecuadorian military won the 1st battle against the cartel and gangs, they freed every single hostage and neutralized more than 1000 cartel members Bukele style](http://9gag.com/gag/axo51OK)
+ - 💣 [The Donald](http://9gag.com/gag/a6qPNNA)
+ - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - 👉 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)<!-- MEMES:END -->
 
 ---
 

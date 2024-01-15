@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gun that started WW1](http://9gag.com/gag/aA0jgq2)
  - 😝 [The Donald](http://9gag.com/gag/a6qPNNA)
+ - 😝 [The gun that started WW1](http://9gag.com/gag/aA0jgq2)
  - 💣 [Downloaded the wrong Harry potter again](http://9gag.com/gag/aXnBj6D)
  - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
  - 👉 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)<!-- MEMES:END -->

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She really looks like a cartoon mobster \ud83d\ude02\ud83e\udd23](http://9gag.com/gag/adPELpZ)
- - 😝 [I love cheese. Here are some combinations you should try. Save this for later. Bon appetite!](http://9gag.com/gag/aGEXj4X)
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [Always has been](http://9gag.com/gag/az2nXxm)
- - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
+ - 😝 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 💣 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
+ - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 👉 [Welcome to Portugal](http://9gag.com/gag/aKER22j)<!-- MEMES:END -->
 
 ---
 

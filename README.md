@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Vision Pro storage cabinets appear in stores ahead of launch](https://appleinsider.com/articles/24/01/15/apple-vision-pro-storage-cabinets-appear-in-stores-ahead-of-launch?utm_medium=rss)
  - [French IT group Atos names Paul Saleh as CEO, its fourth in under two years, and forecasts H2 2024 cash flow below targets; stock drops 12%+, down ~40% in 2024 &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240115/p7#a240115p7)
+ - [Samsung&#39;s Galaxy S23 Lineup: A Comparison of Specs for Each Phone     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-line-up-a-comparison-of-specs-for-each-phone/#ftag=CAD590a51e)
  - [How to Launch a Custom Chatbot on OpenAI’s GPT Store](https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/)
- - [Google follows Apple in pulling crypto apps in India](https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india?utm_medium=rss)
- - [Knock 25% Off Eero&#39;s Most Powerful Mesh Routers With This Coupon     - CNET](https://www.cnet.com/deals/knock-25-off-eeros-most-powerful-mesh-routers-with-this-coupon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score This Ultenic Stick Vacuum for Just $80     - CNET](https://www.cnet.com/deals/heres-how-to-score-this-ultenic-stick-vacuum-for-just-80/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

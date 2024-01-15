@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best monitor upgrades for your Mac from CES 2024](https://appleinsider.com/articles/24/01/15/the-best-monitor-upgrades-for-your-mac-from-ces-2024?utm_medium=rss)
  - [Apple&#39;s stripping out blood oxygen sensing from Apple Watch enough to skirt import ban](https://appleinsider.com/articles/24/01/15/us-customs-say-apple-watch-changes-are-enough-to-beat-itc-ban?utm_medium=rss)
  - [Save $100 Off the DJI Osmo Action 4 Video Camera and Capture Everything     - CNET](https://www.cnet.com/deals/save-100-off-the-dji-osmo-action-4-video-camera-and-capture-everything/#ftag=CAD590a51e)
  - [Weber New Tricked-Out Gas Grill Has a First-Ever Feature, and It&#39;s Brilliant     - CNET](https://www.cnet.com/home/yard-and-outdoors/weber-new-tricked-out-gas-grill-showcases-a-first-ever-feature/#ftag=CAD590a51e)
- - [Filing: as part of the Masimo patent fight, US CBP decides that Apple can avoid a ban and sell the Apple Watch Series 9 by removing its pulse oximetry features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)
- - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: as part of the Masimo patent fight, US CBP decides that Apple can avoid a ban and sell the Apple Watch Series 9 by removing its pulse oximetry features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240115/p10#a240115p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

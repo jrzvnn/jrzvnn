@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [The exact right amount of love](http://9gag.com/gag/abv7z2B)
- - 💣 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 😝 [Ecuadorian military won the 1st battle against the cartel and gangs, they freed every single hostage and neutralized more than 1000 cartel members Bukele style](http://9gag.com/gag/axo51OK)
- - 👉 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)<!-- MEMES:END -->
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 😝 [Graphic Capitulation](http://9gag.com/gag/axo5zP1)
+ - 💣 [Is that a BMW?](http://9gag.com/gag/aPg5RvB)
+ - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 ---
 

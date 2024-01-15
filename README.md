@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan. 15: $1,300 off M1 Max MacBook Pro, 59% off Apple Magic Keyboard Folio for iPad, 20% off AirPods Max, more](https://appleinsider.com/articles/24/01/15/daily-deals-jan-15-1300-off-m1-max-macbook-pro-59-off-apple-magic-keyboard-folio-for-ipad-20-off-airpods-max-more?utm_medium=rss)
- - [OnePlus 12 Packs a Snapdragon 8 Gen 3 Processor, Wireless Charging, Hasselblad Camera     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-packs-a-snapdragon-8-gen-3-wireless-charging-hasselblad-camera/#ftag=CAD590a51e)
- - [Sources and ads: Chinese chipmakers are taking group tours to network with their Japanese counterparts, seeking ways to cope with tightening US export controls &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240115/p9#a240115p9)
- - [How to Watch the 2024 Emmy Awards Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-emmy-awards-without-cable/#ftag=CAD590a51e)
- - [Optavia Diet Review: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HomeKit Insider&#39;s massive CES 2024 roundup episode](https://appleinsider.com/articles/24/01/15/homekit-insider-massive-ces-2024-roundup-episode?utm_medium=rss)
+ - [Best Internet Providers in Tempe, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tempe-az/#ftag=CAD590a51e)
+ - [Could a &#39;Smart&quot; Pillow Use AI to Stop Your Snoring?     - CNET](https://www.cnet.com/health/sleep/this-smart-pillow-uses-ai-to-adjust-your-head-and-keep-you-from-snoring/#ftag=CAD590a51e)
+ - [The New BeamO Is a Stethoscope and Thermometer, and It Looks Like a Game Stick     - CNET](https://www.cnet.com/health/medical/the-new-beamo-is-a-stethoscope-and-thermometer-and-it-looks-like-a-game-stick/#ftag=CAD590a51e)
+ - [There Is an Ideal Time of Day to Exercise. Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/there-is-an-ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

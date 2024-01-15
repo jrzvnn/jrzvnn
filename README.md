@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zip tie bracelet](http://9gag.com/gag/a6qPbw2)
- - 😝 [User of LG washing machine spotted that it spent 11Gb of traffic &lpar;mostly upload&rpar;](http://9gag.com/gag/aDYyG2x)
- - 💣 [Clear case of fck around and find out](http://9gag.com/gag/aPg59RV)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 👉 [AI Image Generators...](http://9gag.com/gag/a3Zm7n1)<!-- MEMES:END -->
+ - 😝 [The Texas National Guard expelled American border guards and independently closed the border with Mexico.](http://9gag.com/gag/axo511D)
+ - 😝 [Cool](http://9gag.com/gag/a4ovGEp)
+ - 💣 [Guess the country...](http://9gag.com/gag/a04BKWn)
+ - 😝 [F**k Cancer](http://9gag.com/gag/a3ZmqG5)
+ - 👉 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)<!-- MEMES:END -->
 
 ---
 

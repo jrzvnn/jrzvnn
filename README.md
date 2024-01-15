@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu&#39;s stock drops 10%+ after an SCMP report linking Ernie Bot, which Baidu said amassed 70M users within three months of launch, to Chinese military research &lpar;Bloomberg&rpar;](http://www.techmeme.com/240114/p7#a240114p7)
+ - [CES 2024: all the TVs, laptops, smart home gear, and more from the show floor](https://www.theverge.com/23971966/ces-2024-news-announcements-products)
  - [Magnetic cables were a sleeper hit at CES 2024](https://appleinsider.com/articles/24/01/15/magnetic-cables-were-a-sleeper-hit-at-ces-2024?utm_medium=rss)
  - [These are the certified Wi-Fi 7 devices you can buy now](https://www.theverge.com/2024/1/14/24038284/wi-fi-certified-7-products-list-wi-fi-alliance)
- - [Sources: dozens of Chinese entities, including military bodies, AI research institutes, and universities bought small batches of Nvidia chips despite a US ban &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240114/p6#a240114p6)
- - [InfinaCore T3 Wireless Charging Station review: affordable multi-device charging with a compact design](https://appleinsider.com/articles/24/01/14/infinacore-t3-wireless-charging-station-review-affordable-multi-device-charging-with-a-compact-design?utm_medium=rss)
- - [Hands on with Xreal Air 2 Ultra -- The would-be Apple Vision Pro competitor](https://appleinsider.com/articles/24/01/14/hands-on-with-xreal-air-2-ultra----the-would-be-apple-vision-pro-competitor?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: dozens of Chinese entities, including military bodies, AI research institutes, and universities bought small batches of Nvidia chips despite a US ban &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240114/p6#a240114p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

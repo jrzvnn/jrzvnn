@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
  - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [So far So Good](http://9gag.com/gag/aEq3PVe)
- - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)<!-- MEMES:END -->
 
 ---
 

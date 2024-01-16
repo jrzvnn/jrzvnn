@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple revises its US App Store rules to let devs link to outside payment methods, but will charge a commission of 27%, or 12% for small business program devs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240116/p26#a240116p26)
+ - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
  - [Apple&#39;s App Store anti-steering rules are gone, but the replacement isn&#39;t much better](https://appleinsider.com/articles/24/01/16/apples-app-store-anti-steering-rules-are-gone-but-the-replacement-isnt-much-better?utm_medium=rss)
  - [Get All the Samsung Galaxy S24 Rumors and Leaks Before Its Debut Tomorrow     - CNET](https://www.cnet.com/tech/mobile/get-all-the-samsung-galaxy-s24-rumors-and-leaks-before-its-debut-tomorrow/#ftag=CAD590a51e)
- - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
- - [Australia unveils a plan to mandate safeguards around the use of higher-risk AI, such as self-driving technology, potentially requiring auditing and labeling &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240116/p25#a240116p25)
- - [Join CNET&#39;s Samsung Unpacked Event Party: Watching for the Galaxy S24 Reveal     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-event-party-watching-for-the-galaxy-s24-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chip design software maker Synopsys plans to acquire engineering simulation and 3D design software maker Ansys in a ~$35B cash-and-stock deal &lpar;Reuters&rpar;](http://www.techmeme.com/240116/p10#a240116p10)
  - [After investing in self-checkout kiosks, Target, Walmart, and more reverse course, removing tills and adding staff after theft concerns and customer frustration &lpar;Sam Becker/BBC&rpar;](http://www.techmeme.com/240116/p9#a240116p9)
- - [Save a Whopping $200 on This iRobot Mop and Never Clean Your Floors Again     - CNET](https://www.cnet.com/deals/save-a-whopping-200-on-this-irobot-mop-and-never-clean-your-floors-again/#ftag=CAD590a51e)
  - [Google quietly updates Chrome’s incognito warning in wake of tracking lawsuit](https://www.theverge.com/2024/1/16/24039883/google-incognito-mode-tracking-lawsuit-notice-change)
- - [Join CNET&#39;s Samsung Unpacked Event Party: Watching for the Galaxy S24 Reveal     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-event-party-watching-for-the-galaxy-s24-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe’s new AI-powered Premiere Pro features eradicate boring audio editing tasks](https://www.theverge.com/2024/1/16/24038747/adobe-premiere-pro-beta-ai-audio-editing-features-interactive-badges)
+ - [Apple says it can take pulse oximetry out of Apple Watch -- but shouldn&#39;t have to](https://appleinsider.com/articles/24/01/16/apple-says-it-can-take-pulse-oximetry-out-of-apple-watch----but-shouldnt-have-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

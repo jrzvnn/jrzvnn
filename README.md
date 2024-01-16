@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
- - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
- - 💣 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
+ - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 👉 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)<!-- MEMES:END -->
 
 ---
 

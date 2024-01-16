@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 45 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)
  - [The Emmys Proved Streaming Changed TV for the Better](https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/)
  - [OpenAI forms a Collective Alignment team to create a system for collecting and using input from the public in its training of models&#39; behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240116/p21#a240116p21)
- - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)
- - [Copilot Pro in Windows 11 Brings More AI Capabilities for $20 Per Month     - CNET](https://www.cnet.com/tech/services-and-software/copilot-pro-in-windows-11-brings-more-ai-capabilities-for-20-per-month/#ftag=CAD590a51e)
- - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $60 or More With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

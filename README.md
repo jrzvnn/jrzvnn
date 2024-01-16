@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 😝 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
+ - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
+ - 💣 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
  - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
 
 ---

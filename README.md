@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
- - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
+ - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 💣 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI phones are coming](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24)
  - [Awesome Games Done Quick’s adorable dog speedrun was just the start](https://www.theverge.com/24040350/awesome-games-done-quick-2024-how-to-watch-twitch)
  - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [Sources: African neobank Kuda raised $20M in 2023 at a $500M valuation, same as its 2021 valuation; it has 7M retail and business users, short of projections &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240116/p23#a240116p23)
- - [Xbox Game Pass Ultimate Adding Persona 3 Reload and More, Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-persona-3-reload-and-more-soon/#ftag=CAD590a51e)
- - [Researchers studying Google, Bing, and DuckDuckGo search results for a year: search is losing the cat and mouse game of SEO spam, likely helped by generative AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate Adding Persona 3 Reload and More, Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-persona-3-reload-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 😝 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
- - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 😝 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)
- - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
+ - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 💣 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
 
 ---
 

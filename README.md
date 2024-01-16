@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Black Bird&#39; scores Apple TV+ it&#39;s sole major Emmy award](https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award?utm_medium=rss)
- - [Coinbase offering custody, trading, and financing to a majority of bitcoin ETF issuers, including BlackRock, poses concentration risk and may intensify scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p7#a240116p7)
- - [Ned Luke, who voiced Michael De Santa in GTA 5, calls out WAME over using his voice in an AI chatbot, saying there is &quot;nothing cool about ripping people off&quot; &lpar;Will Nelson/PCGamesN&rpar;](http://www.techmeme.com/240116/p6#a240116p6)
- - [Climate Denial on YouTube Is Evolving. Here&#39;s How to Make Sense of It     - CNET](https://www.cnet.com/science/climate/climate-denial-on-youtube-is-evolving-heres-how-to-make-sense-of-it/#ftag=CAD590a51e)
- - [A PwC survey of 4,702 CEOs ahead of Davos: 25% expect generative AI to lead to up to 5% headcount cuts, 46% expect GenAI to boost profits in 12 months, and more &lpar;Sam Fleming/Financial Times&rpar;](http://www.techmeme.com/240116/p5#a240116p5)<!-- TECH:END -->
+ - [Rumor: Display production for 11-inch OLED iPad Pro begins in days](https://appleinsider.com/articles/24/01/16/rumor-display-production-for-11-inch-oled-ipad-pro-begins-in-days?utm_medium=rss)
+ - [Election 2024: How to use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
+ - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)
+ - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)
+ - [&#39;Black Bird&#39; scores Apple TV+ it&#39;s sole major Emmy award](https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

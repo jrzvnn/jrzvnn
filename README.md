@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google layoffs continue with ‘hundreds’ from sales team](https://www.theverge.com/2024/1/16/24040093/google-layoffs-ad-sales-team)
+ - [A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data](https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/)
  - [Ubisoft renamed its subscription service and added a new one focused on classics](https://www.theverge.com/2024/1/16/24038090/ubisoft-plus-premium-subscription-classics-activision)
  - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
- - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)
- - [Daily deals Jan. 16: $99 AirPods, $100 off 10th Gen iPad, 75% off Microsoft Office Home &amp; Business 2021, more](https://appleinsider.com/articles/24/01/16/daily-deals-jan-16-99-airpods-100-off-10th-gen-ipad-75-off-microsoft-office-home-business-2021-more?utm_medium=rss)
- - [Source: Google has increasingly awarded select DeepMind researchers with large grants of restricted stock worth up to millions of dollars, to fend off OpenAI &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240116/p17#a240116p17)<!-- TECH:END -->
+ - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

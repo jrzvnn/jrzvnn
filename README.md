@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers studying Google, Bing, and DuckDuckGo search results over a year: search engines are losing the cat and mouse game of SEO spam, likely boosted by AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)
  - [The 45 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Apple Vision Pro hands-on roundup: Weighty with a clunky virtual keyboard, but great overall](https://appleinsider.com/articles/24/01/16/apple-vision-pro-hands-on-roundup-weighty-with-a-clunky-virtual-keyboard-but-great-overall?utm_medium=rss)
  - [The Emmys Proved Streaming Changed TV for the Better](https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/)
- - [OpenAI forms a Collective Alignment team to create a system for collecting and using input from the public in its training of models&#39; behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240116/p21#a240116p21)
- - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)<!-- TECH:END -->
+ - [OpenAI forms a Collective Alignment team to create a system for collecting and using input from the public in its training of models&#39; behaviors &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240116/p21#a240116p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
- - 💣 [Its a trap](http://9gag.com/gag/aKERmqj)
- - 😝 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 💣 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 

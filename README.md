@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pixel 8 and Pixel 8 Pro Deals: Save Up to $1,050 With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Best Indoor Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Best NAS Deals: Save Big on Up to 54TB of Network Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
- - [Eagles vs. Bucs Livestream: How to Watch NFL Wild Card Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-bucs-livestream-how-to-watch-nfl-wild-card-game-online-today/#ftag=CAD590a51e)
- - [Here’s OpenAI’s big plan to combat election misinformation](https://www.theverge.com/2024/1/15/24039333/openai-chatgpt-dalle-ai-2024-election-misinformation-plan)<!-- TECH:END -->
+ - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)
+ - [Amazon-owned Woot drops 15 months of Microsoft 365 Family to $89, Office licenses as low as $29](https://appleinsider.com/articles/24/01/16/amazon-owned-woot-drops-15-months-of-microsoft-365-family-to-89-office-licenses-as-low-as-29?utm_medium=rss)
+ - [Best Gifts Under $200 for 2024     - CNET](https://www.cnet.com/news/gifts-under-200/#ftag=CAD590a51e)
+ - [Samsung&#39;s Galaxy S24 Unpacked Event Is 2 Days Away. Here&#39;s What to Expect     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-s24-unpacked-event-is-2-days-away-heres-what-to-expect/#ftag=CAD590a51e)
+ - [Best Gifts Under $500 for 2024     - CNET](https://www.cnet.com/tech/best-gifts-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

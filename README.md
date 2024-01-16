@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Internet Couldn’t Save Vivek Ramaswamy](https://www.wired.com/story/vivek-ramaswamy-campaign/)
- - [&#39;Dune&#39; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)
+ - [Even After a Landslide Victory, Trump Supporters Claim Iowa Caucus Was Rigged](https://www.wired.com/story/trump-iowa-conspiracies/)
  - [Goertek wants to build a new factory in Vietnam for AirPods &amp; Apple Vision Pro](https://appleinsider.com/articles/24/01/16/goertek-wants-to-build-a-new-factory-in-vietnam-for-airpods-apple-vision-pro?utm_medium=rss)
- - [There are two great reasons to upgrade to The Last of Us Part II Remastered](https://www.theverge.com/24035730/the-last-of-us-part-2-remastered-review-ps5)
- - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)<!-- TECH:END -->
+ - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear the appeal](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
+ - [The Internet Couldn’t Save Vivek Ramaswamy](https://www.wired.com/story/vivek-ramaswamy-campaign/)
+ - [&#39;Dune&#39; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

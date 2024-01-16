@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
+ - [Heat Pumps Can Struggle in Coldest Winter, but New Models at CES Show Promise     - CNET](https://www.cnet.com/home/energy-and-utilities/heat-pumps-can-struggle-in-coldest-winter-but-new-models-at-ces-show-promise/#ftag=CAD590a51e)
  - [How Spotify&#39;s on-the-ground work in Nigeria, like hiring local staff, contributed to the success of Afrobeats, which grew 550% on Spotify between 2017 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240116/p3#a240116p3)
  - [Despite nine years of music industry growth thanks to streaming, companies like Spotify and UMG are tightening payouts or laying off employees &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240116/p2#a240116p2)
- - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)
- - [Global smartphone shipments declined 3.2% YoY to 1.17B units in 2023; Apple gained the top spot for the first time with 234.6M, followed by Samsung with 226.6M &lpar;IDC&rpar;](http://www.techmeme.com/240115/p19#a240115p19)
- - [Apple overtakes Samsung in global smartphone shipments across 2023](https://appleinsider.com/articles/24/01/16/apple-overtakes-samsung-in-global-smartphone-shipments-across-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Dubai&#39;s Virtual Assets Regulatory Authority grants OKX Middle East a license, allowing the crypto exchange to offer its services to retail clients in the UAE &lpar;Federico Maccioni/Reuters&rpar;](http://www.techmeme.com/240116/p1#a240116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

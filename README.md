@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants you to be able to use your iPhone better underwater](https://appleinsider.com/articles/24/01/16/apple-wants-you-to-be-able-to-use-your-iphone-better-underwater?utm_medium=rss)
+ - [Nvidia RTX 4070 Super review: a super performance bump for $599](https://www.theverge.com/24039832/nvidia-rtx-4070-super-review-gpu-graphics-card-benchmark-test)
  - [iPhone 16 might switch to higher-density but slower flash storage](https://appleinsider.com/articles/24/01/16/iphone-16-might-switch-to-higher-density-but-slower-flash-storage?utm_medium=rss)
  - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)
- - [Adobe adds beta AI audio editing tools in Premiere Pro, including labeling clips as dialogue, music, and more, and plans to roll out a dialogue clean-up tool &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240116/p11#a240116p11)
- - [Chip design software maker Synopsys plans to acquire engineering simulation and 3D design software maker Ansys in a ~$35B cash-and-stock deal &lpar;Reuters&rpar;](http://www.techmeme.com/240116/p10#a240116p10)
- - [After investing in self-checkout kiosks, Target, Walmart, and more reverse course, removing tills and adding staff after theft concerns and customer frustration &lpar;Sam Becker/BBC&rpar;](http://www.techmeme.com/240116/p9#a240116p9)<!-- TECH:END -->
+ - [Adobe adds beta AI audio editing tools in Premiere Pro, including labeling clips as dialogue, music, and more, and plans to roll out a dialogue clean-up tool &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240116/p11#a240116p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

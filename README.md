@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 💣 [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 😝 [Light it up and throw one in \ud83c\udf55!!](http://9gag.com/gag/a9qoAqW)
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
+ - 💣 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
+ - 😝 [Barefoot?](http://9gag.com/gag/aDYy48O)
+ - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
 
 ---
 

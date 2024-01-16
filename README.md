@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 

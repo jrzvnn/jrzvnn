@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
+ - 💣 [How?](http://9gag.com/gag/amA3BMd)
  - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 💣 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 

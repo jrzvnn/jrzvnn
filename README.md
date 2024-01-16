@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)
+ - [Tokyo-based Sakana AI, which is focused on building smaller AI models, raised a $30M seed led by Lux Capital, a source says at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240116/p16#a240116p16)
+ - [EU companies are complaining that US big tech is ignoring a new antitrust law](https://appleinsider.com/articles/24/01/16/us-companies-are-complaining-that-us-big-tech-is-ignoring-a-new-antitrust-law?utm_medium=rss)
  - [The Apple Vision Pro has a ‘guest’ mode for your friends to try it](https://www.theverge.com/2024/1/16/24039995/apple-vision-pro-guest-mode-friends)
- - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
- - [Tel Aviv-based Xyte, which helps hardware OEMs build subscription services for devices, raised a $20M Series A led by Intel Capital, plus a $10M credit line &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240116/p14#a240116p14)
- - [Supreme Court rejects Epic v. Apple antitrust case](https://www.theverge.com/2024/1/16/24039983/supreme-court-epic-apple-antitrust-case-rejected)
- - [Trump Won By a Landslide In Iowa. His Supporters Are Still Spreading Conspiracies](https://www.wired.com/story/trump-iowa-conspiracies/)<!-- TECH:END -->
+ - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

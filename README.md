@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 😝 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
- - 💣 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)
- - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
- - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 💣 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
 
 ---
 

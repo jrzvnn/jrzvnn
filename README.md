@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [So far So Good](http://9gag.com/gag/aEq3PVe)
+ - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
  - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 💣 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)<!-- MEMES:END -->
+ - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
 
 ---
 

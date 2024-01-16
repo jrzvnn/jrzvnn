@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 💣 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
- - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
+ - 💣 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---
 

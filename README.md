@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
  - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 💣 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 💣 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
 
 ---
 

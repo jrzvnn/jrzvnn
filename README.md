@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 💣 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 👉 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)<!-- MEMES:END -->
+ - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 💣 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
+ - 👉 [Its a trap](http://9gag.com/gag/aKERmqj)<!-- MEMES:END -->
 
 ---
 

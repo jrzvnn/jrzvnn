@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI VP Anna Makanju says the company is developing tools with the US DOD on open-source software and held talks on ways to assist preventing veteran suicide &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p19#a240116p19)
+ - [Square Enix says it used AI art in upcoming Foamstars game](https://www.theverge.com/2024/1/16/24040124/square-enix-foamstars-ai-art-midjourney)
  - [In 2023, US metaverse VC funding was just ~$910M, the lowest in at least six years and below a $3.11B peak in 2021; no consumer metaverse company raised $100M+ &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/240116/p18#a240116p18)
  - [Google layoffs continue with ‘hundreds’ from sales team](https://www.theverge.com/2024/1/16/24040093/google-layoffs-ad-sales-team)
- - [A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data](https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/)
- - [Ubisoft renamed its subscription service and added a new one focused on classics](https://www.theverge.com/2024/1/16/24038090/ubisoft-plus-premium-subscription-classics-activision)
- - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data](https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

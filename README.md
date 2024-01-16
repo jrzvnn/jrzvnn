@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple overtakes Samsung in global smartphone shipments across 2023](https://appleinsider.com/articles/24/01/16/apple-overtakes-samsung-in-global-smartphone-shipments-across-2023?utm_medium=rss)
+ - [Apple Watch Series 8 Deals: Save Up to $160 on Various Models     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)
  - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)
  - [Election 2024: Use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
- - [Asus ROG Phone 8 Pro Review: A Gaming Smartphone That Remembers It&#39;s a Phone     - CNET](https://www.cnet.com/tech/mobile/asus-rog-phone-8-pro-review-a-gaming-smartphone-that-remembers-its-a-phone/#ftag=CAD590a51e)
- - [Google and Samsung Join Forces to Make Sharing Files on Android Easier     - CNET](https://www.cnet.com/tech/mobile/google-and-samsung-join-forces-to-make-sharing-files-on-android-easier/#ftag=CAD590a51e)
- - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Asus ROG Phone 8 Pro Review: A Gaming Smartphone That Remembers It&#39;s a Phone     - CNET](https://www.cnet.com/tech/mobile/asus-rog-phone-8-pro-review-a-gaming-smartphone-that-remembers-its-a-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HashKey, which operates a licensed Hong Kong crypto exchange, raised a ~$100M Series A at a $1.2B+ valuation; sources: OKX Ventures is among the lead investors &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240115/p18#a240115p18)
+ - [Election 2024: Use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
  - [Vision Pro near, AirTags 2 far, and an OLED iPad could be coming soon, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/12/vision-pro-nears-airtags-2-dont-and-an-oled-ipad-could-be-coming-on-the-appleinsider-podcast?utm_medium=rss)
  - [Elon Musk says he would rather build AI products outside of Tesla if he doesn&#39;t have ~25% voting control in the company; Musk currently owns 12%+ of Tesla &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240115/p17#a240115p17)
- - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)
- - [Amazon-owned Woot drops 15 months of Microsoft 365 Family to $89, Office licenses as low as $29](https://appleinsider.com/articles/24/01/16/amazon-owned-woot-drops-15-months-of-microsoft-365-family-to-89-office-licenses-as-low-as-29?utm_medium=rss)
- - [Best Gifts Under $200 for 2024     - CNET](https://www.cnet.com/news/gifts-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [John Deere plans to use SpaceX&#39;s Starlink service to provide satellite internet connections for tractors, harvesters, and other equipment in remote areas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240115/p16#a240115p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

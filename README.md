@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
- - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
+ - 😝 [The iconic scene that got Aunt May an Oscar.](http://9gag.com/gag/aMEgKMx)
+ - 😝 [That&#39;s a lot of camera](http://9gag.com/gag/aqe0jxM)
+ - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - 😝 [For the boys](http://9gag.com/gag/ap9ONYB)
+ - 👉 [Its a trap](http://9gag.com/gag/aKERmqj)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
- - 😝 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
- - 💣 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)<!-- MEMES:END -->
+ - 😝 [Drunken Girls](http://9gag.com/gag/a3ZmEG3)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 💣 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 😝 [True Love](http://9gag.com/gag/a1P9Q8b)
+ - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
 
 ---
 

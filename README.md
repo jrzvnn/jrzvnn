@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
- - 💣 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 😝 [Little sun glare never hurt anyone...](http://9gag.com/gag/aNwNg2v)
- - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
+ - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - 😝 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
+ - 💣 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)
+ - 😝 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
 
 ---
 

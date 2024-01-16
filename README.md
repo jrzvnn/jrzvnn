@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 👉 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)<!-- MEMES:END -->
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Little sun glare never hurt anyone...](http://9gag.com/gag/ay2GMGr)
+ - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
 
 ---
 

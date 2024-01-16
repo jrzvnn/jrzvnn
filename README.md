@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple Vision Pro may spread internationally within months](https://appleinsider.com/articles/24/01/16/apple-vision-pro-may-spread-internationally-within-months?utm_medium=rss)
  - [Google Maps can now navigate inside tunnels](https://www.theverge.com/2024/1/16/24039896/google-maps-android-tunnels-bluetooth-beacons)
  - [Apple details select streaming and sports apps available on Vision Pro at launch, including Disney+, ESPN, MLB, PGA, Max, and TikTok; some will have 3D content &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240116/p12#a240116p12)
- - [Apple wants you to be able to use your iPhone better underwater](https://appleinsider.com/articles/24/01/16/apple-wants-you-to-be-able-to-use-your-iphone-better-underwater?utm_medium=rss)<!-- TECH:END -->
+ - [AI Chatbots Are Here to Stay. Learn How They Can Work for You     - CNET](https://www.cnet.com/tech/computing/features/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

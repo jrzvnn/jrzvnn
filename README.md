@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 💣 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
+ - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
+ - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
+ - 💣 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
 
 ---
 

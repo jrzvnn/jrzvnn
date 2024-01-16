@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A PwC survey of 4,702 CEOs ahead of Davos: 25% expect generative AI to lead to up to 5% headcount cuts, 46% expect GenAI to boost profits in 12 months, and more &lpar;Sam Fleming/Financial Times&rpar;](http://www.techmeme.com/240116/p5#a240116p5)
  - [Apple tops Samsung for first time in global smartphone shipments](https://www.theverge.com/2024/1/16/24039830/apple-bestselling-phone-manufacturer-2023-samsung-idc-canalys-research)
  - [Vodafone and Microsoft agree to a 10-year, $1.5B deal to develop AI, digital payments, IoT, and other businesses; Vodafone will use OpenAI for customer service &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/240116/p4#a240116p4)
  - [Watch &#39;Love Island: All Stars&#39; 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-love-island-all-stars-2024-stream-anywhere-for-free/#ftag=CAD590a51e)
- - [Heat Pumps Can Struggle in Coldest Winter, but New Models at CES Show Promise     - CNET](https://www.cnet.com/home/energy-and-utilities/heat-pumps-can-struggle-in-coldest-winter-but-new-models-at-ces-show-promise/#ftag=CAD590a51e)
- - [How Spotify&#39;s on-the-ground work in Nigeria, like hiring local staff, contributed to the success of Afrobeats, which grew 550% on Spotify between 2017 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240116/p3#a240116p3)<!-- TECH:END -->
+ - [Heat Pumps Can Struggle in Coldest Winter, but New Models at CES Show Promise     - CNET](https://www.cnet.com/home/energy-and-utilities/heat-pumps-can-struggle-in-coldest-winter-but-new-models-at-ces-show-promise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

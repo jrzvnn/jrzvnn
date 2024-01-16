@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)
+ - [SCOTUS rejects Apple&#39;s and Epic&#39;s request to review the Epic antitrust suit challenging the App Store, likely affecting billions of dollars of Apple&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p13#a240116p13)
  - [&quot;Dune,&quot; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)
  - [Apple Vision Pro may spread internationally within months](https://appleinsider.com/articles/24/01/16/apple-vision-pro-may-spread-internationally-within-months?utm_medium=rss)
- - [Google Maps can now navigate inside tunnels](https://www.theverge.com/2024/1/16/24039896/google-maps-android-tunnels-bluetooth-beacons)
- - [Apple details select streaming and sports apps available on Vision Pro at launch, including Disney+, ESPN, MLB, PGA, Max, and TikTok; some will have 3D content &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240116/p12#a240116p12)
- - [AI Chatbots Are Here to Stay. Learn How They Can Work for You     - CNET](https://www.cnet.com/tech/computing/features/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps can now navigate inside tunnels](https://www.theverge.com/2024/1/16/24039896/google-maps-android-tunnels-bluetooth-beacons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

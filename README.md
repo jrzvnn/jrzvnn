@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
  - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 

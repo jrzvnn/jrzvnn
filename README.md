@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad for Starlight](http://9gag.com/gag/a8qZ5yO)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
  - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 👉 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---
 

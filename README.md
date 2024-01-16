@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 💣 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
  - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
- - 👉 [Its a trap](http://9gag.com/gag/aKERmqj)<!-- MEMES:END -->
+ - 👉 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)<!-- MEMES:END -->
 
 ---
 

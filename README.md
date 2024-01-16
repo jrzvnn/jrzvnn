@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
+ - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [Its a trap](http://9gag.com/gag/aKERmqj)
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 

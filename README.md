@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
  - [Sources: African neobank Kuda raised $20M in 2023 at a $500M valuation, same as its 2021 valuation; it has 7M retail and business users, short of projections &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240116/p23#a240116p23)
  - [Xbox Game Pass Ultimate Adding Persona 3 Reload and More, Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-persona-3-reload-and-more-soon/#ftag=CAD590a51e)
  - [Researchers studying Google, Bing, and DuckDuckGo search results over a year: search engines are losing the cat and mouse game of SEO spam, likely boosted by AI &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240116/p22#a240116p22)
- - [How to Watch &#39;True Detective: Night Country&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-true-detective-night-country-from-anywhere/#ftag=CAD590a51e)
- - [4 Mistakes You Might Be Making With Your Electric Toothbrush     - CNET](https://www.cnet.com/health/personal-care/4-mistakes-you-might-be-making-with-your-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch &#39;True Detective: Night Country&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-true-detective-night-country-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

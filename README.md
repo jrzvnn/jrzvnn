@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H&#39;s red-hot Apple deals have shoppers saving up to $1,200 to help fight the winter blues](https://appleinsider.com/articles/24/01/16/bhs-red-hot-apple-deals-have-shoppers-saving-up-to-1200-to-help-fight-the-winter-blues?utm_medium=rss)
+ - [Samsung’s Galaxy S24 preorder still comes with a $50 credit — for one more day](https://www.theverge.com/2024/1/16/24040558/samsung-galaxy-s24-preorder-credit-roomba-combo-j7-sale)
  - [Substack’s moderation battle: all the latest news](https://www.theverge.com/24040685/substack-newsletters-nazi-content-moderation-policy)
  - [Apple revises its US App Store rules to let devs link to outside payment methods, but will charge a commission of 27%, or 12% for small business program devs &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240116/p26#a240116p26)
- - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
- - [Apple&#39;s App Store anti-steering rules are gone, but the replacement isn&#39;t much better](https://appleinsider.com/articles/24/01/16/apples-app-store-anti-steering-rules-are-gone-but-the-replacement-isnt-much-better?utm_medium=rss)
- - [Get All the Samsung Galaxy S24 Rumors and Leaks Before Its Debut Tomorrow     - CNET](https://www.cnet.com/tech/mobile/get-all-the-samsung-galaxy-s24-rumors-and-leaks-before-its-debut-tomorrow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The iconic scene that got Aunt May an Oscar.](http://9gag.com/gag/aMEgKMx)
- - 😝 [That&#39;s a lot of camera](http://9gag.com/gag/aqe0jxM)
- - 💣 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [For the boys](http://9gag.com/gag/ap9ONYB)
- - 👉 [Its a trap](http://9gag.com/gag/aKERmqj)<!-- MEMES:END -->
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 ---
 

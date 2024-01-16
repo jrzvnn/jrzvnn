@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear the appeal](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
+ - [The Apple Vision Pro has a ‘guest’ mode for your friends to try it](https://www.theverge.com/2024/1/16/24039995/apple-vision-pro-guest-mode-friends)
+ - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
  - [Tel Aviv-based Xyte, which helps hardware OEMs build subscription services for devices, raised a $20M Series A led by Intel Capital, plus a $10M credit line &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240116/p14#a240116p14)
  - [Supreme Court rejects Epic v. Apple antitrust case](https://www.theverge.com/2024/1/16/24039983/supreme-court-epic-apple-antitrust-case-rejected)
- - [Trump Won By a Landslide In Iowa. His Supporters Are Still Spreading Conspiracies](https://www.wired.com/story/trump-iowa-conspiracies/)
- - [Goertek wants to build a new factory in Vietnam for AirPods &amp; Apple Vision Pro](https://appleinsider.com/articles/24/01/16/goertek-wants-to-build-a-new-factory-in-vietnam-for-airpods-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Trump Won By a Landslide In Iowa. His Supporters Are Still Spreading Conspiracies](https://www.wired.com/story/trump-iowa-conspiracies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

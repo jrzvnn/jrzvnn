@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)
- - [SCOTUS rejects Apple&#39;s and Epic&#39;s request to review the Epic antitrust suit challenging the App Store, likely affecting billions of dollars of Apple&#39;s revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p13#a240116p13)
- - [&quot;Dune,&quot; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)
- - [Apple Vision Pro may spread internationally within months](https://appleinsider.com/articles/24/01/16/apple-vision-pro-may-spread-internationally-within-months?utm_medium=rss)
- - [Google Maps can now navigate inside tunnels](https://www.theverge.com/2024/1/16/24039896/google-maps-android-tunnels-bluetooth-beacons)<!-- TECH:END -->
+ - [The Internet Couldn’t Save Vivek Ramaswamy](https://www.wired.com/story/vivek-ramaswamy-campaign/)
+ - [&#39;Dune&#39; and Alicia Keys lead Apple Vision Pro&#39;s new Immersive Video](https://appleinsider.com/articles/24/01/16/dune-and-alicia-keys-lead-apple-vision-pros-new-immersive-video?utm_medium=rss)
+ - [Goertek wants to build a new factory in Vietnam for AirPods &amp; Apple Vision Pro](https://appleinsider.com/articles/24/01/16/goertek-wants-to-build-a-new-factory-in-vietnam-for-airpods-apple-vision-pro?utm_medium=rss)
+ - [There are two great reasons to upgrade to The Last of Us Part II Remastered](https://www.theverge.com/24035730/the-last-of-us-part-2-remastered-review-ps5)
+ - [Apple Vision Pro will launch with 3D movies from Disney Plus](https://www.theverge.com/2024/1/16/24039960/apple-vision-pro-3d-movies-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

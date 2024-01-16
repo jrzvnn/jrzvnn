@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it can take pulse oximetry out of Apple Watch -- but shouldn&#39;t have to](https://appleinsider.com/articles/24/01/16/apple-says-it-can-take-pulse-oximetry-out-of-apple-watch----but-shouldnt-have-to?utm_medium=rss)
  - [Ubisoft rebrands its $18/month tier as Ubisoft+ Premium and adds Ubisoft+ Classics on PC; executive Philippe Tremblay says there are &quot;millions&quot; of subscribers &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/240116/p8#a240116p8)
  - [Rumor: Display production for 11-inch OLED iPad Pro begins in days](https://appleinsider.com/articles/24/01/16/rumor-display-production-for-11-inch-oled-ipad-pro-begins-in-days?utm_medium=rss)
  - [Election 2024: How to use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
- - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)
- - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)<!-- TECH:END -->
+ - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Light it up and throw one in \ud83c\udf55!!](http://9gag.com/gag/a9qoAqW)
+ - 😝 [I was wondering why you Youtube was slow today. They found a new way to annoy Adblock users.](http://9gag.com/gag/a6qPKDA)
+ - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
+ - 💣 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
  - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 💣 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
- - 😝 [Barefoot?](http://9gag.com/gag/aDYy48O)
- - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
+ - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 😝 [It will take her some time to recover from that...](http://9gag.com/gag/aeQLewQ)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
  - 😝 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
- - 😝 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 💣 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 👉 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)<!-- MEMES:END -->
+ - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
 
 ---
 

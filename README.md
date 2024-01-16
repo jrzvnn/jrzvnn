@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
- - 💣 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
+ - 😝 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)
+ - 😝 [Take a min to relax](http://9gag.com/gag/a5X4EoG)
+ - 💣 [STUPID...](http://9gag.com/gag/aOxw3r3)
+ - 😝 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
+ - 👉 [404 error...](http://9gag.com/gag/a6qPN68)<!-- MEMES:END -->
 
 ---
 

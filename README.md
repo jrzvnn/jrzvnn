@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
- - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 💣 [How?](http://9gag.com/gag/amA3BMd)
+ - 😝 [Sad for Starlight](http://9gag.com/gag/a8qZ5yO)
  - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 👉 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)<!-- MEMES:END -->
 
 ---
 

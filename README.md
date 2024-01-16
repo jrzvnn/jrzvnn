@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was wondering why you Youtube was slow today. They found a new way to annoy Adblock users.](http://9gag.com/gag/a6qPKDA)
- - 😝 [Sounds like you&#39;re squeaking in bed!](http://9gag.com/gag/amA3BAV)
- - 💣 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - 😝 [A guide dog courageously guides its master across the street](http://9gag.com/gag/aKERdwQ)
+ - 💣 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 😝 [Im half chinese and im half laughing](http://9gag.com/gag/a4ov3Lv)
+ - 👉 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)<!-- MEMES:END -->
 
 ---
 

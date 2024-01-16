@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic vs Apple suit finally ends, as Supreme Court refuses to hear both appeals](https://appleinsider.com/articles/24/01/16/epic-vs-apple-suit-finally-ends-as-supreme-court-refuses-to-hear-the-appeal?utm_medium=rss)
+ - [Turtle Beach’s first racing sim hardware is a direct drive wheel and pedal kit](https://www.theverge.com/2024/1/16/24039852/turtle-beach-velocityone-race-racing-sim-wheel-pedal-price-date)
  - [Daily deals Jan. 16: $99 AirPods, $100 off 10th Gen iPad, 75% off Microsoft Office Home &amp; Business 2021, more](https://appleinsider.com/articles/24/01/16/daily-deals-jan-16-99-airpods-100-off-10th-gen-ipad-75-off-microsoft-office-home-business-2021-more?utm_medium=rss)
  - [Source: Google has increasingly awarded select DeepMind researchers with large grants of restricted stock worth up to millions of dollars, to fend off OpenAI &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240116/p17#a240116p17)
- - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)
- - [Tokyo-based Sakana AI, which is focused on building smaller AI models, raised a $30M seed led by Lux Capital, a source says at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240116/p16#a240116p16)
- - [EU companies are complaining that US big tech is ignoring a new antitrust law](https://appleinsider.com/articles/24/01/16/us-companies-are-complaining-that-us-big-tech-is-ignoring-a-new-antitrust-law?utm_medium=rss)<!-- TECH:END -->
+ - [Quantinuum raised a $300M funding round, led by JPMorgan, that valued the quantum computing company at $5B; Honeywell remains the majority owner &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/240116/p15#a240116p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

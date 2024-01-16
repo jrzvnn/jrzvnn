@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
+ - [Apple gets FCC approval for Apple Vision Pro ahead of pre-order start](https://appleinsider.com/articles/24/01/16/apple-gets-fcc-approval-for-apple-vision-pro-ahead-of-pre-order-start?utm_medium=rss)
  - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
  - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)
- - [Rockstar Games’ owner is fighting Remedy Entertainment over it’s new ‘R’ logo](https://www.theverge.com/2024/1/16/24040179/take-two-rockstar-games-remedy-entertainment-logo-trademark-dispute)
- - [OpenAI VP Anna Makanju says the company is developing tools with the US DOD on open-source software and held talks on ways to assist preventing veteran suicide &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p19#a240116p19)
- - [Square Enix says it used AI art in upcoming Foamstars game](https://www.theverge.com/2024/1/16/24040124/square-enix-foamstars-ai-art-midjourney)<!-- TECH:END -->
+ - [Rockstar Games’ owner is fighting Remedy Entertainment over it’s new ‘R’ logo](https://www.theverge.com/2024/1/16/24040179/take-two-rockstar-games-remedy-entertainment-logo-trademark-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

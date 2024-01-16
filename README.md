@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft rebrands its $18/month tier as Ubisoft+ Premium and adds Ubisoft+ Classics on PC; executive Philippe Tremblay says there are &quot;millions&quot; of subscribers &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/240116/p8#a240116p8)
  - [Rumor: Display production for 11-inch OLED iPad Pro begins in days](https://appleinsider.com/articles/24/01/16/rumor-display-production-for-11-inch-oled-ipad-pro-begins-in-days?utm_medium=rss)
  - [Election 2024: How to use Apple News Live Activities to track every caucus](https://appleinsider.com/articles/24/01/16/election-2024-use-apple-news-live-activities-to-track-every-caucus?utm_medium=rss)
  - [The Sad Truth of the FTC&#39;s Location Data Privacy Settlement](https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/)
- - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)
- - [&#39;Black Bird&#39; scores Apple TV+ it&#39;s sole major Emmy award](https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will sustain chip order volume, but TSMC will have a tough quarter anyway](https://appleinsider.com/articles/24/01/16/apple-will-sustain-chip-order-volume-but-tsmc-will-have-a-tough-quarter-anyway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

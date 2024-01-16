@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What on earth is that thing?](http://9gag.com/gag/aOxwBdR)
- - 😝 [This clip from Avengers: Endgame &lpar;2019&rpar; that includes the audio of an early audience reaction always makes me smile](http://9gag.com/gag/aWGzEKx)
- - 💣 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
- - 😝 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)
- - 👉 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/amA3BMd)
+ - 😝 [BMW owner complains that another shop installed a custom exhaust but the car is down on power.](http://9gag.com/gag/adPE9PZ)
+ - 💣 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 😝 [Little sun glare never hurt anyone...](http://9gag.com/gag/aNwNg2v)
+ - 👉 [His goals are beyond my understanding](http://9gag.com/gag/aMEgAzA)<!-- MEMES:END -->
 
 ---
 

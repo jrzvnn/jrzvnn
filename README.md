@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)
  - [Apple Vision Pro hands-on: eye and hand tracking are very accurate, but typing is frustrating, the killer app is watching movies, can feel heavy after 15+ min &lpar;Engadget&rpar;](http://www.techmeme.com/240116/p20#a240116p20)
  - [iPhone eSIM Guide: How to get the most out of it](https://appleinsider.com/articles/24/01/12/heres-how-to-get-unlimited-data-abroad-on-your-iphone-with-this-complete-esim-guide?utm_medium=rss)
  - [The Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
- - [Apple gets FCC approval for Apple Vision Pro ahead of pre-order start](https://appleinsider.com/articles/24/01/16/apple-gets-fcc-approval-for-apple-vision-pro-ahead-of-pre-order-start?utm_medium=rss)
- - [Rechargeable Heated Gloves     - CNET](https://www.cnet.com/health/rechargeable-heated-gloves-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple gets FCC approval for Apple Vision Pro ahead of pre-order start](https://appleinsider.com/articles/24/01/16/apple-gets-fcc-approval-for-apple-vision-pro-ahead-of-pre-order-start?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

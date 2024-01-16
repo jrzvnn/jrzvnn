@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/amA3BMd)
- - 😝 [Good bye dishwasher, hello sewing machine.](http://9gag.com/gag/amA3Byy)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)<!-- MEMES:END -->
+ - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 💣 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 👉 [Nice](http://9gag.com/gag/aQEGRj8)<!-- MEMES:END -->
 
 ---
 

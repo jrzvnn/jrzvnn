@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia unveils a plan to mandate safeguards around the use of higher-risk AI, such as self-driving technology, potentially requiring auditing and labeling &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240116/p25#a240116p25)
  - [FCC filings seem to indicate Apple Vision Pro will not support Ultra Wideband, Wi-Fi 6E, or Wi-Fi 7 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240116/p24#a240116p24)
  - [The AI phones are coming](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24)
  - [Awesome Games Done Quick’s adorable dog speedrun was just the start](https://www.theverge.com/24040350/awesome-games-done-quick-2024-how-to-watch-twitch)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Sources: African neobank Kuda raised $20M in 2023 at a $500M valuation, same as its 2021 valuation; it has 7M retail and business users, short of projections &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240116/p23#a240116p23)<!-- TECH:END -->
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
+ - [Apple Vision Pro hands-on, again, for the first time](https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality)
  - [Rockstar Games’ owner is fighting Remedy Entertainment over it’s new ‘R’ logo](https://www.theverge.com/2024/1/16/24040179/take-two-rockstar-games-remedy-entertainment-logo-trademark-dispute)
  - [OpenAI VP Anna Makanju says the company is developing tools with the US DOD on open-source software and held talks on ways to assist preventing veteran suicide &lpar;Bloomberg&rpar;](http://www.techmeme.com/240116/p19#a240116p19)
- - [Square Enix says it used AI art in upcoming Foamstars game](https://www.theverge.com/2024/1/16/24040124/square-enix-foamstars-ai-art-midjourney)
- - [In 2023, US metaverse VC funding was just ~$910M, the lowest in at least six years and below a $3.11B peak in 2021; no consumer metaverse company raised $100M+ &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/240116/p18#a240116p18)
- - [Google layoffs continue with ‘hundreds’ from sales team](https://www.theverge.com/2024/1/16/24040093/google-layoffs-ad-sales-team)<!-- TECH:END -->
+ - [Square Enix says it used AI art in upcoming Foamstars game](https://www.theverge.com/2024/1/16/24040124/square-enix-foamstars-ai-art-midjourney)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global chip revenue dropped 11% YoY to $533B in 2023; Intel regained top spot with $48.7B, followed by Samsung&#39;s $39.9B; Nvidia was top five for the first time &lpar;Gartner&rpar;](http://www.techmeme.com/240117/p20#a240117p20)
  - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)
  - [Google DeepMind details AlphaGeometry, created by AI researcher Trieu Trinh and others to solve Olympiad geometry problems at nearly a human gold medalist level &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/240117/p19#a240117p19)
  - [AI models that don’t violate copyright are getting a new certification label](https://www.theverge.com/2024/1/17/24041518/generative-ai-copyright-violation-fair-training-label-certification)
- - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)
- - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)<!-- TECH:END -->
+ - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

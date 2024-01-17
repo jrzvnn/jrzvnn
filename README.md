@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers describe a GPU memory vulnerability that allows attackers to exfiltrate data from some devices with Apple, Qualcomm, Intel, and other chips &lpar;Wired&rpar;](http://www.techmeme.com/240117/p1#a240117p1)
+ - [T-Mobile Is Going Back to $60 Per Month Pricing for Home Internet Service     - CNET](https://www.cnet.com/tech/mobile/t-mobile-is-going-back-to-60-per-month-pricing-for-home-internet-service/#ftag=CAD590a51e)
  - [Thomson Reuters acquires a 53.81% stake in Swedish e-invoicing provider Pagero, and raises the buyout offer by 25% to $789M, seeking to ward off rival bids &lpar;Gokul Pisharody/Reuters&rpar;](http://www.techmeme.com/240116/p31#a240116p31)
  - [The CISA and the FBI warn that threat actors using Androxgh0st malware are building a botnet to steal credentials for AWS, Microsoft 365, and other cloud apps &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240116/p30#a240116p30)
- - [GameSir G8 Galileo Review: A more affordable pro gaming solution for iPhone](https://appleinsider.com/articles/24/01/17/gamesir-g8-galileo-review-a-more-affordable-pro-gaming-solution-for-iphone?utm_medium=rss)
- - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)<!-- TECH:END -->
+ - [GameSir G8 Galileo Review: A more affordable pro gaming solution for iPhone](https://appleinsider.com/articles/24/01/17/gamesir-g8-galileo-review-a-more-affordable-pro-gaming-solution-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 😝 [Can we not](http://9gag.com/gag/aKERGZ3)
+ - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)
+ - [Samsung&#39;s Budget-Friendly Galaxy S23 FE Is Down to $500 Ahead of S24 Launch     - CNET](https://www.cnet.com/deals/samsungs-budget-friendly-galaxy-s23-fe-is-down-to-500-ahead-of-s24-launch/#ftag=CAD590a51e)
  - [Winter sale: Amazon&#39;s top Apple discounts offer up to $250 off Mac, Apple Watch, iPad &amp; more](https://appleinsider.com/articles/24/01/17/winter-sale-amazons-top-apple-discounts-offer-up-to-250-off-mac-apple-watch-ipad-more?utm_medium=rss)
  - [iOS 17.3, iPadOS 17.3, and watchOS 10.3 coming week of Jan. 22](https://appleinsider.com/articles/24/01/17/ios-173-ipados-173-and-watchos-103-coming-week-of-jan-22?utm_medium=rss)
- - [Apple launches new Black Unity Bloom Apple Watch Band, wallpapers ahead of Black History Month](https://appleinsider.com/articles/24/01/17/apple-launches-new-black-unity-bloom-apple-watch-band-wallpapers-ahead-of-black-history-month?utm_medium=rss)
- - [Alphabet&#39;s Wing unveils a new drone that can carry up to five pounds, fly a 12 mile round trip, and cruise at 65mph, set for deployment in the next 12 months &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240117/p15#a240117p15)
- - [Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw](https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches new Black Unity Bloom Apple Watch Band, wallpapers ahead of Black History Month](https://appleinsider.com/articles/24/01/17/apple-launches-new-black-unity-bloom-apple-watch-band-wallpapers-ahead-of-black-history-month?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [GameSir G8 Galileo Review: A more affordable pro gaming solution for iPhone](https://appleinsider.com/articles/24/01/17/gamesir-g8-galileo-review-a-more-affordable-pro-gaming-solution-for-iphone?utm_medium=rss)
  - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)
  - [First Look at Rabbit R1 Mobile AI Device video     - CNET](https://www.cnet.com/videos/first-look-at-rabbit-r1-mobile-ai-device/#ftag=CAD590a51e)
- - [Asus ROG Phone 8 Pro Unboxed: A Unique Package for a Sleek Gaming Phone     - CNET](https://www.cnet.com/pictures/asus-rog-phone-8-pro-unboxed-the-sleek-phone-comes-in-a-monster-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Air Conditioner Deals: Save Now on AC Units for the Future     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

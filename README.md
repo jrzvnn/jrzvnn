@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 😝 [A Ghibli frog to accompany you on a Wednesday.](http://9gag.com/gag/aA0jyYE)
- - 💣 [Do the math](http://9gag.com/gag/aeQL9wW)
- - 😝 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)
- - 👉 [More bober](http://9gag.com/gag/a7qQ8Lz)<!-- MEMES:END -->
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 😝 [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
+ - 💣 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
 
 ---
 

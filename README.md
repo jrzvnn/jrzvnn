@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung teases the Galaxy Ring, a fitness tracker that will use AI, without providing information about its features, price, or release date &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240117/p33#a240117p33)
+ - [YouTube is the latest part of Google to be hit with layoffs](https://www.theverge.com/2024/1/17/24041841/youtube-business-layoffs-google)
+ - [Samsung is making a smart ring](https://www.theverge.com/2024/1/17/24041859/samsung-smart-galaxy-ring-unpacked)
  - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
- - [Hands-on with Galaxy S24 AI features: Circle to Search is accurate and convenient, Chat Assist can give hilarious suggestions, Live Translate was laggy, more &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240117/p32#a240117p32)
- - [Apple finally settles iPhone 7 &#39;loop disease&#39; class action suit](https://appleinsider.com/articles/24/01/17/apple-finally-settles-iphone-7-loop-disease-class-action-suit?utm_medium=rss)
- - [Galaxy S24 Ultra hands-on: a flat display makes sense given its size and S-Pen support, the titanium frame is nice, but it&#39;s still a hefty phone at 233 grams &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240117/p31#a240117p31)
- - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Galaxy S24 AI features: Circle to Search is accurate and convenient, Chat Assist can give hilarious suggestions, Live Translate was laggy, more &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240117/p32#a240117p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

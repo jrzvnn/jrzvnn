@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating experiment](http://9gag.com/gag/aMEgx7X)
- - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - 💣 [A contrast between two dates](http://9gag.com/gag/aDYy4GB)
+ - 😝 [No one likes architects](http://9gag.com/gag/aREnBLQ)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
  - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
  - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
  - 👉 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)<!-- MEMES:END -->
 
 ---

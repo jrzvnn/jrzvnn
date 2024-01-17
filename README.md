@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet&#39;s Wing unveils a new drone that can carry up to five pounds, fly a 12 mile round trip, and cruise at 65mph, set for deployment in the next 12 months &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240117/p15#a240117p15)
+ - [Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw](https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw?utm_medium=rss)
  - [Amazon now lets US users create AI-generated backgrounds using Alexa prompts on the second-gen Fire TV Stick 4K Max and the Fire TV Omni QLED Series &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240117/p14#a240117p14)
  - [Music streaming platforms must pay artists more, says EU](https://www.theverge.com/2024/1/17/24041343/eu-music-streaming-platform-artist-pay-europe-regulation)
- - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
- - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
- - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

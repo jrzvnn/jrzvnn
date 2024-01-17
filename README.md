@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon now lets US users create AI-generated backgrounds using Alexa prompts on the second-gen Fire TV Stick 4K Max and the Fire TV Omni QLED Series &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240117/p14#a240117p14)
+ - [Music streaming platforms must pay artists more, says EU](https://www.theverge.com/2024/1/17/24041343/eu-music-streaming-platform-artist-pay-europe-regulation)
  - [Amazon’s latest Fire TVs can now use AI to generate custom art backgrounds](https://www.theverge.com/24041313/amazon-fire-tv-ai-art-now-available-how-to-use)
  - [Alphabet’s Wing unveils larger drones for heavier packages](https://www.theverge.com/2024/1/17/24040030/wing-delivery-larger-drone-payload-capacity-alphabet)
- - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)
- - [AI and You: Microsoft&#39;s Copilot Moves, NYT-OpenAI Debate Fair Use, GPT Store Opens     - CNET](https://www.cnet.com/tech/computing/ai-and-you-microsofts-copilot-moves-nyt-openai-debate-fair-use-gpt-store-opens/#ftag=CAD590a51e)
- - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its a trap](http://9gag.com/gag/aKERmqj)
- - 😝 [White guy speaking to a black woman in her language](http://9gag.com/gag/a1P91Bb)
- - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 👉 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
 
 ---
 

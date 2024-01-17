@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - 😝 [I was wondering why you Youtube was slow today. They found a new way to annoy Adblock users.](http://9gag.com/gag/a6qPKDA)
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 👉 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)<!-- MEMES:END -->
 
 ---
 

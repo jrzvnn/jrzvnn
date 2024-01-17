@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)
+ - [Google DeepMind details AlphaGeometry, created by AI researcher Trieu Trinh and others to solve Olympiad geometry problems at nearly a human gold medalist level &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/240117/p19#a240117p19)
+ - [AI models that don’t violate copyright are getting a new certification label](https://www.theverge.com/2024/1/17/24041518/generative-ai-copyright-violation-fair-training-label-certification)
  - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)
- - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)
- - [Google plans to tweak search results to give comparison websites more prominence, including a new unit of links for such websites, to comply with the EU&#39;s DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240117/p16#a240117p16)
- - [Samsung&#39;s Budget-Friendly Galaxy S23 FE Is Down to $500 Ahead of S24 Launch     - CNET](https://www.cnet.com/deals/samsungs-budget-friendly-galaxy-s23-fe-is-down-to-500-ahead-of-s24-launch/#ftag=CAD590a51e)
- - [Winter sale: Amazon&#39;s top Apple discounts offer up to $250 off Mac, Apple Watch, iPad &amp; more](https://appleinsider.com/articles/24/01/17/winter-sale-amazons-top-apple-discounts-offer-up-to-250-off-mac-apple-watch-ipad-more?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp updates Channels to add voice updates, polls, and additional admins &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240117/p17#a240117p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)
+ - [CNN’s big plan to save itself is to be everywhere your phone is](https://www.theverge.com/2024/1/17/24041570/cnn-cable-digital-streaming-news)
  - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
  - [Apple rolls out release candidate beta for watchOS 10.3](https://appleinsider.com/articles/24/01/17/apple-rolls-out-release-candidate-beta-for-watchos-103?utm_medium=rss)
- - [Apple issues release candidate beta of tvOS 17.3](https://appleinsider.com/articles/24/01/17/apple-issues-release-candidate-beta-of-tvos-173?utm_medium=rss)
- - [Samsung pledges seven years of OS and security updates for the Galaxy S24 series, matching Google, which extended its update timeline in tandem with the Pixel 8 &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/240117/p29#a240117p29)
- - [The next iOS update will make it harder to break into your iPhone](https://www.theverge.com/2024/1/17/24041535/ios-17-3-release-stolen-device-protection-apple-iphone)<!-- TECH:END -->
+ - [Apple issues release candidate beta of tvOS 17.3](https://appleinsider.com/articles/24/01/17/apple-issues-release-candidate-beta-of-tvos-173?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

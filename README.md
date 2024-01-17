@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [The gift is so cute ...](http://9gag.com/gag/a7qQWzq)<!-- MEMES:END -->
+ - 😝 [Do the math](http://9gag.com/gag/aeQL9wW)
+ - 😝 [Oopsie!](http://9gag.com/gag/az2n5RB)
+ - 💣 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
+ - 😝 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)
+ - 👉 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 😝 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 💣 [Critical Mission](http://9gag.com/gag/aNwNPZb)
  - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 ---
 

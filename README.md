@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Department of Justice could file an antitrust lawsuit against Apple as soon as March](https://appleinsider.com/articles/24/01/17/department-of-justice-could-file-an-antitrust-lawsuit-against-apple-as-soon-as-march?utm_medium=rss)
+ - [Suck carbon out of the atmosphere and desalinate seawater at the same time? This startup is trying.](https://www.theverge.com/2024/1/17/24041405/capture-carbon-dioxide-desalination-petrochemicals-capture6-south-korea-pilot-project)
  - [Samsung teases the Galaxy Ring, a fitness tracker that will use AI, without providing information about its features, price, or release date &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240117/p33#a240117p33)
  - [YouTube is the latest part of Google to be hit with layoffs](https://www.theverge.com/2024/1/17/24041841/youtube-business-layoffs-google)
- - [Samsung is making a smart ring](https://www.theverge.com/2024/1/17/24041859/samsung-smart-galaxy-ring-unpacked)
- - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
- - [Hands-on with Galaxy S24 AI features: Circle to Search is accurate and convenient, Chat Assist can give hilarious suggestions, Live Translate was laggy, more &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240117/p32#a240117p32)<!-- TECH:END -->
+ - [Samsung is making a smart ring](https://www.theverge.com/2024/1/17/24041859/samsung-smart-galaxy-ring-unpacked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

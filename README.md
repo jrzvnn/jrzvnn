@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your unpopular opinion, about any subject you want.](http://9gag.com/gag/avQN5gZ)
- - 😝 [On your left Mr Beast](http://9gag.com/gag/axo578b)
- - 💣 [Lol...](http://9gag.com/gag/aMEgxVW)
- - 😝 [Second plane managed to land but not sure duct tape can fix it](http://9gag.com/gag/a9qoRzj)
- - 👉 [Leopard 2A5SE after an ATGM hit in Ukraine. Crew is fine Close Up Pic in Comments](http://9gag.com/gag/a9qoRDL)<!-- MEMES:END -->
+ - 😝 [Dating experiment](http://9gag.com/gag/aMEgx7X)
+ - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
+ - 💣 [A contrast between two dates](http://9gag.com/gag/aDYy4GB)
+ - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 👉 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
+ - 👉 [You and your average peers be like.](http://9gag.com/gag/armYnqp)<!-- MEMES:END -->
 
 ---
 

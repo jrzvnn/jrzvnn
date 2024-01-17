@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally settles iPhone 7 &#39;loop disease&#39; class action suit](https://appleinsider.com/articles/24/01/17/apple-finally-settles-iphone-7-loop-disease-class-action-suit?utm_medium=rss)
+ - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
  - [Galaxy S24 Ultra hands-on: a flat display makes sense given its size and S-Pen support, the titanium frame is nice, but it&#39;s still a hefty phone at 233 grams &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240117/p31#a240117p31)
  - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)
- - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)
- - [Tesla’s Cybertruck is having trouble living up to the hype](https://www.theverge.com/2024/1/17/24041344/tesla-cybertruck-hype-elon-musk-range)
- - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)<!-- TECH:END -->
+ - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

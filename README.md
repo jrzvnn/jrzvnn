@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
  - [Pitchfork to be absorbed into GQ](https://www.theverge.com/2024/1/17/24042208/pitchfork-to-be-absorbed-into-gq-layoffs)
  - [EA is finally launching Plants vs. Zombies 3](https://www.theverge.com/2024/1/17/24042133/ea-plants-vs-zombies-3-soft-launch)
  - [Former Meta COO Sheryl Sandberg plans to leave Meta&#39;s board of directors and become an informal advisor to the company in May 2024 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240117/p39#a240117p39)
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
- - [Netflix says use Safari on Apple Vision Pro, because you aren&#39;t getting an app](https://appleinsider.com/articles/24/01/17/netflix-says-use-safari-on-apple-vision-pro-because-you-arent-getting-an-app?utm_medium=rss)<!-- TECH:END -->
+ - [I Tried Ice Cream, Stir-Fry, Beer and Cocktails, all Made by Machines at CES &#39;24     - CNET](https://www.cnet.com/how-to/robots-made-me-a-heap-of-food-at-ces-2024-how-good-was-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

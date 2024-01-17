@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 😝 [I was wondering why you Youtube was slow today. They found a new way to annoy Adblock users.](http://9gag.com/gag/a6qPKDA)
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
 
 ---
 

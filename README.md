@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
- - 👉 [Lamp looks weird today](http://9gag.com/gag/armYVQV)<!-- MEMES:END -->
+ - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
+ - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 👉 [Speak up and find out](http://9gag.com/gag/amA3gEV)<!-- MEMES:END -->
 
 ---
 

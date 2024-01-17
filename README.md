@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
+ - 😝 [Its a trap](http://9gag.com/gag/aKERmqj)
+ - 😝 [White guy speaking to a black woman in her language](http://9gag.com/gag/a1P91Bb)
+ - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 👉 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)<!-- MEMES:END -->
 
 ---
 

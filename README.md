@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 😝 [Not today](http://9gag.com/gag/anz6OjV)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
  - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
 
 ---

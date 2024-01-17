@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)
+ - [Netflix’s Marvel shows are part of the MCU canon, and they always have been](https://www.theverge.com/24041362/netflix-marvel-daredevil-canon-vincent-donofrio-kingpin-charlie-cox)
  - [An AI Executive Turns AI Crusader to Stand Up for Artists](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
  - [The Apple Watch Series 9 and Ultra 2 Ban Is Back On](https://www.wired.com/story/apple-watch-series-9-and-ultra-2-ban-is-back-on/)
- - [Fujitsu says it has a &quot;moral obligation&quot; to compensate hundreds of UK postal employees wrongly prosecuted from 1999 to 2015 due to bugs in its Horizon software &lpar;BBC&rpar;](http://www.techmeme.com/240117/p37#a240117p37)
- - [Daily deals Jan. 17: $750 off 27&quot; iMac, Govee bulbs $15.99 each, Baseus dock 60% off, more](https://appleinsider.com/articles/24/01/17/daily-deals-jan-17-750-off-27-imac-govee-bulbs-1599-each-baseus-dock-60-off-more?utm_medium=rss)
- - [Ford’s F-150 Lightning performance one-off is for extreme off-roading](https://www.theverge.com/2024/1/17/24040080/ford-f150-lightning-switchgear-performance-demonstrator-specs)<!-- TECH:END -->
+ - [Fujitsu says it has a &quot;moral obligation&quot; to compensate hundreds of UK postal employees wrongly prosecuted from 1999 to 2015 due to bugs in its Horizon software &lpar;BBC&rpar;](http://www.techmeme.com/240117/p37#a240117p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

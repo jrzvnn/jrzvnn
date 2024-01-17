@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caught his homies girl with another man](http://9gag.com/gag/aGEXgXG)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 💣 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
  - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 👉 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)<!-- MEMES:END -->
+ - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one likes architects](http://9gag.com/gag/aREnBLQ)
- - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
- - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 👉 [She is alright](http://9gag.com/gag/aeQLg55)<!-- MEMES:END -->
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
 
 ---
 

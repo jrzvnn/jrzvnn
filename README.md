@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
+ - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 👉 [The gift is so cute ...](http://9gag.com/gag/a7qQWzq)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
  - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 👉 [You and your average peers be like.](http://9gag.com/gag/armYnqp)<!-- MEMES:END -->
+ - 👉 [What a waste](http://9gag.com/gag/aVbAYAv)<!-- MEMES:END -->
 
 ---
 

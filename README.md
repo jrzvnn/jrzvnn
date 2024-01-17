@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internet Watch Foundation: over 100K webpages featured self-generated CSAM in the past year, up 66% YoY; a record 275,655 webpages in total had CSAM, up 8% YoY &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/240117/p9#a240117p9)
- - [Lexington, Brookfield and Sequoia Heritage&#39;s Pinegrove, and StepStone are raising billions to buy stakes in VC-backed tech startups via secondary share sales &lpar;Financial Times&rpar;](http://www.techmeme.com/240117/p8#a240117p8)
- - [Apple bills Epic Games $73 million in legal costs](https://appleinsider.com/articles/24/01/17/apple-bills-epic-games-73-million-in-legal-costs?utm_medium=rss)
- - [24 Affordable Valentine&#39;s Day Gifts Under $50     - CNET](https://www.cnet.com/news/affordable-valentines-day-gifts-under-50/#ftag=CAD590a51e)
- - [How a 27-Year-Old Codebreaker Busted the Myth of Bitcoin’s Anonymity](https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/)<!-- TECH:END -->
+ - [Google partners with NPCI, which runs India&#39;s Unified Payments Interface, to expand beyond India; the UPI platform had ~$209B in transactions in November 2023 &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/240117/p10#a240117p10)
+ - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
+ - [Why Tech Workers Are Ditching Big Cities for Boise](https://www.wired.com/story/tech-jobs-boise-idaho/)
+ - [Big Tech Won’t Let You Leave. Here&#39;s a Way Out](https://www.wired.com/story/big-tech-wont-let-you-leave-heres-a-way-out/)
+ - [Global Emissions Could Peak Sooner Than You Think](https://www.wired.com/story/global-emissions-could-peak-sooner-than-you-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

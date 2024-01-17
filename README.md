@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Tencent&#39;s bet on Weixin Palm Payment, a palm scanning system launched in China in May 2023 for users of Weixin Pay, WeChat&#39;s sister app &lpar;CNN&rpar;](http://www.techmeme.com/240117/p4#a240117p4)
  - [CoinShares: US bitcoin ETFs had inflows of $984M in the first two days of trading, with BlackRock having $508M of inflows; Grayscale had $579M of outflows &lpar;Financial Times&rpar;](http://www.techmeme.com/240117/p3#a240117p3)
  - [Scabies Is Making a Comeback](https://www.wired.com/story/scabies-outbreak-uk-europe-treatment-shortages-drug-resistance-permethrin-ivermectin/)
  - [Sources: the Cyberspace Administration of China plans to review Shein&#39;s data handling and sharing practices, which could delay company&#39;s forthcoming US IPO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240117/p2#a240117p2)
- - [Researchers describe a GPU memory vulnerability that allows attackers to exfiltrate data from some devices with Apple, Qualcomm, Intel, and other chips &lpar;Wired&rpar;](http://www.techmeme.com/240117/p1#a240117p1)
- - [T-Mobile Is Going Back to $60 Per Month Pricing for Home Internet Service     - CNET](https://www.cnet.com/tech/mobile/t-mobile-is-going-back-to-60-per-month-pricing-for-home-internet-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers describe a GPU memory vulnerability that allows attackers to exfiltrate data from some devices with Apple, Qualcomm, Intel, and other chips &lpar;Wired&rpar;](http://www.techmeme.com/240117/p1#a240117p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

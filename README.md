@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)
+ - [Tesla’s Cybertruck is having trouble living up to the hype](https://www.theverge.com/2024/1/17/24041344/tesla-cybertruck-hype-elon-musk-range)
  - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)
  - [CNN’s big plan to save itself is to be everywhere your phone is](https://www.theverge.com/2024/1/17/24041570/cnn-cable-digital-streaming-news)
- - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
- - [Apple rolls out release candidate beta for watchOS 10.3](https://appleinsider.com/articles/24/01/17/apple-rolls-out-release-candidate-beta-for-watchos-103?utm_medium=rss)
- - [Apple issues release candidate beta of tvOS 17.3](https://appleinsider.com/articles/24/01/17/apple-issues-release-candidate-beta-of-tvos-173?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

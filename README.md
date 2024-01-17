@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [New BMW Simulator](http://9gag.com/gag/aMEgE4A)
- - 👉 [Mr. Buzz\u2019n Frog](http://9gag.com/gag/aKEREDb)<!-- MEMES:END -->
+ - 😝 [Lmao =&rpar;&rpar;&rpar;](http://9gag.com/gag/aPg5RyP)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 😝 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
 
 ---
 

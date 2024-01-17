@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 😝 [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
- - 💣 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
  - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
+ - 💣 [You and your average peers be like.](http://9gag.com/gag/armYnqp)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [The gift is so cute ...](http://9gag.com/gag/a7qQWzq)<!-- MEMES:END -->
 
 ---
 

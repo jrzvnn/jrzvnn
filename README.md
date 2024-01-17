@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon plans a paid version of Alexa by June 2024, with an AI-powered version of Alexa, but internal politics and technical issues plague the project &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240117/p22#a240117p22)
  - [This solid budget robovac is more than half off](https://www.theverge.com/2024/1/17/24040098/yeedi-vac-2-pro-jbl-wind-3-opal-c1-webcam-diablo-iv-deal-sale)
  - [Notion debuts Notion Calendar, a free app on Mac, Windows, iOS, and the web with an optional Notion integration, after buying the calendar app Cron in June 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240117/p21#a240117p21)
  - [Google Search, Chrome, and Android are all changing thanks to EU antitrust law](https://www.theverge.com/2024/1/17/24041581/google-search-chrome-android-price-comparison-digital-markets-act-eu)
- - [Ira Glass is coming to Hot Pod Summit](https://www.theverge.com/2024/1/17/24041477/ira-glass-hot-pod-summit-on-air-fest-stephen-dubner)
- - [Notion’s new calendar app is designed to keep your meetings organized](https://www.theverge.com/2024/1/17/24041330/notion-calendar-app)<!-- TECH:END -->
+ - [Ira Glass is coming to Hot Pod Summit](https://www.theverge.com/2024/1/17/24041477/ira-glass-hot-pod-summit-on-air-fest-stephen-dubner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

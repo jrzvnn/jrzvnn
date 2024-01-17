@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pitchfork to be absorbed into GQ](https://www.theverge.com/2024/1/17/24042208/pitchfork-to-be-absorbed-into-gq-layoffs)
  - [EA is finally launching Plants vs. Zombies 3](https://www.theverge.com/2024/1/17/24042133/ea-plants-vs-zombies-3-soft-launch)
  - [Former Meta COO Sheryl Sandberg plans to leave Meta&#39;s board of directors and become an informal advisor to the company in May 2024 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240117/p39#a240117p39)
- - [I Tried Ice Cream, Stir-Fry, Beer and Cocktails, all Made by Machines at CES &#39;24     - CNET](https://www.cnet.com/how-to/robots-made-me-a-heap-of-food-at-ces-2024-how-good-was-it/#ftag=CAD590a51e)
- - [Hand Crank Radio     - CNET](https://www.cnet.com/news/hand-crank-radio-dpnl/#ftag=CAD590a51e)
- - [Emergency Water Packets     - CNET](https://www.cnet.com/news/emergency-water-packets-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
+ - [Netflix says use Safari on Apple Vision Pro, because you aren&#39;t getting an app](https://appleinsider.com/articles/24/01/17/netflix-says-use-safari-on-apple-vision-pro-because-you-arent-getting-an-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Lexington, Brookfield and Sequoia Heritage&#39;s Pinegrove, and StepStone are raising billions to buy stakes in VC-backed tech startups via secondary share sales &lpar;Financial Times&rpar;](http://www.techmeme.com/240117/p8#a240117p8)
  - [Apple bills Epic Games $73 million in legal costs](https://appleinsider.com/articles/24/01/17/apple-bills-epic-games-73-million-in-legal-costs?utm_medium=rss)
+ - [24 Affordable Valentine&#39;s Day Gifts Under $50     - CNET](https://www.cnet.com/news/affordable-valentines-day-gifts-under-50/#ftag=CAD590a51e)
  - [How a 27-Year-Old Codebreaker Busted the Myth of Bitcoin’s Anonymity](https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/)
- - [Filing: Kazakhstan-based mobile app provider Kaspi.kz&#39;s CEO and other shareholders plan to sell 9M shares for $873M; Kaspi.kz&#39;s Super App had 13.5M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240117/p7#a240117p7)
- - [Omdia: the healthcare sector suffered more cyberattacks than any other sector between January and September 2023, with 241 publicly disclosed attacks &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240117/p6#a240117p6)<!-- TECH:END -->
+ - [Filing: Kazakhstan-based mobile app provider Kaspi.kz&#39;s CEO and other shareholders plan to sell 9M shares for $873M; Kaspi.kz&#39;s Super App had 13.5M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240117/p7#a240117p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

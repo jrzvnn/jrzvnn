@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
- - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [New BMW Simulator](http://9gag.com/gag/aMEgE4A)
+ - 👉 [When suddenly you become a new meme](http://9gag.com/gag/aoKXK8e)<!-- MEMES:END -->
 
 ---
 

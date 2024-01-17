@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Magic Leap&#39;s CEO and CTO talk about the future of the company, as a filing shows it received $590M in debt funding from Saudi Arabia&#39;s Public Investment Fund &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240116/p28#a240116p28)
+ - [Nvidia GeForce RTX 4070 Super Review: Still Hits the Sweet Spot     - CNET](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4070-super-review-still-hits-the-sweet-spot/#ftag=CAD590a51e)
+ - [Best MacBook Deals: Save on the Very Best Apple Laptops     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
  - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)
- - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)
- - [iPhone 14 Deals: Score One for Free with Trade-In, New Line and More     - CNET](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)
- - [The &#39;Sex Update&#39; for &#39;Cult of the Lamb&#39; Is a Good Sign for Horny Video Games](https://www.wired.com/story/cult-of-the-lamb-sins-of-the-flesh-sex-update-horny-games/)
- - [B&amp;H&#39;s red-hot Apple deals have shoppers saving up to $1,200 to help fight the winter blues](https://appleinsider.com/articles/24/01/16/bhs-red-hot-apple-deals-have-shoppers-saving-up-to-1200-to-help-fight-the-winter-blues?utm_medium=rss)<!-- TECH:END -->
+ - [The Treasury and IRS say they aren&#39;t enforcing a rule requiring businesses to report the receipt of digital assets worth $10K+ within 15 days of receiving them &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240116/p27#a240116p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

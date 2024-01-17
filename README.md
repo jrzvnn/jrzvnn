@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s new AI feature will write you a bedtime story about hard drives](https://www.theverge.com/2024/1/17/24041745/amazon-generative-ai-llm-reviews)
  - [Samsung’s Galaxy S24 and AI event: all the news](https://www.theverge.com/2024/1/17/24041928/samsung-galaxy-s24-ai-event-2024)
  - [Sources: YouTube is restructuring its creator management teams, including consolidating various sports, media, film, and TV teams into a single global team &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/240117/p36#a240117p36)
  - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
- - [Apple Watches with blood oxygen tech are banned again](https://www.theverge.com/2024/1/17/24041945/apple-watch-series-9-ultra-2-blood-oxygen-ban)
- - [Email: YouTube plans to cut 100 employees from its operations and creator management teams; a source says YouTube employs 7,173 people &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240117/p35#a240117p35)<!-- TECH:END -->
+ - [Apple Watches with blood oxygen tech are banned again](https://www.theverge.com/2024/1/17/24041945/apple-watch-series-9-ultra-2-blood-oxygen-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

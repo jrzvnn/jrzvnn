@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Uber is working with Tesla to urge its drivers to switch to EVs in a bid to be emissions-free in the US and Canada by 2030, including by sharing trip data &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240116/p29#a240116p29)
- - [Magic Leap&#39;s CEO and CTO talk about the future of the company, as a filing shows it received $590M in debt funding from Saudi Arabia&#39;s Public Investment Fund &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240116/p28#a240116p28)
- - [Nvidia GeForce RTX 4070 Super Review: Still Hits the Sweet Spot     - CNET](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4070-super-review-still-hits-the-sweet-spot/#ftag=CAD590a51e)
- - [Best MacBook Deals: Save on the Very Best Apple Laptops     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Apple’s App Store policies now let US developers link to outside payments](https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad)<!-- TECH:END -->
+ - [First Look at Rabbit R1 Mobile AI Device video     - CNET](https://www.cnet.com/videos/first-look-at-rabbit-r1-mobile-ai-device/#ftag=CAD590a51e)
+ - [Best Portable Air Conditioner Deals: Save Now on AC Units for the Future     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)
+ - [Asus ROG Phone 8 Pro Unboxed: A Unique Package for a Sleek Gaming Phone     - CNET](https://www.cnet.com/pictures/asus-rog-phone-8-pro-unboxed-the-sleek-phone-comes-in-a-monster-box/#ftag=CAD590a51e)
+ - [Apple Tops 2023 Smartphone Shipments Ahead of Samsung Galaxy Unpacked     - CNET](https://www.cnet.com/tech/mobile/apple-tops-2023-smartphone-shipments-ahead-of-samsung-galaxy-unpacked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

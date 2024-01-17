@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford’s F-150 Lightning performance one-off is for extreme off-roading](https://www.theverge.com/2024/1/17/24040080/ford-f150-lightning-switchgear-performance-demonstrator-specs)
+ - [After eight years and almost 3,000 songs, Rock Band 4’s DLC drops are ending](https://www.theverge.com/2024/1/17/24041933/rock-band-4-dlc-songs-ending-fortnite-festival-harmonix)
  - [Amazon’s new AI feature will write you a bedtime story about hard drives](https://www.theverge.com/2024/1/17/24041745/amazon-generative-ai-llm-reviews)
  - [Samsung’s Galaxy S24 and AI event: all the news](https://www.theverge.com/2024/1/17/24041928/samsung-galaxy-s24-ai-event-2024)
- - [Sources: YouTube is restructuring its creator management teams, including consolidating various sports, media, film, and TV teams into a single global team &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/240117/p36#a240117p36)
- - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
- - [Apple Watches with blood oxygen tech are banned again](https://www.theverge.com/2024/1/17/24041945/apple-watch-series-9-ultra-2-blood-oxygen-ban)<!-- TECH:END -->
+ - [Sources: YouTube is restructuring its creator management teams, including consolidating various sports, media, film, and TV teams into a single global team &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/240117/p36#a240117p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

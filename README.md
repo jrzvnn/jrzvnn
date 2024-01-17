@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Winter sale: Amazon&#39;s top Apple discounts offer up to $250 off Mac, Apple Watch, iPad &amp; more](https://appleinsider.com/articles/24/01/17/winter-sale-amazons-top-apple-discounts-offer-up-to-250-off-mac-apple-watch-ipad-more?utm_medium=rss)
  - [iOS 17.3, iPadOS 17.3, and watchOS 10.3 coming week of Jan. 22](https://appleinsider.com/articles/24/01/17/ios-173-ipados-173-and-watchos-103-coming-week-of-jan-22?utm_medium=rss)
  - [Apple launches new Black Unity Bloom Apple Watch Band, wallpapers ahead of Black History Month](https://appleinsider.com/articles/24/01/17/apple-launches-new-black-unity-bloom-apple-watch-band-wallpapers-ahead-of-black-history-month?utm_medium=rss)
  - [Alphabet&#39;s Wing unveils a new drone that can carry up to five pounds, fly a 12 mile round trip, and cruise at 65mph, set for deployment in the next 12 months &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240117/p15#a240117p15)
- - [Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw](https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw?utm_medium=rss)
- - [Amazon now lets US users create AI-generated backgrounds using Alexa prompts on the second-gen Fire TV Stick 4K Max and the Fire TV Omni QLED Series &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240117/p14#a240117p14)<!-- TECH:END -->
+ - [Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw](https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

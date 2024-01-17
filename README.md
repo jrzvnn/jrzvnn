@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is not planning to launch a native Apple Vision Pro app or allow its iPad app on the platform, and says users can watch Netflix on the web browser &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240117/p38#a240117p38)
+ - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
  - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)
- - [Netflix’s Marvel shows are part of the MCU canon, and they always have been](https://www.theverge.com/24041362/netflix-marvel-daredevil-canon-vincent-donofrio-kingpin-charlie-cox)
- - [An AI Executive Turns AI Crusader to Stand Up for Artists](https://www.wired.com/story/ai-executive-ed-newton-rex-turns-crusader-stand-up-for-artists/)
- - [The Apple Watch Series 9 and Ultra 2 Ban Is Back On](https://www.wired.com/story/apple-watch-series-9-and-ultra-2-ban-is-back-on/)
- - [Fujitsu says it has a &quot;moral obligation&quot; to compensate hundreds of UK postal employees wrongly prosecuted from 1999 to 2015 due to bugs in its Horizon software &lpar;BBC&rpar;](http://www.techmeme.com/240117/p37#a240117p37)<!-- TECH:END -->
+ - [29 Cutting-Edge Products From CES 2024 That You Could Buy Right Now     - CNET](https://www.cnet.com/deals/29-cutting-edge-products-from-ces-2024-that-you-could-buy-right-now/#ftag=CAD590a51e)
+ - [Best Extra-Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

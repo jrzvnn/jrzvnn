@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
  - 😝 [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
- - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
 
 ---
 

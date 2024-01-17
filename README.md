@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
  - [Netflix says use Safari on Apple Vision Pro, because you aren&#39;t getting an app](https://appleinsider.com/articles/24/01/17/netflix-says-use-safari-on-apple-vision-pro-because-you-arent-getting-an-app?utm_medium=rss)
  - [Netflix is not planning to launch a native Apple Vision Pro app or allow its iPad app on the platform, and says users can watch Netflix on the web browser &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240117/p38#a240117p38)
  - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
- - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)
- - [29 Cutting-Edge Products From CES 2024 That You Could Buy Right Now     - CNET](https://www.cnet.com/deals/29-cutting-edge-products-from-ces-2024-that-you-could-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to preorder Samsung’s new Galaxy S24, S24 Plus, and S24 Ultra](https://www.theverge.com/24036657/samsung-galaxy-s24-plus-ultra-how-to-buy-preorder-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

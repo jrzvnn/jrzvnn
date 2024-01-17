@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
- - 💣 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)
- - 😝 [Mr. Buzz\u2019n Frog](http://9gag.com/gag/aKEREDb)
- - 👉 [Art school](http://9gag.com/gag/aXnBrN6)<!-- MEMES:END -->
+ - 😝 [What a waste](http://9gag.com/gag/aVbAYAv)
+ - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 💣 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 👉 [True Love](http://9gag.com/gag/a1P9Q8b)<!-- MEMES:END -->
 
 ---
 

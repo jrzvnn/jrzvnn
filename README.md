@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)
  - [Google DeepMind details AlphaGeometry, created by AI researcher Trieu Trinh and others to solve Olympiad geometry problems at nearly a human gold medalist level &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/240117/p19#a240117p19)
  - [AI models that don’t violate copyright are getting a new certification label](https://www.theverge.com/2024/1/17/24041518/generative-ai-copyright-violation-fair-training-label-certification)
- - [Researchers detail PixieFail, a set of nine vulnerabilities in UEFI firmware from five of the top suppliers that helps hackers infect devices with malware &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240117/p18#a240117p18)<!-- TECH:END -->
+ - [Join CNET&#39;s Samsung Unpacked Event Party: Watching for the Galaxy S24 Reveal     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-event-party-watching-for-the-galaxy-s24-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

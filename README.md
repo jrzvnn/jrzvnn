@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 😝 [Sad for Starlight](http://9gag.com/gag/a8qZ5yO)
- - 💣 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 💣 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [New BMW Simulator](http://9gag.com/gag/aMEgE4A)
+ - 👉 [Mr. Buzz\u2019n Frog](http://9gag.com/gag/aKEREDb)<!-- MEMES:END -->
 
 ---
 

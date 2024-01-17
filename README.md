@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)
  - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)
  - [Tesla’s Cybertruck is having trouble living up to the hype](https://www.theverge.com/2024/1/17/24041344/tesla-cybertruck-hype-elon-musk-range)
  - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)
- - [CNN’s big plan to save itself is to be everywhere your phone is](https://www.theverge.com/2024/1/17/24041570/cnn-cable-digital-streaming-news)
- - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)<!-- TECH:END -->
+ - [CNN’s big plan to save itself is to be everywhere your phone is](https://www.theverge.com/2024/1/17/24041570/cnn-cable-digital-streaming-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

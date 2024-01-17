@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple profits rise 550% in South Korea](https://appleinsider.com/articles/24/01/17/apple-profits-rise-550-in-south-korea?utm_medium=rss)
+ - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)
  - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)
  - [How to draw pictures in iMessage on iOS 17](https://appleinsider.com/inside/imessage/tips/how-to-draw-pictures-in-imessage-on-ios-17?utm_medium=rss)
- - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
- - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
- - [Google updates its Chrome Incognito disclaimer after a privacy settlement, saying that Incognito mode &quot;won&#39;t change how data is collected&quot; by Google and others &lpar;Venkat Eswarlu/MSPoweruser&rpar;](http://www.techmeme.com/240117/p11#a240117p11)<!-- TECH:END -->
+ - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

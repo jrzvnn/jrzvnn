@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: YouTube plans to cut 100 employees from its operations and creator management teams; a source says YouTube employs 7,173 people &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240117/p35#a240117p35)
  - [Google Updates Chrome&#39;s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode](https://www.wired.com/story/chrome-incognito-mode-privacy-warning/)
  - [Apple Watch ban back on, court denies Apple&#39;s appeal to keep it on the market](https://appleinsider.com/articles/24/01/17/apple-watch-ban-back-on-court-denies-apples-appeal-to-keep-it-on-the-market?utm_medium=rss)
  - [The Apple Watch Series 9 and Ultra 2 will be banned in the US again, effective January 18, after a US court of appeals denies Apple&#39;s request to pause the ban &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p34#a240117p34)
- - [Samsung’s Galaxy S24 Ultra might fend off scratches just as well as drops](https://www.theverge.com/2024/1/17/24041838/samsung-galaxy-s24-ultra-scratch-resistance-corning-gorilla-armor)
- - [Department of Justice could file an antitrust lawsuit against Apple as soon as March](https://appleinsider.com/articles/24/01/17/department-of-justice-could-file-an-antitrust-lawsuit-against-apple-as-soon-as-march?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy S24 Ultra might fend off scratches just as well as drops](https://www.theverge.com/2024/1/17/24041838/samsung-galaxy-s24-ultra-scratch-resistance-corning-gorilla-armor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans a paid version of Alexa by June 2024, with an AI-powered version of Alexa, but internal politics and technical issues plague the project &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240117/p22#a240117p22)
- - [This solid budget robovac is more than half off](https://www.theverge.com/2024/1/17/24040098/yeedi-vac-2-pro-jbl-wind-3-opal-c1-webcam-diablo-iv-deal-sale)
- - [Notion debuts Notion Calendar, a free app on Mac, Windows, iOS, and the web with an optional Notion integration, after buying the calendar app Cron in June 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240117/p21#a240117p21)
- - [Google Search, Chrome, and Android are all changing thanks to EU antitrust law](https://www.theverge.com/2024/1/17/24041581/google-search-chrome-android-price-comparison-digital-markets-act-eu)
- - [Ira Glass is coming to Hot Pod Summit](https://www.theverge.com/2024/1/17/24041477/ira-glass-hot-pod-summit-on-air-fest-stephen-dubner)<!-- TECH:END -->
+ - [Samsung announces the Galaxy S24 Ultra, with a new titanium finish, a 6.8&quot; 1440p display, a 50-megapixel camera with 5x zoom, shipping on January 31 from $1,299 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240117/p25#a240117p25)
+ - [A live blog of Samsung Galaxy Unpacked, where the Galaxy S24, S24 Plus, and S24 Ultra are expected &lpar;Engadget&rpar;](http://www.techmeme.com/240117/p24#a240117p24)
+ - [Google Circle to Search and AI-Powered Multi-Search Coming to Mobile](https://www.wired.com/story/google-circle-to-search-ai-powered-multi-search/)
+ - [Samsung Galaxy S24, Galaxy S24+, Galaxy S24 Ultra: Specs, Release Date, Price, Features](https://www.wired.com/story/samsung-galaxy-unpacked-2024/)
+ - [Google’s Circle to Search is a dead-simple way to find what you’re looking for](https://www.theverge.com/2024/1/17/24041198/google-circle-to-search-samsung-galaxy-multi-search-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

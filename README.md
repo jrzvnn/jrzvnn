@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
- - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 💣 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
  - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
- - 👉 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)<!-- MEMES:END -->
+ - 💣 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 😝 [Maybe don&#39;t fire the only Engineer who&#39;s been trained to maintain and fix 5 of the 7 highly specialised machines on the factory floor.](http://9gag.com/gag/aGEXprz)
+ - 👉 [You and your average peers be like.](http://9gag.com/gag/armYnqp)<!-- MEMES:END -->
 
 ---
 

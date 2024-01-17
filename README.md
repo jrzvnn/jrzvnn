@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This solid budget robovac is more than half off](https://www.theverge.com/2024/1/17/24040098/yeedi-vac-2-pro-jbl-wind-3-opal-c1-webcam-diablo-iv-deal-sale)
+ - [Notion debuts Notion Calendar, a free app on Mac, Windows, iOS, and the web with an optional Notion integration, after buying the calendar app Cron in June 2022 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240117/p21#a240117p21)
  - [Google Search, Chrome, and Android are all changing thanks to EU antitrust law](https://www.theverge.com/2024/1/17/24041581/google-search-chrome-android-price-comparison-digital-markets-act-eu)
  - [Ira Glass is coming to Hot Pod Summit](https://www.theverge.com/2024/1/17/24041477/ira-glass-hot-pod-summit-on-air-fest-stephen-dubner)
- - [Notion’s new calendar app is designed to keep your meetings organized](https://www.theverge.com/2024/1/17/24041330/notion-calendar-app)
- - [Global chip revenue dropped 11% YoY to $533B in 2023; Intel regained top spot with $48.7B, followed by Samsung&#39;s $39.9B; Nvidia was top five for the first time &lpar;Gartner&rpar;](http://www.techmeme.com/240117/p20#a240117p20)
- - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Notion’s new calendar app is designed to keep your meetings organized](https://www.theverge.com/2024/1/17/24041330/notion-calendar-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

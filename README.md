@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Questionable new-year iPhone production cutback reports have already started](https://appleinsider.com/articles/24/01/17/questionable-new-year-iphone-production-cutback-reports-have-already-started?utm_medium=rss)
+ - [AI and You: Microsoft&#39;s Copilot Moves, NYT-OpenAI Debate Fair Use, GPT Store Opens     - CNET](https://www.cnet.com/tech/computing/ai-and-you-microsofts-copilot-moves-nyt-openai-debate-fair-use-gpt-store-opens/#ftag=CAD590a51e)
+ - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
  - [Apple profits rise 550% in South Korea](https://appleinsider.com/articles/24/01/17/apple-profits-rise-550-in-south-korea?utm_medium=rss)
- - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)
- - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)
- - [How to draw pictures in iMessage on iOS 17](https://appleinsider.com/inside/imessage/tips/how-to-draw-pictures-in-imessage-on-ios-17?utm_medium=rss)
- - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

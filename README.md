@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the math](http://9gag.com/gag/aeQL9wW)
- - 😝 [Oopsie!](http://9gag.com/gag/az2n5RB)
- - 💣 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
- - 😝 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)
- - 👉 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)<!-- MEMES:END -->
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 💣 [You thought cavities were bad?](http://9gag.com/gag/a3ZmEL5)
+ - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
+ - 👉 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)<!-- MEMES:END -->
 
 ---
 

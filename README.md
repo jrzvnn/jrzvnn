@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S24 Ultra hands-on: a flat display makes sense given its size and S-Pen support, the titanium frame is nice, but it&#39;s still a hefty phone at 233 grams &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240117/p31#a240117p31)
  - [AirTag-equipped SUV gets stolen and tracked across the planet](https://appleinsider.com/articles/24/01/17/airtag-equipped-suv-gets-stolen-and-tracked-across-the-planet?utm_medium=rss)
  - [Android Auto will soon reflect design elements, like wallpaper and icons, of Samsung Galaxy phones, and offer AI chat summaries, relevant replies, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240117/p30#a240117p30)
  - [Tesla’s Cybertruck is having trouble living up to the hype](https://www.theverge.com/2024/1/17/24041344/tesla-cybertruck-hype-elon-musk-range)
- - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)
- - [CNN’s big plan to save itself is to be everywhere your phone is](https://www.theverge.com/2024/1/17/24041570/cnn-cable-digital-streaming-news)<!-- TECH:END -->
+ - [This E Ink climate sensor cuts the cloud and adds Matter](https://www.theverge.com/2024/1/17/24040874/shelly-climate-sensor-matter-upgrade-mini-gen-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

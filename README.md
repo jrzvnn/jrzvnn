@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 😝 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
- - 💣 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)
- - 😝 [Art school](http://9gag.com/gag/aXnBrN6)
- - 👉 [Mr. Buzz\u2019n Frog](http://9gag.com/gag/aKEREDb)<!-- MEMES:END -->
+ - 😝 [Hello everybody!](http://9gag.com/gag/aqe0gV7)
+ - 😝 [You like that?](http://9gag.com/gag/ap9OGVW)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---
 

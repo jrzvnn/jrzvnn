@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aQEGRj8)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 💣 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
- - 😝 [Nice](http://9gag.com/gag/anz69Zo)
- - 👉 [Mans duty](http://9gag.com/gag/aGEXEmG)<!-- MEMES:END -->
+ - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [Damn Austria and its damn fauna](http://9gag.com/gag/a3ZmR71)
+ - 👉 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
 
 ---
 

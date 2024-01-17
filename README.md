@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces the Galaxy S24 Ultra, with a new titanium finish, a 6.8&quot; 1440p display, a 50-megapixel camera with 5x zoom, shipping on January 31 from $1,299 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240117/p25#a240117p25)
- - [A live blog of Samsung Galaxy Unpacked, where the Galaxy S24, S24 Plus, and S24 Ultra are expected &lpar;Engadget&rpar;](http://www.techmeme.com/240117/p24#a240117p24)
- - [Google Circle to Search and AI-Powered Multi-Search Coming to Mobile](https://www.wired.com/story/google-circle-to-search-ai-powered-multi-search/)
- - [Samsung Galaxy S24, Galaxy S24+, Galaxy S24 Ultra: Specs, Release Date, Price, Features](https://www.wired.com/story/samsung-galaxy-unpacked-2024/)
- - [Google’s Circle to Search is a dead-simple way to find what you’re looking for](https://www.theverge.com/2024/1/17/24041198/google-circle-to-search-samsung-galaxy-multi-search-generative-ai)<!-- TECH:END -->
+ - [Samsung introduces Galaxy S24, S24+, S24 Ultra with 50MP, 200MP cameras](https://appleinsider.com/articles/24/01/17/samsung-introduces-galaxy-s24-s24-s24-ultra-with-50mp-200mp-cameras?utm_medium=rss)
+ - [Apple rolls out release candidate beta for watchOS 10.3](https://appleinsider.com/articles/24/01/17/apple-rolls-out-release-candidate-beta-for-watchos-103?utm_medium=rss)
+ - [Apple issues release candidate beta of tvOS 17.3](https://appleinsider.com/articles/24/01/17/apple-issues-release-candidate-beta-of-tvos-173?utm_medium=rss)
+ - [Samsung pledges seven years of OS and security updates for the Galaxy S24 series, matching Google, which extended its update timeline in tandem with the Pixel 8 &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/240117/p29#a240117p29)
+ - [The next iOS update will make it harder to break into your iPhone](https://www.theverge.com/2024/1/17/24041535/ios-17-3-release-stolen-device-protection-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

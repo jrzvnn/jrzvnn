@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 💣 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
- - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
+ - 😝 [Call your dad and tell him you love him](http://9gag.com/gag/aKER6QQ)
+ - 😝 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
+ - 💣 [Recently divorced. Starting over again. She took everything. Wish me luck guys](http://9gag.com/gag/a04BZoO)
+ - 😝 [Mr. Buzz\u2019n Frog](http://9gag.com/gag/aKEREDb)
+ - 👉 [Art school](http://9gag.com/gag/aXnBrN6)<!-- MEMES:END -->
 
 ---
 

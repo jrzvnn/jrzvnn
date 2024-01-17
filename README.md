@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ira Glass is coming to Hot Pod Summit](https://www.theverge.com/2024/1/17/24041477/ira-glass-hot-pod-summit-on-air-fest-stephen-dubner)
+ - [Notion’s new calendar app is designed to keep your meetings organized](https://www.theverge.com/2024/1/17/24041330/notion-calendar-app)
  - [Global chip revenue dropped 11% YoY to $533B in 2023; Intel regained top spot with $48.7B, followed by Samsung&#39;s $39.9B; Nvidia was top five for the first time &lpar;Gartner&rpar;](http://www.techmeme.com/240117/p20#a240117p20)
  - [&#39;Killers of the Flower Moon&#39; takes Best Picture at AARP Movies for Grownups awards](https://appleinsider.com/articles/24/01/17/killers-of-the-flower-moon-takes-best-picture-at-aarp-movies-for-grownups-awards?utm_medium=rss)
- - [Google DeepMind details AlphaGeometry, created by AI researcher Trieu Trinh and others to solve Olympiad geometry problems at nearly a human gold medalist level &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/240117/p19#a240117p19)
- - [AI models that don’t violate copyright are getting a new certification label](https://www.theverge.com/2024/1/17/24041518/generative-ai-copyright-violation-fair-training-label-certification)
- - [Join CNET&#39;s Samsung Unpacked Event Party: Watching for the Galaxy S24 Reveal     - CNET](https://www.cnet.com/tech/mobile/join-cnets-samsung-unpacked-event-party-watching-for-the-galaxy-s24-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google DeepMind details AlphaGeometry, created by AI researcher Trieu Trinh and others to solve Olympiad geometry problems at nearly a human gold medalist level &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/240117/p19#a240117p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

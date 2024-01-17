@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speak up and find out](http://9gag.com/gag/amA3gEV)
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 👉 [The gift is so cute ...](http://9gag.com/gag/a7qQWzq)<!-- MEMES:END -->
+ - 😝 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)
+ - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
+ - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
 
 ---
 

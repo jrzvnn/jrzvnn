@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel the same way.](http://9gag.com/gag/aDYyYDK)
- - 😝 [A short and wiggy title does the trick.](http://9gag.com/gag/a2KeWNE)
- - 💣 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 😝 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [Clown world](http://9gag.com/gag/aMEgxN1)
+ - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 👉 [You like that?](http://9gag.com/gag/ap9OGVW)<!-- MEMES:END -->
 
 ---
 

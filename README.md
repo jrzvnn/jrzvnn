@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [Can we not](http://9gag.com/gag/aKERGZ3)
- - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 😝 [Lamp looks weird today](http://9gag.com/gag/armYVQV)
+ - 💣 [I feel the same way.](http://9gag.com/gag/aDYyYDK)
  - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
+ - 👉 [How to remove youtube adblock delay](http://9gag.com/gag/a8qZGDZ)<!-- MEMES:END -->
 
 ---
 

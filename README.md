@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Kazakhstan-based mobile app provider Kaspi.kz&#39;s CEO and other shareholders plan to sell 9M shares for $873M; Kaspi.kz&#39;s Super App had 13.5M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240117/p7#a240117p7)
  - [Omdia: the healthcare sector suffered more cyberattacks than any other sector between January and September 2023, with 241 publicly disclosed attacks &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240117/p6#a240117p6)
  - [Verizon Customers Could Get a $100 Settlement. How to Claim the Class Action Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-class-action-payout-heres-how-to-claim-the-money/#ftag=CAD590a51e)
  - [January SSDI Check 2024: Will Your First COLA Increase Come Today?     - CNET](https://www.cnet.com/personal-finance/january-ssdi-check-2024-will-your-first-cola-increase-come-today/#ftag=CAD590a51e)
- - [Generative AI is just the latest innovation to put pressure on the copyright system, but might be the one that brings down the whole legal copyright structure &lpar;Louis Menand/New Yorker&rpar;](http://www.techmeme.com/240117/p5#a240117p5)
- - [A look at Tencent&#39;s bet on Weixin Palm Payment, a palm scanning system launched in China in May 2023 for users of Weixin Pay, WeChat&#39;s sister app &lpar;CNN&rpar;](http://www.techmeme.com/240117/p4#a240117p4)<!-- TECH:END -->
+ - [Generative AI is just the latest innovation to put pressure on the copyright system, but might be the one that brings down the whole legal copyright structure &lpar;Louis Menand/New Yorker&rpar;](http://www.techmeme.com/240117/p5#a240117p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

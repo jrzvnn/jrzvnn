@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google partners with NPCI, which runs India&#39;s Unified Payments Interface, to expand beyond India; the UPI platform had ~$209B in transactions in November 2023 &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/240117/p10#a240117p10)
+ - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)
+ - [How to draw pictures in iMessage on iOS 17](https://appleinsider.com/inside/imessage/tips/how-to-draw-pictures-in-imessage-on-ios-17?utm_medium=rss)
+ - [Apple Vision Pro App Store is now live, ahead of Feb. 2 launch](https://appleinsider.com/articles/24/01/16/the-apple-vision-pro-app-store-is-now-live-ahead-of-feb-2-launch?utm_medium=rss)
  - [Apple opens new office in Bengaluru, India](https://appleinsider.com/articles/24/01/17/apple-opens-new-office-in-bengaluru-india?utm_medium=rss)
- - [Why Tech Workers Are Ditching Big Cities for Boise](https://www.wired.com/story/tech-jobs-boise-idaho/)
- - [Big Tech Won’t Let You Leave. Here&#39;s a Way Out](https://www.wired.com/story/big-tech-wont-let-you-leave-heres-a-way-out/)
- - [Global Emissions Could Peak Sooner Than You Think](https://www.wired.com/story/global-emissions-could-peak-sooner-than-you-think/)<!-- TECH:END -->
+ - [Google updates its Chrome Incognito disclaimer after a privacy settlement, saying that Incognito mode &quot;won&#39;t change how data is collected&quot; by Google and others &lpar;Venkat Eswarlu/MSPoweruser&rpar;](http://www.techmeme.com/240117/p11#a240117p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

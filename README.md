@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Critical Mission](http://9gag.com/gag/aNwNPZb)
- - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - 💣 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [Happy girl](http://9gag.com/gag/aPg5A9V)
+ - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - 😝 [This is one of the creepiest things I\u2019ve ever seen. A couple noticed that their food kept disappearing so they installed a camera to find that someone was living in their vent.](http://9gag.com/gag/aXnBPrd)
+ - 👉 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)<!-- MEMES:END -->
 
 ---
 

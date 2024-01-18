@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Meta’s big AI reorg](https://www.theverge.com/2024/1/18/24043547/inside-meta-ai-reorg-mark-zuckerberg)
  - [The One Part of Apple Vision Pro That Apple Doesn’t Want You to See](https://www.wired.com/story/one-part-of-apple-vision-pro-apple-doesnt-want-you-to-see/)
  - [OpenAI partners with Arizona State University to use ChatGPT in classrooms](https://www.theverge.com/2024/1/18/24043017/openai-arizona-state-university-asu-chatgpt)
  - [TikTok can generate AI songs, but it probably shouldn’t](https://www.theverge.com/2024/1/18/24043432/tiktok-generative-ai-music-viral-bloom)
- - [Save up to $250 on Apple&#39;s latest Macs this week, plus discounts on AppleCare](https://appleinsider.com/articles/24/01/18/save-up-to-250-on-apples-latest-macs-this-week-plus-discounts-on-applecare?utm_medium=rss)
- - [You won’t be able to use the YouTube app on Vision Pro](https://www.theverge.com/2024/1/18/24043540/youtube-spotify-apps-apple-vision-pro-visionos)<!-- TECH:END -->
+ - [Save up to $250 on Apple&#39;s latest Macs this week, plus discounts on AppleCare](https://appleinsider.com/articles/24/01/18/save-up-to-250-on-apples-latest-macs-this-week-plus-discounts-on-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

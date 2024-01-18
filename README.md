@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sean Strickland vs. LGBTQ+ reporter](http://9gag.com/gag/a5X46ZV)
- - 😝 [This giant tree passageway. RIP](http://9gag.com/gag/agoWB1x)
- - 💣 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 😝 [Looks safe](http://9gag.com/gag/a1P9moP)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 😝 [I wonder why ?!](http://9gag.com/gag/armYWg5)
+ - 😝 [Bro was so disappointed](http://9gag.com/gag/aQEGoEK)
+ - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 👉 [No one likes architects](http://9gag.com/gag/aREnBLQ)<!-- MEMES:END -->
 
 ---
 

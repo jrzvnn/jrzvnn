@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More bober](http://9gag.com/gag/a7qQ8Lz)
  - 😝 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
+ - 😝 [More bober](http://9gag.com/gag/a7qQ8Lz)
  - 💣 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)
  - 😝 [Twins \u2260 Twins](http://9gag.com/gag/a9qozZm)
  - 👉 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)<!-- MEMES:END -->

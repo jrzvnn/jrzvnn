@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Microsoft might be considering Xbox exclusives on PlayStation and Nintendo Switch](https://www.theverge.com/2024/1/18/24042674/microsoft-xbox-exclusives-playstation-nintendo-switch-publisher)
- - [Gaza&#39;s internet and telecoms have been fully shut down for seven straight days, the longest time since October 2023; 12 of its ISPs are down since October 2023 &lpar;Access Now&rpar;](http://www.techmeme.com/240118/p17#a240118p17)
- - [Sources: Reddit has drawn up detailed IPO plans to launch in March 2024, with a public filing in late February, the first major social media IPO since Pinterest &lpar;Reuters&rpar;](http://www.techmeme.com/240118/p16#a240118p16)
- - [Change This Apple Setting to Only Get the Notifications That Matter     - CNET](https://www.cnet.com/tech/services-and-software/change-this-apple-setting-to-only-get-the-notifications-that-matter/#ftag=CAD590a51e)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)<!-- TECH:END -->
+ - [A look at the US Data Protection Review Court, authorized in October 2022 to resume US-EU data transfers and which issues secret rulings, raising privacy fears &lpar;Politico&rpar;](http://www.techmeme.com/240118/p18#a240118p18)
+ - [‘Stablecoins’ Enabled $40 Billion in Crypto Crime Since 2022](https://www.wired.com/story/stablecoin-sanctions-violations-crypto-crime/)
+ - [Bose’s wild-looking Ultra Open Earbuds are here — kind of](https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design)
+ - [How to watch the Xbox Developer Direct 2024](https://www.theverge.com/2024/1/18/24040217/xbox-developer-direct-2024-time-date-live-stream)
+ - [Why Microsoft might be considering Xbox exclusives on PlayStation and Nintendo Switch](https://www.theverge.com/2024/1/18/24042674/microsoft-xbox-exclusives-playstation-nintendo-switch-publisher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

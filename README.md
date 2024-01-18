@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gaza&#39;s internet and telecoms have been fully shut down for seven straight days, the longest time since October 2023; 12 of its ISPs are down since October 2023 &lpar;Access Now&rpar;](http://www.techmeme.com/240118/p17#a240118p17)
  - [Sources: Reddit has drawn up detailed IPO plans to launch in March 2024, with a public filing in late February, the first major social media IPO since Pinterest &lpar;Reuters&rpar;](http://www.techmeme.com/240118/p16#a240118p16)
  - [Change This Apple Setting to Only Get the Notifications That Matter     - CNET](https://www.cnet.com/tech/services-and-software/change-this-apple-setting-to-only-get-the-notifications-that-matter/#ftag=CAD590a51e)
  - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
- - [Test Driving Apple Vision Pro: A Wild Concept Car for Your Face     - CNET](https://www.cnet.com/tech/computing/test-driving-apple-vision-pro-a-wild-concept-car-for-your-face/#ftag=CAD590a51e)
- - [Apple Reveals 2024 Black Unity Collection for Watch, iPhone, iPad     - CNET](https://www.cnet.com/tech/mobile/apple-reveals-2024-black-unity-collection-for-watch-iphone-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Test Driving Apple Vision Pro: A Wild Concept Car for Your Face     - CNET](https://www.cnet.com/tech/computing/test-driving-apple-vision-pro-a-wild-concept-car-for-your-face/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
- - 😝 [More bober](http://9gag.com/gag/a7qQ8Lz)
- - 💣 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)
- - 😝 [Twins \u2260 Twins](http://9gag.com/gag/a9qozZm)
- - 👉 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)<!-- MEMES:END -->
+ - 😝 [Wait for it...](http://9gag.com/gag/a9qoqXL)
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
 
 ---
 

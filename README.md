@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI partners with Arizona State University to use ChatGPT in classrooms](https://www.theverge.com/2024/1/18/24043017/openai-arizona-state-university-asu-chatgpt)
+ - [TikTok can generate AI songs, but it probably shouldn’t](https://www.theverge.com/2024/1/18/24043432/tiktok-generative-ai-music-viral-bloom)
  - [Save up to $250 on Apple&#39;s latest Macs this week, plus discounts on AppleCare](https://appleinsider.com/articles/24/01/18/save-up-to-250-on-apples-latest-macs-this-week-plus-discounts-on-applecare?utm_medium=rss)
  - [You won’t be able to use the YouTube app on Vision Pro](https://www.theverge.com/2024/1/18/24043540/youtube-spotify-apps-apple-vision-pro-visionos)
- - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)
- - [Apple’s Vision Pro Headset Shows the Future of Computing Is Bulky and Weird](https://www.wired.com/story/apple-vision-pro-hands-on-january-2024/)
- - [Cable Firms to FTC: We Shouldn’t Have to Let Users Cancel Service With a Click](https://www.wired.com/story/cable-firms-ftc-cancel-one-click/)<!-- TECH:END -->
+ - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

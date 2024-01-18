@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New survey shows game developers are very worried about layoffs and AI](https://www.theverge.com/24042070/gdc-state-of-the-video-game-industry-survey-2023-ai)
+ - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
+ - [Apple’s biggest critics are big mad about the new 27 percent App Store tax](https://www.theverge.com/2024/1/18/24042892/apple-critics-27-percent-app-store-tax)
  - [Digital Onboarding, a SaaS company specializing in helping financial institutions strengthen relationships with customers, raised $58M from Volition Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240118/p29#a240118p29)
- - [Samsung Galaxy S24 Ultra First Look: Circle to Search, Live Translate, More AI     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-first-look-circle-to-search-live-translate-more-ai/#ftag=CAD590a51e)
- - [Ringing in the Ears, Tinnitus and Other Hearing Conditions You Should Know About     - CNET](https://www.cnet.com/health/medical/hearing-conditions-you-should-know-about/#ftag=CAD590a51e)
- - [Instagram adds nighttime nudges for teens, encouraging them to close the app and go to sleep after they spend more than 10 minutes in Reels or DMs late at night &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240118/p28#a240118p28)
- - [How to turn off in-app rating requests in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-in-app-rating-requests-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra First Look: Circle to Search, Live Translate, More AI     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-first-look-circle-to-search-live-translate-more-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

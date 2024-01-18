@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)
+ - [Here are the key differences between the Samsung Galaxy S24 phones](https://www.theverge.com/24036693/samsung-galaxy-s24-plus-ultra-specs-comparison-price)
  - [How investors in China skirt strict crypto trading rules by using VPNs and brokers; Chainalysis says traders received $86B net between July 2022 and June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p34#a240118p34)
  - [Musical comedy &#39;Schmigadoon!&#39; dies in Schmicago, won&#39;t return for a third season](https://appleinsider.com/articles/24/01/18/musical-comedy-schmigadoon-dies-in-schmicago-wont-return-for-a-third-season?utm_medium=rss)
- - [Pornhub changes its performer verification policy, requiring performers to upload proof of consent from scene partners, in addition to IDs, starting January 23 &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240118/p33#a240118p33)
- - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)
- - [Microsoft Teams meeting reminders are coming to the Windows 11 Start menu](https://www.theverge.com/2024/1/18/24043162/microsoft-teams-windows-11-start-menu-reminders)<!-- TECH:END -->
+ - [Bose&#39;s New Ultra Open Earbuds Are Coming Soon and They&#39;re Pretty Funky     - CNET](https://www.cnet.com/tech/mobile/boses-new-ultra-open-earbuds-are-coming-soon-and-theyre-pretty-funky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iowa sues TikTok for setting its App Store age rating too low](https://www.theverge.com/2024/1/18/24042756/iowa-tiktok-lawsuit-app-store-rating)
  - [Google&#39;s TAG says Russia-linked hacking group Cold River is ramping up its activity and using new tactics, like data-stealing malware, to cause more disruption &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240118/p20#a240118p20)
  - [Apple has big and cartoonish plans for Vision Pro&#39;s EyeSight](https://appleinsider.com/articles/24/01/18/apple-has-big-and-cartoonish-plans-for-vision-pros-eyesight?utm_medium=rss)
  - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)
- - [Illicit crypto addresses received $24.2B in 2023, down from $39.6B in 2022, and stablecoins accounted for the majority of the transaction volume, replacing BTC &lpar;Chainalysis&rpar;](http://www.techmeme.com/240118/p19#a240118p19)
- - [Have Your Favorite Specialty Drinks Without Leaving Home With This Nespresso Bundle Deal     - CNET](https://www.cnet.com/deals/have-your-favorite-specialty-drinks-without-leaving-home-with-this-nespresso-bundle-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Illicit crypto addresses received $24.2B in 2023, down from $39.6B in 2022, and stablecoins accounted for the majority of the transaction volume, replacing BTC &lpar;Chainalysis&rpar;](http://www.techmeme.com/240118/p19#a240118p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

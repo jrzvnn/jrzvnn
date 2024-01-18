@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The EU Council and Parliament reach a provisional deal on Anti-Money Laundering Regulation, which will force all crypto companies to conduct user due diligence &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240118/p11#a240118p11)
+ - [Save Big on Vitamin Supplements and Healthy Treats With These Sales     - CNET](https://www.cnet.com/deals/save-big-on-vitamin-supplements-and-healthy-treats-with-these-sales/#ftag=CAD590a51e)
+ - [Are Your Social Security Benefits Taxable? Here&#39;s How to Find Out     - CNET](https://www.cnet.com/personal-finance/are-your-social-security-benefits-taxable-heres-how-to-find-out/#ftag=CAD590a51e)
  - [Samsung’s Galaxy S24 is first to be able to upload HDR photos to Instagram](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video)
- - [Research: monthly active open-source crypto developers fell 25% YoY to 22,266 by the end of 2023; 34% of the developers are in Europe, and 26% are in the US &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/240118/p10#a240118p10)
- - [KEF LSX II LT Wireless Review: Price, Specs, Availability](https://www.wired.com/review/review-kef-lsx-ii-lt-wireless-active-speaker-system/)
- - [Feeling the Winter Blues? Here&#39;s How to Manage Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research: monthly active open-source crypto developers fell 25% YoY to 22,266 by the end of 2023; 34% of the developers are in Europe, and 26% are in the US &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/240118/p10#a240118p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

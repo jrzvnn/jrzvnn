@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the Samsung Galaxy S24, S24 Plus, and S24 Ultra online listings footnotes, Samsung says Galaxy AI features will be free only until the end of 2025 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240118/p26#a240118p26)
- - [Daily deals Jan. 18: Apple Studio Display $1,215, 14% off AirTag 4-Pack, up to $970 off Samsung S24 Ultra, more](https://appleinsider.com/articles/24/01/18/daily-deals-jan-18-apple-studio-display-1215-14-off-airtag-4-pack-up-to-970-off-samsung-s24-ultra-more?utm_medium=rss)
- - [From Visual Look Up to Safari Private Tabs: Hidden iOS 17 Features Make My iPhone Much Better     - CNET](https://www.cnet.com/tech/mobile/from-visual-look-up-to-safari-private-tabs-hidden-ios-17-features-make-my-iphone-much-better/#ftag=CAD590a51e)
- - [Google News surfaces sites that use AI to rip-off other outlets and churn out content; Google says News doesn&#39;t focus on whether articles are by humans or AI &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240118/p25#a240118p25)
- - [BlackRock&#39;s Bitcoin ETF passes $1B in investor inflows, with $358M in inflows on January 17; Fidelity is close behind with about $880M in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p24#a240118p24)<!-- TECH:END -->
+ - [Instagram adds nighttime nudges for teens, encouraging them to close the app and go to sleep after they spend more than 10 minutes in Reels or DMs late at night &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240118/p28#a240118p28)
+ - [How to turn off in-app rating requests in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-in-app-rating-requests-in-ios-17?utm_medium=rss)
+ - [Mass Layoffs Are Causing Big Problems in the Video Games Industry](https://www.wired.com/story/the-video-game-industry-is-just-starting-to-feel-the-impacts-of-2023s-layoffs/)
+ - [DefiLlama: since its November 2023 agreement with US agencies, Binance has had $4.6B net inflows, including $3.5B in January, far outpacing rivals like OKX &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240118/p27#a240118p27)
+ - [ChatGPT&#39;s Hunger for Energy Could Trigger a GPU Revolution](https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

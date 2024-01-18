@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 😝 [More bober](http://9gag.com/gag/a7qQ8Lz)
+ - 😝 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
+ - 💣 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)
+ - 😝 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)
+ - 👉 [Twins \u2260 Twins](http://9gag.com/gag/a9qozZm)<!-- MEMES:END -->
 
 ---
 

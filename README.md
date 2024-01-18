@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
- - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
+ - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - 😝 [Wait for it...](http://9gag.com/gag/a9qoqXL)
+ - 💣 [I wonder why ?!](http://9gag.com/gag/armYWg5)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 

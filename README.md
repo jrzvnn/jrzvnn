@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU hits international big tech with new wave of user safety effort data requests](https://appleinsider.com/articles/24/01/18/eu-hits-international-big-tech-with-new-wave-of-user-safety-effort-data-requests?utm_medium=rss)
+ - [Apple releases special edition AirPods Pro to mark China&#39;s Year of the Dragon](https://appleinsider.com/articles/24/01/18/apple-releases-special-edition-airpods-pro-to-mark-chinas-year-of-the-dragon?utm_medium=rss)
  - [Dyson&#39;s Futuristic Zone Headphones Are Just $380 Today Only     - CNET](https://www.cnet.com/deals/dysons-futuristic-zone-headphones-are-just-380-today-only/#ftag=CAD590a51e)
  - [Apple&#39;s seeming sense of entitlement to commissions from third-party iOS apps shows a confrontational stance at odds with seeking to reduce regulatory pressure &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240118/p15#a240118p15)
- - [Coco Chanel and Christian Dior are at war in &#39;The New Look&#39; trailer](https://appleinsider.com/articles/24/01/18/coco-chanel-and-christian-dior-are-at-war-in-the-new-look-trailer?utm_medium=rss)
- - [Best Online Flower Delivery Services for 2024, Tested by CNET     - CNET](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate Adding Persona 3 Reload and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-adding-persona-3-reload-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coco Chanel and Christian Dior are at war in &#39;The New Look&#39; trailer](https://appleinsider.com/articles/24/01/18/coco-chanel-and-christian-dior-are-at-war-in-the-new-look-trailer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 😝 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [Looks safe](http://9gag.com/gag/a1P9moP)
+ - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 💣 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 

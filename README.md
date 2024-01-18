@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)
  - [New survey shows game developers are very worried about layoffs and AI](https://www.theverge.com/24042070/gdc-state-of-the-video-game-industry-survey-2023-ai)
  - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
  - [Apple’s biggest critics are big mad about the new 27 percent App Store tax](https://www.theverge.com/2024/1/18/24042892/apple-critics-27-percent-app-store-tax)
- - [Digital Onboarding, a SaaS company specializing in helping financial institutions strengthen relationships with customers, raised $58M from Volition Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240118/p29#a240118p29)
- - [Samsung Galaxy S24 Ultra First Look: Circle to Search, Live Translate, More AI     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-first-look-circle-to-search-live-translate-more-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital Onboarding, a SaaS company specializing in helping financial institutions strengthen relationships with customers, raised $58M from Volition Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240118/p29#a240118p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

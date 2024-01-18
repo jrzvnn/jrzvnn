@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok details its plans for the 2024 US elections, including a ban on political ads, work with fact-checking organizations, and reports on influence campaigns &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240118/p21#a240118p21)
  - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)
  - [The scariest sound on TikTok](https://www.theverge.com/24041562/tiktok-north-sea-hoist-the-colours)
  - [11 Best Travel Deals for Your Next Trip](https://www.wired.com/story/midweek-deals-jan-17-2024/)
- - [Iowa sues TikTok for setting its App Store age rating too low](https://www.theverge.com/2024/1/18/24042756/iowa-tiktok-lawsuit-app-store-rating)
- - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Iowa sues TikTok for setting its App Store age rating too low](https://www.theverge.com/2024/1/18/24042756/iowa-tiktok-lawsuit-app-store-rating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

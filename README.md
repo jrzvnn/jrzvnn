@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US Data Protection Review Court, authorized in October 2022 to resume US-EU data transfers and which issues secret rulings, raising privacy fears &lpar;Politico&rpar;](http://www.techmeme.com/240118/p18#a240118p18)
- - [‘Stablecoins’ Enabled $40 Billion in Crypto Crime Since 2022](https://www.wired.com/story/stablecoin-sanctions-violations-crypto-crime/)
- - [Bose’s wild-looking Ultra Open Earbuds are here — kind of](https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design)
- - [How to watch the Xbox Developer Direct 2024](https://www.theverge.com/2024/1/18/24040217/xbox-developer-direct-2024-time-date-live-stream)
- - [Why Microsoft might be considering Xbox exclusives on PlayStation and Nintendo Switch](https://www.theverge.com/2024/1/18/24042674/microsoft-xbox-exclusives-playstation-nintendo-switch-publisher)<!-- TECH:END -->
+ - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)
+ - [Illicit crypto addresses received $24.2B in 2023, down from $39.6B in 2022, and stablecoins accounted for the majority of the transaction volume, replacing BTC &lpar;Chainalysis&rpar;](http://www.techmeme.com/240118/p19#a240118p19)
+ - [Have Your Favorite Specialty Drinks Without Leaving Home With This Nespresso Bundle Deal     - CNET](https://www.cnet.com/deals/have-your-favorite-specialty-drinks-without-leaving-home-with-this-nespresso-bundle-deal/#ftag=CAD590a51e)
+ - [Anker&#39;s Nebula Capsule Max Portable Projector Just Hit Its Best Price Yet     - CNET](https://www.cnet.com/deals/ankers-nebula-capsule-max-portable-projector-just-hit-its-best-price-yet/#ftag=CAD590a51e)
+ - [A look at the US Data Protection Review Court, authorized in October 2022 to resume US-EU data transfers and which issues secret rulings, raising privacy fears &lpar;Politico&rpar;](http://www.techmeme.com/240118/p18#a240118p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

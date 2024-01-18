@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud Parents.](http://9gag.com/gag/aXnBM3V)
  - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 👉 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)<!-- MEMES:END -->
+ - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
+ - 💣 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 

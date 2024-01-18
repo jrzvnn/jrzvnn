@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
  - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
  - 💣 [Happy girl](http://9gag.com/gag/aPg5A9V)
- - 😝 [If only there was a pattern](http://9gag.com/gag/aKER9K3)
- - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
+ - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
+ - 👉 [If only there was a pattern](http://9gag.com/gag/aKER9K3)<!-- MEMES:END -->
 
 ---
 

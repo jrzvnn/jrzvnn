@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)
  - [A Consumer Reports study involving 709 volunteers: a total of 186,892 companies shared the volunteers&#39; data with Facebook, averaging 2,230 companies per person &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/240118/p1#a240118p1)
  - [Trawling Boats Are Hauling Up Ancient Carbon From the Ocean Depths](https://www.wired.com/story/trawlers-release-co2-into-ocean-atmosphere/)
- - [Test Driving Apple Vision Pro: A Concept Car For The Future video     - CNET](https://www.cnet.com/videos/test-driving-apple-vision-pro-a-concept-car-for-the-future/#ftag=CAD590a51e)
- - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
+ - [Test Driving Apple Vision Pro: A Concept Car For The Future video     - CNET](https://www.cnet.com/videos/test-driving-apple-vision-pro-a-concept-car-for-the-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

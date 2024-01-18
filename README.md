@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [Not today](http://9gag.com/gag/anz6OjV)
- - 💣 [If only there was a pattern](http://9gag.com/gag/aKER9K3)
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 💣 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
+ - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
 
 ---
 

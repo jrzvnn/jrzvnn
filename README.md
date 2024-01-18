@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
+ - 💣 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
  - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [Happy girl](http://9gag.com/gag/aPg5A9V)
- - 💣 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [This is one of the creepiest things I\u2019ve ever seen. A couple noticed that their food kept disappearing so they installed a camera to find that someone was living in their vent.](http://9gag.com/gag/aXnBPrd)
- - 👉 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)<!-- MEMES:END -->
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---
 

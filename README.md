@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy girl](http://9gag.com/gag/aPg5A9V)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 💣 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
- - 😝 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
+ - 💣 [Happy girl](http://9gag.com/gag/aPg5A9V)
+ - 😝 [If only there was a pattern](http://9gag.com/gag/aKER9K3)
+ - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I literally spoke with Nvidia’s AI-powered video game NPCs](https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023)
  - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)
  - [Masimo CEO: Apple users are better off without Apple Watch pulse oximetry](https://appleinsider.com/articles/24/01/18/masimo-ceo-apple-users-are-better-off-without-apple-watch-pulse-oximetry?utm_medium=rss)
  - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)
- - [The 57 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)<!-- TECH:END -->
+ - [The 57 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

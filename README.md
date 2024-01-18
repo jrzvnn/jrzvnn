@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
- - 😝 [Looks safe](http://9gag.com/gag/a1P9moP)
- - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 👉 [Speak up and find out](http://9gag.com/gag/amA3gEV)<!-- MEMES:END -->
+ - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
+ - 😝 [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
+ - 💣 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
+ - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital Onboarding, a SaaS company specializing in helping financial institutions strengthen relationships with customers, raised $58M from Volition Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240118/p29#a240118p29)
+ - [Samsung Galaxy S24 Ultra First Look: Circle to Search, Live Translate, More AI     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-first-look-circle-to-search-live-translate-more-ai/#ftag=CAD590a51e)
+ - [Ringing in the Ears, Tinnitus and Other Hearing Conditions You Should Know About     - CNET](https://www.cnet.com/health/medical/hearing-conditions-you-should-know-about/#ftag=CAD590a51e)
  - [Instagram adds nighttime nudges for teens, encouraging them to close the app and go to sleep after they spend more than 10 minutes in Reels or DMs late at night &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240118/p28#a240118p28)
- - [How to turn off in-app rating requests in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-in-app-rating-requests-in-ios-17?utm_medium=rss)
- - [Mass Layoffs Are Causing Big Problems in the Video Games Industry](https://www.wired.com/story/the-video-game-industry-is-just-starting-to-feel-the-impacts-of-2023s-layoffs/)
- - [DefiLlama: since its November 2023 agreement with US agencies, Binance has had $4.6B net inflows, including $3.5B in January, far outpacing rivals like OKX &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240118/p27#a240118p27)
- - [ChatGPT&#39;s Hunger for Energy Could Trigger a GPU Revolution](https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/)<!-- TECH:END -->
+ - [How to turn off in-app rating requests in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-in-app-rating-requests-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

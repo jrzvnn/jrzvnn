@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
- - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 😝 [Children\u2019s eyes describe that pure happiness](http://9gag.com/gag/az2nP7b)
+ - 😝 [She needs to date a dude in the military](http://9gag.com/gag/axo5vA1)
+ - 💣 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
+ - 👉 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)<!-- MEMES:END -->
 
 ---
 

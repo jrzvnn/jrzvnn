@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU hits international big tech with new wave of user safety effort data requests](https://appleinsider.com/articles/24/01/18/eu-hits-international-big-tech-with-new-wave-of-user-safety-effort-data-requests?utm_medium=rss)
- - [Apple releases special edition AirPods Pro to mark China&#39;s Year of the Dragon](https://appleinsider.com/articles/24/01/18/apple-releases-special-edition-airpods-pro-to-mark-chinas-year-of-the-dragon?utm_medium=rss)
- - [Dyson&#39;s Futuristic Zone Headphones Are Just $380 Today Only     - CNET](https://www.cnet.com/deals/dysons-futuristic-zone-headphones-are-just-380-today-only/#ftag=CAD590a51e)
- - [Apple&#39;s seeming sense of entitlement to commissions from third-party iOS apps shows a confrontational stance at odds with seeking to reduce regulatory pressure &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240118/p15#a240118p15)
- - [Coco Chanel and Christian Dior are at war in &#39;The New Look&#39; trailer](https://appleinsider.com/articles/24/01/18/coco-chanel-and-christian-dior-are-at-war-in-the-new-look-trailer?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Reddit has drawn up detailed IPO plans to launch in March 2024, with a public filing in late February, the first major social media IPO since Pinterest &lpar;Reuters&rpar;](http://www.techmeme.com/240118/p16#a240118p16)
+ - [Change This Apple Setting to Only Get the Notifications That Matter     - CNET](https://www.cnet.com/tech/services-and-software/change-this-apple-setting-to-only-get-the-notifications-that-matter/#ftag=CAD590a51e)
+ - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
+ - [Test Driving Apple Vision Pro: A Wild Concept Car for Your Face     - CNET](https://www.cnet.com/tech/computing/test-driving-apple-vision-pro-a-wild-concept-car-for-your-face/#ftag=CAD590a51e)
+ - [Apple Reveals 2024 Black Unity Collection for Watch, iPhone, iPad     - CNET](https://www.cnet.com/tech/mobile/apple-reveals-2024-black-unity-collection-for-watch-iphone-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Internal memo: Sundar Pichai says Google will see more &quot;role eliminations&quot; in 2024, though not at the scale of 2023&#39;s reductions and not affecting every team &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240117/p42#a240117p42)
  - [Apple to sell Apple Watch with blood oxygen detection removed to bypass ITC import ban](https://appleinsider.com/articles/24/01/18/apple-to-sell-apple-watch-with-blood-oxygen-detection-removed-to-bypass-itc-import-ban?utm_medium=rss)
  - [Google CEO tells employees to expect more job cuts this year](https://www.theverge.com/2024/1/17/24042417/google-layoffs-2024-internal-employee-memo-sundar-pichai)
- - [Apple plans to sell the Watch Series 9 and Ultra 2 without the blood oxygen feature online starting 6am PT on January 18 and in Apple Stores on the same day &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240117/p41#a240117p41)<!-- TECH:END -->
+ - [The American Express 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-american-express-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces a deal with Arizona State University, which will have full access to ChatGPT Enterprise and plans to build personalized AI tutors &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240118/p23#a240118p23)
+ - [Iowa sues TikTok for having an &quot;inaccurate&quot; 12+ age rating on the App Store and a &quot;T&quot; Play Store rating, claiming inappropriate content is &quot;easily accessible&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240118/p22#a240118p22)
+ - [KEF&#39;s new LSX II LT Wireless HiFi speakers have AirPlay and are more affordable](https://appleinsider.com/articles/24/01/18/kefs-new-lsx-ii-lt-wireless-hifi-speakers-have-airplay-and-are-more-affordable?utm_medium=rss)
  - [TikTok details its plans for the 2024 US elections, including a ban on political ads, work with fact-checking organizations, and reports on influence campaigns &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240118/p21#a240118p21)
- - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)
- - [The scariest sound on TikTok](https://www.theverge.com/24041562/tiktok-north-sea-hoist-the-colours)
- - [11 Best Travel Deals for Your Next Trip](https://www.wired.com/story/midweek-deals-jan-17-2024/)
- - [Iowa sues TikTok for setting its App Store age rating too low](https://www.theverge.com/2024/1/18/24042756/iowa-tiktok-lawsuit-app-store-rating)<!-- TECH:END -->
+ - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

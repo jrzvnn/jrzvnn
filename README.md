@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 💣 [Looks safe](http://9gag.com/gag/a1P9moP)
- - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - 😝 [Proceeds to dig 4 more](http://9gag.com/gag/aOxw4bv)
+ - 😝 [Is she into you? C: Can\u2019t Tell](http://9gag.com/gag/aREnZr2)
+ - 💣 [Nice tie](http://9gag.com/gag/a8qZA6O)
+ - 😝 [Children\u2019s eyes describe that pure happiness](http://9gag.com/gag/az2nP7b)
+ - 👉 [Radical Islam only contribution to the world is to subjugate those who oppose them. Don\u2019t let your countries be next.](http://9gag.com/gag/a2Kewjd)<!-- MEMES:END -->
 
 ---
 

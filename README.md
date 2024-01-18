@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
- - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)
- - [Windows 11 ARM officially supported by M3 Macs running Parallels Desktop](https://appleinsider.com/articles/24/01/18/windows-11-arm-officially-supported-by-m3-macs-running-parallels-desktop?utm_medium=rss)
- - [Here’s our first look at Bethesda’s Indiana Jones and the Great Circle](https://www.theverge.com/24040391/indiana-jones-and-the-great-circle-gameplay-trailer-xbox-bethesda)
- - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
+ - [YouTube and, according to a source, Spotify are not planning to launch a native Apple Vision Pro app or to allow their iPad app to run on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p39#a240118p39)
+ - [Sources: the European Union&#39;s competition watchdog intends to block Amazon&#39;s $1.7B bid to purchase iRobot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p38#a240118p38)
+ - [Panasonic Evervolt Home Battery Review: A Modular and Powerful Approach     - CNET](https://www.cnet.com/home/energy-and-utilities/panasonic-evervolt-home-battery-review-a-modular-and-powerful-approach/#ftag=CAD590a51e)
+ - [Netflix App Will Reportedly Not Be Available on Apple&#39;s New Vision Pro     - CNET](https://www.cnet.com/tech/services-and-software/netflix-app-will-reportedly-not-be-available-on-apples-new-vision-pro/#ftag=CAD590a51e)
+ - [Prime Video: The 38 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-38-absolute-best-tv-shows-to-watch-january-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

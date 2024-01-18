@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)
+ - [Apple’s Vision Pro Headset Shows the Future of Computing Is Bulky and Weird](https://www.wired.com/story/apple-vision-pro-hands-on-january-2024/)
  - [Cable Firms to FTC: We Shouldn’t Have to Let Users Cancel Service With a Click](https://www.wired.com/story/cable-firms-ftc-cancel-one-click/)
  - [The Rabbit R1 will receive live info from Perplexity’s AI ‘answer engine’](https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers)
- - [YouTube and, according to a source, Spotify are not planning to launch a native Apple Vision Pro app or to allow their iPad app to run on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p39#a240118p39)
- - [Sources: the European Union&#39;s competition watchdog intends to block Amazon&#39;s $1.7B bid to purchase iRobot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p38#a240118p38)
- - [Panasonic Evervolt Home Battery Review: A Modular and Powerful Approach     - CNET](https://www.cnet.com/home/energy-and-utilities/panasonic-evervolt-home-battery-review-a-modular-and-powerful-approach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube and, according to a source, Spotify are not planning to launch a native Apple Vision Pro app or to allow their iPad app to run on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p39#a240118p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

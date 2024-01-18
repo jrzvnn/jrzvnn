@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to tell if the Apple Watch you&#39;re about to buy has pulse oximetry](https://appleinsider.com/inside/apple-watch/tips/how-to-tell-if-the-apple-watch-youre-about-to-buy-has-pulse-oximetry?utm_medium=rss)
+ - [The scariest sound on TikTok](https://www.theverge.com/24041562/tiktok-north-sea-hoist-the-colours)
+ - [11 Best Travel Deals for Your Next Trip](https://www.wired.com/story/midweek-deals-jan-17-2024/)
  - [Iowa sues TikTok for setting its App Store age rating too low](https://www.theverge.com/2024/1/18/24042756/iowa-tiktok-lawsuit-app-store-rating)
- - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Mediterranean Diet for Beginners: Health Benefits, Foods to Eat and How It Works     - CNET](https://www.cnet.com/health/nutrition/mediterranean-diet-for-beginners-health-benefits-foods-to-eat-and-how-it-works/#ftag=CAD590a51e)
- - [Best PC Speakers for 2024     - CNET](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CAD590a51e)
- - [Best Ski Accessories for 2024: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

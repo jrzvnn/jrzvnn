@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 😝 [Wait for it...](http://9gag.com/gag/a9qoqXL)
- - 💣 [I wonder why ?!](http://9gag.com/gag/armYWg5)
- - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
+ - 😝 [More bober](http://9gag.com/gag/a7qQ8Lz)
+ - 😝 [Sarah Andersen cousin of Neo.](http://9gag.com/gag/aMEgdXR)
+ - 💣 [Ancestors gently knocked some sense into him](http://9gag.com/gag/a2Kev9p)
+ - 😝 [Twins \u2260 Twins](http://9gag.com/gag/a9qozZm)
+ - 👉 [Aaaaaaaaaaaaaaa](http://9gag.com/gag/a5X4QPG)<!-- MEMES:END -->
 
 ---
 

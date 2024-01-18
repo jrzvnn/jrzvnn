@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meituan&#39;s stock dips below its 2018 IPO price, closing 85% down from an all-time high; Alibaba and Tencent are down 78% and 60%+ respectively from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)
  - [PitchBook: VC investment in the AI and machine learning companies totaled nearly $80B in 2023, accounting for 23% of deals, the largest of any sector &lpar;Financial Times&rpar;](http://www.techmeme.com/240118/p5#a240118p5)
  - [TSMC reports Q4 revenue down 1.5% YoY to ~$19.62B and net income down 19.3% YoY to ~$7.56B, both above estimates on the back of weaker macroeconomic conditions &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240118/p4#a240118p4)
  - [New Mexico&#39;s lawsuit against Meta includes a 2021 Meta presentation that says 100,000 minor users each day received sexually abusive content on its Platforms &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p3#a240118p3)
- - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)
- - [A Consumer Reports study involving 709 volunteers: a total of 186,892 companies shared the volunteers&#39; data with Facebook, averaging 2,230 companies per person &lpar;Jon Keegan/The Markup&rpar;](http://www.techmeme.com/240118/p1#a240118p1)<!-- TECH:END -->
+ - [SEC v. Coinbase: in an opening hearing, Coinbase says that buying crypto on an exchange is more like collecting Beanie Babies than investing in a stock or bond &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240118/p2#a240118p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

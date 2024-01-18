@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 😝 [How are you doing South Korea](http://9gag.com/gag/az2n2Gz)
- - 💣 [Her name means `bad` right ?](http://9gag.com/gag/aDYyYxw)
+ - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
+ - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
+ - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
  - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
- - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)
+ - [Masimo CEO: Apple users are better off without Apple Watch pulse oximetry](https://appleinsider.com/articles/24/01/18/masimo-ceo-apple-users-are-better-off-without-apple-watch-pulse-oximetry?utm_medium=rss)
+ - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)
  - [The 57 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)
- - [Here are the key differences between the Samsung Galaxy S24 phones](https://www.theverge.com/24036693/samsung-galaxy-s24-plus-ultra-specs-comparison-price)
- - [How investors in China skirt strict crypto trading rules by using VPNs and brokers; Chainalysis says traders received $86B net between July 2022 and June 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240118/p34#a240118p34)
- - [Musical comedy &#39;Schmigadoon!&#39; dies in Schmicago, won&#39;t return for a third season](https://appleinsider.com/articles/24/01/18/musical-comedy-schmigadoon-dies-in-schmicago-wont-return-for-a-third-season?utm_medium=rss)<!-- TECH:END -->
+ - [BMW’s South Carolina plant is testing humanoid robot workers](https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

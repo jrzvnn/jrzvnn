@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC announces another delay to its $40B site in Arizona, saying the second plant will start operations in 2027 or 2028, later than its prior 2026 guidance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p13#a240118p13)
+ - [TSMC&#39;s second Arizona plant may not open until 2028](https://appleinsider.com/articles/24/01/18/tsmcs-second-arizona-plant-may-not-open-until-2028?utm_medium=rss)
+ - [Another Code: Recollection brings cult classic mystery games to the Switch](https://www.theverge.com/24041577/another-code-recollection-review-nintendo-switch)
  - [Vicarius, an autonomous vulnerability remediation service for supply-chain attacks, raised a $30M Series B led by Bright Pixel, taking its total funding to $57M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240118/p12#a240118p12)
- - [The EU Council and Parliament reach a provisional deal on Anti-Money Laundering Regulation, which will force all crypto companies to conduct user due diligence &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240118/p11#a240118p11)
- - [Save Big on Vitamin Supplements and Healthy Treats With These Sales     - CNET](https://www.cnet.com/deals/save-big-on-vitamin-supplements-and-healthy-treats-with-these-sales/#ftag=CAD590a51e)
- - [Are Your Social Security Benefits Taxable? Here&#39;s How to Find Out     - CNET](https://www.cnet.com/personal-finance/are-your-social-security-benefits-taxable-heres-how-to-find-out/#ftag=CAD590a51e)
- - [Samsung’s Galaxy S24 is first to be able to upload HDR photos to Instagram](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video)<!-- TECH:END -->
+ - [The EU Council and Parliament reach a provisional deal on Anti-Money Laundering Regulation, which will force all crypto companies to conduct user due diligence &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240118/p11#a240118p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
+ - [The stainless steel Apple Watch Series 8 with LTE is $175 off and still has blood oxygen sensors](https://www.theverge.com/2024/1/18/24043019/apple-watch-series-8-deal-sony-wf-1000xm5-elgato-stream-deck-amd-ryzen-5-sale)
  - [Microsoft makes Reading Coach, its AI-powered tool that provides learners with personalized reading practice, available for free on the web &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240118/p36#a240118p36)
  - [I literally spoke with Nvidia’s AI-powered video game NPCs](https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023)
- - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)
- - [Masimo CEO: Apple users are better off without Apple Watch pulse oximetry](https://appleinsider.com/articles/24/01/18/masimo-ceo-apple-users-are-better-off-without-apple-watch-pulse-oximetry?utm_medium=rss)
- - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)<!-- TECH:END -->
+ - [Robinhood settles with Massachusetts regulators for $7.5M over claims of using &quot;gamification&quot; strategies to encourage inexperienced users to place risky trades &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240118/p35#a240118p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

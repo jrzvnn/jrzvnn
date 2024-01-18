@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pornhub changes its performer verification policy, requiring performers to upload proof of consent from scene partners, in addition to IDs, starting January 23 &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240118/p33#a240118p33)
+ - [Xbox Developer Direct 2024: all the news and trailers](https://www.theverge.com/24041665/xbox-developer-direct-2024-news-announcements-trailers)
  - [Microsoft Teams meeting reminders are coming to the Windows 11 Start menu](https://www.theverge.com/2024/1/18/24043162/microsoft-teams-windows-11-start-menu-reminders)
  - [Filing: Apple details new US App Store rules letting devs link to external payments, says apps in its Video Partner and News Partner program are not eligible &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240118/p32#a240118p32)
- - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)
- - [A history of Ello, which defined itself as an alternative to ad-driven social media, from its 2014 launch and funding to its quiet sale and sudden death in 2023 &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/240118/p31#a240118p31)
- - [Zuckerberg says Meta wants to build and open source AGI, and brings AI group FAIR closer to the generative AI team; Meta will own 340K+ H100 GPUs by 2024&#39;s end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)<!-- TECH:END -->
+ - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

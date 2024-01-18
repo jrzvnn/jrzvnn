@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks safe](http://9gag.com/gag/a1P9moP)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 💣 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
+ - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 💣 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
+ - 👉 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [World leaders at the 2024 World Economic Forum fret over AI-powered misinformation and job displacement, following excitement about ChatGPT at the 2023 WEF &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240118/p37#a240118p37)
+ - [How to file for a tax extension](https://www.theverge.com/22891931/taxes-file-extension-deadline-irs-how-to)
  - [Windows 11 ARM officially supported by M3 Macs running Parallels Desktop](https://appleinsider.com/articles/24/01/18/windows-11-arm-officially-supported-by-m3-macs-running-parallels-desktop?utm_medium=rss)
  - [Here’s our first look at Bethesda’s Indiana Jones and the Great Circle](https://www.theverge.com/24040391/indiana-jones-and-the-great-circle-gameplay-trailer-xbox-bethesda)
- - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)
- - [The stainless steel Apple Watch Series 8 with LTE is $175 off and still has blood oxygen sensors](https://www.theverge.com/2024/1/18/24043019/apple-watch-series-8-deal-sony-wf-1000xm5-elgato-stream-deck-amd-ryzen-5-sale)
- - [Microsoft makes Reading Coach, its AI-powered tool that provides learners with personalized reading practice, available for free on the web &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240118/p36#a240118p36)<!-- TECH:END -->
+ - [Vision Pro apps: the good, the bad, and the ‘I Am Rich’](https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

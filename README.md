@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in the land of popcorn...](http://9gag.com/gag/aqe0XYQ)
- - 😝 [Children\u2019s eyes describe that pure happiness](http://9gag.com/gag/az2nP7b)
- - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
- - 😝 [No one likes architects](http://9gag.com/gag/aREnBLQ)
- - 👉 [Nice tie](http://9gag.com/gag/a8qZA6O)<!-- MEMES:END -->
+ - 😝 [Not today](http://9gag.com/gag/anz6OjV)
+ - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 💣 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
 
 ---
 

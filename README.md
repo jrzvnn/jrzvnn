@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 😝 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
- - 💣 [She needs to date a dude in the military](http://9gag.com/gag/axo5vA1)
+ - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 💣 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
+ - 👉 [Totally Historically Accurate Retelling](http://9gag.com/gag/aXnBNPz)<!-- MEMES:END -->
 
 ---
 

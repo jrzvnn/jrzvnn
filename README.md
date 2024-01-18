@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my boys, here we are again !](http://9gag.com/gag/aPg5m6w)
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [Life\u2019s tough, get a helmet!](http://9gag.com/gag/aREnXby)
  - 😝 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
  - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
 
 ---

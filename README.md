@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Samsung’s Galaxy S24 is first to be able to upload HDR photos to Instagram](https://www.theverge.com/2024/1/18/24042649/samsung-galaxy-s24-instagram-snapchat-super-hdr-nightography-stabilized-video)
  - [Research: monthly active open-source crypto developers fell 25% YoY to 22,266 by the end of 2023; 34% of the developers are in Europe, and 26% are in the US &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/240118/p10#a240118p10)
  - [KEF LSX II LT Wireless Review: Price, Specs, Availability](https://www.wired.com/review/review-kef-lsx-ii-lt-wireless-active-speaker-system/)
- - [Fairly Trained, a nonprofit founded by ex-Stability AI VP Ed Newton-Rex, will give certification labels to AI companies that get consent for their training data &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240118/p9#a240118p9)
- - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)<!-- TECH:END -->
+ - [Feeling the Winter Blues? Here&#39;s How to Manage Seasonal Affective Disorder     - CNET](https://www.cnet.com/health/mental/6-ways-to-cope-with-sad/#ftag=CAD590a51e)
+ - [Fairly Trained, a nonprofit founded by ex-Stability AI VP Ed Newton-Rex, will give certification labels to AI companies that get consent for their training data &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240118/p9#a240118p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

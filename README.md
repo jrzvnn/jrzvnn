@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Filing: Apple details new US App Store rules letting devs link to external payments, says apps in its Video Partner and News Partner program are not eligible &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240118/p32#a240118p32)
  - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)
  - [A history of Ello, which defined itself as an alternative to ad-driven social media, from its 2014 launch and funding to its quiet sale and sudden death in 2023 &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/240118/p31#a240118p31)
- - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)<!-- TECH:END -->
+ - [Zuckerberg says Meta wants to build and open source AGI, and brings AI group FAIR closer to the generative AI team; Meta will own 340K+ H100 GPUs by 2024&#39;s end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

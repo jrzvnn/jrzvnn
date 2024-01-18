@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trawling Boats Are Hauling Up Ancient Carbon From the Ocean Depths](https://www.wired.com/story/trawlers-release-co2-into-ocean-atmosphere/)
  - [Test Driving Apple Vision Pro: A Concept Car For The Future video     - CNET](https://www.cnet.com/videos/test-driving-apple-vision-pro-a-concept-car-for-the-future/#ftag=CAD590a51e)
  - [Bipartisan bills are being introduced across the US to fight AI deepfakes, especially non-consensual AI-generated porn and fake celebrity endorsements &lpar;Janus Rose/VICE&rpar;](http://www.techmeme.com/240117/p43#a240117p43)
  - [How to preorder the Apple Vision Pro](https://appleinsider.com/articles/24/01/18/how-to-preorder-the-apple-vision-pro?utm_medium=rss)
- - [Apple Hongdae opens January 20 in Seoul, South Korea](https://appleinsider.com/articles/24/01/18/apple-hongdae-opens-january-20-in-seoul-south-korea?utm_medium=rss)
- - [Internal memo: Sundar Pichai says Google will see more &quot;role eliminations&quot; in 2024, though not at the scale of 2023&#39;s reductions and not affecting every team &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240117/p42#a240117p42)<!-- TECH:END -->
+ - [Apple Hongdae opens January 20 in Seoul, South Korea](https://appleinsider.com/articles/24/01/18/apple-hongdae-opens-january-20-in-seoul-south-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

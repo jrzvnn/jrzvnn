@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [Ryan Gosling wins best song for Barbie against Dua Lipa and Billie Eilish and his face says it all](http://9gag.com/gag/aA0j0g0)
- - 💣 [She is alright](http://9gag.com/gag/aeQLg55)
- - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 👉 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)<!-- MEMES:END -->
+ - 😝 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 😝 [How nice of them\u2026](http://9gag.com/gag/aNwNLo3)
+ - 💣 [Meanwhile in the land of popcorn...](http://9gag.com/gag/aqe0XYQ)
+ - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 👉 [No one likes architects](http://9gag.com/gag/aREnBLQ)<!-- MEMES:END -->
 
 ---
 

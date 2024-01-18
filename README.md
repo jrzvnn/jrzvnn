@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it...](http://9gag.com/gag/a9qoqXL)
- - 😝 [Time for a relaxing swim](http://9gag.com/gag/aREnE8M)
- - 💣 [Another 9gager tried to talk to the girl](http://9gag.com/gag/aPg532K)
- - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 👉 [Looks safe](http://9gag.com/gag/a1P9moP)<!-- MEMES:END -->
+ - 😝 [Sean Strickland vs. LGBTQ+ reporter](http://9gag.com/gag/a5X46ZV)
+ - 😝 [This giant tree passageway. RIP](http://9gag.com/gag/agoWB1x)
+ - 💣 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
+ - 😝 [Looks safe](http://9gag.com/gag/a1P9moP)
+ - 👉 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)<!-- MEMES:END -->
 
 ---
 

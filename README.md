@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: monthly active open-source crypto developers fell 25% YoY to 22,266 by the end of 2023; 34% of the developers are in Europe, and 26% are in the US &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/240118/p10#a240118p10)
  - [KEF LSX II LT Wireless Review: Price, Specs, Availability](https://www.wired.com/review/review-kef-lsx-ii-lt-wireless-active-speaker-system/)
  - [Fairly Trained, a nonprofit founded by ex-Stability AI VP Ed Newton-Rex, will give certification labels to AI companies that get consent for their training data &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240118/p9#a240118p9)
  - [Have I Been Pwned adds ~71M email addresses of stolen accounts to its service from the Naz.API dataset, which allegedly contains 1B+ lines of stolen credentials &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240118/p8#a240118p8)
- - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)
- - [Meituan&#39;s stock dips below its 2018 IPO price, closing down 85% from an all-time high; Alibaba and Tencent are down 78% and 60%+, respectively, from their peaks &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/240118/p6#a240118p6)<!-- TECH:END -->
+ - [Meta sent 27M+ reports, or 84% of the tips, of suspected CSAM to the NCMEC in 2022; some prosecutors say the volume of AI-generated tips delays investigations &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240118/p7#a240118p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

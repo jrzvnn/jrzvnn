@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)
- - [New survey shows game developers are very worried about layoffs and AI](https://www.theverge.com/24042070/gdc-state-of-the-video-game-industry-survey-2023-ai)
- - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
- - [Apple’s biggest critics are big mad about the new 27 percent App Store tax](https://www.theverge.com/2024/1/18/24042892/apple-critics-27-percent-app-store-tax)
- - [Digital Onboarding, a SaaS company specializing in helping financial institutions strengthen relationships with customers, raised $58M from Volition Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240118/p29#a240118p29)<!-- TECH:END -->
+ - [Microsoft Teams meeting reminders are coming to the Windows 11 Start menu](https://www.theverge.com/2024/1/18/24043162/microsoft-teams-windows-11-start-menu-reminders)
+ - [Filing: Apple details new US App Store rules letting devs link to external payments, says apps in its Video Partner and News Partner program are not eligible &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240118/p32#a240118p32)
+ - [This smartwatch has the tech that sparked the Apple Watch ban](https://www.theverge.com/2024/1/18/24035351/masimo-freedom-smartwatch-patents-ces-2024)
+ - [A history of Ello, which defined itself as an alternative to ad-driven social media, from its 2014 launch and funding to its quiet sale and sudden death in 2023 &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/240118/p31#a240118p31)
+ - [Zuckerberg says Meta wants to build AGI and open source it, brings Meta&#39;s AI group FAIR closer to generative AI team; Meta will own 340K+ H100 GPUs by 2024 end &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240118/p30#a240118p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

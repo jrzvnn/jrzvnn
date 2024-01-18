@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You won’t be able to use the YouTube app on Vision Pro](https://www.theverge.com/2024/1/18/24043540/youtube-spotify-apps-apple-vision-pro-visionos)
  - [YouTube and Spotify also won&#39;t offer any apps on Apple Vision Pro](https://appleinsider.com/articles/24/01/18/youtube-and-spotify-also-wont-offer-any-apps-on-apple-vision-pro?utm_medium=rss)
  - [Apple’s Vision Pro Headset Shows the Future of Computing Is Bulky and Weird](https://www.wired.com/story/apple-vision-pro-hands-on-january-2024/)
  - [Cable Firms to FTC: We Shouldn’t Have to Let Users Cancel Service With a Click](https://www.wired.com/story/cable-firms-ftc-cancel-one-click/)
- - [The Rabbit R1 will receive live info from Perplexity’s AI ‘answer engine’](https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers)
- - [YouTube and, according to a source, Spotify are not planning to launch a native Apple Vision Pro app or to allow their iPad app to run on the platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p39#a240118p39)<!-- TECH:END -->
+ - [The Rabbit R1 will receive live info from Perplexity’s AI ‘answer engine’](https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 😝 [He finally snapped](http://9gag.com/gag/aVbAv6K)
- - 💣 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 😝 [The gift is so cute ...](http://9gag.com/gag/a7qQWzq)
+ - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [That wasn&#39;t nice](http://9gag.com/gag/aBdpyXP)
+ - 💣 [The team skills and communication](http://9gag.com/gag/a4ovobQ)
+ - 😝 [Some youtuber went bankrupt after paying an animator 50k USD to animate charlie and himself doing R34](http://9gag.com/gag/amA3PV6)
  - 👉 [Critical Mission](http://9gag.com/gag/aNwNPZb)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the Samsung Galaxy S24, S24 Plus, and S24 Ultra online listings footnotes, Samsung says Galaxy AI features will be free only until the end of 2025 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240118/p26#a240118p26)
  - [Daily deals Jan. 18: Apple Studio Display $1,215, 14% off AirTag 4-Pack, up to $970 off Samsung S24 Ultra, more](https://appleinsider.com/articles/24/01/18/daily-deals-jan-18-apple-studio-display-1215-14-off-airtag-4-pack-up-to-970-off-samsung-s24-ultra-more?utm_medium=rss)
  - [From Visual Look Up to Safari Private Tabs: Hidden iOS 17 Features Make My iPhone Much Better     - CNET](https://www.cnet.com/tech/mobile/from-visual-look-up-to-safari-private-tabs-hidden-ios-17-features-make-my-iphone-much-better/#ftag=CAD590a51e)
  - [Google News surfaces sites that use AI to rip-off other outlets and churn out content; Google says News doesn&#39;t focus on whether articles are by humans or AI &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240118/p25#a240118p25)
- - [BlackRock&#39;s Bitcoin ETF passes $1B in investor inflows, with $358M in inflows on January 17; Fidelity is close behind with about $880M in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p24#a240118p24)
- - [Best Store Credit Cards for January 2024     - CNET](https://www.cnet.com/personal-finance/best-store-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BlackRock&#39;s Bitcoin ETF passes $1B in investor inflows, with $358M in inflows on January 17; Fidelity is close behind with about $880M in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/240118/p24#a240118p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

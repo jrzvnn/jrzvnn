@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s fancy new Galaxy AI features might not be free forever](https://www.theverge.com/2024/1/19/24044251/samsung-galaxy-s24-ultra-ai-features-cost-2025)
  - [Jeep’s all-electric Wagoneer S to go on sale in the US in fall 2024](https://www.theverge.com/2024/1/19/24044389/jeep-all-electric-wagoneer-s-recon-2024-us)
  - [OpenAI CEO Sam Altman is still chasing billions to build AI chips](https://www.theverge.com/2024/1/19/24044319/openai-chip-manufacturing-fundraising)
  - [Apple Vision Pro resale prices on eBay are ridiculous](https://appleinsider.com/articles/24/01/19/apple-vision-pro-resale-prices-on-ebay-are-ridiculous?utm_medium=rss)
- - [This PlayStation RPG is the game the GDQ tech team hates the most](https://www.theverge.com/2024/1/19/24044393/games-done-quick-2024-playstation-chrono-cross)
- - [How the Mighty Heat Pump Is Helping &lpar;but Not Solving&rpar; EVs’ Cold Weather Problem](https://www.wired.com/story/heat-pump-helping-but-not-solving-ev-cold-weather-problem/)<!-- TECH:END -->
+ - [This PlayStation RPG is the game the GDQ tech team hates the most](https://www.theverge.com/2024/1/19/24044393/games-done-quick-2024-playstation-chrono-cross)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
  - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
- - 💣 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)
+ - 😝 [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
+ - 💣 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)<!-- MEMES:END -->
+ - 👉 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)<!-- MEMES:END -->
 
 ---
 

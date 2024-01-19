@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro screen refresh rate is up to 100Hz, it has Bluetooth 5.3, and more technical details](https://appleinsider.com/articles/24/01/19/apple-vision-pro-rate-is-up-to-100hz-it-has-bluetooth-53-and-more-technical-details?utm_medium=rss)
+ - [Wayfair plans to lay off 1,650 employees, or 13% of its staff, which it says will result in $280M+ in annual savings; Wayfair cut 1,750 jobs in 2023 &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240119/p10#a240119p10)
  - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)
  - [How Apple Vision Pro deals with Monovision -- and what vision problems it can&#39;t deal with](https://appleinsider.com/articles/24/01/19/how-apple-vision-pro-deals-with-monovision----and-what-vision-problems-it-cant-deal-with?utm_medium=rss)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
- - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
- - [Samsung Galaxy S24 Ultra vs. S23 Ultra, S22 Ultra, S21 Ultra: A Specs Showdown     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-s23-ultra-s22-ultra-s21-ultra-a-specs-showdown/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

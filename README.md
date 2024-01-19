@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Grab Apple&#39;s M3 Pro MacBook Pro for just $1,799](https://appleinsider.com/articles/24/01/19/grab-apples-m3-pro-macbook-pro-for-just-1799?utm_medium=rss)
- - [Sources: Flexport is raising $260M from Shopify, one of its biggest shareholders; Shopify sold its logistics business to Flexport in exchange for equity in 2023 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240119/p22#a240119p22)
- - [Microsoft ‘senior leadership’ emails accessed by Russian SolarWinds hackers](https://www.theverge.com/2024/1/19/24044561/microsoft-senior-leadership-emails-hack-russian-security-attack)
- - [Microsoft says Russia-linked group Midnight Blizzard hacked some employee emails beginning in November 2023; the same group breached SolarWinds as early as 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p21#a240119p21)
- - [Google Is Adding Samsung&#39;s Quick Share Feature to All Your Android Devices     - CNET](https://www.cnet.com/tech/mobile/google-is-adding-samsungs-quick-share-feature-to-all-your-android-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are Stanley Tumblers Worth Waiting in Line For? I Tested Them Out     - CNET](https://www.cnet.com/deals/are-stanley-tumblers-worth-waiting-in-line-for-i-tested-them-out/#ftag=CAD590a51e)
+ - [Best Air Fryer Deals: Up to $110 in Savings on Big Name Brands     - CNET](https://www.cnet.com/deals/best-air-fryer-deals/#ftag=CAD590a51e)
+ - [Best E Ink Tablets for 2023: Devices Made for Reading and Writing     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)
+ - [Apple Will Charge You $499 for AppleCare Plus on the Vision Pro Headset     - CNET](https://www.cnet.com/tech/computing/apple-will-charge-you-499-for-applecare-plus-on-the-vision-pro-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

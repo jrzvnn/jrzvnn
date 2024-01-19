@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 😝 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
- - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
+ - 💣 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 

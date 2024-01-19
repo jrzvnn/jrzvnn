@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says the Vision Pro weighs 600 to 650 grams depending on the Light Seal and headband used; Meta Quest 3 weighs 516 grams and Quest Pro weighs 722 grams &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240119/p14#a240119p14)
  - [Daily deals Jan. 19: LG OLED TV $599, Beats Solo 3 headphones $129, iMac $349, more](https://appleinsider.com/articles/24/01/19/daily-deals-jan-19-lg-oled-tv-599-beats-solo-3-headphones-129-imac-349-more?utm_medium=rss)
  - [Rabbit&#39;s $199 AI device R1 will use Perplexity AI&#39;s tech to answer user queries; the first 100,000 R1 buyers will get one year of Perplexity Pro for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p13#a240119p13)
  - [Bank of America raises Apple price target because of Vision Pro](https://appleinsider.com/articles/24/01/19/bank-of-america-raises-apple-price-target-because-of-vision-pro?utm_medium=rss)
- - [Here’s how much the Vision Pro’s accessories cost](https://www.theverge.com/2024/1/19/24044016/vision-pro-accessories-apple-care-price)
- - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)<!-- TECH:END -->
+ - [Here’s how much the Vision Pro’s accessories cost](https://www.theverge.com/2024/1/19/24044016/vision-pro-accessories-apple-care-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)
  - [Govee’s Matter-ready LED light strip can brighten your home for just $40](https://www.theverge.com/2024/1/19/24042971/govee-led-strip-light-m1-matter-apple-m2-mac-mini-deal-sale)
  - [This 15-Inch Acer Chromebook Is Down to $279 at Best Buy     - CNET](https://www.cnet.com/deals/this-15-inch-acer-chromebook-is-down-to-279-at-best-buy/#ftag=CAD590a51e)
  - [Apple Vision Pro streaming media landscape is complicated at launch](https://appleinsider.com/articles/24/01/19/apple-vision-pro-streaming-media-landscape-is-complicated-at-launch?utm_medium=rss)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [Google says 404 Media&#39;s report claiming Google is &quot;boosting&quot; AI-written article is misleading since the writer sorted news content by date rather than relevance &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240119/p17#a240119p17)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

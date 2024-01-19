@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
- - 😝 [She needs to date a dude in the military](http://9gag.com/gag/axo5vA1)
- - 💣 [Streamer recognizes a girls attempt at getting rid of a stalker](http://9gag.com/gag/abv7eQX)
+ - 😝 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - 😝 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
+ - 💣 [Mr Bond](http://9gag.com/gag/abv7Oe8)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)<!-- MEMES:END -->
+ - 👉 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)<!-- MEMES:END -->
 
 ---
 

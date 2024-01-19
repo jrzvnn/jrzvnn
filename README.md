@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says 404 Media&#39;s report claiming Google is &quot;boosting&quot; AI-written article is misleading since the writer sorted news content by date rather than relevance &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240119/p17#a240119p17)
  - [The Verge is not interested in interviewing you about crypto — but scammers are](https://www.theverge.com/2024/1/19/24043482/the-verge-crypto-calendly-scam-phishing)
  - [Gotta go fast: all the awesome stuff at AGDQ 2024](https://www.theverge.com/24044172/agdq-2024-live-pittsburgh-speedrunning)
  - [Sources: Sam Altman has held talks to raise billions, including $8B to $10B from Abu Dhabi-based G42, to set up a network of factories to manufacture chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p16#a240119p16)
- - [Score Huge Preorder Savings on the New Galaxy S24 Lineup at Amazon     - CNET](https://www.cnet.com/deals/score-huge-preorder-savings-on-the-new-galaxy-s24-lineup-at-amazon/#ftag=CAD590a51e)
- - [Damaged Apple Vision Pro repairs cost up to $2,399](https://appleinsider.com/articles/24/01/19/damaged-apple-vision-pro-repairs-cost-up-to-2399?utm_medium=rss)<!-- TECH:END -->
+ - [Score Huge Preorder Savings on the New Galaxy S24 Lineup at Amazon     - CNET](https://www.cnet.com/deals/score-huge-preorder-savings-on-the-new-galaxy-s24-lineup-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
  - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
- - [How the smart home is finally getting out of your phone and into your home](https://www.theverge.com/24043060/smart-home-interface-map-view-samsung-lg-amazon-ces-2024)
- - [Apple offers to open iPhone NFC payments to third-party providers after EU investigation](https://www.theverge.com/2024/1/19/24043965/apple-iphone-nfc-payments-open-up-third-party-developers-european-union-antitrust)
- - [Manta Network was hit by a DDoS attack as it issued its MANTA token on January 18, leading to longer-than-expected withdrawal times; all funds remain safe &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240119/p8#a240119p8)
- - [iPhone 16 Pro again rumored to add 2TB option](https://appleinsider.com/articles/24/01/19/iphone-16-pro-again-rumored-to-add-2tb-option?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro storage and AppleCare prices revealed](https://appleinsider.com/articles/24/01/19/apple-vision-pro-storage-and-applecare-prices-revealed?utm_medium=rss)
+ - [The CAC&#39;s scrutiny of Shein, which has never sold products in China and moved its global HQ to Singapore in 2021, shows the long reach of Chinese regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p9#a240119p9)
+ - [How to Opt Out of Comcast’s Xfinity Storing Your Sensitive Data](https://www.wired.com/story/comcast-xfinity-sensitive-data-opt-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

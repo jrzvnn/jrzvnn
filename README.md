@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
- - 😝 [Audi owners during those 5 days a year when there is snow](http://9gag.com/gag/amA3xL2)
- - 💣 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
+ - 😝 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
+ - 😝 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
+ - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)<!-- MEMES:END -->
+ - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
 
 ---
 

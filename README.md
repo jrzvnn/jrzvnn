@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
+ - [Apple opens pre-orders for the Vision Pro, which has an M2 chip with an 8-core CPU and a 10-core GPU, and comes with 256GB, 512GB, and 1TB storage options &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240119/p11#a240119p11)
  - [Apple and others unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)
  - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [A Glimpse at the Future of Streaming in 4 Mind-Blowing Stats](https://www.wired.com/story/a-glimpse-at-the-future-of-streaming-in-4-mind-blowing-stats/)
- - [Apple Vision Pro screen refresh rate is up to 100Hz, it has Bluetooth 5.3, and more technical details](https://appleinsider.com/articles/24/01/19/apple-vision-pro-rate-is-up-to-100hz-it-has-bluetooth-53-and-more-technical-details?utm_medium=rss)
- - [Wayfair plans to lay off 1,650 employees, or 13% of its staff, which it says will result in $280M+ in annual savings; Wayfair cut 1,750 jobs in 2023 &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240119/p10#a240119p10)<!-- TECH:END -->
+ - [A Glimpse at the Future of Streaming in 4 Mind-Blowing Stats](https://www.wired.com/story/a-glimpse-at-the-future-of-streaming-in-4-mind-blowing-stats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

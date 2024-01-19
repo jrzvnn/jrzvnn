@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI CEO Sam Altman is still chasing billions to build AI chips](https://www.theverge.com/2024/1/19/24044319/openai-chip-manufacturing-fundraising)
+ - [Apple Vision Pro resale prices on eBay are ridiculous](https://appleinsider.com/articles/24/01/19/apple-vision-pro-resale-prices-on-ebay-are-ridiculous?utm_medium=rss)
+ - [This PlayStation RPG is the game the GDQ tech team hates the most](https://www.theverge.com/2024/1/19/24044393/games-done-quick-2024-playstation-chrono-cross)
  - [How the Mighty Heat Pump Is Helping &lpar;but Not Solving&rpar; EVs’ Cold Weather Problem](https://www.wired.com/story/heat-pump-helping-but-not-solving-ev-cold-weather-problem/)
- - [Sources: the DOJ and FTC are in discussions over which agency can probe the Microsoft-OpenAI partnership and who can probe AI companies for scraping web content &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240119/p19#a240119p19)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)
- - [Govee’s Matter-ready LED light strip can brighten your home for just $40](https://www.theverge.com/2024/1/19/24042971/govee-led-strip-light-m1-matter-apple-m2-mac-mini-deal-sale)<!-- TECH:END -->
+ - [&#39;Oppenheimer&#39; Streaming on Peacock: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

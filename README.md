@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Commission is seeking feedback on concessions Apple offered, including opening its Tap to Pay tech to third-party wallets for 10 years, to settle a probe &lpar;Piotr Lipinski/Reuters&rpar;](http://www.techmeme.com/240119/p5#a240119p5)
  - [The iPhone 16 could come with a new camera button, another report claims](https://www.theverge.com/2024/1/19/24043948/iphone-16-camera-button-shutter-release-the-information-report)
  - [Apple takes store down ahead of Apple Vision Pro pre-orders](https://appleinsider.com/articles/24/01/19/apple-takes-store-down-ahead-of-apple-vision-pro-pre-orders?utm_medium=rss)
  - [Leia is building a 3D empire on the back of the worst phone we’ve ever reviewed](https://www.theverge.com/24036574/leia-glasses-free-3d-ces-2024)
- - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
- - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)<!-- TECH:END -->
+ - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

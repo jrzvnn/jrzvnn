@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple takes store down ahead of Apple Vision Pro pre-orders](https://appleinsider.com/articles/24/01/19/apple-takes-store-down-ahead-of-apple-vision-pro-pre-orders?utm_medium=rss)
+ - [Leia is building a 3D empire on the back of the worst phone we’ve ever reviewed](https://www.theverge.com/24036574/leia-glasses-free-3d-ces-2024)
  - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
  - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
- - [Save 30% on Your CarShield Plan With This Exclusive CNET Coupon Deal     - CNET](https://www.cnet.com/roadshow/news/save-30-off-your-carshield-plan-with-this-exclusive-cnet-coupon-deal/#ftag=CAD590a51e)
- - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)
- - [Tax Season 2024: Everything You Need to Know About Free File     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-everything-to-know-about-free-file/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 30% on Your CarShield Plan With This Exclusive CNET Coupon Deal     - CNET](https://www.cnet.com/roadshow/news/save-30-off-your-carshield-plan-with-this-exclusive-cnet-coupon-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
- - 😝 [He&#39;ll be back!!!](http://9gag.com/gag/aMEgdBG)
- - 💣 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
+ - 😝 [Smooth](http://9gag.com/gag/aBdp6bD)
+ - 😝 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 💣 [Cosy](http://9gag.com/gag/aGEX8dG)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)<!-- MEMES:END -->
+ - 👉 [If only there was a pattern](http://9gag.com/gag/aKER9K3)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the only way i would start exercising](http://9gag.com/gag/adPEnRM)
- - 😝 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
- - 💣 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
+ - 😝 [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
+ - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 💣 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)<!-- MEMES:END -->
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
- - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [This is the only way i would start exercising](http://9gag.com/gag/adPEnRM)
+ - 😝 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
+ - 💣 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
+ - 👉 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)<!-- MEMES:END -->
 
 ---
 

@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Flexport is raising $260M from Shopify, one of its biggest shareholders; Shopify sold its logistics business to Flexport in exchange for equity in 2023 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240119/p22#a240119p22)
  - [Microsoft ‘senior leadership’ emails accessed by Russian SolarWinds hackers](https://www.theverge.com/2024/1/19/24044561/microsoft-senior-leadership-emails-hack-russian-security-attack)
- - [Microsoft says Russia-linked hacking group Midnight Blizzard hacked some employee emails, including those of senior leadership in cybersecurity and legal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240119/p21#a240119p21)
+ - [Microsoft says Russia-linked group Midnight Blizzard hacked some employee emails beginning in November, including those of senior leadership in cybersecurity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p21#a240119p21)
  - [AMD says it removed the country of diffusion labels from all new CPUs and APUs, after criticism that it removed the &quot;Diffused in Taiwan&quot; labels to appease China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240119/p20#a240119p20)
  - [Samsung’s smart ring might signal the start of a new wearable era](https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables)<!-- TECH:END -->
 

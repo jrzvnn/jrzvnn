@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)
+ - [How Apple Vision Pro deals with Monovision -- and what vision problems it can&#39;t deal with](https://appleinsider.com/articles/24/01/19/how-apple-vision-pro-deals-with-monovision----and-what-vision-problems-it-cant-deal-with?utm_medium=rss)
  - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
  - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
- - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
- - [Apple Vision Pro storage and AppleCare prices revealed](https://appleinsider.com/articles/24/01/19/apple-vision-pro-storage-and-applecare-prices-revealed?utm_medium=rss)
- - [The CAC&#39;s scrutiny of Shein, which has never sold products in China and moved its global HQ to Singapore in 2021, shows the long reach of Chinese regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p9#a240119p9)<!-- TECH:END -->
+ - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

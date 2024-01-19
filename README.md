@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;ll be back!!!](http://9gag.com/gag/aMEgdBG)
  - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - 💣 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
+ - 😝 [If only there was a pattern](http://9gag.com/gag/aKER9K3)
+ - 💣 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)<!-- MEMES:END -->
+ - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
- - 💣 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
+ - 😝 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 💣 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [I wonder why ?!](http://9gag.com/gag/armYWg5)<!-- MEMES:END -->
+ - 👉 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)<!-- MEMES:END -->
 
 ---
 

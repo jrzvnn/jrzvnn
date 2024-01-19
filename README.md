@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: the total number of US startups with a $1B+ valuation grew 14x from 39 in 2013 to 532 in 2023, 78% today are B2B, 93% are privately valued, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240119/p1#a240119p1)
+ - [Best Apple Pencil Deals: Save on Apple&#39;s Styluses and Third-Party Alternatives     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)
  - [Public opinion of Apple Vision Pro is all over the place, with some calling it a glorified dev tool](https://appleinsider.com/articles/24/01/19/public-opinion-of-apple-vision-pro-is-all-over-the-place-with-some-calling-it-a-glorified-dev-tool?utm_medium=rss)
- - [Dubai-based online business travel service Tumodo raised a $35M pre-seed co-led by MENA-focused angel investors and plans to expand to 25 more countries by 2026 &lpar;Julian Nabil/Forbes Middle East&rpar;](http://www.techmeme.com/240118/p44#a240118p44)
- - [Bellevue, WA-based Oleria, which helps companies manage employee access to applications and data, raised a $33.1M Series A led by Evolution Equity Partners &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240118/p43#a240118p43)
- - [Best Smart Home Deals: Save on Smart Bulbs, Plugs, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dubai-based online business travel service Tumodo raised a $35M pre-seed co-led by MENA-focused angel investors and plans to expand to 25 more countries by 2026 &lpar;Julian Nabil/Forbes Middle East&rpar;](http://www.techmeme.com/240118/p44#a240118p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

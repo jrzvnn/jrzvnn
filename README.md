@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manta Network was hit by a DDoS attack as it issued its MANTA token on January 18, leading to longer-than-expected withdrawal times; all funds remain safe &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240119/p8#a240119p8)
+ - [iPhone 16 Pro again rumored to add 2TB option](https://appleinsider.com/articles/24/01/19/iphone-16-pro-again-rumored-to-add-2tb-option?utm_medium=rss)
  - [X rolls out audio and video calling to Android following the October 2023 iOS launch; all users can receive calls but only Premium subscribers can place them &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p7#a240119p7)
  - [Inequality Is a Health Risk—and It’s Getting Worse](https://www.wired.com/story/inequality-is-a-health-risk-and-its-getting-worse/)
- - [To Keep Gen Z, Companies Need to Level Up](https://www.wired.com/story/to-keep-gen-z-companies-need-to-level-up/)
- - [China forms a metaverse working group with members from government, academia, and tech companies like Huawei and Baidu to push for standardization in the sector &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240119/p6#a240119p6)
- - [X expands audio and video calling to Android](https://www.theverge.com/2024/1/19/24043950/x-premium-audio-video-calling-feature-android-rollout-announcement)<!-- TECH:END -->
+ - [To Keep Gen Z, Companies Need to Level Up](https://www.wired.com/story/to-keep-gen-z-companies-need-to-level-up/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Some video podcasts are using AI-generated product placements from a company called Rembrand to supplement their typical host-read ads &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240119/p4#a240119p4)
  - [Netflix’s app won’t work on the Vision Pro](https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app)
+ - [Save 30% on Your CarShield Plan With This Exclusive CNET Coupon Deal     - CNET](https://www.cnet.com/roadshow/news/save-30-off-your-carshield-plan-with-this-exclusive-cnet-coupon-deal/#ftag=CAD590a51e)
  - [Here’s what you need to know about preordering the Apple Vision Pro](https://www.theverge.com/24030316/apple-vision-pro-headset-preorder-how-to-buy-price-availability-release-date-demo)
- - [Tax Season 2024: Everything You Need to Know About Free File     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-everything-to-know-about-free-file/#ftag=CAD590a51e)
- - [A look at the reasons why Artifact failed, including not growing its user base outside the US and user confusion about its ever-growing set of features &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240119/p3#a240119p3)<!-- TECH:END -->
+ - [Tax Season 2024: Everything You Need to Know About Free File     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-everything-to-know-about-free-file/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

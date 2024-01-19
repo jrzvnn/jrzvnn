@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
- - 😝 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)
- - 💣 [This is the only way i would start exercising](http://9gag.com/gag/adPEnRM)
+ - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
+ - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
+ - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Life hack](http://9gag.com/gag/a04B6Vz)<!-- MEMES:END -->
+ - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
 
 ---
 

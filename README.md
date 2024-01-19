@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the reasons why Artifact failed, including not growing its user base outside the US and user confusion about its ever-growing set of features &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240119/p3#a240119p3)
  - [AWS says it plans to invest $15.24B in Japan by 2027 to expand facilities in the metropolises of Tokyo and Osaka to meet growing customer demand &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240119/p2#a240119p2)
  - [Analysis: the total number of US startups with a $1B+ valuation grew 14x from 39 in 2013 to 532 in 2023, 78% today are B2B, 93% are privately valued, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240119/p1#a240119p1)
  - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Best Air Purifier Deals: Discounts on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
- - [Best Apple Pencil Deals: Save on Apple&#39;s Styluses and Third-Party Alternatives     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Purifier Deals: Discounts on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

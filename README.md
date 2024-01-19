@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best USB-C Hub 2024     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)
  - [Former and current Twitch employees describe how Twitch never understood what its users wanted, failed to go mainstream, alienated its top creators, and more &lpar;Ryan Broderick/Fast Company&rpar;](http://www.techmeme.com/240118/p42#a240118p42)
  - [Plex is about to launch a store for movies and TV shows](https://www.theverge.com/2024/1/18/24043706/plex-store-movies-tv-shows)
- - [iPhone 16 Capture button could be mechanical, with pressure &amp; touch-sensitive surface](https://appleinsider.com/articles/24/01/19/iphone-16-capture-button-could-be-mechanical-with-pressure-touch-sensitive-surface?utm_medium=rss)
- - [Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [TikTok is testing AI Song, a tool powered by the LLM Bloom that generates songs from text prompts and allows users to toggle the song&#39;s genre &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240118/p41#a240118p41)<!-- TECH:END -->
+ - [Best Fantasy Board Games for 2024     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-board-games/#ftag=CAD590a51e)
+ - [iPhone 16 Capture button could be mechanical, with pressure &amp; touch-sensitive surface](https://appleinsider.com/articles/24/01/19/iphone-16-capture-button-could-be-mechanical-with-pressure-touch-sensitive-surface?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

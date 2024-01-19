@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google teases a new Pixel 8 color for release next week](https://www.theverge.com/google/2024/1/19/24044102/google-pixel-8-pro-mint-green-color-tease)
  - [&#39;Making Apple Vision Pro&#39; video delves into precise aluminum cutting &amp; assembly](https://appleinsider.com/articles/24/01/19/making-apple-vision-pro-video-delves-into-precise-aluminum-cutting-assembly?utm_medium=rss)
  - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
- - [Apple and a very few third parties unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)
- - [Vision Pro details revealed in new Apple Guided Tour](https://appleinsider.com/articles/24/01/19/vision-pro-details-revealed-in-new-apple-guided-tour?utm_medium=rss)
- - [Apple says the Vision Pro weighs 600 to 650 grams depending on the Light Seal and headband used; Meta Quest 3 weighs 516 grams and Quest Pro weighs 722 grams &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/240119/p14#a240119p14)<!-- TECH:END -->
+ - [Apple Watch Series 9, Ultra 2 Drop Blood Oxygen Feature Amid Patent Dispute     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-ultra-2-drop-blood-oxygen-feature-amid-patent-dispute/#ftag=CAD590a51e)
+ - [Apple and a very few third parties unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

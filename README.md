@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/aA0jKn0)
- - 😝 [This ever happened to you ?](http://9gag.com/gag/a2Ke089)
- - 💣 [Life hack](http://9gag.com/gag/a04B6Vz)
  - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
- - 👉 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)<!-- MEMES:END -->
+ - 😝 [Life hack](http://9gag.com/gag/a04B6Vz)
+ - 💣 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)
+ - 😝 [Rarely](http://9gag.com/gag/aVbAmpM)
+ - 👉 [Better story telling than 99% of whatever Hollywood does these days &lpar;2:57&rpar;](http://9gag.com/gag/amA36A6)<!-- MEMES:END -->
 
 ---
 

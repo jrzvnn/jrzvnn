@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Smooth](http://9gag.com/gag/aBdp6bD)
  - 😝 [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
- - 💣 [Oh no](http://9gag.com/gag/aA0jKn0)
+ - 💣 [Cosy](http://9gag.com/gag/aGEX8dG)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Cosy](http://9gag.com/gag/aGEX8dG)<!-- MEMES:END -->
+ - 👉 [Oh no](http://9gag.com/gag/aA0jKn0)<!-- MEMES:END -->
 
 ---
 

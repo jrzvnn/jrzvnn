@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
- - 😝 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
+ - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
- - 😝 [Life hack](http://9gag.com/gag/a04B6Vz)
- - 💣 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)
- - 😝 [Rarely](http://9gag.com/gag/aVbAmpM)
- - 👉 [Better story telling than 99% of whatever Hollywood does these days &lpar;2:57&rpar;](http://9gag.com/gag/amA36A6)<!-- MEMES:END -->
+ - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 😝 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
+ - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 

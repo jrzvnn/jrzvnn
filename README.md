@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)
+ - [How the smart home is finally getting out of your phone and into your home](https://www.theverge.com/24043060/smart-home-interface-map-view-samsung-lg-amazon-ces-2024)
+ - [Apple offers to open iPhone NFC payments to third-party providers after EU investigation](https://www.theverge.com/2024/1/19/24043965/apple-iphone-nfc-payments-open-up-third-party-developers-european-union-antitrust)
  - [Manta Network was hit by a DDoS attack as it issued its MANTA token on January 18, leading to longer-than-expected withdrawal times; all funds remain safe &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240119/p8#a240119p8)
- - [iPhone 16 Pro again rumored to add 2TB option](https://appleinsider.com/articles/24/01/19/iphone-16-pro-again-rumored-to-add-2tb-option?utm_medium=rss)
- - [X rolls out audio and video calling to Android following the October 2023 iOS launch; all users can receive calls but only Premium subscribers can place them &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p7#a240119p7)
- - [Inequality Is a Health Risk—and It’s Getting Worse](https://www.wired.com/story/inequality-is-a-health-risk-and-its-getting-worse/)
- - [To Keep Gen Z, Companies Need to Level Up](https://www.wired.com/story/to-keep-gen-z-companies-need-to-level-up/)<!-- TECH:END -->
+ - [iPhone 16 Pro again rumored to add 2TB option](https://appleinsider.com/articles/24/01/19/iphone-16-pro-again-rumored-to-add-2tb-option?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

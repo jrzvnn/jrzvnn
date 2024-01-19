@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could possibly be the reason you can leave skiing and golf equipment worth thousands of dollars alone and have it not be stolen?](http://9gag.com/gag/az2ndLj)
- - 😝 [Meanwhile in London](http://9gag.com/gag/aDYy7rG)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/aA0jKn0)
+ - 😝 [This ever happened to you ?](http://9gag.com/gag/a2Ke089)
+ - 💣 [Life hack](http://9gag.com/gag/a04B6Vz)
+ - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
+ - 👉 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)<!-- MEMES:END -->
 
 ---
 

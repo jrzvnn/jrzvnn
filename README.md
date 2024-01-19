@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
- - 😝 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
- - 💣 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
+ - 😝 [Sometimes the world is fair](http://9gag.com/gag/aGEX8MX)
+ - 😝 [Found a reaction meme for you degenerates.](http://9gag.com/gag/aBdpP8z)
+ - 💣 [This is the only way i would start exercising](http://9gag.com/gag/adPEnRM)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
+ - 👉 [Life hack](http://9gag.com/gag/a04B6Vz)<!-- MEMES:END -->
 
 ---
 

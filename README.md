@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the DOJ and FTC are in discussions over which agency can probe the Microsoft-OpenAI partnership and who can probe AI companies for scraping web content &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240119/p19#a240119p19)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [YouTube&#39;s head of gaming Leo Olebe was among the 100 staff laid off from the company this week &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240119/p18#a240119p18)
  - [Govee’s Matter-ready LED light strip can brighten your home for just $40](https://www.theverge.com/2024/1/19/24042971/govee-led-strip-light-m1-matter-apple-m2-mac-mini-deal-sale)
- - [This 15-Inch Acer Chromebook Is Down to $279 at Best Buy     - CNET](https://www.cnet.com/deals/this-15-inch-acer-chromebook-is-down-to-279-at-best-buy/#ftag=CAD590a51e)
- - [Apple Vision Pro streaming media landscape is complicated at launch](https://appleinsider.com/articles/24/01/19/apple-vision-pro-streaming-media-landscape-is-complicated-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [This 15-Inch Acer Chromebook Is Down to $279 at Best Buy     - CNET](https://www.cnet.com/deals/this-15-inch-acer-chromebook-is-down-to-279-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

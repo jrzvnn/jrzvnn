@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
- - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
+ - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 

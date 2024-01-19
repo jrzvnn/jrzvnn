@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth](http://9gag.com/gag/aBdp6bD)
- - 😝 [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
- - 💣 [Cosy](http://9gag.com/gag/aGEX8dG)
+ - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 😝 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
+ - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [Oh no](http://9gag.com/gag/aA0jKn0)<!-- MEMES:END -->
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 

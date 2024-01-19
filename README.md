@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal video and memo: Apple sees health care, training, and education as key areas for the Vision Pro, and will give employees a 25% discount on the device &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240118/p40#a240118p40)
- - [Inside Meta’s big AI reorg](https://www.theverge.com/2024/1/18/24043547/inside-meta-ai-reorg-mark-zuckerberg)
- - [The One Part of Apple Vision Pro That Apple Doesn’t Want You to See](https://www.wired.com/story/one-part-of-apple-vision-pro-apple-doesnt-want-you-to-see/)
- - [OpenAI partners with Arizona State University to use ChatGPT in classrooms](https://www.theverge.com/2024/1/18/24043017/openai-arizona-state-university-asu-chatgpt)
- - [TikTok can generate AI songs, but it probably shouldn’t](https://www.theverge.com/2024/1/18/24043432/tiktok-generative-ai-music-viral-bloom)<!-- TECH:END -->
+ - [TikTok is testing AI Song, a tool powered by the LLM Bloom that generates songs from text prompts and allows users to toggle the song&#39;s genre &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240118/p41#a240118p41)
+ - [Apple executives envision doctors wearing Apple Vision Pro while performing surgery](https://appleinsider.com/articles/24/01/19/apple-executives-envision-doctors-wearing-apple-vision-pro-while-performing-surgery?utm_medium=rss)
+ - [Everything You Need to Know About Your Solar Battery&#39;s Warranty     - CNET](https://www.cnet.com/home/energy-and-utilities/everything-you-need-to-know-about-your-solar-batterys-warranty/#ftag=CAD590a51e)
+ - [16 Valentine&#39;s Day Food Gifts Under $25     - CNET](https://www.cnet.com/news/food-gifts-under-25-for-valentines-day/#ftag=CAD590a51e)
+ - [Internal video and memo: Apple sees health care, training, and education as key areas for the Vision Pro, and will give employees a 25% discount on the device &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240118/p40#a240118p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

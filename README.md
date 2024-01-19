@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases Vision Pro accessories, including a travel case, a battery pack, and a Light Seal, all for $199 each, and Solo Knit and Dual Loop bands for $99 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240119/p12#a240119p12)
- - [Vision Pro details revealed in new Apple Guided Tour](https://appleinsider.com/articles/24/01/19/vision-pro-details-revealed-in-new-apple-guided-tour?utm_medium=rss)
- - [Apple and others unveil first Vision Pro accessories](https://appleinsider.com/articles/24/01/19/apple-and-others-unveil-first-vision-pro-accessories?utm_medium=rss)
+ - [Here’s how much the Vision Pro’s accessories cost](https://www.theverge.com/2024/1/19/24044016/vision-pro-accessories-apple-care-price)
  - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
- - [Apple opens pre-orders for the Vision Pro, which has an M2 chip with an 8-core CPU and a 10-core GPU, and comes with 256GB, 512GB, and 1TB storage options &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240119/p11#a240119p11)<!-- TECH:END -->
+ - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
+ - [Apple will allow third-parties in the EU access to the iPhone NFC chip](https://appleinsider.com/articles/24/01/19/apple-will-allow-third-parties-in-the-eu-access-to-the-iphone-nfc-chip?utm_medium=rss)
+ - [Vision Pro is here and Apple Arcade is booming, on the AppleInsider Podcast](https://appleinsider.com/articles/24/01/19/vision-pro-is-here-and-apple-arcade-is-booming-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

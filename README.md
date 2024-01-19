@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X rolls out audio and video calling to Android following the October 2023 iOS launch; all users can receive calls but only Premium subscribers can place them &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p7#a240119p7)
+ - [Inequality Is a Health Risk—and It’s Getting Worse](https://www.wired.com/story/inequality-is-a-health-risk-and-its-getting-worse/)
+ - [To Keep Gen Z, Companies Need to Level Up](https://www.wired.com/story/to-keep-gen-z-companies-need-to-level-up/)
  - [China forms a metaverse working group with members from government, academia, and tech companies like Huawei and Baidu to push for standardization in the sector &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240119/p6#a240119p6)
- - [X expands audio and video calling to Android](https://www.theverge.com/2024/1/19/24043950/x-premium-audio-video-calling-feature-android-rollout-announcement)
- - [The EU Commission is seeking feedback on concessions Apple offered, including opening its Tap to Pay tech to third-party wallets for 10 years, to settle a probe &lpar;Piotr Lipinski/Reuters&rpar;](http://www.techmeme.com/240119/p5#a240119p5)
- - [The iPhone 16 could come with a new camera button, another report claims](https://www.theverge.com/2024/1/19/24043948/iphone-16-camera-button-shutter-release-the-information-report)
- - [Apple takes store down ahead of Apple Vision Pro pre-orders](https://appleinsider.com/articles/24/01/19/apple-takes-store-down-ahead-of-apple-vision-pro-pre-orders?utm_medium=rss)<!-- TECH:END -->
+ - [X expands audio and video calling to Android](https://www.theverge.com/2024/1/19/24043950/x-premium-audio-video-calling-feature-android-rollout-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

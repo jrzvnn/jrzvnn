@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - 😝 [At least She\u2019s pretty](http://9gag.com/gag/aeQL1nm)
- - 💣 [Not today](http://9gag.com/gag/anz6OjV)
+ - 😝 [How to draw lips using 3 circles](http://9gag.com/gag/ap9O3rB)
+ - 😝 [Happy girl](http://9gag.com/gag/aPg5A9V)
+ - 💣 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - 👉 [Thanks Facebook](http://9gag.com/gag/a4ovNLZ)<!-- MEMES:END -->
 
 ---
 

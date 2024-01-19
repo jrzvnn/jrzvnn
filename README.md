@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: the total number of US startups with a $1B+ valuation grew 14x from 39 in 2013 to 532 in 2023, 78% today are B2B, 93% are privately valued, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240119/p1#a240119p1)
+ - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
  - [Best Air Purifier Deals: Discounts on HEPA Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
  - [Best Apple Pencil Deals: Save on Apple&#39;s Styluses and Third-Party Alternatives     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
- - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)
- - [Public opinion of Apple Vision Pro is all over the place, with some calling it a glorified dev tool](https://appleinsider.com/articles/24/01/19/public-opinion-of-apple-vision-pro-is-all-over-the-place-with-some-calling-it-a-glorified-dev-tool?utm_medium=rss)<!-- TECH:END -->
+ - [Forta, which combines AI and a training course for parents to offer personalized therapy for autistic children, raised a $55M Series A led by Insight Partners &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240118/p45#a240118p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

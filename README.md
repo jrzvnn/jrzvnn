@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone tell Germans - Third time&#39;s a charm](http://9gag.com/gag/agoWQVW)
- - 😝 [Intrusive thoughts](http://9gag.com/gag/aA0jQAL)
- - 💣 [Oof load: Ultra](http://9gag.com/gag/a04BezO)
+ - 😝 [Smooth](http://9gag.com/gag/aBdp6bD)
+ - 😝 [Live Broadcast in real life](http://9gag.com/gag/aREnZoy)
+ - 💣 [Oh no](http://9gag.com/gag/aA0jKn0)
  - 😝 [If you can&#39;t beat them, join them! \ud83e\uddab Level up your building skills with the beaver gang in Timberborn Update 5 - Badwater.](http://9gag.com/gag/abv7Y8r)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 👉 [Cosy](http://9gag.com/gag/aGEX8dG)<!-- MEMES:END -->
 
 ---
 

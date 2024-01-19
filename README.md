@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AMD says it removed the country of diffusion labels from all new CPUs and APUs, after criticism that it removed the &quot;Diffused in Taiwan&quot; labels to appease China &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240119/p20#a240119p20)
  - [Samsung’s smart ring might signal the start of a new wearable era](https://www.theverge.com/2024/1/19/24041922/samsung-galaxy-ring-smart-ring-wearables)
+ - [Apple Vision Pro: All the Apps That Will and Won&#39;t Run on the Mixed Reality Headset     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-all-the-apps-that-will-and-wont-run-on-the-mixed-reality-headset/#ftag=CAD590a51e)
  - [Samsung’s fancy new Galaxy AI features might not be free forever](https://www.theverge.com/2024/1/19/24044251/samsung-galaxy-s24-ultra-ai-features-cost-2025)
- - [Jeep’s all-electric Wagoneer S to go on sale in the US in fall 2024](https://www.theverge.com/2024/1/19/24044389/jeep-all-electric-wagoneer-s-recon-2024-us)
- - [OpenAI CEO Sam Altman is still chasing billions to build AI chips](https://www.theverge.com/2024/1/19/24044319/openai-chip-manufacturing-fundraising)<!-- TECH:END -->
+ - [Jeep’s all-electric Wagoneer S to go on sale in the US in fall 2024](https://www.theverge.com/2024/1/19/24044389/jeep-all-electric-wagoneer-s-recon-2024-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

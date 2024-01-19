@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
- - 😝 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)
- - 💣 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 😝 [Long post, not sorry!](http://9gag.com/gag/aDYy7PG)
+ - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)<!-- MEMES:END -->
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 

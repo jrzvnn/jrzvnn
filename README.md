@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nab Big Discounts on Top Tech During Best Buy&#39;s 3-Day Sale     - CNET](https://www.cnet.com/deals/nab-big-discounts-on-top-tech-during-best-buys-3-day-sale/#ftag=CAD590a51e)
+ - [Daily deals Jan. 19: LG OLED TV $599, Beats Solo 3 headphones $129, iMac $349, more](https://appleinsider.com/articles/24/01/19/daily-deals-jan-19-lg-oled-tv-599-beats-solo-3-headphones-129-imac-349-more?utm_medium=rss)
+ - [Rabbit&#39;s $199 AI device R1 will use Perplexity AI&#39;s tech to answer user queries; the first 100,000 R1 buyers will get one year of Perplexity Pro for free &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240119/p13#a240119p13)
+ - [Bank of America raises Apple price target because of Vision Pro](https://appleinsider.com/articles/24/01/19/bank-of-america-raises-apple-price-target-because-of-vision-pro?utm_medium=rss)
  - [Here’s how much the Vision Pro’s accessories cost](https://www.theverge.com/2024/1/19/24044016/vision-pro-accessories-apple-care-price)
- - [Senegal vs. Cameroon Livestream: How to Watch Africa Cup of Nations Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/senegal-vs-cameroon-livestream-how-to-watch-africa-cup-of-nations-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)
- - [Today’s Best Savings Rates, Jan. 19, 2024: Boost Your Savings With APYs up to 5.35%     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-jan-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules](https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

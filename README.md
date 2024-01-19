@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 💣 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 😝 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
+ - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
 
 ---
 

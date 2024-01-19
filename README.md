@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How Apple Vision Pro deals with Monovision -- and what vision problems it can&#39;t deal with](https://appleinsider.com/articles/24/01/19/how-apple-vision-pro-deals-with-monovision----and-what-vision-problems-it-cant-deal-with?utm_medium=rss)
  - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
  - [Apple Vision Pro shipment dates slip nearly instantly](https://appleinsider.com/articles/24/01/19/apple-vision-pro-shipment-dates-slip-nearly-instantly?utm_medium=rss)
- - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra vs. S23 Ultra, S22 Ultra, S21 Ultra: A Specs Showdown     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-s23-ultra-s22-ultra-s21-ultra-a-specs-showdown/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

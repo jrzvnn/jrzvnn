@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 😝 [Really big family!](http://9gag.com/gag/anz620b)
- - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 👉 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)<!-- MEMES:END -->
+ - 😝 [She sounds tired, but happy.](http://9gag.com/gag/aA0jX99)
+ - 😝 [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 💣 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)
+ - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
+ - 👉 [That flashbang tho](http://9gag.com/gag/aDYyXmB)<!-- MEMES:END -->
 
 ---
 

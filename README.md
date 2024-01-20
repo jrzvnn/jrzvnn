@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
+ - 😝 [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
  - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 💣 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
+ - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)<!-- MEMES:END -->
+ - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 
 ---
 

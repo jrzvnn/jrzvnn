@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [Really big family!](http://9gag.com/gag/anz620b)
  - 💣 [People of which country does this remind you of?](http://9gag.com/gag/aPg5oNQ)
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 👉 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)<!-- MEMES:END -->
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
 
 ---
 

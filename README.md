@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 💣 [`and that&#39;s when i punched her in the face, your Honor`](http://9gag.com/gag/aVbAKwO)
+ - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 💣 [Current Year Supa Powa. What a 3rd rate.](http://9gag.com/gag/ajVpOx1)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
+ - 👉 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)<!-- MEMES:END -->
 
 ---
 

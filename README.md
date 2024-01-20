@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
- - 😝 [`and that&#39;s when i punched her in the face, your Honor`](http://9gag.com/gag/aVbAKwO)
- - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
+ - 😝 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
+ - 😝 [Really big family!](http://9gag.com/gag/anz620b)
+ - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
  - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 ---

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 👉 [North Korean pig](http://9gag.com/gag/agoW8gn)<!-- MEMES:END -->
+ - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [Really big family!](http://9gag.com/gag/anz620b)
+ - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
+ - 👉 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)<!-- MEMES:END -->
 
 ---
 

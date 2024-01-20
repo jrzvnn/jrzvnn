@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
- - 😝 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
- - 💣 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 😝 [Asian at grocery](http://9gag.com/gag/aREnoMB)
- - 👉 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)<!-- MEMES:END -->
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 💣 [People of which country does this remind you of?](http://9gag.com/gag/aPg5oNQ)
+ - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 👉 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)<!-- MEMES:END -->
 
 ---
 

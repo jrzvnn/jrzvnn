@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She sounds tired, but happy.](http://9gag.com/gag/aA0jX99)
  - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 😝 [She sounds tired, but happy.](http://9gag.com/gag/aA0jX99)
  - 💣 [Asian at grocery](http://9gag.com/gag/aREnoMB)
  - 😝 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)
  - 👉 [There are no coincidences](http://9gag.com/gag/anz6D3n)<!-- MEMES:END -->

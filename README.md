@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is There an Ideal Time of Day to Exercise? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)
+ - [Cut Back on These 11 Foods and Take Control of Your Health     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-take-control-of-your-health/#ftag=CAD590a51e)
+ - [Verizon 5G Home Internet vs. T-Mobile Home Internet: Which Mobile Company Should You Trust to Handle Your Home&#39;s Broadband?     - CNET](https://www.cnet.com/home/internet/verizon-5g-home-internet-vs-t-mobile-home-internet/#ftag=CAD590a51e)
  - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)
- - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)
- - [Netflix’s The Kitchen is a stunning parable about the future of housing inequality](https://www.theverge.com/24043480/netflix-the-kitchen-review-daniel-kaluuya-kano)
- - [8 Strategies to Use if You Want to Quit Smoking in 2024     - CNET](https://www.cnet.com/health/medical/8-strategies-to-use-if-you-want-to-quit-smoking-in-2024/#ftag=CAD590a51e)
- - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)
  - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)
  - [Netflix’s The Kitchen is a stunning parable about the future of housing inequality](https://www.theverge.com/24043480/netflix-the-kitchen-review-daniel-kaluuya-kano)
  - [Apple and Google reducing their app store fees by just 3-4% for external payment methods simply make alternative options non-viable for app developers &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/240120/p6#a240120p6)
- - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
- - [Meet Rabbit R1: A Petite Orange Box Redefining App Usage With AI Assistance     - CNET](https://www.cnet.com/tech/mobile/meet-rabbit-r1-petite-orange-box-redefining-app-usage-ai-assistance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

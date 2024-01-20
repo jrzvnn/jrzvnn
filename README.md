@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
- - 😝 [Really big family!](http://9gag.com/gag/anz620b)
- - 💣 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
+ - 😝 [FOR THE SHOW!!!](http://9gag.com/gag/a9qoXrD)
+ - 😝 [Real hero](http://9gag.com/gag/abv7BKO)
+ - 💣 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
+ - 😝 [Teach your kids manners or else some other impatient punk will](http://9gag.com/gag/avQNvvM)
+ - 👉 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)<!-- MEMES:END -->
 
 ---
 

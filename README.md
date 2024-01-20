@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)
+ - [Gain Access to over 240 Mac Apps for Just $85     - CNET](https://www.cnet.com/deals/gain-access-to-over-240-mac-apps-for-just-85/#ftag=CAD590a51e)
  - [A look at the Mac&#39;s evolution as it turns 40, and interviews with Alan Dye and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)
- - [Grab the new eufy X8 Pro for as low as $350     - CNET](https://www.cnet.com/deals/grab-the-new-eufy-x8-pro-for-as-low-as-350/#ftag=CAD590a51e)
- - [Take to the Skies With $40 Off the DJI Mini 2 SE Drone     - CNET](https://www.cnet.com/deals/take-to-the-skies-with-40-dollars-off-the-dji-mini-2-se-drone/#ftag=CAD590a51e)
- - [Best Wired TV Streaming Devices of 2024: Roku, Google, Apple and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-wired-streaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2024: Tested and Reviewed     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [Grab the new eufy X8 Pro for as low as $350     - CNET](https://www.cnet.com/deals/grab-the-new-eufy-x8-pro-for-as-low-as-350/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

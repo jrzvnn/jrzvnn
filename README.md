@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)
  - [MagEZ Car Mount Pro 2 review: slick automotive automation](https://appleinsider.com/articles/24/01/20/magez-car-mount-pro-2-review-slick-automotive-automation?utm_medium=rss)
  - [BreachForums admin Conor Brian Fitzpatrick, aka &quot;Pompompurin&quot;, is sentenced to 20 years of supervised release for his role in running the cybercrime forum &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240120/p7#a240120p7)
  - [Is There an Ideal Time of Day to Exercise? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)
- - [Cut Back on These 11 Foods and Take Control of Your Health     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-take-control-of-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cut Back on These 11 Foods and Take Control of Your Health     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-take-control-of-your-health/#ftag=CAD590a51e)
+ - [Verizon 5G Home Internet vs. T-Mobile Home Internet: Which Mobile Company Should You Trust to Handle Your Home&#39;s Broadband?     - CNET](https://www.cnet.com/home/internet/verizon-5g-home-internet-vs-t-mobile-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

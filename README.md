@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Packers vs. 49ers Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-49ers-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
  - [The latest Apple Watch SE is matching its lowest price to date this weekend](https://www.theverge.com/2024/1/20/24042338/apple-watch-se-8bitdo-pro-2-controller-surface-pro-9-deal-sale)
  - [An interview with crypto skeptic James Block, whose damning critique of Signature Bank on his blog, Dirty Bubble Media, became the best short call of 2023 &lpar;Sam Potter/Bloomberg&rpar;](http://www.techmeme.com/240120/p10#a240120p10)
- - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)
- - [Gain Access to over 240 Mac Apps for Just $85     - CNET](https://www.cnet.com/deals/gain-access-to-over-240-mac-apps-for-just-85/#ftag=CAD590a51e)
- - [A look at the Mac&#39;s evolution as it turns 40, and interviews with Alan Dye and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)<!-- TECH:END -->
+ - [Best 3D Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
+ - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

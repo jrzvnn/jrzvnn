@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security News This Week: US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)
+ - [I really hope Asus didn’t ruin the Zephyrus G14](https://www.theverge.com/24044499/asus-rog-zephyrus-g14-2024-apple-macbook)
  - [Apple Hongdae store opens in South Korea](https://appleinsider.com/articles/24/01/20/apple-hongdae-store-opens-in-south-korea?utm_medium=rss)
- - [Be Patient: Zuckerberg&#39;s Big New AI Bet Won&#39;t Revolutionize Your Life Anytime Soon     - CNET](https://www.cnet.com/tech/computing/be-patient-zuckerbergs-big-new-ai-bet-wont-revolutionize-your-life-anytime-soon/#ftag=CAD590a51e)
- - [Circle to Search: Samsung Galaxy S24 Brings Google&#39;s Powerful AI Feature to Your Fingertips     - CNET](https://www.cnet.com/tech/services-and-software/circle-to-search-samsung-galaxy-s24-brings-googles-powerful-ai-feature-to-your-fingertips/#ftag=CAD590a51e)
- - [January Social Security Payments: When Will Your Money Arrive?     - CNET](https://www.cnet.com/personal-finance/january-social-security-payments-when-will-your-money-arrive/#ftag=CAD590a51e)
- - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)<!-- TECH:END -->
+ - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)
+ - [The Last-Ditch Effort to Stop the Mountain Valley Pipeline](https://www.wired.com/story/mountain-valley-pipeline-blocked-protests-west-virginia-appalachian-mountains/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

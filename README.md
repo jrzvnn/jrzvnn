@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [2020 Beirut blast](http://9gag.com/gag/avQNR7E)
+ - 💣 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 ---
 

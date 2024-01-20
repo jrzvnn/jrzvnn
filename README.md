@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She sounds tired, but happy.](http://9gag.com/gag/aA0jX99)
- - 😝 [Asian at grocery](http://9gag.com/gag/aREnoMB)
- - 💣 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)
- - 😝 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)
- - 👉 [There are no coincidences](http://9gag.com/gag/anz6D3n)<!-- MEMES:END -->
+ - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 👉 [North Korean pig](http://9gag.com/gag/agoW8gn)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 😝 [2020 Beirut blast](http://9gag.com/gag/avQNR7E)
- - 💣 [Have you ever saw scorpion popping](http://9gag.com/gag/aDYyb7x)
+ - 😝 [So excited about the new Indiana Jones game](http://9gag.com/gag/aREnoZB)
+ - 😝 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
+ - 💣 [Yeah you absolutely don&#39;t](http://9gag.com/gag/a6qPBj8)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
+ - 👉 [Asian at grocery](http://9gag.com/gag/aREnoMB)<!-- MEMES:END -->
 
 ---
 

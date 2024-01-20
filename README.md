@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take to the Skies With $40 Off the DJI Mini 2 SE Drone     - CNET](https://www.cnet.com/deals/take-to-the-skies-with-40-dollars-off-the-dji-mini-2-se-drone/#ftag=CAD590a51e)
- - [Best Wired TV Streaming Devices of 2024: Roku, Google, Apple and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-wired-streaming-device/#ftag=CAD590a51e)
  - [Daily deals Jan. 20: $200 off M3 Pro MacBook Pro, 40% off iPad Pro, 38% off TurboTax Premier, more](https://appleinsider.com/articles/24/01/20/daily-deals-jan-20-200-off-m3-pro-macbook-pro-40-off-ipad-pro-38-off-turbotax-premier-more?utm_medium=rss)
- - [You Can Make Your Own Solar Panels, and It&#39;s Easier Than You&#39;d Think     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-make-a-solar-panel/#ftag=CAD590a51e)
- - [Texans vs. Ravens Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-ravens-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After two failed attempts, a bipartisan effort is being made to remedy the issues caused by US tax law Section 174, which forces amortization of software labor &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240120/p8#a240120p8)
+ - [Fujitsu Bugs That Sent Innocent People to Prison Were Known ‘From the Start’](https://www.wired.com/uk-post-office-scandal-fujitsu-bugs-known/)
+ - [Best Internet Providers in Nebraska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-nebraska/#ftag=CAD590a51e)
+ - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

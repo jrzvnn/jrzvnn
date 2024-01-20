@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think I saw uncle](http://9gag.com/gag/aXnB4qg)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 😝 [Scandal in \u00dabeda, Spain, because a town councillor&#39;s family friend won 2 years in a row a `Christmas lottery` of 550\u20ac worth of credit for food. This is Spanish corruption in a nut shell. Just look at the right hand.](http://9gag.com/gag/aWGzLen)
+ - 💣 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
  - 👉 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 

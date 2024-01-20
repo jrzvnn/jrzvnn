@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Piece of shit couldn\u2019t handle it during sentencing for murder beating of a 4 year old](http://9gag.com/gag/aGEXn4z)
- - 😝 [HOld up](http://9gag.com/gag/aMEgBXG)
- - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
+ - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
 
 ---
 

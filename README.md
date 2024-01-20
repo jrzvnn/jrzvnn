@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 💣 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 😝 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [`and that&#39;s when i punched her in the face, your Honor`](http://9gag.com/gag/aVbAKwO)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 ---
 

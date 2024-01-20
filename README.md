@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)
  - [A look at the Mac&#39;s evolution as it turns 40, and interviews with Alan Dye and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)
+ - [Grab the new eufy X8 Pro for as low as $350     - CNET](https://www.cnet.com/deals/grab-the-new-eufy-x8-pro-for-as-low-as-350/#ftag=CAD590a51e)
  - [Take to the Skies With $40 Off the DJI Mini 2 SE Drone     - CNET](https://www.cnet.com/deals/take-to-the-skies-with-40-dollars-off-the-dji-mini-2-se-drone/#ftag=CAD590a51e)
- - [Best Wired TV Streaming Devices of 2024: Roku, Google, Apple and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-wired-streaming-device/#ftag=CAD590a51e)
- - [Daily deals Jan. 20: $200 off M3 Pro MacBook Pro, 40% off iPad Pro, 38% off TurboTax Premier, more](https://appleinsider.com/articles/24/01/20/daily-deals-jan-20-200-off-m3-pro-macbook-pro-40-off-ipad-pro-38-off-turbotax-premier-more?utm_medium=rss)
- - [You Can Make Your Own Solar Panels, and It&#39;s Easier Than You&#39;d Think     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-make-a-solar-panel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wired TV Streaming Devices of 2024: Roku, Google, Apple and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-wired-streaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

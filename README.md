@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Google reducing their app store fees by just 3-4% for external payment methods simply make alternative options non-viable for app developers &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/240120/p6#a240120p6)
  - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
  - [Meet Rabbit R1: A Petite Orange Box Redefining App Usage With AI Assistance     - CNET](https://www.cnet.com/tech/mobile/meet-rabbit-r1-petite-orange-box-redefining-app-usage-ai-assistance/#ftag=CAD590a51e)
  - [19 Perfect Galentine&#39;s Day Gifts to Show Your Besties Some Love     - CNET](https://www.cnet.com/news/perfect-galentines-day-gifts-to-show-love-to-your-besties/#ftag=CAD590a51e)
- - [In 2024, You Can Take Control of Your Home&#39;s Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/2024-is-the-year-you-take-control-of-your-homes-energy/#ftag=CAD590a51e)
- - [US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)<!-- TECH:END -->
+ - [In 2024, You Can Take Control of Your Home&#39;s Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/2024-is-the-year-you-take-control-of-your-homes-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

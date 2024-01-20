@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 😝 [Power of AI](http://9gag.com/gag/a6qP5Nq)
- - 💣 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
+ - 😝 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - 😝 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
+ - 👉 [North Korean pig](http://9gag.com/gag/agoW8gn)<!-- MEMES:END -->
 
 ---
 

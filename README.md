@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After two failed attempts, a bipartisan effort is being made to remedy the issues caused by US tax law Section 174, which forces amortization of software labor &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240120/p8#a240120p8)
  - [Fujitsu Bugs That Sent Innocent People to Prison Were Known ‘From the Start’](https://www.wired.com/uk-post-office-scandal-fujitsu-bugs-known/)
+ - [Best Internet Providers in Nebraska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-nebraska/#ftag=CAD590a51e)
  - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)
- - [MagEZ Car Mount Pro 2 review: slick automotive automation](https://appleinsider.com/articles/24/01/20/magez-car-mount-pro-2-review-slick-automotive-automation?utm_medium=rss)
- - [BreachForums admin Conor Brian Fitzpatrick, aka &quot;Pompompurin&quot;, is sentenced to 20 years of supervised release for his role in running the cybercrime forum &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240120/p7#a240120p7)
- - [Is There an Ideal Time of Day to Exercise? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MagEZ Car Mount Pro 2 review: slick automotive automation](https://appleinsider.com/articles/24/01/20/magez-car-mount-pro-2-review-slick-automotive-automation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

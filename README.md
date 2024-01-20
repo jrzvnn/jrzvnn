@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No shame](http://9gag.com/gag/agoW2Mv)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 💣 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 👉 [Really big family!](http://9gag.com/gag/anz620b)<!-- MEMES:END -->
+ - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
+ - 😝 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
+ - 💣 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 😝 [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 👉 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 💣 [What is that ?](http://9gag.com/gag/a2Ke0qp)
+ - 😝 [My goal](http://9gag.com/gag/armYx6X)
+ - 😝 [Some useful tools to maje your job easy is what you think instead of WORKING YOUR ASS OFF YOU WORTHLESS PIECE OF SHITS. GET UP AND DO SOME WORK LAZY ASS FAT B*TCH](http://9gag.com/gag/anz6EVn)
+ - 💣 [We all need a friend like him.](http://9gag.com/gag/ajVpxqg)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [`and that&#39;s when i punched her in the face, your Honor`](http://9gag.com/gag/aVbAKwO)<!-- MEMES:END -->
+ - 👉 [Life of an American as seen by the rest of the world](http://9gag.com/gag/a7qQ9Xe)<!-- MEMES:END -->
 
 ---
 

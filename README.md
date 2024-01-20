@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)
+ - [The Last-Ditch Effort to Stop the Mountain Valley Pipeline](https://www.wired.com/story/mountain-valley-pipeline-blocked-protests-west-virginia-appalachian-mountains/)
+ - [Why a Supreme Court decision on fishing boats could change everything](https://www.theverge.com/2024/1/20/24044179/supreme-court-chevron-doctrine-deference)
  - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)
- - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)
- - [How AI has been helping criminals who use deepfakes and voice cloning for financial scams, forcing banks and fintechs to invest in AI to counter fraud &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/240120/p5#a240120p5)
- - [Buzzy Apple Vision Pro Starts at $3,500. Here Are VR Headset Deals for the Rest of Us     - CNET](https://www.cnet.com/deals/apple-vision-pro-alternative-deals/#ftag=CAD590a51e)
- - [Tax Refund Advances Sound Great, but Experts Don&#39;t Recommend Them. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/tax-refund-advances-sound-great-but-experts-dont-recommend-them-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad](http://9gag.com/gag/aBdpEAz)
- - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
- - 💣 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
+ - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
+ - 💣 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [These videos seem mediocre to me, but I already used a couple and they work well](http://9gag.com/gag/a9qo5Z1)<!-- MEMES:END -->
+ - 👉 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really big family!](http://9gag.com/gag/anz620b)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
+ - 😝 [She sounds tired, but happy.](http://9gag.com/gag/aA0jX99)
+ - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 💣 [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 😝 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)
+ - 👉 [There are no coincidences](http://9gag.com/gag/anz6D3n)<!-- MEMES:END -->
 
 ---
 

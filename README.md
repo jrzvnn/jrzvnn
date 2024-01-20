@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
- - [US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)
- - [I really hope Asus didn’t ruin the Zephyrus G14](https://www.theverge.com/24044499/asus-rog-zephyrus-g14-2024-apple-macbook)
- - [Apple Hongdae store opens in South Korea](https://appleinsider.com/articles/24/01/20/apple-hongdae-store-opens-in-south-korea?utm_medium=rss)
- - [Be Patient: Zuckerberg&#39;s Big New AI Bet Won&#39;t Revolutionize Your Life Anytime Soon     - CNET](https://www.cnet.com/tech/computing/be-patient-zuckerbergs-big-new-ai-bet-wont-revolutionize-your-life-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meet Rabbit R1: A Petite Orange Box Redefining App Usage With AI Assistance     - CNET](https://www.cnet.com/tech/mobile/meet-rabbit-r1-petite-orange-box-redefining-app-usage-ai-assistance/#ftag=CAD590a51e)
+ - [19 Perfect Galentine&#39;s Day Gifts to Show Your Besties Some Love     - CNET](https://www.cnet.com/news/perfect-galentines-day-gifts-to-show-love-to-your-besties/#ftag=CAD590a51e)
+ - [In 2024, You Can Take Control of Your Home&#39;s Energy     - CNET](https://www.cnet.com/home/energy-and-utilities/2024-is-the-year-you-take-control-of-your-homes-energy/#ftag=CAD590a51e)
+ - [US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked](https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

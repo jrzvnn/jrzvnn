@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reporter mistakes mountain lion as dog](http://9gag.com/gag/ajVpB5G)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
+ - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 💣 [What is that ?](http://9gag.com/gag/a2Ke0qp)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
  - 👉 [`and that&#39;s when i punched her in the face, your Honor`](http://9gag.com/gag/aVbAKwO)<!-- MEMES:END -->
 

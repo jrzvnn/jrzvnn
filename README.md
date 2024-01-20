@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So excited about the new Indiana Jones game](http://9gag.com/gag/aREnoZB)
- - 😝 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
- - 💣 [Yeah you absolutely don&#39;t](http://9gag.com/gag/a6qPBj8)
+ - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 😝 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 💣 [North Korean pig](http://9gag.com/gag/agoW8gn)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Asian at grocery](http://9gag.com/gag/aREnoMB)<!-- MEMES:END -->
+ - 👉 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)<!-- MEMES:END -->
 
 ---
 

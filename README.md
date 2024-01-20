@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
  - 😝 [Really big family!](http://9gag.com/gag/anz620b)
- - 💣 [People of which country does this remind you of?](http://9gag.com/gag/aPg5oNQ)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 💣 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 👉 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)<!-- MEMES:END -->
 
 ---
 

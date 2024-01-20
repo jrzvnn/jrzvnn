@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Hongdae store opens in South Korea](https://appleinsider.com/articles/24/01/20/apple-hongdae-store-opens-in-south-korea?utm_medium=rss)
  - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)
  - [The Last-Ditch Effort to Stop the Mountain Valley Pipeline](https://www.wired.com/story/mountain-valley-pipeline-blocked-protests-west-virginia-appalachian-mountains/)
  - [Why a Supreme Court decision on fishing boats could change everything](https://www.theverge.com/2024/1/20/24044179/supreme-court-chevron-doctrine-deference)
- - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)
- - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)<!-- TECH:END -->
+ - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

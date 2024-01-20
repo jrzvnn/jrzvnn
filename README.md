@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buzzy Apple Vision Pro Starts at $3,500. Here Are VR Headset Deals for the Rest of Us     - CNET](https://www.cnet.com/deals/apple-vision-pro-alternative-deals/#ftag=CAD590a51e)
+ - [Tax Refund Advances Sound Great, but Experts Don&#39;t Recommend Them. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/tax-refund-advances-sound-great-but-experts-dont-recommend-them-heres-why/#ftag=CAD590a51e)
+ - [Will the 2023 COLA Increase Affect Your Taxes This Year? What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/will-the-2023-cola-increase-affect-your-taxes-this-year-what-to-know/#ftag=CAD590a51e)
  - [Premier League Soccer Livestream: How to Watch Arsenal vs. Crystal Palace From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)
- - [Best Smart Home Products for 2024 That Aren&#39;t Made by Amazon or Google     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-products-not-amazon-or-google/#ftag=CAD590a51e)
- - [Kazakhstan-based mobile app provider Kaspi.kz raised $1B+ in its US IPO, with the stock rising 4.3% on its debut, giving the company a market cap of ~$18B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240120/p4#a240120p4)
- - [Stability AI releases Stable LM 2 1.6B, which the company says outperforms other small AI language models on most benchmarks, including Microsoft&#39;s Phi-2 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240120/p3#a240120p3)
- - [Indian smartphone shipments in Q4 2023 grew 20% YoY to 38.9M units, after five quarters of declines; total shipments for 2023 declined 2% YoY to 148.6M units &lpar;Canalys&rpar;](http://www.techmeme.com/240120/p2#a240120p2)<!-- TECH:END -->
+ - [Best Smart Home Products for 2024 That Aren&#39;t Made by Amazon or Google     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-products-not-amazon-or-google/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

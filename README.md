@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 💣 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 😝 [Some YouTube Comments are lit](http://9gag.com/gag/aZDeEvz)
+ - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
+ - 💣 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
+ - 👉 [Yeah you absolutely don&#39;t](http://9gag.com/gag/a6qPBj8)<!-- MEMES:END -->
 
 ---
 

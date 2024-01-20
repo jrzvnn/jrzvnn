@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [Vote for a clown that got into money....](http://9gag.com/gag/aWGznKA)
- - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [Sad](http://9gag.com/gag/aBdpEAz)
+ - 😝 [Naughty boy](http://9gag.com/gag/aPg58rG)
+ - 💣 [That&#39;s some weird looking veg!](http://9gag.com/gag/aZDeEnQ)
  - 😝 [The Devil&#39;s Sea awaits your conquest, matey! \ud83e\udd9c](http://9gag.com/gag/awZwAY4)
- - 👉 [HOld up](http://9gag.com/gag/aMEgBXG)<!-- MEMES:END -->
+ - 👉 [These videos seem mediocre to me, but I already used a couple and they work well](http://9gag.com/gag/a9qo5Z1)<!-- MEMES:END -->
 
 ---
 

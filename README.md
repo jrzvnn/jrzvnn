@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BreachForums admin Conor Brian Fitzpatrick, aka &quot;Pompompurin&quot;, is sentenced to 20 years of supervised release for his role in running the cybercrime forum &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240120/p7#a240120p7)
  - [Is There an Ideal Time of Day to Exercise? Here&#39;s What to Know     - CNET](https://www.cnet.com/health/fitness/ideal-time-of-day-to-exercise-heres-what-to-know/#ftag=CAD590a51e)
  - [Cut Back on These 11 Foods and Take Control of Your Health     - CNET](https://www.cnet.com/health/nutrition/cut-back-on-these-11-foods-and-take-control-of-your-health/#ftag=CAD590a51e)
  - [Verizon 5G Home Internet vs. T-Mobile Home Internet: Which Mobile Company Should You Trust to Handle Your Home&#39;s Broadband?     - CNET](https://www.cnet.com/home/internet/verizon-5g-home-internet-vs-t-mobile-home-internet/#ftag=CAD590a51e)
- - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)
- - [The Vision Pro’s first killer app is the web, whether Apple likes it or not](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)<!-- TECH:END -->
+ - [12.9-inch iPad Air CAD drawing alludes to new camera bump](https://appleinsider.com/articles/24/01/20/129-inch-ipad-air-cad-drawing-alludes-to-new-camera-bump?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

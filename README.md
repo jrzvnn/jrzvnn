@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Protein Powders for Women     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Best Laptop Deals: Save Up to $580 on Samsung, Lenovo, Apple, Asus and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
  - [Apple cuts back AirPlay streaming resolution from Apple Vision Pro&#39;s displays](https://appleinsider.com/articles/24/01/20/apkle-cuts-back-airplay-streaming-resolution-from-apple-vision-pros-displays?utm_medium=rss)
- - [Dave Mills, who created the Network Time Protocol in 1985 to synchronize time across different computer systems and networks, died at age 85 on January 17 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240119/p24#a240119p24)
- - [Vision Pro cover glass repairs will set you back $799 without AppleCare Plus](https://www.theverge.com/2024/1/19/24044605/apple-vision-pro-repair-price-applecare-plus)
- - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [Best Webcam Deals: Discounts on Razer, Logitech, HP and More     - CNET](https://www.cnet.com/deals/best-webcam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dave Mills, who created the Network Time Protocol in 1985 to synchronize time across different computer systems and networks, died at age 85 on January 17 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240119/p24#a240119p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

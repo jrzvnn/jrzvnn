@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 20: $200 off M3 Pro MacBook Pro, 40% off iPad Pro, 38% off TurboTax Premier, more](https://appleinsider.com/articles/24/01/20/daily-deals-jan-20-200-off-m3-pro-macbook-pro-40-off-ipad-pro-38-off-turbotax-premier-more?utm_medium=rss)
  - [After two failed attempts, a bipartisan effort is being made to remedy the issues caused by US tax law Section 174, which forces amortization of software labor &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240120/p8#a240120p8)
  - [Fujitsu Bugs That Sent Innocent People to Prison Were Known ‘From the Start’](https://www.wired.com/uk-post-office-scandal-fujitsu-bugs-known/)
- - [Best Internet Providers in Nebraska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-nebraska/#ftag=CAD590a51e)
  - [How Long Will It Take to Get Your 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/how-soon-after-filing-your-taxes-will-your-tax-refund-arrive-find-out-here/#ftag=CAD590a51e)
  - [MagEZ Car Mount Pro 2 review: slick automotive automation](https://appleinsider.com/articles/24/01/20/magez-car-mount-pro-2-review-slick-automotive-automation?utm_medium=rss)<!-- TECH:END -->
 

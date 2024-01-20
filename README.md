@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk&#39;s xAI has secured $500M in commitments from investors toward a $1B goal and is aiming for a valuation of $15B to $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p23#a240119p23)
  - [Grab Apple&#39;s M3 Pro MacBook Pro for just $1,799](https://appleinsider.com/articles/24/01/19/grab-apples-m3-pro-macbook-pro-for-just-1799?utm_medium=rss)
  - [Are Stanley Tumblers Worth Waiting in Line For? I Tested Them Out     - CNET](https://www.cnet.com/deals/are-stanley-tumblers-worth-waiting-in-line-for-i-tested-them-out/#ftag=CAD590a51e)
  - [Best Air Fryer Deals: Up to $110 in Savings on Big Name Brands     - CNET](https://www.cnet.com/deals/best-air-fryer-deals/#ftag=CAD590a51e)
- - [Best E Ink Tablets for 2023: Devices Made for Reading and Writing     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)
- - [Apple Will Charge You $499 for AppleCare Plus on the Vision Pro Headset     - CNET](https://www.cnet.com/tech/computing/apple-will-charge-you-499-for-applecare-plus-on-the-vision-pro-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best E Ink Tablets for 2023: Devices Made for Reading and Writing     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with crypto skeptic James Block, whose damning critique of Signature Bank on his blog, Dirty Bubble Media, became the best short call of 2023 &lpar;Sam Potter/Bloomberg&rpar;](http://www.techmeme.com/240120/p10#a240120p10)
  - [How to create custom voice commands for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-create-custom-voice-commands-for-iphone?utm_medium=rss)
  - [Gain Access to over 240 Mac Apps for Just $85     - CNET](https://www.cnet.com/deals/gain-access-to-over-240-mac-apps-for-just-85/#ftag=CAD590a51e)
  - [A look at the Mac&#39;s evolution as it turns 40, and interviews with Alan Dye and other Apple executives about Mac&#39;s future, its influence on Vision Pro, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240120/p9#a240120p9)
- - [Best Home Ellipticals in 2024: Tested and Reviewed     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [Grab the new eufy X8 Pro for as low as $350     - CNET](https://www.cnet.com/deals/grab-the-new-eufy-x8-pro-for-as-low-as-350/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2024: Tested and Reviewed     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

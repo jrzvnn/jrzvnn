@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kazakhstan-based mobile app provider Kaspi.kz raised $1B+ in its US IPO, with the stock rising 4.3% on its debut, giving the company a market cap of ~$18B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240120/p4#a240120p4)
  - [Stability AI releases Stable LM 2 1.6B, which the company says outperforms other small AI language models on most benchmarks, including Microsoft&#39;s Phi-2 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240120/p3#a240120p3)
  - [Indian smartphone shipments in Q4 2023 grew 20% YoY to 38.9M units, after five quarters of declines; total shipments for 2023 declined 2% YoY to 148.6M units &lpar;Canalys&rpar;](http://www.techmeme.com/240120/p2#a240120p2)
  - [How urban planners in Barcelona and others are using supercomputers and AI to create digital twins of their cities to address issues like traffic congestion &lpar;Joy Lo Dico/Financial Times&rpar;](http://www.techmeme.com/240120/p1#a240120p1)
- - [Get $750 Off Greenworks&#39; Snow Bundle During This Best Buy Sale     - CNET](https://www.cnet.com/deals/get-750-off-greenworks-snow-bundle-during-this-best-buy-sale/#ftag=CAD590a51e)
- - [Best Protein Powders for Women     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get $750 Off Greenworks&#39; Snow Bundle During This Best Buy Sale     - CNET](https://www.cnet.com/deals/get-750-off-greenworks-snow-bundle-during-this-best-buy-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

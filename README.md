@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Deals: Stand Mixers, Blenders, and More](https://www.wired.com/story/weekend-deals-jan-20-2024/)
+ - [The Stark Realities of Posting Your Layoff on TikTok](https://www.wired.com/story/the-stark-realities-of-posting-your-layoff-on-tiktok/)
  - [How AI has been helping criminals who use deepfakes and voice cloning for financial scams, forcing banks and fintechs to invest in AI to counter fraud &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/240120/p5#a240120p5)
  - [Buzzy Apple Vision Pro Starts at $3,500. Here Are VR Headset Deals for the Rest of Us     - CNET](https://www.cnet.com/deals/apple-vision-pro-alternative-deals/#ftag=CAD590a51e)
- - [Tax Refund Advances Sound Great, but Experts Don&#39;t Recommend Them. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/tax-refund-advances-sound-great-but-experts-dont-recommend-them-heres-why/#ftag=CAD590a51e)
- - [Will the 2023 COLA Increase Affect Your Taxes This Year? What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/will-the-2023-cola-increase-affect-your-taxes-this-year-what-to-know/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Arsenal vs. Crystal Palace From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-crystal-palace-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Refund Advances Sound Great, but Experts Don&#39;t Recommend Them. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/tax-refund-advances-sound-great-but-experts-dont-recommend-them-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

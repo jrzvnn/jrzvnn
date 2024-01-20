@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
- - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 💣 [She&#39;s not built different, she&#39;s built perfectly](http://9gag.com/gag/a8qZwYd)
- - 😝 [Asian at grocery](http://9gag.com/gag/aREnoMB)
- - 👉 [There are no coincidences](http://9gag.com/gag/anz6D3n)<!-- MEMES:END -->
+ - 😝 [No shame](http://9gag.com/gag/agoW2Mv)
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 💣 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 👉 [Really big family!](http://9gag.com/gag/anz620b)<!-- MEMES:END -->
 
 ---
 

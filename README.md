@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
- - 😝 [Really big family!](http://9gag.com/gag/anz620b)
- - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
+ - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
 
 ---
 

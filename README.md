@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Vision Pro cover glass repairs will set you back $799 without AppleCare Plus](https://www.theverge.com/2024/1/19/24044605/apple-vision-pro-repair-price-applecare-plus)
- - [Sources: Elon Musk&#39;s xAI has secured $500M in commitments from investors toward a $1B goal and is aiming for a valuation of $15B to $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p23#a240119p23)
- - [In 2024, Biosensors Are Becoming More Accessible: What It Means for You     - CNET](https://www.cnet.com/health/medical/in-2024-biosensors-are-becoming-more-accessible-what-it-means-for-you/#ftag=CAD590a51e)
- - [IRS 1099-K Delay: What PayPal, Venmo and Cash App Users Should Know for Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/irs-1099-k-delay-what-paypal-venmo-and-cash-app-users-should-know-for-tax-season/#ftag=CAD590a51e)
- - [Best Car Phone Mount for 2024     - CNET](https://www.cnet.com/tech/mobile/best-car-phone-mount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
+ - [Best Google Pixel Deals: Big Savings on Latest Models Including Pixel 8, Pixel 8 Pro and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Best Webcam Deals: Discounts on Razer, Logitech, HP and More     - CNET](https://www.cnet.com/deals/best-webcam-deals/#ftag=CAD590a51e)
+ - [Theragun Alternatives: Best Budget Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FOR THE SHOW!!!](http://9gag.com/gag/a9qoXrD)
- - 😝 [Real hero](http://9gag.com/gag/abv7BKO)
- - 💣 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
- - 😝 [Teach your kids manners or else some other impatient punk will](http://9gag.com/gag/avQNvvM)
- - 👉 [Affirmative action: Nothing can discredit our institutions faster than those that populate them. PhD in the bio but knows less about science than a 13th century peasant. Let&#39;s see when he will play the race card.](http://9gag.com/gag/aGEX2n5)<!-- MEMES:END -->
+ - 😝 [Siberian Tiger and Bengal Tiger. Who&#39;s the boss now?](http://9gag.com/gag/aPg5oZQ)
+ - 😝 [Really big family!](http://9gag.com/gag/anz620b)
+ - 💣 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 👉 [See the comments](http://9gag.com/gag/az2nGEq)<!-- MEMES:END -->
 
 ---
 

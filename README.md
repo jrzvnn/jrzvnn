@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How urban planners in Barcelona and others are using supercomputers and AI to create digital twins of their cities to address issues like traffic congestion &lpar;Joy Lo Dico/Financial Times&rpar;](http://www.techmeme.com/240120/p1#a240120p1)
+ - [Get $750 Off Greenworks&#39; Snow Bundle During This Best Buy Sale     - CNET](https://www.cnet.com/deals/get-750-off-greenworks-snow-bundle-during-this-best-buy-sale/#ftag=CAD590a51e)
  - [Best Protein Powders for Women     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)
  - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Best Laptop Deals: Save Up to $580 on Samsung, Lenovo, Apple, Asus and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
- - [Apple cuts back AirPlay streaming resolution from Apple Vision Pro&#39;s displays](https://appleinsider.com/articles/24/01/20/apkle-cuts-back-airplay-streaming-resolution-from-apple-vision-pros-displays?utm_medium=rss)
- - [Dave Mills, who created the Network Time Protocol in 1985 to synchronize time across different computer systems and networks, died at age 85 on January 17 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240119/p24#a240119p24)<!-- TECH:END -->
+ - [Best Laptop Deals: Save Up to $580 on Samsung, Lenovo, Apple, Asus and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
+ - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 💣 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
  - 😝 [Any more videos?](http://9gag.com/gag/aeQLRQp)
- - 😝 [Simplicity is the key](http://9gag.com/gag/adPE2eV)
- - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 👉 [Needle throwing](http://9gag.com/gag/a6qPpN8)<!-- MEMES:END -->
+ - 👉 [Hmmm](http://9gag.com/gag/agoW4wv)<!-- MEMES:END -->
 
 ---
 

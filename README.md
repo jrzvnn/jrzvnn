@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the reasons for the less-than-expected developer enthusiasm for Apple&#39;s Vision Pro, including an uncertain ROI and anger at the App Store policies &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240121/p6#a240121p6)
  - [Should You Buy Your Solar Panels? Renting Could Be a Better Fit     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
  - [The Cost of Owning a Home Generator: Is It Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-cost-of-owning-a-home-generator-is-it-worth-it/#ftag=CAD590a51e)
  - [Shed Body Fat at Home With These 7 Easy Tips     - CNET](https://www.cnet.com/health/fitness/shed-body-fat-at-home-with-these-7-easy-tips/#ftag=CAD590a51e)
- - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)
- - [Why the Polar Vortex Is Bad for Balloon Artists](https://www.wired.com/story/why-the-polar-vortex-is-bad-for-balloon-artists/)<!-- TECH:END -->
+ - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

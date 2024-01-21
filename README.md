@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 💣 [Making Mofongo](http://9gag.com/gag/aXnBROb)
  - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 💣 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 👉 [Calling all thigh enthusiasts, share your best ones!](http://9gag.com/gag/aBdpOdA)<!-- MEMES:END -->
+ - 👉 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)<!-- MEMES:END -->
 
 ---
 

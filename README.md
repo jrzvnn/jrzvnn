@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [Really, this is so disgusting!](http://9gag.com/gag/armYBZd)
+ - 😝 [Got a squirter](http://9gag.com/gag/aREnOEM)
  - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
+ - 💣 [Simplicity is the key](http://9gag.com/gag/adPE2eV)
+ - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 👉 [Really, this is so disgusting!](http://9gag.com/gag/armYBZd)<!-- MEMES:END -->
 
 ---
 

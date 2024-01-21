@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 💣 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 👉 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)<!-- MEMES:END -->
+ - 😝 [No shame](http://9gag.com/gag/agoW2Mv)
+ - 😝 [5 games = brand new console](http://9gag.com/gag/a04BOZO)
+ - 💣 [Wholesome!](http://9gag.com/gag/a4ovWMp)
+ - 😝 [Forever](http://9gag.com/gag/aVbABQK)
+ - 👉 [What are the chances?](http://9gag.com/gag/aZDeRRz)<!-- MEMES:END -->
 
 ---
 

@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 💣 [North Korean pig](http://9gag.com/gag/agoW8gn)
  - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
  - 👉 [Got a squirter](http://9gag.com/gag/aREnOEM)<!-- MEMES:END -->
 

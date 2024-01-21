@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 💣 [Got a squirter](http://9gag.com/gag/aREnOEM)
- - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
+ - 😝 [North Korean pig](http://9gag.com/gag/agoW8gn)
+ - 💣 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)
+ - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
+ - 👉 [Got a squirter](http://9gag.com/gag/aREnOEM)<!-- MEMES:END -->
 
 ---
 

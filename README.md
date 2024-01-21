@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tie on the doorknob [OC]](https://www.reddit.com/r/funny/comments/19c7ncv/tie_on_the_doorknob_oc/)
  - 😝 [You&#39;ll never get a cent out of me!](https://www.reddit.com/r/memes/comments/19c7ka1/youll_never_get_a_cent_out_of_me/)
- - 😝 [My snowman started to melt and lost all his coal pieces](https://www.reddit.com/r/funny/comments/19c7ifb/my_snowman_started_to_melt_and_lost_all_his_coal/)
- - 💣 [What will be your next wish? 🤣💔](https://www.reddit.com/r/memes/comments/19c7dh7/what_will_be_your_next_wish/)
- - 😝 [Father knows what to do!](https://www.reddit.com/r/funny/comments/19c7091/father_knows_what_to_do/)
- - 👉 [Needle throwing](http://9gag.com/gag/a6qPpN8)<!-- MEMES:END -->
+ - 💣 [My snowman started to melt and lost all his coal pieces](https://www.reddit.com/r/funny/comments/19c7ifb/my_snowman_started_to_melt_and_lost_all_his_coal/)
+ - 😝 [What will be your next wish? 🤣💔](https://www.reddit.com/r/memes/comments/19c7dh7/what_will_be_your_next_wish/)
+ - 👉 [Father knows what to do!](https://www.reddit.com/r/funny/comments/19c7091/father_knows_what_to_do/)<!-- MEMES:END -->
 
 ---
 

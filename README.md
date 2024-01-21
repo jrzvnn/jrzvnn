@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What will be your next wish? 🤣💔](https://www.reddit.com/r/memes/comments/19c7dh7/what_will_be_your_next_wish/)
  - 😝 [Father knows what to do!](https://www.reddit.com/r/funny/comments/19c7091/father_knows_what_to_do/)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 💣 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 👉 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)<!-- MEMES:END -->
+ - 💣 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
+ - 👉 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)<!-- MEMES:END -->
 
 ---
 

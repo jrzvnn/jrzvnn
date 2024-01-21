@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got a squirter](http://9gag.com/gag/aREnOEM)
- - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 💣 [Simplicity is the key](http://9gag.com/gag/adPE2eV)
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 👉 [Really, this is so disgusting!](http://9gag.com/gag/armYBZd)<!-- MEMES:END -->
+ - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
+ - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
+ - 💣 [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
+ - 👉 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)<!-- MEMES:END -->
 
 ---
 

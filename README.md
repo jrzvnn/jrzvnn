@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 😝 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)
- - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [Road trip](http://9gag.com/gag/aGEXbzw)
+ - 💣 [Reflex masters](http://9gag.com/gag/ajVpRZx)
+ - 😝 [Whats going on today?](http://9gag.com/gag/a04BxvL)
+ - 👉 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)<!-- MEMES:END -->
 
 ---
 

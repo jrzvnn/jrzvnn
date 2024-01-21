@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Apple apps for Vision Pro will be ‘unmodified’ iPad apps to start](https://www.theverge.com/2024/1/21/24045774/apple-vision-pro-first-party-apps-ipad-versions-only-news-calendar-reminders)
+ - [Daily deals Jan. 21: M3 iMac $1,199, 512GB M2 Mac mini $689, LG UltraGear Gaming Monitor $299, more](https://appleinsider.com/articles/24/01/21/daily-deals-jan-21-m3-imac-1199-512gb-m2-mac-mini-689-lg-ultragear-gaming-monitor-299-more?utm_medium=rss)
  - [How to make the iPhone light flash for phone calls &amp; messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-the-iphone-light-flash-for-phone-calls-messages-in-ios-17?utm_medium=rss)
  - [A look at the reasons for the less-than-expected developer enthusiasm for Apple&#39;s Vision Pro, including an uncertain ROI and anger at the App Store policies &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240121/p6#a240121p6)
- - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Bournemouth vs. Liverpool From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-bournemouth-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [Should You Buy Your Solar Panels? Renting Could Be a Better Fit     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

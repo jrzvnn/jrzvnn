@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an unpublished manuscript, David Bunnell, co-founder of PC Magazine, PC World, and Macworld, details the origins of the enduring media brands in the 1980s &lpar;Harry McCracken/Technologizer&rpar;](http://www.techmeme.com/240121/p5#a240121p5)
- - [The Incredible Disappearing TV](https://www.wired.com/story/the-incredible-disappearing-tv/)
- - [Nex Playground Review: Family Fun and Gimmicky Games](https://www.wired.com/review/nex-playground/)
- - [Premier League Soccer Livestream: How to Watch Sheffield United vs. West Ham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-sheffield-united-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [Will You Get a State Child Tax Credit Payment in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/will-you-get-a-state-child-tax-credit-payment-in-2024-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sit or stand: What to think about when using Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/sit-or-stand-what-to-think-about-when-using-apple-vision-pro?utm_medium=rss)
+ - [Can you fix the Magic Mouse by sticking it into an ergonomic shoe?](https://www.theverge.com/2024/1/21/24045324/apple-magic-mouse-wireless-charging-lightning-base)
+ - [Crime blotter: Arrest in case of iPhone taped to airplane toilet](https://appleinsider.com/articles/24/01/21/crime-blotter-arrest-in-case-of-iphone-tapped-to-airplane-toilet?utm_medium=rss)
+ - [1More Comfobuds Mini Review: Dashing Design, Spotty Execution](https://www.wired.com/review/1more-comfobuds-mini/)
+ - [Cryptographers Are Getting Closer to Enabling Fully Private Internet Searches](https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

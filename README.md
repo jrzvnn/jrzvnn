@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
  - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 💣 [North Korean pig](http://9gag.com/gag/agoW8gn)
- - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
- - 👉 [Got a squirter](http://9gag.com/gag/aREnOEM)<!-- MEMES:END -->
+ - 💣 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
+ - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
+ - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
 
 ---
 

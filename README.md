@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the reasons for the less-than-expected developer enthusiasm for Apple&#39;s Vision Pro, including an uncertain ROI and anger at the App Store policies &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240121/p6#a240121p6)
+ - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Bournemouth vs. Liverpool From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-bournemouth-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
  - [Should You Buy Your Solar Panels? Renting Could Be a Better Fit     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
- - [The Cost of Owning a Home Generator: Is It Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-cost-of-owning-a-home-generator-is-it-worth-it/#ftag=CAD590a51e)
- - [Shed Body Fat at Home With These 7 Easy Tips     - CNET](https://www.cnet.com/health/fitness/shed-body-fat-at-home-with-these-7-easy-tips/#ftag=CAD590a51e)
- - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)<!-- TECH:END -->
+ - [The Cost of Owning a Home Generator: Is It Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-cost-of-owning-a-home-generator-is-it-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

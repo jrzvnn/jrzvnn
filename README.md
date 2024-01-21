@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
+ - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
+ - 💣 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 👉 [Themfoys](http://9gag.com/gag/amA3Vg6)<!-- MEMES:END -->
 
 ---
 

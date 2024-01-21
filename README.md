@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Daily Habits That Will Help You Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-daily-habits-that-will-help-you-protect-your-eye-health/#ftag=CAD590a51e)
- - [How Much Do Solar Panels Cost?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-cost/#ftag=CAD590a51e)
- - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)
- - [Best Cheap Gaming Laptop of 2024     - CNET](https://www.cnet.com/tech/computing/best-cheap-gaming-laptop/#ftag=CAD590a51e)
- - [Save 60% on the Beelinguapp Lifetime Subscription     - CNET](https://www.cnet.com/deals/save-60-on-the-beelinguapp-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bucs vs. Lions Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bucs-vs-lions-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
+ - [Best Mattresses for Kids in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
+ - [Best 2-in-1 Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-2-in-1-laptop/#ftag=CAD590a51e)
+ - [OpenAI bans the developer of a chatbot mimicking presidential hopeful Dean Phillips, the company&#39;s first action against use of its tech in political campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/240121/p7#a240121p7)
+ - [Best Gel Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 💣 [Hmmm](http://9gag.com/gag/agoW4wv)
  - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
+ - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 ---
 

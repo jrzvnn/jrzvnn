@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 😝 [Sure](http://9gag.com/gag/aDYyZKx)
- - 💣 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 👉 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)<!-- MEMES:END -->
+ - 😝 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)
+ - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
+ - 💣 [Wholesome!](http://9gag.com/gag/a4ovWMp)
+ - 😝 [That flashbang tho](http://9gag.com/gag/aDYyXmB)
+ - 👉 [I hope the Egyptians win](http://9gag.com/gag/aeQL2xm)<!-- MEMES:END -->
 
 ---
 

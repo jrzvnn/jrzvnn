@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
+ - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
  - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 💣 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 😝 [Any more videos?](http://9gag.com/gag/aeQLRQp)
- - 👉 [Hmmm](http://9gag.com/gag/agoW4wv)<!-- MEMES:END -->
+ - 💣 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost thougt I would get my life back](http://9gag.com/gag/a4ovVMw)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 💣 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
+ - 😝 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)
+ - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
+ - 💣 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found salvation](http://9gag.com/gag/aNwNRDw)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 😝 [Any more videos?](http://9gag.com/gag/aeQLRQp)
+ - 😝 [Simplicity is the key](http://9gag.com/gag/adPE2eV)
  - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
  - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
+ - 👉 [Needle throwing](http://9gag.com/gag/a6qPpN8)<!-- MEMES:END -->
 
 ---
 

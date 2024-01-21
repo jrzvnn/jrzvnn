@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 😝 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 💣 [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - 😝 [Whats going on today?](http://9gag.com/gag/a04BxvL)
- - 👉 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)<!-- MEMES:END -->
+ - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
+ - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---
 

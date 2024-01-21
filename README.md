@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best VPN for Gaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)
  - [Sit or stand: What to think about when using Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/sit-or-stand-what-to-think-about-when-using-apple-vision-pro?utm_medium=rss)
  - [Can you fix the Magic Mouse by sticking it into an ergonomic shoe?](https://www.theverge.com/2024/1/21/24045324/apple-magic-mouse-wireless-charging-lightning-base)
  - [Crime blotter: Arrest in case of iPhone taped to airplane toilet](https://appleinsider.com/articles/24/01/21/crime-blotter-arrest-in-case-of-iphone-tapped-to-airplane-toilet?utm_medium=rss)
- - [1More Comfobuds Mini Review: Dashing Design, Spotty Execution](https://www.wired.com/review/1more-comfobuds-mini/)
- - [Cryptographers Are Getting Closer to Enabling Fully Private Internet Searches](https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/)<!-- TECH:END -->
+ - [How Samsung&#39;s Galaxy AI Features Stack Up Against Google and Apple     - CNET](https://www.cnet.com/tech/mobile/how-samsungs-galaxy-ai-features-stack-up-against-google-and-apple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

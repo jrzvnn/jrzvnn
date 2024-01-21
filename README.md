@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
- - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 💣 [Asian at grocery](http://9gag.com/gag/aREnoMB)
- - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
- - 👉 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)<!-- MEMES:END -->
+ - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 💣 [Really, this is so disgusting!](http://9gag.com/gag/armYBZd)
+ - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
+ - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
 
 ---
 

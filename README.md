@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an unpublished manuscript, David Bunnell, co-founder of PC Magazine, PC World, and Macworld, details the origins of the enduring media brands in the 1980s &lpar;Harry McCracken/Technologizer&rpar;](http://www.techmeme.com/240121/p5#a240121p5)
+ - [The Incredible Disappearing TV](https://www.wired.com/story/the-incredible-disappearing-tv/)
+ - [Nex Playground Review: Family Fun and Gimmicky Games](https://www.wired.com/review/nex-playground/)
  - [Premier League Soccer Livestream: How to Watch Sheffield United vs. West Ham From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-sheffield-united-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [Will You Get a State Child Tax Credit Payment in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/will-you-get-a-state-child-tax-credit-payment-in-2024-find-out-here/#ftag=CAD590a51e)
- - [A September 2023 survey of 3,000+ game developers: 84% were somewhat or very concerned about the ethics of using generative AI and 35% were impacted by layoffs &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240121/p4#a240121p4)
- - [Cybersecurity startups raised $8.2B in 692 deals in 2023, down from $16.3B in 941 deals in 2022 and the lowest total since 2018; Q4 funding was just $1.3B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240121/p3#a240121p3)
- - [Generative AI and how to regulate it dominated the discussions at the 2024 World Economic Forum; the UN Secretary-General said AI poses risks to societies &lpar;Juliette Perreard/Nikkei Asia&rpar;](http://www.techmeme.com/240121/p2#a240121p2)<!-- TECH:END -->
+ - [Will You Get a State Child Tax Credit Payment in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/will-you-get-a-state-child-tax-credit-payment-in-2024-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

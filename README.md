@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Architects are incorporating DALL-E, Midjourney, and other generative AI tools for complex design work, threatening the industry of professional illustrators &lpar;Edwin Heathcote/Financial Times&rpar;](http://www.techmeme.com/240121/p8#a240121p8)
+ - [Chiefs vs. Bills Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-bills-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
  - [Mag:3 Classics Device Charging Tray review: a place for everything, and everything in its place](https://appleinsider.com/articles/24/01/21/mag3-classics-device-charging-tray-review-a-place-for-everything-and-everything-in-its-place?utm_medium=rss)
- - [How to Stream Every Christopher Nolan Movie     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-every-christopher-nolan-movie/#ftag=CAD590a51e)
- - [Best 4K Projector for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
- - [Best Fitbit Deals: Save on the Sense 2, Ace 3, Charge 6, and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [10 Daily Habits That Will Help You Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-daily-habits-that-will-help-you-protect-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Stream Every Christopher Nolan Movie     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-every-christopher-nolan-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

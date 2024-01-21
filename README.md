@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 💣 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 💣 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
  - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 👉 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)<!-- MEMES:END -->
+ - 👉 [Themfoys](http://9gag.com/gag/amA3Vg6)<!-- MEMES:END -->
 
 ---
 

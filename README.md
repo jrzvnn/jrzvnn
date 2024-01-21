@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 4K Projector for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Save on the Sense 2, Ace 3, Charge 6, and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [10 Daily Habits That Will Help You Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-daily-habits-that-will-help-you-protect-your-eye-health/#ftag=CAD590a51e)
  - [How Much Do Solar Panels Cost?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-cost/#ftag=CAD590a51e)
- - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)
- - [Best Cheap Gaming Laptop of 2024     - CNET](https://www.cnet.com/tech/computing/best-cheap-gaming-laptop/#ftag=CAD590a51e)
- - [Save 60% on the Beelinguapp Lifetime Subscription     - CNET](https://www.cnet.com/deals/save-60-on-the-beelinguapp-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

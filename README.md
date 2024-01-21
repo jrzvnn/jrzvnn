@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 💣 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
- - 👉 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)<!-- MEMES:END -->
+ - 😝 [See the comments](http://9gag.com/gag/az2nGEq)
+ - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
+ - 💣 [Got a squirter](http://9gag.com/gag/aREnOEM)
+ - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
+ - 👉 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 ---
 

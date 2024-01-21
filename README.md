@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got a squirter](http://9gag.com/gag/aREnOEM)
+ - 😝 [\u2018\u2019Perfectly safe\u2019\u2019](http://9gag.com/gag/aQEGmbz)
  - 😝 [You still don&#39;t have a dashcam?](http://9gag.com/gag/aKEROvj)
- - 💣 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [At least we&#39;re not speaking German.](http://9gag.com/gag/az2nG1b)
- - 👉 [Themfoys](http://9gag.com/gag/amA3Vg6)<!-- MEMES:END -->
+ - 💣 [Asian at grocery](http://9gag.com/gag/aREnoMB)
+ - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
+ - 👉 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)<!-- MEMES:END -->
 
 ---
 

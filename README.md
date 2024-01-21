@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity startups raised $8.2B in 692 deals in 2023, down from $16.3B in 941 deals in 2022 and the lowest total since 2018; Q4 funding was just $1.3B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240121/p3#a240121p3)
  - [Generative AI and how to regulate it dominated the discussions at the 2024 World Economic Forum; the UN Secretary-General said AI poses risks to societies &lpar;Juliette Perreard/Nikkei Asia&rpar;](http://www.techmeme.com/240121/p2#a240121p2)
  - [Sources: Canva topped $2B in annualized revenue in 2023, as the company nears a $1.5B+ share sale at a ~$26B valuation, about the same as in its previous round &lpar;Bloomberg&rpar;](http://www.techmeme.com/240121/p1#a240121p1)
  - [Best Speakerphone in 2024 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
- - [Nightshade, a free tool letting artists &quot;poison&quot; AI models that attempt to train on their artwork without permission, is now available to download on Mac and PC &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240120/p12#a240120p12)
- - [A look at Nvidia and Convai&#39;s AI-powered video game NPCs, which are effectively generative AI chatbots that interact with the players &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240120/p11#a240120p11)<!-- TECH:END -->
+ - [Nightshade, a free tool letting artists &quot;poison&quot; AI models that attempt to train on their artwork without permission, is now available to download on Mac and PC &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240120/p12#a240120p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should You Buy Your Solar Panels? Renting Could Be a Better Fit     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
+ - [The Cost of Owning a Home Generator: Is It Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-cost-of-owning-a-home-generator-is-it-worth-it/#ftag=CAD590a51e)
+ - [Shed Body Fat at Home With These 7 Easy Tips     - CNET](https://www.cnet.com/health/fitness/shed-body-fat-at-home-with-these-7-easy-tips/#ftag=CAD590a51e)
  - [Insta360 Ace Pro Action Camera Review &lpar;2023&rpar;: Best of Both Worlds](https://www.wired.com/review/insta360-ace-pro-action-camera/)
- - [Why the Polar Vortex Is Bad for Balloon Artists](https://www.wired.com/story/why-the-polar-vortex-is-bad-for-balloon-artists/)
- - [Best VPN for Gaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-gaming/#ftag=CAD590a51e)
- - [Sit or stand: What to think about when using Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/sit-or-stand-what-to-think-about-when-using-apple-vision-pro?utm_medium=rss)
- - [Can you fix the Magic Mouse by sticking it into an ergonomic shoe?](https://www.theverge.com/2024/1/21/24045324/apple-magic-mouse-wireless-charging-lightning-base)<!-- TECH:END -->
+ - [Why the Polar Vortex Is Bad for Balloon Artists](https://www.wired.com/story/why-the-polar-vortex-is-bad-for-balloon-artists/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

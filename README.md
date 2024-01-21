@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Canva topped $2B in annualized revenue in 2023, as the company nears a $1.5B+ share sale at a ~$26B valuation, about the same as in its previous round &lpar;Bloomberg&rpar;](http://www.techmeme.com/240121/p1#a240121p1)
  - [Nightshade, a free tool letting artists &quot;poison&quot; AI models that attempt to train on their artwork without permission, is now available to download on Mac and PC &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240120/p12#a240120p12)
  - [A look at Nvidia and Convai&#39;s AI-powered video game NPCs, which are effectively generative AI chatbots that interact with the players &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240120/p11#a240120p11)
  - [Best Chromebook Deals: Big Savings on Samsung, Lenovo, Acer and More     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [EufyCam 2C review: Great outdoor HomeKit camera that needs a partner](https://appleinsider.com/articles/24/01/20/eufycam-2c-review-great-outdoor-homekit-camera-that-needs-a-partner?utm_medium=rss)
- - [Packers vs. 49ers Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-49ers-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EufyCam 2C review: Great outdoor HomeKit camera that needs a partner](https://appleinsider.com/articles/24/01/20/eufycam-2c-review-great-outdoor-homekit-camera-that-needs-a-partner?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleep kickers are the worst](https://www.reddit.com/r/funny/comments/19c83dn/sleep_kickers_are_the_worst/)
- - 😝 [A dog sledding](https://www.reddit.com/r/funny/comments/19c7zg0/a_dog_sledding/)
- - 💣 [Tie on the doorknob [OC]](https://www.reddit.com/r/funny/comments/19c7ncv/tie_on_the_doorknob_oc/)
- - 😝 [You&#39;ll never get a cent out of me!](https://www.reddit.com/r/memes/comments/19c7ka1/youll_never_get_a_cent_out_of_me/)
- - 👉 [My snowman started to melt and lost all his coal pieces](https://www.reddit.com/r/funny/comments/19c7ifb/my_snowman_started_to_melt_and_lost_all_his_coal/)<!-- MEMES:END -->
+ - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
+ - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
+ - 💣 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 👉 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)<!-- MEMES:END -->
 
 ---
 

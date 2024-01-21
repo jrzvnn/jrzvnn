@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Volunteer work for a good reason](http://9gag.com/gag/a4ovW3m)
- - 😝 [There are no coincidences](http://9gag.com/gag/anz6D3n)
- - 💣 [Wholesome!](http://9gag.com/gag/a4ovWMp)
- - 😝 [That flashbang tho](http://9gag.com/gag/aDYyXmB)
- - 👉 [I hope the Egyptians win](http://9gag.com/gag/aeQL2xm)<!-- MEMES:END -->
+ - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
+ - 💣 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
+ - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
+ - 👉 [Sure](http://9gag.com/gag/aDYyZKx)<!-- MEMES:END -->
 
 ---
 

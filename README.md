@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
  - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
- - 😝 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
- - 💣 [Hmmm](http://9gag.com/gag/agoW4wv)
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 👉 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)<!-- MEMES:END -->
+ - 💣 [Boomers will get it instantly.](http://9gag.com/gag/abv7Qwv)
+ - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 👉 [Hmmm](http://9gag.com/gag/agoW4wv)<!-- MEMES:END -->
 
 ---
 

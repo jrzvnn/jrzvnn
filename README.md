@@ -178,7 +178,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
  - 💣 [Needle throwing](http://9gag.com/gag/a6qPpN8)
  - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---
 

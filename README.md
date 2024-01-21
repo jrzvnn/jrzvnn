@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
  - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 💣 [Making Mofongo](http://9gag.com/gag/aXnBROb)
- - 😝 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 👉 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)<!-- MEMES:END -->
+ - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 💣 [Sandwiched](http://9gag.com/gag/ay2G1xV)
+ - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
+ - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---
 

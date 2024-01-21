@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 💣 [Sandwiched](http://9gag.com/gag/ay2G1xV)
- - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
- - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
+ - 😝 [Wholesome!](http://9gag.com/gag/a4ovWMp)
+ - 😝 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)
+ - 💣 [5 games = brand new console](http://9gag.com/gag/a04BOZO)
+ - 😝 [No shame](http://9gag.com/gag/agoW2Mv)
+ - 👉 [What are the chances?](http://9gag.com/gag/aZDeRRz)<!-- MEMES:END -->
 
 ---
 

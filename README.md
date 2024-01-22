@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 👉 [Your daily dose of pixels](http://9gag.com/gag/aL1xNKA)<!-- MEMES:END -->
 
 ---
 

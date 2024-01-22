@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 😝 [Surprising a bro](http://9gag.com/gag/ay2GPyy)
- - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
+ - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - 💣 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 😝 [Digital delivery fee??? What for?](http://9gag.com/gag/a5X45Ro)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 ---
 

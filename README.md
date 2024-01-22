@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 😝 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
+ - 💣 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
+ - 😝 [Your daily dose of pixels](http://9gag.com/gag/aL1xNKA)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 ---
 

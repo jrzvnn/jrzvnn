@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
  - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)
  - [Pick up Apple&#39;s latest Mac Studio for $1,795 this week](https://appleinsider.com/articles/24/01/22/pick-up-apples-latest-mac-studio-for-1795-this-week?utm_medium=rss)
  - [Apple Vision Pro lead times are useless for investors, warns J.P. Morgan](https://appleinsider.com/articles/24/01/22/apple-vision-pro-lead-times-are-useless-for-investors-warns-jp-morgan?utm_medium=rss)
- - [The World&#39;s First Malaria Vaccine Program for Children Starts Now](https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/)
- - [Following complaints and shared audio, New Hampshire&#39;s AG probes fake Joe Biden robocalls, apparently artificially generated, telling Democrats not to vote &lpar;NBC News&rpar;](http://www.techmeme.com/240122/p15#a240122p15)<!-- TECH:END -->
+ - [The World&#39;s First Malaria Vaccine Program for Children Starts Now](https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

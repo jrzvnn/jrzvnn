@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’ll be able to watch The Marvels on Disney Plus very soon](https://www.theverge.com/2024/1/22/24047147/the-marvels-disney-plus-streaming-availability)
  - [Apple will pay up to 10% more per play in Apple Music royalties for tracks where a Spatial Audio version is available, starting with January&#39;s payouts &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240122/p16#a240122p16)
- - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
- - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)
- - [Pick up Apple&#39;s latest Mac Studio for $1,795 this week](https://appleinsider.com/articles/24/01/22/pick-up-apples-latest-mac-studio-for-1795-this-week?utm_medium=rss)
- - [Apple Vision Pro lead times are useless for investors, warns J.P. Morgan](https://appleinsider.com/articles/24/01/22/apple-vision-pro-lead-times-are-useless-for-investors-warns-jp-morgan?utm_medium=rss)<!-- TECH:END -->
+ - [Best TV for Super Bowl 2024: Screens to Upgrade Your Game     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-super-bowl/#ftag=CAD590a51e)
+ - [iOS 17.3 Is Here, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-is-here-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
+ - [iOS 17.3 Is Here. These Are the New Features on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-is-here-these-are-the-new-features-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

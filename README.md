@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
- - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)<!-- MEMES:END -->
+ - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 😝 [Meme origin](http://9gag.com/gag/aL1xbdP)
+ - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
+ - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
+ - 👉 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)<!-- MEMES:END -->
 
 ---
 

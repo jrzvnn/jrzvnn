@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
  - [Google Glass-wearing surgeon excited by Apple Vision Pro for healthcare](https://appleinsider.com/articles/24/01/22/google-glass-wearing-surgeon-excited-by-apple-vision-pro-for-healthcare?utm_medium=rss)
  - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
  - [Apple TV+ shares trailer for sci-fi series &#39;Constellation&#39; ahead of series premiere](https://appleinsider.com/articles/24/01/22/apple-tv-shares-trailer-for-sci-fi-series-constellation-ahead-of-series-premiere?utm_medium=rss)
- - [A Group of Trolling Gen-Z Voters Is Buying Up GOP Domains](https://www.wired.com/story/gen-z-voters-trump-haley/)
- - [How Japan plans to use avatars, robots, and AI in construction, trucking, farming, and retail to alleviate an estimated labor shortage of 11M people by 2040 &lpar;Financial Times&rpar;](http://www.techmeme.com/240122/p8#a240122p8)<!-- TECH:END -->
+ - [A Group of Trolling Gen-Z Voters Is Buying Up GOP Domains](https://www.wired.com/story/gen-z-voters-trump-haley/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

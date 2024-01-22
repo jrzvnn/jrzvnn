@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
  - 💣 [Built different](http://9gag.com/gag/az2nQMq)
  - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
- - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)<!-- MEMES:END -->
 
 ---
 

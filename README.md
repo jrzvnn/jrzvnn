@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Palworld&#39;: How &#39;Pokémon With Guns&#39; Became an Overnight Hit](https://www.wired.com/story/palworld-pokemon-with-guns-steam-success/)
+ - [Tencent-owned Riot Games plans to lay off 530 employees globally, or about 11% of staff, saying Riot &quot;more than doubled in headcount&quot; over the past few years &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240122/p20#a240122p20)
  - [A SIM-swapping attack was behind the SEC’s fake Bitcoin post](https://www.theverge.com/2024/1/22/24047379/sec-fake-bitcoin-post-x-sim-swapping)
  - [Why Elon Musk needs MrBeast](https://www.theverge.com/2024/1/22/24047128/elon-musk-mrbeast-x-video-revenue)
- - [Nvidia releases RTX Remix in open beta, letting modders remaster classic games with AI-powered texture tools, ray tracing, and Nvidia DLSS 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240122/p19#a240122p19)
- - [Cicadas Are Coming: Here&#39;s What We Know About Brood XIX and Brood XIII     - CNET](https://www.cnet.com/science/cicadas-are-coming-heres-what-we-know-about-brood-xix-and-brood-xiii/#ftag=CAD590a51e)
- - [The US Postal Service’s new EV chargers are here](https://www.theverge.com/2024/1/22/24046897/usps-postal-service-electric-vehicle-charging-event)<!-- TECH:END -->
+ - [Nvidia releases RTX Remix in open beta, letting modders remaster classic games with AI-powered texture tools, ray tracing, and Nvidia DLSS 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240122/p19#a240122p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

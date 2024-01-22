@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Built different](http://9gag.com/gag/az2nQMq)
  - 😝 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 💣 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
  - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 💣 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
- - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
- - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 ---
 

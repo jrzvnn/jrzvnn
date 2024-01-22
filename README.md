@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The top five RSS readers for keeping up with your news feeds](https://www.theverge.com/24036427/rss-feed-reader-best)
+ - [So far, Apple is struggling to market Apple Vision Pro](https://appleinsider.com/articles/24/01/22/so-far-apple-is-struggling-to-market-apple-vision-pro?utm_medium=rss)
  - [How the smart home is finally getting out of your phone and into your home](https://www.theverge.com/24043060/smart-home-interface-map-view-samsung-lg-amazon-ces-2024)
  - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)
- - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
- - [Daily deals Jan. 22: Beats Solo 3 $96, $140 off Apple Magic Keyboard for iPad Pro, 71% off Apple Smart Folio, more](https://appleinsider.com/articles/24/01/22/daily-deals-jan-22-beats-solo-3-96-140-off-apple-magic-keyboard-for-ipad-pro-71-off-apple-smart-folio-more?utm_medium=rss)
- - [After Apple Vision Pro, an &#39;Apple Ring&#39; may be next](https://appleinsider.com/articles/24/01/22/after-apple-vision-pro-an-apple-ring-may-be-next?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

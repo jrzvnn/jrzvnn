@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
+ - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
  - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)
  - [Earbuds Buying Guide: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/earbuds-buying-guide-everything-you-need-to-know/#ftag=CAD590a51e)
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
- - [Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)<!-- TECH:END -->
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

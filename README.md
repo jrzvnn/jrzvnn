@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
  - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
  - [Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
  - [Scientists Will Test a Cancer-Hunting mRNA Treatment](https://www.wired.com/story/cancer-hunting-mrna-programming-treatment-test/)
- - [AI-Generated Fake News Is Coming to an Election Near You](https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/)
- - [A New Way to See Your Climate Anxiety](https://www.wired.com/story/a-new-way-to-see-your-climate-anxiety/)<!-- TECH:END -->
+ - [AI-Generated Fake News Is Coming to an Election Near You](https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

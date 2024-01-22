@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ElevenLabs, which uses AI tools to create and edit synthetic voices, raised an $80M Series B co-led by a16z, Nat Friedman, and Daniel Gross at a $1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240122/p4#a240122p4)
  - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)
  - [Apple sold an estimated 160K-180K Vision Pro units during the first pre-order weekend; unchanged shipping times after first 48 hours suggest demand tapered off &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240122/p2#a240122p2)
  - [Chinese imports of chip making machines rose 14% YoY to ~$40B in 2023; lithography equipment imports from the Netherlands rose 1,000% YoY to $1.1B in December &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240122/p1#a240122p1)
- - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)
- - [Chinese warehouse robotic startups are keen to ease Japan&#39;s logistics crunch; IFR: 52% of ~550K warehouse robots installed globally in 2022 were made in China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240121/p9#a240121p9)<!-- TECH:END -->
+ - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

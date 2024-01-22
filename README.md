@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
  - 😝 [Reflex masters](http://9gag.com/gag/ajVpRZx)
  - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 👉 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)<!-- MEMES:END -->
+ - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
+ - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meme origin](http://9gag.com/gag/aL1xbdP)
- - 😝 [400 of those on A320](http://9gag.com/gag/ay2GVBr)
- - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
  - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 👉 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)<!-- MEMES:END -->
+ - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
+ - 😝 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)
+ - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
 
 ---
 

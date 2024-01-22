@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [Pokemon with ak-47s and murder](http://9gag.com/gag/aDYyQBx)
- - 💣 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
- - 👉 [Right in the kokoro...](http://9gag.com/gag/a2KeOmw)<!-- MEMES:END -->
+ - 😝 [Built different](http://9gag.com/gag/az2nQMq)
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [Surprising a bro](http://9gag.com/gag/ay2GPyy)
+ - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
 
 ---
 

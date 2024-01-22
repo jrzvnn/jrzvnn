@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese imports of chip making machines rose 14% YoY to ~$40B in 2023; lithography equipment imports from the Netherlands rose 1,000% YoY to $1.1B in December &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240122/p1#a240122p1)
  - [Filing: Terraform Labs, co-founded by Do Kwon, files for Chapter 11 bankruptcy protection in the US, listing assets and liabilities both between $100M and $500M &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240121/p10#a240121p10)
  - [Chinese warehouse robotic startups are keen to ease Japan&#39;s logistics crunch; IFR: 52% of ~550K warehouse robots installed globally in 2022 were made in China &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240121/p9#a240121p9)
  - [Best Smart TV for 2024: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
- - [iPad, iPad Air, iPad mini, iPad Pro: What to expect from Apple in 2024](https://appleinsider.com/articles/24/01/22/ipad-ipad-air-ipad-mini-ipad-pro-what-to-expect-from-apple-in-2024?utm_medium=rss)
- - [Best-Sounding Wireless Earbuds in 2024: Get Top Sound Quality     - CNET](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad, iPad Air, iPad mini, iPad Pro: What to expect from Apple in 2024](https://appleinsider.com/articles/24/01/22/ipad-ipad-air-ipad-mini-ipad-pro-what-to-expect-from-apple-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

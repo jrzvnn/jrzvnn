@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Ripley seems ready to salt and burn the Earth in new trailer](https://www.theverge.com/24046846/ripley-netflix-trailer-andrew-scott)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
  - [The top five RSS readers for keeping up with your news feeds](https://www.theverge.com/24036427/rss-feed-reader-best)
  - [So far, Apple is struggling to market Apple Vision Pro](https://appleinsider.com/articles/24/01/22/so-far-apple-is-struggling-to-market-apple-vision-pro?utm_medium=rss)
- - [How the smart home is finally getting out of your phone and into your home](https://www.theverge.com/24043060/smart-home-interface-map-view-samsung-lg-amazon-ces-2024)
- - [Apple pays out nearly $13.7 million to Russia in anti-steering App Store lawsuit](https://appleinsider.com/articles/24/01/22/apple-pays-out-nearly-137-million-to-russia-in-anti-steering-app-store-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [How the smart home is finally getting out of your phone and into your home](https://www.theverge.com/24043060/smart-home-interface-map-view-samsung-lg-amazon-ces-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

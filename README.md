@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out official watchOS 10.3 to Apple Watch owners](https://appleinsider.com/articles/24/01/22/apple-rolls-out-official-watchos-103-to-apple-watch-owners?utm_medium=rss)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
- - [macOS Sonoma 14.3 arrives with Apple Music collaborative playlists](https://appleinsider.com/articles/24/01/22/apple-ships-update-for-macos-sonoma-143?utm_medium=rss)
- - [Apple&#39;s tvOS 17.3 release is now available to the public](https://appleinsider.com/articles/24/01/22/apples-tvos-173-release-is-now-out-to-the-public?utm_medium=rss)
- - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)<!-- TECH:END -->
+ - [iOS 17.3 is out, adding Stolen Device Protection for your iPhone](https://www.theverge.com/2024/1/22/24047063/iphone-ios-17-3-update-stolen-device-protection)
+ - [Apple rolls out watchOS 10.3 for all Apple Watch owners](https://appleinsider.com/articles/24/01/22/apple-rolls-out-official-watchos-103-to-apple-watch-owners?utm_medium=rss)
+ - [Some current and former Google employees publicly blast the company, criticizing its lack of &quot;visionary&quot; leaders, cold approach to delivering layoff news, more &lpar;Ariel Zilber/New York Post&rpar;](http://www.techmeme.com/240122/p13#a240122p13)
+ - [Nvidia’s RTX Remix game remastering tool is out in an open beta](https://www.theverge.com/2024/1/22/24046916/nvidia-rtx-remix-open-beta-ray-tracing)
+ - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

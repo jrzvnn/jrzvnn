@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
  - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [Meme origin](http://9gag.com/gag/aL1xbdP)
- - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 👉 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)<!-- MEMES:END -->
+ - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---
 

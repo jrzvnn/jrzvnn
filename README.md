@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [Reflex masters](http://9gag.com/gag/ajVpRZx)
- - 💣 [Road trip](http://9gag.com/gag/aGEXbzw)
- - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
+ - 😝 [Holup, Ultimate Dad Flex of All Time &lpar;\u2026of All Time!&rpar;](http://9gag.com/gag/ajVpWjq)
+ - 💣 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - 👉 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)<!-- MEMES:END -->
 
 ---
 

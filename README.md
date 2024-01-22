@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - 😝 [Dude, what did she expect](http://9gag.com/gag/aXnBdd6)
- - 💣 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
+ - 😝 [Making Mofongo](http://9gag.com/gag/aXnBROb)
+ - 😝 [How air conditioning worked 700 years ago](http://9gag.com/gag/armYryB)
+ - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [400 of those on A320](http://9gag.com/gag/ay2GVBr)
+ - 👉 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)<!-- MEMES:END -->
 
 ---
 

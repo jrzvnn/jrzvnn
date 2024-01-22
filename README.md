@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge is impressed](http://9gag.com/gag/aDYyNZO)
- - 😝 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
- - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 😝 [Well that\u2019s how my Monday started\u2026](http://9gag.com/gag/aWGzN5d)
- - 👉 [Surprising a bro](http://9gag.com/gag/ay2GPyy)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
+ - 💣 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 😝 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
 
 ---
 

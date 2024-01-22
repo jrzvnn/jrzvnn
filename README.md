@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: in a low-key tour, Jensen Huang visited Nvidia&#39;s offices in Shenzhen, Shanghai, and Beijing earlier in January, as the US curbs Nvidia&#39;s China exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p5#a240122p5)
  - [Apple sells up to 180,000 Apple Vision Pro, says Kuo](https://appleinsider.com/articles/24/01/22/apple-sells-up-to-180000-apple-vision-pro-says-kuo?utm_medium=rss)
  - [ElevenLabs, which uses AI tools to create and edit synthetic voices, raised an $80M Series B co-led by a16z, Nat Friedman, and Daniel Gross at a $1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240122/p4#a240122p4)
  - [British Library hack lessons for the UK: ransomware is a national security issue, a national response is required, policy mitigations are available, and more &lpar;Ciaran Martin/Ciaran&#39;s Crispy Cogitations&rpar;](http://www.techmeme.com/240122/p3#a240122p3)
- - [Apple sold an estimated 160K-180K Vision Pro units during the first pre-order weekend; unchanged shipping times after first 48 hours suggest demand tapered off &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240122/p2#a240122p2)
- - [Chinese imports of chip making machines rose 14% YoY to ~$40B in 2023; lithography equipment imports from the Netherlands rose 1,000% YoY to $1.1B in December &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240122/p1#a240122p1)<!-- TECH:END -->
+ - [Apple sold an estimated 160K-180K Vision Pro units during the first pre-order weekend; unchanged shipping times after first 48 hours suggest demand tapered off &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240122/p2#a240122p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

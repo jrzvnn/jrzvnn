@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palworld game, you capture monsters and fight](http://9gag.com/gag/aBdpGAD)
- - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 😝 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 👉 [Need more time](http://9gag.com/gag/aPg5nKg)<!-- MEMES:END -->
 
 ---
 

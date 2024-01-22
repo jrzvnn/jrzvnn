@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
- - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 💣 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
- - 👉 [She for the streets!](http://9gag.com/gag/aeQLRrm)<!-- MEMES:END -->
+ - 😝 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
+ - 😝 [Dude, what did she expect](http://9gag.com/gag/aXnBdd6)
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: only 18 companies of 391 analyzed seem to have followed a NYC law that went into effect six months ago and requires disclosure of hiring algorithms &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p11#a240122p11)
+ - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
  - [iPhone automatically summons rescuers after terrible Canada crash](https://appleinsider.com/articles/24/01/22/iphone-automatically-summons-rescuers-after-terrible-canada-crash?utm_medium=rss)
  - [Apple execs praise &#39;unbelievable&#39; 40 years of Macs](https://appleinsider.com/articles/24/01/22/apple-execs-praise-unbelievable-40-years-of-macs?utm_medium=rss)
- - [Source: Alphabet&#39;s moonshot X lab is restructuring to make it easier to spin projects out as independent startups; sources: it&#39;s laying off dozens of employees &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240122/p10#a240122p10)
- - [Essential Phone &lpar;128GB, Halo Gray&rpar;     - CNET](https://www.cnet.com/tech/mobile/essential-phone-128gb-gray-dpnl/#ftag=CAD590a51e)
- - [Crunchyroll Adds 2 New Titles to Its Growing Game Vault     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-adds-2-new-titles-to-its-growing-game-vault/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Alphabet&#39;s moonshot X lab is restructuring to make it easier to spin projects out as independent startups; sources: it&#39;s laying off dozens of employees &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240122/p10#a240122p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

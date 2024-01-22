@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 &lpar;128GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/razr-5g-256gb-dpnl/#ftag=CAD590a51e)
+ - [Motorola Razr 5G &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/motorola-razr-5g-256gb-dpnl/#ftag=CAD590a51e)
  - [Google Podcasts is going away but we’ve got some alternatives.](https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts)
  - [Palworld is a hit, and it’s easy to see why](https://www.theverge.com/2024/1/22/24047087/palworld-early-access-steam-xbox-gamepass)
- - [The US SEC says the January 9 hack of its X account was via a SIM swap attack to reset its password; it had disabled 2FA in July 2023 over account access issues &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240122/p18#a240122p18)
- - [iOS 17.3: Stolen Device Protection and More Land on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-stolen-device-protection-and-more-land-on-your-iphone/#ftag=CAD590a51e)
- - [Sierra Space blew up its inflatable space habitat — and that’s a good thing](https://www.theverge.com/2024/1/22/24047219/sierra-space-inflatable-habitat-test-nasa)<!-- TECH:END -->
+ - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

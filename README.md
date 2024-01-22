@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A SIM-swapping attack was behind the SEC’s fake Bitcoin post](https://www.theverge.com/2024/1/22/24047379/sec-fake-bitcoin-post-x-sim-swapping)
  - [Why Elon Musk needs MrBeast](https://www.theverge.com/2024/1/22/24047128/elon-musk-mrbeast-x-video-revenue)
  - [Nvidia releases RTX Remix in open beta, letting modders remaster classic games with AI-powered texture tools, ray tracing, and Nvidia DLSS 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240122/p19#a240122p19)
- - [The US Postal Service’s new EV chargers are here](https://www.theverge.com/2024/1/22/24046897/usps-postal-service-electric-vehicle-charging-event)
- - [Google Pixel 8 &lpar;128GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/razr-5g-256gb-dpnl/#ftag=CAD590a51e)
- - [Motorola Razr 5G &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/motorola-razr-5g-256gb-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cicadas Are Coming: Here&#39;s What We Know About Brood XIX and Brood XIII     - CNET](https://www.cnet.com/science/cicadas-are-coming-heres-what-we-know-about-brood-xix-and-brood-xiii/#ftag=CAD590a51e)
+ - [The US Postal Service’s new EV chargers are here](https://www.theverge.com/2024/1/22/24046897/usps-postal-service-electric-vehicle-charging-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

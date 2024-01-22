@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saw a short version, so here\u2019s a more detailed one if anyone needs. Enjoy](http://9gag.com/gag/a1P9LpR)
  - 😝 [Themfoys](http://9gag.com/gag/amA3Vg6)
- - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
- - 👉 [`I will drill this point towards the center of Earth. What&#39;s the worst thing can happen?` The worst thing:](http://9gag.com/gag/aL1xXOx)<!-- MEMES:END -->
+ - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
+ - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 👉 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)<!-- MEMES:END -->
 
 ---
 

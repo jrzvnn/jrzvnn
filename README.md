@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
- - 😝 [Well that\u2019s how my Monday started\u2026](http://9gag.com/gag/aWGzN5d)
- - 💣 [They are coming](http://9gag.com/gag/aYV9ZLq)
- - 😝 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
- - 👉 [Surprising a bro](http://9gag.com/gag/ay2GPyy)<!-- MEMES:END -->
+ - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
+ - 💣 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 👉 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)<!-- MEMES:END -->
 
 ---
 

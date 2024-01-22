@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [Hmmm](http://9gag.com/gag/agoW4wv)
  - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
+ - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
  - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---

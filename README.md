@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
- - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)
- - [Researchers: only 18 companies of 391 analyzed seem to have followed a NYC law that went into effect six months ago and requires disclosure of hiring algorithms &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p11#a240122p11)
- - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
- - [iPhone automatically summons rescuers after terrible Canada crash](https://appleinsider.com/articles/24/01/22/iphone-automatically-summons-rescuers-after-terrible-canada-crash?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out official watchOS 10.3 to Apple Watch owners](https://appleinsider.com/articles/24/01/22/apple-rolls-out-official-watchos-103-to-apple-watch-owners?utm_medium=rss)
+ - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
+ - [macOS Sonoma 14.3 arrives with Apple Music collaborative playlists](https://appleinsider.com/articles/24/01/22/apple-ships-update-for-macos-sonoma-143?utm_medium=rss)
+ - [Apple&#39;s tvOS 17.3 release is now available to the public](https://appleinsider.com/articles/24/01/22/apples-tvos-173-release-is-now-out-to-the-public?utm_medium=rss)
+ - [Months after pulling its Surviving Barstool series from YouTube over censorship claims, Barstool Sports announces a deal with Rumble; Rumble stock jumps 30%+ &lpar;Ben Axelrod/Awful Announcing&rpar;](http://www.techmeme.com/240122/p12#a240122p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

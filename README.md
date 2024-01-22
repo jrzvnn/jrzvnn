@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to cut, copy, and paste on Android  phones](https://www.theverge.com/24046709/android-google-cut-copy-paste-how-to)
+ - [Get $800 Off Greenworks&#39; Snow Bundle and Keep Your Driveway Clear This Winter     - CNET](https://www.cnet.com/deals/get-800-off-greenworks-snow-bundle-and-keep-your-driveway-clear-this-winter/#ftag=CAD590a51e)
+ - [Guide to Mattress Types: Materials and What to Consider     - CNET](https://www.cnet.com/health/sleep/guide-to-mattress-types-materials-and-what-to-consider/#ftag=CAD590a51e)
  - [How to Organize Your Tech and Purge That Random Box of Cables](https://www.wired.com/story/how-to-tidy-your-tech/)
- - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)
- - [iOS 18 Features: What to Expect in Apple&#39;s Next Major Software Update     - CNET](https://www.cnet.com/tech/mobile/ios-18-features-what-ro-expect-apples-next-major-update/#ftag=CAD590a51e)
- - [Earbuds Buying Guide: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/earbuds-buying-guide-everything-you-need-to-know/#ftag=CAD590a51e)
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
+ - [Apple’s sci-fi thriller Constellation gets haunting first trailer](https://www.theverge.com/24044578/constellation-trailer-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

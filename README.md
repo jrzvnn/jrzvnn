@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone automatically summons rescuers after terrible Canada crash](https://appleinsider.com/articles/24/01/22/iphone-automatically-summons-rescuers-after-terrible-canada-crash?utm_medium=rss)
+ - [Apple execs praise &#39;unbelievable&#39; 40 years of Macs](https://appleinsider.com/articles/24/01/22/apple-execs-praise-unbelievable-40-years-of-macs?utm_medium=rss)
  - [Source: Alphabet&#39;s moonshot X lab is restructuring to make it easier to spin projects out as independent startups; sources: it&#39;s laying off dozens of employees &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240122/p10#a240122p10)
- - [Netflix’s Ripley seems ready to salt and burn the Earth in new trailer](https://www.theverge.com/24046846/ripley-netflix-trailer-andrew-scott)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [The top five RSS readers for keeping up with your news feeds](https://www.theverge.com/24036427/rss-feed-reader-best)
- - [So far, Apple is struggling to market Apple Vision Pro](https://appleinsider.com/articles/24/01/22/so-far-apple-is-struggling-to-market-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Essential Phone &lpar;128GB, Halo Gray&rpar;     - CNET](https://www.cnet.com/tech/mobile/essential-phone-128gb-gray-dpnl/#ftag=CAD590a51e)
+ - [Crunchyroll Adds 2 New Titles to Its Growing Game Vault     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-adds-2-new-titles-to-its-growing-game-vault/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch blood oxygen feature helps doctor save air passenger&#39;s life](https://appleinsider.com/articles/24/01/22/apple-watch-blood-oxygen-feature-helps-doctor-save-air-passengers-life?utm_medium=rss)
- - [Meta plans to let EU users unlink their Instagram and Facebook accounts, as well as other Meta services, ahead of the EU&#39;s DMA taking effect in March 2024 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240122/p6#a240122p6)
- - [How to make stickers from Photos in iPadOS](https://appleinsider.com/inside/ipados/tips/how-to-make-stickers-from-photos-in-ipados?utm_medium=rss)
- - [Meta will let EU users unlink their Instagram, Facebook, and Messenger info ahead of DMA](https://www.theverge.com/2024/1/22/24046645/meta-facebook-instagram-messenger-digital-markets-act-unlinked)
- - [Source: in a low-key tour, Jensen Huang visited Nvidia&#39;s offices in Shenzhen, Shanghai, and Beijing earlier in January, as the US curbs Nvidia&#39;s China exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p5#a240122p5)<!-- TECH:END -->
+ - [Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
+ - [Scientists Will Test a Cancer-Hunting mRNA Treatment](https://www.wired.com/story/cancer-hunting-mrna-programming-treatment-test/)
+ - [AI-Generated Fake News Is Coming to an Election Near You](https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/)
+ - [A New Way to See Your Climate Anxiety](https://www.wired.com/story/a-new-way-to-see-your-climate-anxiety/)
+ - [Ford’s new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

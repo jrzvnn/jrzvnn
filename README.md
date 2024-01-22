@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad, iPad Air, iPad mini, iPad Pro: What to expect from Apple in 2024](https://appleinsider.com/articles/24/01/22/ipad-ipad-air-ipad-mini-ipad-pro-what-to-expect-from-apple-in-2024?utm_medium=rss)
  - [Best-Sounding Wireless Earbuds in 2024: Get Top Sound Quality     - CNET](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
  - [Architects are incorporating DALL-E, Midjourney, and other generative AI tools for complex design work, threatening the industry of professional illustrators &lpar;Edwin Heathcote/Financial Times&rpar;](http://www.techmeme.com/240121/p8#a240121p8)
  - [Chiefs vs. Bills Livestream: How to Watch NFL Divisional Round Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-bills-livestream-how-to-watch-nfl-divisional-round-game-online-today/#ftag=CAD590a51e)
- - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Mag:3 Classics Device Charging Tray review: a place for everything, and everything in its place](https://appleinsider.com/articles/24/01/21/mag3-classics-device-charging-tray-review-a-place-for-everything-and-everything-in-its-place?utm_medium=rss)<!-- TECH:END -->
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

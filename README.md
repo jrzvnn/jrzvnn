@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.3: Stolen Device Protection and More Land on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-stolen-device-protection-and-more-land-on-your-iphone/#ftag=CAD590a51e)
+ - [Sierra Space blew up its inflatable space habitat — and that’s a good thing](https://www.theverge.com/2024/1/22/24047219/sierra-space-inflatable-habitat-test-nasa)
  - [Social networks&#39; reduction in moderation, like a hands off approach to 2020 election lies and shuttering election integrity teams, is risky as AI content booms &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/240122/p17#a240122p17)
  - [Apple Music incentivizes artists to release Spatial Audio music with royalty bump](https://appleinsider.com/articles/24/01/22/apple-music-incentivizes-artists-to-release-spatial-audio-music-with-royalty-bump?utm_medium=rss)
- - [GM is getting rid of ‘Ultra Cruise’ branding as it reevaluates its ADAS program](https://www.theverge.com/2024/1/22/24046928/gm-ultra-cruise-merge-super-cruise-adas)
- - [You’ll be able to watch The Marvels on Disney Plus very soon](https://www.theverge.com/2024/1/22/24047147/the-marvels-disney-plus-streaming-availability)
- - [Apple will pay up to 10% more per play in Apple Music royalties for tracks where a Spatial Audio version is available, starting with January&#39;s payouts &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240122/p16#a240122p16)<!-- TECH:END -->
+ - [GM is getting rid of ‘Ultra Cruise’ branding as it reevaluates its ADAS program](https://www.theverge.com/2024/1/22/24046928/gm-ultra-cruise-merge-super-cruise-adas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

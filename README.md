@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Apple Vision Pro, an &#39;Apple Ring&#39; may be next](https://appleinsider.com/articles/24/01/22/after-apple-vision-pro-an-apple-ring-may-be-next?utm_medium=rss)
  - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
  - [Google Glass-wearing surgeon excited by Apple Vision Pro for healthcare](https://appleinsider.com/articles/24/01/22/google-glass-wearing-surgeon-excited-by-apple-vision-pro-for-healthcare?utm_medium=rss)
  - [Thread Group stops by, where are HomeKit routers &amp; more CES news on HomeKit Insider](https://appleinsider.com/articles/24/01/22/thread-group-stops-by-where-are-homekit-routers-more-ces-news-on-homekit-insider?utm_medium=rss)
- - [Apple TV+ shares trailer for sci-fi series &#39;Constellation&#39; ahead of series premiere](https://appleinsider.com/articles/24/01/22/apple-tv-shares-trailer-for-sci-fi-series-constellation-ahead-of-series-premiere?utm_medium=rss)
- - [A Group of Trolling Gen-Z Voters Is Buying Up GOP Domains](https://www.wired.com/story/gen-z-voters-trump-haley/)<!-- TECH:END -->
+ - [Apple TV+ shares trailer for sci-fi series &#39;Constellation&#39; ahead of series premiere](https://appleinsider.com/articles/24/01/22/apple-tv-shares-trailer-for-sci-fi-series-constellation-ahead-of-series-premiere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

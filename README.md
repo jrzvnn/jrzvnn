@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making Mofongo](http://9gag.com/gag/aXnBROb)
- - 😝 [How air conditioning worked 700 years ago](http://9gag.com/gag/armYryB)
- - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 😝 [400 of those on A320](http://9gag.com/gag/ay2GVBr)
- - 👉 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)<!-- MEMES:END -->
+ - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
+ - 💣 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 😝 [Unintentional object drop into rotary table on an oil rig](http://9gag.com/gag/anz6rOq)
+ - 👉 [Right in the kokoro...](http://9gag.com/gag/a2KeOmw)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme origin](http://9gag.com/gag/aL1xbdP)
- - 😝 [Save, might need it someday.](http://9gag.com/gag/aA0jZbd)
- - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
- - 😝 [The respect and discipline in Japan may be second to none](http://9gag.com/gag/aDYyMB7)
- - 👉 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 💣 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
+ - 👉 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)<!-- MEMES:END -->
 
 ---
 

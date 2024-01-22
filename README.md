@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
- - 💣 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)
- - 😝 [When FBI just hired you and this happens](http://9gag.com/gag/aNwNj9r)
- - 👉 [What happened to law and order](http://9gag.com/gag/a5X4DVo)<!-- MEMES:END -->
+ - 😝 [Judge is impressed](http://9gag.com/gag/aDYyNZO)
+ - 😝 [Attack 100 damage0](http://9gag.com/gag/a04BWdZ)
+ - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 😝 [Well that\u2019s how my Monday started\u2026](http://9gag.com/gag/aWGzN5d)
+ - 👉 [Surprising a bro](http://9gag.com/gag/ay2GPyy)<!-- MEMES:END -->
 
 ---
 

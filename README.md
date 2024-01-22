@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will pay up to 10% more per play in Apple Music royalties for tracks where a Spatial Audio version is available, starting with January&#39;s payouts &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240122/p16#a240122p16)
  - [&#39;Palworld&#39;: 6 Beginner Tips for Getting Started](https://www.wired.com/story/palworld-tips/)
  - [Motorola’s flip-style Razr Plus is on sale for nearly half off right now](https://www.theverge.com/2024/1/22/24046785/motorola-razr-plus-amazon-echo-show-8-beats-studio-buds-deal-sale)
  - [Pick up Apple&#39;s latest Mac Studio for $1,795 this week](https://appleinsider.com/articles/24/01/22/pick-up-apples-latest-mac-studio-for-1795-this-week?utm_medium=rss)
- - [Apple Vision Pro lead times are useless for investors, warns J.P. Morgan](https://appleinsider.com/articles/24/01/22/apple-vision-pro-lead-times-are-useless-for-investors-warns-jp-morgan?utm_medium=rss)
- - [The World&#39;s First Malaria Vaccine Program for Children Starts Now](https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/)<!-- TECH:END -->
+ - [Apple Vision Pro lead times are useless for investors, warns J.P. Morgan](https://appleinsider.com/articles/24/01/22/apple-vision-pro-lead-times-are-useless-for-investors-warns-jp-morgan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

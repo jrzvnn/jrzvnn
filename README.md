@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro lead times are useless for investors, warns J.P. Morgan](https://appleinsider.com/articles/24/01/22/apple-vision-pro-lead-times-are-useless-for-investors-warns-jp-morgan?utm_medium=rss)
  - [The World&#39;s First Malaria Vaccine Program for Children Starts Now](https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/)
- - [New Hampshire&#39;s AG is investigating fake robocalls using an impersonation of Biden, apparently artificially generated, telling Democrats to not vote on Tuesday &lpar;NBC News&rpar;](http://www.techmeme.com/240122/p15#a240122p15)
+ - [Following complaints and shared audio, New Hampshire&#39;s AG probes fake Joe Biden robocalls, apparently artificially generated, telling Democrats not to vote &lpar;NBC News&rpar;](http://www.techmeme.com/240122/p15#a240122p15)
  - [Apple releases iOS 17.3, which adds the Stolen Device Protection feature, collaborative playlists in Apple Music, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240122/p14#a240122p14)
- - [Apple iOS 17.3: How to Turn on iPhone&#39;s New Stolen Device Protection](https://www.wired.com/story/apple-ios-17-3-iphone-stolen-device-protection/)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iOS 17.3: How to Turn on iPhone&#39;s New Stolen Device Protection](https://www.wired.com/story/apple-ios-17-3-iphone-stolen-device-protection/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

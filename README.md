@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iOS 17.3: How to Turn on iPhone&#39;s New Stolen Device Protection](https://www.wired.com/story/apple-ios-17-3-iphone-stolen-device-protection/)
+ - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
  - [iOS 17.3 is out, adding Stolen Device Protection for your iPhone](https://www.theverge.com/2024/1/22/24047063/iphone-ios-17-3-update-stolen-device-protection)
  - [Apple rolls out watchOS 10.3 for all Apple Watch owners](https://appleinsider.com/articles/24/01/22/apple-rolls-out-official-watchos-103-to-apple-watch-owners?utm_medium=rss)
- - [Some current and former Google employees publicly blast the company, criticizing its lack of &quot;visionary&quot; leaders, cold approach to delivering layoff news, more &lpar;Ariel Zilber/New York Post&rpar;](http://www.techmeme.com/240122/p13#a240122p13)
- - [Nvidia’s RTX Remix game remastering tool is out in an open beta](https://www.theverge.com/2024/1/22/24046916/nvidia-rtx-remix-open-beta-ray-tracing)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)<!-- TECH:END -->
+ - [Some current and former Google employees publicly blast the company, criticizing its lack of &quot;visionary&quot; leaders, cold approach to delivering layoff news, more &lpar;Ariel Zilber/New York Post&rpar;](http://www.techmeme.com/240122/p13#a240122p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

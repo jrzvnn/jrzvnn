@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: FTX sold 22M Grayscale Bitcoin Trust shares, worth nearly $1B, explaining the outflows after the SEC&#39;s ETF approval; BTC has tumbled since the approval &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240122/p9#a240122p9)
  - [Daily deals Jan. 22: Beats Solo 3 $96, $140 off Apple Magic Keyboard for iPad Pro, 71% off Apple Smart Folio, more](https://appleinsider.com/articles/24/01/22/daily-deals-jan-22-beats-solo-3-96-140-off-apple-magic-keyboard-for-ipad-pro-71-off-apple-smart-folio-more?utm_medium=rss)
  - [After Apple Vision Pro, an &#39;Apple Ring&#39; may be next](https://appleinsider.com/articles/24/01/22/after-apple-vision-pro-an-apple-ring-may-be-next?utm_medium=rss)
- - [iOS 17.3 Is Almost Here, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-is-almost-here-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
  - [Understanding spatial design for visionOS](https://appleinsider.com/inside/visionos/tips/understanding-spatial-design-for-visionos?utm_medium=rss)
- - [Best Samsung Galaxy S24, S24 Plus and S24 Ultra Cases for 2024: Our Early Favorites     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s24-s24-plus-and-s24-ultra-cases-for-2024-our-early-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Glass-wearing surgeon excited by Apple Vision Pro for healthcare](https://appleinsider.com/articles/24/01/22/google-glass-wearing-surgeon-excited-by-apple-vision-pro-for-healthcare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

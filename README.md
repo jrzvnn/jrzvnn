@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 😝 [TikToker sentenced to 3 years in prison for blocking tramway traffic just to record a TikTok video.](http://9gag.com/gag/ajVpRM0)
- - 💣 [Need more time](http://9gag.com/gag/aPg5nKg)
- - 😝 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)<!-- MEMES:END -->
+ - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
+ - 😝 [She for the streets!](http://9gag.com/gag/aeQLRrm)
+ - 💣 [Built different](http://9gag.com/gag/az2nQMq)
+ - 😝 [It pleases me to see that the artist Jolly Jack is still insane.](http://9gag.com/gag/aEq3X6x)
+ - 👉 [The real Truman show](http://9gag.com/gag/a8qZz0d)<!-- MEMES:END -->
 
 ---
 

@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and expects a 2028 launch or later, instead of 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
+ - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and pushes back its launch from 2026 to 2028 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)
  - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)

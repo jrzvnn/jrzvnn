@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
- - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
  - 😝 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 👉 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)<!-- MEMES:END -->
+ - 💣 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
+ - 😝 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
+ - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
 
 ---
 

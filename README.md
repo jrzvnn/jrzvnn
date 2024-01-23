@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)
  - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)
  - [Death Stranding comes to life on iPhone and Mac next week](https://www.theverge.com/2024/1/23/24048023/death-stranding-kojima-mac-iphone-apple-gaming)
- - [Source: Brex told employees it is cutting 282 jobs, or about 20% of its staff, saying it grew too quickly and its CTO and COO are giving up their positions &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
+ - [Source: Brex told employees that the fintech is cutting 282 jobs, or ~20% of its staff, saying the team grew &quot;too quickly&quot; and its CTO and COO are stepping down &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

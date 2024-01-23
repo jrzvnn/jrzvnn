@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trello data breach exposes over 15 million user email addresses](https://appleinsider.com/articles/24/01/23/trello-data-breach-exposes-over-15-million-user-email-addresses?utm_medium=rss)
+ - [How to enable Stolen Device Protection on your iOS device](https://www.theverge.com/24047822/ios-apple-iphone-stolen-device-protection-how-to)
  - [Netflix buys the exclusive rights to WWE programs like Raw, airing in 2025 in the US, Canada, Latin America, and more; filing: the 10-year deal is worth $5B+ &lpar;CNBC&rpar;](http://www.techmeme.com/240123/p15#a240123p15)
  - [Daily deals Jan. 23: $399 iPad mini, $524 Apple Watch Ultra, 50% off 98&quot; TCL 4K TV, more](https://appleinsider.com/articles/24/01/23/daily-deals-jan-23-399-ipad-mini-524-apple-watch-ultra-50-off-98-tcl-4k-tv-more?utm_medium=rss)
- - [OnePlus 12 Review: Perfectly Polished Hardware](https://www.wired.com/review/oneplus-12/)
- - [OnePlus 12 Review: A Powerhouse Flagship With One Key Flaw     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-review-a-powerhouse-flagship-with-one-key-flaw/#ftag=CAD590a51e)
- - [OnePlus prices latest flagship phone for the US alongside more affordable 12R](https://www.theverge.com/2024/1/23/24047757/oneplus-12-12r-buds-3-price-release-date-specs-features)<!-- TECH:END -->
+ - [OnePlus 12 Review: Perfectly Polished Hardware](https://www.wired.com/review/oneplus-12/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

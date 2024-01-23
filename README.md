@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
  - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 😝 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - 👉 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 ---
 

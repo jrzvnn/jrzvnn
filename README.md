@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Their white people meetings have made a difference](http://9gag.com/gag/awZw9b4)
  - 😝 [Hey Xi, look:](http://9gag.com/gag/a6qP4XL)
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [Rey Palpatine](http://9gag.com/gag/a8qZv0d)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 💣 [Rey Palpatine](http://9gag.com/gag/a8qZv0d)
+ - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
  - 👉 [Which MF IS cutting onions?](http://9gag.com/gag/amA3OEV)<!-- MEMES:END -->
 
 ---

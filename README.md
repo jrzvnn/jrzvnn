@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Teams is making it easier to control your webcam and audio during meetings](https://www.theverge.com/2024/1/23/24048233/microsoft-teams-webcam-audio-adjustment-feature-meetings)
  - [Apple Car is delayed once again, now expected to arrive by 2028 at the earliest](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
  - [Framework Laptop 16 review: the modular system offers unprecedented customization, is competent at mid-range gaming, but ran hot, froze, and glitched in testing &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240123/p23#a240123p23)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Overwatch esports will live on as the Overwatch Champions Series](https://www.theverge.com/2024/1/23/24048065/overwatch-esports-champions-series)
- - [Apple Music enhances music parties with collaborative playlists](https://appleinsider.com/articles/24/01/23/apple-music-enhances-music-parties-with-collaborative-playlists?utm_medium=rss)<!-- TECH:END -->
+ - [Overwatch esports will live on as the Overwatch Champions Series](https://www.theverge.com/2024/1/23/24048065/overwatch-esports-champions-series)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Stolen Device Protection](https://appleinsider.com/articles/24/01/23/how-to-use-stolen-device-protection?utm_medium=rss)
+ - [Apple Watch blood oxygen detection used to save son&#39;s life at 14,000 feet](https://appleinsider.com/articles/24/01/23/apple-watch-blood-oxygen-detection-used-to-save-sons-life-at-14000-feet?utm_medium=rss)
  - [Riot Games cuts more than 500 jobs](https://www.theverge.com/2024/1/22/24047568/riot-games-league-of-legends-forge-runeterra-layoffs)
  - [The FTC orders Intuit to stop promoting its products as &quot;free&quot; unless they are actually free for all consumers, after an FTC judge found TurboTax ads misleading &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240122/p25#a240122p25)
- - [Initial Apple Vision Pro shipments making moves for February 2 delivery](https://appleinsider.com/articles/24/01/23/initial-apple-vision-pro-shipments-making-moves-for-february-2-delivery?utm_medium=rss)
- - [Wireless CarPlay upgrade coming to select Honda Accords later in 2024](https://appleinsider.com/articles/24/01/23/wireless-carplay-upgrade-coming-to-select-honda-accords-later-in-2024?utm_medium=rss)
- - [Apple tells artists how much more money they can make with spatial audio](https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming)<!-- TECH:END -->
+ - [Initial Apple Vision Pro shipments making moves for February 2 delivery](https://appleinsider.com/articles/24/01/23/initial-apple-vision-pro-shipments-making-moves-for-february-2-delivery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

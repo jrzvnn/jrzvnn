@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and expects a 2028 launch or later, instead of 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)
  - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)
- - [Ditch That Weird Little Apple TV Remote and Get This $25 Upgrade Instead     - CNET](https://www.cnet.com/deals/ditch-that-weird-little-apple-tv-remote-and-get-this-25-upgrade-instead/#ftag=CAD590a51e)
- - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)
- - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)<!-- TECH:END -->
+ - [Ditch That Weird Little Apple TV Remote and Get This $25 Upgrade Instead     - CNET](https://www.cnet.com/deals/ditch-that-weird-little-apple-tv-remote-and-get-this-25-upgrade-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

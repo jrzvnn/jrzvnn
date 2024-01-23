@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Attain: Boomers and Generation X consumers in the US shopped more frequently and spent more than Gen Z on Temu in 2023; Boomers shopped twice as much as Gen Z &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p12#a240123p12)
- - [Bluewhite, which offers &quot;robots-as-a-service&quot; including autonomous robots that can be retrofitted to tractors, raised a $39M Series C led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240123/p11#a240123p11)
- - [WWE Monday Night Raw is ditching cable for Netflix](https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable)
- - [Best Internet Providers in Frisco, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-frisco-tx/#ftag=CAD590a51e)
- - [Lack of Web Push Notifications may mean fewer Apple Vision Pro interruptions](https://appleinsider.com/articles/24/01/23/lack-of-web-push-notifications-may-mean-fewer-apple-vision-pro-interruptions?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Microsoft&#39;s Bing, Edge, and Advertising services are set to be exempt from EU&#39;s DMA, as an EU probe tentatively concluded they&#39;re not dominant enough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p13#a240123p13)
+ - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)
+ - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
+ - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)
+ - [Attain: Boomers and Generation X consumers in the US shopped more frequently and spent more than Gen Z on Temu in 2023; Boomers shopped twice as much as Gen Z &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p12#a240123p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

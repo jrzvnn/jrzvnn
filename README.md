@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix buys the exclusive rights to WWE programs like Raw, airing in 2025 in the US, Canada, Latin America, and more; filing: the 10-year deal is worth $5B+ &lpar;CNBC&rpar;](http://www.techmeme.com/240123/p15#a240123p15)
  - [Daily deals Jan. 23: $399 iPad mini, $524 Apple Watch Ultra, 50% off 98&quot; TCL 4K TV, more](https://appleinsider.com/articles/24/01/23/daily-deals-jan-23-399-ipad-mini-524-apple-watch-ultra-50-off-98-tcl-4k-tv-more?utm_medium=rss)
  - [OnePlus 12 Review: Perfectly Polished Hardware](https://www.wired.com/review/oneplus-12/)
  - [OnePlus prices latest flagship phone for the US alongside more affordable 12R](https://www.theverge.com/2024/1/23/24047757/oneplus-12-12r-buds-3-price-release-date-specs-features)
- - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
- - [OnePlus 12 review: refreshingly basic](https://www.theverge.com/24047368/oneplus-12-review)<!-- TECH:END -->
+ - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

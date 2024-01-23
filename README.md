@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)
  - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)
+ - [Ditch That Weird Little Apple TV Remote and Get This $25 Upgrade Instead     - CNET](https://www.cnet.com/deals/ditch-that-weird-little-apple-tv-remote-and-get-this-25-upgrade-instead/#ftag=CAD590a51e)
  - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)
- - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)
- - [Death Stranding comes to life on iPhone and Mac next week](https://www.theverge.com/2024/1/23/24048023/death-stranding-kojima-mac-iphone-apple-gaming)
- - [Source: Brex told employees that the fintech is cutting 282 jobs, or ~20% of its staff, saying the team grew &quot;too quickly&quot; and its CTO and COO are stepping down &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
+ - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
  - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 💣 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
+ - 😝 [Natalie Portman](http://9gag.com/gag/a04BGzd)
+ - 💣 [Which MF IS cutting onions?](http://9gag.com/gag/amA3OEV)
+ - 😝 [And the oscar goes to...](http://9gag.com/gag/aMEg0B1)
+ - 👉 [Got his name. Don&#39;t let him get away!!!](http://9gag.com/gag/aeQLEKB)<!-- MEMES:END -->
 
 ---
 

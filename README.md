@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music enhances music parties with collaborative playlists](https://appleinsider.com/articles/24/01/23/apple-music-enhances-music-parties-with-collaborative-playlists?utm_medium=rss)
- - [Sources: Apple pivots to a less ambitious design for its upcoming EV, from Level 4 autonomy to Level 2+, and pushes back its launch from 2026 to 2028 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240123/p22#a240123p22)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What NPR’s new podcast chief learned from the mess at Gimlet](https://www.theverge.com/2024/1/23/24048118/npr-gimlet-collin-campbell-spotify-throughline-israel-story)
- - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)<!-- TECH:END -->
+ - [Apple Car is delayed once again, now expected to arrive by 2028 at the earliest](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
+ - [Framework Laptop 16 review: the modular system offers unprecedented customization, is competent at mid-range gaming, but ran hot, froze, and glitched in testing &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240123/p23#a240123p23)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Overwatch esports will live on as the Overwatch Champions Series](https://www.theverge.com/2024/1/23/24048065/overwatch-esports-champions-series)
+ - [Apple Music enhances music parties with collaborative playlists](https://appleinsider.com/articles/24/01/23/apple-music-enhances-music-parties-with-collaborative-playlists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

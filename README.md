@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silverfort, which provides identity threat protection tools, raised a $116M Series D led by Brighton Park Capital, sources say at an &quot;around&quot; $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240123/p14#a240123p14)
  - [Sources: Microsoft&#39;s Bing, Edge, and Advertising services are set to be exempt from EU&#39;s DMA, as an EU probe tentatively concluded they&#39;re not dominant enough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p13#a240123p13)
+ - [This $25 Windows 11 Pro Deal Isn&#39;t Going to Last Much Longer     - CNET](https://www.cnet.com/deals/this-25-windows-11-pro-deal-isnt-going-to-last-much-longer/#ftag=CAD590a51e)
  - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)
- - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
- - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)
- - [Attain: Boomers and Generation X consumers in the US shopped more frequently and spent more than Gen Z on Temu in 2023; Boomers shopped twice as much as Gen Z &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p12#a240123p12)<!-- TECH:END -->
+ - [Avoid a Solar Panel Scam With These 7 Tips     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-scams-7-red-flags-to-avoid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

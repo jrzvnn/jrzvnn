@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Children&#39;s programming takes a hit as Apple TV+ lays off eight staffers](https://appleinsider.com/articles/24/01/23/childrens-programming-takes-a-hit-as-apple-tv-lays-off-eight-staffers?utm_medium=rss)
+ - [Review of the $800 OnePlus 12, launching on February 6: its specs rival the $1,300 S24 Ultra&#39;s, but it lacks AI features and the curved display feels dated &lpar;Ben Sin/XDA Developers&rpar;](http://www.techmeme.com/240123/p20#a240123p20)
  - [Google announces AI features for Google Chrome on Mac and Windows: &quot;Help Me Write&quot; coming next month, &quot;Organize Similar Tabs&quot;, and AI-generated custom themes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p19#a240123p19)
  - [7 Best TV Deals to Catch Up on Oscar-Nominated Films &lpar;or the Super Bowl&rpar;](https://www.wired.com/story/tv-deals-january-2024/)
- - [Kia EV9 2024 Review: Price, Specs, Release Date](https://www.wired.com/review/review-kia-ev9-2024/)
- - [Google is using AI to organize and customize your Chrome browser](https://www.theverge.com/2024/1/23/24047843/google-chrome-browser-ai-organize-tabs-themes)
- - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)<!-- TECH:END -->
+ - [Kia EV9 2024 Review: Price, Specs, Release Date](https://www.wired.com/review/review-kia-ev9-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

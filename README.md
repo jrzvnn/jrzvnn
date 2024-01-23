@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s more proof ADT is about to launch a new smart home security system](https://www.theverge.com/2024/1/23/24048187/adt-smart-home-security-system-google-nest-launch)
+ - [Netflix says user engagement with games on its service tripled in 2023 and Grand Theft Auto has become its most successful launch to date &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240123/p32#a240123p32)
  - [SAP plans voluntary buyouts or job changes for 8,000 employees as part of a 2024 restructuring program but says its headcount should remain the same &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240123/p31#a240123p31)
  - [Netflix dropping Basic ads-free tier, forcing users to choose different, more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)
- - [Alleged renders of Google&#39;s Pixel 9 Pro show a ~6.5-inch display, smaller than the Pixel 8 Pro&#39;s, a refreshed camera island with three cameras, and a flat frame &lpar;Basith Rahman P P/MySmartPrice&rpar;](http://www.techmeme.com/240123/p30#a240123p30)
- - [A FINRA review of 500+ crypto-related retail communications finds that 70% of them contained claims that are false, misleading, or otherwise violated its rules &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/240123/p29#a240123p29)
- - [Netflix is going to take away its cheapest ad-free plan](https://www.theverge.com/2024/1/23/24048107/netflix-basic-subscription-ads-earnings-q4-2023)<!-- TECH:END -->
+ - [Alleged renders of Google&#39;s Pixel 9 Pro show a ~6.5-inch display, smaller than the Pixel 8 Pro&#39;s, a refreshed camera island with three cameras, and a flat frame &lpar;Basith Rahman P P/MySmartPrice&rpar;](http://www.techmeme.com/240123/p30#a240123p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

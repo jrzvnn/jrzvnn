@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces AI features for Google Chrome on Mac and Windows: &quot;Help Me Write&quot; coming next month, &quot;Organize Similar Tabs&quot;, and AI-generated custom themes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p19#a240123p19)
+ - [7 Best TV Deals to Catch Up on Oscar-Nominated Films &lpar;or the Super Bowl&rpar;](https://www.wired.com/story/tv-deals-january-2024/)
+ - [Kia EV9 2024 Review: Price, Specs, Release Date](https://www.wired.com/review/review-kia-ev9-2024/)
  - [Google is using AI to organize and customize your Chrome browser](https://www.theverge.com/2024/1/23/24047843/google-chrome-browser-ai-organize-tabs-themes)
- - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)
- - [Netflix’s new Avatar: The Last Airbender trailer has cute critters and dramatic battles](https://www.theverge.com/24047888/avatar-the-last-airbender-trailer-netflix)
- - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)
- - [Clerk, which helps app developers authenticate and manage users, raised a $30M Series B led by CRV, says it has ~1,300 paying customers managing 16M users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p17#a240123p17)<!-- TECH:END -->
+ - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

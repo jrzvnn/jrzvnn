@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese Startup 01.AI Is Winning the Open Source AI Race](https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/)
  - [An interview with Rabbit CEO Jesse Lyu about the R1&#39;s design, collaboration with Teenage Engineering, why he didn&#39;t want to make an app, and more &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/240123/p8#a240123p8)
  - [Native Apple Vision Pro apps few and far between at launch](https://appleinsider.com/articles/24/01/23/native-apple-vision-pro-apps-few-and-far-between-at-launch?utm_medium=rss)
  - [MIT CSAIL study: only 23% of US wages paid to humans for doing vision tasks would be economically attractive to automate with AI, due to large upfront costs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p7#a240123p7)
- - [Berlin-based Qdrant, which makes open source vector database of the same name, raised a $28M Series A led by Spark Capital, after raising $7.5M in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240123/p6#a240123p6)
- - [Sources: Byju&#39;s plans to raise more than $100M from existing investors at a less than $2B valuation, down more than 90% from $22B in October 2022 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/240123/p5#a240123p5)<!-- TECH:END -->
+ - [Berlin-based Qdrant, which makes open source vector database of the same name, raised a $28M Series A led by Spark Capital, after raising $7.5M in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240123/p6#a240123p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France fines Amazon $35 million over ‘excessive’ worker surveillance](https://www.theverge.com/2024/1/23/24048197/amazon-fine-employee-surveillance-france-cnil-gdpr-privacy)
+ - [Chrome&#39;s new AI update brings a smart twist to browsing &amp; text composition](https://appleinsider.com/articles/24/01/23/chromes-new-ai-update-brings-a-smart-twist-to-browsing-text-composition?utm_medium=rss)
  - [First-gen AirPods Pro update brings firmware up to 6.0](https://appleinsider.com/articles/24/01/23/first-gen-airpods-pro-update-brings-firmware-up-to-60?utm_medium=rss)
  - [The 25 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Microsoft Teams is making it easier to control your webcam and audio during meetings](https://www.theverge.com/2024/1/23/24048233/microsoft-teams-webcam-audio-adjustment-feature-meetings)
- - [Apple Car is delayed once again, now expected to arrive by 2028 at the earliest](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
- - [Framework Laptop 16 review: the modular system offers unprecedented customization, is competent at mid-range gaming, but ran hot, froze, and glitched in testing &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240123/p23#a240123p23)<!-- TECH:END -->
+ - [Microsoft Teams is making it easier to control your webcam and audio during meetings](https://www.theverge.com/2024/1/23/24048233/microsoft-teams-webcam-audio-adjustment-feature-meetings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

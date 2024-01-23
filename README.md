@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A FINRA review of 500+ crypto-related retail communications finds that 70% of them contained claims that are false, misleading, or otherwise violated its rules &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/240123/p29#a240123p29)
+ - [Netflix is going to take away its cheapest ad-free plan](https://www.theverge.com/2024/1/23/24048107/netflix-basic-subscription-ads-earnings-q4-2023)
  - [With Its WWE Deal, the Netflix Pivot Is Complete](https://www.wired.com/story/netflix-wwe-deal-pivot-licensing/)
  - [X adds support for passkeys for US-based iOS users; the announcement comes shortly after the hack of the US SEC&#39;s X account &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240123/p28#a240123p28)
- - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)
- - [Filing: Google is terminating its contract with data-labeling firm Appen, effective March 19; Google accounted for $82.8M of Appen&#39;s $273M revenue in 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240123/p26#a240123p26)
- - [Netflix is going to take away its cheapest ad-free plan](https://www.theverge.com/2024/1/23/24048107/netflix-basic-subscription-ads-earnings-q4-2023)<!-- TECH:END -->
+ - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

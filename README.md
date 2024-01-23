@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
- - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
+ - 😝 [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
+ - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
+ - 💣 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
 
 ---
 

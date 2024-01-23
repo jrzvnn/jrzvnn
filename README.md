@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing the long game](http://9gag.com/gag/a3ZmePm)
+ - 😝 [Over 7,000 languages in the world and this man chose to speak facts](http://9gag.com/gag/armY9V5)
  - 😝 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
- - 💣 [Over 7,000 languages in the world and this man chose to speak facts](http://9gag.com/gag/armY9V5)
+ - 💣 [Playing the long game](http://9gag.com/gag/a3ZmePm)
  - 😝 [Surprising a bro](http://9gag.com/gag/ay2GPyy)
  - 👉 [We need more movies like this!](http://9gag.com/gag/adPErR9)<!-- MEMES:END -->
 

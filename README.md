@@ -174,8 +174,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are coming](http://9gag.com/gag/aYV9ZLq)
- - 😝 [We need more movies like this!](http://9gag.com/gag/adPErR9)
+ - 😝 [Their white people meetings have made a difference](http://9gag.com/gag/awZw9b4)
+ - 😝 [Do we all go through this](http://9gag.com/gag/aQEGDPK)
  - 💣 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
  - 😝 [Playing the long game](http://9gag.com/gag/a3ZmePm)
  - 👉 [Surprising a bro](http://9gag.com/gag/ay2GPyy)<!-- MEMES:END -->

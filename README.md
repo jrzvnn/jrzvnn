@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 9 leaks are already here](https://www.theverge.com/2024/1/23/24048246/pixel-9-pro-leak-specs-google)
  - [Nintendo goes after the Palworld Pokémon modder](https://www.theverge.com/2024/1/23/24047854/nintendo-palworld-pokemon-mod-youtube-dmca)
  - [France fines Amazon $35 million over ‘excessive’ worker surveillance](https://www.theverge.com/2024/1/23/24048197/amazon-fine-employee-surveillance-france-cnil-gdpr-privacy)
  - [Chrome&#39;s new AI update brings a smart twist to browsing &amp; text composition](https://appleinsider.com/articles/24/01/23/chromes-new-ai-update-brings-a-smart-twist-to-browsing-text-composition?utm_medium=rss)
- - [First-gen AirPods Pro update brings firmware up to 6.0](https://appleinsider.com/articles/24/01/23/first-gen-airpods-pro-update-brings-firmware-up-to-60?utm_medium=rss)
- - [The 25 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [First-gen AirPods Pro update brings firmware up to 6.0](https://appleinsider.com/articles/24/01/23/first-gen-airpods-pro-update-brings-firmware-up-to-60?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

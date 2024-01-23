@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey Xi, look:](http://9gag.com/gag/a6qP4XL)
+ - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
  - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 💣 [Rey Palpatine](http://9gag.com/gag/a8qZv0d)
- - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 👉 [Which MF IS cutting onions?](http://9gag.com/gag/amA3OEV)<!-- MEMES:END -->
+ - 💣 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
+ - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 ---
 

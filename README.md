@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google cancels contract with an AI data firm that’s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
  - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
  - [Here’s more proof ADT is about to launch a new smart home security system](https://www.theverge.com/2024/1/23/24048187/adt-smart-home-security-system-google-nest-launch)
  - [Netflix says user engagement with games on its service tripled in 2023 and Grand Theft Auto has become its most successful launch to date &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240123/p32#a240123p32)
- - [SAP plans voluntary buyouts or job changes for 8,000 employees as part of a 2024 restructuring program but says its headcount should remain the same &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240123/p31#a240123p31)
- - [Netflix dropping Basic ads-free tier, forcing users to choose different, more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)<!-- TECH:END -->
+ - [SAP plans voluntary buyouts or job changes for 8,000 employees as part of a 2024 restructuring program but says its headcount should remain the same &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240123/p31#a240123p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

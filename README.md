@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can private companies carry NASA back to the Moon?](https://www.theverge.com/2024/1/23/24047818/nasa-moon-landing-private-missions-failure-astrobotic-spacex)
  - [Silverfort, which provides identity threat protection tools, raised a $116M Series D led by Brighton Park Capital, sources say at an &quot;around&quot; $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240123/p14#a240123p14)
  - [Sources: Microsoft&#39;s Bing, Edge, and Advertising services are set to be exempt from EU&#39;s DMA, as an EU probe tentatively concluded they&#39;re not dominant enough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p13#a240123p13)
  - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)
- - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)
- - [Nvidia RTX 4070 Ti Super review: not very super](https://www.theverge.com/24046652/nvidia-rtx-4070-ti-super-review-gpu-graphics-card-benchmark-test)<!-- TECH:END -->
+ - [13 Best Cozy Games &lpar;2024&rpar; for Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

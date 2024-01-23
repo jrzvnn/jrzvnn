@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - 👉 [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)<!-- MEMES:END -->
+ - 😝 [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)
+ - 😝 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
+ - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 😝 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 

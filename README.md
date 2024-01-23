@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix says it&#39;s looking to retire its ad-free Basic plan in some countries where ad-supported plans are available, starting with Canada and the UK in Q2 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240123/p27#a240123p27)
  - [Filing: Google is terminating its contract with data-labeling firm Appen, effective March 19; Google accounted for $82.8M of Appen&#39;s $273M revenue in 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240123/p26#a240123p26)
  - [Netflix is going to take away its cheapest ad-free plan](https://www.theverge.com/2024/1/23/24048107/netflix-basic-subscription-ads-earnings-q4-2023)
  - [Netflix reports Q4 revenue up 12.5% YoY to $8.83B vs. $8.71B est., global paid memberships up 12.8% to 260.28M vs. 256M est., net income of $938M, up from $55M &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240123/p25#a240123p25)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [HP CEO Says They Brick Printers That Use Third-Party Ink Because of … Hackers](https://www.wired.com/story/hp-ceo-ink-cartridge-hackers-dynamic-security/)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Built different](http://9gag.com/gag/az2nQMq)
- - 😝 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 💣 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
+ - 😝 [I&#39;m not a Doc but i think i might be abble to help](http://9gag.com/gag/avQNDAq)
+ - 😝 [Need more time](http://9gag.com/gag/aPg5nKg)
+ - 💣 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 😝 [Palworld devs `learned on the job`](http://9gag.com/gag/a9qoZzD)
+ - 👉 [Hi again guys, I&#39;m a volunteer combat medic from Czechia in Ukraine, training soldiers in combat medicine and evacuating wounded. 9gag doesn&#39;t like photos and videos ofmy work and keeps deleting them, so see them in the comments!](http://9gag.com/gag/a8qZnjd)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tells artists how much more money they can make with spatial audio](https://www.theverge.com/2024/1/22/24047461/apple-music-spatial-audio-royalties-dolby-atmos-streaming)
+ - [Australia sanctions a Russian hacker over his role in the October 2022 hack of health insurer Medibank, marking the first use of its cyber sanctions laws &lpar;Tom Crowley/ABC&rpar;](http://www.techmeme.com/240122/p24#a240122p24)
  - [Mortgage lender loanDepot says &quot;sensitive personal information&quot; of ~16.6M people was stolen in a January 6 ransomware attack that shut down some of its systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240122/p23#a240122p23)
  - [Samsung is exploring the development of noninvasive glucose monitoring and blood pressure checking, as part of a push to put health features in various devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p22#a240122p22)
- - [LG’s new 32-inch 4K smart monitor has Netflix and Google Calendar built in](https://www.theverge.com/2024/1/22/24047275/lg-myview-32-inch-4k-smart-monitor-price-release-date)
- - [Filing: Figure, a blockchain and lending startup founded by ex-SoFi CEO Mike Cagney, seeks approval from US regulators to issue an interest-bearing stablecoin &lpar;Bloomberg&rpar;](http://www.techmeme.com/240122/p21#a240122p21)
- - [&#39;Palworld&#39;: How &#39;Pokémon With Guns&#39; Became an Overnight Hit](https://www.wired.com/story/palworld-pokemon-with-guns-steam-success/)<!-- TECH:END -->
+ - [AI and You: ChatGPT Helps Author Win Literary Prize, Taylor Swift Isn&#39;t Pitching Cookware     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpt-helps-author-win-literary-prize-taylor-swift-isnt-pitching-cookware/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Figma is refreshing employee equity packages and offering buyouts as the company resets its valuation to $10B from $20B, after the scrapped Adobe deal &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240123/p18#a240123p18)
  - [Netflix’s new Avatar: The Last Airbender trailer has cute critters and dramatic battles](https://www.theverge.com/24047888/avatar-the-last-airbender-trailer-netflix)
  - [Surprisingly, scientists decline to move the Doomsday Clock closer to midnight](https://www.theverge.com/2024/1/23/24047902/doomsday-clock-artificial-intelligence-nuclear-war-climate-change-bulletin-atomic-scientists)
  - [Clerk, which helps app developers authenticate and manage users, raised a $30M Series B led by CRV, says it has ~1,300 paying customers managing 16M users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240123/p17#a240123p17)
- - [Apple Vision Pro AR demo now available in the Apple Store app](https://appleinsider.com/articles/24/01/23/apple-vision-pro-ar-demo-now-available-in-the-apple-store-app?utm_medium=rss)
- - [Score This Greenworks Pressure Washer for Just $252 Today Only     - CNET](https://www.cnet.com/deals/score-this-greenworks-pressure-washer-for-just-252-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro AR demo now available in the Apple Store app](https://appleinsider.com/articles/24/01/23/apple-vision-pro-ar-demo-now-available-in-the-apple-store-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This baby is covered in old flip phones and chips — and you cannot afford it](https://www.theverge.com/2024/1/23/24047903/schiaparelli-couture-paris-fashion-week-robot-tech-baby-dress)
+ - [The Biden Deepfake Robocall Is Only the Beginning](https://www.wired.com/story/biden-robocall-deepfake-danger/)
+ - [LG’s discounted C3 OLED TVs come with up to $200 in gift cards](https://www.theverge.com/2024/1/23/24045385/lg-c3-oled-tv-dreametech-d10-plus-deal-elgato-stream-deck-xl-deal-sale)
  - [Death Stranding comes to life on iPhone and Mac next week](https://www.theverge.com/2024/1/23/24048023/death-stranding-kojima-mac-iphone-apple-gaming)
- - [Source: Brex told employees it is cutting 282 jobs, or about 20% of its staff, saying it grew too quickly and its CTO and COO are giving up their positions &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)
- - [Apple Maps &#39;closed&#39; mistake costs restaurant thousands](https://appleinsider.com/articles/24/01/23/apple-maps-closed-mistake-costs-restaurant-thousands?utm_medium=rss)
- - [This is the cheapest floodlight security cam you can buy... but should you?](https://www.theverge.com/2024/1/23/24047950/wyze-cam-floodlight-v2-price-features-release-date)
- - [Children&#39;s programming takes a hit as Apple TV+ lays off eight staffers](https://appleinsider.com/articles/24/01/23/childrens-programming-takes-a-hit-as-apple-tv-lays-off-eight-staffers?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Brex told employees it is cutting 282 jobs, or about 20% of its staff, saying it grew too quickly and its CTO and COO are giving up their positions &lpar;The Information&rpar;](http://www.techmeme.com/240123/p21#a240123p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

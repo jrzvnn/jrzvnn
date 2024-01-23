@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)
- - 😝 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
- - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
- - 😝 [Hey Xi, look:](http://9gag.com/gag/a6qP4XL)
- - 👉 [Countries Where Being Gay Is A Crime](http://9gag.com/gag/agoWKZg)<!-- MEMES:END -->
+ - 😝 [They are coming](http://9gag.com/gag/aYV9ZLq)
+ - 😝 [We need more movies like this!](http://9gag.com/gag/adPErR9)
+ - 💣 [Poor man named the ones who can&#39;t be named](http://9gag.com/gag/a6qP3xm)
+ - 😝 [Playing the long game](http://9gag.com/gag/a3ZmePm)
+ - 👉 [Surprising a bro](http://9gag.com/gag/ay2GPyy)<!-- MEMES:END -->
 
 ---
 

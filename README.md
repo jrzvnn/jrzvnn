@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TurboTax isn’t allowed to say it’s ‘free’ anymore](https://www.theverge.com/2024/1/23/24047807/turbotax-misleading-advertising-free-tax-file-ftc-final-order)
- - [Can private companies carry NASA back to the Moon?](https://www.theverge.com/2024/1/23/24047818/nasa-moon-landing-private-missions-failure-astrobotic-spacex)
- - [Silverfort, which provides identity threat protection tools, raised a $116M Series D led by Brighton Park Capital, sources say at an &quot;around&quot; $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240123/p14#a240123p14)
- - [Sources: Microsoft&#39;s Bing, Edge, and Advertising services are set to be exempt from EU&#39;s DMA, as an EU probe tentatively concluded they&#39;re not dominant enough &lpar;Bloomberg&rpar;](http://www.techmeme.com/240123/p13#a240123p13)
- - [&#39;Killers of the Flower Moon&#39; nominated for 10 Oscars, including Best Picture](https://appleinsider.com/articles/24/01/23/killers-of-the-flower-moon-nominated-for-10-oscars-including-best-picture?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan. 23: $399 iPad mini, $524 Apple Watch Ultra, 50% off 98&quot; TCL 4K TV, more](https://appleinsider.com/articles/24/01/23/daily-deals-jan-23-399-ipad-mini-524-apple-watch-ultra-50-off-98-tcl-4k-tv-more?utm_medium=rss)
+ - [OnePlus 12 Review: Perfectly Polished Hardware](https://www.wired.com/review/oneplus-12/)
+ - [OnePlus prices latest flagship phone for the US alongside more affordable 12R](https://www.theverge.com/2024/1/23/24047757/oneplus-12-12r-buds-3-price-release-date-specs-features)
+ - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
+ - [OnePlus 12 review: refreshingly basic](https://www.theverge.com/24047368/oneplus-12-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

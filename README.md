@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 😝 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 😝 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 💣 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)
  - 😝 [Why are you f**king naked](http://9gag.com/gag/anz6ZXB)
- - 👉 [Chair in Croatia 218 euros, average income 1200 euros Chair in Germany 99 euros, average income 3200 euros](http://9gag.com/gag/a3Zme2N)<!-- MEMES:END -->
+ - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
 
 ---
 

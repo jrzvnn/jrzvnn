@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
+ - [Nvidia’s RTX GPUs can now upgrade SDR content to HDR using AI](https://www.theverge.com/2024/1/24/24048892/nvidia-rtx-video-hdr-feature-ai)
  - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
+ - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
  - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
- - [Google Pixel users are again suffering from a storage bug](https://www.theverge.com/2024/1/24/24048920/google-pixel-bug-internal-storage-access-crashing-apps)
- - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel users are again suffering from a storage bug](https://www.theverge.com/2024/1/24/24048920/google-pixel-bug-internal-storage-access-crashing-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

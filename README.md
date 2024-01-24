@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 💣 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
- - 😝 [Valley of Tears in the Andes, January 1973 vs. January 2023](http://9gag.com/gag/aDYyvzO)
- - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
+ - 😝 [That history lesson in junior high was an eye opening experience to put it mildly.](http://9gag.com/gag/aqe0wMP)
+ - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
+ - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 😝 [The IQ Test](http://9gag.com/gag/a9qo4VW)
+ - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 ---
 

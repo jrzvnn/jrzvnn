@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London- and Tallinn-based VC firm Plural, led by some of Europe&#39;s best known startup founders, raised a &amp;euro;400M fund to invest in early-stage &quot;deep tech&quot; startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240124/p22#a240124p22)
- - [Firefox wants to level the browser playing field with Microsoft, Google, and Apple](https://appleinsider.com/articles/24/01/24/firefox-wants-to-level-the-browser-playing-field-with-microsoft-google-and-apple?utm_medium=rss)
- - [EquiLend, which processes $2.4T of securities-lending transactions per month, goes down after a January 22 cyberattack and says restoration may take a few days &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p21#a240124p21)
- - [Look back in time at Apple&#39;s original Mac development team](https://appleinsider.com/articles/24/01/24/look-back-in-time-at-apples-original-mac-development-team?utm_medium=rss)
- - [The UK NCSC releases an all-source intel assessment warning that ransomware attacks will increase in both volume and impact over the next two years due to AI &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240124/p20#a240124p20)<!-- TECH:END -->
+ - [Inside an Election Denial Facebook Group on Primary Day](https://www.wired.com/story/election-denial-facebook-group-new-hampshire/)
+ - [Very impressive Apple Vision Pro launch has inspired Wedbush analysts](https://appleinsider.com/articles/24/01/24/very-impressive-apple-vision-pro-launch-has-inspired-wedbush-analysts?utm_medium=rss)
+ - [The World’s Essential Aquifers Are in Deep Trouble](https://www.wired.com/story/the-worlds-essential-aquifers-are-in-deep-trouble/)
+ - [Apple thought it dealt with Epic v. Apple — has it really?](https://www.theverge.com/24049014/apple-epic-court-ruling-developer-tax)
+ - [A Massachusetts court filings shows Google reached a settlement in an AI chip patent lawsuit filed by Singular Computing, which sought $1.67B in damages &lpar;Reuters&rpar;](http://www.techmeme.com/240124/p23#a240124p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

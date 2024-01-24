@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)
  - [First Apple Vision Pro operating system update already available](https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available?utm_medium=rss)
  - [Texas Instruments reports Q4 revenue down 13% YoY to $4.08B, vs. $4.13B est., and FY 2023 sales down ~13% YoY, the company&#39;s biggest fall in over a decade &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240123/p35#a240123p35)
  - [B&amp;H Photo slashes up to $1,200 off MacBooks &amp; iMacs this week](https://appleinsider.com/articles/24/01/24/bh-photo-slashes-up-to-1200-off-macbooks-imacs-this-week?utm_medium=rss)
- - [Nintendo has set the April shutdown date for 3DS and Wii U online play](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)
- - [Google unveils a new Gemini-powered chat-based tool in Google Ads to build Search ad campaigns, out in beta to all English language advertisers in the US and UK &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240123/p34#a240123p34)<!-- TECH:END -->
+ - [Nintendo has set the April shutdown date for 3DS and Wii U online play](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

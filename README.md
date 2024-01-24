@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Kittl, which is developing a browser-based graphic design tool, raised a $36M Series B led by IVP, just a year after raising a $11.6M Series A &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240124/p4#a240124p4)
+ - [A filing in a class action suit by 10 US artists against Midjourney and others lists 16,000 artist names whose work Midjourney had allegedly used for training &lpar;James Tapper/The Guardian&rpar;](http://www.techmeme.com/240124/p3#a240124p3)
  - [A US federal judge denies NSO Group&#39;s motion to dismiss the lawsuit from Apple and orders the Pegasus spyware maker to answer Apple&#39;s complaint by February 14 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240124/p2#a240124p2)
  - [Xianyu, Alibaba&#39;s online second-hand goods trading platform that claims to have 500M+ users, is opening its first bricks-and-mortar store in Hangzhou, China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240124/p1#a240124p1)
- - [Data shows African startups raised between $2.9B and $4.1B total in 2023, down from $4.6B to $6.5B in 2022, with Egypt, Kenya, Nigeria, and South Africa leading &lpar;TechCrunch&rpar;](http://www.techmeme.com/240123/p38#a240123p38)
- - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
- - [AiDash, which uses AI to search satellite images to spot fire and weather risks on power lines, raised a $50M Series C led by Lightrock &lpar;Peter Henderson/Reuters&rpar;](http://www.techmeme.com/240123/p37#a240123p37)<!-- TECH:END -->
+ - [Data shows African startups raised between $2.9B and $4.1B total in 2023, down from $4.6B to $6.5B in 2022, with Egypt, Kenya, Nigeria, and South Africa leading &lpar;TechCrunch&rpar;](http://www.techmeme.com/240123/p38#a240123p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

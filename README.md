@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
- - 😝 [He\u2019s so proud](http://9gag.com/gag/aA0j7gp)
- - 💣 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
- - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
+ - 💣 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 😝 [Man assaults McDonald\u2019s worker](http://9gag.com/gag/aDYy5Od)
+ - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 ---
 

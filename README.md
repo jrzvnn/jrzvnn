@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
+ - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
  - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 😝 [Even in 2018 this was a ridiculous thing to say](http://9gag.com/gag/aqe0pDY)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 👉 [Someone jumped in the middle of ocean in Zanzibar](http://9gag.com/gag/aqe0p37)<!-- MEMES:END -->
 
 ---
 

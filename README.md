@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel users say they are not able to access data stored in internal storage across all apps after installing the January 2024 Google Play system update &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240124/p30#a240124p30)
+ - [Joe Biden’s big AI science project gets pledges from Microsoft, Nvidia and others](https://www.theverge.com/2024/1/24/24049467/national-science-foundation-ai-research-biden-eo)
  - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
  - [Klarna launches Klarna Plus, a $7.99/month subscription plan in the US, with waived service fees when using its One Time Card, double rewards points, and more &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/240124/p29#a240124p29)
- - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac on January 31](https://appleinsider.com/articles/24/01/24/death-stranding-directors-cut-hits-iphone-ipad-and-mac-on-january-31?utm_medium=rss)
- - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
- - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)<!-- TECH:END -->
+ - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac on January 31](https://appleinsider.com/articles/24/01/24/death-stranding-directors-cut-hits-iphone-ipad-and-mac-on-january-31?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

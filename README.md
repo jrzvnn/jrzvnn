@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - 👉 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)<!-- MEMES:END -->
+ - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
+ - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 💣 [This is a good one](http://9gag.com/gag/aoKXoL2)
+ - 😝 [He\u2019s so proud](http://9gag.com/gag/aA0j7gp)
+ - 👉 [BOOM](http://9gag.com/gag/aA0j5Y0)<!-- MEMES:END -->
 
 ---
 

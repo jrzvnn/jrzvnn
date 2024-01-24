@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
+ - [Klarna launches Klarna Plus, a $7.99/month subscription plan in the US, with waived service fees when using its One Time Card, double rewards points, and more &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/240124/p29#a240124p29)
  - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac on January 31](https://appleinsider.com/articles/24/01/24/death-stranding-directors-cut-hits-iphone-ipad-and-mac-on-january-31?utm_medium=rss)
  - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
- - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)
- - [Nvidia&#39;s RTX GPUs can now upgrade SDR video to HDR using AI, supported in both Microsoft Edge and Google Chrome on Windows PCs with HDR enabled &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240124/p28#a240124p28)
- - [Amazon closing down law enforcement&#39;s easy access to Ring video isn&#39;t the whole story](https://appleinsider.com/articles/24/01/24/amazon-closing-down-law-enforcements-easy-access-to-ring-video-isnt-the-whole-story?utm_medium=rss)<!-- TECH:END -->
+ - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

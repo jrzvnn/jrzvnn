@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which one First!!?](http://9gag.com/gag/avQNq7n)
- - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
+ - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
  - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
 
 ---

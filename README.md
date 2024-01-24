@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
- - 💣 [I have my own little idea about the matter](http://9gag.com/gag/abv7LZL)
- - 😝 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - 👉 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)<!-- MEMES:END -->
+ - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 💣 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
+ - 😝 [Bro let the intrusive thoughts win](http://9gag.com/gag/aYV95AN)
+ - 👉 [Egg boy](http://9gag.com/gag/a8qZO3Q)<!-- MEMES:END -->
 
 ---
 

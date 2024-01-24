@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple patched an exploited WebKit vulnerability in its latest updates](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
  - [A look at some long-term issues facing the gaming industry, including deep layoffs, weak revenue growth, and declining VC investments &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240124/p15#a240124p15)
  - [Palworld is getting raid bosses, PvP, and crossplay support in the future](https://www.theverge.com/2024/1/24/24048900/palworld-raid-bosses-pvp-crossplay-xbox-support-updates)
  - [Ahead of the EU&#39;s DMA, Spotify shares iOS app mockups with full in-app payments, rolling out in part on March 7; Apple has not yet shared details of DMA changes &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/240124/p14#a240124p14)
- - [Oppo and Nokia sign a patent cross-licensing deal, ending a years-long dispute, letting the Chinese smartphone maker sell in key European markets like Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p13#a240124p13)
- - [Two Nations, a Horrible Accident, and the Urgent Need to Understand the Laws of Space Right Now](https://www.wired.com/story/two-nations-horrible-accident-urgent-need-laws-of-space-lachs-moot/)<!-- TECH:END -->
+ - [Oppo and Nokia sign a patent cross-licensing deal, ending a years-long dispute, letting the Chinese smartphone maker sell in key European markets like Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p13#a240124p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

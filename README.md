@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 😝 [This is a good one](http://9gag.com/gag/aoKXoL2)
- - 💣 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 😝 [He\u2019s so proud](http://9gag.com/gag/aA0j7gp)
- - 👉 [BOOM](http://9gag.com/gag/aA0j5Y0)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 😝 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
+ - 💣 [I have my own little idea about the matter](http://9gag.com/gag/abv7LZL)
+ - 😝 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
+ - 👉 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)<!-- MEMES:END -->
 
 ---
 

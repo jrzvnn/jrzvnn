@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM Q4: revenue up 4% YoY to $17.38B vs. $17.30B est., net income of $3.29B, up from $2.71B YoY, software up 3% YoY to $7.51B, infrastructure up 3% YoY to $4.6B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240124/p31#a240124p31)
  - [Best Buy&#39;s Samsung S24 preorder deal can save you up to $870 on unlocked devices](https://appleinsider.com/articles/24/01/24/best-buys-samsung-s24-preorder-deal-can-save-you-up-to-870-on-unlocked-devices?utm_medium=rss)
  - [Netflix Premium and Starz is $25.99 per month for Verizon customers](https://www.theverge.com/2024/1/24/24049478/verizon-netflix-premium-starz-deal-sale)
  - [Apple to get TSMC&#39;s initial 2nm capacity, says obvious report](https://appleinsider.com/articles/24/01/24/apple-to-get-tsmcs-initial-2nm-capacity-says-obvious-report?utm_medium=rss)
- - [Samsung is making DIY fixes easier for some of its TVs](https://www.theverge.com/2024/1/24/24049382/samsung-self-repair-television-foldables-projectors)
- - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)<!-- TECH:END -->
+ - [Samsung is making DIY fixes easier for some of its TVs](https://www.theverge.com/2024/1/24/24049382/samsung-self-repair-television-foldables-projectors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

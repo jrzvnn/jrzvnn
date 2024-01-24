@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 💣 [Valley of Tears in the Andes, January 1973 vs. January 2023](http://9gag.com/gag/aDYyvzO)
+ - 😝 [Typical day in russia](http://9gag.com/gag/a1P9gV8)
  - 😝 [That history lesson in junior high was an eye opening experience to put it mildly.](http://9gag.com/gag/aqe0wMP)
- - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
+ - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 👉 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)<!-- MEMES:END -->
 
 ---
 

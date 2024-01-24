@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring steps back from sharing video with police — mostly](https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant)
  - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)
  - [Microsoft is now a $3 trillion company](https://www.theverge.com/2024/1/24/24049285/microsoft-3-trillion-dollar-market-valuation-milestone)
- - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)
- - [AI and crypto mining are driving up data centers’ energy use](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea)
- - [Daily deals Jan. 24: MacBook Air $749, Microsoft Windows 11 Pro $24.97, LG 45-inch monitor $549, more](https://appleinsider.com/articles/24/01/24/daily-deals-jan-24-macbook-air-749-microsoft-windows-11-pro-2497-lg-45-inch-monitor-549-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Staten Island, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)
+ - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

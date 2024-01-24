@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
  - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 💣 [This is a good one](http://9gag.com/gag/aoKXoL2)
+ - 😝 [This is a good one](http://9gag.com/gag/aoKXoL2)
+ - 💣 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
  - 😝 [He\u2019s so proud](http://9gag.com/gag/aA0j7gp)
  - 👉 [BOOM](http://9gag.com/gag/aA0j5Y0)<!-- MEMES:END -->
 

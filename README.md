@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
- - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 👉 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)<!-- MEMES:END -->
+ - 😝 [Form is important when lifting weights](http://9gag.com/gag/amA3Q4d)
+ - 😝 [The Fight That Led To The &#39;Woman Yelling At A Cat&#39; Meme](http://9gag.com/gag/a8qZQnV)
+ - 💣 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 😝 [Even in 2018 this was a ridiculous thing to say](http://9gag.com/gag/aqe0pDY)
+ - 👉 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)<!-- MEMES:END -->
 
 ---
 

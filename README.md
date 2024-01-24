@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026 &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/240124/p16#a240124p16)
- - [Apple patched an exploited WebKit vulnerability in its latest updates](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
- - [A look at some long-term issues facing the gaming industry, including deep layoffs, weak revenue growth, and declining VC investments &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240124/p15#a240124p15)
- - [Palworld is getting raid bosses, PvP, and crossplay support in the future](https://www.theverge.com/2024/1/24/24048900/palworld-raid-bosses-pvp-crossplay-xbox-support-updates)
- - [Ahead of the EU&#39;s DMA, Spotify shares iOS app mockups with full in-app payments, rolling out in part on March 7; Apple has not yet shared details of DMA changes &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/240124/p14#a240124p14)<!-- TECH:END -->
+ - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
+ - [AMD’s new frame generation technology can boost FPS on most PC games](https://www.theverge.com/2024/1/24/24048904/amd-fluid-motion-frames-frame-geneation-directx-11-12-feature-support)
+ - [Social Media Is Getting Smaller—and More Treacherous](https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/)
+ - [A Dangerous New Home for Online Extremism](https://www.wired.com/story/a-dangerous-new-home-for-online-extremism/)
+ - [Use WhatsApp on Android? Be Prepared to Pay for Message Backups](https://www.wired.com/story/whatsapp-android-google-drive-backup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro is not the iPhone, and faces an incredibly steep uphill climb](https://appleinsider.com/articles/24/01/24/apple-vision-pro-is-not-the-iphone-and-faces-an-incredibly-steep-uphill-climb?utm_medium=rss)
  - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)
  - [The Mac turns 40 — and keeps on moving](https://www.theverge.com/24048479/apple-mac-40-anniversary)
  - [Nvidia’s RTX GPUs can now upgrade SDR content to HDR using AI](https://www.theverge.com/2024/1/24/24048892/nvidia-rtx-video-hdr-feature-ai)
- - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)<!-- TECH:END -->
+ - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

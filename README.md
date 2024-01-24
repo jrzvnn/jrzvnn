@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
  - [Google Pixel users are again suffering from a storage bug](https://www.theverge.com/2024/1/24/24048920/google-pixel-bug-internal-storage-access-crashing-apps)
  - [iOS 17.3, iPadOS 17.3 land with Stolen Device Protection &amp; more](https://appleinsider.com/articles/24/01/22/ios-173-ipados-173-land-with-stolen-device-protection?utm_medium=rss)
  - [Originality AI: 88%+ of the top US news outlets now block AI companies&#39; web crawlers; leading right-wing outlets, like Breitbart and Newsmax, mostly permit them &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240124/p19#a240124p19)
- - [OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
- - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

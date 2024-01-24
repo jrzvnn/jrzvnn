@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
  - [Web Summit CEO Katherine Maher, who was hastily appointed at the end of October 2023 to replace Paddy Cosgrave, plans to step down on March 1 to join NPR as CEO &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240124/p26#a240124p26)
  - [Apple Vision Pro and Taylor Swift have one thing in common -- bots](https://appleinsider.com/articles/24/01/24/apple-vision-pro-and-taylor-swift-have-one-thing-in-common----bots?utm_medium=rss)
  - [Amie is a beautiful, simple calendar app with really big dreams](https://www.theverge.com/2024/1/24/24048981/amie-calendar-app-ios-mac-web)
- - [Microsoft Teams now supports 3D and VR meetings](https://www.theverge.com/2024/1/24/24048895/microsoft-teams-microsoft-mesh-launch-vr-meetings-3d-immersive)
- - [Morgan Stanley sees AAPL earnings as clearing event to refocus investors](https://appleinsider.com/articles/24/01/24/morgan-stanley-sees-aapl-earnings-as-clearing-event-to-refocus-investors?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Teams now supports 3D and VR meetings](https://www.theverge.com/2024/1/24/24048895/microsoft-teams-microsoft-mesh-launch-vr-meetings-3d-immersive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

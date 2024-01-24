@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stuttgart-based Instagrid, which uses software to boost its 20kg portable batteries, raised a $95M Series C led by TVG at a $400M to $500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240124/p12#a240124p12)
+ - [Tesla’s new compact crossover is reportedly coming in 2025, but will it cost $25,000?](https://www.theverge.com/2024/1/24/24048891/tesla-june-2025-next-gen-compact-crossover-production-start-reuters)
  - [NYC-based Bilt Rewards, which converts rental payments to points, raised $200M led by General Catalyst at a $3.1B valuation, and says users spend $20B annually &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240124/p11#a240124p11)
  - [As Wikimedia Russia shuts down, a look at the Kremlin-compliant Wikipedia alternative Ruwiki, which recently went live, led by an ex-Wikimedia Russia director &lpar;Noam Cohen/Bloomberg&rpar;](http://www.techmeme.com/240124/p10#a240124p10)
- - [Unclaimed Property Day is Feb. 1. How to Check If Your State Has Your Unclaimed Property     - CNET](https://www.cnet.com/personal-finance/unclaimed-property-day-is-feb-1-how-to-check-if-your-state-has-your-unclaimed-property/#ftag=CAD590a51e)
- - [Delayed Sleep Phase Syndrome: Why Your Internal Clock Keeps You Up at Night     - CNET](https://www.cnet.com/health/sleep/delayed-sleep-phase-syndrome-why-your-internal-clock-keeps-you-up-at-night/#ftag=CAD590a51e)
- - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)<!-- TECH:END -->
+ - [Unclaimed Property Day is Feb. 1. How to Check If Your State Has Your Unclaimed Property     - CNET](https://www.cnet.com/personal-finance/unclaimed-property-day-is-feb-1-how-to-check-if-your-state-has-your-unclaimed-property/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

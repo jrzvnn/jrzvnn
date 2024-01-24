@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring Will Stop Giving Cops a Free Pass on Warrantless Video Requests](https://www.wired.com/story/ring-police-rfa-tool-shut-down/)
  - [6 Deaf Children Can Now Hear After a Single Injection](https://www.wired.com/story/deaf-children-hear-gene-therapy/)
  - [Microsoft briefly reached a $3T market cap for the first time on January 24, becoming the second company to do so after Apple, before closing at a record $2.99T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240124/p33#a240124p33)
- - [PlayStation 5 update blocks Cronus Zen cheat devices](https://www.theverge.com/2024/1/24/24049658/playstation-5-update-cronus-zen-blocked-cheats)
- - [Rivian’s R2 vehicle launch date appears to leak in town council minutes](https://www.theverge.com/2024/1/24/24049639/rivian-r2-ev-march-announcement-launch-laguna-beach)
- - [Best Robot Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring Will Stop Sharing Video with Police with Some Exceptions. Here&#39;s What It Means for You     - CNET](https://www.cnet.com/news/ring-will-stop-sharing-video-with-police-with-some-exceptions-heres-what-it-means-for-you/#ftag=CAD590a51e)
+ - [Farmers Insurance Open 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/farmers-insurance-open-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

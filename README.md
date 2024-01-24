@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
- - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
  - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 👉 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)<!-- MEMES:END -->
+ - 😝 [I have my own little idea about the matter](http://9gag.com/gag/abv7LZL)
+ - 💣 [Repost because Assahooo](http://9gag.com/gag/awZwDYD)
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 ---
 

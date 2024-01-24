@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Chinese tech manufactures flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
+ - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
  - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)
  - [A profile of Kai-Fu Lee, an AI expert who helped Microsoft and Google get established in China and whose startup 01.AI is leading the open source AI race &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240124/p8#a240124p8)
  - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook says Apple bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palworld is getting raid bosses, PvP, and crossplay support in the future](https://www.theverge.com/2024/1/24/24048900/palworld-raid-bosses-pvp-crossplay-xbox-support-updates)
+ - [Ahead of the EU&#39;s DMA, Spotify shares iOS app mockups with full in-app payments, rolling out in part on March 7; Apple has not yet shared details of DMA changes &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/240124/p14#a240124p14)
  - [Oppo and Nokia sign a patent cross-licensing deal, ending a years-long dispute, letting the Chinese smartphone maker sell in key European markets like Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p13#a240124p13)
  - [Two Nations, a Horrible Accident, and the Urgent Need to Understand the Laws of Space Right Now](https://www.wired.com/story/two-nations-horrible-accident-urgent-need-laws-of-space-lachs-moot/)
- - [Spotify plans to launch in-app purchases, if Apple gets out of the way](https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic)
- - [Stuttgart-based Instagrid, which uses software to boost its 20kg portable batteries, raised a $95M Series C led by TVG at a $400M to $500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240124/p12#a240124p12)
- - [Tesla’s new compact crossover is reportedly coming in 2025, but will it cost $25,000?](https://www.theverge.com/2024/1/24/24048891/tesla-june-2025-next-gen-compact-crossover-production-start-reuters)<!-- TECH:END -->
+ - [Spotify plans to launch in-app purchases, if Apple gets out of the way](https://www.theverge.com/2024/1/24/24048561/spotify-dma-eu-apple-app-store-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

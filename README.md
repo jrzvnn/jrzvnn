@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch changes the Prime Gaming subscription payout model to a fixed rate, expands the Partner Plus Program, and removes the $100K cap for 70/30 revenue share &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240124/p27#a240124p27)
  - [Ring steps back from sharing video with police — mostly](https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant)
  - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)
  - [Microsoft is now a $3 trillion company](https://www.theverge.com/2024/1/24/24049285/microsoft-3-trillion-dollar-market-valuation-milestone)
- - [Best Internet Providers in Staten Island, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)
- - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Staten Island, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

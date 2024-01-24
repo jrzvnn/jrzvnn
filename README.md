@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s legal fight against Pegasus spyware maker won&#39;t move to Israel](https://appleinsider.com/articles/24/01/24/apples-legal-fight-against-pegasus-spyware-maker-wont-move-to-israel?utm_medium=rss)
- - [AMD’s new frame generation technology can boost FPS on most PC games](https://www.theverge.com/2024/1/24/24048904/amd-fluid-motion-frames-frame-geneation-directx-11-12-feature-support)
- - [Social Media Is Getting Smaller—and More Treacherous](https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/)
- - [A Dangerous New Home for Online Extremism](https://www.wired.com/story/a-dangerous-new-home-for-online-extremism/)
- - [Use WhatsApp on Android? Be Prepared to Pay for Message Backups](https://www.wired.com/story/whatsapp-android-google-drive-backup/)<!-- TECH:END -->
+ - [BeReal plans to let brands and celebrities join, starting on February 6, and says the app now has 23M DAUs, up from 20M DAUs in August 2023 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240124/p18#a240124p18)
+ - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
+ - [Apple still plans to charge developers for sideloading apps in EU](https://appleinsider.com/articles/24/01/24/apple-still-plans-to-charge-developers-for-sideloading-apps-in-eu?utm_medium=rss)
+ - [Sources: Apple plans to add new fees and restrictions after allowing app downloads outside the App Store in the EU, including reviewing apps downloaded by users &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240124/p17#a240124p17)
+ - [Do SSDI Recipients Need to File a Tax Return in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-recipients-need-to-file-a-tax-return-in-2024-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

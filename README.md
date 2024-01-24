@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basic programming](http://9gag.com/gag/aQEGbnw)
- - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 😝 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
+ - 😝 [He\u2019s so proud](http://9gag.com/gag/aA0j7gp)
+ - 💣 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
+ - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
+ - 😝 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
+ - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
  - 💣 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
- - 😝 [Someone jumped in the middle of ocean in Zanzibar](http://9gag.com/gag/aqe0p37)
- - 👉 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
 
 ---
 

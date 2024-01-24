@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation 5 update blocks Cronus Zen cheat devices](https://www.theverge.com/2024/1/24/24049658/playstation-5-update-cronus-zen-blocked-cheats)
  - [Rivian’s R2 vehicle launch date appears to leak in town council minutes](https://www.theverge.com/2024/1/24/24049639/rivian-r2-ev-march-announcement-launch-laguna-beach)
- - [Filing: HPE says a group believed to be Russia-linked Midnight Blizzard exfiltrated data from &quot;a small percentage of HPE mailboxes&quot; beginning in May 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p32#a240124p32)
- - [This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
- - [Tesla’s profits improved slightly, but still down compared to last year](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)
- - [Tall Vehicle Hoods Really Are Increasing Pedestrian Deaths](https://www.wired.com/story/tall-truck-suv-hoods-pedestrian-deaths/)<!-- TECH:END -->
+ - [Best Robot Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Flip 4 Deals: Trade-In Credits and Other Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-flip-4-deals/#ftag=CAD590a51e)
+ - [Filing: HPE says a group believed to be Russia-linked Midnight Blizzard exfiltrated data from &quot;a small percentage of HPE mailboxes&quot; beginning in May 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p32#a240124p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

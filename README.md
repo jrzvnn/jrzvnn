@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy&#39;s Samsung S24 preorder deal can save you up to $870 on unlocked devices](https://appleinsider.com/articles/24/01/24/best-buys-samsung-s24-preorder-deal-can-save-you-up-to-870-on-unlocked-devices?utm_medium=rss)
+ - [Netflix Premium and Starz is $25.99 per month for Verizon customers](https://www.theverge.com/2024/1/24/24049478/verizon-netflix-premium-starz-deal-sale)
  - [Apple to get TSMC&#39;s initial 2nm capacity, says obvious report](https://appleinsider.com/articles/24/01/24/apple-to-get-tsmcs-initial-2nm-capacity-says-obvious-report?utm_medium=rss)
  - [Samsung is making DIY fixes easier for some of its TVs](https://www.theverge.com/2024/1/24/24049382/samsung-self-repair-television-foldables-projectors)
- - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)
- - [Google Pixel users say they are not able to access data stored in internal storage across all apps after installing the January 2024 Google Play system update &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240124/p30#a240124p30)
- - [Joe Biden’s big AI science project gets pledges from Microsoft, Nvidia and others](https://www.theverge.com/2024/1/24/24049467/national-science-foundation-ai-research-biden-eo)<!-- TECH:END -->
+ - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

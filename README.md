@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looking back on 40 years of Macintosh](https://www.theverge.com/24047857/macintosh-40th-anniversary-apple-imac-powerbook-macbook-studio-pro-air)
  - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)
  - [Disrupt! The Silicon Valley Elites Lining Up Behind Dean Phillips](https://www.wired.com/story/silicon-valley-dean-phillips-new-hampshire/)
  - [Twitch changes the Prime Gaming subscription payout model to a fixed rate, expands the Partner Plus Program, and removes the $100K cap for 70/30 revenue share &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240124/p27#a240124p27)
- - [Ring steps back from sharing video with police — mostly](https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant)
- - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)<!-- TECH:END -->
+ - [Ring steps back from sharing video with police — mostly](https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

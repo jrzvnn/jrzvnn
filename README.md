@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amie is a beautiful, simple calendar app with really big dreams](https://www.theverge.com/2024/1/24/24048981/amie-calendar-app-ios-mac-web)
+ - [Microsoft Teams now supports 3D and VR meetings](https://www.theverge.com/2024/1/24/24048895/microsoft-teams-microsoft-mesh-launch-vr-meetings-3d-immersive)
  - [Morgan Stanley sees AAPL earnings as clearing event to refocus investors](https://appleinsider.com/articles/24/01/24/morgan-stanley-sees-aapl-earnings-as-clearing-event-to-refocus-investors?utm_medium=rss)
  - [The US National Science Foundation partners with OpenAI, Meta, Nvidia, and others to launch NAIRR, a pilot program to increase researchers&#39; access to AI tools &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240124/p25#a240124p25)
- - [Ring plans to stop letting police request footage from users&#39; video doorbells and cameras via its tool next week; police and fire services will need a warrant &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240124/p24#a240124p24)
- - [Inside an Election Denial Facebook Group on Primary Day](https://www.wired.com/story/election-denial-facebook-group-new-hampshire/)
- - [Very impressive Apple Vision Pro launch has inspired Wedbush analysts](https://appleinsider.com/articles/24/01/24/very-impressive-apple-vision-pro-launch-has-inspired-wedbush-analysts?utm_medium=rss)<!-- TECH:END -->
+ - [Ring plans to stop letting police request footage from users&#39; video doorbells and cameras via its tool next week; police and fire services will need a warrant &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240124/p24#a240124p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

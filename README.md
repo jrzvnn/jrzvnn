@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That history lesson in junior high was an eye opening experience to put it mildly.](http://9gag.com/gag/aqe0wMP)
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 😝 [The IQ Test](http://9gag.com/gag/a9qo4VW)
- - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 😝 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 💣 [Yes pleasee](http://9gag.com/gag/a9qoGy0)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)<!-- MEMES:END -->
 
 ---
 

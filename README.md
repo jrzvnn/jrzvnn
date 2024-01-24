@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
  - 💣 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
- - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
- - 👉 [Fearless Crab](http://9gag.com/gag/aXnBGND)<!-- MEMES:END -->
+ - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 

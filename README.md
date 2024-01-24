@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fridge from 1963.](http://9gag.com/gag/aeQLEXj)
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 💣 [Egg boy](http://9gag.com/gag/a8qZO3Q)
- - 😝 [Man assaults McDonald\u2019s worker](http://9gag.com/gag/aDYy5Od)
- - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
+ - 😝 [Good job mate!](http://9gag.com/gag/aVbA6O8)
+ - 💣 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
+ - 😝 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
 
 ---
 

@@ -178,7 +178,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
  - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
  - 😝 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
- - 👉 [Egg boy](http://9gag.com/gag/a8qZO3Q)<!-- MEMES:END -->
+ - 👉 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)<!-- MEMES:END -->
 
 ---
 

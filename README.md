@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
  - [AiDash, which uses AI to search satellite images to spot fire and weather risks on power lines, raised a $50M Series C led by Lightrock &lpar;Peter Henderson/Reuters&rpar;](http://www.techmeme.com/240123/p37#a240123p37)
  - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)
  - [Best Solar Panel Installation Companies in Orlando, Florida     - CNET](https://www.cnet.com/home/energy-and-utilities/orlando-solar-panels/#ftag=CAD590a51e)
- - [First Apple Vision Pro operating system update already available](https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available?utm_medium=rss)
- - [Pixel Watch Deals: Pixel Watch and Pixel Watch 2 Savings     - CNET](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First Apple Vision Pro operating system update already available](https://appleinsider.com/articles/24/01/24/first-apple-vision-pro-operating-system-update-already-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

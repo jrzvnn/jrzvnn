@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro is not the iPhone, and faces an incredibly steep uphill climb](https://appleinsider.com/articles/24/01/24/apple-vision-pro-is-not-the-iphone-and-faces-an-incredibly-steep-uphill-climb?utm_medium=rss)
- - [The Verge’s favorite mobile phone gadgets](https://www.theverge.com/24048027/phone-accessories-case-iphone-pixel-samsung-favorite)
- - [The Mac turns 40 — and keeps on moving](https://www.theverge.com/24048479/apple-mac-40-anniversary)
- - [Nvidia’s RTX GPUs can now upgrade SDR content to HDR using AI](https://www.theverge.com/2024/1/24/24048892/nvidia-rtx-video-hdr-feature-ai)
- - [Rumored iOS 18 Siri boost will be driven by massive acquisitions over years](https://appleinsider.com/articles/24/01/24/rumored-ios-18-siri-boost-will-be-driven-by-massive-acquisitions-over-years?utm_medium=rss)<!-- TECH:END -->
+ - [EquiLend, which processes $2.4T of securities-lending transactions per month, goes down after a January 22 cyberattack and says restoration may take a few days &lpar;Donal Griffin/Bloomberg&rpar;](http://www.techmeme.com/240124/p21#a240124p21)
+ - [Look back in time at Apple&#39;s original Mac development team](https://appleinsider.com/articles/24/01/24/look-back-in-time-at-apples-original-mac-development-team?utm_medium=rss)
+ - [The UK NCSC releases an all-source intel assessment warning that ransomware attacks will increase in both volume and impact over the next two years due to AI &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240124/p20#a240124p20)
+ - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)
+ - [Score $430 off a lifetime Babbel language learning subscription this week only](https://appleinsider.com/articles/24/01/24/score-430-off-a-lifetime-babbel-language-learning-subscription-this-week-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay plans to cut ~1,000 roles, or ~9% of full-time employees, and to scale back the contracts it has within its alternate workforce over the coming months &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240123/p33#a240123p33)
+ - [Passkey support rolls out for the X iOS app](https://appleinsider.com/articles/24/01/24/passkey-support-rolls-out-for-the-x-ios-app?utm_medium=rss)
  - [Google cancels contract with an AI data firm that’s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
  - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
- - [Here’s more proof ADT is about to launch a new smart home security system](https://www.theverge.com/2024/1/23/24048187/adt-smart-home-security-system-google-nest-launch)
- - [Netflix says user engagement with games on its service tripled in 2023 and Grand Theft Auto has become its most successful launch to date &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240123/p32#a240123p32)
- - [SAP plans voluntary buyouts or job changes for 8,000 employees as part of a 2024 restructuring program but says its headcount should remain the same &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240123/p31#a240123p31)<!-- TECH:END -->
+ - [Here’s more proof ADT is about to launch a new smart home security system](https://www.theverge.com/2024/1/23/24048187/adt-smart-home-security-system-google-nest-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

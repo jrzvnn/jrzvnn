@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026 &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/240124/p16#a240124p16)
  - [Apple patched an exploited WebKit vulnerability in its latest updates](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
  - [A look at some long-term issues facing the gaming industry, including deep layoffs, weak revenue growth, and declining VC investments &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240124/p15#a240124p15)
  - [Palworld is getting raid bosses, PvP, and crossplay support in the future](https://www.theverge.com/2024/1/24/24048900/palworld-raid-bosses-pvp-crossplay-xbox-support-updates)
- - [Ahead of the EU&#39;s DMA, Spotify shares iOS app mockups with full in-app payments, rolling out in part on March 7; Apple has not yet shared details of DMA changes &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/240124/p14#a240124p14)
- - [Oppo and Nokia sign a patent cross-licensing deal, ending a years-long dispute, letting the Chinese smartphone maker sell in key European markets like Germany &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p13#a240124p13)<!-- TECH:END -->
+ - [Ahead of the EU&#39;s DMA, Spotify shares iOS app mockups with full in-app payments, rolling out in part on March 7; Apple has not yet shared details of DMA changes &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/240124/p14#a240124p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

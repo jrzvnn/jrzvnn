@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring plans to stop letting police request footage from users&#39; video doorbells and cameras via its tool next week; police and fire services will need a warrant &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240124/p24#a240124p24)
  - [Inside an Election Denial Facebook Group on Primary Day](https://www.wired.com/story/election-denial-facebook-group-new-hampshire/)
  - [Very impressive Apple Vision Pro launch has inspired Wedbush analysts](https://appleinsider.com/articles/24/01/24/very-impressive-apple-vision-pro-launch-has-inspired-wedbush-analysts?utm_medium=rss)
  - [The World’s Essential Aquifers Are in Deep Trouble](https://www.wired.com/story/the-worlds-essential-aquifers-are-in-deep-trouble/)
- - [Apple thought it dealt with Epic v. Apple — has it really?](https://www.theverge.com/24049014/apple-epic-court-ruling-developer-tax)
- - [A Massachusetts court filings shows Google reached a settlement in an AI chip patent lawsuit filed by Singular Computing, which sought $1.67B in damages &lpar;Reuters&rpar;](http://www.techmeme.com/240124/p23#a240124p23)<!-- TECH:END -->
+ - [Apple thought it dealt with Epic v. Apple — has it really?](https://www.theverge.com/24049014/apple-epic-court-ruling-developer-tax)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

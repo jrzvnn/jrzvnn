@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Form is important when lifting weights](http://9gag.com/gag/amA3Q4d)
- - 😝 [The Fight That Led To The &#39;Woman Yelling At A Cat&#39; Meme](http://9gag.com/gag/a8qZQnV)
- - 💣 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
- - 😝 [Even in 2018 this was a ridiculous thing to say](http://9gag.com/gag/aqe0pDY)
- - 👉 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
+ - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 👉 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)<!-- MEMES:END -->
 
 ---
 

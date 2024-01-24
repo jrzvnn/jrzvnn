@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
  - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
  - 💣 [The way Vader just shrugged it off](http://9gag.com/gag/a4ov0jA)
- - 😝 [Man assaults McDonald\u2019s worker](http://9gag.com/gag/aDYy5Od)
- - 👉 [Egg boy](http://9gag.com/gag/a8qZO3Q)<!-- MEMES:END -->
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
 
 ---
 

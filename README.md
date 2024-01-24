@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
  - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 💣 [I have my own little idea about the matter](http://9gag.com/gag/abv7LZL)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
  - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---

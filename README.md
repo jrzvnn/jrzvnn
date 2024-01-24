@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac on January 31](https://appleinsider.com/articles/24/01/24/death-stranding-directors-cut-hits-iphone-ipad-and-mac-on-january-31?utm_medium=rss)
  - [Klarna will now let you pay them so you can pay them less money](https://www.theverge.com/2024/1/24/24049445/klarna-plus-bnpl-consumer-debt-ipo)
  - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)
  - [Nvidia&#39;s RTX GPUs can now upgrade SDR video to HDR using AI, supported in both Microsoft Edge and Google Chrome on Windows PCs with HDR enabled &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240124/p28#a240124p28)
- - [Amazon closing down law enforcement&#39;s easy access to Ring video isn&#39;t the whole story](https://appleinsider.com/articles/24/01/24/amazon-closing-down-law-enforcements-easy-access-to-ring-video-isnt-the-whole-story?utm_medium=rss)
- - [Best Soft Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon closing down law enforcement&#39;s easy access to Ring video isn&#39;t the whole story](https://appleinsider.com/articles/24/01/24/amazon-closing-down-law-enforcements-easy-access-to-ring-video-isnt-the-whole-story?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

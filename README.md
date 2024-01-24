@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 😝 [I have my own little idea about the matter](http://9gag.com/gag/abv7LZL)
- - 💣 [Repost because Assahooo](http://9gag.com/gag/awZwDYD)
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 😝 [Well suited](http://9gag.com/gag/aPg5L3w)
+ - 😝 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
+ - 💣 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
  - 👉 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)<!-- MEMES:END -->
 
 ---

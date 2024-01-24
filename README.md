@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 💣 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 💣 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
  - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
- - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
+ - 👉 [Let them fight](http://9gag.com/gag/aVbArEw)<!-- MEMES:END -->
 
 ---
 

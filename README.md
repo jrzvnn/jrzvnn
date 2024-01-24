@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Kai-Fu Lee, an AI expert who helped Microsoft and Google get established in China and whose startup 01.AI is leading the open source AI race &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240124/p8#a240124p8)
  - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook; Apple has bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)
  - [ASML reports Q4 revenue of &amp;euro;6.67B and net profit up 9% YoY to &amp;euro;2B, both above est., orders grew 3x QoQ to &amp;euro;9B+, and expects 2024 net sales to be similar to 2023 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240124/p6#a240124p6)
  - [A look at SK Hynix&#39;s NAND flash memory chip plant in Dalian, China, which it bought from Intel for $9B in 2020 but is since in limbo because of US-China rivalry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p5#a240124p5)
- - [Berlin-based Kittl, which is developing a browser-based graphic design tool, raised a $36M Series B led by IVP, just a year after raising a $11.6M Series A &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240124/p4#a240124p4)
- - [A filing in a class action suit by 10 US artists against Midjourney and others lists 16,000 artist names whose work Midjourney had allegedly used for training &lpar;James Tapper/The Guardian&rpar;](http://www.techmeme.com/240124/p3#a240124p3)<!-- TECH:END -->
+ - [Berlin-based Kittl, which is developing a browser-based graphic design tool, raised a $36M Series B led by IVP, just a year after raising a $11.6M Series A &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240124/p4#a240124p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
  - [Tesla’s profits improved slightly, but still down compared to last year](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)
  - [Tall Vehicle Hoods Really Are Increasing Pedestrian Deaths](https://www.wired.com/story/tall-truck-suv-hoods-pedestrian-deaths/)
  - [IBM Q4: revenue up 4% YoY to $17.38B vs. $17.30B est., net income of $3.29B, up from $2.71B YoY, software up 3% YoY to $7.51B, infrastructure up 3% YoY to $4.6B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240124/p31#a240124p31)
- - [Best Buy&#39;s Samsung S24 preorder deal can save you up to $870 on unlocked devices](https://appleinsider.com/articles/24/01/24/best-buys-samsung-s24-preorder-deal-can-save-you-up-to-870-on-unlocked-devices?utm_medium=rss)
- - [Netflix Premium and Starz is $25.99 per month for Verizon customers](https://www.theverge.com/2024/1/24/24049478/verizon-netflix-premium-starz-deal-sale)<!-- TECH:END -->
+ - [Best Buy&#39;s Samsung S24 preorder deal can save you up to $870 on unlocked devices](https://appleinsider.com/articles/24/01/24/best-buys-samsung-s24-preorder-deal-can-save-you-up-to-870-on-unlocked-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

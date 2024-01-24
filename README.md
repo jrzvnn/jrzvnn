@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
- - 😝 [You cant guess the country.](http://9gag.com/gag/aGEXNA5)
- - 💣 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 😝 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 👉 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)<!-- MEMES:END -->
+ - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - 👉 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)<!-- MEMES:END -->
 
 ---
 

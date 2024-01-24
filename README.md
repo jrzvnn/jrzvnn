@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London- and Tallinn-based VC firm Plural, led by some of Europe&#39;s best known startup founders, raised a &amp;euro;400M fund to invest in early-stage &quot;deep tech&quot; startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240124/p22#a240124p22)
  - [Firefox wants to level the browser playing field with Microsoft, Google, and Apple](https://appleinsider.com/articles/24/01/24/firefox-wants-to-level-the-browser-playing-field-with-microsoft-google-and-apple?utm_medium=rss)
  - [EquiLend, which processes $2.4T of securities-lending transactions per month, goes down after a January 22 cyberattack and says restoration may take a few days &lpar;Bloomberg&rpar;](http://www.techmeme.com/240124/p21#a240124p21)
  - [Look back in time at Apple&#39;s original Mac development team](https://appleinsider.com/articles/24/01/24/look-back-in-time-at-apples-original-mac-development-team?utm_medium=rss)
- - [The UK NCSC releases an all-source intel assessment warning that ransomware attacks will increase in both volume and impact over the next two years due to AI &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240124/p20#a240124p20)
- - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)<!-- TECH:END -->
+ - [The UK NCSC releases an all-source intel assessment warning that ransomware attacks will increase in both volume and impact over the next two years due to AI &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240124/p20#a240124p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

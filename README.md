@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xianyu, Alibaba&#39;s online second-hand goods trading platform that claims to have 500M+ users, is opening its first bricks-and-mortar store in Hangzhou, China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240124/p1#a240124p1)
  - [Data shows African startups raised between $2.9B and $4.1B total in 2023, down from $4.6B to $6.5B in 2022, with Egypt, Kenya, Nigeria, and South Africa leading &lpar;TechCrunch&rpar;](http://www.techmeme.com/240123/p38#a240123p38)
  - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
  - [AiDash, which uses AI to search satellite images to spot fire and weather risks on power lines, raised a $50M Series C led by Lightrock &lpar;Peter Henderson/Reuters&rpar;](http://www.techmeme.com/240123/p37#a240123p37)
- - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)
- - [Best Solar Panel Installation Companies in Orlando, Florida     - CNET](https://www.cnet.com/home/energy-and-utilities/orlando-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Jack Ma and Joe Tsai become Alibaba&#39;s largest shareholders after buying shares worth ~$50M and ~$150M, respectively, in Q4, together eclipsing SoftBank &lpar;Zhou Xin/South China Morning Post&rpar;](http://www.techmeme.com/240123/p36#a240123p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian’s R2 vehicle launch date appears to leak in town council minutes](https://www.theverge.com/2024/1/24/24049639/rivian-r2-ev-march-announcement-launch-laguna-beach)
  - [Filing: HPE says a group believed to be Russia-linked Midnight Blizzard exfiltrated data from &quot;a small percentage of HPE mailboxes&quot; beginning in May 2023 &lpar;Tom Giles/Bloomberg&rpar;](http://www.techmeme.com/240124/p32#a240124p32)
  - [This Qi2 car mount is cheaper than a MagSafe charger and can fast-charge your iPhone 15](https://www.theverge.com/2024/1/24/24049436/esr-qi2-car-mount-15w-wireless-iphone-charging-mag-safe)
  - [Tesla’s profits improved slightly, but still down compared to last year](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)
- - [Tall Vehicle Hoods Really Are Increasing Pedestrian Deaths](https://www.wired.com/story/tall-truck-suv-hoods-pedestrian-deaths/)
- - [IBM Q4: revenue up 4% YoY to $17.38B vs. $17.30B est., net income of $3.29B, up from $2.71B YoY, software up 3% YoY to $7.51B, infrastructure up 3% YoY to $4.6B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240124/p31#a240124p31)<!-- TECH:END -->
+ - [Tall Vehicle Hoods Really Are Increasing Pedestrian Deaths](https://www.wired.com/story/tall-truck-suv-hoods-pedestrian-deaths/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

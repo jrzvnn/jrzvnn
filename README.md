@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insta360’s auto-swiveling Link webcam has fallen to its best price to date](https://www.theverge.com/2024/1/24/24048446/insta360-link-webcam-mobvoi-ticwatch-pro-5-tcl-qm8-mini-led-tv-deal-sale)
+ - [Nvidia&#39;s RTX GPUs can now upgrade SDR video to HDR using AI, supported in both Microsoft Edge and Google Chrome on Windows PCs with HDR enabled &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240124/p28#a240124p28)
  - [Amazon closing down law enforcement&#39;s easy access to Ring video isn&#39;t the whole story](https://appleinsider.com/articles/24/01/24/amazon-closing-down-law-enforcements-easy-access-to-ring-video-isnt-the-whole-story?utm_medium=rss)
  - [Looking back on 40 years of Macintosh](https://www.theverge.com/24047857/macintosh-40th-anniversary-apple-imac-powerbook-macbook-studio-pro-air)
- - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)
- - [Disrupt! The Silicon Valley Elites Lining Up Behind Dean Phillips](https://www.wired.com/story/silicon-valley-dean-phillips-new-hampshire/)
- - [Twitch changes the Prime Gaming subscription payout model to a fixed rate, expands the Partner Plus Program, and removes the $100K cap for 70/30 revenue share &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240124/p27#a240124p27)<!-- TECH:END -->
+ - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas Instruments reports Q4 revenue down 13% YoY to $4.08B, vs. $4.13B est., and FY 2023 sales down ~13% YoY, the company&#39;s biggest fall in over a decade &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240123/p35#a240123p35)
+ - [B&amp;H Photo slashes up to $1,200 off MacBooks &amp; iMacs this week](https://appleinsider.com/articles/24/01/24/bh-photo-slashes-up-to-1200-off-macbooks-imacs-this-week?utm_medium=rss)
+ - [Nintendo has set the April shutdown date for 3DS and Wii U online play](https://www.theverge.com/2024/1/23/24048673/nintendo-3ds-wii-u-online-service-shutdown-date-time)
  - [Google unveils a new Gemini-powered chat-based tool in Google Ads to build Search ad campaigns, out in beta to all English language advertisers in the US and UK &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240123/p34#a240123p34)
- - [The X iPhone app added passwordless logins with passkeys](https://www.theverge.com/2024/1/23/24048580/x-twitter-passkeys-ios-users-passwordless)
- - [Best 3D Printer Deals: Save Up to $388 on Elegoo, Creality, Anycubic and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [eBay will lay off 1,000 employees — 9 percent of the company](https://www.theverge.com/24048636/ebay-layoffs-1000-employees-january-2024)
- - [eBay plans to cut ~1,000 roles, or ~9% of full-time employees, and to scale back the contracts it has within its alternate workforce over the coming months &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240123/p33#a240123p33)<!-- TECH:END -->
+ - [The X iPhone app added passwordless logins with passkeys](https://www.theverge.com/2024/1/23/24048580/x-twitter-passkeys-ios-users-passwordless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

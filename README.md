@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal plans to let brands and celebrities join, starting on February 6, and says the app now has 23M DAUs, up from 20M DAUs in August 2023 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240124/p18#a240124p18)
- - [Apple Car is delayed -- again](https://appleinsider.com/articles/24/01/23/apple-car-is-delayed-once-again-now-expected-to-arrive-by-2028-at-the-earliest?utm_medium=rss)
- - [Apple still plans to charge developers for sideloading apps in EU](https://appleinsider.com/articles/24/01/24/apple-still-plans-to-charge-developers-for-sideloading-apps-in-eu?utm_medium=rss)
- - [Sources: Apple plans to add new fees and restrictions after allowing app downloads outside the App Store in the EU, including reviewing apps downloaded by users &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240124/p17#a240124p17)
- - [Do SSDI Recipients Need to File a Tax Return in 2024? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-recipients-need-to-file-a-tax-return-in-2024-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+ - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)
+ - [Update your Apple devices, because the latest releases patched a major security flaw](https://appleinsider.com/articles/24/01/24/apple-patched-an-exploited-webkit-vulnerability-in-its-latest-updates?utm_medium=rss)
+ - [Apple asks UK to dismiss $1 billion App Store class action suit](https://appleinsider.com/articles/24/01/24/apple-asks-uk-to-dismiss-1-billion-app-store-class-action-suit?utm_medium=rss)
+ - [BeReal plans to let brands and celebrities join, starting on February 6, and says the app now has 23M DAUs, up from 20M DAUs in August 2023 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240124/p18#a240124p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [Fearless Crab](http://9gag.com/gag/aXnBGND)
- - 💣 [The Naked Philanthropist raised over 700k](http://9gag.com/gag/aDYyrRw)
- - 😝 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
- - 👉 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)<!-- MEMES:END -->
+ - 😝 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
+ - 😝 [BOOM](http://9gag.com/gag/aA0j5Y0)
+ - 💣 [They didn&#39;t want to be famous.](http://9gag.com/gag/a3Zmgq8)
+ - 😝 [This is a good one](http://9gag.com/gag/aoKXoL2)
+ - 👉 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)<!-- MEMES:END -->
 
 ---
 

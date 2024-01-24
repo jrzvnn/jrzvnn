@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As Chinese tech manufacturers flock to Vietnam to set up new factories, Bac Ninh, an industrial hub northeast of Hanoi, has become a center for Chinese culture &lpar;Rest of World&rpar;](http://www.techmeme.com/240124/p9#a240124p9)
- - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)
- - [A profile of Kai-Fu Lee, an AI expert who helped Microsoft and Google get established in China and whose startup 01.AI is leading the open source AI race &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240124/p8#a240124p8)
- - [Apple&#39;s acquisitions, job postings, and academic papers shed light on the company&#39;s AI plans; PitchBook says Apple bought 21 AI startups since the start of 2017 &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240124/p7#a240124p7)
- - [ASML reports Q4 revenue of &amp;euro;6.67B and net profit up 9% YoY to &amp;euro;2B, both above est., orders grew 3x QoQ to &amp;euro;9B+, and expects 2024 net sales to be similar to 2023 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240124/p6#a240124p6)<!-- TECH:END -->
+ - [Verizon Customers Could Get up to $100 Each in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-a-100-settlement-payout-how-to-claim-the-class-action-money/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: How Much Is It and Who Qualifies?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-how-much-is-it-and-who-qualifies/#ftag=CAD590a51e)
+ - [Tax Season 2024: Here&#39;s What to Know About Your Form W-2     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-what-to-know-about-your-form-w-2/#ftag=CAD590a51e)
+ - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

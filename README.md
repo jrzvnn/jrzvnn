@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
  - [Web Summit CEO Katherine Maher, who was hastily appointed at the end of October 2023 to replace Paddy Cosgrave, plans to step down on March 1 to join NPR as CEO &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240124/p26#a240124p26)
  - [Apple Vision Pro and Taylor Swift have one thing in common -- bots](https://appleinsider.com/articles/24/01/24/apple-vision-pro-and-taylor-swift-have-one-thing-in-common----bots?utm_medium=rss)
- - [Amie is a beautiful, simple calendar app with really big dreams](https://www.theverge.com/2024/1/24/24048981/amie-calendar-app-ios-mac-web)
- - [Microsoft Teams now supports 3D and VR meetings](https://www.theverge.com/2024/1/24/24048895/microsoft-teams-microsoft-mesh-launch-vr-meetings-3d-immersive)<!-- TECH:END -->
+ - [Fulham vs. Liverpool Livestream: How to Watch Carabao Cup Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-liverpool-livestream-how-to-watch-carabao-cup-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Sleeping Too Much or Too Little? Here&#39;s How Depression Can Influence Your Sleep     - CNET](https://www.cnet.com/health/sleep/sleeping-too-much-or-too-little-heres-how-depression-can-influence-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
  - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
  - 💣 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
- - 😝 [Bro let the intrusive thoughts win](http://9gag.com/gag/aYV95AN)
- - 👉 [Egg boy](http://9gag.com/gag/a8qZO3Q)<!-- MEMES:END -->
+ - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---
 

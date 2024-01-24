@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 💣 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
- - 😝 [Egg boy](http://9gag.com/gag/a8qZO3Q)
+ - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
+ - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 😝 [Even in 2018 this was a ridiculous thing to say](http://9gag.com/gag/aqe0pDY)
  - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---

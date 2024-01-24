@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Basic programming](http://9gag.com/gag/aQEGbnw)
  - 😝 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
- - 💣 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)<!-- MEMES:END -->
+ - 💣 [Good idea, yes or no??](http://9gag.com/gag/aVbA4EK)
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
+ - 👉 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)<!-- MEMES:END -->
 
 ---
 

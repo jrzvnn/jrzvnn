@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Jan. 24: MacBook Air $749, Microsoft Windows 11 Pro $24.97, LG 45-inch monitor $549, more](https://appleinsider.com/articles/24/01/24/daily-deals-jan-24-macbook-air-749-microsoft-windows-11-pro-2497-lg-45-inch-monitor-549-more?utm_medium=rss)
- - [Jon Stewart’s coming back to The Daily Show, but only on Mondays](https://www.theverge.com/24049212/on-stewart-daily-show-return-date)
- - [Forty years of the Mac, the computer for the rest of us](https://appleinsider.com/articles/24/01/24/forty-years-of-the-mac-the-computer-for-the-rest-of-us?utm_medium=rss)
- - [Web Summit CEO Katherine Maher, who was hastily appointed at the end of October 2023 to replace Paddy Cosgrave, plans to step down on March 1 to join NPR as CEO &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240124/p26#a240124p26)
- - [Apple Vision Pro and Taylor Swift have one thing in common -- bots](https://appleinsider.com/articles/24/01/24/apple-vision-pro-and-taylor-swift-have-one-thing-in-common----bots?utm_medium=rss)<!-- TECH:END -->
+ - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)
+ - [Microsoft is now a $3 trillion company](https://www.theverge.com/2024/1/24/24049285/microsoft-3-trillion-dollar-market-valuation-milestone)
+ - [Grab a Windows 11 Pro Lifetime License for just $24.97](https://appleinsider.com/articles/23/11/07/grab-a-windows-11-pro-lifetime-license-for-just-2497?utm_medium=rss)
+ - [AI and crypto mining are driving up data centers’ energy use](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea)
+ - [Daily deals Jan. 24: MacBook Air $749, Microsoft Windows 11 Pro $24.97, LG 45-inch monitor $549, more](https://appleinsider.com/articles/24/01/24/daily-deals-jan-24-macbook-air-749-microsoft-windows-11-pro-2497-lg-45-inch-monitor-549-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
  - 😝 [Centipede mother hugs its babies. This both warm my heart and my flamethrower](http://9gag.com/gag/aPg5L4n)
- - 💣 [The Indian tutorial we never thought we needed.](http://9gag.com/gag/aGEXvLZ)
- - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
- - 👉 [Someone jumped in the middle of ocean in Zanzibar](http://9gag.com/gag/aqe0p37)<!-- MEMES:END -->
+ - 😝 [What\u2019s he seeing](http://9gag.com/gag/aGEX6E0)
+ - 💣 [Fearless Crab](http://9gag.com/gag/aXnBGND)
+ - 😝 [1st guy: `I&#39;ve poured blood, sweat and tears training for this`. 2nd guy: `but will you die for it?`](http://9gag.com/gag/aREnWVA)
+ - 👉 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)<!-- MEMES:END -->
 
 ---
 

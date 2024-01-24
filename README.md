@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fight monsters with the help of your past lives in Lysfanga: The Time Shift Warrior](https://www.theverge.com/24049147/lysfanga-the-time-shift-warrior-release-date-steam)
+ - [Disrupt! The Silicon Valley Elites Lining Up Behind Dean Phillips](https://www.wired.com/story/silicon-valley-dean-phillips-new-hampshire/)
  - [Twitch changes the Prime Gaming subscription payout model to a fixed rate, expands the Partner Plus Program, and removes the $100K cap for 70/30 revenue share &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240124/p27#a240124p27)
  - [Ring steps back from sharing video with police — mostly](https://www.theverge.com/2024/1/24/24049165/ring-police-neighbors-app-clips-search-warrant)
- - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)
- - [Microsoft is now a $3 trillion company](https://www.theverge.com/2024/1/24/24049285/microsoft-3-trillion-dollar-market-valuation-milestone)
- - [Best Internet Providers in Staten Island, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Streamers who rely on Twitch Prime Gaming subs are getting a slight pay cut](https://www.theverge.com/2024/1/24/24048458/twitch-prime-subscription-change-partner-plus-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

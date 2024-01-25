@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
  - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 💣 [She isn&#39;t ugly, she isn&#39;t black. What the hell is Netflix up to? Is she even part of LGHDTV people?](http://9gag.com/gag/aWGzeK3)
  - 😝 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
+ - 👉 [4 months of hell are over](http://9gag.com/gag/amA3Qvd)<!-- MEMES:END -->
 
 ---
 

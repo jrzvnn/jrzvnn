@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML&#39;s stock rises 10%+ to reach a $350B+ market cap on the AI boom, becoming Europe&#39;s third most valuable company; ASML is up 19%+ in 2024 &lpar;Danilo Masoni/Reuters&rpar;](http://www.techmeme.com/240125/p26#a240125p26)
  - [The FTC launches a review of investments by Microsoft in OpenAI and by Amazon and Google in Anthropic, to assess how the deals alter the competitive landscape &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240125/p25#a240125p25)
+ - [Social Security 2024: The Maximum Amount of Money You Can Get Each Month     - CNET](https://www.cnet.com/personal-finance/social-security-2024-the-maximum-amount-of-money-you-can-get-each-month/#ftag=CAD590a51e)
  - [Axiom, a protocol that lets smart contract developers access historical data from Ethereum and then perform computations off-chain, raised a $20M Series A &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240125/p24#a240125p24)
- - [Daily deals Jan. 25: iPad 9th Gen $249, Belkin accessories coupon, AirPods $99, more](https://appleinsider.com/articles/24/01/25/daily-deals-jan-25-ipad-9th-gen-249-belkin-accessories-coupon-airpods-99-more?utm_medium=rss)
- - [Etching AI Controls Into Silicon Could Keep Doomsday at Bay](https://www.wired.com/story/fast-forward-ai-silicon-doomsday/)
- - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)<!-- TECH:END -->
+ - [Daily deals Jan. 25: iPad 9th Gen $249, Belkin accessories coupon, AirPods $99, more](https://appleinsider.com/articles/24/01/25/daily-deals-jan-25-ipad-9th-gen-249-belkin-accessories-coupon-airpods-99-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

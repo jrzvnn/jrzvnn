@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify will introduce in-app purchases on iPhone when EU law takes effect](https://appleinsider.com/articles/24/01/25/spotify-will-introduce-in-app-purchases-on-iphone-when-eu-law-takes-effect?utm_medium=rss)
- - [Indian cricket NFT startup Rario plans to close on January 29 and relaunch in March 2024, leaving users with losses; Rario raised a $120M Series A in April 2022 &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/240125/p9#a240125p9)
- - [Microsoft launches Mesh, its immersive 3D meeting platform in Teams, out of preview, with custom environments, games, and more; Mesh only supports Meta Quest &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240125/p8#a240125p8)
- - [Save on Tax Software and Get Your Maximum Refund With These Deals     - CNET](https://www.cnet.com/deals/save-on-tax-software-and-get-your-maximum-refund-with-these-deals/#ftag=CAD590a51e)
- - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15&#39;s Ceramic Shield survives bird attack in new ad](https://appleinsider.com/articles/24/01/25/iphone-15s-ceramic-shield-survives-bird-attack-in-new-ad?utm_medium=rss)
+ - [How a Group of Israel-Linked Hackers Has Pushed the Limits of Cyberwar](https://www.wired.com/story/predatory-sparrow-cyberattack-timeline/)
+ - [The Extreme Sport of Ice Climbing Is at Risk of Extinction](https://www.wired.com/story/ice-climbing-global-warming-switzerland-anna-torretta-dani-arnold-netflix/)
+ - [This Chatbot Screens Your Dating App Matches for You](https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/)
+ - [Some Chinese investors are using creative methods to own bitcoin and other crypto that they believe are safer than China&#39;s crumbling stock and property markets &lpar;Reuters&rpar;](http://www.techmeme.com/240125/p10#a240125p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

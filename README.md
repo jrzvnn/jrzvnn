@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)
  - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)
  - [OnePlus 12 Preorder Deals: Save Up to $800 When You Preorder the New OnePlus Flagship     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)
  - [Sources: Sam Altman has had discussions with members of the US Congress about where and how to build fabs to increase the supply of advanced chips for AI &lpar;Washington Post&rpar;](http://www.techmeme.com/240124/p37#a240124p37)
- - [Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies](https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/)
- - [SK Hynix reports Q4 operating profit of ~$259M, versus estimates of a ~$127M loss, and revenue up 47% YoY to ~$8.4B, beating even the highest analyst forecast &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240124/p36#a240124p36)<!-- TECH:END -->
+ - [Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies](https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

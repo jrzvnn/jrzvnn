@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 😝 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
- - 💣 [The IQ Test](http://9gag.com/gag/a9qo4VW)
  - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - 😝 [... and then there was three lol](http://9gag.com/gag/a7qQmAb)
+ - 💣 [Valley of Tears in the Andes, January 1973 vs. January 2023](http://9gag.com/gag/aDYyvzO)
+ - 😝 [The IQ Test](http://9gag.com/gag/a9qo4VW)
+ - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---
 

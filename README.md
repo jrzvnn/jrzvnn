@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 😝 [Dude gets 130yrs in prison](http://9gag.com/gag/a2KeeAE)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/adPEGxM)
+ - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
+ - 💣 [Ted Mosby had no chill](http://9gag.com/gag/aYV993m)
+ - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - 👉 [Pigeons](http://9gag.com/gag/agoWDKq)<!-- MEMES:END -->
 
 ---
 

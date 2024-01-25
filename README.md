@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based Spellbook, which offers an AI-powered contract drafting and review tool for lawyers, raised a $20M Series A led by Inovia Capital &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/240124/p35#a240124p35)
  - [New York City issues a public health advisory officially designating social media as an &quot;environmental toxin&quot;, blaming it for a youth mental health crisis &lpar;Sareen Habeshian/Axios&rpar;](http://www.techmeme.com/240124/p34#a240124p34)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Google’s latest Pixel feature drop adds Circle to Search, Magic Compose, and more](https://www.theverge.com/2024/1/24/24049669/google-pixel-8-pro-feature-drop-circle-to-search-update)
- - [Google’s Pixel 8 phones now come in a new mint color](https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on)
- - [Ring Will Stop Giving Cops a Free Pass on Warrantless Video Requests](https://www.wired.com/story/ring-police-rfa-tool-shut-down/)<!-- TECH:END -->
+ - [Google’s Pixel 8 phones now come in a new mint color](https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
  - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)
  - [Sources: Shein&#39;s shareholders offered to sell stock on the private market at $45B-$55B valuation in late 2023, down from Shein&#39;s ~$66B valuation in May 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p4#a240125p4)
- - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)
- - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)<!-- TECH:END -->
+ - [Australian Open 2024 Women&#39;s Semifinal: How to Watch a Dayana Yastremska vs. Qinwen Zheng Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-semifinal-how-to-watch-a-dayana-yastremska-vs-qinwen-zheng-free-tennis-livestream/#ftag=CAD590a51e)
+ - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

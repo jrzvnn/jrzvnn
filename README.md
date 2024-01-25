@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Russian customs service data: Russia imported $1B+ of advanced US and European chips between January and September 2023, including Intel, AMD, and NXP chips &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240125/p14#a240125p14)
  - [VCs put $100B+ in US defense tech startups since 2021, but convincing the Pentagon to buy from them has proven difficult; only a few had $25M+ in orders in FY23 &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240125/p13#a240125p13)
  - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
- - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

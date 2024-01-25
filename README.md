@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC launches a review of investments by Microsoft in OpenAI and by Amazon and Google in Anthropic, to assess how the deals alter the competitive landscape &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240125/p25#a240125p25)
  - [Axiom, a protocol that lets smart contract developers access historical data from Ethereum and then perform computations off-chain, raised a $20M Series A &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240125/p24#a240125p24)
  - [Daily deals Jan. 25: iPad 9th Gen $249, Belkin accessories coupon, AirPods $99, more](https://appleinsider.com/articles/24/01/25/daily-deals-jan-25-ipad-9th-gen-249-belkin-accessories-coupon-airpods-99-more?utm_medium=rss)
  - [Etching AI Controls Into Silicon Could Keep Doomsday at Bay](https://www.wired.com/story/fast-forward-ai-silicon-doomsday/)
- - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)
- - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)<!-- TECH:END -->
+ - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

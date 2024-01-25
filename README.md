@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Axiom, a protocol that lets smart contract developers access historical data from Ethereum and then perform computations off-chain, raised a $20M Series A &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240125/p24#a240125p24)
  - [Daily deals Jan. 25: iPad 9th Gen $249, Belkin accessories coupon, AirPods $99, more](https://appleinsider.com/articles/24/01/25/daily-deals-jan-25-ipad-9th-gen-249-belkin-accessories-coupon-airpods-99-more?utm_medium=rss)
  - [Etching AI Controls Into Silicon Could Keep Doomsday at Bay](https://www.wired.com/story/fast-forward-ai-silicon-doomsday/)
  - [X is flooded with AI-generated pornographic images of Taylor Swift; one post, live for 17 hours, had 45M+ views, hundreds of thousands of likes, and 24K reposts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240125/p23#a240125p23)
- - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
- - [Fubo TV launches Instant Headlines Beta, which uses AI to generate headlines from live news programs on Fox News, MSNBC, CNN, and other networks &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/240125/p22#a240125p22)<!-- TECH:END -->
+ - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

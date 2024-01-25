@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will charge EU developers to sideload, but it&#39;s not quite as bad as rumored](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
- - [Intel begins production at its Fab 9 facility in New Mexico, to package chips for its Foveros tech; Fab 9 cost $3.5B, the most expensive such facility ever &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240125/p28#a240125p28)
- - [PayPal rolls out product enhancements, including CashPass to let users earn cash back through the PayPal app and revamped Venmo business profiles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240125/p27#a240125p27)
- - [ASML&#39;s stock rises 10%+ to reach a $350B+ market cap on the AI boom, becoming Europe&#39;s third most valuable company; ASML is up 19%+ in 2024 &lpar;Danilo Masoni/Reuters&rpar;](http://www.techmeme.com/240125/p26#a240125p26)
- - [The FTC launches a review of investments by Microsoft in OpenAI and by Amazon and Google in Anthropic, to assess how the deals alter the competitive landscape &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240125/p25#a240125p25)<!-- TECH:END -->
+ - [Apple has new rules &amp; business terms for EU developers for the App Store and sideloading](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [First developer betas of iOS 17.4, iPadOS 17.4 arrive with EU App Store changes in the EU](https://appleinsider.com/articles/24/01/25/first-developer-betas-of-ios-174-ipados-174-arrive-with-eu-app-store-changes-in-the-eu?utm_medium=rss)
+ - [Apple drops first developer beta of tvOS 17.4 for testing](https://appleinsider.com/articles/24/01/25/apple-drops-first-developer-beta-of-tvos-174-for-testing?utm_medium=rss)
+ - [Apple plans to allow third-party default browsers and web engines, including Chrome, in the EU with iOS 17.4, prompting users on the first launch of Safari &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240125/p31#a240125p31)
+ - [Google’s Hugging Face deal puts ‘supercomputer’ power behind open-source AI](https://www.theverge.com/2024/1/25/24050445/google-cloud-hugging-face-ai-developer-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

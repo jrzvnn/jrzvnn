@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/adPEGxM)
- - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 💣 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 😝 [Pigeons](http://9gag.com/gag/agoWDKq)
- - 👉 [Lighterman](http://9gag.com/gag/aVbAALw)<!-- MEMES:END -->
+ - 😝 [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 

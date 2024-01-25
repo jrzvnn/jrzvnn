@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
  - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 😝 [It&#39;s totally unnecessary, but it&#39;s about giving you the worst diarrhea.](http://9gag.com/gag/a04BqDq)
+ - 💣 [At least they fill the bags all the way up](http://9gag.com/gag/armY7yy)
+ - 😝 [He really tried to push the neck of an F1 driver](http://9gag.com/gag/ap9Owz8)
  - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
 
 ---

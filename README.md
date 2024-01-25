@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
  - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
 
 ---
 

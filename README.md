@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to see little impact from EU regulations, says investing firm](https://appleinsider.com/articles/24/01/25/apple-to-see-little-impact-from-eu-regulations-says-investing-firm?utm_medium=rss)
  - [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with?utm_medium=rss)
  - [Google&#39;s web-based app development suite Project IDX adds an Android emulator, an iOS simulator, new project templates, and more &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240125/p47#a240125p47)
  - [Apple Podcasts offers transcripts for all shows in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-podcasts-offers-transcripts-for-all-shows-in-ios-174?utm_medium=rss)
- - [Hisense Reveals 100-Inch TV for $3,000, Just in Time for the Big Game     - CNET](https://www.cnet.com/tech/home-entertainment/hisense-reveals-100-inch-tv-for-3000-just-in-time-for-the-big-game/#ftag=CAD590a51e)
- - [The Xbox Series S is down to $229](https://www.theverge.com/2024/1/25/24050774/xbox-series-s-deal-sale-dell)<!-- TECH:END -->
+ - [Hisense Reveals 100-Inch TV for $3,000, Just in Time for the Big Game     - CNET](https://www.cnet.com/tech/home-entertainment/hisense-reveals-100-inch-tv-for-3000-just-in-time-for-the-big-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Apple Vision Pro may look out strain in the user&#39;s body](https://appleinsider.com/articles/24/01/25/future-apple-vision-pro-may-look-out-strain-in-the-users-body?utm_medium=rss)
+ - [Internal memo: Microsoft plans to lay off ~1,900 staff at Activision Blizzard and Xbox, or ~8% of its Microsoft Gaming workforce, this week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240125/p16#a240125p16)
+ - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
  - [Google announces a new mint color for the Pixel 8 series, plans to bring Circle to Search to Pixel 8 and 8 Pro, improves the built-in thermometer, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240125/p15#a240125p15)
- - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
- - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)
- - [iPhone dominant in contracting Chinese smartphone market](https://appleinsider.com/articles/24/01/25/iphone-dominant-in-contracting-chinese-smartphone-market?utm_medium=rss)
- - [Russian customs service data: Russia imported $1B+ of advanced US and European chips between January and September 2023, including Intel, AMD, and NXP chips &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240125/p14#a240125p14)<!-- TECH:END -->
+ - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

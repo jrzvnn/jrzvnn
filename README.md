@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mississippi](http://9gag.com/gag/a4ovOBp)
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 😝 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
+ - 💣 [The IQ Test](http://9gag.com/gag/a9qo4VW)
  - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 💣 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 ---
 

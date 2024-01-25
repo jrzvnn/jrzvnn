@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blizzard cancels survival game following layoffs](https://www.theverge.com/2024/1/25/24050297/blizzard-survival-game-cancelled-layoffs)
  - [Future Apple Vision Pro may look out strain in the user&#39;s body](https://appleinsider.com/articles/24/01/25/future-apple-vision-pro-may-look-out-strain-in-the-users-body?utm_medium=rss)
+ - [Google Research details Lumiere, an AI video tool that uses unique architecture to create videos in one process, instead of by stitching together smaller parts &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240125/p17#a240125p17)
  - [Internal memo: Microsoft plans to lay off ~1,900 staff at Activision Blizzard and Xbox, or ~8% of its Microsoft Gaming workforce, this week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240125/p16#a240125p16)
- - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
- - [Google announces a new mint color for the Pixel 8 series, plans to bring Circle to Search to Pixel 8 and 8 Pro, improves the built-in thermometer, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240125/p15#a240125p15)
- - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)<!-- TECH:END -->
+ - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

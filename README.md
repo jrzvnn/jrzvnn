@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
  - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
  - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
+ - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Cruise report finds its top executives&#39; adversarial approach toward regulators led to a cascade of events that ended with a suspension of its autonomous fleet &lpar;New York Times&rpar;](http://www.techmeme.com/240125/p43#a240125p43)
  - [The US plans to sell about $117M worth of Bitcoin seized from Ryan Farace, a convicted drug trafficker who operated on the Silk Road dark web marketplace &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240125/p42#a240125p42)
  - [Filing: 23andMe says hackers started breaking into users&#39; accounts in April 2023 and continued through September; 23andMe became aware of the breach in October &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240125/p41#a240125p41)
  - [The Pokémon Company says it will ‘investigate’ Palworld](https://www.theverge.com/2024/1/25/24050320/pokemon-palworld-investigation-copyright-plagiarism)
- - [Robot Car Crash Investigation Concludes GM’s Cruise Didn’t Disclose Key Information](https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/)
- - [Epic&#39;s Tim Sweeney is mad about Apple&#39;s EU App Store concessions](https://appleinsider.com/articles/24/01/25/epics-tim-sweeney-is-mad-about-apples-eu-app-store-concessions?utm_medium=rss)<!-- TECH:END -->
+ - [Robot Car Crash Investigation Concludes GM’s Cruise Didn’t Disclose Key Information](https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

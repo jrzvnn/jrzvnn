@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM&#39;s stock closes up 9.49%, at its highest level since June 2013, adding ~$20B to its market cap and up nearly 20% year-to-date, on strong AI services demand &lpar;Chibuike Oguh/Reuters&rpar;](http://www.techmeme.com/240125/p45#a240125p45)
+ - [Intel reports Q4 revenue up 10% YoY to $15.4B vs. $15.15B est., Data Center and AI down 10% YoY to $4B, and forecasts Q1 revenue below estimates; INTC drops 5%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240125/p44#a240125p44)
+ - [Cruise wasn’t hiding the pedestrian-dragging video from regulators — it just had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
  - [Browsers like Chrome and Firefox can abandon WebKit in EU with iOS 17.4](https://appleinsider.com/articles/24/01/25/browsers-like-chrome-and-firefox-can-abandon-webkit-in-eu-with-ios-174?utm_medium=rss)
- - [Epic intends to launch its game store — and Fortnite — on iOS](https://www.theverge.com/2024/1/25/24050800/epic-games-store-fortnite-apple-ios-launch-eu-dma)
- - [Pokémon with guns? All the latest on viral gaming hit Palworld](https://www.theverge.com/24048972/palworld-news-trailers)
- - [Apple is enhancing reports about what it knows about EU users in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-is-enhancing-reports-about-what-it-knows-about-eu-users-in-ios-174?utm_medium=rss)
- - [A Cruise report finds its top executives&#39; adversarial approach toward regulators led to a cascade of events that ended with a suspension of its autonomous fleet &lpar;New York Times&rpar;](http://www.techmeme.com/240125/p43#a240125p43)<!-- TECH:END -->
+ - [Epic intends to launch its game store — and Fortnite — on iOS](https://www.theverge.com/2024/1/25/24050800/epic-games-store-fortnite-apple-ios-launch-eu-dma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
  - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---

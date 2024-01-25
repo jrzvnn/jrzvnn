@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Texas is ignoring the Supreme Court and installing more barbed wire in Eagle Pass.](http://9gag.com/gag/a2Ke6ED)
- - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
- - 💣 [Yes pleasee](http://9gag.com/gag/a9qoGy0)
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)<!-- MEMES:END -->
+ - 😝 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
+ - 😝 [Random title](http://9gag.com/gag/awZw2yr)
+ - 💣 [The IQ Test](http://9gag.com/gag/a9qo4VW)
+ - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 👉 [True love](http://9gag.com/gag/aWGzAGZ)<!-- MEMES:END -->
 
 ---
 

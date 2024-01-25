@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring Will Stop Giving Cops a Free Pass on Warrantless Video Requests](https://www.wired.com/story/ring-police-rfa-tool-shut-down/)
- - [6 Deaf Children Can Now Hear After a Single Injection](https://www.wired.com/story/deaf-children-hear-gene-therapy/)
- - [Microsoft briefly reached a $3T market cap for the first time on January 24, becoming the second company to do so after Apple, before closing at a record $2.99T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240124/p33#a240124p33)
- - [PlayStation 5 update blocks Cronus Zen cheat devices](https://www.theverge.com/2024/1/24/24049658/playstation-5-update-cronus-zen-blocked-cheats)
- - [Rivian’s R2 vehicle launch date appears to leak in town council minutes](https://www.theverge.com/2024/1/24/24049639/rivian-r2-ev-march-announcement-launch-laguna-beach)<!-- TECH:END -->
+ - [New York City issues a public health advisory officially designating social media as an &quot;environmental toxin&quot;, blaming it for a youth mental health crisis &lpar;Sareen Habeshian/Axios&rpar;](http://www.techmeme.com/240124/p34#a240124p34)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Google’s latest Pixel feature drop adds Circle to Search, Magic Compose, and more](https://www.theverge.com/2024/1/24/24049669/google-pixel-8-pro-feature-drop-circle-to-search-update)
+ - [Google’s Pixel 8 phones now come in a new mint color](https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on)
+ - [Ring Will Stop Giving Cops a Free Pass on Warrantless Video Requests](https://www.wired.com/story/ring-police-rfa-tool-shut-down/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

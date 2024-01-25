@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save on Tax Software and Get Your Maximum Refund With These Deals     - CNET](https://www.cnet.com/deals/save-on-tax-software-and-get-your-maximum-refund-with-these-deals/#ftag=CAD590a51e)
+ - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)
  - [How the rising prices of streaming services are driving a new era of US pirate sites, bringing ~$2B per year in ads and subscriptions with a 90% profit margin &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/240125/p7#a240125p7)
  - [Tesla warns of sales growth slowdown as it prepares for next-gen launch in late 2025](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)
- - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)
- - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
- - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)<!-- TECH:END -->
+ - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

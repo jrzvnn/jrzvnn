@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says anyone looking to develop an alternative app marketplace need to submit a &amp;euro;1M &quot;letter of credit&quot; to &quot;guarantee support for developers and customers&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240125/p36#a240125p36)
+ - [Apple details how it&#39;ll &quot;protect and inform&quot; EU users, including with in-app disclosure sheets; features like Family Sharing won&#39;t be available when sideloading &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/240125/p35#a240125p35)
  - [Apple has new App Store rules, business terms, and sideloading conditions for EU developers](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
  - [Apple will allow apps to access and use the iPhone&#39;s NFC chip in the EU, letting third-party payment services and banks offer their own tap-to-pay options &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p34#a240125p34)
- - [The most powerful Ryzen Zen 3 processor receives its biggest discount yet](https://www.theverge.com/2024/1/25/24050290/amd-ryzen-9-5950x-logitech-mx-master-3s-apple-magic-keyboard-bose-quiet-comfort-ii-deals-sales)
- - [Game streaming apps in iOS 17.4 &amp; iPadOS 17.4 will be freed from approval shackles](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
- - [Apple won&#39;t offer its App Store updates &quot;outside of the EU because this is not the safest system for our users&quot; and highlights &quot;new threats the DMA introduces&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240125/p33#a240125p33)<!-- TECH:END -->
+ - [The most powerful Ryzen Zen 3 processor receives its biggest discount yet](https://www.theverge.com/2024/1/25/24050290/amd-ryzen-9-5950x-logitech-mx-master-3s-apple-magic-keyboard-bose-quiet-comfort-ii-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

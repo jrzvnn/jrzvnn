@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
+ - [Fubo TV launches Instant Headlines Beta, which uses AI to generate headlines from live news programs on Fox News, MSNBC, CNN, and other networks &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/240125/p22#a240125p22)
+ - [I love my GPT, but I can’t find a use for anybody else’s](https://www.theverge.com/24049623/chatgpt-openai-custom-gpt-store-assistants)
  - [Apple takes top spot as China stems its smartphone sales decline](https://appleinsider.com/articles/24/01/25/apple-takes-top-spot-as-china-stems-its-smartphone-sales-decline?utm_medium=rss)
- - [Anomalo, which uses AI to solve data-quality problems in large datasets, raised a $33M Series B led by SignalFire, bringing its total funding to $72M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240125/p21#a240125p21)
- - [Ad firms are cheating App Tracking Transparency to spy on iPhone users](https://appleinsider.com/articles/24/01/25/ad-firms-are-cheating-app-tracking-transparency-to-spy-on-iphone-users?utm_medium=rss)
- - [Here&#39;s Who the Online MAGA World Wants as Trump&#39;s VP](https://www.wired.com/story/maga-trump-vice-president/)
- - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anomalo, which uses AI to solve data-quality problems in large datasets, raised a $33M Series B led by SignalFire, bringing its total funding to $72M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240125/p21#a240125p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

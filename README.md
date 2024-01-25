@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are Kenough](http://9gag.com/gag/aVbAyYw)
+ - 😝 [Who have been there? I have.](http://9gag.com/gag/aL1xZMv)
  - 😝 [Hehe](http://9gag.com/gag/adPEGxM)
- - 💣 [Who have been there? I have.](http://9gag.com/gag/aL1xZMv)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [Get a duck!](http://9gag.com/gag/amA3e4j)<!-- MEMES:END -->
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [Get a duck!](http://9gag.com/gag/amA3e4j)
+ - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
 
 ---
 

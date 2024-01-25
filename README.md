@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces lower GPT-3.5 Turbo prices, a GPT-4 Turbo preview model to reduce cases of &quot;laziness&quot;, a new generation of embedding models, and more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240125/p40#a240125p40)
  - [App Store changes coming in iOS 17.4 to the EU don&#39;t blow the walls off of the garden](https://appleinsider.com/articles/24/01/25/app-store-changes-coming-in-ios-174-to-the-eu-dont-blow-the-walls-off-of-the-garden?utm_medium=rss)
  - [FTC investigating Microsoft, Amazon, and Google investments into OpenAI and Anthropic](https://www.theverge.com/2024/1/25/24050693/ftc-investigating-microsoft-amazon-google-investments-openai-anthropic)
  - [Apple announces a reduced commission structure for apps in EU, including a commission of 17%, plus 3% if the app uses Apple&#39;s IAP, and 10% for small developers &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240125/p39#a240125p39)
- - [Epic Games CEO Tim Sweeney says Apple&#39;s new &quot;anticompetitive scheme rife with new junk fees&quot; is illegal under EU&#39;s DMA and an example of &quot;malicious compliance&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240125/p38#a240125p38)
- - [Epic&#39;s Tim Sweeney is mad about Apple&#39;s EU App Store concessions](https://appleinsider.com/articles/24/01/25/epics-tim-sweeney-is-mad-about-apples-eu-app-store-concessions?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Games CEO Tim Sweeney says Apple&#39;s new &quot;anticompetitive scheme rife with new junk fees&quot; is illegal under EU&#39;s DMA and an example of &quot;malicious compliance&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240125/p38#a240125p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

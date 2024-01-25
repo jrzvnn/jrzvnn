@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has new rules &amp; business terms for EU developers for the App Store and sideloading](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [Apple has new App Store rules, business terms, and sideloading conditions for EU developers](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [Apple will allow apps to access and use the iPhone&#39;s NFC chip in the EU, letting third-party payment services and banks offer their own tap-to-pay options &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p34#a240125p34)
+ - [The most powerful Ryzen Zen 3 processor receives its biggest discount yet](https://www.theverge.com/2024/1/25/24050290/amd-ryzen-9-5950x-logitech-mx-master-3s-apple-magic-keyboard-bose-quiet-comfort-ii-deals-sales)
  - [Game streaming apps in iOS 17.4 &amp; iPadOS 17.4 will be freed from approval shackles](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
- - [Apple won&#39;t offer its App Store updates &quot;outside of the EU because this is not the safest system for our users&quot; and highlights &quot;new threats the DMA introduces&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240125/p33#a240125p33)
- - [Apple opening up Apple Pay NFC hardware to EU financial and banking app developers](https://appleinsider.com/articles/24/01/25/apple-opening-up-apple-pay-nfc-hardware-to-eu-financial-and-banking-app-developers?utm_medium=rss)
- - [Apple plans to &quot;notarize&quot; iOS apps distributed via third-party marketplaces and the apps will need to meet basic requirements, like getting scanned for malware &lpar;The Verge&rpar;](http://www.techmeme.com/240125/p32#a240125p32)<!-- TECH:END -->
+ - [Apple won&#39;t offer its App Store updates &quot;outside of the EU because this is not the safest system for our users&quot; and highlights &quot;new threats the DMA introduces&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240125/p33#a240125p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

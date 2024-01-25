@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games CEO Tim Sweeney says Apple&#39;s new &quot;anticompetitive scheme rife with new junk fees&quot; is illegal under EU&#39;s DMA and an example of &quot;malicious compliance&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240125/p38#a240125p38)
  - [Epic&#39;s Tim Sweeney is mad about Apple&#39;s EU App Store concessions](https://appleinsider.com/articles/24/01/25/epics-tim-sweeney-is-mad-about-apples-eu-app-store-concessions?utm_medium=rss)
  - [Study: kids aged 4 to 18 globally spent an average of 112 minutes daily on TikTok in 2023, up from 107 minutes YoY and 60% more than YouTube; 20% tried ChatGPT &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240125/p37#a240125p37)
  - [Apple says anyone looking to develop an alternative app marketplace need to submit a &amp;euro;1M &quot;letter of credit&quot; to &quot;guarantee support for developers and customers&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240125/p36#a240125p36)
- - [Apple details how it&#39;ll &quot;protect and inform&quot; EU users, including with in-app disclosure sheets; features like Family Sharing won&#39;t be available when sideloading &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/240125/p35#a240125p35)
- - [Apple has new App Store rules, business terms, and sideloading conditions for EU developers](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)<!-- TECH:END -->
+ - [Apple details how it&#39;ll &quot;protect and inform&quot; EU users, including with in-app disclosure sheets; features like Family Sharing won&#39;t be available when sideloading &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/240125/p35#a240125p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

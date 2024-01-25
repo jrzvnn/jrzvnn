@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify will introduce in-app purchases on iPhone when EU law takes effect](https://appleinsider.com/articles/24/01/25/spotify-will-introduce-in-app-purchases-on-iphone-when-eu-law-takes-effect?utm_medium=rss)
+ - [Indian cricket NFT startup Rario plans to close on January 29 and relaunch in March 2024, leaving users with losses; Rario raised a $120M Series A in April 2022 &lpar;Apoorva Mittal/The Economic Times&rpar;](http://www.techmeme.com/240125/p9#a240125p9)
  - [Microsoft launches Mesh, its immersive 3D meeting platform in Teams, out of preview, with custom environments, games, and more; Mesh only supports Meta Quest &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240125/p8#a240125p8)
  - [Save on Tax Software and Get Your Maximum Refund With These Deals     - CNET](https://www.cnet.com/deals/save-on-tax-software-and-get-your-maximum-refund-with-these-deals/#ftag=CAD590a51e)
- - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)
- - [How the rising prices of streaming services are driving a new era of US pirate sites, bringing ~$2B per year in ads and subscriptions with a 90% profit margin &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/240125/p7#a240125p7)
- - [Tesla warns of sales growth slowdown as it prepares for next-gen launch in late 2025](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)<!-- TECH:END -->
+ - [Grab a Smartravel E-Bike and Save Hundreds With Our Exclusive Code     - CNET](https://www.cnet.com/roadshow/news/grab-a-smartravel-e-bike-and-save-hundreds-with-our-exclusive-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

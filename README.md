@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s web-based app development suite Project IDX adds an Android emulator, an iOS simulator, new project templates, and more &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240125/p47#a240125p47)
  - [Apple Podcasts offers transcripts for all shows in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-podcasts-offers-transcripts-for-all-shows-in-ios-174?utm_medium=rss)
+ - [Hisense Reveals 100-Inch TV for $3,000, Just in Time for the Big Game     - CNET](https://www.cnet.com/tech/home-entertainment/hisense-reveals-100-inch-tv-for-3000-just-in-time-for-the-big-game/#ftag=CAD590a51e)
  - [The Xbox Series S is down to $229](https://www.theverge.com/2024/1/25/24050774/xbox-series-s-deal-sale-dell)
- - [Get an M3 Max MacBook Pro 16-inch with 36GB RAM, 1TB SSD for $3,249](https://appleinsider.com/articles/24/01/25/get-an-m3-max-macbook-pro-16-inch-with-36gb-ram-1tb-ssd-for-3249?utm_medium=rss)
- - [OpenAI cures GPT-4 ‘laziness’ with new updates](https://www.theverge.com/2024/1/25/24050829/openai-gpt-4-turbo-lazy-ai-model)
- - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)<!-- TECH:END -->
+ - [Get an M3 Max MacBook Pro 16-inch with 36GB RAM, 1TB SSD for $3,249](https://appleinsider.com/articles/24/01/25/get-an-m3-max-macbook-pro-16-inch-with-36gb-ram-1tb-ssd-for-3249?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

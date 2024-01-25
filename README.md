@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 💣 [Dude gets 130yrs in prison](http://9gag.com/gag/a2KeeAE)
  - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
+ - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
 
 ---
 

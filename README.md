@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 💣 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
  - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---

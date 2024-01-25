@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple has new rules &amp; business terms for EU developers for the App Store and sideloading](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [Apple opening up Apple Pay NFC hardware to EU financial and banking app developers](https://appleinsider.com/articles/24/01/25/apple-opening-up-apple-pay-nfc-hardware-to-eu-financial-and-banking-app-developers?utm_medium=rss)
+ - [Apple plans to &quot;notarize&quot; iOS apps distributed via third-party marketplaces and the apps will need to meet basic requirements, like getting scanned for malware &lpar;The Verge&rpar;](http://www.techmeme.com/240125/p32#a240125p32)
  - [First developer betas of iOS 17.4, iPadOS 17.4 arrive with EU App Store changes in the EU](https://appleinsider.com/articles/24/01/25/first-developer-betas-of-ios-174-ipados-174-arrive-with-eu-app-store-changes-in-the-eu?utm_medium=rss)
- - [Apple drops first developer beta of tvOS 17.4 for testing](https://appleinsider.com/articles/24/01/25/apple-drops-first-developer-beta-of-tvos-174-for-testing?utm_medium=rss)
- - [Apple plans to allow third-party default browsers and web engines, including Chrome, in the EU with iOS 17.4, prompting users on the first launch of Safari &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240125/p31#a240125p31)
- - [Google’s Hugging Face deal puts ‘supercomputer’ power behind open-source AI](https://www.theverge.com/2024/1/25/24050445/google-cloud-hugging-face-ai-developer-access)<!-- TECH:END -->
+ - [Apple drops first developer beta of tvOS 17.4 for testing](https://appleinsider.com/articles/24/01/25/apple-drops-first-developer-beta-of-tvos-174-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

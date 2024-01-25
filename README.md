@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Industrial tech company Roper plans to buy Procare Solutions, which makes cloud tools for childcare centers, for $1.75B from Warburg Pincus and TA Associates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240125/p19#a240125p19)
+ - [Google partners with Hugging Face to host the startup&#39;s open-source AI models on Google Cloud, letting Hugging Face developers access Google&#39;s computing power &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240125/p18#a240125p18)
  - [Blizzard cancels survival game following layoffs](https://www.theverge.com/2024/1/25/24050297/blizzard-survival-game-cancelled-layoffs)
  - [Future Apple Vision Pro may look out strain in the user&#39;s body](https://appleinsider.com/articles/24/01/25/future-apple-vision-pro-may-look-out-strain-in-the-users-body?utm_medium=rss)
- - [Google Research details Lumiere, an AI video tool that uses unique architecture to create videos in one process, instead of by stitching together smaller parts &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240125/p17#a240125p17)
- - [Internal memo: Microsoft plans to lay off ~1,900 staff at Activision Blizzard and Xbox, or ~8% of its Microsoft Gaming workforce, this week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240125/p16#a240125p16)
- - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)<!-- TECH:END -->
+ - [Google Research details Lumiere, an AI video tool that uses unique architecture to create videos in one process, instead of by stitching together smaller parts &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240125/p17#a240125p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

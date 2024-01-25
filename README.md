@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: despite a US-Netherlands deal to limit ASML&#39;s China exports, the Dutch let ASML export to China after lobbying, to make up for weak demand elsewhere &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p20#a240125p20)
  - [Industrial tech company Roper plans to buy Procare Solutions, which makes cloud tools for childcare centers, for $1.75B from Warburg Pincus and TA Associates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240125/p19#a240125p19)
  - [Google partners with Hugging Face to host the startup&#39;s open-source AI models on Google Cloud, letting Hugging Face developers access Google&#39;s computing power &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240125/p18#a240125p18)
  - [Blizzard cancels survival game following layoffs](https://www.theverge.com/2024/1/25/24050297/blizzard-survival-game-cancelled-layoffs)
- - [Future Apple Vision Pro may look out strain in the user&#39;s body](https://appleinsider.com/articles/24/01/25/future-apple-vision-pro-may-look-out-strain-in-the-users-body?utm_medium=rss)
- - [Google Research details Lumiere, an AI video tool that uses unique architecture to create videos in one process, instead of by stitching together smaller parts &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240125/p17#a240125p17)<!-- TECH:END -->
+ - [Future Apple Vision Pro may look out strain in the user&#39;s body](https://appleinsider.com/articles/24/01/25/future-apple-vision-pro-may-look-out-strain-in-the-users-body?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

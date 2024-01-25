@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
+ - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)
+ - [How supernovae are helping uncover the mysteries of dark energy](https://www.theverge.com/24049140/dark-energy-universe-expand-mystery-survey-supernova)
  - [Meta rolls out DM limits on Facebook and Instagram to stop users 16+ from messaging teens who don&#39;t follow them, on by default, and expands parental controls &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240125/p12#a240125p12)
- - [iPhone 15 Pro vs Samsung Galaxy S24 -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-vs-samsung-galaxy-s24----specs-price-features-compared?utm_medium=rss)
- - [Porsche’s second-ever EV will be an electric Macan SUV, starting at $80,450](https://www.theverge.com/2024/1/25/24049607/porsche-macan-ev-specs-price-photos)
- - [Sources: research group China Tech Threat, which has advocated against Lenovo, aligns with the corporate interests of Dell and Micron, both long-term funders &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240125/p11#a240125p11)
- - [Instagram and Facebook will now prevent strangers from messaging minors by default](https://www.theverge.com/2024/1/25/24050207/meta-instagram-messenger-messaging-restrictions-minors-teens-parental-settings)<!-- TECH:END -->
+ - [iPhone 15 Pro vs Samsung Galaxy S24 -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-vs-samsung-galaxy-s24----specs-price-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Shein&#39;s shareholders offered to sell stock on the private market at $45B-$55B valuation in late 2023, down from Shein&#39;s ~$66B valuation in May 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p4#a240125p4)
  - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)
  - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)
  - [XFX Qick309 RX 7600 XT GPU Review: Your 1440p Upgrade at a Decent Price     - CNET](https://www.cnet.com/tech/computing/xfx-qick309-rx-7600-xt-gpu-review-your-1440p-upgrade-at-a-decent-price/#ftag=CAD590a51e)
- - [Australian Open 2024 Women&#39;s Semifinal: How to Watch a Coco Gauff vs. Aryna Sabalenka Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-semifinal-how-to-watch-a-coco-gauff-vs-aryna-sabalenka-free-tennis-livestream/#ftag=CAD590a51e)
- - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)<!-- TECH:END -->
+ - [Australian Open 2024 Women&#39;s Semifinal: How to Watch a Coco Gauff vs. Aryna Sabalenka Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-semifinal-how-to-watch-a-coco-gauff-vs-aryna-sabalenka-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

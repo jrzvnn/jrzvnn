@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who have been there? I have.](http://9gag.com/gag/aL1xZMv)
- - 😝 [Hehe](http://9gag.com/gag/adPEGxM)
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Get a duck!](http://9gag.com/gag/amA3e4j)
- - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
+ - 😝 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
 
 ---
 

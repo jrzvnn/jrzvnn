@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
- - 👉 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)<!-- MEMES:END -->
+ - 😝 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
+ - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 💣 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
 
 ---
 

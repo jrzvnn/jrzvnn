@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 😝 [True or false ?](http://9gag.com/gag/aREnGdG)
- - 💣 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 👉 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)<!-- MEMES:END -->
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)
+ - 💣 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 👉 [Dad having fun with his kids](http://9gag.com/gag/aZDeYv0)<!-- MEMES:END -->
 
 ---
 

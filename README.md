@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Texas is ignoring the Supreme Court and installing more barbed wire in Eagle Pass.](http://9gag.com/gag/a2Ke6ED)
- - 😝 [Yes pleasee](http://9gag.com/gag/a9qoGy0)
- - 💣 [Found this gem on my phone archive](http://9gag.com/gag/aqe0oMQ)
+ - 😝 [The CCP cocksucker](http://9gag.com/gag/anz63Z0)
  - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)<!-- MEMES:END -->
+ - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
+ - 👉 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)<!-- MEMES:END -->
 
 ---
 

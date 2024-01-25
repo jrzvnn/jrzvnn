@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will charge EU developers to sideload, but it&#39;s not quite as bad as rumored](https://appleinsider.com/articles/24/01/25/apple-will-charge-eu-developers-to-sideload-but-its-not-quite-as-bad-as-rumored?utm_medium=rss)
+ - [Intel begins production at its Fab 9 facility in New Mexico, to package chips for its Foveros tech; Fab 9 cost $3.5B, the most expensive such facility ever &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240125/p28#a240125p28)
  - [PayPal rolls out product enhancements, including CashPass to let users earn cash back through the PayPal app and revamped Venmo business profiles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240125/p27#a240125p27)
  - [ASML&#39;s stock rises 10%+ to reach a $350B+ market cap on the AI boom, becoming Europe&#39;s third most valuable company; ASML is up 19%+ in 2024 &lpar;Danilo Masoni/Reuters&rpar;](http://www.techmeme.com/240125/p26#a240125p26)
- - [The FTC launches a review of investments by Microsoft in OpenAI and by Amazon and Google in Anthropic, to assess how the deals alter the competitive landscape &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240125/p25#a240125p25)
- - [Axiom, a protocol that lets smart contract developers access historical data from Ethereum and then perform computations off-chain, raised a $20M Series A &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240125/p24#a240125p24)
- - [Daily deals Jan. 25: iPad 9th Gen $249, Belkin accessories coupon, AirPods $99, more](https://appleinsider.com/articles/24/01/25/daily-deals-jan-25-ipad-9th-gen-249-belkin-accessories-coupon-airpods-99-more?utm_medium=rss)<!-- TECH:END -->
+ - [The FTC launches a review of investments by Microsoft in OpenAI and by Amazon and Google in Anthropic, to assess how the deals alter the competitive landscape &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240125/p25#a240125p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

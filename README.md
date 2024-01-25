@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 😝 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
- - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 💣 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---
 

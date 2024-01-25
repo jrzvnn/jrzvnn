@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a new mint color for the Pixel 8 series, plans to bring Circle to Search to Pixel 8 and 8 Pro, improves the built-in thermometer, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240125/p15#a240125p15)
+ - [How to Shop for a Mechanical Keyboard &lpar;2024&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
+ - [GM and Honda join forces to make hydrogen fuel cells for ‘various products’](https://www.theverge.com/2024/1/25/24049470/gm-honda-hydrogen-fuel-cells-joint-venture-michigan)
  - [iPhone dominant in contracting Chinese smartphone market](https://appleinsider.com/articles/24/01/25/iphone-dominant-in-contracting-chinese-smartphone-market?utm_medium=rss)
- - [Russian customs service data: Russia imported $1B+ of advanced US and European chips between January and September 2023, including Intel, AMD, and NXP chips &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240125/p14#a240125p14)
- - [VCs put $100B+ in US defense tech startups since 2021, but convincing the Pentagon to buy from them has proven difficult; only a few had $25M+ in orders in FY23 &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240125/p13#a240125p13)
- - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
- - [Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russian customs service data: Russia imported $1B+ of advanced US and European chips between January and September 2023, including Intel, AMD, and NXP chips &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240125/p14#a240125p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

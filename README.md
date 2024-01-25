@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts offers transcripts for all shows in iOS 17.4](https://appleinsider.com/articles/24/01/25/apple-podcasts-offers-transcripts-for-all-shows-in-ios-174?utm_medium=rss)
+ - [Hisense Reveals 100-Inch TV for $3,000, Just in Time for the Big Game     - CNET](https://www.cnet.com/tech/home-entertainment/hisense-reveals-100-inch-tv-for-3000-just-in-time-for-the-big-game/#ftag=CAD590a51e)
  - [The Xbox Series S is down to $229](https://www.theverge.com/2024/1/25/24050774/xbox-series-s-deal-sale-dell)
  - [Get an M3 Max MacBook Pro 16-inch with 36GB RAM, 1TB SSD for $3,249](https://appleinsider.com/articles/24/01/25/get-an-m3-max-macbook-pro-16-inch-with-36gb-ram-1tb-ssd-for-3249?utm_medium=rss)
- - [OpenAI cures GPT-4 ‘laziness’ with new updates](https://www.theverge.com/2024/1/25/24050829/openai-gpt-4-turbo-lazy-ai-model)
- - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
- - [Apple&#39;s Empowering Creatives program expands to two Indigenous causes](https://appleinsider.com/articles/24/01/25/apples-empowering-creatives-program-expands-to-two-indigenous-causes?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s New AI Text-to-Video Tool Is Fun to Look At. But What Next?     - CNET](https://www.cnet.com/tech/googles-new-ai-text-to-video-tool-is-fun-to-look-at-but-what-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

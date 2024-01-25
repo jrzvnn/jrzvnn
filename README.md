@@ -167,9 +167,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How the rising prices of streaming services are driving a new era of US pirate sites, bringing ~$2B per year in ads and subscriptions with a 90% profit margin &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/240125/p7#a240125p7)
  - [Tesla warns of sales growth slowdown as it prepares for next-gen launch in late 2025](https://www.theverge.com/2024/1/24/24048988/tesla-q4-earnings-revenue-margin-cybertruck)
+ - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)
  - [Franco-Italian chipmaker STMicro reports Q4 revenue down 3.2% YoY to $4.28B, meeting est., and expects Q1 revenue to fall 15% YoY to $3.6B, below $4.1B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240125/p6#a240125p6)
- - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)
- - [Sources: Shein&#39;s shareholders offered to sell stock on the private market at a $45B-$55B valuation in late 2023, down from Shein&#39;s ~$66B valuation in May 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p4#a240125p4)<!-- TECH:END -->
+ - [Arati Prabhakar, director of the White House Office of Science and Technology Policy, says the US will work with China on AI safety, despite trade tensions &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240125/p5#a240125p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

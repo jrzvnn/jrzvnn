@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ad firms are cheating App Tracking Transparency to spy on iPhone users](https://appleinsider.com/articles/24/01/25/ad-firms-are-cheating-app-tracking-transparency-to-spy-on-iphone-users?utm_medium=rss)
  - [Here&#39;s Who the Online MAGA World Wants as Trump&#39;s VP](https://www.wired.com/story/maga-trump-vice-president/)
  - [It’s important that this camera exists](https://www.theverge.com/24049650/hasselblad-907x-cfv-100c-digital-camera-hands-on)
  - [Sources: despite a US-Netherlands deal to limit ASML&#39;s China exports, the Dutch let ASML export to China after lobbying, to make up for weak demand elsewhere &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p20#a240125p20)
- - [Industrial tech company Roper plans to buy Procare Solutions, which makes cloud tools for childcare centers, for $1.75B from Warburg Pincus and TA Associates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240125/p19#a240125p19)
- - [Google partners with Hugging Face to host the startup&#39;s open-source AI models on Google Cloud, letting Hugging Face developers access Google&#39;s computing power &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240125/p18#a240125p18)<!-- TECH:END -->
+ - [Industrial tech company Roper plans to buy Procare Solutions, which makes cloud tools for childcare centers, for $1.75B from Warburg Pincus and TA Associates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240125/p19#a240125p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

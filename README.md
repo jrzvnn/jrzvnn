@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Palworld sells 8M+ copies, The Pok&amp;eacute;mon Company says it has not granted permission to &quot;another company&quot; to use its IP and plans to &quot;take appropriate measures&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240125/p3#a240125p3)
  - [Chinese smartphone shipments declined 5% YoY to 271.3M units in 2023; in a first, Apple gained the top spot with 17.3% marketshare, followed by Honor with 17.1% &lpar;IDC&rpar;](http://www.techmeme.com/240125/p2#a240125p2)
- - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)
- - [OnePlus 12 Preorder Deals: Save Up to $800 When You Preorder the New OnePlus Flagship     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)
- - [Sources: Sam Altman has had discussions with members of the US Congress about where and how to build fabs to increase the supply of advanced chips for AI &lpar;Washington Post&rpar;](http://www.techmeme.com/240124/p37#a240124p37)
- - [Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies](https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/)<!-- TECH:END -->
+ - [XFX Qick309 RX 7600 XT GPU Review: Your 1440p Upgrade at a Decent Price     - CNET](https://www.cnet.com/tech/computing/xfx-qick309-rx-7600-xt-gpu-review-your-1440p-upgrade-at-a-decent-price/#ftag=CAD590a51e)
+ - [Australian Open 2024 Women&#39;s Semifinal: How to Watch a Coco Gauff vs. Aryna Sabalenka Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-semifinal-how-to-watch-a-coco-gauff-vs-aryna-sabalenka-free-tennis-livestream/#ftag=CAD590a51e)
+ - [An investigation details a spy tool called Patternz, which can track billions of phone profiles via ads in hundreds of thousands of apps, including 9gag and Kik &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240125/p1#a240125p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

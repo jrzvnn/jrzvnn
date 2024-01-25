@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meet Macaulay Culkin, wife Brenda Song and son Kevin McAllister](http://9gag.com/gag/avQNBmb)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 👉 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 😝 [Texas is ignoring the Supreme Court and installing more barbed wire in Eagle Pass.](http://9gag.com/gag/a2Ke6ED)
+ - 😝 [Yes pleasee](http://9gag.com/gag/a9qoGy0)
+ - 💣 [Found this gem on my phone archive](http://9gag.com/gag/aqe0oMQ)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: 23andMe says hackers started breaking into users&#39; accounts in April 2023 and continued through September; 23andMe became aware of the breach in October &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240125/p41#a240125p41)
+ - [The Pokémon Company says it will ‘investigate’ Palworld](https://www.theverge.com/2024/1/25/24050320/pokemon-palworld-investigation-copyright-plagiarism)
  - [Robot Car Crash Investigation Concludes GM’s Cruise Didn’t Disclose Key Information](https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/)
  - [Epic&#39;s Tim Sweeney is mad about Apple&#39;s EU App Store concessions](https://appleinsider.com/articles/24/01/25/epics-tim-sweeney-is-mad-about-apples-eu-app-store-concessions?utm_medium=rss)
- - [Epic’s Tim Sweeney calls Apple App Store changes ‘hot garbage’](https://www.theverge.com/2024/1/25/24050696/epic-games-tim-sweeney-apple-app-store-response)
- - [Xbox Game Pass Ultimate: Play Palworld Now, Persona 3 Reload Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-palworld-now-persona-3-reload-soon/#ftag=CAD590a51e)
- - [Best Online Glasses and Contacts Deals: Shop Now to Save Up to 70% on Frames, 30% on Contacts     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic’s Tim Sweeney calls Apple App Store changes ‘hot garbage’](https://www.theverge.com/2024/1/25/24050696/epic-games-tim-sweeney-apple-app-store-response)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

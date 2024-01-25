@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 😝 [Go out for a walk with my pocket mashine gun](http://9gag.com/gag/aA0jzGo)
- - 💣 [I guess he&#39;s right](http://9gag.com/gag/agoWwZK)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 👉 [Dad having fun with his kids](http://9gag.com/gag/aZDeYv0)<!-- MEMES:END -->
+ - 😝 [Basic programming](http://9gag.com/gag/aQEGbnw)
+ - 😝 [Random title](http://9gag.com/gag/awZw2yr)
+ - 💣 [True love](http://9gag.com/gag/aWGzAGZ)
+ - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
 
 ---
 

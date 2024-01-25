@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple takes top spot as China stems its smartphone sales decline](https://appleinsider.com/articles/24/01/25/apple-takes-top-spot-as-china-stems-its-smartphone-sales-decline?utm_medium=rss)
  - [Anomalo, which uses AI to solve data-quality problems in large datasets, raised a $33M Series B led by SignalFire, bringing its total funding to $72M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240125/p21#a240125p21)
  - [Ad firms are cheating App Tracking Transparency to spy on iPhone users](https://appleinsider.com/articles/24/01/25/ad-firms-are-cheating-app-tracking-transparency-to-spy-on-iphone-users?utm_medium=rss)
  - [Here&#39;s Who the Online MAGA World Wants as Trump&#39;s VP](https://www.wired.com/story/maga-trump-vice-president/)
- - [It’s important that this camera exists](https://www.theverge.com/24049650/hasselblad-907x-cfv-100c-digital-camera-hands-on)
- - [Sources: despite a US-Netherlands deal to limit ASML&#39;s China exports, the Dutch let ASML export to China after lobbying, to make up for weak demand elsewhere &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p20#a240125p20)<!-- TECH:END -->
+ - [What Is Overdraft Protection and Do You Need It?     - CNET](https://www.cnet.com/personal-finance/what-is-overdraft-protection-and-do-you-need-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

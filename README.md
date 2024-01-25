@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is correcting its terrible approval requirements for game streaming apps in iOS 17.4](https://appleinsider.com/articles/24/01/25/game-streaming-apps-in-ios-174-ipados-174-will-be-freed-from-approval-shackles?utm_medium=rss)
+ - [Apple&#39;s Empowering Creatives program expands to two Indigenous causes](https://appleinsider.com/articles/24/01/25/apples-empowering-creatives-program-expands-to-two-indigenous-causes?utm_medium=rss)
  - [iOS 17.4 beta code reveals new iPad Pro and Apple Pencil capabilities](https://appleinsider.com/articles/24/01/25/ios-174-beta-code-reveals-new-ipad-pro-and-apple-pencil-capabilities?utm_medium=rss)
  - [Big-Name Targets Push Midnight Blizzard Hacking Spree Back Into the Limelight](https://www.wired.com/story/microsoft-hpe-midnight-blizzard-email-breaches/)
- - [Epic Games plans to launch its Epic Games Store on the iPhone in the EU in 2024, which will include its popular game Fortnite &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p46#a240125p46)
- - [IBM&#39;s stock closes up 9.49%, at its highest level since June 2013, adding ~$20B to its market cap and up nearly 20% year-to-date, on strong AI services demand &lpar;Chibuike Oguh/Reuters&rpar;](http://www.techmeme.com/240125/p45#a240125p45)
- - [Intel reports Q4 revenue up 10% YoY to $15.4B vs. $15.15B est., Data Center and AI down 10% YoY to $4B, and forecasts Q1 revenue below estimates; INTC drops 5%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240125/p44#a240125p44)<!-- TECH:END -->
+ - [Epic Games plans to launch its Epic Games Store on the iPhone in the EU in 2024, which will include its popular game Fortnite &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p46#a240125p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

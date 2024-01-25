@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
+ - 😝 [Let them fight](http://9gag.com/gag/aVbArEw)
  - 😝 [True love](http://9gag.com/gag/aWGzAGZ)
- - 💣 [The IQ Test](http://9gag.com/gag/a9qo4VW)
- - 😝 [It&#39;s not a roast... It&#39;s a freaking cremation](http://9gag.com/gag/ap9OXEp)
+ - 💣 [Turns the match into ballet session](http://9gag.com/gag/aMEg566)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
  - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
 
 ---

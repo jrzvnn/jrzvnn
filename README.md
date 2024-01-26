@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro vs. Sony PlayStation VR - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
+ - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
+ - [Researchers Say the Deepfake Biden Robocall Was Likely Made With Tools From AI Startup ElevenLabs](https://www.wired.com/story/biden-robocall-deepfake-elevenlabs/)
+ - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
  - [A federal judge sentences OneCoin lawyer Mark Scott to 10 years in prison for his role in laundering millions of dollars through the crypto scheme &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/240126/p13#a240126p13)
- - [Eight new CarPlay experience apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)
- - [How Ready Is Meta for the Biggest Election Year in History?](https://www.wired.com/story/meta-disinformation-elections/)
- - [A Last-Ditch Plan to Save the Crypto Industry](https://www.wired.com/story/a-last-ditch-plan-to-save-the-crypto-industry/)<!-- TECH:END -->
+ - [Eight new CarPlay experience apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

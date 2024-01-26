@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
  - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
  - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

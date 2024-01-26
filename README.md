@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
  - 👉 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)<!-- MEMES:END -->
 
 ---

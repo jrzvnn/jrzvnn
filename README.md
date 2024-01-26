@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 😝 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
 
 ---
 

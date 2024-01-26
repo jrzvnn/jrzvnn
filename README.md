@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 👉 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)<!-- MEMES:END -->
 
 ---
 

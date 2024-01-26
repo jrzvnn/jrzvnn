@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: MGM Resorts International&#39;s BetMGM is partnering with X to showcase betting odds on X and provide a direct link to BetMGM, allowing users to place bets &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240126/p32#a240126p32)
- - [Spotify accuses Apple of ‘extortion’ with new App Store tax](https://www.theverge.com/2024/1/26/24052162/spotify-apple-app-store-tax-eu-dma)
- - [OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects](https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/)
- - [Spotify says Apple is &quot;forcing developers to stay with the status quo&quot; and calls on the EU to &quot;reject this blatant disregard&quot; of the EU&#39;s established principles &lpar;Spotify&rpar;](http://www.techmeme.com/240126/p31#a240126p31)
- - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)<!-- TECH:END -->
+ - [White House calls for legislation to stop Taylor Swift AI fakes](https://www.theverge.com/2024/1/26/24052261/taylor-swift-ai-fakes-white-house-responds-legislation)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
+ - [Best Outdoor Grill Deals: Shop Now and Save Up to $350 Off     - CNET](https://www.cnet.com/deals/best-grill-deals/#ftag=CAD590a51e)
+ - [Source: MGM Resorts International&#39;s BetMGM is partnering with X to showcase betting odds on X and provide a direct link to BetMGM, allowing users to place bets &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240126/p32#a240126p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

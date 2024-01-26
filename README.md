@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
  - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
- - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
- - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
+ - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---
 

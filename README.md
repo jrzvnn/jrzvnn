@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Reminder: Amazon Prime Video is getting ads next week](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
  - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)<!-- TECH:END -->
+ - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

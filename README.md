@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 😝 [Yes that&#39;s me](http://9gag.com/gag/ay2Gy48)
  - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
+ - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

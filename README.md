@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 👉 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)<!-- MEMES:END -->
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 

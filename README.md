@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Lightspeed Venture Partners seeks to sell stakes in 10 startups, worth ~$1B, to a private equity-style continuation fund, to let investors cash out &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p10#a240126p10)
+ - [Microsoft’s Xbox mobile apps will soon let you remote play with just touch controls](https://www.theverge.com/2024/1/26/24051467/microsoft-xbox-mobile-app-touch-controls)
  - [Eight new CarPlay apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)
  - [Baidu partners with Samsung to integrate its Ernie chatbot into Galaxy S24 smartphones in China, allowing users to translate calls in real time and more &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240126/p9#a240126p9)
- - [Cruise says the US DOJ and SEC are probing the company over an October 2023 incident where one of its autonomous vehicles hit and dragged a pedestrian 20 feet &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240126/p8#a240126p8)
- - [The UK CMA launches the first stage of its review of Vodafone and Three UK&#39;s merger, and sets March 22, 2024 as a deadline to decide for an in-depth probe &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240126/p7#a240126p7)
- - [Source: Salesforce plans to lay off ~700 employees, or ~1% of its staff, after cutting 10% of its workforce in January 2023; the company has 1,000 open jobs &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p6#a240126p6)<!-- TECH:END -->
+ - [Cruise says the US DOJ and SEC are probing the company over an October 2023 incident where one of its autonomous vehicles hit and dragged a pedestrian 20 feet &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240126/p8#a240126p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

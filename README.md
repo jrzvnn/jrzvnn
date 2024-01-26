@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU on Epic&#39;s](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
  - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)
  - [Far-Right Extremists Are Organizing an Armed Convoy to the Texas Border](https://www.wired.com/story/extremists-far-right-armed-convoy-texas-border/)
  - [Which browsers can be set to default for EU users in iOS 17.4](https://appleinsider.com/articles/24/01/26/which-browsers-can-be-set-to-default-for-eu-users-in-ios-174?utm_medium=rss)
- - [Review of Honor&#39;s Magic V2 foldable, launching in UK and Europe for &amp;pound;1,700: very thin and durable but has a dated OS and processor, and software issues &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240126/p18#a240126p18)
- - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)<!-- TECH:END -->
+ - [The Best Exercises to Keep You Healthy as You Age, According to Experts     - CNET](https://www.cnet.com/health/fitness/3-essential-exercises-to-keep-you-healthy-as-you-age-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

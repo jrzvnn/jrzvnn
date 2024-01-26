@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
+ - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)
+ - [How to keep track of friends and family on your iPhone](https://www.theverge.com/24051550/iphone-apple-location-track-how-to)
  - [US defense and intelligence services are buying troves of data about Americans on the open market](https://appleinsider.com/articles/24/01/26/us-defense-and-intelligence-services-are-buying-troves-of-data-about-americans-on-the-open-market?utm_medium=rss)
- - [Daily deals Jan. 26: H&amp;R Block software $25, $3,000 off Hisense 100&quot; TV, Microsoft software as low as $19.99, more](https://appleinsider.com/articles/24/01/26/daily-deals-jan-26-hr-block-software-25-3000-off-hisense-100-tv-microsoft-software-as-low-as-1999-more?utm_medium=rss)
- - [If Taylor Swift Can&#39;t Defeat Deepfake Porn, No One Can](https://www.wired.com/story/taylor-swift-deepfake-porn-artificial-intelligence-pushback/)
- - [A look at browser-related iOS changes in the EU, including letting users choose one of the 12 most popular browsers in their country&#39;s App Store as the default &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240126/p17#a240126p17)
- - [Apple Vision Pro is already a win for Apple &amp; consumers](https://appleinsider.com/articles/24/01/26/apple-vision-pro-is-already-a-win-for-apple-consumers?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan. 26: H&amp;R Block software $25, $3,000 off Hisense 100&quot; TV, Microsoft software as low as $19.99, more](https://appleinsider.com/articles/24/01/26/daily-deals-jan-26-hr-block-software-25-3000-off-hisense-100-tv-microsoft-software-as-low-as-1999-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

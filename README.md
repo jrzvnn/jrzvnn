@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
- - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 👉 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)<!-- MEMES:END -->
+ - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
+ - 😝 [Pigeons](http://9gag.com/gag/agoWDKq)
+ - 💣 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - 😝 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)
+ - 👉 [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)<!-- MEMES:END -->
 
 ---
 

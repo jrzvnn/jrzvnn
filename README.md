@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 💣 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
  - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anxiety personified](http://9gag.com/gag/aPg5qgK)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
  - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [USA love guns](http://9gag.com/gag/aqe0PvM)<!-- MEMES:END -->
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dirty tricks or small wins: developers are skeptical of Apple’s App Store rules](https://www.theverge.com/24051818/apple-app-store-dma-eu-developer-response)
+ - [Here’s the new Apple tax every developer is going to hate](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
  - [A look at Midnight Blizzard, also known as Cozy Bear, a Russia-linked hacking group that has allegedly recently hacked the email systems of Microsoft and HPE &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240126/p21#a240126p21)
  - [Snoopy MoonSwatch: Price, Availability, Release Date](https://www.wired.com/story/snoopy-moonswatch-2024/)
- - [Monkey Man’s new trailer feels like a warning shot fired at John Wick](https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele)
- - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
- - [Microsoft details the techniques that the Russian hacking group Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)<!-- TECH:END -->
+ - [Monkey Man’s new trailer feels like a warning shot fired at John Wick](https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

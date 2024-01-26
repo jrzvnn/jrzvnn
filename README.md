@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reminder: Amazon Prime Video is getting ads next week](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
  - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Apple will expand SharePlay music control to HomePod and Apple TV in iOS 17.4 and tvOS 17.4](https://appleinsider.com/articles/24/01/26/apple-will-expand-shareplay-music-control-to-homepod-and-apple-tv-in-ios-174-and-tvos-174?utm_medium=rss)
- - [Google is testing an ARM64 version of Chrome for Arm-based Windows devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240126/p26#a240126p26)
- - [OnePlus 12 preorders come with a free storage upgrade for a limited time](https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale)<!-- TECH:END -->
+ - [Google is testing an ARM64 version of Chrome for Arm-based Windows devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240126/p26#a240126p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

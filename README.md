@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)<!-- MEMES:END -->
+ - 😝 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)
+ - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
+ - 💣 [Title](http://9gag.com/gag/armY680)
+ - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
+ - 👉 [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)<!-- MEMES:END -->
 
 ---
 

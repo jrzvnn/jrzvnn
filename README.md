@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Source: Sierra, an enterprise-focused AI startup co-founded by Bret Taylor, plans to raise $85M led by Sequoia at a ~$1B valuation; Taylor is on OpenAI&#39;s board &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240125/p54#a240125p54)
  - [Sources: chipmaking startup Cerebras is weighing an IPO as soon as this year at a valuation higher than the $4B it achieved for its $250M Series F in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p53#a240125p53)
  - [How to use Translate with the Action Button in iOS 17](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
- - [Taiwan plans to spend ~$7.4M on the Trustworthy AI Dialogue Engine, or Taide, an LLM for businesses, banks, and other customers, to counter China&#39;s influence &lpar;Jennifer Creery/Bloomberg&rpar;](http://www.techmeme.com/240125/p52#a240125p52)<!-- TECH:END -->
+ - [Best Dash Cam Deals: Basic Cams, 4K Models and More From $25     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

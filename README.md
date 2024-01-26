@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
+ - 😝 [One meme to rule them all](http://9gag.com/gag/a8qZP51)
+ - 😝 [She\u2019s been planning that move for years.](http://9gag.com/gag/a9qoo8W)
+ - 💣 [New fear unlocked](http://9gag.com/gag/anz6LW5)
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 👉 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)<!-- MEMES:END -->
 
 ---
 

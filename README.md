@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &amp;euro;0.50 Core Technology Fee in the EU would lead to a free or freemium app with 2M annual &quot;first installs&quot; paying $500K+ a year even if no money is earned &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p55#a240125p55)
  - [Source: Sierra, an enterprise-focused AI startup co-founded by Bret Taylor, plans to raise $85M led by Sequoia at a ~$1B valuation; Taylor is on OpenAI&#39;s board &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240125/p54#a240125p54)
  - [Sources: chipmaking startup Cerebras is weighing an IPO as soon as this year at a valuation higher than the $4B it achieved for its $250M Series F in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p53#a240125p53)
  - [How to use Translate with the Action Button in iOS 17](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
- - [Taiwan plans to spend ~$7.4M on the Trustworthy AI Dialogue Engine, or Taide, an LLM for businesses, banks, and other customers, to counter China&#39;s influence &lpar;Jennifer Creery/Bloomberg&rpar;](http://www.techmeme.com/240125/p52#a240125p52)
- - [Best Phone Deals: Save With Discounts, Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan plans to spend ~$7.4M on the Trustworthy AI Dialogue Engine, or Taide, an LLM for businesses, banks, and other customers, to counter China&#39;s influence &lpar;Jennifer Creery/Bloomberg&rpar;](http://www.techmeme.com/240125/p52#a240125p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

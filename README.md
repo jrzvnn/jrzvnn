@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
  - [The Pixel 8 Pro is one goofy way to take your temperature](https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app)
+ - [Stay Committed to Your Health in 2024 With 20% Off LifeStraw Pitchers and Dispensers     - CNET](https://www.cnet.com/deals/stay-committed-to-your-health-in-2024-with-20-off-lifestraw-pitchers-and-dispensers/#ftag=CAD590a51e)
  - [&#39;Children of Dune&#39; Is a Very Philosophical Book](https://www.wired.com/2024/01/geeks-guide-children-of-dune/)
- - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
- - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
- - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)<!-- TECH:END -->
+ - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

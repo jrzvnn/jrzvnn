@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
  - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
  - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; in stock](https://appleinsider.com/articles/24/01/26/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-in-stock?utm_medium=rss)
  - [Apple is restoring Mac users that were banned after using Beeper on iPhone](https://appleinsider.com/articles/24/01/26/apple-is-restoring-mac-users-that-were-banned-after-using-beeper-on-iphone?utm_medium=rss)
  - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
  - [Dirty tricks or small wins: developers are skeptical of Apple’s App Store rules](https://www.theverge.com/24051818/apple-app-store-dma-eu-developer-response)
- - [Here’s the new Apple tax every developer is going to hate](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
- - [A look at Midnight Blizzard, also known as Cozy Bear, a Russia-linked hacking group that has allegedly recently hacked the email systems of Microsoft and HPE &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240126/p21#a240126p21)<!-- TECH:END -->
+ - [Here’s the new Apple tax every developer is going to hate](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

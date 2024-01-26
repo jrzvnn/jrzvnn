@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
+ - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
+ - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)
  - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU on Epic&#39;s](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
- - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)
- - [Far-Right Extremists Are Organizing an Armed Convoy to the Texas Border](https://www.wired.com/story/extremists-far-right-armed-convoy-texas-border/)
- - [Which browsers can be set to default for EU users in iOS 17.4](https://appleinsider.com/articles/24/01/26/which-browsers-can-be-set-to-default-for-eu-users-in-ios-174?utm_medium=rss)
- - [The Best Exercises to Keep You Healthy as You Age, According to Experts     - CNET](https://www.cnet.com/health/fitness/3-essential-exercises-to-keep-you-healthy-as-you-age-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monkey Man’s new trailer feels like a warning shot fired at John Wick](https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele)
  - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
  - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)
  - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
- - [The Pixel 8 Pro is one goofy way to take your temperature](https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app)
- - [Stay Committed to Your Health in 2024 With 20% Off LifeStraw Pitchers and Dispensers     - CNET](https://www.cnet.com/deals/stay-committed-to-your-health-in-2024-with-20-off-lifestraw-pitchers-and-dispensers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 8 Pro is one goofy way to take your temperature](https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

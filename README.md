@@ -162,7 +162,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches first stage of its review of Vodafone and Three UK&#39;s merger, and sets March 22, 2024 as a deadline to decide on an in-depth investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240126/p7#a240126p7)
+ - [The UK CMA launches the first stage of its review of Vodafone and Three UK&#39;s merger, and sets March 22, 2024 as a deadline to decide for an in-depth probe &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240126/p7#a240126p7)
  - [Source: Salesforce plans to lay off ~700 employees, or ~1% of its staff, after cutting 10% of its workforce in January 2023; the company has 1,000 open jobs &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p6#a240126p6)
  - [Ola Group CEO Bhavish Aggarwal&#39;s Krutrim, which is building a multilingual LLM, raised a $50M &quot;first round&quot; led by Matrix Partners India at a $1B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240126/p5#a240126p5)
  - [Sources: Elon Musk&#39;s xAI is in talks to raise up to $6B from family offices in Hong Kong and sovereign wealth funds in the Middle East at a $20B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p4#a240126p4)

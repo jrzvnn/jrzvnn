@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Creators of AI-generated George Carlin special sued by late comedian’s estate](https://www.theverge.com/2024/1/26/24051476/dudesy-ai-generated-george-carlin-special-sued-by-late-comedians-estate)
- - [Florida and Alaska ban Binance.US from serving their residents, citing CZ&#39;s guilty plea; Arkansas, Illinois, and South Dakota made a deal with the exchange &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p11#a240126p11)
- - [Sources: Lightspeed Venture Partners seeks to sell stakes in 10 startups, worth ~$1B, to a private equity-style continuation fund, to let investors cash out &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p10#a240126p10)
- - [Microsoft’s Xbox mobile apps will soon let you remote play with just touch controls](https://www.theverge.com/2024/1/26/24051467/microsoft-xbox-mobile-app-touch-controls)
- - [Eight new CarPlay apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro vs. Sony PlayStation VR - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
+ - [A federal judge sentences OneCoin lawyer Mark Scott to 10 years in prison for his role in laundering millions of dollars through the crypto scheme &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/240126/p13#a240126p13)
+ - [Eight new CarPlay experience apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)
+ - [How Ready Is Meta for the Biggest Election Year in History?](https://www.wired.com/story/meta-disinformation-elections/)
+ - [A Last-Ditch Plan to Save the Crypto Industry](https://www.wired.com/story/a-last-ditch-plan-to-save-the-crypto-industry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

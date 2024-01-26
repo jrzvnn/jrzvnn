@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida and Alaska ban Binance.US from serving their residents, citing CZ&#39;s guilty plea; Arkansas, Illinois, and South Dakota made a deal with the exchange &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p11#a240126p11)
  - [Sources: Lightspeed Venture Partners seeks to sell stakes in 10 startups, worth ~$1B, to a private equity-style continuation fund, to let investors cash out &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p10#a240126p10)
  - [Microsoft’s Xbox mobile apps will soon let you remote play with just touch controls](https://www.theverge.com/2024/1/26/24051467/microsoft-xbox-mobile-app-touch-controls)
  - [Eight new CarPlay apps spotted in iOS 17.4 beta code](https://appleinsider.com/articles/24/01/26/eight-new-carplay-apps-spotted-in-ios-174-beta-code?utm_medium=rss)
- - [Baidu partners with Samsung to integrate its Ernie chatbot into Galaxy S24 smartphones in China, allowing users to translate calls in real time and more &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240126/p9#a240126p9)
- - [Cruise says the US DOJ and SEC are probing the company over an October 2023 incident where one of its autonomous vehicles hit and dragged a pedestrian 20 feet &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240126/p8#a240126p8)<!-- TECH:END -->
+ - [Baidu partners with Samsung to integrate its Ernie chatbot into Galaxy S24 smartphones in China, allowing users to translate calls in real time and more &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240126/p9#a240126p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

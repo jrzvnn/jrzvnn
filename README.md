@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An NSA letter to Sen. Ron Wyden reveals the agency buys logs related to Americans&#39; domestic internet activities from commercial data brokers without warrants &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/240125/p49#a240125p49)
  - [TurboTax Can&#39;t Call Its Services Free Anymore, Unless They&#39;re Free to All     - CNET](https://www.cnet.com/personal-finance/taxes/turbotax-cant-call-its-services-free-anymore-unless-theyre-free-to-all/#ftag=CAD590a51e)
  - [Bastille, which uses hardware sensors for wireless monitoring to stop espionage in offices, raised a $44M Series C led by Goldman Sachs&#39; venture arm &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240125/p48#a240125p48)
  - [Best Internet Providers in Newark, New Jersey     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-newark-nj/#ftag=CAD590a51e)
- - [Apple to see little impact from EU regulations, says investing firm](https://appleinsider.com/articles/24/01/25/apple-to-see-little-impact-from-eu-regulations-says-investing-firm?utm_medium=rss)
- - [How AI Will Make Residential Solar Installations Cheaper and Faster     - CNET](https://www.cnet.com/home/energy-and-utilities/how-ai-will-make-residential-solar-installations-cheaper-and-faster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to see little impact from EU regulations, says investing firm](https://appleinsider.com/articles/24/01/25/apple-to-see-little-impact-from-eu-regulations-says-investing-firm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

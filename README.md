@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 👉 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)<!-- MEMES:END -->
+ - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
+ - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - 💣 [Pigeons](http://9gag.com/gag/agoWDKq)
+ - 😝 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)
+ - 👉 [Lighterman](http://9gag.com/gag/aVbAALw)<!-- MEMES:END -->
 
 ---
 

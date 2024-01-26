@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to switch languages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-languages-in-macos-sonoma?utm_medium=rss)
  - [A profile of Israel-linked Predatory Sparrow, whose cyberattacks of Iranian civilian targets are some of the most aggressive offensive hacking incidents ever &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240126/p15#a240126p15)
  - [Nab a Lifetime Babbel Subscription for $170 and Learn New Languages at Your Own Pace     - CNET](https://www.cnet.com/deals/nab-a-lifetime-babbel-subscription-for-170-and-learn-new-languages-at-your-own-pace/#ftag=CAD590a51e)
  - [Apple&#39;s new App Store rules apply to these 27 countries](https://appleinsider.com/inside/app-store/tips/apples-new-app-store-rules-apply-to-these-27-countries?utm_medium=rss)
- - [12 of the Best Kid-Friendly Family Movies Streaming Now on Max     - CNET](https://www.cnet.com/tech/services-and-software/12-of-the-best-kid-friendly-family-movies-streaming-now-on-max/#ftag=CAD590a51e)
- - [In a supportive gesture to the industry, China approved 115 video games in January, the most in 18 months, after approving 105 titles in December &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240126/p14#a240126p14)<!-- TECH:END -->
+ - [12 of the Best Kid-Friendly Family Movies Streaming Now on Max     - CNET](https://www.cnet.com/tech/services-and-software/12-of-the-best-kid-friendly-family-movies-streaming-now-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

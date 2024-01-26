@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)
  - [Samsung’s new phones replace Google AI with Baidu in China](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai)
  - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)
  - [How to Convince Your Flat-Earth Friends the Earth Is Round](https://www.wired.com/story/how-to-prove-the-earth-is-round/)
- - [How to switch languages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-languages-in-macos-sonoma?utm_medium=rss)
- - [A profile of Israel-linked Predatory Sparrow, whose cyberattacks of Iranian civilian targets are some of the most aggressive offensive hacking incidents ever &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240126/p15#a240126p15)<!-- TECH:END -->
+ - [How to switch languages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-languages-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

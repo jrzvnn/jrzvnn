@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Salesforce plans to lay off ~700 employees, or ~1% of its staff, after cutting 10% of its workforce in January 2023; the company has 1,000 open jobs &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240126/p6#a240126p6)
+ - [Ola Group CEO Bhavish Aggarwal&#39;s Krutrim, which is building a multilingual LLM, raised a $50M &quot;first round&quot; led by Matrix Partners India at a $1B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240126/p5#a240126p5)
  - [Sources: Elon Musk&#39;s xAI is in talks to raise up to $6B from family offices in the Hong Kong and sovereign wealth funds in the Middle East at a $20B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240126/p4#a240126p4)
  - [Apple Podcasts is getting auto-generated transcripts with iOS 17.4](https://www.theverge.com/2024/1/26/24051454/apple-podcasts-transcription-ios-17-4)
- - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)
- - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
- - [Australian Open 2024 Men&#39;s Semifinal: How to Watch Daniil Medvedev vs. Alexander Zverev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-semifinal-how-to-watch-a-daniil-medvedev-vs-alexander-zverev-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

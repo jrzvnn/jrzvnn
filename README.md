@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One meme to rule them all](http://9gag.com/gag/a8qZP51)
- - 😝 [She\u2019s been planning that move for years.](http://9gag.com/gag/a9qoo8W)
- - 💣 [New fear unlocked](http://9gag.com/gag/anz6LW5)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 👉 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)<!-- MEMES:END -->
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 💣 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

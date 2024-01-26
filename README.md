@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: MGM Resorts International&#39;s BetMGM is partnering with X to showcase betting odds on X and provide a direct link to BetMGM, allowing users to place bets &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240126/p32#a240126p32)
  - [Spotify accuses Apple of ‘extortion’ with new App Store tax](https://www.theverge.com/2024/1/26/24052162/spotify-apple-app-store-tax-eu-dma)
  - [OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects](https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/)
  - [Spotify says Apple is &quot;forcing developers to stay with the status quo&quot; and calls on the EU to &quot;reject this blatant disregard&quot; of the principles it established &lpar;Spotify&rpar;](http://www.techmeme.com/240126/p31#a240126p31)
- - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)
- - [Mozilla criticizes Apple&#39;s plans to restrict BrowserEngineKit to EU-specific apps, forcing &quot;Firefox to build and maintain two separate browser implementations&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240126/p30#a240126p30)<!-- TECH:END -->
+ - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

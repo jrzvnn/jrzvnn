@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 😝 [One meme to rule them all](http://9gag.com/gag/a8qZP51)
+ - 😝 [High level engineering](http://9gag.com/gag/adPEmZ2)
+ - 💣 [She\u2019s been planning that move for years.](http://9gag.com/gag/a9qoo8W)
+ - 😝 [New fear unlocked](http://9gag.com/gag/anz6LW5)
+ - 👉 [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)<!-- MEMES:END -->
 
 ---
 

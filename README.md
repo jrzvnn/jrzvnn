@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 😝 [Pigeons](http://9gag.com/gag/agoWDKq)
- - 💣 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 😝 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)
- - 👉 [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)<!-- MEMES:END -->
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
+ - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 👉 [Anxiety personified](http://9gag.com/gag/aPg5qgK)<!-- MEMES:END -->
 
 ---
 

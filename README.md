@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LA County agrees to pay $5M to election software maker Konnech CEO Eugene Yu, who was wrongly arrested and charged in 2022 with mishandling voter data &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240125/p51#a240125p51)
  - [Mysk: iPhone apps including Facebook, Instagram, Threads, TikTok, and X are skirting Apple&#39;s privacy rules to collect user data through push notifications &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240125/p50#a240125p50)
  - [WalkingPad Treadmil     - CNET](https://www.cnet.com/health/walkingpad-treadmil-dpnl/#ftag=CAD590a51e)
  - [Taxes 2024: Gen Z Is Overwhelmed by Tax Season. Here Are 7 Expert Tips to Make Filing Smoother     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-gen-z-overwhelmed-by-tax-season-7-expert-tips-to-make-filing-smoother-this-year/#ftag=CAD590a51e)
- - [Blue YETI USB Mic     - CNET](https://www.cnet.com/tech/blue-yeti-usb-mic-dpnl/#ftag=CAD590a51e)
- - [Apple Watch Series 9     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blue YETI USB Mic     - CNET](https://www.cnet.com/tech/blue-yeti-usb-mic-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

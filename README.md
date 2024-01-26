@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 💣 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 😝 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 😝 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 

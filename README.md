@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 😝 [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
+ - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 💣 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 👉 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
 
 ---
 

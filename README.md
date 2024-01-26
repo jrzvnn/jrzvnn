@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects](https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/)
  - [Spotify says Apple is &quot;forcing developers to stay with the status quo&quot; and calls on the EU to &quot;reject this blatant disregard&quot; of the principles it established &lpar;Spotify&rpar;](http://www.techmeme.com/240126/p31#a240126p31)
  - [The seven dirty words you can’t say with AI](https://www.theverge.com/2024/1/26/24051990/wondery-podcast-ip-george-carlin-lawsuit-ai)
  - [Mozilla criticizes Apple&#39;s plans to restrict BrowserEngineKit to EU-specific apps, forcing &quot;Firefox to build and maintain two separate browser implementations&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240126/p30#a240126p30)
- - [Layoffs.fyi: so far in January, around 23,670 workers have been laid off from 85 tech companies, the most since March 2023 when ~38,000 people were laid off &lpar;CNBC&rpar;](http://www.techmeme.com/240126/p29#a240126p29)
- - [Beeper’s push for iMessage on Android is really over](https://www.theverge.com/2024/1/26/24052125/beeper-android-imessage-apple-mac-ban)<!-- TECH:END -->
+ - [Layoffs.fyi: so far in January, around 23,670 workers have been laid off from 85 tech companies, the most since March 2023 when ~38,000 people were laid off &lpar;CNBC&rpar;](http://www.techmeme.com/240126/p29#a240126p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

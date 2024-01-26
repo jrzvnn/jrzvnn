@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 💣 [Last post got deleted, here&#39;s the new one.](http://9gag.com/gag/aqe0wQQ)
- - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 👉 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 👉 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)<!-- MEMES:END -->
 
 ---
 

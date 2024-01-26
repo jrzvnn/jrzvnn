@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [Yes that&#39;s me](http://9gag.com/gag/ay2Gy48)
- - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
  - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 💣 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 

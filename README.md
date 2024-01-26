@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
  - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
 
 ---
 

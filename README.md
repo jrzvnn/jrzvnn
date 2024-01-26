@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
+ - 💣 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 👉 [About to face consequences](http://9gag.com/gag/aeQLn0B)<!-- MEMES:END -->
 
 ---
 

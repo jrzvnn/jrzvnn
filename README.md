@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
+ - 😝 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)
+ - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
+ - 💣 [Title](http://9gag.com/gag/armY680)
+ - 😝 [Dr.K returns today to play the piano, with extra spices](http://9gag.com/gag/aOxwgXD)
+ - 👉 [No shaking](http://9gag.com/gag/aPg5Nzw)<!-- MEMES:END -->
 
 ---
 

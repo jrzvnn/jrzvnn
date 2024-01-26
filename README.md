@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
 
 ---
 

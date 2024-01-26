@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new App Store rules apply to these 27 countries](https://appleinsider.com/inside/app-store/tips/apples-new-app-store-rules-apply-to-these-27-countries?utm_medium=rss)
  - [In a supportive gesture to the industry, China approved 115 video games in January, the most in 18 months, after approving 105 titles in December &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240126/p14#a240126p14)
  - [Zenbivy Bed Sleeping Bag and Quilt Review: Sleep Well Wherever You Go](https://www.wired.com/review/zenbivy-sleeping-bag-quilt-system/)
  - [Review: &#39;Like a Dragon: Infinite Wealth&#39; Is an Impressive Achievement in Storytelling](https://www.wired.com/review/review-like-a-dragon-infinite-wealth/)
- - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)
- - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)<!-- TECH:END -->
+ - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

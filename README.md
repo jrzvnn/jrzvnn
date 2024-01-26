@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
 
 ---
 

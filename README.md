@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
  - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 💣 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
+ - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 💣 [What do we do now?](http://9gag.com/gag/aL1xZAg)
  - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

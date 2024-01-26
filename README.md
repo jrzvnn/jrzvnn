@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 8 Pro is one goofy way to take your temperature](https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app)
+ - [&#39;Children of Dune&#39; Is a Very Philosophical Book](https://www.wired.com/2024/01/geeks-guide-children-of-dune/)
  - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
  - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
- - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)
- - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU on Epic&#39;s](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
- - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)<!-- TECH:END -->
+ - [Some Beeper users lost access to iMessage on their Mac and were told by Apple access was revoked due to irregular activity; Beeper: ~3.5K users reported outages &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240126/p19#a240126p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

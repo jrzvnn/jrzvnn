@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro is already a win for Apple &amp; consumers](https://appleinsider.com/articles/24/01/26/apple-vision-pro-is-already-a-win-for-apple-consumers?utm_medium=rss)
+ - [Eco-Friendly Recycled Bags &lpar;2024&rpar;: Totes, Purses, Shopping Bags](https://www.wired.com/gallery/best-recycled-bags/)
+ - [Honor Magic V2 review: fabulous foldable running so-so software](https://www.theverge.com/24051466/honor-magic-v2-review)
  - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
- - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)
- - [Samsung’s new phones replace Google AI with Baidu in China](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai)
- - [8 Foods That Will Give Your Brain a Serotonin Boost Right Now     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-give-your-brain-a-serotonin-boost-right-now/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)<!-- TECH:END -->
+ - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

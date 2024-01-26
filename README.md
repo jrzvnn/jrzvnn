@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 💣 [Nice hack to treat with headache](http://9gag.com/gag/aZDeOYz)
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More guppies for the 7 people who upvoted last time.](http://9gag.com/gag/aBdpp8z)
- - 😝 [Lighterman](http://9gag.com/gag/aVbAALw)
- - 💣 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 👉 [Ted Mosby had no chill](http://9gag.com/gag/aYV993m)<!-- MEMES:END -->
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [`Dear God, may I never be so Body Positive that I watch my child slooooowly roll to their death because I literally cannot stand up and run.`](http://9gag.com/gag/aBdpqRQ)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

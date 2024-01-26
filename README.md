@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m Not Crying You&#39;re Crying](http://9gag.com/gag/a1P99PY)
- - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
- - 💣 [Title](http://9gag.com/gag/armY680)
- - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
- - 👉 [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)<!-- MEMES:END -->
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 💣 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 

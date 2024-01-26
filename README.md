@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s TestFlight system will remain open to all EU developers](https://appleinsider.com/articles/24/01/26/apples-testflight-system-will-remain-open-to-all-eu-developers?utm_medium=rss)
- - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
- - [Source: Chamath Palihapitiya shelved plans to raise $1B for an early-stage investment fund, in part due to fundraising challenges &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240126/p22#a240126p22)
- - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; in stock](https://appleinsider.com/articles/24/01/26/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-in-stock?utm_medium=rss)
- - [Apple is restoring Mac users that were banned after using Beeper on iPhone](https://appleinsider.com/articles/24/01/26/apple-is-restoring-mac-users-that-were-banned-after-using-beeper-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17.4 beta has signs of an AI-improved Siri ahead of WWDC 2024](https://appleinsider.com/articles/24/01/26/ios-174-beta-has-signs-of-an-ai-improved-siri-ahead-of-wwdc-2024?utm_medium=rss)
+ - [Apple&#39;s changes for iOS app distribution in the EU fail to offer fair and reasonable commissions and show disdain for both the DMA and app developers &lpar;Damien Geradin/The Platform Law Blog&rpar;](http://www.techmeme.com/240126/p23#a240126p23)
+ - [Microsoft Teams is down around the world, it’s not just you](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
+ - [The Pentagon Tried to Hide That It Bought Americans&#39; Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
+ - [Apple Isn’t Ready to Release Its Grip on the App Store](https://www.wired.com/story/apple-app-store-sideloading-europe-dma/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

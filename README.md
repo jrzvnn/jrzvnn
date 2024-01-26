@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Twitter screenshots are not memes so i guess this is a post](http://9gag.com/gag/avQNMyO)
- - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 💣 [Pigeons](http://9gag.com/gag/agoWDKq)
- - 😝 [`So that&#39;s the Grand Canyon, huh?`](http://9gag.com/gag/avQN3gO)
- - 👉 [Lighterman](http://9gag.com/gag/aVbAALw)<!-- MEMES:END -->
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 💣 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
 
 ---
 

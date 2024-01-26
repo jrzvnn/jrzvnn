@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 💣 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 👉 [A workable solution](http://9gag.com/gag/aEq344x)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 12 preorders come with a free storage upgrade for a limited time](https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale)
+ - [iOS 17.4 code shows Apple may be testing two versions of its Ajax LLM for Siri and comparing their responses to OpenAI&#39;s ChatGPT &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p25#a240126p25)
  - [Sources: Flexport plans to lay off ~20% of workforce, its third round of cut in just over a year; it has ~2600 employees after cutting 20% of staff in October &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240126/p24#a240126p24)
  - [iOS 17.4 beta has signs of an AI-improved Siri ahead of WWDC 2024](https://appleinsider.com/articles/24/01/26/ios-174-beta-has-signs-of-an-ai-improved-siri-ahead-of-wwdc-2024?utm_medium=rss)
- - [Apple&#39;s changes for iOS app distribution in the EU fail to offer fair and reasonable commissions and show disdain for both the DMA and app developers &lpar;Damien Geradin/The Platform Law Blog&rpar;](http://www.techmeme.com/240126/p23#a240126p23)
- - [Microsoft Teams is down around the world, it’s not just you](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
- - [The Pentagon Tried to Hide That It Bought Americans&#39; Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)<!-- TECH:END -->
+ - [Apple&#39;s changes for iOS app distribution in the EU fail to offer fair and reasonable commissions and show disdain for both the DMA and app developers &lpar;Damien Geradin/The Platform Law Blog&rpar;](http://www.techmeme.com/240126/p23#a240126p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

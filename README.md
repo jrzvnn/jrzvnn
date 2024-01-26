@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts is getting auto-generated transcripts with iOS 17.4](https://www.theverge.com/2024/1/26/24051454/apple-podcasts-transcription-ios-17-4)
  - [An interview with Netflix co-CEO Greg Peters on the lack of a Netflix app on the Apple Vision Pro, the WWE deal, content strategy, ads, competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240126/p3#a240126p3)
  - [Apple adds support for transcripts to the Podcasts app in iOS 17.4 beta and says transcripts will be generated automatically after an episode is published &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240126/p2#a240126p2)
  - [Australian Open 2024 Men&#39;s Semifinal: How to Watch Daniil Medvedev vs. Alexander Zverev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-semifinal-how-to-watch-a-daniil-medvedev-vs-alexander-zverev-free-tennis-livestream/#ftag=CAD590a51e)
- - [The George Carlin estate sues Dudesy, which released a comedy special featuring an AI-generated recreation of George Carlin, alleging copyright infringement &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240126/p1#a240126p1)
- - [Apple&#39;s &amp;euro;0.50 Core Technology Fee in the EU would lead to a free or freemium app with 2M annual &quot;first installs&quot; paying $500K+ a year even if no money is earned &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240125/p55#a240125p55)<!-- TECH:END -->
+ - [The George Carlin estate sues Dudesy, which released a comedy special featuring an AI-generated recreation of George Carlin, alleging copyright infringement &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240126/p1#a240126p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

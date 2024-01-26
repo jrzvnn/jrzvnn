@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
+ - [Microsoft details the techniques that Midnight Blizzard used to breach the email accounts of its executives and other organizations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240126/p20#a240126p20)
  - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
  - [The Pixel 8 Pro is one goofy way to take your temperature](https://www.theverge.com/24051531/pixel-8-pro-body-temperature-thermometer-app)
- - [Stay Committed to Your Health in 2024 With 20% Off LifeStraw Pitchers and Dispensers     - CNET](https://www.cnet.com/deals/stay-committed-to-your-health-in-2024-with-20-off-lifestraw-pitchers-and-dispensers/#ftag=CAD590a51e)
- - [&#39;Children of Dune&#39; Is a Very Philosophical Book](https://www.wired.com/2024/01/geeks-guide-children-of-dune/)
- - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)<!-- TECH:END -->
+ - [&#39;Children of Dune&#39; Is a Very Philosophical Book](https://www.wired.com/2024/01/geeks-guide-children-of-dune/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

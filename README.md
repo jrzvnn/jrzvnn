@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which browsers can be set to default for EU users in iOS 17.4](https://appleinsider.com/articles/24/01/26/which-browsers-can-be-set-to-default-for-eu-users-in-ios-174?utm_medium=rss)
+ - [Review of Honor&#39;s Magic V2 foldable, launching in UK and Europe for &amp;pound;1,700: very thin and durable but has a dated OS and processor, and software issues &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240126/p18#a240126p18)
  - [The Biden administration will pause new gas export projects](https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause)
  - [All the new features in iOS 17.4 -- New emoji, EU App Store changes, unreleased devices, and more!](https://appleinsider.com/articles/24/01/26/all-the-new-features-in-ios-174----new-emoji-eu-app-store-changes-unreleased-devices-and-more?utm_medium=rss)
- - [How to keep track of friends and family on your iPhone](https://www.theverge.com/24051550/iphone-apple-location-track-how-to)
- - [US defense and intelligence services are buying troves of data about Americans on the open market](https://appleinsider.com/articles/24/01/26/us-defense-and-intelligence-services-are-buying-troves-of-data-about-americans-on-the-open-market?utm_medium=rss)
- - [Daily deals Jan. 26: H&amp;R Block software $25, $3,000 off Hisense 100&quot; TV, Microsoft software as low as $19.99, more](https://appleinsider.com/articles/24/01/26/daily-deals-jan-26-hr-block-software-25-3000-off-hisense-100-tv-microsoft-software-as-low-as-1999-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to keep track of friends and family on your iPhone](https://www.theverge.com/24051550/iphone-apple-location-track-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

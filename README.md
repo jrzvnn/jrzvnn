@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Sierra, an enterprise-focused AI startup co-founded by Bret Taylor, plans to raise $85M led by Sequoia at a ~$1B valuation; Taylor is on OpenAI&#39;s board &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240125/p54#a240125p54)
+ - [Sources: chipmaking startup Cerebras is weighing an IPO as soon as this year at a valuation higher than the $4B it achieved for its $250M Series F in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240125/p53#a240125p53)
+ - [How to use Translate with the Action Button in iOS 17](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
  - [Taiwan plans to spend ~$7.4M on the Trustworthy AI Dialogue Engine, or Taide, an LLM for businesses, banks, and other customers, to counter China&#39;s influence &lpar;Jennifer Creery/Bloomberg&rpar;](http://www.techmeme.com/240125/p52#a240125p52)
- - [Best Phone Deals: Save With Discounts, Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [LA County agrees to pay $5M to election software maker Konnech CEO Eugene Yu, who was wrongly arrested and charged in 2022 with mishandling voter data &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240125/p51#a240125p51)
- - [Mysk: iPhone apps including Facebook, Instagram, Threads, TikTok, and X are skirting Apple&#39;s privacy rules to collect user data through push notifications &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240125/p50#a240125p50)
- - [Best Internet Providers in Morgantown, West Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-morgantown-wv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Deals: Save With Discounts, Trade-In Credit and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

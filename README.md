@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 👉 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)<!-- MEMES:END -->
+ - 😝 [Wah f**k you going](http://9gag.com/gag/amA3ZBX)
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 😝 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
 
 ---
 

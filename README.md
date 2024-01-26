@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 😝 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
- - 💣 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
  - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---

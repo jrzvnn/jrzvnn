@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hey Gen Z, I promise you aren’t aging like milk](https://www.theverge.com/24052069/gen-z-tiktok-aging-fear-millennials)
+ - [Police Arrest Teen Said to Be Linked to Hundreds of Swatting Attacks](https://www.wired.com/story/torswats-swatting-arrest/)
  - [Pixel 8 Pro&#39;s Thermometer app, which uses an infrared sensor to scan the forehead, has a fiddly user experience and appears to have accuracy issues &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p27#a240126p27)
  - [Reminder: Amazon Prime Video is getting ads next week](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
- - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 15 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 30 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

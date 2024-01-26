@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
- - [Snag an Echo Dot for Just $17 and More Alexa-Powered Deals in This Woot Sale     - CNET](https://www.cnet.com/deals/snag-an-echo-dot-for-just-17-and-more-alexa-powered-deals-in-this-woot-sale/#ftag=CAD590a51e)
- - [Researchers Say the Deepfake Biden Robocall Was Likely Made With Tools From AI Startup ElevenLabs](https://www.wired.com/story/biden-robocall-deepfake-elevenlabs/)
- - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
- - [A federal judge sentences OneCoin lawyer Mark Scott to 10 years in prison for his role in laundering millions of dollars through the crypto scheme &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/240126/p13#a240126p13)<!-- TECH:END -->
+ - [In a supportive gesture to the industry, China approved 115 video games in January, the most in 18 months, after approving 105 titles in December &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240126/p14#a240126p14)
+ - [Zenbivy Bed Sleeping Bag and Quilt Review: Sleep Well Wherever You Go](https://www.wired.com/review/zenbivy-sleeping-bag-quilt-system/)
+ - [Review: &#39;Like a Dragon: Infinite Wealth&#39; Is an Impressive Achievement in Storytelling](https://www.wired.com/review/review-like-a-dragon-infinite-wealth/)
+ - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Surprise! Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 💣 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [`Dear God, may I never be so Body Positive that I watch my child slooooowly roll to their death because I literally cannot stand up and run.`](http://9gag.com/gag/aBdpqRQ)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 😝 [A bit itchy, no?](http://9gag.com/gag/aqe0EvL)
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 💣 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 👉 [London 2024 !](http://9gag.com/gag/anz6mWL)<!-- MEMES:END -->
 
 ---
 

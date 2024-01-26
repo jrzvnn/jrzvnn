@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 💣 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
- - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 😝 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 😝 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
+ - 💣 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---
 

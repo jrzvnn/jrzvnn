@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How Beloved Indie Blog &#39;The Hairpin&#39; Turned Into an AI Clickbait Farm](https://www.wired.com/story/plaintext-hairpin-blog-ai-clickbait-farm/)
  - [Some developers say Apple&#39;s new Core Technology Fee in the EU is eerily similar to the controversial Runtime Fee that Unity touted and withdrew after a backlash &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240126/p16#a240126p16)
  - [Samsung’s new phones replace Google AI with Baidu in China](https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai)
- - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)
- - [How to Convince Your Flat-Earth Friends the Earth Is Round](https://www.wired.com/story/how-to-prove-the-earth-is-round/)<!-- TECH:END -->
+ - [8 Foods That Will Give Your Brain a Serotonin Boost Right Now     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-give-your-brain-a-serotonin-boost-right-now/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Was the Most Pirated Show of 2023](https://www.wired.com/story/the-last-of-us-oppenheimer-most-pirated-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

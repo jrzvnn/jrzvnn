@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
- - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
- - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 😝 [FYI , She&#39;s Allowed To Breed As Well](http://9gag.com/gag/ay2O79X)
+ - 💣 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 👉 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US plans to award billions in subsidies to Intel, TSMC, and other chip makers in coming weeks, amid concerns about slow implementation of CHIPS Act &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/240127/p8#a240127p8)
  - [This MIDI guitar is my favorite new way to make music](https://www.theverge.com/24049757/jamstik-classic-midi-guitar-review)
  - [Apple&#39;s EU App Store changes are extortion, says Spotify](https://appleinsider.com/articles/24/01/27/spotify-ceo-unhappy-with-apples-eu-app-store-extortion?utm_medium=rss)
- - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)
- - [Porsche Rolls Out Its Second All-Electric Car](https://www.wired.com/story/porsche-macan-4-electric/)
- - [Our Favorite Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)<!-- TECH:END -->
+ - [Spice Up Your Emoji Usage With 118 New Icons in iOS 17.4 Beta     - CNET](https://www.cnet.com/tech/mobile/spice-up-your-emoji-usage-with-118-new-icons-in-ios-17-4-beta/#ftag=CAD590a51e)
+ - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

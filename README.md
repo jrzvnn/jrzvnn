@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [Yes that&#39;s me](http://9gag.com/gag/ay2Gy48)
- - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 😝 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 💣 [McLarens carbon fiber air brake](http://9gag.com/gag/aWGzwQq)
  - 😝 [Tettin!!!](http://9gag.com/gag/adPEZOV)
- - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
+ - 👉 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)<!-- MEMES:END -->
 
 ---
 

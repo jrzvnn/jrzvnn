@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 💣 [McLarens carbon fiber air brake](http://9gag.com/gag/aWGzwQq)
+ - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
  - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 👉 [Happens every-time](http://9gag.com/gag/aA0joKg)<!-- MEMES:END -->
+ - 💣 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 

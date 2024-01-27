@@ -162,7 +162,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify CEO unhappy with Apple&#39;s EU App Store &#39;extortion&#39;](https://appleinsider.com/articles/24/01/27/spotify-ceo-unhappy-with-apples-eu-app-store-extortion?utm_medium=rss)
+ - [Apple&#39;s EU App Store changes are extortion, says Spotify](https://appleinsider.com/articles/24/01/27/spotify-ceo-unhappy-with-apples-eu-app-store-extortion?utm_medium=rss)
  - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)
  - [Porsche Rolls Out Its Second All-Electric Car](https://www.wired.com/story/porsche-macan-4-electric/)
  - [Our Favorite Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)

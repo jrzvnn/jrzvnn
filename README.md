@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple removes a requirement that apps with third-party log-ins must offer Sign in with Apple, but requires an equivalent option with certain privacy features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p9#a240127p9)
+ - [Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)
  - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)
  - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)
- - [Sources: the US plans to award billions in subsidies to Intel, TSMC, and other chip makers in coming weeks, amid concerns about slow implementation of CHIPS Act &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/240127/p8#a240127p8)
- - [Every Amazon Alexa Voice Command for Your Home Security Devices     - CNET](https://www.cnet.com/home/security/every-amazon-alexa-voice-command-that-works-with-your-home-security-devices/#ftag=CAD590a51e)
- - [Honor&#39;s Magic V2 Foldable Is Lighter Than Samsung&#39;s Galaxy S24 Ultra     - CNET](https://www.cnet.com/pictures/honors-magic-v2-foldable-is-lighter-than-samsungs-galaxy-s24-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US plans to award billions in subsidies to Intel, TSMC, and other chip makers in coming weeks, amid concerns about slow implementation of CHIPS Act &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/240127/p8#a240127p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

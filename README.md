@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
- - 💣 [London 2024 !](http://9gag.com/gag/anz6mWL)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
+ - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 💣 [McLarens carbon fiber air brake](http://9gag.com/gag/aWGzwQq)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 👉 [Happens every-time](http://9gag.com/gag/aA0joKg)<!-- MEMES:END -->
 
 ---
 

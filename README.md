@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlackRock&#39;s Bitcoin ETF becomes the first of the recently launched spot bitcoin products to reach $2B in assets under management, within 10 days of its debut &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/240127/p2#a240127p2)
  - [iPad users in the EU will miss out on third-party app stores, browser engines, and the new iOS prompt in Safari that asks users to pick a default browser engine &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p1#a240127p1)
  - [Proof, which provides legal document serving, e-filing, and other online litigation services, raised a $30.4M Series B led by Long Ridge Equity Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240126/p37#a240126p37)
  - [Best iPhone Deals 2024: Score Up to $1,100 Off Including iPhone 15 and the Super Affordable iPhone SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
- - [Best TV Deals: Take Up to $700 Off Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best TV Deals: Take Up to $700 Off Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

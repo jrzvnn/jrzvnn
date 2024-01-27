@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 💣 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 👉 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)<!-- MEMES:END -->
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [Now I F**k Around, Then I Find Out.](http://9gag.com/gag/aGEWK57)
+ - 💣 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
 
 ---
 

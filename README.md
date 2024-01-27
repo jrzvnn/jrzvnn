@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 😝 [Now I F**k Around, Then I Find Out.](http://9gag.com/gag/aGEWK57)
- - 💣 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
- - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

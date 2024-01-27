@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 💣 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
+ - 😝 [Dear Slim, I wrote to you but you still ain&#39;t calling](http://9gag.com/gag/awZ60XR)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 👉 [How it&#39;s going](http://9gag.com/gag/ap9WK2p)<!-- MEMES:END -->
 
 ---
 

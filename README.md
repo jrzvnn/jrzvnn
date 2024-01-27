@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 💣 [Nevada ranger knocked down climate protester blockade](http://9gag.com/gag/aREYQ4A)
+ - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
+ - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
  - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)<!-- MEMES:END -->
+ - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 ---
 

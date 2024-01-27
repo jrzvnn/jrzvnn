@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome&#39;s upcoming &quot;Help Me Write&quot; experimental AI feature could be a key step in making the web a place where most words are written by bots instead of people &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240127/p7#a240127p7)
- - [Apple Savings account raises interest to 4.5% APY](https://appleinsider.com/articles/24/01/27/apple-savings-account-raises-interest-to-45-apy?utm_medium=rss)
- - [Galaxy S24 Plus Hands-On: Samsung&#39;s Ultra Might Not Be the One to Buy     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-plus-hands-on-samsungs-ultra-might-not-be-the-one-to-buy/#ftag=CAD590a51e)
- - [Nuvyyo Tablo 4th Gen Review: Cheapest and Best TV Antenna DVR     - CNET](https://www.cnet.com/tech/home-entertainment/nuvyyo-tablo-4th-gen-review-cheapest-and-best-tv-antenna-dvr/#ftag=CAD590a51e)
- - [Netflix Subscription Update: What the Phasing Out of its Basic, Ad-Free Plan Means     - CNET](https://www.cnet.com/tech/services-and-software/netflix-subscription-update-what-the-phasing-out-basic-ad-free-plan-means/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify CEO unhappy with Apple&#39;s EU App Store &#39;extortion&#39;](https://appleinsider.com/articles/24/01/27/spotify-ceo-unhappy-with-apples-eu-app-store-extortion?utm_medium=rss)
+ - [23andMe Failed to Detect Account Intrusions for Months](https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/)
+ - [Porsche Rolls Out Its Second All-Electric Car](https://www.wired.com/story/porsche-macan-4-electric/)
+ - [Our Favorite Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [How to keep track of friends and family on Android](https://www.theverge.com/24051696/android-google-location-track-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

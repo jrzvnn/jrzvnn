@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IRS Free Tax Filing: How &lpar;and When&rpar; Will the New Direct File Program Work?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-tax-filing-how-and-when-will-the-new-direct-file-program-work/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Sheffield United vs. Brighton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-sheffield-united-vs-brighton-from-anywhere/#ftag=CAD590a51e)
- - [Stolen Device Protection on iOS 17.3: Here&#39;s What the New Feature Secures     - CNET](https://www.cnet.com/tech/services-and-software/stolen-device-protection-on-ios-17-3-heres-what-the-new-feature-secures/#ftag=CAD590a51e)
- - [iOS 17.2: How to Easily Change Your iPhone&#39;s Default Alert Tone     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-how-to-easily-change-your-iphones-default-alert-tone/#ftag=CAD590a51e)
- - [16 Best Deals: Desks, Strollers, and Baby Monitors](https://www.wired.com/story/weekend-deals-jan-27-2024/)<!-- TECH:END -->
+ - [16 Best Deals: Desks, Strollers, and Baby Monitors](https://www.wired.com/story/weekend-deals-jan-27-2024/)
+ - [Apps Made the iPhone. They’re Missing on the Vision Pro](https://www.wired.com/story/apps-made-the-iphone-theyre-missing-from-the-vision-pro/)
+ - [Child Tax Credit 2024: Should You Wait to File Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-wait-to-file-your-taxes/#ftag=CAD590a51e)
+ - [A look at the US Copyright Office, which is in the spotlight as it plans to release three key reports in 2024 revealing its position on copyright law and AI &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240127/p6#a240127p6)
+ - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

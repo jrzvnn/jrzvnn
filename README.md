@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Teams went down around the world for over eight hours — it’s recovering](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Best Over-the-Counter Eye Drops of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
  - [First Look at TSA&#39;s Self-Screening Tech &lpar;in VR!&rpar; video     - CNET](https://www.cnet.com/videos/first-look-at-tsas-self-screening-tech-in-vr/#ftag=CAD590a51e)
- - [Microsoft Teams is down around the world, and it’s already been eight hours](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
  - [The Best Cat Toys, According to Our Favorite Felines     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cat-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

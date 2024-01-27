@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX is unloading cryptoassets as bankruptcy advisers look to repay customers; filings: its affiliates&#39; cash pile grew from $2.3B in October to $4.4B at 2023 end &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/240127/p10#a240127p10)
  - [Microsoft tests Windows 11 with a built-in fix for bad meeting audio](https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm)
  - [Apple removes a requirement where apps with third-party logins must offer Sign in with Apple, but requires an equivalent option with certain privacy features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p9#a240127p9)
  - [Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)
- - [Here&#39;s How to Naturally Boost Your Happy Hormones Today     - CNET](https://www.cnet.com/health/mental/heres-how-to-naturally-boost-your-happy-hormones-today/#ftag=CAD590a51e)
- - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s How to Naturally Boost Your Happy Hormones Today     - CNET](https://www.cnet.com/health/mental/heres-how-to-naturally-boost-your-happy-hormones-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

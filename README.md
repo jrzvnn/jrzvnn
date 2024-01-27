@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 👉 [Happens every-time](http://9gag.com/gag/aA0joKg)<!-- MEMES:END -->
+ - 😝 [Very Well...](http://9gag.com/gag/armY6qX)
+ - 😝 [The otaku massacred 36 KyoAni staffs was just sentenced to death.](http://9gag.com/gag/aWGzrox)
+ - 💣 [This should be standard knowledge...](http://9gag.com/gag/aNwN7wb)
+ - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

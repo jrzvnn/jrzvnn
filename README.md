@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 💣 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [Now I F**k Around, Then I Find Out.](http://9gag.com/gag/aGEWK57)
- - 👉 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)<!-- MEMES:END -->
+ - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
 
 ---
 

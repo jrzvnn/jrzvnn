@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
  - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 💣 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 💣 [Remember 2020?](http://9gag.com/gag/anzLe5L)
  - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [Remember 2020?](http://9gag.com/gag/anzLe5L)<!-- MEMES:END -->
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

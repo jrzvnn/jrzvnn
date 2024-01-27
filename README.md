@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [In his new book, a16z VC Chris Dixon argues blockchain is a morally neutral tech that regulators must differentiate from the crypto industry&#39;s casino culture &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240127/p11#a240127p11)
  - [Keep Up With Your Fitness Goals With This Under-Desk Cycle for Just $150     - CNET](https://www.cnet.com/deals/keep-up-with-your-fitness-goals-with-this-under-desk-cycle-for-just-150/#ftag=CAD590a51e)
  - [X appears to block Taylor Swift searches... barely](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
- - [Daily deals Jan. 27: $200 off M2 MacBook Air 24GB RAM, Mac Studio for $1,199, $50 off Beats Studio Pro, more](https://appleinsider.com/articles/24/01/27/daily-deals-jan-27-200-off-m2-macbook-air-24gb-ram-mac-studio-for-1199-50-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

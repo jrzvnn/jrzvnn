@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 😝 [London 2024 !](http://9gag.com/gag/anz6mWL)
+ - 😝 [Yes that&#39;s me](http://9gag.com/gag/ay2Gy48)
+ - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 😝 [Tettin!!!](http://9gag.com/gag/adPEZOV)
+ - 👉 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)<!-- MEMES:END -->
 
 ---
 

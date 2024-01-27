@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
- - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
+ - 😝 [I could never do this job](http://9gag.com/gag/aDYyEVZ)
+ - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 💣 [She belongs to the streets](http://9gag.com/gag/awZwEvQ)
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 👉 [This should be standard knowledge...](http://9gag.com/gag/aNwN7wb)<!-- MEMES:END -->
 
 ---
 

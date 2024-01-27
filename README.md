@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 😝 [FYI , She&#39;s Allowed To Breed As Well](http://9gag.com/gag/ay2O79X)
- - 💣 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 👉 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)<!-- MEMES:END -->
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 💣 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 😝 [In her defense, she didn&#39;t see it coming. I&#39;ll let myself out...](http://9gag.com/gag/avQ30BO)
+ - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 😝 [This one sparks joy](http://9gag.com/gag/a9q9bXo)
- - 💣 [How it&#39;s going](http://9gag.com/gag/ap9WK2p)
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 👉 [Like that&#39;s ever gonna happen](http://9gag.com/gag/a9q9je0)<!-- MEMES:END -->
+ - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 💣 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

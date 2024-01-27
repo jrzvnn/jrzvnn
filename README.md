@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 💣 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
- - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 👉 [Title](http://9gag.com/gag/aPg5ExQ)<!-- MEMES:END -->
+ - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
 
 ---
 

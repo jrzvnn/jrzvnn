@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)
  - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)
  - [Sources: the US plans to award billions in subsidies to Intel, TSMC, and other chip makers in coming weeks, amid concerns about slow implementation of CHIPS Act &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/240127/p8#a240127p8)
- - [This MIDI guitar is my favorite new way to make music](https://www.theverge.com/24049757/jamstik-classic-midi-guitar-review)
- - [Apple&#39;s EU App Store changes are extortion, says Spotify](https://appleinsider.com/articles/24/01/27/spotify-ceo-unhappy-with-apples-eu-app-store-extortion?utm_medium=rss)
- - [Spice Up Your Emoji Usage With 118 New Icons in iOS 17.4 Beta     - CNET](https://www.cnet.com/tech/mobile/spice-up-your-emoji-usage-with-118-new-icons-in-ios-17-4-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every Amazon Alexa Voice Command for Your Home Security Devices     - CNET](https://www.cnet.com/home/security/every-amazon-alexa-voice-command-that-works-with-your-home-security-devices/#ftag=CAD590a51e)
+ - [Honor&#39;s Magic V2 Foldable Is Lighter Than Samsung&#39;s Galaxy S24 Ultra     - CNET](https://www.cnet.com/pictures/honors-magic-v2-foldable-is-lighter-than-samsungs-galaxy-s24-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

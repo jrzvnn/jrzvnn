@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 💣 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 👉 [What do we do now?](http://9gag.com/gag/aL1xZAg)<!-- MEMES:END -->
+ - 😝 [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)
+ - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
+ - 💣 [Would !](http://9gag.com/gag/aBdpDq1)
+ - 😝 [F**kin&#39; Pervert Kings](http://9gag.com/gag/axo5pMK)
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

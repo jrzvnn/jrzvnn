@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple removes a requirement that apps with third-party log-ins must offer Sign in with Apple, but requires an equivalent option with certain privacy features &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p9#a240127p9)
  - [Nomad’s 3-in-1 MagSafe Charger and the Sonos One are down to their best prices](https://www.theverge.com/2024/1/27/24051664/nomad-base-max-3-in-1-charger-samsung-frame-tv-sonos-one-speaker-deal-sale)
+ - [Here&#39;s How to Naturally Boost Your Happy Hormones Today     - CNET](https://www.cnet.com/health/mental/heres-how-to-naturally-boost-your-happy-hormones-today/#ftag=CAD590a51e)
  - [How to hide your Precise Location on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-hide-your-precise-location-on-iphone-and-ipad?utm_medium=rss)
- - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)
- - [Sources: the US plans to award billions in subsidies to Intel, TSMC, and other chip makers in coming weeks, amid concerns about slow implementation of CHIPS Act &lpar;Yuka Hayashi/Wall Street Journal&rpar;](http://www.techmeme.com/240127/p8#a240127p8)<!-- TECH:END -->
+ - [Google’s Lumiere brings AI video closer to real than unreal](https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

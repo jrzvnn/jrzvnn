@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
+ - [Microsoft says some users may be experiencing &quot;multiple issues&quot; with Microsoft Teams, and that it is applying &quot;mitigations across the affected infrastructure&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240126/p35#a240126p35)
+ - [Fossil Group plans to leave the smartwatch business, and says the company will continue to keep its existing Wear OS watches updated &quot;for the next few years&quot; &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240126/p34#a240126p34)
  - [Source: ElevenLabs banned a creator&#39;s account after researchers said the company&#39;s tech was used to make an audio deepfake used in a fake Biden robocall &lpar;Bloomberg&rpar;](http://www.techmeme.com/240126/p33#a240126p33)
- - [White House calls for legislation to stop Taylor Swift AI fakes](https://www.theverge.com/2024/1/26/24052261/taylor-swift-ai-fakes-white-house-responds-legislation)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
- - [Best Outdoor Grill Deals: Shop Now and Save Up to $350 Off     - CNET](https://www.cnet.com/deals/best-grill-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [White House calls for legislation to stop Taylor Swift AI fakes](https://www.theverge.com/2024/1/26/24052261/taylor-swift-ai-fakes-white-house-responds-legislation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

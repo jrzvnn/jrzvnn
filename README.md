@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Deals: Desks, Strollers, and Baby Monitors](https://www.wired.com/story/weekend-deals-jan-27-2024/)
+ - [Apps Made the iPhone. They’re Missing on the Vision Pro](https://www.wired.com/story/apps-made-the-iphone-theyre-missing-from-the-vision-pro/)
+ - [Child Tax Credit 2024: Should You Wait to File Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-wait-to-file-your-taxes/#ftag=CAD590a51e)
  - [A look at the US Copyright Office, which is in the spotlight as it plans to release three key reports in 2024 revealing its position on copyright law and AI &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240127/p6#a240127p6)
- - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
- - [IRS Free File for Tax Season 2024: How It Works, Who&#39;s Eligible and Is It Actually Free?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-for-tax-season-2024-how-it-works-whos-eligible-and-is-it-actually-free/#ftag=CAD590a51e)
- - [Apple&#39;s proposed App Store and iOS changes seek to retain as much control over iOS as possible while staying within the letter of the EU&#39;s DMA &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240127/p5#a240127p5)
- - [Co-founder Binny Bansal steps down from Flipkart&#39;s board, after selling his entire stake in the company, which was acquired by Walmart in 2018, in recent years &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240127/p4#a240127p4)<!-- TECH:END -->
+ - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
- - 💣 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 💣 [Nevada ranger knocked down climate protester blockade](http://9gag.com/gag/aREYQ4A)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 👉 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)<!-- MEMES:END -->
 
 ---
 

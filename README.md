@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
- - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 💣 [Child screams for most of 8 hours long flight](http://9gag.com/gag/a7qQYB2)
  - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aPg5ExQ)<!-- MEMES:END -->
 
 ---
 

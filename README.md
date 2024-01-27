@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
+ - [IRS Free File for Tax Season 2024: How It Works, Who&#39;s Eligible and Is It Actually Free?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-for-tax-season-2024-how-it-works-whos-eligible-and-is-it-actually-free/#ftag=CAD590a51e)
  - [Apple&#39;s proposed App Store and iOS changes seek to retain as much control over iOS as possible while staying within the letter of the EU&#39;s DMA &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240127/p5#a240127p5)
  - [Co-founder Binny Bansal steps down from Flipkart&#39;s board, after selling his entire stake in the company, which was acquired by Walmart in 2018, in recent years &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240127/p4#a240127p4)
- - [Supporters of Israel are using apps to mass report pro-Palestinian content online, raising questions for tech platforms over &quot;citizen-led propaganda&quot; campaigns &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240127/p3#a240127p3)
- - [Microsoft Teams went down around the world for over eight hours — it’s better now](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)<!-- TECH:END -->
+ - [Supporters of Israel are using apps to mass report pro-Palestinian content online, raising questions for tech platforms over &quot;citizen-led propaganda&quot; campaigns &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240127/p3#a240127p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

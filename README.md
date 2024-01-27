@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 💣 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 👉 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)<!-- MEMES:END -->
 
 ---
 

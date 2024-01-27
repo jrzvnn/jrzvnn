@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
- - 😝 [She\u2019s been planning that move for years.](http://9gag.com/gag/a9qoo8W)
- - 💣 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

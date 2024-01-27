@@ -171,8 +171,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
  - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [This one sparks joy](http://9gag.com/gag/a9q9bXo)
  - 💣 [How it&#39;s going](http://9gag.com/gag/ap9WK2p)
  - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
  - 👉 [Like that&#39;s ever gonna happen](http://9gag.com/gag/a9q9je0)<!-- MEMES:END -->

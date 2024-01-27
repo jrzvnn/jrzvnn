@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 💣 [I could never do this job](http://9gag.com/gag/aDYyEVZ)
- - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 😝 [A society that allows this can not and will not survive](http://9gag.com/gag/aBdppGZ)
+ - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
+ - 😝 [Oh that&#39;s cute.....oh!](http://9gag.com/gag/ay2GO4r)
+ - 👉 [I could never do this job](http://9gag.com/gag/aDYyEVZ)<!-- MEMES:END -->
 
 ---
 

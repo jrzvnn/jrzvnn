@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Co-founder Binny Bansal steps down from Flipkart&#39;s board, after selling his entire stake in the company, which was acquired by Walmart in 2018, in recent years &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240127/p4#a240127p4)
  - [Supporters of Israel are using apps to mass report pro-Palestinian content online, raising questions for tech platforms over &quot;citizen-led propaganda&quot; campaigns &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240127/p3#a240127p3)
  - [Microsoft Teams went down around the world for over eight hours — it’s better now](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
  - [BlackRock&#39;s Bitcoin ETF becomes the first of the recently launched spot bitcoin products to reach $2B in assets under management, within 10 days of its debut &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/240127/p2#a240127p2)
- - [Australian Open 2024 Women&#39;s Final: How to Watch Qinwen Zheng vs. Aryna Sabalenka Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-final-how-to-watch-a-qinwen-zheng-vs-aryna-sabalenka-free-tennis-livestream/#ftag=CAD590a51e)
- - [iPad users in the EU will miss out on third-party app stores, browser engines, and the new iOS prompt in Safari that asks users to pick a default browser &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240127/p1#a240127p1)<!-- TECH:END -->
+ - [Australian Open 2024 Women&#39;s Final: How to Watch Qinwen Zheng vs. Aryna Sabalenka Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-womens-final-how-to-watch-a-qinwen-zheng-vs-aryna-sabalenka-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

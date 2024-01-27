@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [Like that&#39;s ever gonna happen](http://9gag.com/gag/a9q9je0)
- - 💣 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [Nope not tonight](http://9gag.com/gag/agoWMev)
+ - 💣 [Jessy we need](http://9gag.com/gag/a8qZPK3)
  - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [This one sparks joy](http://9gag.com/gag/a9q9bXo)<!-- MEMES:END -->
+ - 👉 [Remember 2020?](http://9gag.com/gag/anzLe5L)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proof, which provides legal document serving, e-filing, and other online litigation services, raised a $30.4M Series B led by Long Ridge Equity Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240126/p37#a240126p37)
  - [Best TV Deals: Take Up to $700 Off Samsung, LG, Fire TV, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
  - [Interview with Meta Oversight Board member Pamela San Mart&amp;iacute;n on preparing Meta for a critical year in elections, the weaponization of social platforms, and more &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240126/p36#a240126p36)
- - [Microsoft Teams went down around the world for over eight hours — it’s recovering](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Microsoft Teams went down around the world for over eight hours — it’s recovering](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

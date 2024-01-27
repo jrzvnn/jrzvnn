@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Plus Hands-On: Samsung&#39;s Ultra Might Not Be the One to Buy     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-plus-hands-on-samsungs-ultra-might-not-be-the-one-to-buy/#ftag=CAD590a51e)
- - [Nuvyyo Tablo 4th Gen Review: Cheapest and Best TV Antenna DVR     - CNET](https://www.cnet.com/tech/home-entertainment/nuvyyo-tablo-4th-gen-review-cheapest-and-best-tv-antenna-dvr/#ftag=CAD590a51e)
- - [Netflix Subscription Update: What the Phasing Out of its Basic, Ad-Free Plan Means     - CNET](https://www.cnet.com/tech/services-and-software/netflix-subscription-update-what-the-phasing-out-basic-ad-free-plan-means/#ftag=CAD590a51e)
- - [Here&#39;s What to Expect When Getting Solar Panels Installed     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-install-solar-panels/#ftag=CAD590a51e)
- - [February Social Security Payments: Some Beneficiaries Are Getting Checks This Week     - CNET](https://www.cnet.com/personal-finance/february-social-security-payments-some-beneficiaries-are-getting-checks-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Savings account raises interest to 4.5% APY](https://appleinsider.com/articles/24/01/27/apple-savings-account-raises-interest-to-45-apy?utm_medium=rss)
+ - [Texas Is Already Running Out of Water](https://www.wired.com/story/texas-water-drought-winter-weather-shortage/)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+ - [IRS Free Tax Filing: How &lpar;and When&rpar; Will the New Direct File Program Work?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-tax-filing-how-and-when-will-the-new-direct-file-program-work/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Sheffield United vs. Brighton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-sheffield-united-vs-brighton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

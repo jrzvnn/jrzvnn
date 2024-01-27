@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A society that allows this can not and will not survive](http://9gag.com/gag/aBdppGZ)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
  - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [Oh that&#39;s cute.....oh!](http://9gag.com/gag/ay2GO4r)
- - 👉 [I could never do this job](http://9gag.com/gag/aDYyEVZ)<!-- MEMES:END -->
+ - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
+ - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
 
 ---
 

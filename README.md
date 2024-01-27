@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 😝 [USA love guns](http://9gag.com/gag/aqe0PvM)
- - 💣 [Hmmm!!](http://9gag.com/gag/a3Zmmvm)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 😝 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 💣 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
 
 ---
 

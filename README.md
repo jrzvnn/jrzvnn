@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 💣 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 👉 [You got to take them young.](http://9gag.com/gag/a04BAZn)<!-- MEMES:END -->
 
 ---
 

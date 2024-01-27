@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
+ - 😝 [Happens every-time](http://9gag.com/gag/aA0joKg)
+ - 😝 [Spirited wives always act with confidence](http://9gag.com/gag/aL1xxyW)
+ - 💣 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 👉 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)<!-- MEMES:END -->
 
 ---
 

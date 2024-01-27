@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I unironically respect the hustle](http://9gag.com/gag/adPEZRj)
- - 😝 [No shaking](http://9gag.com/gag/aPg5Nzw)
- - 💣 [Would !](http://9gag.com/gag/aBdpDq1)
- - 😝 [F**kin&#39; Pervert Kings](http://9gag.com/gag/axo5pMK)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 😝 [What do we do now?](http://9gag.com/gag/aL1xZAg)
+ - 😝 [Play stupid games win stupid prizes](http://9gag.com/gag/abv7NDE)
+ - 💣 [Felons reaction to 43 year sentence](http://9gag.com/gag/aDYyKqB)
+ - 😝 [About to face consequences](http://9gag.com/gag/aeQLn0B)
+ - 👉 [Jessy we need](http://9gag.com/gag/a8qZPK3)<!-- MEMES:END -->
 
 ---
 

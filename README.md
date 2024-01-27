@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 💣 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 😝 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
  - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
+ - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
 
 ---
 

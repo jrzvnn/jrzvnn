@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 😝 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
+ - 💣 [I could never do this job](http://9gag.com/gag/aDYyEVZ)
  - 😝 [Your last minutes should be all about the secs](http://9gag.com/gag/ajVppdg)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 💣 [Happens every-time](http://9gag.com/gag/aA0joKg)
- - 😝 [Woman hires a hitman &lpar;which is an undercover cop&rpar; to kill her husband, police stages a murder scene at their house with news camera crews etc. and tells her \u201ethe news\u201c. Her reaction:](http://9gag.com/gag/a04B20B)
- - 👉 [Someone know what happened with Mark?](http://9gag.com/gag/aA0jjbg)<!-- MEMES:END -->
+ - 👉 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)<!-- MEMES:END -->
 
 ---
 

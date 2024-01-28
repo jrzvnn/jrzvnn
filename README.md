@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s gone. Time to accept the truth. It was counter-strike for me.](http://9gag.com/gag/a8qBY2V)
- - 😝 [Must be nice](http://9gag.com/gag/aNw6ojv)
- - 💣 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
- - 😝 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)
- - 👉 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)<!-- MEMES:END -->
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 👉 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)<!-- MEMES:END -->
 
 ---
 

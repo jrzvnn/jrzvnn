@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
- - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 😝 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
- - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
+ - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [Just The Tip](http://9gag.com/gag/aVbNj22)
+ - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
 
 ---
 

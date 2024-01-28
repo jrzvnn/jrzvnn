@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 😝 [Only one way to make change in America](http://9gag.com/gag/anzLYPE)
- - 💣 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 💣 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
  - 😝 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 ---
 

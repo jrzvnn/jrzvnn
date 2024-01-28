@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 💣 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
  - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 

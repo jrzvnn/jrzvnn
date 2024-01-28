@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You forgot](http://9gag.com/gag/aWGwZB4)
- - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 💣 [Uruk-bay](http://9gag.com/gag/a8qBWQO)
- - 😝 [Dream](http://9gag.com/gag/aGEWV60)
- - 👉 [Nevada ranger knocked down climate protester blockade](http://9gag.com/gag/aREYQ4A)<!-- MEMES:END -->
+ - 😝 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
+ - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
 
 ---
 

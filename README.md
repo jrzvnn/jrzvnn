@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
- - 😝 [Wholesome](http://9gag.com/gag/abv9XwB)
- - 💣 [I miss it](http://9gag.com/gag/aA0oRDo)
- - 😝 [Uruk-bay](http://9gag.com/gag/a8qBWQO)
- - 👉 [What would you do with a second chance after loosing everything?](http://9gag.com/gag/abv9XPb)<!-- MEMES:END -->
+ - 😝 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 💣 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
 
 ---
 

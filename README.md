@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
- - 💣 [Take that Todd Howard](http://9gag.com/gag/awZ6r7B)
- - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 👉 [You forgot](http://9gag.com/gag/aWGwZB4)<!-- MEMES:END -->
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
+ - 😝 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
  - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 💣 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
- - 😝 [What would you do with a second chance after loosing everything?](http://9gag.com/gag/abv9XPb)
+ - 💣 [What would you do with a second chance after loosing everything?](http://9gag.com/gag/abv9XPb)
+ - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
  - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 ---

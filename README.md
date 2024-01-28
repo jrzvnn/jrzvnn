@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 💣 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 😝 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
- - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
+ - 💣 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
 
 ---
 

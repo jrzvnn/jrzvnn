@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 😝 [To ask a provocative question.](http://9gag.com/gag/aDYERj7)
- - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 👉 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)<!-- MEMES:END -->
 
 ---
 

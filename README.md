@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 😝 [Must be nice](http://9gag.com/gag/aNw6ojv)
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 💣 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
  - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 💣 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 👉 [Take that Todd Howard](http://9gag.com/gag/awZ6r7B)<!-- MEMES:END -->
 
 ---
 

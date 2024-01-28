@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
  - [X is blocking Taylor Swift searches... barely](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
+ - [I Tried Mill&#39;s Smart Kitchen Bin That Turns Scraps Into Dirt – Just Don&#39;t Call It Compost     - CNET](https://www.cnet.com/news/mill-kitchen-bin-review/#ftag=CAD590a51e)
  - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [Netflix is different now — and there’s no going back](https://www.theverge.com/24051687/netflix-ads-password-sharing-wwe-changes)
- - [Massive $53B US chip fund grant announcements expected within weeks](https://appleinsider.com/articles/24/01/28/massive-53b-us-chip-fund-grant-announcements-expected-within-weeks?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Chandler, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

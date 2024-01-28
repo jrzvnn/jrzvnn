@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 💣 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
+ - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
+ - 😝 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
+ - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 👉 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)<!-- MEMES:END -->
 
 ---
 

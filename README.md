@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
+ - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
  - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 💣 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
 
 ---
 

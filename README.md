@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 😝 [This belongs here.](http://9gag.com/gag/aqeqZVp)
  - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
  - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
+ - 😝 [Just The Tip](http://9gag.com/gag/aVbNj22)
+ - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
 
 ---
 

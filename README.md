@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)
  - [Flash deal: get a lifetime Babbel subscription for $149.97 today only](https://appleinsider.com/articles/24/01/28/flash-deal-get-a-lifetime-babbel-subscription-for-14997-today-only?utm_medium=rss)
  - [Aurzen Boom 3 Projector review: Compact entertainment hub](https://appleinsider.com/articles/24/01/28/aurzen-boom-3-projector-review-compact-entertainment-hub?utm_medium=rss)
  - [Q&amp;A with Simon Willison, Django co-creator and an influential observer of AI software, on copyright concerns over AI, open-source AI models, LLMs, and more &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240128/p7#a240128p7)
- - [Best Garmin Deals: Save Big on Forerunner 245, Vivoactive, Instinct Crossover and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Lions vs. 49ers Livestream: How to Watch the NFL Conference Championship Game Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-49ers-livestream-how-to-watch-the-nfl-conference-championship-game-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Garmin Deals: Save Big on Forerunner 245, Vivoactive, Instinct Crossover and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
+ - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
  - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
+ - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
 
 ---
 

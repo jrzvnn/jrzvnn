@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
+ - [X is blocking Taylor Swift searches... barely](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
  - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
  - [Netflix is different now — and there’s no going back](https://www.theverge.com/24051687/netflix-ads-password-sharing-wwe-changes)
- - [New wave of iPads expected in late March hardware wave](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
- - [Massive $53B US chip fund grant announcements expected within weeks](https://appleinsider.com/articles/24/01/28/massive-53b-us-chip-fund-grant-announcements-expected-within-weeks?utm_medium=rss)
- - [Scientists Just Discovered a New Type of Magnetism](https://www.wired.com/story/scientists-discovered-new-type-magnetism-physics-electrons/)<!-- TECH:END -->
+ - [Massive $53B US chip fund grant announcements expected within weeks](https://appleinsider.com/articles/24/01/28/massive-53b-us-chip-fund-grant-announcements-expected-within-weeks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

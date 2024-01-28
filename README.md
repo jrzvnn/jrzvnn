@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 💣 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 😝 [In her defense, she didn&#39;t see it coming. I&#39;ll let myself out...](http://9gag.com/gag/avQ30BO)
- - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 💣 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2024 Tax Brackets: Your Paycheck May Be Bigger This Year, Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-your-paycheck-may-be-bigger-this-year-heres-why/#ftag=CAD590a51e)
  - [14 States Are Sending Child Tax Credit Payments in 2024. Is Yours?     - CNET](https://www.cnet.com/personal-finance/taxes/14-states-are-sending-child-tax-credit-payments-in-2024-is-yours/#ftag=CAD590a51e)
  - [IRS Delays 1099-K: What PayPal, Venmo and Cash App Users Need to Know for Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/irs-delays-1099-k-what-paypal-venmo-and-cash-app-users-need-to-know-for-tax-season/#ftag=CAD590a51e)
  - [Apple has handled its response, including the proposed App Store changes, to the EU&#39;s DMA with aplomb despite the law being an assault on Apple&#39;s brand promise &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/240128/p3#a240128p3)
- - [Researchers detail the rise of sextortion of young users on TikTok, Instagram, and other apps, driven by Yahoo Boys, an informal West African cybercriminal gang &lpar;Lora Kolodny/NBC News&rpar;](http://www.techmeme.com/240128/p2#a240128p2)
- - [Australian Open 2024 Men&#39;s Final: How to Watch Jannik Sinner vs. Daniil Medvedev Free Tennis Livestream     - CNET](https://www.cnet.com/tech/services-and-software/australian-open-2024-mens-final-how-to-watch-a-jannik-sinner-vs-daniil-medvedev-free-tennis-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail the rise of sextortion of young users on TikTok, Instagram, and other apps, driven by Yahoo Boys, an informal West African cybercriminal gang &lpar;Lora Kolodny/NBC News&rpar;](http://www.techmeme.com/240128/p2#a240128p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

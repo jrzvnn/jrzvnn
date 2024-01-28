@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FYI , She&#39;s Allowed To Breed As Well](http://9gag.com/gag/ay2O79X)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 💣 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
  - 😝 [Only one way to make change in America](http://9gag.com/gag/anzLYPE)
- - 👉 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)<!-- MEMES:END -->
+ - 💣 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 😝 [Dafaq did you just did?](http://9gag.com/gag/aoKbzzx)
+ - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
 
 ---
 

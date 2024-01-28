@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
  - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
+ - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 💣 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 ---
 

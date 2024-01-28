@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
- - 😝 [Best character introduction is this.](http://9gag.com/gag/aVbNOmd)
- - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
  - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
 
 ---

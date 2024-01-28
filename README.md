@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X blocks searches about Taylor Swift as a &quot;temporary action and done with an abundance of caution&quot;, days after explicit AI-generated images of her flooded X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240127/p14#a240127p14)
  - [Sources: DJ Novotney, an Apple VP of hardware engineering who led work on home devices and helped start Apple&#39;s electric vehicle project, is leaving for Rivian &lpar;Bloomberg&rpar;](http://www.techmeme.com/240127/p13#a240127p13)
  - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
  - [With high-stakes elections in 2024, some experts are worried that a piece of disinformation potentially involving a deepfake might soon have a calamitous impact &lpar;Tim Harford/Financial Times&rpar;](http://www.techmeme.com/240127/p12#a240127p12)
- - [X plans to create a content moderation ‘headquarters’ in Austin](https://www.theverge.com/2024/1/27/24053003/x-content-moderation-office-child-sexual-exploitation)
- - [How to set folder background colors in macOS&#39;s Finder](https://appleinsider.com/inside/macos/tips/how-to-set-folder-background-colors-in-macoss-finder?utm_medium=rss)<!-- TECH:END -->
+ - [X plans to create a content moderation ‘headquarters’ in Austin](https://www.theverge.com/2024/1/27/24053003/x-content-moderation-office-child-sexual-exploitation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

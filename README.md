@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
  - 💣 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 👉 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)<!-- MEMES:END -->
+ - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
+ - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 ---
 

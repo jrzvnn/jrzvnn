@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This belongs here.](http://9gag.com/gag/aqeqZVp)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [Just The Tip](http://9gag.com/gag/aVbNj22)
+ - 😝 [There are 9 naturally eternal flames on earth. Here is one of them](http://9gag.com/gag/a7qzLvb)
+ - 😝 [Best character introduction is this.](http://9gag.com/gag/aVbNOmd)
+ - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
  - 👉 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)<!-- MEMES:END -->
 
 ---

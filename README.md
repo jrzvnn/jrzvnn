@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
  - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 😝 [This escalated quickly!](http://9gag.com/gag/a8qZPz3)
- - 💣 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 👉 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)<!-- MEMES:END -->
+ - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe&#39;s blue-chip stocks index Euro Stoxx 50 hits its highest level since 2001, with ASML and SAP, the region&#39;s two biggest tech stocks, leading the charge &lpar;Michael Msika/Bloomberg&rpar;](http://www.techmeme.com/240128/p4#a240128p4)
+ - [Celebrities and Brands Are Coming to BeReal. Can They Be Real?](https://www.wired.com/story/celebrities-brands-on-bereal/)
  - [Mac&#39;s 40th year, Apple Vision Pro&#39;s first and EU App Store changes on the AppleInsider podcast](https://appleinsider.com/articles/24/01/26/macs-40th-year-apple-vision-pros-first-and-eu-app-store-changes-on-the-appleinsider-podcast?utm_medium=rss)
  - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
- - [2024 Tax Brackets: Your Paycheck May Be Bigger This Year, Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-your-paycheck-may-be-bigger-this-year-heres-why/#ftag=CAD590a51e)
- - [14 States Are Sending Child Tax Credit Payments in 2024. Is Yours?     - CNET](https://www.cnet.com/personal-finance/taxes/14-states-are-sending-child-tax-credit-payments-in-2024-is-yours/#ftag=CAD590a51e)
- - [IRS Delays 1099-K: What PayPal, Venmo and Cash App Users Need to Know for Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/irs-delays-1099-k-what-paypal-venmo-and-cash-app-users-need-to-know-for-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2024 Tax Brackets: Your Paycheck May Be Bigger This Year, Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-your-paycheck-may-be-bigger-this-year-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

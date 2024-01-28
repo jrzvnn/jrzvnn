@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
- - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
 
 ---
 

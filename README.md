@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
- - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 😝 [Remember 2020?](http://9gag.com/gag/anzLe5L)
+ - 💣 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 

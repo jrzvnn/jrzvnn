@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be nice](http://9gag.com/gag/aNw6ojv)
  - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 💣 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
+ - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
+ - 💣 [Take that Todd Howard](http://9gag.com/gag/awZ6r7B)
  - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 👉 [Take that Todd Howard](http://9gag.com/gag/awZ6r7B)<!-- MEMES:END -->
+ - 👉 [You forgot](http://9gag.com/gag/aWGwZB4)<!-- MEMES:END -->
 
 ---
 

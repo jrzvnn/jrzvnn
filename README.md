@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
- - 👉 [Just Australia being Australia](http://9gag.com/gag/axo5xyL)<!-- MEMES:END -->
+ - 😝 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)
+ - 😝 [To ask a provocative question.](http://9gag.com/gag/aDYERj7)
+ - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
 
 ---
 

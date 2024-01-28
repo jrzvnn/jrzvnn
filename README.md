@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 💣 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 😝 [Car Is Detecting Entities In a Graveyard](http://9gag.com/gag/aeQvj0O)
+ - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 😝 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 ---
 

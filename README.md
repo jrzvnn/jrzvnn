@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 💣 [What would you do with a second chance after loosing everything?](http://9gag.com/gag/abv9XPb)
- - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
- - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 💣 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 😝 [Only way to end the curse of Disney](http://9gag.com/gag/aREnxPB)
+ - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
 
 ---
 

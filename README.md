@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
- - 💣 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
- - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
+ - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 💣 [Let\u2019s see 9GAG\u2019s community opinion on this](http://9gag.com/gag/aGEXPQn)
+ - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
  - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 💣 [You got to take them young.](http://9gag.com/gag/a04BAZn)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 👉 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)<!-- MEMES:END -->
+ - 💣 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
 
 ---
 

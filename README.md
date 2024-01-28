@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Simon Willison, Django co-creator and an influential observer of AI software, on copyright concerns over AI, open-source AI models, LLMs, and more &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240128/p7#a240128p7)
  - [Aurzen Boom 3 Projector review: Compact entertainment hub](https://appleinsider.com/articles/24/01/28/aurzen-boom-3-projector-review-compact-entertainment-hub?utm_medium=rss)
  - [Best Nintendo Switch Deals: Big Savings on Digital Games, Nintendo Switch Lite and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
  - [Apple Vision Pro vs. Sony PlayStation VR 2 - display, processing &amp; design](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-sony-playstation-vr---display-processing-design?utm_medium=rss)
- - [Purple Carrot Is Offering $100 Off Your First Four Mealboxes     - CNET](https://www.cnet.com/deals/purple-carrot-is-offering-100-off-your-first-four-mealboxes/#ftag=CAD590a51e)
- - [Best Standing Desk Converters of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-standing-desk-converter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Purple Carrot Is Offering $100 Off Your First Four Mealboxes     - CNET](https://www.cnet.com/deals/purple-carrot-is-offering-100-off-your-first-four-mealboxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

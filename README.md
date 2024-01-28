@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 😝 [Jessy we need](http://9gag.com/gag/a8qZPK3)
- - 💣 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
- - 👉 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)<!-- MEMES:END -->
+ - 😝 [Topical Cat Behavior](http://9gag.com/gag/axoXNYp)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 💣 [`It&#39;s a viking thing, you wouldn&#39;t get it`](http://9gag.com/gag/aeQvNeO)
+ - 😝 [What would you do with a second chance after loosing everything?](http://9gag.com/gag/abv9XPb)
+ - 👉 [It is what it is ...](http://9gag.com/gag/abv9XLX)<!-- MEMES:END -->
 
 ---
 

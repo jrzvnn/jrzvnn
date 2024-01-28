@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Massive $53B US chip fund grant announcements expected within weeks](https://appleinsider.com/articles/24/01/28/massive-53b-us-chip-fund-grant-announcements-expected-within-weeks?utm_medium=rss)
+ - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
+ - [Best Laser Cutters and Engravers of 2024     - CNET](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
  - [Scientists Just Discovered a New Type of Magnetism](https://www.wired.com/story/scientists-discovered-new-type-magnetism-physics-electrons/)
- - [Xiaomi Poco X6 and X6 Pro Review: Midrange Value](https://www.wired.com/review/xiaomi-poco-x6-pro-and-poco-x6-phones/)
- - [A star creator’s go-to travel gear](https://www.theverge.com/24051717/masters-of-the-air-palworld-amie-ali-abdaal-psych-installer-newsletter)
- - [Europe&#39;s blue-chip stocks index Euro Stoxx 50 hits its highest level since 2001, with ASML and SAP, the region&#39;s two biggest tech stocks, leading the charge &lpar;Michael Msika/Bloomberg&rpar;](http://www.techmeme.com/240128/p4#a240128p4)
- - [This Is the Fastest Way to Get Your 2024 Tax Refund     - CNET](https://www.cnet.com/personal-finance/taxes/this-is-the-fastest-way-to-get-your-2024-tax-refund/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi Poco X6 and X6 Pro Review: Midrange Value](https://www.wired.com/review/xiaomi-poco-x6-pro-and-poco-x6-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

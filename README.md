@@ -171,7 +171,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The hair color says it all](http://9gag.com/gag/aREYgM2)
+ - 😝 [It&#39;s gone. Time to accept the truth. It was counter-strike for me.](http://9gag.com/gag/a8qBY2V)
  - 😝 [Must be nice](http://9gag.com/gag/aNw6ojv)
  - 💣 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
  - 😝 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)

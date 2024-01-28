@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 28: MacBook Pro $439, iMac $399, Apple Watch Ultra $495, more](https://appleinsider.com/articles/24/01/28/daily-deals-jan-28-macbook-pro-439-imac-399-apple-watch-ultra-495-more?utm_medium=rss)
+ - [Sources: Reddit is targeting a valuation in the mid-single-digit billions for its planned IPO in March; Reddit raised funds at a $10B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240128/p6#a240128p6)
  - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
  - [Sources: Meta believes Apple&#39;s Vision Pro can reinvigorate its $50B metaverse effort, with the Quest ecosystem filling the role played by Android in smartphones &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240128/p5#a240128p5)
- - [These Pantry Staples Will Melt Ugly Cookware Stains in Minutes     - CNET](https://www.cnet.com/how-to/these-pantry-staples-will-melt-ugly-cookware-stains-from-your-pots-and-pans/#ftag=CAD590a51e)
- - [Prioritize Your Eye Health by Using These 10 Daily Tips     - CNET](https://www.cnet.com/health/personal-care/prioritize-your-eye-health-by-using-these-10-daily-tips/#ftag=CAD590a51e)
- - [Stop Weighing Yourself Randomly. Here&#39;s When to Do It for the Best Results     - CNET](https://www.cnet.com/health/fitness/stop-weighing-yourself-randomly-heres-when-to-do-it-for-the-best-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Pantry Staples Will Melt Ugly Cookware Stains in Minutes     - CNET](https://www.cnet.com/how-to/these-pantry-staples-will-melt-ugly-cookware-stains-from-your-pots-and-pans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

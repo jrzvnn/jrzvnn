@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta believes Apple&#39;s Vision Pro can reinvigorate its metaverse effort, with the Quest ecosystem filling the role Android played in smartphones &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240128/p5#a240128p5)
  - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
  - [X is blocking Taylor Swift searches... barely](https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images)
  - [I Tried Mill&#39;s Smart Kitchen Bin That Turns Scraps Into Dirt – Just Don&#39;t Call It Compost     - CNET](https://www.cnet.com/news/mill-kitchen-bin-review/#ftag=CAD590a51e)
- - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [Best Internet Providers in Chandler, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 10 Best Travel Adapters &lpar;2024&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

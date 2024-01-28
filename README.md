@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
- - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
+ - 😝 [The hair color says it all](http://9gag.com/gag/aREYgM2)
+ - 😝 [Must be nice](http://9gag.com/gag/aNw6ojv)
+ - 💣 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
+ - 😝 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)
+ - 👉 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)<!-- MEMES:END -->
 
 ---
 

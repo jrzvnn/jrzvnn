@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)
  - [Sources: Meta believes Apple&#39;s Vision Pro can reinvigorate its metaverse effort, with the Quest ecosystem filling the role Android played in smartphones &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240128/p5#a240128p5)
  - [These Pantry Staples Will Melt Ugly Cookware Stains in Minutes     - CNET](https://www.cnet.com/how-to/these-pantry-staples-will-melt-ugly-cookware-stains-from-your-pots-and-pans/#ftag=CAD590a51e)
  - [Prioritize Your Eye Health by Using These 10 Daily Tips     - CNET](https://www.cnet.com/health/personal-care/prioritize-your-eye-health-by-using-these-10-daily-tips/#ftag=CAD590a51e)
- - [Stop Weighing Yourself Randomly. Here&#39;s When to Do It for the Best Results     - CNET](https://www.cnet.com/health/fitness/stop-weighing-yourself-randomly-heres-when-to-do-it-for-the-best-results/#ftag=CAD590a51e)
- - [New wave of iPads expected in late March hardware releases](https://appleinsider.com/articles/24/01/28/new-wave-of-ipads-expected-in-late-march-hardware-wave?utm_medium=rss)<!-- TECH:END -->
+ - [Stop Weighing Yourself Randomly. Here&#39;s When to Do It for the Best Results     - CNET](https://www.cnet.com/health/fitness/stop-weighing-yourself-randomly-heres-when-to-do-it-for-the-best-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

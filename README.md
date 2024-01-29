@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
+ - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
  - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 😝 [Can confirm](http://9gag.com/gag/aGEWVq0)
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 

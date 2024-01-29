@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
  - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
  - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
 
 ---
 

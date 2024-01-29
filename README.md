@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea-based Rebellions, which develops AI chips, raised a ~$124M Series B led by KT at a ~$658M post-money valuation, taking its total raised to ~$210M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240129/p29#a240129p29)
  - [Meta’s free Code Llama AI programming tool closes the gap with GPT-4](https://www.theverge.com/2024/1/29/24055011/meta-llama2-code-generator-generative-ai)
  - [Xbox president Sarah Bond says that &quot;Apple&#39;s new policy is a step in the wrong direction&quot;, in response to an X post by the Spotify CEO about Apple&#39;s DMA changes &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240129/p28#a240129p28)
- - [TikTok goes full YouTube](https://www.theverge.com/2024/1/29/24054906/tiktok-youtube-horizontal-videos-creators)
- - [Microsoft says Apple’s new App Store rules are ‘a step in the wrong direction’](https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response)
- - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apartment Security Systems in 2024     - CNET](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
+ - [9 Best Portable Grills of 2024, Tested and Reviewed     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

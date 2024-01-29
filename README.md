@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ workplace thriller &#39;Severance&#39; returns to production](https://appleinsider.com/articles/24/01/29/apple-tv-workplace-thriller-severance-returns-to-production?utm_medium=rss)
  - [X blocking &quot;Taylor Swift&quot; searches as explicit AI images spread is a blunt measure to accomplish a basic moderation task, after gutting &quot;trust and safety&quot; staff &lpar;Washington Post&rpar;](http://www.techmeme.com/240129/p21#a240129p21)
  - [Is Apple&#39;s App Store a monopoly or a solution?](https://appleinsider.com/articles/24/01/29/is-apples-app-store-a-monopoly-or-a-solution?utm_medium=rss)
  - [The $10 trillion benefits of overhauling our food system](https://www.theverge.com/2024/1/29/24054325/food-sustainable-agriculture-diet-benefits-report)
- - [The MSI Claw will not have a VRR screen after all](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
- - [Zoom details its visionOS app, which will support 3D file sharing, &quot;real-world pinning&quot; of up to five meeting participants, Apple&#39;s Persona feature, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240129/p20#a240129p20)<!-- TECH:END -->
+ - [The MSI Claw will not have a VRR screen after all](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

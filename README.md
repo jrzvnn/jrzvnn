@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music &amp; iTunes resume after outage while AppleCare+ is still down](https://appleinsider.com/articles/24/01/29/apple-music-and-itunes-resume-after-outage-while-applecare-is-still-down?utm_medium=rss)
- - [GM should just bring back the Chevy Volt](https://www.theverge.com/2024/1/29/24054578/gm-chevy-bolt-hybrids-ev-sales-ultium)
- - [Apple TV+ workplace thriller &#39;Severance&#39; returns to production](https://appleinsider.com/articles/24/01/29/apple-tv-workplace-thriller-severance-returns-to-production?utm_medium=rss)
- - [X blocking &quot;Taylor Swift&quot; searches as explicit AI images spread is a blunt measure to accomplish a basic moderation task, after gutting &quot;trust and safety&quot; staff &lpar;Washington Post&rpar;](http://www.techmeme.com/240129/p21#a240129p21)
- - [Is Apple&#39;s App Store a monopoly or a solution?](https://appleinsider.com/articles/24/01/29/is-apples-app-store-a-monopoly-or-a-solution?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok is testing a feature that could make all posts shoppable, by identifying objects in videos and prompting users to &quot;find similar items on TikTok Shop&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240129/p22#a240129p22)
+ - [Embracer lays off 97 Eidos employees and cancels new Deus Ex game](https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex)
+ - [References to &#39;homeOS&#39; resurface in tvOS 17.4 beta](https://appleinsider.com/articles/24/01/29/references-to-homeos-resurface-in-tvos-174-beta?utm_medium=rss)
+ - [The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off](https://www.theverge.com/2024/1/29/24054234/kobo-elipsa-2-ebook-reader-zendure-supermini-usb-c-charger-eve-smart-plug-deal-sale)
+ - [Apple Music &amp; iTunes resume after outage while AppleCare+ is still down](https://appleinsider.com/articles/24/01/29/apple-music-and-itunes-resume-after-outage-while-applecare-is-still-down?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

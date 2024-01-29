@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD Ryzen 7 8700G and Ryzen 5 8600G review: both offer solid levels of gaming performance for $329 and $229, respectively, especially with AMD&#39;s fastest cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240129/p13#a240129p13)
+ - [&#39;Strong action&#39; is coming if the EU doesn&#39;t like Apple&#39;s App Store concessions](https://appleinsider.com/articles/24/01/29/strong-action-is-coming-if-the-eu-doesnt-like-apples-app-store-concessions?utm_medium=rss)
  - [AR glasses maker Xreal raised $60M from an unidentified supply chain partner at a $1B+ valuation, for $300M+ in funding, and expects $100M-$150M in 2024 revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240129/p12#a240129p12)
  - [Like a Dragon: Infinite Wealth Passes the Torch Forward](https://www.wired.com/story/like-a-dragon-infinite-wealth-passes-the-torch-forward/)
- - [Best Hair Dryers and Diffusers &lpar;2024&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
- - [After Amazon ended its acquisition, iRobot plans to lay off 31% of its staff, or ~350 people, and says chair and CEO Colin Angle will step down; IRBT drops 15%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240129/p11#a240129p11)
- - [Blowout deal: Apple&#39;s 512GB M2 MacBook Pro drops to $1,299](https://appleinsider.com/articles/24/01/29/blowout-deal-apples-512gb-m2-macbook-pro-drops-to-1299?utm_medium=rss)<!-- TECH:END -->
+ - [Best Hair Dryers and Diffusers &lpar;2024&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

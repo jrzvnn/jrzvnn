@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
  - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 💣 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 ---
 

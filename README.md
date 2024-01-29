@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sema4.ai, a three-month-old startup led by ex-Cloudera CEO Rob Bearden aiming to automate business tasks with AI, raised $30.5M and acquires AI startup Robocorp &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/240129/p19#a240129p19)
+ - [Sony’s next PlayStation State of Play streams this week](https://www.theverge.com/2024/1/29/24054261/playstation-state-of-play-february-2024-date-stream)
+ - [Meta partners with the Center for Open Science to share data for researching online well-being, before Wednesday&#39;s Congressional hearing on kids&#39; online safety &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240129/p18#a240129p18)
  - [New Hue lights, Qi2 devices, and Apple Vision Pro home potential on HomeKit Insider](https://appleinsider.com/articles/24/01/29/new-hue-lights-qi2-devices-and-apple-vision-pro-home-potential-on-homekit-insider?utm_medium=rss)
- - [You can soon attend Zoom calls using your Apple Vision Pro](https://appleinsider.com/articles/24/01/29/you-can-soon-attend-zoom-calls-using-your-apple-vision-pro?utm_medium=rss)
- - [US Lawmakers Tell DOJ to Quit Blindly Funding ‘Predictive’ Police Tools](https://www.wired.com/story/doj-predictive-policing-lawmakers-demand/)
- - [Snag Refurb Bose QuietComfort II Earbuds for Just $129     - CNET](https://www.cnet.com/deals/snag-refurb-bose-quietcomfort-ii-earbuds-for-just-129/#ftag=CAD590a51e)
- - [Get 24 Free 10-Ounce Strip Steaks When You Try ButcherBox Right Now     - CNET](https://www.cnet.com/deals/get-24-free-10-ounce-strip-steaks-if-you-sign-up-to-try-butcherbox-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can soon attend Zoom calls using your Apple Vision Pro](https://appleinsider.com/articles/24/01/29/you-can-soon-attend-zoom-calls-using-your-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

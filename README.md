@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
  - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
+ - 😝 [Can confirm](http://9gag.com/gag/aGEWVq0)
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 

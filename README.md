@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - 😝 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
- - 💣 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
- - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
+ - 😝 [Remember him? this is him now](http://9gag.com/gag/anzLqAL)
+ - 💣 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
 
 ---
 

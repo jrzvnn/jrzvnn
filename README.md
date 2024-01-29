@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 💣 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
  - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [That thing is breathing](http://9gag.com/gag/aoKbZ43)<!-- MEMES:END -->
+ - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 ---
 

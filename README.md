@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad’s first Qi2 charger is shipping now for $10 less than its MagSafe model](https://www.theverge.com/2024/1/29/24054150/nomad-stand-qi2-price-release-date-specs-details-15w-fast-charging-magsafe-iphone-15)
  - [Verizon Customers Could Get as Much as $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-as-much-as-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
  - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)
  - [2024 Tax Brackets: Your Paycheck Could Be Bigger This Year. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-your-paycheck-could-be-bigger-this-year-heres-why/#ftag=CAD590a51e)
- - [Tax Season 2024: A Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-a-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [IRS Free File for Tax Season 2024: How It Works, Who&#39;s Eligible and Is It Really Free?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-for-tax-season-2024-how-it-works-whos-eligible-and-is-it-really-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Season 2024: A Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-a-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

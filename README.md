@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)
  - [China has approved more than 40 large language models for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
  - [The Browser Company releases Arc Search, an iOS browser with a feature that takes a user&#39;s query, browses the web, and builds a custom webpage to answer it &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240128/p9#a240128p9)
  - [A look at Warner Bros. Discovery&#39;s push to expand its gaming division with live services and mobile games, by leveraging its franchises like Game of Thrones &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240128/p8#a240128p8)
- - [Best Wireless Car Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
- - [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)<!-- TECH:END -->
+ - [Best Wireless Car Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 😝 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - 💣 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
+ - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
  - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
+ - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
 
 ---
 

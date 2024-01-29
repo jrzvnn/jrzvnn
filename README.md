@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google, Meta, Microsoft, and others balance developing specialized AI chips with their relationship with Nvidia, which has an estimated 70% of AI chip sales &lpar;New York Times&rpar;](http://www.techmeme.com/240129/p14#a240129p14)
  - [MLS Season Pass for Apple TV now available for 2024 matches](https://appleinsider.com/articles/24/01/29/mls-season-pass-for-apple-tv-now-available-for-2024-matches?utm_medium=rss)
  - [AMD Ryzen 7 8700G and Ryzen 5 8600G review: both offer solid levels of gaming performance for $329 and $229, respectively, especially with AMD&#39;s fastest cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240129/p13#a240129p13)
  - [&#39;Strong action&#39; is coming if the EU doesn&#39;t like Apple&#39;s App Store concessions](https://appleinsider.com/articles/24/01/29/strong-action-is-coming-if-the-eu-doesnt-like-apples-app-store-concessions?utm_medium=rss)
- - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)
- - [AR glasses maker Xreal raised $60M from an unidentified supply chain partner at a $1B+ valuation, for $300M+ in funding, and expects $100M-$150M in 2024 revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240129/p12#a240129p12)<!-- TECH:END -->
+ - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

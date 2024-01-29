@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blizzard names Johanna Faries, former general manager for Call of Duty at Activision, as its president, succeeding Mike Ybarra, who left last week amid layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p24#a240129p24)
+ - [Apple says proposed UK legislation could let the country try &quot;to secretly veto new user protections globally&quot;, preventing Apple from shipping them to customers &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/240129/p23#a240129p23)
+ - [Apple&#39;s 15-inch MacBook Air drops to record low $999 at Best Buy](https://appleinsider.com/articles/24/01/29/apples-15-inch-macbook-air-drops-to-record-low-999-at-best-buy?utm_medium=rss)
  - [TikTok is testing a feature that could make all posts shoppable, by identifying objects in videos and prompting users to &quot;find similar items on TikTok Shop&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240129/p22#a240129p22)
- - [Embracer lays off 97 Eidos employees and cancels new Deus Ex game](https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex)
- - [References to &#39;homeOS&#39; resurface in tvOS 17.4 beta](https://appleinsider.com/articles/24/01/29/references-to-homeos-resurface-in-tvos-174-beta?utm_medium=rss)
- - [The Kobo Elipsa 2E, our favorite ebook reader for taking notes, is $50 off](https://www.theverge.com/2024/1/29/24054234/kobo-elipsa-2-ebook-reader-zendure-supermini-usb-c-charger-eve-smart-plug-deal-sale)
- - [Apple Music &amp; iTunes resume after outage while AppleCare+ is still down](https://appleinsider.com/articles/24/01/29/apple-music-and-itunes-resume-after-outage-while-applecare-is-still-down?utm_medium=rss)<!-- TECH:END -->
+ - [Embracer lays off 97 Eidos employees and cancels new Deus Ex game](https://www.theverge.com/2024/1/29/24054659/embracer-eidos-montreal-layoffs-deus-ex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WW2 has some wild stories](http://9gag.com/gag/ap9WEX9)
- - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
+ - 😝 [Best character introduction is this.](http://9gag.com/gag/aVbNOmd)
+ - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 

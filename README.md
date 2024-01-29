@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
  - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - 👉 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)<!-- MEMES:END -->
+ - 👉 [That thing is breathing](http://9gag.com/gag/aoKbZ43)<!-- MEMES:END -->
 
 ---
 

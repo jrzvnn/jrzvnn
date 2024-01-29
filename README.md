@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [New Hue lights, Qi2 devices, and Apple Vision Pro home potential on HomeKit Insider](https://appleinsider.com/articles/24/01/29/new-hue-lights-qi2-devices-and-apple-vision-pro-home-potential-on-homekit-insider?utm_medium=rss)
  - [You can soon attend Zoom calls using your Apple Vision Pro](https://appleinsider.com/articles/24/01/29/you-can-soon-attend-zoom-calls-using-your-apple-vision-pro?utm_medium=rss)
  - [US Lawmakers Tell DOJ to Quit Blindly Funding ‘Predictive’ Police Tools](https://www.wired.com/story/doj-predictive-policing-lawmakers-demand/)
- - [Samsung Galaxy S24 Ultra review: bright screen, anti-glare, Circle to Search, great camera, and seven years of updates, but pricey, heavy, and AI is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240129/p17#a240129p17)
- - [Daily deals Jan. 29: $160 off Apple Watch Series 9, LG 32&quot; UltraGear Gaming Monitor $187, 40% off Hisense 65&quot; 4K TV, more](https://appleinsider.com/articles/24/01/29/daily-deals-jan-29-160-off-apple-watch-series-9-lg-32-ultragear-gaming-monitor-187-40-off-hisense-65-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Snag Refurb Bose QuietComfort II Earbuds for Just $129     - CNET](https://www.cnet.com/deals/snag-refurb-bose-quietcomfort-ii-earbuds-for-just-129/#ftag=CAD590a51e)
+ - [Get 24 Free 10-Ounce Strip Steaks When You Try ButcherBox Right Now     - CNET](https://www.cnet.com/deals/get-24-free-10-ounce-strip-steaks-if-you-sign-up-to-try-butcherbox-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

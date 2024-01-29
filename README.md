@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Warner Bros. Discovery&#39;s push to expand its gaming division with live services and mobile games, by leveraging its franchises like Game of Thrones &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240128/p8#a240128p8)
  - [Best Wireless Car Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)
  - [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios)
  - [How to use Xcode&#39;s FileMerge tool to compare files](https://appleinsider.com/inside/xcode/tips/how-to-use-xcodes-filemerge-tool-to-compare-files?utm_medium=rss)
- - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)
- - [Flash deal: get a lifetime Babbel subscription for $149.97 today only](https://appleinsider.com/articles/24/01/28/flash-deal-get-a-lifetime-babbel-subscription-for-14997-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro says &#39;Hello&#39; in new ad spot](https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
  - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
+ - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
 
 ---
 

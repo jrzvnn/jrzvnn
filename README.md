@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little...](http://9gag.com/gag/aREYP8A)
- - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
- - 👉 [This one took me a lil while](http://9gag.com/gag/aME3QOV)<!-- MEMES:END -->
+ - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 😝 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Child Tax Credit 2024: Should You Wait to File Your Taxes With the IRS?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-wait-to-file-your-taxes-with-the-irs/#ftag=CAD590a51e)
+ - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)
  - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)
- - [China has approved more than 40 large language models for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
- - [The Browser Company releases Arc Search, an iOS browser with a feature that takes a user&#39;s query, browses the web, and builds a custom webpage to answer it &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240128/p9#a240128p9)
+ - [Chinese state media: China has approved more than 40 LLMs for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
+ - [The Browser Company releases Arc Search, a new iOS app that takes a user&#39;s search query, browses the web, and builds a custom webpage to answer the query &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240128/p9#a240128p9)
  - [A look at Warner Bros. Discovery&#39;s push to expand its gaming division with live services and mobile games, by leveraging its franchises like Game of Thrones &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240128/p8#a240128p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

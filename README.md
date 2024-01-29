@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xreal&#39;s attempts to rival Apple Vision Pro boosted with $60 million new funding](https://appleinsider.com/articles/24/01/29/xreals-attempts-to-rival-apple-vision-pro-boosted-with-60-million-new-funding?utm_medium=rss)
+ - [The George Carlin ‘AI’ Standup Creators Now Say a Human Wrote the Jokes](https://www.wired.com/story/george-carlin-ai-standup-written-by-humans/)
+ - [How Blackstone is building a $25B US data center empire via its QTS acquisition, using an estimated 6 GW of electricity when complete, equal to ~5M homes&#39; needs &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/240129/p16#a240129p16)
  - [Zoom meetings are about to get weirder thanks to the Vision Pro](https://www.theverge.com/2024/1/29/24054262/zoom-apple-vision-pro-app-persona)
- - [After fake AI images of Taylor Swift went viral, Microsoft adds safeguards to its AI text-to-image tool Designer; Microsoft couldn&#39;t verify if Designer was used &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240129/p15#a240129p15)
- - [How Google, Meta, Microsoft, and others balance developing specialized AI chips with their relationship with Nvidia, which has an estimated 70% of AI chip sales &lpar;New York Times&rpar;](http://www.techmeme.com/240129/p14#a240129p14)
- - [MLS Season Pass for Apple TV now available for 2024 matches](https://appleinsider.com/articles/24/01/29/mls-season-pass-for-apple-tv-now-available-for-2024-matches?utm_medium=rss)
- - [AMD Ryzen 7 8700G and Ryzen 5 8600G review: both offer solid levels of gaming performance for $329 and $229, respectively, especially with AMD&#39;s fastest cores &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240129/p13#a240129p13)<!-- TECH:END -->
+ - [After fake AI images of Taylor Swift went viral, Microsoft adds safeguards to its AI text-to-image tool Designer; Microsoft couldn&#39;t verify if Designer was used &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240129/p15#a240129p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

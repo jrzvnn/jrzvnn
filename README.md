@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reminder: Amazon Prime Video is getting ads today](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
- - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
- - [The US ODNI appointed cyber expert Jason Barrett in October 2023 to help the intel community harness open-source intel, an area US agencies have struggled with &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p7#a240129p7)
- - [Black Twitter Remains Unbothered](https://www.wired.com/story/black-twitter-post-elon-musk-x/)
- - [Frontier Internet Review: Fiber&#39;s a Go, DSL&#39;s a No     - CNET](https://www.cnet.com/home/internet/frontier-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Presentation: Amazon says Prime Video&#39;s ad load per hour will be two to 3.5 minutes, below traditional TV and most streamers, and expects 195M monthly viewers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/240129/p9#a240129p9)
+ - [The New York Times says users played its puzzles and games more than 8B times in 2023, led by Wordle with 4.8B plays, and the NYT Games app had 10M downloads &lpar;Alex Fitzpatrick/Axios&rpar;](http://www.techmeme.com/240129/p8#a240129p8)
+ - [10 Best TVs We&#39;ve Tested &lpar;2024&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
+ - [Ecoflow Glacier Review: A Portable Refrigerator for Wherever You Go](https://www.wired.com/review/ecoflow-glacier-portable-refrigerator/)
+ - [Reminder: Amazon Prime Video is getting ads today](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

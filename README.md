@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 Ultra review: bright screen, anti-glare, Circle to Search, great camera, and seven years of updates, but pricey, heavy, and AI is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240129/p17#a240129p17)
+ - [Daily deals Jan. 29: $160 off Apple Watch Series 9, LG 32&quot; UltraGear Gaming Monitor $187, 40% off Hisense 65&quot; 4K TV, more](https://appleinsider.com/articles/24/01/29/daily-deals-jan-29-160-off-apple-watch-series-9-lg-32-ultragear-gaming-monitor-187-40-off-hisense-65-4k-tv-more?utm_medium=rss)
+ - [Samsung Galaxy S24 Ultra review: all that and AI](https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery)
  - [Xreal&#39;s attempts to rival Apple Vision Pro boosted with $60 million new funding](https://appleinsider.com/articles/24/01/29/xreals-attempts-to-rival-apple-vision-pro-boosted-with-60-million-new-funding?utm_medium=rss)
- - [The George Carlin ‘AI’ Standup Creators Now Say a Human Wrote the Jokes](https://www.wired.com/story/george-carlin-ai-standup-written-by-humans/)
- - [How Blackstone is building a $25B US data center empire via its QTS acquisition, using an estimated 6 GW of electricity when complete, equal to ~5M homes&#39; needs &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/240129/p16#a240129p16)
- - [Zoom meetings are about to get weirder thanks to the Vision Pro](https://www.theverge.com/2024/1/29/24054262/zoom-apple-vision-pro-app-persona)
- - [After fake AI images of Taylor Swift went viral, Microsoft adds safeguards to its AI text-to-image tool Designer; Microsoft couldn&#39;t verify if Designer was used &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240129/p15#a240129p15)<!-- TECH:END -->
+ - [The George Carlin ‘AI’ Standup Creators Now Say a Human Wrote the Jokes](https://www.wired.com/story/george-carlin-ai-standup-written-by-humans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

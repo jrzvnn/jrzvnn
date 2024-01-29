@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon Customers Could Get as Much as $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-as-much-as-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
  - [China&#39;s chipmakers are ramping up production capacity, helped by the country&#39;s subsidies, raising concerns among western nations about China flooding the market &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240129/p3#a240129p3)
- - [Child Tax Credit 2024: Should You Wait to File Your Taxes With the IRS?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-wait-to-file-your-taxes-with-the-irs/#ftag=CAD590a51e)
- - [At Pwn2Own&#39;s first automotive-focused event, a total of $1.3M+ was awarded across 49 car-related zero-days, which included gaining root access to a Tesla modem &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240129/p2#a240129p2)
- - [Chinese state media: China has approved more than 40 LLMs for public use since authorities began the approval process in August 2023; 14 were approved last week &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240129/p1#a240129p1)
- - [The Browser Company releases Arc Search, a new iOS app that takes a user&#39;s search query, browses the web, and builds a custom webpage to answer the query &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240128/p9#a240128p9)<!-- TECH:END -->
+ - [2024 Tax Brackets: Your Paycheck Could Be Bigger This Year. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-your-paycheck-could-be-bigger-this-year-heres-why/#ftag=CAD590a51e)
+ - [Tax Season 2024: A Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-a-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
+ - [IRS Free File for Tax Season 2024: How It Works, Who&#39;s Eligible and Is It Really Free?     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-for-tax-season-2024-how-it-works-whos-eligible-and-is-it-really-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My GF is a doctor who is way out of my league. She took 60 hours of her precious time to Crochet me this Kraken which is a pouch for my geek ass DnD dices. She is a 9Gagger let her see it.](http://9gag.com/gag/aVbNjqv)
- - 😝 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
- - 💣 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)
- - 😝 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
- - 👉 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)<!-- MEMES:END -->
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [G-rave.](http://9gag.com/gag/a4oDjEA)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 💣 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
  - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
- - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 😝 [Movie fact no one asked for: In the movie The Irishman, Robert De Niro wore platform shoes to stand taller than Al Pacino on set.](http://9gag.com/gag/awZ6K4y)
  - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reminder: Amazon Prime Video is getting ads today](https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder)
  - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
  - [The US ODNI appointed cyber expert Jason Barrett in October 2023 to help the intel community harness open-source intel, an area US agencies have struggled with &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p7#a240129p7)
  - [Black Twitter Remains Unbothered](https://www.wired.com/story/black-twitter-post-elon-musk-x/)
- - [Frontier Internet Review: Fiber&#39;s a Go, DSL&#39;s a No     - CNET](https://www.cnet.com/home/internet/frontier-internet-review/#ftag=CAD590a51e)
- - [How Japan&#39;s $6.4B takeover of key photoresists supplier JSR and ~$4.7B buyout of Fujitsu&#39;s chip-packaging arm Shinko Electric rankled many in the chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240129/p6#a240129p6)<!-- TECH:END -->
+ - [Frontier Internet Review: Fiber&#39;s a Go, DSL&#39;s a No     - CNET](https://www.cnet.com/home/internet/frontier-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

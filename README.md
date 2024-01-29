@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little...](http://9gag.com/gag/aREYP8A)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
+ - 😝 [Kids nowadyas](http://9gag.com/gag/ay2Od7r)
+ - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
+ - 👉 [Wally Wellington demonstrating how bricks could have been moved in ancient times. This a construction worker claims he can build the pyramid with 25 year constructions schedule with just 520 people with just primitive tools.](http://9gag.com/gag/axoXD3Y)<!-- MEMES:END -->
 
 ---
 

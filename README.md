@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
  - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 😝 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 👉 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
- - 💣 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)
+ - 😝 [Just a little...](http://9gag.com/gag/aREYP8A)
  - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MSI Claw will not have a VRR screen after all](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
  - [Zoom announces an app for the Apple Vision Pro, featuring digital personas, 3D file sharing, &quot;real-world pinning&quot; of meeting participants, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240129/p20#a240129p20)
  - [Apple seeds first developer beta of macOS Sonoma 14.4](https://appleinsider.com/articles/24/01/29/apple-seeds-first-developer-beta-of-macos-sonoma-144?utm_medium=rss)
  - [Apple issues first watchOS 10.4 beta to developers](https://appleinsider.com/articles/24/01/29/apple-issues-first-watchos-104-beta-to-developers?utm_medium=rss)
- - [Anker’s MagSafe-friendly 622 Magnetic Battery is half off right now](https://www.theverge.com/2024/1/29/24054421/anker-622-magnetic-battery-maggo-magnetic-qi-charger-deal-sale)
- - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [Anker’s MagSafe-friendly 622 Magnetic Battery is half off right now](https://www.theverge.com/2024/1/29/24054421/anker-622-magnetic-battery-maggo-magnetic-qi-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

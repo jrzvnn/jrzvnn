@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [If you are drunk, don&#39;t go to this bathroom](http://9gag.com/gag/awZ60yD)
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
  - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
 
 ---
 

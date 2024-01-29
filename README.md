@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a months-long probe, Italy&#39;s data protection authority tells OpenAI that it&#39;s suspected of violating EU privacy regulations, giving it 30 days to respond &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240129/p27#a240129p27)
- - [Meta releases Code Llama 70B, a new version of its code generation model, featuring improved code correctness, a variant optimized for Python, and more &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240129/p26#a240129p26)
- - [AI and You: The Job Debate Continues, Social Media Isn&#39;t So Swift Handling Porn Deepfakes     - CNET](https://www.cnet.com/tech/computing/ai-and-you-the-job-debate-continues-social-media-isnt-so-swift-handling-porn-deepfakes/#ftag=CAD590a51e)
- - [Best Family Games for 2024     - CNET](https://www.cnet.com/culture/entertainment/10-best-family-board-games/#ftag=CAD590a51e)
- - [Best Wireless Mouse for 2024     - CNET](https://www.cnet.com/tech/computing/best-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
+ - [Are Contactless Credit Cards the Safest Way to Pay?     - CNET](https://www.cnet.com/personal-finance/credit-cards/are-contactless-credit-cards-the-safest-way-to-pay/#ftag=CAD590a51e)
+ - [Best Melatonin Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
+ - [Best 65-Inch TV of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-65-inch-tv/#ftag=CAD590a51e)
+ - [Amazon Launches Ads in Prime Video Today     - CNET](https://www.cnet.com/tech/services-and-software/amazon-launches-ads-in-prime-video-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

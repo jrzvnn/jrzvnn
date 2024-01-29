@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [It is what it is ...](http://9gag.com/gag/abv9XLX)
- - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
+ - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
 
 ---
 

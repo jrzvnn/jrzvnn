@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart kid](http://9gag.com/gag/aeQvp4p)
- - 😝 [MP5 hard malfunction animation](http://9gag.com/gag/armj4N6)
- - 💣 [Couldnt remove the watermark in the first vid :&lpar;](http://9gag.com/gag/anzLBLV)
- - 😝 [This entire video was made by AI generative tools. This is a fan-made trailer of Warhammer 40K. Truly amazing!](http://9gag.com/gag/awZ6K9Q)
- - 👉 [Rick rolled the entire city.](http://9gag.com/gag/aWGwORA)<!-- MEMES:END -->
+ - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 👉 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)<!-- MEMES:END -->
 
 ---
 

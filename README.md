@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive wanted to combine MacBook Pro and MacBook Air lines](https://appleinsider.com/articles/24/01/29/jony-ive-wanted-to-combine-macbook-pro-and-macbook-air-lines?utm_medium=rss)
+ - [The US ODNI appointed cyber expert Jason Barrett in October 2023 to help the intel community harness open-source intel, an area US agencies have struggled with &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p7#a240129p7)
+ - [Black Twitter Remains Unbothered](https://www.wired.com/story/black-twitter-post-elon-musk-x/)
  - [How Japan&#39;s $6.4B takeover of key photoresists supplier JSR and ~$4.7B buyout of Fujitsu&#39;s chip-packaging arm Shinko Electric rankled many in the chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/240129/p6#a240129p6)
- - [How to emulate SNES, Genesis, and more on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-snes-genesis-and-more-on-apple-silicon-macs?utm_medium=rss)
- - [Japan’s Moon probe regains power after landing upside-down nine days ago](https://www.theverge.com/2024/1/29/24054163/japan-slim-moon-probe-regains-power-solar-panels-lunar-lander)
- - [Source: Japanese telecom NTT and Intel plan to build tech to mass-produce next-gen chips using optical tech to reduce power consumption, a possible game changer &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240129/p5#a240129p5)
- - [Apple updates Shazam to add support for identifying songs from other apps while listening via wired or Bluetooth headphones &lpar;Oliver Haslam/iMore&rpar;](http://www.techmeme.com/240129/p4#a240129p4)<!-- TECH:END -->
+ - [How to emulate SNES, Genesis, and more on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-snes-genesis-and-more-on-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

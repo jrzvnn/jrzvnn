@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
  - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 💣 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)<!-- MEMES:END -->
+ - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
+ - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 👉 [That thing is breathing](http://9gag.com/gag/aoKbZ43)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
- - 😝 [\u200e](http://9gag.com/gag/aBd73DA)
- - 💣 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
- - 😝 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)
- - 👉 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)<!-- MEMES:END -->
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
+ - 💣 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
 
 ---
 

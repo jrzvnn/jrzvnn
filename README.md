@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
  - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 💣 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 👉 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
+ - 👉 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)<!-- MEMES:END -->
 
 ---
 

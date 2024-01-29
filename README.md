@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
  - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
- - 👉 [Nice to see Japanese police do this to migrants](http://9gag.com/gag/a3ZVY28)<!-- MEMES:END -->
+ - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)<!-- MEMES:END -->
 
 ---
 

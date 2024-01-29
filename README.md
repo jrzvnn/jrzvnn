@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 💣 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
  - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)<!-- MEMES:END -->
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
+ - 👉 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)<!-- MEMES:END -->
 
 ---
 

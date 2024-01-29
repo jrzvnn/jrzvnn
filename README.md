@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan’s Moon probe regains power after landing upside-down nine days ago](https://www.theverge.com/2024/1/29/24054163/japan-slim-moon-probe-regains-power-solar-panels-lunar-lander)
+ - [Source: Japanese telecom NTT and Intel plan to build tech to mass-produce next-gen chips using optical tech to reduce power consumption, a possible game changer &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240129/p5#a240129p5)
  - [Apple updates Shazam to add support for identifying songs from other apps while listening via wired or Bluetooth headphones &lpar;Oliver Haslam/iMore&rpar;](http://www.techmeme.com/240129/p4#a240129p4)
- - [After years off Apple&#39;s App Store, &#39;Fortnite&#39; will reappear in the EU](https://appleinsider.com/articles/24/01/26/after-years-off-apples-app-store-fortnite-will-reappear-in-the-eu-on-epics?utm_medium=rss)
- - [14 States Are Sending Out Child Tax Credit Payments in 2024. Is Yours?     - CNET](https://www.cnet.com/personal-finance/taxes/14-states-are-sending-out-child-tax-credit-payments-in-2024-is-yours/#ftag=CAD590a51e)
- - [Save Hundreds on Top-Rated Power Stations During EcoFlow&#39;s Winter Sale     - CNET](https://www.cnet.com/deals/take-hundreds-off-ecoflow-generators-and-accessories-with-these-winter-deals/#ftag=CAD590a51e)
- - [Nomad’s first Qi2 charger is shipping now for $10 less than its MagSafe model](https://www.theverge.com/2024/1/29/24054150/nomad-stand-qi2-price-release-date-specs-details-15w-fast-charging-magsafe-iphone-15)<!-- TECH:END -->
+ - [When Will I Get My 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-will-i-get-my-2024-tax-refund-find-out-here/#ftag=CAD590a51e)
+ - [Ready for New iPhone Emojis? Here Are the 118 Icons Coming in iOS 17.4     - CNET](https://www.cnet.com/tech/mobile/ready-for-new-iphone-emojis-here-are-the-118-icons-coming-in-ios-17-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to emulate SNES, Genesis, and more on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-snes-genesis-and-more-on-apple-silicon-macs?utm_medium=rss)
  - [Japan’s Moon probe regains power after landing upside-down nine days ago](https://www.theverge.com/2024/1/29/24054163/japan-slim-moon-probe-regains-power-solar-panels-lunar-lander)
  - [Source: Japanese telecom NTT and Intel plan to build tech to mass-produce next-gen chips using optical tech to reduce power consumption, a possible game changer &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240129/p5#a240129p5)
  - [Apple updates Shazam to add support for identifying songs from other apps while listening via wired or Bluetooth headphones &lpar;Oliver Haslam/iMore&rpar;](http://www.techmeme.com/240129/p4#a240129p4)
- - [When Will I Get My 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-will-i-get-my-2024-tax-refund-find-out-here/#ftag=CAD590a51e)
- - [Ready for New iPhone Emojis? Here Are the 118 Icons Coming in iOS 17.4     - CNET](https://www.cnet.com/tech/mobile/ready-for-new-iphone-emojis-here-are-the-118-icons-coming-in-ios-17-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When Will I Get My 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-will-i-get-my-2024-tax-refund-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

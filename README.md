@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AR glasses maker Xreal raised $60M from an unidentified supply chain partner at a $1B+ valuation, for $300M+ in funding, and expects $100M-$150M in 2024 revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240129/p12#a240129p12)
+ - [Like a Dragon: Infinite Wealth Passes the Torch Forward](https://www.wired.com/story/like-a-dragon-infinite-wealth-passes-the-torch-forward/)
+ - [Best Hair Dryers and Diffusers &lpar;2024&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
  - [After Amazon ended its acquisition, iRobot plans to lay off 31% of its staff, or ~350 people, and says chair and CEO Colin Angle will step down; IRBT drops 15%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240129/p11#a240129p11)
- - [Blowout deal: Apple&#39;s 512GB M2 MacBook Pro drops to $1,299](https://appleinsider.com/articles/24/01/29/blowout-deal-apples-512gb-m2-macbook-pro-drops-to-1299?utm_medium=rss)
- - [Amazon abandons plans to buy Roomba maker iRobot](https://www.theverge.com/2024/1/29/24034201/amazon-irobot-acquisition-over-antitrust-regulator-scrutiny)
- - [Apple TV+ viewers watched 17 billion minutes of &#39;Ted Lasso&#39; in 2023](https://appleinsider.com/articles/24/01/29/apple-tv-viewers-watched-17-billion-minutes-of-ted-lasso-in-2023?utm_medium=rss)
- - [Amazon ends its $1.4B acquisition of Roomba maker iRobot after clashing with EU regulators and will pay a $94M fee; iRobot has $500M in net losses since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p10#a240129p10)<!-- TECH:END -->
+ - [Blowout deal: Apple&#39;s 512GB M2 MacBook Pro drops to $1,299](https://appleinsider.com/articles/24/01/29/blowout-deal-apples-512gb-m2-macbook-pro-drops-to-1299?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

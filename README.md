@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After a months-long probe, Italy&#39;s data protection authority tells OpenAI that it&#39;s suspected of violating EU privacy regulations, giving it 30 days to respond &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240129/p27#a240129p27)
  - [Meta releases Code Llama 70B, a new version of its code generation model, featuring improved code correctness, a variant optimized for Python, and more &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240129/p26#a240129p26)
  - [OpenAI partners with Common Sense Media on new AI guidelines, curating a family-friendly section of OpenAI&#39;s GPT Store, educational materials, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240129/p25#a240129p25)
  - [Want to Stream With No Ads? That’ll Cost You](https://www.wired.com/story/amazon-prime-video-ad-free-price-hikes/)
- - [Blizzard names Johanna Faries, former general manager for Call of Duty at Activision, as its president, succeeding Mike Ybarra, who left last week amid layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p24#a240129p24)
- - [Set Your Love on Fire With Up to $50 off Solo Stove Fire Pits and Pizza Ovens     - CNET](https://www.cnet.com/deals/set-your-love-on-fire-with-up-to-50-off-solo-stove-fire-pits-and-pizza-ovens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blizzard names Johanna Faries, former general manager for Call of Duty at Activision, as its president, succeeding Mike Ybarra, who left last week amid layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p24#a240129p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

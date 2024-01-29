@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Want to Stream Without Ads? That’ll Cost You](https://www.wired.com/story/amazon-prime-video-ad-free-price-hikes/)
  - [Blizzard names Johanna Faries, former general manager for Call of Duty at Activision, as its president, succeeding Mike Ybarra, who left last week amid layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p24#a240129p24)
+ - [Set Your Love on Fire With Up to $50 off Solo Stove Fire Pits and Pizza Ovens     - CNET](https://www.cnet.com/deals/set-your-love-on-fire-with-up-to-50-off-solo-stove-fire-pits-and-pizza-ovens/#ftag=CAD590a51e)
  - [Apple says proposed UK legislation could let the country try &quot;to secretly veto new user protections globally&quot;, preventing Apple from shipping them to customers &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/240129/p23#a240129p23)
- - [Apple&#39;s 15-inch MacBook Air drops to record low $999 at Best Buy](https://appleinsider.com/articles/24/01/29/apples-15-inch-macbook-air-drops-to-record-low-999-at-best-buy?utm_medium=rss)
- - [TikTok is testing a feature that could make all posts shoppable, by identifying objects in videos and prompting users to &quot;find similar items on TikTok Shop&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240129/p22#a240129p22)<!-- TECH:END -->
+ - [Apple&#39;s 15-inch MacBook Air drops to record low $999 at Best Buy](https://appleinsider.com/articles/24/01/29/apples-15-inch-macbook-air-drops-to-record-low-999-at-best-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

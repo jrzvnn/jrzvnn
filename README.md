@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LMAO \ud83d\udc80](http://9gag.com/gag/amAEqyV)
- - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
- - 💣 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 👉 [How the turn tables](http://9gag.com/gag/aeQv3bQ)<!-- MEMES:END -->
+ - 😝 [That thing is breathing](http://9gag.com/gag/aoKbZ43)
+ - 😝 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
+ - 💣 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
 
 ---
 

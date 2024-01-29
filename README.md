@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s MagSafe-friendly 622 Magnetic Battery is half off right now](https://www.theverge.com/2024/1/29/24054421/anker-622-magnetic-battery-maggo-magnetic-qi-charger-deal-sale)
+ - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
+ - [Microsoft stole my Chrome tabs, and it wants yours, too](https://www.theverge.com/24054329/microsoft-edge-automatic-chrome-import-data-feature)
  - [Evercore forecasts &#39;modest upside&#39; for Apple Q1 2024](https://appleinsider.com/articles/24/01/29/evercore-forecasts-modest-upside-for-apple-q1-2024?utm_medium=rss)
- - [UK could secretly block security worldwide, says Apple](https://appleinsider.com/articles/24/01/29/uk-could-secretly-block-security-worldwide-says-apple?utm_medium=rss)
- - [A scene-y newsletter launches a scene-y social network](https://www.theverge.com/creators/24054294/perfectly-imperfect-pi-fyi-app-tyler-bainbridge)
- - [Sema4.ai, a three-month-old startup led by ex-Cloudera CEO Rob Bearden aiming to automate business tasks with AI, raised $30.5M and acquires AI startup Robocorp &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/240129/p19#a240129p19)
- - [Sony’s next PlayStation State of Play streams this week](https://www.theverge.com/2024/1/29/24054261/playstation-state-of-play-february-2024-date-stream)<!-- TECH:END -->
+ - [UK could secretly block security worldwide, says Apple](https://appleinsider.com/articles/24/01/29/uk-could-secretly-block-security-worldwide-says-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

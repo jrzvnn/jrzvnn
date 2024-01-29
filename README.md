@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 👉 [That thing is breathing](http://9gag.com/gag/aoKbZ43)<!-- MEMES:END -->
+ - 😝 [Smart kid](http://9gag.com/gag/aeQvp4p)
+ - 😝 [MP5 hard malfunction animation](http://9gag.com/gag/armj4N6)
+ - 💣 [Couldnt remove the watermark in the first vid :&lpar;](http://9gag.com/gag/anzLBLV)
+ - 😝 [This entire video was made by AI generative tools. This is a fan-made trailer of Warhammer 40K. Truly amazing!](http://9gag.com/gag/awZ6K9Q)
+ - 👉 [Rick rolled the entire city.](http://9gag.com/gag/aWGwORA)<!-- MEMES:END -->
 
 ---
 

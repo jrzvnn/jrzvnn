@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 💣 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 👉 [Just The Tip](http://9gag.com/gag/aVbNj22)<!-- MEMES:END -->
+ - 😝 [WTF Man, put the TV back on.](http://9gag.com/gag/amAE079)
+ - 😝 [\u200e](http://9gag.com/gag/aBd73DA)
+ - 💣 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
+ - 😝 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)
+ - 👉 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best character introduction is this.](http://9gag.com/gag/aVbNOmd)
  - 😝 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
- - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
+ - 😝 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
+ - 💣 [Who&#39;s gonna tell her?](http://9gag.com/gag/aBd7KzZ)
+ - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 👉 [Take this job and shove it](http://9gag.com/gag/aBd7RDQ)<!-- MEMES:END -->
 
 ---
 

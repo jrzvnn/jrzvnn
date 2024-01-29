@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Lawmakers Tell DOJ to Quit Blindly Funding ‘Predictive’ Police Tools](https://www.wired.com/story/doj-predictive-policing-lawmakers-demand/)
  - [Samsung Galaxy S24 Ultra review: bright screen, anti-glare, Circle to Search, great camera, and seven years of updates, but pricey, heavy, and AI is a mixed bag &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240129/p17#a240129p17)
  - [Daily deals Jan. 29: $160 off Apple Watch Series 9, LG 32&quot; UltraGear Gaming Monitor $187, 40% off Hisense 65&quot; 4K TV, more](https://appleinsider.com/articles/24/01/29/daily-deals-jan-29-160-off-apple-watch-series-9-lg-32-ultragear-gaming-monitor-187-40-off-hisense-65-4k-tv-more?utm_medium=rss)
  - [Samsung Galaxy S24 Ultra review: all that and AI](https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery)
- - [Xreal&#39;s attempts to rival Apple Vision Pro boosted with $60 million new funding](https://appleinsider.com/articles/24/01/29/xreals-attempts-to-rival-apple-vision-pro-boosted-with-60-million-new-funding?utm_medium=rss)
- - [The George Carlin ‘AI’ Standup Creators Now Say a Human Wrote the Jokes](https://www.wired.com/story/george-carlin-ai-standup-written-by-humans/)<!-- TECH:END -->
+ - [Xreal&#39;s attempts to rival Apple Vision Pro boosted with $60 million new funding](https://appleinsider.com/articles/24/01/29/xreals-attempts-to-rival-apple-vision-pro-boosted-with-60-million-new-funding?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

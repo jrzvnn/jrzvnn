@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok goes full YouTube](https://www.theverge.com/2024/1/29/24054906/tiktok-youtube-horizontal-videos-creators)
  - [Microsoft says Apple’s new App Store rules are ‘a step in the wrong direction’](https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response)
  - [Who should stay on and who should leave the EU App Store](https://appleinsider.com/articles/24/01/26/who-should-stay-on-and-who-should-leave-the-eu-app-store?utm_medium=rss)
  - [Are Contactless Credit Cards the Safest Way to Pay?     - CNET](https://www.cnet.com/personal-finance/credit-cards/are-contactless-credit-cards-the-safest-way-to-pay/#ftag=CAD590a51e)
- - [Best Melatonin Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
- - [Best 65-Inch TV of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-65-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Melatonin Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

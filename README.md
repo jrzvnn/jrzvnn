@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s... one way to look at it](http://9gag.com/gag/anzLKz0)
- - 😝 [Now hes not gonna be able to stop](http://9gag.com/gag/aOxXbz3)
- - 💣 [Swollen Hand Prank On Mother](http://9gag.com/gag/ajVo0dR)
- - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
- - 👉 [MP5 hard malfunction animation](http://9gag.com/gag/armj4N6)<!-- MEMES:END -->
+ - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 😝 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 💣 [Argument with mom](http://9gag.com/gag/a3ZVL6v)
+ - 😝 [The Kraken](http://9gag.com/gag/ap9WBw8)
+ - 👉 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 ---
 

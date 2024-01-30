@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some suggested events for Peter Thiel’s all-drug Olympics](https://www.theverge.com/2024/1/30/24055857/peter-thiel-enhanced-games-peds-olympics)
+ - [If you have an Arlo camera or video doorbell, it’s about to get more expensive](https://www.theverge.com/2024/1/30/24055880/arlo-secure-security-camera-price-increase)
+ - [Microsoft Q2: devices revenue down 9% YoY, Windows OEM revenue up 11% YoY, Xbox content and services revenue up 61% YoY, search and news ad revenue up 8% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p27#a240130p27)
  - [iCloud Mail, iCloud Web Apps users endure sudden outage](https://appleinsider.com/articles/24/01/30/icloud-mail-icloud-web-apps-users-endure-sudden-outage?utm_medium=rss)
- - [Alphabet Announces Fourth Quarter and Fiscal Year 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/240130/p26#a240130p26)
- - [Microsoft’s Surface devices down again in Q2 earnings as Xbox picks up Activision revenue](https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft reports Q2 revenue up 18% YoY to $62B, net income up 33% YoY to $21.9B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 9% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240130/p25#a240130p25)
- - [How to get your 2024 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)<!-- TECH:END -->
+ - [Alphabet reports Q4 revenue rose 13% YoY to $86B, net income rose 52% to $20.7B, Google Cloud revenue rose 26% to $9.2B, and headcount dropped 4%+ to 182,502 &lpar;Alphabet&rpar;](http://www.techmeme.com/240130/p26#a240130p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

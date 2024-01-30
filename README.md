@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 💣 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
+ - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
 
 ---
 

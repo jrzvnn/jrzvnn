@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
- - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
- - 💣 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
- - 😝 [Found out](http://9gag.com/gag/aYV2ePm)
- - 👉 [Gender equality btw](http://9gag.com/gag/aGEWDL5)<!-- MEMES:END -->
+ - 😝 [Can confirm](http://9gag.com/gag/aGEWVq0)
+ - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 

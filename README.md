@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/axoXVyp)
- - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
- - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 

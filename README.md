@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Edge imported open Chrome tabs after a Windows update despite Edge&#39;s import tool being disabled; Windows users have reported the behavior for months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p6#a240130p6)
  - [TikTok test automatically identifies products in videos and offers purchase links](https://www.theverge.com/2024/1/30/24055388/tiktok-shoppable-videos-automatic-product-discovery)
  - [&#39;The Morning Show&#39; cast lead PaleyFest LA festival](https://appleinsider.com/articles/24/01/30/the-morning-show-cast-lead-paleyfest-la-festival?utm_medium=rss)
  - [Berlin-based Delivery Hero plans to sell 68.2M shares of Deliveroo, or a ~4.5% stake worth ~&amp;pound;83M, and does not expect to hold any Deliveroo stock afterwards &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240130/p5#a240130p5)
- - [Raspberry Pi CEO Eben Upton says the company is in the early stages of planning a London IPO, appointing two banks, after considering a listing in early 2022 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240130/p4#a240130p4)
- - [Use These Apps to Get Your 2024 Tax Refund Even Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/use-these-apps-to-get-your-2024-tax-refund-even-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raspberry Pi CEO Eben Upton says the company is in the early stages of planning a London IPO, appointing two banks, after considering a listing in early 2022 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240130/p4#a240130p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

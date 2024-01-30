@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Google spent billions of dollars to lay people off](https://www.theverge.com/2024/1/30/24056132/google-spent-two-billion-on-layoffs-severance-fourth-quarter-earnings-2023)
  - [Replika’s new AI therapy app tries to bring you to a zen island](https://www.theverge.com/2024/1/30/24056106/tomo-replika-blush-generative-ai-mental-health)
  - [EA reports Q3 net bookings up 1% YoY to $2.37B, vs. $2.39B est., with EA Sports FC net bookings up 7% YoY, and net revenue of $1.95B, up from $1.88B YoY &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240130/p38#a240130p38)
- - [Best Food and Drink Subscriptions for Valentine&#39;s Day     - CNET](https://www.cnet.com/news/best-food-subscriptions-for-valentines-day/#ftag=CAD590a51e)
- - [Excessive Screen Time Costs Billions, Report Says. Here&#39;s What It Costs Your Health     - CNET](https://www.cnet.com/health/personal-care/excessive-screen-time-costs-billions-report-says-heres-what-it-costs-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube TV listened to sports fans, and it’s fixing multiview’s biggest problem](https://www.theverge.com/2024/1/30/24055945/youtube-tv-multiview-customization-sports-news-weather)
+ - [Arlo, which offers smart home devices, raises the price of its Arlo Secure service from $5/month to $8/month for a single camera, after a price hike in 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240130/p37#a240130p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 💣 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
  - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of the Internet’s Oldest Software Archives Is Shutting Down](https://www.wired.com/story/hobbes-os2-archive-shutting-down/)
  - [Apple Vision Pro: What you need to know beyond the spec sheet and before you buy](https://appleinsider.com/articles/24/01/30/apple-vision-pro-what-you-need-to-know-beyond-the-spec-sheet-and-before-you-buy?utm_medium=rss)
+ - [The 25 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [AirPods Max get new firmware update](https://appleinsider.com/articles/24/01/30/airpods-max-get-new-firmware-update?utm_medium=rss)
- - [In a letter to employees, PayPal says it plans to lay off around 2,500 employees, or about 9% of its workforce, and will cut back on open roles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240130/p23#a240130p23)
- - [Adobe says it has &quot;no plans to further invest&quot; in its XD web-design product, which it put in &quot;maintenance mode&quot; at the outset of its now-scrapped Figma deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240130/p22#a240130p22)
- - [A Microsoft engineer tells WA&#39;s AG he found ways to exploit DALL-E 3 to make explicit images, reported it, but was then told to take down a public post about it &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240130/p21#a240130p21)<!-- TECH:END -->
+ - [In a letter to employees, PayPal says it plans to lay off around 2,500 employees, or about 9% of its workforce, and will cut back on open roles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240130/p23#a240130p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

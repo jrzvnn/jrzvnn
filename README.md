@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
  - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
  - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 

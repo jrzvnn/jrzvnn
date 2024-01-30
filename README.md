@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 😝 [This movie is so good, I watched it blindfolded](http://9gag.com/gag/axoXDNW)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
  - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 😝 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 

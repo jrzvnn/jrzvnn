@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Women](http://9gag.com/gag/axoXVyp)
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 💣 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 

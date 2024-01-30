@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
+ - [AT&amp;T launches branded calls to help filter out spam](https://www.theverge.com/2024/1/30/24055438/branded-phone-calls-spam-robocall-att-transunion)
  - [German police seize nearly 50K bitcoin, worth ~$2.17B, from two suspects who allegedly acquired the bitcoin with profits from an illegal file-sharing platform &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240130/p13#a240130p13)
  - [&#39;Slow Horses&#39; and &#39;Ted Lasso&#39; nominated in UK Casting Awards](https://appleinsider.com/articles/24/01/30/slow-horses-and-ted-lasso-nominated-in-uk-casting-awards?utm_medium=rss)
- - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
- - [Sources: by the end of 2022, &lt;10% of Instagram teens had parental supervision settings on, showing barriers for parents like limited understanding of the tools &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240130/p12#a240130p12)
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)<!-- TECH:END -->
+ - [Sources: by the end of 2022, &lt;10% of Instagram teens had parental supervision settings on, showing barriers for parents like limited understanding of the tools &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240130/p12#a240130p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

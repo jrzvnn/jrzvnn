@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q3 net bookings up 1% YoY to $2.37B, vs. $2.39B est., with EA Sports FC net bookings up 7% YoY, and net revenue of $1.95B, up from $1.88B YoY &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240130/p38#a240130p38)
  - [YouTube TV listened to sports fans, and it’s fixing multiview’s biggest problem](https://www.theverge.com/2024/1/30/24055945/youtube-tv-multiview-customization-sports-news-weather)
  - [Arlo, which offers smart home devices, raises the price of its Arlo Secure service from $5/month to $8/month for a single camera, after a price hike in 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240130/p37#a240130p37)
  - [OpenAI launches the ability for paying ChatGPT users to invoke GPTs directly in chats by typing &quot;@&quot; and selecting a GPT from a list &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p36#a240130p36)
- - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
- - [Source: Figure, which is building a humanoid robot, is in talks to raise as much as $500M in a round led by Microsoft and OpenAI at a $1.9B pre-money valuation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240130/p35#a240130p35)<!-- TECH:END -->
+ - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

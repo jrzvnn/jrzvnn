@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 💣 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)<!-- MEMES:END -->
+ - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Figure, which is building a humanoid robot, is in talks to raise as much as $500M in a round led by Microsoft and OpenAI at a $1.9B pre-money valuation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240130/p35#a240130p35)
+ - [Microsoft reports Q2 Intelligent Cloud revenue up 20% YoY to $25.88B, vs. $25.29B est., with Azure and other cloud services revenue up 30% YoY, vs. 27.7% est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240130/p34#a240130p34)
+ - [Sundar Pichai says Alphabet&#39;s digital subscription services, including YouTube and Google One, are on a $15B annual revenue run rate, up fivefold since 2019 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p33#a240130p33)
  - [Filing: Dell terminates an agreement with VMware to distribute VMware&#39;s products, citing a change in control following Broadcom&#39;s $69B acquisition of VMware &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p32#a240130p32)
- - [Elon Musk won’t get his $55 billion pay package after all](https://www.theverge.com/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected)
- - [Alphabet reports Q4 Google advertising revenue up 11% YoY to $65.5B, vs. $66.1B estimated, with Google Search &amp; other revenue up 13% YoY to $48B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240130/p31#a240130p31)
- - [AMD reports Q4 revenue down 10% YoY to $6.2B, net income up 3,076% to $667M, Data Center revenue up 38% to $2.3B, and Q1 revenue forecast below estimates &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240130/p30#a240130p30)
- - [Match Group reports Q4 revenue up 10% YoY to $866.2M, vs. $861.2M est., paying users fell 5% YoY, forecasts Q1 rev. below expectations, authorizes $1B buyback &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240130/p29#a240130p29)<!-- TECH:END -->
+ - [Elon Musk won’t get his $55 billion pay package after all](https://www.theverge.com/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block begins layoffs under a previously disclosed plan to cut staff by up to 10%, by imposing an &quot;absolute cap&quot; of a 12,000 headcount, which was 13,000 in Q3&#39;23 &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240130/p24#a240130p24)
- - [One of the Internet’s Oldest Software Archives Is Shutting Down](https://www.wired.com/story/hobbes-os2-archive-shutting-down/)
- - [iOS 17.4 Beta 1: What Features Your iPhone Could Get Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-beta-1-what-features-your-iphone-could-get-soon/#ftag=CAD590a51e)
- - [There&#39;s a New Federal Standard for Gas Stoves. Here&#39;s What It Means for Your Kitchen.     - CNET](https://www.cnet.com/how-to/theres-a-new-federal-standard-for-gas-stoves-heres-what-it-means-for-your-kitchen/#ftag=CAD590a51e)
- - [Apple Vision Pro: What you need to know beyond the spec sheet and before you buy](https://appleinsider.com/articles/24/01/30/apple-vision-pro-what-you-need-to-know-beyond-the-spec-sheet-and-before-you-buy?utm_medium=rss)<!-- TECH:END -->
+ - [iCloud Mail, iCloud Web Apps users endure sudden outage](https://appleinsider.com/articles/24/01/30/icloud-mail-icloud-web-apps-users-endure-sudden-outage?utm_medium=rss)
+ - [Alphabet Announces Fourth Quarter and Fiscal Year 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/240130/p26#a240130p26)
+ - [Microsoft’s Surface devices down again in Q2 earnings as Xbox picks up Activision revenue](https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Microsoft reports Q2 revenue up 18% YoY to $62B, net income up 33% YoY to $21.9B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 9% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/240130/p25#a240130p25)
+ - [How to get your 2024 Apple Music Replay playlist](https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

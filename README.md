@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 💣 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
- - 😝 [Gender equality btw](http://9gag.com/gag/aGEWDL5)
- - 👉 [Found out](http://9gag.com/gag/aYV2ePm)<!-- MEMES:END -->
+ - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
+ - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
+ - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
 
 ---
 

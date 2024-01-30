@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Apple has sold upwards of 200K Vision Pro units; Apple began accepting pre-orders for the Vision Pro on January 19 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240129/p30#a240129p30)
- - [SmartLess is leaving Amazon for $100 million](https://www.theverge.com/2024/1/29/24054940/smartless-media-departs-amazon-signs-multi-year-exclusive-pact-with-siriusxm-one-hundred-million)
- - [South Korea-based Rebellions, which develops AI chips, raised a ~$124M Series B led by KT at a ~$658M post-money valuation, taking its total raised to ~$210M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240129/p29#a240129p29)
- - [Meta’s free Code Llama AI programming tool closes the gap with GPT-4](https://www.theverge.com/2024/1/29/24055011/meta-llama2-code-generator-generative-ai)
- - [Xbox president Sarah Bond says that &quot;Apple&#39;s new policy is a step in the wrong direction&quot;, in response to an X post by the Spotify CEO about Apple&#39;s DMA changes &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240129/p28#a240129p28)<!-- TECH:END -->
+ - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
+ - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)
+ - [Elon Musk says Neuralink implanted its device in a human for the first time on January 28, and that the first Neuralink product is called Telepathy &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240129/p33#a240129p33)
+ - [The US DOJ and SEC unveil charges in an alleged $1.9B crypto fraud scheme known as HyperFund &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240129/p32#a240129p32)
+ - [Sources: the US DOJ and FBI received legal authorization to disable aspects of Volt Typhoon, a Chinese hacking operation that compromised thousands of devices &lpar;Reuters&rpar;](http://www.techmeme.com/240129/p31#a240129p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

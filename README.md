@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can confirm](http://9gag.com/gag/aGEWVq0)
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 😝 [Godsdeveloperconsole](http://9gag.com/gag/ajVoAB1)
+ - 😝 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
  - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Well, she actually paid, so... ?](http://9gag.com/gag/a2KnYeY)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 

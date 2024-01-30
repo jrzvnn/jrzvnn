@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)
  - [The Ministry Of Ungentlemanly Warfare is ready to get its hands dirty in new trailer](https://www.theverge.com/24055597/the-ministry-of-ungentlemanly-warfare-trailer)
  - [Apple says Apple Card now has 12M+ customers, over 1M are sharing their card via Apple Card Family, and users earned $1B+ in Daily Cash rewards in the past year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240130/p19#a240130p19)
  - [Hulu Shows Jarring Anti-Hamas Ad Likely Generated With AI](https://www.wired.com/story/hulu-anti-hamas-ad-generative-ai/)
- - [Apple wants you to see &#39;Argylle&#39; and will give you a discount on tickets](https://appleinsider.com/articles/24/01/30/apple-wants-you-to-see-argylle-and-will-give-you-a-discount-on-tickets?utm_medium=rss)
- - [Codeium, whose AI tools help companies write code, raised a $65M Series B led by Kleiner Perkins, a source says at a $500M valuation, and reports 300K+ users &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240130/p18#a240130p18)<!-- TECH:END -->
+ - [Apple wants you to see &#39;Argylle&#39; and will give you a discount on tickets](https://appleinsider.com/articles/24/01/30/apple-wants-you-to-see-argylle-and-will-give-you-a-discount-on-tickets?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

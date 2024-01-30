@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
+ - 👉 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)<!-- MEMES:END -->
 
 ---
 

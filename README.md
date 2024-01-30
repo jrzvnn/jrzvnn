@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
- - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 💣 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
+ - 😝 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
+ - 👉 [Found out](http://9gag.com/gag/aYV2ePm)<!-- MEMES:END -->
 
 ---
 

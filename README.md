@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [PitchBook: VCs in the US have $311B in unspent cash, as they shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
  - [MSI confirms the Claw will have a 48-120Hz VRR screen](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
+ - [Best Camera and Photo Gear for Your Summer Travel     - CNET](https://www.cnet.com/tech/computing/best-camera-and-photo-gear-for-your-summer-travel/#ftag=CAD590a51e)
  - [A look at J.E.T, a chip equipment maker whose shares rose 166% since its September 2023 Tokyo IPO, as it eyes subsidy-fueled demand to lower reliance on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p38#a240129p38)
- - [How to quickly make desktop aliases from Dock apps in macOS](https://appleinsider.com/inside/macos/tips/how-to-quickly-make-desktop-aliases-from-dock-apps-in-macos?utm_medium=rss)
- - [ICANN proposes .INTERNAL, a new TLD available for internal use but never plumbed into the global DNS, taking on the same role as 192.168.x.x IPv4 bloc &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240129/p37#a240129p37)<!-- TECH:END -->
+ - [How to quickly make desktop aliases from Dock apps in macOS](https://appleinsider.com/inside/macos/tips/how-to-quickly-make-desktop-aliases-from-dock-apps-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Binance has bowed to pressure from customers to let them store assets with an independent custodian, highlighting growing unease after the US fines &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240130/p10#a240130p10)
  - [15 Best Laptop Backpacks &lpar;2024&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
  - [Future Apple Vision Pro could limit playback based on where you are](https://appleinsider.com/articles/24/01/30/future-apple-vision-pro-could-limit-playback-based-on-where-you-are?utm_medium=rss)
  - [Sources and documents: TikTok managers sometimes tell Project Texas staff to send data, including email and IP, to ByteDance without going via official channels &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p9#a240130p9)
- - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac](https://appleinsider.com/articles/24/01/30/death-stranding-directors-cut-hits-iphone-ipad-and-mac?utm_medium=rss)
- - [Kore.ai, which offers enterprise-focused conversational AI and GenAI tools, raised $150M led by FTV Capital, Nvidia, and others, taking its funding to ~$223M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p8#a240130p8)<!-- TECH:END -->
+ - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac](https://appleinsider.com/articles/24/01/30/death-stranding-directors-cut-hits-iphone-ipad-and-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

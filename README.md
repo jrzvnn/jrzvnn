@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Just a little...](http://9gag.com/gag/aREYP8A)
- - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 

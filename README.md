@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block begins layoffs under a previously disclosed plan to cut staff by up to 10%, by imposing an &quot;absolute cap&quot; of a 12,000 headcount, which was 13,000 in Q3&#39;23 &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240130/p24#a240130p24)
  - [One of the Internet’s Oldest Software Archives Is Shutting Down](https://www.wired.com/story/hobbes-os2-archive-shutting-down/)
  - [Apple Vision Pro: What you need to know beyond the spec sheet and before you buy](https://appleinsider.com/articles/24/01/30/apple-vision-pro-what-you-need-to-know-beyond-the-spec-sheet-and-before-you-buy?utm_medium=rss)
  - [The 25 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [AirPods Max get new firmware update](https://appleinsider.com/articles/24/01/30/airpods-max-get-new-firmware-update?utm_medium=rss)
- - [In a letter to employees, PayPal says it plans to lay off around 2,500 employees, or about 9% of its workforce, and will cut back on open roles &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240130/p23#a240130p23)<!-- TECH:END -->
+ - [AirPods Max get new firmware update](https://appleinsider.com/articles/24/01/30/airpods-max-get-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

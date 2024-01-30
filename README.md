@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 💣 [Banana](http://9gag.com/gag/amAEred)
  - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
+ - 😝 [Banana](http://9gag.com/gag/amAEred)
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 👉 [India is not for beginner](http://9gag.com/gag/a9q97KZ)<!-- MEMES:END -->
 
 ---
 

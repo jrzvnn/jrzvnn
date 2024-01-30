@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.4 beta 1 gets rare mid-stream update](https://appleinsider.com/articles/24/01/30/ios-174-beta-1-gets-rare-mid-stream-update?utm_medium=rss)
+ - [The New York Times is building a team to explore AI in the newsroom](https://www.theverge.com/2024/1/30/24055718/new-york-times-generative-ai-machine-learning)
  - [Apple&#39;s visionOS doesn&#39;t let users rearrange home screen icons or pin web apps to the home screen, particularly limiting as Netflix and YouTube lack native apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240130/p20#a240130p20)
  - [Apple Card&#39;s 12 million users are taking advantage of everything it has to offer](https://appleinsider.com/articles/24/01/30/apple-cards-12-million-users-are-taking-advantage-of-everything-it-has-to-offer?utm_medium=rss)
- - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)
- - [The Ministry Of Ungentlemanly Warfare is ready to get its hands dirty in new trailer](https://www.theverge.com/24055597/the-ministry-of-ungentlemanly-warfare-trailer)
- - [Apple says Apple Card now has 12M+ customers, over 1M are sharing their card via Apple Card Family, and users earned $1B+ in Daily Cash rewards in the past year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240130/p19#a240130p19)<!-- TECH:END -->
+ - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

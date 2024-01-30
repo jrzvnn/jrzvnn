@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool device](http://9gag.com/gag/aOxXdrR)
- - 😝 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
- - 💣 [Found out](http://9gag.com/gag/aYV2ePm)
- - 😝 [Gender equality btw](http://9gag.com/gag/aGEWDL5)
- - 👉 [Wally Wellington demonstrating how bricks could have been moved in ancient times. This a construction worker claims he can build the pyramid with 25 year constructions schedule with just 520 people with just primitive tools.](http://9gag.com/gag/axoXD3Y)<!-- MEMES:END -->
+ - 😝 [How to get everyone&#39;s attention.](http://9gag.com/gag/aXn5Amg)
+ - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 💣 [All good things come to end....](http://9gag.com/gag/a1PGeg2)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
 
 ---
 

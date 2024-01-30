@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents: TikTok managers sometimes tell Project Texas staff to send data, including email and IP, to ByteDance without going via official channels &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p9#a240130p9)
+ - [&#39;Death Stranding: Director&#39;s Cut&#39; hits iPhone, iPad, and Mac](https://appleinsider.com/articles/24/01/30/death-stranding-directors-cut-hits-iphone-ipad-and-mac?utm_medium=rss)
  - [Kore.ai, which offers enterprise-focused conversational AI and GenAI tools, raised $150M led by FTV Capital, Nvidia, and others, taking its funding to ~$223M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p8#a240130p8)
  - [Portal, a startup building a BTC-based cross-chain decentralized exchange and wallet, raised a $34M seed from Coinbase and others, taking its funding to $42.5M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240130/p7#a240130p7)
- - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)
- - [Expanding iPhone could use a sliding body design and a flexible screen](https://appleinsider.com/articles/21/07/20/expanding-iphone-could-use-a-sliding-body-design-and-a-flexible-screen?utm_medium=rss)
- - [Apple TV+ Is the New HBO](https://www.wired.com/story/apple-tv-plus-is-the-new-hbo-max/)<!-- TECH:END -->
+ - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

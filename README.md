@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
- - 😝 [Look at their smiles](http://9gag.com/gag/a9q97jL)
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 💣 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 👉 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)<!-- MEMES:END -->
 
 ---
 

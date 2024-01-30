@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
  - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Banana](http://9gag.com/gag/amAEred)<!-- MEMES:END -->
+ - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
 
 ---
 

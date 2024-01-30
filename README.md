@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [PitchBook: US VCs have $311B in unspent cash, as investors shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
  - [MSI confirms the Claw will have a 48-120Hz VRR screen](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
  - [Best Camera and Photo Gear for Your Summer Travel     - CNET](https://www.cnet.com/tech/computing/best-camera-and-photo-gear-for-your-summer-travel/#ftag=CAD590a51e)
- - [A look at J.E.T, a chip equipment maker whose shares rose 166% since its September 2023 Tokyo IPO, as it eyes subsidy-fueled demand to lower reliance on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p38#a240129p38)<!-- TECH:END -->
+ - [A look at chip equipment maker J.E.T, which is up 166% since its September 2023 Tokyo IPO, as the company eyes subsidy-fueled demand to lower its China reliance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240129/p38#a240129p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

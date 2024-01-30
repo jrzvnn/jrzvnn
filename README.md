@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘Take Our Border Back’ Convoy Is Already a Complete Mess](https://www.wired.com/story/day-one-take-our-border-back-convoy-texas/)
  - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)
  - [The latest iPad Air has dropped to an all-time low](https://www.theverge.com/2024/1/30/24054324/apple-ipad-air-m1-aqara-smart-lock-u100-google-pixel-8-deal-sale)
  - [Universal’s next big park will include werewolves, dragons, and Super Mario](https://www.theverge.com/24055456/super-nintendo-world-universal-epic-universe-florida)
- - [Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet](https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk)
- - [Memo: TechCrunch plans to wind down TC+, its paid subscription product launched in 2019 as ExtraCrunch, and lays off ~8 staffers, amid industry-wide cutbacks &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240130/p14#a240130p14)<!-- TECH:END -->
+ - [Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet](https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

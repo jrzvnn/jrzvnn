@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Dell terminates an agreement with VMware to distribute VMware&#39;s products, citing a change in control following Broadcom&#39;s $69B acquisition of VMware &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240130/p32#a240130p32)
+ - [Elon Musk won’t get his $55 billion pay package after all](https://www.theverge.com/2024/1/30/24056177/elon-musk-tesla-tornetta-55-billion-pay-package-rejected)
  - [Alphabet reports Q4 Google advertising revenue up 11% YoY to $65.5B, vs. $66.1B estimated, with Google Search &amp; other revenue up 13% YoY to $48B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240130/p31#a240130p31)
  - [AMD reports Q4 revenue down 10% YoY to $6.2B, net income up 3,076% to $667M, Data Center revenue up 38% to $2.3B, and Q1 revenue forecast below estimates &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240130/p30#a240130p30)
- - [Match Group reports Q4 revenue up 10% YoY to $866.2M, vs. $861.2M est., paying users fell 5% YoY, forecasts Q1 rev. below expectations, authorizes $1B buyback &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240130/p29#a240130p29)
- - [YouTube Q4 2023 ad revenue rose 15.5% YoY to $9.2B, roughly in line with expectations; in Q4 2022, YouTube&#39;s ad sales fell almost 8% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p28#a240130p28)
- - [Some suggested events for Peter Thiel’s all-drug Olympics](https://www.theverge.com/2024/1/30/24055857/peter-thiel-enhanced-games-peds-olympics)<!-- TECH:END -->
+ - [Match Group reports Q4 revenue up 10% YoY to $866.2M, vs. $861.2M est., paying users fell 5% YoY, forecasts Q1 rev. below expectations, authorizes $1B buyback &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240130/p29#a240130p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

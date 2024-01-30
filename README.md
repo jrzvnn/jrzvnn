@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
- - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 😝 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
+ - 😝 [Cool device](http://9gag.com/gag/aOxXdrR)
+ - 💣 [Gender equality btw](http://9gag.com/gag/aGEWDL5)
+ - 😝 [Wally Wellington demonstrating how bricks could have been moved in ancient times. This a construction worker claims he can build the pyramid with 25 year constructions schedule with just 520 people with just primitive tools.](http://9gag.com/gag/axoXD3Y)
+ - 👉 [Time for......](http://9gag.com/gag/axoXDWM)<!-- MEMES:END -->
 
 ---
 

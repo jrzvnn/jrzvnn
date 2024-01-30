@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Microsoft engineer tells WA&#39;s AG he found ways to exploit DALL-E 3 to make explicit images, reported it, but was then told to take down a public post about it &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240130/p21#a240130p21)
+ - [Art collective MSCHF is streaming movies like Barbie in ASCII for free](https://www.theverge.com/2024/1/30/24055041/ascii-theater-mschf-copyright-law-barbie-film-streaming)
  - [How to stop location tracking on your Android phone &lpar;mostly&rpar;](https://www.theverge.com/21401280/android-location-tracking-history-stop-how-to)
  - [Daily deals Jan. 30: AirPods Pro $155, $300 off MacBook Air, Apple accessories from $9.99, more](https://appleinsider.com/articles/24/01/30/daily-deals-jan-30-airpods-pro-155-300-off-macbook-air-apple-accessories-from-999-more?utm_medium=rss)
- - [iOS 17.4 beta 1 gets rare mid-stream update](https://appleinsider.com/articles/24/01/30/ios-174-beta-1-gets-rare-mid-stream-update?utm_medium=rss)
- - [The New York Times is building a team to explore AI in the newsroom](https://www.theverge.com/2024/1/30/24055718/new-york-times-generative-ai-machine-learning)
- - [Apple&#39;s visionOS doesn&#39;t let users rearrange home screen icons or pin web apps to the home screen, particularly limiting as Netflix and YouTube lack native apps &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240130/p20#a240130p20)<!-- TECH:END -->
+ - [iOS 17.4 beta 1 gets rare mid-stream update](https://appleinsider.com/articles/24/01/30/ios-174-beta-1-gets-rare-mid-stream-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

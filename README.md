@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cast of Scooby Doo before and now. Feel old now?](http://9gag.com/gag/az20VoB)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 💣 [The 19th amendment](http://9gag.com/gag/a8qBb0Z)
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 👉 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)<!-- MEMES:END -->
+ - 😝 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
+ - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
+ - 💣 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
+ - 😝 [Found out](http://9gag.com/gag/aYV2ePm)
+ - 👉 [Gender equality btw](http://9gag.com/gag/aGEWDL5)<!-- MEMES:END -->
 
 ---
 

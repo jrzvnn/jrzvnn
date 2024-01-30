@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Berlin-based Delivery Hero plans to sell 68.2M shares of Deliveroo, or a ~4.5% stake worth ~&amp;pound;83M, and does not expect to hold any Deliveroo stock afterwards &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240130/p5#a240130p5)
  - [Raspberry Pi CEO Eben Upton says the company is in the early stages of planning a London IPO, appointing two banks, after considering a listing in early 2022 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240130/p4#a240130p4)
- - [The AI boom has spurred law firms, hospitals, insurance companies, government agencies, and others to create chief AI officer roles to navigate the use of AI &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240130/p3#a240130p3)
- - [Tax Season 2024: Are SSI Recipients Required to File Taxes This Year? What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-are-ssi-recipients-required-to-file-taxes-this-year-what-to-know/#ftag=CAD590a51e)
- - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use These Apps to Get Your 2024 Tax Refund Even Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/use-these-apps-to-get-your-2024-tax-refund-even-sooner/#ftag=CAD590a51e)
+ - [14 States Are Sending Out Child Tax Credit Payments in 2024. Is Yours?     - CNET](https://www.cnet.com/personal-finance/taxes/14-states-are-sending-out-child-tax-credit-payments-in-2024-is-yours/#ftag=CAD590a51e)
+ - [Early Birds Get Their Tax Refunds First: Why You Should File Your Taxes as Soon as You Can     - CNET](https://www.cnet.com/personal-finance/taxes/early-birds-get-their-tax-refunds-first-why-you-should-file-your-taxes-as-soon-as-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

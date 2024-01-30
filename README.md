@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York&#39;s AG sues Citibank over allegedly failing to defend customers from online scams, citing poor responses to red flags and failing to reimburse victims &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240130/p16#a240130p16)
- - [FEMA will pay states to install solar panels and heat pumps](https://www.theverge.com/2024/1/30/24055546/fema-solar-panel-pay-costs-disaster-reimbursement)
- - [Your home network might soon get a new — and simpler — name](https://www.theverge.com/2024/1/30/24055534/web-private-network-internal-icann-name)
- - [A look at Intel&#39;s mistakes during Brian Krzanich&#39;s CEO tenure, and Pat Gelsinger&#39;s attempt to turn Intel into a foundry for chip developers, partnering with UMC &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240130/p15#a240130p15)
- - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Hulu Shows Jarring Anti-Hamas Ad Likely Generated With AI](https://www.wired.com/story/hulu-anti-hamas-ad-generative-ai/)
+ - [Apple wants you to see &#39;Argylle&#39; and will give you a discount on tickets](https://appleinsider.com/articles/24/01/30/apple-wants-you-to-see-argylle-and-will-give-you-a-discount-on-tickets?utm_medium=rss)
+ - [Codeium, whose AI tools help companies write code, raised a $65M Series B led by Kleiner Perkins, a source says at a $500M valuation, and reports 300K+ users &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240130/p18#a240130p18)
+ - [GM plans to cut Cruise spending by half in 2024, or by ~$1B, but remains committed to the self-driving unit and will &quot;soon&quot; give a timeline to resume operations &lpar;Reuters&rpar;](http://www.techmeme.com/240130/p17#a240130p17)
+ - [Why Sen. Brian Schatz thinks child safety bills should trump the First Amendment](https://www.theverge.com/24054658/senator-brian-schatz-congress-kosa-first-amendment-regulation-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

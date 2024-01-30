@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
  - 😝 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 👉 [All good things come to end....](http://9gag.com/gag/a1PGeg2)<!-- MEMES:END -->
+ - 💣 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [Just a little...](http://9gag.com/gag/aREYP8A)
+ - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
 
 ---
 

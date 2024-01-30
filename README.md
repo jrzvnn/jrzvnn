@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arlo, which offers smart home devices, raises the price of its Arlo Secure service from $5/month to $8/month for a single camera, after a price hike in 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240130/p37#a240130p37)
  - [OpenAI launches the ability for paying ChatGPT users to invoke GPTs directly in chats by typing &quot;@&quot; and selecting a GPT from a list &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240130/p36#a240130p36)
  - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
  - [Source: Figure, which is building a humanoid robot, is in talks to raise as much as $500M in a round led by Microsoft and OpenAI at a $1.9B pre-money valuation &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240130/p35#a240130p35)
- - [Microsoft reports Q2 Intelligent Cloud revenue up 20% YoY to $25.88B, vs. $25.29B est., with Azure and other cloud services revenue up 30% YoY, vs. 27.7% est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240130/p34#a240130p34)
- - [Sundar Pichai says Alphabet&#39;s digital subscription services, including YouTube and Google One, are on a $15B annual revenue run rate, up fivefold since 2019 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p33#a240130p33)<!-- TECH:END -->
+ - [Microsoft reports Q2 Intelligent Cloud revenue up 20% YoY to $25.88B, vs. $25.29B est., with Azure and other cloud services revenue up 30% YoY, vs. 27.7% est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240130/p34#a240130p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

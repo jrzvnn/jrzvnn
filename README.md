@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 💣 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 😝 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - 💣 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/axoXVyp)<!-- MEMES:END -->
 
 ---
 

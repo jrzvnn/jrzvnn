@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [Cats have an internal physics calculator](http://9gag.com/gag/axoXg51)
- - 💣 [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [How to raise yo kids properly](http://9gag.com/gag/avQ3rMW)<!-- MEMES:END -->
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 

@@ -163,10 +163,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The AI boom has spurred law firms, hospitals, insurance companies, government agencies, and others to create chief AI officer roles to navigate the use of AI &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240130/p3#a240130p3)
- - [An interview with Google Play VP and General Manager Sam Bright on Play Store curation, AI, the quality gap between Android and iOS apps, openness, and more &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/240130/p2#a240130p2)
- - [PitchBook: US VCs have $311B in unspent cash, as investors shy away from risky bets and focus on dividends, after raising a record $435B between 2020 and 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p1#a240130p1)
- - [MSI confirms the Claw will have a 48-120Hz VRR screen](https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen)
- - [Best Camera and Photo Gear for Your Summer Travel     - CNET](https://www.cnet.com/tech/computing/best-camera-and-photo-gear-for-your-summer-travel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Season 2024: Are SSI Recipients Required to File Taxes This Year? What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-are-ssi-recipients-required-to-file-taxes-this-year-what-to-know/#ftag=CAD590a51e)
+ - [If You Receive Social Security, Do You Have to File a Tax Return in 2024?     - CNET](https://www.cnet.com/personal-finance/if-you-receive-social-security-do-you-have-to-file-a-tax-return-in-2024/#ftag=CAD590a51e)
+ - [IRS Free File: Here&#39;s How to Submit Your 2024 Taxes for Free     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-heres-how-to-submit-your-2024-taxes-for-free/#ftag=CAD590a51e)
+ - [When Will I Receive My 2024 Tax Refund? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-will-i-receive-my-2024-tax-refund-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,8 +162,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: by the end of 2022, &lt;10% of Instagram teens had parental supervision settings on, showing barriers for parents like limited understanding of the tools &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240130/p12#a240130p12)
  - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
+ - [Sources: by the end of 2022, &lt;10% of Instagram teens had parental supervision settings on, showing barriers for parents like limited understanding of the tools &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240130/p12#a240130p12)
  - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
  - [Apple Vision Pro review: marvelous display, great hand and eye tracking, and works seamlessly in the ecosystem, but pricey and video passthrough can be blurry &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240130/p11#a240130p11)
  - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Wireless, and a Word About Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->

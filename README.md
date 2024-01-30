@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every little helps](http://9gag.com/gag/aqeqZZL)
- - 😝 [What I had to do to make her scream](http://9gag.com/gag/a8qBY0Y)
- - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 👉 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)<!-- MEMES:END -->
+ - 😝 [Legend](http://9gag.com/gag/awZ6bZx)
+ - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
+ - 💣 [Egyptian mummy coffin opened for the first time in 2500 years.](http://9gag.com/gag/amAE00X)
+ - 😝 [How the turn tables](http://9gag.com/gag/aeQv3bQ)
+ - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
 
 ---
 

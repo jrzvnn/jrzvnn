@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X has lifted its ban on Taylor Swift searches, and says it &quot;will continue to be vigilant&quot;, following the spread of explicit AI-generated images of the singer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240129/p35#a240129p35)
  - [Elon Musk Says a Human Patient Has Received Neuralink’s Brain Implant](https://www.wired.com/story/elon-musk-neuralink-human-patient-brain-implant/)
  - [Source: Alphabet execs told staffers at its moonshot X lab that the company will not convert promising investment projects into Other Bets subsidiaries in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240129/p34#a240129p34)
  - [Microsoft latest to weigh in on Apple&#39;s EU App Store rules with disapproval](https://appleinsider.com/articles/24/01/30/microsoft-latest-to-weigh-in-on-apples-eu-app-store-rules-with-disapproval?utm_medium=rss)
- - [Elon Musk says Neuralink implanted its device in a human for the first time on January 28, and that the first Neuralink product is called Telepathy &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240129/p33#a240129p33)
- - [The US DOJ and SEC unveil charges in an alleged $1.9B crypto fraud scheme known as HyperFund &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240129/p32#a240129p32)<!-- TECH:END -->
+ - [Elon Musk says Neuralink implanted its device in a human for the first time on January 28, and that the first Neuralink product is called Telepathy &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240129/p33#a240129p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

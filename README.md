@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal’s next big park will include werewolves, dragons, and Super Mario](https://www.theverge.com/24055456/super-nintendo-world-universal-epic-universe-florida)
+ - [Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet](https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk)
  - [Memo: TechCrunch plans to wind down TC+, its paid subscription product launched in 2019 as ExtraCrunch, and lays off ~8 staffers, amid industry-wide cutbacks &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240130/p14#a240130p14)
  - [Apple Vision Pro review roundup: an experience that weighs on you](https://appleinsider.com/articles/24/01/30/apple-vision-pro-review-roundup-an-experience-that-weighs-on-you?utm_medium=rss)
- - [AT&amp;T launches branded calls to help filter out spam](https://www.theverge.com/2024/1/30/24055438/branded-phone-calls-spam-robocall-att-transunion)
- - [German police seize nearly 50K bitcoin, worth ~$2.17B, from two suspects who allegedly acquired the bitcoin with profits from an illegal file-sharing platform &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240130/p13#a240130p13)
- - [&#39;Slow Horses&#39; and &#39;Ted Lasso&#39; nominated in UK Casting Awards](https://appleinsider.com/articles/24/01/30/slow-horses-and-ted-lasso-nominated-in-uk-casting-awards?utm_medium=rss)<!-- TECH:END -->
+ - [AT&amp;T launches branded calls to help filter out spam](https://www.theverge.com/2024/1/30/24055438/branded-phone-calls-spam-robocall-att-transunion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Women](http://9gag.com/gag/axoXVyp)
  - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
  - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card&#39;s 12 million users are taking advantage of everything it has to offer](https://appleinsider.com/articles/24/01/30/apple-cards-12-million-users-are-taking-advantage-of-everything-it-has-to-offer?utm_medium=rss)
  - [Infinite Wealth can drag on but makes up for it with heart, soul, and Pokémon](https://www.theverge.com/24055072/like-a-dragon-infinite-wealth-review-yakuza-sega)
  - [The Ministry Of Ungentlemanly Warfare is ready to get its hands dirty in new trailer](https://www.theverge.com/24055597/the-ministry-of-ungentlemanly-warfare-trailer)
  - [Apple says Apple Card now has 12M+ customers, over 1M are sharing their card via Apple Card Family, and users earned $1B+ in Daily Cash rewards in the past year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240130/p19#a240130p19)
- - [Hulu Shows Jarring Anti-Hamas Ad Likely Generated With AI](https://www.wired.com/story/hulu-anti-hamas-ad-generative-ai/)
- - [Apple wants you to see &#39;Argylle&#39; and will give you a discount on tickets](https://appleinsider.com/articles/24/01/30/apple-wants-you-to-see-argylle-and-will-give-you-a-discount-on-tickets?utm_medium=rss)<!-- TECH:END -->
+ - [Hulu Shows Jarring Anti-Hamas Ad Likely Generated With AI](https://www.wired.com/story/hulu-anti-hamas-ad-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

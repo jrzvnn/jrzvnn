@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe says it has &quot;no plans to further invest&quot; in its XD web-design product, which it put in &quot;maintenance mode&quot; at the outset of its now-scrapped Figma deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240130/p22#a240130p22)
  - [A Microsoft engineer tells WA&#39;s AG he found ways to exploit DALL-E 3 to make explicit images, reported it, but was then told to take down a public post about it &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240130/p21#a240130p21)
  - [Art collective MSCHF is streaming movies like Barbie in ASCII for free](https://www.theverge.com/2024/1/30/24055041/ascii-theater-mschf-copyright-law-barbie-film-streaming)
  - [How to stop location tracking on your Android phone &lpar;mostly&rpar;](https://www.theverge.com/21401280/android-location-tracking-history-stop-how-to)
- - [Daily deals Jan. 30: AirPods Pro $155, $300 off MacBook Air, Apple accessories from $9.99, more](https://appleinsider.com/articles/24/01/30/daily-deals-jan-30-airpods-pro-155-300-off-macbook-air-apple-accessories-from-999-more?utm_medium=rss)
- - [iOS 17.4 beta 1 gets rare mid-stream update](https://appleinsider.com/articles/24/01/30/ios-174-beta-1-gets-rare-mid-stream-update?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Jan. 30: AirPods Pro $155, $300 off MacBook Air, Apple accessories from $9.99, more](https://appleinsider.com/articles/24/01/30/daily-deals-jan-30-airpods-pro-155-300-off-macbook-air-apple-accessories-from-999-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

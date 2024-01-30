@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ministry Of Ungentlemanly Warfare is ready to get its hands dirty in new trailer](https://www.theverge.com/24055597/the-ministry-of-ungentlemanly-warfare-trailer)
+ - [Apple says Apple Card now has 12M+ customers, over 1M are sharing their card via Apple Card Family, and users earned $1B+ in Daily Cash rewards in the past year &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240130/p19#a240130p19)
  - [Hulu Shows Jarring Anti-Hamas Ad Likely Generated With AI](https://www.wired.com/story/hulu-anti-hamas-ad-generative-ai/)
  - [Apple wants you to see &#39;Argylle&#39; and will give you a discount on tickets](https://appleinsider.com/articles/24/01/30/apple-wants-you-to-see-argylle-and-will-give-you-a-discount-on-tickets?utm_medium=rss)
- - [Codeium, whose AI tools help companies write code, raised a $65M Series B led by Kleiner Perkins, a source says at a $500M valuation, and reports 300K+ users &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240130/p18#a240130p18)
- - [GM plans to cut Cruise spending by half in 2024, or by ~$1B, but remains committed to the self-driving unit and will &quot;soon&quot; give a timeline to resume operations &lpar;Reuters&rpar;](http://www.techmeme.com/240130/p17#a240130p17)
- - [Why Sen. Brian Schatz thinks child safety bills should trump the First Amendment](https://www.theverge.com/24054658/senator-brian-schatz-congress-kosa-first-amendment-regulation-decoder-interview)<!-- TECH:END -->
+ - [Codeium, whose AI tools help companies write code, raised a $65M Series B led by Kleiner Perkins, a source says at a $500M valuation, and reports 300K+ users &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240130/p18#a240130p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

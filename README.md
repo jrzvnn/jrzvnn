@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 😝 [Another anti-immigration rally in Japan against Kurdish migrants because of harassing school girls and Kurds want to take their lands](http://9gag.com/gag/aGEWwXn)
- - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 😝 [Cats have an internal physics calculator](http://9gag.com/gag/axoXg51)
+ - 💣 [The perfect f**k is out there, hang in there.](http://9gag.com/gag/aVbNqm8)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
+ - 👉 [How to raise yo kids properly](http://9gag.com/gag/avQ3rMW)<!-- MEMES:END -->
 
 ---
 

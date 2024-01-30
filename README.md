@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York&#39;s AG sues Citibank over allegedly failing to defend customers from online scams, citing poor responses to red flags and failing to reimburse victims &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240130/p16#a240130p16)
+ - [FEMA will pay states to install solar panels and heat pumps](https://www.theverge.com/2024/1/30/24055546/fema-solar-panel-pay-costs-disaster-reimbursement)
  - [Your home network might soon get a new — and simpler — name](https://www.theverge.com/2024/1/30/24055534/web-private-network-internal-icann-name)
  - [A look at Intel&#39;s mistakes during Brian Krzanich&#39;s CEO tenure, and Pat Gelsinger&#39;s attempt to turn Intel into a foundry for chip developers, partnering with UMC &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240130/p15#a240130p15)
- - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)
- - [The ‘Take Our Border Back’ Convoy Is Already a Complete Mess](https://www.wired.com/story/day-one-take-our-border-back-convoy-texas/)
- - [My new favorite way to manage my family’s calendars is getting bigger](https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing)<!-- TECH:END -->
+ - [iPhone 16 won&#39;t be compelling and Apple will get hurt because of it, says Kuo](https://appleinsider.com/articles/24/01/30/iphone-16-wont-be-compelling-and-apple-will-get-hurt-because-of-it-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

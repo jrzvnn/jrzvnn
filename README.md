@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/axoXVyp)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 💣 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - 😝 [Look at their smiles](http://9gag.com/gag/a9q97jL)
+ - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 

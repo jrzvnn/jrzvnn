@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group reports Q4 revenue up 10% YoY to $866.2M, vs. $861.2M est., paying users fell 5% YoY, forecasts Q1 rev. below expectations, authorizes $1B buyback &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240130/p29#a240130p29)
+ - [YouTube Q4 2023 ad revenue rose 15.5% YoY to $9.2B, roughly in line with expectations; in Q4 2022, YouTube&#39;s ad sales fell almost 8% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p28#a240130p28)
  - [Some suggested events for Peter Thiel’s all-drug Olympics](https://www.theverge.com/2024/1/30/24055857/peter-thiel-enhanced-games-peds-olympics)
  - [If you have an Arlo camera or video doorbell, it’s about to get more expensive](https://www.theverge.com/2024/1/30/24055880/arlo-secure-security-camera-price-increase)
- - [Microsoft Q2: devices revenue down 9% YoY, Windows OEM revenue up 11% YoY, Xbox content and services revenue up 61% YoY, search and news ad revenue up 8% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p27#a240130p27)
- - [iCloud Mail, iCloud Web Apps users endure sudden outage](https://appleinsider.com/articles/24/01/30/icloud-mail-icloud-web-apps-users-endure-sudden-outage?utm_medium=rss)
- - [Alphabet reports Q4 revenue rose 13% YoY to $86B, net income rose 52% to $20.7B, Google Cloud revenue rose 26% to $9.2B, and headcount dropped 4%+ to 182,502 &lpar;Alphabet&rpar;](http://www.techmeme.com/240130/p26#a240130p26)<!-- TECH:END -->
+ - [Microsoft Q2: devices revenue down 9% YoY, Windows OEM revenue up 11% YoY, Xbox content and services revenue up 61% YoY, search and news ad revenue up 8% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240130/p27#a240130p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

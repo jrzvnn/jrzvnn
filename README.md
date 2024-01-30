@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 💣 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)
- - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---
 

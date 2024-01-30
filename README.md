@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The king reigns.](http://9gag.com/gag/awZ6xx4)
- - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
- - 💣 [The Bonuses and the Boner](http://9gag.com/gag/aeQvGqb)
- - 😝 [Women falsely accusing men of rape should face jail time equal to those convicted of rape. Unfortunate most of the time they go free.](http://9gag.com/gag/az20AgK)
- - 👉 [Found out](http://9gag.com/gag/aYV2ePm)<!-- MEMES:END -->
+ - 😝 [Godsdeveloperconsole](http://9gag.com/gag/ajVoAB1)
+ - 😝 [Listen dear, sometimes we gotta climb a tree cuz hyena.](http://9gag.com/gag/amAEz2d)
+ - 💣 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)
+ - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
+ - 👉 [This indexing file was 202 GB large before I rebuild it. If you are loosing free space on your Windows drive and cannot locate it, it just might be this little bastard - Windows.edb](http://9gag.com/gag/aL1yPN5)<!-- MEMES:END -->
 
 ---
 

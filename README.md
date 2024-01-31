@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 💣 [Lol.](http://9gag.com/gag/armjgV7)
+ - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)<!-- MEMES:END -->
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips stops selling sleep apnea machines in US following mass recalls](https://www.theverge.com/2024/1/31/24056939/philips-sleep-apnea-machines-recalls)
  - [Microsoft and X say they support the Kids Online Safety Act; Meta, Discord, and TikTok demur, citing criticism from groups or supporting only some parts of KOSA &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/240131/p35#a240131p35)
  - [&#39;Palworld&#39; Pokémon Modder Tests the Limits of Nintendo’s Legal Reach](https://www.wired.com/story/palworld-pokemon-mod-copyright/)
  - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)
- - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
- - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)<!-- TECH:END -->
+ - [Earplugs Aren&#39;t Just for Hearing Protection: 5 Health Benefits to Know     - CNET](https://www.cnet.com/health/medical/earplugs-arent-just-for-hearing-protection-5-benefits-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

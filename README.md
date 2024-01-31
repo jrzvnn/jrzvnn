@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and X say they support the Kids Online Safety Act; Meta, Discord, and TikTok demur, citing criticism from groups or supporting only some parts of KOSA &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/240131/p35#a240131p35)
+ - [&#39;Palworld&#39; Pokémon Modder Tests the Limits of Nintendo’s Legal Reach](https://www.wired.com/story/palworld-pokemon-mod-copyright/)
  - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)
  - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
- - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)
- - [Microsoft 365 apps will be available on Apple Vision Pro at launch](https://appleinsider.com/articles/24/01/31/microsoft-365-apps-will-be-available-on-apple-vision-pro-at-launch?utm_medium=rss)
- - [Microsoft’s new OneDrive design starts rolling out for consumers](https://www.theverge.com/2024/1/31/24057235/microsoft-new-onedrive-design-rolling-out-consumers)<!-- TECH:END -->
+ - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

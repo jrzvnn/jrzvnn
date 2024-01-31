@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
+ - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
  - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
- - 💣 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 

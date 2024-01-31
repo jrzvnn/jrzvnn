@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance left a cache of code, infrastructure diagrams, passwords, and more on a public GitHub repository for months; GitHub removed after Binance&#39;s request &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240131/p26#a240131p26)
+ - [All the news from Congress’ Big Tech child safety hearing](https://www.theverge.com/2024/1/31/24056136/congress-child-safety-hearing-kosa-meta-x-discord-snap-tiktok)
  - [Israel-based Oasis Security, which offers tools for &quot;non-human&quot; identity management, emerges from stealth and raised a $5M seed and $35M Series A led by Sequoia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240131/p25#a240131p25)
  - [How to watch today’s PlayStation State of Play showcase](https://www.theverge.com/2024/1/31/24055732/playstation-state-of-play-time-date-live-stream)
- - [Q&amp;A with Stanford professor Erik Brynjolfsson on generative AI, potential productivity gains, his &quot;J-curve&quot; and &quot;Turing trap&quot; concepts, AI drawbacks, and more &lpar;Tej Parikh/Financial Times&rpar;](http://www.techmeme.com/240131/p24#a240131p24)
- - [Nvidia RTX 4080 Super review: a $200 price cut to $999, 16GB of VRAM, and impressive 4K performance, but not a big performance boost over the RTX 4070 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p23#a240131p23)
- - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
+ - [Q&amp;A with Stanford professor Erik Brynjolfsson on generative AI, potential productivity gains, his &quot;J-curve&quot; and &quot;Turing trap&quot; concepts, AI drawbacks, and more &lpar;Tej Parikh/Financial Times&rpar;](http://www.techmeme.com/240131/p24#a240131p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

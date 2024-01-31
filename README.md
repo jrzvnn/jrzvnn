@@ -161,9 +161,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ransomware negotiation firm Coveware: the number of ransomware victims paying ransom demands dropped to a record low of 29% in Q4 2023, down from 85% in Q1 2019 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240131/p3#a240131p3)
  - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)
  - [Sources: TikTok plans to open studios in several cities, including LA, where creators can livestream and sell products, a strategy that worked for Douyin &lpar;The Information&rpar;](http://www.techmeme.com/240131/p1#a240131p1)
- - [Tax Season 2024: These 6 Tax Mistakes Could Get You Audited by the IRS     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-these-6-tax-mistakes-could-get-you-audited-by-the-irs/#ftag=CAD590a51e)
  - [Bernstein estimates PDD spent ~$3B on marketing Temu in the US in 2023; the Chinese group says Temu has 70M MAUs in the US, versus an estimated 13M in Jan. 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p44#a240130p44)
  - [Price war: Apple&#39;s M1 MacBook Air drops to $749.99](https://appleinsider.com/articles/24/01/31/price-war-apples-m1-macbook-air-drops-to-74999?utm_medium=rss)<!-- TECH:END -->
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)
+ - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
+ - [The creators of Twitterrific are making an app to read &lpar;almost&rpar; anything on the web](https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific)
  - [Microsoft 365 apps will be available on Apple Vision Pro at launch](https://appleinsider.com/articles/24/01/31/microsoft-365-apps-will-be-available-on-apple-vision-pro-at-launch?utm_medium=rss)
- - [Microsoft’s new OneDrive design starts rolling out for consumers](https://www.theverge.com/2024/1/31/24057235/microsoft-new-onedrive-design-rolling-out-consumers)
- - [Microsoft says that Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneNote, Loop, and Copilot features will be available on Apple Vision Pro on February 2 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p34#a240131p34)
- - [Crypto mines will have to start reporting their energy use in the US](https://www.theverge.com/2024/1/31/24057176/crypto-bitcoin-mining-survey-us-energy-information-administration)
- - [Sources: Cruise does not expect to see its robotaxis on city streets again until Q4 2024 and is considering Houston and Dallas as likely cities for a relaunch &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240131/p33#a240131p33)<!-- TECH:END -->
+ - [Microsoft’s new OneDrive design starts rolling out for consumers](https://www.theverge.com/2024/1/31/24057235/microsoft-new-onedrive-design-rolling-out-consumers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

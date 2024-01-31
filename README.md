@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Second Apple Vision Pro OS update arrives, just days before shipment](https://appleinsider.com/articles/24/01/31/second-apple-vision-pro-os-update-arrives-just-days-before-shipment?utm_medium=rss)
  - [Shopify’s ‘Magic’ AI image editor can make any product pics look professional](https://www.theverge.com/24056980/shopify-generative-ai-image-editing-search)
  - [Mark Zuckerberg apologizes to parents in the audience of a US Senate hearing who say that Meta&#39;s apps contributed to their children&#39;s suicide or exploitation &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/240131/p32#a240131p32)
  - [The US DOJ says eBay agreed to pay $59M to settle allegations that it violated the Controlled Substances Act by allowing sales of pill presses and other items &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p31#a240131p31)
- - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)
- - [Which Samsung Galaxy S24 Model Should You Buy? Specs Comparison and Features](https://www.wired.com/story/which-samsung-galaxy-s24-model-to-buy/)<!-- TECH:END -->
+ - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says that Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneNote, Loop, and Copilot features will be available on Apple Vision Pro on February 2 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p34#a240131p34)
+ - [Crypto mines will have to start reporting their energy use in the US](https://www.theverge.com/2024/1/31/24057176/crypto-bitcoin-mining-survey-us-energy-information-administration)
  - [Sources: Cruise does not expect to see its robotaxis on city streets again until Q4 2024 and is considering Houston and Dallas as likely cities for a relaunch &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240131/p33#a240131p33)
  - [JBL’s retro-inspired Authentics speakers are on sale for nearly 25 percent off](https://www.theverge.com/2024/1/31/24055594/jbl-authentics-200-300-500-opal-tadpole-webcam-sony-wh-1000xm5-headphones-deal-sale)
- - [Your Favorite Songs on TikTok Could Soon Disappear](https://www.wired.com/story/tiktok-universal-music-group-umg-remove-songs/)
- - [Apple Vision devs see evidence of apps being tested on visionOS 2.0](https://appleinsider.com/articles/24/01/31/apple-vision-devs-see-evidence-of-apps-being-tested-on-visionos-20?utm_medium=rss)
- - [Microsoft Teams, Word, Excel, and more are coming to Apple’s Vision Pro at launch](https://www.theverge.com/2024/1/31/24057122/microsoft-apple-vision-pro-office-apps-microsoft-365)<!-- TECH:END -->
+ - [Your Favorite Songs on TikTok Could Soon Disappear](https://www.wired.com/story/tiktok-universal-music-group-umg-remove-songs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

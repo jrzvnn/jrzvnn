@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
  - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
  - 👉 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)<!-- MEMES:END -->
 
 ---

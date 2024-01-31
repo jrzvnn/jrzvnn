@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 💣 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---
 

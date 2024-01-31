@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Ubisoft&#39;s problems, as insiders fear further layoffs: a wild goose chase of popular fads, like NFTs, constant delays, low player numbers, and more &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240131/p16#a240131p16)
+ - [Epic says that Apple isn&#39;t doing enough to comply with US App Store court orders](https://appleinsider.com/articles/24/01/31/epic-says-that-apple-isnt-doing-enough-to-comply-with-us-app-store-court-orders?utm_medium=rss)
  - [In prepared Senate testimony, TikTok CEO Shou Chew says the company plans to spend $2B+ in 2024 on trust and safety globally and the app has 170M US MAUs &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240131/p15#a240131p15)
  - [Ahead of the Senate hearing, US lawmakers release 90 pages of internal Meta emails from 2021, showing how Mark Zuckerberg rejected calls to bulk up child safety &lpar;New York Times&rpar;](http://www.techmeme.com/240131/p14#a240131p14)
- - [Ahead of the Senate hearing, Mark Zuckerberg calls for requiring Apple and Google to verify ages via app stores; Linda Yaccarino and Evan Spiegel support KOSA &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240131/p13#a240131p13)
- - [US and UK law enforcement are bracing for an explosion of AI-generated CSAM, and criticize Meta, the authorities&#39; best partner for flagging CSAM, over E2EE &lpar;Eileen Sullivan/New York Times&rpar;](http://www.techmeme.com/240131/p12#a240131p12)
- - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)<!-- TECH:END -->
+ - [Ahead of the Senate hearing, Mark Zuckerberg calls for requiring Apple and Google to verify ages via app stores; Linda Yaccarino and Evan Spiegel support KOSA &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240131/p13#a240131p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

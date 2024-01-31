@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
+ - 😝 [Here lies balin son of fundin lord of moria](http://9gag.com/gag/a042Kon)
+ - 😝 [New wheelbarrow invention](http://9gag.com/gag/a9q9reK)
+ - 💣 [Goes back to sleep](http://9gag.com/gag/aDYExpO)
+ - 😝 [Memes i waited 2 years to repost #3](http://9gag.com/gag/avQ3O1Z)
+ - 👉 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)<!-- MEMES:END -->
 
 ---
 

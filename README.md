@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 😝 [Couldn\u2019t pass up on the opportunity](http://9gag.com/gag/aBd7gwx)
  - 💣 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---

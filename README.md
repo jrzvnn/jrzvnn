@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
  - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
  - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---
 

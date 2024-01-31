@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana](http://9gag.com/gag/amAEred)
- - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 😝 [Brutal](http://9gag.com/gag/aoKb9P2)
  - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
+ - 👉 [Safety second](http://9gag.com/gag/aoKb1Zn)<!-- MEMES:END -->
 
 ---
 

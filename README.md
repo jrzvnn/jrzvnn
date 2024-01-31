@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: TikTok plans to open studios in several cities, including LA, where creators can livestream and sell products, a strategy that worked for Douyin &lpar;The Information&rpar;](http://www.techmeme.com/240131/p1#a240131p1)
  - [Bernstein estimates PDD spent ~$3B on marketing Temu in the US in 2023; the Chinese group says Temu has 70M MAUs in the US, versus an estimated 13M in Jan. 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p44#a240130p44)
  - [Price war: Apple&#39;s M1 MacBook Air drops to $749.99](https://appleinsider.com/articles/24/01/31/price-war-apples-m1-macbook-air-drops-to-74999?utm_medium=rss)
- - [Ofcom: 22% of search results around basic self-injury terms on Google, Bing, DuckDuckGo, Yahoo, and AOL produced single-click links to more harmful content &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240130/p43#a240130p43)
- - [Lawmakers propose anti-nonconsensual AI porn bill after Taylor Swift controversy](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Up to $1,040 Off Pixel 8, 8 Pro and Previous Gen Google Phones     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

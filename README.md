@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
  - 😝 [Here lies balin son of fundin lord of moria](http://9gag.com/gag/a042Kon)
  - 💣 [New wheelbarrow invention](http://9gag.com/gag/a9q9reK)
- - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Memes i waited 2 years to repost #3](http://9gag.com/gag/avQ3O1Z)<!-- MEMES:END -->
+ - 😝 [Memes i waited 2 years to repost #3](http://9gag.com/gag/avQ3O1Z)
+ - 👉 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)<!-- MEMES:END -->
 
 ---
 

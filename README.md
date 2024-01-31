@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Favorite Songs on TikTok Could Soon Disappear](https://www.wired.com/story/tiktok-universal-music-group-umg-remove-songs/)
+ - [Apple Vision devs see evidence of apps being tested on visionOS 2.0](https://appleinsider.com/articles/24/01/31/apple-vision-devs-see-evidence-of-apps-being-tested-on-visionos-20?utm_medium=rss)
  - [Microsoft Teams, Word, Excel, and more are coming to Apple’s Vision Pro at launch](https://www.theverge.com/2024/1/31/24057122/microsoft-apple-vision-pro-office-apps-microsoft-365)
  - [Second Apple Vision Pro OS update arrives, just days before shipment](https://appleinsider.com/articles/24/01/31/second-apple-vision-pro-os-update-arrives-just-days-before-shipment?utm_medium=rss)
- - [Palworld isn’t slowing down, hits 19 million players across Steam and Xbox](https://www.theverge.com/2024/1/31/24057131/palworld-steam-xbox-game-pass-sales)
- - [Shopify’s ‘Magic’ AI image editor can make any product pics look professional](https://www.theverge.com/24056980/shopify-generative-ai-image-editing-search)
- - [Mark Zuckerberg apologizes to parents in the audience of a US Senate hearing who say that Meta&#39;s apps contributed to their children&#39;s suicide or exploitation &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/240131/p32#a240131p32)<!-- TECH:END -->
+ - [Palworld isn’t slowing down, hits 19 million players across Steam and Xbox](https://www.theverge.com/2024/1/31/24057131/palworld-steam-xbox-game-pass-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

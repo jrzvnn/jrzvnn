@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Jan. 31: up to $900 off MacBook Pro, Apple Watch Ultra $695, Milanese Loop band $37, more](https://appleinsider.com/articles/24/01/31/daily-deals-jan-31-up-to-900-off-macbook-pro-apple-watch-ultra-695-milanese-loop-band-37-more?utm_medium=rss)
  - [Webex teleconferencing app now available on Apple TV](https://appleinsider.com/articles/24/01/31/webex-teleconferencing-app-now-available-on-apple-tv?utm_medium=rss)
  - [All the news from Congress’ Big Tech child safety hearing](https://www.theverge.com/2024/1/31/24056136/congress-child-safety-hearing-kosa-meta-x-discord-snap-tiktok)
  - [The Pixel 8 is getting Google’s new AI search feature today](https://www.theverge.com/2024/1/31/24056890/circle-to-search-google-pixel-8-pro-update)
- - [An FTX lawyer says the exchange expects to fully repay its customers and has abandoned efforts to restart the platform due to a lack of buyers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240131/p30#a240131p30)
- - [The FBI and DOJ disrupt Volt Typhoon, a uniquely dangerous Chinese hacking operation to hijack thousands of Cisco and Netgear routers at the end of their lives &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p29#a240131p29)<!-- TECH:END -->
+ - [An FTX lawyer says the exchange expects to fully repay its customers and has abandoned efforts to restart the platform due to a lack of buyers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240131/p30#a240131p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

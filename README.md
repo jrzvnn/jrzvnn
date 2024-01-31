@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US and UK law enforcement are bracing for an explosion of AI-generated CSAM, and criticize Meta, the authorities&#39; best partner for flagging CSAM, over E2EE &lpar;Eileen Sullivan/New York Times&rpar;](http://www.techmeme.com/240131/p12#a240131p12)
  - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)
  - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)
- - [Form W-2: What to Do if You Haven&#39;t Gotten Yours     - CNET](https://www.cnet.com/personal-finance/taxes/everything-to-know-about-your-form-w-2/#ftag=CAD590a51e)
- - [The 12 Best Eye Creams of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)
- - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)<!-- TECH:END -->
+ - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
+ - [Keep All Your Gear Charged With Massive Savings on Bluetti Power Stations     - CNET](https://www.cnet.com/deals/keep-all-your-gear-charged-with-massive-savings-on-bluetti-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

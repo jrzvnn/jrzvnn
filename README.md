@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
- - 💣 [Brutal](http://9gag.com/gag/aoKb9P2)
+ - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - 😝 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
+ - 💣 [Women](http://9gag.com/gag/axoXVyp)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
+ - 👉 [Palworld is a good game](http://9gag.com/gag/amAE2r2)<!-- MEMES:END -->
 
 ---
 

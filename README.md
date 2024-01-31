@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
  - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
+ - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 

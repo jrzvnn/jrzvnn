@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
  - [Legislators and privacy experts detail how the tech industry has sought to water down state privacy regulation in the US; 13 US states now have privacy laws &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240131/p5#a240131p5)
  - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)
  - [Ransomware negotiation firm Coveware: the number of ransomware victims paying ransom demands dropped to a record low of 29% in Q4 2023, down from 85% in Q1 2019 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240131/p3#a240131p3)
- - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)
- - [Sources: TikTok plans to open studios in several cities, including LA, where creators can livestream and sell products, a strategy that worked for Douyin &lpar;The Information&rpar;](http://www.techmeme.com/240131/p1#a240131p1)<!-- TECH:END -->
+ - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

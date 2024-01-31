@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
- - 😝 [Banana](http://9gag.com/gag/amAEred)
+ - 😝 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
  - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Would](http://9gag.com/gag/aqeqbQ7)<!-- MEMES:END -->
+ - 👉 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)<!-- MEMES:END -->
 
 ---
 

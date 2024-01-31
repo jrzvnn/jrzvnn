@@ -161,9 +161,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
  - [Qualcomm reports Q1 adjusted revenue up 5% YoY to $9.92B, vs. $9.51B est., handset chip sales up 16% YoY to $6.69B, and net income up 24% YoY to $2.77B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240131/p37#a240131p37)
  - [Apple Vision Pro battery cable is removable if you try hard enough](https://appleinsider.com/articles/24/01/31/apple-vision-pro-battery-cable-is-removable-if-you-try-hard-enough?utm_medium=rss)
- - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
  - [OpenAI says GPT-4 poses &quot;at most&quot; a slight risk of helping create biological threats, according to early tests to evaluate &quot;catastrophic&quot; risks from LLMs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240131/p36#a240131p36)
  - [Apple continues its 17-year streak of being the most admired company in the world](https://appleinsider.com/articles/24/01/31/apple-continues-its-17-year-streak-of-being-the-most-admired-company-in-the-world?utm_medium=rss)<!-- TECH:END -->
 

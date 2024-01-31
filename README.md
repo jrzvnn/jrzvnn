@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
+ - [Keep All Your Gear Charged With Massive Savings on Bluetti Power Stations     - CNET](https://www.cnet.com/deals/keep-all-your-gear-charged-with-massive-savings-on-bluetti-power-stations/#ftag=CAD590a51e)
  - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)
  - [A profile of UMG CEO Lucian Grainge, who helped record labels rake in billions of dollars from streaming and now hopes to do the same with generative AI &lpar;John Seabrook/New Yorker&rpar;](http://www.techmeme.com/240131/p7#a240131p7)
- - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech firms, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
- - [Legislators and privacy experts detail how the tech industry has sought to water down state privacy regulation in the US; 13 US states now have privacy laws &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240131/p5#a240131p5)
- - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)<!-- TECH:END -->
+ - [IRS Free File: How to Submit Your 2024 Taxes for Free     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-how-to-submit-your-2024-taxes-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ renews Idris Elba&#39;s high-octane thriller &#39;Hijack&#39;](https://appleinsider.com/articles/24/01/31/apple-tv-renews-idris-elbas-high-octane-thriller-hijack?utm_medium=rss)
  - [Ripple co-founder Chris Larsen confirms &quot;unauthorized access&quot; to &quot;a few of my personal XRP accounts&quot;, after ZachXBT noted outflows of 213M XRP, worth $112.5M &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240131/p28#a240131p28)
  - [Samsung’s Galaxy S24 Ultra really is scratch resistant](https://www.theverge.com/2024/1/31/24056747/samsung-s24-ultra-scratch-resistant-display-durability-test)
  - [Epic preps its challenge to Apple’s ‘bad-faith’ outside payments changes](https://www.theverge.com/2024/1/31/24056751/epic-notice-apple-app-store-outside-payments-link-27-percent)
- - [A live blog of the Senate Judiciary Committee&#39;s hearing on kids&#39; online safety, including testimony from Mark Zuckerberg, Linda Yaccarino, and Evan Spiegel &lpar;Washington Post&rpar;](http://www.techmeme.com/240131/p27#a240131p27)
- - [TikTok is set to lose some major musical artists over AI and pay dispute](https://www.theverge.com/2024/1/31/24056727/universal-music-group-umg-tiktok-music-removal-ai-pay-negotiations)<!-- TECH:END -->
+ - [A live blog of the Senate Judiciary Committee&#39;s hearing on kids&#39; online safety, including testimony from Mark Zuckerberg, Linda Yaccarino, and Evan Spiegel &lpar;Washington Post&rpar;](http://www.techmeme.com/240131/p27#a240131p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

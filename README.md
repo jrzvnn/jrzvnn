@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)
  - [A profile of UMG CEO Lucian Grainge, who helped record labels rake in billions of dollars from streaming and now hopes to do the same with generative AI &lpar;John Seabrook/New Yorker&rpar;](http://www.techmeme.com/240131/p7#a240131p7)
- - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech companies, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
+ - [Q&amp;A with Sen. Brian Schatz on Congress&#39; dysfunction in the tech space, regulating tech firms, the EU&#39;s DMA, AI, deepfakes, social media laws for kids, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240131/p6#a240131p6)
  - [Legislators and privacy experts detail how the tech industry has sought to water down state privacy regulation in the US; 13 US states now have privacy laws &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240131/p5#a240131p5)
- - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)
- - [Ransomware negotiation firm Coveware: the number of ransomware victims paying ransom demands dropped to a record low of 29% in Q4 2023, down from 85% in Q1 2019 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240131/p3#a240131p3)<!-- TECH:END -->
+ - [Bain: as of September 2023, autonomous vehicles in China had driven a cumulative total of 70M kilometers, on par with the US, despite Beijing&#39;s safety concerns &lpar;Financial Times&rpar;](http://www.techmeme.com/240131/p4#a240131p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

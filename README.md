@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 💣 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Brutal](http://9gag.com/gag/aoKb9P2)<!-- MEMES:END -->
+ - 👉 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)<!-- MEMES:END -->
 
 ---
 

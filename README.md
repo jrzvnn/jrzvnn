@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK prosecutors say the Met Police seized 61K bitcoin, worth &amp;pound;1.4B+, in 2018, as part of a trial over an alleged ~&amp;pound;5B investment fraud in China between 2014-2017 &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/240131/p20#a240131p20)
+ - [How to watch Linda Yaccarino, Mark Zuckerberg, and other tech CEOs testify in Congress](https://www.theverge.com/2024/1/31/24049456/yaccarino-zuckerberg-tiktok-x-meta-senate-judiciary-hearing-live-stream-how-to-watch)
+ - [Pick up a 1TB 16-inch MacBook Pro for $1,799 today only](https://appleinsider.com/articles/24/01/31/pick-up-a-1tb-16-inch-macbook-pro-for-1799-today-only?utm_medium=rss)
  - [Samsung Galaxy S24, S24+, S24 Ultra Review: Excellent Hardware, Smarter Software](https://www.wired.com/review/samsung-galaxy-s24-s24-plus-and-s24-ultra/)
- - [Tribit&#39;s Stormbox Flow Review: A Budget Speaker With Great Battery](https://www.wired.com/review/tribit-stormbox-flow-bluetooth-speaker/)
- - [Apple hits India sales record as country cuts import duty](https://appleinsider.com/articles/24/01/31/apple-hits-india-sales-record-as-country-cuts-import-duty?utm_medium=rss)
- - [The Reserve Bank of India issues new curbs against Paytm&#39;s Payments Bank, including barring new deposits, credit transactions, and more after February 29 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p19#a240131p19)
- - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)<!-- TECH:END -->
+ - [Tribit&#39;s Stormbox Flow Review: A Budget Speaker With Great Battery](https://www.wired.com/review/tribit-stormbox-flow-bluetooth-speaker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

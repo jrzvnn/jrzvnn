@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Oasis Security, which offers tools for &quot;non-human&quot; identity management, emerges from stealth and raised a $5M seed and $35M Series A led by Sequoia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240131/p25#a240131p25)
  - [How to watch today’s PlayStation State of Play showcase](https://www.theverge.com/2024/1/31/24055732/playstation-state-of-play-time-date-live-stream)
  - [Q&amp;A with Stanford professor Erik Brynjolfsson on generative AI, potential productivity gains, his &quot;J-curve&quot; and &quot;Turing trap&quot; concepts, AI drawbacks, and more &lpar;Tej Parikh/Financial Times&rpar;](http://www.techmeme.com/240131/p24#a240131p24)
  - [Nvidia RTX 4080 Super review: a $200 price cut to $999, 16GB of VRAM, and impressive 4K performance, but not a big performance boost over the RTX 4070 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p23#a240131p23)
- - [Sennheiser All-Day Clear Hearing Aids Review: Quirky, Noisy, Ineffective](https://www.wired.com/review/sennheiser-all-day-clear-otc-hearing-aids/)
- - [Nvidia RTX 4080 Super review: $999 is the main feature](https://www.theverge.com/24055394/nvidia-rtx-4080-super-review-gpu-graphics-card-benchmark-test)<!-- TECH:END -->
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

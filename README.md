@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [Proud mama](http://9gag.com/gag/ajVoEV0)
- - 💣 [Lol.](http://9gag.com/gag/armjgV7)
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 😝 [Here lies balin son of fundin lord of moria](http://9gag.com/gag/a042Kon)
+ - 💣 [New wheelbarrow invention](http://9gag.com/gag/a9q9reK)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
+ - 👉 [Memes i waited 2 years to repost #3](http://9gag.com/gag/avQ3O1Z)<!-- MEMES:END -->
 
 ---
 

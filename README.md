@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
- - 💣 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
+ - 👉 [Now, lets see all the classic 9gag pics in the comments!](http://9gag.com/gag/awZ6xAy)<!-- MEMES:END -->
 
 ---
 

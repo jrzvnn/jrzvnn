@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Metronome, which offers APIs to help SaaS companies charge customers on a usage basis, raised a $43M Series B led by NEA, bringing its total funding to $78M+ &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240131/p39#a240131p39)
  - [TikTok’s CEO can’t catch a break from xenophobia in Congress](https://www.theverge.com/2024/1/31/24057422/tiktok-ceo-child-safety-hearing-tom-cotton-xenophobia)
  - [Spotify’s exclusivity era nears its end](https://www.theverge.com/2024/1/31/24057476/spotify-alex-cooper-call-her-daddy-joe-rogan-pineapple-street-smartless-siriusxm)
  - [Apple to continue using Qualcomm 5G modems through March 2027](https://appleinsider.com/articles/24/01/31/apple-to-continue-using-qualcomm-5g-modems-through-march-2027?utm_medium=rss)
- - [Konami just stealth launched a Silent Hill game](https://www.theverge.com/2024/1/31/24057338/silent-hill-2-trailer-short-message-state-of-play)
- - [Death Stranding 2’s new trailer is delightfully disturbing](https://www.theverge.com/24055773/death-stranding-2-ps5-trailer-2025)<!-- TECH:END -->
+ - [Konami just stealth launched a Silent Hill game](https://www.theverge.com/2024/1/31/24057338/silent-hill-2-trailer-short-message-state-of-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

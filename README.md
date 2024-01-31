@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Analysis: tech layoffs in 2024, totaling 25,000 across ~100 companies so far, according to Layoffs.fyi, are more strategic than mass layoffs in 2023 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240131/p2#a240131p2)
  - [Sources: TikTok plans to open studios in several cities, including LA, where creators can livestream and sell products, a strategy that worked for Douyin &lpar;The Information&rpar;](http://www.techmeme.com/240131/p1#a240131p1)
+ - [Tax Season 2024: These 6 Tax Mistakes Could Get You Audited by the IRS     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-these-6-tax-mistakes-could-get-you-audited-by-the-irs/#ftag=CAD590a51e)
  - [Bernstein estimates PDD spent ~$3B on marketing Temu in the US in 2023; the Chinese group says Temu has 70M MAUs in the US, versus an estimated 13M in Jan. 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240130/p44#a240130p44)
- - [Price war: Apple&#39;s M1 MacBook Air drops to $749.99](https://appleinsider.com/articles/24/01/31/price-war-apples-m1-macbook-air-drops-to-74999?utm_medium=rss)
- - [Best Google Pixel Deals: Up to $1,040 Off Pixel 8, 8 Pro and Previous Gen Google Phones     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Price war: Apple&#39;s M1 MacBook Air drops to $749.99](https://appleinsider.com/articles/24/01/31/price-war-apples-m1-macbook-air-drops-to-74999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
+ - 😝 [Banana](http://9gag.com/gag/amAEred)
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 💣 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 

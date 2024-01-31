@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
  - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
 
 ---
 

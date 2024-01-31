@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
+ - [Sennheiser All-Day Clear Hearing Aids Review: Quirky, Noisy, Ineffective](https://www.wired.com/review/sennheiser-all-day-clear-otc-hearing-aids/)
+ - [Nvidia RTX 4080 Super review: $999 is the main feature](https://www.theverge.com/24055394/nvidia-rtx-4080-super-review-gpu-graphics-card-benchmark-test)
  - [iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra----specs-price-features-compared?utm_medium=rss)
- - [23andMe&#39;s stock, which hit a $6B valuation after a 2021 IPO, has crashed 98% and 23andMe may run out of cash by 2025, as CEO Anne Wojcicki plots a turnaround &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p22#a240131p22)
- - [The Vision Pro is a computer for the age of walled gardens](https://www.theverge.com/24055677/apple-vision-pro-epic-netflix-app-ecosystem-monopoly)
- - [Sources: some Chinese automakers delayed flagship model deliveries due to production issues with Huawei&#39;s MDC 810 computing unit; a source blames part shortages &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p21#a240131p21)
- - [UK prosecutors say the Met Police seized 61K bitcoin, worth &amp;pound;1.4B+, in 2018, as part of a trial over an alleged ~&amp;pound;5B investment fraud in China between 2014-2017 &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/240131/p20#a240131p20)<!-- TECH:END -->
+ - [23andMe&#39;s stock, which hit a $6B valuation after a 2021 IPO, has crashed 98% and 23andMe may run out of cash by 2025, as CEO Anne Wojcicki plots a turnaround &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p22#a240131p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)
  - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)
- - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)
- - [Keep All Your Gear Charged With Massive Savings on Bluetti Power Stations     - CNET](https://www.cnet.com/deals/keep-all-your-gear-charged-with-massive-savings-on-bluetti-power-stations/#ftag=CAD590a51e)
- - [A look at the four major categories of apps that could emerge at the intersection of crypto and AI, and the prospects and challenges of each category &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/240131/p8#a240131p8)<!-- TECH:END -->
+ - [Form W-2: What to Do if You Haven&#39;t Gotten Yours     - CNET](https://www.cnet.com/personal-finance/taxes/everything-to-know-about-your-form-w-2/#ftag=CAD590a51e)
+ - [The 12 Best Eye Creams of 2024     - CNET](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)
+ - [Bookstat: the US audiobook market grew 14% YoY in Q4 2023, excluding Spotify; with Spotify, it grew 28% YoY; Spotify had an 11% market share, behind Audible &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240131/p9#a240131p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro battery cable is removable if you try hard enough](https://appleinsider.com/articles/24/01/31/apple-vision-pro-battery-cable-is-removable-if-you-try-hard-enough?utm_medium=rss)
+ - [All the news from PlayStation’s 2024 State of Play](https://www.theverge.com/24055776/playstation-state-of-play-january-2024-sony)
+ - [OpenAI says GPT-4 poses &quot;at most&quot; a slight risk of helping create biological threats, according to early tests to evaluate &quot;catastrophic&quot; risks from LLMs &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240131/p36#a240131p36)
  - [Apple continues its 17-year streak of being the most admired company in the world](https://appleinsider.com/articles/24/01/31/apple-continues-its-17-year-streak-of-being-the-most-admired-company-in-the-world?utm_medium=rss)
- - [Philips stops selling sleep apnea machines in US following mass recalls](https://www.theverge.com/2024/1/31/24056939/philips-sleep-apnea-machines-recalls)
- - [Microsoft and X say they support the Kids Online Safety Act; Meta, Discord, and TikTok demur, citing criticism from groups or supporting only some parts of KOSA &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/240131/p35#a240131p35)
- - [&#39;Palworld&#39; Pokémon Modder Tests the Limits of Nintendo’s Legal Reach](https://www.wired.com/story/palworld-pokemon-mod-copyright/)
- - [Ford Is Giving Away Free Tesla Charger Converters That Will Unlock a New World of EV Power](https://www.wired.com/story/ford-is-giving-away-free-tesla-ev-charger-converters/)<!-- TECH:END -->
+ - [Philips stops selling sleep apnea machines in US following mass recalls](https://www.theverge.com/2024/1/31/24056939/philips-sleep-apnea-machines-recalls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

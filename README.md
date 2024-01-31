@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI and DOJ disrupt Volt Typhoon, a uniquely dangerous Chinese hacking operation to hijack thousands of Cisco and Netgear routers at the end of their lives &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p29#a240131p29)
  - [6 Best Prana Deals Right Now: Jackets, Leggings, and Other Great Apparel on Sale](https://www.wired.com/story/prana-deals-january-31-2024/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)
- - [Best TV for Super Bowl 2024: Screens to Upgrade Your Game     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-super-bowl/#ftag=CAD590a51e)
- - [Score All-Time Low Pricing on Apple&#39;s 15-inch MacBook Air With $300 Off     - CNET](https://www.cnet.com/deals/score-all-time-low-pricing-on-apples-15-inch-macbook-air-with-300-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best TV for Super Bowl 2024: Screens to Upgrade Your Game     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-super-bowl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

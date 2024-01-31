@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 😝 [Don&#39;t mess with India](http://9gag.com/gag/adPmXLd)
- - 💣 [Banana](http://9gag.com/gag/amAEred)
+ - 😝 [Listen dear, sometimes we gotta climb a tree cuz hyena.](http://9gag.com/gag/amAEz2d)
+ - 😝 [Banana](http://9gag.com/gag/amAEred)
+ - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)<!-- MEMES:END -->
+ - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
 
 ---
 

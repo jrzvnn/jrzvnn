@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 💣 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Who is your favorite film devil?](http://9gag.com/gag/a042d6v)
+ - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 

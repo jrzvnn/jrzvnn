@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen dear, sometimes we gotta climb a tree cuz hyena.](http://9gag.com/gag/amAEz2d)
- - 😝 [Banana](http://9gag.com/gag/amAEred)
- - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 💣 [Why he was arrested?](http://9gag.com/gag/aBd7YNA)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 👉 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)<!-- MEMES:END -->
 
 ---
 

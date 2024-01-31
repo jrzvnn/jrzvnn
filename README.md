@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe&#39;s stock, which hit a $6B valuation after a 2021 IPO, has crashed 98% and 23andMe may run out of cash by 2025, as CEO Anne Wojcicki plots a turnaround &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p22#a240131p22)
+ - [The Vision Pro is a computer for the age of walled gardens](https://www.theverge.com/24055677/apple-vision-pro-epic-netflix-app-ecosystem-monopoly)
  - [Sources: some Chinese automakers delayed flagship model deliveries due to production issues with Huawei&#39;s MDC 810 computing unit; a source blames part shortages &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p21#a240131p21)
  - [UK prosecutors say the Met Police seized 61K bitcoin, worth &amp;pound;1.4B+, in 2018, as part of a trial over an alleged ~&amp;pound;5B investment fraud in China between 2014-2017 &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/240131/p20#a240131p20)
- - [How to watch Linda Yaccarino, Mark Zuckerberg, and other tech CEOs testify in Congress](https://www.theverge.com/2024/1/31/24049456/yaccarino-zuckerberg-tiktok-x-meta-senate-judiciary-hearing-live-stream-how-to-watch)
- - [Pick up a 1TB 16-inch MacBook Pro for $1,799 today only](https://appleinsider.com/articles/24/01/31/pick-up-a-1tb-16-inch-macbook-pro-for-1799-today-only?utm_medium=rss)
- - [Samsung Galaxy S24, S24+, S24 Ultra Review: Excellent Hardware, Smarter Software](https://www.wired.com/review/samsung-galaxy-s24-s24-plus-and-s24-ultra/)<!-- TECH:END -->
+ - [How to watch Linda Yaccarino, Mark Zuckerberg, and other tech CEOs testify in Congress](https://www.theverge.com/2024/1/31/24049456/yaccarino-zuckerberg-tiktok-x-meta-senate-judiciary-hearing-live-stream-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

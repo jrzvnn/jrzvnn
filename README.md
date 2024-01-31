@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Webex teleconferencing app now available on Apple TV](https://appleinsider.com/articles/24/01/31/webex-teleconferencing-app-now-available-on-apple-tv?utm_medium=rss)
  - [All the news from Congress’ Big Tech child safety hearing](https://www.theverge.com/2024/1/31/24056136/congress-child-safety-hearing-kosa-meta-x-discord-snap-tiktok)
  - [The Pixel 8 is getting Google’s new AI search feature today](https://www.theverge.com/2024/1/31/24056890/circle-to-search-google-pixel-8-pro-update)
  - [An FTX lawyer says the exchange expects to fully repay its customers and has abandoned efforts to restart the platform due to a lack of buyers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240131/p30#a240131p30)
- - [The FBI and DOJ disrupt Volt Typhoon, a uniquely dangerous Chinese hacking operation to hijack thousands of Cisco and Netgear routers at the end of their lives &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p29#a240131p29)
- - [Can You File Your Taxes for Free on the IRS Website? Here&#39;s How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/can-you-file-your-taxes-for-free-on-the-irs-website-heres-how-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FBI and DOJ disrupt Volt Typhoon, a uniquely dangerous Chinese hacking operation to hijack thousands of Cisco and Netgear routers at the end of their lives &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p29#a240131p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

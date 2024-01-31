@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ says eBay agreed to pay $59M to settle allegations that it violated the Controlled Substances Act by allowing sales of pill presses and other items &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p31#a240131p31)
+ - [FTX says it will pay back customers](https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy)
+ - [Which Samsung Galaxy S24 Model Should You Buy? Specs Comparison and Features](https://www.wired.com/story/which-samsung-galaxy-s24-model-to-buy/)
  - [A tough break for rugged phone fans as key manufacturer shuts down](https://www.theverge.com/2024/1/31/24056970/bullitt-group-rugged-smartphones-cat-motorola-folded-insolvency)
- - [Daily deals Jan. 31: up to $900 off MacBook Pro, Apple Watch Ultra $695, Milanese Loop band $37, more](https://appleinsider.com/articles/24/01/31/daily-deals-jan-31-up-to-900-off-macbook-pro-apple-watch-ultra-695-milanese-loop-band-37-more?utm_medium=rss)
- - [Webex teleconferencing app now available on Apple TV](https://appleinsider.com/articles/24/01/31/webex-teleconferencing-app-now-available-on-apple-tv?utm_medium=rss)
- - [All the news from Congress’ Big Tech child safety hearing](https://www.theverge.com/2024/1/31/24056136/congress-child-safety-hearing-kosa-meta-x-discord-snap-tiktok)
- - [The Pixel 8 is getting Google’s new AI search feature today](https://www.theverge.com/2024/1/31/24056890/circle-to-search-google-pixel-8-pro-update)<!-- TECH:END -->
+ - [Daily deals Jan. 31: up to $900 off MacBook Pro, Apple Watch Ultra $695, Milanese Loop band $37, more](https://appleinsider.com/articles/24/01/31/daily-deals-jan-31-up-to-900-off-macbook-pro-apple-watch-ultra-695-milanese-loop-band-37-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

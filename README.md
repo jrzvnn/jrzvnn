@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 😝 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 😝 [Euro](http://9gag.com/gag/ap9WLRB)
+ - 💣 [Maybe 3rd wave feminism was a mistake. Shame on her.](http://9gag.com/gag/anzLbv0)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 

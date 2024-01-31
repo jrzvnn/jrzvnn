@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Reserve Bank of India issues new curbs against Paytm&#39;s Payments Bank, including barring new deposits, credit transactions, and more after February 29 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p19#a240131p19)
  - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Washington, DC     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-washington-dc/#ftag=CAD590a51e)
  - [Sources: Google splits up its 30-strong Responsible Innovation team, after leader and founder Jen Gennai suddenly left; RESIN conducted 500+ reviews in 2023 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240131/p18#a240131p18)
- - [SSDI Beneficiaries: Will You Have to File a Tax Return This Year?     - CNET](https://www.cnet.com/personal-finance/taxes/ssdi-beneficiaries-will-you-have-to-file-a-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bipartisan Senators unveil the DEFIANCE Act, which would let people sue over deepfake porn and other AI &quot;intimate&quot; images, after the viral Taylor Swift images &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240131/p17#a240131p17)
+ - [Fiber Optics Bring You Internet. Now They’re Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

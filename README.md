@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
- - 😝 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
- - 💣 [Women](http://9gag.com/gag/axoXVyp)
+ - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [Banana](http://9gag.com/gag/amAEred)
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Palworld is a good game](http://9gag.com/gag/amAE2r2)<!-- MEMES:END -->
+ - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 ---
 

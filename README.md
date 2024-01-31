@@ -172,10 +172,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
- - 💣 [Women](http://9gag.com/gag/axoXVyp)
+ - 😝 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
+ - 💣 [Euro](http://9gag.com/gag/ap9WLRB)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Euro](http://9gag.com/gag/ap9WLRB)<!-- MEMES:END -->
+ - 👉 [Look at their smiles](http://9gag.com/gag/a9q97jL)<!-- MEMES:END -->
 
 ---
 

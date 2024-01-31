@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia RTX 4080 Super review: a $200 price cut to $999, 16GB of VRAM, and impressive 4K performance, but not a big performance boost over the RTX 4070 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240131/p23#a240131p23)
  - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
  - [Sennheiser All-Day Clear Hearing Aids Review: Quirky, Noisy, Ineffective](https://www.wired.com/review/sennheiser-all-day-clear-otc-hearing-aids/)
  - [Nvidia RTX 4080 Super review: $999 is the main feature](https://www.theverge.com/24055394/nvidia-rtx-4080-super-review-gpu-graphics-card-benchmark-test)
- - [iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra----specs-price-features-compared?utm_medium=rss)
- - [23andMe&#39;s stock, which hit a $6B valuation after a 2021 IPO, has crashed 98% and 23andMe may run out of cash by 2025, as CEO Anne Wojcicki plots a turnaround &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p22#a240131p22)<!-- TECH:END -->
+ - [iPhone 15 Pro Max vs Samsung Galaxy S24 Ultra -- specs, price, &amp; features compared](https://appleinsider.com/inside/iphone-15-pro/vs/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra----specs-price-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

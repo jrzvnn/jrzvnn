@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US stopped autonomous trucking firm TuSimple&#39;s shipment of Nvidia A100 chips to Australia to probe whether they were ultimately bound for China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240130/p42#a240130p42)
  - [Samsung reports Q4 revenue down 3.8% YoY to ~$51B, vs. ~$52.1B est., and operating profit down 34.57% YoY to ~$2.1B, vs. ~$2.6B est. &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240130/p41#a240130p41)
  - [ADT Closed Its Solar Division. What Happens to Its Customers?     - CNET](https://www.cnet.com/home/energy-and-utilities/your-solar-company-went-out-of-business-now-what/#ftag=CAD590a51e)
  - [Universal Music Group plans to cease licensing content to TikTok after their agreement expires on January 31, saying they failed to reach new licensing terms &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240130/p40#a240130p40)
- - [US indicts a Chicago man who allegedly led a SIM-swap gang; members stole millions of dollars and posed as other people in Apple, T-Mobile, AT&amp;T, Verizon stores &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240130/p39#a240130p39)
- - [Google spent billions of dollars to lay people off](https://www.theverge.com/2024/1/30/24056132/google-spent-two-billion-on-layoffs-severance-fourth-quarter-earnings-2023)<!-- TECH:END -->
+ - [US indicts a Chicago man who allegedly led a SIM-swap gang; members stole millions of dollars and posed as other people in Apple, T-Mobile, AT&amp;T, Verizon stores &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240130/p39#a240130p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

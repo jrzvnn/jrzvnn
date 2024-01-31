@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 😝 [Women](http://9gag.com/gag/armjGA7)
- - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 💣 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 😝 [This is how bone cancer looks like. Perhaps one of the most painful conditions.](http://9gag.com/gag/anzL17E)
+ - 👉 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)<!-- MEMES:END -->
 
 ---
 

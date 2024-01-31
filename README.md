@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of the Senate hearing, US lawmakers release 90 pages of internal Meta emails from 2021, showing how Mark Zuckerberg rejected calls to bulk up child safety &lpar;New York Times&rpar;](http://www.techmeme.com/240131/p14#a240131p14)
  - [Ahead of the Senate hearing, Mark Zuckerberg calls for requiring Apple and Google to verify ages via app stores; Linda Yaccarino and Evan Spiegel support KOSA &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240131/p13#a240131p13)
  - [US and UK law enforcement are bracing for an explosion of AI-generated CSAM, and criticize Meta, the authorities&#39; best partner for flagging CSAM, over E2EE &lpar;Eileen Sullivan/New York Times&rpar;](http://www.techmeme.com/240131/p12#a240131p12)
  - [Silicon Valley&#39;s powerful companies claim to embrace Enlightenment values, but instead are leading an antidemocratic, illiberal, and authoritarian technocracy &lpar;Adrienne LaFrance/The Atlantic&rpar;](http://www.techmeme.com/240131/p11#a240131p11)
- - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)
- - [Form W-2: What to Do if You Haven&#39;t Gotten Yours     - CNET](https://www.cnet.com/personal-finance/taxes/everything-to-know-about-your-form-w-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ByteDance co-founder and CEO Liang Rubo urges staff to resist mediocrity after the company missed the initial wave of generative AI, in a company-wide meeting &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240131/p10#a240131p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

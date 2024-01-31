@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An FTX lawyer says the exchange expects to fully repay its customers and has abandoned efforts to restart the platform due to a lack of buyers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240131/p30#a240131p30)
  - [The FBI and DOJ disrupt Volt Typhoon, a uniquely dangerous Chinese hacking operation to hijack thousands of Cisco and Netgear routers at the end of their lives &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240131/p29#a240131p29)
- - [Can You File Your Taxes for Free on the IRS Website? Here&#39;s How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/can-you-file-your-taxes-for-free-on-the-irs-website-heres-how-to-find-out/#ftag=CAD590a51e)
- - [Weber&#39;s New Smart Grill Has a Top-Down Broiler and Heat Sensors to Maintain Ideal Temps     - CNET](https://www.cnet.com/home/yard-and-outdoors/weber-new-tricked-out-gas-grill-showcases-a-first-ever-feature/#ftag=CAD590a51e)
- - [6 Best Prana Deals Right Now: Jackets, Leggings, and Other Great Apparel on Sale](https://www.wired.com/story/prana-deals-january-31-2024/)<!-- TECH:END -->
+ - [6 Best Prana Deals Right Now: Jackets, Leggings, and Other Great Apparel on Sale](https://www.wired.com/story/prana-deals-january-31-2024/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Unity adds Apple Vision Pro support for all game developers](https://appleinsider.com/articles/24/01/31/unity-adds-apple-vision-pro-support-for-all-game-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

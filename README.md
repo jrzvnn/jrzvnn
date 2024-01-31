@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 💣 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
  - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 💣 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 

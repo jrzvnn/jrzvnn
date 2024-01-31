@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India is not for beginner](http://9gag.com/gag/a9q97KZ)
+ - 😝 [The Chinese Macaulay Culkin](http://9gag.com/gag/a5X87gr)
  - 😝 [Banana](http://9gag.com/gag/amAEred)
- - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)
+ - 💣 [Brutal](http://9gag.com/gag/aoKb9P2)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
+ - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aZDGMXz)<!-- MEMES:END -->
 
 ---
 

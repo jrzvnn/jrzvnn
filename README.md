@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Who is your favorite film devil?](http://9gag.com/gag/a042d6v)
- - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 😝 [Proud mama](http://9gag.com/gag/ajVoEV0)
+ - 💣 [Lol.](http://9gag.com/gag/armjgV7)
  - 😝 [Ready for a gripping journey that will awaken your power and seal your destiny?](http://9gag.com/gag/aBdp53D)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
 
 ---
 

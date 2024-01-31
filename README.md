@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24, S24+, S24 Ultra Review: Excellent Hardware, Smarter Software](https://www.wired.com/review/samsung-galaxy-s24-s24-plus-and-s24-ultra/)
+ - [Tribit&#39;s Stormbox Flow Review: A Budget Speaker With Great Battery](https://www.wired.com/review/tribit-stormbox-flow-bluetooth-speaker/)
+ - [Apple hits India sales record as country cuts import duty](https://appleinsider.com/articles/24/01/31/apple-hits-india-sales-record-as-country-cuts-import-duty?utm_medium=rss)
  - [The Reserve Bank of India issues new curbs against Paytm&#39;s Payments Bank, including barring new deposits, credit transactions, and more after February 29 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p19#a240131p19)
- - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)
- - [Sources: Google splits up its 30-strong Responsible Innovation team, after leader and founder Jen Gennai suddenly left; RESIN conducted 500+ reviews in 2023 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240131/p18#a240131p18)
- - [Bipartisan Senators unveil the DEFIANCE Act, which would let people sue over deepfake porn and other AI &quot;intimate&quot; images, after the viral Taylor Swift images &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240131/p17#a240131p17)
- - [Fiber Optics Bring You Internet. Now They’re Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)<!-- TECH:END -->
+ - [Apple Watch gets help for victims of incredibly violent car crash](https://appleinsider.com/articles/24/01/31/apple-watch-gets-help-for-victims-of-incredibly-violent-car-crash?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

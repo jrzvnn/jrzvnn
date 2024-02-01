@@ -161,8 +161,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says developers have optimized over 600 apps for the Vision Pro ahead of its February 2 launch, including Airmail, CARROT Weather, Sky Guide, and PCalc &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240201/p20#a240201p20)
  - [Apple Vision Pro now has over 600 native apps for launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)
+ - [Apple says developers have optimized over 600 apps for the Vision Pro ahead of its February 2 launch, including Airmail, CARROT Weather, Sky Guide, and PCalc &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240201/p20#a240201p20)
  - [Netflix’s 2024 movie slate will put rebels on the moon and cops in Beverly Hills](https://www.theverge.com/24057435/netflix-2024-movies-release-dates)
  - [Memo: Okta CEO Todd McKinnon says the company plans to lay off 400 employees, or ~7% of its staff, as the &quot;reality is that costs are still too high&quot; &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240201/p19#a240201p19)
  - [Elgato’s new HDMI 2.1 capture cards are finally here for Xbox Series X and PS5 streaming](https://www.theverge.com/2024/2/1/24056674/elgato-hdmi-2-1-capture-cards-usb-pci-e-xbox-series-x-ps5-streaming)<!-- TECH:END -->

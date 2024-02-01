@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
- - [Sources: Nvidia opens pre-orders for its new China-specific H20 AI chips, each costing $12K to $15K; specs show Huawei&#39;s 910B as more powerful in some key areas &lpar;Reuters&rpar;](http://www.techmeme.com/240201/p13#a240201p13)
- - [Teenage Tinder-like app Wizz kicked off App Store over sextortion claims](https://appleinsider.com/articles/24/02/01/teenage-tinder-like-app-wizz-kicked-off-app-store-over-sextortion-claims?utm_medium=rss)
- - [Inside Apple Karntner Strabe: Austria&#39;s first and only Apple Store](https://appleinsider.com/articles/24/02/01/inside-apple-karntner-strabe-austrias-first-and-only-apple-store?utm_medium=rss)
- - [Here&#39;s What Could Happen if You Don&#39;t File Your Taxes on Time in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-could-happen-if-you-dont-file-your-taxes-on-time-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with TikTok CEO Shou Zi Chew on the company&#39;s music festival in Mesa, AZ, his background, TikTok and music, music labels, US scrutiny, moderation, and more &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/240201/p15#a240201p15)
+ - [Music Piracy Is Back in a Big Way—Especially From YouTube](https://www.wired.com/story/music-piracy-way-up/)
+ - [Inside the Beef Industry’s Campaign to Influence Schoolchildren](https://www.wired.com/story/beef-industry-school-education/)
+ - [The US sentences Joseph Garrison, a 19-year-old involved in the 2022 DraftKings hack, to 18 months in jail; Garrison admitted to stealing $600K from 1,600 users &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p14#a240201p14)
+ - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

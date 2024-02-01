@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I saw miss Bulgaria here recently and wanted to share miss Poland, to let you all know there&#39;s still hope.](http://9gag.com/gag/aDYE44G)
- - 😝 [Just as planned](http://9gag.com/gag/armjoYX)
- - 💣 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)
- - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 👉 [She\u2019s so hawt](http://9gag.com/gag/aKErdrQ)<!-- MEMES:END -->
+ - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)<!-- MEMES:END -->
 
 ---
 

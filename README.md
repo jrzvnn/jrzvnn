@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 😝 [When a simple man gets that tiny bit of attention.](http://9gag.com/gag/a2Kn7Pp)
- - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - 😝 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
+ - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 👉 [Proud mama](http://9gag.com/gag/ajVoEV0)<!-- MEMES:END -->
 
 ---
 

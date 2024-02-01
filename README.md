@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
  - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 💣 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 😝 [Man refuses to pay a $700 bill](http://9gag.com/gag/aNw6A2w)
- - 👉 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)<!-- MEMES:END -->
+ - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
 
 ---
 

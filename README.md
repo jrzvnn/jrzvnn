@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)
- - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
+ - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
+ - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)<!-- MEMES:END -->
+ - 👉 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)<!-- MEMES:END -->
 
 ---
 

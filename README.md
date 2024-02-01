@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube, Discord, and &#39;Lord of the Rings&#39; Led Police to a Teen Accused of a US Swatting Spree](https://www.wired.com/story/alan-filion-torswats-swatting-arrest/)
- - [Linda Yaccarino Says X Needs More Moderators After All](https://www.wired.com/story/linda-yaccarino-says-x-needs-more-moderators/)
- - [In an email to subscribers, Hulu says the company changed its subscriber agreement to bar sharing of accounts outside the user&#39;s household &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240131/p40#a240131p40)
- - [Apple Vision Pro immersive titles have begun showing up in Apple TV app ahead of launch](https://appleinsider.com/articles/24/02/01/apple-vision-pro-immersive-titles-have-begun-showing-up-in-apple-tv-app-ahead-of-launch?utm_medium=rss)
- - [The US Wants to Know How Much Electricity Crypto Miners Use     - CNET](https://www.cnet.com/how-to/the-us-wants-to-know-how-much-electricity-crypto-miners-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Celsius emerges from bankruptcy and plans to distribute over $3B to its creditors, who will also get a stake in the newly formed Ionic Digital mining operation &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240131/p42#a240131p42)
+ - [Apple&#39;s final MacBook with an optical drive is now obsolete](https://appleinsider.com/articles/24/02/01/apples-final-macbook-with-an-optical-drive-is-now-obsolete?utm_medium=rss)
+ - [Hulu is cracking down on password sharing, just like Disney Plus and Netflix](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
+ - [Robotaxi company Motional loses capital support from automotive supplier Aptiv, the other half of a $4B joint venture with Hyundai that created Motional in 2019 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240131/p41#a240131p41)
+ - [YouTube, Discord, and ‘Lord of the Rings’ Led Police to a Teen Accused of a US Swatting Spree](https://www.wired.com/story/alan-filion-torswats-swatting-arrest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

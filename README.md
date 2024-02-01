@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
- - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - 😝 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 👉 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)<!-- MEMES:END -->
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---
 

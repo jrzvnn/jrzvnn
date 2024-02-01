@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [I thought there were fake in the past, I still cant believe they are real](http://9gag.com/gag/awZ6XPr)
- - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/axoX7Mn)
+ - 😝 [Proud mama](http://9gag.com/gag/ajVoEV0)
+ - 💣 [Wow](http://9gag.com/gag/anzLMvB)
+ - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
+ - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 ---
 

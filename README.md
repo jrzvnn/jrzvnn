@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)
  - [Apple releases visionOS 1.0.2, fixing a WebKit vulnerability that, if exploited, allowed malicious code execution; Apple patched the bug in iOS 17.3 last week &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240201/p10#a240201p10)
  - [UMG begins pulling its artists&#39; music from TikTok after contract talks failed; videos featuring UMG artists will be muted and users can pick a new soundtrack &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240201/p9#a240201p9)
  - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
- - [Best TV for 2024: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Gocycle’s CX lineup of electric cargo bikes are lightweight and foldable](https://www.theverge.com/24054365/gocycle-f1-cargo-e-bike-cx-series-longtail-price)<!-- TECH:END -->
+ - [Best TV for 2024: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

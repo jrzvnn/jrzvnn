@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)
  - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)
  - [Bard generates photos now, finally](https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation)
  - [Hot Pod Summit returns at On Air Fest 2024](https://www.theverge.com/2024/2/1/24057356/hot-pod-summit-brooklyn-2024-on-air-fest-work-x-work)
- - [Daily deals Feb. 1: H&amp;R Block Tax Software Deluxe $23, 1 year of Microsoft 365 for $45, $300 off Asus Tuf gaming laptop](https://appleinsider.com/articles/24/02/01/daily-deals-feb-1-hr-block-tax-software-deluxe-23-1-year-of-microsoft-365-for-45-300-off-asus-tuf-gaming-laptop?utm_medium=rss)
- - [Apple reveals how many apps will work with the Vision Pro on day one](https://www.theverge.com/2024/2/1/24057955/apple-vision-pro-apps-launch)<!-- TECH:END -->
+ - [Daily deals Feb. 1: H&amp;R Block Tax Software Deluxe $23, 1 year of Microsoft 365 for $45, $300 off Asus Tuf gaming laptop](https://appleinsider.com/articles/24/02/01/daily-deals-feb-1-hr-block-tax-software-deluxe-23-1-year-of-microsoft-365-for-45-300-off-asus-tuf-gaming-laptop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

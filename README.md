@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No small talk, no motive. Just a Chad](http://9gag.com/gag/a1PGKqG)
- - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 💣 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Proud mama](http://9gag.com/gag/ajVoEV0)<!-- MEMES:END -->
+ - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
 
 ---
 

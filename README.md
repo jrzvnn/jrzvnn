@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reports Q4 ad revenue up 27% YoY to $14.7B, vs. $14.2B est., North America sales up 13% YoY to $105.5B, and International sales up 17% YoY to $40.2B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240201/p40#a240201p40)
  - [OpenAI says there’s only a small chance ChatGPT will help create bioweapons](https://www.theverge.com/2024/2/1/24058095/open-ai-bioweapon-study-preparedness-team)
  - [Meta says it will pay a 50 cent dividend for the first time, and has authorized a $50B share buyback &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240201/p39#a240201p39)
  - [Amazon made an AI bot to talk you through buying more stuff on Amazon](https://www.theverge.com/2024/2/1/24058381/amazon-ai-shopping-assistant-rufus)
- - [Meta reports Q4 revenue up 25% YoY to $40.1B, net income up 201% YoY to $14B, and family daily active people up 8% YoY to 3.19B for December 2023; META up 11%+ &lpar;Meta&rpar;](http://www.techmeme.com/240201/p38#a240201p38)
- - [Amazon reports Q4 revenue up 14% YoY to $170B, net income of $10.6B vs. $0.3B YoY, operating income of $13.2B, and subscription revenue up 14% to $10.5B &lpar;Amazon&rpar;](http://www.techmeme.com/240201/p37#a240201p37)<!-- TECH:END -->
+ - [Meta reports Q4 revenue up 25% YoY to $40.1B, net income up 201% YoY to $14B, and family daily active people up 8% YoY to 3.19B for December 2023; META up 11%+ &lpar;Meta&rpar;](http://www.techmeme.com/240201/p38#a240201p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

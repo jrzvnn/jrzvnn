@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you&#39;re in the EU, you can ask Apple about App Store changes](https://appleinsider.com/articles/24/02/01/if-youre-in-the-eu-you-can-ask-apple-about-app-store-changes?utm_medium=rss)
+ - [Tim Cook says Apple doesn&#39;t intend to license Masimo&#39;s blood oxygen detection to end the Apple Watch import ban &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240201/p48#a240201p48)
  - [Mark Zuckerberg says Threads now has more than 130M MAUs and is &quot;growing steadily&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p47#a240201p47)
- - [Cloudflare says it was hacked in November 2023 by a suspected &quot;nation state attacker&quot; who used auth tokens stolen in Okta&#39;s breach from October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p46#a240201p46)
- - [Hey Google, I was using that button!](https://www.theverge.com/2024/2/1/24058092/android-google-assistant-voice-removed)
- - [Apple Q1: revenue of Services, which includes Apple TV+ and Apple Music, rose 11% YoY to a record $23.1B, and installed base crossed 2.2B active devices &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240201/p45#a240201p45)
- - [Apple didn’t release new iPads last year, and now its sales are way down](https://www.theverge.com/2024/2/1/24058442/apple-q1-2024-earnings-iphone)<!-- TECH:END -->
+ - [9 Good Deals on Smartwatches, Robot Vacuums, and Video Games](https://www.wired.com/story/midweek-deals-february-1-2024/)
+ - [Cloudflare says it was hacked in November 2023 by a suspected &quot;nation state attacker&quot; who used auth tokens stolen in Okta&#39;s breach from October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p46#a240201p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

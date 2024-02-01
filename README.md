@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro will have over 600 native apps on launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)
+ - [Google plans to limit news publishers to tracking users across five of their own websites under its Privacy Sandbox, which is set to replace third-party cookies &lpar;Jim Edwards/Press Gazette&rpar;](http://www.techmeme.com/240201/p33#a240201p33)
  - [Car-tech breakup fever is heating up](https://www.theverge.com/2024/2/1/24058174/polestar-motional-break-up-interest-rate-ev-demand-av)
  - [Get 1 year of Microsoft 365 for $44.99](https://appleinsider.com/articles/24/02/01/get-1-year-of-microsoft-365-for-4499?utm_medium=rss)
- - [The Browser Company unveils new features for its Arc desktop browser, including Arc Explore, a desktop version of Arc Search&#39;s &quot;browse for me&quot;, and Live Folders &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240201/p32#a240201p32)
- - [21 Key Samsung Phone Settings You Should Always Change &lpar;2024&rpar;: Tips and Tricks](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)
- - [Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro](https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro)<!-- TECH:END -->
+ - [The Browser Company unveils new features for its Arc desktop browser, including Arc Explore, a desktop version of Arc Search&#39;s &quot;browse for me&quot;, and Live Folders &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240201/p32#a240201p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

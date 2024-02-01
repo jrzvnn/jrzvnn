@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)
+ - [Best iPhone Deals 2024: Take Up to $1,050 Off a New iPhone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
  - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)
- - [WiFi Water Sensor     - CNET](https://www.cnet.com/home/smart-home/wifi-water-sensor-3pcs-dpnl/#ftag=CAD590a51e)
- - [Video Doorbell     - CNET](https://www.cnet.com/home/security/video-doorbell-dpnl/#ftag=CAD590a51e)
- - [1TB PlayStation 5 Console     - CNET](https://www.cnet.com/tech/gaming/playstation-5-console-dpnl/#ftag=CAD590a51e)
- - [TP-Link Tri-Band WiFi Router     - CNET](https://www.cnet.com/home/internet/tp-link-tri-band-wifi-router-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fed Won&#39;t Cut Interest Rates Until Inflation Approaches 2%. Here&#39;s What That Means for Your Money     - CNET](https://www.cnet.com/personal-finance/banking/fed-holds-rates-steady-with-cuts-expected-in-2024-heres-what-that-means-for-your-money/#ftag=CAD590a51e)
+ - [Essential Oil Diffuser     - CNET](https://www.cnet.com/news/essential-oil-diffuser-2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

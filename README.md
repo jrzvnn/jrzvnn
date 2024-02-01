@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
  - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 💣 [Works for a while i guess](http://9gag.com/gag/armjVx0)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)<!-- MEMES:END -->
+ - 👉 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)<!-- MEMES:END -->
 
 ---
 

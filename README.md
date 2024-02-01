@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
- - 💣 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
+ - 😝 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)
+ - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
+ - 💣 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)<!-- MEMES:END -->
+ - 👉 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)<!-- MEMES:END -->
 
 ---
 

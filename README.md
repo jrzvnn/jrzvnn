@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Good postures for healthy benefits](http://9gag.com/gag/armjg25)
+ - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 💣 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Female Chameleon erupts in color before death](http://9gag.com/gag/agoPXVr)<!-- MEMES:END -->
+ - 👉 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)<!-- MEMES:END -->
 
 ---
 

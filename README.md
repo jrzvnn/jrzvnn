@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone sales are up, but take a big hit in China](https://appleinsider.com/articles/24/02/01/iphone-sales-are-up-but-take-a-big-hit-in-china?utm_medium=rss)
+ - [Apple Q1 revenue: iPhone up 6% YoY to $69.7B, Mac up 1% to $7.78B, iPad down 25% to $7.02B, and Wearables, Home, and Accessories down 11% to $11.95B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240201/p44#a240201p44)
  - [What Apple&#39;s jailbroken iPhone kits for security researchers looks like](https://appleinsider.com/articles/24/02/01/what-apples-jailbroken-iphone-kits-for-security-researchers-looks-like?utm_medium=rss)
  - [Apple&#39;s $119B Q1 2024 revenue a bounce back from 2023 dip](https://appleinsider.com/articles/24/02/01/apples-119b-q1-2024-revenue-a-bounce-back-from-2023-dip?utm_medium=rss)
- - [Meta&#39;s Reality Labs unit had revenue of $1B in Q4 but had a record operating loss of $4.65B; the metaverse division has now lost over $42B since the end of 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240201/p43#a240201p43)
- - [Apple reports first quarter results &lpar;Apple&rpar;](http://www.techmeme.com/240201/p42#a240201p42)
- - [Amazon reports Q4 AWS revenue up 13% YoY to $24.2B, vs. $24.26B est., and operating income of $7.2B, up from $5.2B YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240201/p41#a240201p41)<!-- TECH:END -->
+ - [Meta&#39;s Reality Labs unit had revenue of $1B in Q4 but had a record operating loss of $4.65B; the metaverse division has now lost over $42B since the end of 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240201/p43#a240201p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

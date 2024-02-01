@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)
- - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
- - 💣 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)<!-- MEMES:END -->
+ - 👉 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)<!-- MEMES:END -->
 
 ---
 

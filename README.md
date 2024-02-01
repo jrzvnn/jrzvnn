@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Owner.com, which offers an all-in-one platform for independent restaurants that includes online ordering and a website builder, raised a $33M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240201/p1#a240201p1)
  - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)
  - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)
  - [Best iPhone Deals 2024: Take Up to $1,050 Off a New iPhone     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
- - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)
- - [Fed Won&#39;t Cut Interest Rates Until Inflation Approaches 2%. Here&#39;s What That Means for Your Money     - CNET](https://www.cnet.com/personal-finance/banking/fed-holds-rates-steady-with-cuts-expected-in-2024-heres-what-that-means-for-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

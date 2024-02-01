@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro immersive titles have begun showing up in Apple TV app ahead of launch](https://appleinsider.com/articles/24/02/01/apple-vision-pro-immersive-titles-have-begun-showing-up-in-apple-tv-app-ahead-of-launch?utm_medium=rss)
  - [Metronome, which offers APIs to help SaaS companies charge customers on a usage basis, raised a $43M Series B led by NEA, bringing its total funding to $78M+ &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240131/p39#a240131p39)
  - [TikTok’s CEO can’t catch a break from xenophobia in Congress](https://www.theverge.com/2024/1/31/24057422/tiktok-ceo-child-safety-hearing-tom-cotton-xenophobia)
- - [Spotify’s exclusivity era nears its end](https://www.theverge.com/2024/1/31/24057476/spotify-alex-cooper-call-her-daddy-joe-rogan-pineapple-street-smartless-siriusxm)
- - [Apple to continue using Qualcomm 5G modems through March 2027](https://appleinsider.com/articles/24/01/31/apple-to-continue-using-qualcomm-5g-modems-through-march-2027?utm_medium=rss)
- - [Konami just stealth launched a Silent Hill game](https://www.theverge.com/2024/1/31/24057338/silent-hill-2-trailer-short-message-state-of-play)<!-- TECH:END -->
+ - [Neuralink&#39;s Brain Chip Is Running in a Human. Your Skull Is Safe, for Now     - CNET](https://www.cnet.com/health/medical/neuralinks-brain-chip-is-running-in-a-human-your-skull-is-safe-for-now/#ftag=CAD590a51e)
+ - [Spotify’s exclusivity era nears its end](https://www.theverge.com/2024/1/31/24057476/spotify-alex-cooper-call-her-daddy-joe-rogan-pineapple-street-smartless-siriusxm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

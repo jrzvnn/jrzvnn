@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
- - 😝 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 👉 [Oh boy](http://9gag.com/gag/aA0ox80)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/armjgV7)
+ - 😝 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
+ - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
 
 ---
 

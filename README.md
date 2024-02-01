@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Car could automatically pick you up, take you home, and play your music on the way](https://appleinsider.com/articles/24/02/01/apple-car-could-automatically-pick-you-up-take-you-home-and-play-your-music-on-the-way?utm_medium=rss)
  - [Lawmakers want to know how TurboTax used $94 million in tax breaks](https://www.theverge.com/2024/2/1/24057309/turbotax-intuit-research-tax-credits-elizabeth-warren-letter)
  - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
  - [Get an Smart Indoor Smoker for $300 Off and Smoke Your Way to Big Game Hosting Glory     - CNET](https://www.cnet.com/deals/ges-amazing-smart-indoor-bbq-smoker-is-300-off-right-now/#ftag=CAD590a51e)
- - [Want a Healthier Heart? Eat These 5 Types of Foods     - CNET](https://www.cnet.com/health/nutrition/want-a-healthier-heart-eat-these-5-types-of-foods/#ftag=CAD590a51e)
- - [Here&#39;s How iOS 17.3&#39;s Stolen Device Protection Works     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-ios-17-3s-stolen-device-protection-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want a Healthier Heart? Eat These 5 Types of Foods     - CNET](https://www.cnet.com/health/nutrition/want-a-healthier-heart-eat-these-5-types-of-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

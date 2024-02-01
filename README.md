@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Rufus, an AI-powered shopping assistant trained on its product catalog and information from around the web, in beta for some US customers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p35#a240201p35)
  - [Taylor Swift Conspiracy Theorists Get Psyops All Wrong](https://www.wired.com/story/taylor-swift-psyop-conspiracy/)
  - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [Sources: fabless semiconductor startup Astera Labs is meeting with prospective investors ahead of a potential March IPO; Astera was valued at $3.15B in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/240201/p34#a240201p34)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)<!-- TECH:END -->
+ - [31 Best Valentine&#39;s Day Gifts for Kids in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-valentines-day-gifts-for-kids/#ftag=CAD590a51e)
+ - [Sources: fabless semiconductor startup Astera Labs is meeting with prospective investors ahead of a potential March IPO; Astera was valued at $3.15B in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/240201/p34#a240201p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

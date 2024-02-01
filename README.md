@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 👉 [Sokka the bender](http://9gag.com/gag/aL1yjA5)<!-- MEMES:END -->
+ - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
+ - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 💣 [Women](http://9gag.com/gag/armjGA7)
+ - 😝 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
+ - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 💣 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 😝 [Lol.](http://9gag.com/gag/armjgV7)
+ - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
+ - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Binance&#39;s efforts to re-enter the UK market are being frustrated after UK&#39;s financial regulator expressed concerns to prospective local partners &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240201/p25#a240201p25)
+ - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
+ - [Senators find tech CEOs’ responses hollow after four-hour hearing](https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm)
  - [CISA orders US federal agencies to disconnect all Ivanti VPN appliances vulnerable to multiple actively exploited bugs before Saturday, February 3 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p24#a240201p24)
- - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)
- - [iPhone is the only reason the US smartphone market has recovered](https://appleinsider.com/articles/24/02/01/iphone-is-the-only-reason-the-us-smartphone-market-has-recovered?utm_medium=rss)
- - [Comcast is dropping its misleading Xfinity 10G network branding](https://www.theverge.com/2024/2/1/24058006/comcast-xfinity-10g-network-branding-advertising-misleading)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
+ - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

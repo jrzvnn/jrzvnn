@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 😝 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
- - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 

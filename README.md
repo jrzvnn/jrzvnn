@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
+ - 😝 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - 💣 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
+ - 👉 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)<!-- MEMES:END -->
 
 ---
 

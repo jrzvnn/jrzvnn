@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)
  - [Apple won&#39;t license Masimo&#39;s patents despite Apple Watch import ban](https://appleinsider.com/articles/24/02/01/apple-wont-license-masimos-patents-despite-apple-watch-import-ban?utm_medium=rss)
  - [Cook &#39;incredibly excited&#39; about generative AI coming to Apple gear later in 2024](https://appleinsider.com/articles/24/02/01/cook-incredibly-excited-about-generative-ai-coming-to-apple-gear-later-in-2024?utm_medium=rss)
  - [Apple R&amp;D spending flat for the first time in over a decade -- sort of](https://appleinsider.com/articles/24/02/01/apple-rd-spending-flat-for-the-first-time-in-over-a-decade----sort-of?utm_medium=rss)
- - [iPhone sales are up, but take a big hit in China](https://appleinsider.com/articles/24/02/01/iphone-sales-are-up-but-take-a-big-hit-in-china?utm_medium=rss)
- - [Apple reports Q1 sales in Greater China fell 13% YoY to $20.82B, vs $23.5B est., its weakest December quarter in the region since Q1 2020 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240201/p49#a240201p49)<!-- TECH:END -->
+ - [iPhone sales are up, but take a big hit in China](https://appleinsider.com/articles/24/02/01/iphone-sales-are-up-but-take-a-big-hit-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

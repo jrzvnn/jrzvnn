@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s workout-friendly Soundcore Sport X10 earbuds are a bargain at just $56](https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale)
- - [A Decapitation May Have Roots in Far-Right Border and Immigrant Paranoia](https://www.wired.com/story/beheading-conspiracy-immigrants-texas-convoy/)
- - [Sources: Binance&#39;s efforts to re-enter the UK market are being frustrated after UK&#39;s financial regulator expressed concerns to prospective local partners &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240201/p25#a240201p25)
- - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
- - [Senators find tech CEOs’ responses hollow after four-hour hearing](https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm)<!-- TECH:END -->
+ - [YouTube says YouTube Premium and Music have a combined 100M subscribers; CEO Neal Mohan says subscriptions have become a &quot;meaningful part&quot; of YouTube&#39;s business &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240201/p28#a240201p28)
+ - [The US CPSC says Snap will recall all 71,000 Pixy selfie camera drones as their batteries pose a fire risk, and users should &quot;immediately stop&quot; using the drone &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240201/p27#a240201p27)
+ - [Meta plans to deploy its second-gen in-house chips, referred to internally as Artemis, to its data centers in 2024, alongside &quot;commercially available GPUs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240201/p26#a240201p26)
+ - [I Tested a Next-Gen AI Assistant. It Will Blow You Away](https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/)
+ - [Google Maps is getting ‘supercharged’ with generative AI](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone sales are up, but take a big hit in China](https://appleinsider.com/articles/24/02/01/iphone-sales-are-up-but-take-a-big-hit-in-china?utm_medium=rss)
- - [Apple Q1 revenue: iPhone up 6% YoY to $69.7B, Mac up 1% to $7.78B, iPad down 25% to $7.02B, and Wearables, Home, and Accessories down 11% to $11.95B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240201/p44#a240201p44)
- - [What Apple&#39;s jailbroken iPhone kits for security researchers looks like](https://appleinsider.com/articles/24/02/01/what-apples-jailbroken-iphone-kits-for-security-researchers-looks-like?utm_medium=rss)
- - [Apple&#39;s $119B Q1 2024 revenue a bounce back from 2023 dip](https://appleinsider.com/articles/24/02/01/apples-119b-q1-2024-revenue-a-bounce-back-from-2023-dip?utm_medium=rss)
- - [Meta&#39;s Reality Labs unit had revenue of $1B in Q4 but had a record operating loss of $4.65B; the metaverse division has now lost over $42B since the end of 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240201/p43#a240201p43)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads now has more than 130M MAUs and is &quot;growing steadily&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p47#a240201p47)
+ - [Cloudflare says it was hacked in November 2023 by a suspected &quot;nation state attacker&quot; who used auth tokens stolen in Okta&#39;s breach from October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p46#a240201p46)
+ - [Hey Google, I was using that button!](https://www.theverge.com/2024/2/1/24058092/android-google-assistant-voice-removed)
+ - [Apple Q1: revenue of Services, which includes Apple TV+ and Apple Music, rose 11% YoY to a record $23.1B, and installed base crossed 2.2B active devices &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240201/p45#a240201p45)
+ - [Apple didn’t release new iPads last year, and now its sales are way down](https://www.theverge.com/2024/2/1/24058442/apple-q1-2024-earnings-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

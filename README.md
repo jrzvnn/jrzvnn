@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 😝 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 💣 [Red alert girl](http://9gag.com/gag/ajVoEAG)
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
+ - 😝 [If you break into this house and don&#39;t pay attention behind you](http://9gag.com/gag/a3ZVq75)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 💣 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 👉 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)<!-- MEMES:END -->
 
 ---
 

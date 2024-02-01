@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the pharmaceutical industry adopts AI to speed up drug development, a look at the challenges facing the industry to prove the effectiveness of AI-aided drugs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p6#a240201p6)
  - [Microsoft says Pocket Pair&#39;s Palworld, still technically in early access, is the biggest third-party Xbox Game Pass launch in history, reaching 7M players &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240201/p5#a240201p5)
  - [Shopify releases new features, including an AI-powered image editor for products, improved semantic search, and tools for better merchandising &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240201/p4#a240201p4)
  - [An interview with Unity&#39;s chief product and technology officer Marc Whitten, as the company launches official support to build spatial apps for Apple&#39;s visionOS &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240201/p3#a240201p3)
- - [Google inks major new offshore wind deal](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)
- - [MediaTek reports Q4 revenue up 19.7% YoY to $4.1B and net profit up 38.9% YoY to $820M, posting its first YoY increases in revenue and profit in five quarters &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/240201/p2#a240201p2)<!-- TECH:END -->
+ - [Google inks major new offshore wind deal](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

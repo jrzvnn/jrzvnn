@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with TikTok CEO Shou Zi Chew on the company&#39;s music festival in Mesa, AZ, his background, TikTok and music, music labels, US scrutiny, moderation, and more &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/240201/p15#a240201p15)
- - [Music Piracy Is Back in a Big Way—Especially From YouTube](https://www.wired.com/story/music-piracy-way-up/)
- - [Inside the Beef Industry’s Campaign to Influence Schoolchildren](https://www.wired.com/story/beef-industry-school-education/)
- - [The US sentences Joseph Garrison, a 19-year-old involved in the 2022 DraftKings hack, to 18 months in jail; Garrison admitted to stealing $600K from 1,600 users &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p14#a240201p14)
- - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
+ - [Nothing confirms Phone 2A after rumors of the affordable followup](https://www.theverge.com/2024/2/1/24057890/nothing-phone-2a-pre-announced-smartphone-glyph)
+ - [Face ID might land in future MacBook Pro -- and maybe even the iMac](https://appleinsider.com/articles/24/02/01/face-id-might-land-in-future-macbook-pro----and-maybe-even-the-imac?utm_medium=rss)
+ - [An interview with Tim Cook, Greg Joswiak, James Cameron, Jon Favreau, and others on the Apple Vision Pro, using the device, developing the headset, and more &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240201/p16#a240201p16)
+ - [Q&amp;A with TikTok CEO Shou Zi Chew on the company&#39;s music festival in Mesa, AZ, his background, TikTok and music, music labels, US scrutiny, moderation, and more &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/240201/p15#a240201p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

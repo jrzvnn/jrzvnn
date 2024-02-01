@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Pinterest CEO Bill Ready on why social media turned toxic, his vision for a less toxic platform that can use AI for good, activist investors, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240201/p7#a240201p7)
  - [TikTok loses Taylor Swift, Drake, and other major Universal Music artists](https://www.theverge.com/2024/2/1/24057839/umg-pulls-tiktok-music-ai-contract-dispute)
  - [Spoil Your Special Guy With These Valentine&#39;s Day Gifts     - CNET](https://www.cnet.com/news/valentines-gifts-for-him/#ftag=CAD590a51e)
  - [As the pharmaceutical industry adopts AI to speed up drug development, a look at the challenges facing the industry to prove the effectiveness of AI-aided drugs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240201/p6#a240201p6)
- - [Microsoft says Pocket Pair&#39;s Palworld, still technically in early access, is the biggest third-party Xbox Game Pass launch in history, reaching 7M players &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240201/p5#a240201p5)
- - [Shopify releases new features, including an AI-powered image editor for products, improved semantic search, and tools for better merchandising &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240201/p4#a240201p4)<!-- TECH:END -->
+ - [Microsoft says Pocket Pair&#39;s Palworld, still technically in early access, is the biggest third-party Xbox Game Pass launch in history, reaching 7M players &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240201/p5#a240201p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

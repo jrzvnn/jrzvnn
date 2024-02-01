@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;&#39;Be not afraid&#39;&#39;](http://9gag.com/gag/a6qAbA2)
- - 😝 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
+ - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
+ - 💣 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)
+ - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
+ - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
 
 ---
 

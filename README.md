@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia opens pre-orders for its new China-specific H20 AI chips, each costing $12K to $15K; specs show Huawei&#39;s 910B as more powerful in some key areas &lpar;Reuters&rpar;](http://www.techmeme.com/240201/p13#a240201p13)
+ - [Teenage Tinder-like app Wizz kicked off App Store over sextortion claims](https://appleinsider.com/articles/24/02/01/teenage-tinder-like-app-wizz-kicked-off-app-store-over-sextortion-claims?utm_medium=rss)
  - [Inside Apple Karntner Strabe: Austria&#39;s first and only Apple Store](https://appleinsider.com/articles/24/02/01/inside-apple-karntner-strabe-austrias-first-and-only-apple-store?utm_medium=rss)
- - [Google signs power purchase deals with two new Dutch offshore wind farms, its biggest deals yet, and expects its Dutch centers to hit 90% clean energy in 2024 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240201/p12#a240201p12)
- - [‘Over Time the Trust Will Come’: An Exclusive Interview With TikTok’s CEO](https://www.wired.com/story/shou-zi-chew-tik-tok-big-interview/)
- - [Hate Speech Proliferates on YouTube in India, Research Finds](https://www.wired.com/story/youtube-hate-speech-india-elections/)
- - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)<!-- TECH:END -->
+ - [Here&#39;s What Could Happen if You Don&#39;t File Your Taxes on Time in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-could-happen-if-you-dont-file-your-taxes-on-time-in-2024/#ftag=CAD590a51e)
+ - [Best Internet Providers in Rockford, Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-rockford-il/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

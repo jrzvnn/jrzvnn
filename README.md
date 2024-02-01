@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports Q1 sales in Greater China fell 13% YoY to $20.82B, vs $23.5B est., its weakest December quarter in the region since Q1 2020 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240201/p49#a240201p49)
+ - [Toward a unified taxonomy of text-based social media use](https://www.theverge.com/24058356/trolls-social-media-commenter-lurker-reply-guy-threads)
  - [Apple&#39;s $119B Q1 2024 revenue a bounce back from 2023 dip](https://appleinsider.com/articles/24/02/01/apples-119b-q1-2024-revenue-a-bounce-back-from-2023-dip?utm_medium=rss)
  - [If you&#39;re in the EU, you can ask Apple about App Store changes](https://appleinsider.com/articles/24/02/01/if-youre-in-the-eu-you-can-ask-apple-about-app-store-changes?utm_medium=rss)
- - [Tim Cook says Apple doesn&#39;t intend to license Masimo&#39;s blood oxygen detection to end the Apple Watch import ban &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240201/p48#a240201p48)
- - [Mark Zuckerberg says Threads now has more than 130M MAUs and is &quot;growing steadily&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p47#a240201p47)
- - [9 Good Deals on Smartwatches, Robot Vacuums, and Video Games](https://www.wired.com/story/midweek-deals-february-1-2024/)<!-- TECH:END -->
+ - [Tim Cook says Apple doesn&#39;t intend to license Masimo&#39;s blood oxygen detection to end the Apple Watch import ban &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240201/p48#a240201p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that escalated quickly](http://9gag.com/gag/axoX7Mn)
- - 😝 [Proud mama](http://9gag.com/gag/ajVoEV0)
- - 💣 [Wow](http://9gag.com/gag/anzLMvB)
  - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 👉 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/armjgV7)
+ - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
+ - 👉 [Female Chameleon erupts in color before death](http://9gag.com/gag/agoPXVr)<!-- MEMES:END -->
 
 ---
 

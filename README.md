@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Vision Pro Lives Deep in the Uncanny Valley](https://www.wired.com/story/gadget-lab-podcast-630/)
  - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
  - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)
  - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
- - [Nothing confirms Phone 2A after rumors of the affordable followup](https://www.theverge.com/2024/2/1/24057890/nothing-phone-2a-pre-announced-smartphone-glyph)
- - [Face ID might land in future MacBook Pro -- and maybe even the iMac](https://appleinsider.com/articles/24/02/01/face-id-might-land-in-future-macbook-pro----and-maybe-even-the-imac?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing confirms Phone 2A after rumors of the affordable followup](https://www.theverge.com/2024/2/1/24057890/nothing-phone-2a-pre-announced-smartphone-glyph)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

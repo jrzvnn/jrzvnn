@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
+ - 👉 [Sokka the bender](http://9gag.com/gag/aL1yjA5)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&#39;s Missing Music Is Making Users Very Upset](https://www.wired.com/story/tiktok-no-sounds-taylor-swift-umg-licensing/)
  - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)
  - [Tim Cook says that Apple is spending &quot;a tremendous amount of time and effort&quot; on AI features that the company plans to announce &quot;later this year&quot; &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240201/p51#a240201p51)
  - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
- - [Tim Cook confirms Apple’s generative AI features are coming ‘later this year’](https://www.theverge.com/2024/2/1/24058647/apple-ceo-tim-cook-teases-generative-ai-iphone)
- - [In Meta&#39;s earnings call, Mark Zuckerberg described Apple&#39;s new DMA rules as &quot;so onerous&quot; that he doubts any developer, including Meta, would adopt them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p50#a240201p50)<!-- TECH:END -->
+ - [Tim Cook confirms Apple’s generative AI features are coming ‘later this year’](https://www.theverge.com/2024/2/1/24058647/apple-ceo-tim-cook-teases-generative-ai-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

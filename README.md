@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: fabless semiconductor startup Astera Labs is meeting with prospective investors ahead of a potential March IPO; Astera was valued at $3.15B in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/240201/p34#a240201p34)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple Vision Pro app pages have started going live](https://appleinsider.com/articles/24/02/01/apple-vision-pro-app-pages-have-started-going-live?utm_medium=rss)
  - [Apple Vision Pro will have over 600 native apps on launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)
- - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)
- - [Google plans to limit news publishers to tracking users across five of their own websites under its Privacy Sandbox, which is set to replace third-party cookies &lpar;Jim Edwards/Press Gazette&rpar;](http://www.techmeme.com/240201/p33#a240201p33)<!-- TECH:END -->
+ - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

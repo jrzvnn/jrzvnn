@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celsius emerges from bankruptcy and plans to distribute over $3B to its creditors, who will also get a stake in the newly formed Ionic Digital mining operation &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240131/p42#a240131p42)
- - [Apple&#39;s final MacBook with an optical drive is now obsolete](https://appleinsider.com/articles/24/02/01/apples-final-macbook-with-an-optical-drive-is-now-obsolete?utm_medium=rss)
- - [Hulu is cracking down on password sharing, just like Disney Plus and Netflix](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
- - [Robotaxi company Motional loses capital support from automotive supplier Aptiv, the other half of a $4B joint venture with Hyundai that created Motional in 2019 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240131/p41#a240131p41)
- - [YouTube, Discord, and ‘Lord of the Rings’ Led Police to a Teen Accused of a US Swatting Spree](https://www.wired.com/story/alan-filion-torswats-swatting-arrest/)<!-- TECH:END -->
+ - [Paytm plans to cease work with its associate Paytm Payments Bank and accelerate partnerships with other banks, after the RBI&#39;s clampdown on the payment bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240131/p43#a240131p43)
+ - [WiFi Water Sensor     - CNET](https://www.cnet.com/home/smart-home/wifi-water-sensor-3pcs-dpnl/#ftag=CAD590a51e)
+ - [Video Doorbell     - CNET](https://www.cnet.com/home/security/video-doorbell-dpnl/#ftag=CAD590a51e)
+ - [1TB PlayStation 5 Console     - CNET](https://www.cnet.com/tech/gaming/playstation-5-console-dpnl/#ftag=CAD590a51e)
+ - [TP-Link Tri-Band WiFi Router     - CNET](https://www.cnet.com/home/internet/tp-link-tri-band-wifi-router-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

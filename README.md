@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 💣 [Works for a while i guess](http://9gag.com/gag/armjVx0)
+ - 😝 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)<!-- MEMES:END -->
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 ---
 

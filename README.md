@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sun Tzu `Art of War`](http://9gag.com/gag/avQ3GeX)
- - 😝 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
- - 💣 [Mysterious hatch](http://9gag.com/gag/agoPnyW)
- - 😝 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)
- - 👉 [She\u2019s so hawt](http://9gag.com/gag/aKErdrQ)<!-- MEMES:END -->
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
+ - 💣 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
 
 ---
 

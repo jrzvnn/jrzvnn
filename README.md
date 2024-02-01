@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works for a while i guess](http://9gag.com/gag/armjVx0)
- - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 💣 [Make sure to save it and never watch it again.](http://9gag.com/gag/aDYEg57)
+ - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
+ - 💣 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 👉 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)<!-- MEMES:END -->
 
 ---
 

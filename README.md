@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US EIA plans to begin surveying crypto miners&#39; electricity use next week; the EIA cited bitcoin rising 50% in recent months as an emergency justification &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240201/p30#a240201p30)
- - [The Arc browser is getting better bookmarks and search results, all thanks to AI](https://www.theverge.com/2024/2/1/24058013/arc-browser-smart-folders-browse-for-me-ai)
- - [A Startup Allegedly ‘Hacked the World.’ Then Came the Censorship—and Now the Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
- - [Google plans to roll out a Google Maps feature that uses LLMs to analyze data on 250M+ places and recommend places, starting in the US &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240201/p29#a240201p29)
- - [Snag Freebies Worth Up to $198 When You Grab the Meta Quest 3 VR Headset     - CNET](https://www.cnet.com/deals/snag-freebies-worth-up-to-198-when-you-grab-the-meta-quest-3-vr-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro](https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro)
+ - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
+ - [Here&#39;s How ASCII &#39;Barbie&#39; Came to a Screen Near You](https://www.wired.com/story/ascii-barbie-hereditary-copyright-mschf/)
+ - [Meta rolls out the v62 software update for Meta Quest, adding support for Apple&#39;s spatial video playback, PlayStation controllers, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240201/p31#a240201p31)
+ - [The US EIA plans to begin surveying crypto miners&#39; electricity use next week; the EIA cited bitcoin rising 50% in recent months as an emergency justification &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240201/p30#a240201p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
+ - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)
  - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
  - [Nothing confirms Phone 2A after rumors of the affordable followup](https://www.theverge.com/2024/2/1/24057890/nothing-phone-2a-pre-announced-smartphone-glyph)
- - [Face ID might land in future MacBook Pro -- and maybe even the iMac](https://appleinsider.com/articles/24/02/01/face-id-might-land-in-future-macbook-pro----and-maybe-even-the-imac?utm_medium=rss)
- - [An interview with Tim Cook, Greg Joswiak, James Cameron, Jon Favreau, and others on the Apple Vision Pro, using the device, developing the headset, and more &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240201/p16#a240201p16)
- - [Q&amp;A with TikTok CEO Shou Zi Chew on the company&#39;s music festival in Mesa, AZ, his background, TikTok and music, music labels, US scrutiny, moderation, and more &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/240201/p15#a240201p15)<!-- TECH:END -->
+ - [Face ID might land in future MacBook Pro -- and maybe even the iMac](https://appleinsider.com/articles/24/02/01/face-id-might-land-in-future-macbook-pro----and-maybe-even-the-imac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

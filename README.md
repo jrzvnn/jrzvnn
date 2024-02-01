@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
- - 😝 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)
- - 💣 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
+ - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
  - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Lol.](http://9gag.com/gag/armjgV7)
+ - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
 
 ---
 

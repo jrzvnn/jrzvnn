@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Apple Karntner Strabe: Austria&#39;s first and only Apple Store](https://appleinsider.com/articles/24/02/01/inside-apple-karntner-strabe-austrias-first-and-only-apple-store?utm_medium=rss)
  - [Google signs power purchase deals with two new Dutch offshore wind farms, its biggest deals yet, and expects its Dutch centers to hit 90% clean energy in 2024 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240201/p12#a240201p12)
  - [‘Over Time the Trust Will Come’: An Exclusive Interview With TikTok’s CEO](https://www.wired.com/story/shou-zi-chew-tik-tok-big-interview/)
  - [Hate Speech Proliferates on YouTube in India, Research Finds](https://www.wired.com/story/youtube-hate-speech-india-elections/)
- - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)
- - [Apple releases visionOS 1.0.2, fixing a WebKit vulnerability that, if exploited, allowed malicious code execution; Apple patched the bug in iOS 17.3 last week &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240201/p10#a240201p10)<!-- TECH:END -->
+ - [Sources: SK Hynix plans to build an advanced chip packaging plant in Indiana, for stacking DRAM chips to make High Bandwidth Memory &lpar;HBM&rpar; chips for Nvidia GPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/240201/p11#a240201p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

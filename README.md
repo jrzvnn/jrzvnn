@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser Company unveils new features for its Arc desktop browser, including Arc Explore, a desktop version of Arc Search&#39;s &quot;browse for me&quot;, and Live Folders &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240201/p32#a240201p32)
+ - [21 Key Samsung Phone Settings You Should Always Change &lpar;2024&rpar;: Tips and Tricks](https://www.wired.com/story/key-settings-to-change-on-samsung-galaxy-phones/)
  - [Meta’s Quest headsets add spatial video and pinch controls to compete with Vision Pro](https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro)
  - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
- - [Here&#39;s How ASCII &#39;Barbie&#39; Came to a Screen Near You](https://www.wired.com/story/ascii-barbie-hereditary-copyright-mschf/)
- - [Meta rolls out the v62 software update for Meta Quest, adding support for Apple&#39;s spatial video playback, PlayStation controllers, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240201/p31#a240201p31)
- - [The US EIA plans to begin surveying crypto miners&#39; electricity use next week; the EIA cited bitcoin rising 50% in recent months as an emergency justification &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240201/p30#a240201p30)<!-- TECH:END -->
+ - [Here&#39;s How ASCII &#39;Barbie&#39; Came to a Screen Near You](https://www.wired.com/story/ascii-barbie-hereditary-copyright-mschf/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

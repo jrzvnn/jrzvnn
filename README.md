@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
- - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 💣 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 👉 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)<!-- MEMES:END -->
+ - 😝 [I would like to see her answer to that.](http://9gag.com/gag/a7qzwo2)
+ - 😝 [She\u2019s so hawt](http://9gag.com/gag/aKErdrQ)
+ - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Women](http://9gag.com/gag/armjGA7)
+ - 👉 [Good postures for healthy benefits](http://9gag.com/gag/armjg25)<!-- MEMES:END -->
 
 ---
 

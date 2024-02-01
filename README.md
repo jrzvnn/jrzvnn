@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s workout-friendly Soundcore Sport X10 earbuds are a bargain at just $56](https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale)
+ - [A Decapitation May Have Roots in Far-Right Border and Immigrant Paranoia](https://www.wired.com/story/beheading-conspiracy-immigrants-texas-convoy/)
  - [Sources: Binance&#39;s efforts to re-enter the UK market are being frustrated after UK&#39;s financial regulator expressed concerns to prospective local partners &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240201/p25#a240201p25)
  - [What to expect from Apple&#39;s Q1 2024 earnings report](https://appleinsider.com/articles/24/01/28/what-to-expect-from-apples-q1-2024-earnings-report?utm_medium=rss)
- - [Senators find tech CEOs’ responses hollow after four-hour hearing](https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm)
- - [CISA orders US federal agencies to disconnect all Ivanti VPN appliances vulnerable to multiple actively exploited bugs before Saturday, February 3 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p24#a240201p24)
- - [Tim Cook says he always knew Apple would arrive at the Apple Vision Pro](https://appleinsider.com/articles/24/02/01/tim-cook-says-he-always-knew-apple-would-arrive-at-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Senators find tech CEOs’ responses hollow after four-hour hearing](https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

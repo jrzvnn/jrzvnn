@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
  - [Tim Cook confirms Apple’s generative AI features are coming ‘later this year’](https://www.theverge.com/2024/2/1/24058647/apple-ceo-tim-cook-teases-generative-ai-iphone)
  - [In Meta&#39;s earnings call, Mark Zuckerberg described Apple&#39;s new DMA rules as &quot;so onerous&quot; that he doubts any developer, including Meta, would adopt them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240201/p50#a240201p50)
  - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)
- - [Apple won&#39;t license Masimo&#39;s patents despite Apple Watch import ban](https://appleinsider.com/articles/24/02/01/apple-wont-license-masimos-patents-despite-apple-watch-import-ban?utm_medium=rss)
- - [Cook &#39;incredibly excited&#39; about generative AI coming to Apple gear later in 2024](https://appleinsider.com/articles/24/02/01/cook-incredibly-excited-about-generative-ai-coming-to-apple-gear-later-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Apple won&#39;t license Masimo&#39;s patents despite Apple Watch import ban](https://appleinsider.com/articles/24/02/01/apple-wont-license-masimos-patents-despite-apple-watch-import-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

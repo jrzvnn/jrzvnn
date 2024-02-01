@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [UMG begins pulling its artists&#39; music from TikTok after contract talks failed; videos featuring UMG artists will be muted and users can pick a new soundtrack &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240201/p9#a240201p9)
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
+ - [Best TV for 2024: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Gocycle’s CX lineup of electric cargo bikes are lightweight and foldable](https://www.theverge.com/24054365/gocycle-f1-cargo-e-bike-cx-series-longtail-price)
- - [After Amazon ended its acquisition, iRobot, whose market share has been steadily eroding since 2014, could quickly become an also-ran in the robot vacuum market &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240201/p8#a240201p8)
- - [Q&amp;A with Pinterest CEO Bill Ready on why social media turned toxic, his vision for a less toxic platform that can use AI for good, activist investors, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240201/p7#a240201p7)
- - [You Can Be One of the First to Try Out Apple&#39;s Vision Pro Headset. Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/you-can-be-one-of-the-first-to-try-out-apples-vision-pro-headset-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Amazon ended its acquisition, iRobot, whose market share has been steadily eroding since 2014, could quickly become an also-ran in the robot vacuum market &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240201/p8#a240201p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

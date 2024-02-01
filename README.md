@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I did not expect that at all](https://www.reddit.com/r/funny/comments/1afzxxg/i_did_not_expect_that_at_all/)
  - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
- - 💣 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
- - 😝 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 💣 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 😝 [Meanwhile Canada: `diversity is our strength`](http://9gag.com/gag/ap9Wre5)
+ - 👉 [Blind man arrested for talking back](http://9gag.com/gag/anzLbjB)<!-- MEMES:END -->
 
 ---
 

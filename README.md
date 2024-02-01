@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 😝 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
- - 💣 [What say my fellow degenerates on this liberal app..](http://9gag.com/gag/aME3xgP)
+ - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - 😝 [When a simple man gets that tiny bit of attention.](http://9gag.com/gag/a2Kn7Pp)
+ - 💣 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Let&#39;s see Paul Allen&#39;s dice](http://9gag.com/gag/aPgK7oB)<!-- MEMES:END -->
+ - 👉 [Lol.](http://9gag.com/gag/armjgV7)<!-- MEMES:END -->
 
 ---
 

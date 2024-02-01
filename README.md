@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Reality Labs unit had revenue of $1B in Q4 but had a record operating loss of $4.65B; the metaverse division has now lost over $42B since the end of 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240201/p43#a240201p43)
+ - [Apple reports first quarter results &lpar;Apple&rpar;](http://www.techmeme.com/240201/p42#a240201p42)
+ - [Amazon reports Q4 AWS revenue up 13% YoY to $24.2B, vs. $24.26B est., and operating income of $7.2B, up from $5.2B YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240201/p41#a240201p41)
  - [Amazon reports Q4 ad revenue up 27% YoY to $14.7B, vs. $14.2B est., North America sales up 13% YoY to $105.5B, and International sales up 17% YoY to $40.2B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240201/p40#a240201p40)
- - [OpenAI says there’s only a small chance ChatGPT will help create bioweapons](https://www.theverge.com/2024/2/1/24058095/open-ai-bioweapon-study-preparedness-team)
- - [Meta says it will pay a 50 cent dividend for the first time, and has authorized a $50B share buyback &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240201/p39#a240201p39)
- - [Amazon made an AI bot to talk you through buying more stuff on Amazon](https://www.theverge.com/2024/2/1/24058381/amazon-ai-shopping-assistant-rufus)
- - [Meta reports Q4 revenue up 25% YoY to $40.1B, net income up 201% YoY to $14B, and family daily active people up 8% YoY to 3.19B for December 2023; META up 11%+ &lpar;Meta&rpar;](http://www.techmeme.com/240201/p38#a240201p38)<!-- TECH:END -->
+ - [OpenAI says there’s only a small chance ChatGPT will help create bioweapons](https://www.theverge.com/2024/2/1/24058095/open-ai-bioweapon-study-preparedness-team)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

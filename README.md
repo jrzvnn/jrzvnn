@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palworld is a good game](http://9gag.com/gag/amAE2r2)
- - 😝 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 💣 [Poor man](http://9gag.com/gag/aBd70nA)
- - 😝 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
- - 👉 [He going to rat out the whole neighbourhood](http://9gag.com/gag/awZ6nGy)<!-- MEMES:END -->
+ - 😝 [Red alert girl](http://9gag.com/gag/ajVoEAG)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 💣 [Sokka the bender](http://9gag.com/gag/aL1yjA5)
+ - 😝 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)
+ - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activist investor Elliott Management builds a &quot;sizable&quot; Etsy stake, a source says a roughly 13% position, and Elliott partner Marc Steinberg joins Etsy&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/240201/p22#a240201p22)
- - [The Allen Institute for AI open sources OLMo, or &quot;Open Language MOdels&quot;, and its data set Dolma; OLMo was created with Harvard, AMD, Databricks, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240201/p21#a240201p21)
- - [Apple Vision Pro will have over 600 native apps on launch day](https://appleinsider.com/articles/24/02/01/apple-vision-pro-now-has-over-600-native-apps-for-launch-day?utm_medium=rss)
- - [Apple says developers have optimized over 600 apps for the Vision Pro ahead of its February 2 launch, including Airmail, CARROT Weather, Sky Guide, and PCalc &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240201/p20#a240201p20)
- - [Huge Woot Audio Sale Discounts Beats, JBL, Sennheiser and More     - CNET](https://www.cnet.com/deals/huge-woot-audio-sale-discounts-beats-jbl-sennheiser-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This new retrofit door lock from Abode promises 12 months of battery life](https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features)
+ - [Bard generates photos now, finally](https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation)
+ - [Hot Pod Summit returns at On Air Fest 2024](https://www.theverge.com/2024/2/1/24057356/hot-pod-summit-brooklyn-2024-on-air-fest-work-x-work)
+ - [Daily deals Feb. 1: H&amp;R Block Tax Software Deluxe $23, 1 year of Microsoft 365 for $45, $300 off Asus Tuf gaming laptop](https://appleinsider.com/articles/24/02/01/daily-deals-feb-1-hr-block-tax-software-deluxe-23-1-year-of-microsoft-365-for-45-300-off-asus-tuf-gaming-laptop?utm_medium=rss)
+ - [Apple reveals how many apps will work with the Vision Pro on day one](https://www.theverge.com/2024/2/1/24057955/apple-vision-pro-apps-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

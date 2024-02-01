@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Arc browser is getting better bookmarks and search results, all thanks to AI](https://www.theverge.com/2024/2/1/24058013/arc-browser-smart-folders-browse-for-me-ai)
  - [A Startup Allegedly ‘Hacked the World.’ Then Came the Censorship—and Now the Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
  - [Google plans to roll out a Google Maps feature that uses LLMs to analyze data on 250M+ places and recommend places, starting in the US &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240201/p29#a240201p29)
  - [YouTube says YouTube Premium and Music have a combined 100M subscribers; CEO Neal Mohan says subscriptions have become a &quot;meaningful part&quot; of YouTube&#39;s business &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240201/p28#a240201p28)
- - [The US CPSC says Snap will recall all of its Pixy selfie camera drones as their batteries pose a fire risk; Snap sold less than 71,000 drones &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240201/p27#a240201p27)
- - [Meta plans to deploy its second-gen in-house chips, referred to internally as Artemis, to its data centers in 2024, alongside &quot;commercially available GPUs&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240201/p26#a240201p26)<!-- TECH:END -->
+ - [The US CPSC says Snap will recall all of its Pixy selfie camera drones as their batteries pose a fire risk; Snap sold less than 71,000 drones &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240201/p27#a240201p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

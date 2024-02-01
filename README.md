@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)
- - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [Lol.](http://9gag.com/gag/armjgV7)
- - 👉 [Red alert girl](http://9gag.com/gag/ajVoEAG)<!-- MEMES:END -->
+ - 😝 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 😝 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)
+ - 💣 [I just found out that they share the same name](http://9gag.com/gag/a8qByPd)
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 👉 [Foreigner to be jailed in Japan after traveling multiple long distances for `free`](http://9gag.com/gag/awZ6nP8)<!-- MEMES:END -->
 
 ---
 

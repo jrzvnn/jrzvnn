@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Unity&#39;s chief product and technology officer Marc Whitten, as the company launches official support to build spatial apps for Apple&#39;s visionOS &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240201/p3#a240201p3)
+ - [Google inks major new offshore wind deal](https://www.theverge.com/2024/2/1/24056819/google-offshore-wind-farms-data-centers-europe)
  - [MediaTek reports Q4 revenue up 19.7% YoY to $4.1B and net profit up 38.9% YoY to $820M, posting its first YoY increases in revenue and profit in five quarters &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/240201/p2#a240201p2)
  - [Owner.com, which offers an all-in-one platform for independent restaurants that includes online ordering and a website builder, raised a $33M Series B &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240201/p1#a240201p1)
- - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)
- - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
- - [The US adds 12+ Chinese companies, including YMTC, Megvii, and lidar maker Hesai, to a DOD list to flag firms that are allegedly working with China&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/240131/p44#a240131p44)<!-- TECH:END -->
+ - [How to manage Secure Enclave card storage limits](https://appleinsider.com/inside/apple-wallet/tips/how-to-manage-secure-enclave-card-storage-limits?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

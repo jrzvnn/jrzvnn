@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s Missing Music Is Making Users Very Upset](https://www.wired.com/story/tiktok-no-sounds-taylor-swift-umg-licensing/)
- - [Apple has one active device per four people on the planet](https://appleinsider.com/articles/24/02/01/apple-has-one-active-device-per-four-people-on-the-planet?utm_medium=rss)
- - [Tim Cook says that Apple is spending &quot;a tremendous amount of time and effort&quot; on AI features that the company plans to announce &quot;later this year&quot; &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240201/p51#a240201p51)
- - [The Nintendo Switch has received a rare discount at Amazon](https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon)
- - [Tim Cook confirms Apple’s generative AI features are coming ‘later this year’](https://www.theverge.com/2024/2/1/24058647/apple-ceo-tim-cook-teases-generative-ai-iphone)<!-- TECH:END -->
+ - [Extended use of Apple Vision Pro could have adverse effects on cognition, study finds](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
+ - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
+ - [Intel delays the construction of its $20B Ohio chip fabs amid a slow rollout of US government grant money; sources: the fabs are now set to finish in late 2026 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240201/p52#a240201p52)
+ - [Best Soundbar Deals: Up to $320 Off Klipsch, Samsung and Other Big Name Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)
+ - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

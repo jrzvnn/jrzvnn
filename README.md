@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
- - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 💣 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)
- - 😝 [Bulk](http://9gag.com/gag/armjn86)
- - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
+ - 😝 [I present you Miss Bulgaria](http://9gag.com/gag/aqeqgrY)
+ - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
 
 ---
 

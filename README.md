@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
- - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
+ - 😝 [Bulk](http://9gag.com/gag/armjn86)
+ - 😝 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [He&#39;s an asshole, but still..](http://9gag.com/gag/aOxX7n6)
+ - 👉 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)<!-- MEMES:END -->
 
 ---
 

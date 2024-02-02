@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC settles with Blackbaud, ordering the cloud software company to delete consumers&#39; data and boost security after a May 2020 data breach affected millions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p53#a240201p53)
  - [Extended use of Apple Vision Pro could have adverse effects on cognition, study finds](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
  - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
  - [Intel delays the construction of its $20B Ohio chip fabs amid a slow rollout of US government grant money; sources: the fabs are now set to finish in late 2026 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240201/p52#a240201p52)
- - [Best Soundbar Deals: Up to $320 Off Klipsch, Samsung and Other Big Name Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)
- - [Halo’s Black History Month armor shaders are unintentionally hilarious](https://www.theverge.com/2024/2/1/24058370/halo-infinite-black-history-month-armor-shaders)<!-- TECH:END -->
+ - [Best Soundbar Deals: Up to $320 Off Klipsch, Samsung and Other Big Name Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

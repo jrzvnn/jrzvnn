@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the EFF, Techdirt, MuckRock, and DDoSecrets are pushing back against legal threats aiming to censor reports on Appin&#39;s alleged hacker-for-hire past &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240202/p4#a240202p4)
+ - [House Passes Child Tax Credit Expansion: How Much Money Could You Get if It Passes Senate?     - CNET](https://www.cnet.com/personal-finance/taxes/house-passes-child-tax-credit-expansion-how-much-money-could-you-get-if-approved/#ftag=CAD590a51e)
+ - [Verizon Customers Could Receive Up to $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-up-to-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
  - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)
- - [Insider deal: get Apple&#39;s M2 Pro MacBook Pro 16-inch for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/24/02/02/insider-deal-get-apples-m2-pro-macbook-pro-for-1999-plus-80-off-applecare?utm_medium=rss)
- - [Sources: some independent record labels are pushing back on Apple&#39;s plans to pay more for spatial audio tracks, saying it benefits larger record companies &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240202/p2#a240202p2)
- - [Best Internet Providers in Independence, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Insider deal: get Apple&#39;s M2 Pro MacBook Pro 16-inch for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/24/02/02/insider-deal-get-apples-m2-pro-macbook-pro-for-1999-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

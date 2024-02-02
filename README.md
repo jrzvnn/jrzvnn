@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [If your Apple Vision Pro gets stolen, Find My won&#39;t help you get it back](https://appleinsider.com/articles/24/02/02/if-your-apple-vision-pro-gets-stolen-find-my-wont-help-you-get-it-back?utm_medium=rss)
- - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)
- - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
- - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)
- - [Echoes of launches past: Tim Cook likens Apple Vision Pro to iPhone launch](https://appleinsider.com/articles/24/02/02/echoes-of-launches-past-tim-cook-likens-apple-vision-pro-to-iphone-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Employers Can Now Offer a 401&lpar;k&rpar; Match on Student Loan Payments     - CNET](https://www.cnet.com/personal-finance/loans/employers-can-now-offer-a-401k-match-on-student-loan-payments/#ftag=CAD590a51e)
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
+ - [Last-Minute Gifts to Make at Home This Valentine&#39;s Day     - CNET](https://www.cnet.com/tech/computing/last-minute-gifts-to-make-with-your-3d-printer-or-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

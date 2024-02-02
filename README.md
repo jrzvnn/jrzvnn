@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)
  - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
  - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
- - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
- - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)<!-- TECH:END -->
+ - [Symptoms of Heart Disease and How to Prevent the &#39;American Curse&#39;     - CNET](https://www.cnet.com/health/medical/symptoms-of-heart-disease-and-how-to-prevent-the-american-curse/#ftag=CAD590a51e)
+ - [The 10 Best Horror Movies on Max Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-10-best-horror-movies-on-max-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

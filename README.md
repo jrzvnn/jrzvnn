@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 😝 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)<!-- MEMES:END -->
+ - 👉 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)<!-- MEMES:END -->
 
 ---
 

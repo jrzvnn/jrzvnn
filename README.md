@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sonos Arc is on sale for 20 percent off just in time for the Super Bowl](https://www.theverge.com/2024/2/2/24057928/sonos-arc-soundbar-sub-speaker-super-bowl-2024-deal-sale)
  - [Skip the Apple Vision Pro demo queues, soon you&#39;ll be able to book a slot](https://appleinsider.com/articles/24/02/02/skip-the-apple-vision-pro-demo-queues-soon-youll-be-able-to-book-a-slot?utm_medium=rss)
- - [Wedbush remains bullish on Apple after &#39;bumpy&#39; China results](https://appleinsider.com/articles/24/02/02/wedbush-remains-bullish-on-apple-after-bumpy-china-results?utm_medium=rss)
- - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
- - [The 10 Best Slippers for Lounging At Home—From $9 to $150](https://www.wired.com/gallery/best-slippers/)
- - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)<!-- TECH:END -->
+ - [Be One of the First to Try Out Apple&#39;s Vision Pro Headset. How to Check It Out Today     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-out-apples-vision-pro-headset-how-to-check-it-out-today/#ftag=CAD590a51e)
+ - [&#39;Avatar: The Last Airbender&#39; on Netflix: Everything to Know About the Live-Action Series     - CNET](https://www.cnet.com/tech/services-and-software/avatar-the-last-airbender-on-netflix-everything-to-know-about-the-live-action-series/#ftag=CAD590a51e)
+ - [Wedbush remains bullish on Apple after &#39;bumpy&#39; China results](https://appleinsider.com/articles/24/02/02/wedbush-remains-bullish-on-apple-after-bumpy-china-results?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

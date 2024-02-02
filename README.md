@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get to know Apple Vision Pro with Apple&#39;s new video guides](https://appleinsider.com/articles/24/02/02/get-to-know-apple-vision-pro-with-apples-new-video-guides?utm_medium=rss)
  - [EU countries strike a deal on the AI Act, after announcing pro-innovation measures and an AI Office; the bill awaits formal approval of EU Parliament &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/240202/p13#a240202p13)
  - [There’s no perfect version of Persona 3 — but Reload is close](https://www.theverge.com/2024/2/2/24058364/persona-3-reload-review-xbox-ps5-steam)
  - [Create images with Adobe Firefly AI for Apple Vision Pro](https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro?utm_medium=rss)
- - [Meta stock rises 20%+, adding ~$200B to its market cap, the biggest single-session market value addition, eclipsing Apple and Amazon&#39;s gains in 2022 &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240202/p12#a240202p12)
- - [Sources: in January, the US DOJ charged three people with a phone-hacking scheme that included the hack of FTX to steal $400M+ at the time of its 2022 collapse &lpar;James Fanelli/Wall Street Journal&rpar;](http://www.techmeme.com/240202/p11#a240202p11)<!-- TECH:END -->
+ - [Meta&#39;s stock rises 20%+, adding ~$200B to its market cap, the biggest single-session market value addition, eclipsing Apple&#39;s and Amazon&#39;s $190B gains in 2022 &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240202/p12#a240202p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

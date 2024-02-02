@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
+ - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)
  - [Echoes of launches past: Tim Cook likens Apple Vision Pro to iPhone launch](https://appleinsider.com/articles/24/02/02/echoes-of-launches-past-tim-cook-likens-apple-vision-pro-to-iphone-launch?utm_medium=rss)
  - [Podcasting’s all-stars are here to stay](https://www.theverge.com/2024/2/2/24059692/joe-rogan-spotify-smartless-siriusxm)
- - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)
- - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
+ - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

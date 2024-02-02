@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There is an Apple Vision Pro YouTube viewer app, but it isn&#39;t from Google](https://appleinsider.com/articles/24/02/02/there-is-an-apple-vision-pro-youtube-viewer-app-but-it-isnt-from-google?utm_medium=rss)
- - [In Apple&#39;s earnings call, CFO Luca Maestri says the EU represents 7% of global App Store revenue &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240202/p8#a240202p8)
- - [JP Morgan trims Apple stock target to $215 over weak iPhone expectations](https://appleinsider.com/articles/24/02/02/jp-morgan-trims-apple-stock-target-to-215-over-weak-iphone-expectations?utm_medium=rss)
- - [Christian Selig makes the YouTube Vision Pro app that Google wouldn’t](https://www.theverge.com/2024/2/2/24059005/juno-youtube-vision-pro-app-christian-selig)
- - [A profile of Gary Bowser, a 54-year-old programmer who was sentenced in 2022 for 40 months in prison for pirating games and ordered to pay $14.5M to Nintendo &lpar;Patricia Hernandez/The Guardian&rpar;](http://www.techmeme.com/240202/p7#a240202p7)<!-- TECH:END -->
+ - [Wedbush remains bullish on Apple after &#39;bumpy&#39; China results](https://appleinsider.com/articles/24/02/02/wedbush-remains-bullish-on-apple-after-bumpy-china-results?utm_medium=rss)
+ - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
+ - [The 10 Best Slippers for Lounging At Home—From $9 to $150](https://www.wired.com/gallery/best-slippers/)
+ - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)
+ - [Google Parent Alphabet&#39;s Spending on Acquisitions Cratered in 2023](https://www.wired.com/story/google-spending-acquisitions-cratered-in-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

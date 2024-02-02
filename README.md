@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Former CIA employee Joshua Schulte, who was convicted for leaking secrets to WikiLeaks, was sentenced to 40 years in prison on February 1 for espionage and more &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240201/p55#a240201p55)
  - [Piper Sandler sees tough March ahead for Apple, remains neutral](https://appleinsider.com/articles/24/02/02/piper-sandler-sees-tough-march-ahead-for-apple-remains-neutral?utm_medium=rss)
  - [Google dropped the cache link from Search results snippets last week and plans to remove the cache functionality entirely &quot;in the near future&quot; &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240201/p54#a240201p54)
- - [Your brain may have a hard time adjusting to wearing and taking off Apple Vision Pro](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
- - [Meta joins list of companies that disapprove of Apple&#39;s DMA response](https://appleinsider.com/articles/24/02/02/meta-joins-list-of-companies-that-disapprove-of-apples-dma-response?utm_medium=rss)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in San Francisco     - CNET](https://www.cnet.com/home/energy-and-utilities/san-francisco-solar-panels/#ftag=CAD590a51e)
+ - [Your brain may have a hard time adjusting to wearing and taking off Apple Vision Pro](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

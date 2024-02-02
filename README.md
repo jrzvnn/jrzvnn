@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
- - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
- - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)<!-- MEMES:END -->
+ - 👉 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)<!-- MEMES:END -->
 
 ---
 

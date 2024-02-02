@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)
  - [Insider deal: get Apple&#39;s M2 Pro MacBook Pro for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/24/02/02/insider-deal-get-apples-m2-pro-macbook-pro-for-1999-plus-80-off-applecare?utm_medium=rss)
  - [Sources: some independent record labels are pushing back on Apple&#39;s plans to pay more for spatial audio tracks, saying it benefits larger record companies &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240202/p2#a240202p2)
  - [Best Internet Providers in Independence, Missouri     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)
- - [Hands-on with Perplexity and the $20-per-month Perplexity Pro tier, which show that AI-powered search engines could loosen Google&#39;s grip on the search market &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240202/p1#a240202p1)
- - [Paytm shares fell 20% on February 2, after falling 20% on February 1, as the company reels from the RBI clampdown; Paytm lost $2.1B in market cap in two days &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240201/p57#a240201p57)<!-- TECH:END -->
+ - [Hands-on with Perplexity and the $20-per-month Perplexity Pro tier, which show that AI-powered search engines could loosen Google&#39;s grip on the search market &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240202/p1#a240202p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

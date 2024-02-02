@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
+ - 😝 [Real life NPC](http://9gag.com/gag/aXn5o5v)
+ - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)<!-- MEMES:END -->
+ - 👉 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)<!-- MEMES:END -->
 
 ---
 

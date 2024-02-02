@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foldable iPad could replace iPad mini starting in 2026](https://appleinsider.com/articles/24/02/02/foldable-ipad-could-replace-ipad-mini-starting-in-2026?utm_medium=rss)
  - [Byju&#39;s US unit Alpha files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B and $10B and assets between $500M and $1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
  - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)
  - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)
- - [7 Common Tax Mistakes That Can Delay Your Tax Refund in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/7-common-tax-mistakes-that-can-delay-your-tax-refund-in-2024/#ftag=CAD590a51e)
- - [How the EFF, Techdirt, MuckRock, and DDoSecrets are pushing back against legal threats aiming to censor reports on Appin&#39;s alleged hacker-for-hire past &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240202/p4#a240202p4)<!-- TECH:END -->
+ - [7 Common Tax Mistakes That Can Delay Your Tax Refund in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/7-common-tax-mistakes-that-can-delay-your-tax-refund-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

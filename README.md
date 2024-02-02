@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
- - 💣 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
+ - 😝 [It took me a few seconds](http://9gag.com/gag/az2027x)
+ - 😝 [Human has been chosen](http://9gag.com/gag/az202Gj)
+ - 💣 [Working as intended](http://9gag.com/gag/aME3EA6)
+ - 😝 [Apollo Creed](http://9gag.com/gag/aeQv9ZQ)
+ - 👉 [Somebody here posted this as an idea\u2026 well here we are. Super humans on steroids.](http://9gag.com/gag/az202pz)<!-- MEMES:END -->
 
 ---
 

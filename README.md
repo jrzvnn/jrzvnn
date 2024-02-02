@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to avoid getting motion sickness when wearing Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-avoid-getting-motion-sickness-when-wearing-apple-vision-pro?utm_medium=rss)
  - [China-based advertisers now account for 10% of the Meta&#39;s annual revenue and contributed 5 percentage points to its total worldwide revenue growth &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p17#a240202p17)
  - [Indie labels cry foul over Apple Music’s enhanced spatial audio royalties](https://www.theverge.com/2024/2/2/24059270/apple-music-spatial-audio-indie-royalties)
  - [Google’s Pixel Tablet and first-gen Pixel Watch are both on sale for Verge readers](https://www.theverge.com/2024/2/2/24057604/google-pixel-watch-tablet-buds-pro-amazon-echo-frames-deal-sale)
- - [Apple&#39;s loaded M3 Max MacBook Pro with 96GB RAM is $300 off, in stock](https://appleinsider.com/articles/24/02/02/apples-loaded-m3-max-macbook-pro-with-96gb-ram-is-300-off-in-stock?utm_medium=rss)
- - [Spotify re-signs Joe Rogan in deal that includes return to Apple Podcasts](https://appleinsider.com/articles/24/02/02/spotify-re-signs-joe-rogan-in-deal-that-includes-return-to-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s loaded M3 Max MacBook Pro with 96GB RAM is $300 off, in stock](https://appleinsider.com/articles/24/02/02/apples-loaded-m3-max-macbook-pro-with-96gb-ram-is-300-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

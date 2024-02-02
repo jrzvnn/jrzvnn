@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If your Apple Vision Pro gets stolen, Find My won&#39;t help you get it back](https://appleinsider.com/articles/24/02/02/if-your-apple-vision-pro-gets-stolen-find-my-wont-help-you-get-it-back?utm_medium=rss)
  - [Sources: Reddit has picked the New York Stock Exchange for its long-delayed IPO that could take place as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/240202/p20#a240202p20)
  - [Apple’s Vision Pro headset is hiding yet another XL Lightning plug](https://www.theverge.com/2024/2/2/24059678/apple-vision-pro-headset-lightning-plug-ifixit)
  - [Apple’s $3,499 Vision Pro lacks Find My location tracking, so don’t lose it](https://www.theverge.com/2024/2/2/24059688/apple-vision-pro-find-my-location-tracking-lost)
- - [Echoes of launches past: Tim Cook likens Apple Vision Pro to iPhone launch](https://appleinsider.com/articles/24/02/02/echoes-of-launches-past-tim-cook-likens-apple-vision-pro-to-iphone-launch?utm_medium=rss)
- - [Podcasting’s all-stars are here to stay](https://www.theverge.com/2024/2/2/24059692/joe-rogan-spotify-smartless-siriusxm)<!-- TECH:END -->
+ - [Echoes of launches past: Tim Cook likens Apple Vision Pro to iPhone launch](https://appleinsider.com/articles/24/02/02/echoes-of-launches-past-tim-cook-likens-apple-vision-pro-to-iphone-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

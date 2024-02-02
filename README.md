@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 💣 [Mercedes fan boys after today&#39;s news](http://9gag.com/gag/aA0obRL)
+ - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
+ - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [Dive into the Dark Hour and take down otherworldly Shadows.](http://9gag.com/gag/aDYyZ29)
- - 👉 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)<!-- MEMES:END -->
+ - 👉 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)<!-- MEMES:END -->
 
 ---
 

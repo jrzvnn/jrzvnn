@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Dillon.](http://9gag.com/gag/aPgKAmB)
- - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
- - 💣 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
  - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Read 4 surprise](http://9gag.com/gag/aME3E66)<!-- MEMES:END -->
+ - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
 
 ---
 

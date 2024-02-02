@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skip the Apple Vision Pro demo queues, soon you&#39;ll be able to book a slot](https://appleinsider.com/articles/24/02/02/skip-the-apple-vision-pro-demo-queues-soon-youll-be-able-to-book-a-slot?utm_medium=rss)
  - [Wedbush remains bullish on Apple after &#39;bumpy&#39; China results](https://appleinsider.com/articles/24/02/02/wedbush-remains-bullish-on-apple-after-bumpy-china-results?utm_medium=rss)
  - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
  - [The 10 Best Slippers for Lounging At Home—From $9 to $150](https://www.wired.com/gallery/best-slippers/)
- - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)
- - [Google Parent Alphabet&#39;s Spending on Acquisitions Cratered in 2023](https://www.wired.com/story/google-spending-acquisitions-cratered-in-2023/)<!-- TECH:END -->
+ - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

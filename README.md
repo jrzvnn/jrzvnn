@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [RIP Dillon.](http://9gag.com/gag/aPgKAmB)
  - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [`Yeah, no slowing down for me... i got this`](http://9gag.com/gag/aQE0z38)
- - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 💣 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
  - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---

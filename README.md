@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify signs a new multiyear deal with Joe Rogan, estimated to be worth $250M; his show will be available on multiple podcast platforms and YouTube &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240202/p15#a240202p15)
+ - [The Border Convoy Is Nearing Its Final Destination—with Vigilantes and Far-Right Extremists in Tow](https://www.wired.com/story/take-our-border-back-convoy-militias-texas-weekend-protest/)
+ - [Only Apple could have made Apple Vision Pro, say firm&#39;s design chiefs](https://appleinsider.com/articles/24/02/02/only-apple-could-have-made-apple-vision-pro-say-firms-design-chiefs?utm_medium=rss)
  - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)
- - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)
- - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
- - [Samsung Galaxy S24 and S24 Plus review: smart choices](https://www.theverge.com/24058916/samsung-galaxy-s24-plus-review-screen-battery-camera)
- - [Apple starts selling the Vision Pro in the US; Tim Cook appeared at the company&#39;s flagship Fifth Avenue store in NYC for the launch &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240202/p14#a240202p14)<!-- TECH:END -->
+ - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

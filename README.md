@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bulk](http://9gag.com/gag/armjn86)
- - 😝 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 😝 [He&#39;s an asshole, but still..](http://9gag.com/gag/aOxX7n6)
- - 👉 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)<!-- MEMES:END -->
+ - 😝 [Vegetable](http://9gag.com/gag/aKErxq6)
+ - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
+ - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 

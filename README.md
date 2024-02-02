@@ -161,9 +161,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)
+ - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)
  - [How the EFF, Techdirt, MuckRock, and DDoSecrets are pushing back against legal threats aiming to censor reports on Appin&#39;s alleged hacker-for-hire past &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240202/p4#a240202p4)
- - [House Passes Child Tax Credit Expansion: How Much Money Could You Get if It Passes Senate?     - CNET](https://www.cnet.com/personal-finance/taxes/house-passes-child-tax-credit-expansion-how-much-money-could-you-get-if-approved/#ftag=CAD590a51e)
- - [Verizon Customers Could Receive Up to $100 in Settlement Payout. How to Claim the Money     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-up-to-100-in-settlement-payout-how-to-claim-the-money/#ftag=CAD590a51e)
  - [Research: YouTube and Koo, an Indian X-style alternative, are allowing hateful content that violates their policies, less than a month before national elections &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240202/p3#a240202p3)
  - [Insider deal: get Apple&#39;s M2 Pro MacBook Pro 16-inch for $1,999, plus $80 off AppleCare](https://appleinsider.com/articles/24/02/02/insider-deal-get-apples-m2-pro-macbook-pro-for-1999-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 

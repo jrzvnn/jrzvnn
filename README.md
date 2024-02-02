@@ -170,9 +170,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)
- - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
- - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [Women](http://9gag.com/gag/armjGA7)
+ - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 

@@ -170,9 +170,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegetable](http://9gag.com/gag/aKErxq6)
- - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
- - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)
+ - 😝 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 💣 [Oh boy](http://9gag.com/gag/aA0ox80)
  - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 

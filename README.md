@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paytm shares fell 20% on February 2, after falling 20% on February 1, as the company reels from the RBI clampdown; Paytm lost $2.1B in market cap in two days &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240201/p57#a240201p57)
  - [Filing: Google asks a US judge to overturn a jury verdict favoring Epic that found Google abused its market dominance in setting rules for the Play Store &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240201/p56#a240201p56)
+ - [AudioQuest DragonFly Cobalt Review     - CNET](https://www.cnet.com/tech/mobile/audioquest-dragonfly-cobalt-review/#ftag=CAD590a51e)
  - [Former CIA employee Joshua Schulte, who was convicted for leaking secrets to WikiLeaks, was sentenced to 40 years in prison on February 1 for espionage and more &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240201/p55#a240201p55)
- - [Piper Sandler sees tough March ahead for Apple, remains neutral](https://appleinsider.com/articles/24/02/02/piper-sandler-sees-tough-march-ahead-for-apple-remains-neutral?utm_medium=rss)
- - [Google dropped the cache link from Search results snippets last week and plans to remove the cache functionality entirely &quot;in the near future&quot; &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240201/p54#a240201p54)
- - [Best Solar Panel Installation Companies in San Francisco     - CNET](https://www.cnet.com/home/energy-and-utilities/san-francisco-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Piper Sandler sees tough March ahead for Apple, remains neutral](https://appleinsider.com/articles/24/02/02/piper-sandler-sees-tough-march-ahead-for-apple-remains-neutral?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

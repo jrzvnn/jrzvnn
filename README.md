@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 😝 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)
- - 💣 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
- - 😝 [Bulk](http://9gag.com/gag/armjn86)
- - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
+ - 😝 [Poor man](http://9gag.com/gag/aBd70nA)
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---
 

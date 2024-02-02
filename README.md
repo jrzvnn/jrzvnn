@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta stock rises 20%+, adding ~$200B to its market cap, the biggest single-session market value addition, eclipsing Apple and Amazon&#39;s gains in 2022 &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240202/p12#a240202p12)
  - [Sources: in January, the US DOJ charged three people with a phone-hacking scheme that included the hack of FTX to steal $400M+ at the time of its 2022 collapse &lpar;James Fanelli/Wall Street Journal&rpar;](http://www.techmeme.com/240202/p11#a240202p11)
  - [Explore the Starship Enterprise with Apple Vision Pro](https://appleinsider.com/articles/24/02/02/explore-the-starship-enterprise-with-apple-vision-pro?utm_medium=rss)
  - [Every M3 MacBook Pro &amp; iMac is up to $350 off, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
- - [You Can’t Buy Lab-Grown Meat Even If You Wanted To](https://www.wired.com/story/upside-foods-good-meat-cultivated-lab-grown-sale-stopped-singapore-california-crenn/)
- - [Apple Vision Pro sees quiet launch at Apple Downtown Nashville](https://appleinsider.com/articles/24/02/02/apple-vision-pro-sees-quiet-launch-at-apple-downtown-nashville?utm_medium=rss)<!-- TECH:END -->
+ - [You Can’t Buy Lab-Grown Meat Even If You Wanted To](https://www.wired.com/story/upside-foods-good-meat-cultivated-lab-grown-sale-stopped-singapore-california-crenn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

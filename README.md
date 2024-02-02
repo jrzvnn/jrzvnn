@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
+ - 😝 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
+ - 💣 [If you\u2019re ever in Norway, I run a hotel and degenerates are always welcome!](http://9gag.com/gag/aVbNvgn)
  - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [If you\u2019re ever in Norway, I run a hotel and degenerates are always welcome!](http://9gag.com/gag/aVbNvgn)
- - 💣 [London Acid Attacker identified as Abdul Shokoor Ezedi. The attacker threw acid in the faces of 12 people last night in Clapham South, London. 2 children were among the victims- one of them aged 3. He is currently at large with a massive manhunt underway. If you see him, call 999](http://9gag.com/gag/ap9WNVD)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)<!-- MEMES:END -->
+ - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
 
 ---
 

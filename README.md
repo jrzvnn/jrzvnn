@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big brain moment](http://9gag.com/gag/aWGwgKn)
  - 😝 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
- - 💣 [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
- - 😝 [Bulk](http://9gag.com/gag/armjn86)
+ - 😝 [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
+ - 💣 [Bulk](http://9gag.com/gag/armjn86)
+ - 😝 [Working as intended](http://9gag.com/gag/aME3EA6)
  - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
 
 ---

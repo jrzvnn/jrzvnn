@@ -161,7 +161,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s Alpha, a US unit of the Indian edtech, files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B-$10B and assets between $500M-$1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
+ - [Byju&#39;s US unit Alpha files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B and $10B and assets between $500M and $1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
  - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)
  - [Google Search’s cache links are officially being retired](https://www.theverge.com/2024/2/2/24058985/google-search-cache-feature-discontinued)
  - [7 Common Tax Mistakes That Can Delay Your Tax Refund in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/7-common-tax-mistakes-that-can-delay-your-tax-refund-in-2024/#ftag=CAD590a51e)

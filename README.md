@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 😝 [Vegetable](http://9gag.com/gag/aKErxq6)
- - 💣 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
+ - 😝 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
+ - 💣 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)
+ - 😝 [Bulk](http://9gag.com/gag/armjn86)
+ - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
 
 ---
 

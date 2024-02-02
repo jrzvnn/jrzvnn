@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro sees quiet launch at Apple Downtown Nashville](https://appleinsider.com/articles/24/02/02/apple-vision-pro-sees-quiet-launch-at-apple-downtown-nashville?utm_medium=rss)
+ - [OpenSecrets: 450 orgs, including OpenAI and Tesla, reported participating in AI-related lobbying in 2023, up 185% YoY, spending $957M+ on AI and other issues &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240202/p10#a240202p10)
+ - [Apple Vision Pro is &#39;tomorrow&#39;s technology today,&#39; says Tim Cook](https://appleinsider.com/articles/24/02/02/apple-vision-pro-is-tomorrows-technology-today-says-tim-cook?utm_medium=rss)
  - [11 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)
- - [I&#39;m Self-Employed and Know Freelance Taxes Are Tricky. Here Are 7 Tips I Swear By     - CNET](https://www.cnet.com/personal-finance/taxes/im-self-employed-and-know-freelance-taxes-are-tricky-here-are-7-tips-i-swear-by/#ftag=CAD590a51e)
- - [Woot&#39;s Blink and Ring Sale Drops Refurb Security Cameras as Low as $40     - CNET](https://www.cnet.com/deals/woots-blink-and-ring-sale-drops-refurb-security-cameras-as-low-as-40/#ftag=CAD590a51e)
- - [Get 24 Daily Harvest Meals for About $6 Each With This Healthy Vegan Meal Deal     - CNET](https://www.cnet.com/deals/get-24-healthy-meals-from-daily-harvest-for-about-6-each-with-this-hot-delivery-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

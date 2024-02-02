@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
  - [Samsung Galaxy S24 and S24 Plus review: smart choices](https://www.theverge.com/24058916/samsung-galaxy-s24-plus-review-screen-battery-camera)
  - [Apple starts selling the Vision Pro in the US; Tim Cook appeared at the company&#39;s flagship Fifth Avenue store in NYC for the launch &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240202/p14#a240202p14)
- - [Get to know Apple Vision Pro with Apple&#39;s new video guides](https://appleinsider.com/articles/24/02/02/get-to-know-apple-vision-pro-with-apples-new-video-guides?utm_medium=rss)
- - [EU countries strike a deal on the AI Act, after announcing pro-innovation measures and an AI Office; the bill awaits formal approval of EU Parliament &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/240202/p13#a240202p13)
- - [There’s no perfect version of Persona 3 — but Reload is close](https://www.theverge.com/2024/2/2/24058364/persona-3-reload-review-xbox-ps5-steam)<!-- TECH:END -->
+ - [TurboTax Deluxe 2023 Software     - CNET](https://www.cnet.com/tech/services-and-software/turbotax-deluxe-2023-software-dpnl/#ftag=CAD590a51e)
+ - [Echo Glow Smart Lamp     - CNET](https://www.cnet.com/news/echo-glow-smart-lamp-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

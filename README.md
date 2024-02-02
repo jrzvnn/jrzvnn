@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
+ - 😝 [Bulk](http://9gag.com/gag/armjn86)
  - 😝 [Chonky Monster of a Boy](http://9gag.com/gag/a3ZVZd7)
- - 💣 [Bulk](http://9gag.com/gag/armjn86)
- - 😝 [Working as intended](http://9gag.com/gag/aME3EA6)
- - 👉 [Redeem](http://9gag.com/gag/a042ZzZ)<!-- MEMES:END -->
+ - 💣 [Redeem](http://9gag.com/gag/a042ZzZ)
+ - 😝 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 👉 [Human has been chosen](http://9gag.com/gag/az202Gj)<!-- MEMES:END -->
 
 ---
 

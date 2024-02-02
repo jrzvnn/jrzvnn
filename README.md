@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s loaded M3 Max MacBook Pro with 96GB RAM is $300 off, in stock](https://appleinsider.com/articles/24/02/02/apples-loaded-m3-max-macbook-pro-with-96gb-ram-is-300-off-in-stock?utm_medium=rss)
+ - [Spotify re-signs Joe Rogan in deal that includes return to Apple Podcasts](https://appleinsider.com/articles/24/02/02/spotify-re-signs-joe-rogan-in-deal-that-includes-return-to-apple-podcasts?utm_medium=rss)
  - [Vision Pro launch: all the news about Apple’s pricey new headset](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news)
  - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
- - [How to share an Apple Vision Pro with a guest user](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-share-an-apple-vision-pro-with-a-guest-user?utm_medium=rss)
- - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)
- - [How to clean your new Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-clean-your-new-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [How to share an Apple Vision Pro with a guest user](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-share-an-apple-vision-pro-with-a-guest-user?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

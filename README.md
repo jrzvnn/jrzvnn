@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
- - 💣 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
+ - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 😝 [If you\u2019re ever in Norway, I run a hotel and degenerates are always welcome!](http://9gag.com/gag/aVbNvgn)
+ - 💣 [London Acid Attacker identified as Abdul Shokoor Ezedi. The attacker threw acid in the faces of 12 people last night in Clapham South, London. 2 children were among the victims- one of them aged 3. He is currently at large with a massive manhunt underway. If you see him, call 999](http://9gag.com/gag/ap9WNVD)
  - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
+ - 👉 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)<!-- MEMES:END -->
 
 ---
 

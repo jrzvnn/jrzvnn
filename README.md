@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Echoes of launches past: Tim Cook likens Apple Vision Pro to iPhone launch](https://appleinsider.com/articles/24/02/02/echoes-of-launches-past-tim-cook-likens-apple-vision-pro-to-iphone-launch?utm_medium=rss)
+ - [Podcasting’s all-stars are here to stay](https://www.theverge.com/2024/2/2/24059692/joe-rogan-spotify-smartless-siriusxm)
  - [Let me tell you about this very excellent USB-C wall charger](https://www.theverge.com/24059448/belkin-three-port-usb-c-charger-compact-67w-review-price)
  - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
- - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
- - [Symptoms of Heart Disease and How to Prevent the &#39;American Curse&#39;     - CNET](https://www.cnet.com/health/medical/symptoms-of-heart-disease-and-how-to-prevent-the-american-curse/#ftag=CAD590a51e)
- - [The 10 Best Horror Movies on Max Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-10-best-horror-movies-on-max-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

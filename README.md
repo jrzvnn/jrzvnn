@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
  - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 💣 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 💣 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
  - 👉 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)<!-- MEMES:END -->
 
 ---

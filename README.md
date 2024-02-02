@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft employees discover new Teams feature thanks to Pepe the Frog](https://www.theverge.com/2024/2/2/24058980/microsoft-teams-custom-emoji-pepe-the-frog)
- - [Filing: Amazon spending on content rose 14% YoY to $18.9B in 2023 despite Hollywood strikes &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240202/p9#a240202p9)
- - [Adobe brings Lightroom and Firefly AI to the Apple Vision Pro](https://www.theverge.com/2024/2/2/24059011/adobe-firefly-ai-image-generator-lightroom-apps-apple-vision-pro)
- - [Apple’s Vision Pro Is Trying to Solve a Nearly Unsolvable Problem](https://www.wired.com/story/apple-vision-pro-watching-movies-nearly-impossible-problem/)
- - [Why Is Our Solar System Flat?](https://www.wired.com/story/why-the-solar-system-is-flat/)<!-- TECH:END -->
+ - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)
+ - [I&#39;m Self-Employed and Know Freelance Taxes Are Tricky. Here Are 7 Tips I Swear By     - CNET](https://www.cnet.com/personal-finance/taxes/im-self-employed-and-know-freelance-taxes-are-tricky-here-are-7-tips-i-swear-by/#ftag=CAD590a51e)
+ - [Woot&#39;s Blink and Ring Sale Drops Refurb Security Cameras as Low as $40     - CNET](https://www.cnet.com/deals/woots-blink-and-ring-sale-drops-refurb-security-cameras-as-low-as-40/#ftag=CAD590a51e)
+ - [Get 24 Daily Harvest Meals for About $6 Each With This Healthy Vegan Meal Deal     - CNET](https://www.cnet.com/deals/get-24-healthy-meals-from-daily-harvest-for-about-6-each-with-this-hot-delivery-deal/#ftag=CAD590a51e)
+ - [Microsoft employees discover new Teams feature thanks to Pepe the Frog](https://www.theverge.com/2024/2/2/24058980/microsoft-teams-custom-emoji-pepe-the-frog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

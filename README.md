@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)
+ - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)
  - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
  - [Samsung Galaxy S24 and S24 Plus review: smart choices](https://www.theverge.com/24058916/samsung-galaxy-s24-plus-review-screen-battery-camera)
- - [Apple starts selling the Vision Pro in the US; Tim Cook appeared at the company&#39;s flagship Fifth Avenue store in NYC for the launch &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240202/p14#a240202p14)
- - [TurboTax Deluxe 2023 Software     - CNET](https://www.cnet.com/tech/services-and-software/turbotax-deluxe-2023-software-dpnl/#ftag=CAD590a51e)
- - [Echo Glow Smart Lamp     - CNET](https://www.cnet.com/news/echo-glow-smart-lamp-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple starts selling the Vision Pro in the US; Tim Cook appeared at the company&#39;s flagship Fifth Avenue store in NYC for the launch &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240202/p14#a240202p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

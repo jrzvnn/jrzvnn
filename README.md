@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Your brain may have a hard time adjusting to wearing and taking off Apple Vision Pro](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
  - [Meta joins list of companies that disapprove of Apple&#39;s DMA response](https://appleinsider.com/articles/24/02/02/meta-joins-list-of-companies-that-disapprove-of-apples-dma-response?utm_medium=rss)
  - [The FTC settles with Blackbaud, ordering the cloud software company to delete consumers&#39; data and boost security after a May 2020 data breach affected millions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p53#a240201p53)
- - [Cricket Livestream: How to Watch India vs. England, 2nd Test From Anywhere     - CNET](https://www.cnet.com/culture/sports/cricket-livestream-how-to-watch-india-vs-england-2nd-test-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cricket Livestream: How to Watch India vs. England, 2nd Test From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-livestream-how-to-watch-india-vs-england-2nd-test-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

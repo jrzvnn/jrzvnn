@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Xbox Game Pass Ultimate: Play Palworld, Persona 3 Reload and More Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-palworld-persona-3-reload-and-more-now/#ftag=CAD590a51e)
  - [Best Outdoor Home Security Cameras     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
  - [Byju&#39;s US unit Alpha files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B and $10B and assets between $500M and $1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
- - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran after some investors called to remove the CEO and his family from the top roles &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)<!-- TECH:END -->
+ - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran, after calls for the removal of the CEO and his family from top roles at the group &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

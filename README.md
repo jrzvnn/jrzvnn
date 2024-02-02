@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Pro launch: all the news about Apple’s pricey new headset](https://www.theverge.com/24059284/apple-vision-pro-launch-day-news)
  - [Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
  - [How to share an Apple Vision Pro with a guest user](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-share-an-apple-vision-pro-with-a-guest-user?utm_medium=rss)
  - [Samsung Galaxy S24 and S24 Plus review: slightly bigger and brighter displays with flat edges, and the AI features are occasionally great but sometimes weird &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240202/p16#a240202p16)
- - [How to clean your new Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-clean-your-new-apple-vision-pro?utm_medium=rss)
- - [Joe Rogan renews deal with Spotify](https://www.theverge.com/2024/2/2/24059336/joe-rogan-renews-deal-with-spotify-youtube)<!-- TECH:END -->
+ - [How to clean your new Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-clean-your-new-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

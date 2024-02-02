@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your brain may have a hard time adjusting to wearing and taking off Apple Vision Pro](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
+ - [Meta joins list of companies that disapprove of Apple&#39;s DMA response](https://appleinsider.com/articles/24/02/02/meta-joins-list-of-companies-that-disapprove-of-apples-dma-response?utm_medium=rss)
  - [The FTC settles with Blackbaud, ordering the cloud software company to delete consumers&#39; data and boost security after a May 2020 data breach affected millions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240201/p53#a240201p53)
- - [Extended use of Apple Vision Pro could have adverse effects on cognition, study finds](https://appleinsider.com/articles/24/02/02/extended-use-of-apple-vision-pro-could-have-adverse-effects-on-cognition-study-finds?utm_medium=rss)
- - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)
- - [Intel delays the construction of its $20B Ohio chip fabs amid a slow rollout of US government grant money; sources: the fabs are now set to finish in late 2026 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240201/p52#a240201p52)
- - [Best Soundbar Deals: Up to $320 Off Klipsch, Samsung and Other Big Name Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cricket Livestream: How to Watch India vs. England, 2nd Test From Anywhere     - CNET](https://www.cnet.com/culture/sports/cricket-livestream-how-to-watch-india-vs-england-2nd-test-from-anywhere/#ftag=CAD590a51e)
+ - [Meta says Apple has made it ‘very difficult’ to build rival app stores in the EU](https://www.theverge.com/2024/2/1/24058572/zuckerberg-meta-apple-app-store-iphone-eu-sideloading)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

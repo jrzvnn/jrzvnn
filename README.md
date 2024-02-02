@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Treasury sanctions six Iranian government officials for their role in targeting devices at a Pennsylvania water utility in November 2023 &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240202/p21#a240202p21)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [If your Apple Vision Pro gets stolen, Find My won&#39;t help you get it back](https://appleinsider.com/articles/24/02/02/if-your-apple-vision-pro-gets-stolen-find-my-wont-help-you-get-it-back?utm_medium=rss)
  - [Employers Can Now Offer a 401&lpar;k&rpar; Match on Student Loan Payments     - CNET](https://www.cnet.com/personal-finance/loans/employers-can-now-offer-a-401k-match-on-student-loan-payments/#ftag=CAD590a51e)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [Last-Minute Gifts to Make at Home This Valentine&#39;s Day     - CNET](https://www.cnet.com/tech/computing/last-minute-gifts-to-make-with-your-3d-printer-or-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

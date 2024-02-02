@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k cancer. Today my wife was told there is nothing left to do, the cancer has aggressively spread to her liver and she has not much left to live, she&#39;s laying in a hospital bed next to me. I&#39;ll be forever broken.](http://9gag.com/gag/anzL5dE)
- - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
- - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
  - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 😝 [`Yeah, no slowing down for me... i got this`](http://9gag.com/gag/aQE0z38)
+ - 💣 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
  - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---

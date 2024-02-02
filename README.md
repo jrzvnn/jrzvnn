@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: in January, the US DOJ charged three people with a phone-hacking scheme that included the hack of FTX to steal $400M+ at the time of its 2022 collapse &lpar;James Fanelli/Wall Street Journal&rpar;](http://www.techmeme.com/240202/p11#a240202p11)
  - [Explore the Starship Enterprise with Apple Vision Pro](https://appleinsider.com/articles/24/02/02/explore-the-starship-enterprise-with-apple-vision-pro?utm_medium=rss)
  - [Every M3 MacBook Pro &amp; iMac is up to $350 off, plus up to $80 off AppleCare](https://appleinsider.com/articles/23/11/27/every-m3-macbook-pro-imac-is-up-to-250-off-for-cyber-monday-plus-up-to-80-off-applecare?utm_medium=rss)
  - [You Can’t Buy Lab-Grown Meat Even If You Wanted To](https://www.wired.com/story/upside-foods-good-meat-cultivated-lab-grown-sale-stopped-singapore-california-crenn/)
- - [Apple Vision Pro sees quiet launch at Apple Downtown Nashville](https://appleinsider.com/articles/24/02/02/apple-vision-pro-sees-quiet-launch-at-apple-downtown-nashville?utm_medium=rss)
- - [Tesla’s latest screwup involves making the font size of its braking system too small](https://www.theverge.com/2024/2/2/24059114/tesla-recall-brake-system-font-size-power-steering)<!-- TECH:END -->
+ - [Apple Vision Pro sees quiet launch at Apple Downtown Nashville](https://appleinsider.com/articles/24/02/02/apple-vision-pro-sees-quiet-launch-at-apple-downtown-nashville?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

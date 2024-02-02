@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid with a lighter, sets fire to produce stand.](http://9gag.com/gag/aA0ox2E)
- - 😝 [Women](http://9gag.com/gag/armjGA7)
- - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [Poor man](http://9gag.com/gag/aBd70nA)<!-- MEMES:END -->
+ - 😝 [Gimme a f**kin gun](http://9gag.com/gag/aQE032w)
+ - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 💣 [London Acid Attacker identified as Abdul Shokoor Ezedi. The attacker threw acid in the faces of 12 people last night in Clapham South, London. 2 children were among the victims- one of them aged 3. He is currently at large with a massive manhunt underway. If you see him, call 999](http://9gag.com/gag/ap9WNVD)
+ - 😝 [Monsieur Mangetout ain&#39;t got shit on that boy](http://9gag.com/gag/armjMDp)
+ - 👉 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joe Rogan renews deal with Spotify](https://www.theverge.com/2024/2/2/24059336/joe-rogan-renews-deal-with-spotify-youtube)
  - [Spotify signs a new multiyear deal with Joe Rogan, estimated to be worth $250M; his show will be available on multiple podcast platforms and YouTube &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240202/p15#a240202p15)
- - [The Border Convoy Is Nearing Its Final Destination—with Vigilantes and Far-Right Extremists in Tow](https://www.wired.com/story/take-our-border-back-convoy-militias-texas-weekend-protest/)
+ - [The Border Convoy Is Nearing Its Final Destination—With Vigilantes and Far-Right Extremists in Tow](https://www.wired.com/story/take-our-border-back-convoy-militias-texas-weekend-protest/)
  - [Only Apple could have made Apple Vision Pro, say firm&#39;s design chiefs](https://appleinsider.com/articles/24/02/02/only-apple-could-have-made-apple-vision-pro-say-firms-design-chiefs?utm_medium=rss)
- - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)
- - [What to expect from the Apple Vision Pro in-store demo](https://appleinsider.com/articles/24/02/02/what-to-expect-from-the-apple-vision-pro-in-store-demo?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Feb. 2: $399 MacBook Air, $150 off iPad Air 5, Beats Studio Buds $85, more](https://appleinsider.com/articles/24/02/02/daily-deals-feb-2-399-macbook-air-150-off-ipad-air-5-beats-studio-buds-85-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

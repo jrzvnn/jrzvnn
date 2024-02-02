@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Baidu Venture is in talks to sell its stakes in US startups, including AI robotics startup Machina Labs, to US buyers, as US-China relations sour &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240202/p19#a240202p19)
  - [What comes in the $3499 Apple Vision Pro box](https://appleinsider.com/articles/24/01/08/what-comes-in-the-3499-apple-vision-pro-box?utm_medium=rss)
  - [Apple starts selling the Vision Pro in the US; Tim Cook compares Vision Pro debut to the birth of Mac, iPod, and iPhone in a memo to employees &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240202/p18#a240202p18)
  - [FTX Says It Expects to Repay Customers in Full. Some Are Suing for More](https://www.wired.com/story/ftx-bankruptcy-bitcoin-value/)
- - [Cambridge Audio CXN100 Music Streamer Ticks the Audiophile Boxes     - CNET](https://www.cnet.com/tech/home-entertainment/cambridge-audio-cxn100-music-streamer-ticks-the-audiophile-boxes/#ftag=CAD590a51e)
- - [How to avoid getting motion sickness when wearing Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-avoid-getting-motion-sickness-when-wearing-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Cambridge Audio CXN100 Music Streamer Ticks the Audiophile Boxes     - CNET](https://www.cnet.com/tech/home-entertainment/cambridge-audio-cxn100-music-streamer-ticks-the-audiophile-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

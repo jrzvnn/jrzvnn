@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Explore the Starship Enterprise with Apple Vision Pro](https://appleinsider.com/articles/24/02/02/explore-the-starship-enterprise-with-apple-vision-pro?utm_medium=rss)
+ - [You Can’t Buy Lab-Grown Meat Even If You Wanted To](https://www.wired.com/story/upside-foods-good-meat-cultivated-lab-grown-sale-stopped-singapore-california-crenn/)
  - [Apple Vision Pro sees quiet launch at Apple Downtown Nashville](https://appleinsider.com/articles/24/02/02/apple-vision-pro-sees-quiet-launch-at-apple-downtown-nashville?utm_medium=rss)
- - [OpenSecrets: 450 orgs, including OpenAI and Tesla, reported participating in AI-related lobbying in 2023, up 185% YoY, spending $957M+ on AI and other issues &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240202/p10#a240202p10)
- - [Apple Vision Pro is &#39;tomorrow&#39;s technology today,&#39; says Tim Cook](https://appleinsider.com/articles/24/02/02/apple-vision-pro-is-tomorrows-technology-today-says-tim-cook?utm_medium=rss)
- - [11 Best Action Cameras &lpar;2024&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Apple Music&#39;s increased spatial audio royalties are taking money from independents](https://appleinsider.com/articles/24/02/02/apple-musics-increased-spatial-audio-royalties-are-taking-money-from-independents?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla’s latest screwup involves making the font size of its braking system too small](https://www.theverge.com/2024/2/2/24059114/tesla-recall-brake-system-font-size-power-steering)
+ - [OpenSecrets: 450 orgs, including OpenAI and Tesla, reported participating in AI-related lobbying in 2023, up 185% YoY, spending $957M+ on AI and other issues &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240202/p10#a240202p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

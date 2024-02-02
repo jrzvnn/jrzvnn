@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable iPad could replace iPad mini starting in 2026](https://appleinsider.com/articles/24/02/02/foldable-ipad-could-replace-ipad-mini-starting-in-2026?utm_medium=rss)
- - [Xbox Game Pass Ultimate: Play Palworld, Persona 3 Reload and More Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-palworld-persona-3-reload-and-more-now/#ftag=CAD590a51e)
- - [Best Outdoor Home Security Cameras     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
- - [Byju&#39;s US unit Alpha files for Chapter 11 bankruptcy in Delaware, listing liabilities between $1B and $10B and assets between $500M and $1B &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p6#a240202p6)
- - [Byju&#39;s says investors do not have voting rights to remove Byju Raveendran, after calls for the removal of the CEO and his family from top roles at the group &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240202/p5#a240202p5)<!-- TECH:END -->
+ - [In Apple&#39;s earnings call, CFO Luca Maestri says the EU represents 7% of global App Store revenue &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240202/p8#a240202p8)
+ - [JP Morgan trims Apple stock target to $215 over weak iPhone expectations](https://appleinsider.com/articles/24/02/02/jp-morgan-trims-apple-stock-target-to-215-over-weak-iphone-expectations?utm_medium=rss)
+ - [Christian Selig makes the YouTube Vision Pro app that Google wouldn’t](https://www.theverge.com/2024/2/2/24059005/juno-youtube-vision-pro-app-christian-selig)
+ - [A profile of Gary Bowser, a 54-year-old programmer who was sentenced in 2022 for 40 months in prison for pirating games and ordered to pay $14.5M to Nintendo &lpar;Patricia Hernandez/The Guardian&rpar;](http://www.techmeme.com/240202/p7#a240202p7)
+ - [Craig Wright Claims He’s Bitcoin Creator Satoshi Nakamoto. Can He Prove It in Court?](https://www.wired.com/story/craig-wright-satoshi-nakamoto-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

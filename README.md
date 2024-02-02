@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goddammit Michael](http://9gag.com/gag/aQE0dVq)
- - 😝 [45 today. A week ago, I started my new life as a single man. Have some cake.](http://9gag.com/gag/aREYXD5)
- - 💣 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
- - 😝 [He&#39;s an asshole, but still..](http://9gag.com/gag/aOxX7n6)
- - 👉 [Bodybuilders vs Strongmen](http://9gag.com/gag/ap9WNrE)<!-- MEMES:END -->
+ - 😝 [Oh boy](http://9gag.com/gag/aA0ox80)
+ - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 💣 [The nerd and the jock ch.1 and 2](http://9gag.com/gag/abv9GzX)
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 👉 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)<!-- MEMES:END -->
 
 ---
 

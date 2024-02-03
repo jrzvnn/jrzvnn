@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)
+ - 😝 [What is this?](http://9gag.com/gag/abv9g9p)
+ - 😝 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)
+ - 💣 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 💣 [Let&#39;s unite and do something good for once, save children from predators](http://9gag.com/gag/aOxX3Dy)
- - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 👉 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)<!-- MEMES:END -->
+ - 👉 [Stop the Car!](http://9gag.com/gag/aDYE7j9)<!-- MEMES:END -->
 
 ---
 

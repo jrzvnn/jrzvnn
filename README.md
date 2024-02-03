@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
  - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
- - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
+ - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 💣 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
 
 ---
 

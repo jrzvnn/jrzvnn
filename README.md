@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Phil Schiller about Apple&#39;s efforts to minimize potential risks that third-party app stores, mandated by EU&#39;s DMA, may expose iPhone users to &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/240203/p13#a240203p13)
  - [Best Gaming Laptop Deals: Big Savings on Lenovo, Acer, Razer and More     - CNET](https://www.cnet.com/deals/best-gaming-laptop-deals/#ftag=CAD590a51e)
  - [Best Buy drops Apple Watch Series 9 to $299 this weekend](https://appleinsider.com/articles/24/02/03/best-buy-drops-apple-watch-series-9-to-299-this-weekend?utm_medium=rss)
  - [Best Valentine&#39;s Day Flower Deals: Save on Lush Roses, Plants, Orchids and More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
- - [LifeSpan Ampera Review: Epic In-Office Workouts for Cyclists     - CNET](https://www.cnet.com/health/lifespan-ampera-review/#ftag=CAD590a51e)
- - [Compare Electricity Rates in Texas     - CNET](https://www.cnet.com/how-to/compare-electricity-rates-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LifeSpan Ampera Review: Epic In-Office Workouts for Cyclists     - CNET](https://www.cnet.com/health/lifespan-ampera-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

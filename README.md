@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)
- - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 💣 [Thirsty tweets](http://9gag.com/gag/aL1yLNx)
- - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
- - 👉 [Stop the Car!](http://9gag.com/gag/aDYE7j9)<!-- MEMES:END -->
+ - 😝 [Every year this kind man, who rescued this dog as a puppy, comes to visit the dog in his new forever home and the bond they share is as pure as it gets](http://9gag.com/gag/aKEr1L3)
+ - 😝 [Dont afk](http://9gag.com/gag/aGEWLE5)
+ - 💣 [Quick maths](http://9gag.com/gag/aeQv4Ev)
+ - 😝 [[No title]](http://9gag.com/gag/aPgKm4K)
+ - 👉 [Ticket jumper](http://9gag.com/gag/aDYE62d)<!-- MEMES:END -->
 
 ---
 

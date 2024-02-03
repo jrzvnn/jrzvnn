@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 💣 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 😝 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)
  - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 👉 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
+ - 💣 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 👉 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)<!-- MEMES:END -->
 
 ---
 

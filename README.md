@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Phil Schiller warns third-party app stores are a risk to iPhone users](https://appleinsider.com/articles/24/02/03/phil-schiller-warns-third-party-app-stores-are-a-risk-to-iphone-users?utm_medium=rss)
  - [Recharge the Apple Vision Pro twice as fast with a better power adapter](https://appleinsider.com/articles/24/02/03/recharge-the-apple-vision-pro-twice-as-fast-with-a-better-power-adapter?utm_medium=rss)
- - [China’s Hackers Keep Targeting US Water and Electricity Supplies](https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/)
- - [The Hulu and Disney+ Password Crackdown Is Coming. Here’s What You Need to Know](https://www.wired.com/story/hulu-disney-password-sharing-over/)
- - [Snap Recalls Its Pixy Flying Selfie Camera Because of Overheating Batteries](https://www.wired.com/story/snap-recalls-pixy-drone-bulging-batteries/)<!-- TECH:END -->
+ - [DIY Solar Panels: Pros and Cons of Installing Them Yourself     - CNET](https://www.cnet.com/home/energy-and-utilities/diy-solar-panels-pros-and-cons-can-you-install-them-yourself/#ftag=CAD590a51e)
+ - [8 Foods to Eat if You Want a Happiness Boost Right Now     - CNET](https://www.cnet.com/health/mental/8-foods-to-eat-if-you-want-a-happiness-boost-right-now/#ftag=CAD590a51e)
+ - [China’s Hackers Keep Targeting US Water and Electricity Supplies](https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every year this kind man, who rescued this dog as a puppy, comes to visit the dog in his new forever home and the bond they share is as pure as it gets](http://9gag.com/gag/aKEr1L3)
+ - 😝 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)
  - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
  - 💣 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
- - 😝 [Title](http://9gag.com/gag/ajVo1xg)
- - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 👉 [Based history month](http://9gag.com/gag/aL1yLOM)<!-- MEMES:END -->
 
 ---
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 😝 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
  - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 💣 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 😝 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)
  - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
 
 ---

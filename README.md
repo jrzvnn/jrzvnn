@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not a conspiracy theorist, but this walk really reminds me of... Oh no!.. I shouldn&#39;t have taken off my tin foil hat.](http://9gag.com/gag/a7qzEnw)
  - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 💣 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
+ - 😝 [The perfect wife doesn\u2019t exis\u2026..](http://9gag.com/gag/aNw6w1A)
+ - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---
 

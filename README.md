@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 😝 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)
- - 💣 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
  - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
- - 👉 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)<!-- MEMES:END -->
+ - 💣 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 👉 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)<!-- MEMES:END -->
 
 ---
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 😝 [Funny nose. still wood tho.](http://9gag.com/gag/a042oPB)
- - 💣 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 💣 [It took me a few seconds](http://9gag.com/gag/az2027x)
+ - 😝 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
  - 👉 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)<!-- MEMES:END -->
 
 ---

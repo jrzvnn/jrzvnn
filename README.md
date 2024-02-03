@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Every year this kind man, who rescued this dog as a puppy, comes to visit the dog in his new forever home and the bond they share is as pure as it gets](http://9gag.com/gag/aKEr1L3)
  - 😝 [Dont afk](http://9gag.com/gag/aGEWLE5)
  - 💣 [Quick maths](http://9gag.com/gag/aeQv4Ev)
- - 😝 [[No title]](http://9gag.com/gag/aPgKm4K)
- - 👉 [Ticket jumper](http://9gag.com/gag/aDYE62d)<!-- MEMES:END -->
+ - 😝 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
+ - 👉 [[No title]](http://9gag.com/gag/aPgKm4K)<!-- MEMES:END -->
 
 ---
 

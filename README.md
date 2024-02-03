@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gaming Laptop Deals: Big Savings on Lenovo, Acer, Razer and More     - CNET](https://www.cnet.com/deals/best-gaming-laptop-deals/#ftag=CAD590a51e)
  - [Best Buy drops Apple Watch Series 9 to $299 this weekend](https://appleinsider.com/articles/24/02/03/best-buy-drops-apple-watch-series-9-to-299-this-weekend?utm_medium=rss)
- - [Compare Electricity Rates in Illinois     - CNET](https://www.cnet.com/news/electricity-rates-illinois/#ftag=CAD590a51e)
- - [Remote desktop software maker AnyDesk says it has suffered a cyberattack recently; source: hackers stole source code and private code signing keys &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240203/p12#a240203p12)
- - [Grab This American Sign Language Learning Bundle for Just $17     - CNET](https://www.cnet.com/deals/grab-this-american-sign-language-learning-bundle-for-just-17/#ftag=CAD590a51e)
- - [Awesome Amazon Deals This Weekend: Grab Galaxy Tab A9 Plus, Eufy L60, Amazon Fire TV Omni and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-grab-galaxy-tab-a9-plus-eufy-l60-amazon-fire-tv-omni-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Valentine&#39;s Day Flower Deals: Save on Lush Roses, Plants, Orchids and More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
+ - [LifeSpan Ampera Review: Epic In-Office Workouts for Cyclists     - CNET](https://www.cnet.com/health/lifespan-ampera-review/#ftag=CAD590a51e)
+ - [Compare Electricity Rates in Texas     - CNET](https://www.cnet.com/how-to/compare-electricity-rates-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
- - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
- - 👉 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)<!-- MEMES:END -->
+ - 😝 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
+ - 😝 [Based history month](http://9gag.com/gag/aL1yLOM)
+ - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 😝 [[No title]](http://9gag.com/gag/aPgKm4K)
+ - 👉 [How to kebab](http://9gag.com/gag/avQ3W3q)<!-- MEMES:END -->
 
 ---
 

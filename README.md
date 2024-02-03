@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
- - 😝 [Funny nose. still wood tho.](http://9gag.com/gag/a042oPB)
- - 💣 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
  - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 👉 [Let&#39;s unite and do something good for once, save children from predators](http://9gag.com/gag/aOxX3Dy)<!-- MEMES:END -->
+ - 😝 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
+ - 💣 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
+ - 😝 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
+ - 👉 [Funny nose. still wood tho.](http://9gag.com/gag/a042oPB)<!-- MEMES:END -->
 
 ---
 

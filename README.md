@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)
  - [Hugging Face launches HuggingChat Assistants, allowing users to create customized AI chatbots with specific capabilities using LLMs like Mixtral or Llama2 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240202/p26#a240202p26)
  - [Best 3D Printer Filament Deals: 6 Great Rolls for All Your 3D Printing Projects     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)
  - [Interviews with Disney executives about Apple Vision Pro, how the device is changing the studio&#39;s production pipelines, future plans for the device, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240202/p25#a240202p25)
- - [Best Mattress Deals: Save on Top Brands With Early Presidents Day Offers     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress Deals: Save on Top Brands With Early Presidents Day Offers     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
+ - [‘There is no such thing as a real picture,’ says Samsung exec](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

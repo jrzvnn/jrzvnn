@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to acquire Brighter AI, a German startup specializing in anonymizing face and license plate data, to enhance privacy features on Vision Pro &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240203/p10#a240203p10)
  - [The US Has Big Plans for Wind Energy—but an Obscure 1920s Law Is Getting in the Way](https://www.wired.com/story/us-energy-offshore-wind-jones-act-biden-law/)
  - [AI afterlife, robot romance, and slow-burn slashers: the best of Sundance 2024](https://www.theverge.com/24059264/sundance-film-festival-2024-best-movies-ai)
  - [A look at Reddit&#39;s third-party app ecosystem seven months after API changes: most current apps now charge users a monthly fee, some are profitable, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240203/p9#a240203p9)
- - [The Surface Pro 9 is more than $500 off, matching its all-time low](https://www.theverge.com/2024/2/3/24059630/microsoft-surface-pro-9-beats-studio-buds-plus-samsung-frame-tv-deal-sale)
- - [Valentine&#39;s Day on Your TV: Stream 15 New Movies and Shows     - CNET](https://www.cnet.com/tech/services-and-software/valentines-day-on-your-tv-stream-15-new-movies-and-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Surface Pro 9 is more than $500 off, matching its all-time low](https://www.theverge.com/2024/2/3/24059630/microsoft-surface-pro-9-beats-studio-buds-plus-samsung-frame-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

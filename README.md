@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta&#39;s Fundamental AI Research &lpar;FAIR&rpar; lab, which is responsible for Llama, is made up largely of women; sources say ~60% of FAIR&#39;s leadership team are women &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240203/p7#a240203p7)
  - [Nayib Bukele doubles down on BTC despite El Salvador&#39;s economic woes and IMF asking for BTC&#39;s removal as legal tender; 88% of citizens didn&#39;t use BTC in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p6#a240203p6)
+ - [Vision Pro Launch Day at NYC Apple Store &lpar;Tim Cook meets fans!&rpar; video     - CNET](https://www.cnet.com/videos/vision-pro-launch-day-at-nyc-apple-store-tim-cook-meets-fans/#ftag=CAD590a51e)
  - [Synergy: enterprise spending on cloud infrastructure services was ~$74B in Q4 2023, up 20% YoY, and $5.6B over Q3 2023, the largest QoQ increase ever achieved &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240203/p5#a240203p5)
- - [Analysis: ByteDance spent $8.74M on US lobbying activities in 2023, up 77% YoY, and Shein spent $2.12M, up 7.6x from 2022, amid rising US-China trade tensions &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/240203/p4#a240203p4)
- - [Chinese automaker Geely launches 11 LEO satellites to provide high-precision positioning support to self-driving cars and expects 72 to be in orbit by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p3#a240203p3)<!-- TECH:END -->
+ - [Analysis: ByteDance spent $8.74M on US lobbying activities in 2023, up 77% YoY, and Shein spent $2.12M, up 7.6x from 2022, amid rising US-China trade tensions &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/240203/p4#a240203p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

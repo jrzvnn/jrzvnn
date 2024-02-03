@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
- - 💣 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
+ - 😝 [Raise your drink to the character from the best and funniest Disney cartoon!](http://9gag.com/gag/a3ZVEKN)
+ - 😝 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
+ - 💣 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
  - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
+ - 👉 [Let&#39;s unite and do something good for once, save children from predators](http://9gag.com/gag/aOxX3Dy)<!-- MEMES:END -->
 
 ---
 

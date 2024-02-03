@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
  - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
+ - 💣 [Saudi Footballer Ali Albulayhi Harassing South Korean Professionals in AFC Asian Cup. The game ended in South Korean victory with 2:4 as the final score](http://9gag.com/gag/aVbNwjM)
  - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 😝 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
- - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
+ - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---
 

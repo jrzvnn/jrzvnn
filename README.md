@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with Disney executives about Apple Vision Pro, how the device is changing the studio&#39;s production pipelines, future plans for the device, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240202/p25#a240202p25)
  - [‘There is no such thing as a real picture,’ says Samsung exec](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)
  - [Best Smart Home Deals: Save on Smart Plugs, Bulbs, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
  - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
- - [Apple details Vision Pro&#39;s Bluetooth accessories support, saying it isn&#39;t compatible with Bluetooth mice but works with the Magic Trackpad and most keyboards &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240202/p24#a240202p24)
- - [Spotify re-signs Joe Rogan in deal that includes return to Apple Podcasts](https://appleinsider.com/articles/24/02/02/spotify-re-signs-joe-rogan-in-deal-that-includes-return-to-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
+ - [Apple details Vision Pro&#39;s Bluetooth accessories support, saying it isn&#39;t compatible with Bluetooth mice but works with the Magic Trackpad and most keyboards &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240202/p24#a240202p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

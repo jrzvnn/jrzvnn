@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
  - 😝 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)
- - 💣 [Let&#39;s unite and do something good for once, save children from predators](http://9gag.com/gag/aOxX3Dy)
- - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 👉 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)<!-- MEMES:END -->
+ - 💣 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 👉 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)<!-- MEMES:END -->
 
 ---
 

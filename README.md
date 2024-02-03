@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 💣 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 👉 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)<!-- MEMES:END -->
 
 ---
 

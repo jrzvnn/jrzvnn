@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab This American Sign Language Learning Bundle for Just $17     - CNET](https://www.cnet.com/deals/grab-this-american-sign-language-learning-bundle-for-just-17/#ftag=CAD590a51e)
- - [Awesome Amazon Deals This Weekend: Grab Galaxy Tab A9 Plus, Eufy L60, Amazon Fire TV Omni, and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-grab-galaxy-tab-a9-plus-eufy-l60-amazon-fire-tv-omni-and-more/#ftag=CAD590a51e)
  - [A changelog for Bard shows Google plans to rename Bard as Gemini, with an Advanced tier and an Android app &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240203/p11#a240203p11)
  - [Long-running App Store monopoly lawsuit gains class-action status](https://appleinsider.com/articles/24/02/03/long-running-app-store-monopoly-lawsuit-gains-class-action-status?utm_medium=rss)
- - [Trouble Sleeping? These 42 Expert Sleep Tips Can Help     - CNET](https://www.cnet.com/health/sleep/tricks-to-help-you-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trouble Sleeping? These 42 Expert Sleep Tips Can Help     - CNET](https://www.cnet.com/health/sleep/tricks-to-help-you-sleep/#ftag=CAD590a51e)
+ - [The first Reddit reviews of the Vision Pro are in](https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch)
+ - [How to use Mac Virtual Display for Apple Vision Pro with desktop Macs and MacBooks](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-mac-virtual-display-for-apple-vision-pro-with-desktop-macs-and-macbooks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

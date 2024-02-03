@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Vision Pro is surprisingly durable in first YouTube drop test](https://appleinsider.com/articles/24/02/03/apple-vision-pro-is-surprisingly-durable-in-first-youtube-drop-test?utm_medium=rss)
- - [Samsung Is Bringing HDR Photos to Instagram and I&#39;m Thrilled     - CNET](https://www.cnet.com/tech/mobile/samsung-is-bringing-hdr-photos-to-instagram-and-im-thrilled/#ftag=CAD590a51e)
- - [February Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/february-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)
  - [16 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
- - [5 Best Water Bottles &lpar;2024&rpar;: Owala, LifeStraw, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
+ - [5 Best Water Bottles &lpar;2024&rpar;: Owala, LifeStraw, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [How bad is Tesla’s hazardous waste problem in California?](https://www.theverge.com/2024/2/3/24058476/tesla-hazardous-waste-suit-settlement-california)
+ - [The rise and fall of Ben Armstrong, aka BitBoy, who was one of the most popular crypto YouTubers, lost much of his wealth, and now faces personal turmoil &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240203/p8#a240203p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nayib Bukele doubles down on BTC despite El Salvador&#39;s economic woes and IMF asking for BTC&#39;s removal as legal tender; 88% of citizens didn&#39;t use BTC in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p6#a240203p6)
  - [Synergy: enterprise spending on cloud infrastructure services was ~$74B in Q4 2023, up 20% YoY, and $5.6B over Q3 2023, the largest QoQ increase ever achieved &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240203/p5#a240203p5)
  - [Analysis: ByteDance spent $8.74M on US lobbying activities in 2023, up 77% YoY, and Shein spent $2.12M, up 7.6x from 2022, amid rising US-China trade tensions &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/240203/p4#a240203p4)
  - [Chinese automaker Geely launches 11 LEO satellites to provide high-precision positioning support to self-driving cars and expects 72 to be in orbit by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p3#a240203p3)
- - [Records show Apple&#39;s secretive auto unit almost quadrupled its self-driving miles on public roads in 2023, compared to 2022, jumping 2021&#39;s total by over 30x &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/240203/p2#a240203p2)
- - [More than 100 human rights and LGBTQ groups and many kids condemn the Kids Online Safety Act after the January 31 hearing, saying it is &quot;to control information&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240203/p1#a240203p1)<!-- TECH:END -->
+ - [Records show Apple&#39;s secretive auto unit almost quadrupled its self-driving miles on public roads in 2023, compared to 2022, jumping 2021&#39;s total by over 30x &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/240203/p2#a240203p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

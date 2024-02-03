@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The rise and fall of Ben Armstrong, aka BitBoy, who was one of the most popular crypto YouTubers, lost much of his wealth, and now faces personal turmoil &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240203/p8#a240203p8)
- - [Best Photo Printer of 2024: Canon, Epson, Instax Compared     - CNET](https://www.cnet.com/tech/computing/best-photo-printer-of-2024-canon-epson-instax-compared/#ftag=CAD590a51e)
- - [iOS 17.3: You Should Download the Latest iPhone Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-you-should-download-the-latest-iphone-update-now/#ftag=CAD590a51e)
  - [8 Best Valentine&#39;s Day Deals: Headphones, MacBooks, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
- - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)
+ - [Snag This Ninja Air Fryer Valentine&#39;s Day Deal for Your Favorite College Student     - CNET](https://www.cnet.com/how-to/snag-this-ninja-air-fryer-valentines-day-deal-for-your-favorite-college-student/#ftag=CAD590a51e)
+ - [Neck lamps are a bookworm’s best friend](https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

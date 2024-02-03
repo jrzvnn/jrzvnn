@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Valentine&#39;s Day Deals: Headphones, MacBooks, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
  - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)
  - [Snag This Ninja Air Fryer Valentine&#39;s Day Deal for Your Favorite College Student     - CNET](https://www.cnet.com/how-to/snag-this-ninja-air-fryer-valentines-day-deal-for-your-favorite-college-student/#ftag=CAD590a51e)
  - [Neck lamps are a bookworm’s best friend](https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark)
- - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Be One of the First to Try Out Apple&#39;s Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-out-apples-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

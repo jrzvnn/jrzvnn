@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro is surprisingly durable in first YouTube drop test](https://appleinsider.com/articles/24/02/03/apple-vision-pro-is-surprisingly-durable-in-first-youtube-drop-test?utm_medium=rss)
- - [16 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
- - [5 Best Water Bottles &lpar;2024&rpar;: Owala, LifeStraw, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [How bad is Tesla’s hazardous waste problem in California?](https://www.theverge.com/2024/2/3/24058476/tesla-hazardous-waste-suit-settlement-california)
- - [The rise and fall of Ben Armstrong, aka BitBoy, who was one of the most popular crypto YouTubers, lost much of his wealth, and now faces personal turmoil &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/240203/p8#a240203p8)<!-- TECH:END -->
+ - [Recharge the Apple Vision Pro twice as fast with a better power adapter](https://appleinsider.com/articles/24/02/03/recharge-the-apple-vision-pro-twice-as-fast-with-a-better-power-adapter?utm_medium=rss)
+ - [China’s Hackers Keep Targeting US Water and Electricity Supplies](https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/)
+ - [The Hulu and Disney+ Password Crackdown Is Coming. Here’s What You Need to Know](https://www.wired.com/story/hulu-disney-password-sharing-over/)
+ - [Snap Recalls Its Pixy Flying Selfie Camera Because of Overheating Batteries](https://www.wired.com/story/snap-recalls-pixy-drone-bulging-batteries/)
+ - [How to use the new Circle to Search tool](https://www.theverge.com/24059345/circle-to-search-google-android-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

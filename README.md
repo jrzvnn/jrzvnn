@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every year this kind man, who rescued this dog as a puppy, comes to visit the dog in his new forever home and the bond they share is as pure as it gets](http://9gag.com/gag/aKEr1L3)
- - 😝 [Dont afk](http://9gag.com/gag/aGEWLE5)
- - 💣 [Quick maths](http://9gag.com/gag/aeQv4Ev)
- - 😝 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
- - 👉 [[No title]](http://9gag.com/gag/aPgKm4K)<!-- MEMES:END -->
+ - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 💣 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 👉 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
 
 ---
 

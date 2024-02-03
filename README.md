@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 💣 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 👉 [Based history month](http://9gag.com/gag/aL1yLOM)<!-- MEMES:END -->
+ - 😝 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
+ - 👉 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)<!-- MEMES:END -->
 
 ---
 

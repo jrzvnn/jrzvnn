@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese automaker Geely launches 11 LEO satellites to provide high-precision positioning support to self-driving cars and expects 72 to be in orbit by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p3#a240203p3)
  - [Records show Apple&#39;s secretive auto unit almost quadrupled its self-driving miles on public roads in 2023, compared to 2022, jumping 2021&#39;s total by over 30x &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/240203/p2#a240203p2)
  - [More than 100 human rights and LGBTQ groups and many kids condemn the Kids Online Safety Act after the January 31 hearing, saying it is &quot;to control information&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240203/p1#a240203p1)
  - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)
- - [Hugging Face launches HuggingChat Assistants, allowing users to create customized AI chatbots with specific capabilities using LLMs like Mixtral or Llama2 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240202/p26#a240202p26)
- - [Best 3D Printer Filament Deals: 6 Great Rolls for All Your 3D Printing Projects     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hugging Face launches HuggingChat Assistants, allowing users to create customized AI chatbots with specific capabilities using LLMs like Mixtral or Llama2 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240202/p26#a240202p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

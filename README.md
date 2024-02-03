@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Quadrupled Its Autonomous Driving Testing Miles Last Year](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+ - [Sources: cloud data management startup Rubrik plans an US IPO as early as April 2024, amid a DOJ fraud investigation into one of its former employees &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p23#a240202p23)
+ - [A US federal judge certifies a class-action lawsuit accusing Apple of monopolizing the market for iPhone apps by banning digital purchases outside its App Store &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240202/p22#a240202p22)
  - [The US Treasury sanctions six Iranian government officials for their role in targeting devices at a Pennsylvania water utility in November 2023 &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240202/p21#a240202p21)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [If your Apple Vision Pro gets stolen, Find My won&#39;t help you get it back](https://appleinsider.com/articles/24/02/02/if-your-apple-vision-pro-gets-stolen-find-my-wont-help-you-get-it-back?utm_medium=rss)
- - [Employers Can Now Offer a 401&lpar;k&rpar; Match on Student Loan Payments     - CNET](https://www.cnet.com/personal-finance/loans/employers-can-now-offer-a-401k-match-on-student-loan-payments/#ftag=CAD590a51e)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Monitor Deals: Save Big on AOC, Samsung, LG, Acer and Others     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

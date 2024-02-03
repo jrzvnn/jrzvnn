@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Reddit&#39;s third-party app ecosystem seven months after API changes: most current apps now charge users a monthly fee, some are profitable, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240203/p9#a240203p9)
  - [The Surface Pro 9 is more than $500 off this weekend, matching its all-time low](https://www.theverge.com/2024/2/3/24059630/microsoft-surface-pro-9-beats-studio-buds-plus-samsung-frame-tv-deal-sale)
  - [Phil Schiller warns third-party app stores are a risk to iPhone users](https://appleinsider.com/articles/24/02/03/phil-schiller-warns-third-party-app-stores-are-a-risk-to-iphone-users?utm_medium=rss)
  - [Recharge the Apple Vision Pro twice as fast with a better power adapter](https://appleinsider.com/articles/24/02/03/recharge-the-apple-vision-pro-twice-as-fast-with-a-better-power-adapter?utm_medium=rss)
- - [DIY Solar Panels: Pros and Cons of Installing Them Yourself     - CNET](https://www.cnet.com/home/energy-and-utilities/diy-solar-panels-pros-and-cons-can-you-install-them-yourself/#ftag=CAD590a51e)
- - [8 Foods to Eat if You Want a Happiness Boost Right Now     - CNET](https://www.cnet.com/health/mental/8-foods-to-eat-if-you-want-a-happiness-boost-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DIY Solar Panels: Pros and Cons of Installing Them Yourself     - CNET](https://www.cnet.com/home/energy-and-utilities/diy-solar-panels-pros-and-cons-can-you-install-them-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

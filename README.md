@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)
  - [Apple open sources Pkl, a configuration-as-code language with rich validation and tooling, with Swift, Go, Java, and Kotlin integration &lpar;Pkl Blog&rpar;](http://www.techmeme.com/240203/p14#a240203p14)
  - [The Apple Vision Pro has already been hacked](https://appleinsider.com/articles/24/02/03/the-apple-vision-pro-has-already-been-hacked?utm_medium=rss)
  - [iFixit pulls the Vision Pro apart, exposing its connectors, screens, and fans](https://www.theverge.com/2024/2/3/24059966/ifixit-apple-vision-pro-teardown-video)
- - [Apple Watch Series 9 Models Are $100 Off at Best Buy Today Only     - CNET](https://www.cnet.com/deals/apple-watch-series-9-models-100-off-best-buy/#ftag=CAD590a51e)
- - [Best Laptop Deals: Save Up to $450 on Samsung, Asus, Apple and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Phil Schiller about Apple&#39;s efforts to minimize potential risks that third-party app stores, mandated by EU&#39;s DMA, may expose iPhone users to &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/240203/p13#a240203p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

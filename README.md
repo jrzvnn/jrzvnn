@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)
- - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 💣 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)<!-- MEMES:END -->
+ - 😝 [Every year this kind man, who rescued this dog as a puppy, comes to visit the dog in his new forever home and the bond they share is as pure as it gets](http://9gag.com/gag/aKEr1L3)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 💣 [Yoga or not?](http://9gag.com/gag/aNw6LOG)
+ - 😝 [Title](http://9gag.com/gag/ajVo1xg)
+ - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
 
 ---
 

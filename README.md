@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Be One of the First to Try Out Apple&#39;s Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-out-apples-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: When to Expect Your Tax Refund to Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-to-expect-your-tax-refund-to-arrive/#ftag=CAD590a51e)
  - [IRS 1099-K Delay Update: How This Impacts Taxes for PayPal, Venmo and Cash App Users     - CNET](https://www.cnet.com/personal-finance/taxes/irs-1099-k-delay-update-how-this-impacts-taxes-for-paypal-venmo-and-cash-app-users/#ftag=CAD590a51e)
- - [Meta&#39;s Fundamental AI Research &lpar;FAIR&rpar; lab, which is responsible for Llama, is made up largely of women; sources say ~60% of FAIR&#39;s leadership team are women &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240203/p7#a240203p7)
- - [Nayib Bukele doubles down on BTC despite El Salvador&#39;s economic woes and IMF asking for BTC&#39;s removal as legal tender; 88% of citizens didn&#39;t use BTC in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240203/p6#a240203p6)
- - [Vision Pro Launch Day at NYC Apple Store &lpar;Tim Cook meets fans!&rpar; video     - CNET](https://www.cnet.com/videos/vision-pro-launch-day-at-nyc-apple-store-tim-cook-meets-fans/#ftag=CAD590a51e)
- - [Synergy: enterprise spending on cloud infrastructure services was ~$74B in Q4 2023, up 20% YoY, and $5.6B over Q3 2023, the largest QoQ increase ever achieved &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240203/p5#a240203p5)<!-- TECH:END -->
+ - [Meta&#39;s Fundamental AI Research &lpar;FAIR&rpar; lab, which is responsible for Llama, is made up largely of women; sources say ~60% of FAIR&#39;s leadership team are women &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240203/p7#a240203p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
+ - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
  - 💣 [It took me a few seconds](http://9gag.com/gag/az2027x)
- - 😝 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
- - 👉 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)<!-- MEMES:END -->
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---
 

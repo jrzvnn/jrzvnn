@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Quadrupled Its Autonomous Driving Testing Miles Last Year](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
- - [Sources: cloud data management startup Rubrik plans an US IPO as early as April 2024, amid a DOJ fraud investigation into one of its former employees &lpar;Reuters&rpar;](http://www.techmeme.com/240202/p23#a240202p23)
- - [A US federal judge certifies a class-action lawsuit accusing Apple of monopolizing the market for iPhone apps by banning digital purchases outside its App Store &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240202/p22#a240202p22)
- - [The US Treasury sanctions six Iranian government officials for their role in targeting devices at a Pennsylvania water utility in November 2023 &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240202/p21#a240202p21)
- - [Best Monitor Deals: Save Big on AOC, Samsung, LG, Acer and Others     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘There is no such thing as a real picture,’ says Samsung exec](https://www.theverge.com/2024/2/2/24059955/samsung-no-such-thing-as-real-photo-ai)
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)
+ - [Apple details Vision Pro&#39;s Bluetooth accessories support, saying it isn&#39;t compatible with Bluetooth mice but works with the Magic Trackpad and most keyboards &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240202/p24#a240202p24)
+ - [Spotify re-signs Joe Rogan in deal that includes return to Apple Podcasts](https://appleinsider.com/articles/24/02/02/spotify-re-signs-joe-rogan-in-deal-that-includes-return-to-apple-podcasts?utm_medium=rss)
+ - [Apple Quadrupled Its Autonomous Driving Testing Miles Last Year](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

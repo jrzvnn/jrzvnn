@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Reddit reviews of the Vision Pro are in](https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch)
  - [How to use Mac Virtual Display for Apple Vision Pro with desktop Macs and MacBooks](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-mac-virtual-display-for-apple-vision-pro-with-desktop-macs-and-macbooks?utm_medium=rss)
  - [Some Apple Vision Pro owners can&#39;t buy AppleCare on the device](https://appleinsider.com/articles/24/02/02/apple-vision-pro-owners-cant-buy-applecare-on-the-device?utm_medium=rss)
  - [Sources: Apple plans to acquire Brighter AI, a German startup specializing in anonymizing face and license plate data, to enhance privacy features on Vision Pro &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240203/p10#a240203p10)
- - [The US Has Big Plans for Wind Energy—but an Obscure 1920s Law Is Getting in the Way](https://www.wired.com/story/us-energy-offshore-wind-jones-act-biden-law/)
- - [Best Direct-to-Consumer Cookware for 2024: Made In, Caraway, Field Company and More     - CNET](https://www.cnet.com/news/best-direct-to-consumer-cookware/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Has Big Plans for Wind Energy—but an Obscure 1920s Law Is Getting in the Way](https://www.wired.com/story/us-energy-offshore-wind-jones-act-biden-law/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

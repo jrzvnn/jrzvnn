@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Yeah, no slowing down for me... i got this`](http://9gag.com/gag/aQE0z38)
+ - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 💣 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 💣 [Rewatching the dark knight and im crying at how he ain\u2019t know it was the Joker until he took off the mask](http://9gag.com/gag/anzLQEV)
- - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
- - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
+ - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
 
 ---
 

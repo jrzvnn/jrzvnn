@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A changelog for Bard shows Google plans to rename Bard as Gemini, with an Advanced tier and an Android app &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240203/p11#a240203p11)
  - [Long-running App Store monopoly lawsuit gains class-action status](https://appleinsider.com/articles/24/02/03/long-running-app-store-monopoly-lawsuit-gains-class-action-status?utm_medium=rss)
+ - [Trouble Sleeping? These 42 Expert Sleep Tips Can Help     - CNET](https://www.cnet.com/health/sleep/tricks-to-help-you-sleep/#ftag=CAD590a51e)
  - [The first Reddit reviews of the Vision Pro are in](https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch)
- - [How to use Mac Virtual Display for Apple Vision Pro with desktop Macs and MacBooks](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-mac-virtual-display-for-apple-vision-pro-with-desktop-macs-and-macbooks?utm_medium=rss)
- - [Best Instant Pots for 2024     - CNET](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Mac Virtual Display for Apple Vision Pro with desktop Macs and MacBooks](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-mac-virtual-display-for-apple-vision-pro-with-desktop-macs-and-macbooks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

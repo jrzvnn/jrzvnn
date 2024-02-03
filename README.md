@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
- - 😝 [The perfect wife doesn\u2019t exis\u2026..](http://9gag.com/gag/aNw6w1A)
- - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 😝 [\u2022\u2022\u2022](http://9gag.com/gag/a9q9nRj)
+ - 😝 [`Yeah, no slowing down for me... i got this`](http://9gag.com/gag/aQE0z38)
+ - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 💣 [Rewatching the dark knight and im crying at how he ain\u2019t know it was the Joker until he took off the mask](http://9gag.com/gag/anzLQEV)
+ - 😝 [Respect. True hero.](http://9gag.com/gag/a5X8Enq)
  - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
 
 ---

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 😝 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
+ - 😝 [Conjoined twins teaching class [I have so many questions]](http://9gag.com/gag/aYV2V9m)
+ - 😝 [Real life NPC](http://9gag.com/gag/aXn5o5v)
  - 💣 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)
- - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
+ - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
  - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
 
 ---

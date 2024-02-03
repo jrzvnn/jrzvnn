@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get Your 2024 Tax Refund Up to 5 Days Sooner     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-get-your-2024-tax-refund-up-to-5-days-sooner/#ftag=CAD590a51e)
+ - [Snag This Ninja Air Fryer Valentine&#39;s Day Deal for Your Favorite College Student     - CNET](https://www.cnet.com/how-to/snag-this-ninja-air-fryer-valentines-day-deal-for-your-favorite-college-student/#ftag=CAD590a51e)
  - [Neck lamps are a bookworm’s best friend](https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark)
  - [Everton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Be One of the First to Try Out Apple&#39;s Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-out-apples-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)
- - [Child Tax Credit 2024: When to Expect Your Tax Refund to Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-to-expect-your-tax-refund-to-arrive/#ftag=CAD590a51e)
- - [IRS 1099-K Delay Update: How This Impacts Taxes for PayPal, Venmo and Cash App Users     - CNET](https://www.cnet.com/personal-finance/taxes/irs-1099-k-delay-update-how-this-impacts-taxes-for-paypal-venmo-and-cash-app-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Be One of the First to Try Out Apple&#39;s Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-out-apples-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

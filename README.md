@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
  - 😝 [Funny nose. still wood tho.](http://9gag.com/gag/a042oPB)
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 💣 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
- - 😝 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
- - 👉 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)<!-- MEMES:END -->
+ - 💣 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)
+ - 😝 [Chinese man murders his 2yo daughter and 1yo son after constant pressure from his girlfriend to \u201cget rid of them\u201d because they \u201cshouldn\u2019t exist anyway\u201d](http://9gag.com/gag/aeQvgmj)
+ - 👉 [Let&#39;s unite and do something good for once, save children from predators](http://9gag.com/gag/aOxX3Dy)<!-- MEMES:END -->
 
 ---
 

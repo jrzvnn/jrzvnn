@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bullies are the worst](http://9gag.com/gag/a7qzWQe)
- - 😝 [Give that man needs a raise](http://9gag.com/gag/aGEWEqz)
- - 💣 [It took me a few seconds](http://9gag.com/gag/az2027x)
+ - 😝 [I&#39;m not a conspiracy theorist, but this walk really reminds me of... Oh no!.. I shouldn&#39;t have taken off my tin foil hat.](http://9gag.com/gag/a7qzEnw)
+ - 😝 [Read 4 surprise](http://9gag.com/gag/aME3E66)
+ - 💣 [Using W-hole grain bread](http://9gag.com/gag/aREYXr7)
  - 😝 [`Riding instructor` indeed.](http://9gag.com/gag/a2Kn7Q9)
- - 👉 [What kind of monster walked on the ice in here?](http://9gag.com/gag/aWGwxNn)<!-- MEMES:END -->
+ - 👉 [I is afraid to ask](http://9gag.com/gag/awZ6M6y)<!-- MEMES:END -->
 
 ---
 

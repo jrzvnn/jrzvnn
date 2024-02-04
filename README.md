@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to shut down and restart the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shut-down-and-restart-the-apple-vision-pro?utm_medium=rss)
  - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)
  - [Arsenal vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [What Your Eyes Can Show You About Heart Health and Chronic Disease     - CNET](https://www.cnet.com/health/personal-care/what-your-eyes-can-show-you-about-heart-health-and-chronic-disease/#ftag=CAD590a51e)
- - [How social media is forcing writers and artists to build personal brands and become influencers, making many artists uncomfortable and feel like sellouts &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/240204/p7#a240204p7)
- - [12 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
+ - [How social media is forcing writers and artists to build personal brands and become influencers, making many artists uncomfortable and feel like sellouts &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/240204/p7#a240204p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

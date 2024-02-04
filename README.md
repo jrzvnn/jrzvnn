@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
  - [How to delete apps from the Apple Vision Pro](https://appleinsider.com/articles/24/02/04/how-to-delete-apps-from-the-apple-vision-pro?utm_medium=rss)
  - [Get Updated on the Latest Flight Deals With Matt&#39;s Flights Premium for Just $90     - CNET](https://www.cnet.com/deals/get-updated-on-the-latest-flight-deals-with-matts-flights-premium-for-just-90/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Alabama     - CNET](https://www.cnet.com/home/energy-and-utilities/alabama-solar-panels/#ftag=CAD590a51e)
- - [A Hong Kong-based firm&#39;s employee was tricked into paying $25M to fraudsters who used deepfake tech to pose as the company&#39;s CFO and staff during a video call &lpar;CNN&rpar;](http://www.techmeme.com/240204/p9#a240204p9)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Alabama     - CNET](https://www.cnet.com/home/energy-and-utilities/alabama-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

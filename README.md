@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Two thefts from Berkeley Apple Store in 24 hours](https://appleinsider.com/articles/24/02/04/crime-blotter-two-thefts-from-berkeley-apple-store-in-24-hours?utm_medium=rss)
- - [Hallmark Channel: Watch the Valentine&#39;s Day Lineup Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/hallmark-channel-watch-valentines-day-lineup-without-cable/#ftag=CAD590a51e)
- - [2024 Tax Brackets: Here&#39;s Why Your Paycheck May Be Bigger This Year     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-heres-why-your-paycheck-may-be-bigger-this-year/#ftag=CAD590a51e)
- - [Stanley Tumblers: The Gift Your Valentine Really Wants     - CNET](https://www.cnet.com/deals/stanley-tumblers-the-gift-your-valentine-really-wants/#ftag=CAD590a51e)
- - [&#39;Curb Your Enthusiasm&#39;: How to Watch Season 12 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/curb-your-enthusiasm-how-to-watch-season-12-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How social media is forcing writers and artists to build personal brands and become influencers, making many artists uncomfortable and feel like sellouts &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/240204/p7#a240204p7)
+ - [12 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [How to Guarantee the Safety of Autonomous Vehicles](https://www.wired.com/story/how-to-guarantee-the-safety-of-autonomous-vehicles-driverless-cars-ai-waymo-cruise-robotaxi-tesla/)
+ - [How we all get news now](https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter)
+ - [Crime blotter: Two thefts from Berkeley Apple Store in 24 hours](https://appleinsider.com/articles/24/02/04/crime-blotter-two-thefts-from-berkeley-apple-store-in-24-hours?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,8 +173,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
  - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
  - 💣 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
- - 😝 [It&#39;s getting worse](http://9gag.com/gag/aDYEZ6G)
- - 👉 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)<!-- MEMES:END -->
+ - 😝 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
 
 ---
 

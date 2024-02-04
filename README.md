@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Hong Kong-based firm&#39;s employee was tricked into paying $25M to fraudsters who used deepfake tech to pose as the company&#39;s CFO and staff during a video call &lpar;CNN&rpar;](http://www.techmeme.com/240204/p9#a240204p9)
+ - [Snag This Lifetime Subscription to Rosetta Stone for Just $190     - CNET](https://www.cnet.com/deals/snag-this-lifetime-subscription-to-rosetta-stone-for-just-190/#ftag=CAD590a51e)
+ - [Awesome Amazon Deals This Weekend: Save Big on Apple&#39;s AirPods 2, Amazon&#39;s Omni TV, Eugy L60 and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-save-big-on-apples-airpods-2-amazons-omni-tv-eugy-l60-and-more/#ftag=CAD590a51e)
  - [A look at the dispute between Bitcoin miners in Arkansas and residents, who say the noise is ruining lives, lowering property values, and driving away wildlife &lpar;Gabriel J.X. Dance/New York Times&rpar;](http://www.techmeme.com/240204/p8#a240204p8)
- - [How to shut down and restart the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shut-down-and-restart-the-apple-vision-pro?utm_medium=rss)
- - [Get Your 2024 Tax Refund Quicker When You Do This     - CNET](https://www.cnet.com/personal-finance/taxes/get-your-2024-tax-refund-quicker-when-you-do-this/#ftag=CAD590a51e)
- - [Try These Expert-Approved Exercises to Stay Healthy as You Age     - CNET](https://www.cnet.com/health/fitness/try-these-expert-approved-exercises-to-stay-healthy-as-you-age/#ftag=CAD590a51e)
- - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)<!-- TECH:END -->
+ - [Be One of the First to Try the Apple Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-the-apple-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

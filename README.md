@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [[No title]](http://9gag.com/gag/aPgKm4K)
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 💣 [How to kebab](http://9gag.com/gag/avQ3W3q)
- - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
- - 👉 [They spoke the same language](http://9gag.com/gag/ajVo7bg)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 💣 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 💣 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
  - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 💣 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 😝 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
- - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
+ - 👉 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/a3ZVAgv)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
  - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
- - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)<!-- MEMES:END -->
+ - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
+ - 👉 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)<!-- MEMES:END -->
 
 ---
 

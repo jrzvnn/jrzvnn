@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
+ - 💣 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
  - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 👉 [I like pancakes](http://9gag.com/gag/a4oD69w)<!-- MEMES:END -->
+ - 👉 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)<!-- MEMES:END -->
 
 ---
 

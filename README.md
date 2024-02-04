@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 😝 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
- - 💣 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
  - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)<!-- MEMES:END -->
+ - 👉 [I like pancakes](http://9gag.com/gag/a4oD69w)<!-- MEMES:END -->
 
 ---
 

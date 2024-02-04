@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
  - 😝 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 💣 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
- - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
- - 👉 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)<!-- MEMES:END -->
+ - 💣 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 👉 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)<!-- MEMES:END -->
 
 ---
 

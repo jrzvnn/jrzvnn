@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
- - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 💣 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 😝 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)
- - 👉 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)<!-- MEMES:END -->
+ - 😝 [How to kebab](http://9gag.com/gag/avQ3W3q)
+ - 😝 [They spoke the same language](http://9gag.com/gag/ajVo7bg)
+ - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 👉 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Two thefts from Berkeley Apple Store in 24 hours](https://appleinsider.com/articles/24/02/04/crime-blotter-two-thefts-from-berkeley-apple-store-in-24-hours?utm_medium=rss)
  - [The Apple Vision Pro’s Killer App Is … Kitchen Timers](https://www.wired.com/story/apple-vision-pro-boils-down-to-kitchen-timers-and-thats-a-problem/)
  - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
  - [Man United vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [This Online Bank Is Offering Free Tax Filing for Customers     - CNET](https://www.cnet.com/personal-finance/taxes/this-online-bank-is-offering-free-tax-filing-for-its-customers/#ftag=CAD590a51e)
- - [TechCrunch+&#39;s founding editor about its launch to complement TechCrunch&#39;s ads and events revenue and its failure due to issues with finding business reporters &lpar;Danny Crichton/Securities&rpar;](http://www.techmeme.com/240204/p6#a240204p6)<!-- TECH:END -->
+ - [This Online Bank Is Offering Free Tax Filing for Customers     - CNET](https://www.cnet.com/personal-finance/taxes/this-online-bank-is-offering-free-tax-filing-for-its-customers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

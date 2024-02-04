@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
- - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 👉 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ajVo1xg)
+ - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
+ - 💣 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)
+ - 😝 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)
+ - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
 
 ---
 

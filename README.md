@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ajVo1xg)
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
  - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
  - 💣 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)
  - 😝 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)

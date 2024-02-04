@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chopsticks battle](http://9gag.com/gag/a9q9vj6)
- - 😝 [How to kebab](http://9gag.com/gag/avQ3W3q)
- - 💣 [They spoke the same language](http://9gag.com/gag/ajVo7bg)
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
  - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 👉 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)<!-- MEMES:END -->
+ - 👉 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)<!-- MEMES:END -->
 
 ---
 

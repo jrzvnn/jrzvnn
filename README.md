@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro can be used in public, but mind your manners](https://appleinsider.com/articles/24/02/04/apple-vision-pro-can-be-used-in-public-but-mind-your-manners?utm_medium=rss)
  - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)
  - [Apple open sources Pkl, a configuration-as-code language with rich validation and tooling, with Swift, Go, Java, and Kotlin integration &lpar;Pkl Blog&rpar;](http://www.techmeme.com/240203/p14#a240203p14)
  - [The Apple Vision Pro has already been hacked](https://appleinsider.com/articles/24/02/03/the-apple-vision-pro-has-already-been-hacked?utm_medium=rss)
- - [iFixit pulls the Vision Pro apart, exposing its connectors, screens, and fans](https://www.theverge.com/2024/2/3/24059966/ifixit-apple-vision-pro-teardown-video)
- - [Interview with Phil Schiller about Apple&#39;s efforts to minimize potential risks that third-party app stores, mandated by EU&#39;s DMA, may expose iPhone users to &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/240203/p13#a240203p13)<!-- TECH:END -->
+ - [iFixit pulls the Vision Pro apart, exposing its connectors, screens, and fans](https://www.theverge.com/2024/2/3/24059966/ifixit-apple-vision-pro-teardown-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

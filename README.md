@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ticket jumper](http://9gag.com/gag/aDYE62d)
  - 😝 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 💣 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 💣 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
  - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
- - 👉 [Old but gold](http://9gag.com/gag/a7qzO1q)<!-- MEMES:END -->
+ - 👉 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)<!-- MEMES:END -->
 
 ---
 

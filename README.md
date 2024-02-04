@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab New and Used Gaming Laptops in This Massive Woot Sale     - CNET](https://www.cnet.com/deals/grab-new-and-used-gaming-laptops-in-this-massive-woot-sale/#ftag=CAD590a51e)
  - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)
+ - [Best Men&#39;s Walking Shoes in 2024     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-men/#ftag=CAD590a51e)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [How to delete apps from the Apple Vision Pro](https://appleinsider.com/articles/24/02/04/how-to-delete-apps-from-the-apple-vision-pro?utm_medium=rss)
- - [Get Updated on the Latest Flight Deals With Matt&#39;s Flights Premium for Just $90     - CNET](https://www.cnet.com/deals/get-updated-on-the-latest-flight-deals-with-matts-flights-premium-for-just-90/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Alabama     - CNET](https://www.cnet.com/home/energy-and-utilities/alabama-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Deals: Save Up to $150 on iPad Air, iPad Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

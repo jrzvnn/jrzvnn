@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)
- - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
- - 💣 [Imagine your math professor teaching this lesson...](http://9gag.com/gag/a8qB0KO)
- - 😝 [It&#39;s true](http://9gag.com/gag/a3ZVyB3)
- - 👉 [Who was Abdul Shakoor Ezedi the asylum seeker who acid attacked several people?](http://9gag.com/gag/aeQvZNv)<!-- MEMES:END -->
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
+ - 💣 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 👉 [To be undercover](http://9gag.com/gag/aEqLVAM)<!-- MEMES:END -->
 
 ---
 

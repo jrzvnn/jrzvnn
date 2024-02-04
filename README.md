@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [[No title]](http://9gag.com/gag/aPgKm4K)
  - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Stop the Car!](http://9gag.com/gag/aDYE7j9)
- - 💣 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 👉 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)<!-- MEMES:END -->
+ - 💣 [How to kebab](http://9gag.com/gag/avQ3W3q)
+ - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
+ - 👉 [They spoke the same language](http://9gag.com/gag/ajVo7bg)<!-- MEMES:END -->
 
 ---
 

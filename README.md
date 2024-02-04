@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick up women](http://9gag.com/gag/aGEWn3K)
+ - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
  - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
- - 👉 [Real JOB](http://9gag.com/gag/ajVoOjp)<!-- MEMES:END -->
+ - 💣 [The future is here](http://9gag.com/gag/ajVoLEg)
+ - 😝 [Real JOB](http://9gag.com/gag/ajVoOjp)
+ - 👉 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)<!-- MEMES:END -->
 
 ---
 

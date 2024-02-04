@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)
  - [Grab New and Used Gaming Laptops in This Massive Woot Sale     - CNET](https://www.cnet.com/deals/grab-new-and-used-gaming-laptops-in-this-massive-woot-sale/#ftag=CAD590a51e)
  - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)
  - [Best Men&#39;s Walking Shoes in 2024     - CNET](https://www.cnet.com/health/fitness/best-walking-shoes-for-men/#ftag=CAD590a51e)
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Best iPad Deals: Save Up to $150 on iPad Air, iPad Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Updated on the Latest Flight Deals With Matt&#39;s Flights Premium for Just $90     - CNET](https://www.cnet.com/deals/get-updated-on-the-latest-flight-deals-with-matts-flights-premium-for-just-90/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Alabama     - CNET](https://www.cnet.com/home/energy-and-utilities/alabama-solar-panels/#ftag=CAD590a51e)
  - [A Hong Kong-based firm&#39;s employee was tricked into paying $25M to fraudsters who used deepfake tech to pose as the company&#39;s CFO and staff during a video call &lpar;CNN&rpar;](http://www.techmeme.com/240204/p9#a240204p9)
- - [Snag This Lifetime Subscription to Rosetta Stone for Just $190     - CNET](https://www.cnet.com/deals/snag-this-lifetime-subscription-to-rosetta-stone-for-just-190/#ftag=CAD590a51e)
- - [Awesome Amazon Deals This Weekend: Save Big on Apple&#39;s AirPods 2, Amazon&#39;s Omni TV, Eugy L60 and More     - CNET](https://www.cnet.com/deals/awesome-amazon-deals-this-weekend-save-big-on-apples-airpods-2-amazons-omni-tv-eugy-l60-and-more/#ftag=CAD590a51e)
- - [A look at the dispute between Bitcoin miners in Arkansas and residents, who say the noise is ruining lives, lowering property values, and driving away wildlife &lpar;Gabriel J.X. Dance/New York Times&rpar;](http://www.techmeme.com/240204/p8#a240204p8)
- - [Be One of the First to Try the Apple Vision Pro Headset This Week. How to Book a Demo     - CNET](https://www.cnet.com/tech/computing/be-one-of-the-first-to-try-the-apple-vision-pro-headset-this-week-how-to-book-a-demo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Determine What Time of Day You Should Exercise     - CNET](https://www.cnet.com/health/fitness/heres-how-to-determine-what-time-of-day-you-should-exercise/#ftag=CAD590a51e)
+ - [Snag This Lifetime Subscription to Rosetta Stone for Just $190     - CNET](https://www.cnet.com/deals/snag-this-lifetime-subscription-to-rosetta-stone-for-just-190/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

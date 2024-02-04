@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the dispute between Bitcoin miners in Arkansas and residents, who say the noise is ruining lives, lowering property values, and driving away wildlife &lpar;Gabriel J.X. Dance/New York Times&rpar;](http://www.techmeme.com/240204/p8#a240204p8)
  - [How to shut down and restart the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-shut-down-and-restart-the-apple-vision-pro?utm_medium=rss)
- - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)
- - [Arsenal vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [What Your Eyes Can Show You About Heart Health and Chronic Disease     - CNET](https://www.cnet.com/health/personal-care/what-your-eyes-can-show-you-about-heart-health-and-chronic-disease/#ftag=CAD590a51e)
- - [How social media is forcing writers and artists to build personal brands and become influencers, making many artists uncomfortable and feel like sellouts &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/240204/p7#a240204p7)<!-- TECH:END -->
+ - [Get Your 2024 Tax Refund Quicker When You Do This     - CNET](https://www.cnet.com/personal-finance/taxes/get-your-2024-tax-refund-quicker-when-you-do-this/#ftag=CAD590a51e)
+ - [Try These Expert-Approved Exercises to Stay Healthy as You Age     - CNET](https://www.cnet.com/health/fitness/try-these-expert-approved-exercises-to-stay-healthy-as-you-age/#ftag=CAD590a51e)
+ - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

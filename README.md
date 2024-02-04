@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Lose the COLA Letter You Received in December 2023. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-the-cola-letter-you-received-in-december-2023-heres-why/#ftag=CAD590a51e)
  - [Best Windows Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
  - [Amid mass tech layoffs, some workers with years of experience or deep technical expertise are having trouble getting hired again while some seek non-tech jobs &lpar;Washington Post&rpar;](http://www.techmeme.com/240204/p5#a240204p5)
  - [A look at the decline of Quora, which used to stand out as an accuracy-focused, knowledge-centric platform but is now filled with bizarre, AI-generated entries &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240204/p4#a240204p4)
- - [Investment in AI remained a dominant theme in tech earnings calls, with AI models that clients can customize according to their needs a key priority &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240204/p3#a240204p3)<!-- TECH:END -->
+ - [Investment in AI remained a dominant theme in tech earnings calls, with AI models that clients can customize according to their needs a key priority &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240204/p3#a240204p3)
+ - [Rivals say Neuralink&#39;s brain implant tech isn&#39;t unique or novel, but acknowledge that Elon Musk&#39;s attention grabbing has propelled the field closer to reality &lpar;Financial Times&rpar;](http://www.techmeme.com/240204/p2#a240204p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

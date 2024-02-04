@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amid mass tech layoffs, some workers with years of experience or deep technical expertise are having trouble getting hired again while some seek non-tech jobs &lpar;Washington Post&rpar;](http://www.techmeme.com/240204/p5#a240204p5)
  - [A look at the decline of Quora, which used to stand out as an accuracy-focused, knowledge-centric platform but is now filled with bizarre, AI-generated entries &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240204/p4#a240204p4)
  - [Investment in AI remained a dominant theme in tech earnings calls, with AI models that clients can customize according to their needs a key priority &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240204/p3#a240204p3)
  - [Rivals say Neuralink&#39;s brain implant tech isn&#39;t unique or novel, but acknowledge that Elon Musk&#39;s attention grabbing has propelled the field closer to reality &lpar;Financial Times&rpar;](http://www.techmeme.com/240204/p2#a240204p2)
- - [Sources: some Tesla and SpaceX directors have consumed drugs with Elon Musk feeling there is an expectation to do so, raising concerns about their independence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240204/p1#a240204p1)
- - [Watershed, which provides software that helps companies track and reduce their greenhouse gas emissions, raised a $100M Series C at a $1.8B valuation &lpar;Eric Roston/Bloomberg&rpar;](http://www.techmeme.com/240203/p16#a240203p16)<!-- TECH:END -->
+ - [Sources: some Tesla and SpaceX directors have consumed drugs with Elon Musk feeling there is an expectation to do so, raising concerns about their independence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240204/p1#a240204p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

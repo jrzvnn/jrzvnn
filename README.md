@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: some Tesla and SpaceX directors have consumed drugs with Elon Musk feeling there is an expectation to do so, raising concerns about their independence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240204/p1#a240204p1)
  - [Watershed, which provides software that helps companies track and reduce their greenhouse gas emissions, raised a $100M Series C at a $1.8B valuation &lpar;Eric Roston/Bloomberg&rpar;](http://www.techmeme.com/240203/p16#a240203p16)
  - [Apple Vision Pro teardown: not great repairability-wise, an unforgivable proprietary battery plug, and a lenticular lens layer that makes EyeSight look blurry &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240203/p15#a240203p15)
  - [Apple Vision Pro can be used in public, but mind your manners](https://appleinsider.com/articles/24/02/04/apple-vision-pro-can-be-used-in-public-but-mind-your-manners?utm_medium=rss)
- - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)
- - [Apple open sources Pkl, a configuration-as-code language with rich validation and tooling, with Swift, Go, Java, and Kotlin integration &lpar;Pkl Blog&rpar;](http://www.techmeme.com/240203/p14#a240203p14)<!-- TECH:END -->
+ - [First teardown shows complex insides of Apple Vision Pro](https://appleinsider.com/articles/24/02/03/first-teardown-shows-complex-insides-of-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

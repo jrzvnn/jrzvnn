@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
- - 💣 [France again, 3 stabbed.](http://9gag.com/gag/a9q96Dm)
- - 😝 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)
- - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
+ - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 👉 [Old but gold](http://9gag.com/gag/a7qzO1q)<!-- MEMES:END -->
 
 ---
 

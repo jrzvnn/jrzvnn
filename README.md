@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 💣 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
+ - 😝 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 💣 [What the actual f**k. \u201cWe\u2019re here to help\u201d. Ends up in Handcuffs seconds later for absolutely no reason](http://9gag.com/gag/armjWMK)
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 👉 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)<!-- MEMES:END -->
 
 ---
 

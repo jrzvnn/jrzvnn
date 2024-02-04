@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [I like pancakes](http://9gag.com/gag/a4oD69w)<!-- MEMES:END -->
+ - 😝 [How to pick up women](http://9gag.com/gag/aGEWn3K)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 💣 [Marriage](http://9gag.com/gag/aPgKPLK)
+ - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
+ - 👉 [Real JOB](http://9gag.com/gag/ajVoOjp)<!-- MEMES:END -->
 
 ---
 

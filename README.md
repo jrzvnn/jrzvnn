@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft weighs launching Indiana Jones on the PS5](https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release)
  - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)
  - [How to get started using Optic ID for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-get-started-using-optic-id-for-apple-vision-pro?utm_medium=rss)
  - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)
- - [Grab New and Used Gaming Laptops in This Massive Woot Sale     - CNET](https://www.cnet.com/deals/grab-new-and-used-gaming-laptops-in-this-massive-woot-sale/#ftag=CAD590a51e)
- - [Threads is a gripping, miserable experience](https://www.theverge.com/24060504/threads-review-a-miserable-experience)<!-- TECH:END -->
+ - [Grab New and Used Gaming Laptops in This Massive Woot Sale     - CNET](https://www.cnet.com/deals/grab-new-and-used-gaming-laptops-in-this-massive-woot-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

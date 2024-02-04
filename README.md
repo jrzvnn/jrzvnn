@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Smart Bulbs &lpar;2024&rpar;: Lamp Bulbs, Ambient, Color, Etc](https://www.wired.com/gallery/best-smart-bulbs/)
+ - [Arsenal vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [What Your Eyes Can Show You About Heart Health and Chronic Disease     - CNET](https://www.cnet.com/health/personal-care/what-your-eyes-can-show-you-about-heart-health-and-chronic-disease/#ftag=CAD590a51e)
  - [How social media is forcing writers and artists to build personal brands and become influencers, making many artists uncomfortable and feel like sellouts &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/240204/p7#a240204p7)
- - [12 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [How to Guarantee the Safety of Autonomous Vehicles](https://www.wired.com/story/how-to-guarantee-the-safety-of-autonomous-vehicles-driverless-cars-ai-waymo-cruise-robotaxi-tesla/)
- - [How we all get news now](https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter)
- - [Crime blotter: Two thefts from Berkeley Apple Store in 24 hours](https://appleinsider.com/articles/24/02/04/crime-blotter-two-thefts-from-berkeley-apple-store-in-24-hours?utm_medium=rss)<!-- TECH:END -->
+ - [12 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

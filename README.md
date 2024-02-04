@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
+ - 💣 [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 ---
 

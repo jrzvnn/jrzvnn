@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to kebab](http://9gag.com/gag/avQ3W3q)
- - 😝 [They spoke the same language](http://9gag.com/gag/ajVo7bg)
- - 💣 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
- - 👉 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/a3ZVAgv)
+ - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
+ - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 👉 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)<!-- MEMES:END -->
 
 ---
 

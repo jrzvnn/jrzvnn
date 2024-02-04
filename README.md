@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 💣 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)<!-- MEMES:END -->
+ - 😝 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)
+ - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
+ - 💣 [Imagine your math professor teaching this lesson...](http://9gag.com/gag/a8qB0KO)
+ - 😝 [It&#39;s true](http://9gag.com/gag/a3ZVyB3)
+ - 👉 [Who was Abdul Shakoor Ezedi the asylum seeker who acid attacked several people?](http://9gag.com/gag/aeQvZNv)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need help with the sauce. Only got mid 1970s](http://9gag.com/gag/abv9gjO)
+ - 😝 [Teacher in Korea](http://9gag.com/gag/avQ3AXM)
  - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
- - 💣 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
+ - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 👉 [I like pancakes](http://9gag.com/gag/a4oD69w)<!-- MEMES:END -->
 
 ---
 

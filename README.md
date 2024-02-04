@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
  - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 💣 [The future is here](http://9gag.com/gag/ajVoLEg)
- - 😝 [Real JOB](http://9gag.com/gag/ajVoOjp)
+ - 😝 [Imagine your math professor teaching this lesson...](http://9gag.com/gag/a8qB0KO)
+ - 💣 [Real JOB](http://9gag.com/gag/ajVoOjp)
+ - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
  - 👉 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)<!-- MEMES:END -->
 
 ---

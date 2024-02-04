@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: Two thefts from Berkeley Apple Store in 24 hours](https://appleinsider.com/articles/24/02/04/crime-blotter-two-thefts-from-berkeley-apple-store-in-24-hours?utm_medium=rss)
- - [The Apple Vision Pro’s Killer App Is … Kitchen Timers](https://www.wired.com/story/apple-vision-pro-boils-down-to-kitchen-timers-and-thats-a-problem/)
- - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
- - [Man United vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [This Online Bank Is Offering Free Tax Filing for Customers     - CNET](https://www.cnet.com/personal-finance/taxes/this-online-bank-is-offering-free-tax-filing-for-its-customers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hallmark Channel: Watch the Valentine&#39;s Day Lineup Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/hallmark-channel-watch-valentines-day-lineup-without-cable/#ftag=CAD590a51e)
+ - [2024 Tax Brackets: Here&#39;s Why Your Paycheck May Be Bigger This Year     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-brackets-heres-why-your-paycheck-may-be-bigger-this-year/#ftag=CAD590a51e)
+ - [Stanley Tumblers: The Gift Your Valentine Really Wants     - CNET](https://www.cnet.com/deals/stanley-tumblers-the-gift-your-valentine-really-wants/#ftag=CAD590a51e)
+ - [&#39;Curb Your Enthusiasm&#39;: How to Watch Season 12 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/curb-your-enthusiasm-how-to-watch-season-12-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

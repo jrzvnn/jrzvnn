@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
+ - 😝 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
  - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 💣 [Taking a selfie with an oncoming train](http://9gag.com/gag/a5X8VZq)
- - 😝 [`cant you just say you are chinese so we can arrest you?` -tom](http://9gag.com/gag/aEqLqoM)
- - 👉 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)<!-- MEMES:END -->
+ - 👉 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)<!-- MEMES:END -->
 
 ---
 

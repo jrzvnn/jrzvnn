@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
  - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 😝 [Imagine your math professor teaching this lesson...](http://9gag.com/gag/a8qB0KO)
- - 💣 [Real JOB](http://9gag.com/gag/ajVoOjp)
- - 😝 [The future is here](http://9gag.com/gag/ajVoLEg)
- - 👉 [Men are shamed for their preferences, women are not](http://9gag.com/gag/a2Kn8v1)<!-- MEMES:END -->
+ - 👉 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
 
 ---
 

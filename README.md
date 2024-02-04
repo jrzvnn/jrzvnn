@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $1,800 on Sonos speakers &amp; TVs ahead of Super Bowl Sunday](https://appleinsider.com/articles/24/02/04/save-up-to-1800-on-sonos-speakers-tvs-ahead-of-super-bowl-sunday?utm_medium=rss)
  - [Microsoft weighs launching Indiana Jones on the PS5](https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release)
  - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)
  - [How to get started using Optic ID for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-get-started-using-optic-id-for-apple-vision-pro?utm_medium=rss)
- - [The 8 Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)
- - [US police departments are using AI software from Chicago-based Truleo and other companies to analyze millions of hours of unreviewed body-cam footage &lpar;Umar Farooq/ProPublica&rpar;](http://www.techmeme.com/240204/p10#a240204p10)<!-- TECH:END -->
+ - [The 8 Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

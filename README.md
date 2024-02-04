@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TechCrunch+&#39;s founding editor about its launch to complement TechCrunch&#39;s ads and events revenue and its failure due to issues with finding business reporters &lpar;Danny Crichton/Securities&rpar;](http://www.techmeme.com/240204/p6#a240204p6)
  - [Don&#39;t Lose the COLA Letter You Received in December 2023. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-the-cola-letter-you-received-in-december-2023-heres-why/#ftag=CAD590a51e)
  - [Best Windows Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
  - [Amid mass tech layoffs, some workers with years of experience or deep technical expertise are having trouble getting hired again while some seek non-tech jobs &lpar;Washington Post&rpar;](http://www.techmeme.com/240204/p5#a240204p5)
- - [A look at the decline of Quora, which used to stand out as an accuracy-focused, knowledge-centric platform but is now filled with bizarre, AI-generated entries &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240204/p4#a240204p4)
- - [Investment in AI remained a dominant theme in tech earnings calls, with AI models that clients can customize according to their needs a key priority &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240204/p3#a240204p3)<!-- TECH:END -->
+ - [A look at the decline of Quora, which used to stand out as an accuracy-focused, knowledge-centric platform but is now filled with bizarre, AI-generated entries &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240204/p4#a240204p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

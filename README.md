@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 😝 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
  - 😝 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
- - 👉 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)<!-- MEMES:END -->
+ - 😝 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---
 

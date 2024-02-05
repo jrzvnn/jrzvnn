@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Has Lost Its Range Crown to a Chinese EV You’ve Never Heard Of](https://www.wired.com/story/tesla-hiphi-ev-range-crown/)
- - [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video)
- - [Apple launches 2024 Swift Student Challenge with an Apple Park trip prize](https://appleinsider.com/articles/24/02/05/apple-launches-2024-swift-student-challenge-with-an-apple-park-trip-prize?utm_medium=rss)
- - [Going Outside? Check the New Features in the Weather Channel App First     - CNET](https://www.cnet.com/tech/services-and-software/going-outside-check-the-new-features-in-the-weather-channel-app-first/#ftag=CAD590a51e)
- - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)<!-- TECH:END -->
+ - [Meta announced it&#39;s deprecating its Facebook Groups API, and developers say doing so will greatly impact companies offering tools to schedule and automate posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240205/p23#a240205p23)
+ - [Looks like YouTube will make an Apple Vision Pro app after all](https://appleinsider.com/articles/24/02/05/looks-like-youtube-will-make-an-apple-vision-pro-app-after-all?utm_medium=rss)
+ - [A look at the legal challenges of defining and prosecuting virtual crimes, amid rising reports of attacks, harassment, and sexual assault in the metaverse &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240205/p22#a240205p22)
+ - [Fewer iPhone owners are upgrading to iOS 17 than for the iOS 16 update](https://appleinsider.com/articles/24/02/05/fewer-iphone-owners-are-upgrading-to-ios-17-than-for-the-ios-16-update?utm_medium=rss)
+ - [Tesla Has Lost Its Range Crown to a Chinese EV You’ve Never Heard Of](https://www.wired.com/story/tesla-hiphi-ev-range-crown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

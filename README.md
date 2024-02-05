@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s epic limited-edition Parisian Street and Mountain Fortress are about to go on sale](https://www.theverge.com/2024/2/5/24062447/lego-bricklink-designer-program-series-1)
  - [How to take screenshots and screen recordings of the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-take-screenshots-and-screen-recordings-of-the-apple-vision-pro?utm_medium=rss)
- - [PlayStation Plus Deals: Shop at Sony for Direct Buys     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Block Knife Set     - CNET](https://www.cnet.com/news/block-knife-set-dpnl/#ftag=CAD590a51e)
  - [YouTube says a &quot;Vision Pro app is on our roadmap&quot; but doesn&#39;t offer a timeframe; YouTube videos in 360 and VR playback modes are not viewable in visionOS Safari &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240205/p24#a240205p24)
- - [Microsoft to share details on bringing Xbox games to PlayStation next week](https://www.theverge.com/2024/2/5/24062058/microsoft-xbox-playstation-games-announcement)<!-- TECH:END -->
+ - [Microsoft to share details on bringing Xbox games to PlayStation next week](https://www.theverge.com/2024/2/5/24062058/microsoft-xbox-playstation-games-announcement)
+ - [Meta announced it&#39;s deprecating its Facebook Groups API, and developers say doing so will greatly impact companies offering tools to schedule and automate posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240205/p23#a240205p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

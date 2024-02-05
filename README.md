@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s kitchen-friendly Echo Show 15 is going for $80 off right now](https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale)
+ - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)
  - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
- - [7 Best Valentine&#39;s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
- - [How researchers used AI to read the Herculaneum papyri, charred in 79 AD by Mount Vesuvius&#39; eruption, potentially rewriting key parts of ancient world history &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p20#a240205p20)
- - [How to enable WebXR support on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-enable-webxr-support-on-apple-vision-pro?utm_medium=rss)
- - [1Password is down, preventing some users from logging in](https://www.theverge.com/2024/2/5/24062278/1password-down-outage-password-manager-sign-in)<!-- TECH:END -->
+ - [7 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
+ - [How researchers used AI to read the Herculaneum papyri, charred in 79 AD by Mount Vesuvius&#39; eruption, potentially rewriting key parts of ancient world history &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p20#a240205p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

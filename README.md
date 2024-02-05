@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 😝 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)
- - 💣 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 💣 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s interest in the &quot;geopolitically neutral&quot; RISC-V open-source chip architecture, as US sanctions put the top x86 and ARM chips out of reach &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240204/p12#a240204p12)
  - [A look at UMG&#39;s TikTok retreat, stemming from issues like low payouts and a lack of assurances on fighting deepfakes, and TikTok&#39;s role in the music industry &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240204/p11#a240204p11)
  - [MacBook Air, MacBook Pro, iMac, Mac Studio: top Mac rumors &amp; 2024 timeline](https://appleinsider.com/articles/24/02/05/macbook-air-macbook-pro-imac-mac-studio-top-mac-rumors-2024-timeline?utm_medium=rss)
  - [Save up to $1,800 on Sonos speakers &amp; TVs ahead of Super Bowl Sunday](https://appleinsider.com/articles/24/02/04/save-up-to-1800-on-sonos-speakers-tvs-ahead-of-super-bowl-sunday?utm_medium=rss)
- - [Microsoft weighs launching Indiana Jones on the PS5](https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release)
- - [Apple &#39;renaissance&#39; inbound after Vision Pro launch success](https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft weighs launching Indiana Jones on the PS5](https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

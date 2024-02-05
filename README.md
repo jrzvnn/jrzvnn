@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)
+ - [Cloud native container management platform Weaveworks, which raised over $61M, shuts down after facing uneven sales and failing to get acquired &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240205/p21#a240205p21)
  - [TikTok’s fallout with Universal Music Group is ruining viral trends and thirsty fancams](https://www.theverge.com/2024/2/5/24062260/tiktok-universal-music-group-audio-removal-ruining-viral-trends-thirst-edits)
- - [Amazon’s kitchen-friendly Echo Show 15 is going for $80 off right now](https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale)
- - [Semafor reporters are going to curate the news with AI](https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft)
- - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
- - [7 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)<!-- TECH:END -->
+ - [What Type of Solar Panels Should You Get?     - CNET](https://www.cnet.com/home/energy-and-utilities/types-of-solar-panels/#ftag=CAD590a51e)
+ - [Best Sonos Deals: Save on Move, Roam, Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

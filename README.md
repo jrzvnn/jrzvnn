@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tax Season 2024: The Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-the-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
+ - [Tax Season 2024: What You Need to Know About All the Tax Filing Deadlines This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-what-you-need-to-know-about-all-the-tax-filing-deadlines-this-year/#ftag=CAD590a51e)
+ - [Homeowner Tax Breaks: All the Ways Your House Can Boost Your 2024 Tax Refund     - CNET](https://www.cnet.com/personal-finance/taxes/homeowner-tax-breaks-all-the-ways-your-house-can-boost-your-2024-tax-refund/#ftag=CAD590a51e)
  - [Q&amp;A with Andrew Farnsworth, a Cornell Lab of Ornithology scientist, about BirdCast, a project that uses AI to process weather data and predict how birds migrate &lpar;Malena Carollo/The Markup&rpar;](http://www.techmeme.com/240205/p3#a240205p3)
- - [Yandex plans to sell its entire Russian business, including its popular search engine, to a group led by Yandex management in a deal valued at about $5.2B &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/240205/p2#a240205p2)
- - [A Seoul court acquits Samsung Executive Chairman Jay Y. Lee of stock manipulation charges, removing the threat of a jail time for the billionaire &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p1#a240205p1)
- - [Grab an M2 MacBook Pro for just $1,579 today only](https://appleinsider.com/articles/24/02/05/grab-an-m2-macbook-pro-for-just-1579-today-only?utm_medium=rss)
- - [Bambu Lab is recalling every A1 3D printer — don’t use them until you read this](https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage)<!-- TECH:END -->
+ - [Tax Season 2024: When Will I Receive My Tax Refund from the IRS? How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-when-will-i-receive-my-tax-refund-from-the-irs-how-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

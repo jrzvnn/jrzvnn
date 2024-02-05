@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which Bluetooth devices you can use with Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/which-bluetooth-devices-you-can-use-with-apple-vision-pro?utm_medium=rss)
+ - [Amazon bails on Roomba, homeOS possibilities, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/24/02/05/amazon-bails-on-roomba-homeos-possibilities-more-smart-home-news-on-homekit-insider?utm_medium=rss)
  - [Snap is cutting 10 percent of its staff](https://www.theverge.com/2024/2/5/24062044/snap-layoffs-10-percent-staff-snapchat)
  - [Oobit, which lets consumers pay using crypto while merchants receive fiat currency, raised a $25M Series A led by the investment arm of Tether and others &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/240205/p15#a240205p15)
- - [Apple Music gearing up for Super Bowl Halftime show with new Usher interview, Fitness+ spotlight, and more](https://appleinsider.com/articles/24/02/05/apple-music-gearing-up-for-super-bowl-halftime-show-with-new-usher-interview-fitness-spotlight-and-more?utm_medium=rss)
- - [Graphika: the viral pornographic deepfakes of Taylor Swift originated from a 4chan challenge to bypass anti-porn filters on Microsoft Designer and DALL-E &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240205/p14#a240205p14)
- - [Snap plans to lay off 10% of its global workforce, or around 529 employees &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240205/p13#a240205p13)<!-- TECH:END -->
+ - [Apple Music gearing up for Super Bowl Halftime show with new Usher interview, Fitness+ spotlight, and more](https://appleinsider.com/articles/24/02/05/apple-music-gearing-up-for-super-bowl-halftime-show-with-new-usher-interview-fitness-spotlight-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

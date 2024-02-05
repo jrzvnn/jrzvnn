@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 💣 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 👉 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)<!-- MEMES:END -->
+ - 😝 [You don&#39;t say?](http://9gag.com/gag/a6qABXb)
+ - 😝 [Experience exciting](http://9gag.com/gag/aYV2ME7)
+ - 💣 [A redneck home alone game would f**k](http://9gag.com/gag/aA0o2Pd)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [Uber Eats for Cats](http://9gag.com/gag/aVbNZnw)<!-- MEMES:END -->
 
 ---
 

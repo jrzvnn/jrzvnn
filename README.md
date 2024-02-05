@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tooth scanner](http://9gag.com/gag/a6qAnjR)
- - 😝 [Lunch time](http://9gag.com/gag/aYV2EZm)
- - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/armjxQV)
  - 😝 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 👉 [Wonder what they said](http://9gag.com/gag/avQ3xrn)<!-- MEMES:END -->
+ - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
+ - 💣 [WTF](http://9gag.com/gag/aKErv66)
+ - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
+ - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
 
 ---
 

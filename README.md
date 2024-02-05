@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Reddit had over $800M in revenue in 2023, up 20%+ YoY, and was not profitable for the full year but, according to one source, was profitable in Q4 &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240205/p26#a240205p26)
  - [Palantir reports Q4 revenue up 20% YoY to $608.4M, vs. $602.4M est., net income $93.4M, up from $30.9M YoY, and LLM tech saw &quot;unrelenting&quot; demand; PLTR up 14%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240205/p25#a240205p25)
  - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)
  - [Does Your State Have Solar Net Metering?     - CNET](https://www.cnet.com/home/energy-and-utilities/new-to-solar-net-metering-heres-what-you-need-to-know-for-your-state/#ftag=CAD590a51e)
- - [Huawei just retasked a factory to prioritize AI over its bestselling phone](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)
- - [The Trial Over Bitcoin’s True Creator Is in Session](https://www.wired.com/story/craig-wright-bitcoin-satoshi-nakamoto-trial/)<!-- TECH:END -->
+ - [Huawei just retasked a factory to prioritize AI over its bestselling phone](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

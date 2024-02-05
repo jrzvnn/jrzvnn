@@ -161,7 +161,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Gaming CEO Phil Spencer announces an event next week to share &quot;our vision for the future of Xbox&quot;, amid rumors that Xbox-exclusives are coming to PS5 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p27#a240205p27)
+ - [Microsoft Gaming CEO Phil Spencer announces an event next week to share &quot;our vision for the future of Xbox&quot;, amid rumors that Xbox exclusives are coming to PS5 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p27#a240205p27)
  - [Sources: Reddit had over $800M in revenue in 2023, up 20%+ YoY, and was not profitable for the full year but, according to one source, was profitable in Q4 &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240205/p26#a240205p26)
  - [Palantir reports Q4 revenue up 20% YoY to $608.4M, vs. $602.4M est., net income $93.4M, up from $30.9M YoY, and LLM tech saw &quot;unrelenting&quot; demand; PLTR up 14%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240205/p25#a240205p25)
  - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)

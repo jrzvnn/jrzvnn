@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aduh](http://9gag.com/gag/aqeqQAv)
- - 😝 [Many such cases](http://9gag.com/gag/ay2OW5r)
- - 💣 [Sexy Binary, lol](http://9gag.com/gag/aGEWMb0)
- - 😝 [N ice](http://9gag.com/gag/armjXM6)
- - 👉 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)<!-- MEMES:END -->
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 💣 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)
+ - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
+ - 👉 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)<!-- MEMES:END -->
 
 ---
 

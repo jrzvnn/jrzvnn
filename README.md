@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)
+ - [Does Your State Have Solar Net Metering?     - CNET](https://www.cnet.com/home/energy-and-utilities/new-to-solar-net-metering-heres-what-you-need-to-know-for-your-state/#ftag=CAD590a51e)
  - [Huawei just retasked a factory to prioritize AI over its bestselling phone](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)
  - [The Trial Over Bitcoin’s True Creator Is in Session](https://www.wired.com/story/craig-wright-bitcoin-satoshi-nakamoto-trial/)
- - [Lego’s epic limited-edition Parisian Street and Mountain Fortress are about to go on sale](https://www.theverge.com/2024/2/5/24062447/lego-bricklink-designer-program-series-1)
- - [How to take screenshots and screen recordings of the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-take-screenshots-and-screen-recordings-of-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [5 Best Online Psychiatry Services in 2023     - CNET](https://www.cnet.com/health/mental/5-best-online-psychiatry-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

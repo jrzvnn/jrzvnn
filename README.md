@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 💣 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 😝 [Thirsty tweets](http://9gag.com/gag/aL1yLNx)
+ - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
+ - 😝 [Eminem Activating SAVAGE MODE..](http://9gag.com/gag/avQ3EMq)
  - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 ---

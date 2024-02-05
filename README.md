@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap is cutting 10 percent of its staff](https://www.theverge.com/2024/2/5/24062044/snap-layoffs-10-percent-staff-snapchat)
+ - [Oobit, which lets consumers pay using crypto while merchants receive fiat currency, raised a $25M Series A led by the investment arm of Tether and others &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/240205/p15#a240205p15)
+ - [Apple Music gearing up for Super Bowl Halftime show with new Usher interview, Fitness+ spotlight, and more](https://appleinsider.com/articles/24/02/05/apple-music-gearing-up-for-super-bowl-halftime-show-with-new-usher-interview-fitness-spotlight-and-more?utm_medium=rss)
  - [Graphika: the viral pornographic deepfakes of Taylor Swift originated from a 4chan challenge to bypass anti-porn filters on Microsoft Designer and DALL-E &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240205/p14#a240205p14)
- - [Snap plans to lay off 10% of its global workforce, or around 529 employees &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240205/p13#a240205p13)
- - [Thoma Bravo takes critical event management software company Everbridge private in a $1.5B all-cash deal; Everbridge had a market cap of $6.4B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240205/p12#a240205p12)
- - [14 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [StatusPro, which makes a first-person simulation NFL game for VR headsets, raised a $20M Series A led by GV &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/240205/p11#a240205p11)<!-- TECH:END -->
+ - [Snap plans to lay off 10% of its global workforce, or around 529 employees &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240205/p13#a240205p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

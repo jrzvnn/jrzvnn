@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 😝 [Wonder what they said](http://9gag.com/gag/avQ3xrn)
- - 💣 [Massage](http://9gag.com/gag/aDYEbzx)
- - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
+ - 😝 [Tooth scanner](http://9gag.com/gag/a6qAnjR)
+ - 😝 [Lunch time](http://9gag.com/gag/aYV2EZm)
+ - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/armjxQV)
+ - 😝 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
+ - 👉 [Wonder what they said](http://9gag.com/gag/avQ3xrn)<!-- MEMES:END -->
 
 ---
 

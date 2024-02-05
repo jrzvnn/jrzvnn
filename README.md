@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eminem Activating SAVAGE MODE..](http://9gag.com/gag/avQ3EMq)
- - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
  - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
+ - 💣 [WTF](http://9gag.com/gag/aKErv66)
+ - 😝 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
+ - 👉 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)
  - [Sources: soaring appetite for its AI chips and manufacturing constraints have forced Huawei to prioritise AI and slow production for its premium Mate 60 phones &lpar;Reuters&rpar;](http://www.techmeme.com/240205/p6#a240205p6)
  - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
  - [Oversight Board upholds Meta&#39;s decision to leave up a maliciously edited video of Biden but calls on Meta to update its &quot;incoherent&quot; manipulated media policy &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240205/p5#a240205p5)
- - [MacBook Air, MacBook Pro, iMac, Mac Studio: top Mac rumors &amp; 2024 timeline](https://appleinsider.com/articles/24/02/05/macbook-air-macbook-pro-imac-mac-studio-top-mac-rumors-2024-timeline?utm_medium=rss)
- - [2054, Part I: Death of a President](https://www.wired.com/story/2054-part-i-death-of-a-president/)<!-- TECH:END -->
+ - [MacBook Air, MacBook Pro, iMac, Mac Studio: top Mac rumors &amp; 2024 timeline](https://appleinsider.com/articles/24/02/05/macbook-air-macbook-pro-imac-mac-studio-top-mac-rumors-2024-timeline?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

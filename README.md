@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Quick maths](http://9gag.com/gag/aeQv4Ev)
+ - 😝 [Massage](http://9gag.com/gag/aDYEbzx)
+ - 💣 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
  - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 💣 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 👉 [Not my job.](http://9gag.com/gag/agoP74n)<!-- MEMES:END -->
+ - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
 
 ---
 

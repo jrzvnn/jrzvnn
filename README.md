@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)
+ - [How to force quit apps in visionOS for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-force-quit-apps-in-visionos-for-apple-vision-pro?utm_medium=rss)
  - [Microsoft, Google, Meta, and Amazon added ~$10B to collective profits in the past two years by cutting depreciation costs due to extended server life estimates &lpar;Financial Times&rpar;](http://www.techmeme.com/240205/p16#a240205p16)
  - [Twitter alternative spouts a massive leak](https://www.theverge.com/2024/2/5/24061997/twitter-alternative-spoutible-vulnerabilty)
- - [Platformer’s Casey Newton on surviving the great media collapse and what comes next](https://www.theverge.com/2024/2/5/24059524/platformer-casey-newton-substack-moderation-email-newsletters-media-layoffs)
- - [Which Bluetooth devices you can use with Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/which-bluetooth-devices-you-can-use-with-apple-vision-pro?utm_medium=rss)
- - [Amazon bails on Roomba, homeOS possibilities, &amp; more smart home news on HomeKit Insider](https://appleinsider.com/articles/24/02/05/amazon-bails-on-roomba-homeos-possibilities-more-smart-home-news-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Platformer’s Casey Newton on surviving the great media collapse and what comes next](https://www.theverge.com/2024/2/5/24059524/platformer-casey-newton-substack-moderation-email-newsletters-media-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to enable WebXR support on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-enable-webxr-support-on-apple-vision-pro?utm_medium=rss)
+ - [1Password is down, preventing some users from logging in](https://www.theverge.com/2024/2/5/24062278/1password-down-outage-password-manager-sign-in)
  - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
  - [Roblox releases real-time AI chat translator](https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Microsoft strikes an AI deal with Semafor for a breaking news feed called Signals; Ben Smith says it will be written by journalists, using AI as a research tool &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/240205/p19#a240205p19)
- - [A look at OnlyFake, an underground site that claims to use &quot;neural networks&quot; to make highly convincing fake IDs for just $15; one ID passed verification on OKX &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240205/p18#a240205p18)<!-- TECH:END -->
+ - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

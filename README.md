@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 👉 [Fun project](http://9gag.com/gag/amAE65v)<!-- MEMES:END -->
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 😝 [Practice makes perfect!](http://9gag.com/gag/anzLEO0)
+ - 💣 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)
+ - 😝 [You serious?](http://9gag.com/gag/a4oDqKp)
+ - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
 
 ---
 

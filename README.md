@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, school 3.](http://9gag.com/gag/aDYE8LK)
+ - 😝 [Aduh](http://9gag.com/gag/aqeqQAv)
  - 😝 [Many such cases](http://9gag.com/gag/ay2OW5r)
  - 💣 [Sexy Binary, lol](http://9gag.com/gag/aGEWMb0)
- - 😝 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)
- - 👉 [N ice](http://9gag.com/gag/armjXM6)<!-- MEMES:END -->
+ - 😝 [N ice](http://9gag.com/gag/armjXM6)
+ - 👉 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)<!-- MEMES:END -->
 
 ---
 

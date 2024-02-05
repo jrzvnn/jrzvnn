@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
+ - [Best Solar Panel Installation Companies in New Jersey     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
+ - [Best Indoor Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
  - [The US State Department announces a new policy allowing &quot;the imposition of visa restrictions on individuals involved in the misuse of commercial spyware&quot; &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240205/p28#a240205p28)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best TV Deals: Up to $750 Off TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [Microsoft Gaming CEO Phil Spencer announces an event next week to share &quot;our vision for the future of Xbox&quot;, amid rumors that Xbox exclusives are coming to PS5 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p27#a240205p27)
- - [Sources: Reddit had over $800M in revenue in 2023, up 20%+ YoY, and was not profitable for the full year but, according to one source, was profitable in Q4 &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240205/p26#a240205p26)<!-- TECH:END -->
+ - [GE&#39;s Smart Indoor Smoker Is Still $300 Off, and It&#39;ll Arrive by Sunday &lpar;Hint, Hint&rpar;     - CNET](https://www.cnet.com/deals/ges-amazing-smart-indoor-bbq-smoker-is-300-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

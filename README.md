@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Montenegro&#39;s government says it has extradited Han Chang-joon, the former CFO of Terraform Labs, to South Korea &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240205/p9#a240205p9)
  - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)
  - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
  - [Paris votes to crack down on SUVs](https://www.theverge.com/2024/2/5/24061970/suv-parking-charges-paris-air-pollution-road-safety)
- - [UK&#39;s Reach strikes a deal with Amazon for &quot;contextual&quot; first-party data to target online ads, as the media industry responds to end of third party cookies &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240205/p7#a240205p7)
- - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)<!-- TECH:END -->
+ - [UK&#39;s Reach strikes a deal with Amazon for &quot;contextual&quot; first-party data to target online ads, as the media industry responds to end of third party cookies &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240205/p7#a240205p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

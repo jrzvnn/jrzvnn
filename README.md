@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 💣 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
- - 😝 [They had a heated exchange](http://9gag.com/gag/aqeqW1L)
- - 👉 [Not my job.](http://9gag.com/gag/agoP74n)<!-- MEMES:END -->
+ - 😝 [WTF](http://9gag.com/gag/aKErv66)
+ - 😝 [Wonder what they said](http://9gag.com/gag/avQ3xrn)
+ - 💣 [Massage](http://9gag.com/gag/aDYEbzx)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
 
 ---
 

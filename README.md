@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 😝 [Practice makes perfect!](http://9gag.com/gag/anzLEO0)
- - 💣 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)
- - 😝 [You serious?](http://9gag.com/gag/a4oDqKp)
- - 👉 [277](http://9gag.com/gag/a2KnDp1)<!-- MEMES:END -->
+ - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - 😝 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)
+ - 💣 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---
 

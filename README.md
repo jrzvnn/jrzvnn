@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
- - 😝 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)
- - 💣 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
- - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 😝 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
+ - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 😝 [Fun project](http://9gag.com/gag/amAE65v)
  - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---

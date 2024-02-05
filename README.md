@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick maths](http://9gag.com/gag/aeQv4Ev)
- - 😝 [Massage](http://9gag.com/gag/aDYEbzx)
- - 💣 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 😝 [Who could it be?hmmmm?](http://9gag.com/gag/agoPQww)
+ - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
+ - 💣 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 👉 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French IT group Atos has entered talks with its banks to refinance its debt, and says conditions for a planned &amp;euro;720M rights issue are &quot;no longer applicable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p4#a240205p4)
  - [Tax Season 2024: The Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-the-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
  - [Tax Season 2024: What You Need to Know About All the Tax Filing Deadlines This Year     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-what-you-need-to-know-about-all-the-tax-filing-deadlines-this-year/#ftag=CAD590a51e)
  - [Homeowner Tax Breaks: All the Ways Your House Can Boost Your 2024 Tax Refund     - CNET](https://www.cnet.com/personal-finance/taxes/homeowner-tax-breaks-all-the-ways-your-house-can-boost-your-2024-tax-refund/#ftag=CAD590a51e)
- - [Q&amp;A with Andrew Farnsworth, a Cornell Lab of Ornithology scientist, about BirdCast, a project that uses AI to process weather data and predict how birds migrate &lpar;Malena Carollo/The Markup&rpar;](http://www.techmeme.com/240205/p3#a240205p3)
- - [Tax Season 2024: When Will I Receive My Tax Refund from the IRS? How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-when-will-i-receive-my-tax-refund-from-the-irs-how-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Andrew Farnsworth, a Cornell Lab of Ornithology scientist, about BirdCast, a project that uses AI to process weather data and predict how birds migrate &lpar;Malena Carollo/The Markup&rpar;](http://www.techmeme.com/240205/p3#a240205p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

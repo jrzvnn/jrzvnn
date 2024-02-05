@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 💣 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)
- - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
- - 👉 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)<!-- MEMES:END -->
+ - 😝 [Finally, school 3.](http://9gag.com/gag/aDYE8LK)
+ - 😝 [Many such cases](http://9gag.com/gag/ay2OW5r)
+ - 💣 [Sexy Binary, lol](http://9gag.com/gag/aGEWMb0)
+ - 😝 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)
+ - 👉 [N ice](http://9gag.com/gag/armjXM6)<!-- MEMES:END -->
 
 ---
 

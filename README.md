@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Tesla Has Lost Its Range Crown to a Chinese EV You’ve Never Heard Of](https://www.wired.com/story/tesla-hiphi-ev-range-crown/)
  - [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video)
  - [Apple launches 2024 Swift Student Challenge with an Apple Park trip prize](https://appleinsider.com/articles/24/02/05/apple-launches-2024-swift-student-challenge-with-an-apple-park-trip-prize?utm_medium=rss)
- - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)
- - [Cloud native container management platform Weaveworks, which raised over $61M, shuts down after facing uneven sales and failing to get acquired &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240205/p21#a240205p21)<!-- TECH:END -->
+ - [Going Outside? Check the New Features in the Weather Channel App First     - CNET](https://www.cnet.com/tech/services-and-software/going-outside-check-the-new-features-in-the-weather-channel-app-first/#ftag=CAD590a51e)
+ - [Apple’s latest AirPods have fallen to some of their best prices to date](https://www.theverge.com/2024/2/5/24062168/apple-second-third-gen-airpods-wireless-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

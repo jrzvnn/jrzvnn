@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 💣 [Massage](http://9gag.com/gag/aDYEbzx)
- - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
- - 👉 [Trains in India have become mosques where everyone cannot walk freely because these people want to pray. Why is this becoming more and more intense happening worldwide?!!!](http://9gag.com/gag/aVbNo08)<!-- MEMES:END -->
+ - 😝 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
+ - 😝 [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)
+ - 💣 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
+ - 👉 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)<!-- MEMES:END -->
 
 ---
 

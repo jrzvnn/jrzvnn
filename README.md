@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 💣 [277](http://9gag.com/gag/a2KnDp1)
- - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
- - 👉 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)<!-- MEMES:END -->
+ - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 💣 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 😝 [Listen to the difference between a 400lb American made anvil with a hardened steel face and a cast iron body, and a 550lb German anvil with a fully hardened steel body made in pieces then forged together](http://9gag.com/gag/aoKbVA3)
+ - 👉 [Fellas , always start early](http://9gag.com/gag/abv9x28)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
- - 😝 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
- - 💣 [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)
- - 😝 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - 👉 [Fellas , always start early](http://9gag.com/gag/abv9x28)<!-- MEMES:END -->
+ - 😝 [Bison are large, powerful, and wild. They can turn quickly and can easily outrun humans!!](http://9gag.com/gag/aGEWnxX)
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 💣 [WTF](http://9gag.com/gag/aKErv66)
+ - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 👉 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)<!-- MEMES:END -->
 
 ---
 

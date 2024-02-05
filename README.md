@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/aPgKPLK)
- - 😝 [I like pancakes](http://9gag.com/gag/a4oD69w)
- - 💣 [Massage](http://9gag.com/gag/aDYEbzx)
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
+ - 😝 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [WTF](http://9gag.com/gag/aKErv66)
+ - 💣 [I like pancakes](http://9gag.com/gag/a4oD69w)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 👉 [Not my job.](http://9gag.com/gag/agoP74n)<!-- MEMES:END -->
 
 ---
 

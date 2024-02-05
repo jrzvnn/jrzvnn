@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Out of the will](http://9gag.com/gag/aPgK8ZG)
+ - 😝 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
  - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
- - 💣 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)
- - 😝 [Old but gold](http://9gag.com/gag/a7qzO1q)
- - 👉 [When in Rome, do as Romans do](http://9gag.com/gag/aoKbxKn)<!-- MEMES:END -->
+ - 👉 [MusIims destroying satellite dishes because it\u2019s haram after sharia law being implemented\u203c\ufe0f\u203c\ufe0f](http://9gag.com/gag/aYV2OA7)<!-- MEMES:END -->
 
 ---
 

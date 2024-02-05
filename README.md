@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Firefighter putting out a fire using Bernoulli&#39;s principle](http://9gag.com/gag/aKErAQN)
- - 😝 [Thirsty tweets](http://9gag.com/gag/aL1yLNx)
- - 💣 [Focus, Conan!](http://9gag.com/gag/ay2OqDM)
  - 😝 [Eminem Activating SAVAGE MODE..](http://9gag.com/gag/avQ3EMq)
- - 👉 [WTF](http://9gag.com/gag/aKErv66)<!-- MEMES:END -->
+ - 😝 [Eyecandy for my dudes &lpar;repost&rpar;](http://9gag.com/gag/a2Kn81Y)
+ - 💣 [Woman steals parking space by standing.](http://9gag.com/gag/aA0o66Z)
+ - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 👉 [Still gotta work hard on weekend](http://9gag.com/gag/aREYLE2)<!-- MEMES:END -->
 
 ---
 

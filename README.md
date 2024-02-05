@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [StatusPro, which makes a first-person simulation NFL game for VR headsets, raised a $20M Series A led by GV &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/240205/p11#a240205p11)
  - [Please don&#39;t use the Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/05/please-dont-use-the-apple-vision-pro-while-driving?utm_medium=rss)
  - [Sources: the UK shelved plans to publish rules on the training of AI models using copyrighted material, after artists and tech groups failed to agree terms &lpar;Financial Times&rpar;](http://www.techmeme.com/240205/p10#a240205p10)
  - [Montenegro&#39;s government says it has extradited Han Chang-joon, the former CFO of Terraform Labs, to South Korea &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240205/p9#a240205p9)
- - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)
- - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

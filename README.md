@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 😝 [To be undercover](http://9gag.com/gag/aEqLVAM)
- - 💣 [WTF](http://9gag.com/gag/aKErv66)
- - 😝 [Ever heard tell of that ?](http://9gag.com/gag/avQ31KX)
- - 👉 [Marriage](http://9gag.com/gag/aPgKPLK)<!-- MEMES:END -->
+ - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
+ - 😝 [WTF](http://9gag.com/gag/aKErv66)
+ - 💣 [277](http://9gag.com/gag/a2KnDp1)
+ - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
+ - 👉 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)<!-- MEMES:END -->
 
 ---
 

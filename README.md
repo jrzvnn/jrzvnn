@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outstanding move...](http://9gag.com/gag/armjxy7)
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 💣 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)
- - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
- - 👉 [Not my job.](http://9gag.com/gag/agoP74n)<!-- MEMES:END -->
+ - 😝 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)
+ - 😝 [A small filter making a big difference](http://9gag.com/gag/aKEr83Q)
+ - 💣 [I noticed that you like good anvils&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQvVWQ)
+ - 😝 [We\u2019re not going to make it, are we?](http://9gag.com/gag/aVbNZQv)
+ - 👉 [Massage](http://9gag.com/gag/aDYEbzx)<!-- MEMES:END -->
 
 ---
 

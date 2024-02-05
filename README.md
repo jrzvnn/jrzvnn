@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - 😝 [Aduh](http://9gag.com/gag/aqeqQAv)
- - 💣 [Oh, no! Anyway...](http://9gag.com/gag/aDYEZed)
- - 😝 [Experience exciting](http://9gag.com/gag/aYV2ME7)
- - 👉 [You don&#39;t say?](http://9gag.com/gag/a6qABXb)<!-- MEMES:END -->
+ - 😝 [Only 6 years?!?](http://9gag.com/gag/aqeqRdv)
+ - 😝 [WTF](http://9gag.com/gag/aKErv66)
+ - 💣 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)
+ - 😝 [Not my job.](http://9gag.com/gag/agoP74n)
+ - 👉 [Person writes letter to man explaining what happened to his car &lpar;hit and run bus&rpar;](http://9gag.com/gag/aME3PrV)<!-- MEMES:END -->
 
 ---
 

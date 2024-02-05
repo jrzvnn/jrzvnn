@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ has a lot of content coming in 2024](https://appleinsider.com/articles/24/02/05/apple-tv-has-a-lot-of-content-coming-in-2024?utm_medium=rss)
  - [Huawei just retasked a factory to prioritize AI over its bestselling phone](https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause)
  - [The Trial Over Bitcoin’s True Creator Is in Session](https://www.wired.com/story/craig-wright-bitcoin-satoshi-nakamoto-trial/)
  - [Lego’s epic limited-edition Parisian Street and Mountain Fortress are about to go on sale](https://www.theverge.com/2024/2/5/24062447/lego-bricklink-designer-program-series-1)
- - [How to take screenshots and screen recordings of the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-take-screenshots-and-screen-recordings-of-the-apple-vision-pro?utm_medium=rss)
- - [PlayStation Plus Deals: Shop at Sony for Direct Buys     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to take screenshots and screen recordings of the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-take-screenshots-and-screen-recordings-of-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

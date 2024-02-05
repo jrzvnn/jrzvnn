@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OnlyFake, an underground site that claims to use &quot;neural networks&quot; to make highly convincing fake IDs for just $15; one ID passed verification on OKX &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240205/p18#a240205p18)
+ - [Meta Oversight Board supports leaving up manipulated Joe Biden video but questions existing policies](https://www.theverge.com/2024/2/5/24062020/meta-manipulated-media-policy-oversight-board-biden-video)
  - [Hertz will stop buying EVs from Polestar, too](https://www.theverge.com/2024/2/5/24062128/hertz-pause-polestar-buy-ev-rental-car-fleet-resale)
  - [Last week&#39;s earnings showed signs of an ad market turnaround, with Meta&#39;s ad sales up 24% YoY, Amazon&#39;s ad business growing 27%, and Google&#39;s ad business up 11% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240205/p17#a240205p17)
- - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)
- - [How to force quit apps in visionOS for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-force-quit-apps-in-visionos-for-apple-vision-pro?utm_medium=rss)
- - [Microsoft, Google, Meta, and Amazon added ~$10B to collective profits in the past two years by cutting depreciation costs due to extended server life estimates &lpar;Financial Times&rpar;](http://www.techmeme.com/240205/p16#a240205p16)<!-- TECH:END -->
+ - [Daily deals: AirPods $89, M2 Mac mini $499, Apple Pencil $69, $180 off Sonos Arc Soundbar, more](https://appleinsider.com/articles/24/02/05/daily-deals-airpods-89-m2-mac-mini-499-apple-pencil-69-180-off-sonos-arc-soundbar-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

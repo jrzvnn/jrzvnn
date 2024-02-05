@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)
+ - [Oversight Board upholds Meta&#39;s decision to leave up a maliciously edited video of Biden but calls on Meta to update its &quot;incoherent&quot; manipulated media policy &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240205/p5#a240205p5)
  - [MacBook Air, MacBook Pro, iMac, Mac Studio: top Mac rumors &amp; 2024 timeline](https://appleinsider.com/articles/24/02/05/macbook-air-macbook-pro-imac-mac-studio-top-mac-rumors-2024-timeline?utm_medium=rss)
  - [2054, Part I: Death of a President](https://www.wired.com/story/2054-part-i-death-of-a-president/)
- - [The ransomware business is booming, even as enforcers shut down some major players](https://www.theverge.com/2024/2/5/24059486/ransomware-victims-palo-alto-networks-unit-42)
- - [French IT group Atos has entered talks with its banks to refinance its debt, and says conditions for a planned &amp;euro;720M rights issue are &quot;no longer applicable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p4#a240205p4)
- - [Verizon Customers Could Receive Up to $100 in Settlement Money. How to Claim the Payout     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-up-to-100-in-settlement-money-how-to-claim-the-payout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ransomware business is booming, even as enforcers shut down some major players](https://www.theverge.com/2024/2/5/24059486/ransomware-victims-palo-alto-networks-unit-42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

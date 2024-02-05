@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Andrew Farnsworth, a Cornell Lab of Ornithology scientist, about BirdCast, a project that uses AI to process weather data and predict how birds migrate &lpar;Malena Carollo/The Markup&rpar;](http://www.techmeme.com/240205/p3#a240205p3)
  - [Yandex plans to sell its entire Russian business, including its popular search engine, to a group led by Yandex management in a deal valued at about $5.2B &lpar;Sylvia Westall/Bloomberg&rpar;](http://www.techmeme.com/240205/p2#a240205p2)
  - [A Seoul court acquits Samsung Executive Chairman Jay Y. Lee of stock manipulation charges, removing the threat of a jail time for the billionaire &lpar;Bloomberg&rpar;](http://www.techmeme.com/240205/p1#a240205p1)
  - [Grab an M2 MacBook Pro for just $1,579 today only](https://appleinsider.com/articles/24/02/05/grab-an-m2-macbook-pro-for-just-1579-today-only?utm_medium=rss)
- - [Bambu Lab is recalling every A1 3D printer — don’t use them until you read this](https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage)
- - [A look at China&#39;s interest in the &quot;geopolitically neutral&quot; RISC-V open-source chip architecture, as US sanctions put the top x86 and ARM chips out of reach &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240204/p12#a240204p12)<!-- TECH:END -->
+ - [Bambu Lab is recalling every A1 3D printer — don’t use them until you read this](https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

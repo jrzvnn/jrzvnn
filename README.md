@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
+ - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)
  - [Meta expands its Take It Down tool, which helps teens combat non-consensual sharing of intimate imagery, to 25 languages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240206/p20#a240206p20)
- - [The Vision Pro killer app: Cybertruck clout-chasing accessory](https://www.theverge.com/2024/2/6/24063317/vision-pro-viral-videos-tesla-cybertruck-autopilot)
- - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)
- - [Our Favorite Cordless Vacuum Now Costs $81 Less Than Usual     - CNET](https://www.cnet.com/deals/our-favorite-cordless-vacuum-now-costs-81-less-than-usual/#ftag=CAD590a51e)
- - [DocuSign plans to lay off 6% of its workforce, or ~440 jobs, and will incur a $28M-$32M charge, after acquisition talks seemingly fell through; DOCU drops 6%+ &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/240206/p19#a240206p19)<!-- TECH:END -->
+ - [The Vision Pro’s killer app: Cybertruck clout-chasing accessory](https://www.theverge.com/2024/2/6/24063317/vision-pro-viral-videos-tesla-cybertruck-autopilot)
+ - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro is getting mobile device management features in visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-getting-mobile-device-management-features-in-visionos-11?utm_medium=rss)
- - [Here’s how WhatsApp plans to interoperate with other messaging apps](https://www.theverge.com/2024/2/6/24063705/whatsapp-interoperability-plans-eu-dma)
- - [Mystery Company Linked to Biden Robocall Identified by New Hampshire Attorney General](https://www.wired.com/story/new-hampshire-biden-ai-robocall/)
  - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
- - [Ikea’s AI assistant gives design inspiration — at least it tries to](https://www.theverge.com/2024/2/6/24063626/ikea-ai-assistant-gpt-chatbot-home-design)<!-- TECH:END -->
+ - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)
+ - [The Netherlands says Chinese state-sponsored hackers broke into the Dutch Ministry of Defence&#39;s internal network in 2023, using a Fortinet vulnerability &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p29#a240206p29)
+ - [Apple’s first Vision Pro beta lets you bring virtual items closer](https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management)
+ - [The 23 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

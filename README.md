@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta proposes standards to identify AI content that its industry peers could use, and plans to label AI images posted on Facebook, Instagram, and Threads &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240206/p13#a240206p13)
  - [Want to try Apple Vision Pro? Apple has plenty of appointments](https://appleinsider.com/articles/24/02/06/want-to-try-apple-vision-pro-apple-has-plenty-of-appointments?utm_medium=rss)
  - [Meta Will Crack Down on AI-Generated Fakes—but Leave Plenty Undetected](https://www.wired.com/story/meta-crack-down-ai-generated-fakes/)
  - [Meta says you better disclose your AI fakes or it might just pull them](https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads)
- - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)
- - [OLED iPad Pro with M3 rumored to not be preposterously priced](https://appleinsider.com/articles/24/02/06/oled-ipad-pro-with-m3-rumored-to-not-be-preposterously-priced?utm_medium=rss)<!-- TECH:END -->
+ - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

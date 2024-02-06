@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge rules Apple won&#39;t have to face a lawsuit alleging its smartwatch copied heart-monitoring technology from medical device company AliveCor &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [OpenAI is adding new watermarks to DALL-E 3](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials)
  - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
- - [ESPN, Fox, and Warner Bros. are putting together a juggernaut sports streaming app](https://www.theverge.com/2024/2/6/24064007/espn-fox-warner-bros-sports-streaming-partnership)
- - [Researchers say ~3M smart toothbrushes with a Java-based OS were compromised by hackers and incorporated into botnets used in DDoS attacks against a Swiss site &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240206/p33#a240206p33)
- - [No More Waiting for a Bluesky Invite: The X Alternative Is Now Open to All     - CNET](https://www.cnet.com/tech/no-more-waiting-for-a-bluesky-invite-the-x-alternative-is-now-open-to-all/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ESPN, Fox, and Warner Bros. are putting together a juggernaut sports streaming app](https://www.theverge.com/2024/2/6/24064007/espn-fox-warner-bros-sports-streaming-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

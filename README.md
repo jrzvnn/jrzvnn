@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
  - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 😝 [Fellas , always start early](http://9gag.com/gag/abv9x28)
- - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
+ - 💣 [277](http://9gag.com/gag/a2KnDp1)
  - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)<!-- MEMES:END -->
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 ---
 

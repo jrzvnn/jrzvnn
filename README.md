@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK, the US, France, Poland, and other nations, plus Google, Microsoft, Meta, and others, sign a statement recognizing the need for more action on spyware &lpar;Antoaneta Roussi/Politico&rpar;](http://www.techmeme.com/240206/p23#a240206p23)
  - [WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
- - [Mozilla announces Monitor Plus, a $14/month US service that scans 190+ data broker sites and automatically submits requests for removal of the user&#39;s data&amp;szlig; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240206/p22#a240206p22)
+ - [Mozilla announces Monitor Plus, a $14/month US service that scans 190+ data broker sites and automatically submits requests for removal of the user&#39;s data &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240206/p22#a240206p22)
  - [Apple&#39;s Space Black MacBook Pro 14-inch just dropped to $1,749 for Valentine&#39;s Day](https://appleinsider.com/articles/24/02/06/apples-space-black-macbook-pro-14-inch-just-dropped-to-1749-for-valentines-day?utm_medium=rss)
- - [Key Refinance Rate Move Past 7%: Mortgage Refinance Rates, Feb. 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-feb-6-2024-rates-tick-higher/#ftag=CAD590a51e)
- - [Morgan Stanley: Apple Vision Pro has immense long-term potential for Apple&#39;s bottom line](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)<!-- TECH:END -->
+ - [Key Refinance Rate Move Past 7%: Mortgage Refinance Rates, Feb. 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-feb-6-2024-rates-tick-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

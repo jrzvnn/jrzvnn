@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun project](http://9gag.com/gag/amAE65v)
- - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
- - 💣 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [What do you guys think?](http://9gag.com/gag/a042EXB)
+ - 😝 [Massage](http://9gag.com/gag/aDYEbzx)
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
  - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 👉 [Fellas , always start early](http://9gag.com/gag/abv9x28)<!-- MEMES:END -->
+ - 👉 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)<!-- MEMES:END -->
 
 ---
 

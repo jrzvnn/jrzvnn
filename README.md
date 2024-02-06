@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
  - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 😝 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
- - 💣 [Royal Pain...](http://9gag.com/gag/a6qApEm)
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 

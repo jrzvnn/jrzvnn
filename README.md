@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
  - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 👉 [This has got to be the worst death in the history of mankind. Damn! Some of you degenerates might know about or seen that infamous cartel video. Probably the worst death recorded on video. Yeah, this is worse than that and for 83 days straight!](http://9gag.com/gag/a6qAn9m)<!-- MEMES:END -->
 
 ---
 

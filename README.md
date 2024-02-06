@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox rolls out real-time AI chat translations, with support for 16 languages, built on an LLM trained on open-source and internal Roblox data &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240205/p30#a240205p30)
- - [Apple is telling users who forget their Vision Pro passcode that they need to bring the device to a store or mail it to AppleCare customer support to reset it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240205/p29#a240205p29)
- - [Who will deliver immersive content for Apple Vision Pro?](https://appleinsider.com/articles/24/02/05/who-will-deliver-immersive-content-for-apple-vision-pro?utm_medium=rss)
- - [Best Solar Panel Installation Companies in New Jersey     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
- - [Best Indoor Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Autonomous sidewalk delivery robot startup Starship Technologies raised $90M co-led by Plural and Iconical, bringing its total raised to $230M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240205/p32#a240205p32)
+ - [The UK government plans to spend &amp;pound;100M+ to support AI innovation and regulation, including to launch nine research hubs and to help regulators address AI risks &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240205/p31#a240205p31)
+ - [The 10 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [People are already forgetting their Apple Vision Pro passcodes, requiring a trip to Apple](https://appleinsider.com/articles/24/02/06/people-are-already-forgetting-their-apple-vision-pro-passcodes-requiring-a-trip-to-apple?utm_medium=rss)
+ - [Sony just let slip a Final Fantasy VII Rebirth playable demo is imminent](https://www.theverge.com/2024/2/5/24062927/sony-final-fantasy-vii-rebirth-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

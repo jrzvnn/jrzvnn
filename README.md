@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan plans to extend ~$1.64B worth of subsidies for Kioxia and Western Digital to expand memory chip production as merger talks between the two stalled in 2023 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/240205/p34#a240205p34)
  - [A US federal judge sets the trial for the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business to begin on September 9, 2024 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240205/p33#a240205p33)
  - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
  - [The Best Horror Films on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-films-on-prime-video-february-2024/#ftag=CAD590a51e)
- - [Autonomous sidewalk delivery robot startup Starship Technologies raised $90M co-led by Plural and Iconical, bringing its total raised to $230M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240205/p32#a240205p32)
- - [The UK government plans to spend &amp;pound;100M+ to support AI innovation and regulation, including to launch nine research hubs and to help regulators address AI risks &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240205/p31#a240205p31)<!-- TECH:END -->
+ - [Autonomous sidewalk delivery robot startup Starship Technologies raised $90M co-led by Plural and Iconical, bringing its total raised to $230M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240205/p32#a240205p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

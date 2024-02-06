@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SMIC plans to use its stock of US and Dutch-made equipment to build 5nm Kirin chips designed by Huawei&#39;s HiSilicon for smartphones, despite US curbs &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240206/p3#a240206p3)
  - [Elden Ring mobile game reportedly under development at Tencent](https://www.theverge.com/2024/2/6/24063163/tencent-elden-ring-free-to-play-mobile-title)
  - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)
  - [Social Security COLA Increase: Do You Have to Pay Taxes on the Additional Money This Year?     - CNET](https://www.cnet.com/personal-finance/taxes/social-security-cola-increase-do-you-have-to-pay-taxes-on-the-additional-money-this-year/#ftag=CAD590a51e)
- - [You Can Get Your 2024 Tax Refund Money Up to 5 Days Sooner. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/taxes/you-can-get-your-2024-tax-refund-up-to-5-days-sooner-heres-how/#ftag=CAD590a51e)
- - [Don&#39;t Lose That COLA Letter You Received in December 2023. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-that-cola-letter-you-received-in-december-2023-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Get Your 2024 Tax Refund Money Up to 5 Days Sooner. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/taxes/you-can-get-your-2024-tax-refund-up-to-5-days-sooner-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

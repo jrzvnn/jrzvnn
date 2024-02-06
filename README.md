@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
  - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 💣 [Word](http://9gag.com/gag/aEqLW59)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
 
 ---
 

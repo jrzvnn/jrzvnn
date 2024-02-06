@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 💣 [What do you guys think?](http://9gag.com/gag/a042EXB)
  - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
+ - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you guys think?](http://9gag.com/gag/a042EXB)
- - 😝 [Massage](http://9gag.com/gag/aDYEbzx)
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 👉 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)<!-- MEMES:END -->
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 👉 [Fun project](http://9gag.com/gag/amAE65v)<!-- MEMES:END -->
 
 ---
 

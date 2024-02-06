@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 😝 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
- - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
+ - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 

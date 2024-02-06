@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 😝 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 👉 [And people keep buying them](http://9gag.com/gag/aL1ymR6)<!-- MEMES:END -->
 
 ---
 

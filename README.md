@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/aKErv66)
- - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 😝 [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 💣 [They had a heated exchange](http://9gag.com/gag/aqeqW1L)
+ - 😝 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)
+ - 👉 [I feel good!](http://9gag.com/gag/aeQvmYm)<!-- MEMES:END -->
 
 ---
 

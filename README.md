@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)
  - [Two Texas companies were behind the AI Joe Biden robocalls](https://www.theverge.com/2024/2/6/24063885/biden-robocalls-ai-fcc-cease-desist-lingo-telecom-life-new-hampshire)
  - [Snap reports Q4 revenue up 5% YoY to $1.36B, vs. $1.38B est., DAUs up 10% YoY to 414M, a net loss of $248M, vs. $288M YoY; SNAP drops 28%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240206/p30#a240206p30)
  - [Spotify’s transformed podcast business may actually be profitable this year](https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit)
- - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)
- - [Disney Plus’ restrictions on password sharing are now rolling out to US subscribers](https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us)<!-- TECH:END -->
+ - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

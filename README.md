@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 💣 [They had a heated exchange](http://9gag.com/gag/aqeqW1L)
- - 😝 [Have a great Monday community.](http://9gag.com/gag/anzLxxB)
- - 👉 [I feel good!](http://9gag.com/gag/aeQvmYm)<!-- MEMES:END -->
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
 
 ---
 

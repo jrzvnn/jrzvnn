@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
+ - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
  - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 ---
 

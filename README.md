@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
 
 ---
 

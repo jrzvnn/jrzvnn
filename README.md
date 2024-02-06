@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 😝 [Birb !!!](http://9gag.com/gag/aBd7OzZ)
+ - 😝 [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
+ - 💣 [Teach your children to switch gears, not the genders](http://9gag.com/gag/aL1yWgM)
+ - 😝 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)
+ - 👉 [They don&#39;t make movies like this anymore](http://9gag.com/gag/amAEpm4)<!-- MEMES:END -->
 
 ---
 

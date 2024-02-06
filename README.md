@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
+ - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
  - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
+ - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 ---
 

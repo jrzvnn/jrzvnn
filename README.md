@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say ~3M smart toothbrushes with a Java-based OS were compromised by hackers and incorporated into botnets used in DDoS attacks against a Swiss site &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240206/p33#a240206p33)
  - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
  - [Fox, ESPN, and Warner Bros. Discovery are creating a joint streaming platform to share sports assets; sources: it will be available to ESPN+, Hulu and Max subs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)
  - [Elon Musk is backing Mandalorian actor’s suit against Disney](https://www.theverge.com/2024/2/6/24063897/gina-carano-disney-lawsuit-mandalorian-elon-musk)
- - [Two Texas companies were behind the AI Joe Biden robocalls](https://www.theverge.com/2024/2/6/24063885/biden-robocalls-ai-fcc-cease-desist-lingo-telecom-life-new-hampshire)
- - [Snap reports Q4 revenue up 5% YoY to $1.36B, vs. $1.38B est., DAUs up 10% YoY to 414M, a net loss of $248M, vs. $288M YoY; SNAP drops 28%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240206/p30#a240206p30)<!-- TECH:END -->
+ - [Two Texas companies were behind the AI Joe Biden robocalls](https://www.theverge.com/2024/2/6/24063885/biden-robocalls-ai-fcc-cease-desist-lingo-telecom-life-new-hampshire)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

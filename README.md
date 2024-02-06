@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Birb !!!](http://9gag.com/gag/aBd7OzZ)
  - 😝 [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
- - 💣 [Teach your children to switch gears, not the genders](http://9gag.com/gag/aL1yWgM)
- - 😝 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)
- - 👉 [They don&#39;t make movies like this anymore](http://9gag.com/gag/amAEpm4)<!-- MEMES:END -->
+ - 💣 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)
+ - 😝 [They don&#39;t make movies like this anymore](http://9gag.com/gag/amAEpm4)
+ - 👉 [Jrr supremacy](http://9gag.com/gag/aXn5K8z)<!-- MEMES:END -->
 
 ---
 

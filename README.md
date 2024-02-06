@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please don&#39;t use the Apple Vision Pro while driving [u]](https://appleinsider.com/articles/24/02/05/please-dont-use-the-apple-vision-pro-while-driving?utm_medium=rss)
- - [Texas-based NinjaOne, which helps automate IT processes, raised a $231.5M Series C led by ICONIQ Growth at a $1.9B valuation and counts Nvidia among its users &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/240206/p14#a240206p14)
- - [Best Internet Providers in Minneapolis, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
- - [Meta proposes standards to identify AI content that its industry peers could use, and plans to label AI images posted on Facebook, Instagram, and Threads &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240206/p13#a240206p13)
- - [Bag Apple&#39;s USB-C AirPods Pro for Just $190 and Get Lossless Audio for the Vision Pro     - CNET](https://www.cnet.com/deals/bag-apples-usb-c-airpods-pro-for-just-190-and-get-lossless-audio-for-the-vision-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
+ - [SMIC reports unaudited Q4 revenue rose 3.5% YoY to $1.68B, below est., and $902.5M net income, down from $1.82B YoY; 2023 capex was up 17.6% YoY to $7.47B &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p15#a240206p15)
+ - [Nubia Z60 Ultra Review: Bigger Isn&#39;t Always Better](https://www.wired.com/review/nubia-z60-ultra-phone/)
+ - [Bluesky is ready to open up](https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol)
+ - [Firefox maker Mozilla has a new subscription to keep your info out of data brokers’ clutches](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

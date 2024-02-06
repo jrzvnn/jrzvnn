@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 😝 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
- - 👉 [Fun project](http://9gag.com/gag/amAE65v)<!-- MEMES:END -->
+ - 😝 [Fun project](http://9gag.com/gag/amAE65v)
+ - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 💣 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 👉 [Fellas , always start early](http://9gag.com/gag/abv9x28)<!-- MEMES:END -->
 
 ---
 

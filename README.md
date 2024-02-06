@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birb !!!](http://9gag.com/gag/aBd7OzZ)
- - 😝 [Around blacks never relax](http://9gag.com/gag/aVbNVmd)
- - 💣 [\u02d9\u028e\u0279\u0287uno\u0254 l\u0250\u01dd\u0279 \u0250 s\u1d09 \u0250\u1d09\u0279\u0287sn\u2200](http://9gag.com/gag/a1PGEOY)
- - 😝 [They don&#39;t make movies like this anymore](http://9gag.com/gag/amAEpm4)
- - 👉 [Jrr supremacy](http://9gag.com/gag/aXn5K8z)<!-- MEMES:END -->
+ - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
+ - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
 
 ---
 

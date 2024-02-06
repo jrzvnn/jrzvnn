@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 camera bump design rumored to have shifted closer to iPhone X](https://appleinsider.com/articles/24/02/06/iphone-16-camera-bump-design-rumored-to-have-shifted-closer-to-iphone-x?utm_medium=rss)
+ - [The Console Wars Are Over. Some Influencers Won’t Let Them Go](https://www.wired.com/story/xbox-playstation-influencers-phil-spencer/)
  - [ID management company Entrust acquires Onfido, a London-based provider of automated identity verification services, sources say for &quot;well above&quot; $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p35#a240206p35)
  - [The refreshed Porsche Taycan will drive farther and charge faster than ever before](https://www.theverge.com/2024/2/6/24063359/porsche-taycan-refresh-ev-spec-photos-price)
- - [Fossil fuels are losing ground to renewable energy in Europe](https://www.theverge.com/2024/2/6/24062192/power-grid-pollution-fossil-fuels-eu-ember-report)
- - [A US federal judge rules Apple won&#39;t have to face AliveCor&#39;s lawsuit alleging Apple&#39;s Watch copied heart-monitoring technology from the medical device company &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Fossil fuels are losing ground to renewable energy in Europe](https://www.theverge.com/2024/2/6/24062192/power-grid-pollution-fossil-fuels-eu-ember-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

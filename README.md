@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Hampshire&#39;s AG says fake robocalls using deepfaked audio of Biden to discourage voters numbered 5K to 25K and are linked to Lingo Telecom and a Texas firm &lpar;CNN&rpar;](http://www.techmeme.com/240206/p28#a240206p28)
  - [Apple Vision Pro is getting mobile device management features in visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-getting-mobile-device-management-features-in-visionos-11?utm_medium=rss)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple releases a beta version of visionOS 1.1, which brings enterprise device management to the Vision Pro &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240206/p27#a240206p27)
- - [Epsilon W35 Xi speaker: specs, price, availability](https://www.wired.com/story/epsilon-w35-xi-speaker/)
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [Epsilon W35 Xi speaker: specs, price, availability](https://www.wired.com/story/epsilon-w35-xi-speaker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

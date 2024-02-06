@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
  - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)
  - [How to use Trash on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-trash-on-macos-sonoma?utm_medium=rss)
  - [Super Bowl TV Shopping? Here Are Our Favorite Picks video     - CNET](https://www.cnet.com/videos/super-bowl-tv-shopping-here-are-our-favorite-picks/#ftag=CAD590a51e)
- - [Japan plans to extend ~$1.64B worth of subsidies for Kioxia and Western Digital to expand memory chip production as merger talks between the two stalled in 2023 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/240205/p34#a240205p34)
- - [A US federal judge sets the trial for the DOJ&#39;s and multiple states&#39; antitrust lawsuit against Google&#39;s ad business to begin on September 9, 2024 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240205/p33#a240205p33)<!-- TECH:END -->
+ - [Japan plans to extend ~$1.64B worth of subsidies for Kioxia and Western Digital to expand memory chip production as merger talks between the two stalled in 2023 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/240205/p34#a240205p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

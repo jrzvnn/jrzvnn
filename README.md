@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [Fun project](http://9gag.com/gag/amAE65v)
- - 👉 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)<!-- MEMES:END -->
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)
+ - 💣 [Royal Pain...](http://9gag.com/gag/a6qApEm)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)<!-- MEMES:END -->
 
 ---
 

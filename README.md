@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge rules Apple won&#39;t have to face a lawsuit alleging its smartwatch copied heart-monitoring technology from medical device company AliveCor &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
+ - [The refreshed Porsche Taycan will drive farther and charge faster than ever before](https://www.theverge.com/2024/2/6/24063359/porsche-taycan-refresh-ev-spec-photos-price)
+ - [Fossil fuels are losing ground to renewable energy in Europe](https://www.theverge.com/2024/2/6/24062192/power-grid-pollution-fossil-fuels-eu-ember-report)
+ - [A US federal judge rules Apple won&#39;t have to face AliveCor&#39;s lawsuit alleging Apple&#39;s Watch copied heart-monitoring technology from the medical device company &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240206/p34#a240206p34)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [OpenAI is adding new watermarks to DALL-E 3](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials)
- - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
- - [ESPN, Fox, and Warner Bros. are putting together a juggernaut sports streaming app](https://www.theverge.com/2024/2/6/24064007/espn-fox-warner-bros-sports-streaming-partnership)<!-- TECH:END -->
+ - [OpenAI is adding new watermarks to DALL-E 3](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

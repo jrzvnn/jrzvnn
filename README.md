@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla announces Monitor Plus, a $14/month US service that scans 190+ data broker sites and automatically submits requests for removal of the user&#39;s data&amp;szlig; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240206/p22#a240206p22)
  - [Apple&#39;s Space Black MacBook Pro 14-inch just dropped to $1,749 for Valentine&#39;s Day](https://appleinsider.com/articles/24/02/06/apples-space-black-macbook-pro-14-inch-just-dropped-to-1749-for-valentines-day?utm_medium=rss)
+ - [Key Refinance Rate Move Past 7%: Mortgage Refinance Rates, Feb. 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-feb-6-2024-rates-tick-higher/#ftag=CAD590a51e)
  - [Morgan Stanley: Apple Vision Pro has immense long-term potential for Apple&#39;s bottom line](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
- - [Admissions essay reviewers say that certain words, such as &quot;tapestry&quot;, appear more frequently in submissions now and can be seen as red flags that AI was used &lpar;Forbes&rpar;](http://www.techmeme.com/240206/p21#a240206p21)
- - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
- - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [Admissions essay reviewers say that certain words, such as &quot;tapestry&quot;, appear more frequently in submissions now and can be seen as red flags that AI was used &lpar;Forbes&rpar;](http://www.techmeme.com/240206/p21#a240206p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

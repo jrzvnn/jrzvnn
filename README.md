@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC plans to stop accepting new enrollments for a US government broadband subsidy, used by 23M households, which is set to run out of funding in months &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240206/p6#a240206p6)
+ - [2054, Part II: Next Big Thing](https://www.wired.com/story/2054-part-ii-next-big-thing/)
  - [Ambience Healthcare, which offers an OS to help health care organizations with admin, raised a $70M Series B led by Kleiner Perkins and OpenAI&#39;s Startup Fund &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p5#a240206p5)
  - [Sources: Tencent plans to adapt acclaimed role-playing console game Elden Ring into a mobile version, after acquiring licensing rights from FromSoftware in 2022 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240206/p4#a240206p4)
- - [Sources: SMIC plans to use its stock of US and Dutch-made equipment to build 5nm Kirin chips designed by Huawei&#39;s HiSilicon for smartphones, despite US curbs &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240206/p3#a240206p3)
- - [Elden Ring mobile game reportedly under development at Tencent](https://www.theverge.com/2024/2/6/24063163/tencent-elden-ring-free-to-play-mobile-title)
- - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)<!-- TECH:END -->
+ - [Sources: SMIC plans to use its stock of US and Dutch-made equipment to build 5nm Kirin chips designed by Huawei&#39;s HiSilicon for smartphones, despite US curbs &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240206/p3#a240206p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

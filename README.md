@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
- - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
+ - 😝 [Rules here say : This one sparks joy](http://9gag.com/gag/ap9WVVp)
+ - 😝 [Jrr supremacy](http://9gag.com/gag/aXn5K8z)
+ - 💣 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)
+ - 😝 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
+ - 👉 [Coward Moderators](http://9gag.com/gag/aA0oOEE)<!-- MEMES:END -->
 
 ---
 

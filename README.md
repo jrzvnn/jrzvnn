@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
  - 😝 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 💣 [Incoming triggered people from West Taiwan](http://9gag.com/gag/a2KnbD1)
- - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 👉 [Fact](http://9gag.com/gag/aA0oXjL)<!-- MEMES:END -->
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OLED iPad Pro with M3 rumored to not be preposterously priced](https://appleinsider.com/articles/24/02/06/oled-ipad-pro-with-m3-rumored-to-not-be-preposterously-priced?utm_medium=rss)
+ - [On Meta&#39;s Q4 call, Mark Zuckerberg said Meta&#39;s next step in AI is &quot;learning&quot; from user data, and the dataset is larger than Common Crawl, raising privacy fears &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240206/p12#a240206p12)
  - [YouTube is experimenting with red, blue, and green video feeds](https://www.theverge.com/2024/2/6/24063178/youtube-testing-color-based-video-recommendation-feed-feature)
  - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
- - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate: Play Palworld, Persona 3 Reload and Others Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-palworld-persona-3-reload-and-others-now/#ftag=CAD590a51e)
  - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

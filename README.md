@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ambience Healthcare, which offers an OS to help health care organizations with admin, raised a $70M Series B led by Kleiner Perkins and OpenAI&#39;s Startup Fund &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p5#a240206p5)
  - [Sources: Tencent plans to adapt acclaimed role-playing console game Elden Ring into a mobile version, after acquiring licensing rights from FromSoftware in 2022 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240206/p4#a240206p4)
  - [Sources: SMIC plans to use its stock of US and Dutch-made equipment to build 5nm Kirin chips designed by Huawei&#39;s HiSilicon for smartphones, despite US curbs &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/240206/p3#a240206p3)
  - [Elden Ring mobile game reportedly under development at Tencent](https://www.theverge.com/2024/2/6/24063163/tencent-elden-ring-free-to-play-mobile-title)
- - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)
- - [Social Security COLA Increase: Do You Have to Pay Taxes on the Additional Money This Year?     - CNET](https://www.cnet.com/personal-finance/taxes/social-security-cola-increase-do-you-have-to-pay-taxes-on-the-additional-money-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

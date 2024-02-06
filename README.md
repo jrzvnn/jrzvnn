@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)
- - [TSMC plans to build a second Japanese plant in Kumamoto, set to open in 2027, taking its investment to $20B+; the first plant will hit volume production in Q4 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/240206/p8#a240206p8)
- - [Apple Watch Ultra with microLED display rumored to have hit another roadblock](https://appleinsider.com/articles/24/02/06/apple-watch-ultra-with-microled-display-delayed-again?utm_medium=rss)
- - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;3.7B, MAUs up 23% YoY to 602M, subscribers up 15% YoY to 236M, a &amp;euro;75M operating loss, and expects 618M MAUs in Q1 2024 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240206/p7#a240206p7)
- - [Spotify subscribers rise to 236 million after record year](https://www.theverge.com/2024/2/6/24061976/spotify-earnings-q4-2023)<!-- TECH:END -->
+ - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
+ - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)
+ - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)
+ - [Google agrees to pay $350M to settle a lawsuit over a Google+ security lapse that exposed personal data; people who bought stock in 2018-2019 can get a share &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240206/p10#a240206p10)
+ - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

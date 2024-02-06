@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
- - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
- - 💣 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
  - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
+ - 💣 [What do you guys think?](http://9gag.com/gag/a042EXB)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
  - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 ---

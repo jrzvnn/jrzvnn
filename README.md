@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 😝 [WTF](http://9gag.com/gag/aKErv66)
  - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - 💣 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [Fun project](http://9gag.com/gag/amAE65v)<!-- MEMES:END -->
+ - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
 
 ---
 

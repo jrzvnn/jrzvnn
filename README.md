@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
  - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 💣 [Globalism is going to take the entire world backward](http://9gag.com/gag/aqeqWdY)
- - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 💣 [Not my job.](http://9gag.com/gag/agoP74n)
+ - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
  - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---

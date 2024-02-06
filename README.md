@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI will change phones — and the whole internet](https://www.theverge.com/2024/2/6/24063221/ai-search-arc-galaxy-s24-spatial-video-vergecast)
  - [Bluesky CEO Jay Graber says the social network, launched on iOS in February 2023, is now open to the public, has 3M+ users, and plans to add developers tools &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240206/p17#a240206p17)
  - [YouTube says YouTube TV now has 8M+ subscribers, up from 5M+ in mid-2022, and that the YouTube Partner Program has 3M+ channels receiving ad revenue share &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240206/p16#a240206p16)
  - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
- - [SMIC reports unaudited Q4 revenue rose 3.5% YoY to $1.68B, below est., and $902.5M net income, down from $1.82B YoY; 2023 capex was up 17.6% YoY to $7.47B &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p15#a240206p15)
- - [Nubia Z60 Ultra Review: Bigger Isn&#39;t Always Better](https://www.wired.com/review/nubia-z60-ultra-phone/)<!-- TECH:END -->
+ - [SMIC reports unaudited Q4 revenue rose 3.5% YoY to $1.68B, below est., and $902.5M net income, down from $1.82B YoY; 2023 capex was up 17.6% YoY to $7.47B &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p15#a240206p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

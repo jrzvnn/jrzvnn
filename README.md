@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
+ - 😝 [Royal Pain...](http://9gag.com/gag/a6qApEm)
  - 😝 [277](http://9gag.com/gag/a2KnDp1)
- - 💣 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 💣 [She is lucky he didn&#39;t whip it out in front of her given his history lol](http://9gag.com/gag/aeQvmmO)
  - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
+ - 👉 [Married Minnesota mom is arrested for sexually abusing two 15 year-old members of a youth hockey team from Colorado](http://9gag.com/gag/aREYMZ5)<!-- MEMES:END -->
 
 ---
 

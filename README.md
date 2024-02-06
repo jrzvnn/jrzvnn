@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
+ - [Apple rolls out second developer beta of tvOS 17.4](https://appleinsider.com/articles/24/02/06/apple-rolls-out-second-developer-beta-of-tvos-174?utm_medium=rss)
+ - [Apple introduces the first developer beta of visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-introduces-the-first-developer-beta-of-visionos-11?utm_medium=rss)
  - [Second macOS Sonoma 14.4 developer beta has arrived](https://appleinsider.com/articles/24/02/06/second-macos-sonoma-144-developer-beta-has-arrived?utm_medium=rss)
- - [Apple issues second watchOS 10.4 developer beta](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)
- - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)
- - [Polyamory Has Entered the Chat](https://www.wired.com/story/polyamory-popularity-dating-apps/)
- - [$300 Vision Pro developer strap is just an expensive USB2 device](https://appleinsider.com/articles/24/02/06/300-vision-pro-developer-strap-is-just-an-expensive-usb2-device?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues second watchOS 10.4 developer beta](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI is adding new watermarks to DALL-E 3](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials)
+ - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
  - [ESPN, Fox, and Warner Bros. are putting together a juggernaut sports streaming app](https://www.theverge.com/2024/2/6/24064007/espn-fox-warner-bros-sports-streaming-partnership)
  - [Researchers say ~3M smart toothbrushes with a Java-based OS were compromised by hackers and incorporated into botnets used in DDoS attacks against a Swiss site &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240206/p33#a240206p33)
- - [The Public Interest Registry will give domain registries free access to tools from the Internet Watch Foundation to crack down on the spread of CSAM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240206/p32#a240206p32)
- - [Fox, ESPN, and WBD announce a new joint venture to launch a streaming sports service in the US in the fall of 2024; each entity will own a third of the JV &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240206/p31#a240206p31)<!-- TECH:END -->
+ - [No More Waiting for a Bluesky Invite: The X Alternative Is Now Open to All     - CNET](https://www.cnet.com/tech/no-more-waiting-for-a-bluesky-invite-the-x-alternative-is-now-open-to-all/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is experimenting with red, blue, and green video feeds](https://www.theverge.com/2024/2/6/24063178/youtube-testing-color-based-video-recommendation-feed-feature)
  - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
- - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)
- - [China to get Apple Vision Pro by May at latest](https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest?utm_medium=rss)
- - [Google agrees to pay $350M to settle a lawsuit over a Google+ security lapse that exposed personal data; people who bought stock in 2018-2019 can get a share &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240206/p10#a240206p10)
- - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)<!-- TECH:END -->
+ - [26 Valentine&#39;s Gifts to Impress Her in 2024     - CNET](https://www.cnet.com/news/valentines-gifts-for-her/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate: Play Palworld, Persona 3 Reload and Others Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-palworld-persona-3-reload-and-others-now/#ftag=CAD590a51e)
+ - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

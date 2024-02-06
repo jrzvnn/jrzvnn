@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Unit 42: the number of victims reported by ransomware leak sites grew 49% YoY in 2023, with ~50% in the US, despite authorities taking down some services &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240206/p2#a240206p2)
  - [Webex for Apple Vision Pro officially launches with Persona support](https://appleinsider.com/articles/24/02/06/webex-for-apple-vision-pro-officially-launches-with-persona-support?utm_medium=rss)
- - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
- - [Super Bowl 2024: How to Throw a Taylor Swift-Themed Party for the Big Game     - CNET](https://www.cnet.com/culture/super-bowl-2024-how-to-throw-a-taylor-swift-themed-super-bowl-party/#ftag=CAD590a51e)
- - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Best Impulse Buys for Valentine&#39;s Day     - CNET](https://www.cnet.com/news/best-impulse-buys-for-valentines-day/#ftag=CAD590a51e)
+ - [Nintendo reports Q3 net sales down 6% YoY to ~$4B, net profit up 18% YoY to ~$919M, and forecasts 15.5M Switch sales in the current fiscal year, up from 15M YoY &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
+ - [Super Bowl 2024: How to Throw a Taylor Swift-Themed Party for the Big Game     - CNET](https://www.cnet.com/culture/super-bowl-2024-how-to-throw-a-taylor-swift-themed-super-bowl-party/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

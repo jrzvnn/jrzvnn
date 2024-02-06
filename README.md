@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
+ - 😝 [She is lucky he didn&#39;t whip it out in front of her given his history lol](http://9gag.com/gag/aeQvmmO)
+ - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
 
 ---
 

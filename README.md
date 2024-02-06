@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nintendo reports Q3 net sales of ~$4B and net profit of ~$919M, both above estimates, expects to sell 15.5M Switch consoles in current fiscal year, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)
+ - [Super Bowl 2024: How to Throw a Taylor Swift-Themed Party for the Big Game     - CNET](https://www.cnet.com/culture/super-bowl-2024-how-to-throw-a-taylor-swift-themed-super-bowl-party/#ftag=CAD590a51e)
  - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)
  - [How to use Trash on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-trash-on-macos-sonoma?utm_medium=rss)
- - [Super Bowl TV Shopping? Here Are Our Favorite Picks video     - CNET](https://www.cnet.com/videos/super-bowl-tv-shopping-here-are-our-favorite-picks/#ftag=CAD590a51e)
- - [Japan plans to extend ~$1.64B worth of subsidies for Kioxia and Western Digital to expand memory chip production as merger talks between the two stalled in 2023 &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/240205/p34#a240205p34)<!-- TECH:END -->
+ - [Super Bowl TV Shopping? Here Are Our Favorite Picks video     - CNET](https://www.cnet.com/videos/super-bowl-tv-shopping-here-are-our-favorite-picks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

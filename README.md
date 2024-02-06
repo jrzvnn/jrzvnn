@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
+ - [The EU proposes slashing pollution 90 percent by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)
+ - [YouTube says Shorts averages 70B+ daily views and the number of channels uploading Shorts rose 50% YoY &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240206/p24#a240206p24)
  - [The UK, the US, France, Poland, and other nations, plus Google, Microsoft, Meta, and others, sign a statement recognizing the need for more action on spyware &lpar;Antoaneta Roussi/Politico&rpar;](http://www.techmeme.com/240206/p23#a240206p23)
- - [WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)
- - [Mozilla announces Monitor Plus, a $14/month US service that scans 190+ data broker sites and automatically submits requests for removal of the user&#39;s data &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240206/p22#a240206p22)
- - [Apple&#39;s Space Black MacBook Pro 14-inch just dropped to $1,749 for Valentine&#39;s Day](https://appleinsider.com/articles/24/02/06/apples-space-black-macbook-pro-14-inch-just-dropped-to-1749-for-valentines-day?utm_medium=rss)
- - [Key Refinance Rate Move Past 7%: Mortgage Refinance Rates, Feb. 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-feb-6-2024-rates-tick-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

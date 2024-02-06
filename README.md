@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
  - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 💣 [Elisa Meneghini doing some stretching](http://9gag.com/gag/amAEmbd)
- - 😝 [She is lucky he didn&#39;t whip it out in front of her given his history lol](http://9gag.com/gag/aeQvmmO)
- - 👉 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)<!-- MEMES:END -->
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 👉 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Morgan Stanley: Apple Vision Pro has immense long-term potential for Apple&#39;s bottom line](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
+ - [Admissions essay reviewers say that certain words, such as &quot;tapestry&quot;, appear more frequently in submissions now and can be seen as red flags that AI was used &lpar;Forbes&rpar;](http://www.techmeme.com/240206/p21#a240206p21)
  - [You can score a rare discount on Apple’s AirTags](https://www.theverge.com/2024/2/6/24062093/apple-airtag-google-pixel-7a-blink-video-doorbell-fitbit-inspire-3-deal-sale)
  - [Suicide Squad hides its brash personality under a generic looter shooter](https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc)
- - [Meta expands its Take It Down tool, which helps teens combat non-consensual sharing of intimate imagery, to 25 languages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240206/p20#a240206p20)
- - [The Vision Pro’s killer app: Cybertruck clout-chasing accessory](https://www.theverge.com/2024/2/6/24063317/vision-pro-viral-videos-tesla-cybertruck-autopilot)
- - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)<!-- TECH:END -->
+ - [Meta expands its Take It Down tool, which helps teens combat non-consensual sharing of intimate imagery, to 25 languages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240206/p20#a240206p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

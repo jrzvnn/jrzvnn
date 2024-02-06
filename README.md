@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)
+ - [Disney Plus’ restrictions on password sharing are now rolling out to US subscribers](https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us)
  - [You can reset the Apple Vision Pro passcode in visionOS 1.1 beta](https://appleinsider.com/articles/24/02/06/you-can-reset-the-apple-vision-pro-passcode-in-visionos-11-beta?utm_medium=rss)
  - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
- - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)
- - [The Netherlands says Chinese state-sponsored hackers broke into the Dutch Ministry of Defence&#39;s internal network in 2023, using a Fortinet vulnerability &lpar;Reuters&rpar;](http://www.techmeme.com/240206/p29#a240206p29)
- - [Apple’s first Vision Pro beta lets you bring virtual items closer](https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management)<!-- TECH:END -->
+ - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

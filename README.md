@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases a beta version of visionOS 1.1, which brings enterprise device management to the Vision Pro &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240206/p27#a240206p27)
+ - [Epsilon W35 Xi speaker: specs, price, availability](https://www.wired.com/story/epsilon-w35-xi-speaker/)
  - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
  - [A look at Meta&#39;s plan to build interoperability into WhatsApp and Messenger under the DMA; Meta plans to make third-party chats opt-in and in a separate inbox &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240206/p26#a240206p26)
- - [Consensys announces MetaMask integration with Robinhood, letting MetaMask users purchase USDC, ether, bitcoin, and other crypto via Robinhood&#39;s order engine &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240206/p25#a240206p25)
- - [Apple introduces the first developer beta of visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-introduces-the-first-developer-beta-of-visionos-11?utm_medium=rss)
- - [Apple rolls out second developer beta of tvOS 17.4](https://appleinsider.com/articles/24/02/06/apple-rolls-out-second-developer-beta-of-tvos-174?utm_medium=rss)<!-- TECH:END -->
+ - [Consensys announces MetaMask integration with Robinhood, letting MetaMask users purchase USDC, ether, bitcoin, and other crypto via Robinhood&#39;s order engine &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240206/p25#a240206p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consensys announces MetaMask integration with Robinhood, letting MetaMask users purchase USDC, ether, bitcoin, and other crypto via Robinhood&#39;s order engine &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240206/p25#a240206p25)
+ - [Apple introduces the first developer beta of visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-introduces-the-first-developer-beta-of-visionos-11?utm_medium=rss)
  - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
  - [Apple rolls out second developer beta of tvOS 17.4](https://appleinsider.com/articles/24/02/06/apple-rolls-out-second-developer-beta-of-tvos-174?utm_medium=rss)
- - [Apple introduces the first developer beta of visionOS 1.1](https://appleinsider.com/articles/24/02/06/apple-introduces-the-first-developer-beta-of-visionos-11?utm_medium=rss)
- - [Second macOS Sonoma 14.4 developer beta has arrived](https://appleinsider.com/articles/24/02/06/second-macos-sonoma-144-developer-beta-has-arrived?utm_medium=rss)
- - [Apple issues second watchOS 10.4 developer beta](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Second macOS Sonoma 14.4 developer beta has arrived](https://appleinsider.com/articles/24/02/06/second-macos-sonoma-144-developer-beta-has-arrived?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

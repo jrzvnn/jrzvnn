@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DocuSign plans to lay off 6% of its workforce, or ~440 jobs, and will incur a $28M-$32M charge, after acquisition talks seemingly fell through; DOCU drops 6%+ &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/240206/p19#a240206p19)
  - [Adam Neumann got kicked out of WeWork — now he wants to buy it](https://www.theverge.com/2024/2/6/24063224/adam-neumann-wework-bankrupt-buy)
  - [Taylor Swift has bad blood with student tracking celebrity flights via public info](https://www.theverge.com/2024/2/6/24063220/taylor-swift-jet-public-data-social-media)
  - [Daily deals Feb. 6: M3 Pro MacBook Pro $1,749, AirTag 4-pack $79, iPad mini 6 $399, more](https://appleinsider.com/articles/24/02/06/daily-deals-feb-6-m3-pro-macbook-pro-1749-airtag-4-pack-79-ipad-mini-6-399-more?utm_medium=rss)
- - [Apple Vision Pro review: disappointing for productivity, very narrow field of view, and the Guest User feature is bad, all making the device hard to recommend &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240206/p18#a240206p18)
- - [How AI will change phones — and the whole internet](https://www.theverge.com/2024/2/6/24063221/ai-search-arc-galaxy-s24-spatial-video-vergecast)<!-- TECH:END -->
+ - [Apple Vision Pro review: disappointing for productivity, very narrow field of view, and the Guest User feature is bad, all making the device hard to recommend &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240206/p18#a240206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

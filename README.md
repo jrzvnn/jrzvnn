@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is a good door](http://9gag.com/gag/aBd74ZN)
- - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
- - 💣 [Word](http://9gag.com/gag/aEqLW59)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [Feel old yet?](http://9gag.com/gag/aGEWOLz)<!-- MEMES:END -->
+ - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 💣 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 ---
 

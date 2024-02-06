@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring mobile game reportedly under development at Tencent](https://www.theverge.com/2024/2/6/24063163/tencent-elden-ring-free-to-play-mobile-title)
  - [Sony’s latest PS5 beta improves DualSense controller audio and screen sharing](https://www.theverge.com/2024/2/6/24063160/sony-ps5-beta-update-dual-sense-controller-speaker-microphone-screen-sharing)
- - [Unit 42: the number of victims reported by ransomware leak sites grew 49% YoY in 2023, with ~50% in the US, despite authorities taking down some services &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240206/p2#a240206p2)
- - [Webex for Apple Vision Pro officially launches with Persona support](https://appleinsider.com/articles/24/02/06/webex-for-apple-vision-pro-officially-launches-with-persona-support?utm_medium=rss)
- - [Best Impulse Buys for Valentine&#39;s Day     - CNET](https://www.cnet.com/news/best-impulse-buys-for-valentines-day/#ftag=CAD590a51e)
- - [Nintendo reports Q3 net sales down 6% YoY to ~$4B, net profit up 18% YoY to ~$919M, and forecasts 15.5M Switch sales in the current fiscal year, up from 15M YoY &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240206/p1#a240206p1)<!-- TECH:END -->
+ - [Social Security COLA Increase: Do You Have to Pay Taxes on the Additional Money This Year?     - CNET](https://www.cnet.com/personal-finance/taxes/social-security-cola-increase-do-you-have-to-pay-taxes-on-the-additional-money-this-year/#ftag=CAD590a51e)
+ - [You Can Get Your 2024 Tax Refund Money Up to 5 Days Sooner. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/taxes/you-can-get-your-2024-tax-refund-up-to-5-days-sooner-heres-how/#ftag=CAD590a51e)
+ - [Don&#39;t Lose That COLA Letter You Received in December 2023. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-that-cola-letter-you-received-in-december-2023-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says you better disclose your AI fakes or it might just pull them](https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads)
+ - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)
  - [OLED iPad Pro with M3 rumored to not be preposterously priced](https://appleinsider.com/articles/24/02/06/oled-ipad-pro-with-m3-rumored-to-not-be-preposterously-priced?utm_medium=rss)
  - [On Meta&#39;s Q4 call, Mark Zuckerberg said Meta&#39;s next step in AI is &quot;learning&quot; from user data, and the dataset is larger than Common Crawl, raising privacy fears &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240206/p12#a240206p12)
- - [YouTube is experimenting with red, blue, and green video feeds](https://www.theverge.com/2024/2/6/24063178/youtube-testing-color-based-video-recommendation-feed-feature)
- - [Solana suffers a major outage, lasting for over two hours, and says validators should prepare for a network restart, the first big outage since February 2023 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240206/p11#a240206p11)
- - [RFK Jr and the Golden Bachelor Used the Same Stylist, FEC Filings Show](https://www.wired.com/story/rfk-jr-golden-bachelor-stylist/)<!-- TECH:END -->
+ - [YouTube is experimenting with red, blue, and green video feeds](https://www.theverge.com/2024/2/6/24063178/youtube-testing-color-based-video-recommendation-feed-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

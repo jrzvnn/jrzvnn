@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra with microLED display rumored to have hit another roadblock](https://appleinsider.com/articles/24/02/06/apple-watch-ultra-with-microled-display-delayed-again?utm_medium=rss)
  - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;3.7B, MAUs up 23% YoY to 602M, subscribers up 15% YoY to 236M, a &amp;euro;75M operating loss, and expects 618M MAUs in Q1 2024 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240206/p7#a240206p7)
  - [Spotify subscribers rise to 236 million after record year](https://www.theverge.com/2024/2/6/24061976/spotify-earnings-q4-2023)
  - [The FCC plans to stop accepting new enrollments for a US government broadband subsidy, used by 23M households, which is set to run out of funding in months &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240206/p6#a240206p6)
- - [2054, Part II: Next Big Thing](https://www.wired.com/story/2054-part-ii-next-big-thing/)
- - [Ambience Healthcare, which offers an OS to help health care organizations with admin, raised a $70M Series B led by Kleiner Perkins and OpenAI&#39;s Startup Fund &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p5#a240206p5)<!-- TECH:END -->
+ - [2054, Part II: Next Big Thing](https://www.wired.com/story/2054-part-ii-next-big-thing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

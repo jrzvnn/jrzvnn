@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [$300 Vision Pro developer strap is just an expensive USB2 device](https://appleinsider.com/articles/24/02/06/300-vision-pro-developer-strap-is-just-an-expensive-usb2-device?utm_medium=rss)
  - [Now the US government is demanding users not wear Apple Vision Pro while driving](https://appleinsider.com/articles/24/02/06/now-the-us-government-is-demanding-users-not-wear-apple-vision-pro-while-driving?utm_medium=rss)
  - [The EU proposes slashing pollution 90 percent by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)
  - [YouTube says Shorts averages 70B+ daily views and the number of channels uploading Shorts rose 50% YoY &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240206/p24#a240206p24)
- - [The UK, the US, France, Poland, and other nations, plus Google, Microsoft, Meta, and others, sign a statement recognizing the need for more action on spyware &lpar;Antoaneta Roussi/Politico&rpar;](http://www.techmeme.com/240206/p23#a240206p23)
- - [WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps](https://www.wired.com/story/whatsapp-interoperability-messaging/)<!-- TECH:END -->
+ - [The UK, the US, France, Poland, and other nations, plus Google, Microsoft, Meta, and others, sign a statement recognizing the need for more action on spyware &lpar;Antoaneta Roussi/Politico&rpar;](http://www.techmeme.com/240206/p23#a240206p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

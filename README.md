@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify’s transformed podcast business may actually be profitable this year](https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit)
  - [Apple TV+ snags critically acclaimed Sundance film starring Lily Gladstone](https://appleinsider.com/articles/24/02/06/apple-tv-snags-critically-acclaimed-sundance-film-starring-lily-gladstone?utm_medium=rss)
  - [Disney Plus’ restrictions on password sharing are now rolling out to US subscribers](https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us)
  - [You can reset the Apple Vision Pro passcode in visionOS 1.1 beta](https://appleinsider.com/articles/24/02/06/you-can-reset-the-apple-vision-pro-passcode-in-visionos-11-beta?utm_medium=rss)
- - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)
- - [Apple issues second watchOS 10.4, tvOS 17.4, macOS 14.4 developer betas](https://appleinsider.com/articles/24/02/06/apple-issues-second-watchos-104-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Morgan Stanley dubs Apple Vision Pro a &#39;free call option on spatial computing&#39;](https://appleinsider.com/articles/24/02/06/morgan-stanley-apple-vision-pro-has-immense-long-term-potential-for-apples-bottom-line?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

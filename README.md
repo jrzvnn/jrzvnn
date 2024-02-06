@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s TAG publishes a report on commercial spyware, detailing ~40 vendors, and says global governments should take more aggressive steps to combat spyware &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240206/p9#a240206p9)
  - [TSMC plans to build a second Japanese plant in Kumamoto, set to open in 2027, taking its investment to $20B+; the first plant will hit volume production in Q4 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/240206/p8#a240206p8)
  - [Apple Watch Ultra with microLED display rumored to have hit another roadblock](https://appleinsider.com/articles/24/02/06/apple-watch-ultra-with-microled-display-delayed-again?utm_medium=rss)
  - [Spotify reports Q4 revenue up 16% YoY to &amp;euro;3.7B, MAUs up 23% YoY to 602M, subscribers up 15% YoY to 236M, a &amp;euro;75M operating loss, and expects 618M MAUs in Q1 2024 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240206/p7#a240206p7)
- - [Spotify subscribers rise to 236 million after record year](https://www.theverge.com/2024/2/6/24061976/spotify-earnings-q4-2023)
- - [The FCC plans to stop accepting new enrollments for a US government broadband subsidy, used by 23M households, which is set to run out of funding in months &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240206/p6#a240206p6)<!-- TECH:END -->
+ - [Spotify subscribers rise to 236 million after record year](https://www.theverge.com/2024/2/6/24061976/spotify-earnings-q4-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MicroStrategy bought 31,775 BTC in Q4 2023 for an average cost of $39,411 per BTC, taking its total holdings to 190K BTC acquired for a total cost of $5.93B &lpar;Nelson Wang/Unchained&rpar;](http://www.techmeme.com/240206/p36#a240206p36)
  - [iPhone 16 camera bump design rumored to have shifted closer to iPhone X](https://appleinsider.com/articles/24/02/06/iphone-16-camera-bump-design-rumored-to-have-shifted-closer-to-iphone-x?utm_medium=rss)
  - [The Console Wars Are Over. Some Influencers Won’t Let Them Go](https://www.wired.com/story/xbox-playstation-influencers-phil-spencer/)
  - [ID management company Entrust acquires Onfido, a London-based provider of automated identity verification services, sources say for &quot;well above&quot; $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240206/p35#a240206p35)
- - [The refreshed Porsche Taycan will drive farther and charge faster than ever before](https://www.theverge.com/2024/2/6/24063359/porsche-taycan-refresh-ev-spec-photos-price)
- - [Fossil fuels are losing ground to renewable energy in Europe](https://www.theverge.com/2024/2/6/24062192/power-grid-pollution-fossil-fuels-eu-ember-report)<!-- TECH:END -->
+ - [The refreshed Porsche Taycan will drive farther and charge faster than ever before](https://www.theverge.com/2024/2/6/24063359/porsche-taycan-refresh-ev-spec-photos-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

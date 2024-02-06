@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun project](http://9gag.com/gag/amAE65v)
- - 😝 [You know what...](http://9gag.com/gag/a5X8jVg)
- - 💣 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
  - 😝 [Let&#39;s play a game](http://9gag.com/gag/aoKbR3e)
- - 👉 [What do you guys think?](http://9gag.com/gag/a042EXB)<!-- MEMES:END -->
+ - 😝 [277](http://9gag.com/gag/a2KnDp1)
+ - 💣 [They don&#39;t make these anymore](http://9gag.com/gag/aBd7PW1)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
 
 ---
 

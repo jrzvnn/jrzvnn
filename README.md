@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming Prime Video With Ads Is Light Work     - CNET](https://www.cnet.com/tech/services-and-software/streaming-prime-video-with-ads-is-light-work/#ftag=CAD590a51e)
- - [Do SSDI Beneficiaries Need to File Their Taxes This Year? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-beneficiaries-need-to-file-their-taxes-this-year-find-out-here/#ftag=CAD590a51e)
- - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
- - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, 150M MAUs, and first full-year operating profit of $1.1B &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
- - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)<!-- TECH:END -->
+ - [Alibaba cut ~20K staff during 2023, ending December with 219,260 employees, after cutting roughly the same number in 2022, and bought $9.5B of its stock in 2023 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240207/p13#a240207p13)
+ - [LinkedIn&#39;s New AI Chatbot Wants to Help You Find Your Next Job](https://www.wired.com/story/linkedin-ai-chatbot-help-find-your-next-job/)
+ - [How to Use Your Phone as a Bedside Alarm Clock With StandBy and Bedtime Modes](https://www.wired.com/story/how-to-use-phone-as-bedside-clock/)
+ - [The US strengthens air quality rule for soot](https://www.theverge.com/2024/2/7/24063978/air-pollution-epa-quality-rule-soot-us)
+ - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
  - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 💣 [Word](http://9gag.com/gag/aEqLW59)
+ - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
  - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
+ - 👉 [And people keep buying them](http://9gag.com/gag/aL1ymR6)<!-- MEMES:END -->
 
 ---
 

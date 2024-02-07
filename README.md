@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Streaming Prime Video With Ads Is Light Work     - CNET](https://www.cnet.com/tech/services-and-software/streaming-prime-video-with-ads-is-light-work/#ftag=CAD590a51e)
+ - [Do SSDI Beneficiaries Need to File Their Taxes This Year? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-beneficiaries-need-to-file-their-taxes-this-year-find-out-here/#ftag=CAD590a51e)
  - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
  - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, 150M MAUs, and first full-year operating profit of $1.1B &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
- - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)
- - [Alibaba reports Q3 revenue up 5% YoY to ~$36.7B, net income down to ~$2B, Taobao and Tmall revenue up 2% YoY to ~$18B, and a $25B share buyback; BABA rises ~5% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240207/p10#a240207p10)
- - [Confessions of an AI Clickbait Kingpin](https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/)<!-- TECH:END -->
+ - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
- - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
- - 😝 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
- - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
+ - 😝 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
+ - 😝 [Coward Moderators](http://9gag.com/gag/aA0oOEE)
+ - 💣 [Not all heroes wear capes](http://9gag.com/gag/a1PGwpD)
+ - 😝 [Was sad then... crying now. RIP](http://9gag.com/gag/amAERo6)
+ - 👉 [Bravo!](http://9gag.com/gag/aGEWOQG)<!-- MEMES:END -->
 
 ---
 

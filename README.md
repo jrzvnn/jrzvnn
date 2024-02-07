@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 💣 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
  - 😝 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 ---
 

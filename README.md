@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 💣 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - 😝 [To our boys in Ukraine: I, for one, didn&#39;t get `tired of the war`. I am here, scrolling latest news several times a day, hoping to see good news from Ukraine. I thank you for your heroism. Come home soon.](http://9gag.com/gag/a2KnjNY)
+ - 😝 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
+ - 💣 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)<!-- MEMES:END -->
+ - 👉 [How you actually do the cat in public](http://9gag.com/gag/aGEWNVn)<!-- MEMES:END -->
 
 ---
 

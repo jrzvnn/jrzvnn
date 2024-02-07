@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Friend just posted this and was utterly serious](http://9gag.com/gag/aZDG2G9)
- - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
+ - 😝 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)<!-- MEMES:END -->
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 

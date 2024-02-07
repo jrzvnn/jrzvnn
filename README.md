@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
- - 😝 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
- - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 😝 [When gaming has returned to being an art form... and not a quick cash grab....](http://9gag.com/gag/aA0omYp)
+ - 💣 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
+ - 👉 [Refugees should be assigned to capsule hotels instead of houses or apartments that are kept for actual residents.](http://9gag.com/gag/aNw6qRb)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
+ - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 💣 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
+ - 👉 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)<!-- MEMES:END -->
 
 ---
 

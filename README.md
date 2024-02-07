@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro rumored to get Capture Button with DSLR-style feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
  - [Roblox reports Q4 revenue up 30% YoY to $749.9M, bookings up 25% YoY to a record $1.1B, DAUs up 22% YoY to 71.5M, and $2.8B in 2023 revenue; RBLX jumps 13%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240207/p14#a240207p14)
  - [Why Apple Vision Pro&#39;s constant strobing matters to your health](https://appleinsider.com/inside/apple-vision-pro/tips/why-apple-vision-pro-constantly-strobing-matters-to-your-health?utm_medium=rss)
  - [Alibaba cut ~20K staff during 2023, ending December with 219,260 employees, after cutting roughly the same number in 2022, and bought $9.5B of its stock in 2023 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240207/p13#a240207p13)
- - [LinkedIn&#39;s New AI Chatbot Wants to Help You Find Your Next Job](https://www.wired.com/story/linkedin-ai-chatbot-help-find-your-next-job/)
- - [How to Use Your Phone as a Bedside Alarm Clock With StandBy and Bedtime Modes](https://www.wired.com/story/how-to-use-phone-as-bedside-clock/)<!-- TECH:END -->
+ - [LinkedIn&#39;s New AI Chatbot Wants to Help You Find Your Next Job](https://www.wired.com/story/linkedin-ai-chatbot-help-find-your-next-job/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

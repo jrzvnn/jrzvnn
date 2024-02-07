@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta challenges the EU&#39;s DSA supervisory fee of 0.05% of Meta&#39;s annual net income that cover regulators&#39; costs, disagreeing with how the fees are calculated &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p32#a240207p32)
  - [Compare Electricity Rates in Pennsylvania     - CNET](https://www.cnet.com/how-to/electricity-rates-pennsylvania/#ftag=CAD590a51e)
  - [Sources: OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user&#39;s device, and the other for web-based tasks &lpar;The Information&rpar;](http://www.techmeme.com/240207/p31#a240207p31)
  - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Disney Plus will start its password-sharing crackdown this summer](https://www.theverge.com/2024/2/7/24065158/disney-plus-password-account-sharing-summer-2024)
- - [Best Google Pixel Deals: Big Savings on Pixel Fold, 8 Pro and Older Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Plus will start its password-sharing crackdown this summer](https://www.theverge.com/2024/2/7/24065158/disney-plus-password-account-sharing-summer-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

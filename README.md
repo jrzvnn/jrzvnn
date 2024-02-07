@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
  - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
  - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
- - 👉 [That is a good door](http://9gag.com/gag/aBd74ZN)<!-- MEMES:END -->
+ - 👉 [And people keep buying them](http://9gag.com/gag/aL1ymR6)<!-- MEMES:END -->
 
 ---
 

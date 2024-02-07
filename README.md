@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)
  - [OpenAI says DALL-E 3 will embed watermarks to images with C2PA metadata and acknowledges the metadata can easily be removed either accidentally or intentionally &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240206/p39#a240206p39)
  - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)
  - [Zededa, a maker of edge infrastructure orchestration tools, raised $72M led by Smith Point Capital; a source says the round values the company around $400M &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240206/p38#a240206p38)
- - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
- - [Asus ROG Zephyrus G14 Review: A Lot to Love for Creators and Gamers     - CNET](https://www.cnet.com/tech/computing/asus-rog-zephyrus-g14-review-a-lot-to-love-for-creators-and-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rules here say : This one sparks joy](http://9gag.com/gag/ap9WVVp)
- - 😝 [Jrr supremacy](http://9gag.com/gag/aXn5K8z)
- - 💣 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)
- - 😝 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
- - 👉 [Coward Moderators](http://9gag.com/gag/aA0oOEE)<!-- MEMES:END -->
+ - 😝 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 👉 [That is a good door](http://9gag.com/gag/aBd74ZN)<!-- MEMES:END -->
 
 ---
 

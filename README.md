@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 💣 [Title is important](http://9gag.com/gag/abv9RLE)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 ---
 

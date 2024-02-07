@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coward Moderators](http://9gag.com/gag/aA0oOEE)
- - 😝 [Was sad then... crying now. RIP](http://9gag.com/gag/amAERo6)
- - 💣 [Don&#39;t start a twitter fight with a professional author. They have dedicated their entire lives to using words effectively.](http://9gag.com/gag/aVbNdj8)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 😝 [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
+ - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Teach your children to switch gears, not the genders](http://9gag.com/gag/aL1yWgM)<!-- MEMES:END -->
+ - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
 
 ---
 

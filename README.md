@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ransomware payments in 2023 reached a record $1.1B, up from $567M in 2022 and $983M in 2021, as the frequency, scope, and volume of attacks escalated &lpar;Chainalysis&rpar;](http://www.techmeme.com/240207/p17#a240207p17)
  - [Source: Apple is building at least two iPhone prototypes that fold widthwise; the devices are in early development and not set for production in 2024 or 2025 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240207/p16#a240207p16)
  - [A new Vision Pro teardown shows Apple’s incredible pixel density](https://www.theverge.com/2024/2/7/24064558/apple-vision-pro-pixel-density-ifixit-teardown)
  - [Ring’s latest battery doorbell comes with new features but the same old look](https://www.theverge.com/2024/2/7/24063837/ring-battery-doorbell-pro-price-release-date-specs-features)
- - [Apple Vision Pro crams 50 pixels into the area of one iPhone 15 pixel](https://appleinsider.com/articles/24/02/07/apple-vision-pro-crams-50-pixels-into-the-area-of-one-iphone-15-pixel?utm_medium=rss)
- - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro crams 50 pixels into the area of one iPhone 15 pixel](https://appleinsider.com/articles/24/02/07/apple-vision-pro-crams-50-pixels-into-the-area-of-one-iphone-15-pixel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Bowl 2024: the best ads and movie trailers](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)
+ - [Paris-based payments company Worldline plans to lay off around 8% of its global workforce, or ~1,400 jobs, as it seeks to cut annual costs by &amp;euro;200M from 2025 &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/240207/p23#a240207p23)
  - [Google’s 4K-ready Chromecast is nearly matching its best price to date](https://www.theverge.com/2024/2/7/24063538/chromecast-google-tv-4k-amazon-echo-pop-speaker-marvels-spider-man-2-deal-sale)
  - [Halo season 2 feels less like a video game — in a good way](https://www.theverge.com/24063618/halo-season-2-premiere-review-paramount-plus)
- - [Microsoft&#39;s Threat Analysis Center says Iran&#39;s cyber operations in Israel show how Iran could target the 2024 US elections, including fake news websites &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240207/p22#a240207p22)
- - [How a respected security researcher stole millions from Apple](https://appleinsider.com/articles/24/02/07/how-a-respected-security-researcher-stole-millions-from-apple?utm_medium=rss)
- - [Russia Is Boosting Calls for &#39;Civil War&#39; Over Texas Border Crisis](https://www.wired.com/story/russia-disinformation-campaign-civil-war-texas-border/)<!-- TECH:END -->
+ - [Microsoft&#39;s Threat Analysis Center says Iran&#39;s cyber operations in Israel show how Iran could target the 2024 US elections, including fake news websites &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240207/p22#a240207p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

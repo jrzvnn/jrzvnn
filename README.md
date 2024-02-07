@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bravo!](http://9gag.com/gag/aGEWOQG)
- - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 💣 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
- - 😝 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)
- - 👉 [Coward Moderators](http://9gag.com/gag/aA0oOEE)<!-- MEMES:END -->
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 💣 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 ---
 

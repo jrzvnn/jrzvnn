@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Usher is missing days before Super Bowl performance in new Apple Music teaser video](https://appleinsider.com/articles/24/02/07/usher-is-missing-days-before-super-bowl-performance-in-new-apple-music-teaser-video?utm_medium=rss)
  - [Microsoft updates Copilot with a redesigned look and new image creation and editing features, along with Deucalion, a new AI model for Copilot&#39;s Balanced mode &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240207/p24#a240207p24)
  - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
- - [The sports documentary boom from Netflix and beyond](https://www.theverge.com/2024/2/7/24064786/sports-streaming-docs-drive-to-survive-netflix)
- - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Texas     - CNET](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

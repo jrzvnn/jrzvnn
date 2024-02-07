@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
+ - 😝 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
+ - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 💣 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
+ - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
+ - 👉 [You know what...](http://9gag.com/gag/a5X8jVg)<!-- MEMES:END -->
 
 ---
 

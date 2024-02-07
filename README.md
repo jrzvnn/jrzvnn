@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
+ - 💣 [277](http://9gag.com/gag/a2KnDp1)
  - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 💣 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
+ - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
 
 ---
 

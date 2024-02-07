@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)
+ - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)
  - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)
  - [Best Xbox Game Pass Deals: Save Up to $65 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
- - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)
- - [OpenAI says DALL-E 3 will embed watermarks to images with C2PA metadata and acknowledges the metadata can easily be removed either accidentally or intentionally &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240206/p39#a240206p39)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

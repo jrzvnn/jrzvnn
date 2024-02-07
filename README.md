@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple is building at least two iPhone prototypes that fold widthwise; the devices are in early development and not set for production in 2024 or 2025 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240207/p16#a240207p16)
+ - [A new Vision Pro teardown shows Apple’s incredible pixel density](https://www.theverge.com/2024/2/7/24064558/apple-vision-pro-pixel-density-ifixit-teardown)
+ - [Ring’s latest battery doorbell comes with new features but the same old look](https://www.theverge.com/2024/2/7/24063837/ring-battery-doorbell-pro-price-release-date-specs-features)
  - [Apple Vision Pro crams 50 pixels into the area of one iPhone 15 pixel](https://appleinsider.com/articles/24/02/07/apple-vision-pro-crams-50-pixels-into-the-area-of-one-iphone-15-pixel?utm_medium=rss)
- - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)
- - [Trade group CISPE, representing Amazon and 26 EU cloud providers, is working with Microsoft to try to resolve EU antitrust concerns over Microsoft&#39;s licensing &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p15#a240207p15)
- - [Ransomware Payments Hit a Record $1.1 Billion in 2023](https://www.wired.com/story/ransomware-payments-2023-breaks-record/)
- - [10 Best Vibrators &lpar;2024&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
+ - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compare Electricity Rates in Pennsylvania     - CNET](https://www.cnet.com/how-to/electricity-rates-pennsylvania/#ftag=CAD590a51e)
  - [Sources: OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user&#39;s device, and the other for web-based tasks &lpar;The Information&rpar;](http://www.techmeme.com/240207/p31#a240207p31)
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [Disney Plus will start its password-sharing crackdown this summer](https://www.theverge.com/2024/2/7/24065158/disney-plus-password-account-sharing-summer-2024)
- - [Amazon’s Cloud Boss Likens Generative AI Hype to the Dotcom Bubble](https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/)
- - [Taylor Swift’s Eras Tour concert film is coming to Disney Plus](https://www.theverge.com/2024/2/7/24065421/taylor-swift-eras-tour-streaming-disney-plus-announced)
- - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Big Savings on Pixel Fold, 8 Pro and Older Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

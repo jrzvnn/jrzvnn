@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 😝 [Hey Thanos my boy, u still have that magic gloves with shiny stones?](http://9gag.com/gag/a8qBeK6)
- - 💣 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
  - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 😝 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
  - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
 
 ---

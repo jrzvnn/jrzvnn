@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a respected security researcher stole millions from Apple](https://appleinsider.com/articles/24/02/07/how-a-respected-security-researcher-stole-millions-from-apple?utm_medium=rss)
+ - [Russia Is Boosting Calls for &#39;Civil War&#39; Over Texas Border Crisis](https://www.wired.com/story/russia-disinformation-campaign-civil-war-texas-border/)
  - [An interview with Neboj&amp;scaron;a Vujinovi&amp;#263; Vujo, who runs 2,000+ AI-generated news sites, often hosted on popular, dormant domains, and claims to have human editors &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240207/p21#a240207p21)
  - [Today&#39;s top deals include 30% off Apple Watch, H&amp;R Block tax software for $19.99, Samsung 65&quot; TV for $398 &amp; more](https://appleinsider.com/articles/24/02/07/todays-top-deals-include-30-off-apple-watch-hr-block-tax-software-for-1999-samsung-65-tv-for-398-more?utm_medium=rss)
- - [Apple Vision Pro and battery teardown: 50 Vision Pro pixels fit into a single iPhone 15 Pro pixel, not technically 4K, a roughly 100&amp;deg; field of view, and more &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240207/p20#a240207p20)
- - [An in-depth look at Common Crawl, the 9.5PB web crawl archive dating back to 2008 run by a small nonprofit, its role in generative AI, its dataset, and more &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/240207/p19#a240207p19)
- - [Save Big and Get This Vactidy V9 Stick Vacuum for Just $70, but Be Quick     - CNET](https://www.cnet.com/deals/save-big-and-get-this-vactidy-v9-stick-vacuum-for-just-70-but-be-quick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro and battery teardown: 50 Vision Pro pixels fit into a single iPhone 15 Pro pixel, not technically 4K, a roughly 100&amp;deg; field of view, and more &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240207/p20#a240207p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

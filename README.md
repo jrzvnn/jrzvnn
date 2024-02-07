@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney+ begins emailing subscribers about new changes to its TOS that will make sharing accounts harder, days after Hulu sent out similar notices &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/240207/p8#a240207p8)
  - [Sources: Shanghai plans to accelerate approvals for foreign firms wanting to send their local data offshore, a major relaxation of China&#39;s stringent data rules &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p7#a240207p7)
  - [2054, Part III: The Singularity](https://www.wired.com/story/2054-part-iii-the-singularity/)
  - [Book, Movie, and Product Reviews Are Being Bought and Paid For](https://www.wired.com/story/paid-reviews-books-movies-gadgets/)
- - [Inside Zuzalu, a co-living experiment organized by Vitalik Buterin in Montenegro in 2023, as the techno-utopian &quot;Network State&quot; concept inspires more projects &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/240207/p6#a240207p6)
- - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)<!-- TECH:END -->
+ - [Inside Zuzalu, a co-living experiment organized by Vitalik Buterin in Montenegro in 2023, as the techno-utopian &quot;Network State&quot; concept inspires more projects &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/240207/p6#a240207p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

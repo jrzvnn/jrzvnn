@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Usher is missing days before Super Bowl performance in new Apple Music teaser video](https://appleinsider.com/articles/24/02/07/usher-is-missing-days-before-super-bowl-performance-in-new-apple-music-teaser-video?utm_medium=rss)
- - [Microsoft updates Copilot with a redesigned look and new image creation and editing features, along with Deucalion, a new AI model for Copilot&#39;s Balanced mode &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240207/p24#a240207p24)
- - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
- - [Best Solar Panel Installation Companies in Texas     - CNET](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft updates Copilot with a redesigned look, a new AI model for Copilot&#39;s Balanced mode called Deucalion, and new image creation and editing features &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240207/p24#a240207p24)
+ - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

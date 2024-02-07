@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s top deals include 30% off Apple Watch, H&amp;R Block tax software for $19.99, Samsung 65&quot; TV for $398 &amp; more](https://appleinsider.com/articles/24/02/07/todays-top-deals-include-30-off-apple-watch-hr-block-tax-software-for-1999-samsung-65-tv-for-398-more?utm_medium=rss)
+ - [Apple Vision Pro and battery teardown: 50 Vision Pro pixels fit into a single iPhone 15 Pro pixel, not technically 4K, a roughly 100&amp;deg; field of view, and more &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240207/p20#a240207p20)
  - [An in-depth look at Common Crawl, the 9.5PB web crawl archive dating back to 2008 run by a small nonprofit, its role in generative AI, its dataset, and more &lpar;Mozilla Foundation&rpar;](http://www.techmeme.com/240207/p19#a240207p19)
- - [The Three-Body Problem is getting a new audiobook release just in time for Netflix’s show](https://www.theverge.com/2024/2/7/24062452/three-body-problem-audiobook-rosalind-chao-netflix)
- - [New trailer for A Quiet Place: Day One is filled with sound and fury](https://www.theverge.com/24064657/a-quiet-place-day-one-trailer)
- - [Apple throws its hat into the AI-generated image ring](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring?utm_medium=rss)
- - [Apple is still working on foldable iPhones and iPads](https://www.theverge.com/2024/2/7/24064617/apple-foldable-iphone-ipad-rumor-z-flip-5)<!-- TECH:END -->
+ - [Save Big and Get This Vactidy V9 Stick Vacuum for Just $70, but Be Quick     - CNET](https://www.cnet.com/deals/save-big-and-get-this-vactidy-v9-stick-vacuum-for-just-70-but-be-quick/#ftag=CAD590a51e)
+ - [The Three-Body Problem is getting a new audiobook release just in time for Netflix’s show](https://www.theverge.com/2024/2/7/24062452/three-body-problem-audiobook-rosalind-chao-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

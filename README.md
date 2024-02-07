@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm reports Q3 revenue up 14% YoY to $824M, vs. $761.6M est., and forecasts Q4 sales and adjusted profit above expectations; ARM jumps 21%+ &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p28#a240207p28)
  - [Apple&#39;s M2 MacBook Air gets a new February price drop](https://appleinsider.com/articles/24/02/07/apples-m2-macbook-air-gets-a-new-february-price-drop?utm_medium=rss)
  - [Landline Phone Owners Are Protesting AT&amp;T’s Plans to Drop Service](https://www.wired.com/story/att-landline-california-complaints/)
  - [Adam Mosseri says Threads is testing the ability to save posts, a &quot;heavily requested feature&quot; that allows users to bookmark posts and revisit them later &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240207/p27#a240207p27)
- - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)
- - [Mechanical Orchard, which helps companies migrate systems from mainframes to the cloud, raised a $24M Series A led by Emergence Capital at a $95M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240207/p26#a240207p26)<!-- TECH:END -->
+ - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

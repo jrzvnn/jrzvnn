@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you guys think?](http://9gag.com/gag/a042EXB)
  - 😝 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)
- - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
  - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - 👉 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
 
 ---
 

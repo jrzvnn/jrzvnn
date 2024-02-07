@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 💣 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 😝 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 😝 [What do you guys think?](http://9gag.com/gag/a042EXB)
  - 👉 [And people keep buying them](http://9gag.com/gag/aL1ymR6)<!-- MEMES:END -->
 
 ---

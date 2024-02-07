@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
- - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
- - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
- - 👉 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)<!-- MEMES:END -->
+ - 😝 [Bravo!](http://9gag.com/gag/aGEWOQG)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 💣 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
+ - 😝 [Germany denied my tourist visa twice last year. Just wanted to see my friends.](http://9gag.com/gag/avQ3d7O)
+ - 👉 [Coward Moderators](http://9gag.com/gag/aA0oOEE)<!-- MEMES:END -->
 
 ---
 

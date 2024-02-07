@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
  - [The sports documentary boom from Netflix and beyond](https://www.theverge.com/2024/2/7/24064786/sports-streaming-docs-drive-to-survive-netflix)
  - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)
  - [Super Bowl 2024: the best ads and movie trailers](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)
- - [Paris-based payments company Worldline plans to lay off around 8% of its global workforce, or ~1,400 jobs, as it seeks to cut annual costs by &amp;euro;200M from 2025 &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/240207/p23#a240207p23)
- - [Google’s 4K-ready Chromecast is nearly matching its best price to date](https://www.theverge.com/2024/2/7/24063538/chromecast-google-tv-4k-amazon-echo-pop-speaker-marvels-spider-man-2-deal-sale)<!-- TECH:END -->
+ - [Paris-based payments company Worldline plans to lay off around 8% of its global workforce, or ~1,400 jobs, as it seeks to cut annual costs by &amp;euro;200M from 2025 &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/240207/p23#a240207p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

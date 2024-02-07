@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
- - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 💣 [You know what...](http://9gag.com/gag/a5X8jVg)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
+ - 👉 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge dismisses class-action antitrust case accusing Apple &amp; Google of collusion](https://appleinsider.com/articles/24/02/07/judge-dismisses-class-action-antitrust-case-accusing-apple-google-of-collusion?utm_medium=rss)
  - [PayPal reports Q4 revenue up 9% YoY to $8B, vs. $7.87B est., and total payment volume up 15% YoY to $409.8B, vs. $404.45B est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240207/p30#a240207p30)
  - [Best BBQ Sauces for 2024     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
  - [Disney plans to invest $1.5B for a stake in Epic Games and work with the gaming studio to create new games with content from Disney, Pixar, Marvel, and more &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240207/p29#a240207p29)
- - [Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite](https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse)
- - [I see your 67W USB-C charger and raise you one with a tiny Macintosh screen](https://www.theverge.com/2024/2/7/24065111/sharge-retro67-usbc-charger-mac)<!-- TECH:END -->
+ - [Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite](https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

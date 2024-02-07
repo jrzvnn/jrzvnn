@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 😝 [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
+ - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
+ - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
 
 ---
 

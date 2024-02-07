@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple made an AI image tool that lets you make edits by describing them](https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model)
+ - [Toyota overcomes its EV skepticism to announce a three-row electric SUV for the US](https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv)
  - [Apple drops second developer beta of iOS 17.4, iPadOS 17.4](https://appleinsider.com/articles/24/02/06/apple-drops-second-developer-beta-of-ios-174-ipados-174?utm_medium=rss)
  - [A report from the US, UK, Australia, Canada, and New Zealand: China-backed hacking group Volt Typhoon has had access to some key US infrastructure for 5+ years &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240207/p25#a240207p25)
- - [How to keep your art out of AI generators](https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators)
- - [X hits number one in App Store as leaked Drake nude goes viral](https://www.theverge.com/2024/2/7/24064992/x-app-store-drake-nude-moderation)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
+ - [How to keep your art out of AI generators](https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

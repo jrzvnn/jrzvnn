@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Landline Phone Owners Are Protesting AT&amp;T’s Plans to Drop Service](https://www.wired.com/story/att-landline-california-complaints/)
  - [Adam Mosseri says Threads is testing the ability to save posts, a &quot;heavily requested feature&quot; that allows users to bookmark posts and revisit them later &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240207/p27#a240207p27)
  - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)
  - [Mechanical Orchard, which helps companies migrate systems from mainframes to the cloud, raised a $24M Series A led by Emergence Capital at a $95M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240207/p26#a240207p26)
- - [Apple made an AI image tool that lets you make edits by describing them](https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model)
- - [Toyota overcomes its EV skepticism to announce a three-row electric SUV for the US](https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv)<!-- TECH:END -->
+ - [44 Surprising Sleep Statistics That Will Remind You Why Sleep Is Essential     - CNET](https://www.cnet.com/health/sleep/44-sleep-statistics-you-probably-didnt-know-that-will-surprise-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

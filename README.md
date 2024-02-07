@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
  - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Word](http://9gag.com/gag/aEqLW59)
- - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 ---
 

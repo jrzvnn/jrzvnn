@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to keep your art out of AI generators](https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators)
  - [X hits number one in App Store as leaked Drake nude goes viral](https://www.theverge.com/2024/2/7/24064992/x-app-store-drake-nude-moderation)
  - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
  - [iPhone 16 Plus battery life to decrease, claims dubious leak](https://appleinsider.com/articles/24/02/07/iphone-16-plus-battery-life-to-decrease-claims-dubious-leak?utm_medium=rss)
- - [Waymo driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries)
- - [Save 15% on Phone and Other Accessories at Speck With This Deal for CNET Readers     - CNET](https://www.cnet.com/deals/save-15-on-phone-and-other-accessories-at-speck-with-this-deal-for-cnet-readers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

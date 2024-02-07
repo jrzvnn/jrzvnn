@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)
  - [These States Are Basically Begging You to Get a Heat Pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
  - [Nine states, including California and New York, sign heat pump agreement to clean up air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
- - [Some top cybersecurity experts are retreating from a CISA program that enlists outside professionals, citing growing conservative backlash and management gripes &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/240207/p5#a240207p5)<!-- TECH:END -->
+ - [How to Scan Your Important Tax Documents With Your Phone This Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/how-to-scan-your-important-tax-documents-with-your-phone-this-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

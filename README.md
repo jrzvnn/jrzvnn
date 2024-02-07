@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [T-Mobile is turning phone plans into VIP rewards programs](https://www.theverge.com/2024/2/7/24064839/t-mobile-magenta-status-perks-program-t-life-app)
+ - [Best Solar Panel Installation Companies in Texas     - CNET](https://www.cnet.com/home/energy-and-utilities/texas-solar-panels/#ftag=CAD590a51e)
  - [The sports documentary boom from Netflix and beyond](https://www.theverge.com/2024/2/7/24064786/sports-streaming-docs-drive-to-survive-netflix)
  - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)
- - [Super Bowl 2024: the best ads and movie trailers](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)
- - [Paris-based payments company Worldline plans to lay off around 8% of its global workforce, or ~1,400 jobs, as it seeks to cut annual costs by &amp;euro;200M from 2025 &lpar;Alexandre Rajbhandari/Bloomberg&rpar;](http://www.techmeme.com/240207/p23#a240207p23)<!-- TECH:END -->
+ - [Super Bowl 2024: the best ads and movie trailers](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,9 +162,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
- - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, up from a $9.1B loss YoY, and a record 150M MAUs &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
+ - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, 150M MAUs, and first full-year operating profit of $1.1B &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
  - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)
- - [Alibaba reports Q3 revenue up 5% YoY to ~$36.7B, net income down to ~$2B, Taobao and Tmall Group revenue up 2% YoY to ~$18B, and plans a $25B share buyback &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240207/p10#a240207p10)
+ - [Alibaba reports Q3 revenue up 5% YoY to ~$36.7B, net income down to ~$2B, Taobao and Tmall revenue up 2% YoY to ~$18B, and a $25B share buyback; BABA rises ~5% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240207/p10#a240207p10)
  - [Confessions of an AI Clickbait Kingpin](https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

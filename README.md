@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s What to Do if You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
  - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)
  - [Sources: OpenAI, DeepMind, and others seek clarity over how the UK&#39;s AI Safety Institute is testing their AI models, timeframe, and the feedback process &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p3#a240207p3)
  - [Best iPhone SE Deals: Free With Trade-In or Save Up to $330 With New Line     - CNET](https://www.cnet.com/deals/best-iphone-se-deals/#ftag=CAD590a51e)
- - [Best Valentine&#39;s Day Flower Deals: Save Up to 50% Off Gorgeous Bouquets     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Valentine&#39;s Day Flower Deals: Save Up to 50% Off Gorgeous Bouquets     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
+ - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Some top cybersecurity experts are retreating from a CISA program that enlists outside professionals, citing growing conservative backlash and management gripes &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/240207/p5#a240207p5)
- - [Here&#39;s What to Do if You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
- - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded 10 teams $100K each to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)
- - [Sources: OpenAI, DeepMind, and others seek clarity over how the UK&#39;s AI Safety Institute is testing their AI models, timeframe, and the feedback process &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p3#a240207p3)
- - [Best iPhone SE Deals: Free With Trade-In or Save Up to $330 With New Line     - CNET](https://www.cnet.com/deals/best-iphone-se-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Illinois Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
+ - [Tax Season 2024: These 6 Tax Mistakes Could Trigger an IRS Audit     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-these-6-tax-mistakes-could-trigger-an-irs-audit/#ftag=CAD590a51e)
+ - [No-Cost Tax Filing for 2024: How to Use IRS Free File Today     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-how-to-submit-your-2024-taxes-for-free/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Here&#39;s When Your Tax Refund Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-heres-when-your-tax-refund-could-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

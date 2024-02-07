@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro rumored to get Capture Button with DSLR-style focus feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
- - [Google updates Google Maps for Android to overlay the weather and air quality index when browsing the map layer, a feature the iOS app has had for some time &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240207/p9#a240207p9)
- - [Disney+ begins emailing subscribers about new changes to its TOS that will make sharing accounts harder, days after Hulu sent out similar notices &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/240207/p8#a240207p8)
- - [Sources: Shanghai plans to accelerate approvals for foreign firms wanting to send their local data offshore, a major relaxation of China&#39;s stringent data rules &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p7#a240207p7)
- - [19 Perfect Galentine&#39;s Day Gifts to Show Your Besties Some Love     - CNET](https://www.cnet.com/news/perfect-galentines-day-gifts-to-show-love-to-your-besties/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple partners with University of California researchers to release open-source AI model MGIE, which can edit images based on natural language instructions &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240207/p12#a240207p12)
+ - [Uber reports Q4 revenue up 15% YoY to $9.9B, Gross Bookings up 22% YoY to $37.6B, a $1.9B net income, up from a $9.1B loss YoY, and a record 150M MAUs &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240207/p11#a240207p11)
+ - [Asus and MSI OLED monitor warranties now cover burn-in](https://www.theverge.com/2024/2/7/24064465/asus-rog-msi-oled-monitor-warranty-burn-in-cover-expanded)
+ - [Alibaba reports Q3 revenue up 5% YoY to ~$36.7B, net income down to ~$2B, Taobao and Tmall Group revenue up 2% YoY to ~$18B, and plans a $25B share buyback &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240207/p10#a240207p10)
+ - [Confessions of an AI Clickbait Kingpin](https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

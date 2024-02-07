@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 😝 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)
- - 💣 [277](http://9gag.com/gag/a2KnDp1)
- - 😝 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
+ - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
+ - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
+ - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
 
 ---
 

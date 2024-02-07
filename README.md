@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
  - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
+ - 💣 [Title is important](http://9gag.com/gag/abv9RLE)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [It&#39;s getting worse](http://9gag.com/gag/aME3yA1)<!-- MEMES:END -->
+ - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When gaming has returned to being an art form... and not a quick cash grab....](http://9gag.com/gag/aA0omYp)
+ - 😝 [Now they&#39;re here - and more will come](http://9gag.com/gag/aL1yNL5)
  - 😝 [Refugees should be assigned to capsule hotels instead of houses or apartments that are kept for actual residents.](http://9gag.com/gag/aNw6qRb)
  - 💣 [Bringing the kombat to Disney](http://9gag.com/gag/a8qBnme)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)

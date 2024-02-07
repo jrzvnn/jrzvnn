@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zone of death](http://9gag.com/gag/a5X8DMg)
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 💣 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
  - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
- - 👉 [Word](http://9gag.com/gag/aEqLW59)<!-- MEMES:END -->
+ - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 💣 [Word](http://9gag.com/gag/aEqLW59)
+ - 😝 [Just in case you wondered how it looks](http://9gag.com/gag/aPgKXRn)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)<!-- MEMES:END -->
 
 ---
 

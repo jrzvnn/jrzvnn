@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro rumored to get Capture Button with DSLR-style focus feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
  - [Google updates Google Maps for Android to overlay the weather and air quality index when browsing the map layer, a feature the iOS app has had for some time &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240207/p9#a240207p9)
  - [Disney+ begins emailing subscribers about new changes to its TOS that will make sharing accounts harder, days after Hulu sent out similar notices &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/240207/p8#a240207p8)
  - [Sources: Shanghai plans to accelerate approvals for foreign firms wanting to send their local data offshore, a major relaxation of China&#39;s stringent data rules &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p7#a240207p7)
- - [2054, Part III: The Singularity](https://www.wired.com/story/2054-part-iii-the-singularity/)
- - [Book, Movie, and Product Reviews Are Being Bought and Paid For](https://www.wired.com/story/paid-reviews-books-movies-gadgets/)<!-- TECH:END -->
+ - [19 Perfect Galentine&#39;s Day Gifts to Show Your Besties Some Love     - CNET](https://www.cnet.com/news/perfect-galentines-day-gifts-to-show-love-to-your-besties/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

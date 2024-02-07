@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenAI&#39;s &quot;Democratic Inputs to AI&quot; grant program, which awarded $100K each to 10 teams to design ideas and tools to collectively govern AI systems &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240207/p4#a240207p4)
  - [Sources: OpenAI, DeepMind, and others seek clarity over how the UK&#39;s AI Safety Institute is testing their AI models, timeframe, and the feedback process &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p3#a240207p3)
- - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)
- - [Sources: Shein approached the CAC and China Securities Regulatory Commission to get their blessing for a US IPO, despite not formally requiring their approval &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p1#a240207p1)
- - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)
- - [Best Xbox Game Pass Deals: Save Up to $65 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone SE Deals: Free With Trade-In or Save Up to $330 With New Line     - CNET](https://www.cnet.com/deals/best-iphone-se-deals/#ftag=CAD590a51e)
+ - [Best Valentine&#39;s Day Flower Deals: Save Up to 50% Off Gorgeous Bouquets     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
+ - [Douyin CEO Kelly Zhang steps down, a source says ByteDance will not seek to appoint a successor and Zhang will shift her focus to the video-editing app CapCut &lpar;Bloomberg&rpar;](http://www.techmeme.com/240207/p2#a240207p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

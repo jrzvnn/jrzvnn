@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Sudanese Paramilitary Group Accused of Ethnic Cleansing Is Still Tweeting Through It](https://www.wired.com/story/sudan-rsf-x-twitter/)
+ - [These States Are Basically Begging You to Get a Heat Pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+ - [Nine states, including California and New York, sign heat pump agreement to clean up air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
  - [Some top cybersecurity experts are retreating from a CISA program that enlists outside professionals, citing growing conservative backlash and management gripes &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/240207/p5#a240207p5)
- - [Illinois Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
- - [Tax Season 2024: These 6 Tax Mistakes Could Trigger an IRS Audit     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-these-6-tax-mistakes-could-trigger-an-irs-audit/#ftag=CAD590a51e)
- - [No-Cost Tax Filing for 2024: How to Use IRS Free File Today     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-how-to-submit-your-2024-taxes-for-free/#ftag=CAD590a51e)
- - [Child Tax Credit 2024: Here&#39;s When Your Tax Refund Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-heres-when-your-tax-refund-could-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Illinois Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

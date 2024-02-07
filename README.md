@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro rumored to get Capture Button with DSLR-style feature](https://appleinsider.com/articles/24/02/07/iphone-16-pro-rumored-to-get-capture-button-with-dslr-style-focus-feature?utm_medium=rss)
- - [Roblox reports Q4 revenue up 30% YoY to $749.9M, bookings up 25% YoY to a record $1.1B, DAUs up 22% YoY to 71.5M, and $2.8B in 2023 revenue; RBLX jumps 13%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240207/p14#a240207p14)
- - [Why Apple Vision Pro&#39;s constant strobing matters to your health](https://appleinsider.com/inside/apple-vision-pro/tips/why-apple-vision-pro-constantly-strobing-matters-to-your-health?utm_medium=rss)
- - [Alibaba cut ~20K staff during 2023, ending December with 219,260 employees, after cutting roughly the same number in 2022, and bought $9.5B of its stock in 2023 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240207/p13#a240207p13)
- - [Electric Mercedes-Benz eSprinter: A Small Step for Van, a Giant Leap for Van-Kind     - CNET](https://www.cnet.com/roadshow/news/electric-mercedes-benz-esprinter-a-small-step-for-van-a-giant-leap-for-van-kind/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro crams 50 pixels into the area of one iPhone 15 pixel](https://appleinsider.com/articles/24/02/07/apple-vision-pro-crams-50-pixels-into-the-area-of-one-iphone-15-pixel?utm_medium=rss)
+ - [Apple Vision Pro is motivating a giant California health provider](https://appleinsider.com/articles/24/02/06/apple-vision-pro-is-motivating-a-giant-california-health-provider?utm_medium=rss)
+ - [Trade group CISPE, representing Amazon and 26 EU cloud providers, is working with Microsoft to try to resolve EU antitrust concerns over Microsoft&#39;s licensing &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240207/p15#a240207p15)
+ - [Ransomware Payments Hit a Record $1.1 Billion in 2023](https://www.wired.com/story/ransomware-payments-2023-breaks-record/)
+ - [10 Best Vibrators &lpar;2024&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

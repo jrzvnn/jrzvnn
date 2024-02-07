@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 😝 [Windows God Mode](http://9gag.com/gag/aqeqY1M)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
  - 💣 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
- - 👉 [Someone called her a ladyboi in the comments.](http://9gag.com/gag/anzLG7E)<!-- MEMES:END -->
+ - 😝 [Word](http://9gag.com/gag/aEqLW59)
+ - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
 
 ---
 

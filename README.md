@@ -170,9 +170,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
  - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 💣 [I guess there\u2019s a new front in the war\u2026](http://9gag.com/gag/a4oDV6Q)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 💣 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
  - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
 

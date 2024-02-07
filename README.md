@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Three-Body Problem is getting a new audiobook release just in time for Netflix’s show](https://www.theverge.com/2024/2/7/24062452/three-body-problem-audiobook-rosalind-chao-netflix)
  - [New trailer for A Quiet Place: Day One is filled with sound and fury](https://www.theverge.com/24064657/a-quiet-place-day-one-trailer)
  - [Apple throws its hat into the AI-generated image ring](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring?utm_medium=rss)
  - [Apple is still working on foldable iPhones and iPads](https://www.theverge.com/2024/2/7/24064617/apple-foldable-iphone-ipad-rumor-z-flip-5)
- - [A German court sides with US-based R2 Semiconductor over Intel in a patent infringement suit; a source says the ruling could lead to a ban on HP and Dell sales &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p18#a240207p18)
- - [Microsoft’s next big AI push is here after a year of Bing](https://www.theverge.com/2024/2/7/24064440/microsoft-super-bowl-ad-ai-copilot)<!-- TECH:END -->
+ - [A German court sides with US-based R2 Semiconductor over Intel in a patent infringement suit; a source says the ruling could lead to a ban on HP and Dell sales &lpar;Financial Times&rpar;](http://www.techmeme.com/240207/p18#a240207p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

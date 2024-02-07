@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report from the US, UK, Australia, Canada, and New Zealand: China-backed hacking group Volt Typhoon has had access to some key US infrastructure for 5+ years &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240207/p25#a240207p25)
- - [How to keep your art out of AI generators](https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators)
- - [X hits number one in App Store as leaked Drake nude goes viral](https://www.theverge.com/2024/2/7/24064992/x-app-store-drake-nude-moderation)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [iPhone 16 Plus battery life to decrease, claims dubious leak](https://appleinsider.com/articles/24/02/07/iphone-16-plus-battery-life-to-decrease-claims-dubious-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Taxes 2024: Which Parent Gets to Claim the Child Tax Credit After Divorce?     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-which-parent-gets-to-claim-the-child-tax-credit-after-divorce/#ftag=CAD590a51e)
+ - [Apple Rumored To Develop Two iPhone Flip Foldables and a Folding iPad     - CNET](https://www.cnet.com/tech/mobile/foldable-iphone-rumors/#ftag=CAD590a51e)
+ - [Underwater Action Camera     - CNET](https://www.cnet.com/tech/computing/underwater-action-camera-dpnl/#ftag=CAD590a51e)
+ - [iOS 17.4 Beta 2: Your iPhone Could Get These Features and Emoji Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-beta-2-your-iphone-could-get-these-features-and-emoji-soon/#ftag=CAD590a51e)
+ - [A report from the US, UK, Australia, Canada, and New Zealand: China-backed hacking group Volt Typhoon has had access to some key US infrastructure for 5+ years &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240207/p25#a240207p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

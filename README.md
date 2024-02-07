@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And people keep buying them](http://9gag.com/gag/aL1ymR6)
  - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 💣 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
+ - 😝 [This man knew the evil he was doing](http://9gag.com/gag/aQE0Ob2)
+ - 💣 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
+ - 👉 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)<!-- MEMES:END -->
 
 ---
 

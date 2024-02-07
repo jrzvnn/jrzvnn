@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halo season 2 feels less like a video game — in a good way](https://www.theverge.com/24063618/halo-season-2-premiere-review-paramount-plus)
+ - [Microsoft&#39;s Threat Analysis Center says Iran&#39;s cyber operations in Israel show how Iran could target the 2024 US elections, including fake news websites &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240207/p22#a240207p22)
  - [How a respected security researcher stole millions from Apple](https://appleinsider.com/articles/24/02/07/how-a-respected-security-researcher-stole-millions-from-apple?utm_medium=rss)
  - [Russia Is Boosting Calls for &#39;Civil War&#39; Over Texas Border Crisis](https://www.wired.com/story/russia-disinformation-campaign-civil-war-texas-border/)
- - [An interview with Neboj&amp;scaron;a Vujinovi&amp;#263; Vujo, who runs 2,000+ AI-generated news sites, often hosted on popular, dormant domains, and claims to have human editors &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240207/p21#a240207p21)
- - [Today&#39;s top deals include 30% off Apple Watch, H&amp;R Block tax software for $19.99, Samsung 65&quot; TV for $398 &amp; more](https://appleinsider.com/articles/24/02/07/todays-top-deals-include-30-off-apple-watch-hr-block-tax-software-for-1999-samsung-65-tv-for-398-more?utm_medium=rss)
- - [Apple Vision Pro and battery teardown: 50 Vision Pro pixels fit into a single iPhone 15 Pro pixel, not technically 4K, a roughly 100&amp;deg; field of view, and more &lpar;Charlie Sorrel/iFixit News&rpar;](http://www.techmeme.com/240207/p20#a240207p20)<!-- TECH:END -->
+ - [Watch FA Cup Soccer: Livestream Aston Villa vs. Chelsea From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-aston-villa-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

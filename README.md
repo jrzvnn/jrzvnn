@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney plans to invest $1.5B for a stake in Epic Games and work with the gaming studio to create new games with content from Disney, Pixar, Marvel, and more &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240207/p29#a240207p29)
+ - [Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite](https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse)
+ - [I see your 67W USB-C charger and raise you one with a tiny Macintosh screen](https://www.theverge.com/2024/2/7/24065111/sharge-retro67-usbc-charger-mac)
  - [Arm reports Q3 revenue up 14% YoY to $824M, vs. $761.6M est., and forecasts Q4 sales and adjusted profit above expectations; ARM jumps 21%+ &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p28#a240207p28)
- - [Apple&#39;s M2 MacBook Air gets a new February price drop](https://appleinsider.com/articles/24/02/07/apples-m2-macbook-air-gets-a-new-february-price-drop?utm_medium=rss)
- - [Landline Phone Owners Are Protesting AT&amp;T’s Plans to Drop Service](https://www.wired.com/story/att-landline-california-complaints/)
- - [Adam Mosseri says Threads is testing the ability to save posts, a &quot;heavily requested feature&quot; that allows users to bookmark posts and revisit them later &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240207/p27#a240207p27)
- - [iTunes&#39; days are numbered on Windows 10](https://appleinsider.com/articles/24/02/07/itunes-days-are-numbered-on-windows-10?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air gets a new February price drop](https://appleinsider.com/articles/24/02/07/apples-m2-macbook-air-gets-a-new-february-price-drop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

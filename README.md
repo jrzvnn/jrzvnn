@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Smaug-72B, a Qwen-72B-based open-source LLM released by Abacus AI, tops the Hugging Face Open LLM leaderboard and outperforms GPT-3.5 on several benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240206/p41#a240206p41)
+ - [Best Xbox Game Pass Deals: Save Up to $65 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
  - [London-based Colossyan, which uses generative AI and virtual avatars to create corporate training videos, raised a $22M Series A led by Lakestar &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240206/p40#a240206p40)
  - [OpenAI says DALL-E 3 will embed watermarks to images with C2PA metadata and acknowledges the metadata can easily be removed either accidentally or intentionally &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240206/p39#a240206p39)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)
- - [Zededa, a maker of edge infrastructure orchestration tools, raised $72M led by Smith Point Capital; a source says the round values the company around $400M &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240206/p38#a240206p38)<!-- TECH:END -->
+ - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

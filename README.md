@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go on... I allowed it](http://9gag.com/gag/aEqLZ7p)
- - 😝 [Coward Moderators](http://9gag.com/gag/aA0oOEE)
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/a1PGwpD)
- - 😝 [Was sad then... crying now. RIP](http://9gag.com/gag/amAERo6)
- - 👉 [Bravo!](http://9gag.com/gag/aGEWOQG)<!-- MEMES:END -->
+ - 😝 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 😝 [Shopping in South Africa](http://9gag.com/gag/aVbN2yP)
+ - 💣 [Mom has been regularly messaging me complaining about how inappropriate it is to posting such trashy pics/videos. All I can say is, well done old man.](http://9gag.com/gag/amAEM62)
+ - 😝 [Mom, what does that mean?](http://9gag.com/gag/axoXR0W)
+ - 👉 [Windows God Mode](http://9gag.com/gag/aqeqY1M)<!-- MEMES:END -->
 
 ---
 

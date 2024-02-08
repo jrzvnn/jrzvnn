@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An except from Battle for the Bird book details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)
+ - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)
  - [Microsoft partners with Bengaluru-based Sarvam AI, which is building LLMs that support Indian languages, for developing voice-based generative AI tools &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240208/p7#a240208p7)
  - [Google debuts a pilot program in Singapore to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240208/p6#a240208p6)
  - [SoftBank reports Q3 net profit of $6.4B, after four quarters of losses, lifted by T-Mobile US shares windfall; the Vision Fund unit reported a ~$2.85B gain &lpar;Bloomberg&rpar;](http://www.techmeme.com/240208/p5#a240208p5)

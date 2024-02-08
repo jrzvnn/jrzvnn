@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A leaked image allegedly shows the Google Pixel Fold 2, including a narrower cover screen, a squarer inner screen aspect ratio, and redesigned camera bump &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240208/p13#a240208p13)
+ - [2054, Part IV: A Nation Divided](https://www.wired.com/story/2054-part-iv-a-nation-divided/)
  - [Apple defeats lawsuit claiming Tim Cook is overpaid](https://appleinsider.com/articles/24/02/08/apple-defeats-lawsuit-claiming-tim-cook-is-overpaid?utm_medium=rss)
  - [The Danish data protection authority orders schools to stop sending student data to Google via Chromebooks and Workspace, after an over four year investigation &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p12#a240208p12)
- - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)
- - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)<!-- TECH:END -->
+ - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

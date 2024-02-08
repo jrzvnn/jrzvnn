@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify paid out $9B to music rights holders in 2023, a &quot;figure that has tripled over the past six years&quot;, and more than $48B since its founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240208/p22#a240208p22)
  - [A future iPhone could see if you&#39;re not working out hard enough](https://appleinsider.com/articles/24/02/08/a-future-iphone-could-sense-if-youre-not-working-out-hard-enough?utm_medium=rss)
  - [An interview with Sundar Pichai on the evolving web, training Gemini to be a multimodal AI, future paid and ad-supported generative AI, hallucinations, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240208/p21#a240208p21)
  - [Apple joins Meta, Google, Facebook on new US government AI safety initiative](https://appleinsider.com/articles/24/02/08/apple-joins-meta-google-facebook-on-new-us-government-ai-safety-initiative?utm_medium=rss)
- - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)
- - [Google releases Gemini Ultra 1.0, the largest and most capable version of its LLMs, and renames Bard to Gemini, which now has a dedicated Android app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240208/p19#a240208p19)<!-- TECH:END -->
+ - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
- - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
+ - 👉 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)<!-- MEMES:END -->
 
 ---
 

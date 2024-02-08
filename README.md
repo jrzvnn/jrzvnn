@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In iOS 17.4 Beta 2, Apple demotes PWAs in the EU from standalone apps that use the whole screen to shortcuts within the default browser, to comply with the DMA &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240208/p35#a240208p35)
- - [Travellers get Apple Vision Pro confiscated by Berlin authorities](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
- - [Filing: Microsoft says Activision planned layoffs before its merger, responding to FTC&#39;s claims that the layoffs contradict Microsoft&#39;s representations in court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240208/p34#a240208p34)
- - [LastPass warns users about a fake copy of its app on Apple&#39;s App Store, with a similar name and logo, likely used as a phishing app to steal users&#39; credentials &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p33#a240208p33)
- - [Sources: Flexport lost at least $2M/month in 2023 on its air freight deal with Apple, started in late 2022 to ship products from some Asian factories to the US &lpar;The Information&rpar;](http://www.techmeme.com/240208/p32#a240208p32)<!-- TECH:END -->
+ - [Don&#39;t try to sneak an Apple Vision Pro into Germany, the import cops will nab you](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
+ - [AI Tools Like GitHub Copilot Are Rewiring Coders’ Brains. Yours May Be Next](https://www.wired.com/story/fast-forward-ai-rewiring-coders-brains-github-copilot/)
+ - [The FCC bans robocalls with AI-generated voices](https://www.theverge.com/2024/2/8/24066169/fcc-robocall-ai-voices-ban)
+ - [Drop’s swap-top keyboard lets you match your case to your caps](https://www.theverge.com/24065919/drop-cstm65-hands-on-customizable-wired-mechanical-keyboard-top-case-magnets)
+ - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

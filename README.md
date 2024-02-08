@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
+ - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 💣 [Quoridor from 1997](http://9gag.com/gag/anzLVKB)
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
  - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---

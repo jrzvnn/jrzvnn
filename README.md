@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The UN is probing 58 suspected cyberattacks worth ~$3B by North Korea on crypto companies; the stolen crypto allegedly helped fund the country&#39;s nuclear weapons &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240207/p34#a240207p34)
  - [Apple Beats an Apple Watch Lawsuit](https://www.wired.com/story/apple-watch-alivecor-lawsuit/)
  - [14-inch MacBook Pro with M3 now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/08/14-inch-macbook-pro-with-m3-now-available-on-apples-refurbished-store?utm_medium=rss)
- - [Samsung Galaxy S23 Deals: Save With Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget 3D Printer 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 Deals: Save With Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

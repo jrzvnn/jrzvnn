@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every M3 iMac 24-inch is up to $200 off, plus grab a bonus AppleCare discount](https://appleinsider.com/articles/24/02/08/every-m3-imac-24-inch-is-up-to-200-off-plus-grab-a-bonus-applecare-discount?utm_medium=rss)
+ - [A profile of OpenAI COO Brad Lightcap, tasked by Sam Altman with striking a deal with Axel Springer, which may offer a road map for additional media deals &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240208/p36#a240208p36)
  - [Fake LastPass password manager app unearthed on Apple&#39;s App Store](https://appleinsider.com/articles/24/02/08/fake-lastpass-password-manager-app-unearthed-on-apples-app-store?utm_medium=rss)
  - [Apple releases iOS 17.3.1, iPadOS 18.3.1, macOS Sonoma 14.3.1, and watchOS 10.3.1](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)
- - [Microsoft is bringing Linux’s sudo command to Windows 11](https://www.theverge.com/2024/2/8/24066264/mirosoft-sudo-command-windows-11-feature)
- - [Fortnite is winning the metaverse](https://www.theverge.com/24065901/fortnite-metaverse-disney-epic-partnership)
- - [The Bose QuietComfort Ultra Earbuds, the best noise-canceling pair we’ve tested, are at their lowest price](https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal)<!-- TECH:END -->
+ - [Microsoft is bringing Linux’s sudo command to Windows 11](https://www.theverge.com/2024/2/8/24066264/mirosoft-sudo-command-windows-11-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

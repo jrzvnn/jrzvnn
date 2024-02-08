@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google joins the C2PA steering committee to develop a standard to label AI content via metadata alongside Adobe, the BBC, Microsoft, Sony, and others &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/240208/p24#a240208p24)
+ - [Google&#39;s new AI assistant tech is now available for iPhone](https://appleinsider.com/articles/24/02/08/googles-new-ai-assistant-tech-is-now-available-for-iphone?utm_medium=rss)
  - [TikTok quietly removed view counts for hashtags in January, after researchers used them to show the disparity in views of pro-Israel and pro-Palestinian videos &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240208/p23#a240208p23)
  - [NASA Engineers Are Racing to Fix Voyager 1](https://www.wired.com/story/nasa-voyager-one-space-probe-lost-contact/)
- - [The Best Merino Wool Apparel We&#39;ve Tried &lpar;2024&rpar;: 27 Socks, Hoodies, Shirts, Pants, Sweaters, and Jackets](https://www.wired.com/story/best-merino-wool-clothes/)
- - [Is this image a pair of shoes or a sponge? TikTok isn’t sure](https://www.theverge.com/2024/2/8/24063809/tiktok-shop-product-discovery-fail-videos)
- - [Spotify paid out $9B to music rights holders in 2023, a &quot;figure that has tripled over the past six years&quot;, and more than $48B since its founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240208/p22#a240208p22)<!-- TECH:END -->
+ - [The Best Merino Wool Apparel We&#39;ve Tried &lpar;2024&rpar;: 27 Socks, Hoodies, Shirts, Pants, Sweaters, and Jackets](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

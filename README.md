@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Medium CEO Tony Stubblebine on Medium expecting to turn a profit in 2024, distribution, training LLMs, AI-generated content, media layoffs, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240208/p18#a240208p18)
- - [iOS 17.4 could fix Apple’s awkward video reactions feature](https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default)
- - [Apple Vision Pro early review: a peek into the future of computing](https://appleinsider.com/articles/24/02/08/apple-vision-pro-early-review-a-peek-into-the-future-of-computing?utm_medium=rss)
- - [Pakistan suspended mobile services across the country as voters went to the polls on February 8; the Interior Ministry cited a deteriorating security situation &lpar;Adnan Aamir/Nikkei Asia&rpar;](http://www.techmeme.com/240208/p17#a240208p17)
- - [Xbox Game Pass Ultimate: Play Madden 24 Now, RE3 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-re-3-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A future iPhone could sense if you&#39;re not working out hard enough](https://appleinsider.com/articles/24/02/08/a-future-iphone-could-sense-if-youre-not-working-out-hard-enough?utm_medium=rss)
+ - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)
+ - [Google releases Gemini Ultra 1.0, the largest and most capable version of its LLMs, and renames Bard to Gemini, which now has a dedicated Android app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240208/p19#a240208p19)
+ - [Gemini Advanced Is a Central Part of Google&#39;s Subscription Future](https://www.wired.com/story/gemini-advanced-google-subscriptions-ai/)
+ - [How to Get Gemini Advanced, Google&#39;s Subscription-Only AI Chatbot](https://www.wired.com/story/how-to-use-google-gemini-advanced-ai-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

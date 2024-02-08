@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Rehbinder effect, a phenomenon that makes cutting glass with a scissors underwater possible](http://9gag.com/gag/awZ6G11)
- - 😝 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 💣 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
- - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [I give up!](http://9gag.com/gag/axoXnbn)<!-- MEMES:END -->
+ - 😝 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
+ - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 😝 [I give up!](http://9gag.com/gag/axoXnbn)
+ - 👉 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)<!-- MEMES:END -->
 
 ---
 

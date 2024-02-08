@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare reports Q4 revenue up 32% YoY to $362.5M, vs. $353.1M est., net loss of $27.9M, vs. $45.9M YoY, and Q1 revenue guidance above est.; NET jumps 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240208/p42#a240208p42)
  - [Source: Disney&#39;s $1.5B investment in Epic Games will give Disney a 9% stake in Epic at a valuation of $22.5B, down ~29% from its 2022 valuation of $31.5B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240208/p41#a240208p41)
  - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
  - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
- - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)
- - [Arm closed up 47.89% after issuing a strong profit forecast, adding ~$38B to its market cap, with $34B+ of that accruing to SoftBank, which owns 90% of Arm &lpar;CNBC&rpar;](http://www.techmeme.com/240208/p39#a240208p39)<!-- TECH:END -->
+ - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

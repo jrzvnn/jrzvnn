@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
  - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 💣 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [A beautiful life.](http://9gag.com/gag/aYV2nyq)<!-- MEMES:END -->
 
 ---
 

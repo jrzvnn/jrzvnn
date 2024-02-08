@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
  - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
- - 💣 [Sometimes, history hurts.](http://9gag.com/gag/a1PGwdR)
- - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
+ - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
 
 ---
 

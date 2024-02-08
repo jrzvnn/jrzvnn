@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Beats an Apple Watch Lawsuit](https://www.wired.com/story/apple-watch-alivecor-lawsuit/)
  - [14-inch MacBook Pro with M3 now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/08/14-inch-macbook-pro-with-m3-now-available-on-apples-refurbished-store?utm_medium=rss)
- - [Why Is There Lead in Stanley Cups and Other Reusable Water Bottles? &lpar;Updated&rpar;](https://www.wired.com/story/stanley-cup-lead-soldering/)
- - [The Biden administration names White House economic adviser Elizabeth Kelly to lead the NIST&#39;s newly formed AI Safety Institute to develop AI testing standards &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/240207/p33#a240207p33)
- - [Best Valentine&#39;s Day Deals: Discounted Valentine&#39;s Gifts, Tech, Home Goods and More     - CNET](https://www.cnet.com/deals/best-valentines-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Save With Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
+ - [Best Apartment Security Systems in 2024     - CNET](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

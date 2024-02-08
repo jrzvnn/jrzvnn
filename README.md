@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - 💣 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 😝 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
+ - 💣 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)
+ - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 👉 [Who\u2019s gonna tell him?](http://9gag.com/gag/aoKbAbn)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin customs officers confiscate Apple Vision Pro](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
+ - [Travellers get Apple Vision Pro confiscated by Berlin authorities](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
  - [Filing: Microsoft says Activision planned layoffs before its merger, responding to FTC&#39;s claims that the layoffs contradict Microsoft&#39;s representations in court &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240208/p34#a240208p34)
  - [LastPass warns users about a fake copy of its app on Apple&#39;s App Store, with a similar name and logo, likely used as a phishing app to steal users&#39; credentials &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p33#a240208p33)
  - [Sources: Flexport lost at least $2M/month in 2023 on its air freight deal with Apple, started in late 2022 to ship products from some Asian factories to the US &lpar;The Information&rpar;](http://www.techmeme.com/240208/p32#a240208p32)

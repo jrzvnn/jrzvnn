@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
- - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 💣 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
  - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---

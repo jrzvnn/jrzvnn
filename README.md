@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 💣 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
+ - 💣 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
+ - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---
 

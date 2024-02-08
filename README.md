@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I give up!](http://9gag.com/gag/axoXnbn)
  - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 😝 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 💣 [I give up!](http://9gag.com/gag/axoXnbn)
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 💣 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
  - 👉 [Clown](http://9gag.com/gag/aREY942)<!-- MEMES:END -->
 
 ---

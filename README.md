@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Gemini Advanced hands-on: clearly a GPT-4 class model, but doesn&#39;t obviously blow away GPT-4 in benchmarks; Gemini is better than GPT-4 at explanations &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240208/p25#a240208p25)
  - [This iPod-like button could be a great smart home controller](https://www.theverge.com/24064662/linxura-smart-controller-review)
  - [Google joins the C2PA steering committee to develop a standard to label AI content via metadata alongside Adobe, the BBC, Microsoft, Sony, and others &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/240208/p24#a240208p24)
  - [Google&#39;s new AI assistant tech is now available for iPhone](https://appleinsider.com/articles/24/02/08/googles-new-ai-assistant-tech-is-now-available-for-iphone?utm_medium=rss)
- - [TikTok quietly removed view counts for hashtags in January, after researchers used them to show the disparity in views of pro-Israel and pro-Palestinian videos &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240208/p23#a240208p23)
- - [NASA Engineers Are Racing to Fix Voyager 1](https://www.wired.com/story/nasa-voyager-one-space-probe-lost-contact/)<!-- TECH:END -->
+ - [TikTok quietly removed view counts for hashtags in January, after researchers used them to show the disparity in views of pro-Israel and pro-Palestinian videos &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240208/p23#a240208p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

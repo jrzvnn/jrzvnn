@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
  - 😝 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
+ - 😝 [Average Balkan Driver](http://9gag.com/gag/aGEWr7w)
  - 💣 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)
  - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
  - 👉 [Who\u2019s gonna tell him?](http://9gag.com/gag/aoKbAbn)<!-- MEMES:END -->

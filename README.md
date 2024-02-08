@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fake LastPass password manager app unearthed on Apple&#39;s App Store](https://appleinsider.com/articles/24/02/08/fake-lastpass-password-manager-app-unearthed-on-apples-app-store?utm_medium=rss)
  - [Apple releases iOS 17.3.1, iPadOS 18.3.1, macOS Sonoma 14.3.1, and watchOS 10.3.1](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)
  - [Microsoft is bringing Linux’s sudo command to Windows 11](https://www.theverge.com/2024/2/8/24066264/mirosoft-sudo-command-windows-11-feature)
  - [Fortnite is winning the metaverse](https://www.theverge.com/24065901/fortnite-metaverse-disney-epic-partnership)
- - [The Bose QuietComfort Ultra Earbuds, the best noise-canceling pair we’ve tested, are at their lowest price](https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal)
- - [Don&#39;t try to sneak an Apple Vision Pro into Germany, the import cops will nab you](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The Bose QuietComfort Ultra Earbuds, the best noise-canceling pair we’ve tested, are at their lowest price](https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

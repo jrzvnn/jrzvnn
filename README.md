@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants developers to see how to make immersive experiences in AR](https://appleinsider.com/articles/24/02/08/apple-wants-developers-to-see-how-to-make-immersive-experiences-in-ar?utm_medium=rss)
+ - [NASA’s New PACE Observatory Searches for Clues to Humanity’s Future](https://www.wired.com/story/nasas-pace-observatory-launch-spacex-aerosols-plankton/)
  - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)
  - [Plaid names Jen Taylor as its first president as it readies itself for an IPO; Taylor was most recently chief product officer at Cloudflare &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240208/p30#a240208p30)
- - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)
- - [Filing: the FTC seeks a pause in Microsoft&#39;s Activision Blizzard acquisition, arguing layoffs in Microsoft&#39;s gaming division contradict Microsoft&#39;s prior claims &lpar;Jessica Conditt/Engadget&rpar;](http://www.techmeme.com/240208/p29#a240208p29)
- - [Uber ends the year in the black for the first time ever](https://www.theverge.com/2024/2/8/24065999/uber-earnings-profitable-year-net-income)<!-- TECH:END -->
+ - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

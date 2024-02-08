@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future voter](http://9gag.com/gag/aL1yON5)
+ - 😝 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
  - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
  - 💣 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
- - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
+ - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---
 

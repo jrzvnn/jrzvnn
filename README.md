@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
  - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Bad luck](http://9gag.com/gag/a2KnONZ)<!-- MEMES:END -->
+ - 👉 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
 
 ---
 

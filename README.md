@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: NYSE-listed Bakkt, a crypto trading platform backed by the Intercontinental Exchange, warns that it might not be able to stay in business in a year &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/240208/p1#a240208p1)
  - [SoftBank-backed AI data security company Cohesity agrees to acquire the data protection unit of multi-cloud data management firm Veritas, sources say for ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p35#a240207p35)
  - [The UN is probing 58 suspected cyberattacks worth ~$3B by North Korea on crypto companies; the stolen crypto allegedly helped fund the country&#39;s nuclear weapons &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240207/p34#a240207p34)
  - [Apple Beats an Apple Watch Lawsuit](https://www.wired.com/story/apple-watch-alivecor-lawsuit/)
- - [14-inch MacBook Pro with M3 now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/08/14-inch-macbook-pro-with-m3-now-available-on-apples-refurbished-store?utm_medium=rss)
- - [Best Budget 3D Printer 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14-inch MacBook Pro with M3 now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/08/14-inch-macbook-pro-with-m3-now-available-on-apples-refurbished-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

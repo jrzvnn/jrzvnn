@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
- - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
- - 💣 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 😝 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
+ - 😝 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 💣 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
+ - 👉 [Can&#39;t blame her for mounting the cuban stallion](http://9gag.com/gag/aA0oq1R)<!-- MEMES:END -->
 
 ---
 

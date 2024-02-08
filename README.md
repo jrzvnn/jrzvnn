@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 💣 [Feel old yet?](http://9gag.com/gag/aGEWOLz)
+ - 😝 [The Rehbinder effect, a phenomenon that makes cutting glass with a scissors underwater possible](http://9gag.com/gag/awZ6G11)
+ - 😝 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 💣 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)<!-- MEMES:END -->
+ - 👉 [I give up!](http://9gag.com/gag/axoXnbn)<!-- MEMES:END -->
 
 ---
 

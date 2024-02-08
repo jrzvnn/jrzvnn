@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Medium CEO Tony Stubblebine on Medium expecting to turn a profit in 2024, distribution, training LLMs, AI-generated content, media layoffs, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240208/p18#a240208p18)
+ - [iOS 17.4 could fix Apple’s awkward video reactions feature](https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default)
  - [Apple Vision Pro early review: a peek into the future of computing](https://appleinsider.com/articles/24/02/08/apple-vision-pro-early-review-a-peek-into-the-future-of-computing?utm_medium=rss)
  - [Pakistan suspended mobile services across the country as voters went to the polls on February 8; the Interior Ministry cited a deteriorating security situation &lpar;Adnan Aamir/Nikkei Asia&rpar;](http://www.techmeme.com/240208/p17#a240208p17)
- - [I Stopped Using Passwords. It&#39;s Great—and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)
- - [This Small Wearable Device Reduces Parkinson’s Symptoms](https://www.wired.com/story/wearable-device-parkinsons-symptoms-charco-neurotech-startup/)
- - [The US says OpenAI, Anthropic, Microsoft, Meta, Google, Apple, Amazon, Nvidia, Palantir, and over 200 others are joining the new AI Safety Institute Consortium &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240208/p16#a240208p16)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate: Play Madden 24 Now, RE3 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-re-3-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown](http://9gag.com/gag/aREY942)
- - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 😝 [Do what I say, not what I do....](http://9gag.com/gag/a9q94KL)
- - 👉 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)<!-- MEMES:END -->
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
+ - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
 
 ---
 

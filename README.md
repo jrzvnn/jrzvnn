@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can stream the Super Bowl for free with this one-month Paramount Plus deal](https://www.theverge.com/2024/2/8/24065543/paramount-plus-showtime-super-bowl-deal-sale)
+ - [Here&#39;s what the Apple Vision Pro thank you card looks like](https://appleinsider.com/articles/24/02/08/heres-what-the-apple-vision-pro-thank-you-card-looks-like?utm_medium=rss)
  - [US House investigation: GGV, GSR, Qualcomm Ventures, Sequoia, and Walden invested $1B+ in China&#39;s chip industry across 150+ deals between 2001 and August 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/240208/p26#a240208p26)
  - [Google Gemini Advanced hands-on: clearly a GPT-4 class model, but doesn&#39;t obviously blow away GPT-4 in benchmarks; Gemini is better than GPT-4 at explanations &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240208/p25#a240208p25)
- - [This iPod-like button could be a great smart home controller](https://www.theverge.com/24064662/linxura-smart-controller-review)
- - [Google joins the C2PA steering committee to develop a standard to label AI content via metadata alongside Adobe, the BBC, Microsoft, Sony, and others &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/240208/p24#a240208p24)
- - [Google&#39;s new AI assistant tech is now available for iPhone](https://appleinsider.com/articles/24/02/08/googles-new-ai-assistant-tech-is-now-available-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [This iPod-like button could be a great smart home controller](https://www.theverge.com/24064662/linxura-smart-controller-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

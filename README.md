@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Bose QuietComfort Ultra Earbuds, the best noise-canceling pair we’ve tested, are at their lowest price](https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal)
  - [Don&#39;t try to sneak an Apple Vision Pro into Germany, the import cops will nab you](https://appleinsider.com/articles/24/02/08/berlin-customs-officers-confiscate-apple-vision-pro?utm_medium=rss)
  - [AI Tools Like GitHub Copilot Are Rewiring Coders’ Brains. Yours May Be Next](https://www.wired.com/story/fast-forward-ai-rewiring-coders-brains-github-copilot/)
  - [The FCC bans robocalls with AI-generated voices](https://www.theverge.com/2024/2/8/24066169/fcc-robocall-ai-voices-ban)
- - [Drop’s swap-top keyboard lets you match your case to your caps](https://www.theverge.com/24065919/drop-cstm65-hands-on-customizable-wired-mechanical-keyboard-top-case-magnets)
- - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)<!-- TECH:END -->
+ - [Drop’s swap-top keyboard lets you match your case to your caps](https://www.theverge.com/24065919/drop-cstm65-hands-on-customizable-wired-mechanical-keyboard-top-case-magnets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

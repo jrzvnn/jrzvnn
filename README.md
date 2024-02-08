@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
- - 😝 [Is it a legal move?](http://9gag.com/gag/a5X8j4o)
- - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 😝 [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
+ - 😝 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
+ - 💣 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)<!-- MEMES:END -->
+ - 👉 [How you actually do the cat in public](http://9gag.com/gag/aGEWNVn)<!-- MEMES:END -->
 
 ---
 

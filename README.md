@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber ends the year in the black for the first time ever](https://www.theverge.com/2024/2/8/24065999/uber-earnings-profitable-year-net-income)
- - [Mozilla CEO Mitchell Baker steps down to focus on AI and internet safety as chair of the nonprofit; Mozilla board member Laura Chambers will be interim CEO &lpar;Diane Brady/Fortune&rpar;](http://www.techmeme.com/240208/p28#a240208p28)
- - [JBL Authentics 300 smart speaker review: two assistants at once](https://www.theverge.com/24065942/jbl-authentics-300-speaker-review-alexa-google-assistant)
- - [Knuckles is ready to box in new trailer for his Paramount Plus spinoff series](https://www.theverge.com/24065972/knuckles-paramount-plus-series-sonic-3-trailer)
- - [Filings: SoftBank&#39;s stake in Paytm was ~5% in January vs. ~18.5% around Paytm&#39;s 2021 IPO; SoftBank says it sold most of its stake due to regulatory scrutiny &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240208/p27#a240208p27)<!-- TECH:END -->
+ - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)
+ - [Plaid names Jen Taylor as its first president as it readies itself for an IPO; Taylor was most recently chief product officer at Cloudflare &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240208/p30#a240208p30)
+ - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)
+ - [Filing: the FTC seeks a pause in Microsoft&#39;s Activision Blizzard acquisition, arguing layoffs in Microsoft&#39;s gaming division contradict Microsoft&#39;s prior claims &lpar;Jessica Conditt/Engadget&rpar;](http://www.techmeme.com/240208/p29#a240208p29)
+ - [Uber ends the year in the black for the first time ever](https://www.theverge.com/2024/2/8/24065999/uber-earnings-profitable-year-net-income)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

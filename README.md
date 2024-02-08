@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown](http://9gag.com/gag/aREY942)
- - 😝 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
- - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 😝 [I give up!](http://9gag.com/gag/axoXnbn)
- - 👉 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
+ - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
+ - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 💣 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---
 

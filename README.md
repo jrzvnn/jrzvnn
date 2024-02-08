@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
+ - 😝 [Future voter](http://9gag.com/gag/aL1yON5)
+ - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
+ - 💣 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
 
 ---
 

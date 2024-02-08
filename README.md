@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
- - 😝 [Average Balkan Driver](http://9gag.com/gag/aGEWr7w)
- - 💣 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)
- - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 👉 [Who\u2019s gonna tell him?](http://9gag.com/gag/aoKbAbn)<!-- MEMES:END -->
+ - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
+ - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 💣 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 👉 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)<!-- MEMES:END -->
 
 ---
 

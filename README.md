@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
- - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 💣 [Quoridor from 1997](http://9gag.com/gag/anzLVKB)
- - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 😝 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)
+ - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 💣 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
+ - 😝 [Clown](http://9gag.com/gag/aREY942)
+ - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
 
 ---
 

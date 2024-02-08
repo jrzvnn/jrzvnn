@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC outlaws scam robocalls featuring fake, AI-created voices, giving state AGs more legal tools to pursue illegal robocallers that use such voices &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240208/p31#a240208p31)
+ - [Daily deals Feb. 8: $200 off M3 Pro MacBook Pro, M2 MacBook Air 16GB for $1,149, $120 off Beats Studio Pro, more](https://appleinsider.com/articles/24/02/08/daily-deals-feb-8-200-off-m3-pro-macbook-pro-m2-macbook-air-16gb-for-1149-120-off-beats-studio-pro-more?utm_medium=rss)
  - [Apple wants developers to see how to make immersive experiences in AR](https://appleinsider.com/articles/24/02/08/apple-wants-developers-to-see-how-to-make-immersive-experiences-in-ar?utm_medium=rss)
  - [NASA’s New PACE Observatory Searches for Clues to Humanity’s Future](https://www.wired.com/story/nasas-pace-observatory-launch-spacex-aerosols-plankton/)
- - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)
- - [Plaid names Jen Taylor as its first president as it readies itself for an IPO; Taylor was most recently chief product officer at Cloudflare &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240208/p30#a240208p30)
- - [Dyson’s new high-tech hairdryer is for the pros](https://www.theverge.com/2024/2/8/24063308/dyson-supersonic-r-hairdryer-beauty-tech)<!-- TECH:END -->
+ - [Funimation is shutting down — and taking your digital library with it](https://www.theverge.com/2024/2/8/24065940/funimation-shutdown-crunchyroll-digital-library)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

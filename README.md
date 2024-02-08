@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple joins Meta, Google, Facebook on new US government AI safety initiative](https://appleinsider.com/articles/24/02/08/apple-joins-meta-google-facebook-on-new-us-government-ai-safety-initiative?utm_medium=rss)
  - [A future iPhone could sense if you&#39;re not working out hard enough](https://appleinsider.com/articles/24/02/08/a-future-iphone-could-sense-if-youre-not-working-out-hard-enough?utm_medium=rss)
  - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)
  - [Google releases Gemini Ultra 1.0, the largest and most capable version of its LLMs, and renames Bard to Gemini, which now has a dedicated Android app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240208/p19#a240208p19)
- - [Gemini Advanced Is a Central Part of Google&#39;s Subscription Future](https://www.wired.com/story/gemini-advanced-google-subscriptions-ai/)
- - [How to Get Gemini Advanced, Google&#39;s Subscription-Only AI Chatbot](https://www.wired.com/story/how-to-use-google-gemini-advanced-ai-chatbot/)<!-- TECH:END -->
+ - [Gemini Advanced Is a Central Part of Google&#39;s Subscription Future](https://www.wired.com/story/gemini-advanced-google-subscriptions-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

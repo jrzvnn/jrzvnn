@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - 💣 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 😝 [That guy knew what he was doing flicking it that way\u2026](http://9gag.com/gag/adPmbvd)
  - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 💣 [Future voter](http://9gag.com/gag/aL1yON5)
+ - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
 
 ---
 

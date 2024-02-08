@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
+ - 😝 [Can&#39;t lift a plane](http://9gag.com/gag/a8qBn9Z)
+ - 😝 [That&#39;s the Xany voice there](http://9gag.com/gag/avQ3Dxb)
+ - 💣 [Ancient meme calendar](http://9gag.com/gag/ap9Wd9D)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)<!-- MEMES:END -->
+ - 👉 [How you actually do the cat in public](http://9gag.com/gag/aGEWNVn)<!-- MEMES:END -->
 
 ---
 

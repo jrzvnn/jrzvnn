@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Rehbinder effect, a phenomenon that makes cutting glass with a scissors underwater possible](http://9gag.com/gag/awZ6G11)
- - 😝 [There is a difference between the two](http://9gag.com/gag/awZ6G74)
- - 💣 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 😝 [I give up!](http://9gag.com/gag/axoXnbn)
- - 👉 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)<!-- MEMES:END -->
+ - 😝 [Sodie Pop](http://9gag.com/gag/aGEWbMZ)
+ - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 💣 [Hello welcome](http://9gag.com/gag/a4oDwOp)
+ - 😝 [After all ...why not?](http://9gag.com/gag/aqeqDE7)
+ - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
 
 ---
 

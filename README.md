@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aqeqY3Y)
- - 😝 [Crossing the road in Indonesia be like](http://9gag.com/gag/awZ68n8)
- - 💣 [I guess there\u2019s a new front in the war\u2026](http://9gag.com/gag/a4oDV6Q)
+ - 😝 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
+ - 😝 [Hello welcome](http://9gag.com/gag/a4oDwOp)
+ - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)<!-- MEMES:END -->
+ - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
- - 😝 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
- - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 😝 [Clown](http://9gag.com/gag/aREY942)
+ - 😝 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 😝 [Do what I say, not what I do....](http://9gag.com/gag/a9q94KL)
+ - 👉 [One&#39;s a fake, the other is a victim.](http://9gag.com/gag/abv9KYp)<!-- MEMES:END -->
 
 ---
 

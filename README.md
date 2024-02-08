@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
  - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
- - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
+ - 💣 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
+ - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
 
 ---
 

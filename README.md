@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Chris Dixon&#39;s book becomes an NYT Best Seller but with a dagger icon denoting bulk orders; a16z and some startups linked to it gave the book to staff and others &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/240208/p40#a240208p40)
  - [New iPhone SE rumor aligns with previous leaks that suggest a new design](https://appleinsider.com/articles/24/02/08/new-iphone-se-rumor-aligns-with-previous-leaks-that-suggest-a-new-design?utm_medium=rss)
- - [Multi Function Bottle Warmer     - CNET](https://www.cnet.com/health/parenting/multi-function-bottle-warmer-dpnl/#ftag=CAD590a51e)
  - [Arm closed up 47.89% after issuing a strong profit forecast, adding ~$38B to its market cap, with $34B+ of that accruing to SoftBank, which owns 90% of Arm &lpar;CNBC&rpar;](http://www.techmeme.com/240208/p39#a240208p39)
- - [Kids Pro Electric Scooter     - CNET](https://www.cnet.com/roadshow/news/kids-pro-electric-scooter-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pinterest reports Q4 revenue up 12% YoY to $981.3M, vs. $991M est., MAUs up 11% to 498M, vs. 487M est., and a weaker-than-expected Q1 forecast; PINS drops 5%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240208/p38#a240208p38)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

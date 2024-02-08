@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - 💣 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
  - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 😝 [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
+ - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
  - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---

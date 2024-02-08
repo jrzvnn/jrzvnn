@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring is raising the price of its cheapest subscription plan by 25 percent](https://www.theverge.com/2024/2/8/24066592/ring-video-doorbell-security-camera-subscription-price-increase)
+ - [Take-Two reports Q3 net bookings down 3% YoY to $1.34B, net revenue down 3% YoY to $1.37B, and plans cost reductions &quot;more robust&quot; than in 2023; TTWO drops 9%+ &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240208/p43#a240208p43)
  - [Best Coffee Grinder of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)
  - [Wall Surge Protector     - CNET](https://www.cnet.com/news/wall-surge-protector-dpnl/#ftag=CAD590a51e)
- - [Cloudflare reports Q4 revenue up 32% YoY to $362.5M, vs. $353.1M est., net loss of $27.9M, vs. $45.9M YoY, and Q1 revenue guidance above est.; NET jumps 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240208/p42#a240208p42)
- - [Delta 2-in-1 Dual Shower Head     - CNET](https://www.cnet.com/news/delta-2-in-1-dual-shower-head-dpnl/#ftag=CAD590a51e)
- - [Source: Disney&#39;s $1.5B investment in Epic Games will give Disney a 9% stake in Epic at a valuation of $22.5B, down ~29% from its 2022 valuation of $31.5B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240208/p41#a240208p41)<!-- TECH:END -->
+ - [Cloudflare reports Q4 revenue up 32% YoY to $362.5M, vs. $353.1M est., net loss of $27.9M, vs. $45.9M YoY, and Q1 revenue guidance above est.; NET jumps 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240208/p42#a240208p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

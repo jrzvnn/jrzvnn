@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US says OpenAI, Anthropic, Microsoft, Meta, Google, Apple, Amazon, Nvidia, Palantir, and over 200 others are joining the new AI Safety Institute Consortium &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240208/p16#a240208p16)
  - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
  - [Spain puts $209 million fine on hold while Apple and Amazon appeal](https://appleinsider.com/articles/24/02/08/spain-puts-209-million-fine-on-hold-while-apple-and-amazon-appeal?utm_medium=rss)
  - [German startup Daedalus, which uses AI to help manufacture precision parts in its Karlsruhe factory, raised a $21M Series A led by Nokia-funded NGP Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240208/p15#a240208p15)
- - [TikTok joins Meta in challenging the EU&#39;s DSA in the General Court, arguing the levy is unfair as some firms pay nothing; Meta must pay &amp;euro;11M of the &amp;euro;45M total &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240208/p14#a240208p14)
- - [A leaked image allegedly shows the Google Pixel Fold 2, including a narrower cover screen, a squarer inner screen aspect ratio, and redesigned camera bump &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240208/p13#a240208p13)<!-- TECH:END -->
+ - [TikTok joins Meta in challenging the EU&#39;s DSA in the General Court, arguing the levy is unfair as some firms pay nothing; Meta must pay &amp;euro;11M of the &amp;euro;45M total &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240208/p14#a240208p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I give up!](http://9gag.com/gag/axoXnbn)
- - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 💣 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
- - 😝 [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
- - 👉 [Clown](http://9gag.com/gag/aREY942)<!-- MEMES:END -->
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
+ - 💣 [Sometimes, history hurts.](http://9gag.com/gag/a1PGwdR)
+ - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
 
 ---
 

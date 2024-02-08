@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LastPass warns users about a fake copy of its app on Apple&#39;s App Store, with a similar name and logo, likely used as a phishing app to steal users&#39; credentials &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p33#a240208p33)
+ - [Sources: Flexport lost at least $2M/month in 2023 on its air freight deal with Apple, started in late 2022 to ship products from some Asian factories to the US &lpar;The Information&rpar;](http://www.techmeme.com/240208/p32#a240208p32)
+ - [Cowboy expands at-home e-bike services to more riders](https://www.theverge.com/2024/2/8/24066154/cowboy-on-demand-flat-tire-repair-price-locations)
  - [Roblox sees Apple Vision Pro as &#39;an interesting candidate&#39; for expansion](https://appleinsider.com/articles/24/02/08/roblox-sees-apple-vision-pro-as-an-interesting-candidate-for-expansion?utm_medium=rss)
- - [Stars keep searching for missing Usher in new Apple Music video](https://appleinsider.com/articles/24/02/08/stars-keep-searching-for-missing-usher-in-new-apple-music-video?utm_medium=rss)
- - [AI-Generated Voices in Robocalls Are Now Illegal](https://www.wired.com/story/ai-generated-voices-robocalls-illegal-fcc/)
- - [The FCC outlaws scam robocalls featuring fake, AI-created voices, giving state AGs more legal tools to pursue illegal robocallers that use such voices &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240208/p31#a240208p31)
- - [Daily deals Feb. 8: $200 off M3 Pro MacBook Pro, M2 MacBook Air 16GB for $1,149, $120 off Beats Studio Pro, more](https://appleinsider.com/articles/24/02/08/daily-deals-feb-8-200-off-m3-pro-macbook-pro-m2-macbook-air-16gb-for-1149-120-off-beats-studio-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Stars keep searching for missing Usher in new Apple Music video](https://appleinsider.com/articles/24/02/08/stars-keep-searching-for-missing-usher-in-new-apple-music-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

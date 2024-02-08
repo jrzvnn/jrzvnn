@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok joins Meta in challenging the EU&#39;s DSA in the General Court, arguing the levy is unfair as some firms pay nothing; Meta must pay &amp;euro;11M of the &amp;euro;45M total &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240208/p14#a240208p14)
  - [A leaked image allegedly shows the Google Pixel Fold 2, including a narrower cover screen, a squarer inner screen aspect ratio, and redesigned camera bump &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240208/p13#a240208p13)
  - [2054, Part IV: A Nation Divided](https://www.wired.com/story/2054-part-iv-a-nation-divided/)
  - [Apple defeats lawsuit claiming Tim Cook is overpaid](https://appleinsider.com/articles/24/02/08/apple-defeats-lawsuit-claiming-tim-cook-is-overpaid?utm_medium=rss)
- - [The Danish data protection authority orders schools to stop sending student data to Google via Chromebooks and Workspace, after an over four year investigation &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p12#a240208p12)
- - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)<!-- TECH:END -->
+ - [The Danish data protection authority orders schools to stop sending student data to Google via Chromebooks and Workspace, after an over four year investigation &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240208/p12#a240208p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battle for the Bird book excerpt details how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)
+ - [PitchBook: in 2021, 223 male-founded video game startups raised $4.1B, five women-founded startups raised $1.2M, and 62 mixed-gender startups raised $400.9M &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240208/p9#a240208p9)
+ - [Battle for the Bird book excerpt: how Jack Dorsey&#39;s plan to get Elon Musk to save Twitter failed, as Musk dismantled the company after taking over, and more &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240208/p8#a240208p8)
  - [Microsoft partners with Bengaluru-based Sarvam AI, which is building LLMs that support Indian languages, for developing voice-based generative AI tools &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240208/p7#a240208p7)
  - [Google debuts a pilot program in Singapore to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240208/p6#a240208p6)
- - [SoftBank reports Q3 net profit of $6.4B, after four quarters of losses, lifted by T-Mobile US shares windfall; the Vision Fund unit reported a ~$2.85B gain &lpar;Bloomberg&rpar;](http://www.techmeme.com/240208/p5#a240208p5)
- - [A look at the use of AI in Indonesia ahead of Feb. 14 elections, as vendors and campaigns push the limits of guidelines issued by OpenAI, Midjourney, and others &lpar;Reuters&rpar;](http://www.techmeme.com/240208/p4#a240208p4)<!-- TECH:END -->
+ - [SoftBank reports Q3 net profit of $6.4B, after four quarters of losses, lifted by a T-Mobile US shares windfall; the Vision Fund unit reported a ~$2.85B gain &lpar;Bloomberg&rpar;](http://www.techmeme.com/240208/p5#a240208p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

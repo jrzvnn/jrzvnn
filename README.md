@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They bought a 200 year old house ..](http://9gag.com/gag/ay2OY6X)
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
  - 😝 [Alyson Tabbitha and Hayden.](http://9gag.com/gag/a3ZVpzN)
- - 💣 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Can&#39;t blame her for mounting the cuban stallion](http://9gag.com/gag/aA0oq1R)<!-- MEMES:END -->
+ - 👉 [The MMA fights, We all want](http://9gag.com/gag/axoXAMW)<!-- MEMES:END -->
 
 ---
 

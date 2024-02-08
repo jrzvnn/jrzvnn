@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
- - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 💣 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
  - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
+ - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 😝 [European export to Kyrgyzstan is booming, all of a sudden.](http://9gag.com/gag/aeQvdzj)
  - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---

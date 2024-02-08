@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the back... right??](http://9gag.com/gag/aDYEQnK)
- - 😝 [Hello welcome](http://9gag.com/gag/a4oDwOp)
- - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 😝 [Would you? Bee n there done that](http://9gag.com/gag/amAEp3X)
+ - 😝 [So, you just show up and choose yourself a wife?](http://9gag.com/gag/ap9WdvB)
+ - 💣 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
  - 😝 [Alright, but it&#39;s time to start the game again \ud83d\ude2e\ud83d\udca8](http://9gag.com/gag/aME3WZ6)
- - 👉 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)<!-- MEMES:END -->
+ - 👉 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
 
 ---
 

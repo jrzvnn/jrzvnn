@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla CEO Mitchell Baker steps down to focus on AI and internet safety as chair of the nonprofit; Mozilla board member Laura Chambers will be interim CEO &lpar;Diane Brady/Fortune&rpar;](http://www.techmeme.com/240208/p28#a240208p28)
+ - [Knuckles is ready to box in new trailer for his Paramount Plus spinoff series](https://www.theverge.com/24065972/knuckles-paramount-plus-series-sonic-3-trailer)
  - [Filings: SoftBank&#39;s stake in Paytm was ~5% in January vs. ~18.5% around Paytm&#39;s 2021 IPO; SoftBank says it sold most of its stake due to regulatory scrutiny &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240208/p27#a240208p27)
  - [You can stream the Super Bowl for free with this one-month Paramount Plus deal](https://www.theverge.com/2024/2/8/24065543/paramount-plus-showtime-super-bowl-deal-sale)
- - [Here&#39;s what the Apple Vision Pro thank you card looks like](https://appleinsider.com/articles/24/02/08/heres-what-the-apple-vision-pro-thank-you-card-looks-like?utm_medium=rss)
- - [US House investigation: GGV, GSR, Qualcomm Ventures, Sequoia, and Walden invested $1B+ in China&#39;s chip industry across 150+ deals between 2001 and August 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/240208/p26#a240208p26)
- - [Google Gemini Advanced hands-on: clearly a GPT-4 class model, but doesn&#39;t obviously blow away GPT-4 in benchmarks; Gemini is better than GPT-4 at explanations &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240208/p25#a240208p25)<!-- TECH:END -->
+ - [Here&#39;s what the Apple Vision Pro thank you card looks like](https://appleinsider.com/articles/24/02/08/heres-what-the-apple-vision-pro-thank-you-card-looks-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

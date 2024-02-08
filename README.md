@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
- - 😝 [Hello welcome](http://9gag.com/gag/a4oDwOp)
- - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 😝 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 😝 [Title is important](http://9gag.com/gag/abv9RLE)
+ - 😝 [Underwater tunnel starts leaking \ud83d\ude2c](http://9gag.com/gag/aME3y81)
+ - 💣 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
  - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---

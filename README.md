@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amsterdam-based payments giant Adyen reports H2 2023 net revenue up 23% YoY to &amp;euro;887M and processed volume up 29% YoY to &amp;euro;544.1B; ADYEN.AS jumps 16%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240208/p11#a240208p11)
  - [Meta’s not happy with its bill for enforcing the EU’s tough new DSA](https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge)
  - [An excerpt from Kara Swisher&#39;s upcoming book, Burn Book: covering digital media in the &#39;90s, Facebook and Google becoming information gatekeepers, and more &lpar;Kara Swisher/New York Magazine&rpar;](http://www.techmeme.com/240208/p10#a240208p10)
  - [ESR Qi2 wireless car charger review: goodbye Mag$afe](https://www.theverge.com/24057965/qi2-car-charger-esr-review-price-specs)
- - [PitchBook: in 2021, 223 male-founded video game startups raised $4.1B, five women-founded startups raised $1.2M, and 62 mixed-gender startups raised $400.9M &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240208/p9#a240208p9)
- - [SSI Recipients: Are There Benefits to Filing Your Taxes This Year? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/ssi-recipients-are-there-benefits-to-filing-your-taxes-this-year-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: in 2021, 223 male-founded video game startups raised $4.1B, five women-founded startups raised $1.2M, and 62 mixed-gender startups raised $400.9M &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/240208/p9#a240208p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Army vet used his recon strat in game.](http://9gag.com/gag/a7qzP3b)
- - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
- - 💣 [Made me crave for some delicious greasy fried chicken](http://9gag.com/gag/aGEWNOn)
- - 😝 [Clown](http://9gag.com/gag/aREY942)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 😝 [Thief steals \u00a3350K Rolls Royce in 30 seconds using wire antenna to unlock the car.](http://9gag.com/gag/a1PGxBD)
+ - 😝 [Hello welcome](http://9gag.com/gag/a4oDwOp)
+ - 💣 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 😝 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 👉 [Cultured people have sticks](http://9gag.com/gag/abv9dor)<!-- MEMES:END -->
 
 ---
 

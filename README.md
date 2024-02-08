@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Valentine&#39;s Day Deals &lpar;2024&rpar;: Headphones, Flowers, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
  - [Unlearn, which helps researchers run small clinical trials by creating digital twins of participants, raised a $50M Series C, taking its total funding to $130M+ &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240208/p37#a240208p37)
  - [iOS 17.3.1: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-3-1-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)
  - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [The Far-Right&#39;s Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
- - [Apple patches pesky text bug with updates to Mac and mobile devices](https://appleinsider.com/articles/24/02/08/apple-releases-ios-1731-ipados-1831-macos-sonoma-1431-and-watchos-1031?utm_medium=rss)<!-- TECH:END -->
+ - [The Far-Right&#39;s Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm closed up 47.89% after issuing a strong profit forecast, adding ~$38B to its market cap, with $34B+ of that accruing to SoftBank, which owns 90% of Arm &lpar;CNBC&rpar;](http://www.techmeme.com/240208/p39#a240208p39)
  - [Pinterest Q4: revenue up 12% YoY to $981.3M, vs. $991M est., MAUs up 11% YoY to 498M, vs. 487M est., and a weaker-than-expected Q1 forecast; PINS drops 10%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240208/p38#a240208p38)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [20 Best Valentine&#39;s Day Deals &lpar;2024&rpar;: Headphones, Flowers, and a Lego Kit](https://www.wired.com/story/valentines-day-deals-2024/)
- - [Unlearn, which helps researchers run small clinical trials by creating digital twins of participants, raised a $50M Series C, taking its total funding to $130M+ &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240208/p37#a240208p37)
- - [The 19 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Unlearn, which helps researchers run small clinical trials by creating digital twins of participants, raised a $50M Series C, taking its total funding to $130M+ &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240208/p37#a240208p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

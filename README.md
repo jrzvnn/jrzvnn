@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Xiaolang Zhang, a former Apple engineer who pled guilty in August 2022 to IP theft of Apple&#39;s car project, is sentenced to 120 days in prison and a ~$147K fine &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240208/p44#a240208p44)
  - [EU developers can begin testing app marketplaces and apps that won&#39;t be distributed in the App Store](https://appleinsider.com/articles/24/02/08/eu-developers-can-begin-testing-app-marketplaces-and-apps-that-wont-be-distributed-in-the-app-store?utm_medium=rss)
+ - [Learn to Code With These Five Online Coding Courses for Beginners     - CNET](https://www.cnet.com/tech/services-and-software/learn-to-code-with-these-5-online-coding-courses-for-beginners/#ftag=CAD590a51e)
  - [Ring is raising the price of its cheapest subscription plan by 25 percent](https://www.theverge.com/2024/2/8/24066592/ring-video-doorbell-security-camera-subscription-price-increase)
- - [Take-Two reports Q3 net bookings down 3% YoY to $1.34B, net revenue down 3% YoY to $1.37B, and plans cost reductions &quot;more robust&quot; than in 2023; TTWO drops 9%+ &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240208/p43#a240208p43)
- - [Best Coffee Grinder of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take-Two reports Q3 net bookings down 3% YoY to $1.34B, net revenue down 3% YoY to $1.37B, and plans cost reductions &quot;more robust&quot; than in 2023; TTWO drops 9%+ &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240208/p43#a240208p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

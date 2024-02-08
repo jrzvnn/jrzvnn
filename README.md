@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)
  - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 😝 [Prison Wallet](http://9gag.com/gag/ajVoMA8)
  - 💣 [A beautiful life.](http://9gag.com/gag/aYV2nyq)
  - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 👉 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 👉 [Title is important](http://9gag.com/gag/abv9RLE)<!-- MEMES:END -->
 
 ---
 

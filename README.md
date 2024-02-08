@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the use of AI in Indonesia ahead of Feb. 14 elections, as vendors and campaigns push the limits of guidelines issued by OpenAI, Midjourney, and others &lpar;Reuters&rpar;](http://www.techmeme.com/240208/p4#a240208p4)
  - [Paris-based Pennylane, a maker of cloud-based accounting software that can import data from Stripe, Dropbox, and other services, raised &amp;euro;40M at a &amp;euro;1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240208/p3#a240208p3)
  - [In his new book, a16z GP Chris Dixon fails to identify a single blockchain project that has successfully provided a non-speculative service at any kind of scale &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240208/p2#a240208p2)
  - [SEC filing: NYSE-listed Bakkt, a crypto trading platform backed by the Intercontinental Exchange, warns that it might not be able to stay in business in a year &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/240208/p1#a240208p1)
- - [SoftBank-backed AI data security company Cohesity agrees to acquire the data protection unit of multi-cloud data management firm Veritas, sources say for ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p35#a240207p35)
- - [The UN is probing 58 suspected cyberattacks worth ~$3B by North Korea on crypto companies; the stolen crypto allegedly helped fund the country&#39;s nuclear weapons &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240207/p34#a240207p34)<!-- TECH:END -->
+ - [SoftBank-backed AI data security company Cohesity agrees to acquire the data protection unit of multi-cloud data management firm Veritas, sources say for ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/240207/p35#a240207p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

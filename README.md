@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 💣 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
- - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 😝 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
+ - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
+ - 💣 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
+ - 😝 [Well he is Batman..](http://9gag.com/gag/aeQvzQ5)
+ - 👉 [Some pranks transcend language](http://9gag.com/gag/a2KngEY)<!-- MEMES:END -->
 
 ---
 

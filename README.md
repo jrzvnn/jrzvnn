@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It takes 2 minutes of searching to disprove this joke of an `interview`. Man disrespected half of Europe by his decrepit rambling and smearing dirt all over history.](http://9gag.com/gag/aL1yoeP)
- - 😝 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
- - 💣 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
- - 😝 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
- - 👉 [Satisfying car cleaning](http://9gag.com/gag/axoXK21)<!-- MEMES:END -->
+ - 😝 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 💣 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
 
 ---
 

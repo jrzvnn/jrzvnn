@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact](http://9gag.com/gag/az20DxK)
- - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 💣 [Driving near to world&#39;s biggest statue](http://9gag.com/gag/a4oDBmv)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)<!-- MEMES:END -->
+ - 😝 [Lock those windows](http://9gag.com/gag/amAEQQy)
+ - 😝 [Revolutionary thought](http://9gag.com/gag/a4oDggy)
+ - 💣 [Good save](http://9gag.com/gag/a3ZVrZ7)
+ - 😝 [Some pranks transcend language](http://9gag.com/gag/a2KngEY)
+ - 👉 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)<!-- MEMES:END -->
 
 ---
 

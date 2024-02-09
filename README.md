@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Galaxy Watch Gets FDA Approval for Sleep Apnea     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-watch-gets-fda-approval-for-sleep-apnea/#ftag=CAD590a51e)
+ - [HP Pavilion Plus 14     - CNET](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-dpnl/#ftag=CAD590a51e)
  - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)
- - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Memo: Centers for Medicare &amp; Medicaid Services says health insurers cannot use AI to determine care or deny coverage to members on Medicare Advantage plans &lpar;Beth Mole/Ars Technica&rpar;](http://www.techmeme.com/240209/p22#a240209p22)
- - [Travel Deals: Book an Adventure for You and Yours This Valentine&#39;s Day     - CNET](https://www.cnet.com/deals/travel-deals-book-an-adventure-for-you-and-yours-this-valentines-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slash the Cost of Your First Goldbelly Order by $15 With This Exclusive Offer     - CNET](https://www.cnet.com/deals/slash-the-cost-of-your-first-goldbelly-order-by-15-with-this-exclusive-offer/#ftag=CAD590a51e)
+ - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

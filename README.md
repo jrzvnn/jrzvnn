@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)
+ - [The White House says it plans to invest $5B+ from the CHIPS Act in &quot;semiconductor-related research&quot;, including in the National Semiconductor Technology Center &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240209/p9#a240209p9)
  - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)
  - [How Palantir embedded itself in the day-to-day work of Ukraine&#39;s wartime government in an unprecedented way, as Ukraine becomes a laboratory for military tech &lpar;Vera Bergengruen/TIME&rpar;](http://www.techmeme.com/240209/p8#a240209p8)
- - [Bluesky CEO Jay Graber Says She Won’t ‘Enshittify the Network With Ads’](https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/)
- - [&#39;Foundation&#39; cast and crew sent home as production delayed](https://appleinsider.com/articles/24/02/09/foundation-cast-and-crew-sent-home-as-production-delayed?utm_medium=rss)
- - [2054, Part V: From Tokyo With Love](https://www.wired.com/story/2054-part-v-from-tokyo-with-love/)<!-- TECH:END -->
+ - [Bluesky CEO Jay Graber Says She Won’t ‘Enshittify the Network With Ads’](https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

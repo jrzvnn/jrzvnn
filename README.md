@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How cheap power and friendly ties with China made Ethiopia, where almost half the population has no access to electricity, a haven for Chinese Bitcoin miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p26#a240209p26)
  - [9 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
  - [Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/)
  - [Joint filing: Apple and Rivos say they reached a deal to settle Apple&#39;s 2022 lawsuit accusing the SoC startup of poaching 40+ engineers to steal trade secrets &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240209/p25#a240209p25)
- - [Best Dog Beds of 2024     - CNET](https://www.cnet.com/health/sleep/best-dog-beds/#ftag=CAD590a51e)
- - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)<!-- TECH:END -->
+ - [Best Dog Beds of 2024     - CNET](https://www.cnet.com/health/sleep/best-dog-beds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

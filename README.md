@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 😝 [Fact](http://9gag.com/gag/az20DxK)
  - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 💣 [There we go again](http://9gag.com/gag/aWGwPB3)
- - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
+ - 💣 [Driving near to world&#39;s biggest statue](http://9gag.com/gag/a4oDBmv)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)<!-- MEMES:END -->
 
 ---
 

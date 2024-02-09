@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
- - 😝 [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
- - 💣 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
- - 😝 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
- - 👉 [Good save](http://9gag.com/gag/a3ZVrZ7)<!-- MEMES:END -->
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Disappearing trick](http://9gag.com/gag/a4oDmZm)
+ - 💣 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)<!-- MEMES:END -->
 
 ---
 

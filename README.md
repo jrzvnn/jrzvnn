@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
+ - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
  - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These $349 smart glasses have ‘AI superpowers’ and a comical charging nose](https://www.theverge.com/2024/2/9/24067485/frame-ai-smart-glasses-brilliant-labs)
  - [Sources: Cisco plans to lay off thousands of workers as part of a restructuring, as it seeks to focus on high-growth areas; Cisco had 84,900 staffers in FY 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p20#a240209p20)
  - [Apple Vision Pro vs Meta Quest 3 compared - Displays, prices &amp; graphics](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-meta-quest-3-compared---displays-prices-graphics?utm_medium=rss)
  - [Apple is back to lobbying against right-to-repair bills](https://appleinsider.com/articles/24/02/09/apple-is-back-to-lobbying-against-right-to-repair-bills?utm_medium=rss)
- - [Netflix, Amazon, and Paramount wanted Coyote vs. Acme but Warner Bros. Discovery refused](https://www.theverge.com/2024/2/9/24067496/coyote-vs-acme-amazon-netflix-paramount-rejected-offers-theatrical)
- - [A Canadian minister says the country plans to ban devices that copy wireless signals for remote keyless entry, like Flipper Zero, to combat auto theft &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240209/p19#a240209p19)<!-- TECH:END -->
+ - [Netflix, Amazon, and Paramount wanted Coyote vs. Acme but Warner Bros. Discovery refused](https://www.theverge.com/2024/2/9/24067496/coyote-vs-acme-amazon-netflix-paramount-rejected-offers-theatrical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

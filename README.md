@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epik, a domain registrar serving far-right and extremist websites, has been acquired by Registered Agents, whose services allow companies to operate anonymously &lpar;William Turton/Wired&rpar;](http://www.techmeme.com/240209/p4#a240209p4)
  - [Sources: Singapore-based Grab and Jakarta-based GoTo revive talks for a ride-hailing merger in Southeast Asia; GoTo says &quot;no such discussion is taking place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p3#a240209p3)
  - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)
  - [John Walker, a computer programmer and co-founder of 3D design software maker Autodesk, died on February 2 at the age of 75 &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240209/p1#a240209p1)
- - [Best Protein Powders for Women for 2024     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)
- - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)<!-- TECH:END -->
+ - [Best Protein Powders for Women for 2024     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

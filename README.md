@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grammarly lays off 230 staffers as part of a restructuring, after growing its team from 200 to 1,000 over the past five years; it was valued at $13B in 2021 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240209/p14#a240209p14)
  - [Russian Memes Celebrate ‘Tucker Carlson Day’ After Putin Interview](https://www.wired.com/story/tucker-carlson-putin-interview-propaganda-online-response/)
  - [Meta says it will not &quot;proactively recommend political content from accounts you don&#39;t follow&quot; on Threads, the same policy it uses on Facebook and Instagram &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240209/p13#a240209p13)
  - [This Anker charging station can power up to eight devices and is on sale for $60](https://www.theverge.com/2024/2/9/24066026/anker-maggo-echo-show-8-bose-quietcomfort-ultra-headphones-deal-sale)
- - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)
- - [Meta removes the Facebook and Instagram accounts of Iran&#39;s supreme leader for repeatedly violating its Dangerous Organizations &amp; Individuals policy &lpar;France 24&rpar;](http://www.techmeme.com/240209/p11#a240209p11)<!-- TECH:END -->
+ - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

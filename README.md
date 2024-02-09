@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Simple Workout Products For a Minimalist Home Gym     - CNET](https://www.cnet.com/health/fitness/10-simple-workout-products-for-a-minimalist-home-gym/#ftag=CAD590a51e)
  - [Microsoft hints at the future of AI in Windows with a smarter Copilot](https://www.theverge.com/2024/2/9/24067505/microsoft-windows-11-copilot-feature-changes)
  - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)
- - [Police take months to arrest stalker identified by AirTag](https://appleinsider.com/articles/24/02/09/police-take-months-to-arrest-stalker-identified-by-airtag?utm_medium=rss)
- - [Carlyle Group agrees to sell UK game publisher Jagex, which develops RuneScape, to CVC Capital, sources say for &amp;pound;900M, after acquiring it in 2021 for $530M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p15#a240209p15)
- - [Why can’t I buy a refillable version of my favorite pen in the US?](https://www.theverge.com/24066524/pilot-pen-precise-refillable-v5-v7-availability)<!-- TECH:END -->
+ - [Save 20% on These Last-Minute Valentine&#39;s Day Flowers From BloomsyBox     - CNET](https://www.cnet.com/deals/woo-your-boo-with-gorgeous-flowers-from-bloomsybox-this-valentines-day-and-save-20/#ftag=CAD590a51e)
+ - [Best Wireless Mouse Deals: Up to $31 Savings on Logitech, HP, Steelseries and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

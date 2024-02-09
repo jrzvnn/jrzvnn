@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung receives FDA approval to add a feature to Galaxy Watch to detect &quot;signs of moderate to severe obstructive sleep apnea&quot; for users over the age of 22 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240209/p21#a240209p21)
+ - [New rumor claiming iOS 18 redesign is inspired by Apple Vision Pro is in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
  - [These $349 smart glasses have ‘AI superpowers’ and a comical charging nose](https://www.theverge.com/2024/2/9/24067485/frame-ai-smart-glasses-brilliant-labs)
  - [Sources: Cisco plans to lay off thousands of workers as part of a restructuring, as it seeks to focus on high-growth areas; Cisco had 84,900 staffers in FY 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p20#a240209p20)
- - [Apple Vision Pro vs Meta Quest 3 compared - Displays, prices &amp; graphics](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-meta-quest-3-compared---displays-prices-graphics?utm_medium=rss)
- - [Apple is back to lobbying against right-to-repair bills](https://appleinsider.com/articles/24/02/09/apple-is-back-to-lobbying-against-right-to-repair-bills?utm_medium=rss)
- - [Netflix, Amazon, and Paramount wanted Coyote vs. Acme but Warner Bros. Discovery refused](https://www.theverge.com/2024/2/9/24067496/coyote-vs-acme-amazon-netflix-paramount-rejected-offers-theatrical)<!-- TECH:END -->
+ - [Apple Vision Pro vs Meta Quest 3 compared - Displays, prices &amp; graphics](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-meta-quest-3-compared---displays-prices-graphics?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

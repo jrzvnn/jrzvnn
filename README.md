@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 😝 [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)
- - 💣 [Taylor Swift takes a 13 minute private jet flight](http://9gag.com/gag/aeQvdRO)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
+ - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - 👉 [Disappearing trick](http://9gag.com/gag/a4oDmZm)<!-- MEMES:END -->
 
 ---
 

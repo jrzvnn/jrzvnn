@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is back to lobbying against right-to-repair bills](https://appleinsider.com/articles/24/02/09/apple-is-back-to-lobbying-against-right-to-repair-bills?utm_medium=rss)
+ - [Netflix, Amazon, and Paramount wanted Coyote vs. Acme but Warner Bros. Discovery refused](https://www.theverge.com/2024/2/9/24067496/coyote-vs-acme-amazon-netflix-paramount-rejected-offers-theatrical)
  - [A Canadian minister says the country plans to ban devices that copy wireless signals for remote keyless entry, like Flipper Zero, to combat auto theft &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240209/p19#a240209p19)
  - [Rumors that peg iOS 18 redesign to how Apple Vision Pro looks are in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
- - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)
- - [Xbox Game Pass Ultimate: Play Madden 24 Now Before the Super Bowl     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-before-the-super-bowl/#ftag=CAD590a51e)
- - [WelleCo Is Celebrating Super Bowl Weekend With 15% Off Orders     - CNET](https://www.cnet.com/deals/welleco-is-celebrating-super-bowl-weekend-with-15-off-orders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

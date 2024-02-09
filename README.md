@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
  - [Lego’s next limited-edition sets could include an Elven Castle and this Sushi Restaurant](https://www.theverge.com/2024/2/9/24067982/lego-bricklink-designer-program-series-4-vote)
  - [How cheap power and friendly ties with China made Ethiopia, where almost half the population has no access to electricity, a haven for Chinese Bitcoin miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p26#a240209p26)
  - [9 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)
- - [Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/)
- - [Joint filing: Apple and Rivos say they reached a deal to settle Apple&#39;s 2022 lawsuit accusing the SoC startup of poaching 40+ engineers to steal trade secrets &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240209/p25#a240209p25)<!-- TECH:END -->
+ - [Meet the Pranksters Behind Goody-2, the World’s ‘Most Responsible’ AI Chatbot](https://www.wired.com/story/goody-2-worlds-most-responsible-ai-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

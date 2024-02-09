@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Centers for Medicare &amp; Medicaid Services says health insurers cannot use AI to determine care or deny coverage to members on Medicare Advantage plans &lpar;Beth Mole/Ars Technica&rpar;](http://www.techmeme.com/240209/p22#a240209p22)
  - [Instagram and Threads will stop recommending political content](https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds)
  - [Samsung receives FDA approval to add a feature to Galaxy Watch to detect &quot;signs of moderate to severe obstructive sleep apnea&quot; for users over the age of 22 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240209/p21#a240209p21)
  - [New rumor claiming iOS 18 redesign is inspired by Apple Vision Pro is in the wrong order](https://appleinsider.com/articles/24/02/09/rumors-that-peg-ios-18-redesign-to-how-apple-vision-pro-looks-are-in-the-wrong-order?utm_medium=rss)
- - [These $349 smart glasses have ‘AI superpowers’ and a comical charging nose](https://www.theverge.com/2024/2/9/24067485/frame-ai-smart-glasses-brilliant-labs)
- - [Sources: Cisco plans to lay off thousands of workers as part of a restructuring, as it seeks to focus on high-growth areas; Cisco had 84,900 staffers in FY 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p20#a240209p20)<!-- TECH:END -->
+ - [These $349 smart glasses have ‘AI superpowers’ and a comical charging nose](https://www.theverge.com/2024/2/9/24067485/frame-ai-smart-glasses-brilliant-labs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

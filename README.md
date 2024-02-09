@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)
  - [John Walker, a computer programmer and co-founder of 3D design software maker Autodesk, died on February 2 at the age of 75 &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240209/p1#a240209p1)
  - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)
  - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)
- - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
- - [Best Dishwasher Features of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

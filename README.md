@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carlyle Group agrees to sell UK game publisher Jagex, which develops RuneScape, to CVC Capital, sources say for &amp;pound;900M, after acquiring it in 2021 for $530M+ &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/240209/p15#a240209p15)
+ - [Why can’t I buy a refillable version of my favorite pen in the US?](https://www.theverge.com/24066524/pilot-pen-precise-refillable-v5-v7-availability)
  - [Grammarly lays off 230 staffers as part of a restructuring, after growing its team from 200 to 1,000 over the past five years; it was valued at $13B in 2021 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240209/p14#a240209p14)
  - [Russian Memes Celebrate ‘Tucker Carlson Day’ After Putin Interview](https://www.wired.com/story/tucker-carlson-putin-interview-propaganda-online-response/)
- - [Meta says it will not &quot;proactively recommend political content from accounts you don&#39;t follow&quot; on Threads, the same policy it uses on Facebook and Instagram &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240209/p13#a240209p13)
- - [This Anker charging station can power up to eight devices and is on sale for $60](https://www.theverge.com/2024/2/9/24066026/anker-maggo-echo-show-8-bose-quietcomfort-ultra-headphones-deal-sale)
- - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)<!-- TECH:END -->
+ - [Watch RuPaul&#39;s Drag Race: UK vs. The World: Livestream Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-rupauls-drag-race-uk-vs-the-world-livestream-season-2-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

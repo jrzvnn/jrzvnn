@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 👉 [Disappearing trick](http://9gag.com/gag/a4oDmZm)<!-- MEMES:END -->
+ - 😝 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 😝 [If you didnt get to see the interview, here&#39;s the short version of it.](http://9gag.com/gag/aQE0bqK)
+ - 💣 [Arkansas Governor Bans General-Neutral Pregnancy Terms](http://9gag.com/gag/a8qBQpe)
+ - 😝 [I&#39;m sure many of you dads would do the same. Movie: Finestkind](http://9gag.com/gag/agoPbA1)
+ - 👉 [Satisfying car cleaning](http://9gag.com/gag/axoXK21)<!-- MEMES:END -->
 
 ---
 

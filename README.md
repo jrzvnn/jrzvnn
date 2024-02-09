@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [EQUALITY of EQUALS -- If you think YOU in your RELIGION are better than others!, YOU DON&#39;T FIT INTO OUR SOCIETY.](http://9gag.com/gag/aWGwyMn)
- - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
- - 💣 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
- - 😝 [Well he is Batman..](http://9gag.com/gag/aeQvzQ5)
- - 👉 [Some pranks transcend language](http://9gag.com/gag/a2KngEY)<!-- MEMES:END -->
+ - 😝 [You don&#39;t know who will tell](http://9gag.com/gag/aKErZvQ)
+ - 💣 [Well he is Batman..](http://9gag.com/gag/aeQvzQ5)
+ - 😝 [Some pranks transcend language](http://9gag.com/gag/a2KngEY)
+ - 👉 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Funimation Digital Libraries Were Supposed to Last ‘Forever.’ Soon They’ll Disappear](https://www.wired.com/story/funimation-digital-libraries-crunchyroll-disappear/)
+ - [Google Pixel 7a     - CNET](https://www.cnet.com/tech/mobile/google-pixel-7a-dpnl/#ftag=CAD590a51e)
+ - [Anne Klein AK/1470     - CNET](https://www.cnet.com/tech/anne-klein-ak1470-dpnl/#ftag=CAD590a51e)
  - [New York Attorney General expands her October 2023 lawsuit against DCG, Genesis, and Gemini, tripling the size of their alleged fraud from Gemini Earn to $3B+ &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p24#a240209p24)
- - [Samsung Galaxy Watch cleared for sleep apnea detection](https://www.theverge.com/2024/2/9/24067819/samsung-galaxy-watch-sleep-apnea-tracker-fda-de-novo-authorization)
- - [The FTC says Americans lost over $10B to scammers in 2023, up 14% YoY, with 2.6M+ consumers filing fraud reports; imposter scams were the most reported &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240209/p23#a240209p23)
- - [Samsung&#39;s Galaxy Watch Gets FDA Approval for Sleep Apnea     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-watch-gets-fda-approval-for-sleep-apnea/#ftag=CAD590a51e)
- - [HP Pavilion Plus 14     - CNET](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Timex Expedition Scout Watch     - CNET](https://www.cnet.com/tech/timex-expedition-scout-watch-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

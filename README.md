@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)
+ - [Here’s the Thing AI Just Can’t Do](https://www.wired.com/story/plaintext-the-thing-ai-just-cant-do/)
+ - [Taylor Swift Will Define Super Bowl 2024 Just by Showing Up](https://www.wired.com/story/taylor-swift-super-bowl-2024-conspiracy-theories-travis-kelce-attention-economy/)
  - [Sources: Nvidia plans to build a new business unit focused on designing custom chips, including AI chips, for cloud companies; custom chips are a $30B market &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p10#a240209p10)
- - [Apple Vision Pro showdown -- for and against Apple&#39;s newest device on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/09/apple-vision-pro-showdown----for-and-against-apples-newest-device-on-the-appleinsider-podcast?utm_medium=rss)
- - [5 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
- - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro showdown -- for and against Apple&#39;s newest device on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/09/apple-vision-pro-showdown----for-and-against-apples-newest-device-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

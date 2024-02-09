@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)
+ - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Memo: Centers for Medicare &amp; Medicaid Services says health insurers cannot use AI to determine care or deny coverage to members on Medicare Advantage plans &lpar;Beth Mole/Ars Technica&rpar;](http://www.techmeme.com/240209/p22#a240209p22)
- - [Travel Deals: Book an Adventure for You and Yours This Valentine&#39;s Day     - CNET](https://www.cnet.com/deals/travel-deals-book-an-adventure-for-you-and-yours-this-valentines-day/#ftag=CAD590a51e)
- - [Best Action Cameras of 2024     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)
- - [Instagram and Threads will stop recommending political content](https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds)
- - [Streaming Taylor Swift&#39;s Eras Tour Concert Film on Disney Plus: Everything We Know     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swifts-eras-tour-concert-film-to-stream-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Travel Deals: Book an Adventure for You and Yours This Valentine&#39;s Day     - CNET](https://www.cnet.com/deals/travel-deals-book-an-adventure-for-you-and-yours-this-valentines-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

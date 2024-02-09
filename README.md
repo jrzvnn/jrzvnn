@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta considers flagging more uses of the term &quot;Zionist&quot; as antisemitic, a move some say could suppress legitimate debate about the Israel-Hamas war &lpar;Washington Post&rpar;](http://www.techmeme.com/240209/p17#a240209p17)
+ - [Why Aren&#39;t More People Watching &#39;For All Mankind&#39;?](https://www.wired.com/2024/02/geeks-guide-for-all-mankind-se-4/)
  - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)
  - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [10 Simple Workout Products For a Minimalist Home Gym     - CNET](https://www.cnet.com/health/fitness/10-simple-workout-products-for-a-minimalist-home-gym/#ftag=CAD590a51e)
- - [Microsoft hints at the future of AI in Windows with a smarter Copilot](https://www.theverge.com/2024/2/9/24067505/microsoft-windows-11-copilot-feature-changes)
- - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)<!-- TECH:END -->
+ - [10 Simple Workout Products For a Minimalist Home Gym     - CNET](https://www.cnet.com/health/fitness/10-simple-workout-products-for-a-minimalist-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

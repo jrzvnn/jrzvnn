@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 😝 [Healthy inside, Fresh outside](http://9gag.com/gag/az20BVx)
- - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 😝 [Do what I say, not what I do....](http://9gag.com/gag/a9q94KL)
+ - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 💣 [Noo.](http://9gag.com/gag/aBd7MrN)
+ - 😝 [Last line is a cultural thing](http://9gag.com/gag/aWGwPjA)
+ - 👉 [Same results without the all the fanfare](http://9gag.com/gag/az20zAN)<!-- MEMES:END -->
 
 ---
 

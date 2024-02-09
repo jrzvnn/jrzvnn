@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York Attorney General expands her October 2023 lawsuit against DCG, Genesis, and Gemini, tripling the size of their alleged fraud from Gemini Earn to $3B+ &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p24#a240209p24)
+ - [Samsung Galaxy Watch cleared for sleep apnea detection](https://www.theverge.com/2024/2/9/24067819/samsung-galaxy-watch-sleep-apnea-tracker-fda-de-novo-authorization)
  - [The FTC says Americans lost over $10B to scammers in 2023, up 14% YoY, with 2.6M+ consumers filing fraud reports; imposter scams were the most reported &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240209/p23#a240209p23)
  - [Samsung&#39;s Galaxy Watch Gets FDA Approval for Sleep Apnea     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-watch-gets-fda-approval-for-sleep-apnea/#ftag=CAD590a51e)
- - [HP Pavilion Plus 14     - CNET](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-dpnl/#ftag=CAD590a51e)
- - [Peacock will stream the Chinese adaptation of The Three-Body Problem](https://www.theverge.com/2024/2/9/24067865/peacock-three-body-problem-stream-date-trailer)
- - [Slash the Cost of Your First Goldbelly Order by $15 With This Exclusive Offer     - CNET](https://www.cnet.com/deals/slash-the-cost-of-your-first-goldbelly-order-by-15-with-this-exclusive-offer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP Pavilion Plus 14     - CNET](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

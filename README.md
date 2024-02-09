@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)
  - [In a lawsuit, former TikTok Global Head of Brand &amp; Creative Katie Puris claims she was subjected to discrimination and &quot;ultimately unlawfully terminated&quot; &lpar;Shauneen Miranda/Axios&rpar;](http://www.techmeme.com/240208/p47#a240208p47)
  - [X signs a two-year deal with the WWE for a new exclusive weekly video series called WWE Speed featuring timed matches of 5 minutes or less, coming spring 2024 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240208/p46#a240208p46)
  - [Best Portable Jump Starter Deals: Savings of Up to $122 Off Top Brands     - CNET](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [Best Collagen Powders for 2024     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)
- - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)<!-- TECH:END -->
+ - [Best Collagen Powders for 2024     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

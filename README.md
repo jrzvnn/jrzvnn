@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joint filing: Apple and Rivos say they reached a deal to settle Apple&#39;s 2022 lawsuit accusing the SoC startup of poaching 40+ engineers to steal trade secrets &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240209/p25#a240209p25)
+ - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
  - [Funimation Digital Libraries Were Supposed to Last ‘Forever.’ Soon They’ll Disappear](https://www.wired.com/story/funimation-digital-libraries-crunchyroll-disappear/)
  - [Google Pixel 7a     - CNET](https://www.cnet.com/tech/mobile/google-pixel-7a-dpnl/#ftag=CAD590a51e)
- - [Anne Klein AK/1470     - CNET](https://www.cnet.com/tech/anne-klein-ak1470-dpnl/#ftag=CAD590a51e)
- - [New York Attorney General expands her October 2023 lawsuit against DCG, Genesis, and Gemini, tripling the size of their alleged fraud from Gemini Earn to $3B+ &lpar;Reuters&rpar;](http://www.techmeme.com/240209/p24#a240209p24)
- - [Timex Expedition Scout Watch     - CNET](https://www.cnet.com/tech/timex-expedition-scout-watch-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anne Klein AK/1470     - CNET](https://www.cnet.com/tech/anne-klein-ak1470-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

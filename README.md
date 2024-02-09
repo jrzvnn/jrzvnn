@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring plans to raise the price of its cheapest subscription by 25% to $5 a month or $50 a year from March 11, 2024 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240209/p12#a240209p12)
  - [Meta removes the Facebook and Instagram accounts of Iran&#39;s supreme leader for repeatedly violating its Dangerous Organizations &amp; Individuals policy &lpar;France 24&rpar;](http://www.techmeme.com/240209/p11#a240209p11)
  - [Why drivers in Scotland are crashing because of bad Apple Maps data](https://appleinsider.com/articles/24/02/07/why-drivers-in-scotland-are-crashing-because-of-bad-apple-maps-data?utm_medium=rss)
  - [Disney’s big bets on sports, streaming, and Fortnite](https://www.theverge.com/24067383/disney-sports-fortnite-hulu-vision-pro-vergecast)
- - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)
- - [Here’s the Thing AI Just Can’t Do](https://www.wired.com/story/plaintext-the-thing-ai-just-cant-do/)<!-- TECH:END -->
+ - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

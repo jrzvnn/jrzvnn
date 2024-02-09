@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)
+ - [Xbox Game Pass Ultimate: Play Madden 24 Now Before the Super Bowl     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-madden-24-now-before-the-super-bowl/#ftag=CAD590a51e)
+ - [WelleCo Is Celebrating Super Bowl Weekend With 15% Off Orders     - CNET](https://www.cnet.com/deals/welleco-is-celebrating-super-bowl-weekend-with-15-off-orders/#ftag=CAD590a51e)
  - [Google’s Gemini assistant is a fantastic and frustrating glimpse of the AI future](https://www.theverge.com/24066399/google-gemini-voice-assistant-app-android)
- - [Sources: Meta considers flagging more uses of the term &quot;Zionist&quot; as antisemitic, a move some say could suppress legitimate debate about the Israel-Hamas war &lpar;Washington Post&rpar;](http://www.techmeme.com/240209/p17#a240209p17)
- - [Why Aren&#39;t More People Watching &#39;For All Mankind&#39;?](https://www.wired.com/2024/02/geeks-guide-for-all-mankind-se-4/)
- - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)<!-- TECH:END -->
+ - [Best Gaming Keyboard for 2024     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

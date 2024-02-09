@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
  - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)
  - [The White House says it plans to invest $5B+ from the CHIPS Act in &quot;semiconductor-related research&quot;, including in the National Semiconductor Technology Center &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240209/p9#a240209p9)
- - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)
- - [How Palantir embedded itself in the day-to-day work of Ukraine&#39;s wartime government in an unprecedented way, as Ukraine becomes a laboratory for military tech &lpar;Vera Bergengruen/TIME&rpar;](http://www.techmeme.com/240209/p8#a240209p8)
- - [Bluesky CEO Jay Graber Says She Won’t ‘Enshittify the Network With Ads’](https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/)<!-- TECH:END -->
+ - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

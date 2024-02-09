@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
  - [10 Simple Workout Products For a Minimalist Home Gym     - CNET](https://www.cnet.com/health/fitness/10-simple-workout-products-for-a-minimalist-home-gym/#ftag=CAD590a51e)
  - [Microsoft hints at the future of AI in Windows with a smarter Copilot](https://www.theverge.com/2024/2/9/24067505/microsoft-windows-11-copilot-feature-changes)
- - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)
- - [Save 20% on These Last-Minute Valentine&#39;s Day Flowers From BloomsyBox     - CNET](https://www.cnet.com/deals/woo-your-boo-with-gorgeous-flowers-from-bloomsybox-this-valentines-day-and-save-20/#ftag=CAD590a51e)
- - [Best Wireless Mouse Deals: Up to $31 Savings on Logitech, HP, Steelseries and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney is testing a contextual ad tool dubbed &quot;magic words&quot; for Disney+ and Hulu that uses AI to analyze scenes and identify contents, brands, images, and mood &lpar;Dawn Chmielewski/Reuters&rpar;](http://www.techmeme.com/240209/p16#a240209p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

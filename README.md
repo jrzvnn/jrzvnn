@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
- - 😝 [Cultured people have sticks](http://9gag.com/gag/abv9dor)
- - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
+ - 😝 [There we go again](http://9gag.com/gag/aWGwPB3)
+ - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
+ - 💣 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There we go again](http://9gag.com/gag/aWGwPB3)
- - 😝 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
- - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 👉 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)<!-- MEMES:END -->
+ - 😝 [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
+ - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
+ - 💣 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
+ - 😝 [Good save](http://9gag.com/gag/a3ZVrZ7)
+ - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
 
 ---
 

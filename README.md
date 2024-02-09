@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro showdown -- for and against Apple&#39;s newest device on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/09/apple-vision-pro-showdown----for-and-against-apples-newest-device-on-the-appleinsider-podcast?utm_medium=rss)
  - [5 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
  - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
  - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)
- - [The White House says it plans to invest $5B+ from the CHIPS Act in &quot;semiconductor-related research&quot;, including in the National Semiconductor Technology Center &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240209/p9#a240209p9)
- - [Joe Rogan show returns to Apple Podcasts](https://appleinsider.com/articles/24/02/09/joe-rogan-show-returns-to-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
+ - [The White House says it plans to invest $5B+ from the CHIPS Act in &quot;semiconductor-related research&quot;, including in the National Semiconductor Technology Center &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240209/p9#a240209p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

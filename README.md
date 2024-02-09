@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HolUp 13?](http://9gag.com/gag/a3ZVeye)
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 💣 [Bro is on a mission](http://9gag.com/gag/aYV2d50)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)<!-- MEMES:END -->
+ - 😝 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
+ - 😝 [Sebulba is fed up with this human nonsense](http://9gag.com/gag/aVbN9Kw)
+ - 💣 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 

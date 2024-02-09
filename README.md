@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)
  - [A look at the state of Passkeys, supported by Google, Apple, and others, which offer a seamless vision of a more secure future but the UX still needs work &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240209/p5#a240209p5)
  - [Money You&#39;ll Delay if You File a Tax Extension in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/money-youll-delay-if-you-file-a-tax-extension-in-2024/#ftag=CAD590a51e)
  - [Epik, a domain registrar serving far-right and extremist websites, has been acquired by Registered Agents, whose services allow companies to operate anonymously &lpar;William Turton/Wired&rpar;](http://www.techmeme.com/240209/p4#a240209p4)
- - [Sources: Singapore-based Grab and Jakarta-based GoTo revive talks for a ride-hailing merger in Southeast Asia; GoTo says &quot;no such discussion is taking place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p3#a240209p3)
- - [Stockholm-based Xensam, which offers AI-based tools for software asset management, raised $40M from Expedition Growth Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240209/p2#a240209p2)<!-- TECH:END -->
+ - [Sources: Singapore-based Grab and Jakarta-based GoTo revive talks for a ride-hailing merger in Southeast Asia; GoTo says &quot;no such discussion is taking place&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p3#a240209p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Foundation&#39; cast and crew sent home as production delayed](https://appleinsider.com/articles/24/02/09/foundation-cast-and-crew-sent-home-as-production-delayed?utm_medium=rss)
+ - [2054, Part V: From Tokyo With Love](https://www.wired.com/story/2054-part-v-from-tokyo-with-love/)
+ - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
  - [Sources: Paytm E-commerce changed its name to Pai Platforms and acquired Bitsila, a seller platform on India&#39;s Open Network for Digital Commerce &lpar;The Economic Times&rpar;](http://www.techmeme.com/240209/p7#a240209p7)
- - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)
- - [A look at the state of Passkeys, supported by Google, Apple, and others, which offer a seamless vision of a more secure future but the UX still needs work &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240209/p5#a240209p5)
- - [Money You&#39;ll Delay if You File a Tax Extension in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/money-youll-delay-if-you-file-a-tax-extension-in-2024/#ftag=CAD590a51e)
- - [Epik, a domain registrar serving far-right and extremist websites, has been acquired by Registered Agents, whose services allow companies to operate anonymously &lpar;William Turton/Wired&rpar;](http://www.techmeme.com/240209/p4#a240209p4)<!-- TECH:END -->
+ - [Sources: OpenAI&#39;s annualized revenue hit $2B in December, up from $1.3B in October 2023, and the company believes it can more than double the figure in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p6#a240209p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

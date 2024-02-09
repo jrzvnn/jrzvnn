@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expedia says CEO Peter Kern will step down after four years in the role and names its president for business, Ariane Gorin, as CEO, effective May 13, 2024 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240208/p45#a240208p45)
- - [Xiaolang Zhang, a former Apple engineer who pled guilty in August 2022 to IP theft of Apple&#39;s car project, is sentenced to 120 days in prison and a ~$147K fine &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240208/p44#a240208p44)
- - [EU developers can begin testing app marketplaces and apps that won&#39;t be distributed in the App Store](https://appleinsider.com/articles/24/02/08/eu-developers-can-begin-testing-app-marketplaces-and-apps-that-wont-be-distributed-in-the-app-store?utm_medium=rss)
- - [Learn to Code With These Five Online Coding Courses for Beginners     - CNET](https://www.cnet.com/tech/services-and-software/learn-to-code-with-these-5-online-coding-courses-for-beginners/#ftag=CAD590a51e)
- - [Ring is raising the price of its cheapest subscription plan by 25 percent](https://www.theverge.com/2024/2/8/24066592/ring-video-doorbell-security-camera-subscription-price-increase)<!-- TECH:END -->
+ - [X signs a two-year deal with the WWE for a new exclusive weekly video series called WWE Speed featuring timed matches of 5 minutes or less, coming spring 2024 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240208/p46#a240208p46)
+ - [Best Portable Jump Starter Deals: Savings of Up to $122 Off Top Brands     - CNET](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
+ - [Best Collagen Powders for 2024     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
+ - [Expedia says CEO Peter Kern will step down after four years in the role and names its president for business, Ariane Gorin, as CEO, effective May 13, 2024 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240208/p45#a240208p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

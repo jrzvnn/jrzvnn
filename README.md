@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a legislative hearing in Oregon, an Apple executive opposed a strong right-to-repair bill, despite Apple&#39;s support for a similar but weaker law in California &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240209/p18#a240209p18)
  - [Google’s Gemini assistant is a fantastic and frustrating glimpse of the AI future](https://www.theverge.com/24066399/google-gemini-voice-assistant-app-android)
  - [Sources: Meta considers flagging more uses of the term &quot;Zionist&quot; as antisemitic, a move some say could suppress legitimate debate about the Israel-Hamas war &lpar;Washington Post&rpar;](http://www.techmeme.com/240209/p17#a240209p17)
  - [Why Aren&#39;t More People Watching &#39;For All Mankind&#39;?](https://www.wired.com/2024/02/geeks-guide-for-all-mankind-se-4/)
- - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
+ - [The best Super Bowl TV deals to upgrade your setup before kickoff](https://www.theverge.com/2024/2/9/24064996/best-super-bowl-tv-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

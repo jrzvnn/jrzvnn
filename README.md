@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)
  - [In a lawsuit, former TikTok Global Head of Brand &amp; Creative Katie Puris claims she was subjected to discrimination and &quot;ultimately unlawfully terminated&quot; &lpar;Shauneen Miranda/Axios&rpar;](http://www.techmeme.com/240208/p47#a240208p47)
+ - [7 Great, Cheap Kid-Friendly Gifts That Aren&#39;t Video Games     - CNET](https://www.cnet.com/culture/entertainment/each-of-these-7-great-gifts-for-kids-costs-20-or-less/#ftag=CAD590a51e)
  - [X signs a two-year deal with the WWE for a new exclusive weekly video series called WWE Speed featuring timed matches of 5 minutes or less, coming spring 2024 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240208/p46#a240208p46)
- - [Best Portable Jump Starter Deals: Savings of Up to $122 Off Top Brands     - CNET](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [Best Collagen Powders for 2024     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Jump Starter Deals: Savings of Up to $122 Off Top Brands     - CNET](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

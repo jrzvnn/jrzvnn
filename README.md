@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft Visual Studio Professional 2022 gets a hefty 92% discount](https://appleinsider.com/articles/24/02/09/microsoft-visual-studio-professional-2022-gets-a-hefty-92-discount?utm_medium=rss)
  - [Ezra, which offers AI-powered full-body MRI scans to detect cancer, raised $21M led by Healthier Capital and FirstMark Capital, taking its total funding to $41M &lpar;AlleyWatch&rpar;](http://www.techmeme.com/240208/p49#a240208p49)
+ - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
  - [Best Dishwasher Features of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
- - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)
- - [In a lawsuit, former TikTok Global Head of Brand &amp; Creative Katie Puris claims she was subjected to discrimination and &quot;ultimately unlawfully terminated&quot; &lpar;Shauneen Miranda/Axios&rpar;](http://www.techmeme.com/240208/p47#a240208p47)<!-- TECH:END -->
+ - [Sources: Sam Altman is in talks with investors, including the UAE government, to raise funds for an AI chip initiative that could cost as much as $5T to $7T &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240208/p48#a240208p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

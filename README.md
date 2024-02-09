@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 😝 [Same developer. Same character. Same costume. 9 YEARS LATER. Batman Arkham Knight &lpar;2015&rpar; on the left and Suicide Squad: Kill The Justice League &lpar;2024&rpar; on the right. HOW?](http://9gag.com/gag/a1PGqy8)
- - 💣 [There we go again](http://9gag.com/gag/aWGwPB3)
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 👉 [It&#39;s in the bloody name](http://9gag.com/gag/aZDGo60)<!-- MEMES:END -->
+ - 😝 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 😝 [Noo.](http://9gag.com/gag/aBd7MrN)
+ - 💣 [Last line is a cultural thing](http://9gag.com/gag/aWGwPjA)
+ - 😝 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
+ - 👉 [Greg out there doing God&#39;s work](http://9gag.com/gag/a2Kn9nd)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 💣 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 😝 [Mexican news reporter](http://9gag.com/gag/a6qAe62)
+ - 💣 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
+ - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 

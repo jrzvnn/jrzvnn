@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
+ - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
  - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 💣 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
- - 😝 [Good save](http://9gag.com/gag/a3ZVrZ7)
- - 👉 [Change my mind](http://9gag.com/gag/aREYd6A)<!-- MEMES:END -->
+ - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 👉 [It was all fun &amp; games until.....](http://9gag.com/gag/aGEW6N0)<!-- MEMES:END -->
 
 ---
 

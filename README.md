@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro showdown -- for and against Apple&#39;s newest device on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/09/apple-vision-pro-showdown----for-and-against-apples-newest-device-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and Free Storage Upgrades     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
  - [Some news creators and journalists, who moved to Threads from X, criticize Meta after it announced it would stop recommending political content on Threads &lpar;Washington Post&rpar;](http://www.techmeme.com/240210/p10#a240210p10)
  - [Tesla&#39;s Ultra Wideband update improves how you unlock cars with an iPhone](https://appleinsider.com/articles/24/02/10/teslas-ultra-wideband-update-improves-how-you-unlock-cars-with-an-iphone?utm_medium=rss)
- - [Best Tablet Deals: Big Savings on Galaxy Tab S6, Microsoft Surface Pro, iPad and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [Crypto startups like Blast are offering loyalty points to lure users, without detailing the rewards; Blast has attracted $1.3B in crypto since November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240210/p9#a240210p9)
- - [Tesla’s iPhone app  gets better digital car key support with ultra wideband](https://www.theverge.com/2024/2/10/24068736/tesla-iphone-digital-car-key-ultra-wideband)<!-- TECH:END -->
+ - [Best Tablet Deals: Big Savings on Galaxy Tab S6, Microsoft Surface Pro, iPad and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

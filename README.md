@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
  - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 💣 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
+ - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
 
 ---
 

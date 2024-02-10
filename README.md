@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)
- - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It&#39;s Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)
- - [Man City vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Don&#39;t Lose That COLA Letter You Received in December 2023. Here&#39;s Why You Want to Keep It     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-that-cola-letter-you-received-in-december-2023-heres-why-you-want-to-keep-it/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [Tax Season 2024: When Will I Get My Tax Refund Money From the IRS? How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-when-will-i-get-my-tax-refund-money-from-the-irs-how-to-find-out/#ftag=CAD590a51e)
+ - [Verizon Customers Could Receive as Much as $100 in Settlement Money. How to Claim the Payout     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-as-much-as-100-in-settlement-money-how-to-claim-the-payout/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Should You File Your Tax Return Now or Should You Wait?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-file-your-tax-return-now-or-should-you-wait/#ftag=CAD590a51e)
+ - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

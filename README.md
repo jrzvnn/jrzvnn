@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did Climate Change Help This Skier Achieve the Impossible?](https://www.wired.com/story/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/)
+ - [Nanit Pro Camera Review &lpar;2024&rpar;: A Super Smart, Expensive Baby Monitor](https://www.wired.com/review/nanit-pro-camera/)
+ - [Countries Are Building Giant ‘Sand Motors’ to Protect Their Coasts From Erosion](https://www.wired.com/story/giant-sand-motors-coastal-erosion-netherlands-africa-uk-boskalis/)
  - [How chiplet tech could allow Chinese companies to circumvent US sanctions, as the Chinese government and VCs focus on propping up the domestic chiplet industry &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240210/p5#a240210p5)
- - [Tottenham vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Liverpool vs. Burnley Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-burnley-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17: How to Play Daily Crossword Puzzles in Apple&#39;s News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-how-to-play-daily-crossword-puzzles-in-apples-news-app/#ftag=CAD590a51e)
- - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)<!-- TECH:END -->
+ - [Tottenham vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

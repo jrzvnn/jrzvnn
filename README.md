@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
  - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 💣 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 😝 [Meow Meow](http://9gag.com/gag/agoPbYW)
+ - 💣 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
+ - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 👉 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)<!-- MEMES:END -->
 
 ---
 

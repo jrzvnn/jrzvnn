@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
  - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 💣 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 😝 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
- - 👉 [Good save](http://9gag.com/gag/a3ZVrZ7)<!-- MEMES:END -->
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 💣 [Icelandic worker trying to stop a tide of lava today](http://9gag.com/gag/aREY8LG)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
 
 ---
 

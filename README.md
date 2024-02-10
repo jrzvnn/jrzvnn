@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Listen Boys](http://9gag.com/gag/aA0o9LL)
  - 😝 [Wishing you this level of joy](http://9gag.com/gag/aoKbQmg)
+ - 💣 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
  - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 💣 [Even in Berlin most offers look like this](http://9gag.com/gag/a2Kn6MY)
- - 😝 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
- - 👉 [It&#39;s game over once they start shaking their heads in sync.](http://9gag.com/gag/aGEWQQ0)<!-- MEMES:END -->
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 ---
 

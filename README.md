@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S24 Ultra: Everything New Over the S23 Ultra &lpar;and Should You Upgrade&rpar;     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-everything-new-over-the-s23-ultra-and-should-you-upgrade/#ftag=CAD590a51e)
  - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [Tax Season 2024: When Will I Get My Tax Refund Money From the IRS? How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-when-will-i-get-my-tax-refund-money-from-the-irs-how-to-find-out/#ftag=CAD590a51e)
  - [Verizon Customers Could Receive as Much as $100 in Settlement Money. How to Claim the Payout     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-as-much-as-100-in-settlement-money-how-to-claim-the-payout/#ftag=CAD590a51e)
- - [Child Tax Credit 2024: Should You File Your Tax Return Now or Should You Wait?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-file-your-tax-return-now-or-should-you-wait/#ftag=CAD590a51e)
- - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Child Tax Credit 2024: Should You File Your Tax Return Now or Should You Wait?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-file-your-tax-return-now-or-should-you-wait/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

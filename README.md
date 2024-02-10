@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Here are 22 last-minute gifts you can still grab ahead of Valentine’s Day](https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming)
  - [How to check which apps are using the most data on an iPhone](https://www.theverge.com/24067924/iphone-ios-data-usage-apps-how-to)
  - [Analysis: in 2023, 85% of videos on TikTok contained music, up from 69% in 2019; 84% of videos on YouTube, 58% on Instagram, and 49% on Facebook contained music &lpar;Jenny Crawford/Pex&rpar;](http://www.techmeme.com/240210/p6#a240210p6)
- - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
- - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)<!-- TECH:END -->
+ - [Nottingham Forest vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-colorado/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

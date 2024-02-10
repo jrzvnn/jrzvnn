@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk switches the location of Neuralink&#39;s incorporation from Delaware to Nevada, after a Delaware judge struck down Musk&#39;s $55B Tesla pay package last week &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240209/p28#a240209p28)
+ - [France&#39;s privacy regulator says data on 33M+ people, about half the nation&#39;s population, was compromised in a cyberattack on two health insurance firms in Jan. &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240209/p27#a240209p27)
+ - [Tax Season 2024: IRS Issued $3.6 Billion in Tax Refunds in the First Week of Filing     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-3-6-billion-in-tax-refunds-in-the-first-week-of-filing/#ftag=CAD590a51e)
  - [What&#39;s the value of Apple&#39;s Vision Pro spatial computing?](https://appleinsider.com/articles/24/02/09/whats-the-value-of-apples-vision-pro-spatial-computing?utm_medium=rss)
- - [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
- - [Lego’s next limited-edition sets could include an Elven Castle and this Sushi Restaurant](https://www.theverge.com/2024/2/9/24067982/lego-bricklink-designer-program-series-4-vote)
- - [How cheap power and friendly ties with China made Ethiopia, where almost half the population has no access to electricity, a haven for Chinese Bitcoin miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p26#a240209p26)
- - [Super Bowl 2024 Ads You Can Watch Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

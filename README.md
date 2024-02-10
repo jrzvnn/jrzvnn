@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
- - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 👉 [It was all fun &amp; games until.....](http://9gag.com/gag/aGEW6N0)<!-- MEMES:END -->
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 💣 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
 
 ---
 

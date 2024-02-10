@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Abu Dhabi-based AI group G42 has &quot;divested from all its investments in China&quot; as it seeks to reassure the US; sources: the sell-off included shares in ByteDance &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p30#a240209p30)
  - [Notion acquires Skiff, a startup offering end-to-end encrypted file storage, docs, calendar events, and email that had raised $14.2M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240209/p29#a240209p29)
  - [Best Xbox Controller for 2024: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
  - [TikTok’s attempt to stall DMA antitrust rules rejected by EU court](https://www.theverge.com/2024/2/9/24068129/tiktok-interim-measure-rejected-eu-general-court)
- - [Elon Musk switches the location of Neuralink&#39;s incorporation from Delaware to Nevada, after a Delaware judge struck down Musk&#39;s $55B Tesla pay package last week &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240209/p28#a240209p28)
- - [Best Mattress Deals: Early Presidents Day Offers on Top Mattress Brands     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk switches the location of Neuralink&#39;s incorporation from Delaware to Nevada, after a Delaware judge struck down Musk&#39;s $55B Tesla pay package last week &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240209/p28#a240209p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

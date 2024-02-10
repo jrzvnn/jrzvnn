@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meow Meow](http://9gag.com/gag/agoPbYW)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
  - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 😝 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
+ - 💣 [Good save](http://9gag.com/gag/a3ZVrZ7)
+ - 😝 [Change my mind](http://9gag.com/gag/aREYd6A)
+ - 👉 [It&#39;s game over once they start shaking their heads in sync.](http://9gag.com/gag/aGEWQQ0)<!-- MEMES:END -->
 
 ---
 

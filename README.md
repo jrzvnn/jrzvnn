@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two reasons for the glass bottom: So you can see if you&#39;re about to be attacked/ stabbed while draining your pint &lpar;yea it did happen&rpar; and you could see there wasn&#39;t a King&#39;s Shilling in it - one of many ways the navy forced conscription](http://9gag.com/gag/avQ3K9E)
+ - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
  - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 💣 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 😝 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
- - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
+ - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 😝 [God bless Texas.](http://9gag.com/gag/aqeqodZ)
+ - 👉 [Ai is dangerous! Ai actually:](http://9gag.com/gag/a3ZV6BN)<!-- MEMES:END -->
 
 ---
 

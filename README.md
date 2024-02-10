@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s game over once they start shaking their heads in sync.](http://9gag.com/gag/aGEWQQ0)
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 💣 [Level 3 reaction meme](http://9gag.com/gag/aA0o9np)
- - 😝 [[No title]](http://9gag.com/gag/aoKb7b0)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 😝 [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 💣 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 👉 [When I show her my 100%](http://9gag.com/gag/aBd7e61)<!-- MEMES:END -->
 
 ---
 

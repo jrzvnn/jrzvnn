@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 💣 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
+ - 😝 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
  - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 💣 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
+ - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 ---
 

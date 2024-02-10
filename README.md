@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: in 2023, 85% of videos on TikTok contained music, up from 69% in 2019; 84% of videos on YouTube, 58% on Instagram, and 49% on Facebook contained music &lpar;Jenny Crawford/Pex&rpar;](http://www.techmeme.com/240210/p6#a240210p6)
  - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
  - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)
  - [Apple May Be Plotting Its First Foldable Phone](https://www.wired.com/story/apple-foldable-phone-porsche-toyota-evs-slack-gear-roundup/)
- - [Martin Scorsese’s Squarespace Super Bowl Ad Wants You to Put Down Your Phone](https://www.wired.com/story/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/)
- - [Apple agrees to settle with Rivos in chip trade secret theft lawsuit](https://appleinsider.com/articles/24/02/10/apple-agrees-to-settle-with-rivos-in-chip-trade-secret-theft-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Martin Scorsese’s Squarespace Super Bowl Ad Wants You to Put Down Your Phone](https://www.wired.com/story/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

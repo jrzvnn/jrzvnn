@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 😝 [Mexican news reporter](http://9gag.com/gag/a6qAe62)
+ - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
 
 ---
 

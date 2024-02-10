@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [xTool P2 55W Desktop CO2 Laser Cutter review: impossibly fun to use if you can justify the price](https://appleinsider.com/articles/24/02/10/xtool-p2-55w-desktop-co2-laser-cutter-review-impossibly-fun-to-use-if-you-can-justify-the-price?utm_medium=rss)
  - [Halo star Pablo Schreiber is excited for a darker season 2](https://www.theverge.com/2024/2/10/24067616/pablo-schreiber-halo-season-two-paramount-plus)
  - [Sundar Pichai says Google One crossed 100M subscribers, highlighting Google&#39;s efforts to move users away from free plans; YouTube Premium recently hit 100M subs &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240210/p8#a240210p8)
- - [Best iPad Deals: Big Savings on Air, Mini and Pro     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Google One hits 100 million subscribers](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini)<!-- TECH:END -->
+ - [Google One hits 100 million subscribers](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini)
+ - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

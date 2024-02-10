@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How chiplet tech could allow Chinese companies to circumvent US sanctions, as the Chinese government and VCs focus on propping up the domestic chiplet industry &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240210/p5#a240210p5)
- - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)
- - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
- - [10 Best Deals: Apparel and Outdoor Gear](https://www.wired.com/story/weekend-deals-feb-10-2024/)
- - [Best Buy slashes MacBook Air prices by $300 today only](https://appleinsider.com/articles/24/02/10/best-buy-slashes-macbook-air-prices-by-300-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Tottenham vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Liverpool vs. Burnley Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-burnley-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [iOS 17: How to Play Daily Crossword Puzzles in Apple&#39;s News App     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-how-to-play-daily-crossword-puzzles-in-apples-news-app/#ftag=CAD590a51e)
+ - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

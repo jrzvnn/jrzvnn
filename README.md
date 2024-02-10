@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 💣 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
  - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
+ - 💣 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 ---
 

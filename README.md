@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
  - [Lego’s next limited-edition sets could include an Elven Castle and this Sushi Restaurant](https://www.theverge.com/2024/2/9/24067982/lego-bricklink-designer-program-series-4-vote)
  - [How cheap power and friendly ties with China made Ethiopia, where almost half the population has no access to electricity, a haven for Chinese Bitcoin miners &lpar;Bloomberg&rpar;](http://www.techmeme.com/240209/p26#a240209p26)
- - [9 Best Valentine’s Day Sex Toy Deals: Suction Toys, Vibrators, and Dildos](https://www.wired.com/story/best-valentines-day-sex-toy-deals/)<!-- TECH:END -->
+ - [Super Bowl 2024 Ads You Can Watch Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off TurboTax: You&#39;ve Got Less Than a Week Before This Discount Disappears     - CNET](https://www.cnet.com/deals/20-off-turbotax-youve-got-less-than-a-week-before-this-discount-disappears/#ftag=CAD590a51e)
- - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It&#39;s Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)
- - [Man City vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Don&#39;t Lose That COLA Letter You Received in December 2023. Here&#39;s Why You Want to Keep It     - CNET](https://www.cnet.com/personal-finance/taxes/dont-lose-that-cola-letter-you-received-in-december-2023-heres-why-you-want-to-keep-it/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Valentine&#39;s Day Flower Deals: Order Now for Beautiful Bouquets in Time for the Big Day     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
+ - [Gemini on Android is more useful than regular Assistant thanks to Google services integration, but it&#39;s not good at picking up on context and can be frustrating &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240210/p4#a240210p4)
+ - [Best PlayStation Deals: Save on Console Bundles, Headsets &amp; Games     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
+ - [Bollegraaf, the world&#39;s biggest builder of recycling plants, partners with AI startup Greyparrot to retrofit thousands of plants with AI tools for sorting waste &lpar;Nicol&amp;aacute;s Rivero/Washington Post&rpar;](http://www.techmeme.com/240210/p3#a240210p3)
+ - [Arc Search&#39;s Browse for Me feature, which makes a custom web page with search result summaries, faces a backlash over concerns about web traffic and ad revenue &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240210/p2#a240210p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

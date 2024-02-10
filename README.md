@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
- - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 😝 [Wishing you this level of joy](http://9gag.com/gag/aoKbQmg)
+ - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 💣 [Even in Berlin most offers look like this](http://9gag.com/gag/a2Kn6MY)
+ - 😝 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
+ - 👉 [It&#39;s game over once they start shaking their heads in sync.](http://9gag.com/gag/aGEWQQ0)<!-- MEMES:END -->
 
 ---
 

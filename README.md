@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
- - 😝 [Level 3 reaction meme](http://9gag.com/gag/aA0o9np)
- - 💣 [Good save](http://9gag.com/gag/a3ZVrZ7)
- - 😝 [Change my mind](http://9gag.com/gag/aREYd6A)
- - 👉 [It&#39;s game over once they start shaking their heads in sync.](http://9gag.com/gag/aGEWQQ0)<!-- MEMES:END -->
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 💣 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
 
 ---
 

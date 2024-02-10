@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 💣 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 👉 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)<!-- MEMES:END -->
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
+ - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
 
 ---
 

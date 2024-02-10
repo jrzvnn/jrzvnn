@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [No subtitles needed, you wouldn\u2019t read them anyway](http://9gag.com/gag/aGEWrg0)
+ - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
  - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 👉 [It was all fun &amp; games until.....](http://9gag.com/gag/aGEW6N0)<!-- MEMES:END -->
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 ---
 

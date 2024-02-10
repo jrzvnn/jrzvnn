@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Aware, whose AI tools let companies track employee sentiment and weed out toxicity by monitoring employee chatter on Slack, Teams, and other apps &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240210/p7#a240210p7)
  - [Here are 22 last-minute gifts you can still grab ahead of Valentine’s Day](https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming)
- - [How to check which apps are using the most data on an iPhone](https://www.theverge.com/24067924/iphone-ios-data-usage-apps-how-to)
- - [Analysis: in 2023, 85% of videos on TikTok contained music, up from 69% in 2019; 84% of videos on YouTube, 58% on Instagram, and 49% on Facebook contained music &lpar;Jenny Crawford/Pex&rpar;](http://www.techmeme.com/240210/p6#a240210p6)
- - [Nottingham Forest vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-colorado/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-with-or-without-cable/#ftag=CAD590a51e)
+ - [Mediterranean Diet for Heart Health: Foods to Eat and How to Get Started     - CNET](https://www.cnet.com/health/nutrition/mediterranean-diet-for-heart-health-foods-to-eat-and-how-to-get-started/#ftag=CAD590a51e)
+ - [Valentine&#39;s Day Streaming: New Irresistible Rom-Coms and Reality Shows to Binge     - CNET](https://www.cnet.com/tech/services-and-software/valentines-day-streaming-new-irresistible-rom-coms-and-reality-shows-to-binge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
- - 😝 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
- - 💣 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
+ - 💣 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
+ - 😝 [Idk why the media loves to promote war, here&#39;s a ww1 veteran who is scared of hats](http://9gag.com/gag/anzL3nn)
+ - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
 
 ---
 

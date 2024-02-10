@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halo star Pablo Schreiber is excited for a darker season 2](https://www.theverge.com/2024/2/10/24067616/pablo-schreiber-halo-season-two-paramount-plus)
+ - [Sundar Pichai says Google One crossed 100M subscribers, highlighting Google&#39;s efforts to move users away from free plans; YouTube Premium recently hit 100M subs &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240210/p8#a240210p8)
  - [Google One hits 100 million subscribers](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini)
  - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)
- - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)
- - [A look at Aware, whose AI tools let companies track employee sentiment and weed out toxicity by monitoring employee chatter on Slack, Teams, and other apps &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240210/p7#a240210p7)
- - [Best Last-Minute Amazon Deals for Valentine: Save on Chocolates, Flowers and More     - CNET](https://www.cnet.com/deals/best-last-minute-amazon-deals-for-valentine-save-on-chocolates-flowers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

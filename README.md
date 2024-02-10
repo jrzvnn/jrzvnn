@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple agrees to settle with Rivos in chip trade secret theft lawsuit](https://appleinsider.com/articles/24/02/10/apple-agrees-to-settle-with-rivos-in-chip-trade-secret-theft-lawsuit?utm_medium=rss)
- - [Did Climate Change Help This Skier Achieve the Impossible?](https://www.wired.com/story/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/)
- - [Nanit Pro Camera Review &lpar;2024&rpar;: A Super Smart, Expensive Baby Monitor](https://www.wired.com/review/nanit-pro-camera/)
- - [Countries Are Building Giant ‘Sand Motors’ to Protect Their Coasts From Erosion](https://www.wired.com/story/giant-sand-motors-coastal-erosion-netherlands-africa-uk-boskalis/)
- - [How chiplet tech could allow Chinese companies to circumvent US sanctions, as the Chinese government and VCs focus on propping up the domestic chiplet industry &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240210/p5#a240210p5)<!-- TECH:END -->
+ - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
+ - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)
+ - [Apple May Be Plotting Its First Foldable Phone](https://www.wired.com/story/apple-foldable-phone-porsche-toyota-evs-slack-gear-roundup/)
+ - [Martin Scorsese’s Squarespace Super Bowl Ad Wants You to Put Down Your Phone](https://www.wired.com/story/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/)
+ - [Apple agrees to settle with Rivos in chip trade secret theft lawsuit](https://appleinsider.com/articles/24/02/10/apple-agrees-to-settle-with-rivos-in-chip-trade-secret-theft-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

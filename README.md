@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
+ - 😝 [Education doesn&#39;t mean intelligence](http://9gag.com/gag/a3ZVD75)
+ - 💣 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
  - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
- - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
- - 😝 [Mexican news reporter](http://9gag.com/gag/a6qAe62)
- - 👉 [Especially after shitting](http://9gag.com/gag/aGEWr40)<!-- MEMES:END -->
+ - 👉 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
 
 ---
 

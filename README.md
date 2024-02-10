@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 💣 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
+ - 😝 [Goat-loving rocket scientist takes 15 hostages on a Swiss regional train. Police execute him. At least one country in Western Europe still has balls in its pants.](http://9gag.com/gag/a1PGgbb)
+ - 😝 [I&#39;m batman](http://9gag.com/gag/avQ3qqq)
+ - 💣 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
+ - 😝 [Good save](http://9gag.com/gag/a3ZVrZ7)
+ - 👉 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)<!-- MEMES:END -->
 
 ---
 

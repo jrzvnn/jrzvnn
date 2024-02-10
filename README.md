@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto startups like Blast are offering airline-like loyalty points to attract users without defining rewards; Blast lured $1.3B in crypto since November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240210/p9#a240210p9)
+ - [Crypto startups like Blast are offering loyalty points to lure users, without detailing the rewards; Blast has attracted $1.3B in crypto since November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240210/p9#a240210p9)
  - [Tesla’s iPhone app  gets better digital car key support with ultra wideband](https://www.theverge.com/2024/2/10/24068736/tesla-iphone-digital-car-key-ultra-wideband)
  - [Follow These 9 Tips to Lower Your Risk of Heart Disease     - CNET](https://www.cnet.com/health/tips-to-lower-your-risk-of-heart-disease/#ftag=CAD590a51e)
  - [IPhone 13 Deals: Get an iPhone 13 for Free With New Line or Save With Trade-In     - CNET](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)

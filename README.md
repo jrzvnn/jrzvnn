@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple agrees to settle with Rivos in chip trade secret theft lawsuit](https://appleinsider.com/articles/24/02/10/apple-agrees-to-settle-with-rivos-in-chip-trade-secret-theft-lawsuit?utm_medium=rss)
  - [Did Climate Change Help This Skier Achieve the Impossible?](https://www.wired.com/story/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/)
  - [Nanit Pro Camera Review &lpar;2024&rpar;: A Super Smart, Expensive Baby Monitor](https://www.wired.com/review/nanit-pro-camera/)
  - [Countries Are Building Giant ‘Sand Motors’ to Protect Their Coasts From Erosion](https://www.wired.com/story/giant-sand-motors-coastal-erosion-netherlands-africa-uk-boskalis/)
- - [How chiplet tech could allow Chinese companies to circumvent US sanctions, as the Chinese government and VCs focus on propping up the domestic chiplet industry &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240210/p5#a240210p5)
- - [Tottenham vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How chiplet tech could allow Chinese companies to circumvent US sanctions, as the Chinese government and VCs focus on propping up the domestic chiplet industry &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240210/p5#a240210p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

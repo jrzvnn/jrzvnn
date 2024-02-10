@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
  - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 👉 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)<!-- MEMES:END -->
+ - 💣 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
+ - 😝 [Especially after shitting](http://9gag.com/gag/aGEWr40)
+ - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
 
 ---
 

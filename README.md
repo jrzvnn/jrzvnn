@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meow Meow](http://9gag.com/gag/agoPbYW)
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 😝 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
  - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 👉 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)<!-- MEMES:END -->
+ - 💣 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
+ - 👉 [When I show her my 100%](http://9gag.com/gag/aBd7e61)<!-- MEMES:END -->
 
 ---
 

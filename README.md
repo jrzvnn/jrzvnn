@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
  - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 👉 [When I show her my 100%](http://9gag.com/gag/aBd7e61)<!-- MEMES:END -->
+ - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
+ - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 👉 [It was all fun &amp; games until.....](http://9gag.com/gag/aGEW6N0)<!-- MEMES:END -->
 
 ---
 

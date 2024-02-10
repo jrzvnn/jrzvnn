@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Those &#39;Bottles Saved&#39; Counters on Water Filling Stations Are Way Off. Does It Matter?](https://www.wired.com/story/bottles-saved-counters-on-elkay-water-filling-stations-inaccurate/)
+ - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
+ - [10 Best Deals: Apparel and Outdoor Gear](https://www.wired.com/story/weekend-deals-feb-10-2024/)
  - [Best Buy slashes MacBook Air prices by $300 today only](https://appleinsider.com/articles/24/02/10/best-buy-slashes-macbook-air-prices-by-300-today-only?utm_medium=rss)
- - [Galaxy S24 Ultra: Everything New Over the S23 Ultra &lpar;and Should You Upgrade&rpar;     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-everything-new-over-the-s23-ultra-and-should-you-upgrade/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Tax Season 2024: When Will I Get My Tax Refund Money From the IRS? How to Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-when-will-i-get-my-tax-refund-money-from-the-irs-how-to-find-out/#ftag=CAD590a51e)
- - [Verizon Customers Could Receive as Much as $100 in Settlement Money. How to Claim the Payout     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-receive-as-much-as-100-in-settlement-money-how-to-claim-the-payout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S24 Ultra: Everything New Over the S23 Ultra &lpar;and Should You Upgrade&rpar;     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-ultra-everything-new-over-the-s23-ultra-and-should-you-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

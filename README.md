@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lads don\u2019t forget this is the reason why you don\u2019t pick up drunk girls in random establishments](http://9gag.com/gag/awZ6DQR)
- - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
- - 💣 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 💣 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)
+ - 👉 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)<!-- MEMES:END -->
 
 ---
 

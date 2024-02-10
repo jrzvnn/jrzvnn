@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 😝 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
- - 💣 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
- - 👉 [Not too perky, not too saggy...](http://9gag.com/gag/az20z4x)<!-- MEMES:END -->
+ - 😝 [China as the correct vaccine for this cult](http://9gag.com/gag/anzLwoq)
+ - 💣 [Aaannd yes, that&#39;s how he won!](http://9gag.com/gag/aOxXEwE)
+ - 😝 [Best friends.. Oh, wait!](http://9gag.com/gag/a1PGnVw)
+ - 👉 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)<!-- MEMES:END -->
 
 ---
 

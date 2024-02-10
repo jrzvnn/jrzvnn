@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: in 2023, 85% of videos on TikTok contained music, up from 69% in 2019; 84% of videos on YouTube, 58% on Instagram, and 49% on Facebook contained music &lpar;Jenny Crawford/Pex&rpar;](http://www.techmeme.com/240210/p6#a240210p6)
- - [Tuxedo InfinityBook Pro Review &lpar;2024&rpar;: A Top Linux Laptop](https://www.wired.com/review/tuxedo-infinitybook-pro-14-linux-laptop/)
- - [How 3 Million ‘Hacked’ Toothbrushes Became a Cyber Urban Legend](https://www.wired.com/story/3-million-hacked-toothbrushes-urban-legend/)
- - [Apple May Be Plotting Its First Foldable Phone](https://www.wired.com/story/apple-foldable-phone-porsche-toyota-evs-slack-gear-roundup/)
- - [Martin Scorsese’s Squarespace Super Bowl Ad Wants You to Put Down Your Phone](https://www.wired.com/story/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/)<!-- TECH:END -->
+ - [Nottingham Forest vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-colorado/#ftag=CAD590a51e)
+ - [Have Apple AirTags? 5 Unique Places to Put Them     - CNET](https://www.cnet.com/tech/mobile/have-apple-airtags-5-unique-places-to-put-them/#ftag=CAD590a51e)
+ - [Hosting Hacks: 11 Super Bowl Party Shortcuts So You Can Enjoy Yourself on Sunday     - CNET](https://www.cnet.com/how-to/best-super-bowl-hosting-hacks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No you can&#39;t fix her ...](http://9gag.com/gag/a3ZVzP5)
+ - 😝 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
+ - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
  - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 😝 [Mexican news reporter](http://9gag.com/gag/a6qAe62)
- - 💣 [Is this fo real ?!](http://9gag.com/gag/agoPpvW)
- - 😝 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)
- - 👉 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)<!-- MEMES:END -->
+ - 👉 [Peace. No war. Let&#39;s hug.](http://9gag.com/gag/ajVo3yR)<!-- MEMES:END -->
 
 ---
 

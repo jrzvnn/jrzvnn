@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)
+ - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)
  - [A look at Aware, whose AI tools let companies track employee sentiment and weed out toxicity by monitoring employee chatter on Slack, Teams, and other apps &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240210/p7#a240210p7)
- - [Here are 22 last-minute gifts you can still grab ahead of Valentine’s Day](https://www.theverge.com/24063707/valentines-day-gifts-best-last-minute-tech-digital-ideas-earbuds-streaming)
- - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-with-or-without-cable/#ftag=CAD590a51e)
- - [Mediterranean Diet for Heart Health: Foods to Eat and How to Get Started     - CNET](https://www.cnet.com/health/nutrition/mediterranean-diet-for-heart-health-foods-to-eat-and-how-to-get-started/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Last-Minute Amazon Deals for Valentine: Save on Chocolates, Flowers and More     - CNET](https://www.cnet.com/deals/best-last-minute-amazon-deals-for-valentine-save-on-chocolates-flowers-and-more/#ftag=CAD590a51e)
+ - [The 7 Best Foods for Better Sleep, According to Experts     - CNET](https://www.cnet.com/health/sleep/7-best-foods-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

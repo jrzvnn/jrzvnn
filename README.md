@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bollegraaf, the world&#39;s biggest builder of recycling plants, partners with AI startup Greyparrot to retrofit thousands of plants with AI tools for sorting waste &lpar;Nicol&amp;aacute;s Rivero/Washington Post&rpar;](http://www.techmeme.com/240210/p3#a240210p3)
  - [Arc Search&#39;s Browse for Me feature, which makes a custom web page with search result summaries, faces a backlash over concerns about web traffic and ad revenue &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240210/p2#a240210p2)
  - [A federal judge dismisses a case in which an imprisoned Saudi dissident and his sister, who is a US citizen, accused X of conspiring with the Saudi government &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240210/p1#a240210p1)
  - [Abu Dhabi-based AI group G42 has &quot;divested from all its investments in China&quot; as it seeks to reassure the US; sources: the sell-off included shares in ByteDance &lpar;Financial Times&rpar;](http://www.techmeme.com/240209/p30#a240209p30)
- - [Notion acquires Skiff, a startup offering end-to-end encrypted file storage, docs, calendar events, and email that had raised $14.2M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240209/p29#a240209p29)
- - [Best Xbox Controller for 2024: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Notion acquires Skiff, a startup offering end-to-end encrypted file storage, docs, calendar events, and email that had raised $14.2M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240209/p29#a240209p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

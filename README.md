@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google One hits 100 million subscribers](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini)
  - [How to use the Microsoft Copilot app on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-microsoft-copilot-app-on-macos?utm_medium=rss)
  - [The Best Women&#39;s Hiking and Adventure Shoes and Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-womens-hiking-shoes-and-boots/#ftag=CAD590a51e)
  - [A look at Aware, whose AI tools let companies track employee sentiment and weed out toxicity by monitoring employee chatter on Slack, Teams, and other apps &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240210/p7#a240210p7)
- - [Best Last-Minute Amazon Deals for Valentine: Save on Chocolates, Flowers and More     - CNET](https://www.cnet.com/deals/best-last-minute-amazon-deals-for-valentine-save-on-chocolates-flowers-and-more/#ftag=CAD590a51e)
- - [The 7 Best Foods for Better Sleep, According to Experts     - CNET](https://www.cnet.com/health/sleep/7-best-foods-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Last-Minute Amazon Deals for Valentine: Save on Chocolates, Flowers and More     - CNET](https://www.cnet.com/deals/best-last-minute-amazon-deals-for-valentine-save-on-chocolates-flowers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

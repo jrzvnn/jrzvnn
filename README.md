@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
- - 💣 [Title](http://9gag.com/gag/abv9Nnr)
- - 😝 [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
- - 👉 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)<!-- MEMES:END -->
+ - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 💣 [What](http://9gag.com/gag/aPgK5yB)
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 ---
 

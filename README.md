@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Invader beats &amp; kidnaps italian girl in broad daylight, body hasn&#39;t been found yet.](http://9gag.com/gag/aVbNyMv)
- - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 💣 [What](http://9gag.com/gag/aPgK5yB)
- - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 😝 [Truth hurts](http://9gag.com/gag/aME3MnG)
+ - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 💣 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
+ - 👉 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
- - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 😝 [Conceal carry](http://9gag.com/gag/anzLmb5)
- - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
+ - 😝 [Justice for Selma. She has been cancelled and deleted for the truth](http://9gag.com/gag/aA0o84R)
+ - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
+ - 💣 [God bless Texas.](http://9gag.com/gag/aqeqodZ)
+ - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 👉 [Ai is dangerous! Ai actually:](http://9gag.com/gag/a3ZV6BN)<!-- MEMES:END -->
 
 ---
 

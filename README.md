@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With X and Reddit limiting API access, third-party developers are looking into Mastodon and Bluesky, but some are hesitant to build revenue-generating apps &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240211/p8#a240211p8)
  - [Apple Cash virtual cards appear in iOS 17.4 developer beta](https://appleinsider.com/articles/24/02/11/apple-cash-virtual-cards-appear-in-ios-174-developer-beta?utm_medium=rss)
  - [Boox Note Air3 review: A solid e-ink book reader, but a little niche](https://appleinsider.com/articles/24/02/11/boox-note-air3-review-a-solid-e-ink-book-reader-but-a-little-niche?utm_medium=rss)
  - [The latest iOS beta makes it easier to use Apple Cash](https://www.theverge.com/2024/2/11/24069725/ios-17-3-beta-apple-cash-card-number-generator)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)<!-- TECH:END -->
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

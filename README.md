@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)
  - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
  - [10 Simple Ways to Protect Your Eye Health Each Day     - CNET](https://www.cnet.com/health/personal-care/10-simple-ways-to-protect-your-eye-health-each-day/#ftag=CAD590a51e)
  - [Grab These Last-Minute Amazon Deals for Valentine: Save on Roses, Gift Baskets and More     - CNET](https://www.cnet.com/deals/grab-these-last-minute-amazon-deals-for-valentine-save-on-roses-gift-baskets-and-more/#ftag=CAD590a51e)
- - [Super Bowl 2024 Ads You Can Watch Right Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-right-now/#ftag=CAD590a51e)
- - [Here&#39;s What to Expect During Your Solar Panel Installation     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-install-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Bowl 2024 Ads You Can Watch Right Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

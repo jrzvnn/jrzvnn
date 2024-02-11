@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Usher’s Super Bowl 2024 Halftime Show](https://www.wired.com/story/watch-super-bowl-2024-usher-halftime-show/)
  - [Interview with Mike Lacher and Brian Moore, creators of AI chatbot Goody-2, which was created as a joke and refuses to answer every query to prioritize safety &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240211/p3#a240211p3)
- - [Your Android Phone&#39;s Browser Is Filled With Junk. Clean It With a Few Taps     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-browser-is-filled-with-junk-clean-it-with-a-few-taps/#ftag=CAD590a51e)
- - [Waiting for a 1099-K to File Your Taxes? Why PayPal, Venmo and Cash App Users Won&#39;t Get This Form     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-for-a-1099-k-to-file-your-taxes-why-paypal-venmo-and-cash-app-users-wont-get-this-form/#ftag=CAD590a51e)
- - [How the erosion of competition, regulation, and worker power ushered in the &quot;enshittocene&quot;, an era defined by the slow decay of online platforms like Facebook &lpar;Cory Doctorow/Financial Times&rpar;](http://www.techmeme.com/240211/p2#a240211p2)
- - [The RBI&#39;s clampdown on Paytm has created confusion for millions of customers and raises questions about the Indian central bank&#39;s opacity and regulatory actions &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240211/p1#a240211p1)<!-- TECH:END -->
+ - [I Tested TurboTax&#39;s New Integration With Credit Karma, and It&#39;s Seamless     - CNET](https://www.cnet.com/personal-finance/taxes/i-tested-turbotaxs-new-integration-with-credit-karma-and-its-seamless/#ftag=CAD590a51e)
+ - [West Ham vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Your Android Phone&#39;s Browser Is Filled With Junk. Clean It With a Few Taps     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-browser-is-filled-with-junk-clean-it-with-a-few-taps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

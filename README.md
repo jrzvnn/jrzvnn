@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
+ - [10 Simple Ways to Protect Your Eye Health Each Day     - CNET](https://www.cnet.com/health/personal-care/10-simple-ways-to-protect-your-eye-health-each-day/#ftag=CAD590a51e)
  - [Grab These Last-Minute Amazon Deals for Valentine: Save on Roses, Gift Baskets and More     - CNET](https://www.cnet.com/deals/grab-these-last-minute-amazon-deals-for-valentine-save-on-roses-gift-baskets-and-more/#ftag=CAD590a51e)
  - [Super Bowl 2024 Ads You Can Watch Right Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-right-now/#ftag=CAD590a51e)
- - [Here&#39;s What to Expect During Your Solar Panel Installation     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-install-solar-panels/#ftag=CAD590a51e)
- - [Best Laptop Deals: Big Savings on MacBooks, Vivobook, Surface Laptops and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s What to Expect During Your Solar Panel Installation     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-install-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

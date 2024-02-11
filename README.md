@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the erosion of competition, regulation, and worker power ushered in the &quot;enshittocene&quot;, an era defined by the slow decay of online platforms like Facebook &lpar;Cory Doctorow/Financial Times&rpar;](http://www.techmeme.com/240211/p2#a240211p2)
  - [The RBI&#39;s clampdown on Paytm has created confusion for millions of customers and raises questions about the Indian central bank&#39;s opacity and regulatory actions &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240211/p1#a240211p1)
  - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
  - [How to watch Super Bowl LVIII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/articles/24/02/11/how-to-watch-super-bowl-lviii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
- - [Q&amp;A with Bluesky CEO Jay Graber about opening the service to the public, not &quot;enshittifying&quot; it with ads, crowdsourcing deepfake porn moderation, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240210/p11#a240210p11)
- - [Star Wars Episode I: The Phantom Menace will hit theaters again in May](https://www.theverge.com/2024/2/10/24068931/star-wars-phantom-menace-theater-showings-25th-anniversary-may)<!-- TECH:END -->
+ - [Q&amp;A with Bluesky CEO Jay Graber about opening the service to the public, not &quot;enshittifying&quot; it with ads, crowdsourcing deepfake porn moderation, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240210/p11#a240210p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

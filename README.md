@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ &#39;Lessons in Chemistry&#39; wins at DGA Awards](https://appleinsider.com/articles/24/02/11/apple-tv-lessons-in-chemistry-wins-at-dga-awards?utm_medium=rss)
  - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
  - [How to Finance Your Solar Panels: Cash, Loan, Lease and More     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-finance-your-solar-panels-cash-loan-lease-and-more/#ftag=CAD590a51e)
- - [Letter and source: Xiaomi told India&#39;s government that Chinese component suppliers are wary about setting up operations in the country due to heavy scrutiny &lpar;Reuters&rpar;](http://www.techmeme.com/240211/p6#a240211p6)
- - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer Final From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-final-from-anywhere/#ftag=CAD590a51e)
- - [Watch Puppy Bowl 2024: Stream the Match Today From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-puppy-bowl-2024-stream-match-today-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Letter and source: Xiaomi told India&#39;s government that Chinese smartphone component suppliers are wary about setting up in the country due to heavy scrutiny &lpar;Reuters&rpar;](http://www.techmeme.com/240211/p6#a240211p6)
+ - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer Final From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-final-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

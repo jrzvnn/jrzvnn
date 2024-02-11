@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At this point just step in the fire once a month](http://9gag.com/gag/adPmEPQ)
- - 😝 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
- - 💣 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 😝 [Invader beats &amp; kidnaps italian girl in broad daylight, body hasn&#39;t been found yet.](http://9gag.com/gag/aVbNyMv)
+ - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 💣 [What](http://9gag.com/gag/aPgK5yB)
  - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 👉 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)<!-- MEMES:END -->
+ - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
 
 ---
 

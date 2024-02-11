@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
+ - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)
  - [Watch Usher’s Super Bowl 2024 Halftime Show](https://www.wired.com/story/watch-super-bowl-2024-usher-halftime-show/)
  - [Interview with Mike Lacher and Brian Moore, creators of AI chatbot Goody-2, which was created as a joke and refuses to answer every query to prioritize safety &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240211/p3#a240211p3)
- - [I Tested TurboTax&#39;s New Integration With Credit Karma, and It&#39;s Seamless     - CNET](https://www.cnet.com/personal-finance/taxes/i-tested-turbotaxs-new-integration-with-credit-karma-and-its-seamless/#ftag=CAD590a51e)
- - [West Ham vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Your Android Phone&#39;s Browser Is Filled With Junk. Clean It With a Few Taps     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-browser-is-filled-with-junk-clean-it-with-a-few-taps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tested TurboTax&#39;s New Integration With Credit Karma, and It&#39;s Seamless     - CNET](https://www.cnet.com/personal-finance/taxes/i-tested-turbotaxs-new-integration-with-credit-karma-and-its-seamless/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

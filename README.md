@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice for Selma. She has been cancelled and deleted for the truth](http://9gag.com/gag/aA0o84R)
- - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
- - 💣 [God bless Texas.](http://9gag.com/gag/aqeqodZ)
- - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 👉 [Ai is dangerous! Ai actually:](http://9gag.com/gag/a3ZV6BN)<!-- MEMES:END -->
+ - 😝 [Two reasons for the glass bottom: So you can see if you&#39;re about to be attacked/ stabbed while draining your pint &lpar;yea it did happen&rpar; and you could see there wasn&#39;t a King&#39;s Shilling in it - one of many ways the navy forced conscription](http://9gag.com/gag/avQ3K9E)
+ - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 😝 [Conceal carry](http://9gag.com/gag/anzLmb5)
+ - 👉 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 😝 [Conceal carry](http://9gag.com/gag/anzLmb5)
- - 💣 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
- - 😝 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
- - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
+ - 😝 [Ashkenazi Jewish](http://9gag.com/gag/aPgK0KB)
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
+ - 💣 [Conceal carry](http://9gag.com/gag/anzLmb5)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
 
 ---
 

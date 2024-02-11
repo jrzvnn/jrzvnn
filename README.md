@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
- - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 😝 [Is it intentional or is he an idiot?](http://9gag.com/gag/a9q9gBZ)
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
  - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
  - 👉 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)<!-- MEMES:END -->
 
 ---

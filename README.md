@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
  - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)
- - [Watch Usher’s Super Bowl 2024 Halftime Show](https://www.wired.com/story/watch-super-bowl-2024-usher-halftime-show/)
- - [Interview with Mike Lacher and Brian Moore, creators of AI chatbot Goody-2, which was created as a joke and refuses to answer every query to prioritize safety &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240211/p3#a240211p3)
- - [I Tested TurboTax&#39;s New Integration With Credit Karma, and It&#39;s Seamless     - CNET](https://www.cnet.com/personal-finance/taxes/i-tested-turbotaxs-new-integration-with-credit-karma-and-its-seamless/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Does Your Blood Type Affect Your Heart Health? Yes, but Here&#39;s the Full Story     - CNET](https://www.cnet.com/health/medical/does-your-blood-type-affect-your-heart-health-yes-but-heres-the-full-story/#ftag=CAD590a51e)
+ - [Dear Gen Z, Tax Season Doesn&#39;t Have to Be Soul Crushing. 7 Tips to Make Taxes Easier     - CNET](https://www.cnet.com/personal-finance/taxes/dear-gen-z-tax-season-doesnt-have-to-be-soul-crushing-7-tips-to-make-taxes-easier/#ftag=CAD590a51e)
+ - [iOS 17 Cheat Sheet: Your iPhone&#39;s Latest Features Explained     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-your-iphones-latest-features-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

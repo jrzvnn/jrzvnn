@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice for Selma. She has been cancelled and deleted for the truth](http://9gag.com/gag/aA0o84R)
- - 😝 [Syndrome of a down](http://9gag.com/gag/armjQMd)
- - 💣 [God bless Texas.](http://9gag.com/gag/aqeqodZ)
- - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 👉 [Ai is dangerous! Ai actually:](http://9gag.com/gag/a3ZV6BN)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 😝 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
+ - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
+ - 👉 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)<!-- MEMES:END -->
 
 ---
 

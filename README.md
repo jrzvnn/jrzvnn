@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
- - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 💣 [What](http://9gag.com/gag/aPgK5yB)
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 😝 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 😝 [Solution for climate change](http://9gag.com/gag/aGEWXN0)
+ - 💣 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)
+ - 😝 [Clever than you](http://9gag.com/gag/ap9WW6B)
+ - 👉 [No capes here.](http://9gag.com/gag/abv972b)<!-- MEMES:END -->
 
 ---
 

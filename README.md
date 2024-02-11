@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 💣 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
- - 👉 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)<!-- MEMES:END -->
+ - 😝 [What](http://9gag.com/gag/aPgK5yB)
+ - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 💣 [Title](http://9gag.com/gag/abv9Nnr)
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 👉 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro could take four generations to perfect](https://appleinsider.com/articles/24/02/11/apple-vision-pro-could-take-four-generations-to-perfect?utm_medium=rss)
  - [Best Kids’ Headphones &lpar;2024&rpar;: Volume-Limiting, Noise-Canceling, and More](https://www.wired.com/gallery/the-best-kids-headphones/)
  - [20 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [The 5 Best Laptops for Linux—I Install It on Every Laptop I Test](https://www.wired.com/story/best-linux-laptops/)
- - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
- - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)<!-- TECH:END -->
+ - [Aston Villa vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

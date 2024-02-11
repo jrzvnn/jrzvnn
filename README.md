@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
- - [Grab These Last-Minute Amazon Deals for Valentine: Save on Roses, Gift Baskets and More     - CNET](https://www.cnet.com/deals/grab-these-last-minute-amazon-deals-for-valentine-save-on-roses-gift-baskets-and-more/#ftag=CAD590a51e)
- - [Super Bowl 2024 Ads You Can Watch Right Now     - CNET](https://www.cnet.com/tech/home-entertainment/super-bowl-2024-ads-you-can-watch-right-now/#ftag=CAD590a51e)
- - [Here&#39;s What to Expect During Your Solar Panel Installation     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-install-solar-panels/#ftag=CAD590a51e)
- - [Best Laptop Deals: Big Savings on MacBooks, Vivobook, Surface Laptops and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ &#39;Lessons in Chemistry&#39; wins at DGA Awards](https://appleinsider.com/articles/24/02/11/apple-tv-lessons-in-chemistry-wins-at-dga-awards?utm_medium=rss)
+ - [3 Types of Expert-Approved Exercises to Do to Stay Healthy as You Age     - CNET](https://www.cnet.com/health/fitness/3-types-of-expert-approved-exercises-to-do-to-stay-healthy-as-you-age/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Z Flip 4 Cases in 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)
+ - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers Today On CBS With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-today-on-cbs-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

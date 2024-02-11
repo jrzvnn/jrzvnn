@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 💣 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
  - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [A leopard went into a local liquor production place &lpar; generally illegal&rpar; ... Drank some and then forgot he is a leopard](http://9gag.com/gag/aKErRB3)<!-- MEMES:END -->
+ - 😝 [A leopard went into a local liquor production place &lpar; generally illegal&rpar; ... Drank some and then forgot he is a leopard](http://9gag.com/gag/aKErRB3)
+ - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 👉 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)<!-- MEMES:END -->
 
 ---
 

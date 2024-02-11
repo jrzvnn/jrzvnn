@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 😝 [Ai is dangerous! Ai actually:](http://9gag.com/gag/a3ZV6BN)
- - 💣 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 😝 [No capes here.](http://9gag.com/gag/abv972b)
+ - 😝 [At this point just step in the fire once a month](http://9gag.com/gag/adPmEPQ)
+ - 😝 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
+ - 💣 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
  - 👉 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)<!-- MEMES:END -->
 
 ---

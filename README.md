@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Nix to install software on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-nix-to-install-software-on-macos?utm_medium=rss)
  - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
  - [Vision Pro may become an iPad killer, but some in Apple&#39;s Vision Products Group believe it may take four generations for the headset to reach its full potential &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240211/p5#a240211p5)
- - [The Fed, regulators, and others worry that stablecoins, with a total market value of $136B as of late January, could one day impact the wider financial market &lpar;Bloomberg&rpar;](http://www.techmeme.com/240211/p4#a240211p4)
- - [What to Do if You Haven&#39;t Received Your W-2 Statement Yet     - CNET](https://www.cnet.com/personal-finance/taxes/what-to-do-if-you-havent-received-your-w-2-statement-yet/#ftag=CAD590a51e)
- - [Apple Vision Pro could take four generations to perfect](https://appleinsider.com/articles/24/02/11/apple-vision-pro-could-take-four-generations-to-perfect?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch the Super Bowl for Free: Paramount Plus&#39; Free Trial Is the Way to Go For Streaming     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-super-bowl-for-free-paramount-plus-free-trial-is-the-way-to-go/#ftag=CAD590a51e)
+ - [Keep Your Valentine&#39;s Hands Warm and Drink Cold With This BruMate Koozie     - CNET](https://www.cnet.com/deals/keep-your-valentines-hands-warm-and-drink-cold-with-this-brumate-koozie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

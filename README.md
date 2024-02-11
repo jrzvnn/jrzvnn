@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
+ - [How to Finance Your Solar Panels: Cash, Loan, Lease and More     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-finance-your-solar-panels-cash-loan-lease-and-more/#ftag=CAD590a51e)
  - [Letter and source: Xiaomi told India&#39;s government that Chinese component suppliers are wary about setting up operations in the country due to heavy scrutiny &lpar;Reuters&rpar;](http://www.techmeme.com/240211/p6#a240211p6)
- - [How to use Nix to install software on macOS](https://appleinsider.com/inside/macos/tips/how-to-use-nix-to-install-software-on-macos?utm_medium=rss)
- - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
- - [Vision Pro may become an iPad killer, but some in Apple&#39;s Vision Products Group believe it may take four generations for the headset to reach its full potential &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240211/p5#a240211p5)
- - [How to Watch the Super Bowl for Free: Paramount Plus&#39; Free Trial Is the Way to Go For Streaming     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-super-bowl-for-free-paramount-plus-free-trial-is-the-way-to-go/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ivory Coast vs. Nigeria Livestream: How to Watch Africa Cup of Nations Soccer Final From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ivory-coast-vs-nigeria-livestream-how-to-watch-africa-cup-of-nations-soccer-final-from-anywhere/#ftag=CAD590a51e)
+ - [Watch Puppy Bowl 2024: Stream the Match Today From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-puppy-bowl-2024-stream-match-today-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

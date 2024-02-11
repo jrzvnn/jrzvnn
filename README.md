@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 😝 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)
  - 💣 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [What](http://9gag.com/gag/aPgK5yB)
- - 👉 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)<!-- MEMES:END -->
+ - 😝 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
+ - 👉 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boox Note Air3 review: A solid e-ink book reader, but a little niche](https://appleinsider.com/articles/24/02/11/boox-note-air3-review-a-solid-e-ink-book-reader-but-a-little-niche?utm_medium=rss)
  - [The latest iOS beta makes it easier to use Apple Cash](https://www.theverge.com/2024/2/11/24069725/ios-17-3-beta-apple-cash-card-number-generator)
  - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
  - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)
- - [Companies Hope Super Bowl AI Commercials Score With Viewers     - CNET](https://www.cnet.com/tech/companies-hope-super-bowl-ai-commercials-score-with-viewers/#ftag=CAD590a51e)
- - [How to Watch the Super Bowl for Free Today: Paramount Plus Is All You Need to Stream     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-super-bowl-for-free-today-paramount-plus-is-all-you-need-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Companies Hope Super Bowl AI Commercials Score With Viewers     - CNET](https://www.cnet.com/tech/companies-hope-super-bowl-ai-commercials-score-with-viewers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

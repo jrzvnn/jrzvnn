@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch Super Bowl LVIII &lpar;2024&rpar;: Usher Halftime Show, Puppy Bowl, Taylor Swift](https://www.wired.com/story/how-to-watch-super-bowl-2024-halftime-show-puppy-bowl/)
  - [Vision Pro may become an iPad killer, but some in Apple&#39;s Vision Products Group believe it may take four generations for the headset to reach its full potential &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240211/p5#a240211p5)
  - [The Fed, regulators, and others worry that stablecoins, with a total market value of $136B as of late January, could one day impact the wider financial market &lpar;Bloomberg&rpar;](http://www.techmeme.com/240211/p4#a240211p4)
  - [What to Do if You Haven&#39;t Received Your W-2 Statement Yet     - CNET](https://www.cnet.com/personal-finance/taxes/what-to-do-if-you-havent-received-your-w-2-statement-yet/#ftag=CAD590a51e)
- - [Apple Vision Pro could take four generations to perfect](https://appleinsider.com/articles/24/02/11/apple-vision-pro-could-take-four-generations-to-perfect?utm_medium=rss)
- - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers On CBS With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-on-cbs-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro could take four generations to perfect](https://appleinsider.com/articles/24/02/11/apple-vision-pro-could-take-four-generations-to-perfect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tho](http://9gag.com/gag/axoXr0n)
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 💣 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
  - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 👉 [The kind of motivation I need in my life](http://9gag.com/gag/aKEr5N3)<!-- MEMES:END -->
+ - 💣 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
+ - 👉 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Kids’ Headphones &lpar;2024&rpar;: Volume-Limiting, Noise-Canceling, and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [20 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [The 5 Best Laptops for Linux—I Install It on Every Laptop I Test](https://www.wired.com/story/best-linux-laptops/)
  - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
- - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)
- - [Does Your Blood Type Affect Your Heart Health? Yes, but Here&#39;s the Full Story     - CNET](https://www.cnet.com/health/medical/does-your-blood-type-affect-your-heart-health-yes-but-heres-the-full-story/#ftag=CAD590a51e)
- - [Dear Gen Z, Tax Season Doesn&#39;t Have to Be Soul Crushing. 7 Tips to Make Taxes Easier     - CNET](https://www.cnet.com/personal-finance/taxes/dear-gen-z-tax-season-doesnt-have-to-be-soul-crushing-7-tips-to-make-taxes-easier/#ftag=CAD590a51e)
- - [iOS 17 Cheat Sheet: Your iPhone&#39;s Latest Features Explained     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-your-iphones-latest-features-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

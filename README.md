@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Super Bowl LVIII on iPhone, iPad, Mac, &amp; Apple TV](https://appleinsider.com/articles/24/02/11/how-to-watch-super-bowl-lviii-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
  - [Q&amp;A with Bluesky CEO Jay Graber about opening the service to the public, not &quot;enshittifying&quot; it with ads, crowdsourcing deepfake porn moderation, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240210/p11#a240210p11)
  - [Star Wars Episode I: The Phantom Menace will hit theaters again in May](https://www.theverge.com/2024/2/10/24068931/star-wars-phantom-menace-theater-showings-25th-anniversary-may)
  - [Apple Vision Pro showdown -- for and against Apple&#39;s newest device on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/09/apple-vision-pro-showdown----for-and-against-apples-newest-device-on-the-appleinsider-podcast?utm_medium=rss)
- - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and Free Storage Upgrades     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [Some news creators and journalists, who moved to Threads from X, criticize Meta after it announced it would stop recommending political content on Threads &lpar;Washington Post&rpar;](http://www.techmeme.com/240210/p10#a240210p10)<!-- TECH:END -->
+ - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and Free Storage Upgrades     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

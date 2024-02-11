@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
  - [As SBF prepares to face sentencing in March, FTX customers look at the possibility of recouping their money, stemming largely from the crypto market&#39;s rebound &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240211/p7#a240211p7)
- - [Apple&#39;s Mac mini M2 Pro drops to $1,195 during latest price war](https://appleinsider.com/articles/24/02/11/apples-mac-mini-m2-pro-drops-to-1195-during-latest-price-war?utm_medium=rss)
- - [10 Simple Ways to Protect Your Eye Health Each Day     - CNET](https://www.cnet.com/health/personal-care/10-simple-ways-to-protect-your-eye-health-each-day/#ftag=CAD590a51e)
- - [Grab These Last-Minute Amazon Deals for Valentine: Save on Roses, Gift Baskets and More     - CNET](https://www.cnet.com/deals/grab-these-last-minute-amazon-deals-for-valentine-save-on-roses-gift-baskets-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Companies Hope Super Bowl AI Commercials Score With Viewers     - CNET](https://www.cnet.com/tech/companies-hope-super-bowl-ai-commercials-score-with-viewers/#ftag=CAD590a51e)
+ - [How to Watch the Super Bowl for Free Today: Paramount Plus Is All You Need to Stream     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-super-bowl-for-free-today-paramount-plus-is-all-you-need-to-stream/#ftag=CAD590a51e)
+ - [Super Bowl 2024: How to Watch, Stream Chiefs vs. 49ers Today for Free on CBS With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/super-bowl-2024-how-to-watch-stream-chiefs-vs-49ers-today-for-free-on-cbs-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

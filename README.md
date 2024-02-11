@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France after huge refugee migration. Country become another Middle East.](http://9gag.com/gag/aGEW5dZ)
- - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 😝 [Doordash driver steals $100 worth of Taco Bell, customer confronts him at his home and dasher pulls knife](http://9gag.com/gag/aVbNp7P)
+ - 😝 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
  - 💣 [It&#39;s easy to copy stuff?](http://9gag.com/gag/aYV2347)
- - 😝 [When I show her my 100%](http://9gag.com/gag/aBd7e61)
- - 👉 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)<!-- MEMES:END -->
+ - 😝 [Bro said I\u2019m not gonna lie](http://9gag.com/gag/aME355G)
+ - 👉 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)<!-- MEMES:END -->
 
 ---
 

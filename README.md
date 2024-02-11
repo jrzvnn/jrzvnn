@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lizard trapped inside a man tries to hold it together](http://9gag.com/gag/aVbN62y)
- - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
- - 💣 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 👉 [What](http://9gag.com/gag/aPgK5yB)<!-- MEMES:END -->
+ - 😝 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
+ - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
+ - 💣 [What](http://9gag.com/gag/aPgK5yB)
+ - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 ---
 

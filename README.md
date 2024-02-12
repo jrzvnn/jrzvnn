@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/)
  - [Q&amp;A with the US DOJ&#39;s Jonathan Kanter on the Antitrust Division, the Google search monopolization and ad tech cases, media consolidation, the EU&#39;s DMA, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240212/p11#a240212p11)
  - [Home Loan Rates Aren&#39;t Moving Lower, Yet. Mortgage Rates on Feb. 12, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-on-feb-12-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)
  - [How Russian banks use trojan horse apps to stay in Apple&#39;s App Store](https://appleinsider.com/articles/24/02/12/how-russian-banks-use-trojan-horse-apps-to-stay-in-apples-app-store?utm_medium=rss)
- - [Ireland, Germany, Singapore, China, Amsterdam, and others added restrictions on new data centers in recent years to comply with stringent environmental rules &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240212/p10#a240212p10)
- - [Upgrade to a 512GB OnePlus 12 Android Phone and Save $100     - CNET](https://www.cnet.com/deals/upgrade-to-a-512gb-oneplus-12-android-phone-and-save-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ireland, Germany, Singapore, China, Amsterdam, and others added restrictions on new data centers in recent years to comply with stringent environmental rules &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240212/p10#a240212p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite what Apple says, most of its workers still fear backlash over organization efforts](https://appleinsider.com/articles/24/02/12/despite-what-apple-says-most-of-its-workers-still-fear-backlash-over-organization-efforts?utm_medium=rss)
+ - [Microsoft prepares to take Xbox everywhere](https://www.theverge.com/2024/2/12/24067370/microsoft-xbox-playstation-switch-games-future-hardware)
+ - [Despite what Apple says, most of its workers still fear backlash over unionization efforts](https://appleinsider.com/articles/24/02/12/despite-what-apple-says-most-of-its-workers-still-fear-backlash-over-organization-efforts?utm_medium=rss)
  - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
  - [Threads is testing ‘Today’s topics’ to tell users what’s trending in the US](https://www.theverge.com/2024/2/12/24071014/threads-topics-testing-us-test)
- - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
- - [Sleep Peacefully With Up to $600 in Savings on Saatva Mattresses, Frames and More     - CNET](https://www.cnet.com/deals/sleep-peacefully-with-up-to-600-in-savings-on-saatva-mattresses-frames-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

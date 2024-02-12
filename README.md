@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [True](http://9gag.com/gag/ajVo2Dw)<!-- MEMES:END -->
+ - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
 
 ---
 

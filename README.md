@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Jon Stewart became a &#39;Problem&#39; for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
  - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+ - [Sleep Peacefully With Up to $600 in Savings on Saatva Mattresses, Frames and More     - CNET](https://www.cnet.com/deals/sleep-peacefully-with-up-to-600-in-savings-on-saatva-mattresses-frames-and-more/#ftag=CAD590a51e)
  - [A Backroom Deal Looms Over Section 702 Surveillance Fight](https://www.wired.com/story/section-702-reform-backroom-deal/)
- - [Google’s Pixel Fold has returned to an all-time low thanks to a $400 discount](https://www.theverge.com/2024/2/12/24070473/google-pixel-fold-apple-studio-display-monitor-victrola-stream-onyx-turntable-deal-sale)
- - [Apple releases visionOS 1.0.3, the first update since the Vision Pro launch, adding an option to reset the device if the passcode has been forgotten &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240212/p19#a240212p19)<!-- TECH:END -->
+ - [Google’s Pixel Fold has returned to an all-time low thanks to a $400 discount](https://www.theverge.com/2024/2/12/24070473/google-pixel-fold-apple-studio-display-monitor-victrola-stream-onyx-turntable-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

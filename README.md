@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 💣 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
+ - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
+ - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
  - 👉 [What](http://9gag.com/gag/aPgK5yB)<!-- MEMES:END -->
 
 ---

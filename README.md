@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Stewart became a &#39;Problem&#39; for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
+ - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
+ - [Threads is testing ‘Today’s topics’ to tell users what’s trending in the US](https://www.theverge.com/2024/2/12/24071014/threads-topics-testing-us-test)
  - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
  - [Sleep Peacefully With Up to $600 in Savings on Saatva Mattresses, Frames and More     - CNET](https://www.cnet.com/deals/sleep-peacefully-with-up-to-600-in-savings-on-saatva-mattresses-frames-and-more/#ftag=CAD590a51e)
- - [A Backroom Deal Looms Over Section 702 Surveillance Fight](https://www.wired.com/story/section-702-reform-backroom-deal/)
- - [Google’s Pixel Fold has returned to an all-time low thanks to a $400 discount](https://www.theverge.com/2024/2/12/24070473/google-pixel-fold-apple-studio-display-monitor-victrola-stream-onyx-turntable-deal-sale)<!-- TECH:END -->
+ - [A Backroom Deal Looms Over Section 702 Surveillance Fight](https://www.wired.com/story/section-702-reform-backroom-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

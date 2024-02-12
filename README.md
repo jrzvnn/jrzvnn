@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [What](http://9gag.com/gag/aPgK5yB)
- - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
+ - 😝 [Solution for climate change](http://9gag.com/gag/aGEWXN0)
+ - 💣 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 😝 [Clever than you](http://9gag.com/gag/ap9WW6B)
+ - 👉 [Made her day](http://9gag.com/gag/a4oDeEZ)<!-- MEMES:END -->
 
 ---
 

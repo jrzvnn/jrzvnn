@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What](http://9gag.com/gag/aPgK5yB)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
+ - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
+ - 💣 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 ---
 

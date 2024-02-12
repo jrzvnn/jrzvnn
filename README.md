@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)
  - [Amazon&#39;s Prime Video basic ad tier, which began on Jan. 29 in the US as a downgrade to subscribers, quietly cut Dolby Vision HDR and Dolby Atmos sound support &lpar;John Archer/Forbes&rpar;](http://www.techmeme.com/240212/p22#a240212p22)
  - [Best 85-Inch TV for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/#ftag=CAD590a51e)
  - [Cruise names its first chief safety officer, Steve Kenner, as it looks to rehabilitate its image; Kenner has held top safety roles at Uber, Aurora, and Kodiak &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240212/p21#a240212p21)
- - [Last-Minute Valentine&#39;s Day Deals: Options to Treat Your Sweetie for Less     - CNET](https://www.cnet.com/deals/last-minute-valentines-day-deals-options-to-treat-your-sweetie-for-less/#ftag=CAD590a51e)
- - [Temu bought six Super Bowl ad slots, likely for tens of millions of dollars, to boost US growth; its US observed sales fell 12.5% MoM in Dec. and 4.8% in Jan. &lpar;Rachel Phua/Bloomberg&rpar;](http://www.techmeme.com/240212/p20#a240212p20)<!-- TECH:END -->
+ - [Last-Minute Valentine&#39;s Day Deals: Options to Treat Your Sweetie for Less     - CNET](https://www.cnet.com/deals/last-minute-valentines-day-deals-options-to-treat-your-sweetie-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

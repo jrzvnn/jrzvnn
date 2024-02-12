@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aL1yy9P)
- - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 💣 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
+ - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
  - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
  - 👉 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)<!-- MEMES:END -->
 
 ---

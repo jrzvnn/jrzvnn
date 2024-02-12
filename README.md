@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [What](http://9gag.com/gag/aPgK5yB)
- - 👉 [Toddlers are brutally honest](http://9gag.com/gag/agoPPBx)<!-- MEMES:END -->
+ - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
+ - 😝 [Made her day](http://9gag.com/gag/a4oDeEZ)
+ - 💣 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
+ - 😝 [Solution for climate change](http://9gag.com/gag/aGEWXN0)
+ - 👉 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)<!-- MEMES:END -->
 
 ---
 

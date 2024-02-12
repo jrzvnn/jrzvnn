@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [Gods, Monsters and Humans](http://9gag.com/gag/ap9yKqD)
  - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
+ - 💣 [Boys being boys](http://9gag.com/gag/armjP97)
+ - 😝 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
+ - 👉 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)<!-- MEMES:END -->
 
 ---
 

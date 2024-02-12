@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)
  - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)
  - [Nick Hornby’s Brain-Bending Sculptures Twist History Into New Shapes](https://www.wired.com/story/nick-hornbys-brain-bending-sculptures-twist-history-into-new-shapes/)
- - [Developers Are in Open Revolt Over Apple’s New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
- - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
- - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)<!-- TECH:END -->
+ - [15 States Are Sending Child Tax Credit Payments in 2024. Is Yours One of Them?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-is-yours-one-of-them/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Why You Could You Wait to File Your Tax Return Instead of Now     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-why-you-could-you-wait-to-file-your-tax-return-instead-of-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bugcrowd, which offers crowdsourced bug bounty tools, raised a $102M Series E led by General Catalyst to expand internationally, and has ~1,000 global customers &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240212/p5#a240212p5)
  - [Filing: Jeff Bezos sold 12M Amazon shares last week, netting just over $2B, his first Amazon stock sale since 2021; Amazon said Bezos plans to sell up to 50M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240212/p4#a240212p4)
  - [2054, Part VI: Standoff at Arlington](https://www.wired.com/story/2054-part-vi-standoff-at-arlington/)
  - [ASML begins gearing up to ship its new $350M High NA EUV machine, which is the size of a double decker bus, and expects to ship &quot;a number&quot; of them in 2024 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240212/p3#a240212p3)
- - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)
- - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)<!-- TECH:END -->
+ - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

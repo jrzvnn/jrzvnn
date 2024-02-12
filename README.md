@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
- - 😝 [Yeah...](http://9gag.com/gag/a9q9xoK)
- - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
+ - 💣 [Toddlers are brutally honest](http://9gag.com/gag/agoPPBx)
+ - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
  - 👉 [What](http://9gag.com/gag/aPgK5yB)<!-- MEMES:END -->
 
 ---

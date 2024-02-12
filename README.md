@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ireland, Germany, Singapore, China, Amsterdam, and others added restrictions on new data centers in recent years to comply with stringent environmental rules &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240212/p10#a240212p10)
  - [Who Tests If Heat-Proof Clothing Actually Works? These Poor Sweating Mannequins](https://www.wired.com/story/heat-proof-clothing-testing-sweating-mannequins-thermetrics/)
  - [DOJ’s Jonathan Kanter says the antitrust fight against Big Tech is just beginning](https://www.theverge.com/24067873/jonathan-kanter-doj-antitrust-google-policy-monopoly-big-tech)
  - [23andMe Is Under Fire. Its Founder Remains ‘Optimistic’](https://www.wired.com/story/23andme-genomic-testing-financial-results-earnings-anne-wojcicki/)
- - [The Biden Campaign Is Officially Trolling on TikTok Now](https://www.wired.com/story/biden-campaign-tiktok/)
- - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)<!-- TECH:END -->
+ - [The Biden Campaign Is Officially Trolling on TikTok Now](https://www.wired.com/story/biden-campaign-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

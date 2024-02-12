@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)
  - [Streaming services are spoiling the Super Bowl](https://www.theverge.com/24070601/super-bowl-streaming-delay-spoilers)
  - [Nvidia announces a new $625 Nvidia RTX 2000 Ada Generation GPU, with up to 2x more performance than the previous gen and 16GB of on-board memory, up from 12GB &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/240212/p13#a240212p13)
- - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)
- - [Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240212/p12#a240212p12)
- - [What Should Your Sex Toys Be Made of?](https://www.wired.com/story/how-to-choose-sex-toy-materials/)<!-- TECH:END -->
+ - [Snag Up to 43% off These Blink Security Cameras and Doorbells     - CNET](https://www.cnet.com/deals/snag-up-to-43-off-these-blink-security-cameras-and-doorbells/#ftag=CAD590a51e)
+ - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

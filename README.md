@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Climate change is erasing previous gains in air quality — fires are mostly to blame](https://www.theverge.com/2024/2/12/24066572/air-pollution-quality-climate-change-wildfire-smoke-smog)
- - [Biden&#39;s campaign made its first-ever TikTok post amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)
+ - [Biden&#39;s campaign made its first-ever TikTok post, amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)
  - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)
  - [Wi-Fi and Bluetooth in Apple Vision Pro aren&#39;t cooking your brain](https://appleinsider.com/articles/24/02/12/wi-fi-and-bluetooth-in-apple-vision-pro-arent-cooking-your-brain?utm_medium=rss)
  - [The first Deadpool &amp; Wolverine trailer is one big joke about Marvel’s past](https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer)<!-- TECH:END -->

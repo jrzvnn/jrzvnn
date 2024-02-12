@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [Gods, Monsters and Humans](http://9gag.com/gag/ap9yKqD)
  - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
+ - 💣 [Boys being boys](http://9gag.com/gag/armjP97)
+ - 😝 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
+ - 👉 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)<!-- MEMES:END -->
 
 ---
 

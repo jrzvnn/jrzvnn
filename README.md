@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
+ - 😝 [Ball play... eh who cares about Titles](http://9gag.com/gag/aME3pK6)
+ - 😝 [Taylor Swift makes her way down from the VIP box to the field](http://9gag.com/gag/a7qz4Yw)
+ - 💣 [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)
+ - 😝 [A godless programmer has written a mod where all characters from Baldur&#39;s Gate 3 get the face of Nicolas Cage.](http://9gag.com/gag/a7qzjRe)
+ - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
 
 ---
 

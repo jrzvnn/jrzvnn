@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Jeff Bezos sold 12M Amazon shares last week, netting just over $2B, his first Amazon stock sale since 2021; Amazon said Bezos plans to sell up to 50M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240212/p4#a240212p4)
+ - [2054, Part VI: Standoff at Arlington](https://www.wired.com/story/2054-part-vi-standoff-at-arlington/)
  - [ASML begins gearing up to ship its new $350M High NA EUV machine, which is the size of a double decker bus, and expects to ship &quot;a number&quot; of them in 2024 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240212/p3#a240212p3)
  - [Microsoft is working on its own DLSS-like upscaler for Windows 11](https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature)
- - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)
- - [Nick Hornby’s Brain-Bending Sculptures Twist History Into New Shapes](https://www.wired.com/story/nick-hornbys-brain-bending-sculptures-twist-history-into-new-shapes/)
- - [15 States Are Sending Child Tax Credit Payments in 2024. Is Yours One of Them?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-is-yours-one-of-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A crowd in San Francisco destroyed a Waymo car on February 11, amid tensions over automated vehicles; Waymo says the car &quot;was not transporting any riders&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240212/p2#a240212p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

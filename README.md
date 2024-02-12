@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)
  - 😝 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
- - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
+ - 😝 [Well played](http://9gag.com/gag/amAEEvj)
+ - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
 
 ---
 

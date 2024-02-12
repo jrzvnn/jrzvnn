@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
 
 ---
 

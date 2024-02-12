@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)
  - [Wi-Fi and Bluetooth in Apple Vision Pro aren&#39;t cooking your brain](https://appleinsider.com/articles/24/02/12/wi-fi-and-bluetooth-in-apple-vision-pro-arent-cooking-your-brain?utm_medium=rss)
  - [The first Deadpool &amp; Wolverine trailer is one big joke about Marvel’s past](https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer)
  - [Super Bowl 2024: the biggest movie trailers and ads](https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers)
- - [How to use Xcode String catalogs to localize your app](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-string-catalogs-to-localize-your-app?utm_medium=rss)
- - [&#39;Deadpool 3&#39; Super Bowl Trailer Shows Wade Wilson With the TVA     - CNET](https://www.cnet.com/tech/home-entertainment/deadpool-3-super-bowl-trailer-shows-wade-wilson-with-the-tva/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Xcode String catalogs to localize your app](https://appleinsider.com/inside/xcode/tips/how-to-use-xcode-string-catalogs-to-localize-your-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

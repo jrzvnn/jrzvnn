@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)<!-- MEMES:END -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)
+ - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+ - [A Backroom Deal Looms Over Section 702 Surveillance Fight](https://www.wired.com/story/section-702-reform-backroom-deal/)
  - [Google’s Pixel Fold has returned to an all-time low thanks to a $400 discount](https://www.theverge.com/2024/2/12/24070473/google-pixel-fold-apple-studio-display-monitor-victrola-stream-onyx-turntable-deal-sale)
  - [Apple releases visionOS 1.0.3, the first update since the Vision Pro launch, adding an option to reset the device if the passcode has been forgotten &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240212/p19#a240212p19)
- - [Meta begins testing &quot;top topics&quot; in the US, which will be shown on the Search page and in the For You feed and can feature political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p18#a240212p18)
- - [Don&#39;t read too much into early Apple Vision Pro app sales](https://appleinsider.com/articles/24/02/12/dont-read-too-much-into-early-apple-vision-pro-app-sales?utm_medium=rss)
- - [A forgotten Apple Vision Pro passcode doesn&#39;t mean an Apple Store visit anymore](https://appleinsider.com/articles/24/02/12/a-forgotten-apple-vision-pro-passcode-doesnt-mean-an-apple-store-visit-anymore?utm_medium=rss)<!-- TECH:END -->
+ - [Meta begins testing &quot;top topics&quot; in the US, which will be shown on the Search page and in the For You feed and can feature political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p18#a240212p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How generative AI is transforming the advertising industry; WPP and Publicis plan to spend hundreds of millions of dollars to embed AI in their businesses &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240212/p1#a240212p1)
  - [This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
  - [Climate change is erasing previous gains in air quality — fires are mostly to blame](https://www.theverge.com/2024/2/12/24066572/air-pollution-quality-climate-change-wildfire-smoke-smog)
  - [Biden&#39;s campaign made its first-ever TikTok post, amid the Super Bowl, a year after the White House forced US agencies to remove the app from government devices &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240211/p9#a240211p9)
- - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)
- - [Wi-Fi and Bluetooth in Apple Vision Pro aren&#39;t cooking your brain](https://appleinsider.com/articles/24/02/12/wi-fi-and-bluetooth-in-apple-vision-pro-arent-cooking-your-brain?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Wicked&#39; First Look Arrives During Super Bowl 2024     - CNET](https://www.cnet.com/tech/home-entertainment/wicked-first-look-arrives-during-super-bowl-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

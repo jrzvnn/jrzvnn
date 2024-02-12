@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin pushes through $50K for the first time since December 2021, ahead of April&#39;s Bitcoin halving event, which will reduce mining rewards by half &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/240212/p15#a240212p15)
  - [Appfigures data: 52% of Vision Pro-only apps are paid downloads, vs. 5% of apps in the wider App Store, with an average price of $5.67 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p14#a240212p14)
  - [Best Buy cuts prices on iPads ahead of Valentine&#39;s Day, save up to $150](https://appleinsider.com/articles/24/02/12/best-buy-cuts-prices-on-ipads-ahead-of-valentines-day-save-up-to-150?utm_medium=rss)
  - [The City of Tomorrow Will Run on Your Toilet Water](https://www.wired.com/story/the-city-of-tomorrow-will-run-on-your-toilet-water/)
- - [Fan wiki hosting site Fandom rolls out controversial AI features](https://www.theverge.com/2024/2/12/24070287/fandom-wiki-generative-ai-features-quick-answers)
- - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)<!-- TECH:END -->
+ - [Fan wiki hosting site Fandom rolls out controversial AI features](https://www.theverge.com/2024/2/12/24070287/fandom-wiki-generative-ai-features-quick-answers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

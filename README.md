@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)
+ - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)
  - [AI Scores in Super Bowl Commercials: You Can Watch Them Here     - CNET](https://www.cnet.com/tech/ai-scores-in-super-bowl-commercials-you-can-watch-them-here/#ftag=CAD590a51e)
  - [Apple looking into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)
- - [Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities](https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/)
- - [The best cloud gaming &amp; game streaming choices for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-cloud-gaming-on-apple-vision-pro?utm_medium=rss)
- - [Can you use store credit cards anywhere?     - CNET](https://www.cnet.com/personal-finance/credit-cards/can-you-use-store-credit-cards-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities](https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

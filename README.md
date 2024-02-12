@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
 
 ---
 

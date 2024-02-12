@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
+ - 😝 [Well played](http://9gag.com/gag/amAEEvj)
+ - 😝 [No capes here.](http://9gag.com/gag/abv972b)
+ - 💣 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
+ - 😝 [Made her day](http://9gag.com/gag/a4oDeEZ)
+ - 👉 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gods, Monsters and Humans](http://9gag.com/gag/ap9yKqD)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
  - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [Boys being boys](http://9gag.com/gag/armjP97)
- - 😝 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
- - 👉 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)<!-- MEMES:END -->
+ - 💣 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
 
 ---
 

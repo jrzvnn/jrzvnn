@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
- - 😝 [Made her day](http://9gag.com/gag/a4oDeEZ)
- - 💣 [`I want fancy..we have fancy at home `](http://9gag.com/gag/adPmDED)
- - 😝 [Solution for climate change](http://9gag.com/gag/aGEWXN0)
- - 👉 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)<!-- MEMES:END -->
+ - 😝 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
+ - 😝 [Women](http://9gag.com/gag/aL1yy9P)
+ - 💣 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)<!-- MEMES:END -->
 
 ---
 

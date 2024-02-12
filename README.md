@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
  - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
- - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)
- - [Bugcrowd, which offers crowdsourced bug bounty tools, raised a $102M Series E led by General Catalyst to expand internationally, and has ~1,000 global customers &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240212/p5#a240212p5)
- - [Filing: Jeff Bezos sold 12M Amazon shares last week, netting just over $2B, his first Amazon stock sale since 2021; Amazon said Bezos plans to sell up to 50M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240212/p4#a240212p4)<!-- TECH:END -->
+ - [Refinance Rates for Feb. 12, 2024: Rates Tick Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-feb-12-2024-rates-tick-higher/#ftag=CAD590a51e)
+ - [Mortgage Rates on Feb. 12, 2024: Rates Move Higher for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-feb-12-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)
+ - [Apple looking into into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

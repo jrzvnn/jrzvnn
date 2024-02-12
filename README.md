@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 💣 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 😝 [Title](http://9gag.com/gag/abv9Nnr)
- - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
+ - 😝 [Hollywood actress Selma Blair has been cancelled and deleted her social media accounts for posting this comment.](http://9gag.com/gag/aA0o8DZ)
+ - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
+ - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 👉 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)<!-- MEMES:END -->
 
 ---
 

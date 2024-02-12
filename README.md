@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC commissioner wants to investigate Apple over Beeper Mini shutdown](https://www.theverge.com/2024/2/12/24071226/fcc-commissioner-brendan-carr-apple-beeper-mini)
  - [Cloudflare defeats another &quot;patent troll&quot;, invalidating parts of Sable Networks&#39; patents after crowd-sourcing prior art findings through Project Jengo &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240212/p24#a240212p24)
  - [One of NASA’s new spacesuits passes microgravity test](https://www.theverge.com/2024/2/12/24071144/nasa-collins-aerospace-iss-eva-spacesuit-gravity)
  - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)
- - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)
- - [Amazon&#39;s Prime Video basic ad tier, which began on Jan. 29 in the US as a downgrade to subscribers, quietly cut Dolby Vision HDR and Dolby Atmos sound support &lpar;John Archer/Forbes&rpar;](http://www.techmeme.com/240212/p22#a240212p22)<!-- TECH:END -->
+ - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

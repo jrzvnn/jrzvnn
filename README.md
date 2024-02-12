@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
- - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 💣 [Toddlers are brutally honest](http://9gag.com/gag/agoPPBx)
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 👉 [What](http://9gag.com/gag/aPgK5yB)<!-- MEMES:END -->
+ - 😝 [Bullet proof window stops a .50BMG round](http://9gag.com/gag/a8qBPmO)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [What](http://9gag.com/gag/aPgK5yB)
+ - 👉 [Toddlers are brutally honest](http://9gag.com/gag/agoPPBx)<!-- MEMES:END -->
 
 ---
 

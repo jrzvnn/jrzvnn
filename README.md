@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 😝 [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)
- - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
+ - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 💣 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 👉 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)<!-- MEMES:END -->
 
 ---
 

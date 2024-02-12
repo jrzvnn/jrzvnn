@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well played](http://9gag.com/gag/amAEEvj)
- - 😝 [No capes here.](http://9gag.com/gag/abv972b)
- - 💣 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
- - 😝 [Made her day](http://9gag.com/gag/a4oDeEZ)
- - 👉 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)<!-- MEMES:END -->
+ - 😝 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 💣 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
 
 ---
 

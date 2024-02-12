@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A forgotten Apple Vision Pro passcode doesn&#39;t mean an Apple Store visit anymore](https://appleinsider.com/articles/24/02/12/a-forgotten-apple-vision-pro-passcode-doesnt-mean-an-apple-store-visit-anymore?utm_medium=rss)
  - [Solana commits to build its second crypto-focused smartphone after reaching 100,000 preorders, or $45M in sales, in about a month, targeting a 2025 release &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240212/p17#a240212p17)
  - [Analysts estimate Microsoft Azure&#39;s revenue, fueled in part by AI growth, is ~75% as big as AWS&#39;, up from ~50% five years ago &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240212/p16#a240212p16)
  - [The biggest movie trailers and release dates in 2024](https://www.theverge.com/24065467/movie-release-date-schedule-trailers-calendar)
- - [Eve Energy Outlet shipping, smart faucets, and Vision Pro apps on HomeKit Insider](https://appleinsider.com/articles/24/02/12/eve-energy-outlet-shipping-smart-faucets-and-vision-pro-apps-on-homekit-insider?utm_medium=rss)
- - [&#39;Deadpool &amp; Wolverine&#39; Trailer Hopes Pegging Can Save the MCU](https://www.wired.com/story/deadpool-and-wolverine-trailer-pegging-save-mcu/)<!-- TECH:END -->
+ - [Eve Energy Outlet shipping, smart faucets, and Vision Pro apps on HomeKit Insider](https://appleinsider.com/articles/24/02/12/eve-energy-outlet-shipping-smart-faucets-and-vision-pro-apps-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

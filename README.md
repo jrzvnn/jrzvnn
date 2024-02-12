@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The return of the &lpar;robot&rpar; travel agent](https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt)
+ - [AI at Work](https://www.theverge.com/24054383/ai-work-business-automation-jobs-chatgpt)
  - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)
  - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)
- - [AI Scores in Super Bowl Commercials: You Can Watch Them Here     - CNET](https://www.cnet.com/tech/ai-scores-in-super-bowl-commercials-you-can-watch-them-here/#ftag=CAD590a51e)
- - [Apple looking into Apple Watch Series 9, Ultra 2 &#39;ghost touches&#39; issue](https://appleinsider.com/articles/24/02/12/apple-looking-into-into-apple-watch-series-9-ultra-2-ghost-touches-issue?utm_medium=rss)
- - [Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities](https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/)<!-- TECH:END -->
+ - [AI Scores in Super Bowl Commercials: You Can Watch Them Here     - CNET](https://www.cnet.com/tech/ai-scores-in-super-bowl-commercials-you-can-watch-them-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

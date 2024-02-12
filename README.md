@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/ajVo2Dw)
- - 😝 [Maybe i am a Gorilla after all](http://9gag.com/gag/aME3pbG)
- - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 😝 [Don&#39;t mess with Eddie](http://9gag.com/gag/a9qQjR6)
- - 👉 [A godless programmer has written a mod where all characters from Baldur&#39;s Gate 3 get the face of Nicolas Cage.](http://9gag.com/gag/a7qzjRe)<!-- MEMES:END -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)<!-- MEMES:END -->
 
 ---
 

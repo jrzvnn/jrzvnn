@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
- - 😝 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)
- - 💣 [Title](http://9gag.com/gag/abv9Nnr)
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 👉 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)<!-- MEMES:END -->
+ - 😝 [Really?](http://9gag.com/gag/aQE0wX7)
+ - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 💣 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
+ - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
+ - 👉 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)<!-- MEMES:END -->
 
 ---
 

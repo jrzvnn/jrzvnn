@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deadpool 3](http://9gag.com/gag/aYV289m)
- - 😝 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)
- - 💣 [Made her day](http://9gag.com/gag/a4oDeEZ)
- - 😝 [Still counts! in calories](http://9gag.com/gag/aQE0Lgw)
- - 👉 [I understood that reference.](http://9gag.com/gag/aME3pQV)<!-- MEMES:END -->
+ - 😝 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 👉 [True](http://9gag.com/gag/ajVo2Dw)<!-- MEMES:END -->
 
 ---
 

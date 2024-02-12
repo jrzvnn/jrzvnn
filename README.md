@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)
  - [The return of the &lpar;robot&rpar; travel agent](https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt)
  - [AI at Work](https://www.theverge.com/24054383/ai-work-business-automation-jobs-chatgpt)
  - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)
- - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)
- - [AI Scores in Super Bowl Commercials: You Can Watch Them Here     - CNET](https://www.cnet.com/tech/ai-scores-in-super-bowl-commercials-you-can-watch-them-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

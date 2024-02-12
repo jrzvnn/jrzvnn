@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 😝 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
+ - 😝 [What](http://9gag.com/gag/aPgK5yB)
  - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 👉 [Young Friends Reunited After Moving Apart](http://9gag.com/gag/az20pNb)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
+ - 👉 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use cloud gaming on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-cloud-gaming-on-apple-vision-pro?utm_medium=rss)
+ - [Sources: Sudan&#39;s paramilitary Rapid Support Forces, which is fighting Sudan&#39;s army, has been using Starlink since August 2023, during an internet blackout &lpar;Bloomberg&rpar;](http://www.techmeme.com/240212/p8#a240212p8)
+ - [The Hidden Injustice of Cyberattacks](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
  - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)
- - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)
- - [Apple buys domain suggesting generative AI additions may come to iWork](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork?utm_medium=rss)
- - [Refinance Rates for Feb. 12, 2024: Rates Tick Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-feb-12-2024-rates-tick-higher/#ftag=CAD590a51e)
- - [Mortgage Rates on Feb. 12, 2024: Rates Move Higher for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-feb-12-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine&#39;s GUR military intelligence unit says Russian forces are using Starlink terminals on the front line, confirming media reports of Russia using Starlink &lpar;Ben Hall/Financial Times&rpar;](http://www.techmeme.com/240212/p6#a240212p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

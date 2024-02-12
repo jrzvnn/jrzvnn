@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who Tests If Heat-Proof Clothing Actually Works? These Poor Sweating Mannequins](https://www.wired.com/story/heat-proof-clothing-testing-sweating-mannequins-thermetrics/)
+ - [DOJ’s Jonathan Kanter says the antitrust fight against Big Tech is just beginning](https://www.theverge.com/24067873/jonathan-kanter-doj-antitrust-google-policy-monopoly-big-tech)
+ - [23andMe Is Under Fire. Its Founder Remains ‘Optimistic’](https://www.wired.com/story/23andme-genomic-testing-financial-results-earnings-anne-wojcicki/)
  - [The Biden Campaign Is Officially Trolling on TikTok Now](https://www.wired.com/story/biden-campaign-tiktok/)
- - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)
- - [The return of the &lpar;robot&rpar; travel agent](https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt)
- - [AI at Work](https://www.theverge.com/24054383/ai-work-business-automation-jobs-chatgpt)
- - [Apple&#39;s Journal App Is Easy, Free, and Already on Your Phone](https://www.wired.com/story/apple-journal-app/)<!-- TECH:END -->
+ - [Court documents: HP calculates its Autonomy losses at up to $4B, and says Autonomy&#39;s ex-CEO and CFO must pay; Autonomy founder Mike Lynch is awaiting a US trial &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240212/p9#a240212p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

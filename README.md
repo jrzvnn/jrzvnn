@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
  - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 😝 [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)
- - 💣 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [What](http://9gag.com/gag/aPgK5yB)<!-- MEMES:END -->
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 👉 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)<!-- MEMES:END -->
 
 ---
 

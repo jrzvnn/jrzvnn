@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gods, Monsters and Humans](http://9gag.com/gag/ap9yKqD)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [Boys being boys](http://9gag.com/gag/armjP97)
- - 😝 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
- - 👉 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)<!-- MEMES:END -->
+ - 😝 [What](http://9gag.com/gag/aPgK5yB)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge blocks the enforcement of a Ohio law that would require children under 16 to get parental consent to use social media apps &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240212/p25#a240212p25)
  - [FCC commissioner wants to investigate Apple over Beeper Mini shutdown](https://www.theverge.com/2024/2/12/24071226/fcc-commissioner-brendan-carr-apple-beeper-mini)
  - [Cloudflare defeats another &quot;patent troll&quot;, invalidating parts of Sable Networks&#39; patents after crowd-sourcing prior art findings through Project Jengo &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240212/p24#a240212p24)
  - [One of NASA’s new spacesuits passes microgravity test](https://www.theverge.com/2024/2/12/24071144/nasa-collins-aerospace-iss-eva-spacesuit-gravity)
- - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)
- - [ContextLogic agrees to sell the discount online retailer Wish for $173M to Singaporean company Qoo10; Wish had a $14B valuation when it when public in 2020 &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240212/p23#a240212p23)<!-- TECH:END -->
+ - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

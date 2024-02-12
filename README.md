@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin pushes through $50K for the first time since December 2021, ahead of April&#39;s Bitcoin halving event, which will reduce mining rewards by half &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/240212/p15#a240212p15)
- - [Appfigures data: 52% of Vision Pro-only apps are paid downloads, vs. 5% of apps in the wider App Store, with an average price of $5.67 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p14#a240212p14)
- - [Best Buy cuts prices on iPads ahead of Valentine&#39;s Day, save up to $150](https://appleinsider.com/articles/24/02/12/best-buy-cuts-prices-on-ipads-ahead-of-valentines-day-save-up-to-150?utm_medium=rss)
- - [The City of Tomorrow Will Run on Your Toilet Water](https://www.wired.com/story/the-city-of-tomorrow-will-run-on-your-toilet-water/)
- - [Fan wiki hosting site Fandom rolls out controversial AI features](https://www.theverge.com/2024/2/12/24070287/fandom-wiki-generative-ai-features-quick-answers)<!-- TECH:END -->
+ - [&#39;Deadpool &amp; Wolverine&#39; Trailer Hopes Pegging Can Save the MCU](https://www.wired.com/story/deadpool-and-wolverine-trailer-pegging-save-mcu/)
+ - [The future of Xbox will be revealed on February 15th](https://www.theverge.com/2024/2/12/24070445/microsoft-xbox-business-update-event-future-february-15)
+ - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)
+ - [&#39;Spec Ops: The Line&#39; Disappeared. It Won&#39;t Be the Last Beloved Game to Vanish](https://www.wired.com/story/spec-ops-the-line-disappeared-cultural-touchstone-gone/)
+ - [Slackers](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

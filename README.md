@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back when athletes had class and showed ture sportsmanship](http://9gag.com/gag/ay2OGnr)
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)
+ - 💣 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
  - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
- - 💣 [Title](http://9gag.com/gag/abv9Nnr)
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
- - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/abv9Nnr)<!-- MEMES:END -->
 
 ---
 

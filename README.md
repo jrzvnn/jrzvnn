@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appfigures data: 52% of Vision Pro-only apps are paid downloads, vs. 5% of apps in the wider App Store, with an average price of $5.67 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240212/p14#a240212p14)
+ - [Best Buy cuts prices on iPads ahead of Valentine&#39;s Day, save up to $150](https://appleinsider.com/articles/24/02/12/best-buy-cuts-prices-on-ipads-ahead-of-valentines-day-save-up-to-150?utm_medium=rss)
  - [The City of Tomorrow Will Run on Your Toilet Water](https://www.wired.com/story/the-city-of-tomorrow-will-run-on-your-toilet-water/)
  - [Fan wiki hosting site Fandom rolls out controversial AI features](https://www.theverge.com/2024/2/12/24070287/fandom-wiki-generative-ai-features-quick-answers)
- - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)
- - [Streaming services are spoiling the Super Bowl](https://www.theverge.com/24070601/super-bowl-streaming-delay-spoilers)
- - [Nvidia announces a new $625 Nvidia RTX 2000 Ada Generation GPU, with up to 2x more performance than the previous gen and 16GB of on-board memory, up from 12GB &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/240212/p13#a240212p13)<!-- TECH:END -->
+ - [Stellantis becomes the last major automaker to adopt Tesla’s charging plug](https://www.theverge.com/2024/2/12/24070654/stellantis-tesla-ev-charging-plus-nacs-adapter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

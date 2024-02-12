@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst mistake ever](http://9gag.com/gag/aBd7qjx)
- - 😝 [Well played](http://9gag.com/gag/amAEEvj)
+ - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 😝 [Title](http://9gag.com/gag/abv9Nnr)
  - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 😝 [Goalkeeper almost dies during football game in Poland](http://9gag.com/gag/a042AKL)
+ - 😝 [Just for the record, it wasn\u2019t me. I just wanted to share this masterpiece](http://9gag.com/gag/aoKbvWm)
  - 👉 [Dangerous overtake.](http://9gag.com/gag/aA0oWvZ)<!-- MEMES:END -->
 
 ---

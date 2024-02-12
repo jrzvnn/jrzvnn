@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Winter Storm Guide: What to Stock Up on for Snow, Ice and Power Outages     - CNET](https://www.cnet.com/home/energy-and-utilities/winter-storm-guide-what-to-stock-up-on-for-snow-ice-and-power-outages/#ftag=CAD590a51e)
  - [Microsoft prepares to take Xbox everywhere](https://www.theverge.com/2024/2/12/24067370/microsoft-xbox-playstation-switch-games-future-hardware)
  - [Despite what Apple says, most of its workers still fear backlash over unionization efforts](https://appleinsider.com/articles/24/02/12/despite-what-apple-says-most-of-its-workers-still-fear-backlash-over-organization-efforts?utm_medium=rss)
- - [Jon Stewart became a problem for Apple TV+](https://appleinsider.com/articles/24/02/12/jon-stewart-became-a-problem-for-apple-tv?utm_medium=rss)
- - [Threads is testing ‘Today’s topics’ to tell users what’s trending in the US](https://www.theverge.com/2024/2/12/24071014/threads-topics-testing-us-test)
- - [The US government makes a $42 million bet on open cell networks](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)<!-- TECH:END -->
+ - [Best Apple Watch Series 9 Deals: Save Big on Apple&#39;s Latest Smartwatch     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 in Trade-In Credit and Up to $300 in Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

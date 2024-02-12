@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use cloud gaming on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-cloud-gaming-on-apple-vision-pro?utm_medium=rss)
+ - [The best cloud gaming &amp; game streaming choices for Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-use-cloud-gaming-on-apple-vision-pro?utm_medium=rss)
  - [Sources: Sudan&#39;s paramilitary Rapid Support Forces, which is fighting Sudan&#39;s army, has been using Starlink since August 2023, during an internet blackout &lpar;Bloomberg&rpar;](http://www.techmeme.com/240212/p8#a240212p8)
  - [The Hidden Injustice of Cyberattacks](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
  - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)

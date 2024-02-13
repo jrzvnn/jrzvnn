@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pulling out your Glock solves everything, especially during the 1800s](http://9gag.com/gag/ajVobKw)
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 👉 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)<!-- MEMES:END -->
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

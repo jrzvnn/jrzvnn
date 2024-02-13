@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roborock’s Q5 Pro, the best robovac for picking up pet hair, is 25 percent off](https://www.theverge.com/2024/2/13/24070568/roborock-q5-pro-vacuum-anker-soundcore-liberty-3-earbuds-magsafe-charger-deal-sale)
  - [A remote school outage might give NYC kids their snow day after all](https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage)
  - [A sneaky piracy app is trending in Apple’s App Store](https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios)
  - [Otter is making AI bots part of the group chat](https://www.theverge.com/2024/2/13/24071269/otter-generative-ai-meeting-transcripts-group-chat)
- - [Maingear MG-1 Review: The Perfect Starter Gaming PC](https://www.wired.com/review/maingear-mg-1/)
- - [Ignore your fitness tracker and walk to Mordor instead](https://www.theverge.com/24065451/fantasy-hike-app-fitness-tracker-walking-health)<!-- TECH:END -->
+ - [Maingear MG-1 Review: The Perfect Starter Gaming PC](https://www.wired.com/review/maingear-mg-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

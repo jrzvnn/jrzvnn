@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mozilla plans to scale back its investment in a few products, including its VPN, Relay, and its Online Footprint Scrubber, as it lays off ~60 employees &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240213/p32#a240213p32)
+ - [Robinhood reports Q4 net revenue up 24% YoY to $471M, net interest revenue up 41% YoY to $236M, and net income of $30M, vs. a loss of $166M YoY; HOOD jumps 15%+ &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240213/p31#a240213p31)
  - [Airbnb reports Q4 revenue up 17% YoY to $2.22B, vs. $2.16B est., Nights and Experiences Booked up 12% YoY to 98.8M, and announces a $6B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240213/p30#a240213p30)
  - [Rumored screen-equipped HomePod appears in tvOS beta references](https://appleinsider.com/articles/24/02/13/rumored-screen-equipped-homepod-appears-in-tvos-beta-references?utm_medium=rss)
- - [Sources: Walmart is in talks to buy smart TV manufacturer Vizio for more than $2B, as it looks to bolster its advertising business in its battle with Amazon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240213/p29#a240213p29)
- - [Source: crypto exchange Bullish paid DCG between $70M and $80M cash for CoinDesk in November 2023; Bullish restructured CoinDesk&#39;s leadership team last week &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240213/p28#a240213p28)
- - [Sarah Silverman’s lawsuit against OpenAI partially dismissed](https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit)<!-- TECH:END -->
+ - [Sources: Walmart is in talks to buy smart TV manufacturer Vizio for more than $2B, as it looks to bolster its advertising business in its battle with Amazon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240213/p29#a240213p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

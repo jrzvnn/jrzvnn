@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro now has 1,000 native apps on the visionOS App Store](https://appleinsider.com/articles/24/02/13/apple-vision-pro-now-has-1000-native-apps-on-the-visionos-app-store?utm_medium=rss)
  - [A US federal judge sets the trial date for an FTC antitrust lawsuit against Amazon for October 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/240213/p38#a240213p38)
  - [Why Is There Lead in Stanley Cups and Other Reusable Water Bottles? &lpar;Updated&rpar;](https://www.wired.com/story/stanley-cup-lead-soldering/)
  - [Waymo has issued a software fix for its cars, its first recall, after two vehicles crashed into the same towed pickup truck in Phoenix in December 2023 &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240213/p37#a240213p37)
- - [US patent office confirms AI can’t hold patents](https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance)
- - [Taylor Swift is now a podcasting influencer](https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah)<!-- TECH:END -->
+ - [US patent office confirms AI can’t hold patents](https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

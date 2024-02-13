@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 💣 [Skills](http://9gag.com/gag/amAEjYV)
  - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [Boys being boys](http://9gag.com/gag/armjP97)
- - 💣 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
- - 😝 [Not Gonna let them get to me, but sometime you need some moral support](http://9gag.com/gag/ay2gEvr)
- - 👉 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)<!-- MEMES:END -->
+ - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
 
 ---
 

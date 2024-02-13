@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
  - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
  - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [Guy in pickup truck throws firework at family](http://9gag.com/gag/adPmmgd)
- - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

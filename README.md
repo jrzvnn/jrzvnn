@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
+ - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 👉 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)<!-- MEMES:END -->
 
 ---
 

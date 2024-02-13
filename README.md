@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
+ - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
+ - [Passkeys might really kill passwords](https://www.theverge.com/24071753/passkeys-password-manager-wearables-vergecast)
  - [Roborock’s Q5 Pro, the best robovac for picking up pet hair, is 25 percent off](https://www.theverge.com/2024/2/13/24070568/roborock-q5-pro-vacuum-anker-soundcore-liberty-3-earbuds-magsafe-charger-deal-sale)
- - [A remote school outage might give NYC kids their snow day after all](https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage)
- - [A sneaky piracy app is trending in Apple’s App Store](https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios)
- - [Otter is making AI bots part of the group chat](https://www.theverge.com/2024/2/13/24071269/otter-generative-ai-meeting-transcripts-group-chat)
- - [Maingear MG-1 Review: The Perfect Starter Gaming PC](https://www.wired.com/review/maingear-mg-1/)<!-- TECH:END -->
+ - [A remote school outage might give NYC kids their snow day after all](https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

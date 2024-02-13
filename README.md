@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge blocks the enforcement of a Ohio law that would require children under 16 to get parental consent to use social media apps &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240212/p25#a240212p25)
+ - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)
+ - [It’s not just you: Alicia Keys’ Super Bowl halftime show got changed for YouTube](https://www.theverge.com/2024/2/12/24071248/alicia-keys-vocals-changed-super-bowl-2024-usher-halftime-performance)
+ - [A US federal judge blocks the enforcement of an Ohio law that would require children under 16 to get parental consent to use social media apps &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240212/p25#a240212p25)
  - [FCC commissioner wants to investigate Apple over Beeper Mini shutdown](https://www.theverge.com/2024/2/12/24071226/fcc-commissioner-brendan-carr-apple-beeper-mini)
- - [Cloudflare defeats another &quot;patent troll&quot;, invalidating parts of Sable Networks&#39; patents after crowd-sourcing prior art findings through Project Jengo &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240212/p24#a240212p24)
- - [One of NASA’s new spacesuits passes microgravity test](https://www.theverge.com/2024/2/12/24071144/nasa-collins-aerospace-iss-eva-spacesuit-gravity)
- - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)<!-- TECH:END -->
+ - [Many of My Friends Don&#39;t Own TVs, but That Could Change Soon     - CNET](https://www.cnet.com/tech/home-entertainment/many-of-my-friends-dont-own-tvs-but-that-could-change-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

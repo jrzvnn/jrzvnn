@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 💣 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
+ - 😝 [Nice to have know you](http://9gag.com/gag/aMER1nV)
+ - 😝 [THE SECOND HAND EMBARRASSMENT HELP](http://9gag.com/gag/ap9yqpW)
+ - 💣 [Paradox games or having seggs - choose one](http://9gag.com/gag/aMER1w6)
+ - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
+ - 👉 [WTF](http://9gag.com/gag/abvP5RX)<!-- MEMES:END -->
 
 ---
 

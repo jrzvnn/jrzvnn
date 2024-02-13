@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/abvP5RX)
- - 😝 [Nice to have know you](http://9gag.com/gag/aMER1nV)
- - 💣 [Last season was a trashfire, no new books in over 10 years, but at least House of the Dragon was fine](http://9gag.com/gag/aOxgKLv)
- - 😝 [Police remove zip tie from dogs snout](http://9gag.com/gag/aDYpAEw)
- - 👉 [THE SECOND HAND EMBARRASSMENT HELP](http://9gag.com/gag/ap9yqpW)<!-- MEMES:END -->
+ - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

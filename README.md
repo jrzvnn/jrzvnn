@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 💣 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

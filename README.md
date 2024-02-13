@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US patent office confirms AI can’t hold patents](https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance)
+ - [Taylor Swift is now a podcasting influencer](https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah)
  - [For the first time since 2002, Nvidia ended a trading day with a bigger market value than Amazon, as its market cap reached $1.78T, fueled by the AI boom &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240213/p36#a240213p36)
  - [Walmart might buy Vizio to win the fight over cheap TVs](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
- - [GlobalFoundries reports Q4 revenue down 12% YoY to $1.85B, vs. 1.85B est., net income down 58% YoY to $278M, forecasted sales of $1.52B in Q1, vs. $1.77B est. &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](http://www.techmeme.com/240213/p35#a240213p35)
- - [AirPlay-compatible TVs rolling out to hotels starting &#39;later this spring&#39;](https://appleinsider.com/articles/24/02/13/airplay-compatible-tvs-rolling-out-to-hotels-starting-later-this-spring?utm_medium=rss)
- - [Instacart reports Q4 revenue up 6% YoY to $803M vs. $804M est., plans to lay off ~250 workers, or ~7% of staff; three top execs are leaving for personal reasons &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240213/p34#a240213p34)<!-- TECH:END -->
+ - [GlobalFoundries reports Q4 revenue down 12% YoY to $1.85B, vs. 1.85B est., net income down 58% YoY to $278M, forecasted sales of $1.52B in Q1, vs. $1.77B est. &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](http://www.techmeme.com/240213/p35#a240213p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

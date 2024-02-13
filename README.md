@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
 
 ---
 

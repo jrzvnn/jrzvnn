@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia releases an early version of Chat with RTX, an app that lets users run a personal AI chatbot on a PC with an RTX 30- or 40-series GPU and 8GB+ of VRAM &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p16#a240213p16)
  - [BMW CE 02 E-Motorbike 2024 Review: Price, Specs, Availability](https://www.wired.com/review/review-bmw-ce02-e-motorbike/)
  - [Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
  - [Dude, where’s my self-driving car?](https://www.theverge.com/24065447/self-driving-car-autonomous-tesla-gm-baidu)
- - [Farming Prioritizes Cows and Cars—Not People](https://www.wired.com/story/crop-yield-gap-maize-wheat/)
- - [Wild Animals Should Be Paid for the Benefits They Provide Humanity](https://www.wired.com/story/wild-animals-paid-ecosystem-benefits-ecoflix-ian-redmond/)<!-- TECH:END -->
+ - [Farming Prioritizes Cows and Cars—Not People](https://www.wired.com/story/crop-yield-gap-maize-wheat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

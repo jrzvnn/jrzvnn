@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
- - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 💣 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [WTF](http://9gag.com/gag/abvP5RX)
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
+ - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
 
 ---
 

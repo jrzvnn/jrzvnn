@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 👉 [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)<!-- MEMES:END -->
+ - 😝 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

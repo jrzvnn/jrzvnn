@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

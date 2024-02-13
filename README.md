@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 👉 [Skills](http://9gag.com/gag/amAEjYV)<!-- MEMES:END -->
+ - 😝 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)
+ - 😝 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)
+ - 💣 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
+ - 😝 [Very subtle, Creed](http://9gag.com/gag/aQEwPPz)
+ - 👉 [Not Gonna let them get to me, but sometime you need some moral support](http://9gag.com/gag/ay2gEvr)<!-- MEMES:END -->
 
 ---
 

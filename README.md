@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
  - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 👉 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)<!-- MEMES:END -->
+ - 💣 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 👉 [Canadian dystopia 2024](http://9gag.com/gag/aL1yxjz)<!-- MEMES:END -->
 
 ---
 

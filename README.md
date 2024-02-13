@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPlay-compatible TVs rolling out to hotels starting &#39;later this spring&#39;](https://appleinsider.com/articles/24/02/13/airplay-compatible-tvs-rolling-out-to-hotels-starting-later-this-spring?utm_medium=rss)
+ - [Instacart reports Q4 revenue up 6% YoY to $803M vs. $804M est., plans to lay off ~250 workers, or ~7% of staff; three top execs are leaving for personal reasons &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240213/p34#a240213p34)
  - [Lyft reports Q4 revenue up 4% YoY to $1.2B, net loss of $26.3M, vs. $588.1M YoY, active riders up 10% to 22.4M, and Q1 forecast above est.; LYFT jumps 60%+ &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240213/p33#a240213p33)
  - [Sources: Mozilla plans to scale back its investment in a few products, including its VPN, Relay, and its Online Footprint Scrubber, as it lays off ~60 employees &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240213/p32#a240213p32)
- - [Robinhood reports Q4 net revenue up 24% YoY to $471M, net interest revenue up 41% YoY to $236M, and net income of $30M, vs. a loss of $166M YoY; HOOD jumps 15%+ &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240213/p31#a240213p31)
- - [Airbnb reports Q4 revenue up 17% YoY to $2.22B, vs. $2.16B est., Nights and Experiences Booked up 12% YoY to 98.8M, and announces a $6B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240213/p30#a240213p30)
- - [Rumored screen-equipped HomePod appears in tvOS beta references](https://appleinsider.com/articles/24/02/13/rumored-screen-equipped-homepod-appears-in-tvos-beta-references?utm_medium=rss)<!-- TECH:END -->
+ - [Robinhood reports Q4 net revenue up 24% YoY to $471M, net interest revenue up 41% YoY to $236M, and net income of $30M, vs. a loss of $166M YoY; HOOD jumps 15%+ &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240213/p31#a240213p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

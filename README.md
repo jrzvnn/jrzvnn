@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Second visionOS 1.1 developer beta with passcode reset is now available](https://appleinsider.com/articles/24/02/13/second-visionos-11-developer-beta-is-now-available?utm_medium=rss)
  - [OpenAI Gives ChatGPT a Memory](https://www.wired.com/story/chatgpt-memory-openai/)
  - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
  - [Internet infrastructure startup Meter raised a $35M Series B extension at, a source says, a $350M+ valuation led by Sam Altman and Lachy Groom &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240213/p23#a240213p23)
- - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)
- - [A US judge says OpenAI must face a claim of violating CA unfair competition law by using copyrighted books, but dismisses some claims like DMCA violations &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240213/p22#a240213p22)<!-- TECH:END -->
+ - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 💣 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
+ - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Temu is scooping up suppliers removed by Shein, as Shein moves to clean up its supply chain ahead of a planned US listing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240213/p1#a240213p1)
  - [US court notice: the sentencing of Binance CEO Changpeng Zhao for money laundering has been postponed until April 30, 2024; CZ is free on a $175M release bond &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
  - [Best Workout Equipment for Small Spaces     - CNET](https://www.cnet.com/health/fitness/best-workout-equipment-small-spaces/#ftag=CAD590a51e)
  - [How to use the Microcosft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
- - [EveryNoise, a music encyclopedia using Spotify data, has ceased updating after Spotify laid off the employee running it in December, pissing off the site&#39;s fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)
- - [The Best Pregnancy Pillows, as Tested by a Pregnant Wellness Editor     - CNET](https://www.cnet.com/health/sleep/best-pregnancy-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Music encyclopedia EveryNoise, which uses Spotify data, stopped updating after Spotify laid off the employee running the site in December, pissing off its fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

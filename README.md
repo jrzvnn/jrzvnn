@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 💣 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 

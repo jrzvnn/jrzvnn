@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Making These 6 Common Tax Mistakes Could Trigger an IRS Audit. Here&#39;s How to Avoid Them     - CNET](https://www.cnet.com/personal-finance/taxes/common-tax-mistakes-could-trigger-an-irs-audit-heres-how-to-avoid-them/#ftag=CAD590a51e)
- - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
+ - [Microsoft plans an Xbox business update event on February 15 at 12PM PT, delivered via a podcast hosted by Xbox&#39;s Phil Spencer, Sarah Bond, and Matt Booty &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p6#a240213p6)
  - [How the US CHIPS Act is helping boost the economy of Arizona&#39;s Maricopa County, with TSMC and other manufacturers building factories and creating high-tech jobs &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/240213/p5#a240213p5)
  - [Chrysler Halcyon concept is a reminder the company can be more than just minivans](https://www.theverge.com/2024/2/13/24067683/chrysler-halcyon-concept-ev-autonomous-specs-photos)
- - [Wunderlist’s creators are back with a nifty new to-do app](https://www.theverge.com/2024/2/13/24071136/superlist-tasks-app-wunderlist-productivity-tool)<!-- TECH:END -->
+ - [Wunderlist’s creators are back with a nifty new to-do app](https://www.theverge.com/2024/2/13/24071136/superlist-tasks-app-wunderlist-productivity-tool)
+ - [Nothing’s Phone 2A launches March 5th but with a limited US release](https://www.theverge.com/2024/2/13/24070423/nothing-phone-2a-launch-event-march-5th-us-release-developer-program)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

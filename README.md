@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 💣 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
+ - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 😝 [Not title](http://9gag.com/gag/a6qvrrN)
+ - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 

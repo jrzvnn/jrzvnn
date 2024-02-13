@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court notice: the sentencing of Binance CEO Changpeng Zhao has been postponed until April 30, 2024; CZ is free on a $175M release bond in the US &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
+ - [US court notice: the sentencing of Binance CEO Changpeng Zhao for money laundering has been postponed until April 30, 2024; CZ is free on a $175M release bond &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/240212/p29#a240212p29)
  - [Best Workout Equipment for Small Spaces     - CNET](https://www.cnet.com/health/fitness/best-workout-equipment-small-spaces/#ftag=CAD590a51e)
  - [How to use the Microcosft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
  - [EveryNoise, a music encyclopedia using Spotify data, has ceased updating after Spotify laid off the employee running it in December, pissing off the site&#39;s fans &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240212/p28#a240212p28)

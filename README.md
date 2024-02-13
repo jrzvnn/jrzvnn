@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Proofpoint: unknown hackers are targeting hundreds of Azure accounts, some belonging to senior executives, to steal sensitive data and financial assets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240213/p9#a240213p9)
  - [Lyft’s feature that matches women and nonbinary riders and drivers now available nationwide](https://www.theverge.com/2024/2/13/24071237/lyft-women-plus-connect-riders-availability)
  - [Netherlands-based Finom, a challenger bank aimed at SMEs and freelancers, raised a &amp;euro;50M Series B, after a &amp;euro;33M Series A in early 2022 and &amp;euro;16.8M seed in 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p8#a240213p8)
- - [The One Internet Hack That Could Save Everything](https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/)
- - [Sources: Microsoft plans to launch select Xbox games on the PS5 and Switch, starting with Hi-Fi Rush, Pentiment, and Sea of Thieves, a seismic strategy shift &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p7#a240213p7)<!-- TECH:END -->
+ - [30 Best Valentine&#39;s Day Gifts for Kids in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-valentines-day-gifts-for-kids/#ftag=CAD590a51e)
+ - [The One Internet Hack That Could Save Everything](https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

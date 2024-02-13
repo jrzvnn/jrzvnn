@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 😝 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 😝 [Nice to have know you](http://9gag.com/gag/aMER1nV)
+ - 😝 [A Japanese High School in Kyoto gives Pharrell Williams the big band treatment](http://9gag.com/gag/amAjqe6)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [Last season was a trashfire, no new books in over 10 years, but at least House of the Dragon was fine](http://9gag.com/gag/aOxgKLv)
+ - 👉 [Police remove zip tie from dogs snout](http://9gag.com/gag/aDYpAEw)<!-- MEMES:END -->
 
 ---
 

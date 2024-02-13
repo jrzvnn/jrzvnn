@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A remote school outage might give NYC kids their snow day after all](https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage)
+ - [A sneaky piracy app is trending in Apple’s App Store](https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios)
+ - [Otter is making AI bots part of the group chat](https://www.theverge.com/2024/2/13/24071269/otter-generative-ai-meeting-transcripts-group-chat)
  - [Maingear MG-1 Review: The Perfect Starter Gaming PC](https://www.wired.com/review/maingear-mg-1/)
- - [Ignore your fitness tracker and walk to Mordor instead](https://www.theverge.com/24065451/fantasy-hike-app-fitness-tracker-walking-health)
- - [Flipper Devices, which makes the Flipper Zero multi-tool device, announces a new $49 Video Game Module, powered by a Raspberry Pi RP2040 microcontroller &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240213/p18#a240213p18)
- - [GLAAD releases its first gaming industry survey, with 1,500 participants: &lt;2% of console video games include LGBTQ characters, 17% of gamers are queer, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240213/p17#a240213p17)
- - [Watermarking the future](https://www.theverge.com/2024/2/13/24067991/watermark-generative-ai-deepfake-copyright)<!-- TECH:END -->
+ - [Ignore your fitness tracker and walk to Mordor instead](https://www.theverge.com/24065451/fantasy-hike-app-fitness-tracker-walking-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
- - 😝 [Watching on the bench as we speak](http://9gag.com/gag/ajVop3Q)
- - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 👉 [If you know you know](http://9gag.com/gag/anzLAdq)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 💣 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
+ - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 👉 [Skills](http://9gag.com/gag/amAEjYV)<!-- MEMES:END -->
 
 ---
 

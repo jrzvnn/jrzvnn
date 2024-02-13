@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)
- - 😝 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)
- - 💣 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
- - 😝 [Very subtle, Creed](http://9gag.com/gag/aQEwPPz)
- - 👉 [Not Gonna let them get to me, but sometime you need some moral support](http://9gag.com/gag/ay2gEvr)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [Well played](http://9gag.com/gag/amAEEvj)
+ - 💣 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---
 

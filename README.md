@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: crypto exchange Bullish paid DCG between $70M and $80M for CoinDesk in November 2023; last week Bullish restructured CoinDesk&#39;s leadership team &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240213/p28#a240213p28)
  - [Sarah Silverman’s lawsuit against OpenAI partially dismissed](https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [The threat of extinction is getting worse for migratory animals](https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report)
- - [Copilot for Microsoft 365 testers question the $30/seat price but some, like Dow, plan big rollouts; Copilot in Teams seen as useful, but it struggles in Excel &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240213/p27#a240213p27)
- - [Polish PM Donald Tusk says state authorities under the previous government used NSO&#39;s Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)<!-- TECH:END -->
+ - [Get Your 2024 Tax Refund Up to 5 Days Sooner. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/taxes/get-your-2024-tax-refund-up-to-5-days-sooner-heres-how/#ftag=CAD590a51e)
+ - [Best Internet Providers in Coon Rapids, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-coon-rapids-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

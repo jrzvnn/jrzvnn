@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 💣 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 👉 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)<!-- MEMES:END -->
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 💣 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
+ - 👉 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)<!-- MEMES:END -->
 
 ---
 

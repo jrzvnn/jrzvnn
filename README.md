@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Microsoft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
+ - [Peloton abandons Apple&#39;s GymKit health data sharing platform](https://appleinsider.com/articles/24/02/13/peloton-abandons-apples-gymkit-health-data-sharing-platform?utm_medium=rss)
  - [Proofpoint: unknown hackers are targeting hundreds of Azure accounts, some belonging to senior executives, to steal sensitive data and financial assets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240213/p9#a240213p9)
  - [Lyft’s feature that matches women and nonbinary riders and drivers now available nationwide](https://www.theverge.com/2024/2/13/24071237/lyft-women-plus-connect-riders-availability)
- - [Netherlands-based Finom, a challenger bank aimed at SMEs and freelancers, raised a &amp;euro;50M Series B, after a &amp;euro;33M Series A in early 2022 and &amp;euro;16.8M seed in 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p8#a240213p8)
- - [30 Best Valentine&#39;s Day Gifts for Kids in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-valentines-day-gifts-for-kids/#ftag=CAD590a51e)
- - [The One Internet Hack That Could Save Everything](https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/)<!-- TECH:END -->
+ - [Netherlands-based Finom, a challenger bank aimed at SMEs and freelancers, raised a &amp;euro;50M Series B, after a &amp;euro;33M Series A in early 2022 and &amp;euro;16.8M seed in 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p8#a240213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

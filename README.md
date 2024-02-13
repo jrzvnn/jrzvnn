@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton is getting rid of Apple Watch GymKit support](https://www.theverge.com/2024/2/12/24071405/peloton-apple-watch-gymkit-fitness-data-tracking-one-tap)
  - [Amazon Prime Video drops Dolby Vision and Atmos unless you pay extra](https://www.theverge.com/24071417/amazon-prime-video-no-dolby-vision-atmos)
  - [Q&amp;A with Mastodon founder Eugen Rochko on the state of the platform, its future, collaborating with Meta on ActivityPub, Bluesky&#39;s AT protocol, and more &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240212/p27#a240212p27)
  - [Sources: Founders Fund bought $100M in bitcoin and $100M in ether from late summer to early fall 2023; it sold its crypto portfolio in 2022 for $1.8B in returns &lpar;Reuters&rpar;](http://www.techmeme.com/240212/p26#a240212p26)
- - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

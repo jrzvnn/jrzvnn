@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sarah Silverman’s lawsuit against OpenAI partially dismissed](https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [The threat of extinction is getting worse for migratory animals](https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report)
  - [Copilot for Microsoft 365 testers question the $30/seat price but some, like Dow, plan big rollouts; Copilot in Teams seen as useful, but it struggles in Excel &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240213/p27#a240213p27)
- - [Polish PM Donald Tusk says state authorities under the previous government used Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)
- - [Best Online Glasses and Contacts Deals: Big Savings on Contacts, Lenses and Frames     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
- - [Apple Original sci-fi drama &#39;Invasion&#39; renewed for third season](https://appleinsider.com/articles/24/02/13/apple-original-sci-fi-drama-invasion-renewed-for-third-season?utm_medium=rss)<!-- TECH:END -->
+ - [Polish PM Donald Tusk says state authorities under the previous government used NSO&#39;s Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

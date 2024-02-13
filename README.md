@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polish PM Donald Tusk says state authorities under the previous government used Pegasus spyware illegally against a &quot;very long&quot; list of hacking victims &lpar;Vanessa Gera/Associated Press&rpar;](http://www.techmeme.com/240213/p26#a240213p26)
  - [Apple Original sci-fi drama &#39;Invasion&#39; renewed for third season](https://appleinsider.com/articles/24/02/13/apple-original-sci-fi-drama-invasion-renewed-for-third-season?utm_medium=rss)
  - [In 9+ federal child exploitation cases since 2018, the US said spy cams, sometimes promoted with racy imagery, sold on Amazon or eBay were used to film minors &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240213/p25#a240213p25)
  - [Apple Pulls Popular Movie Piracy App Kimi From the App Store](https://www.wired.com/story/apple-app-store-kimi-piracy-movies/)
- - [Apple continues to brace for big EU App Store changes in third developer betas](https://appleinsider.com/articles/24/02/13/apple-continues-to-brace-for-big-eu-app-store-changes-in-third-developer-betas?utm_medium=rss)
- - [OpenAI rolls out a test of a &quot;memory&quot; feature, which will be on by default and let ChatGPT and custom GPTs remember info about users&#39; conversations over time &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240213/p24#a240213p24)<!-- TECH:END -->
+ - [Apple continues to brace for big EU App Store changes in third developer betas](https://appleinsider.com/articles/24/02/13/apple-continues-to-brace-for-big-eu-app-store-changes-in-third-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

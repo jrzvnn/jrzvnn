@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU closes its DMA investigation into iMessage and Microsoft Bing, Edge, and Advertising, deciding against regulating the services due to a lack of dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240213/p10#a240213p10)
+ - [Apple won’t be forced to open up iMessage by EU](https://www.theverge.com/2024/2/13/23990679/apple-imessage-european-union-digital-markets-act-core-platform-service)
+ - [GM Cruise nabs former Apple car exec for autonomous car safety chief role](https://appleinsider.com/articles/24/02/13/gm-cruise-nabs-former-apple-car-exec-for-autonomous-car-safety-chief-role?utm_medium=rss)
  - [How to use Microsoft Copilot on iOS and iPadOS](https://appleinsider.com/inside/ios/tips/how-to-use-the-microcosft-copilot-on-ios-and-ipados?utm_medium=rss)
- - [Peloton abandons Apple&#39;s GymKit health data sharing platform](https://appleinsider.com/articles/24/02/13/peloton-abandons-apples-gymkit-health-data-sharing-platform?utm_medium=rss)
- - [Proofpoint: unknown hackers are targeting hundreds of Azure accounts, some belonging to senior executives, to steal sensitive data and financial assets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240213/p9#a240213p9)
- - [Lyft’s feature that matches women and nonbinary riders and drivers now available nationwide](https://www.theverge.com/2024/2/13/24071237/lyft-women-plus-connect-riders-availability)
- - [Netherlands-based Finom, a challenger bank aimed at SMEs and freelancers, raised a &amp;euro;50M Series B, after a &amp;euro;33M Series A in early 2022 and &amp;euro;16.8M seed in 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240213/p8#a240213p8)<!-- TECH:END -->
+ - [Peloton abandons Apple&#39;s GymKit health data sharing platform](https://appleinsider.com/articles/24/02/13/peloton-abandons-apples-gymkit-health-data-sharing-platform?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

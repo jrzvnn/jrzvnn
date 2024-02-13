@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo has issued a software fix for its cars, its first recall, after two vehicles crashed into the same towed pickup truck in Phoenix in December 2023 &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240213/p37#a240213p37)
  - [US patent office confirms AI can’t hold patents](https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance)
  - [Taylor Swift is now a podcasting influencer](https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah)
  - [For the first time since 2002, Nvidia ended a trading day with a bigger market value than Amazon, as its market cap reached $1.78T, fueled by the AI boom &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240213/p36#a240213p36)
- - [Walmart might buy Vizio to win the fight over cheap TVs](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
- - [GlobalFoundries reports Q4 revenue down 12% YoY to $1.85B, vs. 1.85B est., net income down 58% YoY to $278M, forecasted sales of $1.52B in Q1, vs. $1.77B est. &lpar;Patrick Seitz/Investor&#39;s Business Daily&rpar;](http://www.techmeme.com/240213/p35#a240213p35)<!-- TECH:END -->
+ - [Walmart might buy Vizio to win the fight over cheap TVs](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)
- - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
- - [Passkeys might really kill passwords](https://www.theverge.com/24071753/passkeys-password-manager-wearables-vergecast)
- - [Roborock’s Q5 Pro, the best robovac for picking up pet hair, is 25 percent off](https://www.theverge.com/2024/2/13/24070568/roborock-q5-pro-vacuum-anker-soundcore-liberty-3-earbuds-magsafe-charger-deal-sale)
- - [A remote school outage might give NYC kids their snow day after all](https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage)<!-- TECH:END -->
+ - [Tesla Wins EV Charging: All Car Companies Using NACS](https://www.wired.com/story/tesla-wins-ev-charging-now-what/)
+ - [YouTube Livestreamers Made Money ‘Hunting’ for Migrants Along the US Border](https://www.wired.com/story/far-right-convoy-youtube-live-stream-harass-migrants/)
+ - [ThermoWorks Signals BBQ Alarm Thermometer Review: A Must-Have for Serious Home Cooks](https://www.wired.com/review/thermoworks-signals-bbq-alarm-thermometer/)
+ - [Apple Studio Display drops to record low $1,299 at Amazon](https://appleinsider.com/articles/24/02/13/apple-studio-display-drops-to-record-low-1299-at-amazon?utm_medium=rss)
+ - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

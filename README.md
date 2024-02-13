@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
  - 😝 [Skills](http://9gag.com/gag/amAEjYV)
- - 💣 [The entitlement is crazy](http://9gag.com/gag/aREYYj5)
+ - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
+ - 💣 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
  - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
  - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 

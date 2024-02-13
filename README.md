@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sierra, an enterprise-focused conversational AI startup from Bret Taylor and Clay Bavor, launches with $110M in fundraising led by Sequoia Capital and Benchmark &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240213/p19#a240213p19)
  - [Tesla Wins EV Charging: All Car Companies Using NACS](https://www.wired.com/story/tesla-wins-ev-charging-now-what/)
  - [YouTube Livestreamers Made Money ‘Hunting’ for Migrants Along the US Border](https://www.wired.com/story/far-right-convoy-youtube-live-stream-harass-migrants/)
  - [ThermoWorks Signals BBQ Alarm Thermometer Review: A Must-Have for Serious Home Cooks](https://www.wired.com/review/thermoworks-signals-bbq-alarm-thermometer/)
- - [Apple Studio Display drops to record low $1,299 at Amazon](https://appleinsider.com/articles/24/02/13/apple-studio-display-drops-to-record-low-1299-at-amazon?utm_medium=rss)
- - [The Verge’s 2024 Valentine’s Day gift guide](https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner)<!-- TECH:END -->
+ - [Apple Studio Display drops to record low $1,299 at Amazon](https://appleinsider.com/articles/24/02/13/apple-studio-display-drops-to-record-low-1299-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

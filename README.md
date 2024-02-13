@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flipper Devices, which makes the Flipper Zero multi-tool device, announces a new $49 Video Game Module, powered by a Raspberry Pi RP2040 microcontroller &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/240213/p18#a240213p18)
  - [GLAAD releases its first gaming industry survey, with 1,500 participants: &lt;2% of console video games include LGBTQ characters, 17% of gamers are queer, and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240213/p17#a240213p17)
  - [Watermarking the future](https://www.theverge.com/2024/2/13/24067991/watermark-generative-ai-deepfake-copyright)
  - [Nvidia releases an early version of Chat with RTX, an app that lets users run a personal AI chatbot on a PC with an RTX 30- or 40-series GPU and 8GB+ of VRAM &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240213/p16#a240213p16)
- - [BMW CE 02 E-Motorbike 2024 Review: Price, Specs, Availability](https://www.wired.com/review/review-bmw-ce02-e-motorbike/)
- - [Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)<!-- TECH:END -->
+ - [BMW CE 02 E-Motorbike 2024 Review: Price, Specs, Availability](https://www.wired.com/review/review-bmw-ce02-e-motorbike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

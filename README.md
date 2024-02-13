@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

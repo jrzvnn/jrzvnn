@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU backs down, won&#39;t force Apple to open iMessage to rivals](https://appleinsider.com/articles/24/02/13/eu-backs-down-wont-force-apple-to-open-imessage-to-rivals?utm_medium=rss)
  - [Shopify reports Q4 revenue up 24% YoY to $2.1B, above $2.08B est., and Gross Merchandise Volume up 23% YoY to $75.1B, above $71.6B est.; SHOP drops 10%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240213/p12#a240213p12)
+ - [Snag a Windows 11 Pro License for Only $23 While You Can     - CNET](https://www.cnet.com/deals/snag-a-windows-11-pro-license-for-only-23-while-you-can/#ftag=CAD590a51e)
  - [Virginia-based software testing startup Antithesis raised a $47M seed, a source says led by Amplify, Tamarack Global, and First In at a $215M valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240213/p11#a240213p11)
- - [The EU closes its DMA investigation into iMessage and Microsoft Bing, Edge, and Advertising, deciding against regulating the services due to a lack of dominance &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240213/p10#a240213p10)
- - [Apple won’t be forced to open up iMessage by EU](https://www.theverge.com/2024/2/13/23990679/apple-imessage-european-union-digital-markets-act-core-platform-service)
- - [GM Cruise nabs former Apple car exec for autonomous car safety chief role](https://appleinsider.com/articles/24/02/13/gm-cruise-nabs-former-apple-car-exec-for-autonomous-car-safety-chief-role?utm_medium=rss)<!-- TECH:END -->
+ - [Keep All Your Gear Powered With $60 off This High-Capacity Anker Power Bank     - CNET](https://www.cnet.com/deals/keep-all-your-gear-powered-with-60-off-this-high-capacity-anker-power-bank/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

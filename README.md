@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the US CHIPS Act is helping boost the economy of Arizona&#39;s Maricopa County, with TSMC and other manufacturers building factories and creating high-tech jobs &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/240213/p5#a240213p5)
  - [Chrysler Halcyon concept is a reminder the company can be more than just minivans](https://www.theverge.com/2024/2/13/24067683/chrysler-halcyon-concept-ev-autonomous-specs-photos)
  - [Wunderlist’s creators are back with a nifty new to-do app](https://www.theverge.com/2024/2/13/24071136/superlist-tasks-app-wunderlist-productivity-tool)
  - [Nothing’s Phone 2A launches March 5th but with a limited US release](https://www.theverge.com/2024/2/13/24070423/nothing-phone-2a-launch-event-march-5th-us-release-developer-program)
- - [Websites with seemingly AI-generated obituaries litter Google search, sometimes listing living people as deceased and turning private individuals into clickbait &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240213/p4#a240213p4)
- - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 in Trade-In Credit and Up to $300 in Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Websites with seemingly AI-generated obituaries litter Google search, sometimes listing living people as deceased and turning private individuals into clickbait &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240213/p4#a240213p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

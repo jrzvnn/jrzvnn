@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
- - 😝 [Not title](http://9gag.com/gag/a6qvrrN)
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [What is this stuff? I&#39;ve already signed up for rehab](http://9gag.com/gag/ay2OGRX)
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
- - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
+ - 👉 [That&#39;s her... almost 10 years passed..](http://9gag.com/gag/aQE0Gr7)<!-- MEMES:END -->
 
 ---
 

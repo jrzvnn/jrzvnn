@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Founders Fund bought $100M in bitcoin and $100M in ether from late summer to early fall 2023; it sold its crypto portfolio in 2022 for $1.8B in returns &lpar;Reuters&rpar;](http://www.techmeme.com/240212/p26#a240212p26)
  - [FCC commissioner cries antitrust again after Beeper Mini debacle](https://appleinsider.com/articles/24/02/13/fcc-commissioner-cries-antitrust-again-after-beeper-mini-debacle?utm_medium=rss)
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
  - [It’s not just you: Alicia Keys’ Super Bowl halftime show got changed for YouTube](https://www.theverge.com/2024/2/12/24071248/alicia-keys-vocals-changed-super-bowl-2024-usher-halftime-performance)
- - [A US federal judge blocks the enforcement of an Ohio law that would require children under 16 to get parental consent to use social media apps &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240212/p25#a240212p25)
- - [FCC commissioner wants to investigate Apple over Beeper Mini shutdown](https://www.theverge.com/2024/2/12/24071226/fcc-commissioner-brendan-carr-apple-beeper-mini)
- - [Many of My Friends Don&#39;t Own TVs, but That Could Change Soon     - CNET](https://www.cnet.com/tech/home-entertainment/many-of-my-friends-dont-own-tvs-but-that-could-change-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Valentine&#39;s Day Food Gifts Under $25     - CNET](https://www.cnet.com/news/food-gifts-under-25-for-valentines-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

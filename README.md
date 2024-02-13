@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wont pay for Acrobat Reader](http://9gag.com/gag/aeQoKoj)
- - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 😝 [This could have taken a very terrible turn.](http://9gag.com/gag/aDYEyMx)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [Boys being boys](http://9gag.com/gag/armjP97)
+ - 💣 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
+ - 😝 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)
+ - 👉 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)<!-- MEMES:END -->
 
 ---
 

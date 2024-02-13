@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
+ - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 💣 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
  - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
- - 😝 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
- - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
+ - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---
 

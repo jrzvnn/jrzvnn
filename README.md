@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 😝 [Explosive fire at brand new bathing facilities in Sweden](http://9gag.com/gag/a4oDMBy)
  - 😝 [Not title](http://9gag.com/gag/a6qvrrN)
- - 💣 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 😝 [Skills](http://9gag.com/gag/amAEjYV)
+ - 💣 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)
  - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---

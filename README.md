@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A movie piracy app snuck onto the App Store in 2023 and Apple only just killed it](https://appleinsider.com/articles/24/02/13/a-movie-piracy-app-snuck-onto-the-app-store-in-2023-and-apple-only-just-killed-it?utm_medium=rss)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [You can finally buy a Playdate without waiting for months](https://www.theverge.com/2024/2/13/24071704/playdate-preorders-sales-new-countries)
  - [Elliptic: an exploit of NFT gaming platform PlayDapp let hackers mint 1.8B PLA tokens, &quot;worth&quot; ~$290M; before the hack, only 577M PLA tokens were in circulation &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240213/p21#a240213p21)
- - [Apple’s sci-fi drama Invasion is getting a third season](https://www.theverge.com/2024/2/13/24071887/invasion-apple-tv-plus-season-3)
- - [A researcher finds a bug in fertility tracking app Glow&#39;s online forum that exposed the personal data of ~25M users; fixing the bug took Glow about a week &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240213/p20#a240213p20)<!-- TECH:END -->
+ - [Apple’s sci-fi drama Invasion is getting a third season](https://www.theverge.com/2024/2/13/24071887/invasion-apple-tv-plus-season-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

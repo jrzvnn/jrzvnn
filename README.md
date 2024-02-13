@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Japanese High School in Kyoto gives Pharrell Williams the big band treatment](http://9gag.com/gag/amAjqe6)
- - 😝 [Boys being boys](http://9gag.com/gag/armjP97)
- - 💣 [This clip of Tom Cruise and his stunt double will never not be funny...](http://9gag.com/gag/a6qAW3A)
- - 😝 [German supermarket puts theft protection on every meat except pork. That supermarket is next to a refugee housing.](http://9gag.com/gag/a9qQjvK)
- - 👉 [`how dare you sitting all day staring at the wall`](http://9gag.com/gag/agoPREx)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 💣 [Train takes woman for a ride](http://9gag.com/gag/a3ZVm45)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
 
 ---
 

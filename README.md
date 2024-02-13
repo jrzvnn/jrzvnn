@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Gives ChatGPT a Memory](https://www.wired.com/story/chatgpt-memory-openai/)
+ - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
+ - [Internet infrastructure startup Meter raised a $35M Series B extension at, a source says, a $350M+ valuation led by Sam Altman and Lachy Groom &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240213/p23#a240213p23)
  - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)
- - [A US judge says OpenAI must face a claim of violating CA unfair competition law by using copyrighted books, but dismisses some claims like DMCA violations &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240213/p22#a240213p22)
- - [A movie piracy app snuck onto the App Store in 2023 and Apple only just killed it](https://appleinsider.com/articles/24/02/13/a-movie-piracy-app-snuck-onto-the-app-store-in-2023-and-apple-only-just-killed-it?utm_medium=rss)
- - [Watch Champions League Soccer: Livestream FC Copenhagen vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-fc-copenhagen-v-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Watch Champions League Soccer: Livestream RB Leipzig vs. Real Madrid From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-rb-leipzig-v-real-madrid-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge says OpenAI must face a claim of violating CA unfair competition law by using copyrighted books, but dismisses some claims like DMCA violations &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/240213/p22#a240213p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

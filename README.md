@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple continues to brace for big EU App Store changes in third developer betas](https://appleinsider.com/articles/24/02/13/apple-continues-to-brace-for-big-eu-app-store-changes-in-third-developer-betas?utm_medium=rss)
+ - [OpenAI rolls out a test of a &quot;memory&quot; feature, which will be on by default and let ChatGPT and custom GPTs remember info about users&#39; conversations over time &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240213/p24#a240213p24)
  - [Second visionOS 1.1 developer beta with passcode reset is now available](https://appleinsider.com/articles/24/02/13/second-visionos-11-developer-beta-is-now-available?utm_medium=rss)
  - [OpenAI Gives ChatGPT a Memory](https://www.wired.com/story/chatgpt-memory-openai/)
- - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)
- - [Internet infrastructure startup Meter raised a $35M Series B extension at, a source says, a $350M+ valuation led by Sam Altman and Lachy Groom &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240213/p23#a240213p23)
- - [Spotify’s layoffs doomed its best &lpar;unofficial&rpar; music discovery resource](https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource)<!-- TECH:END -->
+ - [ChatGPT is getting ‘memory’ to remember who you are and what you like](https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

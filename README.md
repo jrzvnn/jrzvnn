@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)
  - [Sony reports Q3 revenue up 22% YoY to ~$25.11B, operating income up 10% YoY to ~$3.1B, meeting est., and 8.2M PS5s sold, roughly 1M units lower than projected &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p4#a240214p4)
  - [A typo in Lyft&#39;s Q4 release mistakenly forecast a 500 BPS of EBITDA margin improvement for 2024, causing a stock surge, before the error was corrected to 50 BPS &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/240214/p3#a240214p3)
  - [TikTok plans to launch an in-app local language Election Centre in March in all 27 EU countries, to fight fake news ahead of the European Parliament elections &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240214/p2#a240214p2)
- - [Co-CEO of SoftBank Vision Funds Alex Clavel says they&#39;re &quot;looking very carefully&quot; at generative AI firms, as SoftBank embraces a cautious investment approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p1#a240214p1)
- - [Best Internet Providers in Ann Arbor, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-ann-arbor-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Co-CEO of SoftBank Vision Funds Alex Clavel says they&#39;re &quot;looking very carefully&quot; at generative AI firms, as SoftBank embraces a cautious investment approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p1#a240214p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Terrorists are allegedly buying blue checks on X](https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions)
  - [Tesla’s latest update takes aim at cold weather woes](https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold)
  - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)
  - [Meta appoints Hock E. Tan, president and CEO of Broadcom, and philanthropist John Arnold, co-founder of Arnold Ventures, to its board, effective immediately &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240214/p31#a240214p31)
- - [Source: OpenAI has been developing a web search product partly powered by Bing &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240214/p30#a240214p30)
- - [Twilio reports Q4 revenue up 5% YoY to $1.08B vs. $1.05B est., 305K+ active customer accounts vs. 290K+ YoY, and Q1 revenue forecast below est.; TWLO drops 7%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240214/p29#a240214p29)<!-- TECH:END -->
+ - [Source: OpenAI has been developing a web search product partly powered by Bing &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240214/p30#a240214p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

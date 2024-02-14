@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twilio reports Q4 revenue up 5% YoY to $1.08B vs. $1.05B est., 305K+ active customer accounts vs. 290K+ YoY, and Q1 revenue forecast below est.; TWLO drops 7%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240214/p29#a240214p29)
+ - [Leading Lab-Grown Meat Company Upside Foods Just Paused a Major Expansion](https://www.wired.com/story/upside-foods-glenview-illinois-factory-lab-grown-meat/)
  - [Microsoft Build 2024 starts on May 21st](https://www.theverge.com/2024/2/14/24073220/microsoft-build-event-schedule-may-21)
  - [Cisco reports Q2 revenue down 6% YoY to $12.79B, vs. $12.71B est., and plans to cut 5% of its global workforce; Cisco had ~85,000 employees as of July 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240214/p28#a240214p28)
- - [8 Best President&#39;s Day Deals on Wi-Fi Routers and Mesh Systems](https://www.wired.com/story/wi-fi-router-and-mesh-system-presidents-day-deals-2024/)
- - [Apple&#39;s M4 and A18 to have more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)
- - [It’s time for Microsoft to build an Xbox Steam Deck](https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial)<!-- TECH:END -->
+ - [8 Best President&#39;s Day Deals on Wi-Fi Routers and Mesh Systems](https://www.wired.com/story/wi-fi-router-and-mesh-system-presidents-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
  - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)
  - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
  - [I Tried the Viral ‘Sleepy Girl Mocktail.’ Here’s Why Tart Cherry Juice is Flying Off Your Grocery Store’s Shelves.     - CNET](https://www.cnet.com/health/sleep/i-tried-the-viral-sleepy-girl-mocktail-heres-why-tart-cherry-juice-is-flying-off-your-grocery-stores-shelves/#ftag=CAD590a51e)
- - [The remastered Tomb Raider trilogy destroyed my nostalgia goggles](https://www.theverge.com/24072931/tomb-raider-1-3-remastered-game-review)
- - [Be Kind to Your Mouth This Valentine&#39;s Day: Candy Is a Tooth Offender     - CNET](https://www.cnet.com/health/personal-care/be-kind-to-your-mouth-this-valentines-day-candy-is-a-tooth-offender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The remastered Tomb Raider trilogy destroyed my nostalgia goggles](https://www.theverge.com/24072931/tomb-raider-1-3-remastered-game-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

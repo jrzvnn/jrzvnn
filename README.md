@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
+ - 😝 [WTF](http://9gag.com/gag/abvP5RX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
- - 😝 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
+ - 💣 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
  - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---

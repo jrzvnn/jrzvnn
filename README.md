@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
+ - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
+ - 👉 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)<!-- MEMES:END -->
 
 ---
 

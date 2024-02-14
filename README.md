@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Break Up With Prime Video With Ads and Go Ad-Free     - CNET](https://www.cnet.com/tech/services-and-software/how-to-break-up-with-prime-video-with-ads-and-go-ad-free/#ftag=CAD590a51e)
+ - [A Sommelier Explains How to Find Good Wine at a Grocery Store     - CNET](https://www.cnet.com/how-to/how-to-find-good-wine-at-the-grocery-store-according-to-an-expert-sommelier/#ftag=CAD590a51e)
  - [Terrorists are allegedly buying blue checks on X](https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions)
  - [Tesla’s latest update takes aim at cold weather woes](https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold)
- - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)
- - [Meta appoints Hock E. Tan, president and CEO of Broadcom, and philanthropist John Arnold, co-founder of Arnold Ventures, to its board, effective immediately &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240214/p31#a240214p31)
- - [Source: OpenAI has been developing a web search product partly powered by Bing &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240214/p30#a240214p30)<!-- TECH:END -->
+ - [Microsoft schedules Build 2024 for May 21 to May 23 in Seattle and online, with updates on AI, Copilot, and more expected &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240214/p32#a240214p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

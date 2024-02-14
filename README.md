@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
+ - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
- - 👉 [Bought this at Cragislist. Should I be worried?](http://9gag.com/gag/awZRb04)<!-- MEMES:END -->
+ - 💣 [Be careful out there in the open..a football player struck by lightning](http://9gag.com/gag/aA0WRMo)
+ - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
+ - 👉 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)<!-- MEMES:END -->
 
 ---
 

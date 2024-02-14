@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
+ - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
- - 😝 [Sorry to disturb your scrolling](http://9gag.com/gag/a9qQMXo)
- - 👉 [The legend is back](http://9gag.com/gag/a5Xmd5V)<!-- MEMES:END -->
+ - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
+ - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 

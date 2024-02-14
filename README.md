@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
- - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
- - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
+ - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
+ - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
+ - 👉 [That was a pro move right there](http://9gag.com/gag/aeQojbp)<!-- MEMES:END -->
 
 ---
 

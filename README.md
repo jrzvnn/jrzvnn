@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There&#39;s a Mac audio bug that may have existed for more than 20 years](https://appleinsider.com/articles/24/02/14/theres-a-mac-audio-bug-that-may-have-existed-for-more-than-20-years?utm_medium=rss)
+ - [Samsung announces an upcoming Galaxy S24 series update, adding a Vividness display slider after users complained of a dull display under the default settings &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240214/p24#a240214p24)
+ - [Apple MacBook Air Deals: The 13- and 15-Inch M2 Models Are on Sale](https://www.wired.com/story/apple-macbook-air-deals-february-2024/)
  - [Samsung’s first Galaxy S24 update can make everything a bit brighter](https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation)
- - [Apple Music has you covered for Valentine&#39;s Day with two new stations](https://appleinsider.com/articles/24/02/14/apple-music-has-you-covered-for-valentines-day-with-two-new-stations?utm_medium=rss)
- - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
- - [Meta’s big vision for face computers might be better than Apple’s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
- - [Smoking Alters Your Immune System for Years After You Quit](https://www.wired.com/story/smoking-immune-system-long-lasting-effects/)<!-- TECH:END -->
+ - [Apple Music has you covered for Valentine&#39;s Day with two new stations](https://appleinsider.com/articles/24/02/14/apple-music-has-you-covered-for-valentines-day-with-two-new-stations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

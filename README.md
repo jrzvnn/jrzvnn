@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel has found its Fantastic Four](https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal)
  - [There&#39;s a Mac audio bug that may have existed for more than 20 years](https://appleinsider.com/articles/24/02/14/theres-a-mac-audio-bug-that-may-have-existed-for-more-than-20-years?utm_medium=rss)
  - [Samsung announces an upcoming Galaxy S24 series update, adding a Vividness display slider after users complained of a dull display under the default settings &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240214/p24#a240214p24)
  - [Apple MacBook Air Deals: The 13- and 15-Inch M2 Models Are on Sale](https://www.wired.com/story/apple-macbook-air-deals-february-2024/)
- - [Samsung’s first Galaxy S24 update can make everything a bit brighter](https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation)
- - [Apple Music has you covered for Valentine&#39;s Day with two new stations](https://appleinsider.com/articles/24/02/14/apple-music-has-you-covered-for-valentines-day-with-two-new-stations?utm_medium=rss)<!-- TECH:END -->
+ - [Valentine&#39;s Day Streaming Guide: New Rom-Coms and Reality Dating Shows     - CNET](https://www.cnet.com/tech/services-and-software/valentines-day-streaming-guide-new-rom-coms-and-reality-dating-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)
+ - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)
  - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)
  - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
- - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
- - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
- - [New iPad, MacBook Air, Mac mini: What to expect from a spring Apple event](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Do SSDI Beneficiaries Need to File Their Taxes This Year? We&#39;ll Help You Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-beneficiaries-need-to-file-their-taxes-this-year-well-help-you-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

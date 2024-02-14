@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple AirTag deals see prices drop to $24 at Amazon, Best Buy](https://appleinsider.com/articles/24/02/14/new-apple-airtag-deals-see-prices-drop-to-24-at-amazon-best-buy?utm_medium=rss)
  - [Downpour is a new app that turns your photos into games](https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android)
  - [Uber and Lyft drivers in at least 17 US cities, including Los Angeles and Chicago, plan to strike today over pay; UK-based food app couriers also plan to strike &lpar;Lauren Kaori Gurley/Washington Post&rpar;](http://www.techmeme.com/240214/p22#a240214p22)
  - [I Used ChatGPT to Woo My Valentine. I Wasn&#39;t Impressed     - CNET](https://www.cnet.com/tech/i-used-chatgpt-to-woo-my-valentine-i-wasnt-impressed/#ftag=CAD590a51e)
- - [Automating ableism](https://www.theverge.com/24066641/disability-ableism-ai-census-qalys)
- - [The Puzzling Testimony of Craig Wright, Self-Styled Inventor of Bitcoin](https://www.wired.com/story/craig-wright-trial-cross-examination-bitcoin-satoshi/)<!-- TECH:END -->
+ - [Automating ableism](https://www.theverge.com/24066641/disability-ableism-ai-census-qalys)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

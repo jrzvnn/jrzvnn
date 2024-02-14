@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI details Stable Cascade, a new image generation model built on a different architecture to SDXL to improve performance and accuracy, now in preview &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240214/p25#a240214p25)
+ - [Apple’s latest prototype AI tool can animate images using text descriptions](https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions)
  - [Marvel has found its Fantastic Four](https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal)
  - [There&#39;s a Mac audio bug that may have existed for more than 20 years](https://appleinsider.com/articles/24/02/14/theres-a-mac-audio-bug-that-may-have-existed-for-more-than-20-years?utm_medium=rss)
- - [Samsung announces an upcoming Galaxy S24 series update, adding a Vividness display slider after users complained of a dull display under the default settings &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240214/p24#a240214p24)
- - [Apple MacBook Air Deals: The 13- and 15-Inch M2 Models Are on Sale](https://www.wired.com/story/apple-macbook-air-deals-february-2024/)
- - [Valentine&#39;s Day Streaming Guide: New Rom-Coms and Reality Dating Shows     - CNET](https://www.cnet.com/tech/services-and-software/valentines-day-streaming-guide-new-rom-coms-and-reality-dating-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung announces an upcoming Galaxy S24 series update, adding a Vividness display slider after users complained of a dull display under the default settings &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240214/p24#a240214p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

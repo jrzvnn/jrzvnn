@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
  - 💣 [Strike](http://9gag.com/gag/aNwxoAw)
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 👉 [Tricky](http://9gag.com/gag/aDYpw09)<!-- MEMES:END -->
+ - 😝 [That was a pro move right there](http://9gag.com/gag/aeQojbp)
+ - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
 
 ---
 

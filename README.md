@@ -178,7 +178,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
  - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
- - 😝 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
+ - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
  - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---

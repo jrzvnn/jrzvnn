@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
- - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
  - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

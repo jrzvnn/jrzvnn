@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s first Galaxy S24 update can make everything a bit brighter](https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation)
+ - [Apple Music has you covered for Valentine&#39;s Day with two new stations](https://appleinsider.com/articles/24/02/14/apple-music-has-you-covered-for-valentines-day-with-two-new-stations?utm_medium=rss)
  - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
  - [Meta’s big vision for face computers might be better than Apple’s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
- - [Smoking Alters Your Immune System For Years After You Quit](https://www.wired.com/story/smoking-immune-system-long-lasting-effects/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)<!-- TECH:END -->
+ - [Smoking Alters Your Immune System for Years After You Quit](https://www.wired.com/story/smoking-immune-system-long-lasting-effects/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [&lpar;&lpar;&lpar;removed&rpar;&rpar;&rpar;](http://9gag.com/gag/ay2g7jp)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 😝 [Busted](http://9gag.com/gag/aDYp069)
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
  - 👉 [Best day of his life](http://9gag.com/gag/aPgKOMq)<!-- MEMES:END -->
 
 ---

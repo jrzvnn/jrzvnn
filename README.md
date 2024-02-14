@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Presidents Day Sales: Shop Over 65 Early Deals on Mattresses, Appliances, Top Tech and More     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
+ - [It’s time for Microsoft to build an Xbox Steam Deck](https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial)
  - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
  - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)
- - [iOS 17.4 Beta 3: Your iPhone Could Get Virtual Card Numbers for Apple Cash     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-beta-3-your-iphone-could-get-virtual-card-numbers-and-more-soon/#ftag=CAD590a51e)
- - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)<!-- TECH:END -->
+ - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
+ - [I Tried the Viral ‘Sleepy Girl Mocktail.’ Here’s Why Tart Cherry Juice is Flying Off Your Grocery Store’s Shelves.     - CNET](https://www.cnet.com/health/sleep/i-tried-the-viral-sleepy-girl-mocktail-heres-why-tart-cherry-juice-is-flying-off-your-grocery-stores-shelves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

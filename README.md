@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every time you boil milk](http://9gag.com/gag/avQYZ6W)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
- - 😝 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
- - 👉 [A better way to deal with Somari pilates](http://9gag.com/gag/a2KBPdw)<!-- MEMES:END -->
+ - 💣 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
+ - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

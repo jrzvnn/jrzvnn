@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An interview with Supercell CEO Ilkka Paananen, as Tencent&#39;s Finnish mobile gaming group seeks its next big hit; Clash of Clans had $10B+ in revenue in 10 years &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240214/p12#a240214p12)
  - [How Reddit, after the catastrophic online manhunt to find the Boston Marathon bomber, quietly became a civilized place to discuss news, due to strong moderation &lpar;James Ball/Columbia Journalism Review&rpar;](http://www.techmeme.com/240214/p11#a240214p11)
- - [ASML CFO Roger Dassen says the chip market &quot;has now reached the lowest point of the dip&quot; and &quot;the recovery is nascent&quot;; ASML&#39;s top client spent &amp;euro;8.78B in 2023 &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240214/p10#a240214p10)
- - [Sydney-based quantum computing startup Diraq extends its Series A to $35M led by Quantonation, taking its total funding to $120M+, to build quantum processors &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240214/p9#a240214p9)
- - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will March Social Security Checks Be Held if the Government Shuts Down? What to Know     - CNET](https://www.cnet.com/personal-finance/will-march-social-security-checks-be-held-if-the-government-shuts-down-what-to-know/#ftag=CAD590a51e)
+ - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)
+ - [ASML CFO Roger Dassen says the chip market &quot;has now reached the lowest point of the dip&quot; and &quot;the recovery is nascent&quot;; ASML&#39;s top client spent &amp;euro;8.78B in 2023 &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240214/p10#a240214p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

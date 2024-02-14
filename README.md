@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Slack 10 years after its launch: early success, going public in 2019, being acquired by Salesforce, and how the service changed work culture &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240214/p6#a240214p6)
  - [‘AI Girlfriends’ Are a Privacy Nightmare](https://www.wired.com/story/ai-girlfriends-privacy-nightmare/)
  - [February SSDI Payment 2024: More Checks Are Arriving Today     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-more-checks-are-arriving-today/#ftag=CAD590a51e)
  - [The World’s Most Important Industry Has a New Captain—and She’s Piloting It Into the 21st Century](https://www.wired.com/shipping-industry-marina-hadjipateras/)
- - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)
- - [Sony reports Q3 revenue up 22% YoY to ~$25.11B, operating income up 10% YoY to ~$3.1B, meeting est., and 8.2M PS5s sold, roughly 1M units lower than projected &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p4#a240214p4)<!-- TECH:END -->
+ - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
- - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [Guys guys!!](http://9gag.com/gag/amAjLeV)
+ - 💣 [Best day of his life](http://9gag.com/gag/aPgKOMq)
  - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
  - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 

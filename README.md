@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automating ableism](https://www.theverge.com/24066641/disability-ableism-ai-census-qalys)
  - [The Puzzling Testimony of Craig Wright, Self-Styled Inventor of Bitcoin](https://www.wired.com/story/craig-wright-trial-cross-examination-bitcoin-satoshi/)
  - [Slack rolls out AI features to summarize threads, offer channel recaps, let users ask questions, and more to Enterprise users, after testing Slack AI in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240214/p21#a240214p21)
  - [YC releases a new list of 20 types of startups the accelerator wants to join its program, the biggest overhaul of its Request for Startups since 2018 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240214/p20#a240214p20)
- - [Slack AI is here, letting you catch up on lengthy threads and unread messages](https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap)
- - [The text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)<!-- TECH:END -->
+ - [Slack AI is here, letting you catch up on lengthy threads and unread messages](https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cohere&#39;s nonprofit research lab releases its open-source multilingual LLM Aya, which it says can follow instructions in more than 100 languages &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240213/p39#a240213p39)
+ - [Another of Jony Ive&#39;s core design team departs Apple after 32 years](https://appleinsider.com/articles/24/02/13/another-of-jony-ives-core-design-team-departs-apple-after-32-years?utm_medium=rss)
  - [Apple Vision Pro now has 1,000 native apps on the visionOS App Store](https://appleinsider.com/articles/24/02/13/apple-vision-pro-now-has-1000-native-apps-on-the-visionos-app-store?utm_medium=rss)
- - [A US federal judge sets the trial date for an FTC antitrust lawsuit against Amazon for October 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/240213/p38#a240213p38)
- - [Why Is There Lead in Stanley Cups and Other Reusable Water Bottles? &lpar;Updated&rpar;](https://www.wired.com/story/stanley-cup-lead-soldering/)
- - [Waymo has issued a software fix for its cars, its first recall, after two vehicles crashed into the same towed pickup truck in Phoenix in December 2023 &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240213/p37#a240213p37)
- - [US patent office confirms AI can’t hold patents](https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance)<!-- TECH:END -->
+ - [Social Security COLA Increase: Will You Have to Pay Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/taxes/social-security-cola-increase-do-you-have-to-pay-taxes-on-the-additional-money-this-year/#ftag=CAD590a51e)
+ - [A US federal judge sets the trial date for an FTC antitrust lawsuit against Amazon for October 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/240213/p38#a240213p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

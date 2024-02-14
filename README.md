@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 💣 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
+ - 😝 [The legend is back](http://9gag.com/gag/a5Xmd5V)
+ - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
 
 ---
 

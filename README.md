@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
  - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)
  - [Google partners with the Environmental Defense Fund to help track and attribute methane emissions observed by the MethaneSAT satellite, set to launch in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p18#a240214p18)
  - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)
- - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)
- - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)<!-- TECH:END -->
+ - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

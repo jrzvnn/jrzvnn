@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
  - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Math is hard](http://9gag.com/gag/aYV8bXm)
- - 👉 [Tricky](http://9gag.com/gag/aDYpw09)<!-- MEMES:END -->
+ - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 👉 [Bought this at Cragislist. Should I be worried?](http://9gag.com/gag/awZRb04)<!-- MEMES:END -->
 
 ---
 

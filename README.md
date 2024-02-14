@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
- - 😝 [The legend is back](http://9gag.com/gag/a5Xmd5V)
+ - 💣 [The legend is back](http://9gag.com/gag/a5Xmd5V)
+ - 😝 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
  - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
 
 ---

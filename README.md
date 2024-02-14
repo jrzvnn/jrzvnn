@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/abvP5RX)
+ - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Not an american house](http://9gag.com/gag/a3Z93m7)
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Math is hard](http://9gag.com/gag/aYV8bXm)
+ - 👉 [Tricky](http://9gag.com/gag/aDYpw09)<!-- MEMES:END -->
 
 ---
 

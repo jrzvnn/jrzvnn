@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
+ - [For Just $80, Matt&#39;s Flights Premium Will Keep You Posted on the Latest Airfare Deals     - CNET](https://www.cnet.com/deals/for-just-80-matts-flights-premium-will-keep-you-posted-on-the-latest-flight-deals/#ftag=CAD590a51e)
  - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
- - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)
- - [Google partners with the Environmental Defense Fund to help track and attribute methane emissions observed by the MethaneSAT satellite, set to launch in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p18#a240214p18)
- - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)<!-- TECH:END -->
+ - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

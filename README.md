@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
+ - [Smoking Alters Your Immune System For Years After You Quit](https://www.wired.com/story/smoking-immune-system-long-lasting-effects/)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)
- - [Gemini Advanced is most impressive when it’s working with Google](https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots)
- - [Snag 20TB of Lifetime Cloud Storage for Just $90 and Skip the Monthly Fees     - CNET](https://www.cnet.com/deals/snag-20tb-of-lifetime-cloud-storage-for-just-90-and-skip-the-monthly-fees/#ftag=CAD590a51e)
- - [23 Best Home Security Deals for President&#39;s Day     - CNET](https://www.cnet.com/deals/best-home-security-camera-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini Advanced is most impressive when it’s working with Google](https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

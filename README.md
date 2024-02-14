@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stargate cast then and now 2023](http://9gag.com/gag/axox20Y)
- - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
- - 💣 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
- - 😝 [WTF](http://9gag.com/gag/abvP5RX)
- - 👉 [The legend is back](http://9gag.com/gag/a5Xmd5V)<!-- MEMES:END -->
+ - 😝 [Reposting so it won&#39;t just get deleted.](http://9gag.com/gag/aOxgo93)
+ - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 💣 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

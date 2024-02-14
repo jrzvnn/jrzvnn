@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
  - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
  - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
  - [New iPad, MacBook Air, Mac mini: What to expect from a spring Apple event](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
- - [The Story Behind Elon Musk’s Tweet Restriction Fiasco](https://www.wired.com/story/elon-musk-twitter-rate-limits-extremely-hardcore/)
- - [Why Fake Caviar Could Be the Solution to Plastic Pollution](https://www.wired.com/story/plastic-pollution-packaging-notpla/)<!-- TECH:END -->
+ - [The Story Behind Elon Musk’s Tweet Restriction Fiasco](https://www.wired.com/story/elon-musk-twitter-rate-limits-extremely-hardcore/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

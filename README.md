@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese factories that transformed rural communities by selling goods on Alibaba&#39;s Taobao and Tmall are turning to rival platforms like Pinduoduo to stay afloat &lpar;Financial Times&rpar;](http://www.techmeme.com/240214/p8#a240214p8)
  - [Sony misses PS5 sales target as console enters ‘latter stage of its life cycle’](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings)
  - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)
  - [A look at Slack 10 years after its launch: early success, going public in 2019, being acquired by Salesforce, and how the service changed work culture &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240214/p6#a240214p6)
- - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It Is Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)
- - [Don&#39;t Toss That COLA Letter You Got in December 2023. Why You Want to Keep It     - CNET](https://www.cnet.com/personal-finance/taxes/dont-toss-that-cola-letter-you-got-in-december-2023-why-you-want-to-keep-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Child Tax Credit Expansion Bill: How Much Money Could You Receive if It Is Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-how-much-money-could-you-receive-if-its-approved/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

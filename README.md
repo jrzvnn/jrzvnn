@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
+ - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [The legend is back](http://9gag.com/gag/a5Xmd5V)
- - 😝 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
- - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 👉 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)<!-- MEMES:END -->
 
 ---
 

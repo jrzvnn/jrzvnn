@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 and A18 to have more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)
  - [It’s time for Microsoft to build an Xbox Steam Deck](https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial)
  - [Presidents Day Sales: Shop Over 65 Early Deals on Mattresses, Appliances, Top Tech and More     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
  - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
- - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)
- - [iOS 17.4 Beta 3: Your iPhone Could Get Virtual Card Numbers for Apple Cash     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-beta-3-your-iphone-could-get-virtual-card-numbers-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rasa, which provides a framework and a low-code UI to help enterprises build AI chatbots, raised a $30M Series C co-led by StepStone Group and PayPal Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240214/p27#a240214p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

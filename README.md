@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [28 days later\u2026](http://9gag.com/gag/aVbnzbO)
+ - 😝 [A 12 hours `hunger strike`](http://9gag.com/gag/anzpBbb)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
- - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
+ - 💣 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 😝 [\u201cCultural Appropriation\u201d in Japan. 52s](http://9gag.com/gag/arm6RKX)
+ - 👉 [Works everytime!](http://9gag.com/gag/a04AYQd)<!-- MEMES:END -->
 
 ---
 

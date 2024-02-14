@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the obvious is obvious](http://9gag.com/gag/aA0WBVg)
+ - 😝 [Stargate cast then and now 2023](http://9gag.com/gag/axox20Y)
+ - 😝 [\u201cThe best she can say is yes\u201d](http://9gag.com/gag/abvPXLv)
+ - 💣 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
  - 😝 [WTF](http://9gag.com/gag/abvP5RX)
- - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
- - 😝 [I&#39;m not even joking this house is going for $1,999,900.00 in Vancouver Canada right now](http://9gag.com/gag/aqeq3QQ)
- - 👉 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)<!-- MEMES:END -->
+ - 👉 [The legend is back](http://9gag.com/gag/a5Xmd5V)<!-- MEMES:END -->
 
 ---
 

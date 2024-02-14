@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta appoints Hock E. Tan, president and CEO of Broadcom, and philanthropist John Arnold, co-founder of Arnold Ventures, to its board, effective immediately &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240214/p31#a240214p31)
+ - [Source: OpenAI has been developing a web search product partly powered by Bing &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240214/p30#a240214p30)
  - [Twilio reports Q4 revenue up 5% YoY to $1.08B vs. $1.05B est., 305K+ active customer accounts vs. 290K+ YoY, and Q1 revenue forecast below est.; TWLO drops 7%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240214/p29#a240214p29)
  - [Leading Lab-Grown Meat Company Upside Foods Just Paused a Major Expansion](https://www.wired.com/story/upside-foods-glenview-illinois-factory-lab-grown-meat/)
- - [Microsoft Build 2024 starts on May 21st](https://www.theverge.com/2024/2/14/24073220/microsoft-build-event-schedule-may-21)
- - [Cisco reports Q2 revenue down 6% YoY to $12.79B, vs. $12.71B est., and plans to cut 5% of its global workforce; Cisco had ~85,000 employees as of July 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240214/p28#a240214p28)
- - [8 Best President&#39;s Day Deals on Wi-Fi Routers and Mesh Systems](https://www.wired.com/story/wi-fi-router-and-mesh-system-presidents-day-deals-2024/)<!-- TECH:END -->
+ - [Microsoft Build 2024 starts on May 21st](https://www.theverge.com/2024/2/14/24073220/microsoft-build-event-schedule-may-21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 😝 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
- - 👉 [That was a pro move right there](http://9gag.com/gag/aeQojbp)<!-- MEMES:END -->
+ - 💣 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)
+ - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
+ - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
 
 ---
 

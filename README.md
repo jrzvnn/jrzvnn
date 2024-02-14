@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
- - 👉 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)<!-- MEMES:END -->
+ - 💣 [A better way to deal with Somari pilates](http://9gag.com/gag/a2KBPdw)
+ - 😝 [B rated goodness](http://9gag.com/gag/arm64Rp)
+ - 👉 [Started drawing last week, check out this painting from the web as my paintings suck balls](http://9gag.com/gag/aQEwpEw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Supercell CEO Ilkka Paananen, as Tencent&#39;s Finnish mobile gaming group seeks its next big hit; Clash of Clans had $10B+ in revenue in 10 years &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240214/p12#a240214p12)
- - [How Reddit, after the catastrophic online manhunt to find the Boston Marathon bomber, quietly became a civilized place to discuss news, due to strong moderation &lpar;James Ball/Columbia Journalism Review&rpar;](http://www.techmeme.com/240214/p11#a240214p11)
- - [ASML CFO Roger Dassen says the chip market &quot;has now reached the lowest point of the dip&quot; and &quot;the recovery is nascent&quot;; ASML&#39;s top client spent &amp;euro;8.78B in 2023 &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240214/p10#a240214p10)
- - [Sydney-based quantum computing startup Diraq extends its Series A to $35M led by Quantonation, taking its total funding to $120M+, to build quantum processors &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240214/p9#a240214p9)
- - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
+ - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
+ - [New iPad, MacBook Air, Mac mini: What to expect from a spring Apple event](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
+ - [The Story Behind Elon Musk’s Tweet Restriction Fiasco](https://www.wired.com/story/elon-musk-twitter-rate-limits-extremely-hardcore/)
+ - [Why Fake Caviar Could Be the Solution to Plastic Pollution](https://www.wired.com/story/plastic-pollution-packaging-notpla/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

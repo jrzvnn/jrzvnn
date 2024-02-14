@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 😝 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
  - 💣 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
- - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
- - 👉 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)<!-- MEMES:END -->
+ - 😝 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

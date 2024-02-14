@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML CFO Roger Dassen says the chip market &quot;has now reached the lowest point of the dip&quot; and &quot;the recovery is nascent&quot;; ASML&#39;s top client spent &amp;euro;8.78B in 2023 &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240214/p10#a240214p10)
  - [Sydney-based quantum computing startup Diraq extends its Series A to $35M led by Quantonation, taking its total funding to $120M+, to build quantum processors &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240214/p9#a240214p9)
  - [Chinese factories that transformed rural communities by selling goods on Alibaba&#39;s Taobao and Tmall are turning to rival platforms like Pinduoduo to stay afloat &lpar;Financial Times&rpar;](http://www.techmeme.com/240214/p8#a240214p8)
  - [Sony misses PS5 sales target as console enters ‘latter stage of its life cycle’](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings)
- - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)
- - [A look at Slack 10 years after its launch: early success, going public in 2019, being acquired by Salesforce, and how the service changed work culture &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240214/p6#a240214p6)<!-- TECH:END -->
+ - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Virus Found in Wastewater Beat Back a Woman’s ‘Zombie’ Bacteria](https://www.wired.com/story/phage-therapy-bacteria-zombie-pittsburgh/)
  - [Deals: Apple AirPods dip to $89.99, with every model up to $100 off](https://appleinsider.com/articles/24/02/14/deals-apple-airpods-dip-to-8999-with-every-model-up-to-100-off?utm_medium=rss)
  - [Zuckerberg makes valid points on the Quest 3 being better overall than the Vision Pro today, but he risks having his own &quot;Ballmer laughs off the iPhone&quot; moment &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240214/p26#a240214p26)
  - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
- - [Last Minute Valentine&#39;s Day Flower Delivery Deals in NYC, LA, SF &amp; More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
- - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)<!-- TECH:END -->
+ - [Last Minute Valentine&#39;s Day Flower Delivery Deals in NYC, LA, SF &amp; More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

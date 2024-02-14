@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg makes valid points on the Quest 3 being better overall than the Vision Pro today, but he risks having his own &quot;Ballmer laughs off the iPhone&quot; moment &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240214/p26#a240214p26)
  - [MacBook Pro with OLED display rumored to hit shelves later than expected](https://appleinsider.com/articles/24/02/14/macbook-pro-with-oled-display-rumored-to-hit-shelves-later-than-expected?utm_medium=rss)
  - [Last Minute Valentine&#39;s Day Flower Delivery Deals in NYC, LA, SF &amp; More     - CNET](https://www.cnet.com/deals/best-valentines-day-flower-deals/#ftag=CAD590a51e)
  - [Ex-Apple executive in the running to lead joint ESPN, Warner, and Fox sports streamer](https://appleinsider.com/articles/24/02/14/ex-apple-executive-in-the-running-to-lead-joint-espn-warner-and-fox-sports-streamer?utm_medium=rss)
- - [Save 15% on GNC Vitamins and Supplements With Our Exclusive Code     - CNET](https://www.cnet.com/deals/save-15-gnc-vitamins-and-supplements-with-our-exclusive-code/#ftag=CAD590a51e)
- - [Stability AI details Stable Cascade, a new image generation model built on a different architecture to SDXL to improve performance and accuracy, now in preview &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240214/p25#a240214p25)<!-- TECH:END -->
+ - [Save 15% on GNC Vitamins and Supplements With Our Exclusive Code     - CNET](https://www.cnet.com/deals/save-15-gnc-vitamins-and-supplements-with-our-exclusive-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

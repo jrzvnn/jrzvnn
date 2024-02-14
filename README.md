@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reposting so it won&#39;t just get deleted.](http://9gag.com/gag/aOxgo93)
  - 😝 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 💣 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
+ - 💣 [Yeah.](http://9gag.com/gag/a2KnQp9)
  - 😝 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 👉 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)<!-- MEMES:END -->
+ - 👉 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)<!-- MEMES:END -->
 
 ---
 

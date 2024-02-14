@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah.](http://9gag.com/gag/a2KnQp9)
+ - 😝 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Miranda Castle, Belgium](http://9gag.com/gag/a7q4v9L)
- - 😝 [What is this? Raincoat for ants?](http://9gag.com/gag/aqeqvAQ)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 💣 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 😝 [B rated goodness](http://9gag.com/gag/arm64Rp)
+ - 👉 [A better way to deal with Somari pilates](http://9gag.com/gag/a2KBPdw)<!-- MEMES:END -->
 
 ---
 

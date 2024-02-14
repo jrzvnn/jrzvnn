@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony misses PS5 sales target as console enters ‘latter stage of its life cycle’](https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings)
+ - [Sources: Apple&#39;s longest-serving senior industrial designer, Bart Andre, told colleagues this month that he is retiring; Andre joined in 1992 alongside Jony Ive &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240214/p7#a240214p7)
  - [A look at Slack 10 years after its launch: early success, going public in 2019, being acquired by Salesforce, and how the service changed work culture &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240214/p6#a240214p6)
  - [‘AI Girlfriends’ Are a Privacy Nightmare](https://www.wired.com/story/ai-girlfriends-privacy-nightmare/)
- - [February SSDI Payment 2024: More Checks Are Arriving Today     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-more-checks-are-arriving-today/#ftag=CAD590a51e)
- - [The World’s Most Important Industry Has a New Captain—and She’s Piloting It Into the 21st Century](https://www.wired.com/shipping-industry-marina-hadjipateras/)
- - [A Mozilla study of 11 AI romance chatbots finds that they harvest personal information extensively, and that 10 of them may sell or share the data they collect &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240214/p5#a240214p5)<!-- TECH:END -->
+ - [February SSDI Payment 2024: More Checks Are Arriving Today     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-more-checks-are-arriving-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

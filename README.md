@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&lpar;&lpar;&lpar;removed&rpar;&rpar;&rpar;](http://9gag.com/gag/ay2g7jp)
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
- - 😝 [That was a pro move right there](http://9gag.com/gag/aeQojbp)
- - 👉 [Reposting so it won&#39;t just get deleted.](http://9gag.com/gag/aOxgo93)<!-- MEMES:END -->
+ - 💣 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
+ - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
+ - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
 
 ---
 

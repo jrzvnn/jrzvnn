@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendly care bear](http://9gag.com/gag/a1PzZm2)
+ - 😝 [You cant make this shit up](http://9gag.com/gag/a8qPdGV)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
- - 😝 [B rated goodness](http://9gag.com/gag/arm64Rp)
- - 👉 [A better way to deal with Somari pilates](http://9gag.com/gag/a2KBPdw)<!-- MEMES:END -->
+ - 💣 [The stuff of nightmares! \ud83d\udc80](http://9gag.com/gag/aPgN6LR)
+ - 😝 [Cheeky Bastard](http://9gag.com/gag/aWGwVXx)
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
+ - 😝 [28 days later\u2026](http://9gag.com/gag/aVbnzbO)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [A 12 hours `hunger strike`](http://9gag.com/gag/anzpBbb)
- - 😝 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)
- - 👉 [Not an american house](http://9gag.com/gag/a3Z93m7)<!-- MEMES:END -->
+ - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
 
 ---
 

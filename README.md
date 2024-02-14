@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)
  - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
  - [Microsoft and OpenAI say hackers are already using LLMs to refine and improve cyberattacks, including Russian, North Korean, Iranian, and Chinese-backed groups &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240214/p15#a240214p15)
  - [Uber plans to buy back $7B in shares, a first for the company, after achieving operating profit and consistent positive free cash flow in 2023; UBER rises 4%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240214/p14#a240214p14)
- - [New iPad, MacBook Air, Mac mini: What to expect from a spring Apple event](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
- - [The Story Behind Elon Musk’s Tweet Restriction Fiasco](https://www.wired.com/story/elon-musk-twitter-rate-limits-extremely-hardcore/)<!-- TECH:END -->
+ - [New iPad, MacBook Air, Mac mini: What to expect from a spring Apple event](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

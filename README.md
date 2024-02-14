@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Unsurprisingly, Mark Zuckerberg believes Meta Quest 3 is the &#39;better product, period&#39;](https://appleinsider.com/articles/24/02/14/unsurprisingly-mark-zuckerberg-believes-meta-quest-3-is-the-better-product-period?utm_medium=rss)
  - [AI researcher Andrej Karpathy, one of the founding members of OpenAI, leaves the company; Karpathy was developing a product that he described as an AI assistant &lpar;The Information&rpar;](http://www.techmeme.com/240213/p42#a240213p42)
  - [In a video, Mark Zuckerberg shares his thoughts on the Vision Pro, saying Quest 3 &quot;is the better product, period&quot;, highlighting Apple&#39;s tradeoffs, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240213/p41#a240213p41)
- - [I Used ChatGPT to Woo My Valentine. I Wasn&#39;t Impressed.     - CNET](https://www.cnet.com/tech/i-used-chatgpt-to-woo-my-valentine-i-wasnt-impressed/#ftag=CAD590a51e)
- - [Mushroom Night Light Set     - CNET](https://www.cnet.com/news/mushroom-night-light-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pillow Cup &amp; Remote Holder     - CNET](https://www.cnet.com/news/pillow-cup-remote-holder-dpnl/#ftag=CAD590a51e)
+ - [Hellraiser Puzzle Box     - CNET](https://www.cnet.com/culture/entertainment/hellraiser-puzzle-box-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

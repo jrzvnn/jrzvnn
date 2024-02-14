@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)
+ - [Google partners with the Environmental Defense Fund to help track and attribute methane emissions observed by the MethaneSAT satellite, set to launch in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p18#a240214p18)
  - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)
  - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)
- - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)
- - [Sen. Ron Wyden details the largest publicly known location-driven anti-abortion ad campaign, which allegedly tracked visits to 600 Planned Parenthood locations &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240214/p16#a240214p16)
- - [Do SSDI Beneficiaries Need to File Their Taxes This Year? We&#39;ll Help You Find Out     - CNET](https://www.cnet.com/personal-finance/taxes/do-ssdi-beneficiaries-need-to-file-their-taxes-this-year-well-help-you-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [28 days later\u2026](http://9gag.com/gag/aVbnzbO)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
  - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 😝 [Teaching of Islam and Sharia Law dictates](http://9gag.com/gag/aoKr0PX)
+ - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
 
 ---
 

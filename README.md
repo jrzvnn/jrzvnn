@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights](https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/)
+ - [Meta’s big vision for face computers might be better than Apple’s](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
  - [Smoking Alters Your Immune System For Years After You Quit](https://www.wired.com/story/smoking-immune-system-long-lasting-effects/)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)
- - [Gemini Advanced is most impressive when it’s working with Google](https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots)<!-- TECH:END -->
+ - [UK water utility Southern Water confirms hackers stole data on as many as 470K customers; Russia-linked ransomware gang Black Basta claimed credit in January &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240214/p23#a240214p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

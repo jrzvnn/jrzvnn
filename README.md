@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
  - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
  - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)
  - [Google partners with the Environmental Defense Fund to help track and attribute methane emissions observed by the MethaneSAT satellite, set to launch in March &lpar;Bloomberg&rpar;](http://www.techmeme.com/240214/p18#a240214p18)
- - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)
- - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)<!-- TECH:END -->
+ - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

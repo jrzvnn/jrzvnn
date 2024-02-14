@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YC releases a new list of 20 types of startups the accelerator wants to join its program, the biggest overhaul of its Request for Startups since 2018 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240214/p20#a240214p20)
+ - [Slack AI is here, letting you catch up on lengthy threads and unread messages](https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap)
+ - [The text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
  - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
- - [For Just $80, Matt&#39;s Flights Premium Will Keep You Posted on the Latest Airfare Deals     - CNET](https://www.cnet.com/deals/for-just-80-matts-flights-premium-will-keep-you-posted-on-the-latest-flight-deals/#ftag=CAD590a51e)
- - [Apple Vision Pro privacy means apps can&#39;t access details of users&#39; surroundings](https://appleinsider.com/articles/24/02/13/apple-vision-pro-privacy-means-apps-cant-access-details-of-users-surroundings?utm_medium=rss)
- - [DuckDuckGo adds a Sync &amp; Backup tool to its browser to sync passwords, bookmarks, and favorites without needing an account and says the data is E2EE &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240214/p19#a240214p19)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

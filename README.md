@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
  - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 💣 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
- - 😝 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
- - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
+ - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 😝 [Tricky](http://9gag.com/gag/aDYpw09)
+ - 👉 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)<!-- MEMES:END -->
 
 ---
 

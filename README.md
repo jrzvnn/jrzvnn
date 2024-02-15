@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)
- - [Lego’s new Snow White and the Seven Dwarfs set comes with a teensy controversy](https://www.theverge.com/2024/2/15/24074184/lego-snow-white-dwarves-set-release-date)
- - [You can snag a pair of Sonos’ excellent Era 100 speakers for $90 off right now](https://www.theverge.com/2024/2/15/24073753/sonos-era-100-lg-c3-oled-tv-govee-matter-light-strip-aeropress-deal-sale)
- - [Kanye West&#39;s &#39;Vultures 1&#39; pulled from Apple Music after distributor drama](https://appleinsider.com/articles/24/02/15/kanye-wests-vultures-1-pulled-from-apple-music-after-distributor-drama?utm_medium=rss)
- - [Apple and Meta&#39;s latest fight is over social media boosted post fees on iPhone](https://appleinsider.com/articles/24/02/15/apple-and-metas-latest-fight-is-over-social-media-boosted-post-fees-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)
+ - [Q&amp;A with Microsoft Gaming CEO Phil Spencer on bringing Xbox-exclusive games to PS5 and Switch, the future of Xbox, next-gen hardware, regulation, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p31#a240215p31)
+ - [Microsoft is slowly building to a future where ‘every screen is an Xbox’](https://www.theverge.com/2024/2/15/24074166/microsoft-xbox-strategy-multiplatform)
+ - [Kids Online Safety Act gains enough supporters to pass the Senate](https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support)
+ - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

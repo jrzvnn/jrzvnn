@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft President Brad Smith says the company plans to invest &amp;euro;3.2B in Germany in the next two years with a focus on AI, its biggest German investment ever &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240215/p16#a240215p16)
- - [Here Comes the Flood of AI-Generated Clickbait](https://www.wired.com/story/gadget-lab-podcast-632/)
- - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
- - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
- - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Bose&#39;s Ultra Open Earbuds Review: Impressive Sound, High Price](https://www.wired.com/review/bose-ultra-open-earbuds/)
+ - [Bose’s new earbuds don’t go inside your ears at all](https://www.theverge.com/2024/2/15/24073713/bose-ultra-open-earbuds-announced-features)
+ - [TikTok’s native app arrives for the Vision Pro](https://www.theverge.com/2024/2/15/24073674/tiktok-apple-vision-pro-app-launched)
+ - [Lucid slashes prices for its luxury EVs for the third time in seven months](https://www.theverge.com/2024/2/15/24073233/lucid-motor-price-cut-air-pure-charging-allowance)
+ - [Bose’s Ultra Open Earbuds are its boldest, most unique earbuds yet](https://www.theverge.com/24073019/bose-ultra-open-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

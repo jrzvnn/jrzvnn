@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mayor of the Brazilian city of Araucari, Hissam Hussein Dehaini 65 married a 16-year-old girl one day after her birthday. The day after the ceremony he named his new mother-in-law as Secretary of Culture and Tourism of this municipality in southern Brazil.](http://9gag.com/gag/ajVbAmG)
- - 😝 [Without a Second Thought, Kansas City Heroes Jumped into Action to Takedown An Active Shooter\u201d](http://9gag.com/gag/aqe35BP)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
- - 👉 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)<!-- MEMES:END -->
+ - 😝 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 💣 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)
+ - 😝 [Math is hard](http://9gag.com/gag/aYV8bXm)
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City is suing TikTok and Instagram for ‘addicting’ children](https://www.theverge.com/2024/2/15/24073777/new-york-city-suing-tiktok-meta-google-snap-kids-mental-health)
- - [Apple Vision Pro shows users the real world four times faster than its rivals](https://appleinsider.com/articles/24/02/15/apple-vision-pro-shows-users-the-real-world-four-times-faster-than-its-rivals?utm_medium=rss)
- - [Best Bird Watching Gear &lpar;2024&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
- - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)
- - [Best Hair Growth Products     - CNET](https://www.cnet.com/health/personal-care/best-hair-growth-products/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Executive Office Chair w/ Leg Rest     - CNET](https://www.cnet.com/news/executive-office-chair-w-leg-rest-dpnl/#ftag=CAD590a51e)
+ - [JBL Partybox 310     - CNET](https://www.cnet.com/tech/home-entertainment/jbl-partybox-310-dpnl/#ftag=CAD590a51e)
+ - [OnePlus 12     - CNET](https://www.cnet.com/tech/mobile/oneplus-12-16gb-dpnl/#ftag=CAD590a51e)
+ - [22 Great Housewarming Gifts Starting as Low as $25     - CNET](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)
+ - [You Have Just a Few Days Left to Get Microsoft Office on Mac or Windows for Just $30     - CNET](https://www.cnet.com/deals/final-days-microsoft-office-on-mac-or-windows-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

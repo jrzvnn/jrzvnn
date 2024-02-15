@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [\u201cCultural Appropriation\u201d in Japan. 52s](http://9gag.com/gag/arm6RKX)
- - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
- - 😝 [Works everytime!](http://9gag.com/gag/a04AYQd)
- - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
+ - 😝 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
+ - 💣 [Works everytime!](http://9gag.com/gag/a04AYQd)
+ - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 👉 [Worth it](http://9gag.com/gag/awZRxAD)<!-- MEMES:END -->
 
 ---
 

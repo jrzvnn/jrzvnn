@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches its native Apple Vision Pro app, offering a similar UI to the mobile apps; an executive said TikTok &quot;redesigned the entire TikTok experience&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240215/p19#a240215p19)
- - [TikTok dances onto the Apple Vision Pro](https://appleinsider.com/articles/24/02/15/tiktok-dances-onto-the-apple-vision-pro?utm_medium=rss)
- - [Richard Blumenthal and Marsha Blackburn announce an updated Kids Online Safety Act and say 60+ US senators support the bill; KOSA faces uncertainty in the House &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240215/p18#a240215p18)
- - [For now, Apple Arcade may be the best place for spatial Apple Vision Pro games](https://appleinsider.com/articles/24/02/15/for-now-apple-arcade-may-be-the-best-place-for-spatial-apple-vision-pro-games?utm_medium=rss)
- - [In defense of busywork](https://www.theverge.com/24066270/ai-automation-work-labor-busywork)<!-- TECH:END -->
+ - [Google launches Gemini 1.5 to developers and enterprise users, offering support for 1M tokens, and says Gemini 1.5 Pro is on par with its Gemini Ultra model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p21#a240215p21)
+ - [Google makes Gemini 1.0 Pro and Gemini 1.0 Ultra generally available, adds support for adapter-based tuning in Vertex, and rolls out new developer tools &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240215/p22#a240215p22)
+ - [Astropad Slate is a new app that turns your iPad into a giant Mac trackpad](https://appleinsider.com/articles/24/02/15/astropad-slate-is-a-new-app-that-turns-your-ipad-into-a-giant-trackpad?utm_medium=rss)
+ - [Meta plans to start charging a 30% fee when advertisers pay to boost the visibility of Facebook and Instagram posts on its iOS apps, starting later in February &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240215/p20#a240215p20)
+ - [The first X-Men ‘97 trailer is a return to the days of mutant supremacy](https://www.theverge.com/24073775/x-men-97-trailer-disney-plus-marvel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

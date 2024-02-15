@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Prospects of a wide-ranging AI bill in the US this year are rapidly dimming, despite Senator Chuck Schumer&#39;s push to put AI regulation at the top of the agenda &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240215/p4#a240215p4)
  - [Some European entrepreneurs believe the EU&#39;s scrutiny of deals involving tech giants will lead to less M&amp;A activity, reducing exit routes from their business &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240215/p3#a240215p3)
  - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
- - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)<!-- TECH:END -->
+ - [Best Portable Solar Panels of 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

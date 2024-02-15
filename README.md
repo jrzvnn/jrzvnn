@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)
+ - [Some People Actually Kind of Love Deepfakes](https://www.wired.com/story/ai-deepfakes-companies-executives-academics/)
+ - [Scout Motors wants to put the ‘mechanical’ back into electric trucks](https://www.theverge.com/2024/2/15/24073745/scout-motors-ev-truck-factory-groundbreaking-ceo-interview)
  - [YouTube adds the ability for users to incorporate, or &quot;remix&quot;, a music video in their Shorts, weeks after UMG pulled its song catalog from TikTok &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240215/p24#a240215p24)
- - [New York City is suing TikTok and Instagram for ‘addicting’ children](https://www.theverge.com/2024/2/15/24073777/new-york-city-suing-tiktok-meta-google-snap-kids-mental-health)
- - [Apple Vision Pro shows users the real world four times faster than its rivals](https://appleinsider.com/articles/24/02/15/apple-vision-pro-shows-users-the-real-world-four-times-faster-than-its-rivals?utm_medium=rss)
- - [Best Bird Watching Gear &lpar;2024&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
- - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)<!-- TECH:END -->
+ - [Executive Office Chair w/ Leg Rest     - CNET](https://www.cnet.com/news/executive-office-chair-w-leg-rest-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

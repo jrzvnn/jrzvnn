@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Extremely Hardcore book excerpt: how Elon Musk&#39;s decision to impose rate limits on Twitter in summer 2023 helped upsell Blue, as he prepared to launch xAI &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/240215/p6#a240215p6)
  - [The CEO of Greek payments company Viva Wallet, co-owned by JPMorgan, sues the bank for allegedly suppressing Viva&#39;s growth, as JPMorgan files a counter claim &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240215/p5#a240215p5)
  - [Prospects of a wide-ranging AI bill in the US this year are rapidly dimming, despite Senator Chuck Schumer&#39;s push to put AI regulation at the top of the agenda &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240215/p4#a240215p4)
  - [Some European entrepreneurs believe the EU&#39;s scrutiny of deals involving tech giants will lead to less M&amp;A activity, reducing exit routes from their business &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240215/p3#a240215p3)
- - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
- - [Best Portable Solar Panels of 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

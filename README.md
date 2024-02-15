@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [NYC sues ByteDance, Meta, Snap, and Google to hold the companies accountable &quot;for fueling the nationwide youth mental health crisis&quot; by manipulating young users &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240214/p38#a240214p38)
  - [Sources: Together AI, which helps developers access Nvidia server chips to train AI models, is raising $100M+ led by Salesforce Ventures at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240214/p37#a240214p37)
  - [X removes paid checkmarks from some accounts after a watchdog group found 28 verified accounts allegedly tied to Hezbollah and other US-sanctioned entities &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240214/p36#a240214p36)
- - [Nvidia is now worth more than Amazon and Alphabet](https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet)
- - [Asahi Linux conformant to OpenGL 4.6 &amp; OpenGL ES 3.2 on Apple Silicon Macs](https://appleinsider.com/articles/24/02/15/asahi-linux-conformant-to-opengl-46-opengl-es-32-on-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Aurora, Illinois     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)
+ - [Cricket Livestream: How to Watch India vs. England, 3rd Test From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-livestream-how-to-watch-india-vs-england-3rd-test-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 😝 [Aw hell naw](http://9gag.com/gag/ap9yqNn)
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
  - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 👉 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)<!-- MEMES:END -->
+ - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
+ - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
 
 ---
 

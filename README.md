@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works everytime!](http://9gag.com/gag/a04AYQd)
- - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 😝 [Tell me it gets easier, I beg you...](http://9gag.com/gag/aqe39Mp)
+ - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
  - 💣 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
- - 😝 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)
- - 👉 [Making progress here](http://9gag.com/gag/axoxj4Y)<!-- MEMES:END -->
+ - 😝 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
+ - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
 
 ---
 

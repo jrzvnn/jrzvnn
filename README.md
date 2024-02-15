@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
  - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)
  - [Q&amp;A with Microsoft Gaming CEO Phil Spencer on bringing Xbox-exclusive games to PS5 and Switch, the future of Xbox, next-gen hardware, regulation, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p31#a240215p31)
  - [Microsoft is slowly building to a future where ‘every screen is an Xbox’](https://www.theverge.com/2024/2/15/24074166/microsoft-xbox-strategy-multiplatform)
- - [Kids Online Safety Act gains enough supporters to pass the Senate](https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support)
- - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)<!-- TECH:END -->
+ - [Kids Online Safety Act gains enough supporters to pass the Senate](https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

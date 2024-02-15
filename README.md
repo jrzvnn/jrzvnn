@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)
+ - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)
+ - [Are Prepaid Debit Cards Right for You? How to Decide     - CNET](https://www.cnet.com/personal-finance/credit-cards/are-prepaid-debit-cards-right-for-you-how-to-decide/#ftag=CAD590a51e)
  - [How to record audio while screen recording on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-record-audio-while-screen-recording-on-iphone-and-ipad?utm_medium=rss)
- - [Sources: Meta is reducing payments to news orgs that fact-check potential WhatsApp misinformation, including on elections, and has cut funding for CrowdTangle &lpar;The Information&rpar;](http://www.techmeme.com/240214/p41#a240214p41)
- - [The European Court of Human Rights rules backdoors that weaken E2EE violate human rights law, after Russia began requiring Telegram to decrypt messages in 2017 &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240214/p40#a240214p40)
- - [Best Solar Panel Installation Companies in Georgia     - CNET](https://www.cnet.com/home/energy-and-utilities/georgia-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is reducing payments to news orgs that fact-check potential WhatsApp misinformation, including on elections, and has cut funding for CrowdTangle &lpar;The Information&rpar;](http://www.techmeme.com/240214/p41#a240214p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

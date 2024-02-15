@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 😝 [WTF](http://9gag.com/gag/abvP5RX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 😝 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
- - 👉 [The mayor of the Brazilian city of Araucari, Hissam Hussein Dehaini 65 married a 16-year-old girl one day after her birthday. The day after the ceremony he named his new mother-in-law as Secretary of Culture and Tourism of this municipality in southern Brazil.](http://9gag.com/gag/ajVbAmG)<!-- MEMES:END -->
+ - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
 
 ---
 

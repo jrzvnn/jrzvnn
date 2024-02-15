@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Math is hard](http://9gag.com/gag/aYV8bXm)
- - 💣 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
+ - 😝 [Aw hell naw](http://9gag.com/gag/ap9yqNn)
+ - 😝 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 💣 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
 
 ---
 

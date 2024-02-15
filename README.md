@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Yo dawg](http://9gag.com/gag/a8qPYEV)
- - 💣 [There is another](http://9gag.com/gag/axoxDDM)
- - 😝 [Guys guys!!](http://9gag.com/gag/amAjLeV)
- - 👉 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)<!-- MEMES:END -->
+ - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
+ - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---
 

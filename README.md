@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
  - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
  - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)
  - [M4 and A18 Apple Silicon rumored to get more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)
- - [Defining the Pro in Apple Vision Pro: Who is Apple&#39;s target professional?](https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional?utm_medium=rss)
- - [Ocean Temperatures Keep Shattering Records—and Stunning Scientists](https://www.wired.com/story/ocean-temperatures-keep-shattering-records-and-stunning-scientists/)<!-- TECH:END -->
+ - [Defining the Pro in Apple Vision Pro: Who is Apple&#39;s target professional?](https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

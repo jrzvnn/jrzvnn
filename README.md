@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
  - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 💣 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 😝 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
- - 👉 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)<!-- MEMES:END -->
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 💣 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
 
 ---
 

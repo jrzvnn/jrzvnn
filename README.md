@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - 😝 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
- - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
+ - 😝 [Aw hell naw](http://9gag.com/gag/ap9yqNn)
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 💣 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
+ - 😝 [Tricky](http://9gag.com/gag/aDYpw09)
+ - 👉 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)<!-- MEMES:END -->
 
 ---
 

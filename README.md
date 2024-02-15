@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
+ - [Save 50% Off All DreamCloud Mattresses This Presidents Day     - CNET](https://www.cnet.com/deals/50-off-all-dreamcloud-mattresses-this-presidents-day/#ftag=CAD590a51e)
  - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)
  - [Q&amp;A with Microsoft Gaming CEO Phil Spencer on bringing Xbox-exclusive games to PS5 and Switch, the future of Xbox, next-gen hardware, regulation, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p31#a240215p31)
- - [Microsoft is slowly building to a future where ‘every screen is an Xbox’](https://www.theverge.com/2024/2/15/24074166/microsoft-xbox-strategy-multiplatform)
- - [Kids Online Safety Act gains enough supporters to pass the Senate](https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support)<!-- TECH:END -->
+ - [Microsoft is slowly building to a future where ‘every screen is an Xbox’](https://www.theverge.com/2024/2/15/24074166/microsoft-xbox-strategy-multiplatform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

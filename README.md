@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 💣 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
  - 😝 [Strike](http://9gag.com/gag/aNwxoAw)
- - 👉 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)<!-- MEMES:END -->
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 💣 [Not an american house](http://9gag.com/gag/a3Z93m7)
+ - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 👉 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)<!-- MEMES:END -->
 
 ---
 

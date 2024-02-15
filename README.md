@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High speed katana againts everyday objects](http://9gag.com/gag/agoMVOw)
- - 😝 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
- - 💣 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
- - 😝 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)
- - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
+ - 😝 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - 😝 [When the karen actually carin](http://9gag.com/gag/abvPqDr)
+ - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 😝 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
+ - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
 
 ---
 

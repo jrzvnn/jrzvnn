@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York City is suing TikTok and Instagram for ‘addicting’ children](https://www.theverge.com/2024/2/15/24073777/new-york-city-suing-tiktok-meta-google-snap-kids-mental-health)
  - [Apple Vision Pro shows users the real world four times faster than its rivals](https://appleinsider.com/articles/24/02/15/apple-vision-pro-shows-users-the-real-world-four-times-faster-than-its-rivals?utm_medium=rss)
  - [Best Bird Watching Gear &lpar;2024&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
  - [Sources: Sam Altman told people that the $7T figure represents the total investments needed for his chip project, including real estate, over some years &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240215/p23#a240215p23)
- - [Best Hair Growth Products     - CNET](https://www.cnet.com/health/personal-care/best-hair-growth-products/#ftag=CAD590a51e)
- - [Google launches Gemini 1.5 to developers and enterprise users, offering support for 1M tokens, and says Gemini 1.5 Pro is on par with its Gemini Ultra model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p21#a240215p21)<!-- TECH:END -->
+ - [Best Hair Growth Products     - CNET](https://www.cnet.com/health/personal-care/best-hair-growth-products/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

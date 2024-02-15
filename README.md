@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [Tricky](http://9gag.com/gag/aDYpw09)
- - 👉 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)<!-- MEMES:END -->
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [Math is hard](http://9gag.com/gag/aYV8bXm)
+ - 💣 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)
+ - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
 
 ---
 

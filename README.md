@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
+ - [Best MacBook Air M2 Deals: Save Up to $300 on Apple&#39;s Laptop Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
  - [A Big Tech-backed campaign to plant trees might have taken a wrong turn](https://www.theverge.com/24072029/tree-planting-campaign-afr100-forests-science-critique)
  - [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai)
- - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)
- - [Peloton pumps the brakes on removing GymKit support for Bike+](https://appleinsider.com/articles/24/02/15/peloton-pumps-the-brakes-on-removing-gymkit-support-for-bike?utm_medium=rss)<!-- TECH:END -->
+ - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

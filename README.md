@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
- - [Best MacBook Air M2 Deals: Save Up to $300 on Apple&#39;s Laptop Macs     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
- - [A Big Tech-backed campaign to plant trees might have taken a wrong turn](https://www.theverge.com/24072029/tree-planting-campaign-afr100-forests-science-critique)
- - [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai)
- - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says its Xbox Game Pass service now has 34M subscribers, up 36% from the 25M subscribers Microsoft reported more than two years ago &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240215/p30#a240215p30)
+ - [Lego’s new Snow White and the Seven Dwarfs set comes with a teensy controversy](https://www.theverge.com/2024/2/15/24074184/lego-snow-white-dwarves-set-release-date)
+ - [You can snag a pair of Sonos’ excellent Era 100 speakers for $90 off right now](https://www.theverge.com/2024/2/15/24073753/sonos-era-100-lg-c3-oled-tv-govee-matter-light-strip-aeropress-deal-sale)
+ - [Kanye West&#39;s &#39;Vultures 1&#39; pulled from Apple Music after distributor drama](https://appleinsider.com/articles/24/02/15/kanye-wests-vultures-1-pulled-from-apple-music-after-distributor-drama?utm_medium=rss)
+ - [Apple and Meta&#39;s latest fight is over social media boosted post fees on iPhone](https://appleinsider.com/articles/24/02/15/apple-and-metas-latest-fight-is-over-social-media-boosted-post-fees-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

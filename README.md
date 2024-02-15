@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 💣 [You asked for it](http://9gag.com/gag/a04AdRQ)
- - 😝 [Post the most unfunny memes you have](http://9gag.com/gag/aeQoYYb)
- - 👉 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)<!-- MEMES:END -->
+ - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Little man](http://9gag.com/gag/awZRVbW)
+ - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toast plans to lay off ~550 employees, or ~10% of its workforce, to promote &quot;operating expense efficiency&quot; and will incur about $50M in costs such as severance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240215/p38#a240215p38)
+ - [Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says](https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/)
  - [Apple is reportedly working on AI updates to Spotlight and Xcode](https://www.theverge.com/2024/2/15/24074455/apple-generative-ai-xcode-spotlight-testing)
  - [Sources: spyware vendor Variston is closing after Google &quot;burned&quot; its name publicly in 2022; source: a disgruntled staffer sent its malicious code to Google &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240215/p37#a240215p37)
- - [Coinbase reports Q4 revenue up 51% YoY to $953.8M, vs. $826M est., net income of $273M, its first profit in two years, vs. a loss of $557M YoY; COIN jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p36#a240215p36)
- - [ChatGPT vs. Gemini: Which AI Chatbot Subscription Is Right for You?](https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/)
- - [Best TV Deals: Big Savings on Samsung, LG, Sony, Amazon and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase reports Q4 revenue up 51% YoY to $953.8M, vs. $826M est., net income of $273M, its first profit in two years, vs. a loss of $557M YoY; COIN jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p36#a240215p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

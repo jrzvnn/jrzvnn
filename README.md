@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Diablo IV&#39; Heads to Game Pass as Microsoft Eyes 4 Games to Expand Beyond Xbox](https://www.wired.com/story/xbox-exclusives-diablo-iv-game-pass-march-28/)
+ - [DoorDash reports Q4 revenue up 27% YoY to $2.3B, vs. $2.24B est., total orders up 23% YoY to 574M, and Q1 profit forecast below estimates; DASH drops 8%+ &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240215/p34#a240215p34)
  - [The US Patent and Trademark Office denies OpenAI&#39;s attempt to trademark &quot;GPT&quot;, ruling that the term is &quot;merely descriptive&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240215/p33#a240215p33)
  - [Sources: Apple has expanded testing of a Copilot-like tool for Xcode and is exploring AI features for productivity apps and a Spotlight search that uses LLMs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240215/p32#a240215p32)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
- - [Save 50% Off All DreamCloud Mattresses This Presidents Day     - CNET](https://www.cnet.com/deals/50-off-all-dreamcloud-mattresses-this-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

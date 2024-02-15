@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
  - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
 
 ---
 

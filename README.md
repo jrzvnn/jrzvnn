@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 😝 [Worth it](http://9gag.com/gag/awZRxAD)
- - 💣 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
- - 😝 [Meanwhile in Peru](http://9gag.com/gag/amAjz96)
- - 👉 [Making progress here](http://9gag.com/gag/axoxj4Y)<!-- MEMES:END -->
+ - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [Little man](http://9gag.com/gag/awZRVbW)
+ - 💣 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
 
 ---
 

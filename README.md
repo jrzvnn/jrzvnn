@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is reportedly working on AI updates to Spotlight and Xcode](https://www.theverge.com/2024/2/15/24074455/apple-generative-ai-xcode-spotlight-testing)
+ - [Sources: spyware vendor Variston is closing after Google &quot;burned&quot; its name publicly in 2022; source: a disgruntled staffer sent its malicious code to Google &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240215/p37#a240215p37)
  - [Coinbase reports Q4 revenue up 51% YoY to $953.8M, vs. $826M est., net income of $273M, its first profit in two years, vs. a loss of $557M YoY; COIN jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p36#a240215p36)
  - [ChatGPT vs. Gemini: Which AI Chatbot Subscription Is Right for You?](https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/)
- - [Xcode coding assistance rumored to be early Apple generative AI effort](https://appleinsider.com/articles/24/02/15/xcode-coding-assistance-rumored-to-be-early-apple-ai-effort?utm_medium=rss)
- - [Roku reports Q4 revenue up 14% YoY to $984.4M, vs. $968.2M est., and warns of a &quot;challenging&quot; environment for media and entertainment in 2024; ROKU drops 14%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240215/p35#a240215p35)
- - [New bill would let defendants inspect algorithms used against them in court](https://www.theverge.com/2024/2/15/24074214/justice-in-forensic-algorithms-act-democrats-mark-takano-dwight-evans)<!-- TECH:END -->
+ - [Best TV Deals: Big Savings on Samsung, LG, Sony, Amazon and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

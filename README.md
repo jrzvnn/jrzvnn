@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has expanded testing of a Copilot-like feature for Xcode and is exploring AI features for productivity apps and a revamped Spotlight search &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240215/p32#a240215p32)
+ - [The US Patent and Trademark Office denies OpenAI&#39;s attempt to trademark &quot;GPT&quot;, ruling that the term is &quot;merely descriptive&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240215/p33#a240215p33)
+ - [Sources: Apple has expanded testing of a Copilot-like tool for Xcode and is exploring AI features for productivity apps and a Spotlight search that uses LLMs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240215/p32#a240215p32)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Yep, Apple’s breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/15/24074182/apple-drops-support-iphone-web-apps-eu-dma)
- - [Save 50% Off All DreamCloud Mattresses This Presidents Day     - CNET](https://www.cnet.com/deals/50-off-all-dreamcloud-mattresses-this-presidents-day/#ftag=CAD590a51e)
- - [Apple blames new law for why progressive web apps don&#39;t work right in the EU](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Save 50% Off All DreamCloud Mattresses This Presidents Day     - CNET](https://www.cnet.com/deals/50-off-all-dreamcloud-mattresses-this-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

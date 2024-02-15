@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)
  - [A look at robots.txt, a good will-based social contract governing the behavior of web crawlers, as experts call for more rigid tools for managing AI crawlers &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p9#a240215p9)
  - [Lenovo’s transparent laptop concept resurfaces in new leak](https://www.theverge.com/2024/2/15/24073658/lenovo-transparent-laptop-leak-mwc-2024-concept)
- - [Omdia: South African streaming company Showmax had 2.1M subscribers in Africa at the end of November 2023, ahead of Netflix&#39;s 1.8M and Amazon Prime Video&#39;s 300K &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240215/p8#a240215p8)
- - [Fake Caviar Invented in the 1930s Could Be the Solution to Plastic Pollution](https://www.wired.com/story/plastic-pollution-packaging-notpla/)
- - [A look at OpenAI&#39;s business model, as the company works to more than double its yearly run rate by 2025; ChatGPT Enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)<!-- TECH:END -->
+ - [Verizon Customers Could Get Up to $100 in Settlement Money. How to Claim the Payout     - CNET](https://www.cnet.com/personal-finance/verizon-customers-could-get-up-to-100-in-settlement-money-how-to-claim-the-payout/#ftag=CAD590a51e)
+ - [Omdia: South African streaming company Showmax had 2.1M subscribers in Africa at the end of November 2023, ahead of Netflix&#39;s 1.8M and Amazon Prime Video&#39;s 300K &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240215/p8#a240215p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

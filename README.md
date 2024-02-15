@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 💣 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
+ - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
  - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
 
 ---
 

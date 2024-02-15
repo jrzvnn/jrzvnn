@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CEO of Greek payments company Viva Wallet, co-owned by JPMorgan, sues the bank for allegedly suppressing Viva&#39;s growth, as JPMorgan files a counter claim &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240215/p5#a240215p5)
  - [Prospects of a wide-ranging AI bill in the US this year are rapidly dimming, despite Senator Chuck Schumer&#39;s push to put AI regulation at the top of the agenda &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240215/p4#a240215p4)
  - [Some European entrepreneurs believe the EU&#39;s scrutiny of deals involving tech giants will lead to less M&amp;A activity, reducing exit routes from their business &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240215/p3#a240215p3)
  - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
- - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

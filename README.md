@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
- - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
+ - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [Yo dawg](http://9gag.com/gag/a8qPYEV)
+ - 💣 [There is another](http://9gag.com/gag/axoxDDM)
+ - 😝 [Guys guys!!](http://9gag.com/gag/amAjLeV)
+ - 👉 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)<!-- MEMES:END -->
 
 ---
 

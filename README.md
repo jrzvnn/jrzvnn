@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok launches its native Apple Vision Pro app, offering a similar UI to the mobile apps; an executive said TikTok &quot;redesigned the entire TikTok experience&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240215/p19#a240215p19)
+ - [TikTok dances onto the Apple Vision Pro](https://appleinsider.com/articles/24/02/15/tiktok-dances-onto-the-apple-vision-pro?utm_medium=rss)
  - [Richard Blumenthal and Marsha Blackburn announce an updated Kids Online Safety Act and say 60+ US senators support the bill; KOSA faces uncertainty in the House &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240215/p18#a240215p18)
  - [For now, Apple Arcade may be the best place for spatial Apple Vision Pro games](https://appleinsider.com/articles/24/02/15/for-now-apple-arcade-may-be-the-best-place-for-spatial-apple-vision-pro-games?utm_medium=rss)
- - [In defense of busywork](https://www.theverge.com/24066270/ai-automation-work-labor-busywork)
- - [Lambda, which offers cloud computing services and computers to train AI, raised $320M led by Thomas Tull&#39;s US Innovative Technology at a $1.5B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p17#a240215p17)
- - [Bose&#39;s Ultra Open Earbuds Review: Impressive Sound, High Price](https://www.wired.com/review/bose-ultra-open-earbuds/)<!-- TECH:END -->
+ - [In defense of busywork](https://www.theverge.com/24066270/ai-automation-work-labor-busywork)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

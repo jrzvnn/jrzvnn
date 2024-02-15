@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aw hell naw](http://9gag.com/gag/ap9yqNn)
- - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 👉 [Math is hard](http://9gag.com/gag/aYV8bXm)<!-- MEMES:END -->
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
+ - 💣 [Hear me out](http://9gag.com/gag/a3Z9dVv)
+ - 😝 [The plumber needs to be questioned](http://9gag.com/gag/aZDAP63)
+ - 👉 [They dont even try anymore :&lpar;](http://9gag.com/gag/az2NLPb)<!-- MEMES:END -->
 
 ---
 

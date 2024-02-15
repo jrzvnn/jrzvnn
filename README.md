@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX successfully launches Odysseus in bid to return US to the lunar surface](https://www.theverge.com/2024/2/15/24073690/spacex-intuitive-machines-odysseus-novac-lunar-lander-moon-mission)
- - [Google plans to let businesses install auto-updating ChromeOS Flex to Windows devices, to help stop millions of Windows 10 PCs from hitting landfills in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240215/p15#a240215p15)
- - [TSMC rises ~8% in its first post-Lunar New Year trading session, reaching a record $575B market cap and passing Visa as the world&#39;s 12th most valuable company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p14#a240215p14)
- - [Math conspiracy comes to Apple TV+ in new thriller series](https://appleinsider.com/articles/24/02/15/math-conspiracy-comes-to-apple-tv-in-new-thriller-series?utm_medium=rss)
- - [Kara Swisher Is Sick of Tech People, So She Wrote a Book About Them](https://www.wired.com/story/kara-swisher-burn-book/)<!-- TECH:END -->
+ - [M4 and A18 Apple Silicon rumored to get more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)
+ - [Defining the Pro in Apple Vision Pro: Who is Apple&#39;s target professional?](https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional?utm_medium=rss)
+ - [Ocean Temperatures Keep Shattering Records—and Stunning Scientists](https://www.wired.com/story/ocean-temperatures-keep-shattering-records-and-stunning-scientists/)
+ - [GM is preparing for another major expansion of its hands-free Super Cruise system](https://www.theverge.com/2024/2/15/24072850/gm-super-cruise-expansion-hands-free-750000-miles)
+ - [SpaceX successfully launches Odysseus in bid to return US to the lunar surface](https://www.theverge.com/2024/2/15/24073690/spacex-intuitive-machines-odysseus-novac-lunar-lander-moon-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

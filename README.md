@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Renesas agrees to acquire PCB design software company Altium for ~$5.9B in cash, a 33.6% premium on Altium&#39;s February 14 closing price &lpar;Harry Brumpton/Bloomberg&rpar;](http://www.techmeme.com/240214/p34#a240214p34)
  - [Nvidia passed Alphabet on February 14 as the third most valuable US company and the world&#39;s fourth with a market cap of ~$1.83T, one day after overtaking Amazon &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/240214/p33#a240214p33)
  - [Stability AI tries to stay ahead of the pack with a new image-generating AI model](https://www.theverge.com/2024/2/14/24073253/stablity-ai-image-generation-stable-cascade-diffusion-model)
  - [The best Presidents Day deals you can already get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
- - [How to Break Up With Prime Video With Ads and Go Ad-Free     - CNET](https://www.cnet.com/tech/services-and-software/how-to-break-up-with-prime-video-with-ads-and-go-ad-free/#ftag=CAD590a51e)
- - [A Sommelier Explains How to Find Good Wine at a Grocery Store     - CNET](https://www.cnet.com/how-to/how-to-find-good-wine-at-the-grocery-store-according-to-an-expert-sommelier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Break Up With Prime Video With Ads and Go Ad-Free     - CNET](https://www.cnet.com/tech/services-and-software/how-to-break-up-with-prime-video-with-ads-and-go-ad-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

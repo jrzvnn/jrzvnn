@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
- - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
+ - 😝 [How will you afford a house down payment?](http://9gag.com/gag/aBdqQXA)
+ - 😝 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
+ - 💣 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 😝 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
+ - 👉 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)<!-- MEMES:END -->
 
 ---
 

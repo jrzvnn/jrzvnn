@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
- - 💣 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Peru](http://9gag.com/gag/amAjz96)
+ - 😝 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
+ - 💣 [This shouldnt happen in civilized countries and get funded by EU taxpayers, free housing, free food, free phone, free healthcare, refuse to work, refuse to pay for any services, assault natives...](http://9gag.com/gag/aMERQ3V)
+ - 😝 [There is another](http://9gag.com/gag/axoxDDM)
+ - 👉 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft President Brad Smith says the company plans to invest &amp;euro;3.2B in Germany in the next two years with a focus on AI, its biggest German investment ever &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240215/p16#a240215p16)
- - [Here Comes the Flood of AI-Generated Clickbait](https://www.wired.com/story/gadget-lab-podcast-632/)
  - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
- - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
- - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Senior citizen hit by car saved by his new Apple Watch](https://appleinsider.com/articles/24/02/15/senior-citizen-hit-by-car-saved-by-his-new-apple-watch?utm_medium=rss)
+ - [M4 and A18 Apple Silicon rumored to get more powerful Neural Engines for iOS 18 AI features](https://appleinsider.com/articles/24/02/14/apples-m4-and-a18-to-have-more-powerful-neural-engines-for-ios-18-ai-features?utm_medium=rss)
+ - [The 6 Best Fidget Toys for Anxiety in 2024     - CNET](https://www.cnet.com/health/mental/6-best-fidget-toys-for-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

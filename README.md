@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)
- - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
- - 💣 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 😝 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
+ - 😝 [Worth it](http://9gag.com/gag/awZRxAD)
+ - 💣 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
+ - 😝 [Meanwhile in Peru](http://9gag.com/gag/amAjz96)
+ - 👉 [Making progress here](http://9gag.com/gag/axoxj4Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose&#39;s Ultra Open Earbuds Review: Impressive Sound, High Price](https://www.wired.com/review/bose-ultra-open-earbuds/)
+ - [Lambda, which offers cloud computing services and computers to train AI, raised $320M led by Thomas Tull&#39;s US Innovative Technology at a $1.5B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240215/p17#a240215p17)
  - [Bose’s new earbuds don’t go inside your ears at all](https://www.theverge.com/2024/2/15/24073713/bose-ultra-open-earbuds-announced-features)
  - [TikTok’s native app arrives for the Vision Pro](https://www.theverge.com/2024/2/15/24073674/tiktok-apple-vision-pro-app-launched)
  - [Lucid slashes prices for its luxury EVs for the third time in seven months](https://www.theverge.com/2024/2/15/24073233/lucid-motor-price-cut-air-pure-charging-allowance)

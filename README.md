@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC rises ~8% in its first post-Lunar New Year trading session, reaching a record $575B market cap and passing Visa as the world&#39;s 12th most valuable company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p14#a240215p14)
+ - [Math conspiracy comes to Apple TV+ in new thriller series](https://appleinsider.com/articles/24/02/15/math-conspiracy-comes-to-apple-tv-in-new-thriller-series?utm_medium=rss)
+ - [Kara Swisher Is Sick of Tech People, So She Wrote a Book About Them](https://www.wired.com/story/kara-swisher-burn-book/)
  - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)
- - [A US judge approves Genesis&#39; plan to sell ~$1.6B in Grayscale crypto trust shares to repay creditors, including 35M GBTC shares, worth ~$1.38B &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240215/p12#a240215p12)
- - [Sources: Italian app developer Bending Spoons raised $155M from Baillie Gifford and more at a $2.6B valuation, after raising $100M in 2023, and seeks M&amp;A deals &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/240215/p11#a240215p11)
- - [Leaked Google documents detail Goose, a Gemini-based LLM designed for internal use to help employees write code faster, as part of an AI-driven efficiency push &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/240215/p10#a240215p10)
- - [A look at robots.txt, a good will-based social contract governing the behavior of web crawlers, as experts call for more rigid tools for managing AI crawlers &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240215/p9#a240215p9)<!-- TECH:END -->
+ - [A US judge approves Genesis&#39; plan to sell ~$1.6B in Grayscale crypto trust shares to repay creditors, including 35M GBTC shares, worth ~$1.38B &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240215/p12#a240215p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

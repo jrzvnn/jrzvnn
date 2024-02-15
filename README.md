@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 😝 [Little man](http://9gag.com/gag/awZRVbW)
- - 💣 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [Whale explodes](http://9gag.com/gag/aEqrzrN)<!-- MEMES:END -->
+ - 😝 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 💣 [Apparently, this was considered plus size in 2003.](http://9gag.com/gag/a4oeZP1)
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 

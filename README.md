@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to let businesses install auto-updating ChromeOS Flex to Windows devices, to help stop millions of Windows 10 PCs from hitting landfills in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240215/p15#a240215p15)
  - [TSMC rises ~8% in its first post-Lunar New Year trading session, reaching a record $575B market cap and passing Visa as the world&#39;s 12th most valuable company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240215/p14#a240215p14)
  - [Math conspiracy comes to Apple TV+ in new thriller series](https://appleinsider.com/articles/24/02/15/math-conspiracy-comes-to-apple-tv-in-new-thriller-series?utm_medium=rss)
  - [Kara Swisher Is Sick of Tech People, So She Wrote a Book About Them](https://www.wired.com/story/kara-swisher-burn-book/)
- - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)
- - [How to Make the Most of Energy Efficiency Tax Credits in 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-make-the-most-of-energy-efficiency-tax-credits-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

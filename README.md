@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Sam Altman is the sole owner of the OpenAI Startup Fund, which reported $175M in total commitments in May 2023; Microsoft is an outside limited partner &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240215/p27#a240215p27)
  - [&#39;Napoleon&#39; storms onto Apple TV+ in March](https://appleinsider.com/articles/24/02/15/napoleon-storms-onto-apple-tv-in-march?utm_medium=rss)
  - [Save $50 on the Keurig K-Mini Plus and Score Free Coffee This Presidents Day     - CNET](https://www.cnet.com/deals/save-50-on-the-keurig-k-mini-plus-and-score-free-coffee-this-presidents-day/#ftag=CAD590a51e)
  - [The SEC approves Truth Social&#39;s SPAC merger with DWAC; Trump&#39;s stake in the post-merger company would be valued at more than $4B at today&#39;s price &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240215/p26#a240215p26)
- - [Social Security Recipients: Should You File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-should-you-file-taxes-this-year/#ftag=CAD590a51e)
- - [In 2023, crypto money laundering fell 29.5% YoY to $22.2B, 109 addresses each got $10M+ in illicit crypto, and five off-ramp services got 71.7% of illicit funds &lpar;Chainalysis&rpar;](http://www.techmeme.com/240215/p25#a240215p25)<!-- TECH:END -->
+ - [Social Security Recipients: Should You File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-should-you-file-taxes-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

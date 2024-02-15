@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some European entrepreneurs believe the EU&#39;s scrutiny of deals involving tech giants will lead to less M&amp;A activity, reducing exit routes from their business &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240215/p3#a240215p3)
  - [A look at The Shotline, a project using ElevenLabs&#39; tech to create audio deepfakes of kids killed in gun violence, to place AI-generated calls to US lawmakers &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240215/p2#a240215p2)
  - [Meta struggles to precisely define what political content is, offering only a vague statement, after saying it wouldn&#39;t amplify political content on Threads &lpar;Oliver Darcy/CNN&rpar;](http://www.techmeme.com/240215/p1#a240215p1)
  - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)
- - [Are Prepaid Debit Cards Right for You? How to Decide     - CNET](https://www.cnet.com/personal-finance/credit-cards/are-prepaid-debit-cards-right-for-you-how-to-decide/#ftag=CAD590a51e)
- - [How to record audio while screen recording on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-record-audio-while-screen-recording-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Are Prepaid Debit Cards Right for You? How to Decide     - CNET](https://www.cnet.com/personal-finance/credit-cards/are-prepaid-debit-cards-right-for-you-how-to-decide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

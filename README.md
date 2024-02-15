@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
  - 😝 [Hear me out](http://9gag.com/gag/a3Z9dVv)
- - 💣 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Strike](http://9gag.com/gag/aNwxoAw)<!-- MEMES:END -->
+ - 😝 [The grading system in Korea](http://9gag.com/gag/aYV8e0m)
+ - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 👉 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)<!-- MEMES:END -->
 
 ---
 

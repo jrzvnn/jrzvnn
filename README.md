@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?](https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/)
  - [Xcode coding assistance rumored to be early Apple generative AI effort](https://appleinsider.com/articles/24/02/15/xcode-coding-assistance-rumored-to-be-early-apple-ai-effort?utm_medium=rss)
  - [Roku reports Q4 revenue up 14% YoY to $984.4M, vs. $968.2M est., and warns of a &quot;challenging&quot; environment for media and entertainment in 2024; ROKU drops 14%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240215/p35#a240215p35)
  - [New bill would let defendants inspect algorithms used against them in court](https://www.theverge.com/2024/2/15/24074214/justice-in-forensic-algorithms-act-democrats-mark-takano-dwight-evans)
- - [&#39;Diablo IV&#39; Heads to Game Pass as Microsoft Eyes 4 Games to Expand Beyond Xbox](https://www.wired.com/story/xbox-exclusives-diablo-iv-game-pass-march-28/)
- - [Best Solar Panel Installation Companies in Maryland     - CNET](https://www.cnet.com/home/energy-and-utilities/maryland-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Diablo IV&#39; Heads to Game Pass as Microsoft Eyes 4 Games to Expand Beyond Xbox](https://www.wired.com/story/xbox-exclusives-diablo-iv-game-pass-march-28/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

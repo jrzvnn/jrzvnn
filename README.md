@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [One of those apartments u just spawn in](http://9gag.com/gag/a1PzXAG)
- - 💣 [This serial killer kills serial killers!](http://9gag.com/gag/az2NjMm)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
+ - 😝 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 💣 [You asked for it](http://9gag.com/gag/a04AdRQ)
+ - 😝 [Post the most unfunny memes you have](http://9gag.com/gag/aeQoYYb)
+ - 👉 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)<!-- MEMES:END -->
 
 ---
 

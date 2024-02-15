@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC approves Truth Social&#39;s SPAC merger with DWAC; Trump&#39;s stake in the post-merger company would be valued at more than $4B at today&#39;s price &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240215/p26#a240215p26)
+ - [In 2023, crypto money laundering fell 29.5% YoY to $22.2B, 109 addresses each got $10M+ in illicit crypto, and five off-ramp services got 71.7% of illicit funds &lpar;Chainalysis&rpar;](http://www.techmeme.com/240215/p25#a240215p25)
  - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)
  - [Some People Actually Kind of Love Deepfakes](https://www.wired.com/story/ai-deepfakes-companies-executives-academics/)
- - [Scout Motors wants to put the ‘mechanical’ back into electric trucks](https://www.theverge.com/2024/2/15/24073745/scout-motors-ev-truck-factory-groundbreaking-ceo-interview)
- - [YouTube adds the ability for users to incorporate, or &quot;remix&quot;, a music video in their Shorts, weeks after UMG pulled its song catalog from TikTok &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240215/p24#a240215p24)
- - [Executive Office Chair w/ Leg Rest     - CNET](https://www.cnet.com/news/executive-office-chair-w-leg-rest-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scout Motors wants to put the ‘mechanical’ back into electric trucks](https://www.theverge.com/2024/2/15/24073745/scout-motors-ev-truck-factory-groundbreaking-ceo-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

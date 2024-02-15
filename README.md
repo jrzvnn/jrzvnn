@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [\u201cCultural Appropriation\u201d in Japan. 52s](http://9gag.com/gag/arm6RKX)
  - 😝 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
- - 💣 [The mayor of the Brazilian city of Araucari, Hissam Hussein Dehaini 65 married a 16-year-old girl one day after her birthday. The day after the ceremony he named his new mother-in-law as Secretary of Culture and Tourism of this municipality in southern Brazil.](http://9gag.com/gag/ajVbAmG)
- - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - 👉 [Sadly, sometimes dreams are not becoming true.](http://9gag.com/gag/aOxgqo6)<!-- MEMES:END -->
+ - 💣 [The Argentinian footballer Enzo ignores the black kids and gives his shirt to the white boy](http://9gag.com/gag/a2KBNOw)
+ - 😝 [Works everytime!](http://9gag.com/gag/a04AYQd)
+ - 👉 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
 
 ---
 

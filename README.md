@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Math conspiracy comes to Apple TV+ in new thriller series](https://appleinsider.com/articles/24/02/15/math-conspiracy-comes-to-apple-tv-in-new-thriller-series?utm_medium=rss)
  - [Kara Swisher Is Sick of Tech People, So She Wrote a Book About Them](https://www.wired.com/story/kara-swisher-burn-book/)
  - [Canva CFO Damien Singh resigned last week, as the company prepares for a $1.5B share sale; Canva confirms an investigation of Singh for inappropriate behavior &lpar;Australian Financial Review&rpar;](http://www.techmeme.com/240215/p13#a240215p13)
- - [A US judge approves Genesis&#39; plan to sell ~$1.6B in Grayscale crypto trust shares to repay creditors, including 35M GBTC shares, worth ~$1.38B &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240215/p12#a240215p12)<!-- TECH:END -->
+ - [How to Make the Most of Energy Efficiency Tax Credits in 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-make-the-most-of-energy-efficiency-tax-credits-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

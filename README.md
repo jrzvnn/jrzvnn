@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo’s transparent laptop concept resurfaces in new leak](https://www.theverge.com/2024/2/15/24073658/lenovo-transparent-laptop-leak-mwc-2024-concept)
+ - [Omdia: South African streaming company Showmax had 2.1M subscribers in Africa at the end of November 2023, ahead of Netflix&#39;s 1.8M and Amazon Prime Video&#39;s 300K &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240215/p8#a240215p8)
+ - [Fake Caviar Invented in the 1930s Could Be the Solution to Plastic Pollution](https://www.wired.com/story/plastic-pollution-packaging-notpla/)
  - [A look at OpenAI&#39;s business model as the company believes it can more than double the yearly run rate by 2025; ChatGPT enterprise now has 300+ paying customers &lpar;Financial Times&rpar;](http://www.techmeme.com/240215/p7#a240215p7)
- - [Extremely Hardcore book excerpt: how Elon Musk&#39;s decision to impose rate limits on Twitter in summer 2023 helped upsell Blue, as he prepared to launch xAI &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/240215/p6#a240215p6)
- - [The CEO of Greek payments company Viva Wallet, co-owned by JPMorgan, sues the bank for allegedly suppressing Viva&#39;s growth, as JPMorgan files a counter claim &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240215/p5#a240215p5)
- - [Best Cheap Fidget Toys for Anxiety for 2024     - CNET](https://www.cnet.com/health/mental/best-cheap-fidget-toys-for-anxiety/#ftag=CAD590a51e)
- - [Prospects of a wide-ranging AI bill in the US this year are rapidly dimming, despite Senator Chuck Schumer&#39;s push to put AI regulation at the top of the agenda &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240215/p4#a240215p4)<!-- TECH:END -->
+ - [Extremely Hardcore book excerpt: how Elon Musk&#39;s decision to impose rate limits on Twitter in summer 2023 helped upsell Blue, as he prepared to launch xAI &lpar;Zo&amp;euml; Schiffer/Wired&rpar;](http://www.techmeme.com/240215/p6#a240215p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

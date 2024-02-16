@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog pretends to play dead then strikes on kidnapper.](http://9gag.com/gag/ay2gL1W)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [Little man](http://9gag.com/gag/awZRVbW)
  - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 👉 [SheiiiT!](http://9gag.com/gag/agoMq1q)<!-- MEMES:END -->
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---
 

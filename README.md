@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nikon Zf Review: A Mirrorless Camera With Classic Style](https://www.wired.com/review/nikon-zf-mirrorless-camera/)
  - [Why does Apple make it so hard to share the Vision Pro?](https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties)
  - [Google Search Labs is testing a &quot;Talk to a Live Representative&quot; feature, which will call businesses on users&#39; behalf and hold until a human becomes available &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240216/p8#a240216p8)
  - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)
- - [South Korea&#39;s FTC delays a bill modeled after the EU&#39;s DMA, after a furious backlash from South Korean industry lobbyists and consumers, along with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p7#a240216p7)
- - [One of the best Apple Silicon games is free to play this weekend](https://appleinsider.com/articles/24/02/16/one-of-the-best-apple-silicon-games-is-free-to-play-this-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [South Korea&#39;s FTC delays a bill modeled after the EU&#39;s DMA, after a furious backlash from South Korean industry lobbyists and consumers, along with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p7#a240216p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

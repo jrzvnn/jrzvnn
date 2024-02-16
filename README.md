@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US and its allies disrupt access by Russia-backed hacking group APT28, or Fancy Bear, to 1,000+ home and small business routers used for criminal purposes &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/240215/p42#a240215p42)
+ - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)
+ - [TikTok on the Vision Pro: How Does It Work? video     - CNET](https://www.cnet.com/videos/tiktok-on-the-vision-pro-how-does-it-work/#ftag=CAD590a51e)
  - [Google announces the AI Cyber Defense Initiative, which includes launching new AI security training and open sourcing Magika, a tool used to protect Gmail users &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240215/p41#a240215p41)
- - [Best Internet Providers in Shreveport, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
- - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)
- - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)
- - [Meet Sora, OpenAI&#39;s Text-to-Video Generator     - CNET](https://www.cnet.com/tech/meet-sora-openais-text-to-video-generator/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Shreveport, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

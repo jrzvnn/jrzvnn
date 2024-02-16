@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Give Us an Xbox Handheld Already](https://www.wired.com/story/give-us-an-xbox-handheld-already/)
  - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
  - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)
  - [21 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/the-best-presidents-day-deals-nl/)
- - [Laura Geller Balance-n-Brighten     - CNET](https://www.cnet.com/culture/fashion/laura-geller-balance-n-brighten-dpnl/#ftag=CAD590a51e)
- - [Philosophy Shower Gel Set     - CNET](https://www.cnet.com/culture/fashion/philosophy-shower-gel-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Laura Geller Balance-n-Brighten     - CNET](https://www.cnet.com/culture/fashion/laura-geller-balance-n-brighten-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

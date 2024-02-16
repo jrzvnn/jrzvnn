@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A luxury airline says it&#39;ll hand out Apple Vision Pro to select passengers](https://appleinsider.com/articles/24/02/16/a-luxury-airline-says-itll-hand-out-apple-vision-pro-to-select-passengers?utm_medium=rss)
  - [Epic says it &quot;will start developing the Epic Games Store on iOS soon thanks to the new Digital Markets Act&quot;, after Apple approved its developer account &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240216/p16#a240216p16)
  - [Tommy Tallarico’s never-actually-featured-on-MTV-Cribs house is for sale](https://www.theverge.com/2024/2/16/24074902/tommy-tallarico-oof-hbomberguy-mtv-cribs-house-listing)
  - [Wyze security cameras are coming back online after an outage cut off access](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
- - [So far, the early return rate on Apple Vision Pro is pretty low](https://appleinsider.com/articles/24/02/16/so-far-the-early-return-rate-on-apple-vision-pro-is-pretty-low?utm_medium=rss)
- - [OpenAI, Google, Meta, TikTok, X, and others sign a voluntary accord at the Munich Security Conference to fight AI-generated deepfakes designed to mislead voters &lpar;Associated Press&rpar;](http://www.techmeme.com/240216/p15#a240216p15)<!-- TECH:END -->
+ - [So far, the early return rate on Apple Vision Pro is pretty low](https://appleinsider.com/articles/24/02/16/so-far-the-early-return-rate-on-apple-vision-pro-is-pretty-low?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

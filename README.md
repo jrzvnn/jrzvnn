@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of the best Apple Silicon games is free to play this weekend](https://appleinsider.com/articles/24/02/16/one-of-the-best-apple-silicon-games-is-free-to-play-this-weekend?utm_medium=rss)
+ - [Kyiv Is Using Homegrown Tech to Treat the Trauma of War](https://www.wired.com/story/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/)
  - [Kanye West&#39;s &#39;Vultures 1&#39; briefly pulled from Apple Music after distributor drama](https://appleinsider.com/articles/24/02/15/kanye-wests-vultures-1-pulled-from-apple-music-after-distributor-drama?utm_medium=rss)
  - [Ahead of the 2024 US election, Anthropic is testing Prompt Shield, which will redirect users asking political topics to &quot;authoritative&quot; sources of voting info &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240216/p5#a240216p5)
- - [Hundreds strike at Apple supplier Flex&#39;s plant in India](https://appleinsider.com/articles/24/02/16/hundreds-strike-at-apple-supplier-flexs-plant-in-india?utm_medium=rss)
- - [Read Phil Spencer’s Microsoft memo on ‘Xbox everywhere’](https://www.theverge.com/2024/2/16/24074729/microsoft-phil-spencer-xbox-everywhere-memo)
- - [Apple&#39;s iPhone SE 4 rumored to launch early in 2025](https://appleinsider.com/articles/24/02/16/apples-iphone-se-4-to-launch-early-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Hundreds strike at Apple supplier Flex&#39;s plant in India](https://appleinsider.com/articles/24/02/16/hundreds-strike-at-apple-supplier-flexs-plant-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donkey laughs when dog gets electric shock](http://9gag.com/gag/ajVbNoQ)
- - 😝 [Take fifty with me](http://9gag.com/gag/aoKrOqA)
- - 💣 [The next game: guess the colour](http://9gag.com/gag/aDYpx4N)
- - 😝 [Why Poland safe?](http://9gag.com/gag/a5Xmn3g)
- - 👉 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)<!-- MEMES:END -->
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 

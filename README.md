@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Reddit signed a deal early in 2024, worth ~$60M on an annualized basis, allowing a large unnamed AI company to train its models on Reddit&#39;s content &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240216/p26#a240216p26)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Sources: the Biden administration is in talks to confer more than $10B in subsidies to Intel, in what would be the largest award yet under the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p25#a240216p25)
  - [OpenAI can’t register ‘GPT’ as a trademark — yet](https://www.theverge.com/2024/2/16/24075304/trademark-pto-openai-gpt-deny)
- - [Sources: OpenAI has completed a deal that values the company at $80B or more; OpenAI would sell existing shares in a tender offer led by Thrive Capital &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p24#a240216p24)
- - [SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles](https://www.wired.com/story/spacex-hypersonic-missile-satellites/)
- - [Best Meal Delivery Deals for Presidents Day: Purple Carrot, Blue Apron, Green Chef and More     - CNET](https://www.cnet.com/deals/best-meal-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI has completed a deal that values the company at $80B or more; OpenAI would sell existing shares in a tender offer led by Thrive Capital &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p24#a240216p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

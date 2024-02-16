@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
- - 💣 [Take fifty with me](http://9gag.com/gag/aoKrOqA)
- - 😝 [There&#39;s an anti-government rally in Hungary right now organized by youtubers and musicians, not politicans. Wish us the best.](http://9gag.com/gag/aA0WxQR)
- - 👉 [Why Poland safe?](http://9gag.com/gag/a5Xmn3g)<!-- MEMES:END -->
+ - 😝 [Donkey laughs when dog gets electric shock](http://9gag.com/gag/ajVbNoQ)
+ - 😝 [Take fifty with me](http://9gag.com/gag/aoKrOqA)
+ - 💣 [The next game: guess the colour](http://9gag.com/gag/aDYpx4N)
+ - 😝 [Why Poland safe?](http://9gag.com/gag/a5Xmn3g)
+ - 👉 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)<!-- MEMES:END -->
 
 ---
 

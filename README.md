@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; will return to the App Store -- but only in the EU.](https://appleinsider.com/articles/24/02/16/fortnite-will-return-to-the-app-store----but-only-in-the-eu?utm_medium=rss)
+ - [&#39;Fortnite&#39; will return to the iPhone -- but only in the EU](https://appleinsider.com/articles/24/02/16/fortnite-will-return-to-the-app-store----but-only-in-the-eu?utm_medium=rss)
+ - [The studio behind Jedi: Survivor is reportedly making a Mandalorian game](https://www.theverge.com/2024/2/16/24074936/mandalorian-game-star-wars-respawn)
  - [The shine comes off the Vision Pro](https://www.theverge.com/24074795/vision-pro-returns-xbox-future-gemini-open-ai-vergecast)
  - [PitchBook: VC investment in crypto rose 2.5% QoQ in Q4 2023 to $1.9B, the first rise since Q1 2022; Q4 2023 saw 12 crypto exits, the lowest number since Q4 2020 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240216/p14#a240216p14)
- - [Apple unbanned Epic so it can make an iOS games store in the EU](https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite)
- - [Grab Apple&#39;s M2 MacBook Air with 16GB RAM for just $1,099](https://appleinsider.com/articles/24/02/16/grab-apples-m2-macbook-air-with-16gb-ram-for-just-1099?utm_medium=rss)<!-- TECH:END -->
+ - [Apple unbanned Epic so it can make an iOS games store in the EU](https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

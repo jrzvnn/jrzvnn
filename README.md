@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone SE 4 rumored to launch early in 2025](https://appleinsider.com/articles/24/02/16/apples-iphone-se-4-to-launch-early-in-2025?utm_medium=rss)
  - [An interview with Kurt Wagner on his new book Battle for the Bird, a Jack Dorsey biography morphed into a deep dive on Twitter&#39;s tumultuous transition to X &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240216/p4#a240216p4)
  - [Google offers non-Pixel owners a way to avoid waiting on hold with latest test](https://www.theverge.com/2024/2/16/24074715/google-talk-to-a-live-representative-assistant-hold-phone-call)
  - [Microsoft fixes Edge browser bug that was stealing Chrome tabs and data](https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix)
- - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)
- - [All the Money You&#39;ll Delay if You File a Tax Extension in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/all-the-money-youll-delay-if-you-file-a-tax-extension-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

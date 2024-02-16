@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
- - 😝 [Tuna, from sea to the table](http://9gag.com/gag/a4oeZvd)
- - 👉 [So, there is a way](http://9gag.com/gag/aeQoYpW)<!-- MEMES:END -->
+ - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
 
 ---
 

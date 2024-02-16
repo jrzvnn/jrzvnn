@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
+ - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)
+ - [21 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/the-best-presidents-day-deals-nl/)
  - [This Is Why Tesla&#39;s Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
- - [21 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/best-presidents-day-deals-sales-2024/)
- - [Meta is matching existing fact-checks to &quot;near-identical content on Threads&quot;, but says it will soon let fact-checkers rate content directly on Threads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240216/p22#a240216p22)
- - [The Nintendo Switch 2 will now reportedly arrive in 2025 instead of 2024](https://www.theverge.com/2024/2/16/24075174/switch-2-launch-date-rumor-q1-2025)
- - [The best Presidents Day deals you can already get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)<!-- TECH:END -->
+ - [21 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/best-presidents-day-deals-sales-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

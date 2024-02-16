@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)
  - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
  - [You sound like a bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
  - [The EU expands DSA to all online platforms, marketplaces, and &quot;intermediaries&quot;; only businesses with fewer than 50 staff and annual revenue of &amp;euro;10M+ are exempt &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/240216/p11#a240216p11)
- - [Clubhouse launches group voice chats, which will read out texts sent by members in the sender&#39;s custom voice &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240216/p10#a240216p10)
- - [Sierra Says Conversational AI Will Kill Apps and Websites](https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/)<!-- TECH:END -->
+ - [Clubhouse launches group voice chats, which will read out texts sent by members in the sender&#39;s custom voice &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240216/p10#a240216p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

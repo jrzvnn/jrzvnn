@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
+ - 😝 [So, there is a way](http://9gag.com/gag/aeQoYpW)
  - 😝 [Little man](http://9gag.com/gag/awZRVbW)
- - 💣 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---
 

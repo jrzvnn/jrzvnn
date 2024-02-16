@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)
- - [The future of Xbox: all the news on Microsoft’s strategy shift](https://www.theverge.com/24073286/xbox-console-exclusivity-hardware-update-game-pass)
- - [You sound like a bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
- - [The EU expands DSA to all online platforms, marketplaces, and &quot;intermediaries&quot;; only businesses with fewer than 50 staff and annual revenue of &amp;euro;10M+ are exempt &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/240216/p11#a240216p11)
- - [Clubhouse launches group voice chats, which will read out texts sent by members in the sender&#39;s custom voice &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240216/p10#a240216p10)<!-- TECH:END -->
+ - [A Wyze outage is cutting off people’s access to their security cameras](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
+ - [OpenAI&#39;s Sora announcement sparks awe and horror, as the company continues to be frustratingly secretive about the data used to train the text-to-video model &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240216/p12#a240216p12)
+ - [Microsoft&#39;s CEO doesn&#39;t think iOS is open enough for Xbox gaming](https://appleinsider.com/articles/24/02/16/microsofts-ceo-doesnt-think-ios-is-open-enough-for-xbox-gaming?utm_medium=rss)
+ - [Live TV Is the New Streaming](https://www.wired.com/story/super-bowl-123-million-viewers-live-tv-streaming/)
+ - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

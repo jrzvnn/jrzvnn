@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
  - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
+ - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
+ - 💣 [Take fifty with me](http://9gag.com/gag/aoKrOqA)
+ - 😝 [There&#39;s an anti-government rally in Hungary right now organized by youtubers and musicians, not politicans. Wish us the best.](http://9gag.com/gag/aA0WxQR)
+ - 👉 [Why Poland safe?](http://9gag.com/gag/a5Xmn3g)<!-- MEMES:END -->
 
 ---
 

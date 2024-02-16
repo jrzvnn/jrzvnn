@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
- - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [So, there is a way](http://9gag.com/gag/aeQoYpW)<!-- MEMES:END -->
 
 ---
 

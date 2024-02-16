@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
+ - 😝 [Tuna, from sea to the table](http://9gag.com/gag/a4oeZvd)
+ - 👉 [So, there is a way](http://9gag.com/gag/aeQoYpW)<!-- MEMES:END -->
 
 ---
 

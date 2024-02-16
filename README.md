@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [AI Videos are weird](http://9gag.com/gag/avQYGob)
  - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 💣 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
  - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 💣 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
- - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 👉 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)<!-- MEMES:END -->
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

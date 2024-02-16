@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 💣 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
  - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - 👉 [Tuna, from sea to the table](http://9gag.com/gag/a4oeZvd)<!-- MEMES:END -->
 
 ---
 

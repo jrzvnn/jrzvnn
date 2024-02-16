@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
+ - 👉 [\ud83c\udf54The situation at McDonald&#39;s Cologne, Germany](http://9gag.com/gag/aEqr77o)<!-- MEMES:END -->
 
 ---
 

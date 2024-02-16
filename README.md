@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 💣 [Omg, the pegi guy is real](http://9gag.com/gag/agoMX4x)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 😝 [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
+ - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
+ - 💣 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 

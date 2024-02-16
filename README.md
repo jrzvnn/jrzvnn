@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spike Jonze’s Her holds up a decade later](https://www.theverge.com/24066233/her-ai-film-spike-jonze-joaquin-phoenix-scarlett-johansson)
+ - [Microsoft&#39;s gaming CEO doesn&#39;t think iOS is open enough for Xbox gaming](https://appleinsider.com/articles/24/02/16/microsofts-ceo-doesnt-think-ios-is-open-enough-for-xbox-gaming?utm_medium=rss)
+ - [Foreign propaganda accounts aiming to affect US elections are flourishing on X, which isn&#39;t participating in info-sharing meetings with other social platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/240216/p13#a240216p13)
  - [Nectar&#39;s Presidents Day Sale Will Save You up to 40% on Your Next Mattress     - CNET](https://www.cnet.com/deals/nectars-presidents-day-sale-will-save-you-up-to-40-on-your-next-mattress/#ftag=CAD590a51e)
- - [Get an Affordable New Pair of Glasses With GlassesUSA&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/get-an-affordable-new-pair-of-glasses-with-glassesusas-presidents-day-sale/#ftag=CAD590a51e)
- - [A Wyze outage is cutting off people’s access to their security cameras](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
- - [OpenAI&#39;s Sora announcement sparks awe and horror, as the startup continues to be frustratingly secretive about the data used to train the text-to-video model &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240216/p12#a240216p12)
- - [Microsoft&#39;s CEO doesn&#39;t think iOS is open enough for Xbox gaming](https://appleinsider.com/articles/24/02/16/microsofts-ceo-doesnt-think-ios-is-open-enough-for-xbox-gaming?utm_medium=rss)<!-- TECH:END -->
+ - [Get an Affordable New Pair of Glasses With GlassesUSA&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/get-an-affordable-new-pair-of-glasses-with-glassesusas-presidents-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
+ - 😝 [So, there is a way](http://9gag.com/gag/aeQoYpW)
  - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A pirate game where u can&#39;t EVEN SWIM. That&#39;s exactly what we wanted from a pirate game.](http://9gag.com/gag/az2N8KN)
- - 😝 [This man is my spirit animal](http://9gag.com/gag/aL1YBpz)
- - 💣 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
+ - 😝 [Tuna, from sea to the table](http://9gag.com/gag/a4oeZvd)
+ - 👉 [So, there is a way](http://9gag.com/gag/aeQoYpW)<!-- MEMES:END -->
 
 ---
 

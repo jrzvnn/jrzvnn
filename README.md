@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
  - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
  - 💣 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
 
 ---
 

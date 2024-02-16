@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Masayoshi Son seeks ~$100B for an AI chip venture to compete with Nvidia; one scenario involves $30B from SoftBank and $70B from Middle East investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)
+ - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)
  - [Vudu’s name is changing to ‘Fandango at Home’](https://www.theverge.com/2024/2/16/24075041/vudu-fandango-at-home-rebranding-new-name)
  - [Google releases the first developer preview of Android 15, with updates related to Android&#39;s Dynamic Performance Framework, privacy, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240216/p18#a240216p18)
  - [Amazon — like SpaceX — claims the labor board is unconstitutional](https://www.theverge.com/2024/2/16/24074954/amazon-labor-board-nlrb-unconstitutional)
- - [Email: Revolut is testing a cryptocurrency exchange targeted at &quot;advanced traders&quot;, with trading fees between 0% and 0.09%, limit and market orders, more &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240216/p17#a240216p17)<!-- TECH:END -->
+ - [Email: Revolut is testing a cryptocurrency exchange targeted at &quot;advanced traders&quot;, with trading fees between 0% and 0.09%, limit and market orders, and more &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240216/p17#a240216p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

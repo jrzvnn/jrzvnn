@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Wyze outage is cutting off people’s access to their security cameras](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
+ - [Tommy Tallarico’s never-actually-featured-on-MTV-Cribs house is for sale](https://www.theverge.com/2024/2/16/24074902/tommy-tallarico-oof-hbomberguy-mtv-cribs-house-listing)
+ - [Wyze security cameras are coming back online after an outage cut off access](https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline)
+ - [So far, the early return rate on Apple Vision Pro is pretty low](https://appleinsider.com/articles/24/02/16/so-far-the-early-return-rate-on-apple-vision-pro-is-pretty-low?utm_medium=rss)
  - [OpenAI, Google, Meta, TikTok, X, and others sign a voluntary accord at the Munich Security Conference to fight AI-generated deepfakes designed to mislead voters &lpar;Associated Press&rpar;](http://www.techmeme.com/240216/p15#a240216p15)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [Best Online Therapy Services for 2024     - CNET](https://www.cnet.com/health/mental/best-online-therapy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

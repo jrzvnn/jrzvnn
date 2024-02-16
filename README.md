@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vudu’s name is changing to ‘Fandango at Home’](https://www.theverge.com/2024/2/16/24075041/vudu-fandango-at-home-rebranding-new-name)
+ - [Google releases the first developer preview of Android 15, with updates related to Android&#39;s Dynamic Performance Framework, privacy, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240216/p18#a240216p18)
  - [Amazon — like SpaceX — claims the labor board is unconstitutional](https://www.theverge.com/2024/2/16/24074954/amazon-labor-board-nlrb-unconstitutional)
  - [Email: Revolut is testing a cryptocurrency exchange targeted at &quot;advanced traders&quot;, with trading fees between 0% and 0.09%, limit and market orders, more &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240216/p17#a240216p17)
- - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
- - [Android 15’s first developer preview has arrived](https://www.theverge.com/2024/2/16/24074987/android-15-developer-preview-vanilla-ice-cream)
- - [The Apple Vision Pro Is Heavy. Here&#39;s How to Fix That](https://www.wired.com/story/apple-vision-pro-is-heavy-heres-how-to-fix-that/)<!-- TECH:END -->
+ - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google announces the AI Cyber Defense Initiative, which includes launching new AI security training and open sourcing Magika, a tool used to protect Gmail users &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240215/p41#a240215p41)
+ - [Best Internet Providers in Shreveport, Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-shreveport-la/#ftag=CAD590a51e)
  - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)
- - [Meet Sora, OpenAI&#39;s Text-to-Video Generator     - CNET](https://www.cnet.com/tech/meet-sora-openais-text-to-video-generator/#ftag=CAD590a51e)
- - [Neretva Bread Maker Machine     - CNET](https://www.cnet.com/news/neretva-bread-maker-machine-dpnl/#ftag=CAD590a51e)
- - [Owlet Smart Baby Monitor     - CNET](https://www.cnet.com/health/parenting/owlet-smart-baby-monitor-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)
+ - [Meet Sora, OpenAI&#39;s Text-to-Video Generator     - CNET](https://www.cnet.com/tech/meet-sora-openais-text-to-video-generator/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

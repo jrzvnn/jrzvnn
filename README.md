@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
- - 😝 [Little man](http://9gag.com/gag/awZRVbW)
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
+ - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
+ - 😝 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)
+ - 💣 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
+ - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
+ - 👉 [You asked for it](http://9gag.com/gag/a04AdRQ)<!-- MEMES:END -->
 
 ---
 

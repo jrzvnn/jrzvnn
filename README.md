@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Whale explodes](http://9gag.com/gag/aEqrzrN)
- - 😝 [Little man](http://9gag.com/gag/awZRVbW)
- - 💣 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
- - 😝 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
  - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
 
 ---

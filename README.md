@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainian Vyacheslav Penchukov pleads guilty in the US for his role in the Zeus and IcedID malware groups, which stole millions from victims for over a decade &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240215/p39#a240215p39)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Toast plans to lay off ~550 employees, or ~10% of its workforce, to promote &quot;operating expense efficiency&quot; and will incur about $50M in costs such as severance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240215/p38#a240215p38)
- - [Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says](https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/)
- - [Apple is reportedly working on AI updates to Spotlight and Xcode](https://www.theverge.com/2024/2/15/24074455/apple-generative-ai-xcode-spotlight-testing)<!-- TECH:END -->
+ - [Meta releases V-JEPA, an AI model that learns by predicting missing or masked parts of unlabeled video to develop a conceptual understanding of the world &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240215/p40#a240215p40)
+ - [Meet Sora, OpenAI&#39;s Text-to-Video Generator     - CNET](https://www.cnet.com/tech/meet-sora-openais-text-to-video-generator/#ftag=CAD590a51e)
+ - [Neretva Bread Maker Machine     - CNET](https://www.cnet.com/news/neretva-bread-maker-machine-dpnl/#ftag=CAD590a51e)
+ - [Owlet Smart Baby Monitor     - CNET](https://www.cnet.com/health/parenting/owlet-smart-baby-monitor-dpnl/#ftag=CAD590a51e)
+ - [Nugget Countertop Ice Maker     - CNET](https://www.cnet.com/news/nugget-countertop-ice-maker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

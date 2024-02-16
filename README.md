@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI has completed a deal that values the company at $80B or more; OpenAI would sell existing shares in a tender offer led by Thrive Capital &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p24#a240216p24)
  - [SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles](https://www.wired.com/story/spacex-hypersonic-missile-satellites/)
+ - [Best Meal Delivery Deals for Presidents Day: Purple Carrot, Blue Apron, Green Chef and More     - CNET](https://www.cnet.com/deals/best-meal-delivery-deals/#ftag=CAD590a51e)
  - [Give Us an Xbox Handheld Already](https://www.wired.com/story/give-us-an-xbox-handheld-already/)
- - [Sony’s portable PlayStation Portal is back in stock](https://www.theverge.com/2024/2/16/23973797/playstation-portal-remote-player-ps5-handheld-sony-restock-availability)
- - [Court filing: Amazon claims the NLRB is unconstitutional, after the agency said Amazon illegally retaliated against workers; SpaceX has made a similar claim &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240216/p23#a240216p23)
- - [21 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/the-best-presidents-day-deals-nl/)<!-- TECH:END -->
+ - [Dooney &amp; Bourke Florentine Bag     - CNET](https://www.cnet.com/culture/fashion/dooney-bourke-florentine-bag-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

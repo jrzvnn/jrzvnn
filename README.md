@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 💣 [The Hero we deserve, smarter than most people](http://9gag.com/gag/aBdqWKz)
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 👉 [So, there is a way](http://9gag.com/gag/aeQoYpW)<!-- MEMES:END -->
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 

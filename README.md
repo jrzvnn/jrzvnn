@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What you planning?](http://9gag.com/gag/aEqr7VM)
  - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
- - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 💣 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
  - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
 
 ---

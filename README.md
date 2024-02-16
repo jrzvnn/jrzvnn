@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 😝 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
  - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 💣 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 😝 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
- - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - 👉 [\ud83c\udf54The situation at McDonald&#39;s Cologne, Germany](http://9gag.com/gag/aEqr77o)<!-- MEMES:END -->
 
 ---
 

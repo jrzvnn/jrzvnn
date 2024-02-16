@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
  - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 💣 [Omg, the pegi guy is real](http://9gag.com/gag/agoMX4x)
  - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 

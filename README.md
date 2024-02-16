@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A deal is a deal](http://9gag.com/gag/axoxg5Y)
- - 😝 [Can&#39;t even get a potato these days](http://9gag.com/gag/a04Ajgn)
- - 💣 [When mama brings out your favorite food](http://9gag.com/gag/arm6ORp)
- - 😝 [Did you know that Taylor Swift has a small cameo in Troy?](http://9gag.com/gag/aBdqWRP)
- - 👉 [You asked for it](http://9gag.com/gag/a04AdRQ)<!-- MEMES:END -->
+ - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 💣 [SheiiiT!](http://9gag.com/gag/agoMq1q)
+ - 😝 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 

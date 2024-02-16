@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
- - 👉 [\ud83c\udf54The situation at McDonald&#39;s Cologne, Germany](http://9gag.com/gag/aEqr77o)<!-- MEMES:END -->
+ - 😝 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)<!-- MEMES:END -->
 
 ---
 

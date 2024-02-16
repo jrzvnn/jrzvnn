@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John &lpar;Arthur&rpar; wick](http://9gag.com/gag/aMER8oV)
- - 😝 [Home office superiority](http://9gag.com/gag/awZRQBr)
- - 💣 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 😝 [Some dude go to the gym everyday getting awfully jacked just to get their crush getting stolen by a lemon croissant god](http://9gag.com/gag/aqe3rGj)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
+ - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
 
 ---
 

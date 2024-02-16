@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In a letter, 28 civil rights organizations, including noyb, urge the EDPB to reject Meta&#39;s approach of asking EU users to pay or consent to be tracked for ads &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240216/p2#a240216p2)
+ - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
+ - [Best Smart Soundbar of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
  - [Best Solar Panels for Your Home for 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)
- - [Best Internet Providers in Nampa, Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-nampa-id/#ftag=CAD590a51e)
- - [Carl Jenkins, head of hardware at Cruise, says he has resigned after six years with the company, the latest in a series of executive departures &lpar;Reuters&rpar;](http://www.techmeme.com/240216/p1#a240216p1)
- - [Best Duvet Covers for 2024     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Nampa, Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-nampa-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

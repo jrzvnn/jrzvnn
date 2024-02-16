@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 👉 [\ud83c\udf54The situation at McDonald&#39;s Cologne, Germany](http://9gag.com/gag/aEqr77o)<!-- MEMES:END -->
+ - 😝 [Dog pretends to play dead then strikes on kidnapper.](http://9gag.com/gag/ay2gL1W)
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 👉 [SheiiiT!](http://9gag.com/gag/agoMq1q)<!-- MEMES:END -->
 
 ---
 

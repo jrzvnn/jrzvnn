@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
- - 😝 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
- - 💣 [Palworld](http://9gag.com/gag/aZDApXp)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 💣 [Proof ghosts exist.](http://9gag.com/gag/axoxGqb)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

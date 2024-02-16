@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $300 on Apple&#39;s M3 Max MacBook Pro with 128GB RAM, in stock now](https://appleinsider.com/articles/24/02/16/save-300-on-apples-m3-max-macbook-pro-with-128gb-ram-in-stock-now?utm_medium=rss)
  - [Sketchy rumor claims Apple has given up on folding iPhone](https://appleinsider.com/articles/24/02/16/sketchy-rumor-claims-apple-has-given-up-on-folding-iphone?utm_medium=rss)
  - [Fun and games on Apple Vision Pro plus Apple&#39;s next releases on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/16/fun-and-games-on-apple-vision-pro-plus-apples-next-releases-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: Sam Altman is working to get US approval for his chip project as the involvement of UAE and others risks raising national security, antitrust concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p9#a240216p9)
- - [Apple&#39;s Latest iPad Is Available at $100 Off Ahead of Presidents Day     - CNET](https://www.cnet.com/deals/ipad-10th-gen-100-off-ahead-presidents-day/#ftag=CAD590a51e)
- - [$60 Presidents Day Discount Hits Our Favorite Cordless Vacuum of 2024     - CNET](https://www.cnet.com/deals/60-presidents-day-discount-hits-our-favorite-cordless-vacuum-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Latest iPad Is Available at $100 Off Ahead of Presidents Day     - CNET](https://www.cnet.com/deals/ipad-10th-gen-100-off-ahead-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

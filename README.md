@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak of Russian Threat Part of a Bid to Kill US Surveillance Reform, Sources Say](https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/)
  - [Alleged iPhone 16 part leak suggests vertical camera alignment](https://appleinsider.com/articles/24/02/16/alleged-leaked-iphone-16-part-suggests-vertical-camera-alignment?utm_medium=rss)
  - [Canada&#39;s Civil Resolution Tribunal rules that Air Canada should give a passenger a retroactive discount, which was erroneously promised by the airlines&#39; chatbot &lpar;Susan Lazaruk/Vancouver Sun&rpar;](http://www.techmeme.com/240216/p20#a240216p20)
  - [Sources: Masayoshi Son seeks up to $100B for an AI chip venture to rival Nvidia; one scenario involves $30B from SoftBank and $70B from Middle Eastern investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p19#a240216p19)
- - [Best Solar Generators of 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-generators/#ftag=CAD590a51e)
- - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Generators of 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-generators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro Travel Case review: too-expensive precision cushioning](https://appleinsider.com/articles/24/02/16/apple-vision-pro-travel-case-review-too-expensive-precision-cushioning?utm_medium=rss)
+ - [South Korea&#39;s FTC delays a bill modeled after the EU&#39;s DMA, after a furious backlash from South Korean industry lobbyists and consumers, along with the US &lpar;New York Times&rpar;](http://www.techmeme.com/240216/p7#a240216p7)
  - [One of the best Apple Silicon games is free to play this weekend](https://appleinsider.com/articles/24/02/16/one-of-the-best-apple-silicon-games-is-free-to-play-this-weekend?utm_medium=rss)
- - [Kyiv Is Using Homegrown Tech to Treat the Trauma of War](https://www.wired.com/story/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/)
- - [Kanye West&#39;s &#39;Vultures 1&#39; briefly pulled from Apple Music after distributor drama](https://appleinsider.com/articles/24/02/15/kanye-wests-vultures-1-pulled-from-apple-music-after-distributor-drama?utm_medium=rss)
- - [Ahead of the 2024 US election, Anthropic is testing Prompt Shield, which will redirect users asking political topics to &quot;authoritative&quot; sources of voting info &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240216/p5#a240216p5)
- - [Hundreds strike at Apple supplier Flex&#39;s plant in India](https://appleinsider.com/articles/24/02/16/hundreds-strike-at-apple-supplier-flexs-plant-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone SE 4 rumored to launch early in 2025](https://appleinsider.com/articles/24/02/16/apples-iphone-se-4-to-launch-early-in-2025?utm_medium=rss)
+ - [Reserve Bank of India says it is not planning harsher rules to curb the country&#39;s fintech sector, weeks after abruptly suspending Paytm Payments Bank operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p6#a240216p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

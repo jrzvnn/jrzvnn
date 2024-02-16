@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft fixes Edge browser bug that was stealing Chrome tabs and data](https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix)
  - [PitchBook: Q4 2023 saw only 12 crypto exits, the lowest number since Q4 2020 and consistent with the &quot;low-level activity seen throughout 2023&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240216/p3#a240216p3)
  - [All the Money You&#39;ll Delay if You File a Tax Extension in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/all-the-money-youll-delay-if-you-file-a-tax-extension-in-2024/#ftag=CAD590a51e)
  - [In a letter, 28 civil rights organizations, including noyb, urge the EDPB to reject Meta&#39;s approach of asking EU users to pay or consent to be tracked for ads &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240216/p2#a240216p2)
- - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Best Smart Soundbar of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gaming Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

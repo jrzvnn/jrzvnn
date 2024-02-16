@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
- - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 💣 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
  - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 💣 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)
+ - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 👉 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)<!-- MEMES:END -->
 
 ---
 

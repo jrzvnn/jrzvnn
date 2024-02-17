@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 😝 [But why tho?](http://9gag.com/gag/aXnDqKb)
  - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 💣 [But why tho?](http://9gag.com/gag/aXnDqKb)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
  - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
  - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 

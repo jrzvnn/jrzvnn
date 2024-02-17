@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
  - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 💣 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 💣 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
  - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 ---

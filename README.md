@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 💣 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
+ - 😝 [So you decided to make a Profile and Join the community? Welcome!](http://9gag.com/gag/az2N1xB)
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 💣 [For those who know](http://9gag.com/gag/a2KBRoO)
+ - 😝 [What a game until...](http://9gag.com/gag/aRE50A5)
+ - 👉 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)<!-- MEMES:END -->
 
 ---
 

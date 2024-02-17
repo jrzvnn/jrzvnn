@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: FISA&#39;s Section 702 bill was shelved over a rule that would end the government&#39;s ability to pay US firms for information rather than serving a warrant &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240217/p3#a240217p3)
  - [A look at the global outreach of India&#39;s UPI, which has expanded to seven Asian countries and now allows Indian tourists to buy tickets at the Eiffel Tower &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240217/p2#a240217p2)
  - [Best Buy&#39;s Presidents Day Sale Offers Huge Discounts on Appliances     - CNET](https://www.cnet.com/deals/save-big-on-appliances-this-presidents-day-at-best-buy/#ftag=CAD590a51e)
  - [Apple&#39;s Vision Pro could become a valuable multiuser device, but it undermines that fantasy at every turn through its single-user setup and more &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240217/p1#a240217p1)
- - [Deals: Microsoft Windows 11 Pro just dropped to $22.97 &lpar;88% off&rpar;](https://appleinsider.com/articles/24/02/17/deals-microsoft-windows-11-pro-just-dropped-to-2297-88-off?utm_medium=rss)
- - [Galaxy S24 Software Update Should Tackle Display and Camera Concerns     - CNET](https://www.cnet.com/tech/mobile/a-galaxy-s24-software-update-is-coming-to-fix-display-and-camera-issues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Microsoft Windows 11 Pro just dropped to $22.97 &lpar;88% off&rpar;](https://appleinsider.com/articles/24/02/17/deals-microsoft-windows-11-pro-just-dropped-to-2297-88-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
  - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 👉 [But why tho?](http://9gag.com/gag/aXnDqKb)<!-- MEMES:END -->
 
 ---
 

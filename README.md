@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
  - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 💣 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 😝 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
- - 👉 [WTF is wrong with these people????](http://9gag.com/gag/aKE0jGQ)<!-- MEMES:END -->
+ - 👉 [But why tho?](http://9gag.com/gag/aXnDqKb)<!-- MEMES:END -->
 
 ---
 

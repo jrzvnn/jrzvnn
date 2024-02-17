@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
  - 😝 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 💣 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 😝 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
  - 👉 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)<!-- MEMES:END -->
 
 ---

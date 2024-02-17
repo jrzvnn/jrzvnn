@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I printed chocolate on a 3D printer and ate it](https://www.theverge.com/2024/2/17/24074150/cocoa-press-3d-printed-chocolate)
  - [All That Rain Is Driving Up Cases of a Deadly Fungal Disease in California](https://www.wired.com/story/intensifying-atmospheric-rivers-surge-in-valley-fever-cases-in-california-infectious-disease-fungi/)
  - [Q&amp;A with Figma CEO Dylan Field on managing the company after the failed sale to Adobe, maintaining culture, using the $1B breakup fee, expansion plans, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240217/p4#a240217p4)
  - [Sony&#39;s PlayStation 5 Is Entering the &#39;Latter Stage of Its Life Cycle&#39;: What That Means     - CNET](https://www.cnet.com/tech/sonys-playstation-5-is-entering-the-latter-stage-of-its-life-cycle-what-that-means/#ftag=CAD590a51e)
- - [OpenAI Tests Stronger ChatGPT Memory: Here&#39;s What It&#39;ll Remember About You     - CNET](https://www.cnet.com/tech/openai-tests-stronger-chatgpt-memory-heres-what-itll-remember-about-you/#ftag=CAD590a51e)
- - [With Diablo 4, Xbox Game Pass Is More Enticing Than Ever     - CNET](https://www.cnet.com/tech/gaming/with-diablo-4-xbox-game-pass-is-more-enticing-than-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Tests Stronger ChatGPT Memory: Here&#39;s What It&#39;ll Remember About You     - CNET](https://www.cnet.com/tech/openai-tests-stronger-chatgpt-memory-heres-what-itll-remember-about-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

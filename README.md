@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 💣 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
+ - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 😝 [He he](http://9gag.com/gag/az2N1PN)
+ - 💣 [Ann Coulter saying if it were a white male, media would jump to tell everyone](http://9gag.com/gag/a9qQKVo)
+ - 😝 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
+ - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
 
 ---
 

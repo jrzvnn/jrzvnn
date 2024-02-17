@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s reversal on RCS wasn&#39;t forced by the EU, but likely by China, whose government began codifying in 2023 a requirement for new 5G devices to support RCS &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240216/p30#a240216p30)
  - [Google stopped notifying publishers of &quot;right to be forgotten&quot; removals, after a Swedish court ruled that informing webmasters is a breach of privacy &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/240216/p29#a240216p29)
  - [Two professional gamers sue Activision Blizzard in the US, alleging the company is unlawfully monopolizing the market for Call of Duty leagues and tournaments &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240216/p28#a240216p28)
- - [Wyze cameras let owners see into a stranger’s home — again](https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch)
- - [Best iPhone 15 Deals: Score the Latest Model for Free or Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [Sources: Nintendo has told game publishers that it has delayed the launch of Switch 2 from late 2024 to Q1 2025 &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/240216/p27#a240216p27)<!-- TECH:END -->
+ - [Wyze cameras let some owners see into a stranger’s home — again](https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch)
+ - [Best iPhone 15 Deals: Score the Latest Model for Free or Get Up to $1,100 in Trade-In Credit     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

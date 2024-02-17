@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 👉 [But why tho?](http://9gag.com/gag/aXnDqKb)<!-- MEMES:END -->
+ - 😝 [Rescue a box stuck in a bear&#39;s head](http://9gag.com/gag/aVbnqXn)
+ - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

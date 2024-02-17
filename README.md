@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit has a new AI training deal to sell user content](https://www.theverge.com/2024/2/17/24075670/reddit-ai-training-license-deal-user-content)
  - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy/)
  - [Hands on with Apple Vision Pro ZEISS optical inserts](https://appleinsider.com/articles/24/02/17/hands-on-with-apple-vision-pro-zeiss-optical-inserts?utm_medium=rss)
  - [Sources: the UK, the US, and other allies are working to provide Ukraine with thousands of new AI-enabled drones that could swarm Russian targets simultaneously &lpar;Bloomberg&rpar;](http://www.techmeme.com/240217/p6#a240217p6)
- - [The DICE Awards show is the celebration developers and fans deserve](https://www.theverge.com/2024/2/17/24075044/dice-awards-video-game-developers-awards)
- - [Score Hundreds off Your Next Bed With These 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DICE Awards show is the celebration developers and fans deserve](https://www.theverge.com/2024/2/17/24075044/dice-awards-video-game-developers-awards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

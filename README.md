@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Tablet Deals: Up to $300 in Trade-In Value and Free Services     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
  - [Apple Pay is down for Chase customers, and perhaps others](https://www.theverge.com/2024/2/17/24075840/apple-pay-is-down-for-chase-customers-and-perhaps-others)
- - [Sources: UK chip designer Graphcore explores a sale to foreign owners in a deal that could be worth $500M+; rumoured buyers include OpenAI, SoftBank, and Arm &lpar;Telegraph&rpar;](http://www.techmeme.com/240217/p8#a240217p8)
- - [The best Presidents Day sales happening now](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
- - [Google Pixel Fold Deals: $400 in Direct Discounts and Over $1,000 in Trade-In Value     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
- - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Presidents Day Sales: You Can Save With Over 70 Deals on TVs, Appliances, Mattresses and More     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
+ - [Save Up to $600 on Your Next Saatva Mattresses This Presidents Day     - CNET](https://www.cnet.com/deals/save-up-to-600-on-your-next-saatva-mattresses-this-presidents-day/#ftag=CAD590a51e)
+ - [Sources: UK chip designer Graphcore explores a sale to foreign owners in a deal that could be worth $500M+; rumoured buyers include OpenAI, SoftBank, and Arm &lpar;Telegraph&rpar;](http://www.techmeme.com/240217/p8#a240217p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 😝 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
- - 💣 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 👉 [Stay strapped or get clapped](http://9gag.com/gag/awZRnK1)<!-- MEMES:END -->
+ - 😝 [Heckin&#39; Majestic](http://9gag.com/gag/a5Xmn5y)
+ - 😝 [They are right](http://9gag.com/gag/aBdq0K2)
+ - 💣 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)
+ - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
+ - 👉 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)<!-- MEMES:END -->
 
 ---
 

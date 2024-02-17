@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
+ - 💣 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
  - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 💣 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 👉 [What\u2019s 30 more years, I can always start again.](http://9gag.com/gag/aDYpj0x)<!-- MEMES:END -->
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
 
 ---
 

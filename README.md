@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)
- - 😝 [There&#39;s an anti-government rally in Hungary right now organized by youtubers and musicians, not politicans. Wish us the best.](http://9gag.com/gag/aA0WxQR)
- - 💣 [Breaking character](http://9gag.com/gag/aWGKmb3)
- - 😝 [Working on a paper plane game where environmental physics is key](http://9gag.com/gag/arm658y)
- - 👉 [At this point I don&#39;t know if I&#39;m watching the right sport anymore](http://9gag.com/gag/aBdqx62)<!-- MEMES:END -->
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

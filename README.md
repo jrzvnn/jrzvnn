@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [For those who know](http://9gag.com/gag/a2KBRoO)
- - 💣 [What a game until...](http://9gag.com/gag/aRE50A5)
- - 😝 [He he](http://9gag.com/gag/az2N1PN)
- - 👉 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)<!-- MEMES:END -->
+ - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 😝 [But why tho?](http://9gag.com/gag/aXnDqKb)
+ - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 👉 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)<!-- MEMES:END -->
 
 ---
 

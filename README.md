@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
- - 😝 [Stay strapped or get clapped](http://9gag.com/gag/awZRnK1)
- - 💣 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
  - 😝 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
- - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
+ - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
 
 ---
 

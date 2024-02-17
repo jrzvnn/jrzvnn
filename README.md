@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The next game: guess the colour](http://9gag.com/gag/aDYpx4N)
- - 😝 [People throughout russia coming to mourn Navalny are instantly arrested - like here in St. Petersburg](http://9gag.com/gag/a9qQp2o)
- - 💣 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)
- - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
+ - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 😝 [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
  - 👉 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)<!-- MEMES:END -->
 
 ---

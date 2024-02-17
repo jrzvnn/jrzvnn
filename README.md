@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: UK chip designer Graphcore explores a sale to foreign owners in a deal that could be worth $500M+; rumoured buyers include OpenAI, SoftBank, and Arm &lpar;Telegraph&rpar;](http://www.techmeme.com/240217/p8#a240217p8)
  - [The best Presidents Day sales happening now](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
  - [Google Pixel Fold Deals: $400 in Direct Discounts and Over $1,000 in Trade-In Value     - CNET](https://www.cnet.com/deals/best-pixel-fold-deals/#ftag=CAD590a51e)
  - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Weibo iPhone 16 leak doubles down on vertical camera rumor](https://appleinsider.com/articles/24/02/17/weibo-iphone-16-leak-doubles-down-on-vertical-camera-rumor?utm_medium=rss)
- - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weibo iPhone 16 leak doubles down on vertical camera rumor](https://appleinsider.com/articles/24/02/17/weibo-iphone-16-leak-doubles-down-on-vertical-camera-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

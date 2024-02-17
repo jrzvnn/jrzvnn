@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Not Get Scammed Out of $50,000](https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/)
+ - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
  - [Best Internet Providers in Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
  - [I printed chocolate on a 3D printer and ate it](https://www.theverge.com/2024/2/17/24074150/cocoa-press-3d-printed-chocolate)
- - [Want a Healthier Gut Microbiome? Start With These 4 Steps     - CNET](https://www.cnet.com/health/medical/want-a-healthier-gut-microbiome-start-with-these-4-steps/#ftag=CAD590a51e)
- - [Samsung vs. Apple: The Galaxy S24 Ultra&#39;s Cameras Battle the iPhone 15 Pro Max&#39;s     - CNET](https://www.cnet.com/tech/mobile/samsung-vs-apple-the-galaxy-s24-ultras-cameras-battle-the-iphone-15-pro-max/#ftag=CAD590a51e)
- - [There&#39;s AI, and Then There&#39;s AGI: What You Need to Know to Tell the Difference     - CNET](https://www.cnet.com/tech/theres-ai-and-then-theres-agi-what-you-need-to-know-to-tell-the-difference/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want a Healthier Gut Microbiome? Start With These 4 Steps     - CNET](https://www.cnet.com/health/medical/want-a-healthier-gut-microbiome-start-with-these-4-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

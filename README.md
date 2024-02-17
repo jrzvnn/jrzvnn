@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heckin&#39; Majestic](http://9gag.com/gag/a5Xmn5y)
- - 😝 [They are right](http://9gag.com/gag/aBdq0K2)
- - 💣 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)
- - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
- - 👉 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)<!-- MEMES:END -->
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 😝 [The female leopard woke up the male to get his attention.](http://9gag.com/gag/aWGKMLd)
+ - 💣 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 👉 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)<!-- MEMES:END -->
 
 ---
 

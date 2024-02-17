@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [Rescue a box stuck in a bear&#39;s head](http://9gag.com/gag/aVbnqXn)
- - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [AI Videos are weird](http://9gag.com/gag/avQYGob)
+ - 💣 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
+ - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 ---
 

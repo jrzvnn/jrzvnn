@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [The next game: guess the colour](http://9gag.com/gag/aDYpx4N)
+ - 😝 [People throughout russia coming to mourn Navalny are instantly arrested - like here in St. Petersburg](http://9gag.com/gag/a9qQp2o)
+ - 💣 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)
  - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
- - 💣 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)<!-- MEMES:END -->
+ - 👉 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)<!-- MEMES:END -->
 
 ---
 

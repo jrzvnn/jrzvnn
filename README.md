@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
  - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 💣 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
  - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 👉 [Big hair](http://9gag.com/gag/ay2gBB8)<!-- MEMES:END -->
+ - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 ---
 

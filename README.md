@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Despite Google and OpenAI&#39;s promises, Gemini and ChatGPT appear to have almost no safeguards against creating AI disinfo for the 2024 US presidential election &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240217/p5#a240217p5)
- - [How to Not Get Scammed Out of $50,000](https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/)
- - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
- - [Best Internet Providers in Louisiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
- - [I printed chocolate on a 3D printer and ate it](https://www.theverge.com/2024/2/17/24074150/cocoa-press-3d-printed-chocolate)<!-- TECH:END -->
+ - [Man City vs. Chelsea Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-chelsea-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-idaho/#ftag=CAD590a51e)
+ - [When Are 2024 Tax Refunds Issued? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-are-2024-tax-refunds-issued-find-out-here/#ftag=CAD590a51e)
+ - [HVAC Buying Guide: What to Know When You&#39;re Shopping     - CNET](https://www.cnet.com/home/energy-and-utilities/hvac-buying-guide-what-to-know-when-youre-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Vision Pro could become a valuable multiuser device, but it undermines that fantasy at every turn through its single-user setup and more &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240217/p1#a240217p1)
  - [Deals: Microsoft Windows 11 Pro just dropped to $22.97 &lpar;88% off&rpar;](https://appleinsider.com/articles/24/02/17/deals-microsoft-windows-11-pro-just-dropped-to-2297-88-off?utm_medium=rss)
  - [Apple&#39;s reversal on RCS wasn&#39;t forced by the EU, but likely by China, whose government began codifying in 2023 a requirement for new 5G devices to support RCS &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240216/p30#a240216p30)
  - [Google stopped notifying publishers of &quot;right to be forgotten&quot; removals, after a Swedish court ruled that informing webmasters is a breach of privacy &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/240216/p29#a240216p29)
- - [Two professional gamers sue Activision Blizzard in the US, alleging the company is unlawfully monopolizing the market for Call of Duty leagues and tournaments &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240216/p28#a240216p28)
- - [Wyze cameras let some owners see into a stranger’s home — again](https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch)<!-- TECH:END -->
+ - [Two professional gamers sue Activision Blizzard in the US, alleging the company is unlawfully monopolizing the market for Call of Duty leagues and tournaments &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240216/p28#a240216p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

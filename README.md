@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women](http://9gag.com/gag/aqe3K9p)
  - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 💣 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 👉 [Palworld](http://9gag.com/gag/aZDApXp)<!-- MEMES:END -->
+ - 💣 [I Disagree, you?](http://9gag.com/gag/a04AdVL)
+ - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

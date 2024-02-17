@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
  - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 😝 [That&#39;s not very lady-like](http://9gag.com/gag/aL1Yg06)
+ - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
 
 ---
 

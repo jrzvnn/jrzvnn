@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [Knowing when to pick your battles is a important life skill](http://9gag.com/gag/anzpMNE)
- - 👉 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)<!-- MEMES:END -->
+ - 😝 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/aoKrp0n)
+ - 😝 [Audience member couldn\u2019t help herself :&rpar;](http://9gag.com/gag/amAjrB6)
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 

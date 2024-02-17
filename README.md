@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
  - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 👉 [But why tho?](http://9gag.com/gag/aXnDqKb)<!-- MEMES:END -->
+ - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

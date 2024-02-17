@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Key Tax Filing Deadlines for 2024 You Don&#39;t Want to Forget     - CNET](https://www.cnet.com/personal-finance/taxes/key-tax-filing-deadlines-for-2024-you-dont-want-to-forget/#ftag=CAD590a51e)
- - [Brentford vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brentford-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Sources: FISA&#39;s Section 702 bill was shelved over a rule that would end the government&#39;s ability to pay US firms for information rather than serving a warrant &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240217/p3#a240217p3)
- - [A look at the global outreach of India&#39;s UPI, which has expanded to seven other Asian countries and now lets Indian tourists buy tickets at the Eiffel Tower &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/240217/p2#a240217p2)
- - [Best Buy&#39;s Presidents Day Sale Offers Huge Discounts on Appliances     - CNET](https://www.cnet.com/deals/save-big-on-appliances-this-presidents-day-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [19 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)
+ - [Got a Big Tax Bill? What to Do If You Can&#39;t Afford to Pay Your Taxes, According to a CPA     - CNET](https://www.cnet.com/personal-finance/taxes/got-a-big-tax-bill-what-to-do-if-you-cant-afford-to-pay-your-taxes-according-to-a-cpa/#ftag=CAD590a51e)
+ - [Your Android Phone&#39;s Browser Has Junk Files. Clean It With a Few Taps     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-browser-has-junk-files-clean-it-with-a-few-taps/#ftag=CAD590a51e)
+ - [COVID Isolation Could Be Ending: Get Your Free Tests While You Still Can     - CNET](https://www.cnet.com/health/covid-isolation-could-be-ending-get-your-free-tests-while-you-still-can/#ftag=CAD590a51e)
+ - [Don&#39;t Cry Over Taxes, Gen Z. Here Are 7 Tips to Help You Crush Tax Season     - CNET](https://www.cnet.com/personal-finance/taxes/dont-cry-over-taxes-gen-z-7-tips-to-help-you-crush-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

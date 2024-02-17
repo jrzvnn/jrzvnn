@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aqe3K9p)
- - 😝 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)
- - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [For those who know](http://9gag.com/gag/a2KBRoO)
+ - 💣 [What a game until...](http://9gag.com/gag/aRE50A5)
+ - 😝 [He he](http://9gag.com/gag/az2N1PN)
+ - 👉 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luckiest guy in the world? I don&#39;t know why but I believe him](http://9gag.com/gag/agoMqPK)
- - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
- - 💣 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [That&#39;s not very lady-like](http://9gag.com/gag/aL1Yg06)
- - 👉 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)<!-- MEMES:END -->
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
+ - 😝 [Stay strapped or get clapped](http://9gag.com/gag/awZRnK1)
+ - 💣 [That&#39;s not very lady-like](http://9gag.com/gag/aL1Yg06)
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
 
 ---
 

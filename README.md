@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 💣 [What level of karen is this](http://9gag.com/gag/a04AR2v)
  - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 😝 [But why tho?](http://9gag.com/gag/aXnDqKb)
- - 💣 [Instant Karma](http://9gag.com/gag/a8qPyDp)
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 👉 [New OpenAI tool now generates video from text](http://9gag.com/gag/a5XmbNG)<!-- MEMES:END -->
+ - 👉 [Instant Karma](http://9gag.com/gag/a8qPyDp)<!-- MEMES:END -->
 
 ---
 

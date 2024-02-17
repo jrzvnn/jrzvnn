@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heckin&#39; Majestic](http://9gag.com/gag/a5Xmn5y)
- - 😝 [They are right](http://9gag.com/gag/aBdq0K2)
- - 💣 [And they piss on my door!!!!!](http://9gag.com/gag/a8qPob1)
- - 😝 [Breaking character](http://9gag.com/gag/aWGKmb3)
- - 👉 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)<!-- MEMES:END -->
+ - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
+ - 💣 [I realized that this song will never be the same for me.](http://9gag.com/gag/aVbnDX8)
+ - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 👉 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
 
 ---
 

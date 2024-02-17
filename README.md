@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nintendo has told game publishers that it has delayed the launch of Switch 2 from late 2024 to Q1 2025 &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/240216/p27#a240216p27)
+ - [Wyze cameras reportedly let owners see into a stranger’s home — again](https://www.theverge.com/2024/2/16/24075369/wyze-security-camera-stranger-feeds-glitch)
  - [You should play Splatoon with your family](https://www.theverge.com/2024/2/16/24075342/splatoon-3-family-bonding)
  - [Sources: Reddit signed a deal early in 2024, worth ~$60M on an annualized basis, allowing a large unnamed AI company to train its models on Reddit&#39;s content &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240216/p26#a240216p26)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: the Biden administration is in talks to confer more than $10B in subsidies to Intel, in what would be the largest award yet under the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240216/p25#a240216p25)
- - [OpenAI can’t register ‘GPT’ as a trademark — yet](https://www.theverge.com/2024/2/16/24075304/trademark-pto-openai-gpt-deny)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

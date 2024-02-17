@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [AI Videos are weird](http://9gag.com/gag/avQYGob)
- - 💣 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
+ - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [I hate when asteroids suddenly have internal gravity.](http://9gag.com/gag/a3Z97Wr)
+ - 💣 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 😝 [Predictable reaction](http://9gag.com/gag/a9qQrEW)
+ - 👉 [Big hair](http://9gag.com/gag/ay2gBB8)<!-- MEMES:END -->
 
 ---
 

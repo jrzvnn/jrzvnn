@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m not crying](http://9gag.com/gag/a2KBdQE)
- - 😝 [Instant Karma](http://9gag.com/gag/a8qPyDp)
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 😝 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)
  - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
  - 😝 [Once you see it, it can not be unseen](http://9gag.com/gag/aEqrYRO)
- - 👉 [This place is terrifying. I need to know where it is so I can avoid it.](http://9gag.com/gag/aZDABnV)<!-- MEMES:END -->
+ - 👉 [I Disagree, you?](http://9gag.com/gag/a04AdVL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Apple Vision Pro ZEISS optical inserts](https://appleinsider.com/articles/24/02/17/hands-on-with-apple-vision-pro-zeiss-optical-inserts?utm_medium=rss)
+ - [Sources: the UK, the US, and other allies are working to provide Ukraine with thousands of new AI-enabled drones that could swarm Russian targets simultaneously &lpar;Bloomberg&rpar;](http://www.techmeme.com/240217/p6#a240217p6)
  - [The DICE Awards show is the celebration developers and fans deserve](https://www.theverge.com/2024/2/17/24075044/dice-awards-video-game-developers-awards)
- - [Despite Google and OpenAI&#39;s promises, Gemini and ChatGPT appear to have almost no safeguards against creating AI disinfo for the 2024 US presidential election &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240217/p5#a240217p5)
- - [Man City vs. Chelsea Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-chelsea-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-idaho/#ftag=CAD590a51e)
- - [When Are 2024 Tax Refunds Issued? Find Out Here     - CNET](https://www.cnet.com/personal-finance/taxes/when-are-2024-tax-refunds-issued-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score Hundreds off Your Next Bed With These 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals/#ftag=CAD590a51e)
+ - [Ready to Ditch Your Old Mattress This Presidents Day? Save 50% Off All DreamCloud Mattresses     - CNET](https://www.cnet.com/deals/50-off-all-dreamcloud-mattresses-this-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 💣 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 😝 [He got great taste](http://9gag.com/gag/a4oeQmQ)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 💣 [Universal sign language](http://9gag.com/gag/aeQoreO)
  - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First rule of martial arts, run](http://9gag.com/gag/aEqrPqn)
- - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
+ - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
  - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
 
 ---
 

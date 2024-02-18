@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [21 Reusable and Sustainable Products We Love &lpar;2024&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
- - [Taxes 2024: Our Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [Americans Want Lower Energy Bills: Start With These 2 Steps     - CNET](https://www.cnet.com/how-to/americans-want-lower-energy-bills-start-with-these-2-steps/#ftag=CAD590a51e)
  - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
- - [Best Internet Providers in Appleton, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-appleton-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU plans to fine Apple around &amp;euro;500M for allegedly breaking EU law over access to music streaming services, following a 2019 complaint by Spotify &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240218/p5#a240218p5)
+ - [Android 15 Developer Preview Is Now Out: Everything to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-out-everything-to-know-about-the-first-release/#ftag=CAD590a51e)
+ - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

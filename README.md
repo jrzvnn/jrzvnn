@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,599](https://appleinsider.com/articles/24/02/18/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1599?utm_medium=rss)
  - [Hands-on with Khan Academy&#39;s ChatGPT-powered AI tutoring bot Khanmigo, which frequently makes basic arithmetic errors, as Khan Academy works to improve accuracy &lpar;Matt Barnum/Wall Street Journal&rpar;](http://www.techmeme.com/240218/p7#a240218p7)
  - [Messi promotes MLS Season Pass in new Apple TV ad spot](https://appleinsider.com/articles/24/02/18/messi-promotes-mls-season-pass-in-new-apple-tv-ad-spot?utm_medium=rss)
- - [Apple to be fined over $500 million under EU antitrust law](https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify)
- - [21 Best Bluetooth Speakers &lpar;2024&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [Solar Battery Buying Guide: Everything You Need to Know     - CNET](https://www.cnet.com/home/energy-and-utilities/battery-backup-buying-guide-heres-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Best Internet Providers in Hartford, Connecticut     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hartford-ct/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

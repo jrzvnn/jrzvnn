@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Shot on iPhone&#39; shows behind the scenes of Usher&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/24/02/18/shot-on-iphone-shows-behind-the-scenes-of-ushers-super-bowl-halftime-show?utm_medium=rss)
+ - [&#39;Shot on iPhone&#39; doc reveals behind the scenes of Usher&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/24/02/18/shot-on-iphone-shows-behind-the-scenes-of-ushers-super-bowl-halftime-show?utm_medium=rss)
  - [15 Questions You Should Ask Your Solar Installer     - CNET](https://www.cnet.com/home/energy-and-utilities/15-questions-you-should-ask-your-solar-installer/#ftag=CAD590a51e)
  - [Planning to See Dune 2? Here&#39;s Where to Stream Part 1     - CNET](https://www.cnet.com/tech/services-and-software/planning-to-see-dune-2-heres-where-to-stream-part-1/#ftag=CAD590a51e)
  - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,599](https://appleinsider.com/articles/24/02/18/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1599?utm_medium=rss)

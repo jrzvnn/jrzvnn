@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 💣 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
  - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 ---

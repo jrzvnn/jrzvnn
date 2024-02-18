@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
+ - 😝 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 👉 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At this point I don&#39;t know if I&#39;m watching the right sport anymore](http://9gag.com/gag/aBdqx62)
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 💣 [Nice](http://9gag.com/gag/arm6oq6)
+ - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
  - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 ---
 

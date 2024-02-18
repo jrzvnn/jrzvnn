@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 💣 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
  - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
+ - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - 💣 [Always loved this show](http://9gag.com/gag/a04A7QL)
+ - 😝 [Professor Roland Fryer and his team did a study on police shootings and did not find racial bias in police shootings.](http://9gag.com/gag/aA0WbgE)
+ - 👉 [And I was sooo hung over...](http://9gag.com/gag/aDYpdOd)<!-- MEMES:END -->
 
 ---
 

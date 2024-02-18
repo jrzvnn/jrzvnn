@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
+ - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
  - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aqe3K9p)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)<!-- MEMES:END -->
 
 ---
 

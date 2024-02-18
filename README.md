@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)
+ - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)
  - [Google’s Chess Experiments Reveal How to Boost the Power of AI](https://www.wired.com/story/google-artificial-intelligence-chess/)
  - [How to live your life in text files](https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer)
- - [Crime blotter: No Apple Vision Pro crime wave, at least not yet](https://appleinsider.com/articles/24/02/18/crime-blotter-no-apple-vision-pro-crime-wave-at-least-not-yet?utm_medium=rss)
- - [Snag This Ninja Air Fryer Presidents Day Deal and Give Your Kitchen the Upgrade It Deserves     - CNET](https://www.cnet.com/how-to/snag-this-ninja-air-fryer-presidents-day-deal-and-give-your-kitchen-the-upgrade-it-deserves/#ftag=CAD590a51e)
- - [Side Hustlers and Freelancers, Take Note. I Swear by These 7 Tax Tips     - CNET](https://www.cnet.com/personal-finance/taxes/side-hustlers-and-freelancers-take-note-i-swear-by-these-7-tax-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: No Apple Vision Pro crime wave, at least not yet](https://appleinsider.com/articles/24/02/18/crime-blotter-no-apple-vision-pro-crime-wave-at-least-not-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

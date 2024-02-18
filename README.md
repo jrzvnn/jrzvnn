@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Messi promotes MLS Season Pass in new Apple TV ad spot](https://appleinsider.com/articles/24/02/18/messi-promotes-mls-season-pass-in-new-apple-tv-ad-spot?utm_medium=rss)
  - [Apple to be fined over $500 million under EU antitrust law](https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify)
  - [21 Best Bluetooth Speakers &lpar;2024&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
  - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)
- - [Apple Store sources: Vision Pro returns are between average and above average compared to other products; in-store demo conversion rate is as high as 10% to 15% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240218/p6#a240218p6)
- - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Store sources: Vision Pro returns are between average and above average compared to other products; in-store demo conversion rate is as high as 10% to 15% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240218/p6#a240218p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

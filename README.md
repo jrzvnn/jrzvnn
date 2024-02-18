@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He got great taste](http://9gag.com/gag/a4oeQmQ)
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 😝 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
  - 💣 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
- - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 ---
 

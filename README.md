@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 💣 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 😝 [And I was sooo hung over...](http://9gag.com/gag/aDYpdOd)
+ - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
+ - 💣 [Taylor swift when she is forced to use train](http://9gag.com/gag/aDYpd57)
+ - 😝 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
+ - 👉 [This is Golden ass of luck, do not ignore it](http://9gag.com/gag/a7q4E1w)<!-- MEMES:END -->
 
 ---
 

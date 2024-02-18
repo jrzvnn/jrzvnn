@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
  - [Sources: the EU plans to fine Apple around &amp;euro;500M for allegedly breaking EU law over access to music streaming services, following a 2019 complaint by Spotify &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240218/p5#a240218p5)
  - [Android 15 Developer Preview Is Now Out: Everything to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-out-everything-to-know-about-the-first-release/#ftag=CAD590a51e)
  - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)
- - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)
- - [Acer Predator Helios Neo 16 Review: Leader of the RTX 4050 Budget Gaming Pack     - CNET](https://www.cnet.com/tech/computing/acer-predator-helios-neo-16-review-leader-of-the-rtx-4050-budget-gaming-pack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

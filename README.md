@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 💣 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
  - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 ---
 

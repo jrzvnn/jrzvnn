@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taxes 2024: Our Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
+ - [Americans Want Lower Energy Bills: Start With These 2 Steps     - CNET](https://www.cnet.com/how-to/americans-want-lower-energy-bills-start-with-these-2-steps/#ftag=CAD590a51e)
  - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
- - [Sources: the EU plans to fine Apple around &amp;euro;500M for allegedly breaking EU law over access to music streaming services, following a 2019 complaint by Spotify &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240218/p5#a240218p5)
- - [Android 15 Developer Preview Is Now Out: Everything to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-out-everything-to-know-about-the-first-release/#ftag=CAD590a51e)
- - [Apple faces 500M euro fine following EU music probe](https://appleinsider.com/articles/24/02/18/apple-faces-500m-euro-fine-following-eu-music-probe?utm_medium=rss)
- - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)<!-- TECH:END -->
+ - [Best Internet Providers in Appleton, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-appleton-wi/#ftag=CAD590a51e)
+ - [Best Internet Providers in Largo, Florida     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

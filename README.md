@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
+ - 😝 [At this point I don&#39;t know if I&#39;m watching the right sport anymore](http://9gag.com/gag/aBdqx62)
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 💣 [Nice](http://9gag.com/gag/arm6oq6)
  - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [Women](http://9gag.com/gag/aqe3K9p)
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 👉 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)<!-- MEMES:END -->
+ - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
 
 ---
 

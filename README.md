@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Chess Experiments Reveal How to Boost the Power of AI](https://www.wired.com/story/google-artificial-intelligence-chess/)
+ - [How to live your life in text files](https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer)
  - [Crime blotter: No Apple Vision Pro crime wave, at least not yet](https://appleinsider.com/articles/24/02/18/crime-blotter-no-apple-vision-pro-crime-wave-at-least-not-yet?utm_medium=rss)
  - [Snag This Ninja Air Fryer Presidents Day Deal and Give Your Kitchen the Upgrade It Deserves     - CNET](https://www.cnet.com/how-to/snag-this-ninja-air-fryer-presidents-day-deal-and-give-your-kitchen-the-upgrade-it-deserves/#ftag=CAD590a51e)
- - [Side Hustlers and Freelancers, Take Note. I Swear by These 7 Tax Tips     - CNET](https://www.cnet.com/personal-finance/taxes/side-hustlers-and-freelancers-take-note-i-swear-by-these-7-tax-tips/#ftag=CAD590a51e)
- - [iOS 17: Read This Before You Use Offline Maps on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-17-read-this-beofre-you-use-offline-maps-on-your-iphone/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Side Hustlers and Freelancers, Take Note. I Swear by These 7 Tax Tips     - CNET](https://www.cnet.com/personal-finance/taxes/side-hustlers-and-freelancers-take-note-i-swear-by-these-7-tax-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

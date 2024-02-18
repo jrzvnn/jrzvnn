@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
  - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
  - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
 
 ---
 

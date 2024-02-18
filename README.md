@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
  - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
+ - 💣 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
+ - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---
 

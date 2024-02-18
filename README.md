@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 💣 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
+ - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
 
 ---
 

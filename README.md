@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
- - 💣 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
- - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
+ - 💣 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)
+ - 😝 [Grab her by the ...](http://9gag.com/gag/a04ANbZ)
+ - 👉 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)<!-- MEMES:END -->
 
 ---
 

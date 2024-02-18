@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
- - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 💣 [Universal sign language](http://9gag.com/gag/aeQoreO)
  - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
+ - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
+ - 💣 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
+ - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
+ - 👉 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)<!-- MEMES:END -->
 
 ---
 

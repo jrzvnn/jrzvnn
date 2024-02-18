@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And I was sooo hung over...](http://9gag.com/gag/aDYpdOd)
- - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 💣 [Taylor swift when she is forced to use train](http://9gag.com/gag/aDYpd57)
- - 😝 [There is a german TV show where contestants try to split things perfectly in half](http://9gag.com/gag/aXnDo0d)
- - 👉 [This is Golden ass of luck, do not ignore it](http://9gag.com/gag/a7q4E1w)<!-- MEMES:END -->
+ - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
 
 ---
 

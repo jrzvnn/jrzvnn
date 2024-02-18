@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
- - [21 Reusable and Sustainable Products We Love &lpar;2024&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
- - [Taxes 2024: Our Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [Americans Want Lower Energy Bills: Start With These 2 Steps     - CNET](https://www.cnet.com/how-to/americans-want-lower-energy-bills-start-with-these-2-steps/#ftag=CAD590a51e)
- - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)<!-- TECH:END -->
+ - [Presidents Day Sales: Take Advantage of Over 70 Deals on Appliances, Rugs, TVs and Other Tech     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
+ - [Best Internet Providers in Iowa     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-iowa/#ftag=CAD590a51e)
+ - [No More Ads on Prime Video: Ditch Commercials for a Price With These Steps     - CNET](https://www.cnet.com/tech/services-and-software/how-to-break-up-with-prime-video-with-ads-and-go-ad-free/#ftag=CAD590a51e)
+ - [21 Reusable and Sustainable Products We Love &lpar;2024&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

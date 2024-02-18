@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 Reusable and Sustainable Products We Love &lpar;2024&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
  - [Taxes 2024: Our Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)
  - [Americans Want Lower Energy Bills: Start With These 2 Steps     - CNET](https://www.cnet.com/how-to/americans-want-lower-energy-bills-start-with-these-2-steps/#ftag=CAD590a51e)
  - [Phone Cases Are Boring. Put a Lip Balm on It](https://www.wired.com/story/rhode-lip-balm-phone-case/)
- - [Best Internet Providers in Appleton, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-appleton-wi/#ftag=CAD590a51e)
- - [Best Internet Providers in Largo, Florida     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Appleton, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-appleton-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

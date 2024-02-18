@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
- - 😝 [Spotify&#39;s new terms of service for audiobooks](http://9gag.com/gag/aPgNY2q)
- - 💣 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)
- - 😝 [He he](http://9gag.com/gag/az2N1PN)
- - 👉 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)<!-- MEMES:END -->
+ - 😝 [First rule of martial arts, run](http://9gag.com/gag/aEqrPqn)
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spotify&#39;s new terms of service for audiobooks](http://9gag.com/gag/aPgNY2q)
- - 😝 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
- - 💣 [He he](http://9gag.com/gag/az2N1PN)
- - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
- - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
+ - 💣 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 👉 [Chill](http://9gag.com/gag/aA0WgQo)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aqe3K9p)
+ - 😝 [For those who know](http://9gag.com/gag/a2KBRoO)
  - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 💣 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
  - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---

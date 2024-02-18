@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: No Apple Vision Pro crime wave, at least not yet](https://appleinsider.com/articles/24/02/18/crime-blotter-no-apple-vision-pro-crime-wave-at-least-not-yet?utm_medium=rss)
+ - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)
+ - [IRS Phone Lines Are Busy This Weekend. Do This Before Calling     - CNET](https://www.cnet.com/personal-finance/taxes/irs-phone-lines-are-busy-this-weekend-do-this-before-calling/#ftag=CAD590a51e)
  - [Tax Season 2024: Here&#39;s What to Do If You Haven&#39;t Received Your W-2 Yet     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-heres-what-to-do-if-you-havent-received-your-w-2-yet/#ftag=CAD590a51e)
- - [An interview with Bret Taylor and Clay Bavor, co-founders of conversational AI startup Sierra, on using several AI models at once, building AI agents, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240218/p3#a240218p3)
- - [Elon Musk says his companies &quot;have probably done more to undermine Russia than anything&quot; and calls accusations that he is a Vladimir Putin apologist &quot;absurd&quot; &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240218/p2#a240218p2)
- - [Amsterdam-based Monumental, which is developing AI-powered bricklaying robots, emerges from stealth and raised $25M co-led by Plural and Hummingbird &lpar;Can Emir/Interesting Engineering&rpar;](http://www.techmeme.com/240218/p1#a240218p1)<!-- TECH:END -->
+ - [An interview with Bret Taylor and Clay Bavor, co-founders of conversational AI startup Sierra, on using several AI models at once, building AI agents, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240218/p3#a240218p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

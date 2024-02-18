@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to be fined over $500 million under EU antitrust law](https://www.theverge.com/2024/2/18/24076526/apple-music-antitrust-fine-brussels-eu-spotify)
+ - [21 Best Bluetooth Speakers &lpar;2024&rpar;: Portable, Waterproof, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
  - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)
  - [Apple Store sources: Vision Pro returns are between average and above average compared to other products; in-store demo conversion rate is as high as 10% to 15% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240218/p6#a240218p6)
- - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)
- - [21 Reusable and Sustainable Products We Love &lpar;2024&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
- - [Taxes 2024: Our Essential Cheat Sheet to Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-essential-cheat-sheet-to-filing-your-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Podcasts bug prevents listeners from enjoying new episodes](https://appleinsider.com/articles/24/02/17/apple-podcasts-bug-prevents-listeners-from-enjoying-new-episodes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

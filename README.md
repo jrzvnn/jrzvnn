@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 💣 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
+ - 💣 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [Did we talk about this?](http://9gag.com/gag/a04ARGd)<!-- MEMES:END -->
 
 ---
 

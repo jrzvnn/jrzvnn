@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
+ - 😝 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
  - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
  - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
 
 ---

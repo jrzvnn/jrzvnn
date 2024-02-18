@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always loved this show](http://9gag.com/gag/a04A7QL)
- - 😝 [Professor Roland Fryer and his team did a study on police shootings and did not find racial bias in police shootings.](http://9gag.com/gag/aA0WbgE)
- - 💣 [And I was sooo hung over...](http://9gag.com/gag/aDYpdOd)
- - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 👉 [Taylor swift when she is forced to use train](http://9gag.com/gag/aDYpd57)<!-- MEMES:END -->
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
 
 ---
 

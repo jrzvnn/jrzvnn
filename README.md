@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He got great taste](http://9gag.com/gag/a4oeQmQ)
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
+ - 💣 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
  - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
+ - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 ---
 

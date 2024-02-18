@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Bret Taylor and Clay Bavor, co-founders of conversational AI startup Sierra, on using several AI models at once, building AI agents, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240218/p3#a240218p3)
  - [Elon Musk says his companies &quot;have probably done more to undermine Russia than anything&quot; and calls accusations that he is a Vladimir Putin apologist &quot;absurd&quot; &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240218/p2#a240218p2)
  - [Amsterdam-based Monumental, which is developing AI-powered bricklaying robots, emerges from stealth and raised $25M co-led by Plural and Hummingbird &lpar;Can Emir/Interesting Engineering&rpar;](http://www.techmeme.com/240218/p1#a240218p1)
  - [A Florida court filing accuses the Bahamas-based Deltec Bank of giving Alameda Research a short-term line of credit worth billions of dollars to buy Tether &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/240217/p11#a240217p11)
- - [Get Up to $500 Off Top Rowing Machines During Hydrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/get-up-to-500-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)
- - [A look at the data center economy of Ireland, which had 82 data centers in 2023, amid concerns about rolling blackouts due to pressure on the electrical grid &lpar;Jessica Traynor/The Guardian&rpar;](http://www.techmeme.com/240217/p10#a240217p10)<!-- TECH:END -->
+ - [Get Up to $500 Off Top Rowing Machines During Hydrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/get-up-to-500-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

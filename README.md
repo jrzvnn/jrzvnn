@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clipping the palm trees](http://9gag.com/gag/agoMA8v)
- - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 💣 [Weapons formed against me.](http://9gag.com/gag/aKE07Lg)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 👉 [Big hair](http://9gag.com/gag/ay2gBB8)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aqe3K9p)
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 💣 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
 
 ---
 

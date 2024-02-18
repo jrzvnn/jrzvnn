@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Laela Sturdy, the head of Alphabet&#39;s growth stage venture arm CapitalG, about its decision-making process, AI strategy, Stripe&#39;s valuation, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240218/p8#a240218p8)
+ - [Best Nintendo Switch Deals: Save Up to 56 On Switch Lite, Digital and Physical Games, Screen Protectors and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
  - [The US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
  - [&#39;Shot on iPhone&#39; doc reveals behind the scenes of Usher&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/24/02/18/shot-on-iphone-shows-behind-the-scenes-of-ushers-super-bowl-halftime-show?utm_medium=rss)
- - [Best Pixel 8 and Pixel 8 Pro Deals: Up to $200 Off or Grab Them for Free With Trade-In and New Line     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Terre Haute, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
- - [What California&#39;s Solar Policy Changes Mean for You     - CNET](https://www.cnet.com/home/energy-and-utilities/what-californias-solar-policy-changes-mean-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Up to $200 Off or Grab Them for Free With Trade-In and New Line     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

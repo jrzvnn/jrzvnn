@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those who know](http://9gag.com/gag/a2KBRoO)
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 💣 [Big hair](http://9gag.com/gag/ay2gBB8)
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 👉 [Black Power](http://9gag.com/gag/aGE3dD7)<!-- MEMES:END -->
+ - 😝 [Pepper Weapons!](http://9gag.com/gag/aBdq2YD)
+ - 😝 [Grab her by the ...](http://9gag.com/gag/a04ANbZ)
+ - 💣 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)
+ - 😝 [What up my Nibling.](http://9gag.com/gag/aXnDgDP)
+ - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
 
 ---
 

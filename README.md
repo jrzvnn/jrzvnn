@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 😝 [Big hair](http://9gag.com/gag/ay2gBB8)
+ - 😝 [You&#39;re the evil resident](http://9gag.com/gag/anzp9d0)
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
  - 👉 [But why tho?](http://9gag.com/gag/aXnDqKb)<!-- MEMES:END -->
 

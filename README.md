@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
- - 💣 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 👉 [The Hague Netherlands](http://9gag.com/gag/aOxg7wv)<!-- MEMES:END -->
+ - 😝 [Clipping the palm trees](http://9gag.com/gag/agoMA8v)
+ - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 💣 [Weapons formed against me.](http://9gag.com/gag/aKE07Lg)
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 👉 [Big hair](http://9gag.com/gag/ay2gBB8)<!-- MEMES:END -->
 
 ---
 

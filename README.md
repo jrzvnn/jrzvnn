@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
- - 😝 [Universal sign language](http://9gag.com/gag/aeQoreO)
- - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
- - 👉 [Woops.](http://9gag.com/gag/aBdqm1z)<!-- MEMES:END -->
+ - 😝 [Spotify&#39;s new terms of service for audiobooks](http://9gag.com/gag/aPgNY2q)
+ - 😝 [Still The Most Disappointing Beat Drop EVER.](http://9gag.com/gag/aYV87Nw)
+ - 💣 [He he](http://9gag.com/gag/az2N1PN)
+ - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
+ - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
 
 ---
 

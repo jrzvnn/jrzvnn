@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Shot on iPhone&#39; shows behind the scenes of Usher&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/24/02/18/shot-on-iphone-shows-behind-the-scenes-of-ushers-super-bowl-halftime-show?utm_medium=rss)
+ - [15 Questions You Should Ask Your Solar Installer     - CNET](https://www.cnet.com/home/energy-and-utilities/15-questions-you-should-ask-your-solar-installer/#ftag=CAD590a51e)
+ - [Planning to See Dune 2? Here&#39;s Where to Stream Part 1     - CNET](https://www.cnet.com/tech/services-and-software/planning-to-see-dune-2-heres-where-to-stream-part-1/#ftag=CAD590a51e)
  - [Apple&#39;s upgraded M3 MacBook Pro 14-inch just dropped to $1,599](https://appleinsider.com/articles/24/02/18/apples-upgraded-m3-macbook-pro-14-inch-just-dropped-to-1599?utm_medium=rss)
- - [Hands-on with Khan Academy&#39;s ChatGPT-powered AI tutoring bot Khanmigo, which frequently makes basic arithmetic errors, as Khan Academy works to improve accuracy &lpar;Matt Barnum/Wall Street Journal&rpar;](http://www.techmeme.com/240218/p7#a240218p7)
- - [Messi promotes MLS Season Pass in new Apple TV ad spot](https://appleinsider.com/articles/24/02/18/messi-promotes-mls-season-pass-in-new-apple-tv-ad-spot?utm_medium=rss)
- - [Solar Battery Buying Guide: Everything You Need to Know     - CNET](https://www.cnet.com/home/energy-and-utilities/battery-backup-buying-guide-heres-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Best Internet Providers in Hartford, Connecticut     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hartford-ct/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands-on with Khan Academy&#39;s ChatGPT-powered AI tutoring bot Khanmigo, which frequently makes basic arithmetic errors, as Khan Academy works to improve accuracy &lpar;Matt Barnum/Wall Street Journal&rpar;](http://www.techmeme.com/240218/p7#a240218p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

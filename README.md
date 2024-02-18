@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
- - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [The Hague Netherlands](http://9gag.com/gag/aOxg7wv)
- - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
+ - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [I was today&#39;s old when I found out about this](http://9gag.com/gag/aqe377Y)
+ - 💣 [Dragon Ball characters in alternative drawing style](http://9gag.com/gag/aYV8gE2)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 👉 [The Hague Netherlands](http://9gag.com/gag/aOxg7wv)<!-- MEMES:END -->
 
 ---
 

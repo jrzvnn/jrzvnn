@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
- - 😝 [A ship crossing the Panama Canal](http://9gag.com/gag/aL1Y0n6)
- - 💣 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)
- - 😝 [Grab her by the ...](http://9gag.com/gag/a04ANbZ)
- - 👉 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)<!-- MEMES:END -->
+ - 😝 [The education system at its finest.](http://9gag.com/gag/aDYpxQw)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 💣 [Black lives or something](http://9gag.com/gag/aeQoD6m)
+ - 😝 [The Hague Netherlands](http://9gag.com/gag/aOxg7wv)
+ - 👉 [What level of karen is this](http://9gag.com/gag/a04AR2v)<!-- MEMES:END -->
 
 ---
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 👉 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)<!-- MEMES:END -->
+ - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---
 

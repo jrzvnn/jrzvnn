@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepper Weapons!](http://9gag.com/gag/aBdq2YD)
- - 😝 [Grab her by the ...](http://9gag.com/gag/a04ANbZ)
- - 💣 [Gentlemen, this is democracy manifest.](http://9gag.com/gag/aQEwd72)
- - 😝 [What up my Nibling.](http://9gag.com/gag/aXnDgDP)
- - 👉 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)<!-- MEMES:END -->
+ - 😝 [He got great taste](http://9gag.com/gag/a4oeQmQ)
+ - 😝 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 👉 [Black lives or something](http://9gag.com/gag/aeQoD6m)<!-- MEMES:END -->
 
 ---
 

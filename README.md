@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 💣 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [What level of karen is this](http://9gag.com/gag/a04AR2v)
+ - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 
 ---
 

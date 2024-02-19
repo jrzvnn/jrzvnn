@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/arm6oq6)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
- - 💣 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
  - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
 
 ---

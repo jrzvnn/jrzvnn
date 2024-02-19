@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: Apple&#39;s M2 Pro Mac mini drops to $1,149, best price of 2024](https://appleinsider.com/articles/24/02/19/deals-apples-m2-pro-mac-mini-drops-to-1149-best-price-of-2024?utm_medium=rss)
  - [Sources: Saudi Arabia is mandating that Alibaba, SenseTime, and other Chinese tech companies invest in the kingdom and share expertise to secure huge deals &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240219/p7#a240219p7)
  - [The 9 Best Mirrorless Cameras &lpar;2024&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
  - [10% Off TurboTax: Last Chance for Early Season Pricing     - CNET](https://www.cnet.com/deals/10-off-turbotax-last-chance-for-early-season-pricing/#ftag=CAD590a51e)
- - [Another Week of High Mortgage Rates. Mortgage Interest Rates Today for Feb. 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)
- - [Bag the Apple Pencil 2 for Its All-Time Best Price on Presidents Day     - CNET](https://www.cnet.com/deals/bag-the-apple-pencil-2-for-its-all-time-best-price-on-presidents-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Another Week of High Mortgage Rates. Mortgage Interest Rates Today for Feb. 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

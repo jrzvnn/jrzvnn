@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the company behind MariaDB, which raised ~$230M before its 2022 IPO, may be taken private by K1 in a $37M deal, far below its $672M Series D valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240219/p10#a240219p10)
+ - [25 Best Presidents&#39; Day Deals &lpar;2024&rpar;: Tech, Couches, and More](https://www.wired.com/story/best-presidents-day-deals-sales-2024/)
  - [16 Best Presidents’ Day Mattress Deals](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
  - [Microsoft fixes a bug that caused Edge to automatically import Chrome tabs and browsing data without consent, following months of complaints from some users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240219/p9#a240219p9)
- - [The best Presidents Day sales happening now](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
- - [Wyze says ~13,000 customers could briefly see others&#39; camera feeds, after a similar issue in 2023; Wyze blames glitches in rebooting systems after an AWS outage &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240219/p8#a240219p8)
- - [J Lo celebrates &#39;This is Me... Now&#39; with exclusive Apple Music performance](https://appleinsider.com/articles/24/02/19/j-lo-celebrates-this-is-me-now-with-exclusive-apple-music-performance?utm_medium=rss)<!-- TECH:END -->
+ - [The best Presidents Day sales happening now](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

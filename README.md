@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black lives or something](http://9gag.com/gag/aeQoD6m)
  - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 💣 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
  - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---

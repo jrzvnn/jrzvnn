@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 😝 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
- - 💣 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
+ - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
+ - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
+ - 💣 [My Chinese brothers and sisters are doing great work!! Love from Saudi](http://9gag.com/gag/az2N1mj)
+ - 😝 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
+ - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---
 

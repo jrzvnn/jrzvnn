@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)
+ - [Fake crypto app on the App Store has stolen thousands of dollars already](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
  - [Document: the European Commission opens formal DSA proceedings against TikTok to assess its efforts to protect children, the second DSA investigation after X &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240219/p4#a240219p4)
  - [The US awards $1.5B to GlobalFoundries from the $52B CHIPS Act to build a new fab in Malta, New York, and to expand its Fab 8 plant, plus $1.6B in loans &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240219/p3#a240219p3)
- - [Get Up to 75% Off Furniture During Burrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-75-off-furniture-during-burrows-presidents-day-sale/#ftag=CAD590a51e)
- - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
- - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Up to 75% Off Furniture During Burrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-75-off-furniture-during-burrows-presidents-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

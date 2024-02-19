@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $105 Off Sony&#39;s Excellent WH-1000XM5 ANC Headphones This Presidents Day     - CNET](https://www.cnet.com/deals/save-105-off-sonys-excellent-wh-1000xm5-anc-headphones-this-presidents-day/#ftag=CAD590a51e)
- - [Snag This HP Laptop Bundle Filled With Freebies for Just $400 at QVC     - CNET](https://www.cnet.com/deals/snag-this-hp-laptop-bundle-filled-with-freebies-for-just-400-at-qvc/#ftag=CAD590a51e)
- - [Acer Predator Helios Neo 16 Review: Leader of the Budget Gaming Laptops     - CNET](https://www.cnet.com/tech/computing/acer-predator-helios-neo-16-review-leader-of-the-rtx-4050-budget-gaming-pack/#ftag=CAD590a51e)
+ - [Constellation adds a dark and creepy tone to Apple’s growing sci-fi lineup](https://www.theverge.com/24065198/constellation-review-apple-tv-plus)
  - [Tech investors and founders are flocking back to San Francisco, currently undergoing an AI boom, after leaving during the pandemic for Miami and other US cities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240219/p6#a240219p6)
- - [The Apple Watch Changed How I Ride My Bike     - CNET](https://www.cnet.com/tech/mobile/the-apple-watch-changed-how-i-ride-my-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s AI Boss Says Scale Only Gets You So Far](https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/)
+ - [Los Angeles Just Proved How Spongy a City Can Be](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/)
+ - [Presidents Day AirPods Deal Offers Close to $60 Off USB-C Pro Model at Amazon     - CNET](https://www.cnet.com/deals/presidents-day-airpods-deal-offers-close-60-off-usb-c-pro-model-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Can Now Turn Words Into Ultra-Realistic Videos     - CNET](https://www.cnet.com/tech/openai-can-now-turn-words-into-ultra-realistic-videos/#ftag=CAD590a51e)
  - [Google doubles the cost of some legacy Nest Aware subscriptions internationally, including in Canada, while some modern plans are getting prices hiked by 25% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240219/p14#a240219p14)
- - [Q&amp;A with Google DeepMind CEO Demis Hassabis on needing more than scale to get to AGI, developing AI agents, Gemini Pro 1.5, the UK AI Safety Institute, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240219/p13#a240219p13)
- - [Best Laptop Deals: Save Up to $550 on Microsoft Surface, MacBooks, Asus, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
- - [Jetson Journey Electric Bike     - CNET](https://www.cnet.com/roadshow/news/jetson-journey-electric-bike-dpnl/#ftag=CAD590a51e)
- - [Kingsmith Walking Pad Treadmill     - CNET](https://www.cnet.com/health/fitness/kingsmith-walking-pad-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weighted Plush Animal     - CNET](https://www.cnet.com/culture/entertainment/weighted-plush-animal-dpnl/#ftag=CAD590a51e)
+ - [Best Solar Panels for Your Home for 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panels/#ftag=CAD590a51e)
+ - [Q&amp;A with Google DeepMind CEO Demis Hassabis on needing more than scale to get to AGI, developing AI agents, Gemini Pro 1.5, the UK AI Safety Institute, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240219/p13#a240219p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

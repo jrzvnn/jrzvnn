@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
- - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
- - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
+ - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 💣 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
 
 ---
 

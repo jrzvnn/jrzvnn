@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
+ - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)
+ - [Social Security Benefits Recipients: Do You Need to File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-benefits-recipients-do-you-need-to-file-taxes-this-year/#ftag=CAD590a51e)
  - [Q&amp;A with Irene Solaiman, the head of global policy at Hugging Face, on her advice for women seeking to enter AI, the best way to responsibly build AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240219/p2#a240219p2)
- - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
- - [The Danger Lurking Just Below Ukraine&#39;s Surface](https://www.wired.com/story/ukraine-mine-problem/)
- - [How the expansion of facial recognition tech at US airports is transforming the way travelers move through them, from checking a bag to boarding the plane &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/240218/p9#a240218p9)<!-- TECH:END -->
+ - [Child Tax Credit 2024: Why You Shouldn&#39;t Wait to File Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-why-you-shouldnt-wait-to-file-your-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

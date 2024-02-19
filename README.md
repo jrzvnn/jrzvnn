@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [J Lo celebrates &#39;This is Me... Now&#39; with exclusive Apple Music performance](https://appleinsider.com/articles/24/02/19/j-lo-celebrates-this-is-me-now-with-exclusive-apple-music-performance?utm_medium=rss)
  - [The Best Security Tips and Tools if You Live With Roommates     - CNET](https://www.cnet.com/home/security/the-best-security-tips-and-tools-if-you-live-with-roommates/#ftag=CAD590a51e)
  - [Save Up to $600 on a Saatva Mattress This Presidents Day     - CNET](https://www.cnet.com/deals/save-up-to-600-on-a-saatva-mattress-this-presidents-day/#ftag=CAD590a51e)
  - [India&#39;s government wants answers about iPhone hack alert](https://appleinsider.com/articles/24/02/19/indias-government-wants-answers-about-iphone-hack-alert?utm_medium=rss)
- - [How Healthy Is Your Heart? Find Out at Home Without Any Equipment     - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home/#ftag=CAD590a51e)
- - [5 Best Foods for a Naturally Healthier Heart     - CNET](https://www.cnet.com/health/nutrition/5-best-foods-for-a-naturally-healthier-heart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Healthy Is Your Heart? Find Out at Home Without Any Equipment     - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

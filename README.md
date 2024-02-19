@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
- - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 😝 [BruteForceAttackProtection](http://9gag.com/gag/avQYAbd)
+ - 😝 [Nice](http://9gag.com/gag/arm6oq6)
+ - 💣 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 👉 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)<!-- MEMES:END -->
 
 ---
 

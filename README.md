@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech investors and founders are flocking back to San Francisco, currently undergoing an AI boom, after leaving during the pandemic for Miami and other US cities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240219/p6#a240219p6)
  - [Google’s AI Boss Says Scale Only Gets You So Far](https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/)
  - [Los Angeles Just Proved How Spongy a City Can Be](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/)
  - [Presidents Day AirPods Deal Offers Close to $60 Off USB-C Pro Model at Amazon     - CNET](https://www.cnet.com/deals/presidents-day-airpods-deal-offers-close-60-off-usb-c-pro-model-amazon/#ftag=CAD590a51e)
- - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
- - [Appliance Shopping? Don&#39;t Miss Best Buy&#39;s Presidents Day Sale for Amazing Deals     - CNET](https://www.cnet.com/deals/appliance-shopping-dont-miss-best-buys-presidents-day-sale-amazing-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

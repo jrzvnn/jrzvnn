@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 💣 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
  - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
+ - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
- - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
  - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
  - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---

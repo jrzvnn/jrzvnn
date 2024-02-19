@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 😝 [Shrink governments](http://9gag.com/gag/arm6nYd)
- - 💣 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
  - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
+ - 💣 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
+ - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 
 ---
 

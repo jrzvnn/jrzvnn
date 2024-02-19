@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keurig K-Mini Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/keurig-k-mini-plus-dpnl/#ftag=CAD590a51e)
- - [This Is the Best Way to Reheat Steak, According to My Tests     - CNET](https://www.cnet.com/how-to/how-to-reheat-steak-perfectly-every-time/#ftag=CAD590a51e)
- - [Meizu, which was acquired by Chinese automaker Geely in 2022, will no longer make smartphones, to pursue an &quot;all in AI&quot; strategy over the next three years &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240219/p12#a240219p12)
- - [Rice is not included in Apple’s official guidance for a wet phone](https://www.theverge.com/2024/2/19/24077532/apple-support-document-wet-iphone-no-rice)
- - [Best Solar Inverters of February 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Google DeepMind CEO Demis Hassabis on Gemini Pro 1.5, AGI, developing AI agents, testing Gemini Ultra, the UK AI Safety Institute, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240219/p13#a240219p13)
+ - [Best Laptop Deals: Save Up to $550 on Microsoft Surface, MacBooks, Asus, Lenovo and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
+ - [Jetson Journey Electric Bike     - CNET](https://www.cnet.com/roadshow/news/jetson-journey-electric-bike-dpnl/#ftag=CAD590a51e)
+ - [Kingsmith Walking Pad Treadmill     - CNET](https://www.cnet.com/health/fitness/kingsmith-walking-pad-dpnl/#ftag=CAD590a51e)
+ - [Minolta FHD Bridge Camera     - CNET](https://www.cnet.com/tech/computing/minolta-fhd-bridge-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

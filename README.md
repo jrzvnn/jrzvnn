@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose your warrior](http://9gag.com/gag/aoKrKzm)
- - 😝 [Happy onion brings you tears of joy](http://9gag.com/gag/aYV8Qjq)
- - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 😝 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
- - 👉 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)<!-- MEMES:END -->
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 💣 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
 
 ---
 

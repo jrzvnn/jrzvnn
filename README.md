@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Endless steps in Chongqing](http://9gag.com/gag/aOxg30y)
- - 💣 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 😝 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
+ - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 💣 [Black Power](http://9gag.com/gag/aGE3dD7)
  - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
  - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 

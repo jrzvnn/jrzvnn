@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
+ - 😝 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
+ - 😝 [Like immagine explaining that to people](http://9gag.com/gag/aWGKg76)
+ - 💣 [30 years of love](http://9gag.com/gag/aWGKGYn)
+ - 😝 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
+ - 👉 [Choose your warrior](http://9gag.com/gag/aoKrKzm)<!-- MEMES:END -->
 
 ---
 

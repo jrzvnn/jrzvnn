@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft fixes a bug that caused Edge to automatically import Chrome tabs and browsing data without consent, following months of complaints from some users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240219/p9#a240219p9)
+ - [The best Presidents Day sales happening now](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
  - [Wyze says ~13,000 customers could briefly see others&#39; camera feeds, after a similar issue in 2023; Wyze blames glitches in rebooting systems after an AWS outage &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240219/p8#a240219p8)
  - [J Lo celebrates &#39;This is Me... Now&#39; with exclusive Apple Music performance](https://appleinsider.com/articles/24/02/19/j-lo-celebrates-this-is-me-now-with-exclusive-apple-music-performance?utm_medium=rss)
- - [Save More Than $1,200 on This EcoFlow Delta 2 Power Station and Solar Panel Bundle     - CNET](https://www.cnet.com/deals/save-more-than-1200-on-this-ecoflow-delta-2-power-station-and-solar-panel-bundle/#ftag=CAD590a51e)
- - [&#39;Welcome Home, Franklin&#39;: There&#39;s a New Charlie Brown Special, and Here&#39;s How to Watch     - CNET](https://www.cnet.com/tech/services-and-software/welcome-home-franklin-theres-a-new-charlie-brown-special-and-heres-how-to-watch/#ftag=CAD590a51e)
- - [Presidents Day Sales: 103 Best Deals on TVs, Tech, Appliances and Mattresses     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save More Than $1,200 on This EcoFlow Delta 2 Power Station and Solar Panel Bundle     - CNET](https://www.cnet.com/deals/save-more-than-1200-on-this-ecoflow-delta-2-power-station-and-solar-panel-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

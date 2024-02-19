@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - 😝 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
  - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
- - 💣 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 👉 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)<!-- MEMES:END -->
+ - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
 
 ---
 

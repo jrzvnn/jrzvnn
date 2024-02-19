@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
- - 😝 [Like immagine explaining that to people](http://9gag.com/gag/aWGKg76)
- - 💣 [30 years of love](http://9gag.com/gag/aWGKGYn)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [Monday is finally here](http://9gag.com/gag/aBdqdAZ)<!-- MEMES:END -->
+ - 😝 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
 
 ---
 

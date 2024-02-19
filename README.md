@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 😝 [The way these coconuts peal](http://9gag.com/gag/aGE3LZ7)
  - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 💣 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 👉 [I came](http://9gag.com/gag/a6qvEA2)<!-- MEMES:END -->
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)
+ - 👉 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)<!-- MEMES:END -->
 
 ---
 

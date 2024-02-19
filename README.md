@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 💣 [Why?](http://9gag.com/gag/aL1YnyM)
  - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 👉 [Got diagnosed with stomach cancer 2 days ago. Staging ongoing but looking bad. Looks like my days are numbered. My wife and i are going thru hell. Have to tell my Parents soon. Fking dying with 37... stay sage and healthy. It was pleasure 9gag](http://9gag.com/gag/aVbn7vM)<!-- MEMES:END -->
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [Last photo of Robert Overacker as he jet skies off the Niagara Falls to his death.](http://9gag.com/gag/aPgNZjq)
+ - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [My Chinese brothers and sisters are doing great work!! Love from Saudi](http://9gag.com/gag/az2N1mj)
- - 💣 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
+ - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
+ - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
+ - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
  - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Prime Minister&#39;s Decision In &#39;Black Mirror&#39;](http://9gag.com/gag/a3Z9EXv)
+ - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
  - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 💣 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
 
 ---
 

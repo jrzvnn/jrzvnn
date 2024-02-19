@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
  - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
- - 💣 [My Chinese brothers and sisters are doing great work!! Love from Saudi](http://9gag.com/gag/az2N1mj)
- - 😝 [It is a feature. The car changes colour over time](http://9gag.com/gag/axoxB21)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
+ - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 👉 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)<!-- MEMES:END -->
 
 ---
 

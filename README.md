@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
+ - [FBI Director Christopher Wray says China is inserting &quot;offensive weapons&quot; into critical US infrastructure, with malware pre-positioning reaching a &quot;fever pitch&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240219/p5#a240219p5)
  - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)
  - [Fake crypto app on the App Store has stolen thousands of dollars already](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
- - [Document: the European Commission opens formal DSA proceedings against TikTok to assess its efforts to protect children, the second DSA investigation after X &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240219/p4#a240219p4)
- - [The US awards $1.5B to GlobalFoundries from the $52B CHIPS Act to build a new fab in Malta, New York, and to expand its Fab 8 plant, plus $1.6B in loans &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240219/p3#a240219p3)
- - [Get Up to 75% Off Furniture During Burrow&#39;s Presidents Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-75-off-furniture-during-burrows-presidents-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mortgage Interest Rates Today for Feb. 19, 2024: Rates Move Higher for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

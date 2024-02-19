@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wyze says camera breach let 13,000 customers briefly see into other people’s homes](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
- - [Constellation adds a dark and creepy tone to Apple’s growing sci-fi lineup](https://www.theverge.com/24065198/constellation-review-apple-tv-plus)
- - [Save $105 Off Sony&#39;s Excellent WH-1000XM5 ANC Headphones This Presidents Day     - CNET](https://www.cnet.com/deals/save-105-off-sonys-excellent-wh-1000xm5-anc-headphones-this-presidents-day/#ftag=CAD590a51e)
- - [Snag This HP Laptop Bundle Filled With Freebies for Just $400 at QVC     - CNET](https://www.cnet.com/deals/snag-this-hp-laptop-bundle-filled-with-freebies-for-just-400-at-qvc/#ftag=CAD590a51e)
- - [Acer Predator Helios Neo 16 Review: Leader of the Budget Gaming Laptops     - CNET](https://www.cnet.com/tech/computing/acer-predator-helios-neo-16-review-leader-of-the-rtx-4050-budget-gaming-pack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10% Off TurboTax: Last Chance for Early Season Pricing     - CNET](https://www.cnet.com/deals/10-off-turbotax-last-chance-for-early-season-pricing/#ftag=CAD590a51e)
+ - [Another Week of High Mortgage Rates. Mortgage Interest Rates Today for Feb. 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)
+ - [Bag the Apple Pencil 2 for Its All-Time Best Price on Presidents Day     - CNET](https://www.cnet.com/deals/bag-the-apple-pencil-2-for-its-all-time-best-price-on-presidents-day/#ftag=CAD590a51e)
+ - [CD Rates Today, Feb. 19, 2024: Don’t Sleep on Rates This High     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-feb-19-2024/#ftag=CAD590a51e)
+ - [Refis Are Out of Reach for Homeowners: Mortgage Refinance Rates on Feb. 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-on-feb-19-2024-rates-rise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

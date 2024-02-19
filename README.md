@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Security Tips and Tools if You Live With Roommates     - CNET](https://www.cnet.com/home/security/the-best-security-tips-and-tools-if-you-live-with-roommates/#ftag=CAD590a51e)
+ - [Save Up to $600 on a Saatva Mattress This Presidents Day     - CNET](https://www.cnet.com/deals/save-up-to-600-on-a-saatva-mattress-this-presidents-day/#ftag=CAD590a51e)
  - [India&#39;s government wants answers about iPhone hack alert](https://appleinsider.com/articles/24/02/19/indias-government-wants-answers-about-iphone-hack-alert?utm_medium=rss)
- - [New iPhone 16 Pro colors rumored to include yellow and gray](https://appleinsider.com/articles/24/02/19/new-iphone-16-pro-colors-rumored-to-include-yellow-and-gray?utm_medium=rss)
- - [Apple Vision Pro followup could be 18 months away](https://appleinsider.com/articles/24/02/19/apple-vision-pro-followup-could-be-18-months-away?utm_medium=rss)
- - [4 Simple Steps to Improve Your Gut Health     - CNET](https://www.cnet.com/health/medical/4-simple-steps-to-improve-your-gut-health/#ftag=CAD590a51e)
- - [Apple&#39;s new smart display, Find My wallet, &amp; AirTag-like trackers on HomeKit Insider](https://appleinsider.com/articles/24/02/19/apples-new-smart-display-find-my-wallet-airtag-like-trackers-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [How Healthy Is Your Heart? Find Out at Home Without Any Equipment     - CNET](https://www.cnet.com/health/medical/how-healthy-is-your-heart-find-out-at-home/#ftag=CAD590a51e)
+ - [5 Best Foods for a Naturally Healthier Heart     - CNET](https://www.cnet.com/health/nutrition/5-best-foods-for-a-naturally-healthier-heart/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

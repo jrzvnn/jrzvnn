@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 💣 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
  - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
  - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 

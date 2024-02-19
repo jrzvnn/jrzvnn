@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Law enforcement from 11 countries, including the FBI and UK National Crime Agency, disrupt the LockBit gang and seize 11K domains used to facilitate ransomware &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/240219/p15#a240219p15)
  - [Porsche adds two new hybrids to its lineup of plug-in Panameras](https://www.theverge.com/2024/2/19/24077329/porsche-hybrids-4-4s-panamera-specs-price)
- - [What to Expect from Mobile World Congress 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-mobile-world-congress-2024/#ftag=CAD590a51e)
  - [Nintendo will announce part of its 2024 Switch lineup later this week](https://www.theverge.com/2024/2/19/24062039/nintendo-direct-february-2024)
- - [OnePlus 12 Preorder Deals: Save Up to $800 in Trade-In Plus Free Services for New Subscribers     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Can Now Turn Words Into Ultra-Realistic Videos     - CNET](https://www.cnet.com/tech/openai-can-now-turn-words-into-ultra-realistic-videos/#ftag=CAD590a51e)
+ - [Google doubles the cost of some legacy Nest Aware subscriptions internationally, including in Canada, while some modern plans are getting prices hiked by 25% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240219/p14#a240219p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

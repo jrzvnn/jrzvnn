@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
  - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 😝 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
- - 💣 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
- - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
+ - 💣 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
 
 ---
 

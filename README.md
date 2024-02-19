@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the expansion of facial recognition tech at US airports is transforming the way travelers move through them, from checking a bag to boarding the plane &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/240218/p9#a240218p9)
  - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)
  - [How to create a PDF from images &amp; web pages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-create-a-pdf-from-images-web-pages-in-macos-sonoma?utm_medium=rss)
  - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)
- - [Best iPad Deals: Save Up to $100 on the 10th-Gen iPad, iPad Mini, iPad Air and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Best Garmin Deals: Save Up to $450 on Fenix 6X Pro, Forerunner 945, Strike 4 Fishfinder and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Deals: Save Up to $100 on the 10th-Gen iPad, iPad Mini, iPad Air and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

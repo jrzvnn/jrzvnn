@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 😝 [Ireland still has patriots](http://9gag.com/gag/awZRB6B)
  - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
  - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
 
 ---
 

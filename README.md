@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI Boss Says Scale Only Gets You So Far](https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/)
+ - [Los Angeles Just Proved How Spongy a City Can Be](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/)
  - [Apple&#39;s new RCS stance may have been forced by China](https://appleinsider.com/articles/24/02/19/apples-new-rcs-stance-may-have-been-forced-by-china?utm_medium=rss)
  - [FBI Director Christopher Wray says China is inserting &quot;offensive weapons&quot; into critical US infrastructure, with malware pre-positioning reaching a &quot;fever pitch&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240219/p5#a240219p5)
- - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)
- - [Fake crypto app on the App Store has stolen thousands of dollars already](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
- - [Mortgage Interest Rates Today for Feb. 19, 2024: Rates Move Higher for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-feb-19-2024-rates-move-higher-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky’s Future Is Social Media’s Past](https://www.wired.com/story/blueskys-future-is-social-medias-past/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

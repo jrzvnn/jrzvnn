@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
  - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
  - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 👉 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)<!-- MEMES:END -->
+ - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
+ - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
 
 ---
 

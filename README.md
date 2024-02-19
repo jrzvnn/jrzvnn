@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 💣 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 👉 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)<!-- MEMES:END -->
+ - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - 💣 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
+ - 😝 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)
+ - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 
 ---
 

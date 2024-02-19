@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US awards $1.5B to GlobalFoundries from the $52B CHIPS Act to build a new fab in Malta, New York, and to expand its Fab 8 plant, plus $1.6B in loans &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240219/p3#a240219p3)
  - [Tech Still Isn’t Doing Enough to Care for the Environment](https://www.wired.com/story/tech-environment-greenpeace-social/)
  - [Child Tax Credit: When Will the IRS Start Refunding Your Credit Money this Tax Season?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-when-will-the-irs-start-refunding-your-credit-money-this-tax-season/#ftag=CAD590a51e)
  - [Social Security Benefits Recipients: Do You Need to File Taxes This Year?     - CNET](https://www.cnet.com/personal-finance/social-security-benefits-recipients-do-you-need-to-file-taxes-this-year/#ftag=CAD590a51e)
- - [Q&amp;A with Irene Solaiman, the head of global policy at Hugging Face, on her advice for women seeking to enter AI, the best way to responsibly build AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240219/p2#a240219p2)
- - [Child Tax Credit 2024: Why You Shouldn&#39;t Wait to File Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-why-you-shouldnt-wait-to-file-your-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Irene Solaiman, the head of global policy at Hugging Face, on her advice for women seeking to enter AI, the best way to responsibly build AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240219/p2#a240219p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

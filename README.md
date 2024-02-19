@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
  - 😝 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 💣 [Did we talk about this?](http://9gag.com/gag/a04ARGd)
- - 😝 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
- - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
+ - 😝 [Plot twist: there are two different guys](http://9gag.com/gag/aXnDoAV)
+ - 💣 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - 😝 [Woops.](http://9gag.com/gag/aBdqm1z)
+ - 👉 [Oooh both got clapped!](http://9gag.com/gag/a6qvKBb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s government wants answers about iPhone hack alert](https://appleinsider.com/articles/24/02/19/indias-government-wants-answers-about-iphone-hack-alert?utm_medium=rss)
  - [New iPhone 16 Pro colors rumored to include yellow and gray](https://appleinsider.com/articles/24/02/19/new-iphone-16-pro-colors-rumored-to-include-yellow-and-gray?utm_medium=rss)
  - [Apple Vision Pro followup could be 18 months away](https://appleinsider.com/articles/24/02/19/apple-vision-pro-followup-could-be-18-months-away?utm_medium=rss)
  - [4 Simple Steps to Improve Your Gut Health     - CNET](https://www.cnet.com/health/medical/4-simple-steps-to-improve-your-gut-health/#ftag=CAD590a51e)
- - [Apple&#39;s new smart display, Find My wallet, &amp; AirTag-like trackers on HomeKit Insider](https://appleinsider.com/articles/24/02/19/apples-new-smart-display-find-my-wallet-airtag-like-trackers-on-homekit-insider?utm_medium=rss)
- - [Deals: Apple&#39;s M2 Pro Mac mini drops to $1,149, best price of 2024](https://appleinsider.com/articles/24/02/19/deals-apples-m2-pro-mac-mini-drops-to-1149-best-price-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new smart display, Find My wallet, &amp; AirTag-like trackers on HomeKit Insider](https://appleinsider.com/articles/24/02/19/apples-new-smart-display-find-my-wallet-airtag-like-trackers-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

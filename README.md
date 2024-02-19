@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meizu, which was acquired by Chinese automaker Geely in 2022, will no longer make smartphones, to pursue an &quot;all in AI&quot; strategy over the next three years &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240219/p12#a240219p12)
  - [Rice is not included in Apple’s official guidance for a wet phone](https://www.theverge.com/2024/2/19/24077532/apple-support-document-wet-iphone-no-rice)
  - [The Misinformation Combat Alliance and Meta plan to launch a dedicated fact-checking helpline on WhatsApp in India so users can flag deepfakes for analysis &lpar;The Economic Times&rpar;](http://www.techmeme.com/240219/p11#a240219p11)
  - [MLS teams to get custom Beats headphones in a multi-year brand deal](https://appleinsider.com/articles/24/02/19/mls-teams-to-get-custom-beats-headphones-in-a-multi-year-brand-deal?utm_medium=rss)
- - [21 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)
- - [Filing: the company behind MariaDB, which raised ~$230M before its 2022 IPO, may be taken private by K1 in a $37M deal, far below its $672M Series D valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240219/p10#a240219p10)<!-- TECH:END -->
+ - [21 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

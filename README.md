@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the impact of Russia&#39;s invasion on Ukraine&#39;s tech center Kharkiv; of the 511 tech companies in the city before February 2022, 500 are still operating &lpar;Alec Russell/Financial Times&rpar;](http://www.techmeme.com/240219/p1#a240219p1)
  - [The Danger Lurking Just Below Ukraine&#39;s Surface](https://www.wired.com/story/ukraine-mine-problem/)
  - [How the expansion of facial recognition tech at US airports is transforming the way travelers move through them, from checking a bag to boarding the plane &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/240218/p9#a240218p9)
  - [4 Ways Your Body Is Telling You to Prioritize Quality Sleep     - CNET](https://www.cnet.com/health/sleep/4-ways-your-body-is-telling-you-to-prioritize-quality-sleep/#ftag=CAD590a51e)
- - [How to create a PDF from images &amp; web pages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-create-a-pdf-from-images-web-pages-in-macos-sonoma?utm_medium=rss)
- - [Apple&#39;s 3D video cameras spotted during NBA Slam Dunk Contest](https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest?utm_medium=rss)<!-- TECH:END -->
+ - [How to create a PDF from images &amp; web pages in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-create-a-pdf-from-images-web-pages-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

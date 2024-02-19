@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
+ - 😝 [Chill](http://9gag.com/gag/aA0WgQo)
  - 😝 [Jack reacher before life happens](http://9gag.com/gag/adPZLnD)
- - 💣 [Chill](http://9gag.com/gag/aA0WgQo)
- - 😝 [Oh hell nah](http://9gag.com/gag/ap9y5XE)
- - 👉 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)<!-- MEMES:END -->
+ - 💣 [My fellow zoomer](http://9gag.com/gag/aVbnwWP)
+ - 😝 [Never Japan a nuke twice](http://9gag.com/gag/ajVbVXQ)
+ - 👉 [Oh hell nah](http://9gag.com/gag/ap9y5XE)<!-- MEMES:END -->
 
 ---
 

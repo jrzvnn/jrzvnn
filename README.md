@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe launches AI Assistant in Acrobat in beta, to summarize PDFs, answer and recommend questions, and more, letting paying users &quot;easily chat with documents&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240220/p15#a240220p15)
  - [Tinder is making it harder to get a blue verification checkmark](https://www.theverge.com/2024/2/20/24078089/tinder-blue-verification-checkmark-id-upload)
  - [A look at a16z&#39;s growing DC lobbying operation, which spent almost $1M in 2023, easily the most among VCs, and aims to help its defense-focused startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/240220/p14#a240220p14)
  - [Violence spreads from sea to shining sea in A24’s latest Civil War trailer](https://www.theverge.com/2024/2/20/24078034/civil-war-second-trailer-alex-garland-a24-release-date)
- - [Help, My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)
- - [Adobe Acrobat adds generative AI to ‘easily chat with documents’](https://www.theverge.com/2024/2/20/24077217/adobe-acrobat-generative-ai-assistant-chatbot-pdf-document)<!-- TECH:END -->
+ - [Help, My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

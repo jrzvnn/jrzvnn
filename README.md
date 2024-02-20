@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)
  - [Emails: Sequoia Capital retracted its request to remove Michael Moritz as chairman of Klarna&#39;s board; Sequoia partner Matthew Miller is leaving Klarna&#39;s board &lpar;The Information&rpar;](http://www.techmeme.com/240220/p23#a240220p23)
  - [Everything new in iOS 17.4 beta 4](https://appleinsider.com/articles/24/02/20/everything-new-in-ios-174-beta-4?utm_medium=rss)
  - [Blowout deal: 16-inch MacBook Pro with 1TB SSD gets $850 price drop, limited supply available](https://appleinsider.com/articles/24/02/20/blowout-deal-16-inch-macbook-pro-with-1tb-ssd-gets-850-price-drop-limited-supply-available?utm_medium=rss)
- - [Japan just got a foldable flip phone that costs only $420 — or $265 on sale](https://www.theverge.com/2024/2/20/24078527/zte-libero-flip-japan-price-folding-flip-phone)
- - [Apple says the iPhone 15 battery is more durable than it originally thought](https://appleinsider.com/articles/24/02/20/apple-says-the-iphone-15-battery-is-more-durable-than-it-originally-thought?utm_medium=rss)<!-- TECH:END -->
+ - [Japan just got a foldable flip phone that costs only $420 — or $265 on sale](https://www.theverge.com/2024/2/20/24078527/zte-libero-flip-japan-price-folding-flip-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

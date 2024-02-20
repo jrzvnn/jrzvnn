@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 💣 [I came](http://9gag.com/gag/a6qvEA2)
- - 😝 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
- - 👉 [Love it](http://9gag.com/gag/a04AeQB)<!-- MEMES:END -->
+ - 😝 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 💣 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 😝 [Pack of cowardly boys attacking random girls rushing to make train, one of the girls falls into the tracks](http://9gag.com/gag/aZDAn03)
+ - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
 
 ---
 

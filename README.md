@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
+ - [MLS Season Pass on Apple TV: How to Watch and Stream Major League Soccer in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mls-season-pass-on-apple-tv-how-to-watch-and-stream-major-league-soccer-in-2024/#ftag=CAD590a51e)
+ - [Ninja Woodfire BBQ     - CNET](https://www.cnet.com/news/ninja-woodfire-bbq-dpnl/#ftag=CAD590a51e)
  - [Law enforcement from 11 countries, including the FBI and UK National Crime Agency, disrupt the LockBit gang and seize 11K domains used to facilitate ransomware &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/240219/p15#a240219p15)
- - [Porsche adds two new hybrids to its lineup of plug-in Panameras](https://www.theverge.com/2024/2/19/24077329/porsche-hybrids-4-4s-panamera-specs-price)
- - [What to Expect from Mobile World Congress 2024 video     - CNET](https://www.cnet.com/videos/what-to-expect-from-mobile-world-congress-2024/#ftag=CAD590a51e)
- - [Nintendo will announce part of its 2024 Switch lineup later this week](https://www.theverge.com/2024/2/19/24062039/nintendo-direct-february-2024)
- - [OnePlus 12 Preorder Deals: Save Up to $800 in Trade-In Plus Free Services for New Subscribers     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Porsche adds two new hybrids to its lineup of plug-in Panameras](https://www.theverge.com/2024/2/19/24077329/porsche-hybrids-4-4s-panamera-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

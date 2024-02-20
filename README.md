@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [In Vancouver start legal hard narcotics 31 january](http://9gag.com/gag/a8qP123)
- - 👉 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)<!-- MEMES:END -->
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [Yup](http://9gag.com/gag/aA0Wynp)
+ - 😝 [The rest of the world needs to learn from china](http://9gag.com/gag/az2NdZZ)
+ - 👉 [9 years married with no children. 7 years of trying, until finally we gave up. but now in the 10th year my wife is pregnant and currently having a Caesarean section. I want to share with 9gager.](http://9gag.com/gag/aeQo9Qv)<!-- MEMES:END -->
 
 ---
 

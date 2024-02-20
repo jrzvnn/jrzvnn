@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some big outlets are inundating the web with bad product recommendations without testing the products, and how Google is helping them through inaction &lpar;HouseFresh&rpar;](http://www.techmeme.com/240220/p2#a240220p2)
  - [Paris-based Planity, whose SaaS is used by 40K+ small businesses for appointment booking and more, raised a &amp;euro;45M Series C led by InfraVia Capital Partners &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240220/p1#a240220p1)
  - [Tax Season 2024: IRS Issued $13 Billion in Tax Refunds in the Second Filing Week     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-13-billion-in-tax-refunds-in-the-second-filing-week/#ftag=CAD590a51e)
  - [Fujifilm announces the X100VI, its follow-up to a TikTok sensation](https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price)
- - [Adidas: Save Up to 65% Off During Presidents Day Sale     - CNET](https://www.cnet.com/deals/adidas-save-up-to-65-off-during-presidents-day-sale/#ftag=CAD590a51e)
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)<!-- TECH:END -->
+ - [Adidas: Save Up to 65% Off During Presidents Day Sale     - CNET](https://www.cnet.com/deals/adidas-save-up-to-65-off-during-presidents-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

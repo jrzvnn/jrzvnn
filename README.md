@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [I came](http://9gag.com/gag/a6qvEA2)
  - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
  - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
 
 ---

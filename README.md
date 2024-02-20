@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)
- - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_medium=rss)
- - [A look at ways to play games on Apple Vision Pro: spatial and iPad App Store games, streaming via MirrorPlay for PS5, NDI, Macs, browsers like Nexus&amp;#8314;, and more &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/240220/p16#a240220p16)
- - [An Amazon Fire TV Stick 4K Costs Just $23 Today Only at Woot &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/an-amazon-fire-tv-stick-4k-costs-just-23-today-only-at-woot-save-27/#ftag=CAD590a51e)
- - [Dell Has Marked Down Prices on Laptops, Desktops and Monitors     - CNET](https://www.cnet.com/deals/dell-has-marked-down-prices-on-laptops-desktops-and-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)
+ - [Electric boat startup Arc expands lineup with new plug-in sports boat](https://www.theverge.com/2024/2/20/24075155/arc-sport-electric-wake-sport-boat-specs-price)
+ - [The right to repair — and play games anywhere](https://www.theverge.com/24078212/right-to-repair-xbox-game-pass-cloud-vergecast)
+ - [HBO holds back Last Week Tonight YouTube clips in hopes you’ll use Max instead](https://www.theverge.com/2024/2/20/24078148/hbo-last-week-tonight-with-john-oliver-youtube-clips-delayed-thursday)
+ - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

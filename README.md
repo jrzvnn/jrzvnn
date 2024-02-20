@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro natively supports a rare film aspect ratio](https://appleinsider.com/articles/24/02/20/apple-vision-pro-natively-supports-a-rare-film-aspect-ratio?utm_medium=rss)
  - [The official Xbox wireless controller is down to $44 &lpar;$16 off&rpar;](https://www.theverge.com/2024/2/20/24078124/xbox-controller-elgato-steam-deck-roomba-i3-plus-evo-amazon-fire-tv-stick-4k-sales-deals)
  - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
  - [Best Presidents Day Home and Kitchen Deals You Can Still Grab     - CNET](https://www.cnet.com/deals/best-presidents-day-home-and-kitchen-deals-you-can-still-grab/#ftag=CAD590a51e)
- - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)
- - [Electric boat startup Arc expands lineup with new plug-in sports boat](https://www.theverge.com/2024/2/20/24075155/arc-sport-electric-wake-sport-boat-specs-price)<!-- TECH:END -->
+ - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

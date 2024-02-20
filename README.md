@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The History of Printing](http://9gag.com/gag/a04Ae6Q)
- - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
- - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
  - 😝 [Game of horrors](http://9gag.com/gag/aMERd6P)
- - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
+ - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [The History of Printing](http://9gag.com/gag/a04Ae6Q)
+ - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
 
 ---
 

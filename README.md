@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 😝 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
- - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
  - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
+ - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
 
 ---
 

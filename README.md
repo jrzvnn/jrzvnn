@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids](https://www.wired.com/story/measles-school-unvaccinated-florida/)
  - [Call of Duty League team owner suing  Activision Blizzard for $680 million](https://www.theverge.com/2024/2/20/24078279/call-of-duty-league-monopoly-lawsuit-optic-gaming)
  - [New iPad sizes detailed in new anonymous leak](https://appleinsider.com/articles/24/02/20/new-ipad-sizes-detailed-in-new-anonymous-leak?utm_medium=rss)
  - [NSA Cybersecurity Director Rob Joyce will retire at the end of March after taking the position in 2021; Deputy Director David Luber will assume the role &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240220/p24#a240220p24)
- - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)
- - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)<!-- TECH:END -->
+ - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

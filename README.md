@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Love it](http://9gag.com/gag/a04AeQB)
+ - 😝 [I came](http://9gag.com/gag/a6qvEA2)
+ - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
  - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [In Vancouver start legal hard narcotics 31 january](http://9gag.com/gag/a8qP123)
- - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
+ - 👉 [Wakanda Forever](http://9gag.com/gag/aVbngwd)<!-- MEMES:END -->
 
 ---
 

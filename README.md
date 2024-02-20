@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
  - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 😝 [Friendship of men](http://9gag.com/gag/aYV8EOm)
- - 💣 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

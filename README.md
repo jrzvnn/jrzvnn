@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
- - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
  - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
+ - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
  - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---

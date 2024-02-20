@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Silicon gets massive AI training speed boost with this new project](https://appleinsider.com/articles/24/02/20/apple-silicon-gets-massive-ai-training-speed-boost-with-this-new-project?utm_medium=rss)
- - [Ford slashes Mustang Mach-E prices again as EV price war enters its second year](https://www.theverge.com/2024/2/20/24078295/ford-mustang-mach-e-price-cut-ev-price-war-tesla)
- - [Apple Vision Pro natively supports a rare film aspect ratio](https://appleinsider.com/articles/24/02/20/apple-vision-pro-natively-supports-a-rare-film-aspect-ratio?utm_medium=rss)
- - [The official Xbox wireless controller is down to $44 &lpar;$16 off&rpar;](https://www.theverge.com/2024/2/20/24078124/xbox-controller-elgato-steam-deck-roomba-i3-plus-evo-amazon-fire-tv-stick-4k-sales-deals)
- - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)<!-- TECH:END -->
+ - [Fourth round of Apple developer betas arrive, minus Apple Music SharePlay](https://appleinsider.com/articles/24/02/20/fourth-round-of-apple-developer-betas-arrive-minus-apple-music-shareplay?utm_medium=rss)
+ - [US Supreme court declines to hear $503M Apple-VirnetX patent case](https://appleinsider.com/articles/24/02/20/us-supreme-court-declines-to-hear-503m-apple-virnetx-patent-case?utm_medium=rss)
+ - [Apple Music debuts a monthly version of Replay, with insights like total listening time, top songs, artists, and albums, and makes 2024&#39;s Replay Mix available &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240220/p18#a240220p18)
+ - [Signal Finally Rolls Out Usernames, So You Can Keep Your Phone Number Private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
+ - [Ubisoft turns Rainbow Six teeny tiny for new game on Netflix](https://www.theverge.com/2024/2/20/24078115/rainbow-six-smol-netflix-mobile-game-android-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

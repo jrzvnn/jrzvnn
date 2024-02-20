@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I came](http://9gag.com/gag/a6qvEA2)
- - 😝 [Pack of cowardly boys attacking random girls rushing to make train, one of the girls falls into the tracks](http://9gag.com/gag/aZDAn03)
- - 💣 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 😝 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
- - 👉 [Why?](http://9gag.com/gag/aL1YnyM)<!-- MEMES:END -->
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 💣 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
+ - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 

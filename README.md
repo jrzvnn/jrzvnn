@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft President Brad Smith says the company plans to invest $2.1B in Spain in the next two years to expand its AI and cloud infrastructure in the country &lpar;Reuters&rpar;](http://www.techmeme.com/240219/p16#a240219p16)
  - [M3 Pro &amp; M3 Max MacBook Pro models now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/24/02/20/m3-pro-m3-max-macbook-pro-models-now-available-on-apples-refurbished-store?utm_medium=rss)
  - [Apple TV+ drama &#39;Masters of the Air&#39; is most-watched series launch ever for the service](https://appleinsider.com/articles/24/02/20/apple-tv-drama-masters-of-the-air-is-most-watched-series-launch-ever-for-the-service?utm_medium=rss)
  - [Presidents Day Sales: 115 Best Deals on TVs, Tech, Appliances and Mattresses     - CNET](https://www.cnet.com/deals/best-presidents-day-sales/#ftag=CAD590a51e)
- - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
- - [MLS Season Pass on Apple TV: How to Watch and Stream Major League Soccer in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mls-season-pass-on-apple-tv-how-to-watch-and-stream-major-league-soccer-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Powerful Should Your Home Battery Be?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

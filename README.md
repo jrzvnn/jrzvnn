@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law enforcement arrests two LockBit operators in Poland and Ukraine, issues three arrest warrants, releases a decryption tool, and seizes 200+ crypto wallets &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240220/p6#a240220p6)
- - [Steam Annual Summary for 2023: more than 500 games earned $3M+ in gross revenue for the first time ever, concurrent users reached a record 33M, and more &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240220/p5#a240220p5)
- - [Sketchy rumor tries to pin down folding iPhone release date](https://appleinsider.com/articles/24/02/20/sketchy-rumor-tries-to-pin-down-folding-iphone-release-date?utm_medium=rss)
- - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
- - [Google engineers hacked a Sony PlayStation Portal to run games locally via a PPSSPP emulator in a &quot;software based&quot; exploit; the Portal can only stream PS5 games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240220/p4#a240220p4)<!-- TECH:END -->
+ - [Walmart to acquire Vizio TV maker in $2.3 billion deal](https://www.theverge.com/2024/2/20/24078060/walmart-vizio-acquisition-deal)
+ - [Walmart agrees to buy TV maker Vizio for $2.3B, or $11.50/share, to boost its ad business via Vizio&#39;s SmartCast OS, which lets users stream ad-supported content &lpar;Jacob Pramuk/CNBC&rpar;](http://www.techmeme.com/240220/p9#a240220p9)
+ - [Tinder plans to roll out its new ID checks in the US, the UK, Brazil, and Mexico, after tests in Australia and New Zealand, to combat AI scams and dating crimes &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240220/p8#a240220p8)
+ - [After years of research, an Apple smart ring may be imminent](https://appleinsider.com/articles/24/02/20/after-years-of-research-an-apple-smart-ring-may-be-imminent?utm_medium=rss)
+ - [Samsung details its Auracast, 360 Audio, and Auto Switch features, rolling out to Buds 2, Buds FE, the S24 series, Neo QLED and OLED TVs, Book laptops, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240220/p7#a240220p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I came](http://9gag.com/gag/a6qvEA2)
- - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
+ - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
  - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 😝 [I came](http://9gag.com/gag/a6qvEA2)
  - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
 
 ---

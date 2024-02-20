@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)
+ - 😝 [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - 💣 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
+ - 😝 [Muskovich at work](http://9gag.com/gag/aEqrVBn)
+ - 👉 [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)<!-- MEMES:END -->
 
 ---
 

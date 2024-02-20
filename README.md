@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t quite stick the landing.](http://9gag.com/gag/a5Xm6Bg)
- - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
- - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [Friendship of men](http://9gag.com/gag/aYV8EOm)
+ - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

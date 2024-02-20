@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
  - [Google engineers hacked a Sony PlayStation Portal to run games locally via a PPSSPP emulator in a &quot;software based&quot; exploit; the Portal can only stream PS5 games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240220/p4#a240220p4)
  - [Recogni, which designs AI chips for autonomous vehicles, raised a $102M Series C led by Celesta Capital and GreatPoint, taking its total funding to $175M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240220/p3#a240220p3)
- - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)
- - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
- - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)<!-- TECH:END -->
+ - [6 Common Tax Mistakes Could Trigger an IRS Audit. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/6-common-tax-mistakes-could-trigger-an-irs-audit-heres-what-to-avoid/#ftag=CAD590a51e)
+ - [Best Phone Under $300     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

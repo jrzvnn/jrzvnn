@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 💣 [I came](http://9gag.com/gag/a6qvEA2)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
  - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 

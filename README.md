@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 😝 [Game of horrors](http://9gag.com/gag/aMERd6P)
- - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [The History of Printing](http://9gag.com/gag/a04Ae6Q)
+ - 😝 [British polis](http://9gag.com/gag/aeQo4q5)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 😝 [I came](http://9gag.com/gag/a6qvEA2)
  - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
 
 ---

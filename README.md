@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s smart fabric research points to wearable tech beyond Apple Watch &amp; AirPods](https://appleinsider.com/articles/22/02/22/apples-smart-fabric-research-points-to-wearable-tech-beyond-apple-watch-airpods?utm_medium=rss)
  - [Oppo Find X7 Ultra Review: Magnificent Camera](https://www.wired.com/review/oppo-find-x7-ultra/)
  - [OnePlus is getting back into the smartwatch game](https://www.theverge.com/2024/2/20/24078098/oneplus-watch-2-smartwatch-mwc-2024)
  - [How to get detailed monthly stats on your Apple Music listening habits](https://appleinsider.com/inside/apple-music/tips/how-to-get-detailed-monthly-stats-on-your-apple-music-listening-habits?utm_medium=rss)
- - [Apple&#39;s Jeff Williams is in Taiwan for Foxconn&#39;s 50th anniversary](https://appleinsider.com/articles/24/02/20/apples-jeff-williams-is-in-taiwan-for-foxconns-50th-anniversary?utm_medium=rss)
- - [It&#39;s Not Too Late to Cash In on the Top 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Jeff Williams is in Taiwan for Foxconn&#39;s 50th anniversary](https://appleinsider.com/articles/24/02/20/apples-jeff-williams-is-in-taiwan-for-foxconns-50th-anniversary?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

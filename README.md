@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
- - 😝 [British polis](http://9gag.com/gag/aeQo4q5)
+ - 😝 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
  - 💣 [I came](http://9gag.com/gag/a6qvEA2)
- - 😝 [Never reach into brackish water](http://9gag.com/gag/a6qvDLb)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 😝 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
+ - 👉 [Love it](http://9gag.com/gag/a04AeQB)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
+ - [February SSDI Payment 2024: Here&#39;s When Your Check Will Arrive     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
  - [Fake crypto app on the App Store has stolen thousands of dollars already [u]](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
- - [How some big outlets are inundating the web with bad product recommendations without testing the products, and how Google is helping them through inaction &lpar;HouseFresh&rpar;](http://www.techmeme.com/240220/p2#a240220p2)
- - [Paris-based Planity, whose SaaS is used by 40K+ small businesses for appointment booking and more, raised a &amp;euro;45M Series C led by InfraVia Capital Partners &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240220/p1#a240220p1)
- - [Tax Season 2024: IRS Issued $13 Billion in Tax Refunds in the Second Filing Week     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-issued-13-billion-in-tax-refunds-in-the-second-filing-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CDC Considering an End to COVID Isolation: Get Your Free Tests While You Still Can     - CNET](https://www.cnet.com/health/cdc-considering-an-end-to-covid-isolation-get-your-free-tests-while-you-still-can/#ftag=CAD590a51e)
+ - [How some big outlets are inundating the web with bad product recommendations without testing the products, and how Google is helping them through inaction &lpar;HouseFresh&rpar;](http://www.techmeme.com/240220/p2#a240220p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 💣 [Yup](http://9gag.com/gag/aA0Wynp)
- - 😝 [The rest of the world needs to learn from china](http://9gag.com/gag/az2NdZZ)
- - 👉 [9 years married with no children. 7 years of trying, until finally we gave up. but now in the 10th year my wife is pregnant and currently having a Caesarean section. I want to share with 9gager.](http://9gag.com/gag/aeQo9Qv)<!-- MEMES:END -->
+ - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 😝 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
 
 ---
 

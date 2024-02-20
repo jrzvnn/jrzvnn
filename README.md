@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t quite stick the landing.](http://9gag.com/gag/a5Xm6Bg)
- - 😝 [Wakanda Forever](http://9gag.com/gag/aVbngwd)
- - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [The rest of the world needs to learn from china](http://9gag.com/gag/az2NdZZ)
- - 👉 [My dad just passed and I found this photo of him at 20 years old\u2026 Sorry, no real context, miss you old man, I love you.](http://9gag.com/gag/aMERV6x)<!-- MEMES:END -->
+ - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
+ - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 

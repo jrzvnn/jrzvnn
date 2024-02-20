@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
+ - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)
  - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)
  - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
- - [February SSDI Payment 2024: Here&#39;s When Your Check Will Arrive     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
- - [Fake crypto app on the App Store has stolen thousands of dollars already [u]](https://appleinsider.com/articles/24/02/19/fake-crypto-app-on-the-app-store-has-stolen-thousands-of-dollars-already?utm_medium=rss)
- - [CDC Considering an End to COVID Isolation: Get Your Free Tests While You Still Can     - CNET](https://www.cnet.com/health/cdc-considering-an-end-to-covid-isolation-get-your-free-tests-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [February SSDI Payment 2024: Here&#39;s When Your Check Will Arrive     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

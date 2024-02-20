@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple Silicon gets massive AI training speed boost with this new project](https://appleinsider.com/articles/24/02/20/apple-silicon-gets-massive-ai-training-speed-boost-with-this-new-project?utm_medium=rss)
  - [Ford slashes Mustang Mach-E prices again as EV price war enters its second year](https://www.theverge.com/2024/2/20/24078295/ford-mustang-mach-e-price-cut-ev-price-war-tesla)
  - [Apple Vision Pro natively supports a rare film aspect ratio](https://appleinsider.com/articles/24/02/20/apple-vision-pro-natively-supports-a-rare-film-aspect-ratio?utm_medium=rss)
- - [Xbox Game Pass Ultimate: Play Bluey, Warhammer 40K: Boltgun and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-bluey-warhammer-40k-boltgun-and-more-soon/#ftag=CAD590a51e)
- - [This $100 Microsoft Bundle Includes Windows 11 Pro, Office 2019, Visio and Project     - CNET](https://www.cnet.com/deals/this-100-microsoft-bundle-includes-windows-11-pro-office-2019-visio-and-project/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The official Xbox wireless controller is down to $44 &lpar;$16 off&rpar;](https://www.theverge.com/2024/2/20/24078124/xbox-controller-elgato-steam-deck-roomba-i3-plus-evo-amazon-fire-tv-stick-4k-sales-deals)
+ - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
- - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [In Vancouver start legal hard narcotics 31 january](http://9gag.com/gag/a8qP123)
+ - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
 
 ---
 

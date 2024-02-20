@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British polis](http://9gag.com/gag/aeQo4q5)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 😝 [I came](http://9gag.com/gag/a6qvEA2)
- - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
+ - 😝 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [I came](http://9gag.com/gag/a6qvEA2)
+ - 😝 [Love it](http://9gag.com/gag/a04AeQB)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 

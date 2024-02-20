@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
  - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
  - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
  - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 💣 [I came](http://9gag.com/gag/a6qvEA2)
- - 😝 [Love it](http://9gag.com/gag/a04AeQB)
- - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [Old but gold](http://9gag.com/gag/ajVb7m1)
+ - 💣 [You are f**ked](http://9gag.com/gag/a6qvDom)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
 

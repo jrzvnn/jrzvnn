@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe Acrobat adds generative AI to ‘easily chat with documents’](https://www.theverge.com/2024/2/20/24077217/adobe-acrobat-generative-ai-assistant-chatbot-pdf-document)
+ - [Apple beats Samsung in the European smartphone market](https://appleinsider.com/articles/24/02/20/apple-beats-samsung-in-the-european-smartphone-market?utm_medium=rss)
+ - [Pay Just $199 for Bose&#39;s Amazing QuietComfort 45 ANC Headphones     - CNET](https://www.cnet.com/deals/pay-just-199-for-boses-amazing-quietcomfort-45-anc-headphones/#ftag=CAD590a51e)
  - [As YouTube marks one year as Nielsen&#39;s top US streaming service, a Q&amp;A with YouTube VPs Nicky Rettke and Tara Levy on the NFL, ad innovation, creators, and more &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/240220/p13#a240220p13)
- - [Sources: Apple COO Jeff Williams makes a rare visit to Taiwan to celebrate Foxconn&#39;s 50th anniversary, joining SVP of Operations Sabih Khan at a gala event &lpar;Bloomberg&rpar;](http://www.techmeme.com/240220/p12#a240220p12)
- - [AI Is Coming for the Experts. First, It Needs Their Help](https://www.wired.com/story/remotasks-ai-expert-data-labor/)
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
- - [The Notorious Lockbit Ransomware Gang Has Been Disrupted by Law Enforcement](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)<!-- TECH:END -->
+ - [Best Buy&#39;s Extended Presidents Day Appliance Sale Is Still Offering Amazing Deals     - CNET](https://www.cnet.com/deals/best-buys-extended-presidents-day-appliance-sale-is-still-offering-amazing-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

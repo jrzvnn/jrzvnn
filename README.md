@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s audio department leadership is getting shuffled](https://appleinsider.com/articles/24/02/20/apples-audio-department-leadership-is-getting-shuffled?utm_medium=rss)
+ - [The EU is formalizing rules for taking CO2 out of the atmosphere](https://www.theverge.com/2024/2/20/24078154/eu-council-parliament-carbon-removal-framework-climate-change)
  - [Sources: Apple&#39;s longtime VP in charge of acoustics Gary Geaves is stepping down, replaced by Ruchir Dav&amp;eacute;, another big shakeup in the hardware engineering group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240220/p22#a240220p22)
- - [Source: Microsoft is developing a server networking card to boost perfomance of AI chips and lessen its reliance on Nvidia; Pradeep Sindhu is leading the effort &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240220/p21#a240220p21)
- - [Third visionOS 1.1 developer beta arrives with lots of bug fixes](https://appleinsider.com/articles/24/02/20/third-visionos-11-developer-beta-arrives-with-lots-of-bug-fixes?utm_medium=rss)
- - [Films imported through Movies Anywhere may not play in 3D on Apple Vision Pro](https://appleinsider.com/articles/24/02/20/films-imported-through-movies-anywhere-may-not-play-in-3d-on-apple-vision-pro?utm_medium=rss)
- - [New AirPods Max rumored to hit shelves in 2024 without giant feature changes](https://appleinsider.com/articles/24/02/20/new-airpods-max-rumored-to-hit-shelves-in-2024-without-giant-feature-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Brooklyn Bedding Spartan Mattress Review 2024: The Best Mattress for Athletes?     - CNET](https://www.cnet.com/health/sleep/brooklyn-bedding-spartan-mattress-review/#ftag=CAD590a51e)
+ - [Source: Microsoft is developing a server networking card to boost perfomance of AI chips and lessen its reliance on Nvidia; Pradeep Sindhu is leading the effort &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240220/p21#a240220p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

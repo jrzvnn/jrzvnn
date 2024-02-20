@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [The rest of the world needs to learn from china](http://9gag.com/gag/az2NdZZ)
+ - 😝 [Yup](http://9gag.com/gag/aA0Wynp)
+ - 👉 [9 years married with no children. 7 years of trying, until finally we gave up. but now in the 10th year my wife is pregnant and currently having a Caesarean section. I want to share with 9gager.](http://9gag.com/gag/aeQo9Qv)<!-- MEMES:END -->
 
 ---
 

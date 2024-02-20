@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Demos from AI chip maker Groq go viral after the company&#39;s inference engine shows remarkable speeds running LLMs, including with real-time conversations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240220/p25#a240220p25)
+ - [Fubo sues Fox, Disney, and Warner Bros. to block their combined sports streaming app](https://www.theverge.com/2024/2/20/24078607/fubotv-sports-streaming-lawsuit-disney-fox-warner-bros)
  - [Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids](https://www.wired.com/story/measles-school-unvaccinated-florida/)
  - [Call of Duty League team owner suing  Activision Blizzard for $680 million](https://www.theverge.com/2024/2/20/24078279/call-of-duty-league-monopoly-lawsuit-optic-gaming)
- - [New iPad sizes detailed in new anonymous leak](https://appleinsider.com/articles/24/02/20/new-ipad-sizes-detailed-in-new-anonymous-leak?utm_medium=rss)
- - [NSA Cybersecurity Director Rob Joyce will retire at the end of March after taking the position in 2021; Deputy Director David Luber will assume the role &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240220/p24#a240220p24)
- - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)<!-- TECH:END -->
+ - [Best Board Game Deals: Save Up to $29 on Strategy Games, Card Games, RPGs and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

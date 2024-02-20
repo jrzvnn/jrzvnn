@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 👉 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
 
 ---
 

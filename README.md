@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo of Robert Overacker as he jet skies off the Niagara Falls to his death.](http://9gag.com/gag/aPgNZjq)
- - 😝 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 💣 [Brave girl in Ireland put trash into trash bin](http://9gag.com/gag/aDYp4Kx)
+ - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
  - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
- - 👉 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
+ - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
+ - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
 
 ---
 

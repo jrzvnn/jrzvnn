@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third visionOS 1.1 developer beta arrives with lots of bug fixes](https://appleinsider.com/articles/24/02/20/third-visionos-11-developer-beta-arrives-with-lots-of-bug-fixes?utm_medium=rss)
+ - [Films imported through Movies Anywhere may not play in 3D on Apple Vision Pro](https://appleinsider.com/articles/24/02/20/films-imported-through-movies-anywhere-may-not-play-in-3d-on-apple-vision-pro?utm_medium=rss)
  - [New AirPods Max rumored to hit shelves in 2024 without giant feature changes](https://appleinsider.com/articles/24/02/20/new-airpods-max-rumored-to-hit-shelves-in-2024-without-giant-feature-changes?utm_medium=rss)
  - [Over the past several days, attackers targeted smaller Mastodon servers by signing up spam accounts; Eugen Rochko said previously only big servers were targeted &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240220/p20#a240220p20)
- - [US Supreme court declines to hear $503M Apple-VirnetX patent case](https://appleinsider.com/articles/24/02/20/us-supreme-court-declines-to-hear-503m-apple-virnetx-patent-case?utm_medium=rss)
- - [Third visionOS 1.1 developer beta arrives with lots of bug fixes](https://appleinsider.com/articles/24/02/20/third-visionos-11-developer-beta-arrives-with-lots-of-bug-fixes?utm_medium=rss)
- - [Messaging app Signal finally rolls out usernames in beta, allowing a user to conceal their phone number; Signal will still a require phone number to register &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240220/p19#a240220p19)<!-- TECH:END -->
+ - [US Supreme court declines to hear $503M Apple-VirnetX patent case](https://appleinsider.com/articles/24/02/20/us-supreme-court-declines-to-hear-503m-apple-virnetx-patent-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam Annual Summary for 2023: more than 500 games earned $3M+ in gross revenue for the first time ever, concurrent users reached a record 33M, and more &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240220/p5#a240220p5)
  - [Sketchy rumor tries to pin down folding iPhone release date](https://appleinsider.com/articles/24/02/20/sketchy-rumor-tries-to-pin-down-folding-iphone-release-date?utm_medium=rss)
  - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
  - [Google engineers hacked a Sony PlayStation Portal to run games locally via a PPSSPP emulator in a &quot;software based&quot; exploit; the Portal can only stream PS5 games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240220/p4#a240220p4)
- - [Recogni, which designs AI chips for autonomous vehicles, raised a $102M Series C led by Celesta Capital and GreatPoint, taking its total funding to $175M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240220/p3#a240220p3)
- - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)<!-- TECH:END -->
+ - [Recogni, which designs AI chips for autonomous vehicles, raised a $102M Series C led by Celesta Capital and GreatPoint, taking its total funding to $175M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240220/p3#a240220p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

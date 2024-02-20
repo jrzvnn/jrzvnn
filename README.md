@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo Find X7 Ultra Review: Magnificent Camera](https://www.wired.com/review/oppo-find-x7-ultra/)
+ - [OnePlus is getting back into the smartwatch game](https://www.theverge.com/2024/2/20/24078098/oneplus-watch-2-smartwatch-mwc-2024)
+ - [How to get detailed monthly stats on your Apple Music listening habits](https://appleinsider.com/inside/apple-music/tips/how-to-get-detailed-monthly-stats-on-your-apple-music-listening-habits?utm_medium=rss)
  - [Apple&#39;s Jeff Williams is in Taiwan for Foxconn&#39;s 50th anniversary](https://appleinsider.com/articles/24/02/20/apples-jeff-williams-is-in-taiwan-for-foxconns-50th-anniversary?utm_medium=rss)
- - [Adobe launches AI Assistant in Acrobat in beta, to summarize PDFs, answer and recommend questions, and more, letting paying users &quot;easily chat with documents&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240220/p15#a240220p15)
- - [Tinder is making it harder to get a blue verification checkmark](https://www.theverge.com/2024/2/20/24078089/tinder-blue-verification-checkmark-id-upload)
- - [A look at a16z&#39;s growing DC lobbying operation, which spent almost $1M in 2023, easily the most among VCs, and aims to help its defense-focused startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/240220/p14#a240220p14)
- - [Violence spreads from sea to shining sea in A24’s latest Civil War trailer](https://www.theverge.com/2024/2/20/24078034/civil-war-second-trailer-alex-garland-a24-release-date)<!-- TECH:END -->
+ - [It&#39;s Not Too Late to Cash In on the Top 19 Presidents Day Mattress Sales     - CNET](https://www.cnet.com/deals/best-presidents-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

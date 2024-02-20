@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palo Alto Networks reports Q2 revenue up 19% YoY to $1.98B, vs. $1.97B est., and lowers its full-year guidance for billings and revenue; PANW drops 19%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240220/p26#a240220p26)
  - [Demos from AI chip maker Groq go viral after the company&#39;s inference engine shows remarkable speeds running LLMs, including with real-time conversations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240220/p25#a240220p25)
  - [Fubo sues Fox, Disney, and Warner Bros. to block their combined sports streaming app](https://www.theverge.com/2024/2/20/24078607/fubotv-sports-streaming-lawsuit-disney-fox-warner-bros)
  - [Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids](https://www.wired.com/story/measles-school-unvaccinated-florida/)
- - [Call of Duty League team owner suing  Activision Blizzard for $680 million](https://www.theverge.com/2024/2/20/24078279/call-of-duty-league-monopoly-lawsuit-optic-gaming)
- - [Best Board Game Deals: Save Up to $29 on Strategy Games, Card Games, RPGs and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Call of Duty League team owner suing  Activision Blizzard for $680 million](https://www.theverge.com/2024/2/20/24078279/call-of-duty-league-monopoly-lawsuit-optic-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

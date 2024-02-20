@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
- - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 💣 [Why?](http://9gag.com/gag/aL1YnyM)
- - 😝 [Pack of cowardly boys attacking random girls rushing to make train, one of the girls falls into the tracks](http://9gag.com/gag/aZDAn03)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [These girls have loved you long time](http://9gag.com/gag/a04A7mB)
+ - 💣 [Pack of cowardly boys attacking random girls rushing to make train, one of the girls falls into the tracks](http://9gag.com/gag/aZDAn03)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)<!-- MEMES:END -->
 
 ---
 

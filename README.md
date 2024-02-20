@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Presidents Day deals you can still get](https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches)
  - [A US appeals court rules a $1B jury verdict from 2019 against Cox for users&#39; music piracy was unjustified; a new trial to be held to determine suitable damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240220/p17#a240220p17)
  - [Electric boat startup Arc expands lineup with new plug-in sports boat](https://www.theverge.com/2024/2/20/24075155/arc-sport-electric-wake-sport-boat-specs-price)
  - [The right to repair — and play games anywhere](https://www.theverge.com/24078212/right-to-repair-xbox-game-pass-cloud-vergecast)
- - [HBO holds back Last Week Tonight YouTube clips in hopes you’ll use Max instead](https://www.theverge.com/2024/2/20/24078148/hbo-last-week-tonight-with-john-oliver-youtube-clips-delayed-thursday)
- - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)<!-- TECH:END -->
+ - [HBO holds back Last Week Tonight YouTube clips in hopes you’ll use Max instead](https://www.theverge.com/2024/2/20/24078148/hbo-last-week-tonight-with-john-oliver-youtube-clips-delayed-thursday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

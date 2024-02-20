@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fujifilm announces the X100VI, its follow-up to a TikTok sensation](https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price)
  - [Adidas: Save Up to 65% Off During Presidents Day Sale     - CNET](https://www.cnet.com/deals/adidas-save-up-to-65-off-during-presidents-day-sale/#ftag=CAD590a51e)
  - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
  - [The Best Security Tips and Tools if You Live With Roommates     - CNET](https://www.cnet.com/home/security/the-best-security-tips-and-tools-if-you-live-with-roommates/#ftag=CAD590a51e)
- - [Apollo Go Review: An Entry-Level Scooter With High-End Features     - CNET](https://www.cnet.com/roadshow/news/apollo-go-review-an-entry-level-scooter-with-high-end-features/#ftag=CAD590a51e)
- - [Microsoft President Brad Smith says the company plans to invest $2.1B in Spain in the next two years to expand its AI and cloud infrastructure in the country &lpar;Reuters&rpar;](http://www.techmeme.com/240219/p16#a240219p16)<!-- TECH:END -->
+ - [Apollo Go Review: An Entry-Level Scooter With High-End Features     - CNET](https://www.cnet.com/roadshow/news/apollo-go-review-an-entry-level-scooter-with-high-end-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

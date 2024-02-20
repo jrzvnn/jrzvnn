@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
  - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Number one](http://9gag.com/gag/a6qvX8q)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
+ - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
+ - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
 
 ---
 

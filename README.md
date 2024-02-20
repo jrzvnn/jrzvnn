@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Is Coming for the Experts. First, It Needs Their Help](https://www.wired.com/story/remotasks-ai-expert-data-labor/)
  - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
- - [Lockbit: How A Global Police Operation Just Took Down a Notorious Ransomware Gang](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)
+ - [The Notorious Lockbit Ransomware Gang Has Been Disrupted by Law Enforcement](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)
  - [How Anthropic raised $7.3B in the past year, including using unusual deal structures; sources say its valuation tripled to $15B and its monthly revenue hit $8M &lpar;New York Times&rpar;](http://www.techmeme.com/240220/p11#a240220p11)
- - [Forget SodaStream, Ninja&#39;s Amazing Thirsti Drink System Is Down to a $140 All-Time Low     - CNET](https://www.cnet.com/deals/forget-sodastream-ninjas-amazing-thirsti-drink-system-down-140-all-time-low/#ftag=CAD590a51e)
- - [Sources: UK digital bank Monzo is nearing a deal to raise &amp;pound;350M led by Alphabet&#39;s CapitalG at a &amp;pound;4B post-money valuation, up from &amp;pound;3.5B in December 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/240220/p10#a240220p10)<!-- TECH:END -->
+ - [Forget SodaStream, Ninja&#39;s Amazing Thirsti Drink System Is Down to a $140 All-Time Low     - CNET](https://www.cnet.com/deals/forget-sodastream-ninjas-amazing-thirsti-drink-system-down-140-all-time-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

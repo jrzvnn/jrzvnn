@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 😝 [Friendship of men](http://9gag.com/gag/aYV8EOm)
+ - 💣 [CCP backed `Doctors and Engineers` trying to harass piano man again](http://9gag.com/gag/aGE3zd5)
  - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 💣 [Friendship of men](http://9gag.com/gag/aYV8EOm)
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
 
 ---
 

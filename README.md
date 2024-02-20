@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [One of the last small-ish Android phones looks like it’s going the way of the iPhone Mini](https://www.theverge.com/2024/2/20/24078500/asus-zenfone-11-ultra-small-phone)
  - [Pair found guilty of trying to defraud Apple of more than $3 million](https://appleinsider.com/articles/24/02/20/pair-found-guilty-of-trying-to-defraud-apple-of-more-than-3-million?utm_medium=rss)
  - [Emails: Sequoia Capital retracted its request to remove Michael Moritz as chairman of Klarna&#39;s board; Sequoia partner Matthew Miller is leaving Klarna&#39;s board &lpar;The Information&rpar;](http://www.techmeme.com/240220/p23#a240220p23)
- - [Everything new in iOS 17.4 beta 4](https://appleinsider.com/articles/24/02/20/everything-new-in-ios-174-beta-4?utm_medium=rss)<!-- TECH:END -->
+ - [Stanley Tumblers: Are They Worth the Price?     - CNET](https://www.cnet.com/deals/stanley-tumblers-are-they-worth-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

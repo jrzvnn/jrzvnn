@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [Didn&#39;t quite stick the landing.](http://9gag.com/gag/a5Xm6Bg)
  - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
- - 💣 [Old but gold](http://9gag.com/gag/ajVb7m1)
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 👉 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)<!-- MEMES:END -->
+ - 💣 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 😝 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)
+ - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
 
 ---
 

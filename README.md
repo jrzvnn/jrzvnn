@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)
  - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
  - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)
  - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)
- - [The Transport Companies Leaving Fossil Fuels Behind](https://www.wired.com/story/future-of-transport-flying-deliveries-hydrogen-electrification/)
- - [February SSDI Payment 2024: Here&#39;s When Your Check Will Arrive     - CNET](https://www.cnet.com/personal-finance/february-ssdi-payment-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 States Are Sending Child Tax Credit Payments in 2024. Are You Getting One?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-are-you-getting-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

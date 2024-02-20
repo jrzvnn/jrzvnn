@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
  - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [Brutal](http://9gag.com/gag/awZR3g1)<!-- MEMES:END -->
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Valentines day fail](http://9gag.com/gag/abvPv0E)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

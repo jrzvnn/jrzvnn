@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
  - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [I came](http://9gag.com/gag/a6qvEA2)
- - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
+ - 😝 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)<!-- MEMES:END -->
 
 ---
 

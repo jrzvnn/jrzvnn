@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
  - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
- - 👉 [Valentines day fail](http://9gag.com/gag/abvPv0E)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

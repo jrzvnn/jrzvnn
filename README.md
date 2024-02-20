@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says the iPhone 15 battery is more durable than it originally thought](https://appleinsider.com/articles/24/02/20/apple-says-the-iphone-15-battery-is-more-durable-than-it-originally-thought?utm_medium=rss)
+ - [Signal will soon let you share a username instead of your phone number](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)
  - [Apple&#39;s audio department leadership is getting shuffled](https://appleinsider.com/articles/24/02/20/apples-audio-department-leadership-is-getting-shuffled?utm_medium=rss)
  - [The EU is formalizing rules for taking CO2 out of the atmosphere](https://www.theverge.com/2024/2/20/24078154/eu-council-parliament-carbon-removal-framework-climate-change)
- - [Sources: Apple&#39;s longtime VP in charge of acoustics Gary Geaves is stepping down, replaced by Ruchir Dav&amp;eacute;, another big shakeup in the hardware engineering group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240220/p22#a240220p22)
- - [Brooklyn Bedding Spartan Mattress Review 2024: The Best Mattress for Athletes?     - CNET](https://www.cnet.com/health/sleep/brooklyn-bedding-spartan-mattress-review/#ftag=CAD590a51e)
- - [Source: Microsoft is developing a server networking card to boost perfomance of AI chips and lessen its reliance on Nvidia; Pradeep Sindhu is leading the effort &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240220/p21#a240220p21)<!-- TECH:END -->
+ - [Sources: Apple&#39;s longtime VP in charge of acoustics Gary Geaves is stepping down, replaced by Ruchir Dav&amp;eacute;, another big shakeup in the hardware engineering group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240220/p22#a240220p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

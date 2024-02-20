@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Recogni, which designs AI chips for autonomous vehicles, raised a $102M Series C led by Celesta Capital and GreatPoint, taking its total funding to $175M &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240220/p3#a240220p3)
  - [Samsung details a host of audio upgrades coming to its phones, tablets, and TVs](https://www.theverge.com/2024/2/20/24078026/samsung-galaxy-buds-auracast-360-audio-auto-switch-support)
  - [Metal Prices Are Soaring. So Is Metal Theft](https://www.wired.com/story/metal-theft-epidemic-copper-steel/)
  - [Sony’s PlayStation Portal hacked to run emulated PSP games](https://www.theverge.com/2024/2/20/24078024/sony-playstation-portal-hack-mod-psp-emulator)
- - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)
- - [15 States Are Sending Child Tax Credit Payments in 2024. Are You Getting One?     - CNET](https://www.cnet.com/personal-finance/taxes/15-states-are-sending-child-tax-credit-payments-in-2024-are-you-getting-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Music beta trials new feature for importing Spotify playlists](https://appleinsider.com/articles/24/02/20/apple-music-beta-trials-new-feature-for-importing-spotify-playlists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

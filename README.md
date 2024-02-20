@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK digital bank Monzo is nearing a deal to raise &amp;pound;350M led by Alphabet&#39;s CapitalG at a &amp;pound;4B post-money valuation, up from &amp;pound;3.5B in December 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/240220/p10#a240220p10)
- - [Walmart to acquire Vizio TV maker in $2.3 billion deal](https://www.theverge.com/2024/2/20/24078060/walmart-vizio-acquisition-deal)
- - [Walmart agrees to buy TV maker Vizio for $2.3B, or $11.50/share, to boost its ad business via Vizio&#39;s SmartCast OS, which lets users stream ad-supported content &lpar;Jacob Pramuk/CNBC&rpar;](http://www.techmeme.com/240220/p9#a240220p9)
- - [Tinder plans to roll out its new ID checks in the US, the UK, Brazil, and Mexico, after tests in Australia and New Zealand, to combat AI scams and dating crimes &lpar;Antonia Mufarech/Bloomberg&rpar;](http://www.techmeme.com/240220/p8#a240220p8)
- - [After years of research, an Apple smart ring may be imminent](https://appleinsider.com/articles/24/02/20/after-years-of-research-an-apple-smart-ring-may-be-imminent?utm_medium=rss)<!-- TECH:END -->
+ - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
+ - [Lockbit: How A Global Police Operation Just Took Down a Notorious Ransomware Gang](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)
+ - [How Anthropic raised $7.3B in the past year, including using unusual deal structures; sources say its valuation tripled to $15B and its monthly revenue hit $8M &lpar;New York Times&rpar;](http://www.techmeme.com/240220/p11#a240220p11)
+ - [Forget SodaStream, Ninja&#39;s Amazing Thirsti Drink System Is Down to a $140 All-Time Low     - CNET](https://www.cnet.com/deals/forget-sodastream-ninjas-amazing-thirsti-drink-system-down-140-all-time-low/#ftag=CAD590a51e)
+ - [Sources: UK digital bank Monzo is nearing a deal to raise &amp;pound;350M led by Alphabet&#39;s CapitalG at a &amp;pound;4B post-money valuation, up from &amp;pound;3.5B in December 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/240220/p10#a240220p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

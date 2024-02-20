@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey fears Apple Vision Pro users can be idiots behind the wheel](https://appleinsider.com/articles/24/02/20/survey-fears-apple-vision-pro-users-can-be-idiots-behind-the-wheel?utm_medium=rss)
+ - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_medium=rss)
  - [A look at ways to play games on Apple Vision Pro: spatial and iPad App Store games, streaming via MirrorPlay for PS5, NDI, Macs, browsers like Nexus&amp;#8314;, and more &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/240220/p16#a240220p16)
- - [Apple&#39;s smart fabric research points to wearable tech beyond Apple Watch &amp; AirPods](https://appleinsider.com/articles/22/02/22/apples-smart-fabric-research-points-to-wearable-tech-beyond-apple-watch-airpods?utm_medium=rss)
- - [Oppo Find X7 Ultra Review: Magnificent Camera](https://www.wired.com/review/oppo-find-x7-ultra/)
- - [OnePlus is getting back into the smartwatch game](https://www.theverge.com/2024/2/20/24078098/oneplus-watch-2-smartwatch-mwc-2024)
- - [How to get detailed monthly stats on your Apple Music listening habits](https://appleinsider.com/inside/apple-music/tips/how-to-get-detailed-monthly-stats-on-your-apple-music-listening-habits?utm_medium=rss)<!-- TECH:END -->
+ - [An Amazon Fire TV Stick 4K Costs Just $23 Today Only at Woot &lpar;Save $27&rpar;     - CNET](https://www.cnet.com/deals/an-amazon-fire-tv-stick-4k-costs-just-23-today-only-at-woot-save-27/#ftag=CAD590a51e)
+ - [Dell Has Marked Down Prices on Laptops, Desktops and Monitors     - CNET](https://www.cnet.com/deals/dell-has-marked-down-prices-on-laptops-desktops-and-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

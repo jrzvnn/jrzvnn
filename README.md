@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idk why my last post of this vid got deleted even after 1k upvotes](http://9gag.com/gag/aWGKxzK)
- - 😝 [Why?](http://9gag.com/gag/aL1YnyM)
- - 💣 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 😝 [Found in the congo, What type rock this is?](http://9gag.com/gag/aNwxp9r)
- - 👉 [I would have done the same](http://9gag.com/gag/ajVb700)<!-- MEMES:END -->
+ - 😝 [She&#39;s a keeper. Great sense of humor](http://9gag.com/gag/agoMmVq)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 💣 [I came](http://9gag.com/gag/a6qvEA2)
+ - 😝 [The border collie doing border collie things](http://9gag.com/gag/aMEREgW)
+ - 👉 [Love it](http://9gag.com/gag/a04AeQB)<!-- MEMES:END -->
 
 ---
 

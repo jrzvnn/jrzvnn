@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp adds new text formatting options to improve messaging](https://www.theverge.com/2024/2/21/24078957/whatsapp-text-formatting-shortcuts-bullet-lists-block-quote-highlight)
- - [Chipmaker Astera Labs, which offers cloud and AI connectivity hardware, files for a US IPO, reporting 2023 revenue up 44.9% YoY to $115.8M and a $26.3M net loss &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240221/p26#a240221p26)
- - [Microsoft Copilot Pro review: the $20/month service is a good start that offers impressive image generation and useful features in Word and other Office apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240221/p25#a240221p25)
- - [One month with Microsoft’s AI vision of the future: Copilot Pro](https://www.theverge.com/2024/2/21/24078972/microsoft-copilot-pro-ai-hands-on-features)
- - [Clumio, a data backup and recovery service for companies using the public cloud, raised a $75M Series D, following a $135M Series C in November 2019 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240221/p24#a240221p24)<!-- TECH:END -->
+ - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
+ - [Elden Ring’s Shadow of the Erdtree trailer is full of new ways to die](https://www.theverge.com/23990947/elden-ring-shadow-of-the-erdtree-release-date-trailer)
+ - [WhatsApp rolls out support for bulleted and numbered lists, block quotes, and inline code to highlight and organize messages on Android, iOS, web, and macOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240221/p27#a240221p27)
+ - [A Startup’s Mission to Bring Back the Woolly Mammoth Is Being Made Into a Docuseries](https://www.wired.com/story/colossal-biosciences-james-reed-documentary/)
+ - [15 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

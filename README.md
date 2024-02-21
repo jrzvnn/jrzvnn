@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
- - [Apple announces PQ3, a post-quantum cryptographic protocol for iMessage that uses the Kyber algorithm, launching in iOS 17.4, iPad OS 17.4, and macOS 14.4 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240221/p21#a240221p21)
- - [Apple is hardening iMessage encryption now to protect it from a threat that doesn&#39;t exist yet](https://appleinsider.com/articles/24/02/21/apple-is-hardening-imessage-encryption-now-to-protect-it-from-a-threat-that-doesnt-exist-yet?utm_medium=rss)
- - [Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update](https://www.wired.com/story/apple-pq3-post-quantum-encryption/)
- - [Bluetti’s fridge, freezer, and ice-making combo can go three days on solar charge](https://www.theverge.com/24078952/bluetti-swapsolar-fridge-comparison-specs-price)<!-- TECH:END -->
+ - [Apple launches Apple Sports app with scores and betting odds](https://www.theverge.com/2024/2/21/24079064/apple-sports-app-launch-iphone-live-scores-odds-stats)
+ - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)
+ - [Israel-based BRIA, a Getty-backed AI image generation startup that licenses 1B+ images from 18 stock providers, raised a $24M Series A from Publicis and others &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240221/p23#a240221p23)
+ - [Apple launches Apple Sports, a free app offering scores and stats for the NBA, Premier League, and more, in the US, Canada, and the UK, on iOS 17.2 or later &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240221/p22#a240221p22)
+ - [Grounded and Pentiment are Microsoft’s first Xbox-exclusive games for Nintendo Switch](https://www.theverge.com/2024/2/21/24078043/grounded-pentiment-nintendo-switch-release-microsoft-xbox-exclusive-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

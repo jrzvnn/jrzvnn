@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t quite stick the landing.](http://9gag.com/gag/a5Xm6Bg)
- - 😝 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
- - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
  - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

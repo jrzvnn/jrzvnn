@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 💣 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 😝 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)
+ - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
 
 ---
 

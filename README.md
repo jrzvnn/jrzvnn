@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
  - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 💣 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 💣 [Number one](http://9gag.com/gag/a6qvX8q)
+ - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
+ - 👉 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)<!-- MEMES:END -->
 
 ---
 

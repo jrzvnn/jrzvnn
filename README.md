@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
  - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
- - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
+ - 👉 [You are f**ked](http://9gag.com/gag/a6qvDom)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe this fits?](http://9gag.com/gag/aA0W49L)
- - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
+ - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
+ - 💣 [The movies really butchered her character](http://9gag.com/gag/aA0W4GR)
+ - 😝 [Shit just got real](http://9gag.com/gag/avQYEGd)
+ - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
 
 ---
 

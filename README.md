@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at TDCommons, a site Google launched in 2015 that publishes technical details of ideas from companies and individuals, to block future patent disputes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240220/p27#a240220p27)
  - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)
  - [iOS 17.4&#39;s New Tool Shows if Your iPhone 15&#39;s Battery Health Is Normal     - CNET](https://www.cnet.com/tech/mobile/ios-17-4s-new-tool-shows-if-your-iphone-15s-battery-health-is-normal/#ftag=CAD590a51e)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Nectar Premier Copper Mattress Review 2024: A Cooling Memory Foam Bed Put to the Test     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
- - [Cox Communications won’t have to pay $1 billion to record labels after all](https://www.theverge.com/2024/2/20/24078418/cox-communications-wont-have-to-pay-1-billion-to-record-labels-after-all)<!-- TECH:END -->
+ - [Nectar Premier Copper Mattress Review 2024: A Cooling Memory Foam Bed Put to the Test     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

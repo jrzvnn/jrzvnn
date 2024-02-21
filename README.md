@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 💣 [I would have done the same](http://9gag.com/gag/ajVb700)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
+ - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

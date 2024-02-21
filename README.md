@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
- - 😝 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
+ - 😝 [Number one](http://9gag.com/gag/a6qvX8q)
+ - 😝 [Women](http://9gag.com/gag/aEqrMWM)
+ - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
- - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
- - 💣 [The movies really butchered her character](http://9gag.com/gag/aA0W4GR)
- - 😝 [Shit just got real](http://9gag.com/gag/avQYEGd)
- - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

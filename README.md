@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US sent letters in 2023 to US suppliers of SMIC suspending permission to sell to its most advanced plant, after SMIC produced a chip for Huawei &lpar;Reuters&rpar;](http://www.techmeme.com/240221/p20#a240221p20)
- - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
- - [Letter: an FTC &quot;Twitter Files&quot; investigation finds no evidence that Twitter violated its government data security order, despite Elon Musk&#39;s directives to do so &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240221/p19#a240221p19)
- - [Google releases Gemma 2B and 7B, a pair of open-source AI models to let developers use the research that went into its flagship closed Gemini model more freely &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240221/p18#a240221p18)
- - [How to Dry Off a Soaked iPhone &lpar;Don&#39;t Use Rice&rpar;](https://www.wired.com/story/how-to-rescue-a-wet-phone/)<!-- TECH:END -->
+ - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)
+ - [Apple announces PQ3, a post-quantum cryptographic protocol for iMessage that uses the Kyber algorithm, launching in iOS 17.4, iPad OS 17.4, and macOS 14.4 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240221/p21#a240221p21)
+ - [Apple is hardening iMessage encryption now to protect it from a threat that doesn&#39;t exist yet](https://appleinsider.com/articles/24/02/21/apple-is-hardening-imessage-encryption-now-to-protect-it-from-a-threat-that-doesnt-exist-yet?utm_medium=rss)
+ - [Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update](https://www.wired.com/story/apple-pq3-post-quantum-encryption/)
+ - [Bluetti’s fridge, freezer, and ice-making combo can go three days on solar charge](https://www.theverge.com/24078952/bluetti-swapsolar-fridge-comparison-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

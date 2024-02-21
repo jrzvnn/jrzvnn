@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comfort isn’t just a Vision Pro problem — it’s a wearable one](https://www.theverge.com/24078522/apple-vision-pro-wearables-comfort)
+ - [Q&amp;A with Intel CEO Pat Gelsinger on Intel Foundry, IDM 2.0, working with Amazon, packaging, 18A, innovation in Moore&#39;s Law, reluctant customers, AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240221/p33#a240221p33)
  - [Microsoft plans to use Intel&#39;s 18A tech to make a forthcoming chip that Microsoft designed in-house; Microsoft recently announced two computer and AI chips &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240221/p32#a240221p32)
  - [Arm prepares to release its Neoverse V3 and N3 CPU designs to its customers, offering up to 128 cores and more, for server, cloud, and infrastructure &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240221/p31#a240221p31)
- - [Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust](https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/)
- - [Xbox-exclusive Hi-Fi Rush is officially coming to PS5](https://www.theverge.com/2024/2/21/24079090/hi-fi-rush-ps5-xbox-release-date)
- - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans [u]](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)<!-- TECH:END -->
+ - [Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust](https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

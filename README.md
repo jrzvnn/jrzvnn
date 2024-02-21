@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm prepares to release its Neoverse V3 and N3 CPU designs to its customers, offering up to 128 cores and more, for server, cloud, and infrastructure &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240221/p31#a240221p31)
+ - [Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust](https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/)
  - [Xbox-exclusive Hi-Fi Rush is officially coming to PS5](https://www.theverge.com/2024/2/21/24079090/hi-fi-rush-ps5-xbox-release-date)
  - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans [u]](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
- - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)
- - [Apple defends its controversial EU App Store plans](https://appleinsider.com/articles/24/02/21/apple-defends-its-controversial-eu-app-store-plans?utm_medium=rss)
- - [ChatGPT spat out gibberish for many users overnight before OpenAI fixed it](https://www.theverge.com/2024/2/21/24079047/chatgpt-malfunction-hallucination-responses-openai)<!-- TECH:END -->
+ - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

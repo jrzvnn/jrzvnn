@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Samsung sold 1.58M ASML shares, or 0.4% of ASML, worth ~$930M in September 2023, reducing its stake to zero, as Samsung looks to new areas of chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p8#a240221p8)
  - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)
+ - [Android 15 Developer Preview Is Now Available. What to Know About the First Release     - CNET](https://www.cnet.com/tech/mobile/android-15-developer-preview-is-now-available-what-to-know-about-the-first-release/#ftag=CAD590a51e)
  - [Forget Carbon Offsets. The Planet Needs Carbon Removal Credits](https://www.wired.com/story/carbon-removal-cur8-gabrielle-walker-credits-offsets-greenwashing/)
- - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)
- - [An interview with Microsoft Gaming CEO Phil Spencer on Xbox growth, job cuts, and why getting rid of physical Xbox discs is &quot;not a strategic thing for us&quot; &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/240221/p5#a240221p5)
- - [How livestreaming talent agencies in China recruit influencers, often signing them to multiyear contracts that cost tens of thousands of dollars to breach &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240221/p4#a240221p4)<!-- TECH:END -->
+ - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

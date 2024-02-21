@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox-exclusive Hi-Fi Rush is officially coming to PS5](https://www.theverge.com/2024/2/21/24079090/hi-fi-rush-ps5-xbox-release-date)
+ - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans [u]](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
+ - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)
  - [Apple defends its controversial EU App Store plans](https://appleinsider.com/articles/24/02/21/apple-defends-its-controversial-eu-app-store-plans?utm_medium=rss)
- - [ChatGPT spat out gibberish for many users overnight before OpenAI fixed it](https://www.theverge.com/2024/2/21/24079047/chatgpt-malfunction-hallucination-responses-openai)
- - [Tech insiders and engineers say China lags behind the US in generative AI by at least one year, leading Chinese companies to rely on US models like Meta&#39;s LLaMA &lpar;New York Times&rpar;](http://www.techmeme.com/240221/p30#a240221p30)
- - [How Japan plans to spend $67B to revive its domestic chip production, hoping to leverage US supply chain concerns, including Rapidus building 2nm chips by 2027 &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/240221/p29#a240221p29)
- - [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/)<!-- TECH:END -->
+ - [ChatGPT spat out gibberish for many users overnight before OpenAI fixed it](https://www.theverge.com/2024/2/21/24079047/chatgpt-malfunction-hallucination-responses-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

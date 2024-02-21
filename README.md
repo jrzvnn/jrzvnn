@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a first, Apple had the top seven best selling smartphones globally in 2023, and Samsung had three; iPhone 14, 14 Pro Max, 14 Pro, and 13 topped the list &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240221/p17#a240221p17)
+ - [A US jury finds two Chinese nationals guilty of a &quot;sophisticated scheme&quot; to defraud Apple by sending 5,000+ counterfeit iPhones for repair, losing Apple $3M+ &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p16#a240221p16)
+ - [Sources: Reddit plans to reserve some of its IPO shares for 75K loyal users, an unusual move that could build loyalty, and list its shares on the NYSE in March &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240221/p15#a240221p15)
  - [China&#39;s Ministry of State Security warns unnamed hackers are obtaining data on key issues, like food production and the weather, in a series of WeChat posts &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/240221/p14#a240221p14)
- - [Apple takes top seven spots in global smartphone sales for the first time](https://appleinsider.com/articles/24/02/21/apple-takes-top-seven-spots-in-global-smartphone-sales-for-the-first-time?utm_medium=rss)
- - [Anne Neuberger, a Top White House Cyber Official, Is Staying Surprisingly Optimistic](https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/)
- - [Biden signs an EO to increase the cyber defenses of maritime ports via additional Coast Guard powers, invest $20B in infrastructure over five years, and more &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/240221/p13#a240221p13)
- - [Mortgage Refinance Rates for Feb. 21, 2024: Rates Are Mixed     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-feb-21-2024-rates-are-mixed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple takes top seven spots in global smartphone sales for the first time](https://appleinsider.com/articles/24/02/21/apple-takes-top-seven-spots-in-global-smartphone-sales-for-the-first-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

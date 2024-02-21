@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yes, Amazon gift bags have handles now](https://www.theverge.com/2024/2/20/24078688/amazon-gift-bags-handles)
+ - [iOS 17.4&#39;s New Tool Shows if Your iPhone 15&#39;s Battery Health Is Normal     - CNET](https://www.cnet.com/tech/mobile/ios-17-4s-new-tool-shows-if-your-iphone-15s-battery-health-is-normal/#ftag=CAD590a51e)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Cox Communications won’t have to pay $1 billion to record labels after all](https://www.theverge.com/2024/2/20/24078418/cox-communications-wont-have-to-pay-1-billion-to-record-labels-after-all)
- - [It’s about to get even harder to buy some of Disney’s weirdest movies on Blu-ray](https://www.theverge.com/2024/2/20/24078684/disney-ends-disney-movie-club-sony-physical-media-deal-dvd-blu-ray)
- - [Palo Alto Networks reports Q2 revenue up 19% YoY to $1.98B, vs. $1.97B est., and lowers its full-year guidance for billings and revenue; PANW drops 19%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240220/p26#a240220p26)
- - [OnePlus 11 Deals: Up to $650 in Trade-In Offers     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nectar Premier Copper Mattress Review 2024: A Cooling Memory Foam Bed Put to the Test     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
+ - [Cox Communications won’t have to pay $1 billion to record labels after all](https://www.theverge.com/2024/2/20/24078418/cox-communications-wont-have-to-pay-1-billion-to-record-labels-after-all)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers warn that a high-risk vulnerability under attack in remote access tool ConnectWise ScreenConnect is &quot;trivial and embarrassingly easy&quot; to exploit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240221/p43#a240221p43)
+ - [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
+ - [Rivian says it is laying off 10 percent of its workforce as EV woes deepen](https://www.theverge.com/2024/2/21/24079572/rivian-layoff-ev-production-q4-earnings)
  - [Best Apple Vision Pro cases &amp; accessories](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-cases-accessories?utm_medium=rss)
- - [Apple says the iPhone 15’s battery got better — but won’t say exactly how](https://www.theverge.com/2024/2/21/24078576/apple-iphone-15-pro-max-battery-health-charging-ios-17-4)
- - [Nvidia reports Q4 revenue up 265% YoY to $22.1B, vs. $20.62B est., Data Center revenue up 409% to $18.4B, and FY 2024 revenue up 126% to $60.9B; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240221/p42#a240221p42)
- - [Best Lenovo Laptop Deals: Save Over $1,600 on Gaming, Work and Day-to-Day Laptops     - CNET](https://www.cnet.com/deals/best-lenovo-laptop-deals/#ftag=CAD590a51e)
- - [BuzzFeed sells Complex, which it acquired for $300M in 2021, to livestream shopping platform Ntwrk for $108.6M; BuzzFeed plans to lay off 16% of its workforce &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240221/p41#a240221p41)<!-- TECH:END -->
+ - [Apple says the iPhone 15’s battery got better — but won’t say exactly how](https://www.theverge.com/2024/2/21/24078576/apple-iphone-15-pro-max-battery-health-charging-ios-17-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

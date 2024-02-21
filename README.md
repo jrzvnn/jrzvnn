@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The LTE-enabled Apple Watch Series 8 is nearly half off](https://www.theverge.com/2024/2/21/24078171/apple-watch-series-8-meross-smart-plug-mini-deal-sale)
  - [The first Borderlands movie trailer has a real Guardians vibe to it](https://www.theverge.com/24078786/borderlands-movie-trailer)
  - [M3 Max 16-inch MacBook Pro review 3 months later: Peak Mac with best-in-class performance](https://appleinsider.com/articles/24/02/21/m3-max-16-inch-macbook-pro-review-3-months-later-peak-mac-with-best-in-class-performance?utm_medium=rss)
  - [Intel&#39;s Direct Connect announcements: IFS rebranded to Intel Foundry, &quot;systems foundry&quot; era, 18A-P, 14A, and Hybrid Bonding, five nodes in four years, and more &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240221/p34#a240221p34)
- - [Comfort isn’t just a Vision Pro problem — it’s a wearable one](https://www.theverge.com/24078522/apple-vision-pro-wearables-comfort)
- - [Q&amp;A with Intel CEO Pat Gelsinger on Intel Foundry, IDM 2.0, working with Amazon, packaging, 18A, innovation in Moore&#39;s Law, reluctant customers, AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240221/p33#a240221p33)<!-- TECH:END -->
+ - [Comfort isn’t just a Vision Pro problem — it’s a wearable one](https://www.theverge.com/24078522/apple-vision-pro-wearables-comfort)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

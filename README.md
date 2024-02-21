@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BuzzFeed sells Complex, which it acquired for $300M in 2021, to livestream shopping platform Ntwrk for $108.6M; BuzzFeed plans to lay off 16% of its workforce &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240221/p41#a240221p41)
  - [Google says it&#39;s working to fix Gemini&#39;s &quot;inaccuracies in some historical image generation depictions&quot;, after some users complained about them &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240221/p40#a240221p40)
  - [Yuga Labs co-founder Greg &quot;Garga&quot; Solano announces he&#39;s returning as CEO of the company, replacing Daniel Alegre, who spent less than a year in the role &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240221/p39#a240221p39)
  - [Meet the new Google sign-in page](https://www.theverge.com/2024/2/21/24079445/google-sign-in-password-login-redesign)
- - [Asus Zenfone 11 Ultra Tease Reveals Bigger Size, Video Features     - CNET](https://www.cnet.com/tech/mobile/asus-zenfone-11-ultra-tease-reveals-bigger-size-video-features/#ftag=CAD590a51e)
- - [Verizon Price Increase: Why Your Phone Bill Might Be Higher in March     - CNET](https://www.cnet.com/tech/mobile/verizon-price-increase-why-your-phone-bill-might-be-higher-in-march/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

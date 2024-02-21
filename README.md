@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How livestreaming talent agencies in China recruit influencers, often signing them to multiyear contracts that cost tens of thousands of dollars to breach &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240221/p4#a240221p4)
  - [DefiLlama: the total value of tokens sent to the Bitcoin DeFi market surpassed $1B; CryptoSlam: daily NFT sales volume on Bitcoin beat Ethereum in early January &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240221/p3#a240221p3)
  - [Sources: some ByteDance executives expressed concerns over running the video editing app CapCut from China given the political scrutiny facing TikTok in the US &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240221/p2#a240221p2)
  - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)
- - [Switching to electric vehicles would be fantastic for kids’ health](https://www.theverge.com/2024/2/21/24074895/electric-vehicle-children-health-effect-american-lung-association)
- - [Beijing-based Moonshot AI, which launched its AI chatbot Kimi Chat in October 2023, raised $1B+ led by Alibaba and HongShan, reportedly at a ~$2.5B valuation &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240220/p33#a240220p33)<!-- TECH:END -->
+ - [Switching to electric vehicles would be fantastic for kids’ health](https://www.theverge.com/2024/2/21/24074895/electric-vehicle-children-health-effect-american-lung-association)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

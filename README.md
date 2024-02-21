@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget Carbon Offsets. The Planet Needs Carbon Removal Credits](https://www.wired.com/story/carbon-removal-cur8-gabrielle-walker-credits-offsets-greenwashing/)
+ - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)
  - [An interview with Microsoft Gaming CEO Phil Spencer on Xbox growth, job cuts, and why getting rid of physical Xbox discs is &quot;not a strategic thing for us&quot; &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/240221/p5#a240221p5)
  - [How livestreaming talent agencies in China recruit influencers, often signing them to multiyear contracts that cost tens of thousands of dollars to breach &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240221/p4#a240221p4)
- - [DefiLlama: the total value of tokens sent to the Bitcoin DeFi market surpassed $1B; CryptoSlam: daily NFT sales volume on Bitcoin beat Ethereum in early January &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240221/p3#a240221p3)
- - [Sources: some ByteDance executives expressed concerns over running the video editing app CapCut from China given the political scrutiny facing TikTok in the US &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240221/p2#a240221p2)
- - [Meta and Microsoft are lobbying EU regulators to reject Apple&#39;s proposed App Store changes to comply with the DMA, saying Apple&#39;s plans don&#39;t go far enough &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240221/p1#a240221p1)<!-- TECH:END -->
+ - [DefiLlama: the total value of tokens sent to the Bitcoin DeFi market surpassed $1B; CryptoSlam: daily NFT sales volume on Bitcoin beat Ethereum in early January &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240221/p3#a240221p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

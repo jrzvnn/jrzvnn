@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nvidia reports Q4 revenue up 265% YoY to $22.1B, vs. $20.62B est., Data Center revenue up 409% to $18.4B, and FY 2024 revenue up 126% to $60.9B; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240221/p42#a240221p42)
+ - [Best Lenovo Laptop Deals: Save Over $1,600 on Gaming, Work and Day-to-Day Laptops     - CNET](https://www.cnet.com/deals/best-lenovo-laptop-deals/#ftag=CAD590a51e)
  - [BuzzFeed sells Complex, which it acquired for $300M in 2021, to livestream shopping platform Ntwrk for $108.6M; BuzzFeed plans to lay off 16% of its workforce &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240221/p41#a240221p41)
- - [Google says it&#39;s working to fix Gemini&#39;s &quot;inaccuracies in some historical image generation depictions&quot;, after some users complained about them &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240221/p40#a240221p40)
- - [Yuga Labs co-founder Greg &quot;Garga&quot; Solano announces he&#39;s returning as CEO of the company, replacing Daniel Alegre, who spent less than a year in the role &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240221/p39#a240221p39)
- - [Meet the new Google sign-in page](https://www.theverge.com/2024/2/21/24079445/google-sign-in-password-login-redesign)<!-- TECH:END -->
+ - [The 8 Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)
+ - [Best Party-Planning Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-party-planning-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

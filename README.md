@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 💣 [Number one](http://9gag.com/gag/a6qvX8q)
- - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
- - 👉 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)<!-- MEMES:END -->
+ - 😝 [Only fans dad](http://9gag.com/gag/ap9yD19)
+ - 😝 [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
+ - 💣 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
+ - 😝 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
+ - 👉 [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)<!-- MEMES:END -->
 
 ---
 

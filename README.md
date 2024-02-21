@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Waymo’s robotaxi expansion plans in California put on hold by regulators](https://www.theverge.com/2024/2/21/24079334/waymo-robotaxi-expansion-application-hold-cpuc)
- - [Why Beyoncé&#39;s &#39;Texas Hold &#39;Em&#39; Has Taken Over TikTok](https://www.wired.com/story/beyonce-texas-hold-em-tiktok-dance-trend/)
+ - [Why Beyoncé’s ‘Texas Hold ’Em’ Has Taken Over TikTok](https://www.wired.com/story/beyonce-texas-hold-em-tiktok-dance-trend/)
  - [Intel&#39;s AI Reboot Is the Future of US Chipmaking](https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/)
  - [Filing: Roblox paid out a record $740.8M to over 12,000 game creators in 2023, up 19% YoY; ~3,500 creators earned over $10,000, and ~750 earned over $100K &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240221/p35#a240221p35)
  - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)<!-- TECH:END -->

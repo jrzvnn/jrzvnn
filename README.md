@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [They&#39;re not the worst nudes I could imagine](http://9gag.com/gag/aGE3ywz)
- - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 💣 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
+ - 😝 [Women](http://9gag.com/gag/aEqrMWM)
+ - 👉 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
- - 💣 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 💣 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 😝 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)
  - 👉 [Brutal](http://9gag.com/gag/awZR3g1)<!-- MEMES:END -->
 
 ---

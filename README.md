@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One month with Microsoft’s AI vision of the future: Copilot Pro](https://www.theverge.com/2024/2/21/24078972/microsoft-copilot-pro-ai-hands-on-features)
  - [Clumio, a data backup and recovery service for companies using the public cloud, raised a $75M Series D, following a $135M Series C in November 2019 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240221/p24#a240221p24)
  - [Apple launches Apple Sports app with scores and betting odds](https://www.theverge.com/2024/2/21/24079064/apple-sports-app-launch-iphone-live-scores-odds-stats)
  - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)
- - [Israel-based BRIA, a Getty-backed AI image generation startup that licenses 1B+ images from 18 stock providers, raised a $24M Series A from Publicis and others &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240221/p23#a240221p23)
- - [Apple launches Apple Sports, a free app offering scores and stats for the NBA, Premier League, and more, in the US, Canada, and the UK, on iOS 17.2 or later &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240221/p22#a240221p22)<!-- TECH:END -->
+ - [Israel-based BRIA, a Getty-backed AI image generation startup that licenses 1B+ images from 18 stock providers, raised a $24M Series A from Publicis and others &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240221/p23#a240221p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)
  - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 💣 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
  - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

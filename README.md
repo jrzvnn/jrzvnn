@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework is selling a cheap modular laptop](https://www.theverge.com/2024/2/21/24079454/framework-laptop-16-shipping-new-13-inch-model)
  - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)
  - [Hands on: Apple Sports brings a limited experience to tracking your favorite teams](https://appleinsider.com/articles/24/02/21/hands-on-apple-sports-brings-a-limited-experience-to-tracking-your-favorite-teams?utm_medium=rss)
  - [Sources: Sequoia has picked partner Andrew Reed to replace Matthew Miller on Klarna&#39;s board; Miller led a failed effort to remove Michael Moritz as board chair &lpar;The Information&rpar;](http://www.techmeme.com/240221/p44#a240221p44)
- - [Researchers warn that a high-risk vulnerability under attack in remote access tool ConnectWise ScreenConnect is &quot;trivial and embarrassingly easy&quot; to exploit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240221/p43#a240221p43)
- - [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)<!-- TECH:END -->
+ - [Researchers warn that hackers are exploiting ConnectWise&#39;s remote access tool via a flaw &quot;embarrassingly easy&quot; to exploit; ConnectWise has confirmed the attacks &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240221/p43#a240221p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

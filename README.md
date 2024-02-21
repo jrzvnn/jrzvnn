@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)
  - [Hands on: Apple Sports brings a limited experience to tracking your favorite teams](https://appleinsider.com/articles/24/02/21/hands-on-apple-sports-brings-a-limited-experience-to-tracking-your-favorite-teams?utm_medium=rss)
  - [Sources: Sequoia has picked partner Andrew Reed to replace Matthew Miller on Klarna&#39;s board; Miller led a failed effort to remove Michael Moritz as board chair &lpar;The Information&rpar;](http://www.techmeme.com/240221/p44#a240221p44)
  - [Researchers warn that a high-risk vulnerability under attack in remote access tool ConnectWise ScreenConnect is &quot;trivial and embarrassingly easy&quot; to exploit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240221/p43#a240221p43)
- - [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
- - [Rivian says it is laying off 10 percent of its workforce as EV woes deepen](https://www.theverge.com/2024/2/21/24079572/rivian-layoff-ev-production-q4-earnings)<!-- TECH:END -->
+ - [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

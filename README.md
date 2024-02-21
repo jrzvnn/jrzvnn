@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a first, Apple had the top seven best selling smartphones globally in 2023, and Samsung had three; iPhone 14, 14 Pro Max, 14 Pro, and 13 topped the list &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240221/p17#a240221p17)
- - [A US jury finds two Chinese nationals guilty of a &quot;sophisticated scheme&quot; to defraud Apple by sending 5,000+ counterfeit iPhones for repair, losing Apple $3M+ &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p16#a240221p16)
- - [Sources: Reddit plans to reserve some of its IPO shares for 75K loyal users, an unusual move that could build loyalty, and list its shares on the NYSE in March &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240221/p15#a240221p15)
- - [China&#39;s Ministry of State Security warns unnamed hackers are obtaining data on key issues, like food production and the weather, in a series of WeChat posts &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/240221/p14#a240221p14)
- - [Apple takes top seven spots in global smartphone sales for the first time](https://appleinsider.com/articles/24/02/21/apple-takes-top-seven-spots-in-global-smartphone-sales-for-the-first-time?utm_medium=rss)<!-- TECH:END -->
+ - [Google releases Gemma 2B and 7B, a pair of open-source AI models to let developers use the research that went into its flagship closed Gemini model more freely &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240221/p18#a240221p18)
+ - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
+ - [How to Dry Off a Soaked iPhone &lpar;Don&#39;t Use Rice&rpar;](https://www.wired.com/story/how-to-rescue-a-wet-phone/)
+ - [Google Gemma: because Google doesn’t want to give away Gemini yet](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source)
+ - [Nintendo Direct February 2024: all the news and trailers](https://www.theverge.com/24078575/nintendo-direct-february-2024-xbox-trailers-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

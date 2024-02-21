@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Japan plans to spend $67B to revive its domestic chip production, hoping to leverage US supply chain concerns, including Rapidus building 2nm chips by 2027 &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/240221/p29#a240221p29)
+ - [Neuralink’s First Brain Implant Is Working. Elon Musk’s Transparency Isn’t](https://www.wired.com/story/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/)
  - [CrowdStrike&#39;s 2024 Global Threat Report: cloud intrusions jumped 75%, a 76% rise in data theft victims named on data leak sites, 34 newly named groups, and more &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/240221/p28#a240221p28)
  - [Apple is already defending iMessage against tomorrow’s quantum computing attacks](https://www.theverge.com/2024/2/21/24079081/apple-imessage-pq3-post-quantum-cryptography)
- - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
- - [Elden Ring’s Shadow of the Erdtree trailer is full of new ways to die](https://www.theverge.com/23990947/elden-ring-shadow-of-the-erdtree-release-date-trailer)
- - [WhatsApp rolls out support for bulleted and numbered lists, block quotes, and inline code to highlight and organize messages on Android, iOS, web, and macOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240221/p27#a240221p27)<!-- TECH:END -->
+ - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

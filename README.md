@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of ElevenLabs, whose AI voice cloning tech is being used to spoof politicians; five of ElevenLabs&#39; 40 employees are dedicated to trust and safety &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/240221/p7#a240221p7)
  - [Forget Carbon Offsets. The Planet Needs Carbon Removal Credits](https://www.wired.com/story/carbon-removal-cur8-gabrielle-walker-credits-offsets-greenwashing/)
  - [Q&amp;A with Intel Foundry Services SVP and GM Stu Pann on the company&#39;s goal of becoming the world&#39;s second-largest foundry by 2030, making Arm chips, and more &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240221/p6#a240221p6)
  - [An interview with Microsoft Gaming CEO Phil Spencer on Xbox growth, job cuts, and why getting rid of physical Xbox discs is &quot;not a strategic thing for us&quot; &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/240221/p5#a240221p5)
- - [How livestreaming talent agencies in China recruit influencers, often signing them to multiyear contracts that cost tens of thousands of dollars to breach &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240221/p4#a240221p4)
- - [DefiLlama: the total value of tokens sent to the Bitcoin DeFi market surpassed $1B; CryptoSlam: daily NFT sales volume on Bitcoin beat Ethereum in early January &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240221/p3#a240221p3)<!-- TECH:END -->
+ - [How livestreaming talent agencies in China recruit influencers, often signing them to multiyear contracts that cost tens of thousands of dollars to breach &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240221/p4#a240221p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

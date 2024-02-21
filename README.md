@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 😝 [Maybe this fits?](http://9gag.com/gag/aA0W49L)
  - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
+ - 😝 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

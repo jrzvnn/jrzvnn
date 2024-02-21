@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
- - 😝 [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)
- - 💣 [Is the media TRYING to lose trust?](http://9gag.com/gag/aGE3BYw)
- - 😝 [It started 2 years ago as a solo hobby project. I went all in, invested all my savings and found a publisher. Today, we are a team of 15 people, and this is how the project looks right now.](http://9gag.com/gag/a5XmB1V)
- - 👉 [Shit just got real](http://9gag.com/gag/avQYEGd)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)<!-- MEMES:END -->
 
 ---
 

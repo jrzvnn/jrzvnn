@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
+ - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
  - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 💣 [The answer is obvious](http://9gag.com/gag/adPZQX2)
+ - 😝 [Shit just got real](http://9gag.com/gag/avQYEGd)
+ - 👉 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)<!-- MEMES:END -->
 
 ---
 

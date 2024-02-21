@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FDA warns that it has not &quot;authorized, cleared, or approved any smartwatch or smart ring&quot; that claims to measure blood glucose levels non-invasively &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240221/p45#a240221p45)
+ - [Spotify needs every win against Apple it can get](https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart)
  - [Framework is selling a cheap modular laptop](https://www.theverge.com/2024/2/21/24079454/framework-laptop-16-shipping-new-13-inch-model)
  - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)
- - [Hands on: Apple Sports brings a limited experience to tracking your favorite teams](https://appleinsider.com/articles/24/02/21/hands-on-apple-sports-brings-a-limited-experience-to-tracking-your-favorite-teams?utm_medium=rss)
- - [Sources: Sequoia has picked partner Andrew Reed to replace Matthew Miller on Klarna&#39;s board; Miller led a failed effort to remove Michael Moritz as board chair &lpar;The Information&rpar;](http://www.techmeme.com/240221/p44#a240221p44)
- - [Researchers warn that hackers are exploiting ConnectWise&#39;s remote access tool via a flaw &quot;embarrassingly easy&quot; to exploit; ConnectWise has confirmed the attacks &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240221/p43#a240221p43)<!-- TECH:END -->
+ - [Hands on: Apple Sports brings a limited experience to tracking your favorite teams](https://appleinsider.com/articles/24/02/21/hands-on-apple-sports-brings-a-limited-experience-to-tracking-your-favorite-teams?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

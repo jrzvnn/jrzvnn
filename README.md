@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM: hackers are finding more opportunities to log in via legitimate credentials, rather than hacking into networks; infostealing malware jumped 266% in 2023 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240221/p12#a240221p12)
- - [Apple Maps teams return to UK to improve navigation and walking details](https://appleinsider.com/articles/24/02/21/apple-maps-teams-return-to-uk-to-improve-navigation-and-walking-details?utm_medium=rss)
- - [South Korea&#39;s leading display makers LG and Samsung close ranks as they cede ground to Chinese TV and smartphone screen manufacturers and face OLED competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240221/p11#a240221p11)
- - [Cybersecurity experts say global law enforcement agencies dealt Russia-linked LockBit a major blow, but history shows that ransomware gangs regroup quickly &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p10#a240221p10)
- - [When My Country Invaded Ukraine, I Faced a Choice: Give Me Propaganda or Give Me Death](https://www.wired.com/story/russia-invaded-ukraine-choice-propaganda-death/)<!-- TECH:END -->
+ - [China&#39;s Ministry of State Security warns unnamed hackers are obtaining data on key issues, like food production and the weather, in a series of WeChat posts &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/240221/p14#a240221p14)
+ - [Apple takes top seven spots in global smartphone sales for the first time](https://appleinsider.com/articles/24/02/21/apple-takes-top-seven-spots-in-global-smartphone-sales-for-the-first-time?utm_medium=rss)
+ - [Anne Neuberger, a Top White House Cyber Official, Is Staying Surprisingly Optimistic](https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/)
+ - [Biden signs an EO to increase the cyber defenses of maritime ports via additional Coast Guard powers, invest $20B in infrastructure over five years, and more &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/240221/p13#a240221p13)
+ - [Mortgage Refinance Rates for Feb. 21, 2024: Rates Are Mixed     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-feb-21-2024-rates-are-mixed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

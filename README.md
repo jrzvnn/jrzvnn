@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 😝 [Number one](http://9gag.com/gag/a6qvX8q)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [Women](http://9gag.com/gag/aEqrMWM)
- - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
- - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 💣 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 ---
 

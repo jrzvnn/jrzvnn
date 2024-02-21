@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game of horrors](http://9gag.com/gag/aMERd6P)
- - 😝 [British polis](http://9gag.com/gag/aeQo4q5)
- - 💣 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
+ - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
  - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aEqrMWM)
+ - 😝 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game boy](http://9gag.com/gag/az2NGXK)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 💣 [The answer is obvious](http://9gag.com/gag/adPZQX2)
- - 😝 [Shit just got real](http://9gag.com/gag/avQYEGd)
- - 👉 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)<!-- MEMES:END -->
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
 
 ---
 

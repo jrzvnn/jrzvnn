@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Montenegro court rules that Terraform co-founder Do Kwon should be extradited to the US for a trial; both the US and South Korea have sought to prosecute him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240221/p38#a240221p38)
  - [Source: Magic, which recently raised $117M and says its AI coding assistant has a larger context window than rivals&#39;, may have made an AI reasoning breakthrough &lpar;The Information&rpar;](http://www.techmeme.com/240221/p37#a240221p37)
  - [Apple designed its new Sports app to be fast and simple](https://appleinsider.com/articles/24/02/21/apple-designed-its-new-sports-app-to-be-fast-and-simple?utm_medium=rss)
  - [Dell is throwing in a $75 gift card when you buy a Nintendo Switch OLED](https://www.theverge.com/2024/2/21/24079321/nintendo-switch-oled-dell-gift-card-deal-sale)
- - [Google DeepMind announces AI Safety and Alignment, an organization that includes a new team focused on AGI safety alongside existing teams working on AI safety &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240221/p36#a240221p36)
- - [Waymo’s robotaxi expansion plans in California put on hold by regulators](https://www.theverge.com/2024/2/21/24079334/waymo-robotaxi-expansion-application-hold-cpuc)<!-- TECH:END -->
+ - [Google DeepMind announces AI Safety and Alignment, an organization that includes a new team focused on AGI safety alongside existing teams working on AI safety &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240221/p36#a240221p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

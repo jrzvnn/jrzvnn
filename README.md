@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps teams return to UK to improve navigation and walking details](https://appleinsider.com/articles/24/02/21/apple-maps-teams-return-to-uk-to-improve-navigation-and-walking-details?utm_medium=rss)
+ - [South Korea&#39;s leading display makers LG and Samsung close ranks as they cede ground to Chinese TV and smartphone screen manufacturers and face OLED competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240221/p11#a240221p11)
  - [Cybersecurity experts say global law enforcement agencies dealt Russia-linked LockBit a major blow, but history shows that ransomware gangs regroup quickly &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p10#a240221p10)
  - [When My Country Invaded Ukraine, I Faced a Choice: Give Me Propaganda or Give Me Death](https://www.wired.com/story/russia-invaded-ukraine-choice-propaganda-death/)
- - [Apple says the iPhone 15 lineup can retain 80% of its original battery capacity after 1,000 charge cycles, up from its original estimate of 500 charge cycles &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p9#a240221p9)
- - [Filing: Samsung sold 1.58M ASML shares, or 0.4% of ASML, worth ~$930M in September 2023, reducing its stake to zero, as Samsung looks to new areas of chipmaking &lpar;Bloomberg&rpar;](http://www.techmeme.com/240221/p8#a240221p8)
- - [MWC 2024: Your Insider&#39;s Guide to the World&#39;s Biggest Phone Tech Event     - CNET](https://www.cnet.com/tech/mobile/mwc-2024-your-insiders-guide-to-the-worlds-biggest-phone-tech-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple says the iPhone 15 lineup can retain 80% of its original battery capacity after 1,000 charge cycles, up from its original estimate of 500 charge cycles &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240221/p9#a240221p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

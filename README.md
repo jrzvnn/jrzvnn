@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
  - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
 
 ---

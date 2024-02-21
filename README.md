@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
- - 😝 [Only fans dad](http://9gag.com/gag/ap9yD19)
- - 💣 [You can see tomorrow through this tube](http://9gag.com/gag/a1PzDqY)
- - 😝 [Anti-immigration rally in Japan against Kurdish migrants](http://9gag.com/gag/a1PzDKw)
- - 👉 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)<!-- MEMES:END -->
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
+ - 💣 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
+ - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
+ - 👉 [He is dead inside](http://9gag.com/gag/a6qvD49)<!-- MEMES:END -->
 
 ---
 

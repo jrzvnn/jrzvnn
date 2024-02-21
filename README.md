@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 💣 [Clown world](http://9gag.com/gag/a4oePXm)
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
+ - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
 
 ---
 

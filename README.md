@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
  - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 💣 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
- - 😝 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)
- - 👉 [He is dead inside](http://9gag.com/gag/a6qvD49)<!-- MEMES:END -->
+ - 💣 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 ---
 

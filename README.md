@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
 
 ---
 

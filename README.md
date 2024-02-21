@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Cox Communications won’t have to pay $1 billion to record labels after all](https://www.theverge.com/2024/2/20/24078418/cox-communications-wont-have-to-pay-1-billion-to-record-labels-after-all)
  - [It’s about to get even harder to buy some of Disney’s weirdest movies on Blu-ray](https://www.theverge.com/2024/2/20/24078684/disney-ends-disney-movie-club-sony-physical-media-deal-dvd-blu-ray)
  - [Palo Alto Networks reports Q2 revenue up 19% YoY to $1.98B, vs. $1.97B est., and lowers its full-year guidance for billings and revenue; PANW drops 19%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240220/p26#a240220p26)
- - [Demos from AI chip maker Groq go viral after the company&#39;s inference engine shows remarkable speeds running LLMs, including with real-time conversations &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240220/p25#a240220p25)
- - [Fubo sues Fox, Disney, and Warner Bros. to block their combined sports streaming app](https://www.theverge.com/2024/2/20/24078607/fubotv-sports-streaming-lawsuit-disney-fox-warner-bros)
- - [Measles Strikes a Florida Elementary School With Over 100 Unvaccinated Kids](https://www.wired.com/story/measles-school-unvaccinated-florida/)<!-- TECH:END -->
+ - [OnePlus 11 Deals: Up to $650 in Trade-In Offers     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

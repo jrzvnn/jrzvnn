@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations. Happy for you.](http://9gag.com/gag/aL1YzPM)
- - 😝 [Shit just got real](http://9gag.com/gag/avQYEGd)
- - 💣 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
- - 😝 [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)
- - 👉 [She must be really really goood](http://9gag.com/gag/aOxgDdE)<!-- MEMES:END -->
+ - 😝 [Game of horrors](http://9gag.com/gag/aMERd6P)
+ - 😝 [British polis](http://9gag.com/gag/aeQo4q5)
+ - 💣 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
+ - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
+ - 👉 [Lol.](http://9gag.com/gag/aGE3nV6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell is throwing in a $75 gift card when you buy a Nintendo Switch OLED](https://www.theverge.com/2024/2/21/24079321/nintendo-switch-oled-dell-gift-card-deal-sale)
+ - [Google DeepMind announces AI Safety and Alignment, an organization that includes a new team focused on AGI safety alongside existing teams working on AI safety &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240221/p36#a240221p36)
  - [Waymo’s robotaxi expansion plans in California put on hold by regulators](https://www.theverge.com/2024/2/21/24079334/waymo-robotaxi-expansion-application-hold-cpuc)
  - [Why Beyoncé’s ‘Texas Hold ’Em’ Has Taken Over TikTok](https://www.wired.com/story/beyonce-texas-hold-em-tiktok-dance-trend/)
- - [Intel&#39;s AI Reboot Is the Future of US Chipmaking](https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/)
- - [Filing: Roblox paid out a record $740.8M to over 12,000 game creators in 2023, up 19% YoY; ~3,500 creators earned over $10,000, and ~750 earned over $100K &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240221/p35#a240221p35)
- - [Experience MLS on Apple Vision Pro, including a 3D special](https://appleinsider.com/articles/24/02/21/experience-mls-on-apple-vision-pro-including-a-3d-special?utm_medium=rss)<!-- TECH:END -->
+ - [Intel’s AI Reboot Is the Future of US Chipmaking](https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

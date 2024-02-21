@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
- - 😝 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 💣 [Women](http://9gag.com/gag/aEqrMWM)
- - 😝 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
- - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
+ - 😝 [A social experiment - A woman posing as a Muslim woman walks with a Frenchman as a married couple in a neighborhood with a Muslim majority in France. She is interrogated by the rest of the Muslims because Islam prohibits marriage between a Muslim woman and an infidel](http://9gag.com/gag/anzp29b)
+ - 😝 [Imagine getting interrogated for doing EXACTLY what you are hired to do.](http://9gag.com/gag/aL1Y42P)
+ - 💣 [Is the media TRYING to lose trust?](http://9gag.com/gag/aGE3BYw)
+ - 😝 [It started 2 years ago as a solo hobby project. I went all in, invested all my savings and found a publisher. Today, we are a team of 15 people, and this is how the project looks right now.](http://9gag.com/gag/a5XmB1V)
+ - 👉 [Shit just got real](http://9gag.com/gag/avQYEGd)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 😝 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)
- - 👉 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 💣 [The trick is not to form an emotional bond](http://9gag.com/gag/axoxoKb)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 👉 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 ---
 

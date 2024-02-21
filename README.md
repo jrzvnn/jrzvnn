@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp adds new text formatting options to improve messaging](https://www.theverge.com/2024/2/21/24078957/whatsapp-text-formatting-shortcuts-bullet-lists-block-quote-highlight)
+ - [Chipmaker Astera Labs, which offers cloud and AI connectivity hardware, files for a US IPO, reporting 2023 revenue up 44.9% YoY to $115.8M and a $26.3M net loss &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240221/p26#a240221p26)
  - [Microsoft Copilot Pro review: the $20/month service is a good start that offers impressive image generation and useful features in Word and other Office apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240221/p25#a240221p25)
- - [Mortgage Points vs. Lender Credits: What to Know     - CNET](https://www.cnet.com/personal-finance/mortgage-points-vs-lender-credits-heres-how-they-impact-your-mortgage-payments/#ftag=CAD590a51e)
- - [The 4 Best Soda Makers to Buy in 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-soda-water-maker/#ftag=CAD590a51e)
  - [One month with Microsoft’s AI vision of the future: Copilot Pro](https://www.theverge.com/2024/2/21/24078972/microsoft-copilot-pro-ai-hands-on-features)
- - [Travel for Less With This $80 Lifetime OneAir Elite Subscription     - CNET](https://www.cnet.com/deals/travel-for-less-with-this-80-lifetime-oneair-elite-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clumio, a data backup and recovery service for companies using the public cloud, raised a $75M Series D, following a $135M Series C in November 2019 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240221/p24#a240221p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

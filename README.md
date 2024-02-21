@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are f**ked](http://9gag.com/gag/a6qvDom)
- - 😝 [Friendship of men](http://9gag.com/gag/aYV8EOm)
- - 💣 [Muslim migrant desecrates a sacred Shinto Japanese shrine, causing outrage across Japan &lpar;@DaveAtherton20&rpar;](http://9gag.com/gag/a1PzNYG)
- - 😝 [Read this twice just to understand better.](http://9gag.com/gag/abvPAZb)
- - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 😝 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 😝 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 💣 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
+ - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

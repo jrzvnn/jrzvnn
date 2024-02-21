@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The US FDA warns that it has not &quot;authorized, cleared, or approved any smartwatch or smart ring&quot; that claims to measure blood glucose levels non-invasively &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240221/p45#a240221p45)
  - [Spotify needs every win against Apple it can get](https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart)
- - [Framework is selling a cheap modular laptop](https://www.theverge.com/2024/2/21/24079454/framework-laptop-16-shipping-new-13-inch-model)
- - [No, smartwatches and smart rings can’t measure blood glucose yet](https://www.theverge.com/2024/2/21/24079495/smartwatch-smart-ring-blood-glucose-monitoring-diabetes-fda)
- - [Hands on: Apple Sports brings a limited experience to tracking your favorite teams](https://appleinsider.com/articles/24/02/21/hands-on-apple-sports-brings-a-limited-experience-to-tracking-your-favorite-teams?utm_medium=rss)<!-- TECH:END -->
+ - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
+ - [Best Galaxy Watch Deals: Save Up to $81 on Watch 6 Series, Up to $198 on Watch 5 Series     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in La Crosse, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-la-crosse-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

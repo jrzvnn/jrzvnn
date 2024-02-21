@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet she&#39;s saying this to herself infront of the mirror right now.](http://9gag.com/gag/aMEREqx)
- - 😝 [Everyday Hard at Work](http://9gag.com/gag/anzp7eo)
- - 💣 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
  - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 👉 [Shark kills itself trying to get into the cage](http://9gag.com/gag/amAjA36)<!-- MEMES:END -->
+ - 💣 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 👉 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)<!-- MEMES:END -->
 
 ---
 

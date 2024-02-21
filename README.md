@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 💣 [ISRAEL DROPS BOMBS ON LEBANON](http://9gag.com/gag/a3Z9Gbm)
- - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
- - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
+ - 😝 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 💣 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 👉 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 ---
 

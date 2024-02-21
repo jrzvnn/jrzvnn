@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 💣 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 👉 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)<!-- MEMES:END -->
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 💣 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
+ - 😝 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)
+ - 👉 [Good guy](http://9gag.com/gag/a04AXbv)<!-- MEMES:END -->
 
 ---
 

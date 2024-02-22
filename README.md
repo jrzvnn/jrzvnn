@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
- - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

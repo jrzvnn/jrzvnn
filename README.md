@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
  - [Sources: Amazon paid $120M for exclusive rights to show a 2025 NFL playoff game on Prime Video; NBCU paid $110M for the January 2024 NFL payoff game on Peacock &lpar;Michael McCarthy/Front Office Sports&rpar;](http://www.techmeme.com/240222/p21#a240222p21)
  - [Between Layoffs and Tougher Interviews, Tech Workers Are Stressed Out](https://www.wired.com/story/gadget-lab-podcast-633/)
  - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
- - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)
- - [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)<!-- TECH:END -->
+ - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

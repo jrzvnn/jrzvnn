@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
  - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 💣 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
 
 ---
 

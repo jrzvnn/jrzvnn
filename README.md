@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Orkes, which provides a microservices orchestration platform for developers, raised a $20M Series A led by Nexus, taking its total funding to $29.3M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240221/p49#a240221p49)
  - [ESR Qi2 MagSafe Car Mount review: a practical upgrade over clamp-based car phone holders](https://appleinsider.com/articles/24/02/22/esr-qi2-magsafe-car-mount-review-a-practical-upgrade-over-clamp-based-car-phone-holders?utm_medium=rss)
- - [Over 700 people, including AI experts and executives, sign an open letter calling for more regulation of deepfakes, including criminalizing deepfake child porn &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240221/p48#a240221p48)
+ - [Over 700 people, including AI experts and executives, sign an open letter calling for more regulation of deepfakes, such as by criminalizing deepfake child porn &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240221/p48#a240221p48)
  - [The Samsung Galaxy S23 series will get AI features in late March](https://www.theverge.com/2024/2/21/24079508/samsung-galaxy-s23-ai-one-ui-6-1)
  - [Taiwanese chip firms are moving to Japan as the China decoupling accelerates, with at least nine setting up shop or expanding operations over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240221/p47#a240221p47)<!-- TECH:END -->
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
- - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 👉 [Friendship of men](http://9gag.com/gag/aYV8EOm)<!-- MEMES:END -->
+ - 😝 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 💣 [Brutal](http://9gag.com/gag/awZR3g1)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
 
 ---
 

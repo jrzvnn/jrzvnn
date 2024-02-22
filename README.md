@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 💣 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)
+ - 💣 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
 
 ---
 

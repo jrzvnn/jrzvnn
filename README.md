@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)
  - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 💣 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 😝 [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)
+ - 💣 [Facts](http://9gag.com/gag/aZDAzb6)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)<!-- MEMES:END -->
+ - 👉 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)<!-- MEMES:END -->
 
 ---
 

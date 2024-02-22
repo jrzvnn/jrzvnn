@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EigenLayer, which facilitates crypto &quot;restaking&quot; to build Ethereum projects via a points system, raised $100M from a16z, after raising $50M in March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p19#a240222p19)
+ - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)
  - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
  - [The US DOJ names Princeton University professor Jonathan Mayer as its first chief AI officer, as well as chief science and technology adviser, to monitor AI &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/240222/p18#a240222p18)
- - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)
- - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)
- - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)<!-- TECH:END -->
+ - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
- - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [This scene is so d*mn f*cking simple yet so d*mn f*cking good](http://9gag.com/gag/aDYpVRB)<!-- MEMES:END -->
+ - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
 
 ---
 

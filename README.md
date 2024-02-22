@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
- - 😝 [Yes, I&#39;m thankful, who isn&#39;t?](http://9gag.com/gag/anzpxxn)
- - 💣 [Train Splits Amazon truck in half](http://9gag.com/gag/aNwxBGK)
- - 😝 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
- - 👉 [`Believe me, I would know.`](http://9gag.com/gag/aeQox4B)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/a04AXbv)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - 😝 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)
+ - 👉 [Brutal](http://9gag.com/gag/awZR3g1)<!-- MEMES:END -->
 
 ---
 

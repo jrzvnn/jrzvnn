@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mercedes-Benz backs off plan to only sell EVs by 2030](https://www.theverge.com/2024/2/22/24080220/mercedes-benz-ev-only-sales-2030-back-off)
+ - [Google strikes a deal with Reddit, reportedly for $60M/year, giving Google access to the Reddit Data API to surface more Reddit content and train AI models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p32#a240222p32)
  - [The Justice Department gets a chief AI officer](https://www.theverge.com/2024/2/22/24080167/justice-department-chief-ai-officer-law-enforcement)
  - [Google cut a deal with Reddit for AI training data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
- - [Google plans to integrate Gemini into its Performance Max ad placement tool, helping brands generate longer headlines, after adding Gemini to Google Workspace &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240222/p31#a240222p31)
- - [AT&amp;T Is Having Widespread Network Issues As Customers Report Outages     - CNET](https://www.cnet.com/tech/mobile/at-t-is-having-widespread-network-issues-as-customers-report-outages/#ftag=CAD590a51e)
- - [Google says its standalone Google Pay app GPay and its peer-to-peer payment feature will stop working in the US starting on June 4, 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p30#a240222p30)<!-- TECH:END -->
+ - [Google plans to integrate Gemini into its Performance Max ad placement tool, helping brands generate longer headlines, after adding Gemini to Google Workspace &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240222/p31#a240222p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Netflix Adaptations were good](http://9gag.com/gag/aRE54Zy)
- - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [Brutal](http://9gag.com/gag/awZR3g1)
- - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
+ - 😝 [Mess with the dog you get the](http://9gag.com/gag/agoM8ZK)
+ - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 💣 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 👉 [Friendship of men](http://9gag.com/gag/aYV8EOm)<!-- MEMES:END -->
 
 ---
 

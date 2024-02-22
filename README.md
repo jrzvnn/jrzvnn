@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google plans to start assembling the Pixel 8 Pro in southern India in Q2 2024, followed by production of the Pixel 8 in northern India in H2 2024 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/240222/p7#a240222p7)
  - [Instagram launches its marketplace tool to connect brands with creators for paid partnerships or ads in eight new countries, including India, Japan, and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240222/p6#a240222p6)
  - [A profile of Blackstone CEO Steve Schwarzman, who might be the biggest individual funder of AI education and research, having pledged $500M+ to the effort &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/240222/p5#a240222p5)
  - [Walmart&#39;s PhonePe debuts its Indus Appstore for consumers, with over 200K apps; the Android app store is available as an app that users will have to sideload &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240222/p4#a240222p4)
- - [Amazon&#39;s $180 Echo Hub review: fast and interactive widgets, supports Zigbee, Thread, and Matter, but laggy touchscreen and some features need a subscription &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240222/p3#a240222p3)
- - [Lenovo beats estimates with Q3 revenue up 3% YoY to $15.72B after 5 quarters of decline and net income down 23% YoY to $337M; services revenue up 10% YoY to $2B &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240222/p2#a240222p2)<!-- TECH:END -->
+ - [Amazon&#39;s $180 Echo Hub review: fast and interactive widgets, supports Zigbee, Thread, and Matter, but laggy touchscreen and some features need a subscription &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240222/p3#a240222p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

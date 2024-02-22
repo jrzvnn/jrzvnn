@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Riot’s League of Legends fighter is now called 2XKO](https://www.theverge.com/2024/2/22/24079608/project-l-2kxo-fighting-game-league-of-legends)
  - [A critical Shortcuts vulnerability was fixed in iOS 17.3](https://appleinsider.com/articles/24/02/22/a-critical-shortcuts-vulnerability-was-fixed-in-ios-173?utm_medium=rss)
  - [Apple&#39;s first foldable screen probably won&#39;t be on the iPhone](https://appleinsider.com/articles/24/02/22/apples-first-foldable-screen-probably-wont-be-on-the-iphone?utm_medium=rss)
- - [Substack says 3M+ customers subscribe to paid newsletters on its platform, up from 2M announced in 2023, and credits its recommendations feature for the growth &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240222/p27#a240222p27)
+ - [Substack says 3M+ customers subscribe to paid newsletters on its platform, up from 2M in February 2023, and credits its recommendations feature for the growth &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240222/p27#a240222p27)
  - [20 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

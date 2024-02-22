@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 💣 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
  - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
  - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
- - 👉 [As a roofer of 650 years I can say that he did it all wrong](http://9gag.com/gag/az2NdQp)<!-- MEMES:END -->
+ - 😝 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
+ - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
+ - 💣 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
+ - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
- - 😝 [This scene is so d*mn f*cking simple yet so d*mn f*cking good](http://9gag.com/gag/aDYpVRB)
- - 💣 [Blessed be dis Wednesday](http://9gag.com/gag/abvPW8b)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 💣 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

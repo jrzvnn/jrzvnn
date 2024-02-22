@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
+ - 💣 [Thank you for your service](http://9gag.com/gag/a4oeAZy)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 👉 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)<!-- MEMES:END -->
 
 ---
 

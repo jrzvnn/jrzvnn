@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 💣 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - 💣 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
  - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---

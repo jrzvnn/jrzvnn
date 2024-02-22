@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Over 700 people, including AI experts and executives, sign an open letter calling for more regulation of deepfakes, including criminalizing deepfake child porn &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240221/p48#a240221p48)
+ - [The Samsung Galaxy S23 series will get AI features in late March](https://www.theverge.com/2024/2/21/24079508/samsung-galaxy-s23-ai-one-ui-6-1)
  - [Taiwanese chip firms are moving to Japan as the China decoupling accelerates, with at least nine setting up shop or expanding operations over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240221/p47#a240221p47)
  - [Techstars is shutting down its Seattle program, which was started in 2010, to shift focus on &quot;hubs with the highest concentration of VC activity&quot; &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240221/p46#a240221p46)
- - [Bluetti launches SwapSolar power station &amp; portable fridge, with Super Early Bird pricing](https://appleinsider.com/articles/24/02/22/bluetti-launches-swapsolar-power-station-portable-fridge-with-super-early-bird-pricing?utm_medium=rss)
- - [Microsoft and Intel strike a custom chip deal that could be worth billions](https://www.theverge.com/2024/2/21/24079336/microsoft-intel-chip-partnership-foundry-tsmc)
- - [Best Deals on Robot Vacuums: Save Up to $400 on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluetti launches SwapSolar power station &amp; portable fridge, with Super Early Bird pricing](https://appleinsider.com/articles/24/02/22/bluetti-launches-swapsolar-power-station-portable-fridge-with-super-early-bird-pricing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

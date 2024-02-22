@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
+ - [Analysis: by the end of 2023, 48% of the most popular news websites in the US, UK, and eight others blocked OpenAI&#39;s crawler and 24% blocked Google&#39;s crawler &lpar;Dr Richard Fletcher/Reuters Institute for the Study of Journalism&rpar;](http://www.techmeme.com/240222/p25#a240222p25)
+ - [An AT&amp;T Outage Is Wreaking Havoc on US Cellular Networks](https://www.wired.com/story/att-network-outage-verizon-tmobile/)
  - [New Google Pixel Fold 2 leak points to redesigned camera](https://www.theverge.com/2024/2/22/24079922/google-pixel-fold-2-leak-design-change)
- - [17 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/17-tips-better-chatgpt-prompts/)
- - [AT&amp;T wireless service is down for many people nationwide](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
- - [Stability AI releases a preview of Stable Diffusion 3.0, its next flagship text-to-image model, aiming to offer improved image quality and better performance &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240222/p24#a240222p24)
- - [Apple still tops in contracting US smartphone market](https://appleinsider.com/articles/24/02/22/apple-still-tops-in-contracting-us-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [17 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/17-tips-better-chatgpt-prompts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

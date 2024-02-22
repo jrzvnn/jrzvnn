@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FDA warns that it has not &quot;authorized, cleared, or approved any smartwatch or smart ring&quot; that claims to measure blood glucose levels non-invasively &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240221/p45#a240221p45)
- - [Spotify needs every win against Apple it can get](https://www.theverge.com/2024/2/21/24079617/spotify-apple-app-store-eu-iheart)
- - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Galaxy Watch Deals: Save Up to $81 on Watch 6 Series, Up to $198 on Watch 5 Series     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in La Crosse, Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-la-crosse-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solar Eclipse 2024: Eye Safety and How to Find Eclipse Glasses     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-2024-eye-safety-and-how-to-find-eclipse-glasses/#ftag=CAD590a51e)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [What Is a Heat Pump Water Heater?     - CNET](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)
+ - [Best Galaxy S24 Deals: Get Up to $1,000 in Trade-In on the Latest Samsung Phone     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
+ - [The US FDA warns that it has not &quot;authorized, cleared, or approved any smartwatch or smart ring&quot; that claims to measure blood glucose levels non-invasively &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240221/p45#a240221p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

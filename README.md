@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Play more Windows games on the Mac with the new CrossOver 24](https://appleinsider.com/articles/24/02/22/play-more-windows-games-on-the-mac-with-the-new-crossover-24?utm_medium=rss)
  - [Pick up Apple&#39;s M3 Pro MacBook Pro 14-inch for $1,799 in this week&#39;s battle of the deals](https://appleinsider.com/articles/24/02/22/pick-up-apples-m3-pro-macbook-pro-14-inch-for-1799-in-this-weeks-battle-of-the-deals?utm_medium=rss)
  - [Riot’s League of Legends fighter is now called 2XKO](https://www.theverge.com/2024/2/22/24079608/project-l-2kxo-fighting-game-league-of-legends)
  - [A critical Shortcuts vulnerability was fixed in iOS 17.3](https://appleinsider.com/articles/24/02/22/a-critical-shortcuts-vulnerability-was-fixed-in-ios-173?utm_medium=rss)
- - [Apple&#39;s first foldable screen probably won&#39;t be on the iPhone](https://appleinsider.com/articles/24/02/22/apples-first-foldable-screen-probably-wont-be-on-the-iphone?utm_medium=rss)
- - [Substack says 3M+ customers subscribe to paid newsletters on its platform, up from 2M in February 2023, and credits its recommendations feature for the growth &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240222/p27#a240222p27)<!-- TECH:END -->
+ - [Apple&#39;s first foldable screen probably won&#39;t be on the iPhone](https://appleinsider.com/articles/24/02/22/apples-first-foldable-screen-probably-wont-be-on-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

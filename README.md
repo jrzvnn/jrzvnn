@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Checkmate](http://9gag.com/gag/abvPQZB)
- - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
- - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 💣 [Facts](http://9gag.com/gag/aZDAzb6)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
  - 👉 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)<!-- MEMES:END -->
 

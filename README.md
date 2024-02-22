@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
+ - [The US DOJ names Princeton University professor Jonathan Mayer as its first chief AI officer, as well as chief science and technology adviser, to monitor AI &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/240222/p18#a240222p18)
+ - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)
  - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)
- - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)
- - [X reports taking down accounts and posts following an order by the Indian government, which local media tied to farmers&#39; protests, and disagrees with the action &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240222/p15#a240222p15)
- - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
- - [Sources: the Sequoia-Klarna spat stemmed from co-founders Sebastian Siemiatkowski and Victor Jacobsson, which dragged Michael Moritz and Sequoia into the fray &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p14#a240222p14)<!-- TECH:END -->
+ - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

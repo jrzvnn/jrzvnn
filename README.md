@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 💣 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)
+ - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 💣 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [If you know you know](http://9gag.com/gag/a1Pz2A6)<!-- MEMES:END -->
+ - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
 
 ---
 

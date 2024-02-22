@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)
+ - [Downdetector: users of AT&amp;T, Verizon, T-Mobile, and other networks report ongoing cellular outages across the US, starting at around 4:30AM ET &lpar;Reuters&rpar;](http://www.techmeme.com/240222/p16#a240222p16)
  - [X reports taking down accounts and posts following an order by the Indian government, which local media tied to farmers&#39; protests, and disagrees with the action &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240222/p15#a240222p15)
  - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
- - [Sources: the Sequoia-Klarna spat stemmed from co-founders Sebastian Siemiatkowski and Victor Jacobsson, which dragged Michael Moritz and Sequoia into the fray &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p14#a240222p14)
- - [Samsung plans to roll out One UI 6.1 in &quot;late March&quot; for the Galaxy S23 series, Z Fold 5, Z Flip 5, and Tab 9 series, adding the full Galaxy AI suite and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240222/p13#a240222p13)
- - [Crying in Apple Vision Pro Is No Laughing Matter](https://www.wired.com/story/crying-in-apple-vision-pro/)<!-- TECH:END -->
+ - [Sources: the Sequoia-Klarna spat stemmed from co-founders Sebastian Siemiatkowski and Victor Jacobsson, which dragged Michael Moritz and Sequoia into the fray &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p14#a240222p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

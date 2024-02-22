@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung plans to roll out One UI 6.1 in &quot;late March&quot; for the Galaxy S23 series, Z Fold 5, Z Flip 5, and Tab 9 series, adding the full Galaxy AI suite and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240222/p13#a240222p13)
+ - [Crying in Apple Vision Pro Is No Laughing Matter](https://www.wired.com/story/crying-in-apple-vision-pro/)
  - [Meta says &quot;we understand Meta will not be required to pay for news content that publishers voluntarily post to our platforms&quot; in Indonesia under a new law &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/240222/p12#a240222p12)
  - [Framework releases a $499 version of its modular Laptop 13, with a &quot;barebones configuration&quot; built using leftover parts, and starts selling refurbished DDR4 RAM &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240222/p11#a240222p11)
- - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
- - [Google says the company will &quot;pause the image generation of people&quot; via Gemini &quot;and will re-release an improved version soon&quot; while working to fix its &quot;issues&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/240222/p10#a240222p10)
- - [Taxes 2024: Our Indispensable Cheat Sheet for Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-indispensable-cheat-sheet-for-filing-your-tax-return-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

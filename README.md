@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is now testing PSVR2 support for PC](https://www.theverge.com/2024/2/22/24079928/sony-psvr2-pc-support-2024)
+ - [Sony is testing PC support for the PlayStation VR2 headset, which currently works exclusively with a PS5, and hopes &quot;to make this support available in 2024&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240222/p22#a240222p22)
+ - [Xiaomi’s photography-focused 14 Ultra flagship detailed ahead of European unveiling](https://www.theverge.com/2024/2/22/24079918/xiaomi-14-ultra-smartphone-china-launch-price-release-date-specs-details-cameras)
+ - [Sony is now testing PSVR 2 support for PC](https://www.theverge.com/2024/2/22/24079928/sony-psvr2-pc-support-2024)
  - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [Sources: Amazon paid $120M for exclusive rights to show a 2025 NFL playoff game on Prime Video; NBCU paid $110M for the January 2024 NFL payoff game on Peacock &lpar;Michael McCarthy/Front Office Sports&rpar;](http://www.techmeme.com/240222/p21#a240222p21)
- - [Between Layoffs and Tougher Interviews, Tech Workers Are Stressed Out](https://www.wired.com/story/gadget-lab-podcast-633/)
- - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Amazon paid $120M for exclusive rights to show a 2025 NFL playoff game on Prime Video; NBCU paid $110M for the January 2024 NFL payoff game on Peacock &lpar;Michael McCarthy/Front Office Sports&rpar;](http://www.techmeme.com/240222/p21#a240222p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

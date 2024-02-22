@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 💣 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
- - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 

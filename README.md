@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Techstars is shutting down its Seattle program, which was started in 2010, to shift focus on &quot;hubs with the highest concentration of VC activity&quot; &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240221/p46#a240221p46)
  - [Bluetti launches SwapSolar power station &amp; portable fridge, with Super Early Bird pricing](https://appleinsider.com/articles/24/02/22/bluetti-launches-swapsolar-power-station-portable-fridge-with-super-early-bird-pricing?utm_medium=rss)
  - [Microsoft and Intel strike a custom chip deal that could be worth billions](https://www.theverge.com/2024/2/21/24079336/microsoft-intel-chip-partnership-foundry-tsmc)
- - [App Review&#39;s sudden enforcement of an in-app gift rule catches a meditation app off guard](https://appleinsider.com/articles/24/02/22/app-reviews-sudden-enforcement-of-an-in-app-gift-rule-catches-a-meditation-app-off-guard?utm_medium=rss)
- - [Solar Eclipse 2024: Eye Safety and How to Find Eclipse Glasses     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-2024-eye-safety-and-how-to-find-eclipse-glasses/#ftag=CAD590a51e)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)<!-- TECH:END -->
+ - [Best Deals on Robot Vacuums: Save Up to $400 on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [App Review&#39;s sudden enforcement of an in-app gift rule catches a meditation app off guard](https://appleinsider.com/articles/24/02/22/app-reviews-sudden-enforcement-of-an-in-app-gift-rule-catches-a-meditation-app-off-guard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

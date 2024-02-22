@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justice Department gets a chief AI officer](https://www.theverge.com/2024/2/22/24080167/justice-department-chief-ai-officer-law-enforcement)
+ - [Google cut a deal with Reddit for AI training data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
  - [Google plans to integrate Gemini into its Performance Max ad placement tool, helping brands generate longer headlines, after adding Gemini to Google Workspace &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240222/p31#a240222p31)
- - [AT&amp;T Is Having Widespread Network Issues As Customers Report Outages     - CNET](https://www.cnet.com/tech/mobile/at-t-is-having-widespread-network-issues-as-customers-report-outages/#ftag=CAD590a51e)
  - [Google says its standalone Google Pay app GPay and its peer-to-peer payment feature will stop working in the US starting on June 4, 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p30#a240222p30)
- - [It’s just $32.49 to fix your Switch’s Joy-Con drift with Hori’s Split Pad Compact](https://www.theverge.com/2024/2/22/24079982/steelseries-arctis-nova-pro-wireless-hori-split-pad-compact-ring-battery-plus-doorbell-deals-sales)
- - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s just $32.49 to fix your Switch’s Joy-Con drift with Hori’s Split Pad Compact](https://www.theverge.com/2024/2/22/24079982/steelseries-arctis-nova-pro-wireless-hori-split-pad-compact-ring-battery-plus-doorbell-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

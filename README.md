@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
- - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
- - 💣 [Thank you for your service](http://9gag.com/gag/a4oeAZy)
- - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 💣 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
 
 ---
 

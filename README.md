@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework releases a $499 version of its modular Laptop 13, with a &quot;barebones configuration&quot; built using leftover parts, and starts selling refurbished DDR4 RAM &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240222/p11#a240222p11)
+ - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
  - [Google says the company will &quot;pause the image generation of people&quot; via Gemini &quot;and will re-release an improved version soon&quot; while working to fix its &quot;issues&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/240222/p10#a240222p10)
  - [Taxes 2024: Our Indispensable Cheat Sheet for Filing Your Tax Return This Year     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-2024-our-indispensable-cheat-sheet-for-filing-your-tax-return-this-year/#ftag=CAD590a51e)
- - [Child Tax Credit Expansion Bill: Would You Receive the Money This Tax Season If Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-would-you-receive-the-money-this-tax-season-if-approved/#ftag=CAD590a51e)
- - [How Bristol-based Hargreaves Lansdown became the UK&#39;s largest DIY investment platform, with 1.8M clients and &amp;pound;134B in assets, as new rivals weaken its dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p9#a240222p9)
- - [If You&#39;re Claiming the Child Tax Credit in 2024, Should You Wait to File Your Taxes?     - CNET](https://www.cnet.com/personal-finance/taxes/if-youre-claiming-the-child-tax-credit-in-2024-should-you-wait-to-file-your-taxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Child Tax Credit Expansion Bill: Would You Receive the Money This Tax Season If Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-would-you-receive-the-money-this-tax-season-if-approved/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

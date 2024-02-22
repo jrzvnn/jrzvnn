@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky opens up federation, letting anyone run their own server connecting to Bluesky&#39;s network, which uses the AT Protocol; Mastodon uses ActivityPub &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240222/p33#a240222p33)
  - [Play more Windows games on the Mac with the new CrossOver 24](https://appleinsider.com/articles/24/02/22/play-more-windows-games-on-the-mac-with-the-new-crossover-24?utm_medium=rss)
  - [New iPad sizes detailed in anonymous leak](https://appleinsider.com/articles/24/02/20/new-ipad-sizes-detailed-in-new-anonymous-leak?utm_medium=rss)
  - [Mercedes-Benz backs off plan to only sell EVs by 2030](https://www.theverge.com/2024/2/22/24080220/mercedes-benz-ev-only-sales-2030-back-off)
- - [Google strikes a deal with Reddit, reportedly for $60M/year, giving Google access to the Reddit Data API to surface more Reddit content and train AI models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p32#a240222p32)
- - [15.6&quot; Portable Monitor     - CNET](https://www.cnet.com/tech/computing/15-6-portable-monitor-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google strikes a deal with Reddit, reportedly for $60M/year, giving Google access to the Reddit Data API to surface more Reddit content and train AI models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p32#a240222p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

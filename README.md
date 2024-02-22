@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
- - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - 😝 [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 💣 [And so it starts](http://9gag.com/gag/a2KBbLE)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)<!-- MEMES:END -->
+ - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
 
 ---
 

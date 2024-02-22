@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [Salute to a lost soldier](http://9gag.com/gag/a5Xmw0E)
- - 💣 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 😝 [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
+ - 💣 [Amazon now selling adult legos](http://9gag.com/gag/aA0WOKp)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
+ - 👉 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
  - [Sources: the Sequoia-Klarna spat stemmed from co-founders Sebastian Siemiatkowski and Victor Jacobsson, which dragged Michael Moritz and Sequoia into the fray &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p14#a240222p14)
  - [Samsung plans to roll out One UI 6.1 in &quot;late March&quot; for the Galaxy S23 series, Z Fold 5, Z Flip 5, and Tab 9 series, adding the full Galaxy AI suite and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240222/p13#a240222p13)
  - [Crying in Apple Vision Pro Is No Laughing Matter](https://www.wired.com/story/crying-in-apple-vision-pro/)
- - [Meta says &quot;we understand Meta will not be required to pay for news content that publishers voluntarily post to our platforms&quot; in Indonesia under a new law &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/240222/p12#a240222p12)
- - [Framework releases a $499 version of its modular Laptop 13, with a &quot;barebones configuration&quot; built using leftover parts, and starts selling refurbished DDR4 RAM &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240222/p11#a240222p11)<!-- TECH:END -->
+ - [Meta says &quot;we understand Meta will not be required to pay for news content that publishers voluntarily post to our platforms&quot; in Indonesia under a new law &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/240222/p12#a240222p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

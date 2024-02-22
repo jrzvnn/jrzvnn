@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
+ - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)
+ - [AT&amp;T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
  - [EigenLayer, which facilitates crypto &quot;restaking&quot; to build Ethereum projects via a points system, raised $100M from a16z, after raising $50M in March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p19#a240222p19)
- - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)
- - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [The US DOJ names Princeton University professor Jonathan Mayer as its first chief AI officer, as well as chief science and technology adviser, to monitor AI &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/240222/p18#a240222p18)
- - [The RBI&#39;s crackdown on Paytm, Visa, and others seems driven by sketchy actors riding speed and scale, underpinned by issues of identity, tech, and competition &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240222/p17#a240222p17)<!-- TECH:END -->
+ - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

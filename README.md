@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
+ - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
+ - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
 
 ---
 

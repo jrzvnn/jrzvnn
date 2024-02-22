@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
  - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - 😝 [Poor terry.](http://9gag.com/gag/aDYpnAN)
- - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [Brutal](http://9gag.com/gag/awZR3g1)
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 

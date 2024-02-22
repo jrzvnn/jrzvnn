@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)
+ - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
  - [Reddit files for a US IPO, says it had $804M in annual sales in 2023, up 20% YoY, and a net loss of $90.8M, compared to a net loss of $158.6M in 2022 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240222/p35#a240222p35)
  - [Gab launched 91 chatbots over the last month, including AI versions of Hitler and Trump, several of which deny the Holocaust, call climate change a scam, more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240222/p34#a240222p34)
- - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)
- - [Tom Hiddleston narrates Apple TV+&#39;s latest nature series debuting soon](https://appleinsider.com/articles/24/02/22/tom-hiddleston-narrates-apple-tvs-latest-nature-series-debuting-soon?utm_medium=rss)
- - [New OWC Atlas card reader moves data just as fast as Thunderbolt](https://appleinsider.com/articles/24/02/22/new-owc-atlas-card-reader-moves-data-just-as-fast-as-thunderbolt?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

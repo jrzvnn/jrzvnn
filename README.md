@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 💣 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
  - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 

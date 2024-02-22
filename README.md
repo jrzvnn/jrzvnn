@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
- - 💣 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - 😝 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 💣 [Wtf screech](http://9gag.com/gag/aZDAwmW)
+ - 😝 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
+ - 👉 [As a roofer of 650 years I can say that he did it all wrong](http://9gag.com/gag/az2NdQp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
+ - 👉 [This scene is so d*mn f*cking simple yet so d*mn f*cking good](http://9gag.com/gag/aDYpVRB)<!-- MEMES:END -->
 
 ---
 

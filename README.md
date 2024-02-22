@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
  - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
  - [AT&amp;T apologizes for outage and says its network is fully operational again](https://www.theverge.com/2024/2/22/24080388/att-outage-fixed-apology)
  - [Reports are spreading about a very specific Apple Vision Pro front glass crack](https://appleinsider.com/articles/24/02/22/reports-are-spreading-about-a-very-specific-apple-vision-pro-front-glass-crack?utm_medium=rss)
- - [Reddit will give some of its top users, including moderators and those with high karma scores, the chance to buy shares in its IPO &lpar;The Verge&rpar;](http://www.techmeme.com/240222/p36#a240222p36)
- - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)<!-- TECH:END -->
+ - [Reddit will give some of its top users, including moderators and those with high karma scores, the chance to buy shares in its IPO &lpar;The Verge&rpar;](http://www.techmeme.com/240222/p36#a240222p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky will finally let users host their own servers](https://www.theverge.com/2024/2/22/24080334/bluesky-self-hosting-servers-data-federated)
+ - [Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data](https://www.theverge.com/2024/2/22/24080135/avast-security-privacy-software-ftc-fine-data-harvesting)
+ - [Bluesky starts letting users host their own servers](https://www.theverge.com/2024/2/22/24080334/bluesky-self-hosting-servers-data-federated)
  - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
  - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)
- - [AT&amp;T apologizes for outage and says its network is fully operational again](https://www.theverge.com/2024/2/22/24080388/att-outage-fixed-apology)
- - [Reports are spreading about a very specific Apple Vision Pro front glass crack](https://appleinsider.com/articles/24/02/22/reports-are-spreading-about-a-very-specific-apple-vision-pro-front-glass-crack?utm_medium=rss)<!-- TECH:END -->
+ - [Best Music Streaming Service of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-music-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

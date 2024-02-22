@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Technically correct analytics](http://9gag.com/gag/aNwxBDv)
  - 😝 [When a nice melody drops you into existential dredd](http://9gag.com/gag/a4oe23y)
- - 💣 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
+ - 💣 [Thank you for your service](http://9gag.com/gag/a4oeAZy)
  - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
- - 👉 [Thank you for your service](http://9gag.com/gag/a4oeAZy)<!-- MEMES:END -->
+ - 👉 [Really makes you wonder](http://9gag.com/gag/aeQox2v)<!-- MEMES:END -->
 
 ---
 

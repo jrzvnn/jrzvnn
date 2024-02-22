@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 😝 [Gemini by google](http://9gag.com/gag/aL1Ymqg)
- - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
+ - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog&#39;s surprised face when he thought he took his owner&#39;s arm](http://9gag.com/gag/aVbn2OP)
- - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
- - 💣 [And so it starts](http://9gag.com/gag/a2KBbLE)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 💣 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
+ - 👉 [If you know you know](http://9gag.com/gag/a1Pz2A6)<!-- MEMES:END -->
 
 ---
 

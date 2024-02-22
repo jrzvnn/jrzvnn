@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 💣 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - 😝 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 💣 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Kevin Hart plays Roland in Borderlands Movie](http://9gag.com/gag/aeQoZEp)<!-- MEMES:END -->
+ - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)
  - [Sources: Nextdoor&#39;s board discussed replacing CEO Sarah Friar with co-founder Nirav Tolia, who served as CEO between 2010 and 2018, or selling the company &lpar;The Information&rpar;](http://www.techmeme.com/240222/p38#a240222p38)
  - [Watch Odysseus attempt the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
- - [Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data](https://www.theverge.com/2024/2/22/24080135/avast-security-privacy-software-ftc-fine-data-harvesting)
- - [Bluesky starts letting users host their own servers](https://www.theverge.com/2024/2/22/24080334/bluesky-self-hosting-servers-data-federated)
- - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)<!-- TECH:END -->
+ - [AT&amp;T Says Network Has Been Restored After Widespread Outage     - CNET](https://www.cnet.com/tech/mobile/at-t-says-network-has-been-restored-after-outage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

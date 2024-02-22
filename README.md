@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the Best drug dealer scenes from movie](http://9gag.com/gag/a3Z9858)
+ - 😝 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)
+ - 😝 [Married... with Children cast then and now 2023](http://9gag.com/gag/aDYp6M9)
+ - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
  - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
- - 💣 [Brutal](http://9gag.com/gag/awZR3g1)
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
+ - 👉 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)<!-- MEMES:END -->
 
 ---
 

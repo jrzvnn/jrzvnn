@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Bristol-based Hargreaves Lansdown became the UK&#39;s largest DIY investment platform, with 1.8M clients and &amp;pound;134B in assets, as new rivals weaken its dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/240222/p9#a240222p9)
  - [Avatar: The Last Airbender is everything that’s disappointing about Netflix’s live-action cartoon shows](https://www.theverge.com/24071094/netflix-avatar-last-airbender-review)
- - [A profile of NetChoice, whose revenue jumped from $3M+ in 2020 to $34M in 2022, as it prepares to fight for the tech industry in front of SCOTUS this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p8#a240222p8)
+ - [A profile of NetChoice, whose revenue jumped from $3M+ in 2020 to $34M in 2022, as the group prepares to fight for the tech industry before SCOTUS in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/240222/p8#a240222p8)
  - [Sources: Google plans to start assembling the Pixel 8 Pro in southern India in Q2 2024, followed by production of the Pixel 8 in northern India in H2 2024 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/240222/p7#a240222p7)
- - [Instagram launches its marketplace tool to connect brands with creators for paid partnerships or ads in eight new countries, including India, Japan, and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240222/p6#a240222p6)
- - [A profile of Blackstone CEO Steve Schwarzman, who might be the biggest individual funder of AI education and research, having pledged $500M+ to the effort &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/240222/p5#a240222p5)<!-- TECH:END -->
+ - [Instagram launches its marketplace tool to connect brands with creators for paid partnerships or ads in eight new countries, including India, Japan, and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240222/p6#a240222p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

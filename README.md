@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)
  - [Block reports Q4 revenue up 24% YoY to $5.77B, Square profit up 18% YoY, Cash App profit up 25% YoY, and forecasts Q1 adjusted EBITDA above est.; SQ jumps 12%+ &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240222/p39#a240222p39)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple Pencil Deals: Save on Drawing and Note-Taking Accessories     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

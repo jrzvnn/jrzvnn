@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - 💣 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - 😝 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 💣 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
  - 👉 [Tricky](http://9gag.com/gag/aVbnmVw)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is testing PC support for the PlayStation VR2 headset, which currently works exclusively with a PS5, and hopes &quot;to make this support available in 2024&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240222/p22#a240222p22)
- - [Xiaomi’s photography-focused 14 Ultra flagship detailed ahead of European unveiling](https://www.theverge.com/2024/2/22/24079918/xiaomi-14-ultra-smartphone-china-launch-price-release-date-specs-details-cameras)
- - [Sony is now testing PSVR 2 support for PC](https://www.theverge.com/2024/2/22/24079928/sony-psvr2-pc-support-2024)
- - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [Sources: Amazon paid $120M for exclusive rights to show a 2025 NFL playoff game on Prime Video; NBCU paid $110M for the January 2024 NFL payoff game on Peacock &lpar;Michael McCarthy/Front Office Sports&rpar;](http://www.techmeme.com/240222/p21#a240222p21)<!-- TECH:END -->
+ - [Stability AI releases a preview of Stable Diffusion 3.0, its next flagship text-to-image model, aiming to offer improved image quality and better performance &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240222/p24#a240222p24)
+ - [Apple still tops in contracting US smartphone market](https://appleinsider.com/articles/24/02/22/apple-still-tops-in-contracting-us-smartphone-market?utm_medium=rss)
+ - [Trend Micro and the UK NCA: LockBit was secretly building a new version of its file encryptor, dubbed LockBit-NG-Dev, when law enforcement took down the gang &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240222/p23#a240222p23)
+ - [Apple users are increasingly falling victim to malware, phishing, and viruses](https://appleinsider.com/articles/24/02/22/apple-users-are-increasingly-falling-victim-to-malware-phishing-and-viruses?utm_medium=rss)
+ - [A critical Shortcuts vulnerability was fixed in iOS 17.3](https://appleinsider.com/articles/24/02/22/a-critical-shortcuts-vulnerability-was-fixed-in-ios-173?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: UnitedHealth says a &quot;suspected nation-state&quot; actor had access to systems of IT provider Change Healthcare, prompting an outage at pharmacies in the US &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240222/p40#a240222p40)
  - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)
  - [Block reports Q4 revenue up 24% YoY to $5.77B, Square profit up 18% YoY, Cash App profit up 25% YoY, and forecasts Q1 adjusted EBITDA above est.; SQ jumps 12%+ &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240222/p39#a240222p39)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)
- - [Sources: Nextdoor&#39;s board discussed replacing CEO Sarah Friar with co-founder Nirav Tolia, who served as CEO between 2010 and 2018, or selling the company &lpar;The Information&rpar;](http://www.techmeme.com/240222/p38#a240222p38)<!-- TECH:END -->
+ - [Apple believes Spotify wants a free ride, and the EU may just give it to them](https://appleinsider.com/articles/24/02/22/apple-believes-spotify-wants-a-free-ride-and-the-eu-may-just-give-it-to-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

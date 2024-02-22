@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T apologizes for outage and says its network is fully operational again](https://www.theverge.com/2024/2/22/24080388/att-outage-fixed-apology)
  - [Reports are spreading about a very specific Apple Vision Pro front glass crack](https://appleinsider.com/articles/24/02/22/reports-are-spreading-about-a-very-specific-apple-vision-pro-front-glass-crack?utm_medium=rss)
  - [Reddit will give some of its top users, including moderators and those with high karma scores, the chance to buy shares in its IPO &lpar;The Verge&rpar;](http://www.techmeme.com/240222/p36#a240222p36)
  - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)
- - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [Reddit files for a US IPO, says it had revenue of $804M in 2023, up 20% YoY, and a net loss of $90.8M, compared to a net loss of $158.6M in 2022, and 73M DAUs &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240222/p35#a240222p35)<!-- TECH:END -->
+ - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

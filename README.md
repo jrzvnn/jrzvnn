@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nextdoor&#39;s board discussed replacing CEO Sarah Friar with co-founder Nirav Tolia, who served as CEO between 2010 and 2018, or selling the company &lpar;The Information&rpar;](http://www.techmeme.com/240222/p38#a240222p38)
  - [Watch Odysseus attempt the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
  - [Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data](https://www.theverge.com/2024/2/22/24080135/avast-security-privacy-software-ftc-fine-data-harvesting)
  - [Bluesky starts letting users host their own servers](https://www.theverge.com/2024/2/22/24080334/bluesky-self-hosting-servers-data-federated)
- - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)
- - [S-1: Sam Altman has an 8.7% stake in Reddit, making him the third-largest shareholder, behind Advance Magazine Publishers, with 30.1%, and Tencent, with 11% &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240222/p37#a240222p37)<!-- TECH:END -->
+ - [Intel’s CEO Says AI Is the Key to the Company’s Comeback](https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

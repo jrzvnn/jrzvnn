@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked files offer a detailed look at a Chinese state-linked hacking group carrying cyber intrusions against foreign governments, companies, and infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/240222/p1#a240222p1)
  - [Sources: Reddit has inked a deal with Google to make its content available for training the search giant&#39;s AI models; source: the contract is worth ~$60M a year &lpar;Reuters&rpar;](http://www.techmeme.com/240221/p50#a240221p50)
  - [Orkes, which provides a microservices orchestration platform for developers, raised a $20M Series A led by Nexus, taking its total funding to $29.3M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240221/p49#a240221p49)
  - [ESR Qi2 MagSafe Car Mount review: a practical upgrade over clamp-based car phone holders](https://appleinsider.com/articles/24/02/22/esr-qi2-magsafe-car-mount-review-a-practical-upgrade-over-clamp-based-car-phone-holders?utm_medium=rss)
- - [Over 700 people, including AI experts and executives, sign an open letter calling for more regulation of deepfakes, such as by criminalizing deepfake child porn &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240221/p48#a240221p48)
- - [Samsung&#39;s Galaxy AI Is Coming to the Galaxy S23, Foldables and Tablets Next Month     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-ai-is-coming-to-the-galaxy-s23-foldables-and-tablets-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best DIY Home Security Systems of 2024     - CNET](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

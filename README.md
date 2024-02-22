@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [Wtf screech](http://9gag.com/gag/aZDAwmW)
  - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - 💣 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 😝 [Brutal](http://9gag.com/gag/awZR3g1)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 👉 [Without a doubt, Rachel *had* some of that DNA inside her 9 months ago](http://9gag.com/gag/aZDA1w3)<!-- MEMES:END -->
 
 ---
 

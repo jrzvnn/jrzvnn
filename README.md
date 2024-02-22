@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reports are spreading about a very specific Apple Vision Pro front glass crack](https://appleinsider.com/articles/24/02/22/reports-are-spreading-about-a-very-specific-apple-vision-pro-front-glass-crack?utm_medium=rss)
+ - [Reddit will give some of its top users, including moderators and those with high karma scores, the chance to buy shares in its IPO &lpar;The Verge&rpar;](http://www.techmeme.com/240222/p36#a240222p36)
  - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users)
  - [The United States cellular network struggled the morning of February 22](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [Reddit files for a US IPO, says it had $804M in annual sales in 2023, up 20% YoY, and a net loss of $90.8M, compared to a net loss of $158.6M in 2022 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240222/p35#a240222p35)
- - [Gab launched 91 chatbots over the last month, including AI versions of Hitler and Trump, several of which deny the Holocaust, call climate change a scam, more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240222/p34#a240222p34)
- - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)<!-- TECH:END -->
+ - [Reddit files for a US IPO, says it had revenue of $804M in 2023, up 20% YoY, and a net loss of $90.8M, compared to a net loss of $158.6M in 2022, and 73M DAUs &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240222/p35#a240222p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

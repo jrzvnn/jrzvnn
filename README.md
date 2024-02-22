@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAAANS?!](http://9gag.com/gag/aPgNPmg)
- - 😝 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 💣 [There\u2019s a glitch in the matrix](http://9gag.com/gag/a8qP2g1)
+ - 😝 [What happens when parents stopped punishing their children](http://9gag.com/gag/aZDAjRQ)
+ - 😝 [Black pope, black vikings... Probably got the job through DEI](http://9gag.com/gag/aDYpV1w)
+ - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
  - 👉 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)<!-- MEMES:END -->
 

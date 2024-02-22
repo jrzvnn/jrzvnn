@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a serious matter](http://9gag.com/gag/aRE5Zr7)
- - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 💣 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
- - 👉 [Wtf screech](http://9gag.com/gag/aZDAwmW)<!-- MEMES:END -->
+ - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
+ - 😝 [Poor terry.](http://9gag.com/gag/aDYpnAN)
+ - 💣 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 😝 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 👉 [Bro had a death wish](http://9gag.com/gag/a3Z9yN7)<!-- MEMES:END -->
 
 ---
 

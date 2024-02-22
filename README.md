@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t use a smartwatch or smart ring for blood glucose monitoring just yet](https://appleinsider.com/articles/24/02/22/dont-use-a-smartwatch-or-smart-ring-for-blood-glucose-monitoring-just-yet?utm_medium=rss)
+ - [Best Galaxy S24 Cases &lpar;2024&rpar;: Screen Protectors, Chargers, and More](https://www.wired.com/gallery/best-samsung-galaxy-s24-cases-and-accessories/)
  - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
  - [Analysis: by the end of 2023, 48% of the most popular news websites in the US, UK, and eight others blocked OpenAI&#39;s crawler and 24% blocked Google&#39;s crawler &lpar;Dr Richard Fletcher/Reuters Institute for the Study of Journalism&rpar;](http://www.techmeme.com/240222/p25#a240222p25)
- - [An AT&amp;T Outage Is Wreaking Havoc on US Cellular Networks](https://www.wired.com/story/att-network-outage-verizon-tmobile/)
- - [New Google Pixel Fold 2 leak points to redesigned camera](https://www.theverge.com/2024/2/22/24079922/google-pixel-fold-2-leak-design-change)
- - [17 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/17-tips-better-chatgpt-prompts/)<!-- TECH:END -->
+ - [An AT&amp;T Outage Is Wreaking Havoc on US Cellular Networks](https://www.wired.com/story/att-network-outage-verizon-tmobile/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says its standalone Google Pay app GPay and its peer-to-peer payment feature will stop working in the US starting on June 4, 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240222/p30#a240222p30)
  - [It’s just $32.49 to fix your Switch’s Joy-Con drift with Hori’s Split Pad Compact](https://www.theverge.com/2024/2/22/24079982/steelseries-arctis-nova-pro-wireless-hori-split-pad-compact-ring-battery-plus-doorbell-deals-sales)
- - [Google rolls out its Gemini-powered &quot;Help me write&quot; tool in Chrome on macOS and Windows for English-speaking US users, offering shortform writing suggestions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240222/p29#a240222p29)
+ - [Google rolls out its Gemini-powered &quot;Help me write&quot; tool in Chrome for macOS and Windows for English-speaking US users, offering shortform writing suggestions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240222/p29#a240222p29)
  - [The United States cellular network is struggling this morning](https://appleinsider.com/articles/24/02/22/the-united-states-cellular-network-is-struggling-this-morning?utm_medium=rss)
- - [The US FTC says Avast needs to pay $16.5M and stop selling web browsing data for ads to settle charges that the UK company misrepresented how it uses such data &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/240222/p28#a240222p28)
- - [Google Chrome’s new AI can finish your sentences for you](https://www.theverge.com/2024/2/22/24079906/google-chrome-help-me-write-gemini-ai-tool-finish-sentences)<!-- TECH:END -->
+ - [The US FTC says Avast needs to pay $16.5M and stop selling web browsing data for ads to settle charges that the UK company misrepresented its use of such data &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/240222/p28#a240222p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

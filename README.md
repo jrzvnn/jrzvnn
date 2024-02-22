@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s ‘Woke’ Image Generator Shows the Limitations of AI](https://www.wired.com/story/google-gemini-woke-ai-image-generation/)
  - [Tom Hiddleston narrates Apple TV+&#39;s latest nature series debuting soon](https://appleinsider.com/articles/24/02/22/tom-hiddleston-narrates-apple-tvs-latest-nature-series-debuting-soon?utm_medium=rss)
  - [New OWC Atlas card reader moves data just as fast as Thunderbolt](https://appleinsider.com/articles/24/02/22/new-owc-atlas-card-reader-moves-data-just-as-fast-as-thunderbolt?utm_medium=rss)
  - [How the Apple Watch helped a tech worker reprioritize his mental health](https://appleinsider.com/articles/24/02/22/how-the-apple-watch-helped-a-tech-worker-reprioritize-his-mental-health?utm_medium=rss)
- - [Leak Shows Alarm in Congress Over a Russian ‘Threat’ Is a Real Anomaly](https://www.wired.com/story/hpsci-russia-urgent-threat-leak/)
- - [How the Supreme Court could gut environmental protections in 2024](https://www.theverge.com/24080192/supreme-court-pollution-environment-cases-2024-epa)<!-- TECH:END -->
+ - [Leak Shows Alarm in Congress Over a Russian ‘Threat’ Is a Real Anomaly](https://www.wired.com/story/hpsci-russia-urgent-threat-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

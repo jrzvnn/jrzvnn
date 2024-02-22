@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwanese chip firms are moving to Japan as the China decoupling accelerates, with at least nine setting up shop or expanding operations over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240221/p47#a240221p47)
  - [Techstars is shutting down its Seattle program, which was started in 2010, to shift focus on &quot;hubs with the highest concentration of VC activity&quot; &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240221/p46#a240221p46)
  - [Bluetti launches SwapSolar power station &amp; portable fridge, with Super Early Bird pricing](https://appleinsider.com/articles/24/02/22/bluetti-launches-swapsolar-power-station-portable-fridge-with-super-early-bird-pricing?utm_medium=rss)
  - [Microsoft and Intel strike a custom chip deal that could be worth billions](https://www.theverge.com/2024/2/21/24079336/microsoft-intel-chip-partnership-foundry-tsmc)
- - [Best Deals on Robot Vacuums: Save Up to $400 on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
- - [App Review&#39;s sudden enforcement of an in-app gift rule catches a meditation app off guard](https://appleinsider.com/articles/24/02/22/app-reviews-sudden-enforcement-of-an-in-app-gift-rule-catches-a-meditation-app-off-guard?utm_medium=rss)<!-- TECH:END -->
+ - [Best Deals on Robot Vacuums: Save Up to $400 on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

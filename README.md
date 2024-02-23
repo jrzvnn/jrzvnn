@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Save $300 on this M3 Max 16-inch MacBook Pro with 96GB RAM, in stock now](https://appleinsider.com/articles/24/02/23/save-300-on-this-m3-max-16-inch-macbook-pro-with-96gb-ram-in-stock-now?utm_medium=rss)
  - [Internal Apple AI &#39;Ask&#39; tool being tested by employees](https://appleinsider.com/articles/24/02/23/internal-apple-ai-ask-tool-being-tested-by-employees?utm_medium=rss)
- - [A survey of 2,745 US adult TikTok users: the top 25% post 98% of all public videos, the typical user rarely posts, 40% say For You is interesting, and more &lpar;Samuel Bestvater/Pew Research Center&rpar;](http://www.techmeme.com/240222/p45#a240222p45)
- - [Quitting Subscriptions to Netflix, Uber Eats and More? Try These Free Options Instead     - CNET](https://www.cnet.com/tech/services-and-software/quitting-subscriptions-netflix-uber-eats-more-try-these-free-options-instead/#ftag=CAD590a51e)
- - [Best Pizza Ovens for 2024, All Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
+ - [A survey of 2,745 US adult TikTok users: the top 25% post 98% of all public videos, the typical user rarely posts, 40% say For You is interesting, and more &lpar;Samuel Bestvater/Pew Research Center&rpar;](http://www.techmeme.com/240222/p45#a240222p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

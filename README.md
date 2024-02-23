@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Him while adding literally vodka and rum: `yeah go on, tornado, lol` him while adding soda: `GO ON BAD BOY !`](http://9gag.com/gag/a9qQBND)
- - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
- - 💣 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 💣 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
+ - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 ---
 

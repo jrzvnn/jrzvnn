@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set up and use a VPN on an iPhone: your ultimate guide](https://appleinsider.com/articles/24/02/23/how-to-set-up-and-use-a-vpn-on-an-iphone-your-ultimate-guide?utm_medium=rss)
+ - [Instagram and Facebook knowingly platform parents who sexually exploit children for profit, say reports](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
  - [Why TikTok Is So Obsessed With a Mysteriously Pregnant Stingray](https://www.wired.com/story/charlotte-pregnant-virgin-stingray-jesus/)
  - [My Quest to Fix a Crashing Roku App Provides a Warning About AI](https://www.wired.com/story/plaintext-my-quest-to-fix-a-crashing-app/)
- - [The Supreme Court is about to decide the future of online speech](https://www.theverge.com/2024/2/23/24080521/supreme-court-netchoice-florida-texas-social-media-laws-arguments)
- - [Yelp says its tests show design tweaks Google made to its search results to comply with EU&#39;s DMA are unfair and make users even more likely to stick with Google &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240223/p8#a240223p8)
- - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)<!-- TECH:END -->
+ - [The Supreme Court is about to decide the future of online speech](https://www.theverge.com/2024/2/23/24080521/supreme-court-netchoice-florida-texas-social-media-laws-arguments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

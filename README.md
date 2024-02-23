@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X starts rolling out audio and video calling to all users, after previously limiting the features to Premium subscribers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240223/p21#a240223p21)
+ - [FTC cracks down on H&amp;R Block for deleting tax data when users want to downgrade](https://www.theverge.com/2024/2/23/24081404/h-r-block-tax-deceptive-marketing-ftc)
+ - [X starts rolling out audio and video calling to all users, after previously limiting the feature to Premium subscribers; users can disable calling in settings &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240223/p21#a240223p21)
  - [Sources: Jeff Bezos is investing $100M, Microsoft is investing $95M, and Nvidia $50M in humanoid robot startup Figure&#39;s ~$675M funding round at a ~$2B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p20#a240223p20)
  - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
- - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)
- - [Reddit Is Letting Power Users In on Its IPO. Not Everyone’s Buying](https://www.wired.com/story/reddit-power-users-ipo/)<!-- TECH:END -->
+ - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

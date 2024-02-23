@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
- - 💣 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 😝 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 💣 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 

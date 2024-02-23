@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane’s AI Pin is slightly delayed, now comes with months of free service](https://www.theverge.com/2024/2/22/24080654/humane-ai-pin-delay-free-months)
+ - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
  - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
  - [AT&amp;T Says Cause of Outage Wasn&#39;t a Cyber Attack     - CNET](https://www.cnet.com/tech/mobile/at-t-says-cause-of-outage-wasnt-a-cyber-attack/#ftag=CAD590a51e)
- - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)
- - [AT&amp;T believes the February 22 outage was &quot;caused by the application and execution of an incorrect process&quot; as it was expanding its network, &quot;not a cyber attack&quot; &lpar;ABC News&rpar;](http://www.techmeme.com/240222/p42#a240222p42)
- - [I Drove &lpar;and Loved&rpar; the 2024 Honda Prologue Elite Electric SUV     - CNET](https://www.cnet.com/roadshow/pictures/i-drove-and-loved-the-2024-honda-prologue-elite-electric-suv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

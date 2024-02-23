@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 😝 [Him while adding literally vodka and rum: `yeah go on, tornado, lol` him while adding soda: `GO ON BAD BOY !`](http://9gag.com/gag/a9qQBND)
+ - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 💣 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
+ - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
 
 ---
 

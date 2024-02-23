@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former Gizmodo writer changed his name to ‘Slackbot’ and stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
  - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)
+ - [Best Apple Watch Deals: Save Big on Ultra 2, SE 2 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
  - [FTC cracks down on H&amp;R Block for deleting tax data when users want to downgrade](https://www.theverge.com/2024/2/23/24081404/h-r-block-tax-deceptive-marketing-ftc)
- - [X starts rolling out audio and video calling to all users, after previously limiting the feature to Premium subscribers; users can disable calling in settings &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240223/p21#a240223p21)
- - [Sources: Jeff Bezos is investing $100M, Microsoft is investing $95M, and Nvidia $50M in humanoid robot startup Figure&#39;s ~$675M funding round at a ~$2B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p20#a240223p20)
- - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)<!-- TECH:END -->
+ - [X starts rolling out audio and video calling to all users, after previously limiting the feature to Premium subscribers; users can disable calling in settings &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240223/p21#a240223p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

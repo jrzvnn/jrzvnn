@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)
+ - 😝 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
+ - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
  - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Yup That&#39;ll surely get you fired.](http://9gag.com/gag/a04Anvd)<!-- MEMES:END -->
+ - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 👉 [Good question](http://9gag.com/gag/a6qvGV9)<!-- MEMES:END -->
 
 ---
 

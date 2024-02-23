@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
  - [Sources: staff warned Meta in 2023 that its subscription tools on Facebook and Instagram allowed adults to profit from exploiting their own children &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240223/p2#a240223p2)
  - [An investigation finds thousands of parent-run Instagram accounts posting images of their own children attracting pedophiles, who sometimes pay for more content &lpar;New York Times&rpar;](http://www.techmeme.com/240223/p1#a240223p1)
- - [Save $300 on this M3 Max 16-inch MacBook Pro with 96GB RAM, in stock now](https://appleinsider.com/articles/24/02/23/save-300-on-this-m3-max-16-inch-macbook-pro-with-96gb-ram-in-stock-now?utm_medium=rss)
- - [Internal Apple AI &#39;Ask&#39; tool being tested by employees](https://appleinsider.com/articles/24/02/23/internal-apple-ai-ask-tool-being-tested-by-employees?utm_medium=rss)
- - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gaming TV for 2024: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
+ - [Save $300 on this M3 Max 16-inch MacBook Pro with 96GB RAM, in stock now](https://appleinsider.com/articles/24/02/23/save-300-on-this-m3-max-16-inch-macbook-pro-with-96gb-ram-in-stock-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)
- - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Cave Explorers: Oooooh look a hole the size of my head and I have no idea where it leads, let&#39;s climb down!](http://9gag.com/gag/a6qvn5q)
+ - 😝 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)
+ - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Unexpected](http://9gag.com/gag/a2KB24e)<!-- MEMES:END -->
+ - 👉 [Eagle killed its weak chick to ensure the survival of other](http://9gag.com/gag/ajVbBm1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases PyRIT, a tool its AI Red Team has been using to check for risks in its generative AI systems like Copilot, to the public &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/240223/p9#a240223p9)
  - [The AIs are officially out of control](https://www.theverge.com/2024/2/23/24080579/gemini-chatgpt-problems-images-reddit-ipo-vergecast)
  - [How to set up and use a VPN on an iPhone: your ultimate guide](https://appleinsider.com/articles/24/02/23/how-to-set-up-and-use-a-vpn-on-an-iphone-your-ultimate-guide?utm_medium=rss)
  - [Instagram and Facebook knowingly platform parents who sexually exploit children for profit, say reports](https://www.theverge.com/2024/2/23/24080856/instagram-facebook-meta-platforming-parents-sexually-exploiting-children)
- - [Why TikTok Is So Obsessed With a Mysteriously Pregnant Stingray](https://www.wired.com/story/charlotte-pregnant-virgin-stingray-jesus/)
- - [My Quest to Fix a Crashing Roku App Provides a Warning About AI](https://www.wired.com/story/plaintext-my-quest-to-fix-a-crashing-app/)<!-- TECH:END -->
+ - [Why TikTok Is So Obsessed With a Mysteriously Pregnant Stingray](https://www.wired.com/story/charlotte-pregnant-virgin-stingray-jesus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

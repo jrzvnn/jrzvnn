@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
- - 😝 [Google&#39;s AI &lpar;Gemini&rpar; in a nutshell.](http://9gag.com/gag/agoMEQn)
- - 💣 [That&#39;s why we pay for the internet](http://9gag.com/gag/avQYvjX)
- - 😝 [Good question](http://9gag.com/gag/a6qvGV9)
- - 👉 [Benny Hill Beatdown &lpar;sorry if it&#39;s a repost, I have not seen it here&rpar;](http://9gag.com/gag/ajVbR2q)<!-- MEMES:END -->
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 💣 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 😝 [Let your bf see this](http://9gag.com/gag/arm6xAX)
+ - 👉 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)<!-- MEMES:END -->
 
 ---
 

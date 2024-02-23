@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
- - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 💣 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [TaskDone](http://9gag.com/gag/a1PzEmP)
+ - 💣 [Let your bf see this](http://9gag.com/gag/arm6xAX)
  - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
  - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 

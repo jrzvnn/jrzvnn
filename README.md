@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg is seeking to avoid being held personally liable in two dozen lawsuits accusing Meta of addicting children to its products in a hearing today &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240223/p6#a240223p6)
+ - [Apple kickstarted 5G and now 2 billion smartphones have it](https://appleinsider.com/articles/24/02/23/apple-kickstarted-5g-and-now-2-billion-smartphones-have-it?utm_medium=rss)
  - [What Would Happen if Every American Got a Heat Pump](https://www.wired.com/story/what-would-happen-if-every-american-got-a-heat-pump/)
  - [TikTok-Famous Stanley Tumblers Are Up to 20% Off While Supplies Last     - CNET](https://www.cnet.com/deals/tiktok-famous-stanley-tumblers-are-up-to-20-off-while-supplies-last/#ftag=CAD590a51e)
- - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)
- - [File Your Taxes for Less With One of These Discounted Software Services     - CNET](https://www.cnet.com/deals/file-your-taxes-for-less-with-one-of-these-discounted-software-services/#ftag=CAD590a51e)
- - [Iranian celebrities caught up in $35 million iPhone scam](https://appleinsider.com/articles/24/02/23/iranian-celebrities-caught-up-in-35-million-iphone-scam?utm_medium=rss)<!-- TECH:END -->
+ - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

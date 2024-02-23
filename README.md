@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watched this movie few nights ago and it was great, cant&#39;t beleve this is a true story, sick... deserves much better score &lpar;6.7 on imdb&rpar;](http://9gag.com/gag/aYV8AYV)
- - 😝 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
- - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [The world is healing](http://9gag.com/gag/a8qPzAp)
+ - 😝 [The seks](http://9gag.com/gag/aVbnBby)
+ - 💣 [40, actually](http://9gag.com/gag/ajVbyD8)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [TaskDone](http://9gag.com/gag/a1PzEmP)<!-- MEMES:END -->
+ - 👉 [No title there.](http://9gag.com/gag/adPZbgM)<!-- MEMES:END -->
 
 ---
 

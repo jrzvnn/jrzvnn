@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsiderPodcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)
+ - [A group of Byju&#39;s investors, including Prosus and Peak XV, vote to remove CEO Byju Raveendran; Byju&#39;s questions the legitimacy of the investors&#39; actions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240223/p7#a240223p7)
+ - [What’s the point of Elon Musk’s AI company?](https://www.theverge.com/24080217/elon-musk-xai-fundraising-grok-ai)
  - [Mark Zuckerberg is seeking to avoid being held personally liable in two dozen lawsuits accusing Meta of addicting children to its products in a hearing today &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240223/p6#a240223p6)
- - [Apple kickstarted 5G and now 2 billion smartphones have it](https://appleinsider.com/articles/24/02/23/apple-kickstarted-5g-and-now-2-billion-smartphones-have-it?utm_medium=rss)
- - [What Would Happen if Every American Got a Heat Pump](https://www.wired.com/story/what-would-happen-if-every-american-got-a-heat-pump/)
- - [TikTok-Famous Stanley Tumblers Are Up to 20% Off While Supplies Last     - CNET](https://www.cnet.com/deals/tiktok-famous-stanley-tumblers-are-up-to-20-off-while-supplies-last/#ftag=CAD590a51e)
- - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)<!-- TECH:END -->
+ - [Apple kickstarted 5G and now 2 billion smartphones have it](https://appleinsider.com/articles/24/02/23/apple-kickstarted-5g-and-now-2-billion-smartphones-have-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

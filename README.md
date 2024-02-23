@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
  - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 💣 [She must be really really goood](http://9gag.com/gag/aOxgDdE)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
+ - 👉 [You&#39;re not ready.](http://9gag.com/gag/anzpv0B)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 💣 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 😝 [Let your bf see this](http://9gag.com/gag/arm6xAX)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 💣 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 

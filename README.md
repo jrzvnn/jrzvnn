@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Humane’s AI Pin is slightly delayed, now comes with months of free service](https://www.theverge.com/2024/2/22/24080654/humane-ai-pin-delay-free-months)
+ - [Apple Watch Series 8 Deals: Save Up to $200 on Various Models While You Still Can     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)
  - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
- - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
- - [AT&amp;T Says Cause of Outage Wasn&#39;t a Cyber Attack     - CNET](https://www.cnet.com/tech/mobile/at-t-says-cause-of-outage-wasnt-a-cyber-attack/#ftag=CAD590a51e)
- - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)<!-- TECH:END -->
+ - [Best Smart Home Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)
+ - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

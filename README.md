@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 💣 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 😝 [Him while adding literally vodka and rum: `yeah go on, tornado, lol` him while adding soda: `GO ON BAD BOY !`](http://9gag.com/gag/a9qQBND)
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)<!-- MEMES:END -->
+ - 👉 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)<!-- MEMES:END -->
 
 ---
 

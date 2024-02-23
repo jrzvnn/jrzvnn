@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
- - 😝 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
- - 💣 [Hmm......](http://9gag.com/gag/axoxbnY)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [How I spend my days at work](http://9gag.com/gag/aWGKo32)<!-- MEMES:END -->
+ - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 ---
 

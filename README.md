@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Try, try again!](http://9gag.com/gag/aVbn2Gw)
- - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 💣 [Good question](http://9gag.com/gag/a6qvGV9)
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
 
 ---
 

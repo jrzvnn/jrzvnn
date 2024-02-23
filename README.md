@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 💣 [Experiment demonstrating Newton&#39;s First Law of Motion.](http://9gag.com/gag/aDYpXgZ)
+ - 😝 [Watched this movie few nights ago and it was great, cant&#39;t beleve this is a true story, sick... deserves much better score &lpar;6.7 on imdb&rpar;](http://9gag.com/gag/aYV8AYV)
+ - 😝 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
+ - 💣 [Unexpected](http://9gag.com/gag/a2KB24e)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 👉 [TaskDone](http://9gag.com/gag/a1PzEmP)<!-- MEMES:END -->
 
 ---
 

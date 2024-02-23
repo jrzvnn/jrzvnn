@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 💣 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
- - 😝 [Let your bf see this](http://9gag.com/gag/arm6xAX)
- - 👉 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/a1Pz2A6)
+ - 😝 [Really makes you wonder](http://9gag.com/gag/aeQox2v)
+ - 💣 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 
 ---
 

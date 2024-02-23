@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida&#39;s legislature passed one of US&#39; most restrictive bills on minors&#39; use of social media despite 1A concerns; the bill needs approval of Gov. Ron DeSantis &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)
+ - [Google foreshadows its final arguments in search monopoly trial](https://www.theverge.com/2024/2/23/24080493/google-doj-antitrust-search-lawsuit-final-arguments-post-trial-brief-filed)
+ - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)
+ - [Florida passes one of the US&#39; most restrictive bills on minors&#39; social media use, despite First Amendment concerns; Governor Ron DeSantis has to sign the bill &lpar;Brendan Farrington/Associated Press&rpar;](http://www.techmeme.com/240223/p13#a240223p13)
  - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)
- - [How to Use Quick Share on Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)
- - [Drone Delivery Sparks Chaos in Hilarious Sci-Fi Novel Deliver Us](https://www.wired.com/2024/02/geeks-guide-deliver-us/)
- - [Q&amp;A with Nvidia CEO Jensen Huang about plans for a new type of data center dubbed an &quot;AI factory&quot;, foundational robotics, the Mellanox acquisition, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p12#a240223p12)<!-- TECH:END -->
+ - [How to Use Quick Share on Android &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

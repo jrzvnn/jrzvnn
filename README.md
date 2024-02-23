@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [How I spend my days at work](http://9gag.com/gag/aWGKo32)
- - 💣 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
+ - 😝 [TaskDone](http://9gag.com/gag/a1PzEmP)
+ - 😝 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
+ - 👉 [Let your bf see this](http://9gag.com/gag/arm6xAX)<!-- MEMES:END -->
 
 ---
 

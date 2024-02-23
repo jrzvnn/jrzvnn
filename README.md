@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
+ - [Windows is getting its own Magic Eraser to AI-modify your photos](https://www.theverge.com/24080574/windows-photos-generative-erase-10-11-arm)
+ - [Meta&#39;s Oversight Board extends its scope to Threads, letting users appeal Meta&#39;s content moderation decisions with the same process as on Facebook and Instagram &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240222/p41#a240222p41)
  - [Filing: UnitedHealth says a &quot;suspected nation-state&quot; actor had access to systems of IT provider Change Healthcare, prompting an outage at pharmacies in the US &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240222/p40#a240222p40)
- - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)
- - [Block reports Q4 revenue up 24% YoY to $5.77B, Square profit up 18% YoY, Cash App profit up 25% YoY, and forecasts Q1 adjusted EBITDA above est.; SQ jumps 12%+ &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240222/p39#a240222p39)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Best Apple Pencil Deals: Save on Drawing and Note-Taking Accessories     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

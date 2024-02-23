@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
- - 😝 [The seks](http://9gag.com/gag/aVbnBby)
- - 💣 [The drone ran out of battery and provided a scene worthy of Hollywood](http://9gag.com/gag/avQYdP5)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 💣 [Experiment demonstrating Newton&#39;s First Law of Motion.](http://9gag.com/gag/aDYpXgZ)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [The world is healing](http://9gag.com/gag/a8qPzAp)<!-- MEMES:END -->
+ - 👉 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)<!-- MEMES:END -->
 
 ---
 

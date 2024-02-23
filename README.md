@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 14 Games We&#39;re Still Most Looking Forward to In 2024](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
  - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)
  - [Nvidia hits $2T in market value, after adding $277B to its market value on Thursday, Wall Street&#39;s largest one-day gain on record &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240223/p10#a240223p10)
  - [Vision Pro owners are reporting a mysterious crack in the front glass](https://www.theverge.com/2024/2/23/24080886/apple-vision-pro-cracks-damage-glass)
- - [For Netflix’s live-action Avatar to work, Zuko had to find his heart a little faster](https://www.theverge.com/24050899/netflix-avatar-the-last-airbender-dallas-liu-interview)
- - [Apple makes its own App Store less convenient in EU](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [For Netflix’s live-action Avatar to work, Zuko had to find his heart a little faster](https://www.theverge.com/24050899/netflix-avatar-the-last-airbender-dallas-liu-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

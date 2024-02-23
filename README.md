@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser company&#39;s Arc launches an AI-powered &quot;pinch-to-summarize&quot; feature in its Arc Search app that shows a neatly formatted summary with main points &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240223/p18#a240223p18)
  - [Chainalysis: there were more than 2,200 bitcoins, worth $110M+ at today&#39;s prices, in LockBit&#39;s active blockchain addresses identified by law enforcement &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/240223/p17#a240223p17)
  - [Google explains Gemini’s ‘embarrassing’ AI pictures of diverse Nazis](https://www.theverge.com/2024/2/23/24081309/google-gemini-embarrassing-ai-pictures-diverse-nazi)
  - [The 31 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Google says an image tuning failure and Gemini becoming more cautious than intended made it &quot;overcompensate in some cases, and be over-conservative in others&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240223/p16#a240223p16)<!-- TECH:END -->
+ - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

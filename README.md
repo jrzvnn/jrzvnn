@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never too late to turn it around \ud83d\udcaf](http://9gag.com/gag/a3Z92gN)
  - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
- - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 👉 [Good question](http://9gag.com/gag/a6qvGV9)<!-- MEMES:END -->
+ - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 😝 [Good question](http://9gag.com/gag/a6qvGV9)
+ - 👉 [That&#39;s why we pay for the internet](http://9gag.com/gag/avQYvjX)<!-- MEMES:END -->
 
 ---
 

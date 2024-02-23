@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - 😝 [Who will survive?](http://9gag.com/gag/a5Xmxdo)
- - 💣 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
+ - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 😝 [Experiment demonstrating Newton&#39;s First Law of Motion.](http://9gag.com/gag/aDYpXgZ)
+ - 💣 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)<!-- MEMES:END -->
+ - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
 
 ---
 

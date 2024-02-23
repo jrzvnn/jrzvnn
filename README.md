@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with Nvidia CEO Jensen Huang about plans for a new type of data center dubbed &quot;AI factory&quot;, foundational robotics, the Mellanox acquisition, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p12#a240223p12)
  - [Apple brings live scores to new Apple Sports app](https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app?utm_medium=rss)
- - [Bitcoin Royalty Descends on Satoshi Nakamoto Trial](https://www.wired.com/story/craig-wright-trial-bitcoin-royalty-testimony/)
+ - [Bitcoin Royalty Descends on the Satoshi Nakamoto Trial](https://www.wired.com/story/craig-wright-trial-bitcoin-royalty-testimony/)
  - [Corsair’s Scimitar RGB Elite, one of our favorite gaming mice, is on sale for $60](https://www.theverge.com/2024/2/23/24080021/corsair-scimitar-rgb-elite-gaming-mouse-amazon-fire-tv-omni-qled-tv-deal-sale)
  - [Booking.com says it is facing a provisional &amp;euro;486M fine from Spain&#39;s antitrust watchdog, which is accusing the online travel group of anti-competitive practices &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240223/p11#a240223p11)<!-- TECH:END -->
 

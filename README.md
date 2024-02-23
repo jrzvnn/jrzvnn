@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Jeff Bezos is investing $100M, Microsoft is investing $95M, and Nvidia $50M in humanoid robot startup Figure&#39;s ~$675M funding round at a ~$2B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p20#a240223p20)
  - [19 Best Mattress and Bedsheet Deals Right Now](https://www.wired.com/story/presidents-day-mattress-deals-2024/)
  - [A look at Marc Andreessen and a16z&#39;s political efforts, including starting the Keep Startups in America PAC and giving millions to a pro-crypto dark-money group &lpar;Theodore Schleifer/Puck&rpar;](http://www.techmeme.com/240223/p19#a240223p19)
  - [Reddit Is Letting Power Users In on Its IPO. Not Everyone’s Buying](https://www.wired.com/story/reddit-power-users-ipo/)
- - [Tax Season 2024: IRS Has Issued $66.9 Billion in Tax Refunds in the Third Week of Filing     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-has-issued-66-9-billion-in-tax-refunds-in-the-third-week-of-filing/#ftag=CAD590a51e)
- - [The Browser company&#39;s Arc launches an AI-powered &quot;pinch-to-summarize&quot; feature in its Arc Search app that shows a neatly formatted summary with main points &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240223/p18#a240223p18)<!-- TECH:END -->
+ - [Tax Season 2024: IRS Has Issued $66.9 Billion in Tax Refunds in the Third Week of Filing     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-has-issued-66-9-billion-in-tax-refunds-in-the-third-week-of-filing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world is healing](http://9gag.com/gag/a8qPzAp)
- - 😝 [The seks](http://9gag.com/gag/aVbnBby)
- - 💣 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 😝 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 💣 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [No title there.](http://9gag.com/gag/adPZbgM)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 

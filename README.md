@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
- - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 💣 [Let your bf see this](http://9gag.com/gag/arm6xAX)
+ - 😝 [Tricky](http://9gag.com/gag/aVbnmVw)
+ - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
+ - 💣 [If you know you know](http://9gag.com/gag/a1Pz2A6)
  - 😝 [The time has come for you to claim your empire in the world of darkness.](http://9gag.com/gag/a9qQyBm)
  - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
 

@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic CEO Matt Mullenweg spars with a trans Tumblr user over an account ban and reveals private account names, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)
+ - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)
  - [Amazon launches weekend Apple sale, dropping prices to as low as $24](https://appleinsider.com/articles/24/02/23/amazon-launches-weekend-apple-sale-dropping-prices-to-as-low-as-24?utm_medium=rss)
  - [A former Gizmodo writer changed his name to ‘Slackbot’ and stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
  - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)

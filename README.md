@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TaskDone](http://9gag.com/gag/a1PzEmP)
- - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
- - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
- - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
+ - 😝 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 💣 [We&#39;re not going to make it, as a civilization I mean, right?](http://9gag.com/gag/a4oe5e6)
+ - 😝 [I found this sword in my late grandfather&#39;s workshop, it&#39;s been through a fire that&#39;s why it looks like this, but I&#39;m planing on restoring it ! The thing is I never found out the meaning behind those symbols and it still puzzles me even today !](http://9gag.com/gag/aeQoV8B)
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 

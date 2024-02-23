@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
- - [A New Startup Wants to Turn the Sugar You Eat Into Fiber](https://www.wired.com/story/startup-sugar-fiber-enzyme-zya/)
- - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
- - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
- - [Sources: staff warned Meta in 2023 that its subscription tools on Facebook and Instagram allowed adults to profit from exploiting their own children &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240223/p2#a240223p2)<!-- TECH:END -->
+ - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
+ - [Didn&#39;t File a Tax Return in 2021? Here&#39;s How to Claim Your 2020 Tax Refund     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)
+ - [Tax Return or Tax Refund? We&#39;ll Explain the Difference     - CNET](https://www.cnet.com/personal-finance/taxes/tax-return-or-tax-refund-well-explain-the-difference/#ftag=CAD590a51e)
+ - [Best Internet Providers in Fayetteville, Arkansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-ar/#ftag=CAD590a51e)
+ - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts](http://9gag.com/gag/aZDAzb6)
- - 😝 [She couldn&#39;t bear the `mansplaining`...](http://9gag.com/gag/aZDA2mQ)
- - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 😝 [Good question](http://9gag.com/gag/a6qvGV9)
- - 👉 [That&#39;s why we pay for the internet](http://9gag.com/gag/avQYvjX)<!-- MEMES:END -->
+ - 😝 [TaskDone](http://9gag.com/gag/a1PzEmP)
+ - 😝 [A high school student that `changed` his gender, injured three girls from basketball team and match is suspended.](http://9gag.com/gag/aPgNeDQ)
+ - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
 
 ---
 

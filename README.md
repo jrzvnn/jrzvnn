@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung says the Galaxy Book4 series, with Intel Core Ultra chips and AMOLED touchscreens, will be available in the US, the UK, and other markets on February 26 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240222/p43#a240222p43)
+ - [AT&amp;T Says Cause of Outage Wasn&#39;t a Cyber Attack     - CNET](https://www.cnet.com/tech/mobile/at-t-says-cause-of-outage-wasnt-a-cyber-attack/#ftag=CAD590a51e)
  - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)
  - [AT&amp;T believes the February 22 outage was &quot;caused by the application and execution of an incorrect process&quot; as it was expanding its network, &quot;not a cyber attack&quot; &lpar;ABC News&rpar;](http://www.techmeme.com/240222/p42#a240222p42)
- - [Reddit’s IPO Filing Is Missing Something: Cofounder Alexis Ohanian](https://www.wired.com/story/reddit-ipo-filing-s-1-cofounder-alexis-ohanian-huffman/)
- - [Getting a Tax Refund? 6 Ways to Use Your IRS Money This Year     - CNET](https://www.cnet.com/personal-finance/taxes/getting-a-tax-refund-6-ways-to-use-your-irs-money-this-year/#ftag=CAD590a51e)
- - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)<!-- TECH:END -->
+ - [I Drove &lpar;and Loved&rpar; the 2024 Honda Prologue Elite Electric SUV     - CNET](https://www.cnet.com/roadshow/pictures/i-drove-and-loved-the-2024-honda-prologue-elite-electric-suv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

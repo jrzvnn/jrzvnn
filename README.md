@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Corsair’s Scimitar RGB Elite, one of our favorite gaming mice, is on sale for $60](https://www.theverge.com/2024/2/23/24080021/corsair-scimitar-rgb-elite-gaming-mouse-amazon-fire-tv-omni-qled-tv-deal-sale)
  - [Booking.com says it is facing a provisional &amp;euro;486M fine from Spain&#39;s antitrust watchdog, which is accusing the online travel group of anti-competitive practices &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240223/p11#a240223p11)
  - [The 14 Games We&#39;re Still Most Looking Forward to In 2024](https://www.wired.com/gallery/the-games-were-most-looking-forward-to-in-2024/)
  - [Nvidia’s role in the AI wave has made it a $2 trillion company](https://www.theverge.com/2024/2/23/24080975/nvidia-ai-chips-h100-h200-market-capitalization)
- - [Nvidia hits $2T in market value, after adding $277B to its market value on Thursday, Wall Street&#39;s largest one-day gain on record &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240223/p10#a240223p10)
- - [Vision Pro owners are reporting a mysterious crack in the front glass](https://www.theverge.com/2024/2/23/24080886/apple-vision-pro-cracks-damage-glass)<!-- TECH:END -->
+ - [Nvidia hits $2T in market value, after adding $277B to its market value on Thursday, Wall Street&#39;s largest one-day gain on record &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240223/p10#a240223p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

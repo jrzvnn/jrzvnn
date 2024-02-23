@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane postpones the delivery of its Ai Pin for &quot;priority access&quot; customers from March to &quot;mid-April&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240223/p15#a240223p15)
  - [A bug briefly makes Apple&#39;s own App Store less convenient in EU [u]](https://appleinsider.com/articles/24/02/23/apple-makes-its-own-app-store-less-convenient-in-eu?utm_medium=rss)
  - [Google confirms &quot;a small subset of users&quot; have been temporarily unable to access the News tab filter in search results pages as part of ongoing testing &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/240223/p14#a240223p14)
  - [23 Best Wireless Chargers &lpar;2024&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Google foreshadows its final arguments in search monopoly trial](https://www.theverge.com/2024/2/23/24080493/google-doj-antitrust-search-lawsuit-final-arguments-post-trial-brief-filed)
- - [Apple Sports, Apple Vision Pro, and a Smart Ring on the AppleInsider Podcast](https://appleinsider.com/articles/24/02/23/apple-sports-apple-vision-pro-and-a-smart-ring-on-the-appleinsiderpodcast?utm_medium=rss)<!-- TECH:END -->
+ - [Google foreshadows its final arguments in search monopoly trial](https://www.theverge.com/2024/2/23/24080493/google-doj-antitrust-search-lawsuit-final-arguments-post-trial-brief-filed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

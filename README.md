@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)
- - [Windows is getting its own Magic Eraser to AI-modify your photos](https://www.theverge.com/24080574/windows-photos-generative-erase-10-11-arm)
- - [Meta&#39;s Oversight Board extends its scope to Threads, letting users appeal Meta&#39;s content moderation decisions with the same process as on Facebook and Instagram &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240222/p41#a240222p41)
- - [Filing: UnitedHealth says a &quot;suspected nation-state&quot; actor had access to systems of IT provider Change Healthcare, prompting an outage at pharmacies in the US &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240222/p40#a240222p40)
- - [Vice is abandoning Vice.com and laying off hundreds](https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs)<!-- TECH:END -->
+ - [Here Are the Secret Locations of ShotSpotter Gunfire Sensors](https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/)
+ - [AT&amp;T believes the February 22 outage was &quot;caused by the application and execution of an incorrect process&quot; as it was expanding its network, &quot;not a cyber attack&quot; &lpar;ABC News&rpar;](http://www.techmeme.com/240222/p42#a240222p42)
+ - [Reddit’s IPO Filing Is Missing Something: Cofounder Alexis Ohanian](https://www.wired.com/story/reddit-ipo-filing-s-1-cofounder-alexis-ohanian-huffman/)
+ - [Getting a Tax Refund? 6 Ways to Use Your IRS Money This Year     - CNET](https://www.cnet.com/personal-finance/taxes/getting-a-tax-refund-6-ways-to-use-your-irs-money-this-year/#ftag=CAD590a51e)
+ - [Odysseus achieves the first US Moon landing since 1972](https://www.theverge.com/2024/2/22/24080498/odysseus-lunar-lander-nasa-moon-intuitive-machines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

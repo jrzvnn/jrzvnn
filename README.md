@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Japan took a head start in the chips race thanks to factors not easily repeated elsewhere, including efficient government support and a low-cost workforce &lpar;Bloomberg&rpar;](http://www.techmeme.com/240223/p5#a240223p5)
+ - [Iranian celebrities caught up in $35 million iPhone scam](https://appleinsider.com/articles/24/02/23/iranian-celebrities-caught-up-in-35-million-iphone-scam?utm_medium=rss)
  - [There&#39;s No AI Without Nvidia. Meet the CEO Powering the Future](https://www.wired.com/story/nvidia-hardware-is-eating-the-world-jensen-huang/)
  - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
- - [Didn&#39;t File a Tax Return in 2021? Here&#39;s How to Claim Your 2020 Tax Refund     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)
- - [Tax Return or Tax Refund? We&#39;ll Explain the Difference     - CNET](https://www.cnet.com/personal-finance/taxes/tax-return-or-tax-refund-well-explain-the-difference/#ftag=CAD590a51e)
- - [Best Internet Providers in Fayetteville, Arkansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-ar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Didn&#39;t File a Tax Return in 2021? Here&#39;s How to Claim Your 2020 Tax Refund     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

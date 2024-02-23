@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 2,745 US adult TikTok users: the top 25% post 98% of all public videos, the typical user rarely posts, 40% say For You is interesting, and more &lpar;Samuel Bestvater/Pew Research Center&rpar;](http://www.techmeme.com/240222/p45#a240222p45)
  - [Humane’s AI Pin is slightly delayed, now comes with months of free service](https://www.theverge.com/2024/2/22/24080654/humane-ai-pin-delay-free-months)
  - [Apple Watch Series 8 Deals: Save Up to $200 on Various Models While You Still Can     - CNET](https://www.cnet.com/deals/best-apple-watch-series-8-deals/#ftag=CAD590a51e)
  - [Microsoft announces Generative Erase for the Photos app on Windows 10 and higher, which will allow users to remove objects and people from images using AI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240222/p44#a240222p44)
- - [Best Smart Home Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)
- - [Best Workout Apps for Women in 2024     - CNET](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews and emails show technical interviews have become more punishing for engineers after mass layoffs, requiring days of work on unpaid assignments &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240223/p4#a240223p4)
  - [A New Startup Wants to Turn the Sugar You Eat Into Fiber](https://www.wired.com/story/startup-sugar-fiber-enzyme-zya/)
  - [A US judge says FTX can sell its Anthropic shares after FTX reached a compromise with its customers opposing the sale; FTX invested $500M in Anthropic in 2021 &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240223/p3#a240223p3)
  - [Google Tweaked Search to Comply With EU Rules. Yelp Says It Makes Results Even More Unfair](https://www.wired.com/story/google-search-eu-yelp-unfair/)
- - [Sources: staff warned Meta in 2023 that its subscription tools on Facebook and Instagram allowed adults to profit from exploiting their own children &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240223/p2#a240223p2)
- - [An investigation finds thousands of parent-run Instagram accounts posting images of their own children attracting pedophiles, who sometimes pay for more content &lpar;New York Times&rpar;](http://www.techmeme.com/240223/p1#a240223p1)<!-- TECH:END -->
+ - [Sources: staff warned Meta in 2023 that its subscription tools on Facebook and Instagram allowed adults to profit from exploiting their own children &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240223/p2#a240223p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

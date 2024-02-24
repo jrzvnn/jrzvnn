@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 😝 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)
- - 💣 [Old dad joke](http://9gag.com/gag/aKE0NgZ)
- - 😝 [Hey Google, create one apple. Google: sure, here&#39;s two watermelons](http://9gag.com/gag/aZDAoNz)
- - 👉 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)<!-- MEMES:END -->
+ - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 💣 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 👉 [18 lashes](http://9gag.com/gag/a2KBOBD)<!-- MEMES:END -->
 
 ---
 

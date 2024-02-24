@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
- - 💣 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Once in a lifetime moment](http://9gag.com/gag/amAjn64)
+ - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
+ - 💣 [No title there.](http://9gag.com/gag/adPZbgM)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
+ - 👉 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)<!-- MEMES:END -->
 
 ---
 

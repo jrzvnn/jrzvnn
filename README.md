@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)
  - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)
- - [Xiaomi Redmi Note 13 Pro+ Review: Attractive and Affordable](https://www.wired.com/review/xiaomi-redmi-note-13-pro-plus/)
- - [The future of phones depends on the future of apps](https://www.theverge.com/2024/2/24/24078970/mwc-2024-smartphones-apps-ai-what-to-expect)
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)<!-- TECH:END -->
+ - [What You Need to Know About Tinder&#39;s New Verification Process     - CNET](https://www.cnet.com/tech/services-and-software/what-you-need-to-know-about-tinders-new-verification-process/#ftag=CAD590a51e)
+ - [Formula 1 Racing 2024: How to Watch and Livestream the Bahrain GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2024-how-to-watch-and-livestream-the-bahrain-gp/#ftag=CAD590a51e)
+ - [The Dip in 2024 Tax Refunds: Why It&#39;s Happening and How to Tweak Your W-4     - CNET](https://www.cnet.com/personal-finance/taxes/the-dip-in-2024-tax-refunds-why-its-happening-and-how-to-tweak-your-w-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

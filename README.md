@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $50 on the Pixel Watch 2     - CNET](https://www.cnet.com/deals/save-50-on-the-pixel-watch-2/#ftag=CAD590a51e)
+ - [Heart Health: Tips and Recipes to Help You Master the Mediterranean Diet     - CNET](https://www.cnet.com/health/nutrition/heart-health-and-the-mediterranean-diet/#ftag=CAD590a51e)
  - [How tensions between past and present leaders of Sequoia, which had a reputation for quiet competence, have spilled into the open with the Klarna boardroom spat &lpar;Financial Times&rpar;](http://www.techmeme.com/240224/p10#a240224p10)
  - [Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year](https://www.theverge.com/2024/2/24/24082072/sergey-brin-google-2023-plane-crash-lawsuit)
- - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [ESR Stylus Pen review: A worthy Apple Pencil alternative at a fraction of the price](https://appleinsider.com/articles/24/02/24/esr-stylus-pen-review-a-worthy-apple-pencil-alternative-at-a-fraction-of-the-price?utm_medium=rss)
- - [You Can Find Many Great Deals at Best Buy&#39;s Member-Exclusive Weekend Sale     - CNET](https://www.cnet.com/deals/you-can-find-many-great-deals-at-best-buys-member-exclusive-weekend-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

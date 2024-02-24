@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
- - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
  - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 👉 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)<!-- MEMES:END -->
+ - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to restore an Apple Silicon Mac using Configurator](https://appleinsider.com/inside/apple-silicon/tips/how-to-restore-an-apple-silicon-mac-using-configurator?utm_medium=rss)
+ - [Best AirPods Deals: Save Up to $45 on Beats, AirPods 2 and AirPods Max     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Arkansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-arkansas/#ftag=CAD590a51e)
  - [Sources: Broadcom is nearing a $3.8B deal to sell its end-user computing unit to private equity firm KKR &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240224/p12#a240224p12)
- - [A Vending Machine Error Revealed Secret Face Recognition Tech](https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/)
- - [Galaxy S22 Deals: Get Up to $750 Off With Carrier Plans and Trade-In     - CNET](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
- - [Reddit&#39;s S-1 shows how dependent the site is on the unpaid labor of 60K active daily moderators and the whims of its users and subreddits like r/WallStreetBets &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240224/p11#a240224p11)<!-- TECH:END -->
+ - [A Vending Machine Error Revealed Secret Face Recognition Tech](https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
- - 😝 [Chicken or egg?](http://9gag.com/gag/a9qQVy6)
- - 💣 [Old dad joke](http://9gag.com/gag/aKE0NgZ)
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 💣 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Celebrities at the gym](http://9gag.com/gag/aPgNnxg)<!-- MEMES:END -->
+ - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year](https://www.theverge.com/2024/2/24/24082072/sergey-brin-google-2023-plane-crash-lawsuit)
  - [ESR Stylus Pen review: A worthy Apple Pencil alternative at a fraction of the price](https://appleinsider.com/articles/24/02/24/esr-stylus-pen-review-a-worthy-apple-pencil-alternative-at-a-fraction-of-the-price?utm_medium=rss)
  - [Many redditors say they are not enthused about Reddit&#39;s IPO and expect CEO Steve Huffman to run the site into the ground while trying to make it profitable &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240224/p9#a240224p9)
  - [MWC 2024: Anticipating the Coolest Phone Tech, Concepts and Surprises     - CNET](https://www.cnet.com/tech/mobile/mwc-2024-anticipating-the-coolest-phone-tech-concepts-and-surprises/#ftag=CAD590a51e)
- - [Apple&#39;s Latest iOS 17.4 Tool Boosts Battery Insights for the iPhone 15     - CNET](https://www.cnet.com/tech/mobile/apples-latest-ios-17-4-tool-boosts-battery-insights-for-the-iphone-15/#ftag=CAD590a51e)
- - [Arsenal vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Latest iOS 17.4 Tool Boosts Battery Insights for the iPhone 15     - CNET](https://www.cnet.com/tech/mobile/apples-latest-ios-17-4-tool-boosts-battery-insights-for-the-iphone-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

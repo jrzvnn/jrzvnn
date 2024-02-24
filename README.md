@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
- - 😝 [TaskDone](http://9gag.com/gag/a1PzEmP)
- - 💣 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Such Intelligence](http://9gag.com/gag/aRE5OD2)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aA0Wv8d)<!-- MEMES:END -->
 
 ---
 

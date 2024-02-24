@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Odysseus Marks the First US Moon Landing in More Than 50 Years](https://www.wired.com/story/odysseus-moon-landing-lunar-nasa-intuitive-machines/)
+ - [Ring stops selling its Ring Car Cam dash cam](https://www.theverge.com/2024/2/23/24081686/ring-stops-selling-ring-car-cam-dash-cam)
+ - [Best PlayStation Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
  - [When does a journalist become a hacker?](https://www.theverge.com/2024/2/23/24081656/tim-burke-journalism-hacking-cfaa)
- - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)
- - [Best Chromebook Deals: Up to $350 off Acer, HP, Samsung and More     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [Amazon launches weekend Apple sale, dropping prices to as low as $24](https://appleinsider.com/articles/24/02/23/amazon-launches-weekend-apple-sale-dropping-prices-to-as-low-as-24?utm_medium=rss)
- - [Best Wireless Earbuds of 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

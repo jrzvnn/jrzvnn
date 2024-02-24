@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many redditors say they are not enthused about Reddit&#39;s IPO and expect CEO Steve Huffman to run the site into the ground while trying to make it profitable &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240224/p9#a240224p9)
  - [In Reddit&#39;s S-1, Steve Huffman offers a look at the site&#39;s beginnings without naming cofounder Alexis Ohanian, reflecting their schism during the BLM protests &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240224/p8#a240224p8)
  - [7 Best Theragun-Alternative Massage Guns &lpar;2024&rpar;: Portable, Affordable, and Heat Therapy](https://www.wired.com/gallery/best-massage-guns/)
  - [How to control Apple Vision Pro by making sounds](https://appleinsider.com/articles/24/02/24/how-to-control-apple-vision-pro-by-making-sounds?utm_medium=rss)
- - [FTX agrees to sell FTX Europe back to its founders for $32.7M, drops a lawsuit seeking back $323M it had spent to acquire the startup originally called DA AG &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240224/p7#a240224p7)
- - [The Atlantic Diet: Why Eating Local, Whole Foods May Improve Your Health     - CNET](https://www.cnet.com/health/nutrition/atlantic-diet-secrets-why-eating-local-whole-foods-may-improve-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTX agrees to sell FTX Europe back to its founders for $32.7M, drops a lawsuit seeking back $323M it had spent to acquire the startup originally called DA AG &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240224/p7#a240224p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

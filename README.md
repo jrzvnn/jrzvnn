@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring stops selling the Ring Car Cam, its first car dashboard camera, blaming &quot;ongoing delays&quot;, after launching the product in January 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240223/p24#a240223p24)
+ - [The US DOE says it will suspend its mandatory survey of energy use by crypto miners, following a lawsuit by bitcoin miner Riot Platforms and an industry group &lpar;Reuters&rpar;](http://www.techmeme.com/240223/p23#a240223p23)
  - [Odysseus Marks the First US Moon Landing in More Than 50 Years](https://www.wired.com/story/odysseus-moon-landing-lunar-nasa-intuitive-machines/)
  - [Ring stops selling its Ring Car Cam dash cam](https://www.theverge.com/2024/2/23/24081686/ring-stops-selling-ring-car-cam-dash-cam)
- - [Best PlayStation Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
- - [When does a journalist become a hacker?](https://www.theverge.com/2024/2/23/24081656/tim-burke-journalism-hacking-cfaa)
- - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)<!-- TECH:END -->
+ - [Best PlayStation Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

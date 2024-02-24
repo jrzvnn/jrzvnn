@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
  - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 💣 [Happened for real](http://9gag.com/gag/aKE0LM1)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)<!-- MEMES:END -->
+ - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 ---
 

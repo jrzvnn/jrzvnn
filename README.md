@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Ring stops selling the Ring Car Cam, its first car dashboard camera, blaming &quot;ongoing delays&quot;, after launching the product in January 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240223/p24#a240223p24)
  - [The US DOE says it will suspend its mandatory survey of energy use by crypto miners, following a lawsuit by bitcoin miner Riot Platforms and an industry group &lpar;Reuters&rpar;](http://www.techmeme.com/240223/p23#a240223p23)
- - [iPhone 14 Deals: Shop Now for Free Phone with Trade-In, New Line and More     - CNET](https://www.cnet.com/deals/best-iphone-14-deals/#ftag=CAD590a51e)
  - [Odysseus Marks the First US Moon Landing in More Than 50 Years](https://www.wired.com/story/odysseus-moon-landing-lunar-nasa-intuitive-machines/)
- - [Best White Noise Machines for 2024     - CNET](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring stops selling its Ring Car Cam dash cam](https://www.theverge.com/2024/2/23/24081686/ring-stops-selling-ring-car-cam-dash-cam)
+ - [Best PlayStation Deals: Save Up to $200 on Consoles, Games and Accessories     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

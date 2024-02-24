@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
- - 😝 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
- - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 👉 [Japan, again](http://9gag.com/gag/a1Pzqj2)<!-- MEMES:END -->
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 💣 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
+ - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confucious cat](http://9gag.com/gag/aYV8n17)
- - 😝 [Celebrities at the gym](http://9gag.com/gag/aPgNnxg)
- - 💣 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)
- - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)<!-- MEMES:END -->
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)
+ - 💣 [Old dad joke](http://9gag.com/gag/aKE0NgZ)
+ - 😝 [Hey Google, create one apple. Google: sure, here&#39;s two watermelons](http://9gag.com/gag/aZDAoNz)
+ - 👉 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)<!-- MEMES:END -->
 
 ---
 

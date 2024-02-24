@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
- - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
+ - 😝 [Celebrities at the gym](http://9gag.com/gag/aPgNnxg)
+ - 💣 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Truth is they don&#39;t really care about your voice](http://9gag.com/gag/a1PzxrG)<!-- MEMES:END -->
+ - 👉 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)<!-- MEMES:END -->
 
 ---
 

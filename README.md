@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX agrees to sell FTX Europe back to its founders for $32.7M, drops a lawsuit seeking back $323M it had spent to acquire the startup originally called DA AG &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240224/p7#a240224p7)
+ - [Bournemouth vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/bournemouth-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [It’s Apparently Easy to Crack the Apple Vision Pro&#39;s Front Screen](https://www.wired.com/story/apple-vision-pro-crack-in-front-screen/)
  - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)
- - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)
- - [A Mysterious Leak Exposed Chinese Hacking Secrets](https://www.wired.com/story/isoon-china-hack-for-hire-leak/)
- - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)<!-- TECH:END -->
+ - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

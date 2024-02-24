@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)
- - 😝 [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
- - 💣 [Old dad joke](http://9gag.com/gag/aKE0NgZ)
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 💣 [Elden ring : Shadow of the horny](http://9gag.com/gag/aMEROOR)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Chicken or egg?](http://9gag.com/gag/a9qQVy6)<!-- MEMES:END -->
+ - 👉 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
 
 ---
 

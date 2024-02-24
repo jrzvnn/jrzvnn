@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 💣 [For context, 200k\u20ac is worth 12 years and 6 month of minimum wage in France.](http://9gag.com/gag/a6qvp9b)
+ - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
+ - 😝 [Morrreeee. MOOOOOORRRRRRREEEEE !!!!](http://9gag.com/gag/aPgNpvn)
+ - 💣 [No title there.](http://9gag.com/gag/adPZbgM)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 👉 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
- - 💣 [Wilson\u2019s airless basketball prototype](http://9gag.com/gag/aNwxjB0)
+ - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Accident on the highway](http://9gag.com/gag/az2NDEN)<!-- MEMES:END -->
+ - 👉 [Truth is they don&#39;t really care about your voice](http://9gag.com/gag/a1PzxrG)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
- - 😝 [Morrreeee. MOOOOOORRRRRRREEEEE !!!!](http://9gag.com/gag/aPgNpvn)
- - 💣 [No title there.](http://9gag.com/gag/adPZbgM)
+ - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
+ - 😝 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agoMKeW)<!-- MEMES:END -->
+ - 👉 [Whamen](http://9gag.com/gag/a04AM3Z)<!-- MEMES:END -->
 
 ---
 

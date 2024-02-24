@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When does a journalist become a hacker?](https://www.theverge.com/2024/2/23/24081656/tim-burke-journalism-hacking-cfaa)
  - [Automattic CEO Matt Mullenweg sparred with a trans Tumblr user over an account ban, revealing her side blog names, which are private, sparking community outcry &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240223/p22#a240223p22)
+ - [Best Chromebook Deals: Up to $350 off Acer, HP, Samsung and More     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
  - [Amazon launches weekend Apple sale, dropping prices to as low as $24](https://appleinsider.com/articles/24/02/23/amazon-launches-weekend-apple-sale-dropping-prices-to-as-low-as-24?utm_medium=rss)
- - [A former Gizmodo writer changed his name to ‘Slackbot’ and stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
- - [The best tech gifts for under $25](https://www.theverge.com/23156368/best-cheap-tech-gadgets-under-25)
- - [Best Apple Watch Deals: Save Big on Ultra 2, SE 2 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Earbuds of 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

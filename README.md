@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
+ - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 ---
 

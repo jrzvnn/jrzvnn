@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Frequent Heavy Rain Has Made California a Mudslide Hotspot](https://www.wired.com/story/climate-change-rain-wetter-world-mudslides/)
  - [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
- - [Here&#39;s Why a Home Landline Phone Is a Good Idea, Even in 2024     - CNET](https://www.cnet.com/tech/mobile/heres-why-a-home-landline-phone-is-a-good-idea-even-in-2024/#ftag=CAD590a51e)
- - [Did You Know Siri Could Do This?     - CNET](https://www.cnet.com/tech/mobile/did-you-know-siri-could-do-this/#ftag=CAD590a51e)
- - [Man United vs. Fulham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-fulham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)
+ - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/weekend-deals-feb-24-2024/)
+ - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
- - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
- - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - 👉 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)<!-- MEMES:END -->
+ - 😝 [On-duty cop arrested for shoplifting $140 shoes while in uniform.](http://9gag.com/gag/anzp8rq)
+ - 😝 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)
+ - 💣 [No Fs given.](http://9gag.com/gag/ap9yj09)
+ - 😝 [Onlyfans a real job](http://9gag.com/gag/a2KB90Y)
+ - 👉 [Hey Google, create one apple. Google: sure, here&#39;s two watermelons](http://9gag.com/gag/aZDAoNz)<!-- MEMES:END -->
 
 ---
 

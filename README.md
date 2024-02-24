@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 💣 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
- - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
+ - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - 👉 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)<!-- MEMES:END -->
 
 ---
 

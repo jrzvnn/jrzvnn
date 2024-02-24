@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
  - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
  - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 👉 [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)<!-- MEMES:END -->
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
 
 ---
 

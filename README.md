@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Broadcom is nearing a $3.8B deal to sell its end-user computing unit to private equity firm KKR &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240224/p12#a240224p12)
+ - [A Vending Machine Error Revealed Secret Face Recognition Tech](https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/)
+ - [Galaxy S22 Deals: Get Up to $750 Off With Carrier Plans and Trade-In     - CNET](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
  - [Reddit&#39;s S-1 shows how dependent the site is on the unpaid labor of 60K active daily moderators and the whims of its users and subreddits like r/WallStreetBets &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240224/p11#a240224p11)
- - [Save $50 on the Pixel Watch 2     - CNET](https://www.cnet.com/deals/save-50-on-the-pixel-watch-2/#ftag=CAD590a51e)
- - [Heart Health: Tips and Recipes to Help You Master the Mediterranean Diet     - CNET](https://www.cnet.com/health/nutrition/heart-health-and-the-mediterranean-diet/#ftag=CAD590a51e)
- - [How tensions between past and present leaders of Sequoia, which had a reputation for quiet competence, have spilled into the open with the Klarna boardroom spat &lpar;Financial Times&rpar;](http://www.techmeme.com/240224/p10#a240224p10)
- - [Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year](https://www.theverge.com/2024/2/24/24082072/sergey-brin-google-2023-plane-crash-lawsuit)<!-- TECH:END -->
+ - [Save $50 on the Pixel Watch 2     - CNET](https://www.cnet.com/deals/save-50-on-the-pixel-watch-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

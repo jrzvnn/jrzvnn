@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 💣 [Women](http://9gag.com/gag/aA0Wv8d)
  - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 👉 [18 lashes](http://9gag.com/gag/a2KBOBD)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 👉 [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)<!-- MEMES:END -->
 
 ---
 

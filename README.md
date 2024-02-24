@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 💣 [Definitely Not A Safe Space](http://9gag.com/gag/ajVbKQR)
+ - 😝 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 💣 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)<!-- MEMES:END -->
+ - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
 
 ---
 

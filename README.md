@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)
  - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/weekend-deals-feb-24-2024/)
  - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)
- - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)
- - [What You Need to Know About Tinder&#39;s New Verification Process     - CNET](https://www.cnet.com/tech/services-and-software/what-you-need-to-know-about-tinders-new-verification-process/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker Nebula Mars 3 Air Review: The New Portable Projector to Beat     - CNET](https://www.cnet.com/tech/home-entertainment/anker-nebula-mars-3-air-review-the-new-portable-projector-to-beat/#ftag=CAD590a51e)
+ - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

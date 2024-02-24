@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wilson\u2019s airless basketball prototype](http://9gag.com/gag/aNwxjB0)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
+ - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 👉 [Japan, again](http://9gag.com/gag/a1Pzqj2)<!-- MEMES:END -->
 
 ---
 

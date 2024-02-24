@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New York City-based Fabric, which uses AI to automate clinical and administrative work in health care, raised a $60M Series A led by General Catalyst &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/240223/p26#a240223p26)
- - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
  - [Three years after Spotify&#39;s original announcement that it would launch a higher-quality audio subscription, the company has yet to roll out the feature &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240223/p25#a240223p25)
  - [Best Sonos Speakers for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-sonos-speakers/#ftag=CAD590a51e)
- - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $80 on These Top-Rated Earbuds     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $80 on These Top-Rated Earbuds     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
+ - [How to Watch &#39;The Walking Dead: The Ones Who Live&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-walking-dead-the-ones-who-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

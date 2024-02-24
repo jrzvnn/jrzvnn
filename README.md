@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi Redmi Note 13 Pro+ Review: Attractive and Affordable](https://www.wired.com/review/xiaomi-redmi-note-13-pro-plus/)
  - [The future of phones depends on the future of apps](https://www.theverge.com/2024/2/24/24078970/mwc-2024-smartphones-apps-ai-what-to-expect)
  - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
  - [Global cumulative shipments of 5G smartphones crossed 2B in less than five years, a faster adoption rate than 3G or 4G; Apple and Samsung together shipped 1B &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240224/p5#a240224p5)
- - [TSMC inaugurates its first plant in Kumamoto, Japan, paving the way to make smartphone and auto-related chips for Sony and Renesas by the end of 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240224/p4#a240224p4)
- - [The US FTC claims in an administrative complaint that H&amp;R Block steered customers to higher-cost online tax filing products and made them difficult to downgrade &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240224/p3#a240224p3)<!-- TECH:END -->
+ - [TSMC inaugurates its first plant in Kumamoto, Japan, paving the way to make smartphone and auto-related chips for Sony and Renesas by the end of 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240224/p4#a240224p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

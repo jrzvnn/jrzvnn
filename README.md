@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joe Biden Joined TikTok Because He Had To](https://www.wired.com/story/joe-biden-tiktok-campaign-comments/)
  - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)
  - [Xiaomi Redmi Note 13 Pro+ Review: Attractive and Affordable](https://www.wired.com/review/xiaomi-redmi-note-13-pro-plus/)
  - [The future of phones depends on the future of apps](https://www.theverge.com/2024/2/24/24078970/mwc-2024-smartphones-apps-ai-what-to-expect)
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
- - [Global cumulative shipments of 5G smartphones crossed 2B in less than five years, a faster adoption rate than 3G or 4G; Apple and Samsung together shipped 1B &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240224/p5#a240224p5)<!-- TECH:END -->
+ - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

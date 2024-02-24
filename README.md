@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring stops selling its Car Cam dash cam](https://www.theverge.com/2024/2/23/24081686/ring-stops-selling-ring-car-cam-dash-cam)
- - [How some news accounts on Instagram, including Mo News and Jessica Yellin, are gaining popularity even as the platform tries de-emphasizing political content &lpar;New York Times&rpar;](http://www.techmeme.com/240224/p6#a240224p6)
- - [Frequent Heavy Rain Has Made California a Mudslide Hotspot](https://www.wired.com/story/climate-change-rain-wetter-world-mudslides/)
- - [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
- - [Here&#39;s Why a Home Landline Phone Is a Good Idea, Even in 2024     - CNET](https://www.cnet.com/tech/mobile/heres-why-a-home-landline-phone-is-a-good-idea-even-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)
+ - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)
+ - [A Mysterious Leak Exposed Chinese Hacking Secrets](https://www.wired.com/story/isoon-china-hack-for-hire-leak/)
+ - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)
+ - [David Lynch’s presence has been haunting video games for decades](https://www.theverge.com/23906355/david-lynch-video-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

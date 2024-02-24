@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
- - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 👉 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)<!-- MEMES:END -->
 
 ---
 

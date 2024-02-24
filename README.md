@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [Tyrese](http://9gag.com/gag/a04AwWd)<!-- MEMES:END -->
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - 😝 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
+ - 👉 [Japan, again](http://9gag.com/gag/a1Pzqj2)<!-- MEMES:END -->
 
 ---
 

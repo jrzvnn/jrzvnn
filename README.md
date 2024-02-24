@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
  - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [Leave your cursed Images with Me please, you don&#39;t need them anymore](http://9gag.com/gag/aRE5R87)
  - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)<!-- MEMES:END -->
+ - 😝 [Whamen](http://9gag.com/gag/a04AM3Z)
+ - 👉 [Japan, again](http://9gag.com/gag/a1Pzqj2)<!-- MEMES:END -->
 
 ---
 

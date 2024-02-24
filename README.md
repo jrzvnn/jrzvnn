@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Reddit&#39;s S-1, Steve Huffman offers a look at the site&#39;s beginnings without naming cofounder Alexis Ohanian, reflecting their schism during the BLM protests &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240224/p8#a240224p8)
  - [7 Best Theragun-Alternative Massage Guns &lpar;2024&rpar;: Portable, Affordable, and Heat Therapy](https://www.wired.com/gallery/best-massage-guns/)
  - [How to control Apple Vision Pro by making sounds](https://appleinsider.com/articles/24/02/24/how-to-control-apple-vision-pro-by-making-sounds?utm_medium=rss)
  - [FTX agrees to sell FTX Europe back to its founders for $32.7M, drops a lawsuit seeking back $323M it had spent to acquire the startup originally called DA AG &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/240224/p7#a240224p7)
- - [The Atlantic Diet: Why Eating Local, Whole Foods May Improve Your Health     - CNET](https://www.cnet.com/health/nutrition/atlantic-diet-secrets-why-eating-local-whole-foods-may-improve-your-health/#ftag=CAD590a51e)
- - [Bournemouth vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/bournemouth-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Atlantic Diet: Why Eating Local, Whole Foods May Improve Your Health     - CNET](https://www.cnet.com/health/nutrition/atlantic-diet-secrets-why-eating-local-whole-foods-may-improve-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

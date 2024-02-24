@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Apparently Easy to Crack the Apple Vision Pro&#39;s Front Screen](https://www.wired.com/story/apple-vision-pro-crack-in-front-screen/)
  - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)
  - [Victrola’s Sonos-ready turntable is down to an unbeatable price](https://www.theverge.com/2024/2/24/24081009/victrola-stream-onyx-turntable-logitech-g903-lightspeed-mouse-apple-pencil-deal-sale)
  - [A Mysterious Leak Exposed Chinese Hacking Secrets](https://www.wired.com/story/isoon-china-hack-for-hire-leak/)
- - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)
- - [David Lynch’s presence has been haunting video games for decades](https://www.theverge.com/23906355/david-lynch-video-games)<!-- TECH:END -->
+ - [The direct influence of Twin Peaks on Zelda](https://www.theverge.com/24078662/twin-peaks-zelda-links-awakening-influence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

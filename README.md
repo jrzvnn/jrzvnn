@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
- - 😝 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 💣 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
+ - 😝 [Left Liberals rejoice, it looks like bringing the radicals to live with you was the right call.](http://9gag.com/gag/aA0WZ90)
+ - 💣 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [It\u2019s always nice to learn another language](http://9gag.com/gag/a3Z92e3)<!-- MEMES:END -->
+ - 👉 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)<!-- MEMES:END -->
 
 ---
 

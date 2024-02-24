@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your boss shows up](http://9gag.com/gag/aNwxjm0)
- - 😝 [Women](http://9gag.com/gag/aA0Wv8d)
- - 💣 [Meanwhile in New Zealand](http://9gag.com/gag/aoKrnxw)
+ - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 💣 [Whamen](http://9gag.com/gag/a04AM3Z)
  - 😝 [A destined battle between father and son \ud83d\udd25, who would come out on top between Jin and his father Kazuya? Get ready for the legendary battle in TEKKEN 8 \ud83e\udd4a!](http://9gag.com/gag/aEqroDN)
- - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
+ - 👉 [Or it has boats on his legs](http://9gag.com/gag/aL1YdZv)<!-- MEMES:END -->
 
 ---
 

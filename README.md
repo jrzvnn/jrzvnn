@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On-duty cop arrested for shoplifting $140 shoes while in uniform.](http://9gag.com/gag/anzp8rq)
- - 😝 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)
- - 💣 [No Fs given.](http://9gag.com/gag/ap9yj09)
- - 😝 [Onlyfans a real job](http://9gag.com/gag/a2KB90Y)
- - 👉 [Hey Google, create one apple. Google: sure, here&#39;s two watermelons](http://9gag.com/gag/aZDAoNz)<!-- MEMES:END -->
+ - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
+ - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 👉 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)<!-- MEMES:END -->
 
 ---
 

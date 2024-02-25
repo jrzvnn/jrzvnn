@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)
  - [Apple plans UI updates for iOS 18, but it won&#39;t look like visionOS](https://appleinsider.com/articles/24/02/25/apple-plans-ui-updates-for-ios-18-but-it-wont-look-like-visionos?utm_medium=rss)
+ - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)
  - [Apple smart ring, glasses, camera-equipped AirPods rumored in wearables push](https://appleinsider.com/articles/24/02/25/apple-smart-ring-glasses-camera-equipped-airpods-rumored-in-wearables-push?utm_medium=rss)
  - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
  - [Flitescooter eFoil First Ride: This $13K Hydrofoil Meant for Amateurs Is a Rough Ride](https://www.wired.com/story/flitescooter-electric-hydrofoil-first-ride/)<!-- TECH:END -->

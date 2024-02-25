@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Honor announces global availability of Magic 6 Pro with a 6.8&quot; 120Hz OLED display, Snapdragon 8 Gen 3, and 5,600mAh battery, set to retail for &amp;euro;1,299 in Europe &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p6#a240225p6)
+ - [Xiaomi&#39;s 3 New Smartwatches Boast Better Sport Tracking For Low Prices     - CNET](https://www.cnet.com/tech/mobile/xiaomis-three-new-smartwatches-boast-better-sport-tracking-for-low-prices/#ftag=CAD590a51e)
+ - [Xiaomi 14 Ultra Tempts Photographers With a 1-Inch Camera Sensor, Leica Glass     - CNET](https://www.cnet.com/tech/mobile/xiaomi-14-ultra-tempts-photographers-with-a-1-inch-camera-sensor-leica-glass/#ftag=CAD590a51e)
  - [7 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
- - [The Xiaomi 14 and 14 Ultra are going global — minus the US](https://www.theverge.com/2024/2/25/24081932/xiaomi-14-ultra-global-europe-launch)
- - [AT&amp;T Will Give $5 Account Credits After Thursday&#39;s Network Outage     - CNET](https://www.cnet.com/tech/mobile/at-t-will-give-5-account-credits-after-thursdays-network-outage/#ftag=CAD590a51e)
- - [Apple Vision Pro is unsurprisingly expensive to produce](https://appleinsider.com/articles/24/02/25/apple-vision-pro-is-unsurprisingly-expensive-to-produce?utm_medium=rss)<!-- TECH:END -->
+ - [The Xiaomi 14 and 14 Ultra are going global — minus the US](https://www.theverge.com/2024/2/25/24081932/xiaomi-14-ultra-global-europe-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fastest fingers in the east](http://9gag.com/gag/amAjd32)
- - 😝 [What kind of kid have you rised.](http://9gag.com/gag/anzpV00)
- - 💣 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
+ - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 💣 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

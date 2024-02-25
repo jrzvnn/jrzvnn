@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
- - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
- - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 💣 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
+ - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
  - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---

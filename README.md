@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
  - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
  - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 👉 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)<!-- MEMES:END -->
+ - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 😝 [40, actually](http://9gag.com/gag/ajVbyD8)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

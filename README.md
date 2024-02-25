@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
+ - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
  - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 💣 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)<!-- MEMES:END -->
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

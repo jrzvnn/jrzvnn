@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Xiaomi 14 and 14 Ultra are going global — minus the US](https://www.theverge.com/2024/2/25/24081932/xiaomi-14-ultra-global-europe-launch)
+ - [AT&amp;T Will Give $5 Account Credits After Thursday&#39;s Network Outage     - CNET](https://www.cnet.com/tech/mobile/at-t-will-give-5-account-credits-after-thursdays-network-outage/#ftag=CAD590a51e)
  - [Apple Vision Pro is unsurprisingly expensive to produce](https://appleinsider.com/articles/24/02/25/apple-vision-pro-is-unsurprisingly-expensive-to-produce?utm_medium=rss)
  - [Sources: Apple has considered a fitness ring, smart glasses, and adding cameras and more advanced AI to AirPods, but is not actively developing these devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240225/p5#a240225p5)
- - [Apple TV+ &#39;Foundation&#39; leadership rocked after budget drama](https://appleinsider.com/articles/24/02/25/apple-tv-foundation-leadership-rocked-after-budget-drama?utm_medium=rss)
- - [Xiaomi 14 Review: Solid but Uninspiring](https://www.wired.com/review/xiaomi-14/)
- - [The smart kitchen is a great idea — and a strange reality](https://www.theverge.com/24080158/smart-kitchen-appliances-bluetooth-vergecast)<!-- TECH:END -->
+ - [Best Duvet Covers for 2024     - CNET](https://www.cnet.com/health/sleep/best-duvet-covers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
- - 💣 [Tyrese](http://9gag.com/gag/a04AwWd)
  - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
+ - 😝 [No Fs given.](http://9gag.com/gag/ap9yj09)
+ - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
+ - 👉 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)<!-- MEMES:END -->
 
 ---
 

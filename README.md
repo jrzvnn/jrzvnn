@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 😝 [Painting fail](http://9gag.com/gag/abvPDGE)
- - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
+ - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 💣 [Ah yes, Spain](http://9gag.com/gag/aGE3rvZ)
+ - 😝 [A Meme origin](http://9gag.com/gag/a04AgdL)
+ - 👉 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)<!-- MEMES:END -->
 
 ---
 

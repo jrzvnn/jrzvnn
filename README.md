@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
- - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 👉 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)<!-- MEMES:END -->
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

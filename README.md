@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Fs given.](http://9gag.com/gag/ap9yj09)
- - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 💣 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 😝 [He did warn her](http://9gag.com/gag/ay2gmnp)
+ - 💣 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
  - 👉 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)<!-- MEMES:END -->
 
 ---

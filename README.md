@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened for real](http://9gag.com/gag/aKE0LM1)
- - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 👉 [Japan, again](http://9gag.com/gag/a1Pzqj2)<!-- MEMES:END -->
+ - 😝 [Wtf is this shit?](http://9gag.com/gag/aPgNdVn)
+ - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 💣 [Beats most fashion shows](http://9gag.com/gag/ajVb30Q)
+ - 😝 [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)
+ - 👉 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)<!-- MEMES:END -->
 
 ---
 

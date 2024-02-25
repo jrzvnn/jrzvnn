@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 28,000mAh battery has a phone in it](https://www.theverge.com/2024/2/25/24082954/avenir-telecom-energizer-hard-case-p28k-28000mah-smartphone)
+ - [A year after EU governments moved to restrict TikTok over security concerns, politicians are flocking to the app to attract the youth vote in upcoming elections &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240225/p8#a240225p8)
+ - [Now there’s a 28,000mAh battery with a phone in it](https://www.theverge.com/2024/2/25/24082954/avenir-telecom-energizer-hard-case-p28k-28000mah-smartphone)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
  - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)
- - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)
- - [If You Drive an Electric Vehicle, Your Electricity Plan Matters     - CNET](https://www.cnet.com/how-to/if-you-drive-an-electric-vehicle-your-electricity-plan-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 😝 [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
  - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
+ - 👉 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)<!-- MEMES:END -->
 
 ---
 

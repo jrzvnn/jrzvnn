@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A year after EU governments moved to restrict TikTok over security concerns, politicians are flocking to the app to attract the youth vote in upcoming elections &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240225/p8#a240225p8)
  - [Now there’s a 28,000mAh battery with a phone in it](https://www.theverge.com/2024/2/25/24082954/avenir-telecom-energizer-hard-case-p28k-28000mah-smartphone)
+ - [The Xiaomi 14 Ultra Has a Posh, Elegant Design and I&#39;m a Fan     - CNET](https://www.cnet.com/pictures/the-xiaomi-14-ultra-has-a-posh-elegant-design-and-im-a-fan/#ftag=CAD590a51e)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)
- - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

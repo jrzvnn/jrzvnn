@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If You Drive an Electric Vehicle, Your Electricity Plan Matters     - CNET](https://www.cnet.com/how-to/if-you-drive-an-electric-vehicle-your-electricity-plan-matters/#ftag=CAD590a51e)
+ - [Starlink Internet Review: Low Satellites, High Pricing     - CNET](https://www.cnet.com/home/internet/starlink-internet-review/#ftag=CAD590a51e)
  - [&#39;Killers of the Flower Moon&#39; snags one SAG Award for Apple TV+](https://appleinsider.com/articles/24/02/25/killers-of-the-flower-moon-snags-one-sag-award-for-apple-tv?utm_medium=rss)
  - [Xiaomi launches Xiaomi 14 Ultra with a 6.73&quot; LTPO 120Hz display, Snapdragon 8 Gen 3, and 50MP camera with a 1-inch-type Sony LYT-900 sensor, starting at &amp;euro;1,499 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240225/p7#a240225p7)
- - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)
- - [What Size Home Battery Do I Need?     - CNET](https://www.cnet.com/home/energy-and-utilities/what-size-home-battery-do-i-need/#ftag=CAD590a51e)
- - [12 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
+ - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

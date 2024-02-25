@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to Elon Musk, Rep. Mike Gallagher says SpaceX may be in breach of DOD contracts after sources say Starshield is inactive around Taiwan for US troops &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240224/p14#a240224p14)
  - [The latest ‘Woj bomb’ was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)
  - [Filing: Google said Microsoft offered to sell Bing to Apple in 2018, but Eddy Cue said Microsoft had search quality issues and was investing less than Google &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240224/p13#a240224p13)
  - [7 Best Space Heaters to Warm Your Home in 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [How to restore an Apple Silicon Mac using Configurator](https://appleinsider.com/inside/apple-silicon/tips/how-to-restore-an-apple-silicon-mac-using-configurator?utm_medium=rss)
- - [Best AirPods Deals: Save Up to $45 on Beats, AirPods 2 and AirPods Max     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to restore an Apple Silicon Mac using Configurator](https://appleinsider.com/inside/apple-silicon/tips/how-to-restore-an-apple-silicon-mac-using-configurator?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

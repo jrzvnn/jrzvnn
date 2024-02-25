@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This 28,000mAh battery has a phone in it](https://www.theverge.com/2024/2/25/24082954/avenir-telecom-energizer-hard-case-p28k-28000mah-smartphone)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [If You Drive an Electric Vehicle, Your Electricity Plan Matters     - CNET](https://www.cnet.com/how-to/if-you-drive-an-electric-vehicle-your-electricity-plan-matters/#ftag=CAD590a51e)
- - [Starlink Internet Review: Low Satellites, High Pricing     - CNET](https://www.cnet.com/home/internet/starlink-internet-review/#ftag=CAD590a51e)
- - [&#39;Killers of the Flower Moon&#39; snags one SAG Award for Apple TV+](https://appleinsider.com/articles/24/02/25/killers-of-the-flower-moon-snags-one-sag-award-for-apple-tv?utm_medium=rss)
- - [Xiaomi launches Xiaomi 14 Ultra with a 6.73&quot; LTPO 120Hz display, Snapdragon 8 Gen 3, and 50MP camera with a 1-inch-type Sony LYT-900 sensor, starting at &amp;euro;1,499 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240225/p7#a240225p7)<!-- TECH:END -->
+ - [Samsung Galaxy Ring&#39;s AI, Smart Home Integrations to Debut at MWC     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-to-debut-at-mwc/#ftag=CAD590a51e)
+ - [Why the Cost of Getting Solar Panels Is So Unpredictable     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-getting-solar-panels-is-so-unpredictable/#ftag=CAD590a51e)
+ - [If You Drive an Electric Vehicle, Your Electricity Plan Matters     - CNET](https://www.cnet.com/how-to/if-you-drive-an-electric-vehicle-your-electricity-plan-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

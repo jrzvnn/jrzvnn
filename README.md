@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
  - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 👉 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
+ - 💣 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 👉 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)<!-- MEMES:END -->
 
 ---
 

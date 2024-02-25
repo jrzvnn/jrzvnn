@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Killers of the Flower Moon&#39; snags one SAG Award for Apple TV+](https://appleinsider.com/articles/24/02/25/killers-of-the-flower-moon-snags-one-sag-award-for-apple-tv?utm_medium=rss)
  - [Xiaomi launches Xiaomi 14 Ultra with a 6.73&quot; LTPO 120Hz display, Snapdragon 8 Gen 3, and 50MP camera with a 1-inch-type Sony LYT-900 sensor, starting at &amp;euro;1,499 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240225/p7#a240225p7)
  - [12 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
  - [Apple’s wearable ideas include smart glasses and cameras in your ears](https://www.theverge.com/2024/2/25/24082760/apple-smart-glasses-airpods-cameras-smart-ring)
- - [Honor announces global availability of Magic 6 Pro with a 6.8&quot; 120Hz OLED display, Snapdragon 8 Gen 3, and 5,600mAh battery, set to retail for &amp;euro;1,299 in Europe &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p6#a240225p6)
- - [Xiaomi&#39;s 3 New Smartwatches Boast Better Sport Tracking For Low Prices     - CNET](https://www.cnet.com/tech/mobile/xiaomis-three-new-smartwatches-boast-better-sport-tracking-for-low-prices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor announces global availability of Magic 6 Pro with a 6.8&quot; 120Hz OLED display, Snapdragon 8 Gen 3, and 5,600mAh battery, set to retail for &amp;euro;1,299 in Europe &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p6#a240225p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

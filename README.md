@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
  - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - 💣 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
  - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 👉 [Thats the pinnacle of f**king around and finding out](http://9gag.com/gag/agoMjev)<!-- MEMES:END -->
+ - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
 
 ---
 

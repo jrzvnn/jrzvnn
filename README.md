@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this shit?](http://9gag.com/gag/aPgNdVn)
- - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 💣 [Beats most fashion shows](http://9gag.com/gag/ajVb30Q)
- - 😝 [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)
- - 👉 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)<!-- MEMES:END -->
+ - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 💣 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 👉 [Thats the pinnacle of f**king around and finding out](http://9gag.com/gag/agoMjev)<!-- MEMES:END -->
 
 ---
 

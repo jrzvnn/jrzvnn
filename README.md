@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
  - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 😝 [Thou hath turnt me on fair witch\u2026](http://9gag.com/gag/abvPdX8)
- - 💣 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)<!-- MEMES:END -->
+ - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 👉 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)<!-- MEMES:END -->
 
 ---
 

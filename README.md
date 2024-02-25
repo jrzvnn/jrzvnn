@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: the all-time, total amount invested in crypto and blockchain-related companies crosses $90B, with ~$1.3B invested across 230+ deals so far in 2024 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240225/p2#a240225p2)
  - [What to expect at MWC 2024: smartphone launches from Xiaomi and others, OnePlus Watch 2, Brain.ai&#39;s &quot;app-less phone&quot; and other experimental concepts, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p1#a240225p1)
  - [Japan plans to give up to $4.86B more in subsidies to help TSMC build a second chip fabrication plant in Kumamoto &lpar;Reuters&rpar;](http://www.techmeme.com/240224/p16#a240224p16)
  - [PermitFlow, which develops end-to-end workflow and automation software for construction permitting, raised a $31M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240224/p15#a240224p15)
- - [In a letter to Elon Musk, Rep. Mike Gallagher says SpaceX may be in breach of DOD contracts after sources say Starshield is inactive around Taiwan for US troops &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240224/p14#a240224p14)
- - [The latest ‘Woj bomb’ was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)<!-- TECH:END -->
+ - [In a letter to Elon Musk, Rep. Mike Gallagher says SpaceX may be in breach of DOD contracts after sources say Starshield is inactive around Taiwan for US troops &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240224/p14#a240224p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

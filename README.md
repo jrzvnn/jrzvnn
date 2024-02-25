@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Spotlight&#39;s metadata file utilities in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-spotlights-metadata-file-utilities-in-macos?utm_medium=rss)
  - [Ford stops shipping 2024 F-150 Lightnings for ‘quality checks’](https://www.theverge.com/2024/2/25/24082998/ford-f-150-lightning-2024-stop-ship-quality-check)
  - [A year after EU governments moved to restrict TikTok over security concerns, politicians are flocking to the app to attract the youth vote in upcoming elections &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240225/p8#a240225p8)
  - [Now there’s a 28,000mAh battery with a phone in it](https://www.theverge.com/2024/2/25/24082954/avenir-telecom-energizer-hard-case-p28k-28000mah-smartphone)
- - [The Xiaomi 14 Ultra Has a Posh, Elegant Design and I&#39;m a Fan     - CNET](https://www.cnet.com/pictures/the-xiaomi-14-ultra-has-a-posh-elegant-design-and-im-a-fan/#ftag=CAD590a51e)
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [The Xiaomi 14 Ultra Has a Posh, Elegant Design and I&#39;m a Fan     - CNET](https://www.cnet.com/pictures/the-xiaomi-14-ultra-has-a-posh-elegant-design-and-im-a-fan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

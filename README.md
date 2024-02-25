@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at MWC 2024: smartphone launches from Xiaomi and others, OnePlus Watch 2, Brain.ai&#39;s &quot;app-less phone&quot; and other experimental concepts, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p1#a240225p1)
  - [Japan plans to give up to $4.86B more in subsidies to help TSMC build a second chip fabrication plant in Kumamoto &lpar;Reuters&rpar;](http://www.techmeme.com/240224/p16#a240224p16)
  - [PermitFlow, which develops end-to-end workflow and automation software for construction permitting, raised a $31M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240224/p15#a240224p15)
  - [In a letter to Elon Musk, Rep. Mike Gallagher says SpaceX may be in breach of DOD contracts after sources say Starshield is inactive around Taiwan for US troops &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/240224/p14#a240224p14)
- - [The latest ‘Woj bomb’ was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)
- - [Filing: Google said Microsoft offered to sell Bing to Apple in 2018, but Eddy Cue said Microsoft had search quality issues and was investing less than Google &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240224/p13#a240224p13)<!-- TECH:END -->
+ - [The latest ‘Woj bomb’ was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

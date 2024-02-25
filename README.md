@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Honor announces global availability of Magic 6 Pro with a 6.8&quot; 120Hz OLED display, Snapdragon 8 Gen 3, and 5,600mAh battery, set to retail for &amp;euro;1,299 in Europe &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240225/p6#a240225p6)
  - [7 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
  - [The Xiaomi 14 and 14 Ultra are going global — minus the US](https://www.theverge.com/2024/2/25/24081932/xiaomi-14-ultra-global-europe-launch)
- - [Apple Vision Pro is unsurprisingly expensive to produce](https://appleinsider.com/articles/24/02/25/apple-vision-pro-is-unsurprisingly-expensive-to-produce?utm_medium=rss)
- - [Sources: Apple has considered a fitness ring, smart glasses, and adding cameras and more advanced AI to AirPods, but is not actively developing these devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240225/p5#a240225p5)<!-- TECH:END -->
+ - [AT&amp;T Will Give $5 Account Credits After Thursday&#39;s Network Outage     - CNET](https://www.cnet.com/tech/mobile/at-t-will-give-5-account-credits-after-thursdays-network-outage/#ftag=CAD590a51e)
+ - [Apple Vision Pro is unsurprisingly expensive to produce](https://appleinsider.com/articles/24/02/25/apple-vision-pro-is-unsurprisingly-expensive-to-produce?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

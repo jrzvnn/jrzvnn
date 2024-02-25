@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 😝 [He did warn her](http://9gag.com/gag/ay2gmnp)
- - 💣 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
+ - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 💣 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
  - 👉 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)<!-- MEMES:END -->
 
 ---

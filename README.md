@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Peering through Lenovo’s transparent laptop into a sci-fi future](https://www.theverge.com/24082244/lenovo-concept-transparent-laptop-mwc-2024-drawing-tablet)
  - [Lenovo worked with iFixit to make some ThinkPads easier to repair](https://www.theverge.com/2024/2/25/24081225/lenovo-thinkpad-thinkbook-laptops-mwc-2024)
- - [Best TV Deals: Save Up to $700 on Amazon FireTV, Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Snag Anker&#39;s Magnetic Charging Station for Just $90     - CNET](https://www.cnet.com/deals/snag-ankers-magnetic-charging-station-for-just-90/#ftag=CAD590a51e)
- - [How to use Spotlight&#39;s metadata file utilities in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-spotlights-metadata-file-utilities-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [How to use Spotlight&#39;s metadata file utilities in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-spotlights-metadata-file-utilities-in-macos?utm_medium=rss)
+ - [Ford stops shipping 2024 F-150 Lightnings for ‘quality checks’](https://www.theverge.com/2024/2/25/24082998/ford-f-150-lightning-2024-stop-ship-quality-check)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 💣 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
- - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
+ - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
+ - 💣 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
 
 ---
 

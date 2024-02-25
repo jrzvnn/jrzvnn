@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
- - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)<!-- MEMES:END -->
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 😝 [He did warn her](http://9gag.com/gag/ay2gmnp)
+ - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

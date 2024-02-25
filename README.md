@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could have started the search wars with Google in 2018](https://appleinsider.com/articles/24/02/25/microsoft-tried-to-sell-bing-to-apple-in-2018-but-failed?utm_medium=rss)
- - [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/)
- - [The ultra-complex card game that will take over your weekend](https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer)
- - [Omdia estimates that the bill of materials for Apple Vision Pro is $1,542, with both of the 1.25-inch Micro OLED displays from Sony costing about $228 each &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240225/p4#a240225p4)
- - [Your Barbie Dream Phone Is About to Become a Reality     - CNET](https://www.cnet.com/tech/mobile/your-barbie-dream-phone-is-about-to-become-a-reality/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple smart ring, glasses, camera-equipped AirPods rumored in wearables push](https://appleinsider.com/articles/24/02/25/apple-smart-ring-glasses-camera-equipped-airpods-rumored-in-wearables-push?utm_medium=rss)
+ - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
+ - [Flitescooter eFoil First Ride: This $13K Hydrofoil Meant for Amateurs Is a Rough Ride](https://www.wired.com/story/flitescooter-electric-hydrofoil-first-ride/)
+ - [Honor’s Magic 6 Pro launches internationally with AI-powered eye tracking on the way](https://www.theverge.com/2024/2/25/24079890/honor-magic-6-pro-price-release-date-specs-details)
+ - [Apple could have started the search wars with Google in 2018](https://appleinsider.com/articles/24/02/25/microsoft-tried-to-sell-bing-to-apple-in-2018-but-failed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

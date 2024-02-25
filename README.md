@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 😝 [You were \ud83d\ude02](http://9gag.com/gag/a1PzqO8)
  - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 💣 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
+ - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
 
 ---
 

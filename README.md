@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any fans of medieval times here?](http://9gag.com/gag/aQEwKjq)
  - 😝 [120m solo try in rugby](http://9gag.com/gag/aWGKAN4)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
  - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)
- - 👉 [Ah yes, Spain](http://9gag.com/gag/aGE3rvZ)<!-- MEMES:END -->
+ - 😝 [Ah yes, Spain](http://9gag.com/gag/aGE3rvZ)
+ - 👉 [A Meme origin](http://9gag.com/gag/a04AgdL)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
+ - 😝 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
+ - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
  - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 💣 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)<!-- MEMES:END -->
+ - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
 
 ---
 

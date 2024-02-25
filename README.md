@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Streets of LA at dusk.](http://9gag.com/gag/ap9yn98)
- - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 💣 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
- - 😝 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 💣 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
  - 👉 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)<!-- MEMES:END -->
 
 ---

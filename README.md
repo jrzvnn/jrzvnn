@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 😝 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
  - 💣 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 ---
 

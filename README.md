@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [Japan, again](http://9gag.com/gag/a1Pzqj2)
- - 👉 [One in the world](http://9gag.com/gag/aA0WqQR)<!-- MEMES:END -->
+ - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
+ - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
+ - 💣 [Sorry lady, this isn\u2019t Europe. Saudis in Mecca will have none of this Pali bs in Islam\u2019s holiest site.](http://9gag.com/gag/amAjKX2)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple has considered a fitness ring, smart glasses, and adding cameras and more advanced AI to AirPods, but is not actively developing these devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240225/p5#a240225p5)
  - [Apple TV+ &#39;Foundation&#39; leadership rocked after budget drama](https://appleinsider.com/articles/24/02/25/apple-tv-foundation-leadership-rocked-after-budget-drama?utm_medium=rss)
  - [Xiaomi 14 Review: Solid but Uninspiring](https://www.wired.com/review/xiaomi-14/)
  - [The smart kitchen is a great idea — and a strange reality](https://www.theverge.com/24080158/smart-kitchen-appliances-bluetooth-vergecast)
- - [Rumor: Apple working on iOS 18 redesign, but it won&#39;t look like visionOS](https://appleinsider.com/articles/24/02/25/apple-plans-ui-updates-for-ios-18-but-it-wont-look-like-visionos?utm_medium=rss)
- - [How to remove a third-party app&#39;s settings pane in iOS &amp; macOS](https://appleinsider.com/inside/ios/tips/how-to-remove-a-third-party-apps-settings-pane-in-ios-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Rumor: Apple working on iOS 18 redesign, but it won&#39;t look like visionOS](https://appleinsider.com/articles/24/02/25/apple-plans-ui-updates-for-ios-18-but-it-wont-look-like-visionos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

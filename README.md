@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
  - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 💣 [Sorry lady, this isn\u2019t Europe. Saudis in Mecca will have none of this Pali bs in Islam\u2019s holiest site.](http://9gag.com/gag/amAjKX2)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
+ - 💣 [That shirt is at its limit](http://9gag.com/gag/aOxgj9E)
+ - 😝 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)
  - 👉 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)<!-- MEMES:END -->
 
 ---

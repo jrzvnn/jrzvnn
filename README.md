@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You were \ud83d\ude02](http://9gag.com/gag/a1PzqO8)
- - 😝 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 💣 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
- - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 👉 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)<!-- MEMES:END -->
+ - 😝 [How would you have reacted if you were him?](http://9gag.com/gag/az2No8N)
+ - 😝 [American and French Firefighter Helmet Designs](http://9gag.com/gag/aeQoPVO)
+ - 💣 [I too put on my sexiest outfit to tell a guy we can&#39;t be together...](http://9gag.com/gag/ap9yz79)
+ - 😝 [Wind Rose. For those who didn\u2019t know. Every day the dwarves arise !!\u2026](http://9gag.com/gag/aYV8v37)
+ - 👉 [Beats most fashion shows](http://9gag.com/gag/ajVb30Q)<!-- MEMES:END -->
 
 ---
 

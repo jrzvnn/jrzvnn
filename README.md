@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 😝 [\u200e \u200e \u200e](http://9gag.com/gag/aBdqNmQ)
- - 💣 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
- - 😝 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
- - 👉 [I hope nobody post any in the comments](http://9gag.com/gag/aEqrEYM)<!-- MEMES:END -->
+ - 😝 [Motion Capture Walk](http://9gag.com/gag/aWGKPAx)
+ - 😝 [Vice is Shutdown Lets Celebrate !!!](http://9gag.com/gag/a4oexWw)
+ - 💣 [Damn that\u2019s rough](http://9gag.com/gag/aVbn1j2)
+ - 😝 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tried to sell Bing to Apple in 2018, but failed](https://appleinsider.com/articles/24/02/25/microsoft-tried-to-sell-bing-to-apple-in-2018-but-failed?utm_medium=rss)
+ - [Apple could have started the search wars with Google in 2018](https://appleinsider.com/articles/24/02/25/microsoft-tried-to-sell-bing-to-apple-in-2018-but-failed?utm_medium=rss)
  - [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/)
  - [The ultra-complex card game that will take over your weekend](https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer)
  - [Omdia estimates that the bill of materials for Apple Vision Pro is $1,542, with both of the 1.25-inch Micro OLED displays from Sony costing about $228 each &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240225/p4#a240225p4)

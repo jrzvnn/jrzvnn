@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Robinhood CEO Vlad Tenev about the meme-stock craze, launching in the UK and EU, becoming customers&#39; primary financial institution, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/240225/p10#a240225p10)
  - [A consultant working for Rep. Dean Phillips, who challenged Biden in NH&#39;s primary, admits to producing the deepfake robocalls, saying anyone can do it for $500 &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240225/p9#a240225p9)
  - [Motorola&#39;s Rollable Concept Phone Wraps on Your Wrist video     - CNET](https://www.cnet.com/videos/motorolas-rollable-concept-phone-wraps-on-your-wrist/#ftag=CAD590a51e)
  - [Lenovo&#39;s Transparent Display Laptop Is a Sight to See     - CNET](https://www.cnet.com/tech/computing/lenovos-transparent-display-laptop-is-a-sight-to-see/#ftag=CAD590a51e)
- - [Lenovo&#39;s Transparent Laptop Concept Has a Striking See-Through Look     - CNET](https://www.cnet.com/pictures/lenovos-transparent-laptop-concept-has-a-striking-see-through-look/#ftag=CAD590a51e)
- - [My Dream Wrist Phone Is Finally Here Thanks to Motorola&#39;s New Concept     - CNET](https://www.cnet.com/tech/mobile/my-dream-wrist-phone-is-finally-here-thanks-to-motorolas-new-concept/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo&#39;s Transparent Laptop Concept Has a Striking See-Through Look     - CNET](https://www.cnet.com/pictures/lenovos-transparent-laptop-concept-has-a-striking-see-through-look/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

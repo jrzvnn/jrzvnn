@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh god oh f**k](http://9gag.com/gag/amAjZVo)
- - 😝 [Bro hacked his way to her heart](http://9gag.com/gag/aqe3EGY)
- - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [Modern era](http://9gag.com/gag/aWGKXxx)
- - 👉 [I know she isn&#39;t working in Lidl. I usually shop in Kaufland anyway.](http://9gag.com/gag/aEqr47n)<!-- MEMES:END -->
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
 
 ---
 

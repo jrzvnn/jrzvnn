@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My streaming fatigue got so bad I started collecting DVDs](https://www.theverge.com/24044151/streaming-subscription-prices-dvd-collection)
  - [Microsoft partners with Mistral as regulators probe its OpenAI alliance; Microsoft takes a minor stake in Mistral and help bring Mistral&#39;s AI models to market &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240226/p13#a240226p13)
  - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Touhy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
  - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
- - [Broadcom sells its end-user computing unit to KKR in a deal valued at about $4B &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/240226/p12#a240226p12)
- - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)<!-- TECH:END -->
+ - [Broadcom sells its end-user computing unit to KKR in a deal valued at about $4B &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/240226/p12#a240226p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

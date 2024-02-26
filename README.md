@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
+ - [Google announces new Wear OS updates, including revamping notifications to improve battery life, Google Maps public transit directions, and Google Wallet passes &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240226/p17#a240226p17)
+ - [Flop rock: inside the underground floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)
  - [Mistral AI releases a GPT-4 rival called Mistral Large, which supports context windows of 32k tokens, and a ChatGPT-like chat assistant called Le Chat in beta &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240226/p16#a240226p16)
- - [Microsoft partners with Mistral in second AI deal beyond OpenAI](https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai)
- - [Funimation’s solution for wiping out digital libraries could be good, if it works](https://www.theverge.com/2024/2/26/24080637/funimation-shut-down-crunchyroll-digital-library-compensation)
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
- - [Paytm Payments Bank reconstitutes its board, as part of which founder Vijay Shekhar Sharma, who owns a 51% stake in the Paytm unit, steps down &lpar;TechCrunch&rpar;](http://www.techmeme.com/240226/p15#a240226p15)<!-- TECH:END -->
+ - [Microsoft partners with Mistral in second AI deal beyond OpenAI](https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

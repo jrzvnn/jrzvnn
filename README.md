@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
  - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 ---
 

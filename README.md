@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Shein is in the early stages of exploring a London IPO, as it has judged unlikely that the SEC will approve its IPO in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p30#a240226p30)
  - [Canada introduces the Online Harms Act, which aims to hold platforms responsible for reducing exposure to damaging content and create a digital safety regulator &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/240226/p29#a240226p29)
  - [The US Supreme Court Holds the Future of the Internet in Its Hands](https://www.wired.com/story/supreme-court-future-of-the-internet/)
- - [Netflix Added These New Titles to Its Game Library in February     - CNET](https://www.cnet.com/tech/gaming/netflix-added-these-new-titles-to-its-game-library-in-february/#ftag=CAD590a51e)
  - [Unity reports Q4 revenue up 35% YoY to $609M, vs. $551M est., but down 2% YoY to $510M excluding a W&amp;#275;t&amp;amacr; FX deal, Q1 sales guidance far below est.; U drops 15%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240226/p28#a240226p28)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

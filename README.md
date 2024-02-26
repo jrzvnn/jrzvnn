@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 💣 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
+ - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
  - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
 
 ---
 

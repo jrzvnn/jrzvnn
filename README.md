@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
+ - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
+ - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
+ - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
  - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
 
 ---

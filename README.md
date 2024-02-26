@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
 
 ---
 

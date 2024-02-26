@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 👉 [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)<!-- MEMES:END -->
+ - 😝 [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
 
 ---
 

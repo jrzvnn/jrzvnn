@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/)
  - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Tuohy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
  - [The Queen’s Blood card game is just as good as Final Fantasy VII Rebirth itself](https://www.theverge.com/2024/2/26/24081238/final-fantasy-7-rebirth-queens-blood-triple-triad)
  - [Two words: poker roguelike](https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame)
- - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)
- - [The Coolest Phones at MWC 2024 From Samsung, Honor, Motorola and More     - CNET](https://www.cnet.com/pictures/the-coolest-phones-at-mwc-2024-from-samsung-honor-motorola-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

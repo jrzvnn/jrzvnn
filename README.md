@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)
- - [Vertex Is the Last Good Place Online](https://www.wired.com/story/last-good-place-vertex/)
- - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)
- - [Sources detail their concerns with Apple Arcade, including declining developer payouts, cancelled projects, and its shift to focus on family-friendly games &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/240226/p10#a240226p10)
- - [The Roku Express 4K Plus, Our Favorite 4K Streaming Device, Is Just $29 Today     - CNET](https://www.cnet.com/deals/the-roku-express-4k-plus-our-favorite-4k-streaming-device-is-just-29-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft partners with Mistral as regulators probe its OpenAI alliance; Microsoft takes a minor stake in Mistral and help bring Mistral&#39;s AI models to market &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240226/p13#a240226p13)
+ - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Touhy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
+ - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
+ - [Broadcom sells its end-user computing unit to KKR in a deal valued at about $4B &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/240226/p12#a240226p12)
+ - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

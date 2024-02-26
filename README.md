@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail a spam campaign using hijacked abandoned domains and subdomains from reputable brands like eBay and VMware to send ~5M malicious emails daily &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240226/p25#a240226p25)
  - [Bose’s QuietComfort Ultra Headphones have plunged to a new all-time low](https://www.theverge.com/2024/2/26/24083929/bose-quietcomfort-ultra-headphones-noise-canceling-staples-deal-sale)
+ - [Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450     - CNET](https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/#ftag=CAD590a51e)
  - [All the Top New Gadgets at MWC 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-mwc-2024/)
- - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Tuohy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
- - [The Queen’s Blood card game is just as good as Final Fantasy VII Rebirth itself](https://www.theverge.com/2024/2/26/24081238/final-fantasy-7-rebirth-queens-blood-triple-triad)
- - [Two words: poker roguelike](https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame)<!-- TECH:END -->
+ - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Tuohy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

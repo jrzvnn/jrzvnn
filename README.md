@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Keep Your Loved Ones Safe From Financial Scams](https://www.wired.com/story/older-relatives-getting-ripped-off/)
+ - [EU officials are not happy with how Apple is handling Progressive Web Apps](https://appleinsider.com/articles/24/02/26/eu-officials-are-not-happy-with-how-apple-is-handling-progressive-web-apps?utm_medium=rss)
  - [The EU is asking developers about the impact of Apple&#39;s decision to disable PWAs in the EU, which could be a precursor towards an in-depth probe &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240226/p19#a240226p19)
- - [OpenPlus debuts the 1.43&quot; OnePlus Watch 2, its first Wear OS watch, featuring the Snapdragon W5 and a claimed 100-hour battery life, starting at $299 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240226/p18#a240226p18)
- - [Apple’s decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
- - [Google announces new Wear OS updates, including revamping notifications to improve battery life, Google Maps public transit directions, and Google Wallet passes &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240226/p17#a240226p17)
- - [Flop rock: inside the underground floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)<!-- TECH:END -->
+ - [OnePlus debuts the 1.43&quot; OnePlus Watch 2, its first Wear OS watch, featuring the Snapdragon W5 and a claimed 100-hour battery life, starting at $299 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240226/p18#a240226p18)
+ - [Apple’s decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

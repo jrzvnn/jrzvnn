@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
- - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 💣 [A.I.](http://9gag.com/gag/agoMbEq)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
  - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
+ - 💣 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 

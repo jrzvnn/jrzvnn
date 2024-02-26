@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
- - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
  - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
+ - 👉 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 💣 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
  - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 😝 [What&#39;s worse than a rapist](http://9gag.com/gag/anzpwnn)
+ - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
 
 ---
 

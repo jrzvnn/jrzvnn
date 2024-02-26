@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini is about to slide into your DMs](https://www.theverge.com/2024/2/26/24082279/google-gemini-messages-android-auto-google-docs)
+ - [TCL&#39;s First Paperlike-Display Phones for the US Will Cost Under $229     - CNET](https://www.cnet.com/tech/mobile/tcls-first-paperlike-display-phones-for-the-us-will-cost-under-229/#ftag=CAD590a51e)
  - [PeckShield warns that MicroStrategy&#39;s X account has been compromised; ZachXBT: the hacker stole about $440K from users that were scammed by the phishing post &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240226/p1#a240226p1)
  - [Samsung&#39;s Galaxy Ring Will Be Your Most Stylish Sleep-Tracking Bling     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-ring-will-be-your-most-stylish-sleep-tracking-bling/#ftag=CAD590a51e)
- - [MediaTek&#39;s New 5G Modem Could Help Cheap Wearbles Last Longer     - CNET](https://www.cnet.com/tech/mobile/mediateks-new-5g-modem-could-help-cheap-wearbles-last-longer/#ftag=CAD590a51e)
- - [Samsung has big ambitions for the Galaxy Ring](https://www.theverge.com/2024/2/26/24082729/samsung-has-big-ambitions-for-the-galaxy-ring)
- - [Microsoft Is Using AI to Stop Phone Scammers From Tricking You     - CNET](https://www.cnet.com/tech/mobile/microsoft-is-using-ai-to-stop-phone-scammers-from-tricking-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MediaTek&#39;s New 5G Modem Could Help Cheap Wearbles Last Longer     - CNET](https://www.cnet.com/tech/mobile/mediateks-new-5g-modem-could-help-cheap-wearbles-last-longer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

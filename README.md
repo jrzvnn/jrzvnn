@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [What&#39;s worse than a rapist](http://9gag.com/gag/anzpwnn)
- - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
+ - 😝 [It\u2019s over before it even began guys](http://9gag.com/gag/abvPLrX)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 

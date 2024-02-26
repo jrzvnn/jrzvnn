@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta outlines its strategy to combat the misuse of generative AI ahead of the European elections in June, including setting up an EU-specific operations center &lpar;Tom Gerken/BBC&rpar;](http://www.techmeme.com/240226/p9#a240226p9)
  - [Lenovo demos the ThinkBook Transparent Display Laptop concept, with a 17.3-inch MicroLED panel and a built-in drawing tablet &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240226/p8#a240226p8)
  - [How a Right-Wing Controversy Could Sabotage US Election Security](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/)
  - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
- - [Hands-On With Samsung&#39;s Health-Hacking Galaxy Ring](https://www.wired.com/story/samsung-galaxy-ring-mwc-2024/)
- - [Nintendo fans might be waiting at least a year for the next Switch console](https://www.theverge.com/2024/2/26/24083409/nintendo-switch-2-next-gen-console-release-date-march-2025)<!-- TECH:END -->
+ - [Hands-On With Samsung&#39;s Health-Hacking Galaxy Ring](https://www.wired.com/story/samsung-galaxy-ring-mwc-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

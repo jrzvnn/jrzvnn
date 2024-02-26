@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the kind of girl you&#39;re supposed to marry](http://9gag.com/gag/abvPwqL)
- - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 💣 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)
- - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
- - 👉 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)<!-- MEMES:END -->
+ - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
+ - 👉 [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)<!-- MEMES:END -->
 
 ---
 

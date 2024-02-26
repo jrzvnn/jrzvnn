@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
  - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
+ - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 👉 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)<!-- MEMES:END -->
 
 ---
 

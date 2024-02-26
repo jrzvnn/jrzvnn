@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh god oh f**k](http://9gag.com/gag/amAjZVo)
  - 😝 [Bro hacked his way to her heart](http://9gag.com/gag/aqe3EGY)
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 💣 [Modern era](http://9gag.com/gag/aWGKXxx)
- - 😝 [There&#39;s one missing here indeed](http://9gag.com/gag/aoKr7On)
- - 👉 [I know she isn&#39;t working in Lidl. I usually shop in Kaufland anyway.](http://9gag.com/gag/aEqr47n)<!-- MEMES:END -->
+ - 💣 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 😝 [Modern era](http://9gag.com/gag/aWGKXxx)
+ - 👉 [There&#39;s one missing here indeed](http://9gag.com/gag/aoKr7On)<!-- MEMES:END -->
 
 ---
 

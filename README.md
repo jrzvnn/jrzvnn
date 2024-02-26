@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenPlus debuts the 1.43&quot; OnePlus Watch 2, its first Wear OS watch, featuring the Snapdragon W5 and a claimed 100-hour battery life, starting at $299 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240226/p18#a240226p18)
  - [Apple’s decision to drop iPhone web apps comes under scrutiny in the EU](https://www.theverge.com/2024/2/26/24083511/apple-eu-investigation-web-app-support)
  - [Google announces new Wear OS updates, including revamping notifications to improve battery life, Google Maps public transit directions, and Google Wallet passes &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240226/p17#a240226p17)
  - [Flop rock: inside the underground floppy disk music scene](https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy)
- - [Mistral AI releases a GPT-4 rival called Mistral Large, which supports context windows of 32k tokens, and a ChatGPT-like chat assistant called Le Chat in beta &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240226/p16#a240226p16)
- - [Microsoft partners with Mistral in second AI deal beyond OpenAI](https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai)<!-- TECH:END -->
+ - [Mistral AI releases a GPT-4 rival called Mistral Large, which supports context windows of 32k tokens, and a ChatGPT-like chat assistant called Le Chat in beta &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240226/p16#a240226p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

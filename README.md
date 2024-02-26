@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)
  - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)
  - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)
- - [Russia&#39;s Online Campaign to Destroy Yulia Navalnaya](https://www.wired.com/story/kremlin-backed-accounts-trying-to-destroy-yulia-navalnaya/)
- - [The Odysseus lunar lander is on its side and will likely run out of energy soon](https://www.theverge.com/2024/2/26/24083973/odysseus-lunar-lander-tipped-over-intuitive-machines)
- - [Researchers detail a spam campaign using hijacked abandoned domains and subdomains from reputable brands like eBay and VMware to send ~5M malicious emails daily &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240226/p25#a240226p25)<!-- TECH:END -->
+ - [Free Movies: 9 of the Best Netflix Alternatives to Entertain You     - CNET](https://www.cnet.com/tech/services-and-software/free-movies-best-netflix-alternatives/#ftag=CAD590a51e)
+ - [Russia&#39;s Online Campaign to Destroy Yulia Navalnaya](https://www.wired.com/story/kremlin-backed-accounts-trying-to-destroy-yulia-navalnaya/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

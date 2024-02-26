@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-On With Samsung&#39;s Health-Hacking Galaxy Ring](https://www.wired.com/story/samsung-galaxy-ring-mwc-2024/)
  - [Nintendo fans might be waiting at least a year for the next Switch console](https://www.theverge.com/2024/2/26/24083409/nintendo-switch-2-next-gen-console-release-date-march-2025)
  - [AT&amp;T will pay a miserly $5 per account in outage compensation](https://appleinsider.com/articles/24/02/26/att-will-pay-a-miserly-5-per-account-in-outage-compensation?utm_medium=rss)
  - [How a Small Iowa Newspaper&#39;s Website Became an AI-Generated Clickbait Factory](https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/)
- - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Feb. 26, 2024: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-feb-26-2024-rate-eases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

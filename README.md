@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada introduces the Online Harms Act, which aims to hold platforms responsible for reducing exposure to damaging content and create a digital safety regulator &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/240226/p29#a240226p29)
+ - [The US Supreme Court Holds the Future of the Internet in Its Hands](https://www.wired.com/story/supreme-court-future-of-the-internet/)
+ - [Netflix Added These New Titles to Its Game Library in February     - CNET](https://www.cnet.com/tech/gaming/netflix-added-these-new-titles-to-its-game-library-in-february/#ftag=CAD590a51e)
  - [Unity reports Q4 revenue up 35% YoY to $609M, vs. $551M est., but down 2% YoY to $510M excluding a W&amp;#275;t&amp;amacr; FX deal, Q1 sales guidance far below est.; U drops 15%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240226/p28#a240226p28)
- - [MWC 2024 Tech You Can Actually Buy Right Now     - CNET](https://www.cnet.com/deals/mwc-2024-tech-you-can-actually-buy-right-now/#ftag=CAD590a51e)
- - [Zoom reports Q4 revenue of $1.15B, up 2.6% YoY, vs. $1.13B est., Enterprise revenue of $667M, up 4.9% YoY, and announces a $1.5B stock buyback; ZM jumps 10%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240226/p27#a240226p27)
- - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)
- - [Free Movies: 9 of the Best Netflix Alternatives to Entertain You     - CNET](https://www.cnet.com/tech/services-and-software/free-movies-best-netflix-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

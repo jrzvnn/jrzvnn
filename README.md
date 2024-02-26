@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Painting fail](http://9gag.com/gag/abvPDGE)
- - 😝 [NASA&#39;s Huygens probe descending on the surface of the Titan, a moon of Saturn. It went offline shortly after touching down](http://9gag.com/gag/aL1YOVM)
- - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
+ - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 😝 [A Meme origin](http://9gag.com/gag/a04AgdL)
+ - 💣 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)
+ - 😝 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
+ - 👉 [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)<!-- MEMES:END -->
 
 ---
 

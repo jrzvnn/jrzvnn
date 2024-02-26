@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS is revamping notifications to improve battery life](https://www.theverge.com/2024/2/26/24081349/wear-os-4-oneplus-hybrid-wearables-smartwatches)
- - [The OnePlus Watch 2 is a bid to redeem its smartwatch reputation](https://www.theverge.com/2024/2/26/24081216/one-plus-watch-2-wear-os-4-mwc-2024)
- - [Crunchyroll president Rahul Purini on how anime took over the world](https://www.theverge.com/2024/2/26/24081180/crunchyroll-president-purini-anime-funimation-shutdown-sony-merger-decoder-interview)
- - [A profile of Mistral AI, which wants to be the &quot;most capital-efficient company in the world of AI&quot;, as it announces its new open-source AI model Mistral Large &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/240226/p14#a240226p14)
- - [iPhone 16 Pro expected to get Pro Max&#39;s Tetraprism lens](https://appleinsider.com/articles/24/02/26/iphone-16-pro-expected-to-get-pro-maxs-tetraprism-lens?utm_medium=rss)<!-- TECH:END -->
+ - [Funimation’s solution for wiping out digital libraries could be good, if it works](https://www.theverge.com/2024/2/26/24080637/funimation-shut-down-crunchyroll-digital-library-compensation)
+ - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
+ - [Paytm Payments Bank reconstitutes its board, as part of which founder Vijay Shekhar Sharma, who owns a 51% stake in the Paytm unit, steps down &lpar;TechCrunch&rpar;](http://www.techmeme.com/240226/p15#a240226p15)
+ - [Supreme Court hears arguments on the future of online speech: all the news](https://www.theverge.com/24080905/supreme-court-arguments-netchoice-moody-paxton-online-speech)
+ - [Wear OS is revamping notifications to improve battery life](https://www.theverge.com/2024/2/26/24081349/wear-os-4-oneplus-hybrid-wearables-smartwatches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
  - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 💣 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
 
 ---
 

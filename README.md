@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
- - 💣 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
- - 😝 [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)
- - 👉 [Okie dokie](http://9gag.com/gag/aEqr56O)<!-- MEMES:END -->
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
+ - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 

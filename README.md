@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)
  - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)
  - [Seagate’s Xbox Storage Expansion Card is cheaper than ever at nearly $100 off](https://www.theverge.com/2024/2/26/24083465/seagate-storage-expansion-card-xbox-ue-wonderboom-3-speaker-lg-c3-oled-tv-deal-sale)
  - [Q&amp;A with Uber CEO Dara Khosrowshahi about the Indian market, competition, achieving profitability, regrets about selling UberEats in India, regulations, more &lpar;The Economic Times&rpar;](http://www.techmeme.com/240226/p23#a240226p23)
- - [Crunchyroll Game Vault: You Can Play These Retro-Style Titles Now     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-you-can-play-these-retro-style-titles-now/#ftag=CAD590a51e)
- - [Samsung Galaxy Ring: What We Know About the New Oura Challenger     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ring-everything-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crunchyroll Game Vault: You Can Play These Retro-Style Titles Now     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-you-can-play-these-retro-style-titles-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

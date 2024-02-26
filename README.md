@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [While Google paused Gemini&#39;s image generation, its text generation tool also offers some absurd responses, highlighting the need for flourishing open source AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240226/p26#a240226p26)
  - [Russia&#39;s Online Campaign to Destroy Yulia Navalnaya](https://www.wired.com/story/kremlin-backed-accounts-trying-to-destroy-yulia-navalnaya/)
  - [The Odysseus lunar lander is on its side and will likely run out of energy soon](https://www.theverge.com/2024/2/26/24083973/odysseus-lunar-lander-tipped-over-intuitive-machines)
  - [Researchers detail a spam campaign using hijacked abandoned domains and subdomains from reputable brands like eBay and VMware to send ~5M malicious emails daily &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240226/p25#a240226p25)
- - [Bose’s QuietComfort Ultra Headphones have plunged to a new all-time low](https://www.theverge.com/2024/2/26/24083929/bose-quietcomfort-ultra-headphones-noise-canceling-staples-deal-sale)
- - [Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450     - CNET](https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bose’s QuietComfort Ultra Headphones have plunged to a new all-time low](https://www.theverge.com/2024/2/26/24083929/bose-quietcomfort-ultra-headphones-noise-canceling-staples-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

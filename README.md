@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo&#39;s Project Crystal Is a Concept Laptop With a Transparent Display](https://www.wired.com/story/lenovo-project-crystal-transparent-laptop-mwc-2024/)
  - [Munich-based RobCo, which makes low-cost and modular robots that suit smaller factories, raised a $42.5M Series B led by Lightspeed Venture Partners &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/240226/p7#a240226p7)
  - [Pav Gil Helped Bring Down Wirecard. His New Startup Aims to Shield Whistleblowers From Harm](https://www.wired.com/story/pav-gill-wirecard-confide-shield-whistleblowers/)
  - [Sources: Indian government is evaluating $21B of chip proposals, including a $9B from Tower Semiconductor and an $8B from Tata Group for new plants in Gujarat &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240226/p6#a240226p6)
- - [Nvidia launches RTX 500 and RTX 1000, its new laptop GPUs for on-the-go AI processing powered by the Ada Lovelace architecture, available in Spring 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p5#a240226p5)
- - [Google announces new Android features, including Gemini integration with Messages, AI-powered text summaries for Android Auto, and AI-generated image captions &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240226/p4#a240226p4)<!-- TECH:END -->
+ - [Nvidia launches RTX 500 and RTX 1000, its new laptop GPUs for on-the-go AI processing powered by the Ada Lovelace architecture, available in Spring 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p5#a240226p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

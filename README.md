@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Live blog of the oral arguments in the Supreme Court for a pair of cases involving Florida and Texas social media laws that impose strict limits on moderation &lpar;Washington Post&rpar;](http://www.techmeme.com/240226/p22#a240226p22)
  - [How AI is changing the adult entertainment industry, raising concerns about performers&#39; compensation and rights to their likeness, abuse prevention, and more &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/240226/p21#a240226p21)
  - [Best Buy launches record-breaking $400 MacBook Air discount](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
- - [Best RV Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
- - [Best VPN for Travel     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-travel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple doesn&#39;t care about games, long-time Apple Arcade developers say](https://appleinsider.com/articles/24/02/26/apple-doesnt-care-about-games-long-time-apple-arcade-developers-say?utm_medium=rss)
+ - [Fiat is turning its Panda city cars into a whole family of ‘multi-energy’ vehicles](https://www.theverge.com/24083454/fiat-panda-family-concept-ev-hybrid-truck-suv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

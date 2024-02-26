@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
- - 💣 [By 1:30 in the afternoon the entire shop was empty.](http://9gag.com/gag/aYV864V)
- - 😝 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
- - 👉 [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)<!-- MEMES:END -->
+ - 😝 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
+ - 💣 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
 
 ---
 

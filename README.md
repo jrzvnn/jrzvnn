@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
  - 😝 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
 
 ---
 

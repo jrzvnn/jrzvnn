@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo&#39;s Project Crystal Is a Concept Laptop With a Transparent Display](https://www.wired.com/story/lenovo-project-crystal-transparent-laptop-mwc-2024/)
- - [Munich-based RobCo, which makes low-cost and modular robots that suit smaller factories, raised a $42.5M Series B led by Lightspeed Venture Partners &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/240226/p7#a240226p7)
- - [Pav Gil Helped Bring Down Wirecard. His New Startup Aims to Shield Whistleblowers From Harm](https://www.wired.com/story/pav-gill-wirecard-confide-shield-whistleblowers/)
- - [Sources: Indian government is evaluating $21B of chip proposals, including a $9B from Tower Semiconductor and an $8B from Tata Group for new plants in Gujarat &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240226/p6#a240226p6)
- - [Nvidia launches RTX 500 and RTX 1000, its new laptop GPUs for on-the-go AI processing powered by the Ada Lovelace architecture, available in Spring 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p5#a240226p5)<!-- TECH:END -->
+ - [AT&amp;T will pay a miserly $5 per account in outage compensation](https://appleinsider.com/articles/24/02/26/att-will-pay-a-miserly-5-per-account-in-outage-compensation?utm_medium=rss)
+ - [How a Small Iowa Newspaper&#39;s Website Became an AI-Generated Clickbait Factory](https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/)
+ - [Current Mortgage Interest Rates on Feb. 26, 2024: Important Mortgage Rate Recedes     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-feb-26-2024-important-mortgage-rate-recedes/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates on Feb. 26, 2024: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-feb-26-2024-rate-eases/#ftag=CAD590a51e)
+ - [I Got To See Xiaomi&#39;s First EV and It Looks Awesome     - CNET](https://www.cnet.com/roadshow/pictures/i-got-to-see-xiaomis-first-ev-and-it-looks-awesome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

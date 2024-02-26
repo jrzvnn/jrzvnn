@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
+ - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
+ - [Best iPad Deals: Big Savings on iPad Air, iPad Pro and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [Live blog of the oral arguments in the Supreme Court for a pair of cases involving Florida and Texas social media laws that impose strict limits on moderation &lpar;Washington Post&rpar;](http://www.techmeme.com/240226/p22#a240226p22)
- - [How AI is changing the adult entertainment industry, raising concerns about performers&#39; compensation and rights to their likeness, abuse prevention, and more &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/240226/p21#a240226p21)
- - [Best Buy launches record-breaking $400 MacBook Air discount](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
- - [Best RV Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
- - [Best VPN for Travel     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-travel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to Know About Magnesium, and How to Add It Safely to Your Diet     - CNET](https://www.cnet.com/health/nutrition/what-to-know-about-magnesium-and-how-to-add-it-safely-to-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

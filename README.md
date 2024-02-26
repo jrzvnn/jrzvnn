@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 💣 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 😝 [Bro hacked his way to her heart](http://9gag.com/gag/aqe3EGY)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 💣 [Modern era](http://9gag.com/gag/aWGKXxx)
+ - 😝 [There&#39;s one missing here indeed](http://9gag.com/gag/aoKr7On)
+ - 👉 [I know she isn&#39;t working in Lidl. I usually shop in Kaufland anyway.](http://9gag.com/gag/aEqr47n)<!-- MEMES:END -->
 
 ---
 

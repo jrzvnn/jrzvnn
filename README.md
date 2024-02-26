@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)
  - [Seagate’s Xbox Storage Expansion Card is cheaper than ever at nearly $100 off](https://www.theverge.com/2024/2/26/24083465/seagate-storage-expansion-card-xbox-ue-wonderboom-3-speaker-lg-c3-oled-tv-deal-sale)
  - [Q&amp;A with Uber CEO Dara Khosrowshahi about the Indian market, competition, achieving profitability, regrets about selling UberEats in India, regulations, more &lpar;The Economic Times&rpar;](http://www.techmeme.com/240226/p23#a240226p23)
- - [Score a New Keychron Mechanical Keyboard for as Little as $30     - CNET](https://www.cnet.com/deals/score-a-new-keychron-mechanical-keyboard-for-as-little-as-30/#ftag=CAD590a51e)
- - [Lenovo&#39;s Futuristic Transparent Concept Laptop May Redefine Computing     - CNET](https://www.cnet.com/tech/computing/lenovos-futuristic-transparent-concept-laptop-may-redefine-computing/#ftag=CAD590a51e)
- - [Best iPad Deals: Big Savings on iPad Air, iPad Pro and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crunchyroll Game Vault: You Can Play These Retro-Style Titles Now     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-you-can-play-these-retro-style-titles-now/#ftag=CAD590a51e)
+ - [Samsung Galaxy Ring: What We Know About the New Oura Challenger     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ring-everything-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

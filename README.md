@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
- - 💣 [Afghan Refugee kills 3 Prostitutes in Vienna. Sources in comments](http://9gag.com/gag/amAjbeo)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 👉 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
+ - 😝 [Okie dokie](http://9gag.com/gag/aEqr56O)
+ - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
+ - 💣 [It\u2019s funny because it\u2019s true](http://9gag.com/gag/aBdqMjQ)
+ - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
+ - 👉 [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)<!-- MEMES:END -->
 
 ---
 

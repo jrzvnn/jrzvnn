@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro expected to get Pro Max&#39;s Tetraprism lens](https://appleinsider.com/articles/24/02/26/iphone-16-pro-expected-to-get-pro-maxs-tetraprism-lens?utm_medium=rss)
- - [My streaming fatigue got so bad I started collecting DVDs](https://www.theverge.com/24044151/streaming-subscription-prices-dvd-collection)
- - [Microsoft partners with Mistral as regulators probe its OpenAI alliance; Microsoft takes a minor stake in Mistral and help bring Mistral&#39;s AI models to market &lpar;Financial Times&rpar;](http://www.techmeme.com/240226/p13#a240226p13)
- - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Touhy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
- - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Wear OS is revamping notifications to improve battery life](https://www.theverge.com/2024/2/26/24081349/wear-os-4-oneplus-hybrid-wearables-smartwatches)
+ - [The OnePlus Watch 2 is a bid to redeem its smartwatch reputation](https://www.theverge.com/2024/2/26/24081216/one-plus-watch-2-wear-os-4-mwc-2024)
+ - [Crunchyroll president Rahul Purini on how anime took over the world](https://www.theverge.com/2024/2/26/24081180/crunchyroll-president-purini-anime-funimation-shutdown-sony-merger-decoder-interview)
+ - [A profile of Mistral AI, which wants to be the &quot;most capital-efficient company in the world of AI&quot;, as it announces its new open-source AI model Mistral Large &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/240226/p14#a240226p14)
+ - [iPhone 16 Pro expected to get Pro Max&#39;s Tetraprism lens](https://appleinsider.com/articles/24/02/26/iphone-16-pro-expected-to-get-pro-maxs-tetraprism-lens?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

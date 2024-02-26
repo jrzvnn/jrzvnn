@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
  - [Expedia plans to cut about 1,500 roles this year, mainly in its Product &amp; Technology division; the company had 17,100 employees at the end of 2023 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240226/p31#a240226p31)
- - [Apple shareholders to vote on AI, equality, &amp; conservatives&#39; concerns at annual meeting](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
  - [Sources: Shein is in the early stages of exploring a London IPO, as it has judged unlikely that the SEC will approve its IPO in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p30#a240226p30)
  - [Canada introduces the Online Harms Act, which aims to hold platforms responsible for reducing exposure to damaging content and create a digital safety regulator &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/240226/p29#a240226p29)
  - [The US Supreme Court Holds the Future of the Internet in Its Hands](https://www.wired.com/story/supreme-court-future-of-the-internet/)<!-- TECH:END -->

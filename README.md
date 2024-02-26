@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
- - [Tecno&#39;s AI-Powered Robot Dog Is Inspired by the German Shepherd     - CNET](https://www.cnet.com/tech/mobile/tecno-robot-dog/#ftag=CAD590a51e)
- - [Google&#39;s Latest Android Updates Give an AI Boost to Messages, Maps and Images     - CNET](https://www.cnet.com/tech/mobile/googles-latest-android-updates-give-an-ai-boost-to-messages-maps-and-images/#ftag=CAD590a51e)
- - [Gemini is about to slide into your DMs](https://www.theverge.com/2024/2/26/24082279/google-gemini-messages-android-auto-google-docs)
- - [TCL&#39;s First Paperlike-Display Phones for the US Will Cost Under $229     - CNET](https://www.cnet.com/tech/mobile/tcls-first-paperlike-display-phones-for-the-us-will-cost-under-229/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia launches RTX 500 and RTX 1000, its new laptop GPUs for on-the-go AI processing powered by the Ada Lovelace architecture, available in Spring 2024 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p5#a240226p5)
+ - [Google announces new Android features, including Gemini integration with Messages, AI-powered text summaries for Android Auto, and AI-generated image captions &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240226/p4#a240226p4)
+ - [Qualcomm unveils AI Hub, a new library of 75+ pre-optimized AI models, X80 5G modem, and FastConnect 7900, a chip that integrates Wi-Fi 7, Bluetooth, and UWB &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240226/p3#a240226p3)
+ - [Samsung unveils Galaxy Ring at MWC 2024; the device is centered around health and wellness, comes in three colors, and will be available later this year &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240226/p2#a240226p2)
+ - [A Discarded Plan to Build Underwater Cities Will Give Coral Reefs New Life](https://www.wired.com/story/coral-restoration-tom-dixon-furniture-subhair-khan-open-ended-design/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

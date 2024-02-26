@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 💣 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
+ - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---
 

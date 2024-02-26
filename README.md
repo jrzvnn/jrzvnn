@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 😝 [One in the world](http://9gag.com/gag/aA0WqQR)
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
  - 😝 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)
- - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)
+ - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
 
 ---
 

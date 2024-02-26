@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 💣 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
  - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 

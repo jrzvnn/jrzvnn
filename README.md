@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Avail, a modular blockchain project spun out of Polygon in 2023 to streamline the rollup experience, raised a $27M seed co-led by Founders Fund and Dragonfly &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240226/p11#a240226p11)
+ - [Vertex Is the Last Good Place Online](https://www.wired.com/story/last-good-place-vertex/)
+ - [AMD Radeon RX 7900 GRE review: $549 competition for Nvidia](https://www.theverge.com/24083386/amd-radeon-rx-7900-gre-review-benchmarks-price)
  - [Sources detail their concerns with Apple Arcade, including declining developer payouts, cancelled projects, and its shift to focus on family-friendly games &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/240226/p10#a240226p10)
- - [How to manage app permissions on your Android phone or tablet](https://www.theverge.com/24080400/android-app-permissions-manage-how-to)
- - [How to Use ChatGPT’s Memory Feature](https://www.wired.com/story/how-to-use-chatgpt-memory-feature/)
- - [Polar ID Is the Face ID Rival for Android Phones, and Could Even Beat Apple](https://www.wired.com/story/metalenz-polar-id-first-look/)
- - [Meta outlines its strategy to combat the misuse of generative AI ahead of the European elections in June, including setting up an EU-specific operations center &lpar;Tom Gerken/BBC&rpar;](http://www.techmeme.com/240226/p9#a240226p9)<!-- TECH:END -->
+ - [The Roku Express 4K Plus, Our Favorite 4K Streaming Device, Is Just $29 Today     - CNET](https://www.cnet.com/deals/the-roku-express-4k-plus-our-favorite-4k-streaming-device-is-just-29-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

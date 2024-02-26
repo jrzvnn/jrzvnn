@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Painting fail](http://9gag.com/gag/abvPDGE)
  - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
  - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 💣 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
  - 👉 [Please someone on the comments satisfy many\u2019s wish!](http://9gag.com/gag/aoKrGNn)<!-- MEMES:END -->
 
 ---

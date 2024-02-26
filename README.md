@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
  - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 💣 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
+ - 💣 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
  - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)<!-- MEMES:END -->
+ - 👉 [That damn smile](http://9gag.com/gag/aQEwK8e)<!-- MEMES:END -->
 
 ---
 

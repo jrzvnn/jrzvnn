@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Echo Hub, Belkin Auto-Tracking Stand Pro, &amp; Jennifer Tuohy on HomeKit Insider](https://appleinsider.com/articles/24/02/26/echo-hub-belkin-auto-tracking-stand-pro-jennifer-touhy-on-homekit-insider?utm_medium=rss)
+ - [The Queen’s Blood card game is just as good as Final Fantasy VII Rebirth itself](https://www.theverge.com/2024/2/26/24081238/final-fantasy-7-rebirth-queens-blood-triple-triad)
+ - [Two words: poker roguelike](https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame)
  - [During oral arguments, justices seemed reluctant to completely strike down Texas and Florida social media laws but worried about impacts to companies&#39; 1A rights &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p24#a240226p24)
- - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)
- - [Seagate’s Xbox Storage Expansion Card is cheaper than ever at nearly $100 off](https://www.theverge.com/2024/2/26/24083465/seagate-storage-expansion-card-xbox-ue-wonderboom-3-speaker-lg-c3-oled-tv-deal-sale)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi about the Indian market, competition, achieving profitability, regrets about selling UberEats in India, regulations, more &lpar;The Economic Times&rpar;](http://www.techmeme.com/240226/p23#a240226p23)
- - [Crunchyroll Game Vault: You Can Play These Retro-Style Titles Now     - CNET](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-you-can-play-these-retro-style-titles-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Coolest Phones at MWC 2024 From Samsung, Honor, Motorola and More     - CNET](https://www.cnet.com/pictures/the-coolest-phones-at-mwc-2024-from-samsung-honor-motorola-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

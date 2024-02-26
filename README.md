@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)
+ - [Tecno&#39;s AI-Powered Robot Dog Is Inspired by the German Shepherd     - CNET](https://www.cnet.com/tech/mobile/tecno-robot-dog/#ftag=CAD590a51e)
  - [Google&#39;s Latest Android Updates Give an AI Boost to Messages, Maps and Images     - CNET](https://www.cnet.com/tech/mobile/googles-latest-android-updates-give-an-ai-boost-to-messages-maps-and-images/#ftag=CAD590a51e)
  - [Gemini is about to slide into your DMs](https://www.theverge.com/2024/2/26/24082279/google-gemini-messages-android-auto-google-docs)
- - [TCL&#39;s First Paperlike-Display Phones for the US Will Cost Under $229     - CNET](https://www.cnet.com/tech/mobile/tcls-first-paperlike-display-phones-for-the-us-will-cost-under-229/#ftag=CAD590a51e)
- - [PeckShield warns that MicroStrategy&#39;s X account has been compromised; ZachXBT: the hacker stole about $440K from users that were scammed by the phishing post &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240226/p1#a240226p1)<!-- TECH:END -->
+ - [TCL&#39;s First Paperlike-Display Phones for the US Will Cost Under $229     - CNET](https://www.cnet.com/tech/mobile/tcls-first-paperlike-display-phones-for-the-us-will-cost-under-229/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

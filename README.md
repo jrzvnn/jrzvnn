@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
+ - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
  - 😝 [Expensive restaurants be like](http://9gag.com/gag/aA0W5Rp)
- - 💣 [Male* enters girls bathroom, dumps water on 3 girls heads, throws one in to a towel dispenser, gets his a*s kicked... pepsi a day later.](http://9gag.com/gag/a3Z9pym)
- - 😝 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)
- - 👉 [No chill, brother.](http://9gag.com/gag/a9qQw6W)<!-- MEMES:END -->
+ - 💣 [One in the world](http://9gag.com/gag/aA0WqQR)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [Water in toilet paper?](http://9gag.com/gag/a8qPX2V)<!-- MEMES:END -->
 
 ---
 

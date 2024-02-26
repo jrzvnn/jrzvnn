@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [It was his worst nightmare](http://9gag.com/gag/arm6Ddp)
- - 💣 [Gym camera catches Wild Encounter](http://9gag.com/gag/aGE36r5)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
+ - 😝 [Evolution of Rock genre](http://9gag.com/gag/aXnDz6P)
+ - 😝 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
+ - 💣 [R*PE jokes are fire tho](http://9gag.com/gag/aXnD13z)
+ - 😝 [I&#39;ve just lost 20kg in 4 months. This is real body positivity.](http://9gag.com/gag/aGE3vY5)
+ - 👉 [This is the kind of girl you&#39;re supposed to marry](http://9gag.com/gag/abvPwqL)<!-- MEMES:END -->
 
 ---
 

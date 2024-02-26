@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Normal Rat getting devoured by Monster Rat](http://9gag.com/gag/anzp0pB)
+ - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
 

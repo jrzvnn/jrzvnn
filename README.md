@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 😝 [Bye bye](http://9gag.com/gag/aEqr95p)
- - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 💣 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
+ - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
  - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 💣 [Oh god oh f**k](http://9gag.com/gag/amAjZVo)
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 💣 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
+ - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 👉 [She ugly](http://9gag.com/gag/a9qQw9D)<!-- MEMES:END -->
 
 ---
 

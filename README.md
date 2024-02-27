@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth visionOS 1.1 developer beta lands with more fixes](https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes?utm_medium=rss)
- - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
- - [Sonos’ first headphones now rumored to launch in June for $449](https://www.theverge.com/2024/2/27/24084802/sonos-headphones-june-release-date-rumor-party-speaker)
- - [Score a month-end $250 discount on Apple&#39;s 1TB MacBook Pro 14-inch](https://appleinsider.com/articles/24/02/27/score-a-month-end-250-discount-on-apples-1tb-macbook-pro-14-inch?utm_medium=rss)
- - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)<!-- TECH:END -->
+ - [Apple’s electric car project is dead](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down)
+ - [The Weird, Wacky Gizmos and Gadgets We Saw at MWC 2024](https://www.wired.com/story/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/)
+ - [Sources: Apple is winding down Project Titan, its decade-long effort to make an electric car; employees on some car teams will move to Apple&#39;s AI division &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p27#a240227p27)
+ - [Podcasting’s data rules get a refresh](https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist)
+ - [Fourth visionOS 1.1 developer beta lands with more fixes](https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok removes all songs published by Universal Music Publishing Group, expanding a licensing spat; at first only songs owned or distributed by UMG were removed &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240227/p29#a240227p29)
  - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
  - [visionOS 1.1 includes the ability to delete most of the pre-installed apps](https://appleinsider.com/articles/24/02/27/visionos-11-includes-the-ability-to-delete-most-of-the-pre-installed-apps?utm_medium=rss)
  - [You can save $20 on several Nintendo Switch games for Pokémon Day](https://www.theverge.com/2024/2/27/24084528/best-pokemon-day-deals-legends-arceus-shining-pearl-brilliant-diamond-nintendo-switch-sale)
- - [Apple is gearing up to celebrate spring with new Apple Watch band colors](https://appleinsider.com/articles/24/02/27/apple-is-gearing-up-to-celebrate-spring-with-new-apple-watch-band-colors?utm_medium=rss)
- - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)<!-- TECH:END -->
+ - [Apple is gearing up to celebrate spring with new Apple Watch band colors](https://appleinsider.com/articles/24/02/27/apple-is-gearing-up-to-celebrate-spring-with-new-apple-watch-band-colors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

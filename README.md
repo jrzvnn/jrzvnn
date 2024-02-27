@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
  - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 😝 [We need peoooopleeee](http://9gag.com/gag/a7q4xdq)
+ - 💣 [Title](http://9gag.com/gag/amAjZNo)
+ - 😝 [Florida resident is asking a valid question](http://9gag.com/gag/aYV83Gv)
+ - 👉 [Hundred people gathered to pay their respects to Ann Delaney, 47yo Irish mother who died while sleeping rough in central Dublin because she was homeless. Illegal immigrants are given free homes,4 stars hotels,&amp; food, while poor native Europeans sleep on streets. Unbearable sad](http://9gag.com/gag/amAjeMy)<!-- MEMES:END -->
 
 ---
 

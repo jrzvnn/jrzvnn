@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix confirms that it has started removing Apple iTunes billing for longtime subscribers, and now requires them to pay directly on its website &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240227/p13#a240227p13)
- - [Tales of a shopping influencer](https://www.theverge.com/24084003/flip-shopping-influencer-fuji-x100vi-parts-pairing-vergecast)
- - [Glean, which uses AI to offer unified search across apps used at a company, raised a $200M+ Series D at a $2.2B valuation and says annualized revenue hit $39M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240227/p12#a240227p12)
- - [Pokémon Presents 2024: all the biggest news and trailers](https://www.theverge.com/2024/2/27/24083580/pokemon-presents-february-2024-news-trailers)
- - [Sony plans to lay off around 900 employees, or 8% of workforce, at its PlayStation division, and close its London Studio in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240227/p11#a240227p11)<!-- TECH:END -->
+ - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)
+ - [I’ve seen the future of wireless charging, and I want it in my kitchen counters](https://www.theverge.com/2024/2/27/24084218/freepower-for-countertop-wireless-charging-hands-on)
+ - [Honda doubles down on hydrogen with new fuel-cell powered SUV](https://www.theverge.com/2024/2/27/24084163/honda-crv-efcev-hydrogen-fuel-cell-suv-specs-gm)
+ - [Intenseye, which uses computer vision to spot risks and enhance workplace safety, raised a $64M Series B led by Lightspeed, bringing its total funding to $90M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240227/p14#a240227p14)
+ - [Future Apple hardware could work together to tell you about sounds in other rooms](https://appleinsider.com/articles/24/02/27/future-apple-hardware-could-work-together-to-tell-you-about-sounds-in-other-rooms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

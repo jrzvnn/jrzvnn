@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 💣 [Yeah Science](http://9gag.com/gag/anzpPOE)
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 😝 [Yeah Science](http://9gag.com/gag/anzpPOE)
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s finally happening! \ud83e\udd79`](http://9gag.com/gag/aqe3Vqj)
- - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 😝 [What genre is this ?](http://9gag.com/gag/aA0W9Y2)
+ - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 💣 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
+ - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---
 

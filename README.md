@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ThisCantBeReal](http://9gag.com/gag/aEqrKNK)
- - 😝 [Title](http://9gag.com/gag/amAjZNo)
- - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 👉 [China use cyanide to kill coralreef/fish near japan and philippines.](http://9gag.com/gag/a2KBgXp)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 💣 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)
+ - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
  - 😝 [Bye bye](http://9gag.com/gag/aEqr95p)
- - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
+ - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

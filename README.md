@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 💣 [Yeah Science](http://9gag.com/gag/anzpPOE)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 

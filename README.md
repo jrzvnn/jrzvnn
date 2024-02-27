@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wendy’s betrays spicy nugget lovers everywhere and will introduce surge pricing](https://www.theverge.com/2024/2/27/24084527/wendys-surge-dynamic-pricing-ai-2025)
+ - [Which iPhones and iPads will be supported with iOS 18 and iPadOS 18?](https://appleinsider.com/articles/24/02/27/which-iphones-and-ipads-will-be-supported-with-ios-18-and-ipados-18?utm_medium=rss)
  - [Bitcoin miners win legal battle to keep mum about energy use](https://www.theverge.com/2024/2/27/24079048/bitcoin-crypto-mining-energy-department-electricity-survey-restraining-order)
  - [Ford, Mercedes, and Tesla have the least problematic EV supply chains](https://www.theverge.com/2024/2/27/24084576/ford-mercedes-tesla-ev-supply-chain-leaderboard-climate)
- - [The VGHF built an archive of gaming history — and is making it available online](https://www.theverge.com/24064103/video-game-history-foundation-digital-library)
- - [Why Uber and Etsy came up so much in the Supreme Court’s social media arguments](https://www.theverge.com/2024/2/27/24084124/supreme-court-netchoice-moody-paxton-florida-texas-social-media-law-arguments)
- - [The UK Is GPS-Tagging Thousands of Migrants](https://www.wired.com/story/gps-tags-migrants/)<!-- TECH:END -->
+ - [The VGHF built an archive of gaming history — and is making it available online](https://www.theverge.com/24064103/video-game-history-foundation-digital-library)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

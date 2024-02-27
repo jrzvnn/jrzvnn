@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [Surprise](http://9gag.com/gag/a4oegWd)
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)<!-- MEMES:END -->
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/ay2gwOX)
+ - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
 
 ---
 

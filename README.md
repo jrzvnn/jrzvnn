@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 👉 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)<!-- MEMES:END -->
 
 ---
 

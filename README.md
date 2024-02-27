@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 💣 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
- - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
+ - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
 
 ---
 

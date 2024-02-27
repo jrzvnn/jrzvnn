@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay reports Q4 revenue up 2% YoY to $2.56B, vs. $2.51B est., GMV up 2% to $18.6B, and net income up 8% to $728M, and announces an additional $2B stock buyback &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240227/p30#a240227p30)
  - [OpenAI claims the Times cheated to get ChatGPT to regurgitate articles](https://www.theverge.com/2024/2/27/24084843/openai-new-york-times-dismiss-copyright-claims-lawsuit)
  - [TikTok removes all songs published by Universal Music Publishing Group, expanding a licensing spat; at first only songs owned or distributed by UMG were removed &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240227/p29#a240227p29)
  - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
- - [visionOS 1.1 includes the ability to delete most of the pre-installed apps](https://appleinsider.com/articles/24/02/27/visionos-11-includes-the-ability-to-delete-most-of-the-pre-installed-apps?utm_medium=rss)
- - [You can save $20 on several Nintendo Switch games for Pokémon Day](https://www.theverge.com/2024/2/27/24084528/best-pokemon-day-deals-legends-arceus-shining-pearl-brilliant-diamond-nintendo-switch-sale)<!-- TECH:END -->
+ - [visionOS 1.1 includes the ability to delete most of the pre-installed apps](https://appleinsider.com/articles/24/02/27/visionos-11-includes-the-ability-to-delete-most-of-the-pre-installed-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

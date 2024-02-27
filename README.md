@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
- - 💣 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 😝 [This is the kind of girl you&#39;re supposed to marry](http://9gag.com/gag/abvPwqL)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
+ - 💣 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 😝 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 👉 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)<!-- MEMES:END -->
 
 ---
 

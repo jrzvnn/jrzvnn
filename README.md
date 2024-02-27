@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [Yeah Science](http://9gag.com/gag/anzpPOE)
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
+ - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 ---
 

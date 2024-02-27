@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fourth visionOS 1.1 developer beta lands with more fixes](https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes?utm_medium=rss)
+ - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
+ - [Sonos’ first headphones now rumored to launch in June for $449](https://www.theverge.com/2024/2/27/24084802/sonos-headphones-june-release-date-rumor-party-speaker)
  - [Score a month-end $250 discount on Apple&#39;s 1TB MacBook Pro 14-inch](https://appleinsider.com/articles/24/02/27/score-a-month-end-250-discount-on-apples-1tb-macbook-pro-14-inch?utm_medium=rss)
- - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
- - [Docs: Google is paying a handful of independent publishers a five-figure sum for one year to use an unreleased suite of generative AI tools to post stories &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240227/p25#a240227p25)
- - [Cox Enterprises is buying OpenGov in a deal valuing the company, which provides cloud software for cities and state agencies, at $1.8B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240227/p24#a240227p24)
- - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

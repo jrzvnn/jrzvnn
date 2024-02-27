@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix confirms it’s cutting off Apple billing for grandfathered subscribers](https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions)
+ - [The US adds networking equipment company Sandvine to its entity list, banning it from obtaining US tech, for supplying Egypt with equipment used for censorship &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240226/p33#a240226p33)
  - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
  - [The CTO for US Central Command says AI developed for Project Maven was used to narrow down targets for 85+ air strikes in the Middle East on February 2 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240226/p32#a240226p32)
- - [Expedia plans to cut about 1,500 roles this year, mainly in its Product &amp; Technology division; the company had 17,100 employees at the end of 2023 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240226/p31#a240226p31)
- - [Sources: Shein is in the early stages of exploring a London IPO, as it has judged unlikely that the SEC will approve its IPO in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240226/p30#a240226p30)
- - [Canada introduces the Online Harms Act, which aims to hold platforms responsible for reducing exposure to damaging content and create a digital safety regulator &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/240226/p29#a240226p29)<!-- TECH:END -->
+ - [Best Internet Providers With No Data Caps     - CNET](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix confirms that it has started removing Apple iTunes billing for longtime subscribers, and now requires them to pay directly on its website &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240227/p13#a240227p13)
+ - [Tales of a shopping influencer](https://www.theverge.com/24084003/flip-shopping-influencer-fuji-x100vi-parts-pairing-vergecast)
  - [Glean, which uses AI to offer unified search across apps used at a company, raised a $200M+ Series D at a $2.2B valuation and says annualized revenue hit $39M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240227/p12#a240227p12)
  - [Pokémon Presents 2024: all the biggest news and trailers](https://www.theverge.com/2024/2/27/24083580/pokemon-presents-february-2024-news-trailers)
- - [Sony plans to lay off around 900 employees, or 8% of workforce, at its PlayStation division, and close its London Studio in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240227/p11#a240227p11)
- - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
- - [Sony is laying off 900 PlayStation employees](https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024)<!-- TECH:END -->
+ - [Sony plans to lay off around 900 employees, or 8% of workforce, at its PlayStation division, and close its London Studio in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240227/p11#a240227p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

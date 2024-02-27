@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
  - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 

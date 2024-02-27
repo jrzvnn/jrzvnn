@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
  - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)
+ - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
  - [Bloomberg data: BlackRock&#39;s bitcoin ETF set a single day trading volume record of $1.3B+ on February 26, beating its launch day record of $1B+; BTC hits ~$55K &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240226/p35#a240226p35)
  - [Nvidia’s free-tier GeForce Now will soon show ads while you’re waiting to play](https://www.theverge.com/2024/2/26/24084338/nvidia-geforce-now-ads-free-tier)
- - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Protein Powders for Women in 2024     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

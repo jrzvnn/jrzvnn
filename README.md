@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
+ - 😝 [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
  - 💣 [Yeah Science](http://9gag.com/gag/anzpPOE)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)<!-- MEMES:END -->
 
 ---
 

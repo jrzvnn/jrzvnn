@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save $20 on several Nintendo Switch games for Pokémon Day](https://www.theverge.com/2024/2/27/24084528/best-pokemon-day-deals-legends-arceus-shining-pearl-brilliant-diamond-nintendo-switch-sale)
  - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
  - [Apple is gearing up to celebrate spring with new Apple Watch band colors](https://appleinsider.com/articles/24/02/27/apple-is-gearing-up-to-celebrate-spring-with-new-apple-watch-band-colors?utm_medium=rss)
  - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
- - [Meta might demo a pair of ‘true’ AR smart glasses later in 2024](https://www.theverge.com/2024/2/27/24084909/meta-orion-ar-smart-glasses-rumor)
- - [Tumblr’s owner is striking deals with OpenAI and Midjourney for training data, says report](https://www.theverge.com/2024/2/27/24084884/tumblr-midjourney-openai-training-data-deal-report)<!-- TECH:END -->
+ - [Meta might demo a pair of ‘true’ AR smart glasses later in 2024](https://www.theverge.com/2024/2/27/24084909/meta-orion-ar-smart-glasses-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

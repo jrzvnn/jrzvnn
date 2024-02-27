@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony plans to lay off around 900 employees, or 8% of workforce, at its PlayStation division, and close its London Studio in the UK &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240227/p11#a240227p11)
+ - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
  - [Sony is laying off 900 PlayStation employees](https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024)
  - [Beachwaver B1 Review: Easy-to-Use Rotating Curling Iron](https://www.wired.com/review/beachwaver-b1-rotating-curling-iron/)
- - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)
- - [Samsung Shows Off Wrist Phone Among Weird and Wonderful Display Concepts     - CNET](https://www.cnet.com/pictures/samsung-shows-off-wrist-phone-among-weird-and-wonderful-display-concepts/#ftag=CAD590a51e)
- - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)<!-- TECH:END -->
+ - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

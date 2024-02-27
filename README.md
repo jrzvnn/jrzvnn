@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GameStop is taking 50 percent off Persona 5 Tactica and other hit titles](https://www.theverge.com/2024/2/27/24083598/persona-5-tactica-google-nest-wifi-pro-apple-airtags-deal-sale)
  - [Appfigures: Threads sees triple the daily downloads of X on iOS globally and over double the number of installs on Google Play, widening the gap late last year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240227/p21#a240227p21)
  - [&#39;Pokémon Legends: Z-A&#39; Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)
  - [Texas sues Pornhub owner for not adding age verification requirements](https://www.theverge.com/2024/2/27/24084615/texas-ken-paxton-pornhub-aylo-lawsuit-age-verification)
- - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)
- - [Sources: TikTok has replaced several senior executives, including the one running its trust and safety unit, giving the CEO more oversight of content moderation &lpar;The Information&rpar;](http://www.techmeme.com/240227/p19#a240227p19)<!-- TECH:END -->
+ - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

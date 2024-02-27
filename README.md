@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix ends subscriptions for legacy in-app payment users](https://appleinsider.com/articles/24/02/27/netflix-ends-subscriptions-for-legacy-in-app-payment-users?utm_medium=rss)
+ - [Sources: the BlackCat ransomware gang is behind the outage at UnitedHealth&#39;s technology unit that has disrupted services at pharmacies in the US for six days &lpar;Reuters&rpar;](http://www.techmeme.com/240226/p34#a240226p34)
  - [Netflix confirms it’s cutting off Apple billing for grandfathered subscribers](https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions)
- - [The US adds networking equipment company Sandvine to its entity list, banning it from obtaining US tech, for supplying Egypt with equipment used for censorship &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240226/p33#a240226p33)
- - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
- - [The CTO for US Central Command says AI developed for Project Maven was used to narrow down targets for 85+ air strikes in the Middle East on February 2 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240226/p32#a240226p32)
- - [Best Internet Providers With No Data Caps     - CNET](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qualcomm&#39;s New Modem Could Help Your Next Phone Work Faster at Home     - CNET](https://www.cnet.com/tech/mobile/qualcomms-new-modem-could-help-your-next-phone-work-faster-at-home/#ftag=CAD590a51e)
+ - [The US adds networking equipment company Sandvine to its entity list, banning it from obtaining US tech, for supplying Egypt with equipment used for censorship &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240226/p33#a240226p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

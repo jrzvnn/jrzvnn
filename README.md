@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 💣 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 😝 [Wholesome chaos](http://9gag.com/gag/aWGKrrK)
+ - 😝 [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - 💣 [Japan can fix this](http://9gag.com/gag/adPZAmB)
  - 😝 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [Cure for nagging](http://9gag.com/gag/aKE0R8N)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony is laying off 900 PlayStation employees](https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024)
+ - [Beachwaver B1 Review: Easy-to-Use Rotating Curling Iron](https://www.wired.com/review/beachwaver-b1-rotating-curling-iron/)
  - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)
  - [Samsung Shows Off Wrist Phone Among Weird and Wonderful Display Concepts     - CNET](https://www.cnet.com/pictures/samsung-shows-off-wrist-phone-among-weird-and-wonderful-display-concepts/#ftag=CAD590a51e)
- - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
- - [CNET Has a Bold New Look. Here&#39;s Why     - CNET](https://www.cnet.com/news/cnet-has-a-bold-new-look-heres-why/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate: Play Bluey and Dead Island 2 Now, and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-bluey-dead-island-2-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

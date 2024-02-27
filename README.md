@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - 💣 [She ugly](http://9gag.com/gag/a9qQw9D)
+ - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
+ - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
 
 ---
 

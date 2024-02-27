@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 👉 [She ugly](http://9gag.com/gag/a9qQw9D)<!-- MEMES:END -->
+ - 😝 [Clever marketing](http://9gag.com/gag/avQYj2W)
+ - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wendy’s betrays spicy nugget lovers everywhere and will introduce surge pricing](https://www.theverge.com/2024/2/27/24084527/wendys-surge-dynamic-pricing-ai-2025)
- - [Which iPhones and iPads will be supported with iOS 18 and iPadOS 18?](https://appleinsider.com/articles/24/02/27/which-iphones-and-ipads-will-be-supported-with-ios-18-and-ipados-18?utm_medium=rss)
- - [Bitcoin miners win legal battle to keep mum about energy use](https://www.theverge.com/2024/2/27/24079048/bitcoin-crypto-mining-energy-department-electricity-survey-restraining-order)
- - [Ford, Mercedes, and Tesla have the least problematic EV supply chains](https://www.theverge.com/2024/2/27/24084576/ford-mercedes-tesla-ev-supply-chain-leaderboard-climate)
- - [The VGHF built an archive of gaming history — and is making it available online](https://www.theverge.com/24064103/video-game-history-foundation-digital-library)<!-- TECH:END -->
+ - [Sources: TikTok has replaced several senior executives, including the one running its trust and safety unit, giving the CEO more oversight of content moderation &lpar;The Information&rpar;](http://www.techmeme.com/240227/p19#a240227p19)
+ - [Physical media week](https://www.theverge.com/entertainment/24054458/physical-media-preservation-discs-cartridges-digital)
+ - [Fortnite continues to expand with two new Lego games](https://www.theverge.com/2024/2/27/24084644/fortnite-new-lego-games-raft-survival-obby-fun)
+ - [Alabama IVF Patients Are Running Out of Time](https://www.wired.com/story/alabama-ivf-patients-state-supreme-court-ruling/)
+ - [Apple wants you to be able to touch and feel things in AR or VR](https://appleinsider.com/articles/24/02/27/apple-wants-you-to-be-able-to-touch-and-feel-things-in-ar-or-vr?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

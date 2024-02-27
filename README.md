@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Exodigo, which uses AI and sensors to make underground maps for energy, utility, transport, and construction companies, raised a $105M Series A &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240227/p9#a240227p9)
  - [Apple sues US Patent Office over augmented reality trademarks](https://appleinsider.com/articles/24/02/27/apple-sues-us-patent-office-over-augmented-reality-trademarks?utm_medium=rss)
  - [Stardew Valley is getting a massive March game content update](https://www.theverge.com/2024/2/27/24084461/stardew-valley-game-1-6-update-release-date-pc-mac-console)
  - [Inkitt, the self-publishing site that wants to use AI to pick and tweak the most compelling stories to distribute on its Galatea app, raised a $37M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p8#a240227p8)
- - [In amended filings, Alibaba discloses previously unknown stakes by the Chinese government in more than 12 business units, following an inquiry by the US SEC &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240227/p7#a240227p7)
- - [How the Pentagon Learned to Use Targeted Ads to Find its Targets—and Vladimir Putin](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)<!-- TECH:END -->
+ - [In amended filings, Alibaba discloses previously unknown stakes by the Chinese government in more than 12 business units, following an inquiry by the US SEC &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240227/p7#a240227p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

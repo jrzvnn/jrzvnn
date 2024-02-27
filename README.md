@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inkitt, the self-publishing site that wants to use AI to pick and tweak the most compelling stories to distribute on its Galatea app, raised a $37M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p8#a240227p8)
  - [In amended filings, Alibaba discloses previously unknown stakes by the Chinese government in more than 12 business units, following an inquiry by the US SEC &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240227/p7#a240227p7)
+ - [How the Pentagon Learned to Use Targeted Ads to Find its Targets—and Vladimir Putin](https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/)
  - [iPhone 17 and iPhone 17 Plus rumored to get Always-On and ProMotion displays](https://appleinsider.com/articles/24/02/27/always-on-and-promotion-come-to-iphone-17-and-iphone-17-plus?utm_medium=rss)
- - [Shadowfax, which operates a B2B logistics network in 2,500 Indian cities, raised a $100M Series E, bringing its total funding to $220M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240227/p6#a240227p6)
- - [Microsoft says its investment in Mistral AI amounts to &amp;euro;15M; EU regulators plan to analyze the investment, which could eventually lead to a formal investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240227/p5#a240227p5)
- - [Nvidia plans to start showing free-tier users of GeForce Now &quot;up to two minutes&quot; of video ads while waiting in queue to start a cloud gaming session &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p4#a240227p4)<!-- TECH:END -->
+ - [Shadowfax, which operates a B2B logistics network in 2,500 Indian cities, raised a $100M Series E, bringing its total funding to $220M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240227/p6#a240227p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

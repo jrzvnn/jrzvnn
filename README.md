@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sonos delays its launch of $449 headphones to June, a month later than previously hoped, after hitting software snags, and aims to make up to 1M units &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p23#a240227p23)
  - [The Humane AI Pin worked better than I expected — until it didn’t](https://www.theverge.com/24084444/humane-ai-pin-hands-on)
  - [Filing: OpenAI asks a US federal judge to dismiss parts of NYT&#39;s copyright suit, alleging it &quot;paid someone to hack OpenAI&#39;s products&quot; and violated OpenAI&#39;s TOS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240227/p22#a240227p22)
  - [GameStop is taking 50 percent off Persona 5 Tactica and other hit titles](https://www.theverge.com/2024/2/27/24083598/persona-5-tactica-google-nest-wifi-pro-apple-airtags-deal-sale)
- - [Appfigures: Threads sees triple the daily downloads of X on iOS globally and over double the number of installs on Google Play, widening the gap late last year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240227/p21#a240227p21)
- - [‘Pokémon Legends: Z-A’ Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)<!-- TECH:END -->
+ - [Appfigures: Threads sees triple the daily downloads of X on iOS globally and over double the number of installs on Google Play, widening the gap late last year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240227/p21#a240227p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

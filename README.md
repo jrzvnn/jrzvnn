@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
- - 💣 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Surprise](http://9gag.com/gag/a4oegWd)
+ - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 👉 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)<!-- MEMES:END -->
 
 ---
 

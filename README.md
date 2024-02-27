@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bye bye](http://9gag.com/gag/aEqr95p)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 😝 [She ugly](http://9gag.com/gag/a9qQw9D)
- - 👉 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)<!-- MEMES:END -->
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 😝 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 💣 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

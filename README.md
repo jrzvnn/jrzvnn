@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
  - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 💣 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---
 

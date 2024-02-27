@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What genre is this ?](http://9gag.com/gag/aA0W9Y2)
- - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
- - 💣 [But there&#39;s no difference lol](http://9gag.com/gag/a8qPNx3)
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
  - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---

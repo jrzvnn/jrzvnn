@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aqara kick-starts the first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
+ - [Docs: Google is paying a handful of independent publishers a five-figure sum for one year to use an unreleased suite of generative AI tools to post stories &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240227/p25#a240227p25)
  - [Cox Enterprises is buying OpenGov in a deal valuing the company, which provides cloud software for cities and state agencies, at $1.8B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240227/p24#a240227p24)
  - [Apple&#39;s annual shareholder meeting tackling conservative fears, China, equality, &amp; AI](https://appleinsider.com/articles/24/02/26/apple-shareholders-to-vote-on-ai-equality-conservatives-concerns-at-annual-meeting?utm_medium=rss)
- - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)
- - [Sources: Sonos delays its launch of $449 headphones to June, a month later than previously hoped, after hitting software snags, and aims to make up to 1M units &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p23#a240227p23)
- - [The Humane AI Pin worked better than I expected — until it didn’t](https://www.theverge.com/24084444/humane-ai-pin-hands-on)<!-- TECH:END -->
+ - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [We need peoooopleeee](http://9gag.com/gag/a7q4xdq)
- - 💣 [Title](http://9gag.com/gag/amAjZNo)
- - 😝 [Florida resident is asking a valid question](http://9gag.com/gag/aYV83Gv)
- - 👉 [Hundred people gathered to pay their respects to Ann Delaney, 47yo Irish mother who died while sleeping rough in central Dublin because she was homeless. Illegal immigrants are given free homes,4 stars hotels,&amp; food, while poor native Europeans sleep on streets. Unbearable sad](http://9gag.com/gag/amAjeMy)<!-- MEMES:END -->
+ - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 😝 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
+ - 💣 [Yeah Science](http://9gag.com/gag/anzpPOE)
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
 
 ---
 

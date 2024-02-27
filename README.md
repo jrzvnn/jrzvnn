@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
  - 😝 [Yeah Science](http://9gag.com/gag/anzpPOE)
+ - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
  - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 👉 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)<!-- MEMES:END -->
 
 ---
 

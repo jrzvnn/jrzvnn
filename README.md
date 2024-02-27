@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 💣 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
+ - 💣 [Oh god oh f**k](http://9gag.com/gag/amAjZVo)
+ - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
  - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---

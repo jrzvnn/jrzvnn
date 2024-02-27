@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
+ - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)
  - [Decade-old Apple Car project may be completely dead](https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead?utm_medium=rss)
  - [Apple’s electric car project is dead](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down)
- - [The Weird, Wacky Gizmos and Gadgets We Saw at MWC 2024](https://www.wired.com/story/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/)
- - [Sources: Apple is winding down Project Titan, its decade-long effort to make an electric car; employees on some car teams will move to Apple&#39;s AI division &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p27#a240227p27)
- - [Podcasting’s data rules get a refresh](https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist)<!-- TECH:END -->
+ - [The Weird, Wacky Gizmos and Gadgets We Saw at MWC 2024](https://www.wired.com/story/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

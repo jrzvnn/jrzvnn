@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MWC 2024: all the phones, wearables, and gadgets announced in Barcelona](https://www.theverge.com/24078219/mwc-barcelona-2024-news-rumors-products-announcements)
+ - [Meta might demo a pair of ‘true’ AR smart glasses later in 2024](https://www.theverge.com/2024/2/27/24084909/meta-orion-ar-smart-glasses-rumor)
+ - [Tumblr’s owner is striking deals with OpenAI and Midjourney for training data, says report](https://www.theverge.com/2024/2/27/24084884/tumblr-midjourney-openai-training-data-deal-report)
  - [Leaked presentation: Intel&#39;s 14A process is slated for production in 2026, and its previously unannounced Intel 10A, its first 1nm chip, is set for late 2027 &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240227/p28#a240227p28)
- - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)
- - [iPhone 16 Pro fidget-spinner camera bump rumor is bogus](https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus?utm_medium=rss)
- - [Decade-old Apple Car project may be completely dead](https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead?utm_medium=rss)
- - [Apple’s electric car project is dead](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down)<!-- TECH:END -->
+ - [One week before EU&#39;s DMA kicks in, iOS 17.4 &amp; iPadOS 17.4 release candidates are out](https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

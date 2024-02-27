@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 💣 [That damn smile](http://9gag.com/gag/aQEwK8e)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [That damn smile](http://9gag.com/gag/aQEwK8e)
+ - 😝 [Trump, is that you?](http://9gag.com/gag/aVbn67y)
+ - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 😝 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)
  - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
 
 ---

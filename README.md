@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)
  - [Sources: TikTok has replaced several senior executives, including the one running its trust and safety unit, giving the CEO more oversight of content moderation &lpar;The Information&rpar;](http://www.techmeme.com/240227/p19#a240227p19)
  - [Physical media week](https://www.theverge.com/entertainment/24054458/physical-media-preservation-discs-cartridges-digital)
  - [Fortnite continues to expand with two new Lego games](https://www.theverge.com/2024/2/27/24084644/fortnite-new-lego-games-raft-survival-obby-fun)
- - [Alabama IVF Patients Are Running Out of Time](https://www.wired.com/story/alabama-ivf-patients-state-supreme-court-ruling/)
- - [Apple wants you to be able to touch and feel things in AR or VR](https://appleinsider.com/articles/24/02/27/apple-wants-you-to-be-able-to-touch-and-feel-things-in-ar-or-vr?utm_medium=rss)<!-- TECH:END -->
+ - [Alabama IVF Patients Are Running Out of Time](https://www.wired.com/story/alabama-ivf-patients-state-supreme-court-ruling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

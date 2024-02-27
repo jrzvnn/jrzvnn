@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Nintendo sues the makers of Switch emulator Yuzu in US federal court, alleging it is designed to circumvent Nintendo&#39;s encryption and facilitates piracy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p33#a240227p33)
  - [New Atomic Stealer malware variant harder to detect in macOS](https://appleinsider.com/articles/24/02/27/new-atomic-stealer-malware-variant-harder-to-detect-in-macos?utm_medium=rss)
  - [Nintendo sues Switch emulator Yuzu for ‘facilitating piracy at a colossal scale’](https://www.theverge.com/2024/2/27/24085075/nintendo-switch-emulator-yuzu-lawsuit)
  - [Sources: Klarna is in talks with banks for a potential US IPO as soon as Q3 2024 and is considering seeking a valuation of around $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p32#a240227p32)
- - [Bumble reports Q4 revenue up 13% YoY to $273.6M, a $32M net loss, vs. $159.2M YoY, and plans to eliminate 350 roles, about 37% of its workforce &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240227/p31#a240227p31)
- - [Change Healthcare Ransomware Attack: BlackCat Hackers Quickly Returned After FBI Bust](https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/)<!-- TECH:END -->
+ - [Bumble reports Q4 revenue up 13% YoY to $273.6M, a $32M net loss, vs. $159.2M YoY, and plans to eliminate 350 roles, about 37% of its workforce &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240227/p31#a240227p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

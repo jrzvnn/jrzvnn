@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK Is GPS-Tagging Thousands of Migrants](https://www.wired.com/story/gps-tags-migrants/)
+ - [AI-based photo editing app PhotoRoom raised $43M led by Balderton Capital at a $500M valuation, says it has 150M+ downloads and processes ~5B images annually &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p17#a240227p17)
  - [Sony says its PlayStation layoffs will also impact game makers Insomniac, Naughty Dog, and Guerrilla, three of its most successful subsidiaries &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240227/p16#a240227p16)
  - [Limited Run gives digital games a physical legacy](https://www.theverge.com/24034994/limited-run-games-physical-disc-cart)
- - [Pokémon Legends: Z-A teased for 2025 release](https://www.theverge.com/2024/2/27/24083767/pokemon-legends-z-a-nintendo-switch-2025-launch-date)
- - [HomePod with big touchscreen likely isn&#39;t coming in 2024](https://appleinsider.com/articles/24/02/25/homepod-with-big-touchscreen-likely-isnt-coming-in-2024?utm_medium=rss)
- - [Lapse, a photo app that makes users wait to share unedited pictures as they are &quot;developed&quot; like film, raised a $30M Series A, sources say at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p15#a240227p15)<!-- TECH:END -->
+ - [Pokémon Legends: Z-A teased for 2025 release](https://www.theverge.com/2024/2/27/24083767/pokemon-legends-z-a-nintendo-switch-2025-launch-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

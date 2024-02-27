@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever marketing](http://9gag.com/gag/avQYj2W)
- - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 💣 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 👉 [It&#39;s always them](http://9gag.com/gag/a7q4xom)<!-- MEMES:END -->
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
+ - 💣 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
 
 ---
 

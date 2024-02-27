@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Humane AI Pin worked better than I expected — until it didn’t](https://www.theverge.com/24084444/humane-ai-pin-hands-on)
+ - [Filing: OpenAI asks a US federal judge to dismiss parts of NYT&#39;s copyright suit, alleging it &quot;paid someone to hack OpenAI&#39;s products&quot; and violated OpenAI&#39;s TOS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240227/p22#a240227p22)
  - [GameStop is taking 50 percent off Persona 5 Tactica and other hit titles](https://www.theverge.com/2024/2/27/24083598/persona-5-tactica-google-nest-wifi-pro-apple-airtags-deal-sale)
  - [Appfigures: Threads sees triple the daily downloads of X on iOS globally and over double the number of installs on Google Play, widening the gap late last year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240227/p21#a240227p21)
- - [&#39;Pokémon Legends: Z-A&#39; Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)
- - [Texas sues Pornhub owner for not adding age verification requirements](https://www.theverge.com/2024/2/27/24084615/texas-ken-paxton-pornhub-aylo-lawsuit-age-verification)
- - [Seacom says a subsea cable was damaged in the area where Houthi fighters are targeting ships, highlighting how vulnerable critical subsea infrastructure can be &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240227/p20#a240227p20)<!-- TECH:END -->
+ - [‘Pokémon Legends: Z-A’ Is Coming in 2025. Will a New Nintendo Switch Join It?](https://www.wired.com/story/pokemon-legends-z-a-nintendo-switch-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

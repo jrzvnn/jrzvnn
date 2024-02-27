@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be kind. We&#39;re all human. Well, most.](http://9gag.com/gag/aYV86Rq)
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 💣 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 👉 [Sliver Surfer](http://9gag.com/gag/aDYpKRO)<!-- MEMES:END -->
+ - 😝 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
+ - 💣 [She ugly](http://9gag.com/gag/a9qQw9D)
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
 
 ---
 

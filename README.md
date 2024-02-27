@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)
- - 😝 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/amAjZNo)
+ - 😝 [Google challenge](http://9gag.com/gag/aeQonEB)
+ - 💣 [Say hello to Ghibli...](http://9gag.com/gag/aMERLGG)
+ - 😝 [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - 👉 [Japan can fix this](http://9gag.com/gag/adPZAmB)<!-- MEMES:END -->
 
 ---
 

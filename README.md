@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s free-tier GeForce Now will soon show ads while you’re waiting to play](https://www.theverge.com/2024/2/26/24084338/nvidia-geforce-now-ads-free-tier)
  - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
  - [Best Protein Powders for Women in 2024     - CNET](https://www.cnet.com/health/nutrition/best-protein-powders-for-women/#ftag=CAD590a51e)
  - [&#39;Shōgun&#39;: Release Time, Trailer and What You Should Know About the FX Series     - CNET](https://www.cnet.com/tech/services-and-software/shogun-release-time-trailer-what-you-should-know-about-the-fx-series/#ftag=CAD590a51e)
- - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?     - CNET](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)
- - [Netflix ends subscriptions for legacy in-app payment users](https://appleinsider.com/articles/24/02/27/netflix-ends-subscriptions-for-legacy-in-app-payment-users?utm_medium=rss)<!-- TECH:END -->
+ - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?     - CNET](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

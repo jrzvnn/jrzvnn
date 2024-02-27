@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin miners win legal battle to keep mum about energy use](https://www.theverge.com/2024/2/27/24079048/bitcoin-crypto-mining-energy-department-electricity-survey-restraining-order)
  - [Ford, Mercedes, and Tesla have the least problematic EV supply chains](https://www.theverge.com/2024/2/27/24084576/ford-mercedes-tesla-ev-supply-chain-leaderboard-climate)
  - [The VGHF built an archive of gaming history — and is making it available online](https://www.theverge.com/24064103/video-game-history-foundation-digital-library)
  - [Why Uber and Etsy came up so much in the Supreme Court’s social media arguments](https://www.theverge.com/2024/2/27/24084124/supreme-court-netchoice-moody-paxton-florida-texas-social-media-law-arguments)
- - [The UK Is GPS-Tagging Thousands of Migrants](https://www.wired.com/story/gps-tags-migrants/)
- - [AI-based photo editing app PhotoRoom raised $43M led by Balderton Capital at a $500M valuation, says it has 150M+ downloads and processes ~5B images annually &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240227/p17#a240227p17)<!-- TECH:END -->
+ - [The UK Is GPS-Tagging Thousands of Migrants](https://www.wired.com/story/gps-tags-migrants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

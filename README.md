@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 😝 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 💣 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 😝 [A.I.](http://9gag.com/gag/agoMbEq)
- - 👉 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)<!-- MEMES:END -->
+ - 😝 [A Meme origin](http://9gag.com/gag/a04AgdL)
+ - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 👉 [Evil cannot create it can only destroy](http://9gag.com/gag/a9qQwVK)<!-- MEMES:END -->
 
 ---
 

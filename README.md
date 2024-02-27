@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks currently trending](http://9gag.com/gag/aWGKAKA)
- - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
- - 💣 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/ay2gwOX)
- - 👉 [How the turn tables](http://9gag.com/gag/aqe3oRZ)<!-- MEMES:END -->
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 😝 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
+ - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 😝 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)
+ - 👉 [She ugly](http://9gag.com/gag/a9qQw9D)<!-- MEMES:END -->
 
 ---
 

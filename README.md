@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)
+ - [Samsung Shows Off Wrist Phone Among Weird and Wonderful Display Concepts     - CNET](https://www.cnet.com/pictures/samsung-shows-off-wrist-phone-among-weird-and-wonderful-display-concepts/#ftag=CAD590a51e)
  - [Apple&#39;s &#39;Ask&#39; project may be far more than just an AI-assisted support tool](https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool?utm_medium=rss)
- - [Mortgage Interest Rates for Feb. 27, 2024: Rates Move Up for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-for-feb-27-2024-rates-move-up-for-homeseekers/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Feb. 27, 2024: Rate Dips     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-feb-27-2024-rate-dips/#ftag=CAD590a51e)
- - [Tel Aviv-based Exodigo, which uses AI and sensors to make underground maps for energy, utility, transport, and construction companies, raised a $105M Series A &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240227/p9#a240227p9)<!-- TECH:END -->
+ - [CNET Has a Bold New Look. Here&#39;s Why     - CNET](https://www.cnet.com/news/cnet-has-a-bold-new-look-heres-why/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate: Play Bluey and Dead Island 2 Now, and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-bluey-dead-island-2-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

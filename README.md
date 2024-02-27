@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good genetics](http://9gag.com/gag/a2KB36Y)
- - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 💣 [Yeah Science](http://9gag.com/gag/anzpPOE)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 👉 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)<!-- MEMES:END -->
+ - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
+ - 😝 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
+ - 💣 [Her poorly thought out revenge plan backfired spectacularly](http://9gag.com/gag/a04AgbZ)
+ - 😝 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
+ - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
 
 ---
 

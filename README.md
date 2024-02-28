@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: cloud storage service Egnyte has hired underwriters for a US IPO as early as this year that could value it at $3B+; Egnyte was valued at $460M in 2018 &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p37#a240228p37)
  - [Gemini agrees to return over $1B to customers and pay a $37M fine in a settlement with the New York Department of Financial Services related to Gemini Earn &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240228/p36#a240228p36)
  - [William Gibson&#39;s &#39;Neuromancer&#39; is coming to Apple TV+](https://appleinsider.com/articles/24/02/28/william-gibsons-neuromancer-is-coming-to-apple-tv?utm_medium=rss)
  - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)
- - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Best Air Purifier Deals: Up to $229 Off Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

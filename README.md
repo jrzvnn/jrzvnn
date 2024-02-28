@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honda’s ‘extended reality’ is a mash-up of VR and motorized wheelchairs](https://www.theverge.com/2024/2/28/24085556/honda-extended-reality-vr-uni-one-mobility-wheelchair)
+ - [Biden orders crackdown on selling Americans’ personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
+ - [Smart lighting stalwart Lifx reemerges with a new line of outdoor lights](https://www.theverge.com/2024/2/28/24085310/lifx-outdoor-smart-lights-price-release-date-specs)
  - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)
- - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)
- - [Kuo: Vision Pro demand is higher than Apple originally expected, with US shipments expected to hit 200-250k units this year; return rates are now below 1% &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240228/p20#a240228p20)
- - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
- - [Apple Vision Pro ongoing demand is in line with all Apple launches](https://appleinsider.com/articles/24/02/28/apple-vision-pro-ongoing-demand-is-in-line-with-all-apple-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

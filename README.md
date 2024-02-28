@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
- - [Thrasio, which raised $3B+ in equity and debt to acquire third-party Amazon sellers, files for Chapter 11 bankruptcy and secures $90M in emergency funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240228/p11#a240228p11)
- - [Klarna reports 2023 revenue up 22% YoY to ~$2.28B, a $241M net loss, down from $1.01B in 2022, with credit losses falling by 32% in 2023 to $369M &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p10#a240228p10)
- - [Viber Is Adding Folders to Help Organize Your Chats How You Want     - CNET](https://www.cnet.com/tech/mobile/viber-is-adding-folders-to-help-organize-your-chats-how-you-want/#ftag=CAD590a51e)
- - [These 6 Common Tax Mistakes Could Trigger an IRS Audit. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/these-6-common-tax-mistakes-could-trigger-an-irs-audit-heres-what-to-avoid/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [President Biden signs an EO that aims to limit the mass-sale of Americans&#39; personal data like geolocation to &quot;countries of concern&quot;, including China and Russia &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240228/p12#a240228p12)
+ - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
+ - [Decade-old Apple Car project may be completely dead](https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead?utm_medium=rss)
+ - [The Disney Imagineer Building You a Real-Life Holodeck](https://www.wired.com/story/lanny-smoot-disney-imagineer-lightsaber-holodeck/)
+ - [The Vision Pro isn’t destroying your eyes, but maybe get some eye drops](https://www.theverge.com/2024/2/28/24083539/apple-vision-pro-eye-strain-health-vr-headsets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

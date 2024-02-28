@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)
  - [A detailed look at the modern chip manufacturing process, involving more than a thousand precisely controlled steps to create a single integrated circuit &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p14#a240228p14)
+ - [Google&#39;s 256GB Pixel Tablet Costs Less Than the 128GB Model Today Only     - CNET](https://www.cnet.com/deals/googles-256gb-pixel-tablet-costs-less-than-the-128gb-model-today-only/#ftag=CAD590a51e)
  - [Apple Music adds new daily &#39;Heavy Rotation Mix&#39;](https://appleinsider.com/articles/24/02/28/apple-music-adds-new-daily-heavy-rotation-mix?utm_medium=rss)
- - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
- - [Never Drink Cold Coffee Again With $50 Off Ember&#39;s Smart Mug 2 Today     - CNET](https://www.cnet.com/deals/never-drink-cold-coffee-again-with-50-off-embers-smart-mug-2-today/#ftag=CAD590a51e)
- - [Venture funding to Black-founded US startups in 2023 totaled $705M across 191 deals, or less than 0.5% of all venture funding, down from $2.4B in 2022 &lpar;Crunchbase News&rpar;](http://www.techmeme.com/240228/p13#a240228p13)<!-- TECH:END -->
+ - [How to Watch The Food Network Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-food-network-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

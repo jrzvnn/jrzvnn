@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro return rate is about the same as the iPhone 15 Pro](https://appleinsider.com/articles/24/02/28/apple-vision-pro-return-rate-is-about-the-same-as-the-iphone-15-pro?utm_medium=rss)
+ - [Nemo Mayfly Osmo Review: A Lightweight 2-Person Backpacking Tent](https://www.wired.com/review/nemo-equipment-mayfly-osmo-2-person-tent/)
+ - [From Eliza to ChatGPT: why people spent 60 years building chatbots](https://www.theverge.com/24054603/chatbot-chatgpt-eliza-history-ai-assistants-video)
  - [Sources: Meta plans to launch Llama 3 in July, as it tries to overcome a perceived problem that Llama 2 is too &quot;safe&quot; with its answers about contentious topics &lpar;The Information&rpar;](http://www.techmeme.com/240228/p18#a240228p18)
- - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)
- - [The case for 4K Blu-ray in a world of streaming](https://www.theverge.com/24046669/4k-blu-ray-streaming-physical-media-bitrate-picture-audio-quality-collector)
- - [Amazon Echo Hub Review: Bare-Bones Smart Display](https://www.wired.com/review/amazon-echo-hub-review/)
- - [This DIY AirPods Max mod means you can stop waiting for a USB-C upgrade](https://www.theverge.com/2024/2/28/24085141/apple-airpods-max-usb-c-ken-pillonel-mod)<!-- TECH:END -->
+ - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

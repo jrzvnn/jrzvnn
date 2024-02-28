@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung launches 36Gb 12Hi HBM3E DRAM for AI, slated for mass production in H1 2024, with 50%+ more peak bandwidth and capacity compared to its previous HBM gen &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240228/p3#a240228p3)
  - [Google CEO says Gemini AI diversity errors are ‘completely unacceptable’](https://www.theverge.com/2024/2/28/24085445/google-ceo-gemini-ai-diversity-scandal-employee-memo)
  - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)
  - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)
- - [In abandoning plans for a self-driving car, Apple is giving up on billions in potential revenue and hoping AI, Vision Pro, and other bets make up the difference &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p40#a240227p40)
- - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)<!-- TECH:END -->
+ - [In abandoning plans for a self-driving car, Apple is giving up on billions in potential revenue and hoping AI, Vision Pro, and other bets make up the difference &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p40#a240227p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

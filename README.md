@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [Imagine smoke this](http://9gag.com/gag/aeQovv5)
+ - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
+ - 💣 [The car slammed into a mother and daughter, k**ling them both instantly. A few hours prior he also k**led 2 people. He was then released on bail the next day. Can you guess why?](http://9gag.com/gag/az2NWoK)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
  - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
 

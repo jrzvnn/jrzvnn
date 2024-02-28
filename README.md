@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 💣 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 💣 [Name a movie that everybody say its bad but for you it was a good one, ill start](http://9gag.com/gag/az2Nndm)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
+ - 👉 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)<!-- MEMES:END -->
 
 ---
 

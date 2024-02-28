@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the real &#39;Masters of the Air&#39; in Apple&#39;s new documentary](https://appleinsider.com/articles/24/02/28/meet-the-real-masters-of-the-air-in-apples-new-documentary?utm_medium=rss)
+ - [Memo: SBF&#39;s lawyers suggest a short sentence of five to six years in prison, citing medical conditions, including autism, and his philanthropic giving &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p22#a240228p22)
  - [Cancelling the Apple Car is a good move, says Morgan Stanley](https://appleinsider.com/articles/24/02/28/cancelling-the-apple-car-is-a-good-move-says-morgan-stanley?utm_medium=rss)
  - [Ethereum liquid restaking protocol ether.fi raised a $23M Series A led by Bullish Capital and CoinFund, as the total value locked on the protocol rises to $1.6B &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240228/p21#a240228p21)
- - [Adobe’s new prototype generative AI tool is the ‘Photoshop’ of music-making and editing](https://www.theverge.com/2024/2/28/24085551/adobe-project-music-genai-control-prototype-tool-hot-pod)
- - [Honda’s ‘extended reality’ is a mash-up of VR and motorized wheelchairs](https://www.theverge.com/2024/2/28/24085556/honda-extended-reality-vr-uni-one-mobility-wheelchair)
- - [Biden orders crackdown on selling Americans’ personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)<!-- TECH:END -->
+ - [Adobe’s new prototype generative AI tool is the ‘Photoshop’ of music-making and editing](https://www.theverge.com/2024/2/28/24085551/adobe-project-music-genai-control-prototype-tool-hot-pod)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

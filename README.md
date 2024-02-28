@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s your midnight food?](http://9gag.com/gag/a9qQQro)
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 💣 [Why are you like this?](http://9gag.com/gag/adPZZg9)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 💣 [Women](http://9gag.com/gag/a8qPZ36)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)<!-- MEMES:END -->
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---
 

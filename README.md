@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alleged renders of Samsung&#39;s Galaxy Z Fold 6 show a boxy frame, flat sides, and dimensions that make it slightly shorter and wider than its predecessor &lpar;Mehtab Ansari/Smartprix&rpar;](http://www.techmeme.com/240228/p30#a240228p30)
  - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)
  - [Biden Executive Order Bans Sale of US Data to China, Russia. Good Luck](https://www.wired.com/story/biden-data-broker-executive-order/)
  - [Google’s 256GB Pixel Tablet is on sale for its best price yet](https://www.theverge.com/2024/2/28/24084762/google-pixel-tablet-sonic-origins-plus-eufy-max-11s-robot-vacuum-deal-sale)
- - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
- - [Salesforce CEO Marc Benioff tells a reporter, who is looking into his Hawaii land acquisition, that he knows where she is staying and her personal details &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240228/p28#a240228p28)<!-- TECH:END -->
+ - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

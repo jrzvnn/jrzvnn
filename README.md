@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cure for nagging](http://9gag.com/gag/aKE0R8N)
- - 😝 [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)
+ - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
+ - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [They don&#39;t make movies like this anymore](http://9gag.com/gag/aoKrXMm)<!-- MEMES:END -->
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

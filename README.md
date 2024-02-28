@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
- - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 💣 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
- - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Women](http://9gag.com/gag/a8qPZ36)
+ - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 😝 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

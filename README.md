@@ -178,7 +178,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
  - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
  - 💣 [Women](http://9gag.com/gag/a8qPZ36)
- - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
+ - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
  - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---

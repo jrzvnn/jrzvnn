@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
- - 😝 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)
+ - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
+ - 💣 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Nobody can convince me that this isn&#39;t a top 10 show ever.](http://9gag.com/gag/aZDAAq9)<!-- MEMES:END -->
+ - 👉 [Wtf](http://9gag.com/gag/aNwx6rr)<!-- MEMES:END -->
 
 ---
 

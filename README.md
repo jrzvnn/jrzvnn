@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)
+ - [Apple is turning William Gibson’s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
  - [Snowflake says that CEO Frank Slootman is retiring, and reports Q4 revenue up 32% YoY to $774.7M and Q1 product revenue guidance below est.; SNOW drops 23%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240228/p34#a240228p34)
  - [Tubi’s new redesign wants to push you down the rabbit hole](https://www.theverge.com/2024/2/28/24085869/tubi-redesign-shows-movies-turple)
- - [Salesforce reports Q4 revenue up 11% YoY to $9.29B, vs. $9.2B est., FY 2025 revenue guidance below est., and announces a $10B increase in its share buyback plan &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240228/p33#a240228p33)
- - [EA plans to cut 5% of its workforce, part of a plan that includes reducing office space and sunsetting some games; EA employed 13,400 workers as of March 2023 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240228/p32#a240228p32)
- - [Substack’s platform now has direct messages](https://www.theverge.com/2024/2/28/24085931/substack-direct-message-creators-x-meta)<!-- TECH:END -->
+ - [Salesforce reports Q4 revenue up 11% YoY to $9.29B, vs. $9.2B est., FY 2025 revenue guidance below est., and announces a $10B increase in its share buyback plan &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240228/p33#a240228p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

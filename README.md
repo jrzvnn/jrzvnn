@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
  - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 💣 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)<!-- MEMES:END -->
 
 ---
 

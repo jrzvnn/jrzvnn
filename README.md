@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s 256GB Pixel Tablet is on sale for its best price yet](https://www.theverge.com/2024/2/28/24084762/google-pixel-tablet-sonic-origins-plus-eufy-max-11s-robot-vacuum-deal-sale)
  - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
  - [Salesforce CEO Marc Benioff tells a reporter, who is looking into his Hawaii land acquisition, that he knows where she is staying and her personal details &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240228/p28#a240228p28)
  - [New regulation could stop abusers from stalking via connected cars](https://www.theverge.com/2024/2/28/24085723/fcc-domestic-abuse-survivors-connected-cars-proposed-rule)
- - [Sources: Nigeria detains two senior Binance executives who flew to the country following its decision last week to ban several crypto trading websites &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p27#a240228p27)
- - [Amazon Just Got Banned From the EU Parliament](https://www.wired.com/story/amazon-european-parliament-ban/)<!-- TECH:END -->
+ - [This Tineco A11 Cordless Stick Vacuum Can Be Yours for Just $189 Right Now     - CNET](https://www.cnet.com/deals/this-tineco-a11-cordless-stick-vacuum-can-be-yours-for-just-189-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

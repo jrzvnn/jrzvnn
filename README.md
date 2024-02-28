@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta CEO Mark Zuckerberg met with LG executives in South Korea to discuss a stronger partnership on XR devices as well as a potential collaboration in AI &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240228/p8#a240228p8)
+ - [Sources: Gemini&#39;s image generation tool had a technical fix to reduce bias in its outputs but Google didn&#39;t anticipate the overcorrection and wasn&#39;t transparent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p7#a240228p7)
  - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)
  - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)
- - [Filing: Applied Materials discloses &quot;multiple subpoenas&quot; as recently as February from US agencies, including the SEC, about the company&#39;s Chinese business &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p4#a240228p4)
- - [Honor&#39;s Smart Ring Is Coming For Oura Too     - CNET](https://www.cnet.com/tech/mobile/honors-smart-ring-is-coming-for-oura-too/#ftag=CAD590a51e)
- - [Samsung launches 36Gb 12Hi HBM3E DRAM for AI, slated for mass production in H1 2024, with 50%+ more peak bandwidth and capacity compared to its previous HBM gen &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240228/p3#a240228p3)<!-- TECH:END -->
+ - [Filing: Applied Materials discloses &quot;multiple subpoenas&quot; as recently as February from US agencies, including the SEC, about the company&#39;s Chinese business &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p4#a240228p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe and some investors agreed to buy $1B+ of current and ex-employees&#39; shares, valuing it at $65B, up from $50B in 2023, but down from $95B in 2021 &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p15#a240228p15)
+ - [Google Podcasts Is Going Away. Here&#39;s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
  - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)
  - [A detailed look at the modern chip manufacturing process, involving more than a thousand precisely controlled steps to create a single integrated circuit &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p14#a240228p14)
- - [Google&#39;s 256GB Pixel Tablet Costs Less Than the 128GB Model Today Only     - CNET](https://www.cnet.com/deals/googles-256gb-pixel-tablet-costs-less-than-the-128gb-model-today-only/#ftag=CAD590a51e)
- - [Apple Music adds new daily &#39;Heavy Rotation Mix&#39;](https://appleinsider.com/articles/24/02/28/apple-music-adds-new-daily-heavy-rotation-mix?utm_medium=rss)
- - [How to Watch The Food Network Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-food-network-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s 256GB Pixel Tablet Costs Less Than the 128GB Model Today Only     - CNET](https://www.cnet.com/deals/googles-256gb-pixel-tablet-costs-less-than-the-128gb-model-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

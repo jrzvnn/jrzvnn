@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Intercept, Raw Story, and AlterNet sue OpenAI and Microsoft](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright)
  - [Five Apple Vision Pro Cinema Environments that we&#39;d like to see](https://appleinsider.com/articles/24/02/28/five-apple-vision-pro-cinema-environments-that-wed-like-to-see?utm_medium=rss)
  - [Alleged renders of Samsung&#39;s Galaxy Z Fold 6 show a boxy frame, flat sides, and dimensions that make it slightly shorter and wider than its predecessor &lpar;Mehtab Ansari/Smartprix&rpar;](http://www.techmeme.com/240228/p30#a240228p30)
  - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)
- - [Nothing Phone 2A Arrives to MWC 2024 Ahead of March 5 Reveal     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2a-arrives-to-mwc-2024-ahead-of-march-5-reveal/#ftag=CAD590a51e)
- - [Snag a Samsung Galaxy Tab A9 Plus for Under $200 at Best Buy and Amazon     - CNET](https://www.cnet.com/deals/snag-a-samsung-galaxy-tab-a9-plus-for-under-200-at-best-buy-and-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing Phone 2A Arrives to MWC 2024 Ahead of March 5 Reveal     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2a-arrives-to-mwc-2024-ahead-of-march-5-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

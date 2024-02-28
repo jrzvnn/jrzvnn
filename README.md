@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
- - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 😝 [Ridding that pesky popcorn ceiling](http://9gag.com/gag/aXnD5W6)
+ - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Parliament bars Amazon lobbyists from its premises, after MEPs said the company repeatedly refused to engage about workers&#39; rights and labor conditions &lpar;Financial Times&rpar;](http://www.techmeme.com/240227/p36#a240227p36)
+ - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
  - [Apple Vision Pro may eventually get SteamVR functionality](https://appleinsider.com/articles/24/02/28/apple-vision-pro-may-eventually-get-steamvr-functionality?utm_medium=rss)
  - [Amazon’s Road House reboot is accused of copyright infringement — and AI voice cloning](https://www.theverge.com/2024/2/27/24085264/amazon-road-house-reboot-lawsuit-ai-cloning-copyright-infringement)
- - [Apple AI is the focus of an investing firm after Apple Car&#39;s death](https://appleinsider.com/articles/24/02/28/apple-ai-is-the-focus-of-an-investing-firm-after-apple-cars-death?utm_medium=rss)
- - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
- - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)<!-- TECH:END -->
+ - [Apple AI is the focus of an investing firm after Apple Car&#39;s death](https://appleinsider.com/articles/24/02/28/apple-ai-is-the-focus-of-an-investing-firm-after-apple-cars-death?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

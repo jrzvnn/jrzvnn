@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Akihabara still shows off Japan’s love for physical media](https://www.theverge.com/24055863/akihabara-japan-retro-video-games-physical-media)
+ - [Apple Vision Pro ongoing demand is in line with all Apple launches](https://appleinsider.com/articles/24/02/28/apple-vision-pro-ongoing-demand-is-in-line-with-all-apple-launches?utm_medium=rss)
+ - [Apple Pay Later plans will show up on credit reports](https://appleinsider.com/articles/24/02/28/apple-pay-later-plans-will-show-up-on-credit-reports?utm_medium=rss)
  - [Apple Vision Pro return rate is about the same as the iPhone 15 Pro](https://appleinsider.com/articles/24/02/28/apple-vision-pro-return-rate-is-about-the-same-as-the-iphone-15-pro?utm_medium=rss)
- - [Nemo Mayfly Osmo Review: A Lightweight 2-Person Backpacking Tent](https://www.wired.com/review/nemo-equipment-mayfly-osmo-2-person-tent/)
- - [From Eliza to ChatGPT: why people spent 60 years building chatbots](https://www.theverge.com/24054603/chatbot-chatgpt-eliza-history-ai-assistants-video)
- - [Sources: Meta plans to launch Llama 3 in July, as it tries to overcome a perceived problem that Llama 2 is too &quot;safe&quot; with its answers about contentious topics &lpar;The Information&rpar;](http://www.techmeme.com/240228/p18#a240228p18)
- - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)<!-- TECH:END -->
+ - [Nemo Mayfly Osmo Review: A Lightweight 2-Person Backpacking Tent](https://www.wired.com/review/nemo-equipment-mayfly-osmo-2-person-tent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

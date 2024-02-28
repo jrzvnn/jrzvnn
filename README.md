@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reliance and Disney merge their media businesses in India, creating the country&#39;s largest media conglomerate; Reliance values it at $8.5B and will invest $1.4B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240228/p17#a240228p17)
  - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
  - [Telegram launches an ad revenue sharing system for channel owners in nearly 100 countries, with a 50/50 split with channel owners, paid out in toncoin &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240228/p16#a240228p16)
  - [Android 101: how to free up space on your phone](https://www.theverge.com/22738302/android-phone-storage-how-to)
- - [Apple will reap the rewards of the cancelled Apple Car project for decades](https://appleinsider.com/articles/24/02/28/apple-will-reap-the-rewards-of-the-cancelled-apple-car-project-for-decades?utm_medium=rss)
- - [Sources: Stripe and some investors agreed to buy $1B+ of current and ex-employees&#39; shares, valuing it at $65B, up from $50B in 2023, but down from $95B in 2021 &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p15#a240228p15)<!-- TECH:END -->
+ - [Apple will reap the rewards of the cancelled Apple Car project for decades](https://appleinsider.com/articles/24/02/28/apple-will-reap-the-rewards-of-the-cancelled-apple-car-project-for-decades?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

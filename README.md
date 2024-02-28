@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe’s new prototype generative AI tool is the ‘Photoshop’ of music-making and editing](https://www.theverge.com/2024/2/28/24085551/adobe-project-music-genai-control-prototype-tool-hot-pod)
  - [Honda’s ‘extended reality’ is a mash-up of VR and motorized wheelchairs](https://www.theverge.com/2024/2/28/24085556/honda-extended-reality-vr-uni-one-mobility-wheelchair)
  - [Biden orders crackdown on selling Americans’ personal data abroad](https://www.theverge.com/2024/2/28/24085572/biden-executive-order-personal-data-transfer-china-privacy-surveillance)
  - [Smart lighting stalwart Lifx reemerges with a new line of outdoor lights](https://www.theverge.com/2024/2/28/24085310/lifx-outdoor-smart-lights-price-release-date-specs)
- - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)
- - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)<!-- TECH:END -->
+ - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

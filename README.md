@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shareholders voted the way Apple wanted at the annual shareholder meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
  - [RIP to the Apple Car, we hardly knew ye](https://www.theverge.com/24085629/apple-car-dead-project-titan-ev-driverless-robotaxi)
  - [Adobe unveils Project Music GenAI Control, a platform that can generate audio from text descriptions or a reference melody and let users customize the results &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240228/p24#a240228p24)
  - [Toronto-based Ideogram, which is introducing a text-to-image AI model that generates images with legible text, raised an $80M Series A led by a16z &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240228/p23#a240228p23)
- - [Wendy’s says ‘dynamic’ pricing won’t tack surge pricing onto your nuggets](https://www.theverge.com/2024/2/28/24085656/wendys-dynamic-pricing-surge-pricing-response)
- - [Meet the real &#39;Masters of the Air&#39; in Apple&#39;s new documentary](https://appleinsider.com/articles/24/02/28/meet-the-real-masters-of-the-air-in-apples-new-documentary?utm_medium=rss)<!-- TECH:END -->
+ - [Wendy’s says ‘dynamic’ pricing won’t tack surge pricing onto your nuggets](https://www.theverge.com/2024/2/28/24085656/wendys-dynamic-pricing-surge-pricing-response)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

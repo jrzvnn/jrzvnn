@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music adds new daily &#39;Heavy Rotation Mix&#39;](https://appleinsider.com/articles/24/02/28/apple-music-adds-new-daily-heavy-rotation-mix?utm_medium=rss)
  - [Aqara kick-starts its first Matter-over-Thread smart lock with a promise of Home Key support](https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key)
- - [Never Drink Cold Coffee Again With $50 Off Ember&#39;s Smart Mug 2 Today     - CNET](https://www.cnet.com/deals/never-drink-cold-coffee-again-with-50-off-embers-smart-mug-2-today/#ftag=CAD590a51e)
  - [Venture funding to Black-founded US startups in 2023 totaled $705M across 191 deals, or less than 0.5% of all venture funding, down from $2.4B in 2022 &lpar;Crunchbase News&rpar;](http://www.techmeme.com/240228/p13#a240228p13)
- - [Current Refinance Rates on Feb. 28, 2024: Rate Eases     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-feb-28-2024-rate-eases/#ftag=CAD590a51e)
- - [Today&#39;s Mortgage Rates for Feb. 28, 2024: Rates Tick Up for Borrowers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-feb-28-2024-rates-tick-up-for-borrowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gene Munster: Apple should buy Rivian after cancelling Apple Car](https://appleinsider.com/articles/24/02/28/gene-munster-apple-should-buy-rivian-after-cancelling-apple-car?utm_medium=rss)
+ - [Samsung Galaxy Z Fold 6 renders appear ahead of rumored July Unpacked](https://www.theverge.com/2024/2/28/24085509/samsung-galaxy-z-fold-6-foldable-leaked-renders-rumored-july-unpacked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

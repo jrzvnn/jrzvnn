@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
+ - [Salesforce CEO Marc Benioff tells a reporter, who is looking into his Hawaii land acquisition, that he knows where she is staying and her personal details &lpar;Dara Kerr/NPR&rpar;](http://www.techmeme.com/240228/p28#a240228p28)
  - [New regulation could stop abusers from stalking via connected cars](https://www.theverge.com/2024/2/28/24085723/fcc-domestic-abuse-survivors-connected-cars-proposed-rule)
  - [Sources: Nigeria detains two senior Binance executives who flew to the country following its decision last week to ban several crypto trading websites &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p27#a240228p27)
- - [Amazon Just Got Banned From the EU Parliament](https://www.wired.com/story/amazon-european-parliament-ban/)
- - [Coinbase is investigating an issue causing some users to see a zero balance across their accounts, after BTC topped $60K for the first time since November 2021 &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/240228/p26#a240228p26)
- - [Attention English majors: now you can add handwritten notes to Google Docs](https://www.theverge.com/2024/2/28/24084808/google-docs-annotations-markups-handwritten-notes)<!-- TECH:END -->
+ - [Amazon Just Got Banned From the EU Parliament](https://www.wired.com/story/amazon-european-parliament-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

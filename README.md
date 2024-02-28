@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 😝 [Don&#39;t look over.](http://9gag.com/gag/aMERobP)
  - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
- - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [Godfather of Harlem](http://9gag.com/gag/aVbnyxw)<!-- MEMES:END -->
+ - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
 
 ---
 

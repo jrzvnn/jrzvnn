@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Juicy](http://9gag.com/gag/aRE5bv7)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 💣 [Why and how is this benefit its user?](http://9gag.com/gag/amAje66)
+ - 😝 [Games can be more fun if you mix it with stupidity](http://9gag.com/gag/aWGKK6d)
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 💣 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [Nobody can convince me that this isn&#39;t a top 10 show ever.](http://9gag.com/gag/aZDAAq9)<!-- MEMES:END -->
 
 ---
 

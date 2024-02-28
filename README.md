@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)
- - 😝 [How the turn tables](http://9gag.com/gag/aqe3oRZ)
- - 💣 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 💣 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Wtf](http://9gag.com/gag/aNwx6rr)<!-- MEMES:END -->
+ - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 😝 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)
- - 💣 [Name a movie that everybody say its bad but for you it was a good one, ill start](http://9gag.com/gag/az2Nndm)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 👉 [Let\u2019s see](http://9gag.com/gag/anzpwMB)<!-- MEMES:END -->
+ - 😝 [First it was banned in the military](http://9gag.com/gag/aEqrLw9)
+ - 😝 [Cure for nagging](http://9gag.com/gag/aKE0R8N)
+ - 💣 [Women](http://9gag.com/gag/a8qPZ36)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 👉 [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)<!-- MEMES:END -->
 
 ---
 

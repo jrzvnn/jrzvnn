@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of Claude, Gemini, GPT-4, Llama 2, and Mixtral found the models often provided inaccurate or misleading election information; GPT-4 performed the best &lpar;Proof&rpar;](http://www.techmeme.com/240227/p35#a240227p35)
- - [Sources: Apple met with DOJ Assistant AG Jonathan Kanter last week in a final bid to avoid an antitrust suit, which is expected to be filed by the end of March &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240227/p34#a240227p34)
- - [Best Sonos Deals: Save on Move, Roam and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Filing: Nintendo sues the makers of Switch emulator Yuzu in US federal court, alleging it is designed to circumvent Nintendo&#39;s encryption and facilitates piracy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240227/p33#a240227p33)
- - [New Atomic Stealer malware variant harder to detect in macOS](https://appleinsider.com/articles/24/02/27/new-atomic-stealer-malware-variant-harder-to-detect-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
+ - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)
+ - [Eufy’s new 360-degree 4K camera doesn’t need Wi-Fi or power outlets](https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price)
+ - [A review of Claude, Gemini, GPT-4, Llama 2, and Mixtral found the models often gave inaccurate or misleading election information; GPT-4 was least inaccurate &lpar;Proof&rpar;](http://www.techmeme.com/240227/p35#a240227p35)
+ - [The Supreme Court&#39;s NetChoice Cases Could Change Online Speech Forever     - CNET](https://www.cnet.com/news/the-supreme-courts-netchoice-cases-could-change-online-speech-forever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

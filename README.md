@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)
  - [Filing: Applied Materials discloses &quot;multiple subpoenas&quot; as recently as February from US agencies, including the SEC, about the company&#39;s Chinese business &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p4#a240228p4)
  - [Samsung launches 36Gb 12Hi HBM3E DRAM for AI, slated for mass production in H1 2024, with 50%+ more peak bandwidth and capacity compared to its previous HBM gen &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240228/p3#a240228p3)
  - [Google CEO says Gemini AI diversity errors are ‘completely unacceptable’](https://www.theverge.com/2024/2/28/24085445/google-ceo-gemini-ai-diversity-scandal-employee-memo)
- - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)
- - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)<!-- TECH:END -->
+ - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

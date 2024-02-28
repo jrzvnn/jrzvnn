@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro could launch overseas sooner than expected](https://appleinsider.com/articles/24/02/28/apple-vision-pro-could-launch-overseas-sooner-than-expected?utm_medium=rss)
  - [Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It](https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/)
  - [Kuo: Vision Pro demand is higher than Apple originally expected, with US shipments expected to hit 200-250k units this year; return rates are now below 1% &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240228/p20#a240228p20)
- - [Apple Watch Refurb Sale Offers Bargain Prices While Supplies Last     - CNET](https://www.cnet.com/deals/apple-watch-refurb-sale-offers-bargain-prices-while-supplies-last/#ftag=CAD590a51e)
- - [Warby Parker Will Offer Free Eclipse Glasses in April. Here&#39;s How to Snag Yours     - CNET](https://www.cnet.com/health/personal-care/warby-parker-will-offer-free-eclipse-glasses-in-april-heres-how-to-snag-yours/#ftag=CAD590a51e)
- - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)<!-- TECH:END -->
+ - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
+ - [Apple Vision Pro ongoing demand is in line with all Apple launches](https://appleinsider.com/articles/24/02/28/apple-vision-pro-ongoing-demand-is-in-line-with-all-apple-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

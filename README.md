@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akihabara still shows off Japan’s love for physical media](https://www.theverge.com/24055863/akihabara-japan-retro-video-games-physical-media)
+ - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
  - [Apple Vision Pro ongoing demand is in line with all Apple launches](https://appleinsider.com/articles/24/02/28/apple-vision-pro-ongoing-demand-is-in-line-with-all-apple-launches?utm_medium=rss)
- - [Apple Pay Later plans will show up on credit reports](https://appleinsider.com/articles/24/02/28/apple-pay-later-plans-will-show-up-on-credit-reports?utm_medium=rss)
- - [Apple Vision Pro return rate is about the same as the iPhone 15 Pro](https://appleinsider.com/articles/24/02/28/apple-vision-pro-return-rate-is-about-the-same-as-the-iphone-15-pro?utm_medium=rss)
- - [Nemo Mayfly Osmo Review: A Lightweight 2-Person Backpacking Tent](https://www.wired.com/review/nemo-equipment-mayfly-osmo-2-person-tent/)<!-- TECH:END -->
+ - [Axel Springer and 31 other media groups in Europe file a $2.3B lawsuit against Google, alleging that they suffered losses due to its digital ad practices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240228/p19#a240228p19)
+ - [Apple will reap the rewards of the cancelled Apple Car project for decades](https://appleinsider.com/articles/24/02/28/apple-will-reap-the-rewards-of-the-cancelled-apple-car-project-for-decades?utm_medium=rss)
+ - [Physical media week](https://www.theverge.com/entertainment/24054458/physical-media-preservation-discs-cartridges-digital)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

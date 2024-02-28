@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gene Munster: Apple should buy Rivian after cancelling Apple Car](https://appleinsider.com/articles/24/02/28/gene-munster-apple-should-buy-rivian-after-cancelling-apple-car?utm_medium=rss)
+ - [Samsung Galaxy Z Fold 6 renders appear ahead of rumored July Unpacked](https://www.theverge.com/2024/2/28/24085509/samsung-galaxy-z-fold-6-foldable-leaked-renders-rumored-july-unpacked)
  - [President Biden signs an EO that aims to limit the mass-sale of Americans&#39; personal data like geolocation to &quot;countries of concern&quot;, including China and Russia &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240228/p12#a240228p12)
  - [Beats Solo 4 surface eight years after the Solo 3 debuted](https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted?utm_medium=rss)
- - [Decade-old Apple Car project may be completely dead](https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead?utm_medium=rss)
- - [The Disney Imagineer Building You a Real-Life Holodeck](https://www.wired.com/story/lanny-smoot-disney-imagineer-lightsaber-holodeck/)
- - [The Vision Pro isn’t destroying your eyes, but maybe get some eye drops](https://www.theverge.com/2024/2/28/24083539/apple-vision-pro-eye-strain-health-vr-headsets)<!-- TECH:END -->
+ - [Decade-old Apple Car project may be completely dead](https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

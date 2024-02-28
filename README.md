@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini agrees to return over $1B to customers and pay a $37M fine in a settlement with the New York Department of Financial Services related to Gemini Earn &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240228/p36#a240228p36)
+ - [William Gibson&#39;s &#39;Neuromancer&#39; is coming to Apple TV+](https://appleinsider.com/articles/24/02/28/william-gibsons-neuromancer-is-coming-to-apple-tv?utm_medium=rss)
  - [HP reports Q1 revenue down 4.4% YoY to $13.19B, vs. $13.56B est., Personal Systems revenue down 4% YoY to $8.8B, and Printing revenue down 5% YoY to $4.4B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p35#a240228p35)
- - [Apple is turning William Gibson’s Neuromancer into a TV series](https://www.theverge.com/24086056/apple-tv-plus-neuromancer-streaming-series-william-gibson)
- - [Snowflake says that CEO Frank Slootman is retiring, and reports Q4 revenue up 32% YoY to $774.7M and Q1 product revenue guidance below est.; SNOW drops 23%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240228/p34#a240228p34)
- - [Tubi’s new redesign wants to push you down the rabbit hole](https://www.theverge.com/2024/2/28/24085869/tubi-redesign-shows-movies-turple)
- - [Salesforce reports Q4 revenue up 11% YoY to $9.29B, vs. $9.2B est., FY 2025 revenue guidance below est., and announces a $10B increase in its share buyback plan &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240228/p33#a240228p33)<!-- TECH:END -->
+ - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
+ - [Best Air Purifier Deals: Up to $229 Off Purifiers From LG, Coway, Blueair, Dyson and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

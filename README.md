@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/amAjZNo)
- - 😝 [Women](http://9gag.com/gag/a8qPZ36)
- - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
+ - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
+ - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is removing even more songs as music rights battle drags on](https://www.theverge.com/2024/2/28/24085988/tiktok-umg-music-removal-all-artists)
  - [The Intercept, Raw Story, and AlterNet sue OpenAI and Microsoft](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright)
  - [Lots of People Make Money on Fanfic. Just Not the Authors](https://www.wired.com/story/pull-to-publish-fanfic-senlinyu-manacled-fanbinding/)
  - [Five Apple Vision Pro Cinema Environments that we&#39;d like to see](https://appleinsider.com/articles/24/02/28/five-apple-vision-pro-cinema-environments-that-wed-like-to-see?utm_medium=rss)
- - [Alleged renders of Samsung&#39;s Galaxy Z Fold 6 show a boxy frame, flat sides, and dimensions that make it slightly shorter and wider than its predecessor &lpar;Mehtab Ansari/Smartprix&rpar;](http://www.techmeme.com/240228/p30#a240228p30)
- - [Sources: Fiserv and Amadeus are the two main contenders to acquire Shift4 Payments, which provides payment processing services and has a market value of $6.5B &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p29#a240228p29)<!-- TECH:END -->
+ - [Alleged renders of Samsung&#39;s Galaxy Z Fold 6 show a boxy frame, flat sides, and dimensions that make it slightly shorter and wider than its predecessor &lpar;Mehtab Ansari/Smartprix&rpar;](http://www.techmeme.com/240228/p30#a240228p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

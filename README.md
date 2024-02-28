@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tubi’s new redesign wants to push you down the rabbit hole](https://www.theverge.com/2024/2/28/24085869/tubi-redesign-shows-movies-turple)
+ - [Salesforce reports Q4 revenue up 11% YoY to $9.29B, vs. $9.2B est., FY 2025 revenue guidance below est., and announces a $10B increase in its share buyback plan &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/240228/p33#a240228p33)
  - [EA plans to cut 5% of its workforce, part of a plan that includes reducing office space and sunsetting some games; EA employed 13,400 workers as of March 2023 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240228/p32#a240228p32)
  - [Substack’s platform now has direct messages](https://www.theverge.com/2024/2/28/24085931/substack-direct-message-creators-x-meta)
- - [Raw Story, AlterNet, and, in a separate case, The Intercept sue OpenAI in a NY federal court for copyright infringement; The Intercept is also suing Microsoft &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240228/p31#a240228p31)
- - [TikTok is removing even more songs as music rights battle drags on](https://www.theverge.com/2024/2/28/24085988/tiktok-umg-music-removal-all-artists)
- - [Best 4K TV Deals: Save Up to $400 on Samsung, LG, Sony, TCL and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raw Story, AlterNet, and, in a separate case, The Intercept sue OpenAI in a NY federal court for copyright infringement; The Intercept is also suing Microsoft &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240228/p31#a240228p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

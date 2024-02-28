@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 💣 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 💣 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [Devils Wheel &lpar;Germany&rpar;](http://9gag.com/gag/az2NNRK)<!-- MEMES:END -->
+ - 👉 [Fools Harassing People Thrown Out Of Bus By A French Man](http://9gag.com/gag/az2NNBm)<!-- MEMES:END -->
 
 ---
 

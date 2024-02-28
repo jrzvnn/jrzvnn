@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 ---
 

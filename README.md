@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro may eventually get SteamVR functionality](https://appleinsider.com/articles/24/02/28/apple-vision-pro-may-eventually-get-steamvr-functionality?utm_medium=rss)
+ - [Amazon’s Road House reboot is accused of copyright infringement — and AI voice cloning](https://www.theverge.com/2024/2/27/24085264/amazon-road-house-reboot-lawsuit-ai-cloning-copyright-infringement)
+ - [Apple AI is the focus of an investing firm after Apple Car&#39;s death](https://appleinsider.com/articles/24/02/28/apple-ai-is-the-focus-of-an-investing-firm-after-apple-cars-death?utm_medium=rss)
  - [Imminent DOJ antitrust case against Apple is in final pre-filing phase -- probably](https://appleinsider.com/articles/24/02/28/imminent-doj-antitrust-case-against-apple-is-in-final-pre-filing-phase----probably?utm_medium=rss)
- - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)
- - [Eufy’s new 360-degree 4K camera doesn’t need Wi-Fi or power outlets](https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price)
- - [A review of Claude, Gemini, GPT-4, Llama 2, and Mixtral found the models often gave inaccurate or misleading election information; GPT-4 was least inaccurate &lpar;Proof&rpar;](http://www.techmeme.com/240227/p35#a240227p35)
- - [The Supreme Court&#39;s NetChoice Cases Could Change Online Speech Forever     - CNET](https://www.cnet.com/news/the-supreme-courts-netchoice-cases-could-change-online-speech-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Major ‘Stardew Valley’ Update Is Coming in March](https://www.wired.com/story/stardew-valley-update-march-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

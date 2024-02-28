@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VisionDevCamp is a three-day hackathon for Vision Pro Devs](https://appleinsider.com/articles/24/02/28/visiondevcamp-is-a-three-day-hackathon-for-vision-pro-devs?utm_medium=rss)
  - [The case for 4K Blu-ray in a world of streaming](https://www.theverge.com/24046669/4k-blu-ray-streaming-physical-media-bitrate-picture-audio-quality-collector)
  - [Amazon Echo Hub Review: Bare-Bones Smart Display](https://www.wired.com/review/amazon-echo-hub-review/)
  - [This DIY AirPods Max mod means you can stop waiting for a USB-C upgrade](https://www.theverge.com/2024/2/28/24085141/apple-airpods-max-usb-c-ken-pillonel-mod)
- - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)
- - [India&#39;s two leading streamers, JioCinema and Disney+Hotstar, to merge after Reliance, its portfolio company Viacom18, and Disney merge their businesses in India &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240228/p17#a240228p17)<!-- TECH:END -->
+ - [Leak backs up obvious news that Apple is designing 2nm processors](https://appleinsider.com/articles/24/02/28/leak-backs-up-obvious-news-that-apple-is-designing-2nm-processors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

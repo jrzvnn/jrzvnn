@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BusuChan the ugly schoolgirl](http://9gag.com/gag/aKE0QbN)
- - 😝 [It&#39;s always them](http://9gag.com/gag/a7q4xom)
- - 💣 [Bye bye](http://9gag.com/gag/aEqr95p)
- - 😝 [Ridding that pesky popcorn ceiling](http://9gag.com/gag/aXnD5W6)
- - 👉 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)<!-- MEMES:END -->
+ - 😝 [First it was banned in the military](http://9gag.com/gag/aEqrLw9)
+ - 😝 [Cure for nagging](http://9gag.com/gag/aKE0R8N)
+ - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 😝 [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)
+ - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
 
 ---
 

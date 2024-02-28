@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 😝 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)<!-- MEMES:END -->
+ - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
 
 ---
 

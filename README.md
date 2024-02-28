@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ridding that pesky popcorn ceiling](http://9gag.com/gag/aXnD5W6)
- - 😝 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)
- - 💣 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 😝 [Title](http://9gag.com/gag/amAjZNo)
+ - 😝 [Women](http://9gag.com/gag/a8qPZ36)
+ - 💣 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
  - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 

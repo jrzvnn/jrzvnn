@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
- - 💣 [Women](http://9gag.com/gag/a8qPZ36)
+ - 😝 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)
+ - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA plans to cut 5% of its workforce, part of a plan that includes reducing office space and sunsetting some games; EA employed 13,400 workers as of March 2023 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240228/p32#a240228p32)
+ - [Substack’s platform now has direct messages](https://www.theverge.com/2024/2/28/24085931/substack-direct-message-creators-x-meta)
  - [Raw Story, AlterNet, and, in a separate case, The Intercept sue OpenAI in a NY federal court for copyright infringement; The Intercept is also suing Microsoft &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240228/p31#a240228p31)
  - [TikTok is removing even more songs as music rights battle drags on](https://www.theverge.com/2024/2/28/24085988/tiktok-umg-music-removal-all-artists)
- - [The Intercept, Raw Story, and AlterNet sue OpenAI and Microsoft](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright)
- - [Lots of People Make Money on Fanfic. Just Not the Authors](https://www.wired.com/story/pull-to-publish-fanfic-senlinyu-manacled-fanbinding/)
- - [Five Apple Vision Pro Cinema Environments that we&#39;d like to see](https://appleinsider.com/articles/24/02/28/five-apple-vision-pro-cinema-environments-that-wed-like-to-see?utm_medium=rss)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Up to $400 on Samsung, LG, Sony, TCL and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

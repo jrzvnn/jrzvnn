@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 💣 [Good genetics](http://9gag.com/gag/a2KB36Y)
+ - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 😝 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [Remember, do not trust their lies](http://9gag.com/gag/a5Xm8Pq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis shows that on a cost basis, 42% of Apple Vision Pro components are made by Japanese companies, including Sony&#39;s displays and Kioxia&#39;s memory chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240228/p2#a240228p2)
  - [Memo: Google CEO Sundar Pichai calls Gemini&#39;s problematic responses around race &quot;completely unacceptable&quot; and vows to make structural changes to fix the problem &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240228/p1#a240228p1)
  - [In abandoning plans for a self-driving car, Apple is giving up on billions in potential revenue and hoping AI, Vision Pro, and other bets make up the difference &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240227/p40#a240227p40)
  - [Google appears to globally roll out &quot;glanceable directions while navigating&quot; on Maps, which shows real-time ETA and turn-by-turn directions on the lock screen &lpar;Chandraveer Mathur/Android Police&rpar;](http://www.techmeme.com/240227/p39#a240227p39)
- - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)
- - [Klarna claims its ChatGPT-powered AI chatbot handles two-thirds of all customer service chats and does the equivalent work of 700 full-time human agents &lpar;Christopher Zara/Fast Company&rpar;](http://www.techmeme.com/240227/p37#a240227p37)<!-- TECH:END -->
+ - [A US judge clears Chinese state-backed chipmaker Fujian Jinhua of economic espionage and other charges, over five years after the US blacklisted the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240227/p38#a240227p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

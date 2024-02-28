@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
+ - 👉 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 ---
 

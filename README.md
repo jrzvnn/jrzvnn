@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Just Got Banned From the EU Parliament](https://www.wired.com/story/amazon-european-parliament-ban/)
+ - [Coinbase is investigating an issue causing some users to see a zero balance across their accounts, after BTC topped $60K for the first time since November 2021 &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/240228/p26#a240228p26)
+ - [Attention English majors: now you can add handwritten notes to Google Docs](https://www.theverge.com/2024/2/28/24084808/google-docs-annotations-markups-handwritten-notes)
  - [Tim Cook says Apple will &quot;break new ground&quot; on generative AI this year; Apple shareholders reject a request for report into whether Apple is using AI ethically &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240228/p25#a240228p25)
- - [Everything went Apple&#39;s way at the annual shareholders meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)
- - [Meet the real &#39;Masters of the Air&#39; in Apple&#39;s new documentary](https://appleinsider.com/articles/24/02/28/meet-the-real-masters-of-the-air-in-apples-new-documentary?utm_medium=rss)
- - [Call of Duty: Warzone Mobile launches worldwide on March 21st](https://www.theverge.com/2024/2/28/24085504/call-of-duty-warzone-mobile-launch-date-worldwide)
- - [M3 iMac is on Apple&#39;s refurbished store, but there is a better deal](https://appleinsider.com/articles/24/02/28/m3-imac-is-on-apples-refurbished-store-but-there-is-a-better-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Everything went Apple&#39;s way at the annual shareholders meeting](https://appleinsider.com/articles/24/02/28/shareholders-voted-the-way-apple-wanted-at-the-annual-shareholder-meeting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

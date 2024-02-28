@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna reports 2023 revenue up 22% YoY to ~$2.28B, a $241M net loss, down from $1.01B in 2022, with credit losses falling by 32% in 2023 to $369M &lpar;Financial Times&rpar;](http://www.techmeme.com/240228/p10#a240228p10)
+ - [Humanity Is Dangerously Pushing Its Ability to Tolerate Heat](https://www.wired.com/story/extreme-heat-tolerance/)
  - [Baidu reports Q4 revenue up 6% YoY to ~$4.9B and net income down 48% YoY to ~$366M, as chatbot Ernie, which has 100M+ users, began to augment its ads business &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240228/p9#a240228p9)
  - [Meta CEO Mark Zuckerberg met with LG executives in South Korea to discuss a stronger partnership on XR devices as well as a potential collaboration in AI &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240228/p8#a240228p8)
- - [Sources: Gemini&#39;s image generation tool had a technical fix to reduce bias in its outputs but Google didn&#39;t anticipate the overcorrection and wasn&#39;t transparent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p7#a240228p7)
- - [A look at some government contractors that are helping US intelligence agencies and others use targeted mobile ads to track down people &lpar;Byron Tau/Wired&rpar;](http://www.techmeme.com/240228/p6#a240228p6)
- - [Analysis: Vietnam&#39;s share in global smartphone exports grew from less than 1% in 2010 to 12% in 2022, while India&#39;s grew from &lt;1% to 2.5%+ over the same period &lpar;The Hindu&rpar;](http://www.techmeme.com/240228/p5#a240228p5)<!-- TECH:END -->
+ - [Sources: Gemini&#39;s image generation tool had a technical fix to reduce bias in its outputs but Google didn&#39;t anticipate the overcorrection and wasn&#39;t transparent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p7#a240228p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

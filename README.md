@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
- - 😝 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
- - 💣 [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 💣 [Juicy](http://9gag.com/gag/aRE5bv7)
  - 😝 [Sorry Kitty. Don&#39;t bother me now! I&#39;m busy watching the Honkai Impact 3rd Special Program now!](http://9gag.com/gag/az2N0NK)
- - 👉 [Punch the guard and win a stupid prize](http://9gag.com/gag/aeQooRp)<!-- MEMES:END -->
+ - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
 
 ---
 

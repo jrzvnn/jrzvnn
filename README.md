@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First it was banned in the military](http://9gag.com/gag/aEqrLw9)
- - 😝 [Cure for nagging](http://9gag.com/gag/aKE0R8N)
+ - 😝 [Ssheeeeshh! New Crush Unlocked!](http://9gag.com/gag/az2N3Gb)
+ - 😝 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
  - 💣 [Women](http://9gag.com/gag/a8qPZ36)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Take a break from propaganda and enjoy this weld](http://9gag.com/gag/aPgNEVK)<!-- MEMES:END -->
+ - 😝 [Chinese Guy Stood Up Like ` F**k Ohh Wait `](http://9gag.com/gag/ajVbwV1)
+ - 👉 [Juicy](http://9gag.com/gag/aRE5bv7)<!-- MEMES:END -->
 
 ---
 

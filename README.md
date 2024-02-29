@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft outlines the new DirectSR API, which lets game developers integrate super resolution AI-upscaling features from Nvidia, AMD, and Intel &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240229/p18#a240229p18)
  - [Crypto firm Gemini to pay over $1 billion back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
  - [Subscription services are changing our relationship to gaming](https://www.theverge.com/24044155/xbox-game-pass-subscription-preservation-argentina)
  - [Apple is making plans for more Apple Vision Pro accessory straps](https://appleinsider.com/articles/24/02/29/apple-is-making-plans-for-more-apple-vision-pro-accessory-straps?utm_medium=rss)
- - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
- - [Gene Munster: Apple should buy Rivian after cancelling Apple Car](https://appleinsider.com/articles/24/02/28/gene-munster-apple-should-buy-rivian-after-cancelling-apple-car?utm_medium=rss)<!-- TECH:END -->
+ - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
- - 😝 [Tittitle](http://9gag.com/gag/avQYYnX)
- - 💣 [Women](http://9gag.com/gag/a8qPZ36)
+ - 😝 [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [How large amount of data is stored in smartphones.](http://9gag.com/gag/ap9yeK9)<!-- MEMES:END -->
+ - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
+ - 😝 [OSHA wins](http://9gag.com/gag/aoKBmrx)
+ - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
+ - 💣 [Thanks dude](http://9gag.com/gag/aA0nBAE)
+ - 😝 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba researchers detail EMO, or Emote Portrait Alive, an AI system that can create realistic talking and singing videos from portrait photos &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240229/p27#a240229p27)
  - [The Mysterious Case of the Missing Trump Trial Ransomware Leak](https://www.wired.com/story/lockbit-fulton-county-georgia-trump-ransomware-leak/)
  - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
  - [Final Fantasy VII Rebirth’s creators want you to embrace the stress](https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase)
- - [Microsoft updates Windows 11 with improved Copilot, Widgets, and more](https://www.theverge.com/2024/2/29/24085496/microsoft-windows-11-update-copilot-widgets-snap-layouts-features)
- - [Passing the Kids Online Safety Act just got more complicated](https://www.theverge.com/2024/2/29/24086559/kids-online-safety-act-schatz-tech-groups)<!-- TECH:END -->
+ - [Microsoft updates Windows 11 with improved Copilot, Widgets, and more](https://www.theverge.com/2024/2/29/24085496/microsoft-windows-11-update-copilot-widgets-snap-layouts-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 💣 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Wait what...](http://9gag.com/gag/aOxg6n3)<!-- MEMES:END -->
+ - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
+ - 😝 [Thanks dude](http://9gag.com/gag/aA0nBAE)
+ - 💣 [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
+ - 😝 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

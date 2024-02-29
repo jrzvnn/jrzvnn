@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Wonka&#39; Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/wonka-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)
+ - [Qualcomm Confirms Snapdragon 8 Gen 4 Chip Is Coming in October     - CNET](https://www.cnet.com/tech/mobile/qualcomm-confirms-snapdragon-8-gen-4-chip-is-coming-in-october/#ftag=CAD590a51e)
  - [The Willy Wonka Event’s Lead Actor Speaks Out: ‘It Was Just Gibberish’](https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/)
  - [Two new Apple Watch ads highlight real-world life-saving features](https://appleinsider.com/articles/24/02/29/two-new-apple-watch-ads-highlight-real-world-life-saving-features?utm_medium=rss)
- - [Nintendo Sues Makers of the Wildly Popular Yuzu Emulator](https://www.wired.com/story/nintendo-yuzu-emulator-lawsuit-piracy/)
- - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
- - [Unbeatable Offer: Samsung Galaxy Tab A9 Plus for Just $190 at Best Buy and Amazon     - CNET](https://www.cnet.com/deals/unbeatable-offer-samsung-galaxy-tab-a9-plus-just-190-at-best-buy-and-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Sues Makers of the Wildly Popular Yuzu Emulator](https://www.wired.com/story/nintendo-yuzu-emulator-lawsuit-piracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

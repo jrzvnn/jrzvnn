@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)
+ - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
  - [As Twitch shuts down in South Korea citing high costs due to new &quot;sender pays&quot; network rules, livestreamers struggle to use Korean rivals like AfreecaTV &lpar;Morgan Sung/Rest of World&rpar;](http://www.techmeme.com/240229/p12#a240229p12)
  - [An Apple Pencil update is coming soon -- what you need to know](https://appleinsider.com/articles/24/02/28/an-apple-pencil-update-is-coming-soon----what-you-need-to-know?utm_medium=rss)
- - [China&#39;s annual spring iPhone sales are here, and the discount isn&#39;t as steep as it&#39;s been](https://appleinsider.com/articles/24/02/29/chinas-annual-spring-iphone-sales-are-here-and-the-discount-isnt-as-steep-as-its-been?utm_medium=rss)
- - [Microsoft is working with Nvidia, AMD, and Intel to improve upscaling support in PC games](https://www.theverge.com/2024/2/29/24086443/microsoft-directsr-super-resolution-api)
- - [Arkham: the US government appears to have transferred out about $922M worth of bitcoin from two crypto wallets that held funds seized from a 2016 Bitfinex hack &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240229/p11#a240229p11)<!-- TECH:END -->
+ - [China&#39;s annual spring iPhone sales are here, and the discount isn&#39;t as steep as it&#39;s been](https://appleinsider.com/articles/24/02/29/chinas-annual-spring-iphone-sales-are-here-and-the-discount-isnt-as-steep-as-its-been?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

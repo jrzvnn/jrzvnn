@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolut win win win win !](http://9gag.com/gag/a9q3bAZ)
- - 😝 [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
- - 💣 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)
  - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 👉 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)<!-- MEMES:END -->
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 💣 [You gonna make me..](http://9gag.com/gag/aBdq70N)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 👉 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)<!-- MEMES:END -->
 
 ---
 

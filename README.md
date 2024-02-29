@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSHA wins](http://9gag.com/gag/aoKBmrx)
- - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 💣 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
- - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 👉 [That&#39;s so cute of him](http://9gag.com/gag/a5Xm4KV)<!-- MEMES:END -->
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)
+ - 💣 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 👉 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Definitely don’t start your Final Fantasy VII experience with Rebirth](https://www.theverge.com/2024/2/29/24085625/final-fantasy-7-rebirth-best-start)
  - [Android users switching to iPhone prefer value over latest tech](https://appleinsider.com/articles/24/02/29/android-users-switching-to-iphone-prefer-value-over-latest-tech?utm_medium=rss)
+ - [Sony’s new ‘slim’ PlayStation 5 is already on sale with Marvel’s Spider-Man 2](https://www.theverge.com/2024/2/29/24086116/playstation-ps5-slim-keychron-c3-pro-mechanical-keyboard-anker-qi2-charger-deal-sale)
  - [Alibaba researchers detail EMO, or Emote Portrait Alive, an AI system that can create realistic talking and singing videos from portrait photos &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240229/p27#a240229p27)
- - [The Mysterious Case of the Missing Trump Trial Ransomware Leak](https://www.wired.com/story/lockbit-fulton-county-georgia-trump-ransomware-leak/)
- - [Final Fantasy VII Rebirth: all the news and updates](https://www.theverge.com/24078609/final-fantasy-7-rebirth-news-updates-trailers)
- - [Final Fantasy VII Rebirth’s creators want you to embrace the stress](https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase)<!-- TECH:END -->
+ - [The Mysterious Case of the Missing Trump Trial Ransomware Leak](https://www.wired.com/story/lockbit-fulton-county-georgia-trump-ransomware-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

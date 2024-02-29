@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Alibaba is cutting prices for over 100 core cloud products in China by up to 55%, and 20% on average, including data storage and elastic computing products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240228/p44#a240228p44)
  - [Abandoned $10 billion Apple Car project referred to as &#39;Titanic disaster&#39; by employees](https://appleinsider.com/articles/24/02/29/abandoned-10-billion-apple-car-project-referred-to-as-titanic-disaster-by-employees?utm_medium=rss)
  - [FCC Chair Jessica Rosenworcel proposes subjecting carmakers to the Safe Connections Act to protect domestic abuse survivors from misuse of internet car systems &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p43#a240228p43)
- - [PlayStation Plus Deals: Buy Directly From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Coinbase says all services on its website have been restored after an issue on February 28 caused some users to see a zero balance in their accounts &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p42#a240228p42)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save Hundreds on Pixel 8, 8 Pro, Fold &amp; More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [PlayStation Plus Deals: Buy Directly From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

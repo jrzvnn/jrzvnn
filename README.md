@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X adds live video to Spaces instead of bringing back Periscope](https://www.theverge.com/2024/2/28/24086072/x-spaces-live-video-chat-stream)
- - [Substack debuts direct messaging, letting users have private one-on-one conversations; by default, users will only receive DMs from people they&#39;re connected to &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240228/p38#a240228p38)
- - [An Apple Pencil update is coming soon -- what you need to know](https://appleinsider.com/articles/24/02/28/an-apple-pencil-update-is-coming-soon----what-you-need-to-know?utm_medium=rss)
- - [Sources: cloud storage service Egnyte has hired underwriters for a US IPO as early as this year that could value it at $3B+; Egnyte was valued at $460M in 2018 &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p37#a240228p37)
- - [Gemini agrees to return over $1B to customers and pay a $37M fine in a settlement with the New York Department of Financial Services related to Gemini Earn &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240228/p36#a240228p36)<!-- TECH:END -->
+ - [Sources detail Apple&#39;s $10B+ car project: years of disagreements on whether it should be a self-driving car or just an EV, talks with Musk on buying Tesla, more &lpar;New York Times&rpar;](http://www.techmeme.com/240228/p40#a240228p40)
+ - [Doc: EU regulators are probing whether Microsoft is preventing its customers from buying software that competes with its Entra ID identity management service &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240228/p39#a240228p39)
+ - [CNET&#39;s Best Tested Bread Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
+ - [Best Internet Providers in Montgomery, Alabama     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-montgomery-al/#ftag=CAD590a51e)
+ - [X adds live video to Spaces instead of bringing back Periscope](https://www.theverge.com/2024/2/28/24086072/x-spaces-live-video-chat-stream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

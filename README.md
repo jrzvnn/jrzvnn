@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Theraguns and Other Therabody Tools &lpar;2024&rpar;: Massage Guns, SmartGoggles, and TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
+ - [AI deepfakes are cheap, easy, and coming for the 2024 election](https://www.theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast)
  - [Microsoft outlines the new DirectSR API, which lets game developers integrate super resolution AI-upscaling features from Nvidia, AMD, and Intel &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240229/p18#a240229p18)
  - [Crypto firm Gemini to pay over $1 billion back to customers in settlement](https://www.theverge.com/2024/2/29/24086501/crypto-firm-gemini-ny-regulator-settlement)
- - [Subscription services are changing our relationship to gaming](https://www.theverge.com/24044155/xbox-game-pass-subscription-preservation-argentina)
- - [Apple is making plans for more Apple Vision Pro accessory straps](https://appleinsider.com/articles/24/02/29/apple-is-making-plans-for-more-apple-vision-pro-accessory-straps?utm_medium=rss)
- - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [CD Rates Today, Feb. 29, 2024: Don’t Wait to Snag an APY as High as 5.5%     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-feb-29-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

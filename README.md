@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 😝 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
- - 👉 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)<!-- MEMES:END -->
+ - 😝 [Absolut win win win win !](http://9gag.com/gag/a9q3bAZ)
+ - 😝 [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
+ - 💣 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)
+ - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 👉 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)<!-- MEMES:END -->
 
 ---
 

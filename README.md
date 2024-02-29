@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Subscription services are changing our relationship to gaming](https://www.theverge.com/24044155/xbox-game-pass-subscription-preservation-argentina)
  - [Apple is making plans for more Apple Vision Pro accessory straps](https://appleinsider.com/articles/24/02/29/apple-is-making-plans-for-more-apple-vision-pro-accessory-straps?utm_medium=rss)
  - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
  - [Gene Munster: Apple should buy Rivian after cancelling Apple Car](https://appleinsider.com/articles/24/02/28/gene-munster-apple-should-buy-rivian-after-cancelling-apple-car?utm_medium=rss)
- - [Stack Overflow launches OverflowAPI to give AI companies access to its knowledge base, starting with Google, which will use the data for Gemini for Google Cloud &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240229/p17#a240229p17)
- - [Apple&#39;s Self Service Repair expanding to M3 Macs](https://appleinsider.com/articles/24/02/29/apples-self-service-repair-expanding-to-m3-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Stack Overflow launches OverflowAPI to give AI companies access to its knowledge base, starting with Google, which will use the data for Gemini for Google Cloud &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240229/p17#a240229p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

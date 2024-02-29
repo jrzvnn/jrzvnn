@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 💣 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 💣 [Old japanese movies](http://9gag.com/gag/amAjEPX)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
+ - 👉 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)<!-- MEMES:END -->
 
 ---
 

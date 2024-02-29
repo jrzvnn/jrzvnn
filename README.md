@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)
  - [A review of court records shows US federal investigators used push alert tokens in at least four cases to arrest suspects in cases related to CSAM and murder &lpar;Washington Post&rpar;](http://www.techmeme.com/240229/p19#a240229p19)
  - [Apple’s self-repair program now includes M3-powered Macs](https://www.theverge.com/2024/2/29/24086560/apple-self-repair-m3-macbook-imac)
  - [Rumored Apple Watch Ultra with micro LED might be dead](https://appleinsider.com/articles/24/02/29/rumored-apple-watch-ultra-with-micro-led-might-be-dead?utm_medium=rss)
- - [How to modernize your retro game collection in a few convoluted steps](https://www.theverge.com/24072166/retro-classic-game-roms-nfc-mister-how-to-modern)
- - [Best Theraguns and Other Therabody Tools &lpar;2024&rpar;: Massage Guns, SmartGoggles, and TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
+ - [How to modernize your retro game collection in a few convoluted steps](https://www.theverge.com/24072166/retro-classic-game-roms-nfc-mister-how-to-modern)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

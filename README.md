@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [16 stories beneath midtown Manhattan, NYC](http://9gag.com/gag/amAj3q2)
  - 😝 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - 💣 [The car slammed into a mother and daughter, k**ling them both instantly. A few hours prior he also k**led 2 people. He was then released on bail the next day. Can you guess why?](http://9gag.com/gag/az2NWoK)
+ - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [BREAKING: Lord Rothschild Dead](http://9gag.com/gag/aL1YZDP)<!-- MEMES:END -->
+ - 👉 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)<!-- MEMES:END -->
 
 ---
 

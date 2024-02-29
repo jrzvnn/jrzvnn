@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkham: the US government appears to have transferred out about $922M worth of bitcoin from two crypto wallets that held funds seized from a 2016 Bitfinex hack &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240229/p11#a240229p11)
  - [Abandoned $10 billion Apple Car project referred to as &#39;Titanic disaster&#39; by employees](https://appleinsider.com/articles/24/02/29/abandoned-10-billion-apple-car-project-referred-to-as-titanic-disaster-by-employees?utm_medium=rss)
  - [Javier Bardem Is Menacing and Thrilling in &#39;Dune: Part Two&#39;—and a Soulful Teddy Bear IRL](https://www.wired.com/story/javier-bardem-dune-part-two/)
  - [This ‘Amazon’s Choice’ video doorbell could let just about anyone spy on you](https://www.theverge.com/2024/2/29/24086218/eken-aiwit-tuck-video-doorbell-amazon-temu)
- - [India approves setting up three chipmaking units worth $15.2B from companies including India&#39;s Tata Group and Japan&#39;s Renesas &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240229/p10#a240229p10)
- - [Last Call: This $60 Dollar Flight Club Deal Ends in a Matter of Hours     - CNET](https://www.cnet.com/deals/last-call-this-60-dollar-flight-club-deal-ends-matter-hours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India approves setting up three chipmaking units worth $15.2B from companies including India&#39;s Tata Group and Japan&#39;s Renesas &lpar;Shivam Patel/Reuters&rpar;](http://www.techmeme.com/240229/p10#a240229p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

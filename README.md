@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t you see me?](http://9gag.com/gag/aA0Wo8o)
- - 😝 [Good](http://9gag.com/gag/amADNQy)
- - 💣 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)<!-- MEMES:END -->
+ - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
+ - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
+ - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---
 

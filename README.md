@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JFrog says it found around a hundred malicious ML models on Hugging Face, some of which can backdoor users&#39; machines &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240229/p26#a240229p26)
  - [Apple retailers are clearing out iPad Pro inventory, save up to $314](https://appleinsider.com/articles/24/02/29/apple-retailers-are-clearing-out-ipad-pro-inventory-save-up-to-314?utm_medium=rss)
  - [Canada&#39;s antitrust watchdog expands its four-year probe into Google&#39;s online ad practices, with a focus on whether the company engages in predatory pricing &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p25#a240229p25)
  - [Setapp announces beta of iOS app store for the EU](https://appleinsider.com/articles/24/02/29/setapp-announces-beta-of-ios-app-store-for-the-eu?utm_medium=rss)
- - [The AI Culture Wars Are Just Getting Started](https://www.wired.com/story/fast-forward-ai-culture-wars-just-getting-started/)
- - [Vibe.co, a self-serve platform that lets SMBs buy video ads on streamers, raised a $22.5M Series A led by Singular, bringing its total funding to around $30M &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240229/p24#a240229p24)<!-- TECH:END -->
+ - [The AI Culture Wars Are Just Getting Started](https://www.wired.com/story/fast-forward-ai-culture-wars-just-getting-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 😝 [Apparently he did it 7 times before he was caught](http://9gag.com/gag/aGEPKWX)
- - 💣 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
- - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
- - 👉 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)<!-- MEMES:END -->
+ - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 💣 [You gonna make me..](http://9gag.com/gag/aBdq70N)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 👉 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)<!-- MEMES:END -->
 
 ---
 

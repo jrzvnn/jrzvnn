@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
  - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [He was eating somebody else\u2019s leftovers but she took it away and gave him fresh food \ud83e\udd7a](http://9gag.com/gag/aQEwGVW)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/a8qPZ36)<!-- MEMES:END -->
 
 ---
 

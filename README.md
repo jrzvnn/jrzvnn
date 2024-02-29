@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 😝 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
  - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 😝 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
+ - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
+ - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
 
 ---
 

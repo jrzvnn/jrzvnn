@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 😝 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)
+ - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
  - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 😝 [Crazy.](http://9gag.com/gag/a2KBQKO)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 ---
 

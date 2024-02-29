@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)
- - [A review of court records shows US federal investigators used push alert tokens in at least four cases to arrest suspects in cases related to CSAM and murder &lpar;Washington Post&rpar;](http://www.techmeme.com/240229/p19#a240229p19)
- - [Apple’s self-repair program now includes M3-powered Macs](https://www.theverge.com/2024/2/29/24086560/apple-self-repair-m3-macbook-imac)
- - [Rumored Apple Watch Ultra with micro LED might be dead](https://appleinsider.com/articles/24/02/29/rumored-apple-watch-ultra-with-micro-led-might-be-dead?utm_medium=rss)
- - [How to modernize your retro game collection in a few convoluted steps](https://www.theverge.com/24072166/retro-classic-game-roms-nfc-mister-how-to-modern)<!-- TECH:END -->
+ - [Brave launches its AI-powered assistant Leo, which can create real-time summaries of webpages or videos, generate long form content, and more, on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240229/p22#a240229p22)
+ - [Microsoft launches a Copilot for Finance in public preview; the chatbot can perform some common role-specific actions in Excel and Outlook &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240229/p21#a240229p21)
+ - [El Niño expected to smash heat records in 2024](https://www.theverge.com/2024/2/29/24085921/el-nino-forecast-record-heat-2024)
+ - [As Gaza is bombarded, GoFundMe donations are stuck in limbo](https://www.theverge.com/2024/2/29/24085175/gofundme-gaza-palestine-fundraiser-under-review-esims)
+ - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

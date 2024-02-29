@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
- - 😝 [Thanks dude](http://9gag.com/gag/aA0nBAE)
- - 💣 [Keep the trash, where it belongs.](http://9gag.com/gag/aeQXjMq)
- - 😝 [A climber wins a competition with the bat maneuver](http://9gag.com/gag/aeQoXEp)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 💣 [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---
 

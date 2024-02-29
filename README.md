@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google packs more searches into the Search Bar](https://www.theverge.com/2024/2/29/24086893/google-search-suggestions-chrome-android-ios-images)
  - [Google adds Photomath, which lets users solve math problems by taking a photo, to its Play Store and App Store publisher accounts, after buying the app in 2022 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240229/p29#a240229p29)
- - [&#39;Wonka&#39; Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/wonka-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)
- - [Qualcomm Confirms Snapdragon 8 Gen 4 Chip Is Coming in October     - CNET](https://www.cnet.com/tech/mobile/qualcomm-confirms-snapdragon-8-gen-4-chip-is-coming-in-october/#ftag=CAD590a51e)
- - [The Willy Wonka Event’s Lead Actor Speaks Out: ‘It Was Just Gibberish’](https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/)<!-- TECH:END -->
+ - [The Willy Wonka Event’s Lead Actor Speaks Out: ‘It Was Just Gibberish’](https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/)
+ - [Two new Apple Watch ads highlight real-world life-saving features](https://appleinsider.com/articles/24/02/29/two-new-apple-watch-ads-highlight-real-world-life-saving-features?utm_medium=rss)
+ - [Nintendo Sues Makers of the Wildly Popular Yuzu Emulator](https://www.wired.com/story/nintendo-yuzu-emulator-lawsuit-piracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

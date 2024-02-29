@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Setapp announces beta of iOS app store for the EU](https://appleinsider.com/articles/24/02/29/setapp-announces-beta-of-ios-app-store-for-the-eu?utm_medium=rss)
+ - [The AI Culture Wars Are Just Getting Started](https://www.wired.com/story/fast-forward-ai-culture-wars-just-getting-started/)
  - [Vibe.co, a self-serve platform that lets SMBs buy video ads on streamers, raised a $22.5M Series A led by Singular, bringing its total funding to around $30M &lpar;Alyssa Boyle/AdExchanger&rpar;](http://www.techmeme.com/240229/p24#a240229p24)
  - [Source: Embracer will sell its subsidiary Saber Interactive to private investors in a $500M deal, making Saber a privately owned company with ~3,500 staff &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240229/p23#a240229p23)
- - [Here Are the Google and Microsoft Security Updates You Need Right Now](https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/)
- - [The golden age of DVDs isn’t over yet for anime fans](https://www.theverge.com/24062618/anime-dvd-bluray-discotek-physical-media)
- - [Brave launches its AI-powered assistant Leo, which can create real-time summaries of webpages or videos, generate long form content, and more, on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240229/p22#a240229p22)<!-- TECH:END -->
+ - [Take 29% Off Your Order at Sheets &amp; Giggles With This Leap Day Sale     - CNET](https://www.cnet.com/deals/take-29-off-your-order-at-sheets-giggles-with-this-leap-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

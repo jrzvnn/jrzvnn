@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF\u2026](http://9gag.com/gag/aYVzbV7)
+ - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
  - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 💣 [The sister of this Queen&#39;s Guard held his hand after not seeing him for a long time and he couldn\u2019t do anything](http://9gag.com/gag/aVbnN1O)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [Wait what...](http://9gag.com/gag/aOxg6n3)
+ - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
+ - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 😝 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
  - 👉 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)<!-- MEMES:END -->
 
 ---

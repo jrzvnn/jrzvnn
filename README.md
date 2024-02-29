@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
+ - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
  - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 💣 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
- - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
- - 👉 [Scumbags](http://9gag.com/gag/amAjjrd)<!-- MEMES:END -->
+ - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 😝 [Crazy.](http://9gag.com/gag/a2KBQKO)
+ - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
 
 ---
 

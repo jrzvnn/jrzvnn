@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what...](http://9gag.com/gag/aOxg6n3)
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
- - 😝 [Crazy.](http://9gag.com/gag/a2KBQKO)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 😝 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)
- - 😝 [Sliver Surfer](http://9gag.com/gag/aDYpKRO)
- - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 😝 [Juicy](http://9gag.com/gag/aRE5bv7)
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 💣 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
  - 😝 [#Ad \u2694\ufe0f Play Mortal Kombat 1 for FREE during the Free Trial weekend, NEXT WEEKEND &lpar;March 7-10&rpar; on PlayStation 5, Xbox Series X|S, and PC &lpar;Steam&rpar;.](http://9gag.com/gag/aYV834m)
- - 👉 [\u2026..](http://9gag.com/gag/a6qvAAe)<!-- MEMES:END -->
+ - 👉 [Honestly, I don\u2019t think there will be a better true crime series than TD season 1](http://9gag.com/gag/a04AryB)<!-- MEMES:END -->
 
 ---
 

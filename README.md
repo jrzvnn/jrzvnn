@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSHA wins](http://9gag.com/gag/aoKBmrx)
- - 😝 [Need this type of marriage](http://9gag.com/gag/aeQXj0v)
- - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)<!-- MEMES:END -->
+ - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aRE5Y72)
+ - 😝 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 💣 [Time to feel, 9gaggers...](http://9gag.com/gag/ap9yOAb)
+ - 😝 [Wtf](http://9gag.com/gag/aNwx6rr)
+ - 👉 [Scumbags](http://9gag.com/gag/amAjjrd)<!-- MEMES:END -->
 
 ---
 

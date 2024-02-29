@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rogue HD](http://9gag.com/gag/aMEp1QX)
- - 😝 [David Larrat having fun](http://9gag.com/gag/awZq09x)
- - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 😝 [Good](http://9gag.com/gag/amADNQy)
+ - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 💣 [Intruder wants to mate with her, but she calls for her man and he comes home.](http://9gag.com/gag/aRE55QB)
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 👉 [Old japanese movies](http://9gag.com/gag/amAjEPX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK is piloting the use of ChatGPT and open-source AI models to analyze responses to public consultations and write draft answers to parliamentary questions &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/240229/p6#a240229p6)
  - [X adds a feature that lets Spaces hosts enable live video when they create a new session, available on iOS &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240229/p5#a240229p5)
  - [Eight EU consumer rights groups lodge GDPR complaints with national data protection authorities, accusing Meta of coercing users with its &quot;pay-or-consent&quot; model &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240229/p4#a240229p4)
  - [Researchers detail an ongoing repo confusion attack impacting 100K+ GitHub repos, which involves cloning existing repos and infecting them with malware loaders &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240229/p3#a240229p3)
- - [ServiceNow, Hugging Face, and Nvidia release free code-generating AI models StarCoder2-3B/7B/15B, the first two of which can run on most modern consumer GPUs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240229/p2#a240229p2)
- - [Sources: the US SEC sent a subpoena to OpenAI in December 2023, seeking internal records, following the board&#39;s decision in November to fire Sam Altman as CEO &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p1#a240229p1)<!-- TECH:END -->
+ - [ServiceNow, Hugging Face, and Nvidia release free code-generating AI models StarCoder2-3B/7B/15B, the first two of which can run on most modern consumer GPUs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240229/p2#a240229p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

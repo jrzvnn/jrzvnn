@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [Rogue HD](http://9gag.com/gag/aMEp1QX)
+ - 😝 [David Larrat having fun](http://9gag.com/gag/awZq09x)
+ - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
  - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 😝 [Good](http://9gag.com/gag/amADNQy)
- - 👉 [David Larrat having fun](http://9gag.com/gag/awZq09x)<!-- MEMES:END -->
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

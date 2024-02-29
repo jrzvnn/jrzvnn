@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humanoid robot maker Figure AI confirms it has raised $675M at a $2.6B valuation and shows off a general-purpose robot called Figure 01 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240229/p15#a240229p15)
  - [Researchers find serious security flaws in cheap video door bells sold by a Chinese company under various brands names on Amazon, Shein, and other sites &lpar;Consumer Reports&rpar;](http://www.techmeme.com/240229/p14#a240229p14)
  - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)
  - [How Nvidia Came to Rule AI](https://www.wired.com/story/gadget-lab-podcast-634/)
- - [Tesla EV Charging Open to Ford Drivers 2024](https://www.wired.com/story/public-ev-charging-tesla-ford/)
  - [US Cities Could Be Capturing Billions of Gallons of Rain a Day](https://www.wired.com/story/us-cities-could-be-capturing-billions-of-gallons-of-rain-a-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

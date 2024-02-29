@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Highly recommend this show. Feels like a breath of fresh air for once.](http://9gag.com/gag/a7q4jbm)
- - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
- - 💣 [You gonna make me..](http://9gag.com/gag/aBdq70N)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
  - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 👉 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)<!-- MEMES:END -->
+ - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 😝 [Good](http://9gag.com/gag/amADNQy)
+ - 👉 [David Larrat having fun](http://9gag.com/gag/awZq09x)<!-- MEMES:END -->
 
 ---
 

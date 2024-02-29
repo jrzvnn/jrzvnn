@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
- - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
- - 💣 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
- - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
+ - 😝 [WTF\u2026](http://9gag.com/gag/aYVzbV7)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 💣 [The sister of this Queen&#39;s Guard held his hand after not seeing him for a long time and he couldn\u2019t do anything](http://9gag.com/gag/aVbnN1O)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

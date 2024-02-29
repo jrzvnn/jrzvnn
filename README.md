@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s self-repair program now includes M3-powered Macs](https://www.theverge.com/2024/2/29/24086560/apple-self-repair-m3-macbook-imac)
  - [Rumored Apple Watch Ultra with micro LED might be dead](https://appleinsider.com/articles/24/02/29/rumored-apple-watch-ultra-with-micro-led-might-be-dead?utm_medium=rss)
  - [How to modernize your retro game collection in a few convoluted steps](https://www.theverge.com/24072166/retro-classic-game-roms-nfc-mister-how-to-modern)
  - [Best Theraguns and Other Therabody Tools &lpar;2024&rpar;: Massage Guns, SmartGoggles, and TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
- - [AI deepfakes are cheap, easy, and coming for the 2024 election](https://www.theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast)
- - [Microsoft outlines the new DirectSR API, which lets game developers integrate super resolution AI-upscaling features from Nvidia, AMD, and Intel &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240229/p18#a240229p18)<!-- TECH:END -->
+ - [AI deepfakes are cheap, easy, and coming for the 2024 election](https://www.theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

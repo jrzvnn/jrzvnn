@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
- - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)<!-- MEMES:END -->
+ - 😝 [OSHA wins](http://9gag.com/gag/aoKBmrx)
+ - 😝 [Need this type of marriage](http://9gag.com/gag/aeQXj0v)
+ - 💣 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
+ - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
+ - 👉 [Ah sweet man made horror beyond my comprehension](http://9gag.com/gag/ay2gyep)<!-- MEMES:END -->
 
 ---
 

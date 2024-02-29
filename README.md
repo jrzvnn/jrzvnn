@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here Are the Google and Microsoft Security Updates You Need Right Now](https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/)
+ - [The golden age of DVDs isn’t over yet for anime fans](https://www.theverge.com/24062618/anime-dvd-bluray-discotek-physical-media)
  - [Brave launches its AI-powered assistant Leo, which can create real-time summaries of webpages or videos, generate long form content, and more, on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240229/p22#a240229p22)
  - [Microsoft launches a Copilot for Finance in public preview; the chatbot can perform some common role-specific actions in Excel and Outlook &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240229/p21#a240229p21)
- - [El Niño expected to smash heat records in 2024](https://www.theverge.com/2024/2/29/24085921/el-nino-forecast-record-heat-2024)
- - [As Gaza is bombarded, GoFundMe donations are stuck in limbo](https://www.theverge.com/2024/2/29/24085175/gofundme-gaza-palestine-fundraiser-under-review-esims)
- - [Change Healthcare confirms that the ransomware group BlackCat is behind the ongoing attack that caused widespread disruptions to pharmacies across the US &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240229/p20#a240229p20)<!-- TECH:END -->
+ - [El Niño expected to smash heat records in 2024](https://www.theverge.com/2024/2/29/24085921/el-nino-forecast-record-heat-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

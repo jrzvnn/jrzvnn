@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple IDs may be renamed &#39;Apple Accounts&#39;  by the end of 2024](https://appleinsider.com/articles/24/02/29/apple-ids-may-be-renamed-apple-accounts-by-the-end-of-2024?utm_medium=rss)
- - [Russian-speaking LockBit threatens to release Trump case documents in Fulton County Court that &quot;could affect the upcoming US election&quot; unless a ransom is paid &lpar;Davey Winder/Forbes&rpar;](http://www.techmeme.com/240229/p13#a240229p13)
- - [Today&#39;s Refinance Rates, Feb. 29, 2024: Rates Increase for Homeowners     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-refinance-rates-feb-29-2024-rates-increase-for-homeowners/#ftag=CAD590a51e)
- - [Today&#39;s Mortgage Rates for Feb. 29, 2024: Rates Move Upward Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-feb-29-2024-rates-move-upward-over-the-last-week/#ftag=CAD590a51e)
- - [As Twitch shuts down in South Korea citing high costs due to new &quot;sender pays&quot; network rules, livestreamers struggle to use Korean rivals like AfreecaTV &lpar;Morgan Sung/Rest of World&rpar;](http://www.techmeme.com/240229/p12#a240229p12)<!-- TECH:END -->
+ - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)
+ - [How Nvidia Came to Rule AI](https://www.wired.com/story/gadget-lab-podcast-634/)
+ - [US Cities Could Be Capturing Billions of Gallons of Rain a Day](https://www.wired.com/story/us-cities-could-be-capturing-billions-of-gallons-of-rain-a-day/)
+ - [Tesla EV Charging Open to Ford Drivers 2024](https://www.wired.com/story/public-ev-charging-tesla-ford/)
+ - [Ford is offering EV owners free Tesla Supercharger adapters until July](https://www.theverge.com/2024/2/29/24085844/ford-ev-adapter-tesla-supercharger-nacs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

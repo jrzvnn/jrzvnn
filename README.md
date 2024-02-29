@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell reports Q4 revenue down 11% YoY to $22.3B vs. $22.2B est., Client revenue down 12% to $11.7B, and Infrastructure revenue down 6% to $9.3B; DELL jumps 15%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240229/p30#a240229p30)
  - [Google’s Deal With StackOverflow Is the Latest Proof That AI Giants Will Pay for Data](https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/)
  - [Here’s your first look at Tron: Ares, premiering in 2025](https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date)
  - [Google packs more searches into the Search Bar](https://www.theverge.com/2024/2/29/24086893/google-search-suggestions-chrome-android-ios-images)
- - [Google adds Photomath, which lets users solve math problems by taking a photo, to its Play Store and App Store publisher accounts, after buying the app in 2022 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240229/p29#a240229p29)
- - [&#39;Wonka&#39; Streaming on Max: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/wonka-streaming-on-max-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google adds Photomath, which lets users solve math problems by taking a photo, to its Play Store and App Store publisher accounts, after buying the app in 2022 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240229/p29#a240229p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
  - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 💣 [You gonna make me..](http://9gag.com/gag/aBdq70N)
- - 😝 [Old japanese movies](http://9gag.com/gag/amAjEPX)
- - 👉 [Bros eating bro while Bros eating bro.](http://9gag.com/gag/anzpLqn)<!-- MEMES:END -->
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 👉 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)<!-- MEMES:END -->
 
 ---
 

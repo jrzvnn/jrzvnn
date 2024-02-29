@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation Plus Deals: Buy Directly From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
  - [Coinbase says all services on its website have been restored after an issue on February 28 caused some users to see a zero balance in their accounts &lpar;Reuters&rpar;](http://www.techmeme.com/240228/p42#a240228p42)
+ - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)
  - [Apple&#39;s Self Service Repair expanding to M3 Macs](https://appleinsider.com/articles/24/02/29/apples-self-service-repair-expanding-to-m3-macs?utm_medium=rss)
- - [Webull plans to go public via a SPAC merger with SK Growth Opportunities around September 2024 and expects to raise ~$100M, valuing the online brokerage at $7B+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p41#a240228p41)
- - [Best OLED Laptop Deals: Big Savings on Asus Vivobook, HP Spectre, Dell XPS and More     - CNET](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Everett, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-everett-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Webull plans to go public via a SPAC merger with SK Growth Opportunities around September 2024 and expects to raise ~$100M, valuing the online brokerage at $7B+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p41#a240228p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

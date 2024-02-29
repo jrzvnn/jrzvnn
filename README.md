@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Uber CEO Dara Khosrowshahi receives options to buy stock worth ~$136M after hitting a performance target to reach a $120B valuation for the company &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240229/p9#a240229p9)
  - [The White House Warns Cars Made in China Could Unleash Chaos on US Highways](https://www.wired.com/story/china-cars-national-security-threat-investigation/)
  - [Now it’s the Galaxy Z Flip 6’s turn to leak in unofficial renders](https://www.theverge.com/2024/2/29/24086434/samsung-galaxy-z-flip-6-leaked-renders-onleaks-thickness-specs-cameras)
  - [Q&amp;A with OnlyFans CEO Keily Blair on paying out $15B+ to creators since inception, negative perceptions of the site, hosting sports and other content, AI, more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240229/p8#a240229p8)
- - [A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos](https://www.wired.com/story/pornhub-chatbot-csam-help/)
- - [AI chatbots designed to help hackers, using manipulated versions of models from companies like Meta, OpenAI, and Anthropic, are being sold on the dark web &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p7#a240229p7)<!-- TECH:END -->
+ - [A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos](https://www.wired.com/story/pornhub-chatbot-csam-help/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

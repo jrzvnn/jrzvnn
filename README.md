@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US launches a probe into possible security risks of Chinese-manufactured vehicles, saying modern cars are like smartphones and could be used for espionage &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/240229/p16#a240229p16)
  - [Biden administration is investigating security threats from Chinese vehicles](https://www.theverge.com/2024/2/29/24086490/us-biden-administration-investigation-chinese-vehicles-security-threat)
  - [Humanoid robot maker Figure AI confirms it has raised $675M at a $2.6B valuation and shows off a general-purpose robot called Figure 01 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240229/p15#a240229p15)
  - [Researchers find serious security flaws in cheap video door bells sold by a Chinese company under various brands names on Amazon, Shein, and other sites &lpar;Consumer Reports&rpar;](http://www.techmeme.com/240229/p14#a240229p14)
- - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)
- - [How Nvidia Came to Rule AI](https://www.wired.com/story/gadget-lab-podcast-634/)<!-- TECH:END -->
+ - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Embracer will sell its subsidiary Saber Interactive to private investors in a $500M deal, making Saber a privately owned company with ~3,500 staff &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240229/p23#a240229p23)
  - [Here Are the Google and Microsoft Security Updates You Need Right Now](https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/)
  - [The golden age of DVDs isn’t over yet for anime fans](https://www.theverge.com/24062618/anime-dvd-bluray-discotek-physical-media)
  - [Brave launches its AI-powered assistant Leo, which can create real-time summaries of webpages or videos, generate long form content, and more, on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240229/p22#a240229p22)
- - [Microsoft launches a Copilot for Finance in public preview; the chatbot can perform some common role-specific actions in Excel and Outlook &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240229/p21#a240229p21)
- - [El Niño expected to smash heat records in 2024](https://www.theverge.com/2024/2/29/24085921/el-nino-forecast-record-heat-2024)<!-- TECH:END -->
+ - [Microsoft launches a Copilot for Finance in public preview; the chatbot can perform some common role-specific actions in Excel and Outlook &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240229/p21#a240229p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

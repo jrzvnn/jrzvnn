@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub enables push protection by default for all public repositories to prevent accidental leaks of secrets like access tokens and API keys when pushing code &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240229/p28#a240229p28)
  - [Setapp is opening its subscription-only iOS app store](https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store)
  - [Definitely don’t start your Final Fantasy VII experience with Rebirth](https://www.theverge.com/2024/2/29/24085625/final-fantasy-7-rebirth-best-start)
  - [Android users switching to iPhone prefer value over latest tech](https://appleinsider.com/articles/24/02/29/android-users-switching-to-iphone-prefer-value-over-latest-tech?utm_medium=rss)
- - [Sony’s new ‘slim’ PlayStation 5 is already on sale with Marvel’s Spider-Man 2](https://www.theverge.com/2024/2/29/24086116/playstation-ps5-slim-keychron-c3-pro-mechanical-keyboard-anker-qi2-charger-deal-sale)
- - [This $110 Portable Anker Power Station Lets You Bring Power Anywhere     - CNET](https://www.cnet.com/deals/this-110-portable-anker-power-station-lets-you-bring-power-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s new ‘slim’ PlayStation 5 is already on sale with Marvel’s Spider-Man 2](https://www.theverge.com/2024/2/29/24086116/playstation-ps5-slim-keychron-c3-pro-mechanical-keyboard-anker-qi2-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

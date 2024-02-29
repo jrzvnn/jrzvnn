@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos](https://www.wired.com/story/pornhub-chatbot-csam-help/)
  - [AI chatbots designed to help hackers, using manipulated versions of models from companies like Meta, OpenAI, and Anthropic, are being sold on the dark web &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240229/p7#a240229p7)
  - [The UK is piloting the use of ChatGPT and open-source AI models to analyze responses to public consultations and write draft answers to parliamentary questions &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/240229/p6#a240229p6)
  - [X adds a feature that lets Spaces hosts enable live video when they create a new session, available on iOS &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240229/p5#a240229p5)
- - [Eight EU consumer rights groups lodge GDPR complaints with national data protection authorities, accusing Meta of coercing users with its &quot;pay-or-consent&quot; model &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240229/p4#a240229p4)
- - [Researchers detail an ongoing repo confusion attack impacting 100K+ GitHub repos, which involves cloning existing repos and infecting them with malware loaders &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240229/p3#a240229p3)<!-- TECH:END -->
+ - [Eight EU consumer rights groups lodge GDPR complaints with national data protection authorities, accusing Meta of coercing users with its &quot;pay-or-consent&quot; model &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240229/p4#a240229p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

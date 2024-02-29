@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Self Service Repair expanding to M3 Macs](https://appleinsider.com/articles/24/02/29/apples-self-service-repair-expanding-to-m3-macs?utm_medium=rss)
+ - [Webull plans to go public via a SPAC merger with SK Growth Opportunities around September 2024 and expects to raise ~$100M, valuing the online brokerage at $7B+ &lpar;Hannah Miao/Wall Street Journal&rpar;](http://www.techmeme.com/240228/p41#a240228p41)
  - [Sources detail Apple&#39;s $10B+ car project: years of disagreements on whether it should be a self-driving car or just an EV, talks with Musk on buying Tesla, more &lpar;New York Times&rpar;](http://www.techmeme.com/240228/p40#a240228p40)
  - [Doc: EU regulators are probing whether Microsoft is preventing its customers from buying software that competes with its Entra ID identity management service &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240228/p39#a240228p39)
- - [CNET&#39;s Best Tested Bread Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
- - [Best Internet Providers in Montgomery, Alabama     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-montgomery-al/#ftag=CAD590a51e)
- - [X adds live video to Spaces instead of bringing back Periscope](https://www.theverge.com/2024/2/28/24086072/x-spaces-live-video-chat-stream)<!-- TECH:END -->
+ - [CNET&#39;s Best Tested Bread Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

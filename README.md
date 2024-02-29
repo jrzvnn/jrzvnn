@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)
- - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 💣 [Crazy.](http://9gag.com/gag/a2KBQKO)
- - 😝 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)
- - 👉 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)<!-- MEMES:END -->
+ - 😝 [\u2026..](http://9gag.com/gag/a6qvAAe)
+ - 😝 [You gonna make me..](http://9gag.com/gag/aBdq70N)
+ - 💣 [Men, whats your thoughts?](http://9gag.com/gag/aMERg3x)
+ - 😝 [Best cinematic shot ever.](http://9gag.com/gag/a9qQ9m1)
+ - 👉 [Another wednesday, another frog](http://9gag.com/gag/aPgNKQP)<!-- MEMES:END -->
 
 ---
 

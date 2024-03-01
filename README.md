@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many people learn it in a hard way](http://9gag.com/gag/aBdDR8N)
- - 😝 [Another death by community note](http://9gag.com/gag/aYVzN7q)
- - 💣 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
- - 😝 [This is actually a proven method](http://9gag.com/gag/aOx6y1E)
- - 👉 [Chadette McClain wipes the floor with diversity hire Lee](http://9gag.com/gag/aQEYpNw)<!-- MEMES:END -->
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 💣 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 

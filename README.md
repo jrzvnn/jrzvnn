@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So the company made it with real fresh potato ?](http://9gag.com/gag/aVbGQw8)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
  - 💣 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
- - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
+ - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
+ - 👉 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)<!-- MEMES:END -->
 
 ---
 

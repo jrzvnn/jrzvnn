@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [5000 Germany soldiers will be located in Lithuania to help combat threats. Russian backed disinformation channels tried to call out protest and riots. Nobody showed up to protest. Troll factory had a bad day.](http://9gag.com/gag/aXn8Em2)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 💣 [Rogue HD](http://9gag.com/gag/aMEp1QX)
+ - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
+ - 👉 [Many people learn it in a hard way](http://9gag.com/gag/aBdDR8N)<!-- MEMES:END -->
 
 ---
 

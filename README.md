@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Elon Musk sues OpenAI and Sam Altman, accusing them of betraying an agreement from OpenAI&#39;s founding to develop AI toward the &quot;benefit of humanity&quot; over profits &lpar;Candace Cheung/Courthouse News Service&rpar;](http://www.techmeme.com/240301/p4#a240301p4)
  - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)
+ - [Save Big on Your Next Adventure With This 12% Tripadvisor Discount     - CNET](https://www.cnet.com/deals/save-big-on-your-next-adventure-with-this-12-tripadvisor-discount/#ftag=CAD590a51e)
  - [A eulogy for TinyLetter, as Mailchimp shuts down the newsletter tool acquired in 2011 that had a brief run nurturing great personal writing on the internet &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240301/p2#a240301p2)
- - [Here Come the AI Worms](https://www.wired.com/story/here-come-the-ai-worms/)
- - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)<!-- TECH:END -->
+ - [Free File: What the IRS Program Can and Can&#39;t Do     - CNET](https://www.cnet.com/personal-finance/taxes/free-file-what-the-irs-program-can-and-cant-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

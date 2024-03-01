@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 😝 [Good](http://9gag.com/gag/amADNQy)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
  - 💣 [And it gets more painful every day for everyone who hasn&#39;t heard](http://9gag.com/gag/a7qj5RA)
- - 😝 [Haha](http://9gag.com/gag/ap9yyGM)
- - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
 
 ---
 

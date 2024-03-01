@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
  - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 👉 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)<!-- MEMES:END -->
 
 ---
 

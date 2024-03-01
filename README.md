@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk might be suing OpenAI because he is a troll and has a grudge but his lawsuit puts a spotlight on the empty humanitarian posturing by AI businesses &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240301/p10#a240301p10)
+ - [Source: late last year, Google suggested Meta partner on Android XR, a new software platform for VR and AR, but Meta executives decided against a partnership &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240301/p9#a240301p9)
  - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)
  - [The Mindblowing Experience of a Chatbot That Answers Instantly](https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/)
- - [Filing: Elon Musk says OpenAI is &quot;not just developing but is actually refining an AGI to maximize profits for Microsoft&quot; and claims GPT-4 constitutes an AGI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p8#a240301p8)
- - [Elon Musk Sues OpenAI and Sam Altman for Breach of Contract](https://www.wired.com/story/elon-musk-sues-sam-altman-openai/)
- - [Google confirms it is blocking rooted Android phones from using RCS, citing the need to abide by the RCS standard&#39;s &quot;operating measures&quot; to stop spam and abuse &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240301/p7#a240301p7)<!-- TECH:END -->
+ - [Filing: Elon Musk says OpenAI is &quot;not just developing but is actually refining an AGI to maximize profits for Microsoft&quot; and claims GPT-4 constitutes an AGI &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p8#a240301p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with CEO of Groq about its AI chips that enable chatbots to answer queries instantly, sending a cease and desist to X.ai over the Groq trademark, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240301/p19#a240301p19)
+ - [Spotify, Epic complain again that Apple won&#39;t be in compliance with the DMA](https://appleinsider.com/articles/24/03/01/spotify-epic-complain-again-that-apple-wont-be-in-compliance-with-the-dma?utm_medium=rss)
  - [Netflix’s Spaceman is slow, sad sci-fi — with a lovable space spider](https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler)
  - [You can pick up Apple’s iPad Magic Keyboard for under $200 right now](https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal)
- - [An analysis of Musk&#39;s claims in his OpenAI lawsuit, which seeks to open up GPT-4&#39;s source code, end Microsoft exclusivity, and stop OpenAI&#39;s for-profit work &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240301/p18#a240301p18)
- - [Dune: Part Two is a pointed examination of the books’ most subversive ideas](https://www.theverge.com/24086957/dune-part-two-movie-review)
- - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)<!-- TECH:END -->
+ - [Save Up to 27% Off Ecobee Smart Home Devices and Accessories Today     - CNET](https://www.cnet.com/deals/save-up-to-27-off-ecobee-smart-home-devices-and-accessories-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

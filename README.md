@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Waymo Will Bring Autonomous Taxis to Los Angeles—Its Biggest Challenge Yet](https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/)
  - [The Wild Claim at the Heart of Elon Musk’s OpenAI Lawsuit](https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/)
  - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)
- - [Threads API coming in June](https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party)
- - [Apple TV Plus adds over 50 movies, including some in 4K and 3D](https://www.theverge.com/2024/3/1/24087912/apple-tv-plus-50-movies-now-available-4k-3d)
- - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)<!-- TECH:END -->
+ - [Threads’ API is coming in June](https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

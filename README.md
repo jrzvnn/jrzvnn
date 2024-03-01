@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fisker warns it’s running out of cash and may not make it through 2024](https://www.theverge.com/2024/3/1/24087516/fisker-ev-earnings-layoff-going-concern-warning)
- - [The Apple Car crash](https://www.theverge.com/2024/3/1/24087495/apple-car-supreme-court-tech-tiktok-universal-humane-pin-vergecast)
- - [Apple&#39;s 2024 iPad &amp; iPhone chip plan has been detailed in a new leak](https://appleinsider.com/articles/24/03/01/apples-2024-ipad-iphone-chip-plan-has-been-detailed-in-a-new-leak?utm_medium=rss)
- - [A software engineer wore Apple Vision Pro to his wedding, much to his new bride&#39;s chagrin](https://appleinsider.com/articles/24/03/01/a-software-engineer-wore-apple-vision-pro-to-his-wedding-much-to-his-new-brides-chagrin?utm_medium=rss)
- - [7 Easy Ways to Add More Protein Into Your Diet     - CNET](https://www.cnet.com/health/nutrition/ways-to-add-more-protein-to-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Mobile World Congress asked us to imagine a world where phones bend to our needs](https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin)
+ - [Lowest price ever: OWC 14-port Thunderbolt Dock drops to $99.99](https://appleinsider.com/articles/24/03/01/lowest-price-ever-owc-14-port-thunderbolt-dock-drops-to-9999?utm_medium=rss)
+ - [Google pulls 12+ popular apps from the Play Store in India for persistently not complying with billing policies, escalating a three-year dispute in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p12#a240301p12)
+ - [Fisker warns it’s running out of cash and may not make it through 2024](https://www.theverge.com/2024/3/1/24087516/fisker-ev-earnings-layoff-going-concern-warning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

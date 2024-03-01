@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
  - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
- - 💣 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
- - 😝 [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)
- - 👉 [Marriage material](http://9gag.com/gag/a6qWyqR)<!-- MEMES:END -->
+ - 💣 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
+ - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 👉 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)<!-- MEMES:END -->
 
 ---
 

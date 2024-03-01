@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s Lawsuit Against a Group That Found Hate Speech on X Isn&#39;t Going Well](https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/)
  - [BBC Studios buys British broadcaster ITV&#39;s 50% stake in streamer BritBox International for &amp;pound;255M, as ITV focuses on its ad-funded streaming service ITVX &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240301/p5#a240301p5)
  - [Elon Musk sues OpenAI and Sam Altman, accusing them of betraying an agreement from OpenAI&#39;s founding to develop AI toward the &quot;benefit of humanity&quot; over profits &lpar;Candace Cheung/Courthouse News Service&rpar;](http://www.techmeme.com/240301/p4#a240301p4)
  - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)
- - [Save Big on Your Next Adventure With This 12% Tripadvisor Discount     - CNET](https://www.cnet.com/deals/save-big-on-your-next-adventure-with-this-12-tripadvisor-discount/#ftag=CAD590a51e)
- - [A eulogy for TinyLetter, as Mailchimp shuts down the newsletter tool acquired in 2011 that had a brief run nurturing great personal writing on the internet &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240301/p2#a240301p2)<!-- TECH:END -->
+ - [Save Big on Your Next Adventure With This 12% Tripadvisor Discount     - CNET](https://www.cnet.com/deals/save-big-on-your-next-adventure-with-this-12-tripadvisor-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

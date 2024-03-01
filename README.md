@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [So the company made it with real fresh potato ?](http://9gag.com/gag/aVbGQw8)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [Puppy](http://9gag.com/gag/a9q3MyW)
+ - 💣 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
  - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
 
 ---

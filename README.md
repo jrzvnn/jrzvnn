@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2024 iPad &amp; iPhone chip plan has been detailed in a new leak](https://appleinsider.com/articles/24/03/01/apples-2024-ipad-iphone-chip-plan-has-been-detailed-in-a-new-leak?utm_medium=rss)
  - [Apple says users and a number of government agencies in the EU raised concerns about the security risks of allowing app sideloading on iOS to comply with DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240301/p11#a240301p11)
  - [Elon Musk sues OpenAI for abandoning its mission to benefit humanity](https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission)
  - [Elon Musk might be suing OpenAI because he is a troll and has a grudge but his lawsuit puts a spotlight on the empty humanitarian posturing by AI businesses &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240301/p10#a240301p10)
- - [Source: late last year, Google suggested Meta partner on Android XR, a new software platform for VR and AR, but Meta executives decided against a partnership &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240301/p9#a240301p9)
- - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)<!-- TECH:END -->
+ - [Source: late last year, Google suggested Meta partner on Android XR, a new software platform for VR and AR, but Meta executives decided against a partnership &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240301/p9#a240301p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

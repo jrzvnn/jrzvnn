@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
+ - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
 
 ---
 

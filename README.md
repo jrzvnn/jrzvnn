@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it plans to deprecate the Facebook News tab in the US and Australia in early April 2024 and won&#39;t sign new deals for news content in those countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240229/p33#a240229p33)
+ - [An investigation into ClothOff, an app being used to make deepfake porn images of underage girls, finds a brother and sister in Belarus are linked to the app &lpar;The Guardian&rpar;](http://www.techmeme.com/240229/p32#a240229p32)
  - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
  - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
- - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)
- - [Best M3 Mac Deals: Save Up to $249 Off Apple&#39;s Latest Laptops and Desktops     - CNET](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)
- - [Best Fitness Trackers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

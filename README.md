@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
- - 😝 [Good](http://9gag.com/gag/amADNQy)
- - 💣 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
  - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
+ - 💣 [Good](http://9gag.com/gag/amADNQy)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
  - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---

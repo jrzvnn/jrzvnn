@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Reddit plans to target a price range of $31 to $34 a share in its IPO, which would give the company an equity value of around $6B to $6.5B &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240301/p21#a240301p21)
+ - [Florida Gov. Ron DeSantis vetoes what would have been one of the US&#39; most restrictive bans on minors&#39; social media use, says he is working on an alternative &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240301/p20#a240301p20)
  - [You can now save up to $1 million in your Apple Card Savings Account](https://appleinsider.com/articles/24/03/01/you-can-now-save-up-to-1-million-in-your-apple-card-savings-account?utm_medium=rss)
- - [Elon Musk’s legal case against OpenAI is hilariously bad](https://www.theverge.com/2024/3/1/24087937/elon-musk-suing-openai-nightmare-1l-contracts-exam)
- - [Interview with CEO of Groq about its AI chips that enable chatbots to answer queries instantly, sending a cease and desist to X.ai over the Groq trademark, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240301/p19#a240301p19)
- - [Spotify, Epic complain again that Apple won&#39;t be in compliance with the DMA](https://appleinsider.com/articles/24/03/01/spotify-epic-complain-again-that-apple-wont-be-in-compliance-with-the-dma?utm_medium=rss)
- - [Netflix’s Spaceman is slow, sad sci-fi — with a lovable space spider](https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler)<!-- TECH:END -->
+ - [Lenovo&#39;s See-Through Laptop Blends Real and Virtual Worlds     - CNET](https://www.cnet.com/tech/computing/lenovos-see-through-laptop-blends-real-and-virtual-worlds/#ftag=CAD590a51e)
+ - [Grab a Windows 11 Pro License for Only $30 Right Now     - CNET](https://www.cnet.com/deals/grab-a-windows-11-pro-license-for-only-30-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

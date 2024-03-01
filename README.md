@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple cites bevy of scared users to back up its case against the EU DMA](https://appleinsider.com/articles/24/03/01/apple-cites-bevy-of-scared-users-to-back-up-its-case-against-the-eu-dma?utm_medium=rss)
+ - [Google is blocking RCS on rooted Android devices](https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices)
  - [Apple stresses security risks of complying with EU&#39;s Digital Markets Act](https://appleinsider.com/articles/24/03/01/apple-stresses-security-risks-of-complying-with-eus-digital-markets-act?utm_medium=rss)
  - [&#39;Dune: Part Two&#39; Fulfills the Prophecy of &#39;Dune&#39;](https://www.wired.com/story/review-dune-part-two-fulfills-the-prophecy-of-dune/)
- - [In a hearing, a federal judge sounded skeptical of X&#39;s claims in its lawsuit against CCDH; an expert says it is &quot;a SLAPP suit disguised as a contractual suit&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240301/p6#a240301p6)
- - [Watch 51 classic movies for free on Apple TV+](https://appleinsider.com/articles/24/03/01/watch-51-classic-movies-for-free-on-apple-tv?utm_medium=rss)
- - [Elon Musk&#39;s Lawsuit Against a Group That Found Hate Speech on X Isn&#39;t Going Well](https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/)<!-- TECH:END -->
+ - [Today&#39;s Mortgage Rates on March 1, 2024: Rates Increased Over the Last Week     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-on-march-1-2024-rates-increased-over-the-last-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

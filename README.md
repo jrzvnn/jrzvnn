@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A eulogy for TinyLetter, as Mailchimp shuts down the newsletter tool acquired in 2011 that had a brief run nurturing great personal writing on the internet &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240301/p2#a240301p2)
+ - [Here Come the AI Worms](https://www.wired.com/story/here-come-the-ai-worms/)
  - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)
  - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
- - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)
- - [Google&#39;s Flagship Lineup Compared: Pixel 8 vs. Pixel 7 vs. Pixel 6     - CNET](https://www.cnet.com/tech/mobile/pixel-8-vs-pixel-7-vs-pixel-6-a-comprehensive-comparison-of-google-flagship-phone/#ftag=CAD590a51e)
- - [Everything to Know About F1 for the 2024 Season     - CNET](https://www.cnet.com/culture/sports/everything-to-know-about-f1-for-the-2024-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

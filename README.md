@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
- - 😝 [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
- - 💣 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
- - 😝 [This is actually a proven method](http://9gag.com/gag/aOx6y1E)
- - 👉 [Chadette McClain wipes the floor with diversity hire Lee](http://9gag.com/gag/aQEYpNw)<!-- MEMES:END -->
+ - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
+ - 👉 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)<!-- MEMES:END -->
 
 ---
 

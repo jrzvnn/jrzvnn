@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [Good](http://9gag.com/gag/amADNQy)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 💣 [Slavery](http://9gag.com/gag/avQb2Zq)
+ - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
  - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---

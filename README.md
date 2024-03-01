@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
  - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 💣 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
+ - 💣 [Grapes!](http://9gag.com/gag/aVbGWMv)
+ - 😝 [Title](http://9gag.com/gag/amAD0M2)
+ - 👉 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)<!-- MEMES:END -->
 
 ---
 

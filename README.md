@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra is not the only micro LED project Apple has cancelled](https://appleinsider.com/articles/24/03/01/apple-watch-ultra-is-not-the-only-micro-led-project-apple-has-cancelled?utm_medium=rss)
  - [Google confirms it is blocking rooted Android phones from using RCS, citing the need to abide by the RCS standard&#39;s &quot;operating measures&quot; to stop spam and abuse &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240301/p7#a240301p7)
  - [Volkswagen ID.7 review: a superior EV that happens to be a sedan](https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos)
  - [Apple cites bevy of scared users to back up its case against the EU DMA](https://appleinsider.com/articles/24/03/01/apple-cites-bevy-of-scared-users-to-back-up-its-case-against-the-eu-dma?utm_medium=rss)
- - [Tax Season 2024: IRS Opens Direct File Pilot. See if You Can File Your Taxes for Free     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-opens-direct-file-pilot-see-if-you-can-file-your-taxes-for-free/#ftag=CAD590a51e)
- - [Google is blocking RCS on rooted Android devices](https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices)<!-- TECH:END -->
+ - [Tax Season 2024: IRS Opens Direct File Pilot. See if You Can File Your Taxes for Free     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-2024-irs-opens-direct-file-pilot-see-if-you-can-file-your-taxes-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

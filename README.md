@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
- - 😝 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
- - 💣 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 😝 [Observe &lpar;see&rpar;](http://9gag.com/gag/ap9eKRn)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 💣 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
+ - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---
 

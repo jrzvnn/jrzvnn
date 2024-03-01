@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
+ - 💣 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
+ - 😝 [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)
+ - 👉 [Marriage material](http://9gag.com/gag/a6qWyqR)<!-- MEMES:END -->
 
 ---
 

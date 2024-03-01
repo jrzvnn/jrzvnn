@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
  - 😝 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
- - 💣 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 👉 [Slavery](http://9gag.com/gag/avQb2Zq)<!-- MEMES:END -->
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
 
 ---
 

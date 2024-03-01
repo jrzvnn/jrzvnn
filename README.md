@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clean energy is growing, but so is planet-heating pollution](https://www.theverge.com/2024/3/1/24087737/clean-energy-climate-change-emissions-peak-iea-report)
+ - [Best Buy is blowing out Apple&#39;s MacBook Pro &lpar;24GB RAM, 1TB SSD&rpar; at $1,399](https://appleinsider.com/articles/24/03/01/best-buy-is-blowing-out-apples-macbook-pro-24gb-ram-1tb-ssd-at-1399?utm_medium=rss)
+ - [A Leap Year Glitch Broke Self-Pay Gas Station Pumps Across New Zealand](https://www.wired.com/story/leap-year-glitch-gas-pumps-broken-new-zealand/)
  - [11 Best Tents &lpar;2024&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
- - [To stem the tide of AI-generated work, Amazon starts limiting the publication of &quot;summaries&quot; and &quot;workbooks&quot; that claim to be companions to human-authored books &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240301/p16#a240301p16)
- - [Now Apple says it won’t disable iPhone web apps in the EU](https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal)
- - [Google cuts team of contractors who went on strike](https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors)
- - [Go ahead and alter the atmosphere, no one’s going to stop you — probably](https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate)<!-- TECH:END -->
+ - [To stem the tide of AI-generated work, Amazon starts limiting the publication of &quot;summaries&quot; and &quot;workbooks&quot; that claim to be companions to human-authored books &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240301/p16#a240301p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

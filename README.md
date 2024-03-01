@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 😝 [Slavery](http://9gag.com/gag/avQb2Zq)
- - 💣 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
- - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 👉 [David Larrat having fun](http://9gag.com/gag/awZq09x)<!-- MEMES:END -->
+ - 😝 [Are they mad at me?](http://9gag.com/gag/aPgO68w)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
 
 ---
 

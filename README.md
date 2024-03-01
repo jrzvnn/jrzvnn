@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
- - 💣 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
- - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
+ - 😝 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
+ - 😝 [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
+ - 💣 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
+ - 😝 [This is actually a proven method](http://9gag.com/gag/aOx6y1E)
+ - 👉 [Chadette McClain wipes the floor with diversity hire Lee](http://9gag.com/gag/aQEYpNw)<!-- MEMES:END -->
 
 ---
 

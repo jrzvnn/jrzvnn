@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 😝 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
+ - 😝 [Grapes!](http://9gag.com/gag/aVbGWMv)
  - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
+ - 😝 [How to impress girls](http://9gag.com/gag/aGEPRDZ)
+ - 👉 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)<!-- MEMES:END -->
 
 ---
 

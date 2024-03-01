@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Best DIY Home Security Systems of 2024     - CNET](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [6 Best Vitamins and Supplements for Eye Health     - CNET](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eye-health/#ftag=CAD590a51e)
- - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
- - [Mobile World Congress asked us to imagine a world where phones bend to our needs](https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin)<!-- TECH:END -->
+ - [Unionized YouTube music workers learn they were laid off at a meeting where Austin city council was considering calling on Google to bargain with their union &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240301/p14#a240301p14)
+ - [New York City is testing public e-bike charging stations for delivery workers](https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires)
+ - [After criticism, Apple says iOS 17.4 won&#39;t remove Home Screen web apps in the EU, which will continue to be built on WebKit and its security architecture &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240301/p13#a240301p13)
+ - [Spotify and Epic criticize Apple’s iOS changes as ‘a mockery of the DMA’](https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma)
+ - [Signia Pure Charge&amp;Go IX Hearing Aids Review: Great AI-Powered Audio, for a Price](https://www.wired.com/review/signia-pure-chargeandgo-ix-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

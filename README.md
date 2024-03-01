@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
+ - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
  - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
- - 👉 [Rogue HD](http://9gag.com/gag/aMEp1QX)<!-- MEMES:END -->
+ - 👉 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Spaceman is slow, sad sci-fi — with a lovable space spider](https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler)
  - [You can pick up Apple’s iPad Magic Keyboard for under $200 right now](https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal)
  - [An analysis of Musk&#39;s claims in his OpenAI lawsuit, which seeks to open up GPT-4&#39;s source code, end Microsoft exclusivity, and stop OpenAI&#39;s for-profit work &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240301/p18#a240301p18)
  - [Dune: Part Two is a pointed examination of the books’ most subversive ideas](https://www.theverge.com/24086957/dune-part-two-movie-review)
- - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
- - [Threads says it will make its API broadly available to developers by June and is currently testing it with some partners, including Techmeme and Hootsuite &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240301/p17#a240301p17)<!-- TECH:END -->
+ - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

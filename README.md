@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 😝 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
+ - 😝 [So the company made it with real fresh potato ?](http://9gag.com/gag/aVbGQw8)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 💣 [Feels good](http://9gag.com/gag/a5XLNZg)
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
 
 ---
 

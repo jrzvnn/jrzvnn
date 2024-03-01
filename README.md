@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
+ - 😝 [Rogue HD](http://9gag.com/gag/aMEp1QX)
+ - 😝 [Choose well](http://9gag.com/gag/aOx6ozE)
  - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)<!-- MEMES:END -->
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 👉 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)<!-- MEMES:END -->
 
 ---
 

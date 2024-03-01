@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
  - [Mobile World Congress asked us to imagine a world where phones bend to our needs](https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin)
  - [Lowest price ever: OWC 14-port Thunderbolt Dock drops to $99.99](https://appleinsider.com/articles/24/03/01/lowest-price-ever-owc-14-port-thunderbolt-dock-drops-to-9999?utm_medium=rss)
- - [Google pulls 12+ popular apps from the Play Store in India for persistently not complying with billing policies, escalating a three-year dispute in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p12#a240301p12)
- - [Fisker warns it’s running out of cash and may not make it through 2024](https://www.theverge.com/2024/3/1/24087516/fisker-ev-earnings-layoff-going-concern-warning)<!-- TECH:END -->
+ - [Google pulls 12+ popular apps from the Play Store in India for persistently not complying with billing policies, escalating a three-year dispute in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240301/p12#a240301p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

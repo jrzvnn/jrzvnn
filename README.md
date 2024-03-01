@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cyclist went twice as fast in final moments of the race](http://9gag.com/gag/arm660p)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
+ - 😝 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 😝 [Rogue HD](http://9gag.com/gag/aMEp1QX)
+ - 👉 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)<!-- MEMES:END -->
 
 ---
 

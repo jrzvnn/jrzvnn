@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge orders the NSO Group to hand over its code for Pegasus and other spyware products to WhatsApp, as part of the company&#39;s ongoing litigation &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/240229/p34#a240229p34)
+ - [Flash deal: save 60% on a lifetime Rosetta Stone subscription](https://appleinsider.com/articles/24/03/01/flash-deal-save-60-on-a-lifetime-rosetta-stone-subscription?utm_medium=rss)
  - [Meta says it plans to deprecate the Facebook News tab in the US and Australia in early April 2024 and won&#39;t sign new deals for news content in those countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240229/p33#a240229p33)
  - [An investigation into ClothOff, an app being used to make deepfake porn images of underage girls, finds a brother and sister in Belarus are linked to the app &lpar;The Guardian&rpar;](http://www.techmeme.com/240229/p32#a240229p32)
- - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
- - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
- - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)<!-- TECH:END -->
+ - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

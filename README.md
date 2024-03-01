@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Navalny Funeral. Seems not all Russians are numb!](http://9gag.com/gag/abvjyp8)
- - 😝 [People in Russia chanting `Putin is a murderer`](http://9gag.com/gag/az26EqK)
- - 💣 [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)
- - 😝 [Who else was amazed when they first saw this?](http://9gag.com/gag/aYVzW0V)
- - 👉 [Marriage material](http://9gag.com/gag/a6qWyqR)<!-- MEMES:END -->
+ - 😝 [Observe &lpar;see&rpar;](http://9gag.com/gag/ap9eKRn)
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 💣 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
+ - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 

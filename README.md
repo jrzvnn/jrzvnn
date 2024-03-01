@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 💣 [The trick is win 2 times and never play again for 3rd time](http://9gag.com/gag/aEqev6G)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
+ - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
+ - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
 
 ---
 

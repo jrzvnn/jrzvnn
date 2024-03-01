@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 💣 [A ball expert](http://9gag.com/gag/a3ZodLv)
  - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 👉 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)<!-- MEMES:END -->
+ - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
+ - 💣 [Rogue HD](http://9gag.com/gag/aMEp1QX)
+ - 😝 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)
+ - 👉 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)<!-- MEMES:END -->
 
 ---
 

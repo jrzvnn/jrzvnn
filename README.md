@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness my old friend...](http://9gag.com/gag/aNwyeD3)
- - 😝 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 💣 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 😝 [Rogue HD](http://9gag.com/gag/aMEp1QX)
- - 👉 [This last blurry embrace before the unending darkness engulfs us!](http://9gag.com/gag/aOx6qeE)<!-- MEMES:END -->
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 😝 [Slavery](http://9gag.com/gag/avQb2Zq)
+ - 💣 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
+ - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
+ - 👉 [David Larrat having fun](http://9gag.com/gag/awZq09x)<!-- MEMES:END -->
 
 ---
 

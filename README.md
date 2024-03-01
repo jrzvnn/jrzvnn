@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To stem the tide of AI-generated work, Amazon starts limiting the publication of &quot;summaries&quot; and &quot;workbooks&quot; that claim to be companions to human-authored books &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240301/p16#a240301p16)
  - [Now Apple says it won’t disable iPhone web apps in the EU](https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal)
  - [Google cuts team of contractors who went on strike](https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors)
  - [Go ahead and alter the atmosphere, no one’s going to stop you — probably](https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate)
- - [21 Best Wireless Headphones &lpar;2024&rpar;: Earbuds, Noise Canceling, and More](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Nikon and NASA are putting a mirrorless camera on the Moon](https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission)<!-- TECH:END -->
+ - [21 Best Wireless Headphones &lpar;2024&rpar;: Earbuds, Noise Canceling, and More](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

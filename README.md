@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk sues OpenAI and Sam Altman, accusing them of betraying an agreement from OpenAI&#39;s founding to develop AI toward the &quot;benefit of humanity&quot; over profits &lpar;Candace Cheung/Courthouse News Service&rpar;](http://www.techmeme.com/240301/p4#a240301p4)
  - [Australia&#39;s PM threatens action against Meta after it said it would stop paying media companies; News Corp says it threatens the viability of small media groups &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240301/p3#a240301p3)
  - [A eulogy for TinyLetter, as Mailchimp shuts down the newsletter tool acquired in 2011 that had a brief run nurturing great personal writing on the internet &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240301/p2#a240301p2)
  - [Here Come the AI Worms](https://www.wired.com/story/here-come-the-ai-worms/)
- - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)
- - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)<!-- TECH:END -->
+ - [Good Climate Solutions Need Good Policy—and AI Can Help With That](https://www.wired.com/story/climate-policy-radar-michal-nachmany-data-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

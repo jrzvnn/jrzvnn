@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re a legend if you get this](http://9gag.com/gag/abvPPGL)
- - 😝 [Gender Equality, sure](http://9gag.com/gag/aL1Yq9P)
- - 💣 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 👉 [Haha](http://9gag.com/gag/ap9yyGM)<!-- MEMES:END -->
+ - 😝 [Cyclist went twice as fast in final moments of the race](http://9gag.com/gag/arm660p)
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 💣 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

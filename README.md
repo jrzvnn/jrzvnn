@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 😝 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
- - 💣 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 😝 [Better call Saul irl](http://9gag.com/gag/agoMRgx)
- - 👉 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)<!-- MEMES:END -->
+ - 😝 [Many people learn it in a hard way](http://9gag.com/gag/aBdDR8N)
+ - 😝 [Another death by community note](http://9gag.com/gag/aYVzN7q)
+ - 💣 [Jack Black covers Hit Me Baby](http://9gag.com/gag/a2KQNKw)
+ - 😝 [This is actually a proven method](http://9gag.com/gag/aOx6y1E)
+ - 👉 [Chadette McClain wipes the floor with diversity hire Lee](http://9gag.com/gag/aQEYpNw)<!-- MEMES:END -->
 
 ---
 

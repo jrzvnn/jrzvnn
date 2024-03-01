@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 💣 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
- - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 👉 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
+ - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
+ - 💣 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
+ - 👉 [A ball expert](http://9gag.com/gag/a3ZodLv)<!-- MEMES:END -->
 
 ---
 

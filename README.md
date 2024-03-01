@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UnitedHealth says Blackcat is the reason healthcare providers are going unpaid](https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments)
+ - [Best Electric SUVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-electric-suv/#ftag=CAD590a51e)
  - [The UK’s GPS Tagging of Migrants Has Been Ruled Illegal](https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/)
- - [Best Electric Cars and EVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
- - [Best Tested Portable Power Stations in 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
- - [HPE reports Q1 revenue down 14% YoY to $6.76B, vs. $7.1B est., Server revenue down 23% YoY to $3.4B, and reduces its FY 2024 outlook for sales growth and profit &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240229/p31#a240229p31)
- - [The 7 Best Sleep Masks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-masks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best M3 Mac Deals: Save Up to $249 Off Apple&#39;s Latest Laptops and Desktops     - CNET](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)
+ - [Best Fitness Trackers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

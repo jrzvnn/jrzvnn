@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
- - 😝 [Puppy](http://9gag.com/gag/a9q3MyW)
- - 💣 [I see what you did there.](http://9gag.com/gag/a1P4A78)
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 👉 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)<!-- MEMES:END -->
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 😝 [Please don&#39;t judge me, inflation is hitting hard :&#39;&lpar;](http://9gag.com/gag/a2KQEvY)
+ - 💣 [Feels good](http://9gag.com/gag/a5XLNZg)
+ - 😝 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 👉 [Slavery](http://9gag.com/gag/avQb2Zq)<!-- MEMES:END -->
 
 ---
 

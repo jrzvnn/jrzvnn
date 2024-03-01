@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of Musk&#39;s claims in his OpenAI lawsuit, which seeks to open up GPT-4&#39;s source code, end Microsoft exclusivity, and stop OpenAI&#39;s for-profit work &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/240301/p18#a240301p18)
+ - [Dune: Part Two is a pointed examination of the books’ most subversive ideas](https://www.theverge.com/24086957/dune-part-two-movie-review)
  - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
  - [Threads says it will make its API broadly available to developers by June and is currently testing it with some partners, including Techmeme and Hootsuite &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240301/p17#a240301p17)
- - [Clean energy is growing, but so is planet-heating pollution](https://www.theverge.com/2024/3/1/24087737/clean-energy-climate-change-emissions-peak-iea-report)
- - [Best Buy is blowing out Apple&#39;s MacBook Pro &lpar;24GB RAM, 1TB SSD&rpar; at $1,399](https://appleinsider.com/articles/24/03/01/best-buy-is-blowing-out-apples-macbook-pro-24gb-ram-1tb-ssd-at-1399?utm_medium=rss)
- - [A Leap Year Glitch Broke Self-Pay Gas Station Pumps Across New Zealand](https://www.wired.com/story/leap-year-glitch-gas-pumps-broken-new-zealand/)<!-- TECH:END -->
+ - [Clean energy is growing, but so is planet-heating pollution](https://www.theverge.com/2024/3/1/24087737/clean-energy-climate-change-emissions-peak-iea-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

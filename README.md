@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good](http://9gag.com/gag/amADNQy)
- - 😝 [Off-duty officer captured on video punching man in the face at red light](http://9gag.com/gag/avQbpen)
- - 💣 [Slavery](http://9gag.com/gag/avQb2Zq)
- - 😝 [Feels good](http://9gag.com/gag/a5XLNZg)
- - 👉 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)<!-- MEMES:END -->
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [2023 Anime Awards winners!](http://9gag.com/gag/abvj3dX)
+ - 💣 [Let&#39;s go](http://9gag.com/gag/aGEPYpw)
+ - 😝 [5000 Germany soldiers will be located in Lithuania to help combat threats. Russian backed disinformation channels tried to call out protest and riots. Nobody showed up to protest. Troll factory had a bad day.](http://9gag.com/gag/aXn8Em2)
+ - 👉 [Better call Saul irl](http://9gag.com/gag/agoMRgx)<!-- MEMES:END -->
 
 ---
 

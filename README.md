@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify launches the Audiobooks Access Tier, which gives free users in the US access to 15 hours of audiobooks per month for $9.99 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240301/p15#a240301p15)
- - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu?utm_medium=rss)
- - [Spotify’s new audiobook tier will only save you a dollar over Premium](https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads)
- - [Unionized YouTube music workers learn they were laid off at a meeting where Austin city council was considering calling on Google to bargain with their union &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240301/p14#a240301p14)
- - [New York City is testing public e-bike charging stations for delivery workers](https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires)<!-- TECH:END -->
+ - [Go ahead and alter the atmosphere, no one’s going to stop you — probably](https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate)
+ - [21 Best Wireless Headphones &lpar;2024&rpar;: Earbuds, Noise Canceling, and More](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Nikon and NASA are putting a mirrorless camera on the Moon](https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission)
+ - [Get the Perfect Screen Size for Your Home     - CNET](https://www.cnet.com/tech/home-entertainment/get-the-perfect-screen-size-for-your-home/#ftag=CAD590a51e)
+ - [Spotify launches the Audiobooks Access Tier, which gives free users in the US access to 15 hours of audiobooks per month for $9.99 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240301/p15#a240301p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

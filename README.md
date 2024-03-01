@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stresses security risks of complying with EU&#39;s Digital Markets Act](https://appleinsider.com/articles/24/03/01/apple-stresses-security-risks-of-complying-with-eus-digital-markets-act?utm_medium=rss)
+ - [&#39;Dune: Part Two&#39; Fulfills the Prophecy of &#39;Dune&#39;](https://www.wired.com/story/review-dune-part-two-fulfills-the-prophecy-of-dune/)
  - [In a hearing, a federal judge sounded skeptical of X&#39;s claims in its lawsuit against CCDH; an expert says it is &quot;a SLAPP suit disguised as a contractual suit&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240301/p6#a240301p6)
  - [Watch 51 classic movies for free on Apple TV+](https://appleinsider.com/articles/24/03/01/watch-51-classic-movies-for-free-on-apple-tv?utm_medium=rss)
- - [Elon Musk&#39;s Lawsuit Against a Group That Found Hate Speech on X Isn&#39;t Going Well](https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/)
- - [BBC Studios buys British broadcaster ITV&#39;s 50% stake in streamer BritBox International for &amp;pound;255M, as ITV focuses on its ad-funded streaming service ITVX &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/240301/p5#a240301p5)
- - [Identity Fraud Can Delay Your Tax Refund: Take This Simple Step to Stop It     - CNET](https://www.cnet.com/personal-finance/taxes/identity-fraud-can-delay-your-tax-refund-take-this-simple-step-to-stop-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Lawsuit Against a Group That Found Hate Speech on X Isn&#39;t Going Well](https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

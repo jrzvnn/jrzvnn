@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The data center industry is struggling to meet its self-imposed sustainability goals as AI&#39;s booming growth increases electricity demand and strains power grids &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/240301/p1#a240301p1)
+ - [Spain&#39;s Tragic Tower Block Fire Exposes the World&#39;s Failing Fire Regulations](https://www.wired.com/story/valencia-tower-fire-grenfell-cladding-siding/)
+ - [Google&#39;s Flagship Lineup Compared: Pixel 8 vs. Pixel 7 vs. Pixel 6     - CNET](https://www.cnet.com/tech/mobile/pixel-8-vs-pixel-7-vs-pixel-6-a-comprehensive-comparison-of-google-flagship-phone/#ftag=CAD590a51e)
  - [Everything to Know About F1 for the 2024 Season     - CNET](https://www.cnet.com/culture/sports/everything-to-know-about-f1-for-the-2024-season/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)
- - [Facebook will remove its News tab, and stop paying publishers for news](https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia)
- - [CNET Isn&#39;t Recommending Wyze Home Security Right Now: Here&#39;s Why     - CNET](https://www.cnet.com/home/security/why-weve-removed-our-wyze-home-security-recommendations-at-cnet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

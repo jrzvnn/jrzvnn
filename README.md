@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Copilot for OneDrive will fetch your files and summarize them](https://www.theverge.com/2024/3/1/24088026/copilot-for-onedrive-file-find-summary-prompts-natural-language)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Waymo Will Bring Autonomous Taxis to Los Angeles—Its Biggest Challenge Yet](https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/)
  - [The Wild Claim at the Heart of Elon Musk’s OpenAI Lawsuit](https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/)
- - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)
- - [Threads’ API is coming in June](https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party)<!-- TECH:END -->
+ - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything to Know About F1 for the 2024 Season     - CNET](https://www.cnet.com/culture/sports/everything-to-know-about-f1-for-the-2024-season/#ftag=CAD590a51e)
  - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
  - [Best Camping Cookware for Your Summer Adventures     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-camping-cooking-gear/#ftag=CAD590a51e)
  - [Facebook will remove its News tab, and stop paying publishers for news](https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia)
- - [CNET Isn&#39;t Recommending Wyze Home Security Right Now: Here&#39;s Why     - CNET](https://www.cnet.com/home/security/why-weve-removed-our-wyze-home-security-recommendations-at-cnet/#ftag=CAD590a51e)
- - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CNET Isn&#39;t Recommending Wyze Home Security Right Now: Here&#39;s Why     - CNET](https://www.cnet.com/home/security/why-weve-removed-our-wyze-home-security-recommendations-at-cnet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

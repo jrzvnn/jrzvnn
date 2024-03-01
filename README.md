@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu?utm_medium=rss)
+ - [Spotify’s new audiobook tier will only save you a dollar over Premium](https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads)
  - [Unionized YouTube music workers learn they were laid off at a meeting where Austin city council was considering calling on Google to bargain with their union &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240301/p14#a240301p14)
  - [New York City is testing public e-bike charging stations for delivery workers](https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires)
- - [After criticism, Apple says iOS 17.4 won&#39;t remove Home Screen web apps in the EU, which will continue to be built on WebKit and its security architecture &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240301/p13#a240301p13)
- - [Spotify and Epic criticize Apple’s iOS changes as ‘a mockery of the DMA’](https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma)
- - [Signia Pure Charge&amp;Go IX Hearing Aids Review: Great AI-Powered Audio, for a Price](https://www.wired.com/review/signia-pure-chargeandgo-ix-hearing-aids/)<!-- TECH:END -->
+ - [After criticism, Apple says iOS 17.4 won&#39;t remove Home Screen web apps in the EU, which will continue to be built on WebKit and its security architecture &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240301/p13#a240301p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

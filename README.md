@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
+ - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)
  - [The Samsung Galaxy Ring may get up to nine days of battery](https://www.theverge.com/2024/3/1/24087820/samsung-galaxy-ring-battery-life-wearables)
  - [Sources: Reddit plans to target a price range of $31 to $34 a share in its IPO, which would give the company an equity value of around $6B to $6.5B &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/240301/p21#a240301p21)
- - [Florida Gov. Ron DeSantis vetoes what would have been one of the US&#39; most restrictive bans on minors&#39; social media use, says he is working on an alternative &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240301/p20#a240301p20)
- - [You can now save up to $1 million in your Apple Card Savings Account](https://appleinsider.com/articles/24/03/01/you-can-now-save-up-to-1-million-in-your-apple-card-savings-account?utm_medium=rss)
- - [Lenovo&#39;s See-Through Laptop Blends Real and Virtual Worlds     - CNET](https://www.cnet.com/tech/computing/lenovos-see-through-laptop-blends-real-and-virtual-worlds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Florida Gov. Ron DeSantis vetoes what would have been one of the US&#39; most restrictive bans on minors&#39; social media use, says he is working on an alternative &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240301/p20#a240301p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

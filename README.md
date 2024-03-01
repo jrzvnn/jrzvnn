@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memos: OpenAI execs reject Musk&#39;s claims, say OpenAI is committed to benefiting humanity and has yet to achieve AGI; Altman says the &quot;attacks will keep coming&quot; &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240301/p23#a240301p23)
  - [Threads API coming in June](https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party)
  - [Apple TV Plus adds over 50 movies, including some in 4K and 3D](https://www.theverge.com/2024/3/1/24087912/apple-tv-plus-50-movies-now-available-4k-3d)
  - [Legal experts say Musk&#39;s lawsuit against OpenAI is a stretch because handshakes and expectations are hard to enforce, but it does make a strong policy argument &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240301/p22#a240301p22)
- - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)
- - [Balatro bumped from some console storefronts due to ratings change](https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc)<!-- TECH:END -->
+ - [Meta says it’s deleting all Oculus accounts at the end of the month](https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

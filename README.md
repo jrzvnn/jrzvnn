@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
- - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 👉 [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
  - 😝 [Grapes!](http://9gag.com/gag/aVbGWMv)
+ - 💣 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
  - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
+ - 👉 [Homicide statistics](http://9gag.com/gag/adP3NxV)<!-- MEMES:END -->
 
 ---
 

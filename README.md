@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 💣 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)
  - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 👉 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)<!-- MEMES:END -->
+ - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - 💣 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 👉 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)<!-- MEMES:END -->
 
 ---
 

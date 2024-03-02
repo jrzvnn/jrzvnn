@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
- - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
+ - 😝 [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
+ - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds](https://www.wired.com/story/weekend-deals-march-2-2024/)
  - [These Companies Have a Plan to Kill Apps](https://www.wired.com/story/these-companies-have-a-plan-to-kill-apps/)
  - [How quick fixes and old code in systems compound technical debt and raise hacking risks, requiring an estimated $1.52T to fix and costing the US $2.41T per year &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240302/p5#a240302p5)
  - [Best of MWC 2024: AI, Wearables and Bending Phone Concepts That Amaze     - CNET](https://www.cnet.com/tech/mobile/best-of-mwc-2024-ai-wearables-and-bending-phone-concepts-that-amaze/#ftag=CAD590a51e)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
- - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

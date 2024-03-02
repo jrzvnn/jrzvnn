@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
  - [HP Wants to Rent You a Printer That It Monitors at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
  - [Best Rice Cookers of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
  - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)
- - [Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)
- - [&#39;Wonka&#39;: Release Date and Time on Max     - CNET](https://www.cnet.com/tech/services-and-software/wonka-when-to-stream-the-movie-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

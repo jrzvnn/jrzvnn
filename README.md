@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 💣 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 👉 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)<!-- MEMES:END -->
+ - 😝 [Worse than a heartbreak](http://9gag.com/gag/axopj1K)
+ - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)
+ - 👉 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)<!-- MEMES:END -->
 
 ---
 

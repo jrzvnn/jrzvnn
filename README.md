@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
- - 💣 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 😝 [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)
+ - 😝 [Worse than a heartbreak](http://9gag.com/gag/axopj1K)
+ - 💣 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 😝 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)
+ - 👉 [If only he had better poker face](http://9gag.com/gag/aqev5gM)<!-- MEMES:END -->
 
 ---
 

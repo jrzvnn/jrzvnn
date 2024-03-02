@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google is offering to relist the apps of ten big Indian developers on the Play Store if they agree to route any payments through their own websites &lpar;Business Standard&rpar;](http://www.techmeme.com/240302/p9#a240302p9)
  - [&#39;Call of Duty: Warzone Mobile&#39; landing on iOS on March 21](https://appleinsider.com/articles/24/03/02/call-of-duty-warzone-mobile-landing-on-ios-on-march-21?utm_medium=rss)
  - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)
  - [One of Our Favorite Wi-Fi 6 Routers Is Going for Just $70     - CNET](https://www.cnet.com/deals/one-of-our-favorite-wi-fi-6-routers-is-going-for-just-70/#ftag=CAD590a51e)
- - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
- - [March Offers Plenty of Streaming Fun, but You Don&#39;t Need Every Service     - CNET](https://www.cnet.com/tech/services-and-software/march-offers-plenty-of-fun-for-streaming-but-you-dont-need-every-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

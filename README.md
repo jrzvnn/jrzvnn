@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [The vintage rocket](http://9gag.com/gag/aGEPDwz)
- - 💣 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
- - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
- - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 💣 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
 
 ---
 

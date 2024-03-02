@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Music Is TikTok&#39;s Past. Sounds May Be Its Future](https://www.wired.com/story/tiktok-music-umg-sounds-future/)
  - [The US Buried Nuclear Waste Abroad. Climate Change Could Unearth It](https://www.wired.com/story/the-us-buried-nuclear-waste-abroad-climate-change-could-unearth-it-marshall-islands-greenland/)
  - [15 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds](https://www.wired.com/story/weekend-deals-march-2-2024/)
- - [Nottingham Forest vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Newcastle vs. Wolves Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-wolves-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Companies Have a Plan to Kill Apps](https://www.wired.com/story/these-companies-have-a-plan-to-kill-apps/)
+ - [How quick fixes and old code in systems compound technical debt and raise hacking risks, requiring an estimated $1.52T to fix and costing the US $2.41T per year &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240302/p5#a240302p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

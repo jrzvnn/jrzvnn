@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)
  - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
- - [HP Wants to Rent You a Printer That It Monitors at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
- - [Best Rice Cookers of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
- - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)<!-- TECH:END -->
+ - [March Offers Plenty of Streaming Fun, but You Don&#39;t Need Every Service     - CNET](https://www.cnet.com/tech/services-and-software/march-offers-plenty-of-fun-for-streaming-but-you-dont-need-every-service/#ftag=CAD590a51e)
+ - [Gut Problems? 4 Simple Ways to Boost Your Gut Health     - CNET](https://www.cnet.com/health/medical/gut-problems-4-simple-ways-to-boost-your-gut-health/#ftag=CAD590a51e)
+ - [HP Wants to Rent You a Printer That It Monitors at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 😝 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)
- - 💣 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
- - 😝 [In Pakistan, a crowd tries to lynch and calls for beheading a woman for wearing a dress with verses from the Koran The police, with the help of merchants, intervened to protect her from the crowd&#39;s calls to behead her.](http://9gag.com/gag/ay2y75p)
- - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/amAD0M2)
+ - 😝 [Most important item for each fly!](http://9gag.com/gag/a2KQqPO)
+ - 💣 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 😝 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)
+ - 👉 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 💣 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 👉 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)<!-- MEMES:END -->
+ - 💣 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
 
 ---
 

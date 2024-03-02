@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)
  - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)
  - [HP Wants to Rent You a Printer That It Monitors at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
  - [Best Rice Cookers of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
- - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)
- - [Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)<!-- TECH:END -->
+ - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

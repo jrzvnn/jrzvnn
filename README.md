@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
  - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 💣 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 😝 [The vintage rocket](http://9gag.com/gag/aGEPDwz)
+ - 💣 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
+ - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
+ - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---
 

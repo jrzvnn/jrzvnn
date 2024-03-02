@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [EU court rules that regulators should pay &amp;euro;786K of legal fees for Qualcomm, not the &amp;euro;12M the company sought after it won an appeal against a 2018 antitrust fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240302/p11#a240302p11)
  - [New class-action lawsuit says you pay too much for iCloud](https://appleinsider.com/articles/24/03/02/new-class-action-lawsuit-says-you-pay-too-much-for-icloud?utm_medium=rss)
- - [Streaming on Max: The 23 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-23-absolute-best-movies-to-watch-in-march-2024/#ftag=CAD590a51e)
- - [Best 3D Printer Deals: Save on Anycubic, Elegoo, Crealty3D and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [WhatsApp gains Pegasus source code access in court victory](https://appleinsider.com/articles/24/03/02/whatsapp-gains-pegasus-source-code-access-in-court-victory?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Get Up to $1,000 Off With Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
+ - [Great Amazon Weekend Deals: Save Big on Night Vision Binoculars, Portable Vacuums, Pet Hair Removers and More     - CNET](https://www.cnet.com/deals/great-amazon-weekend-deals-save-big-on-night-vision-binoculars-portable-vacuums-pet-hair-removers-and-more/#ftag=CAD590a51e)
+ - [Skip the Gym and Lose Body Fat at Home With These 7 Strategies     - CNET](https://www.cnet.com/health/fitness/skip-the-gym-and-lose-body-fat-at-home-with-these-7-strategies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

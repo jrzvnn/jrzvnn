@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How quick fixes and old code in systems compound technical debt and raise hacking risks, requiring an estimated $1.52T to fix and costing the US $2.41T per year &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240302/p5#a240302p5)
- - [A look at Project Maven, the US DOD&#39;s flagship AI effort which identifies battlefield targets, and at concerns, including adversaries poisoning training data &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240302/p4#a240302p4)
- - [Researchers create an AI worm that can spread between generative AI agents via an &quot;adversarial self-replicating prompt&quot;, which can steal data or spread malware &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240302/p3#a240302p3)
- - [iiMedia Research: China&#39;s food delivery market reached $208B in 2023, 2.3x the size in 2020; Meituan and Ele.me employ over 10M gig workers combined &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/240302/p2#a240302p2)
- - [Supermicro, a beneficiary of the AI boom, joins the S&amp;P 500 after its stock grew 20x+ in the past two years and 200%+ in 2024, pushing its market cap past $50B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240302/p1#a240302p1)<!-- TECH:END -->
+ - [Best of MWC 2024: AI, Wearables and Bending Phone Concepts That Amaze     - CNET](https://www.cnet.com/tech/mobile/best-of-mwc-2024-ai-wearables-and-bending-phone-concepts-that-amaze/#ftag=CAD590a51e)
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
+ - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
+ - [COVID Rules Are Changing: How to Order Free COVID-19 Tests From the Post Office     - CNET](https://www.cnet.com/health/covid-rules-are-changing-how-to-order-free-covid-19-tests-from-the-post-office/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

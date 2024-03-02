@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 💣 [Grapes!](http://9gag.com/gag/aVbGWMv)
- - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
- - 👉 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)<!-- MEMES:END -->
+ - 😝 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)
+ - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - 😝 [Grapes!](http://9gag.com/gag/aVbGWMv)
+ - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with FBI Director Christopher Wray on taking down a GRU botnet, Volt Typhoon, critical infrastructure attacks, lessons from surveilling threat actors, more &lpar;The Record&rpar;](http://www.techmeme.com/240302/p6#a240302p6)
+ - [Unreleased Black iPod Hi-Fi photos reveals an alternative color scheme](https://appleinsider.com/articles/24/03/02/unreleased-black-ipod-hi-fi-photos-reveals-an-alternative-color-scheme?utm_medium=rss)
  - [The Privacy Danger Lurking in Push Notifications](https://www.wired.com/story/push-notification-privacy-security-roundup/)
  - [Halo’s latest episode showed us the best a Spartan could be](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)
- - [How to manage app permissions on your iPhone](https://www.theverge.com/24087604/iphone-app-permissions-how-to)
- - [Apple Cider Vinegar: Here&#39;s What to Know About Health Benefits, Proper Dosage and More     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-heres-what-to-know-about-health-benefits-proper-dosage-and-more/#ftag=CAD590a51e)
- - [Music Is TikTok&#39;s Past. Sounds May Be Its Future](https://www.wired.com/story/tiktok-music-umg-sounds-future/)<!-- TECH:END -->
+ - [How to manage app permissions on your iPhone](https://www.theverge.com/24087604/iphone-app-permissions-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

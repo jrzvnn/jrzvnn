@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Google is offering to relist the apps of ten big Indian developers on the Play Store if they agree to route any payments through their own websites &lpar;Business Standard&rpar;](http://www.techmeme.com/240302/p9#a240302p9)
+ - [Best DJI Drone Deals: Save Up to $149 on Mini 3, Mini 4 Pro, FPV Explorer and More     - CNET](https://www.cnet.com/deals/best-dji-drone-deals/#ftag=CAD590a51e)
+ - [Snap Up This $50 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-50-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)
  - [&#39;Call of Duty: Warzone Mobile&#39; landing on iOS on March 21](https://appleinsider.com/articles/24/03/02/call-of-duty-warzone-mobile-landing-on-ios-on-march-21?utm_medium=rss)
- - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)
- - [One of Our Favorite Wi-Fi 6 Routers Is Going for Just $70     - CNET](https://www.cnet.com/deals/one-of-our-favorite-wi-fi-6-routers-is-going-for-just-70/#ftag=CAD590a51e)
- - [California gives Waymo the green light to expand robotaxi operations](https://www.theverge.com/2024/3/2/24088454/waymo-california-highway-expansion-los-angeles-bay-area)<!-- TECH:END -->
+ - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

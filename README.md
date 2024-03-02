@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better than orignal](http://9gag.com/gag/a2KQqOO)
- - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
- - 💣 [Wef clowning around again](http://9gag.com/gag/az26VDx)
+ - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
+ - 💣 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
  - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 👉 [Homicide statistics](http://9gag.com/gag/adP3NxV)<!-- MEMES:END -->
+ - 👉 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)<!-- MEMES:END -->
 
 ---
 

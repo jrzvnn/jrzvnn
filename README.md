@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The vintage rocket](http://9gag.com/gag/aGEPDwz)
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 💣 [Woman ....!!!!](http://9gag.com/gag/awZqVM4)
- - 😝 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)
- - 👉 [If only he had better poker face](http://9gag.com/gag/aqev5gM)<!-- MEMES:END -->
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
+ - 💣 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 👉 [Waiting for you](http://9gag.com/gag/aXn8wA2)<!-- MEMES:END -->
 
 ---
 

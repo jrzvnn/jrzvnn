@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
  - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 😝 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)
- - 💣 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 👉 [Who else was amazed when they first saw this?](http://9gag.com/gag/aYVzW0V)<!-- MEMES:END -->
+ - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 👉 [If only he had better poker face](http://9gag.com/gag/aqev5gM)<!-- MEMES:END -->
 
 ---
 

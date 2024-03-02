@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus christ it&#39;s jason Bourne&#39;s dog](http://9gag.com/gag/a8qrbwp)
- - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 💣 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 👉 [Title](http://9gag.com/gag/amAD0M2)<!-- MEMES:END -->
+ - 😝 [Better than orignal](http://9gag.com/gag/a2KQqOO)
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 👉 [Grapes!](http://9gag.com/gag/aVbGWMv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Music Is TikTok&#39;s Past. Sounds May Be Its Future](https://www.wired.com/story/tiktok-music-umg-sounds-future/)
- - [The US Buried Nuclear Waste Abroad. Climate Change Could Unearth It](https://www.wired.com/story/the-us-buried-nuclear-waste-abroad-climate-change-could-unearth-it-marshall-islands-greenland/)
- - [15 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds](https://www.wired.com/story/weekend-deals-march-2-2024/)
- - [Nottingham Forest vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nottingham-forest-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Newcastle vs. Wolves Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-wolves-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Privacy Danger Lurking in Push Notifications](https://www.wired.com/story/push-notification-privacy-security-roundup/)
+ - [Halo’s latest episode showed us the best a Spartan could be](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)
+ - [How to manage app permissions on your iPhone](https://www.theverge.com/24087604/iphone-app-permissions-how-to)
+ - [Apple Cider Vinegar: Here&#39;s What to Know About Health Benefits, Proper Dosage and More     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-heres-what-to-know-about-health-benefits-proper-dosage-and-more/#ftag=CAD590a51e)
+ - [Music Is TikTok&#39;s Past. Sounds May Be Its Future](https://www.wired.com/story/tiktok-music-umg-sounds-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

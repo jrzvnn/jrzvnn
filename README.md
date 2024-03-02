@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge says Google must face advertisers&#39; antitrust lawsuit, but dismisses some claims, including those focused on ad-buying tools used by large advertisers &lpar;Reuters&rpar;](http://www.techmeme.com/240301/p26#a240301p26)
+ - [Filing: the US DOE settles with bitcoin miner Riot Platforms and an industry group, and agrees to cancel its mandatory survey of energy use by crypto miners &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240301/p25#a240301p25)
+ - [California&#39;s regulator approves Waymo&#39;s proposal to expand its fared driverless robotaxi services to parts of Los Angeles, the San Francisco Peninsula, and more &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240301/p24#a240301p24)
  - [Apple Car blues, Apple Ask, and Apple Vision Pro Experiences on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/01/apple-car-blues-apple-ask-and-apple-vision-pro-experiences-on-the-appleinsider-podcast?utm_medium=rss)
- - [Roblox says it hasn’t blocked Linux or Steam Deck, but it’s reportedly toast there](https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported)
- - [Apple TV Plus Just Added 50 Award-Winning Movies to Its Catalog     - CNET](https://www.cnet.com/tech/services-and-software/apple-tv-plus-just-added-50-award-winning-movies-to-its-catalog/#ftag=CAD590a51e)
- - [7 Great Deals on iPads and Accessories](https://www.wired.com/story/apple-ipad-and-accessory-deals-february-2024/)
- - [Copilot for OneDrive will fetch your files and summarize them](https://www.theverge.com/2024/3/1/24088026/copilot-for-onedrive-file-find-summary-prompts-natural-language)<!-- TECH:END -->
+ - [Roblox says it hasn’t blocked Linux or Steam Deck, but it’s reportedly toast there](https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

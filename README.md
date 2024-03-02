@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/amAD0M2)
  - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 💣 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 😝 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 👉 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)<!-- MEMES:END -->
 
 ---
 

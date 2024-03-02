@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with FBI Director Christopher Wray on taking down a GRU botnet, Volt Typhoon, critical infrastructure attacks, lessons from surveilling threat actors, more &lpar;The Record&rpar;](http://www.techmeme.com/240302/p6#a240302p6)
+ - [What Is IVF? Here&#39;s Why People Choose It and How It Works     - CNET](https://www.cnet.com/health/medical/what-is-ivf-heres-why-people-choose-it-and-how-it-works/#ftag=CAD590a51e)
  - [Unreleased Black iPod Hi-Fi photos reveals an alternative color scheme](https://appleinsider.com/articles/24/03/02/unreleased-black-ipod-hi-fi-photos-reveals-an-alternative-color-scheme?utm_medium=rss)
- - [The Privacy Danger Lurking in Push Notifications](https://www.wired.com/story/push-notification-privacy-security-roundup/)
- - [Halo’s latest episode showed us the best a Spartan could be](https://www.theverge.com/2024/3/2/24087962/halo-paramount-plus-episode-five-aleria)
- - [How to manage app permissions on your iPhone](https://www.theverge.com/24087604/iphone-app-permissions-how-to)<!-- TECH:END -->
+ - [Want a Bigger Tax Refund? Follow These 6 Expert Tips     - CNET](https://www.cnet.com/personal-finance/taxes/want-a-bigger-tax-refund-follow-these-6-expert-tips/#ftag=CAD590a51e)
+ - [Luton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Worse than a heartbreak](http://9gag.com/gag/axopj1K)
  - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)
- - 👉 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)<!-- MEMES:END -->
+ - 💣 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)
+ - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 👉 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)<!-- MEMES:END -->
 
 ---
 

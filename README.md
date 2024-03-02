@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
- - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 💣 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [Better than orignal](http://9gag.com/gag/a2KQqOO)
+ - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 💣 [Wef clowning around again](http://9gag.com/gag/az26VDx)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
  - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
 
 ---

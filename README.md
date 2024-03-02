@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Project Maven, the US DOD&#39;s flagship AI effort which identifies battlefield targets, and at concerns, including adversaries poisoning training data &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240302/p4#a240302p4)
  - [Researchers create an AI worm that can spread between generative AI agents via an &quot;adversarial self-replicating prompt&quot;, which can steal data or spread malware &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240302/p3#a240302p3)
  - [iiMedia Research: China&#39;s food delivery market reached $208B in 2023, 2.3x the size in 2020; Meituan and Ele.me employ over 10M gig workers combined &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/240302/p2#a240302p2)
  - [Supermicro, a beneficiary of the AI boom, joins the S&amp;P 500 after its stock grew 20x+ in the past two years and 200%+ in 2024, pushing its market cap past $50B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240302/p1#a240302p1)
- - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [A US judge says Google must face advertisers&#39; antitrust lawsuit, but dismisses some claims, including those focused on ad-buying tools used by large advertisers &lpar;Reuters&rpar;](http://www.techmeme.com/240301/p26#a240301p26)<!-- TECH:END -->
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

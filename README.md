@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
  - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
- - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
+ - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [There&#39;s lot of bored people here](http://9gag.com/gag/a9q3dg6)
+ - 👉 [If only he had better poker face](http://9gag.com/gag/aqev5gM)<!-- MEMES:END -->
 
 ---
 

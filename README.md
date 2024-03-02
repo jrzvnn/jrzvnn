@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
+ - 😝 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
+ - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
  - 💣 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 👉 [Waiting for you](http://9gag.com/gag/aXn8wA2)<!-- MEMES:END -->
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
 
 ---
 

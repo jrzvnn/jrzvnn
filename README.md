@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)
- - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
+ - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
+ - 😝 [Existential....](http://9gag.com/gag/amAD0YV)
+ - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
+ - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
 
 ---
 

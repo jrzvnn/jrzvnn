@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
  - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 👉 [Who needs enemies when you have friends like this?](http://9gag.com/gag/awZqxzy)<!-- MEMES:END -->
+ - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 👉 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
 
 ---
 

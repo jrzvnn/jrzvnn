@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP Wants to Rent You a Printer That It’ll Monitor at All Times](https://www.wired.com/story/hp-all-in-plan-printer-subscription-service/)
+ - [Elon Musk&#39;s OpenAI lawsuit repeatedly cites a contentious paper by Microsoft&#39;s research lab, which said GPT-4 showed &quot;sparks&quot; of AGI, to argue that GPT-4 is AGI &lpar;New York Times&rpar;](http://www.techmeme.com/240302/p7#a240302p7)
  - [Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)
- - [9 Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)
- - [Q&amp;A with FBI Director Christopher Wray on taking down a GRU botnet, Volt Typhoon, critical infrastructure attacks, lessons from surveilling threat actors, more &lpar;The Record&rpar;](http://www.techmeme.com/240302/p6#a240302p6)
- - [What Is IVF? Here&#39;s Why People Choose It and How It Works     - CNET](https://www.cnet.com/health/medical/what-is-ivf-heres-why-people-choose-it-and-how-it-works/#ftag=CAD590a51e)
- - [Unreleased Black iPod Hi-Fi photos reveals an alternative color scheme](https://appleinsider.com/articles/24/03/02/unreleased-black-ipod-hi-fi-photos-reveals-an-alternative-color-scheme?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Wonka&#39;: Release Date and Time on Max     - CNET](https://www.cnet.com/tech/services-and-software/wonka-when-to-stream-the-movie-on-max/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Should You Keep Waiting to File?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-should-you-keep-waiting-to-file/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

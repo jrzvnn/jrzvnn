@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 3D Printer Deals: Save Up to $338 on Anycubic, Elegoo, Crealty3D and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
  - [WhatsApp gains Pegasus source code access in court victory](https://appleinsider.com/articles/24/03/02/whatsapp-gains-pegasus-source-code-access-in-court-victory?utm_medium=rss)
  - [India&#39;s communications and IT minister says delisting of popular Play Store apps &quot;cannot be permitted&quot;; Google reinstates some apps without IAPs &lpar;Jatin Grover/FE Tech Bytes&rpar;](http://www.techmeme.com/240302/p10#a240302p10)
- - [Sources: Google is offering to relist the apps of ten big Indian developers on the Play Store if they agree to route any payments through their own websites &lpar;Business Standard&rpar;](http://www.techmeme.com/240302/p9#a240302p9)
- - [Best DJI Drone Deals: Save Up to $149 on Mini 3, Mini 4 Pro, FPV Explorer and More     - CNET](https://www.cnet.com/deals/best-dji-drone-deals/#ftag=CAD590a51e)
- - [Snap Up This $50 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-50-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab These Last-Minute Best Buy Weekend Deals Before They Expire on Sunday     - CNET](https://www.cnet.com/deals/grab-these-last-minute-best-buy-weekend-deals-before-they-expire-on-sunday/#ftag=CAD590a51e)
+ - [Sources: Google is offering to relist the apps of ten big Indian developers on the Play Store if they agree to route any payments through their own websites &lpar;Business Standard&rpar;](http://www.techmeme.com/240302/p9#a240302p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp gains Pegasus source code access in court victory](https://appleinsider.com/articles/24/03/02/whatsapp-gains-pegasus-source-code-access-in-court-victory?utm_medium=rss)
+ - [India&#39;s communications and IT minister says delisting of popular Play Store apps &quot;cannot be permitted&quot;; Google reinstates some apps without IAPs &lpar;Jatin Grover/FE Tech Bytes&rpar;](http://www.techmeme.com/240302/p10#a240302p10)
  - [Sources: Google is offering to relist the apps of ten big Indian developers on the Play Store if they agree to route any payments through their own websites &lpar;Business Standard&rpar;](http://www.techmeme.com/240302/p9#a240302p9)
  - [Best DJI Drone Deals: Save Up to $149 on Mini 3, Mini 4 Pro, FPV Explorer and More     - CNET](https://www.cnet.com/deals/best-dji-drone-deals/#ftag=CAD590a51e)
- - [Snap Up This $50 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-50-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)
- - [&#39;Call of Duty: Warzone Mobile&#39; landing on iOS on March 21](https://appleinsider.com/articles/24/03/02/call-of-duty-warzone-mobile-landing-on-ios-on-march-21?utm_medium=rss)
- - [AMD is unable to release an open source HDMI 2.1 implementation after the HDMI Forum rejected its proposal; the forum closed public specification access in 2021 &lpar;Michael Larabel/Phoronix&rpar;](http://www.techmeme.com/240302/p8#a240302p8)<!-- TECH:END -->
+ - [Snap Up This $50 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-50-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

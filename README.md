@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A ball expert](http://9gag.com/gag/a3ZodLv)
- - 😝 [Existential....](http://9gag.com/gag/amAD0YV)
- - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
- - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
+ - 😝 [Waiting for you](http://9gag.com/gag/aXn8wA2)
+ - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
+ - 💣 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [The moment you realized you can actually sing](http://9gag.com/gag/anzA1jb)
+ - 👉 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)<!-- MEMES:END -->
 
 ---
 

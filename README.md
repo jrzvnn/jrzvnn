@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 💣 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
- - 😝 [Better than orignal](http://9gag.com/gag/a2KQqOO)
- - 👉 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)<!-- MEMES:END -->
+ - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
+ - 😝 [Title](http://9gag.com/gag/amAD0M2)
+ - 💣 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 😝 [Most important item for each fly!](http://9gag.com/gag/a2KQqPO)
+ - 👉 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)<!-- MEMES:END -->
 
 ---
 

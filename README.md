@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
- - 💣 [Homicide statistics](http://9gag.com/gag/adP3NxV)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 😝 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
+ - 💣 [Grapes!](http://9gag.com/gag/aVbGWMv)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
  - 👉 [Better than orignal](http://9gag.com/gag/a2KQqOO)<!-- MEMES:END -->
 
 ---

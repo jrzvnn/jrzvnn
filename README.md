@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 💣 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
  - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
+ - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)
+ - 👉 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)<!-- MEMES:END -->
 
 ---
 

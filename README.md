@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage material](http://9gag.com/gag/a6qWyqR)
- - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 😝 [Grapes!](http://9gag.com/gag/aVbGWMv)
  - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
- - 😝 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)
- - 👉 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)<!-- MEMES:END -->
+ - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 👉 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)<!-- MEMES:END -->
 
 ---
 

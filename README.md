@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
- - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 👉 [If only he had better poker face](http://9gag.com/gag/aqev5gM)<!-- MEMES:END -->
+ - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 💣 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/amAD0M2)
- - 😝 [Most important item for each fly!](http://9gag.com/gag/a2KQqPO)
- - 💣 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
- - 😝 [Proud and Based 9gagger right there](http://9gag.com/gag/aDYBw8O)
- - 👉 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)<!-- MEMES:END -->
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Woman unsatisfied with her bank decides to leave a grenade inside.](http://9gag.com/gag/aVbGWK8)
+ - 💣 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)
+ - 😝 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 👉 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)<!-- MEMES:END -->
 
 ---
 

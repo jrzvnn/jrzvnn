@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is taking up to $150 off the Beats Studio Pro and Studio Buds Plus](https://www.theverge.com/2024/3/2/24087574/beats-studio-pro-buds-plus-eufy-smarttrack-card-item-tracker-deal-sale)
  - [9 Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)
  - [Q&amp;A with FBI Director Christopher Wray on taking down a GRU botnet, Volt Typhoon, critical infrastructure attacks, lessons from surveilling threat actors, more &lpar;The Record&rpar;](http://www.techmeme.com/240302/p6#a240302p6)
  - [What Is IVF? Here&#39;s Why People Choose It and How It Works     - CNET](https://www.cnet.com/health/medical/what-is-ivf-heres-why-people-choose-it-and-how-it-works/#ftag=CAD590a51e)
- - [Unreleased Black iPod Hi-Fi photos reveals an alternative color scheme](https://appleinsider.com/articles/24/03/02/unreleased-black-ipod-hi-fi-photos-reveals-an-alternative-color-scheme?utm_medium=rss)
- - [Want a Bigger Tax Refund? Follow These 6 Expert Tips     - CNET](https://www.cnet.com/personal-finance/taxes/want-a-bigger-tax-refund-follow-these-6-expert-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unreleased Black iPod Hi-Fi photos reveals an alternative color scheme](https://appleinsider.com/articles/24/03/02/unreleased-black-ipod-hi-fi-photos-reveals-an-alternative-color-scheme?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

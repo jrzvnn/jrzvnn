@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
+ - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
  - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 👉 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
+ - 😝 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/amAD0M2)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 💣 [Oops, that wasn&#39;t an ambush i guess](http://9gag.com/gag/axopZ5n)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Homicide statistics](http://9gag.com/gag/adP3NxV)
+ - 😝 [The doctor&#39;s discipline was incredible!](http://9gag.com/gag/aOx6bo6)
+ - 💣 [Better than orignal](http://9gag.com/gag/a2KQqOO)
+ - 😝 [Heavy rains caused major floods in Veneto, Italy, with 150 mm fallen in less than 48 hours. In Vicenza, the river Retrone&#39;s waters invaded the roads and caused scenes like this one.](http://9gag.com/gag/aNwyn1b)
  - 👉 [Do you have similar experience?](http://9gag.com/gag/a5XLdWr)<!-- MEMES:END -->
 
 ---

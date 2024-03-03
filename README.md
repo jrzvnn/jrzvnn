@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 💣 [Wef clowning around again](http://9gag.com/gag/az26VDx)
  - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 😝 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
- - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
+ - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
 
 ---
 

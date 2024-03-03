@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is What Your Brain Does When You’re Not Doing Anything](https://www.wired.com/story/what-your-brain-is-doing-when-youre-not-doing-anything/)
- - [The very best food stuff on the internet](https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter)
- - [Man City vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Crime blotter: Apple Store thefts in New York, California, Las Vegas](https://appleinsider.com/articles/24/03/03/crime-blotter-apple-store-thefts-in-new-york-california-las-vegas?utm_medium=rss)
- - [As music from Universal Music Group artists disappears from TikTok, creators turn to royalty-free, almost-contextless sound clips &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240303/p3#a240303p3)<!-- TECH:END -->
+ - [March iPad &amp; Mac releases may not get a flashy event after all](https://appleinsider.com/articles/24/03/03/march-ipad-mac-releases-may-not-get-a-flashy-event-after-all?utm_medium=rss)
+ - [5 Best Sturdy Stockings &lpar;2024&rpar;: Tights, Pantyhose, Sustainable](https://www.wired.com/gallery/best-durable-tights/)
+ - [Apple Should Steal These Xiaomi 14 Ultra Features for the Next iPhone     - CNET](https://www.cnet.com/tech/mobile/apple-should-steal-these-xiaomi-14-ultra-features-for-the-next-iphone/#ftag=CAD590a51e)
+ - [Best VPN for Chrome 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)
+ - [Final Fantasy VII Rebirth: 5 Things to Know Before Starting the Game     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-vii-rebirth-5-things-to-know-before-starting-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

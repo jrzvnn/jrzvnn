@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Lanny Smoot, Disney&#39;s only research fellow, who holds 100+ patents and has built an omnidirectional HoloTile Floor to allow users to walk in VR &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240303/p6#a240303p6)
- - [It&#39;s Not Easy Running a Geeky Business](https://www.wired.com/2022/03/geeks-guide-business-owners/)
- - [Best Beats Headphone Deals: Save Up to $150 on Studio Pro, Powerbeats Pro and More     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [Canon: No camera can truly capture video for Apple&#39;s Vision Pro](https://appleinsider.com/articles/24/03/03/canon-no-camera-can-truly-capture-video-for-apples-vision-pro?utm_medium=rss)
- - [Best MacBook Pro M2 Deals: Save Up to $300 Off and $850 of Trade-In Offers     - CNET](https://www.cnet.com/deals/best-13-inch-macbook-pro-m2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Webcam Deals: Save Over $105 on Razer, Logitech, NexiGo and More     - CNET](https://www.cnet.com/deals/best-webcam-deals/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save on Ultra 2, SE 2, Series 8 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [Meal Kits Are Basically Free When You Use This Hack     - CNET](https://www.cnet.com/health/nutrition/get-cheap-meal-kits-with-this-hack/#ftag=CAD590a51e)
+ - [It&#39;s Not Easy Running a Geeky Business](https://www.wired.com/2022/03/geeks-guide-business-owners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

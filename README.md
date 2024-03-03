@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 😝 [This indian street food has the best reviews for quality and hygiene](http://9gag.com/gag/a7qjrKq)
- - 💣 [Netflix filter on](http://9gag.com/gag/a04mbeZ)
- - 😝 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
- - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 💣 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
 
 ---
 

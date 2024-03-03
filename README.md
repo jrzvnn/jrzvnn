@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Crime blotter: Apple Store thefts in New York, California, Las Vegas](https://appleinsider.com/articles/24/03/03/crime-blotter-apple-store-thefts-in-new-york-california-las-vegas?utm_medium=rss)
  - [As music from Universal Music Group artists disappears from TikTok, creators turn to royalty-free, almost-contextless sound clips &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240303/p3#a240303p3)
  - [What Is OpenAI’s ChatGPT Plus? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [How Energy Star Appliances Can Save You Money on Utility Bills     - CNET](https://www.cnet.com/how-to/how-energy-star-appliances-can-save-you-money-on-utility-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $200: New Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
+ - [Child Tax Credit Expansion Bill: Could You Receive Money This Tax Season If Approved?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-expansion-bill-could-you-receive-money-this-tax-season-if-approved/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to create programmatic user interfaces using Xcode Previews](https://appleinsider.com/articles/24/03/03/how-to-create-programmatic-user-interfaces-using-xcode-previews?utm_medium=rss)
+ - [Robert F. Kennedy Jr.’s Microsoft-Powered Chatbot Just Disappeared](https://www.wired.com/story/robert-f-kennedy-jr-chatbot-microsoft-openai-disappeared/)
  - [Google Drive search on iOS gets better filtering options](https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update)
  - [A profile of Lanny Smoot, Disney&#39;s only research fellow, who holds 100+ patents and has built an omnidirectional HoloTile Floor to allow users to walk in VR &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240303/p6#a240303p6)
- - [Best Webcam Deals: Save Over $105 on Razer, Logitech, NexiGo and More     - CNET](https://www.cnet.com/deals/best-webcam-deals/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save on Ultra 2, SE 2, Series 8 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Meal Kits Are Basically Free When You Use This Hack     - CNET](https://www.cnet.com/health/nutrition/get-cheap-meal-kits-with-this-hack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Webcam Deals: Save Over $105 on Razer, Logitech, NexiGo and More     - CNET](https://www.cnet.com/deals/best-webcam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

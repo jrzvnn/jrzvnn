@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender reveal](http://9gag.com/gag/aYVzKZ0)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 👉 [How long it took you to figure it out. Be honest.](http://9gag.com/gag/az26V7Z)<!-- MEMES:END -->
+ - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 💣 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
 
 ---
 

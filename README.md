@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
  - 😝 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
- - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
+ - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
 
 ---
 

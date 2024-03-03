@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple support staff warned to avoid side-loading speculation](https://appleinsider.com/articles/24/03/03/apple-support-staff-warned-to-avoid-side-loading-speculation?utm_medium=rss)
- - [Apple exec Dan Riccio nearing retirement after 25 years](https://appleinsider.com/articles/24/03/03/apple-exec-dan-riccio-nearing-retirement-after-25-years?utm_medium=rss)
- - [March iPad &amp; Mac releases may not get a flashy event after all](https://appleinsider.com/articles/24/03/03/march-ipad-mac-releases-may-not-get-a-flashy-event-after-all?utm_medium=rss)
- - [5 Best Sturdy Stockings &lpar;2024&rpar;: Tights, Pantyhose, Sustainable](https://www.wired.com/gallery/best-durable-tights/)
- - [Apple Should Steal These Xiaomi 14 Ultra Features for the Next iPhone     - CNET](https://www.cnet.com/tech/mobile/apple-should-steal-these-xiaomi-14-ultra-features-for-the-next-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Apple&#39;s hubris that doomed the electric car project, spring hardware updates without a dedicated event, and Dan Riccio&#39;s retirement plans &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240303/p4#a240303p4)
+ - [LinkedIn Tells People if You Look at Their Profile. Here&#39;s How to Turn That Off](https://www.wired.com/story/linkedin-tells-people-if-you-look-at-their-profile-how-to-turn-that-off/)
+ - [How smart is the smart kitchen, really?](https://www.theverge.com/24087874/smart-kitchen-appliances-cooking-cleaning-vergecast)
+ - [Apple may not do a spring event this year](https://www.theverge.com/2024/3/3/24089196/apple-no-spring-event-planned-macbook-air-ipad)
+ - [Apple support staff warned to avoid side-loading speculation](https://appleinsider.com/articles/24/03/03/apple-support-staff-warned-to-avoid-side-loading-speculation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

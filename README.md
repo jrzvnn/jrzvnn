@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
- - 💣 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
- - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 👉 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)<!-- MEMES:END -->
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Changed his mind mid breakfast](http://9gag.com/gag/az26VKb)
+ - 💣 [Sex addiction](http://9gag.com/gag/ay2ynKq)
+ - 😝 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 👉 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every 9gager](http://9gag.com/gag/a5XLZAo)
- - 😝 [The easiest way to make money](http://9gag.com/gag/avQbrX5)
- - 💣 [Happy for you two](http://9gag.com/gag/a4oMZOZ)
- - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
- - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
+ - 😝 [Gender reveal](http://9gag.com/gag/aYVzKZ0)
+ - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
+ - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 👉 [How long it took you to figure it out. Be honest.](http://9gag.com/gag/az26V7Z)<!-- MEMES:END -->
 
 ---
 

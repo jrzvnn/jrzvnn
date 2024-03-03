@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Took me few seconds](http://9gag.com/gag/aBdDw1x)
  - 😝 [Existential....](http://9gag.com/gag/amAD0YV)
+ - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 💣 [Changed his mind mid breakfast](http://9gag.com/gag/az26VKb)
- - 😝 [Sex addiction](http://9gag.com/gag/ay2ynKq)
- - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
+ - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
 
 ---
 

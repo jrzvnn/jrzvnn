@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update: woman who smashed bottle on cellist released without bail](http://9gag.com/gag/aL1q2OM)
- - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
- - 💣 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
+ - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
  - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
- - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
+ - 💣 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 😝 [Shaniqua, Lavasha and Dinnafina arrested over $1.75 extra charge on dipping sauce &lpar;which they used&rpar; at the restaurant](http://9gag.com/gag/amADrLy)
+ - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
 
 ---
 

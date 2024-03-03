@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crash of the Titan: a short history of Apple’s doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
+ - [Apple&#39;s failed &#39;Project Titan&#39; was a Full Self Driving gamble](https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble?utm_medium=rss)
+ - [The Biden Campaign Fills Out Its Digital Team Ahead of Super Tuesday](https://www.wired.com/story/joe-biden-campaign-digital-team-hires/)
  - [A look at Apple&#39;s hubris that doomed the electric car project, spring hardware updates without a dedicated event, and Dan Riccio&#39;s retirement plans &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240303/p4#a240303p4)
- - [LinkedIn Tells People if You Look at Their Profile. Here&#39;s How to Turn That Off](https://www.wired.com/story/linkedin-tells-people-if-you-look-at-their-profile-how-to-turn-that-off/)
- - [How smart is the smart kitchen, really?](https://www.theverge.com/24087874/smart-kitchen-appliances-cooking-cleaning-vergecast)
- - [Apple may not do a spring event this year](https://www.theverge.com/2024/3/3/24089196/apple-no-spring-event-planned-macbook-air-ipad)
- - [Apple support staff warned to avoid side-loading speculation](https://appleinsider.com/articles/24/03/03/apple-support-staff-warned-to-avoid-side-loading-speculation?utm_medium=rss)<!-- TECH:END -->
+ - [LinkedIn Tells People if You Look at Their Profile. Here&#39;s How to Turn That Off](https://www.wired.com/story/linkedin-tells-people-if-you-look-at-their-profile-how-to-turn-that-off/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

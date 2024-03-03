@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple exec Dan Riccio nearing retirement after 25 years](https://appleinsider.com/articles/24/03/03/apple-exec-dan-riccio-nearing-retirement-after-25-years?utm_medium=rss)
  - [March iPad &amp; Mac releases may not get a flashy event after all](https://appleinsider.com/articles/24/03/03/march-ipad-mac-releases-may-not-get-a-flashy-event-after-all?utm_medium=rss)
  - [5 Best Sturdy Stockings &lpar;2024&rpar;: Tights, Pantyhose, Sustainable](https://www.wired.com/gallery/best-durable-tights/)
  - [Apple Should Steal These Xiaomi 14 Ultra Features for the Next iPhone     - CNET](https://www.cnet.com/tech/mobile/apple-should-steal-these-xiaomi-14-ultra-features-for-the-next-iphone/#ftag=CAD590a51e)
- - [Best VPN for Chrome 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)
- - [Final Fantasy VII Rebirth: 5 Things to Know Before Starting the Game     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-vii-rebirth-5-things-to-know-before-starting-the-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Chrome 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

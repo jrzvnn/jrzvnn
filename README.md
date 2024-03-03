@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 😝 [Sex addiction](http://9gag.com/gag/ay2ynKq)
- - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
- - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
+ - 😝 [Every 9gager](http://9gag.com/gag/a5XLZAo)
+ - 😝 [The easiest way to make money](http://9gag.com/gag/avQbrX5)
+ - 💣 [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
+ - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
 
 ---
 

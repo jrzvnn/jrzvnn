@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
- - 💣 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 😝 [Shaniqua, Lavasha and Dinnafina arrested over $1.75 extra charge on dipping sauce &lpar;which they used&rpar; at the restaurant](http://9gag.com/gag/amADrLy)
- - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
+ - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
+ - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
+ - 💣 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
+ - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 👉 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)<!-- MEMES:END -->
 
 ---
 

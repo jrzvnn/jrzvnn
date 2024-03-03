@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AARoads, a dedicated US roads and highways wiki site started by a group of Wikipedia editors, after years of frustration over Wikipedia&#39;s rules &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/240302/p12#a240302p12)
  - [HP is in the rent-a-printer business now](https://www.theverge.com/2024/3/2/24088867/hp-all-in-plan-printer-rental-instant-ink)
  - [EU court rules that regulators should pay &amp;euro;786K of legal fees for Qualcomm, not the &amp;euro;12M the company sought after it won an appeal against a 2018 antitrust fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240302/p11#a240302p11)
  - [New class-action lawsuit says you pay too much for iCloud](https://appleinsider.com/articles/24/03/02/new-class-action-lawsuit-says-you-pay-too-much-for-icloud?utm_medium=rss)
- - [Samsung Galaxy S23 Deals: Get Up to $1,000 Off With Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Great Amazon Weekend Deals: Save Big on Night Vision Binoculars, Portable Vacuums, Pet Hair Removers and More     - CNET](https://www.cnet.com/deals/great-amazon-weekend-deals-save-big-on-night-vision-binoculars-portable-vacuums-pet-hair-removers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Get Up to $1,000 Off With Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

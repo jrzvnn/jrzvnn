@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only he had better poker face](http://9gag.com/gag/aqev5gM)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 👉 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)<!-- MEMES:END -->
+ - 😝 [`I know someone who can do it cheaper`](http://9gag.com/gag/aKEbq2N)
+ - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 💣 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
+ - 😝 [SweetBaby Inc., Meet the people who are ruining your favorite games, and video games in general](http://9gag.com/gag/avQbLAd)
+ - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
 
 ---
 

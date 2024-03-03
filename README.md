@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPads &amp; Macs could arrive as soon as this week](https://appleinsider.com/articles/24/03/03/new-ipads-macs-could-arrive-as-soon-as-this-week?utm_medium=rss)
  - [Apple&#39;s failed &#39;Project Titan&#39; was a Full Self Driving gamble](https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble?utm_medium=rss)
  - [New renders show what the iPhone SE 4 might look like](https://appleinsider.com/articles/24/03/03/cad-renders-show-what-the-iphone-se-4-could-look-like?utm_medium=rss)
  - [Some users turn to AI therapist chatbots, finding them cheap, quick, available 24/7, and easy to talk to, but experts warn about a lack of emotional connection &lpar;Alice Robb/The Guardian&rpar;](http://www.techmeme.com/240303/p5#a240303p5)
- - [Grab Yourself a Lifetime Subscription to Babbel for Just $150     - CNET](https://www.cnet.com/deals/grab-yourself-a-lifetime-subscription-to-babbel-for-just-150/#ftag=CAD590a51e)
- - [Best Internet Providers in Santa Ana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab Yourself a Lifetime Subscription to Babbel for Just $150     - CNET](https://www.cnet.com/deals/grab-yourself-a-lifetime-subscription-to-babbel-for-just-150/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

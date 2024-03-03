@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
- - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
- - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
+ - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 💣 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---
 

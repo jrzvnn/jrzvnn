@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)
- - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
- - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 👉 [Result : the bully is being treated for a broken nose &amp; a fractured cheek bone.my wife is pissed.](http://9gag.com/gag/aNwydVb)<!-- MEMES:END -->
+ - 😝 [Travel to India at your own risk](http://9gag.com/gag/aVbGe4n)
+ - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 👉 [Oh my ghost](http://9gag.com/gag/aZD9BVn)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Travel to India at your own risk](http://9gag.com/gag/aVbGe4n)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 👉 [Oh my ghost](http://9gag.com/gag/aZD9BVn)<!-- MEMES:END -->
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
+ - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
 
 ---
 

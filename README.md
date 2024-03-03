@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 💣 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)
- - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 😝 [This indian street food has the best reviews for quality and hygiene](http://9gag.com/gag/a7qjrKq)
+ - 💣 [Netflix filter on](http://9gag.com/gag/a04mbeZ)
+ - 😝 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 

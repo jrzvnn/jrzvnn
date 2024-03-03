@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 💣 [The casting was perfect. Don&#39;t get all the hate on this show.](http://9gag.com/gag/armP4v7)
  - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
+ - 😝 [His reincarnations will be doing life sentences](http://9gag.com/gag/aeQXGVB)
+ - 💣 [Andrey Rublev was disqualified from the Dubai ATP tournament for insulting, he called him an `idiot` in Russian. Match is over!](http://9gag.com/gag/aMEp9gG)
+ - 😝 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
  - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
 
 ---

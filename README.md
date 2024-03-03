@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
  - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 💣 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
  - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
 
 ---

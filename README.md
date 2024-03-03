@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crash of the Titan: a short history of Apple’s doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)
- - [Apple&#39;s failed &#39;Project Titan&#39; was a Full Self Driving gamble](https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble?utm_medium=rss)
- - [The Biden Campaign Fills Out Its Digital Team Ahead of Super Tuesday](https://www.wired.com/story/joe-biden-campaign-digital-team-hires/)
- - [This Is Your Last Chance to Grab This Discount on a Rosetta Stone Lifetime Subscription     - CNET](https://www.cnet.com/deals/this-is-your-last-chance-to-grab-this-discount-on-a-rosetta-stone-lifetime-subscription/#ftag=CAD590a51e)
- - [A look at Apple&#39;s hubris that doomed the electric car project, spring hardware updates without a dedicated event, and Dan Riccio&#39;s retirement plans &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240303/p4#a240303p4)<!-- TECH:END -->
+ - [CAD renders show what the iPhone SE 4 could look like](https://appleinsider.com/articles/24/03/03/cad-renders-show-what-the-iphone-se-4-could-look-like?utm_medium=rss)
+ - [These Last-Minute Best Buy Weekend Deals Are Ending Today     - CNET](https://www.cnet.com/deals/these-last-minute-best-buy-weekend-deals-are-ending-today/#ftag=CAD590a51e)
+ - [Best Internet Deals for March 2024     - CNET](https://www.cnet.com/deals/best-internet-deals/#ftag=CAD590a51e)
+ - [Fixed-Rate vs. Variable-Rate Electric Plan: Which Is Best for You?     - CNET](https://www.cnet.com/how-to/fixed-rate-or-variable-rate-electric-plan-which-is-best-for-you/#ftag=CAD590a51e)
+ - [Crash of the Titan: a short history of Apple’s doomed car project](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me few seconds](http://9gag.com/gag/aBdDw1x)
  - 😝 [Existential....](http://9gag.com/gag/amAD0YV)
+ - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
  - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 😝 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)
- - 👉 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)<!-- MEMES:END -->
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
 
 ---
 

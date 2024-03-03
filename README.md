@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&#39;s Not Easy Running a Geeky Business](https://www.wired.com/2022/03/geeks-guide-business-owners/)
  - [Canon: No camera can truly capture video for Apple&#39;s Vision Pro](https://appleinsider.com/articles/24/03/03/canon-no-camera-can-truly-capture-video-for-apples-vision-pro?utm_medium=rss)
  - [Act Quickly to Get Up to 27% Off on Ecobee Smart Home Devices     - CNET](https://www.cnet.com/deals/act-quickly-to-get-up-to-27-off-on-ecobee-smart-home-devices/#ftag=CAD590a51e)
  - [Best Phone Deals: Save Up to $1,000 on Trade-In Offers and Direct Discounts     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [New iPads &amp; Macs could arrive as soon as this week](https://appleinsider.com/articles/24/03/03/new-ipads-macs-could-arrive-as-soon-as-this-week?utm_medium=rss)
- - [You Can Get a Windows 11 Pro License if You Act Quickly With This Deal That Ends Today     - CNET](https://www.cnet.com/deals/you-can-get-a-windows-11-pro-license-if-you-act-quickly-with-this-deal-that-ends-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPads &amp; Macs could arrive as soon as this week](https://appleinsider.com/articles/24/03/03/new-ipads-macs-could-arrive-as-soon-as-this-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

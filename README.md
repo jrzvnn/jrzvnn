@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 😝 [Is that how Goverment works](http://9gag.com/gag/agoRGOg)
- - 💣 [Cute bee girl](http://9gag.com/gag/avQbnDM)
- - 😝 [Woman ....!!!!](http://9gag.com/gag/awZqVM4)
- - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
+ - 😝 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 ---
 

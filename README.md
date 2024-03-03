@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Existential....](http://9gag.com/gag/amAD0YV)
- - 😝 [Remember this gem...](http://9gag.com/gag/a4oMdXZ)
- - 💣 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)
- - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
- - 👉 [Sex addiction](http://9gag.com/gag/ay2ynKq)<!-- MEMES:END -->
+ - 😝 [His reincarnations will be doing life sentences](http://9gag.com/gag/aeQXGVB)
+ - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
+ - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
+ - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
+ - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
 
 ---
 

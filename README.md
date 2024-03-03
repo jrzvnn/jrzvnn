@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
- - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 💣 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)
- - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
+ - 😝 [Has anybody been getting this fake spamming bs lately?](http://9gag.com/gag/aGEP0ZX)
+ - 😝 [Wef clowning around again](http://9gag.com/gag/az26VDx)
+ - 💣 [Sex addiction](http://9gag.com/gag/ay2ynKq)
+ - 😝 [YouTube Music workers find out they were laid off during Austin City Council meeting](http://9gag.com/gag/aZD9NjX)
  - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---

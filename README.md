@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reincarnations will be doing life sentences](http://9gag.com/gag/aeQXGVB)
- - 😝 [God forbid a man be able to find peace by himself](http://9gag.com/gag/anzANdb)
- - 💣 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)
- - 😝 [Force you to finish quickly and go back to work?](http://9gag.com/gag/aVbGe3K)
- - 👉 [A reflection, makes the picture and the bird, look photoshoped](http://9gag.com/gag/axopGD2)<!-- MEMES:END -->
+ - 😝 [Well.... All of them.](http://9gag.com/gag/a3ZojE1)
+ - 😝 [England is f**king done](http://9gag.com/gag/az26AGN)
+ - 💣 [Where the hell is Winston?](http://9gag.com/gag/aNwynG4)
+ - 😝 [Men&#39;s Sport](http://9gag.com/gag/abvjbB9)
+ - 👉 [Look at me i&#39;m the camouflage now !!](http://9gag.com/gag/aXn8XYV)<!-- MEMES:END -->
 
 ---
 

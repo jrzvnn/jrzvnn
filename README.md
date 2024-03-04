@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new M3 MacBook Air is already on sale at Best Buy](https://appleinsider.com/articles/24/03/04/apples-new-m3-macbook-air-is-already-on-sale-at-best-buy?utm_medium=rss)
+ - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
  - [Google&#39;s new Pixel updates include a Hello button to let Google Assistant screen calls, Circle to Search on Pixel 7, and 10-bit HDR video uploads to Instagram &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240304/p19#a240304p19)
  - [As bitcoin rallies past $67K and nears its all-time high, Coinbase&#39;s stock, which hit $46.43 last year, soars to $229.15, nearly doubling in the past month &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240304/p18#a240304p18)
- - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)
- - [EU fine and shift to AI applying opposing forces to Apple&#39;s value, holding it steady](https://appleinsider.com/articles/24/03/04/eu-fine-and-shift-to-ai-applying-opposing-forces-to-apples-value-holding-it-steady?utm_medium=rss)
- - [Diletta Bello Review: Perfect Crema Comes at a Cost](https://www.wired.com/review/diletta-bello-espresso-machine/)<!-- TECH:END -->
+ - [How to file and pay your 2023 taxes online](https://www.theverge.com/24032894/taxes-irs-file-2023-how-to-refund)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [All of Apple&#39;s operating systems now have a release candidate beta](https://appleinsider.com/articles/24/03/04/all-of-apples-operating-systems-now-have-a-release-candidate-beta?utm_medium=rss)
+ - [Apple says, after a software update, the M3 14-inch MacBook Pro will be able to drive two external displays with its lid closed, just like the M3 MacBook Airs &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240304/p14#a240304p14)
  - [The Verge Promotes Jake Kastrenakes, Alex Cranz, and Kara Verlaney](https://www.theverge.com/2024/3/4/24090373/the-verge-promotes-jake-kastrenakes-alex-cranz-and-kara-verlaney)
  - [Nintendo Switch emulator Yuzu will utterly fold and pay $2.4M to settle its lawsuit](https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement)
- - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)
- - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)<!-- TECH:END -->
+ - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

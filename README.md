@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 💣 [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
+ - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
+ - 😝 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 

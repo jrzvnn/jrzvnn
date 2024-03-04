@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
- - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
 
 ---
 

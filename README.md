@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hit with first ever EU fine following Spotify complaint](https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers)
+ - [The EU Commission fines Apple &amp;euro;1.8B for stifling competition from rival music streaming services, the EU&#39;s third-largest antitrust fine; Apple plans to appeal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240304/p5#a240304p5)
+ - [I Found Frank Herbert’s &#39;Dune&#39; Script. &#39;Dune: Part Two&#39; Is Better](https://www.wired.com/story/frank-herbert-dune-script-denis-villeneuve-dune-part-two/)
  - [Chinese city governments are offering &quot;computing vouchers&quot;, worth $140K to $280K, to AI startups, to help create a level playing field with China&#39;s tech giants &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p4#a240304p4)
- - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
- - [Saudi Arabian e-commerce software startup Salla raised $130M from Investcorp, Sanabil, and others, in what is likely to be its last funding round before an IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240304/p3#a240304p3)
- - [JavaScript Runs the World—Maybe Even Literally](https://www.wired.com/story/javascript-runs-the-world-maybe-literally/)
- - [Install Microsoft Office on Your PC or Mac for Just $32, No Subscription Required     - CNET](https://www.cnet.com/deals/install-microsoft-office-on-your-pc-or-mac-for-just-32-no-subscription-required/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

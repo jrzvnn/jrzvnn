@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple 13- and 15-inch M3 MacBook Air: Price, Specs, Availability](https://www.wired.com/story/apple-new-13-and-15-inch-macbook-air-m3-chip/)
  - [Razor and Perch merge and raise $100M at a $1.7B valuation, amid more consolidation in the e-commerce aggregation space, known for buying up Amazon retailers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240304/p12#a240304p12)
  - [A tech-backed mission to monitor methane pollution launches today](https://www.theverge.com/2024/3/4/24090025/methanesat-satellite-launch-spacex-bezos-fund-google-map-methane-edf)
- - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
- - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)<!-- TECH:END -->
+ - [AI and You: Gemini Flubs Are &#39;Unacceptable,&#39; Musk Sues OpenAI for Putting Profit Over Principles     - CNET](https://www.cnet.com/tech/computing/ai-and-you-gemini-flubs-are-unacceptable-musk-sues-openai-for-putting-profit-over-principles/#ftag=CAD590a51e)
+ - [Nab Jackery&#39;s Explorer 1000 Power Station While It&#39;s Back Down to All-Time Low of $649     - CNET](https://www.cnet.com/deals/nab-jackerys-explorer-1000-power-station-while-its-back-down-to-all-time-low-of-649/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

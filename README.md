@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Microsoft Office assistant Clippy, which was seen as a corporate gaffe but has remained one of Microsoft&#39;s most recognizable brands over two decades &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240303/p8#a240303p8)
+ - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)
  - [It&#39;s back: pick up a lifetime Babbel subscription for $149, a discount of $450 off retail](https://appleinsider.com/articles/24/02/06/its-back-pick-up-a-lifetime-babbel-subscription-for-149-a-discount-of-450-off-retail?utm_medium=rss)
  - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Indian watchdog MeitY issues an advisory asking developers to seek &quot;explicit permission&quot; before deploying any AI models or AI-backed algorithms &lpar;The Economic Times&rpar;](http://www.techmeme.com/240303/p7#a240303p7)
- - [The 5 Best Magnesium Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
- - [I&#39;ve Traveled All Over the World. These Are 7 Things I Always Pack     - CNET](https://www.cnet.com/tech/ive-traveled-all-over-the-world-these-are-7-things-i-always-pack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indian watchdog MeitY issues an advisory asking developers to seek &quot;explicit permission&quot; before deploying any AI models or AI-backed algorithms &lpar;The Economic Times&rpar;](http://www.techmeme.com/240303/p7#a240303p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

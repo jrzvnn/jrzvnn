@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OnlyGoats](http://9gag.com/gag/az26XEz)
- - 😝 [No title](http://9gag.com/gag/aNwy19w)
- - 💣 [It&#39;s a nightmare](http://9gag.com/gag/a6qWoNq)
- - 😝 [Nostalgia](http://9gag.com/gag/aKEbjx1)
- - 👉 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)<!-- MEMES:END -->
+ - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
 
 ---
 

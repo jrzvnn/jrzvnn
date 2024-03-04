@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
- - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
+ - 😝 [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 ---
 

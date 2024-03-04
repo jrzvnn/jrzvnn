@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
  - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)
  - [Wix’s new AI chatbot builds websites in seconds based on prompts](https://www.theverge.com/2024/3/4/24090095/wix-ai-website-generator-chatbot)
  - [Microsoft’s Mistral deal beefs up Azure without spurning OpenAI](https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe)
- - [Apple 13- and 15-inch M3 MacBook Air: Price, Specs, Availability](https://www.wired.com/story/apple-new-13-and-15-inch-macbook-air-m3-chip/)
- - [Razor and Perch merge and raise $100M at a $1.7B valuation, amid more consolidation in the e-commerce aggregation space, known for buying up Amazon retailers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240304/p12#a240304p12)<!-- TECH:END -->
+ - [Apple 13- and 15-inch M3 MacBook Air: Price, Specs, Availability](https://www.wired.com/story/apple-new-13-and-15-inch-macbook-air-m3-chip/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
+ - [How to keep your smart cam footage safe and private](https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to)
+ - [Save $80 Off Our Favorite Cordless Vacuums for a Limited Time at Amazon     - CNET](https://www.cnet.com/deals/save-80-off-our-favorite-cordless-vacuums-for-a-limited-time-at-amazon/#ftag=CAD590a51e)
  - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
- - [The Verge’s favorite smart home devices](https://www.theverge.com/24067541/smart-home-favorite-robovac-hub)
- - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
- - [The MacBook Air gets an M3 upgrade](https://www.theverge.com/2024/3/4/24089999/apple-macbook-air-m3-announced-13-15-inch)<!-- TECH:END -->
+ - [Samsung&#39;s Flagship Galaxy S24 Lineup Is Up to 15% Off Today at Amazon     - CNET](https://www.cnet.com/deals/samsungs-flagship-galaxy-s24-lineup-is-up-to-15-off-today-at-amazon/#ftag=CAD590a51e)
+ - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

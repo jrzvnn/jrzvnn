@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
+ - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
  - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [It&#39;s married](http://9gag.com/gag/avQbrAW)<!-- MEMES:END -->
+ - 👉 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)<!-- MEMES:END -->
 
 ---
 

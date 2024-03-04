@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
  - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
  - [Today’s smart homes: the hopes and the realities](https://www.theverge.com/24080426/smart-home-tech-matter-pets-kitchen-hubs-how-to)
- - [Anthropic says its Claude 3 suite outperforms GPT-4 and Gemini Ultra on some benchmarks, and adds multimodal support for photos and more for the first time &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240304/p10#a240304p10)
+ - [Anthropic says Claude 3 outperforms GPT-4 and Gemini Ultra on some benchmarks, and adds multimodal support for photos, charts, docs, and more for the first time &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240304/p10#a240304p10)
  - [Anthropic announces Claude 3 Opus, Sonnet, and Haiku, aiming to reduce AI model hallucinations; Opus and Sonnet are available now, and Haiku in the coming weeks &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240304/p9#a240304p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

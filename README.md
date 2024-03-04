@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The IRS Is Holding $20M in Unclaimed Stimulus Check Payments. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)
+ - [Lomi Smart Food Upcycler     - CNET](https://www.cnet.com/news/lomi-smart-food-upcycler-dpnl/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in New Hampshire     - CNET](https://www.cnet.com/home/energy-and-utilities/new-hampshire-solar-panels/#ftag=CAD590a51e)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [ChatGPT can read its answers out loud](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android)
- - [Fired Twitter execs are suing Elon Musk for over $128 million](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)
- - [Prices of Anthropic&#39;s Claude 3 Opus, Sonnet, and Haiku, all with a 200K-token context window, seem to range from &quot;super expensive&quot; to &quot;radically competitive&quot; &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240304/p20#a240304p20)
- - [Apple&#39;s new M3 MacBook Air is already on sale at Best Buy](https://appleinsider.com/articles/24/03/04/apples-new-m3-macbook-air-is-already-on-sale-at-best-buy?utm_medium=rss)<!-- TECH:END -->
+ - [Hidrate Spark PRO Smart Water Bottle     - CNET](https://www.cnet.com/health/personal-care/hidrate-spark-pro-smart-water-bottle-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

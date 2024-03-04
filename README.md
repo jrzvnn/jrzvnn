@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Analysis: between 2019 and the end of 2023, women&#39;s share of tech jobs rose from 31% to 35% in the US, 23% to 25.2% across the EU, and 29% to 32%+ in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p2#a240304p2)
- - [Where&#39;s My Tax Refund 2024? How to Track the Status of Your Money     - CNET](https://www.cnet.com/personal-finance/taxes/wheres-my-tax-refund-2024-how-to-track-the-status-of-your-money/#ftag=CAD590a51e)
- - [Less Sea Ice Means More Arctic Trees—Which Means Trouble](https://www.wired.com/story/arctic-trees-sea-ice-snow-warming/)<!-- TECH:END -->
+ - [Chinese city governments are offering &quot;computing vouchers&quot;, worth $140K to $280K, to AI startups, to help create a level playing field with China&#39;s tech giants &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p4#a240304p4)
+ - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)
+ - [Saudi Arabian e-commerce software startup Salla raised $130M from Investcorp, Sanabil, and others, in what is likely to be its last funding round before an IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240304/p3#a240304p3)
+ - [JavaScript Runs the World—Maybe Even Literally](https://www.wired.com/story/javascript-runs-the-world-maybe-literally/)
+ - [Install Microsoft Office on Your PC or Mac for Just $32, No Subscription Required     - CNET](https://www.cnet.com/deals/install-microsoft-office-on-your-pc-or-mac-for-just-32-no-subscription-required/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

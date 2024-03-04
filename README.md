@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HomePod Software 17.4 lets Siri learn your preferred music service for commands](https://appleinsider.com/articles/24/03/04/homepod-software-174-lets-siri-learn-your-preferred-music-service-for-commands?utm_medium=rss)
  - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)
  - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
  - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
- - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)
- - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)<!-- TECH:END -->
+ - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

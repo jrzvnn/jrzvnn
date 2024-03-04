@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
- - 👉 [AmericaaAAA !!!!](http://9gag.com/gag/a9q3pM0)<!-- MEMES:END -->
+ - 😝 [No title](http://9gag.com/gag/aNwy19w)
+ - 😝 [Triplets](http://9gag.com/gag/avQbOAO)
+ - 💣 [Addressing mental illness](http://9gag.com/gag/aKEbDP3)
+ - 😝 [Imagine seeing this while at a bowling alley](http://9gag.com/gag/ajV2Nog)
+ - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 💣 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 👉 [No thanks.](http://9gag.com/gag/aA0nDXR)<!-- MEMES:END -->
+ - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 💣 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
+ - 😝 [Friendship is friendly](http://9gag.com/gag/axopVoW)
+ - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
 
 ---
 

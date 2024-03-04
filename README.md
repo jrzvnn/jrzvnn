@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
- - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
+ - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 😝 [Thicc game](http://9gag.com/gag/amADrB4)
+ - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to pay $14.4M to settle Canadian &#39;Batterygate&#39; lawsuit](https://appleinsider.com/articles/24/03/04/apple-to-pay-144m-to-settle-canadian-batterygate-lawsuit?utm_medium=rss)
+ - [Ikea begins beta-testing Matter on its Dirigera hub](https://www.theverge.com/2024/3/4/24087827/ikea-dirigera-hub-matter-support)
  - [You can now preorder the new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)
  - [Google Pixels add support for Instagram’s Ultra HDR photos](https://www.theverge.com/2024/3/4/24090244/google-pixel-ultra-hdr-instagram-march-feature-drop)
- - [Eve Outdoor Outlet, new Aqara products, Lifx returns on HomeKit Insider](https://appleinsider.com/articles/24/03/04/eve-outdoor-outlet-new-aqara-products-lifx-returns-on-homekit-insider?utm_medium=rss)
- - [Casper Mattress Review 2024: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
- - [All of Apple&#39;s operating systems now have a release candidate beta](https://appleinsider.com/articles/24/03/04/all-of-apples-operating-systems-now-have-a-release-candidate-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Eve Outdoor Outlet, new Aqara products, Lifx returns on HomeKit Insider](https://appleinsider.com/articles/24/03/04/eve-outdoor-outlet-new-aqara-products-lifx-returns-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

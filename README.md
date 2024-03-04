@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU fine and shift to AI applying opposing forces to Apple&#39;s value, holding it steady](https://appleinsider.com/articles/24/03/04/eu-fine-and-shift-to-ai-applying-opposing-forces-to-apples-value-holding-it-steady?utm_medium=rss)
  - [Diletta Bello Review: Perfect Crema Comes at a Cost](https://www.wired.com/review/diletta-bello-espresso-machine/)
  - [Tri-Fold Truck Bed Cover     - CNET](https://www.cnet.com/roadshow/news/tri-fold-truck-bed-cover-dpnl/#ftag=CAD590a51e)
  - [Twitter&#39;s former CEO, CFO, legal chief, and general counsel sue Elon Musk over $128M+ in unpaid severance and Musk&#39;s claim that he had cause to fire them &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240304/p17#a240304p17)
- - [HomePod Software 17.4 lets Siri learn your preferred music service for commands](https://appleinsider.com/articles/24/03/04/homepod-software-174-lets-siri-learn-your-preferred-music-service-for-commands?utm_medium=rss)
- - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)<!-- TECH:END -->
+ - [HomePod Software 17.4 lets Siri learn your preferred music service for commands](https://appleinsider.com/articles/24/03/04/homepod-software-174-lets-siri-learn-your-preferred-music-service-for-commands?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

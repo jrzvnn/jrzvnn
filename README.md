@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
  - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
  - [Lenovo Legion Go review: the Swiss Army knife of handhelds](https://www.theverge.com/24088011/lenovo-legion-go-review)
  - [Anthropic says its latest AI bot can beat Gemini and ChatGPT](https://www.theverge.com/2024/3/4/24090087/anthropic-claude-3-opus-ai-chatbot-multimodal)
- - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)
- - [JetBlue and Spirit abandon their $3.8 billion merger](https://www.theverge.com/2024/3/4/24090122/jetblue-spirit-merger-blocked-canceled)<!-- TECH:END -->
+ - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

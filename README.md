@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch emulator Yuzu will utterly fold and pay $2.4M to settle its lawsuit](https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement)
+ - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)
+ - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)
  - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)
- - [Wix’s new AI chatbot builds websites in seconds based on prompts](https://www.theverge.com/2024/3/4/24090095/wix-ai-website-generator-chatbot)
- - [Microsoft’s Mistral deal beefs up Azure without spurning OpenAI](https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe)
- - [Apple 13- and 15-inch M3 MacBook Air: Price, Specs, Availability](https://www.wired.com/story/apple-new-13-and-15-inch-macbook-air-m3-chip/)<!-- TECH:END -->
+ - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

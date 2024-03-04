@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JetBlue and Spirit abandon their $3.8 billion merger](https://www.theverge.com/2024/3/4/24090122/jetblue-spirit-merger-blocked-canceled)
  - [Baseten, which helps companies launch open-source or customized AI models, raised a $40M Series B led by IVP and Spark, a source says at a $200M+ valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240304/p11#a240304p11)
  - [Guest host Hank Green makes Nilay Patel explain why websites have a future](https://www.theverge.com/24087834/hank-green-decoder-podcast-google-youtube-web-media-platforms-distribution-future)
- - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
- - [Today’s smart homes: the hopes and the realities](https://www.theverge.com/24080426/smart-home-tech-matter-pets-kitchen-hubs-how-to)<!-- TECH:END -->
+ - [Best MacBook Air M2 Deals: New $999 Base Price for 13-Inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Apple Updates MacBook Air With M3, Dual Monitor Support     - CNET](https://www.cnet.com/tech/computing/apple-updates-macbook-air-with-m3-dual-monitor-support/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

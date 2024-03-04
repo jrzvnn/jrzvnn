@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All of Apple&#39;s operating systems now have a release candidate beta](https://appleinsider.com/articles/24/03/04/all-of-apples-operating-systems-now-have-a-release-candidate-beta?utm_medium=rss)
+ - [The Verge Promotes Jake Kastrenakes, Alex Cranz, and Kara Verlaney](https://www.theverge.com/2024/3/4/24090373/the-verge-promotes-jake-kastrenakes-alex-cranz-and-kara-verlaney)
  - [Nintendo Switch emulator Yuzu will utterly fold and pay $2.4M to settle its lawsuit](https://www.theverge.com/2024/3/4/24090357/nintendo-yuzu-emulator-lawsuit-settlement)
  - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)
- - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)
- - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Preparing for the Time Change? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/try-light-therapy-for-dst/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
  - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [Decapitated snake head bites its own body\u2026I always thought only chickens could do this\u2026](http://9gag.com/gag/aVbGeBd)
+ - 👉 [Lol.](http://9gag.com/gag/a5XLbny)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [ChatGPT can read its answers out loud](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android)
  - [Fired Twitter execs are suing Elon Musk for over $128 million](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)
  - [Prices of Anthropic&#39;s Claude 3 Opus, Sonnet, and Haiku, all with a 200K-token context window, seem to range from &quot;super expensive&quot; to &quot;radically competitive&quot; &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240304/p20#a240304p20)
- - [Apple&#39;s new M3 MacBook Air is already on sale at Best Buy](https://appleinsider.com/articles/24/03/04/apples-new-m3-macbook-air-is-already-on-sale-at-best-buy?utm_medium=rss)
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new M3 MacBook Air is already on sale at Best Buy](https://appleinsider.com/articles/24/03/04/apples-new-m3-macbook-air-is-already-on-sale-at-best-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
  - [Today’s smart homes: the hopes and the realities](https://www.theverge.com/24080426/smart-home-tech-matter-pets-kitchen-hubs-how-to)
  - [Anthropic says its Claude 3 suite outperforms GPT-4 and Gemini Ultra on some benchmarks, and adds multimodal support for photos and more for the first time &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240304/p10#a240304p10)
  - [Anthropic announces Claude 3 Opus, Sonnet, and Haiku, aiming to improve factual accuracy; Opus and Sonnet are available now, and Haiku in the coming weeks &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240304/p9#a240304p9)
- - [How to keep your smart cam footage safe and private](https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to)
- - [Save $80 Off Our Favorite Cordless Vacuums for a Limited Time at Amazon     - CNET](https://www.cnet.com/deals/save-80-off-our-favorite-cordless-vacuums-for-a-limited-time-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to keep your smart cam footage safe and private](https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

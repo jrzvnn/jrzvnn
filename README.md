@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown](http://9gag.com/gag/awZqA34)
- - 😝 [Damn good boy](http://9gag.com/gag/avQbo0O)
- - 💣 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)
- - 😝 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
- - 👉 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)<!-- MEMES:END -->
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
 
 ---
 

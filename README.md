@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [You can now preorder the new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)
  - [Google Pixels add support for Instagram’s Ultra HDR photos](https://www.theverge.com/2024/3/4/24090244/google-pixel-ultra-hdr-instagram-march-feature-drop)
  - [Eve Outdoor Outlet, new Aqara products, Lifx returns on HomeKit Insider](https://appleinsider.com/articles/24/03/04/eve-outdoor-outlet-new-aqara-products-lifx-returns-on-homekit-insider?utm_medium=rss)
- - [All of Apple&#39;s operating systems now have a release candidate beta](https://appleinsider.com/articles/24/03/04/all-of-apples-operating-systems-now-have-a-release-candidate-beta?utm_medium=rss)
- - [Apple says, after a software update, the M3 14-inch MacBook Pro will be able to drive two external displays with its lid closed, just like the M3 MacBook Airs &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240304/p14#a240304p14)<!-- TECH:END -->
+ - [Casper Mattress Review 2024: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
+ - [All of Apple&#39;s operating systems now have a release candidate beta](https://appleinsider.com/articles/24/03/04/all-of-apples-operating-systems-now-have-a-release-candidate-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

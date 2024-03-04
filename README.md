@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
  - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
+ - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
+ - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)<!-- MEMES:END -->
 
 ---
 

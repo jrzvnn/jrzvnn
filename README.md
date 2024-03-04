@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [No title](http://9gag.com/gag/aNwy19w)
- - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 👉 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)<!-- MEMES:END -->
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 💣 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [AmericaaAAA !!!!](http://9gag.com/gag/a9q3pM0)<!-- MEMES:END -->
 
 ---
 

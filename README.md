@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
+ - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
  - [The Verge’s favorite smart home devices](https://www.theverge.com/24067541/smart-home-favorite-robovac-hub)
  - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
- - [The MacBook Air gets an M3 upgrade](https://www.theverge.com/2024/3/4/24089999/apple-macbook-air-m3-announced-13-15-inch)
- - [New M3 MacBook arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
- - [Apple announces a new 13- and 15-inch MacBook Air with M3, offering an 8-core CPU and up to 10-core GPU, starting at $1,099 or $1,299 and shipping on March 8 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240304/p8#a240304p8)<!-- TECH:END -->
+ - [The MacBook Air gets an M3 upgrade](https://www.theverge.com/2024/3/4/24089999/apple-macbook-air-m3-announced-13-15-inch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

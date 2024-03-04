@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian watchdog MeitY issues an advisory asking developers to seek &quot;explicit permission&quot; before deploying any AI models or AI-backed algorithms &lpar;The Economic Times&rpar;](http://www.techmeme.com/240303/p7#a240303p7)
+ - [The 5 Best Magnesium Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)
+ - [I&#39;ve Traveled All Over the World. These Are 7 Things I Always Pack     - CNET](https://www.cnet.com/tech/ive-traveled-all-over-the-world-these-are-7-things-i-always-pack/#ftag=CAD590a51e)
  - [How to create programmatic user interfaces using Xcode Previews](https://appleinsider.com/articles/24/03/03/how-to-create-programmatic-user-interfaces-using-xcode-previews?utm_medium=rss)
- - [Robert F. Kennedy Jr.’s Microsoft-Powered Chatbot Just Disappeared](https://www.wired.com/story/robert-f-kennedy-jr-chatbot-microsoft-openai-disappeared/)
- - [Google Drive search on iOS gets better filtering options](https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update)
- - [Eat These 5 Foods to Naturally Boost Your Heart Health     - CNET](https://www.cnet.com/health/nutrition/eat-these-5-foods-to-naturally-boost-your-heart-health/#ftag=CAD590a51e)
- - [A profile of Lanny Smoot, Disney&#39;s only research fellow, who holds 100+ patents and has built an omnidirectional HoloTile Floor to allow users to walk in VR &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240303/p6#a240303p6)<!-- TECH:END -->
+ - [Robert F. Kennedy Jr.’s Microsoft-Powered Chatbot Just Disappeared](https://www.wired.com/story/robert-f-kennedy-jr-chatbot-microsoft-openai-disappeared/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

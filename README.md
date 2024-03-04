@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aNwy19w)
- - 😝 [Triplets](http://9gag.com/gag/avQbOAO)
- - 💣 [Addressing mental illness](http://9gag.com/gag/aKEbDP3)
- - 😝 [Imagine seeing this while at a bowling alley](http://9gag.com/gag/ajV2Nog)
- - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 😝 [Almost 100k , let&#39;s keep pushing to show devs we don&#39;t want that stuff in games !](http://9gag.com/gag/aA0nD2R)
+ - 💣 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 👉 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)<!-- MEMES:END -->
 
 ---
 

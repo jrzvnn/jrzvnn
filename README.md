@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Diletta Bello Review: Perfect Crema Comes at a Cost](https://www.wired.com/review/diletta-bello-espresso-machine/)
+ - [Tri-Fold Truck Bed Cover     - CNET](https://www.cnet.com/roadshow/news/tri-fold-truck-bed-cover-dpnl/#ftag=CAD590a51e)
  - [Twitter&#39;s former CEO, CFO, legal chief, and general counsel sue Elon Musk over $128M+ in unpaid severance and Musk&#39;s claim that he had cause to fire them &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240304/p17#a240304p17)
  - [HomePod Software 17.4 lets Siri learn your preferred music service for commands](https://appleinsider.com/articles/24/03/04/homepod-software-174-lets-siri-learn-your-preferred-music-service-for-commands?utm_medium=rss)
- - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)
- - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today’s smart homes: the hopes and the realities](https://www.theverge.com/24080426/smart-home-tech-matter-pets-kitchen-hubs-how-to)
+ - [Anthropic says its Claude 3 suite outperforms GPT-4 and Gemini Ultra on some benchmarks, and adds multimodal support for photos and more for the first time &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240304/p10#a240304p10)
+ - [Anthropic announces Claude 3 Opus, Sonnet, and Haiku, aiming to improve factual accuracy; Opus and Sonnet are available now, and Haiku in the coming weeks &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240304/p9#a240304p9)
  - [How to keep your smart cam footage safe and private](https://www.theverge.com/24074904/smart-home-camera-security-privacy-how-to)
- - [Save $80 Off Our Favorite Cordless Vacuums for a Limited Time at Amazon     - CNET](https://www.cnet.com/deals/save-80-off-our-favorite-cordless-vacuums-for-a-limited-time-at-amazon/#ftag=CAD590a51e)
- - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
- - [Samsung&#39;s Flagship Galaxy S24 Lineup Is Up to 15% Off Today at Amazon     - CNET](https://www.cnet.com/deals/samsungs-flagship-galaxy-s24-lineup-is-up-to-15-off-today-at-amazon/#ftag=CAD590a51e)
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)<!-- TECH:END -->
+ - [Save $80 Off Our Favorite Cordless Vacuums for a Limited Time at Amazon     - CNET](https://www.cnet.com/deals/save-80-off-our-favorite-cordless-vacuums-for-a-limited-time-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

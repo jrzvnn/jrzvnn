@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)
- - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
- - [Apple says Spotify was the &quot;primary advocate&quot; and &quot;biggest beneficiary&quot; of the EU&#39;s ruling, Spotify pays Apple nothing, and that &quot;free isn&#39;t enough for Spotify&quot; &lpar;Apple&rpar;](http://www.techmeme.com/240304/p6#a240304p6)
- - [Apple hit with first ever EU fine following Spotify complaint](https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers)
- - [The EU Commission fines Apple &amp;euro;1.8B for stifling competition from rival music streaming services, the EU&#39;s third-largest antitrust fine; Apple plans to appeal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240304/p5#a240304p5)<!-- TECH:END -->
+ - [The MacBook Air gets an M3 upgrade](https://www.theverge.com/2024/3/4/24089999/apple-macbook-air-m3-announced-13-15-inch)
+ - [New M3 MacBook arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
+ - [Apple announces a new 13- and 15-inch MacBook Air with M3, offering an 8-core CPU and up to 10-core GPU, starting at $1,099 or $1,299 and shipping on March 8 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240304/p8#a240304p8)
+ - [Sea reports Q4 revenue up 4.8% to $3.6B, above $3.5B est., and adjusted EBITDA down 74% YoY to $126.7M, above $88M est., due to market expenses; SE jumps 11%+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240304/p7#a240304p7)
+ - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

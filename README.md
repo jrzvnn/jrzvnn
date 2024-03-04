@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A migrant p*ssing into the canal gets a dose of local French flavor for doing that](http://9gag.com/gag/avQbLYd)
- - 😝 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)
- - 💣 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)
  - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
+ - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 👉 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)<!-- MEMES:END -->
 
 ---
 

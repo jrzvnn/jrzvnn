@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender reveal](http://9gag.com/gag/aYVzKZ0)
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
+ - 😝 [Netflix filter on](http://9gag.com/gag/a04mbeZ)
+ - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
+ - 💣 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
+ - 😝 [Friendship is friendly](http://9gag.com/gag/axopVoW)
+ - 👉 [In 2003, Chile aired the original Star Wars trilogy on TV, seamlessly integrating commercials into the films to avoid breaks.](http://9gag.com/gag/a6qWbpq)<!-- MEMES:END -->
 
 ---
 

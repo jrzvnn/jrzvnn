@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)
+ - [European Union smacks Apple with $2 billion fine over music streaming](https://appleinsider.com/articles/24/03/04/european-union-smacks-apple-with-195-billion-fine-over-music-streaming?utm_medium=rss)
+ - [Apple says Spotify was the &quot;primary advocate&quot; and &quot;biggest beneficiary&quot; of the EU&#39;s ruling, Spotify pays Apple nothing, and that &quot;free isn&#39;t enough for Spotify&quot; &lpar;Apple&rpar;](http://www.techmeme.com/240304/p6#a240304p6)
  - [Apple hit with first ever EU fine following Spotify complaint](https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers)
- - [The EU Commission fines Apple &amp;euro;1.8B for stifling competition from rival music streaming services, the EU&#39;s third-largest antitrust fine; Apple plans to appeal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240304/p5#a240304p5)
- - [I Found Frank Herbert’s &#39;Dune&#39; Script. &#39;Dune: Part Two&#39; Is Better](https://www.wired.com/story/frank-herbert-dune-script-denis-villeneuve-dune-part-two/)
- - [Chinese city governments are offering &quot;computing vouchers&quot;, worth $140K to $280K, to AI startups, to help create a level playing field with China&#39;s tech giants &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p4#a240304p4)
- - [New iPad, MacBook Air, Mac mini: What to expect from Apple in the spring](https://appleinsider.com/articles/24/02/14/new-ipad-macbook-air-mac-mini-what-to-expect-from-a-spring-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [The EU Commission fines Apple &amp;euro;1.8B for stifling competition from rival music streaming services, the EU&#39;s third-largest antitrust fine; Apple plans to appeal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240304/p5#a240304p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

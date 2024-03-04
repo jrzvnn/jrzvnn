@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram now lets users edit DMs up to 15 minutes after sending them, pin three messaging threads to the top of their inbox, and save their favorite stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240304/p16#a240304p16)
+ - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
+ - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
  - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)
- - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)
- - [Tropic Haze, the developer of Nintendo Switch emulator Yuzu, agrees to pay $2.4M to settle its lawsuit with Nintendo and will completely shut down the emulator &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240304/p15#a240304p15)
- - [Apple Fined $2 Billion as Europe Sides With Spotify](https://www.wired.com/story/apple-spotify-2-billion-fine-eu/)
- - [Now everyone can edit their Instagram DMs](https://www.theverge.com/2024/3/4/24090332/instagram-direct-message-editing-stickers-read-receipts)<!-- TECH:END -->
+ - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

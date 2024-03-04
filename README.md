@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo Legion Go review: the Swiss Army knife of handhelds](https://www.theverge.com/24088011/lenovo-legion-go-review)
+ - [Anthropic says its latest AI bot can beat Gemini and ChatGPT](https://www.theverge.com/2024/3/4/24090087/anthropic-claude-3-opus-ai-chatbot-multimodal)
  - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)
  - [JetBlue and Spirit abandon their $3.8 billion merger](https://www.theverge.com/2024/3/4/24090122/jetblue-spirit-merger-blocked-canceled)
- - [Baseten, which helps companies launch open-source or customized AI models, raised a $40M Series B led by IVP and Spark, a source says at a $200M+ valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240304/p11#a240304p11)
- - [Guest host Hank Green makes Nilay Patel explain why websites have a future](https://www.theverge.com/24087834/hank-green-decoder-podcast-google-youtube-web-media-platforms-distribution-future)
- - [Best MacBook Air M2 Deals: New $999 Base Price for 13-Inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baseten, which helps companies launch open-source or customized AI models, raised a $40M Series B led by IVP and Spark, a source says at a $200M+ valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240304/p11#a240304p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

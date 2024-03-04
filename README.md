@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix filter on](http://9gag.com/gag/a04mbeZ)
+ - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
  - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 💣 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
- - 😝 [Friendship is friendly](http://9gag.com/gag/axopVoW)
- - 👉 [In 2003, Chile aired the original Star Wars trilogy on TV, seamlessly integrating commercials into the films to avoid breaks.](http://9gag.com/gag/a6qWbpq)<!-- MEMES:END -->
+ - 💣 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 👉 [JUSTICE HAS BEEN MADE!](http://9gag.com/gag/aWGVMwn)<!-- MEMES:END -->
 
 ---
 

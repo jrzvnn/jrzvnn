@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A tech-backed mission to monitor methane pollution launches today](https://www.theverge.com/2024/3/4/24090025/methanesat-satellite-launch-spacex-bezos-fund-google-map-methane-edf)
+ - [AI and You: Gemini Flubs Are &#39;Unacceptable,&#39; Musk Sues OpenAI for Putting Profit Over Principles     - CNET](https://www.cnet.com/tech/computing/ai-and-you-gemini-flubs-are-unacceptable-musk-sues-openai-for-putting-profit-over-principles/#ftag=CAD590a51e)
+ - [Nab Jackery&#39;s Explorer 1000 Power Station While It&#39;s Back Down to All-Time Low of $649     - CNET](https://www.cnet.com/deals/nab-jackerys-explorer-1000-power-station-while-its-back-down-to-all-time-low-of-649/#ftag=CAD590a51e)
  - [M3 MacBook Air vs M2 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m2-macbook-air----compared?utm_medium=rss)
- - [New M3 MacBook Air arrives with faster Wi-Fi and better performance](https://appleinsider.com/articles/24/03/04/new-m3-macbook-arrives-with-faster-wi-fi-and-better-performance?utm_medium=rss)
- - [Lenovo Legion Go review: the Swiss Army knife of handhelds](https://www.theverge.com/24088011/lenovo-legion-go-review)
- - [Anthropic says its latest AI bot can beat Gemini and ChatGPT](https://www.theverge.com/2024/3/4/24090087/anthropic-claude-3-opus-ai-chatbot-multimodal)
- - [Three things Apple got wrong with the Vision Pro launch](https://appleinsider.com/articles/24/03/04/three-things-apple-got-wrong-with-the-vision-pro-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Watch &#39;Celebrity Big Brother&#39; UK 2024: Stream Anywhere for Free     - CNET](https://www.cnet.com/tech/services-and-software/watch-celebrity-big-brother-uk-2024-stream-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

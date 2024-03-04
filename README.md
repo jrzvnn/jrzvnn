@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As work continues on 6G standards, telcos are talking about 5.5G, or 5G Advanced, which brings faster upload speeds, network slicing, enhanced positioning, more &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240304/p1#a240304p1)
- - [Last week a US judge acquitted China&#39;s Fujian Jinhua Integrated Circuit in the DOJ&#39;s Micron trade secrets case, months after Micron changed its posture on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240303/p9#a240303p9)
- - [Best Smart Soundbar of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [A look at Microsoft Office assistant Clippy, which was seen as a corporate gaffe but has remained one of Microsoft&#39;s most recognizable brands over two decades &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/240303/p8#a240303p8)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Maine     - CNET](https://www.cnet.com/home/energy-and-utilities/maine-solar-panels/#ftag=CAD590a51e)
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Analysis: between 2019 and the end of 2023, women&#39;s share of tech jobs rose from 31% to 35% in the US, 23% to 25.2% across the EU, and 29% to 32%+ in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p2#a240304p2)
+ - [Where&#39;s My Tax Refund 2024? How to Track the Status of Your Money     - CNET](https://www.cnet.com/personal-finance/taxes/wheres-my-tax-refund-2024-how-to-track-the-status-of-your-money/#ftag=CAD590a51e)
+ - [Less Sea Ice Means More Arctic Trees—Which Means Trouble](https://www.wired.com/story/arctic-trees-sea-ice-snow-warming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

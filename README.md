@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [After Elon Musk assured right-wingers like Libs of TikTok that X&#39;s anti-trans hate policy wouldn&#39;t affect them, X updates it with &quot;where required by local laws&quot; &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240304/p13#a240304p13)
  - [Arrakis looks dangerous as ever in survival game Dune: Awakening](https://www.theverge.com/2024/3/4/24090336/dune-awakening-gameplay-trailer-survival-funcom)
  - [16 Best Wireless Earbuds &lpar;2024&rpar;: Noise Cancelers, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/)<!-- TECH:END -->
+ - [Preparing for the Time Change? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/try-light-therapy-for-dst/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

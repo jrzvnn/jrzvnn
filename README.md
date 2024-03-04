@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
- - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
+ - 😝 [Gender reveal](http://9gag.com/gag/aYVzKZ0)
+ - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
+ - 💣 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 👉 [Chalino Sanchez read the death note handed to him by an audience member, realized this will be his last performance, still gave the audience a show](http://9gag.com/gag/aXn89ov)<!-- MEMES:END -->
 
 ---
 

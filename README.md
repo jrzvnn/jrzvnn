@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
  - 😝 [It&#39;s married](http://9gag.com/gag/avQbrAW)
- - 💣 [Geh, but funny](http://9gag.com/gag/ay2yDzb)
- - 😝 [Friendship is friendly](http://9gag.com/gag/axopVoW)
- - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
+ - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
+ - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 😝 [YOU shall not pass.](http://9gag.com/gag/awZqVWB)
+ - 👉 [Lies, deceptions!](http://9gag.com/gag/aVbGeow)<!-- MEMES:END -->
 
 ---
 

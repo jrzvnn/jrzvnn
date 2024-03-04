@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)
- - [Apple Watch bands and iPhone cases come in new spring colors](https://appleinsider.com/articles/24/03/04/apple-watch-bands-and-iphone-cases-come-in-new-spring-colors?utm_medium=rss)
- - [Today’s smart homes: the hopes and the realities](https://www.theverge.com/24080426/smart-home-tech-matter-pets-kitchen-hubs-how-to)
- - [Anthropic says Claude 3 outperforms GPT-4 and Gemini Ultra on some benchmarks, and adds multimodal support for photos, charts, docs, and more for the first time &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240304/p10#a240304p10)
- - [Anthropic announces Claude 3 Opus, Sonnet, and Haiku, aiming to reduce AI model hallucinations; Opus and Sonnet are available now, and Haiku in the coming weeks &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240304/p9#a240304p9)<!-- TECH:END -->
+ - [Guest host Hank Green makes Nilay Patel explain why websites have a future](https://www.theverge.com/24087834/hank-green-decoder-podcast-google-youtube-web-media-platforms-distribution-future)
+ - [Best MacBook Air M2 Deals: New $999 Base Price for 13-Inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Apple Updates MacBook Air With M3, Dual Monitor Support     - CNET](https://www.cnet.com/tech/computing/apple-updates-macbook-air-with-m3-dual-monitor-support/#ftag=CAD590a51e)
+ - [Best M3 Mac Deals: Save on Apple Laptops and Desktops, Including the New M3 MacBook Air     - CNET](https://www.cnet.com/deals/best-m3-mac-deals/#ftag=CAD590a51e)
+ - [How to use two monitors with M3 MacBook Air](https://appleinsider.com/inside/macbook-air/tips/how-to-use-two-monitors-with-macbook-air-with-m3-processor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

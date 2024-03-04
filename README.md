@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After 14 years, Apple has finally retired the famous MacBook Air wedge shape](https://appleinsider.com/articles/24/03/04/after-14-years-apple-has-finally-retired-the-famous-macbook-air-wedge-shape?utm_medium=rss)
+ - [The Lightning-based Backbone One controller is down to its best price yet](https://www.theverge.com/2024/3/4/24090012/backbone-one-mobile-gaming-controller-apple-ipad-air-sony-wh-1000xm4-headphones-deal-sale)
  - [Tropic Haze, the developer of Nintendo Switch emulator Yuzu, agrees to pay $2.4M to settle its lawsuit with Nintendo and will completely shut down the emulator &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240304/p15#a240304p15)
- - [Spotify&#39;s War on Apple Just Cost the Giant $2 Billion](https://www.wired.com/story/apple-spotify-2-billion-fine-eu/)
- - [Now everyone can edit their Instagram DMs](https://www.theverge.com/2024/3/4/24090332/instagram-direct-message-editing-stickers-read-receipts)
- - [Apple to pay $14.4M to settle Canadian &#39;Batterygate&#39; lawsuit](https://appleinsider.com/articles/24/03/04/apple-to-pay-144m-to-settle-canadian-batterygate-lawsuit?utm_medium=rss)
- - [Ikea begins beta-testing Matter on its Dirigera hub](https://www.theverge.com/2024/3/4/24087827/ikea-dirigera-hub-matter-support)<!-- TECH:END -->
+ - [Apple Fined $2 Billion as Europe Sides With Spotify](https://www.wired.com/story/apple-spotify-2-billion-fine-eu/)
+ - [Now everyone can edit their Instagram DMs](https://www.theverge.com/2024/3/4/24090332/instagram-direct-message-editing-stickers-read-receipts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

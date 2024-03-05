@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 💣 [....](http://9gag.com/gag/avQbONO)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 

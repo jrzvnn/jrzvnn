@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google outlines updates to comply with the EU DMA: changes to search to prioritize large intermediaries and aggregators, new tools for app developers, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240305/p5#a240305p5)
+ - [Chinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240305/p4#a240305p4)
  - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)
  - [Sources: Chinese AI startup MiniMax raised $600M+ led by Alibaba at a $2.5B+ valuation; the round remains in progress and HongShan has committed funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240305/p2#a240305p2)
- - [A new proposal could ban landlords from charging for cable and internet in bulk](https://www.theverge.com/2024/3/5/24090656/landlords-tenants-bulk-billing-cable-internet-fcc-white-house-competition-council)
- - [Rivian’s smaller R2 electric SUV detailed in website slipup](https://www.theverge.com/2024/3/5/24091012/rivian-r2-electric-suv-specs-leak-range-price)
- - [You&#39;ve Got Until March 8 to Order Free COVID-19 Tests From USPS     - CNET](https://www.cnet.com/health/youve-got-until-march-8-to-order-free-covid-19-tests-from-usps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new proposal could ban landlords from charging for cable and internet in bulk](https://www.theverge.com/2024/3/5/24090656/landlords-tenants-bulk-billing-cable-internet-fcc-white-house-competition-council)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 😝 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
- - 💣 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 👉 [Dad cock block](http://9gag.com/gag/aeQXMBW)<!-- MEMES:END -->
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 😝 [Not sure who&#39;s getting scammed. The guy at the call center or the guy who spent 10 hours messing with him](http://9gag.com/gag/abvjzeB)
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 

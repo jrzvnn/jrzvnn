@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously.](http://9gag.com/gag/a3ZoRG8)
- - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
+ - 😝 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 😝 [Neat](http://9gag.com/gag/ap9epGW)
  - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
+ - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
+ - 👉 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)<!-- MEMES:END -->
 
 ---
 

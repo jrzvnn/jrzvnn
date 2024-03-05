@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use Apple’s Check In Feature in iOS 17 &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-check-in-iphone-ios-17/)
+ - [Apple tops Japan&#39;s declining smartphone market](https://appleinsider.com/articles/24/03/05/apple-tops-japans-declining-smartphone-market?utm_medium=rss)
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [Our favorite smart home automations](https://www.theverge.com/24087581/smart-home-automations-verge-favorites)
- - [Colombian payments orchestration startup Yuno raised a $25M Series A from DST, a16z, Tiger, and more at a $150M valuation to expand in Asia, Europe, and Africa &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240305/p14#a240305p14)
- - [StatCounter: Linux hit a 4.03% share of the desktop OS market in February 2024, after taking 30 years to achieve a 3% share in June 2023 &lpar;Bobby Borisov/Linuxiac&rpar;](http://www.techmeme.com/240305/p13#a240305p13)
- - [M3 MacBook Air vs M1 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m1-macbook-air----compared?utm_medium=rss)
- - [Cybersecurity asset management service Axonius raised a $200M extension led by Lightspeed and Accel to its $200M Series E from 2022 at a flat $2.6B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p12#a240305p12)<!-- TECH:END -->
+ - [Colombian payments orchestration startup Yuno raised a $25M Series A from DST, a16z, Tiger, and more at a $150M valuation to expand in Asia, Europe, and Africa &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240305/p14#a240305p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

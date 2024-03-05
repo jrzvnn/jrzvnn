@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
  - 😝 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
  - 💣 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 😝 [How is your 2024 going? Let&#39;s hope it&#39;s shaping up to be a memorable one.](http://9gag.com/gag/a9q3nKZ)
- - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 👉 [Dad cock block](http://9gag.com/gag/aeQXMBW)<!-- MEMES:END -->
 
 ---
 

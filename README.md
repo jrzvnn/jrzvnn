@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)
+ - [Facebook, Instagram, WhatsApp, and Threads Are Coming Back Online After a 2-Hour Outage](https://www.wired.com/story/facebook-instagram-whatsapp-and-threads-back-online-outage/)
  - [iOS 17.4 is here with alternative marketplaces, quantum protections, &amp; battery health updates](https://appleinsider.com/articles/24/03/05/ios-174-is-here-with-alternative-marketplaces-quantum-protections-battery-health-updates?utm_medium=rss)
  - [Microsoft will end support for its Android subsystem in Windows 11 on March 5, 2025, and consequently, for the Amazon Appstore on Windows as well &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240305/p23#a240305p23)
- - [Apple releases iPadOS 17.4 with compliance for EU Digital Markets Act](https://appleinsider.com/articles/24/03/05/apple-releases-ipados-174-with-compliance-for-eu-digital-markets-act?utm_medium=rss)
- - [Lawmakers introduce bill that would punish app stores for hosting TikTok](https://www.theverge.com/2024/3/5/24091278/congress-tiktok-bytedance-ban-divest-bill)
- - [Microsoft to end its Android apps on Windows 11 subsystem in 2025](https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support)<!-- TECH:END -->
+ - [Apple releases iPadOS 17.4 with compliance for EU Digital Markets Act](https://appleinsider.com/articles/24/03/05/apple-releases-ipados-174-with-compliance-for-eu-digital-markets-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

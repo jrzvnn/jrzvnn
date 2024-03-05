@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.4 launches with new EU App Store business terms, with some last-minute tweaks like no longer needing a &amp;euro;1M stand-by letter of credit to start a store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240305/p24#a240305p24)
  - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
  - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)
  - [GE Profile and Café smart ovens are getting a new food recognition feature](https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition)
- - [iOS 17.4 is here and ready for a whole new Europe](https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments)
- - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17.4 is here and ready for a whole new Europe](https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

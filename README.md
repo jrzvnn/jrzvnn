@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new call feature on X is on by default, and you should probably turn it off](https://appleinsider.com/inside/iphone/tips/a-new-call-feature-on-x-is-on-by-default-and-you-should-probably-turn-it-off?utm_medium=rss)
- - [Rad Power Bikes debuts fire-resistant batteries — and four new e-bike models](https://www.theverge.com/2024/3/5/24090135/rad-power-bikes-battery-safety-radster-radwagon)
- - [A Max Password-Sharing Crackdown Is Coming](https://www.wired.com/story/max-password-sharing-crackdown-streaming-netflix-disney-plus/)
- - [Microsoft to reveal Surface Pro 10 and Surface Laptop 6 later this month](https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs)
- - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)<!-- TECH:END -->
+ - [JP Morgan: Apple&#39;s China problems are increasing, but recovery expected](https://appleinsider.com/articles/24/03/05/jp-morgan-apples-china-problems-are-increasing-but-recovery-expected?utm_medium=rss)
+ - [Netflix continues run of excellent indie games with Hades in March](https://www.theverge.com/2024/3/5/24091183/netflix-games-hades-release-date-ios-march)
+ - [Google is starting to squash more spam and more AI in search results](https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content)
+ - [Sources: Microsoft plans to unveil Surface Pro 10 with an OLED screen and Surface Laptop 6, both with Intel Core Ultra and Snapdragon X Elite chips, on March 21 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240305/p19#a240305p19)
+ - [7 Free and Easy Ways You Can Charge Your EV     - CNET](https://www.cnet.com/roadshow/news/7-free-and-easy-ways-you-can-charge-your-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

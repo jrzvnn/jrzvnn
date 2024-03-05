@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
  - [Kayak’s new AI features will let users double-check flights with a screenshot](https://www.theverge.com/2024/3/5/24090945/kayak-ai-chatbot-travel-chatgpt)
- - [Bitcoin surpassed $69K to hit a new all-time high, eclipsing the previous record set on November 10, 2021 &lpar;CoinDesk&rpar;](http://www.techmeme.com/240305/p16#a240305p16)
+ - [Bitcoin surpassed $69K, eclipsing its previous all-time high set on November 10, 2021, with US spot bitcoin ETFs a likely catalyst of the latest bull run &lpar;CoinDesk&rpar;](http://www.techmeme.com/240305/p16#a240305p16)
  - [How to Open Spotify Links If You Aren’t a Spotify User](https://www.wired.com/story/how-to-open-spotify-links-if-you-dont-have-spotify/)
- - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)
- - [Israel-based VC firm Team8 raised $500M from Microsoft, Cisco, and others for funds that will invest in 30+ cyber, data, AI, health, and other Israeli startups &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240305/p15#a240305p15)<!-- TECH:END -->
+ - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

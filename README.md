@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 😝 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
+ - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
  - 💣 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
  - 😝 [How is your 2024 going? Let&#39;s hope it&#39;s shaping up to be a memorable one.](http://9gag.com/gag/a9q3nKZ)
- - 👉 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)<!-- MEMES:END -->
+ - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
 
 ---
 

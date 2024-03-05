@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
+ - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)
+ - [GE Profile and Café smart ovens are getting a new food recognition feature](https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition)
  - [iOS 17.4 is here and ready for a whole new Europe](https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments)
- - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)
- - [Facebook, Instagram, WhatsApp, and Threads Are Coming Back Online After a 2-Hour Outage](https://www.wired.com/story/facebook-instagram-whatsapp-and-threads-back-online-outage/)
- - [iOS 17.4 is here with alternative marketplaces, quantum protections, &amp; battery health updates](https://appleinsider.com/articles/24/03/05/ios-174-is-here-with-alternative-marketplaces-quantum-protections-battery-health-updates?utm_medium=rss)
- - [Microsoft will end support for its Android subsystem in Windows 11 on March 5, 2025, and consequently, for the Amazon Appstore on Windows as well &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240305/p23#a240305p23)<!-- TECH:END -->
+ - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

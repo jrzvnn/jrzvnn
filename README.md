@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare announces Firewall for AI, a protection layer that companies can deploy in front of LLMs to identify abuses before they can reach the models &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240305/p9#a240305p9)
+ - [In just a few months, Google spent well over $1B to settle lawsuits, including $700M on Play Store claims, as the company battles the US DOJ in two other cases &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240305/p8#a240305p8)
  - [Apple drops to fourth place in China&#39;s smartphone sales](https://appleinsider.com/articles/24/03/05/apple-drops-to-fourth-place-in-chinas-smartphone-sales?utm_medium=rss)
- - [As Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p7#a240305p7)
- - [At an event in Riyadh, AWS says the company plans to spend $5.3B in Saudi Arabia to create new infrastructure by 2026, DataVolt plans to invest $5B, and more &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240305/p6#a240305p6)
- - [Google outlines updates to comply with the EU DMA: changes to search to prioritize large intermediaries and aggregators, new tools for app developers, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240305/p5#a240305p5)
- - [Chinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240305/p4#a240305p4)<!-- TECH:END -->
+ - [Mortgage Refinance Rates on March 5, 2024: Rates Tick Even Lower     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-march-5-2024-rates-tick-even-lower/#ftag=CAD590a51e)
+ - [Today&#39;s Mortgage Rates on March 5, 2024: Rates Are Decreasing Steadily for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-on-march-5-2024-rates-are-decreasing-steadily-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

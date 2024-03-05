@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with the CEO of Grindr, whose stock fell 75% since its SPAC merger in November 2022, on future plans, including an &quot;&amp;agrave; la carte&quot; travel payments service &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
  - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)
  - [Colorado Solar Incentives: Tax Breaks, Rebates, Net Metering and More     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-incentives-tax-breaks-net-metering-rebates-and-more/#ftag=CAD590a51e)
  - [Best Solar Shingles for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-shingles/#ftag=CAD590a51e)
- - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)
- - [A profile of Oregon-based Agility Robotics, which tests its humanoid warehouse robots in the real world and has named ex-Magic Leap CEO Peggy Johnson as its CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240304/p27#a240304p27)<!-- TECH:END -->
+ - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

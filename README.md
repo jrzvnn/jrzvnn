@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new call feature on X is on by default, and you should probably turn it off](https://appleinsider.com/inside/iphone/tips/a-new-call-feature-on-x-is-on-by-default-and-you-should-probably-turn-it-off?utm_medium=rss)
+ - [Rad Power Bikes debuts fire-resistant batteries — and four new e-bike models](https://www.theverge.com/2024/3/5/24090135/rad-power-bikes-battery-safety-radster-radwagon)
+ - [A Max Password-Sharing Crackdown Is Coming](https://www.wired.com/story/max-password-sharing-crackdown-streaming-netflix-disney-plus/)
  - [Microsoft to reveal Surface Pro 10 and Surface Laptop 6 later this month](https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs)
- - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
- - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)
- - [Dodge’s first electric muscle car is here](https://www.theverge.com/2024/3/5/24087633/dodge-charger-daytona-ev-specs-photos-muscle)
- - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)<!-- TECH:END -->
+ - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

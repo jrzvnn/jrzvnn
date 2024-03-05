@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
- - 💣 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [No one can say I didn&#39;t try](http://9gag.com/gag/amADrdX)<!-- MEMES:END -->
+ - 😝 [Name that fanbase](http://9gag.com/gag/ay2yB4Y)
+ - 😝 [Bamboozled](http://9gag.com/gag/aVbGYG8)
+ - 💣 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
+ - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 👉 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)<!-- MEMES:END -->
 
 ---
 

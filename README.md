@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 💣 [Did he just discharged a firearm sitting in his pants?](http://9gag.com/gag/aYVzYvw)
- - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
- - 👉 [Triplets](http://9gag.com/gag/avQbOAO)<!-- MEMES:END -->
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 😝 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
+ - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
+ - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 

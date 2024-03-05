@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air vs M1 MacBook Air -- Compared](https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m1-macbook-air----compared?utm_medium=rss)
+ - [Cybersecurity asset management service Axonius raised a $200M extension led by Lightspeed and Accel to its $200M Series E from 2022 at a flat $2.6B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p12#a240305p12)
+ - [After removing 100+ Indian apps on March 1, Google is now &quot;temporarily reinstating the apps of the developers with appeals pending in the Supreme Court&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p11#a240305p11)
  - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
- - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)
- - [6 Months After New York Banned Airbnb, New Jersey Is Doing Great](https://www.wired.com/story/six-months-after-new-york-banned-airbnb-new-jersey/)
- - [Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe](https://www.theverge.com/2024/3/5/24091043/euro-ncap-safety-rating-europe-2026-touchscreen-buttons-dials)
- - [Nothing Phone &lpar;2a&rpar; Review: The New Budget Standard](https://www.wired.com/review/nothing-phone-2a/)<!-- TECH:END -->
+ - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

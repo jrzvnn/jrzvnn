@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oregon is about to sign — or veto — the strongest right-to-repair law yet](https://www.theverge.com/2024/3/4/24090828/oregon-right-to-repair-sb-1596-parts-pairing)
+ - [Sources: US officials told AMD that the company&#39;s AI chip for the Chinese market was still too powerful and it must obtain a license in order to sell it &lpar;Bloomberg&rpar;](http://www.techmeme.com/240304/p24#a240304p24)
+ - [OpenAI updates ChatGPT with a &quot;read aloud&quot; feature supporting 37 languages, allowing it to read its responses out loud, available on the web and mobile apps &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240304/p23#a240304p23)
  - [Microsoft files a motion to dismiss The NYT&#39;s copyright lawsuit, accusing it of &quot;doomsday futurology&quot; for predicting that ChatGPT could ruin the news business &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p22#a240304p22)
- - [Apple Updates 13- and 15-inch MacBook Air with M3 chips video     - CNET](https://www.cnet.com/videos/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Nevada     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panels/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 Off With Trade-In Credit, Up to $432 Off Directly     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
- - [At an event, Sergey Brin said Google &quot;definitely messed up&quot; Gemini&#39;s image generation launch and it&#39;s &quot;not our intention&quot; to have it leaning left in many cases &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240304/p21#a240304p21)<!-- TECH:END -->
+ - [Apple Updates 13- and 15-inch MacBook Air with M3 chips video     - CNET](https://www.cnet.com/videos/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [Mind blown](http://9gag.com/gag/awZqA34)
- - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
- - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
- - 👉 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)<!-- MEMES:END -->
+ - 😝 [Seriously.](http://9gag.com/gag/a3ZoRG8)
+ - 😝 [What has become of once thriving South Africa?](http://9gag.com/gag/a2KQoxD)
+ - 💣 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 

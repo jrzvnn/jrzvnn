@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 😝 [Not sure who&#39;s getting scammed. The guy at the call center or the guy who spent 10 hours messing with him](http://9gag.com/gag/abvjzeB)
- - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
- - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
+ - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 💣 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)
+ - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
 
 ---
 

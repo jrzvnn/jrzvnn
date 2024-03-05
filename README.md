@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rufus, Amazon&#39;s AI shopping assistant currently in testing, is mostly useless, and at best is a slight upgrade on searching manually for product recommendations &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240305/p35#a240305p35)
+ - [The Pixel 8a may get a 256GB storage boost — and a price hike](https://www.theverge.com/2024/3/5/24091314/google-pixel-8a-rumor-256-gb-four-colors-price-hike)
+ - [TikTok moves its Creativity Program out of beta, rebranding it as Creator Rewards Program, which requires videos to be longer than a minute to be monetized &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240305/p34#a240305p34)
  - [Ema, a generative AI startup with the goal of building a &quot;universal AI employee&quot; to automate mundane tasks, emerges from stealth with $25M in funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p33#a240305p33)
- - [New York-based RapidSOS, which develops systems to help emergency response teams, raised $75M led by BlackRock, bringing its latest round to a total of $150M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240305/p32#a240305p32)
- - [TikTok’s longer videos are here to stay](https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions)
- - [How to Turn Off Facebook’s Two-Factor Authentication Change](https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/)
- - [Meta’s Quest 2 and Pro headsets now have a lying down mode](https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment)<!-- TECH:END -->
+ - [Nab 2 GearLight Flashlights for Just $10 Right Now     - CNET](https://www.cnet.com/deals/nab-two-gearlight-flashlights-for-just-10-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

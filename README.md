@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A new proposal could ban landlords from charging for cable and internet in bulk](https://www.theverge.com/2024/3/5/24090656/landlords-tenants-bulk-billing-cable-internet-fcc-white-house-competition-council)
  - [Rivian’s smaller R2 electric SUV detailed in website slipup](https://www.theverge.com/2024/3/5/24091012/rivian-r2-electric-suv-specs-leak-range-price)
+ - [You&#39;ve Got Until March 8 to Order Free COVID-19 Tests From USPS     - CNET](https://www.cnet.com/health/youve-got-until-march-8-to-order-free-covid-19-tests-from-usps/#ftag=CAD590a51e)
  - [March SSDI Payment 2024: Are You Getting a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-are-you-getting-a-check-this-week/#ftag=CAD590a51e)
- - [Q&amp;A with Grindr CEO George Arison on future plans, including &quot;&amp;agrave; la carte&quot; travel payments, after Grindr&#39;s stock fell 75% since its November 2022 SPAC merger &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
- - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Grindr CEO George Arison on future plans, including &quot;&amp;agrave; la carte&quot; travel payments, after Grindr&#39;s stock fell 75% since its November 2022 SPAC merger &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

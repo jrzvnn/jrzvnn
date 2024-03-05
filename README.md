@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 💣 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s inexpensive smart thermostat has fallen to its best price in months](https://www.theverge.com/2024/3/5/24090149/amazon-smart-thermostat-samsung-galaxy-s24-m1-macbook-air-deal-sale)
+ - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)
  - [How to Use Apple’s Check In Feature in iOS 17 &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-check-in-iphone-ios-17/)
- - [Apple tops Japan&#39;s declining smartphone market](https://appleinsider.com/articles/24/03/05/apple-tops-japans-declining-smartphone-market?utm_medium=rss)
- - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Our favorite smart home automations](https://www.theverge.com/24087581/smart-home-automations-verge-favorites)
- - [Colombian payments orchestration startup Yuno raised a $25M Series A from DST, a16z, Tiger, and more at a $150M valuation to expand in Asia, Europe, and Africa &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240305/p14#a240305p14)<!-- TECH:END -->
+ - [GM is developing a fleet of hydrogen-powered medium-duty trucks for DOE pilot](https://www.theverge.com/2024/3/5/24090488/gm-hydrogen-fuel-cell-truck-fleet-pilot-doe)
+ - [This year’s Oscar documentary nominees are terrific, and you can stream them all](https://www.theverge.com/24084812/the-oscars-academy-awards-2024-documentary-nominees-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

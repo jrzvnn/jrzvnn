@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to reveal Surface Pro 10 and Surface Laptop 6 later this month](https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs)
  - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
  - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)
  - [Dodge’s first electric muscle car is here](https://www.theverge.com/2024/3/5/24087633/dodge-charger-daytona-ev-specs-photos-muscle)
- - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)
- - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)<!-- TECH:END -->
+ - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

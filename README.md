@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p7#a240305p7)
  - [At an event in Riyadh, AWS says the company plans to spend $5.3B in Saudi Arabia to create new infrastructure by 2026, DataVolt plans to invest $5B, and more &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240305/p6#a240305p6)
  - [Google outlines updates to comply with the EU DMA: changes to search to prioritize large intermediaries and aggregators, new tools for app developers, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240305/p5#a240305p5)
  - [Chinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240305/p4#a240305p4)
- - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)
- - [Sources: Chinese AI startup MiniMax raised $600M+ led by Alibaba at a $2.5B+ valuation; the round remains in progress and HongShan has committed funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240305/p2#a240305p2)<!-- TECH:END -->
+ - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn good boy](http://9gag.com/gag/avQbo0O)
- - 😝 [Word](http://9gag.com/gag/aYVzyZO)
- - 💣 [Next level dolphin skills](http://9gag.com/gag/aoKB5N3)
+ - 😝 [Next level dolphin skills](http://9gag.com/gag/aoKB5N3)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 💣 [Word](http://9gag.com/gag/aYVzyZO)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
  - 👉 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)<!-- MEMES:END -->
 

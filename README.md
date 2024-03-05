@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
- - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
- - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
+ - 😝 [Makes sense? 🤔](https://www.reddit.com/r/funny/comments/1b77unt/makes_sense/)
+ - 💣 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 😝 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 👉 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)<!-- MEMES:END -->
 
 ---
 

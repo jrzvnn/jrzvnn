@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 😝 [Women.](http://9gag.com/gag/aKEbVZZ)
- - 💣 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 😝 [Let&#39;s continue](http://9gag.com/gag/anzA47B)
+ - 😝 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
+ - 👉 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to end its Android apps on Windows 11 subsystem in 2025](https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support)
  - [Insider cybersecurity risk startup Dtex Systems, which uses ML to monitor networks, raised a $50M Series E from CapitalG at a $400M post-money valuation &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240305/p22#a240305p22)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [A BlackCat ransomware gang website shows a takedown notice; the UK NCA denies involvement and experts suggest an exit scam after an alleged UnitedHealth payment &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p21#a240305p21)
- - [Apple cuts iPhone shipments over reduced China demand](https://appleinsider.com/articles/24/03/05/apple-cuts-iphone-shipments-over-reduced-china-demand?utm_medium=rss)
- - [Omega 2024 White Speedmaster Moonwatch: Specs, Price, Availability](https://www.wired.com/story/white-omega-speedmaster-moonwatch-2024/)<!-- TECH:END -->
+ - [Apple cuts iPhone shipments over reduced China demand](https://appleinsider.com/articles/24/03/05/apple-cuts-iphone-shipments-over-reduced-china-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

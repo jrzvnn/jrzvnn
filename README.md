@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
- - [Apple updates rules surrounding EU DMA compliance to address developer concerns](https://appleinsider.com/articles/24/03/05/apple-updates-rules-surrounding-eu-dma-compliance-to-address-developer-concerns?utm_medium=rss)
- - [IO Research, a blockchain startup focused on AI infrastructure, raised a $30M Series A led by Hack VC, with Solana Ventures and OKX Ventures among investors &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240305/p26#a240305p26)
- - [The COO of Binance US testified in Dec. 2023 that after the SEC sued Binance in June, Binance US laid off two-thirds of its staff and revenue plunged ~75% &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240305/p25#a240305p25)
- - [Now all Signal users can share usernames instead of phone numbers](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)<!-- TECH:END -->
+ - [How to create and save Chrome tab groups](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)
+ - [Accenture says it plans to acquire online learning company Udacity and announces LearnVantage, a learning suite it pledges to expand with $1B over three years &lpar;Diane Brady/Fortune&rpar;](http://www.techmeme.com/240305/p28#a240305p28)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+ - [Spotify will show users pricing options outside of its iOS app in the EU — if Apple lets it](https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app)
+ - [After the Change Healthcare attack, the US will relax some Medicare prescription rules and consider advance payments; some providers begin furloughing staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240305/p27#a240305p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

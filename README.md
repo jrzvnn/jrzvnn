@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s audio and video calls, which are enabled by default, are peer-to-peer, revealing users&#39; IP addresses to each other, unless they enable a privacy setting &lpar;TechCrunch&rpar;](http://www.techmeme.com/240304/p25#a240304p25)
  - [Over 600 Google Workers Urge the Company to Cut Ties With Israeli Tech Conference](https://www.wired.com/story/google-workers-letter-cut-ties-israeli-tech-conference/)
  - [Oregon is about to sign — or veto — the strongest right-to-repair law yet](https://www.theverge.com/2024/3/4/24090828/oregon-right-to-repair-sb-1596-parts-pairing)
  - [Sources: US officials told AMD that the company&#39;s AI chip for the Chinese market was still too powerful and it must obtain a license in order to sell it &lpar;Bloomberg&rpar;](http://www.techmeme.com/240304/p24#a240304p24)
- - [OpenAI updates ChatGPT with a &quot;read aloud&quot; feature supporting 37 languages, allowing it to read its responses out loud, available on the web and mobile apps &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240304/p23#a240304p23)
- - [Microsoft files a motion to dismiss The NYT&#39;s copyright lawsuit, accusing it of &quot;doomsday futurology&quot; for predicting that ChatGPT could ruin the news business &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p22#a240304p22)<!-- TECH:END -->
+ - [OpenAI updates ChatGPT with a &quot;read aloud&quot; feature supporting 37 languages, allowing it to read its responses out loud, available on the web and mobile apps &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240304/p23#a240304p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

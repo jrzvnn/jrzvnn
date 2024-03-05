@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Release dates and trailers for the biggest streaming movies and TV shows in 2024](https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar)
+ - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)
+ - [Dodge’s first electric muscle car is here](https://www.theverge.com/2024/3/5/24087633/dodge-charger-daytona-ev-specs-photos-muscle)
  - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)
- - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)
- - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
- - [Kayak’s new AI features will let users double-check flights with a screenshot](https://www.theverge.com/2024/3/5/24090945/kayak-ai-chatbot-travel-chatgpt)
- - [Bitcoin surpassed $69K, eclipsing its previous all-time high set on November 10, 2021, with US spot bitcoin ETFs a likely catalyst of the latest bull run &lpar;CoinDesk&rpar;](http://www.techmeme.com/240305/p16#a240305p16)<!-- TECH:END -->
+ - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

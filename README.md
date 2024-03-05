@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Word](http://9gag.com/gag/aYVzyZO)
- - 😝 [Clown-world-files](http://9gag.com/gag/ay2yMeY)
+ - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
  - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)<!-- MEMES:END -->
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 

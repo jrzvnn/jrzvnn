@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 😝 [Hello it me again man who cant cook rice, thank you everyone](http://9gag.com/gag/aDYBWE7)
+ - 💣 [Women.](http://9gag.com/gag/aKEbVZZ)
  - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 😝 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
- - 💣 [Let\u2019s check in on Liberia Africa, yesterday](http://9gag.com/gag/adP3qQZ)
- - 😝 [Just 89 dollars as a carry on](http://9gag.com/gag/aeQXYxb)
- - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
+ - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
 
 ---
 

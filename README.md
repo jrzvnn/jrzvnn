@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No thanks.](http://9gag.com/gag/aA0nDXR)
- - 😝 [....](http://9gag.com/gag/avQbONO)
- - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
+ - 😝 [Bamboozled](http://9gag.com/gag/aVbGYG8)
+ - 😝 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
+ - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 😝 [Seriously.](http://9gag.com/gag/a3ZoRG8)
+ - 👉 [She\u00b4s on to something](http://9gag.com/gag/aMEpj5M)<!-- MEMES:END -->
 
 ---
 

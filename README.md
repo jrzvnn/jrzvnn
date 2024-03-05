@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The COO of Binance US testified in Dec. 2023 that after the SEC sued Binance in June, Binance US laid off two-thirds of its staff and revenue plunged ~75% &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240305/p25#a240305p25)
  - [Now all Signal users can share usernames instead of phone numbers](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)
  - [Waze will warn you about speed bumps and sharp curves soon](https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles)
  - [Makers of Popular Switch Emulator Yuzu Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://www.wired.com/story/nintendo-switch-emulator-yuzu-lawsuit-24-million-dollar-settlement/)
- - [The 24 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
+ - [The 24 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

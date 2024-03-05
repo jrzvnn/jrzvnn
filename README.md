@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
  - [Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy](https://www.wired.com/story/registered-agents-inc-fake-personas/)
  - [iOS 17.4 launches with new EU App Store business terms, with some last-minute tweaks like no longer needing a &amp;euro;1M stand-by letter of credit to start a store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240305/p24#a240305p24)
  - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
- - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)
- - [GE Profile and Café smart ovens are getting a new food recognition feature](https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition)<!-- TECH:END -->
+ - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

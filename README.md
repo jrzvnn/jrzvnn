@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The IRS Is Holding $20M in Unclaimed Stimulus Check Payments. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/didnt-file-a-tax-return-in-2021-heres-how-to-claim-your-2020-tax-refund/#ftag=CAD590a51e)
- - [Lomi Smart Food Upcycler     - CNET](https://www.cnet.com/news/lomi-smart-food-upcycler-dpnl/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in New Hampshire     - CNET](https://www.cnet.com/home/energy-and-utilities/new-hampshire-solar-panels/#ftag=CAD590a51e)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Hidrate Spark PRO Smart Water Bottle     - CNET](https://www.cnet.com/health/personal-care/hidrate-spark-pro-smart-water-bottle-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft files a motion to dismiss The NYT&#39;s copyright lawsuit, accusing it of &quot;doomsday futurology&quot; for predicting that ChatGPT could ruin the news business &lpar;Financial Times&rpar;](http://www.techmeme.com/240304/p22#a240304p22)
+ - [Apple Updates 13- and 15-inch MacBook Air with M3 chips video     - CNET](https://www.cnet.com/videos/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Nevada     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panels/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 Off With Trade-In Credit, Up to $432 Off Directly     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
+ - [At an event, Sergey Brin said Google &quot;definitely messed up&quot; Gemini&#39;s image generation launch and it&#39;s &quot;not our intention&quot; to have it leaning left in many cases &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240304/p21#a240304p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

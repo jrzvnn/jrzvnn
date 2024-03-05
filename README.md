@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
  - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)
  - [6 Months After New York Banned Airbnb, New Jersey Is Doing Great](https://www.wired.com/story/six-months-after-new-york-banned-airbnb-new-jersey/)
  - [Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe](https://www.theverge.com/2024/3/5/24091043/euro-ncap-safety-rating-europe-2026-touchscreen-buttons-dials)
- - [Nothing Phone &lpar;2a&rpar; Review: The New Budget Standard](https://www.wired.com/review/nothing-phone-2a/)
- - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)<!-- TECH:END -->
+ - [Nothing Phone &lpar;2a&rpar; Review: The New Budget Standard](https://www.wired.com/review/nothing-phone-2a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

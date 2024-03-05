@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, Instagram, and Threads are all suffering an outage, which seemed to start around 10am ET &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p17#a240305p17)
+ - [The US sanctions the spyware group Intellexa Consortium&#39;s founder and one of his business partners, the first time it has sanctioned people over spyware misuse &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240305/p18#a240305p18)
  - [Facebook, Instagram, and Threads are all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
  - [Kayak’s new AI features will let users double-check flights with a screenshot](https://www.theverge.com/2024/3/5/24090945/kayak-ai-chatbot-travel-chatgpt)
- - [Bitcoin surpassed $69K, eclipsing its previous all-time high set on November 10, 2021, with US spot bitcoin ETFs a likely catalyst of the latest bull run &lpar;CoinDesk&rpar;](http://www.techmeme.com/240305/p16#a240305p16)
- - [How to Open Spotify Links If You Aren’t a Spotify User](https://www.wired.com/story/how-to-open-spotify-links-if-you-dont-have-spotify/)
- - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Bitcoin surpassed $69K, eclipsing its previous all-time high set on November 10, 2021, with US spot bitcoin ETFs a likely catalyst of the latest bull run &lpar;CoinDesk&rpar;](http://www.techmeme.com/240305/p16#a240305p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

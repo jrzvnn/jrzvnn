@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 😝 [Hello it me again man who cant cook rice, thank you everyone](http://9gag.com/gag/aDYBWE7)
- - 💣 [Women.](http://9gag.com/gag/aKEbVZZ)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 👉 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)<!-- MEMES:END -->
+ - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 😝 [Mind blown](http://9gag.com/gag/awZqA34)
+ - 💣 [Or similar countries](http://9gag.com/gag/adP3qMV)
+ - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 👉 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)<!-- MEMES:END -->
 
 ---
 

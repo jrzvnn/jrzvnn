@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ema, a generative AI startup with the goal of building a &quot;universal AI employee&quot; to automate mundane tasks, emerges from stealth with $25M in funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p33#a240305p33)
  - [New York-based RapidSOS, which develops systems to help emergency response teams, raised $75M led by BlackRock, bringing its latest round to a total of $150M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240305/p32#a240305p32)
  - [TikTok’s longer videos are here to stay](https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions)
  - [How to Turn Off Facebook’s Two-Factor Authentication Change](https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/)
- - [Meta’s Quest 2 and Pro headsets now have a lying down mode](https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment)
- - [Amid regulatory pressure around cloud vendor lock-in, AWS follows Google and drops egress fees for moving data out of its ecosystem; Microsoft&#39;s fees remain &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240305/p31#a240305p31)<!-- TECH:END -->
+ - [Meta’s Quest 2 and Pro headsets now have a lying down mode](https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

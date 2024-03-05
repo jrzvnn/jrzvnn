@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [March SSDI Payment 2024: Are You Getting a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-are-you-getting-a-check-this-week/#ftag=CAD590a51e)
  - [Q&amp;A with Grindr CEO George Arison on future plans, including &quot;&amp;agrave; la carte&quot; travel payments, after Grindr&#39;s stock fell 75% since its November 2022 SPAC merger &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
  - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)
  - [Colorado Solar Incentives: Tax Breaks, Rebates, Net Metering and More     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-incentives-tax-breaks-net-metering-rebates-and-more/#ftag=CAD590a51e)
- - [Best Solar Shingles for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-shingles/#ftag=CAD590a51e)
- - [Topsort, whose API allows small businesses to simplify their ad campaigns, raised a $20M Series A led by Upload Ventures, bringing its total raised to $28.6M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240304/p28#a240304p28)<!-- TECH:END -->
+ - [Best Solar Shingles for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-shingles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

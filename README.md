@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JP Morgan: Apple&#39;s China problems are increasing, but recovery expected](https://appleinsider.com/articles/24/03/05/jp-morgan-apples-china-problems-are-increasing-but-recovery-expected?utm_medium=rss)
- - [Netflix continues run of excellent indie games with Hades in March](https://www.theverge.com/2024/3/5/24091183/netflix-games-hades-release-date-ios-march)
- - [Google is starting to squash more spam and more AI in search results](https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content)
- - [Sources: Microsoft plans to unveil Surface Pro 10 with an OLED screen and Surface Laptop 6, both with Intel Core Ultra and Snapdragon X Elite chips, on March 21 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240305/p19#a240305p19)
- - [7 Free and Easy Ways You Can Charge Your EV     - CNET](https://www.cnet.com/roadshow/news/7-free-and-easy-ways-you-can-charge-your-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Blackcat ransomware gang website shows a takedown notice; the UK NCA denies involvement and experts suggest an exit scam after an alleged UnitedHealth payment &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p21#a240305p21)
+ - [Apple cuts iPhone shipments over reduced China demand](https://appleinsider.com/articles/24/03/05/apple-cuts-iphone-shipments-over-reduced-china-demand?utm_medium=rss)
+ - [Google rolls out updates to its Search ranking, including downranking content that summarizes others&#39; work, to counter the spread of AI content in results &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240305/p20#a240305p20)
+ - [Facebook, Instagram, and Threads were all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
+ - [JP Morgan: Apple&#39;s China problems are increasing, but recovery expected](https://appleinsider.com/articles/24/03/05/jp-morgan-apples-china-problems-are-increasing-but-recovery-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

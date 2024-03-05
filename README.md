@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Open Spotify Links If You Aren’t a Spotify User](https://www.wired.com/story/how-to-open-spotify-links-if-you-dont-have-spotify/)
  - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)
  - [Israel-based VC firm Team8 raised $500M from Microsoft, Cisco, and others for funds that will invest in 30+ cyber, data, AI, health, and other Israeli startups &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240305/p15#a240305p15)
  - [The MacBook Air’s wedge is truly gone — and I miss it already](https://www.theverge.com/2024/3/5/24090112/macbook-air-wedge-laptops-design)
- - [Amazon’s inexpensive smart thermostat has fallen to its best price in months](https://www.theverge.com/2024/3/5/24090149/amazon-smart-thermostat-samsung-galaxy-s24-m1-macbook-air-deal-sale)
- - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)<!-- TECH:END -->
+ - [Amazon’s inexpensive smart thermostat has fallen to its best price in months](https://www.theverge.com/2024/3/5/24090149/amazon-smart-thermostat-samsung-galaxy-s24-m1-macbook-air-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

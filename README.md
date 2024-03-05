@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 💣 [This indian street food has the best reviews for quality and hygiene](http://9gag.com/gag/a7qjrKq)
+ - 😝 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
+ - 😝 [Happy for you two](http://9gag.com/gag/a4oMZOZ)
+ - 💣 [Lol.](http://9gag.com/gag/a5XLbny)
  - 😝 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
- - 👉 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)<!-- MEMES:END -->
+ - 👉 [Women.](http://9gag.com/gag/aKEbVZZ)<!-- MEMES:END -->
 
 ---
 

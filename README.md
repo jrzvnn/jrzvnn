@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
- - [Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy](https://www.wired.com/story/registered-agents-inc-fake-personas/)
- - [iOS 17.4 launches with new EU App Store business terms, with some last-minute tweaks like no longer needing a &amp;euro;1M stand-by letter of credit to start a store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240305/p24#a240305p24)
- - [Max is getting in on the big streaming password crackdown](https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix)
- - [Tidal’s subscription is getting simpler and cheaper — yes, you read that right](https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos)<!-- TECH:END -->
+ - [Now all Signal users can share usernames instead of phone numbers](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta)
+ - [Waze will warn you about speed bumps and sharp curves soon](https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles)
+ - [Makers of Popular Switch Emulator Yuzu Agree to Pay $2.4 Million to Settle Nintendo Lawsuit](https://www.wired.com/story/nintendo-switch-emulator-yuzu-lawsuit-24-million-dollar-settlement/)
+ - [The 24 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

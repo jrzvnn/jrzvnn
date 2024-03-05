@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Blackcat ransomware gang website shows a takedown notice; the UK NCA denies involvement and experts suggest an exit scam after an alleged UnitedHealth payment &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p21#a240305p21)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [A BlackCat ransomware gang website shows a takedown notice; the UK NCA denies involvement and experts suggest an exit scam after an alleged UnitedHealth payment &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p21#a240305p21)
  - [Apple cuts iPhone shipments over reduced China demand](https://appleinsider.com/articles/24/03/05/apple-cuts-iphone-shipments-over-reduced-china-demand?utm_medium=rss)
- - [Google rolls out updates to its Search ranking, including downranking content that summarizes others&#39; work, to counter the spread of AI content in results &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240305/p20#a240305p20)
- - [Facebook, Instagram, and Threads were all down](https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out)
- - [JP Morgan: Apple&#39;s China problems are increasing, but recovery expected](https://appleinsider.com/articles/24/03/05/jp-morgan-apples-china-problems-are-increasing-but-recovery-expected?utm_medium=rss)<!-- TECH:END -->
+ - [Omega 2024 White Speedmaster Moonwatch: Specs, Price, Availability](https://www.wired.com/story/white-omega-speedmaster-moonwatch-2024/)
+ - [Google rolls out updates to its Search ranking, including downranking content that summarizes others&#39; work, to counter the spread of AI content in results &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240305/p20#a240305p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

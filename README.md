@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - 😝 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)
+ - 😝 [Would on toph VA](http://9gag.com/gag/aVbGwX8)
+ - 💣 [Pain](http://9gag.com/gag/a2KQ709)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
  - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
 

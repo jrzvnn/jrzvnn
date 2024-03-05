@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aEqeP8x)
- - 😝 [Would on toph VA](http://9gag.com/gag/aVbGwX8)
- - 💣 [Pain](http://9gag.com/gag/a2KQ709)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 😝 [7\u00a0\u00a0minutes is all you need](http://9gag.com/gag/aGEPjKw)
+ - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 ---
 

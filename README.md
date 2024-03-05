@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with the CEO of Grindr, whose stock fell 75% since its SPAC merger in November 2022, on future plans, including an &quot;&amp;agrave; la carte&quot; travel payments service &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
+ - [Q&amp;A with Grindr CEO George Arison on future plans, including &quot;&amp;agrave; la carte&quot; travel payments, after Grindr&#39;s stock fell 75% since its November 2022 SPAC merger &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p1#a240305p1)
  - [Best Solar Inverters of March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)
  - [Colorado Solar Incentives: Tax Breaks, Rebates, Net Metering and More     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-incentives-tax-breaks-net-metering-rebates-and-more/#ftag=CAD590a51e)
  - [Best Solar Shingles for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-shingles/#ftag=CAD590a51e)

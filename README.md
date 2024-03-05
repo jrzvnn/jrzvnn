@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
- - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 💣 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 😝 [A Hamas fighter&#39;s GoPro captured his last moments before drowning in a flooded tunnel of the Gaza Metro](http://9gag.com/gag/aqev1qj)
+ - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
+ - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
 
 ---
 

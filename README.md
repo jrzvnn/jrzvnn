@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bamboozled](http://9gag.com/gag/aVbGYG8)
  - 😝 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
+ - 😝 [House of Bosch](http://9gag.com/gag/axop7rL)
  - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [Seriously.](http://9gag.com/gag/a3ZoRG8)
- - 👉 [She\u00b4s on to something](http://9gag.com/gag/aMEpj5M)<!-- MEMES:END -->
+ - 😝 [She\u00b4s on to something](http://9gag.com/gag/aMEpj5M)
+ - 👉 [Literally unplayable](http://9gag.com/gag/aYVzYGO)<!-- MEMES:END -->
 
 ---
 

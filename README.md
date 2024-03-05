@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
- - 😝 [House of Bosch](http://9gag.com/gag/axop7rL)
- - 💣 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [She\u00b4s on to something](http://9gag.com/gag/aMEpj5M)
- - 👉 [Literally unplayable](http://9gag.com/gag/aYVzYGO)<!-- MEMES:END -->
+ - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
+ - 😝 [Nacho Nacho Nacho Nacho](http://9gag.com/gag/a8qryD3)
+ - 💣 [Emma Stone&#39;s `oops!` moment in `The Amazing Spider-Man 2` was a genuine mistake that made it into the final cut of the movie.](http://9gag.com/gag/a5XLn2g)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 

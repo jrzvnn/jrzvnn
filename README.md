@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s Quest 2 and Pro headsets now have a lying down mode](https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment)
+ - [Amid regulatory pressure around cloud vendor lock-in, AWS follows Google and drops egress fees for moving data out of its ecosystem; Microsoft&#39;s fees remain &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240305/p31#a240305p31)
  - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)
  - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
- - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
- - [Mill’s $999 high-tech waste bin dumps the subscription](https://www.theverge.com/2024/3/5/24091220/mill-smart-kitchen-trash-can-second-generation-price-specs)
- - [The Nintendo DS emulator Drastic is now free as Yuzu lawsuit fallout begins](https://www.theverge.com/2024/3/5/24091561/nintendo-lawsuit-fallout-yuzu)<!-- TECH:END -->
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

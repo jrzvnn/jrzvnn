@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts now includes transcripts](https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update)
+ - [Apple Card, Savings data now available in more third-party budget apps](https://appleinsider.com/articles/24/03/05/apple-card-savings-data-now-available-in-more-third-party-budget-apps?utm_medium=rss)
  - [Mill’s $999 high-tech waste bin dumps the subscription](https://www.theverge.com/2024/3/5/24091220/mill-smart-kitchen-trash-can-second-generation-price-specs)
  - [The Nintendo DS emulator Drastic is now free as Yuzu lawsuit fallout begins](https://www.theverge.com/2024/3/5/24091561/nintendo-lawsuit-fallout-yuzu)
- - [In response to the EU&#39;s ruling, Spotify submits an app update for the EU to provide pricing info within its iOS app and link users to its subscription options &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p29#a240305p29)
- - [Google Is Finally Trying to Kill AI Clickbait](https://www.wired.com/story/google-search-artificial-intelligence-clickbait-spam-crackdown/)
- - [How to create and save Chrome tab groups](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)<!-- TECH:END -->
+ - [In response to the EU&#39;s ruling, Spotify submits an app update for the EU to provide pricing info within its iOS app and link users to its subscription options &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p29#a240305p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New York-based RapidSOS, which develops systems to help emergency response teams, raised $75M led by BlackRock, bringing its latest round to a total of $150M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240305/p32#a240305p32)
  - [TikTok’s longer videos are here to stay](https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions)
+ - [How to Turn Off Facebook’s Two-Factor Authentication Change](https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/)
  - [Meta’s Quest 2 and Pro headsets now have a lying down mode](https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment)
- - [Amid regulatory pressure around cloud vendor lock-in, AWS follows Google and drops egress fees for moving data out of its ecosystem; Microsoft&#39;s fees remain &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240305/p31#a240305p31)
- - [CrowdStrike reports Q4 revenue up 33% YoY to $845M, vs. $839M est., and agrees to buy cloud security company Flow Security for an undisclosed price; CRWD up 20% &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240305/p30#a240305p30)<!-- TECH:END -->
+ - [Amid regulatory pressure around cloud vendor lock-in, AWS follows Google and drops egress fees for moving data out of its ecosystem; Microsoft&#39;s fees remain &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240305/p31#a240305p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

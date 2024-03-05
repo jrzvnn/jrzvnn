@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare announces Firewall for AI, a protection layer that companies can deploy in front of LLMs to identify abuses before they can reach the models &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240305/p9#a240305p9)
- - [In just a few months, Google spent well over $1B to settle lawsuits, including $700M on Play Store claims, as the company battles the US DOJ in two other cases &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240305/p8#a240305p8)
- - [Apple drops to fourth place in China&#39;s smartphone sales](https://appleinsider.com/articles/24/03/05/apple-drops-to-fourth-place-in-chinas-smartphone-sales?utm_medium=rss)
- - [Mortgage Refinance Rates on March 5, 2024: Rates Tick Even Lower     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-march-5-2024-rates-tick-even-lower/#ftag=CAD590a51e)
- - [Today&#39;s Mortgage Rates on March 5, 2024: Rates Are Decreasing Steadily for Homeseekers     - CNET](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-on-march-5-2024-rates-are-decreasing-steadily-for-homeseekers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing debuts the 6.7&quot; Phone &lpar;2a&rpar;, its first budget phone, with a 5,000mAh battery and MediaTek chip, starting at &amp;pound;319 with 8GB of RAM and 128GB of storage &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240305/p10#a240305p10)
+ - [6 Months After New York Banned Airbnb, New Jersey Is Doing Great](https://www.wired.com/story/six-months-after-new-york-banned-airbnb-new-jersey/)
+ - [Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe](https://www.theverge.com/2024/3/5/24091043/euro-ncap-safety-rating-europe-2026-touchscreen-buttons-dials)
+ - [Nothing Phone &lpar;2a&rpar; Review: The New Budget Standard](https://www.wired.com/review/nothing-phone-2a/)
+ - [The Nothing Phone 2A proves thoughtful design can come at a budget price](https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

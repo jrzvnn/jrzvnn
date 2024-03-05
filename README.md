@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/a5XLbny)
- - 😝 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)
- - 💣 [She&#39;ll be out of business that way.](http://9gag.com/gag/aeQXYLQ)
- - 😝 [Gender reveal](http://9gag.com/gag/aYVzKZ0)
- - 👉 [Or similar countries](http://9gag.com/gag/adP3qMV)<!-- MEMES:END -->
+ - 😝 [Better than waiting to charge your EV car](http://9gag.com/gag/aMEpZ06)
+ - 😝 [Bamboozled](http://9gag.com/gag/aVbGYG8)
+ - 💣 [And with an assistant too...](http://9gag.com/gag/aeQXrNq)
+ - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
+ - 👉 [She\u00b4s on to something](http://9gag.com/gag/aMEpj5M)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [A profile of Oregon-based Agility Robotics, which tests its humanoid warehouse robots in the real world and has named ex-Magic Leap CEO Peggy Johnson as its CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240304/p27#a240304p27)
  - [Mews, which offers cloud-based hotel management tools, raised $110M led by Kinnevik at a $1.2B post-money valuation; the company says it&#39;s not yet profitable &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240304/p26#a240304p26)
  - [X&#39;s audio and video calls, which are enabled by default, are peer-to-peer, revealing users&#39; IP addresses to each other, unless they enable a privacy setting &lpar;TechCrunch&rpar;](http://www.techmeme.com/240304/p25#a240304p25)
- - [Best Pizza Ovens for 2024, All Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IRS Direct File Is a Good Start for Free Federal Tax Filing, But It Needs to Expand Quickly     - CNET](https://www.cnet.com/personal-finance/taxes/irs-direct-file-is-a-good-start-for-free-federal-tax-filing-but-it-needs-to-expand-quickly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

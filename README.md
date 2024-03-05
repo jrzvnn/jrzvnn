@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush: AI &amp; pent-up iPhone 16 demand outweigh concerns over China sales](https://appleinsider.com/articles/24/03/05/wedbush-ai-pent-up-iphone-16-demand-outweigh-concerns-over-china-sales?utm_medium=rss)
+ - [Israel-based VC firm Team8 raised $500M from Microsoft, Cisco, and others for funds that will invest in 30+ cyber, data, AI, health, and other Israeli startups &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240305/p15#a240305p15)
+ - [The MacBook Air’s wedge is truly gone — and I miss it already](https://www.theverge.com/2024/3/5/24090112/macbook-air-wedge-laptops-design)
  - [Amazon’s inexpensive smart thermostat has fallen to its best price in months](https://www.theverge.com/2024/3/5/24090149/amazon-smart-thermostat-samsung-galaxy-s24-m1-macbook-air-deal-sale)
- - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)
- - [How to Use Apple’s Check In Feature in iOS 17 &lpar;2024&rpar;](https://www.wired.com/story/how-to-use-check-in-iphone-ios-17/)
- - [GM is developing a fleet of hydrogen-powered medium-duty trucks for DOE pilot](https://www.theverge.com/2024/3/5/24090488/gm-hydrogen-fuel-cell-truck-fleet-pilot-doe)
- - [This year’s Oscar documentary nominees are terrific, and you can stream them all](https://www.theverge.com/24084812/the-oscars-academy-awards-2024-documentary-nominees-streaming)<!-- TECH:END -->
+ - [AI gadgets, bendy phones, and more from MWC](https://www.theverge.com/2024/3/5/24090759/humane-pin-nothing-2a-transparent-lenovo-laptop-mwc-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

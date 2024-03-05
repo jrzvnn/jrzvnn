@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young woman with cancer recorded her recovery process and the amazing result](http://9gag.com/gag/anzAjNn)
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 💣 [Mickey Mouse &lpar;a.k.a. Femke Bol&rpar; has just broken the 400m indoor world record for The Netherlands!](http://9gag.com/gag/aEqeBge)
+ - 😝 [Please\u2026\u2026](http://9gag.com/gag/aVbGwmd)
+ - 😝 [Seriously.](http://9gag.com/gag/a3ZoRG8)
+ - 💣 [Damn good boy](http://9gag.com/gag/avQbo0O)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [`But we sell to farmers`](http://9gag.com/gag/aYVz4Q0)<!-- MEMES:END -->
+ - 👉 [Next level dolphin skills](http://9gag.com/gag/aoKB5N3)<!-- MEMES:END -->
 
 ---
 

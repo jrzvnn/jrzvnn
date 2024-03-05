@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Chinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240305/p4#a240305p4)
  - [UK digital bank Monzo raised $430M led by Alphabet&#39;s CapitalG at a $5B valuation, up from $4.5B in December 2021, and plans to use funds to expand in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/240305/p3#a240305p3)
  - [Sources: Chinese AI startup MiniMax raised $600M+ led by Alibaba at a $2.5B+ valuation; the round remains in progress and HongShan has committed funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240305/p2#a240305p2)
- - [A new proposal could ban landlords from charging for cable and internet in bulk](https://www.theverge.com/2024/3/5/24090656/landlords-tenants-bulk-billing-cable-internet-fcc-white-house-competition-council)<!-- TECH:END -->
+ - [Apple&#39;s Refreshed iPhone Cases and Apple Watch Band Come in Earthy Pastels     - CNET](https://www.cnet.com/tech/apples-refreshed-iphone-cases-and-apple-watch-band-come-in-earthy-pastels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

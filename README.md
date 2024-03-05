@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo DS emulator Drastic is now free as Yuzu lawsuit fallout begins](https://www.theverge.com/2024/3/5/24091561/nintendo-lawsuit-fallout-yuzu)
+ - [In response to the EU&#39;s ruling, Spotify submits an app update for the EU to provide pricing info within its iOS app and link users to its subscription options &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p29#a240305p29)
  - [Google Is Finally Trying to Kill AI Clickbait](https://www.wired.com/story/google-search-artificial-intelligence-clickbait-spam-crackdown/)
  - [How to create and save Chrome tab groups](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)
- - [Accenture says it plans to acquire online learning company Udacity and announces LearnVantage, a learning suite it pledges to expand with $1B over three years &lpar;Diane Brady/Fortune&rpar;](http://www.techmeme.com/240305/p28#a240305p28)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
- - [Spotify will show users pricing options outside of its iOS app in the EU — if Apple lets it](https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app)<!-- TECH:END -->
+ - [Accenture says it plans to acquire online learning company Udacity and announces LearnVantage, a learning suite it pledges to expand with $1B over three years &lpar;Diane Brady/Fortune&rpar;](http://www.techmeme.com/240305/p28#a240305p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

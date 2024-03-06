@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 😝 [Sweet Baby Inc detected &gt;&gt;&gt; This is how you use the curator list to avoid shit games :&rpar;](http://9gag.com/gag/a1P4r6w)
+ - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
+ - 👉 [Someone is missing](http://9gag.com/gag/aGEPze7)<!-- MEMES:END -->
 
 ---
 

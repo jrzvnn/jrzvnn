@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says Apple removed its iOS developer account, hampering its app store plans, and shares a letter from Apple lawyers calling Epic &quot;verifiably untrustworthy&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240306/p24#a240306p24)
  - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)
  - [Microsoft AI engineer warns FTC about Copilot Designer safety concerns](https://www.theverge.com/2024/3/6/24092191/microsoft-ai-engineer-copilot-designer-ftc-safety-concerns)
  - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)
- - [Ghost of Tsushima is coming to PC in May](https://www.theverge.com/2024/3/6/24092291/ghost-of-tsushima-directors-cut-pc-release-date-steam)
- - [Inside Election Conspiracy Groups on Super Tuesday](https://www.wired.com/story/election-conspiracy-groups-on-super-tuesday/)<!-- TECH:END -->
+ - [Ghost of Tsushima is coming to PC in May](https://www.theverge.com/2024/3/6/24092291/ghost-of-tsushima-directors-cut-pc-release-date-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

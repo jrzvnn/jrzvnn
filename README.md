@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro won?](http://9gag.com/gag/aWGVxB4)
- - 😝 [Wife material](http://9gag.com/gag/aVbG042)
- - 💣 [Fallout ?](http://9gag.com/gag/a8qrqdO)
+ - 😝 [Fallout ?](http://9gag.com/gag/a8qrqdO)
+ - 😝 [I&#39;m in this picture and I don&#39;t like it](http://9gag.com/gag/ap9egGn)
+ - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
+ - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 
 ---
 

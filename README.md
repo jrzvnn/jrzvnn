@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
+ - 😝 [....](http://9gag.com/gag/avQbONO)
  - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 💣 [Stay positive](http://9gag.com/gag/ap9eg2D)
+ - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Well oops ok](http://9gag.com/gag/aoKBMnm)<!-- MEMES:END -->
+ - 👉 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)<!-- MEMES:END -->
 
 ---
 

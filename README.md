@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
- - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
+ - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
 
 ---
 

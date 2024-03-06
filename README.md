@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)
+ - [IDC: the global market for AR/VR headsets fell 23.5% YoY in 2023 but grew 130.4% YoY in Q4, when Meta&#39;s share surpassed 60%, up from less than 40% in Q4 2022 &lpar;Brian Fagioli/BetaNews&rpar;](http://www.techmeme.com/240305/p36#a240305p36)
+ - [Best Internet Providers in Fremont, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fremont-ca/#ftag=CAD590a51e)
  - [Twitter’s music label legal trouble might have legs](https://www.theverge.com/2024/3/5/24091667/twitter-music-label-legal-trouble-lawsuit-nmpa)
- - [Rufus, Amazon&#39;s AI shopping assistant currently in testing, is mostly useless, and at best is a slight upgrade on searching manually for product recommendations &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240305/p35#a240305p35)
- - [The Pixel 8a may get a 256GB storage boost — and a price hike](https://www.theverge.com/2024/3/5/24091314/google-pixel-8a-rumor-256-gb-four-colors-price-hike)
- - [TikTok moves its Creativity Program out of beta, rebranding it as Creator Rewards Program, which requires videos to be longer than a minute to be monetized &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240305/p34#a240305p34)
- - [Ema, a generative AI startup with the goal of building a &quot;universal AI employee&quot; to automate mundane tasks, emerges from stealth with $25M in funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240305/p33#a240305p33)<!-- TECH:END -->
+ - [Rufus, Amazon&#39;s AI shopping assistant currently in testing, is mostly useless, and at best is a slight upgrade on searching manually for product recommendations &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240305/p35#a240305p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

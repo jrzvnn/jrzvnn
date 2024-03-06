@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/)
+ - [The German Tesla plant fire is claimed by far-left ‘Volcano Group’](https://www.theverge.com/2024/3/6/24092178/german-tesla-gigafactory-fire-arson-far-left-volcano-vulkan-group)
  - [Stars take you through Steve Martin&#39;s comedy career in new documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
- - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)
- - [In a rare move, Alan Wake 2’s minimum PC requirements have been lowered](https://www.theverge.com/2024/3/6/24092141/alan-wake-2-minimum-pc-requirements-lowered)
- - [Sources: the US presses the Netherlands, Germany, South Korea, and Japan, and other allies to tighten China chip rules, a controversial move drawing resistance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p20#a240306p20)
- - [Microsoft engineer Shane Jones writes to the FTC and Microsoft&#39;s board warning Copilot Designer creates violent and sexual images, ignores copyrights, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p19#a240306p19)<!-- TECH:END -->
+ - [Snag Massive Savings on New Gadgets During Samsung&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-new-gadgets-during-samsungs-spring-sale/#ftag=CAD590a51e)
+ - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)<!-- MEMES:END -->
+ - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
 
 ---
 

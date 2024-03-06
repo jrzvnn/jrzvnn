@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
  - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)
  - [As part of its DMA compliance plan, Google details its program that lets Play Store developers lead EEA users outside their app, including fees of 5% to 17% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p29#a240306p29)
- - [Wine Lovers: This Firstleaf Deal Scores You 6 Bottles of Wine for Just $30     - CNET](https://www.cnet.com/deals/wine-lovers-this-firstleaf-deal-scores-you-6-bottles-of-wine-for-just-30/#ftag=CAD590a51e)
- - [Bitcoin Jumps to New All-Time High: What You Need to Know About Crypto     - CNET](https://www.cnet.com/personal-finance/bitcoin-jumps-to-new-all-time-highs-what-you-need-to-know-about-crypto/#ftag=CAD590a51e)
- - [Best Home Equity Loan Rates for March 2024     - CNET](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wine Lovers: This Firstleaf Deal Scores You 6 Bottles of Wine for Just $30     - CNET](https://www.cnet.com/deals/wine-lovers-this-firstleaf-deal-scores-you-6-bottles-of-wine-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

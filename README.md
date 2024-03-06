@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)
+ - [Microsoft AI engineer warns FTC about Copilot Designer safety concerns](https://www.theverge.com/2024/3/6/24092191/microsoft-ai-engineer-copilot-designer-ftc-safety-concerns)
  - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)
- - [Inside Election Conspiracy Groups on Super Tuesday](https://www.wired.com/story/election-conspiracy-groups-on-super-tuesday/)
- - [Industrial cybersecurity startup Claroty raised $100M in a &quot;pre-IPO round&quot; at an estimated $2.5B valuation and reports $100M ARR, after raising $400M in 2021 &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240306/p23#a240306p23)
- - [Cities Aren’t Prepared for a Crucial Part of Sea-Level Rise: They’re Also Sinking](https://www.wired.com/story/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/)
- - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)<!-- TECH:END -->
+ - [Ghost of Tsushima is coming to PC in May](https://www.theverge.com/2024/3/6/24092291/ghost-of-tsushima-directors-cut-pc-release-date-steam)
+ - [Inside Election Conspiracy Groups on Super Tuesday](https://www.wired.com/story/election-conspiracy-groups-on-super-tuesday/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

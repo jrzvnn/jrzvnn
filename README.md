@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country](http://9gag.com/gag/a1P4PMD)
+ - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
  - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 💣 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 💣 [Dmytro Kuleba, Minister of Foreign Affairs of Ukraine, debunks two Russian lies about NATO in less than 5 minutes.](http://9gag.com/gag/aDYBYg7)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
+ - 👉 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)<!-- MEMES:END -->
 
 ---
 

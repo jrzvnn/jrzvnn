@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sat at a crossroads of indecision that led to Project Titan&#39;s slow death](https://appleinsider.com/articles/24/03/06/apple-sat-at-a-crossroads-of-indecision-that-led-to-project-titans-slow-death?utm_medium=rss)
+ - [5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance](https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/)
  - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)
  - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)
- - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
- - [Reality Check: What Are the Chances the Fed Will Lower Interest Rates This Year?     - CNET](https://www.cnet.com/personal-finance/banking/reality-check-what-are-the-chances-the-fed-will-lower-interest-rates-this-year/#ftag=CAD590a51e)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

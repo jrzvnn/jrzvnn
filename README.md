@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $869](https://appleinsider.com/articles/24/03/06/lowest-price-ever-apples-m2-macbook-air-drops-to-869?utm_medium=rss)
+ - [Stars take you through Steve Martin&#39;s comedy career in new Apple TV+ documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
  - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)
  - [SEC says companies must disclose their greenhouse gas emissions — but not all of them](https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions)
- - [Meta details WhatsApp and Messenger interoperability under the EU&#39;s DMA, saying third-parties must use Signal&#39;s protocol, which Meta already uses for encryption &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p25#a240306p25)
- - [Epic says Apple removed its iOS developer account, hampering its app store plans, and shares a letter from Apple lawyers calling Epic &quot;verifiably untrustworthy&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240306/p24#a240306p24)
- - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)<!-- TECH:END -->
+ - [Meta details WhatsApp and Messenger interoperability under the EU&#39;s DMA, saying third parties must use Signal&#39;s protocol, which Meta already uses for encryption &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p25#a240306p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

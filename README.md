@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
+ - 👉 [Dad cock block](http://9gag.com/gag/aeQXMBW)<!-- MEMES:END -->
 
 ---
 

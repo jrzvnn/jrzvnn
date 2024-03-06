@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
- - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
+ - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Philippine Coast Guard &lpar;PCG&rpar; collision with a China Coast Guard Vessel](http://9gag.com/gag/aL1qvGV)<!-- MEMES:END -->
+ - 👉 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)<!-- MEMES:END -->
 
 ---
 

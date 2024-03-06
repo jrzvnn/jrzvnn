@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)
+ - [SEC says companies must disclose their greenhouse gas emissions — but not all of them](https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions)
+ - [Meta details WhatsApp and Messenger interoperability under the EU&#39;s DMA, saying third-parties must use Signal&#39;s protocol, which Meta already uses for encryption &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p25#a240306p25)
  - [Epic says Apple removed its iOS developer account, hampering its app store plans, and shares a letter from Apple lawyers calling Epic &quot;verifiably untrustworthy&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240306/p24#a240306p24)
- - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)
- - [Microsoft AI engineer warns FTC about Copilot Designer safety concerns](https://www.theverge.com/2024/3/6/24092191/microsoft-ai-engineer-copilot-designer-ftc-safety-concerns)
- - [Steeper price cut drops Apple&#39;s M2 MacBook Air to $899](https://appleinsider.com/articles/24/03/05/steeper-price-cut-drops-apples-m2-macbook-air-to-899?utm_medium=rss)
- - [Ghost of Tsushima is coming to PC in May](https://www.theverge.com/2024/3/6/24092291/ghost-of-tsushima-directors-cut-pc-release-date-steam)<!-- TECH:END -->
+ - [Epic says its iOS game store plans are stalled because Apple banned its developer account](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

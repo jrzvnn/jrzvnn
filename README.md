@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cities Aren’t Prepared for a Crucial Part of Sea-Level Rise: They’re Also Sinking](https://www.wired.com/story/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/)
+ - [Cities are sinking, and it’s making them more vulnerable to climate change](https://www.theverge.com/2024/3/6/24091541/sinking-cities-coast-sea-level-rise-nature-research)
+ - [Netflix’s Avatar: The Last Airbender has been renewed for two more seasons](https://www.theverge.com/2024/3/6/24092243/netflix-avatar-the-last-airbender-season-2-renewal)
  - [CCDH: Midjourney, DreamStudio, ChatGPT Plus, and Microsoft Image Creator created election disinformation in 41% of tests; Midjourney was most likely to do so &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240306/p22#a240306p22)
- - [Apple spotlights Entrepreneur Camp alumni app developers](https://appleinsider.com/articles/24/03/06/apple-spotlights-entrepreneur-camp-alumni-app-developers?utm_medium=rss)
- - [Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say](https://www.wired.com/story/meta-hacked-users-draining-resources/)
- - [Apple Developer Center Singapore offers sessions, labs, and workshops to devs across the region](https://appleinsider.com/articles/24/03/06/apple-developer-center-singapore-offers-sessions-labs-and-workshops-to-devs-across-the-region?utm_medium=rss)
- - [A New Headset Aims to Treat Alzheimer’s With Light and Sound](https://www.wired.com/story/cognito-wearable-device-light-sound-treatment-alzheimers-dementia/)<!-- TECH:END -->
+ - [Apple spotlights Entrepreneur Camp alumni app developers](https://appleinsider.com/articles/24/03/06/apple-spotlights-entrepreneur-camp-alumni-app-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

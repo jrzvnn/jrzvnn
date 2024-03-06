@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 😝 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
+ - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
+ - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
 
 ---
 

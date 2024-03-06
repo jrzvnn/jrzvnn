@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [....](http://9gag.com/gag/avQbONO)
- - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 💣 [Bro won?](http://9gag.com/gag/aWGVxB4)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [The forbidden spares. Not gonna lie. It\u2019s crossed my mind before.](http://9gag.com/gag/awZqBAx)<!-- MEMES:END -->
+ - 👉 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
+ - 😝 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
+ - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - 💣 [Pain](http://9gag.com/gag/a2KQ709)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
+ - 👉 [Dude](http://9gag.com/gag/aXn8gQP)<!-- MEMES:END -->
 
 ---
 

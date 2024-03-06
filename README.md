@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say](https://www.wired.com/story/meta-hacked-users-draining-resources/)
  - [Apple Developer Center Singapore offers sessions, labs, and workshops to devs across the region](https://appleinsider.com/articles/24/03/06/apple-developer-center-singapore-offers-sessions-labs-and-workshops-to-devs-across-the-region?utm_medium=rss)
- - [Sources: a16z expects to raise $6.5B to $7B for a master feeder fund, closing in early April; 50% would go to its fourth growth fund and 10% to its gaming fund &lpar;Axios&rpar;](http://www.techmeme.com/240306/p21#a240306p21)
- - [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/)
- - [The German Tesla plant fire is claimed by far-left ‘Volcano Group’](https://www.theverge.com/2024/3/6/24092178/german-tesla-gigafactory-fire-arson-far-left-volcano-vulkan-group)
- - [Stars take you through Steve Martin&#39;s comedy career in new documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)<!-- TECH:END -->
+ - [A New Headset Aims to Treat Alzheimer’s With Light and Sound](https://www.wired.com/story/cognito-wearable-device-light-sound-treatment-alzheimers-dementia/)
+ - [Mill’s $999 high-tech waste bin dumps its required subscription](https://www.theverge.com/2024/3/5/24091220/mill-smart-kitchen-trash-can-second-generation-price-specs)
+ - [Sources: a16z expects to raise $6.5B to $7B for a master feeder fund, closing in early April; 50% would go to its fourth growth fund and 10% to its gaming fund &lpar;Axios&rpar;](http://www.techmeme.com/240306/p21#a240306p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

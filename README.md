@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As part of its DMA compliance plan, Google details its program that lets Play Store developers lead EEA users outside their app, including fees of 5% to 17% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p29#a240306p29)
- - [Get a PS5 Slim With Marvel&#39;s Spider-Man 2 for Just $450 Right Here, Right Now     - CNET](https://www.cnet.com/deals/get-a-ps5-slim-with-marvels-spider-man-2-for-just-450-right-here-right-now/#ftag=CAD590a51e)
- - [A 62-Year-Old German Man Got 217 Covid Shots—and Was Totally Fine](https://www.wired.com/story/man-gets-217-covid-vaccine-shots-totally-fine/)
- - [Why the US Added a Record Amount of Solar Power in 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-us-added-a-record-amount-of-solar-power-in-2023/#ftag=CAD590a51e)
- - [In a letter, 41 state AGs call on Meta to address the &quot;dramatic increase&quot; in Facebook and Instagram account takeovers and say hackers buy ads on its services &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240306/p28#a240306p28)<!-- TECH:END -->
+ - [Wine Lovers: This Firstleaf Deal Scores You 6 Bottles of Wine for Just $30     - CNET](https://www.cnet.com/deals/wine-lovers-this-firstleaf-deal-scores-you-6-bottles-of-wine-for-just-30/#ftag=CAD590a51e)
+ - [Bitcoin Jumps to New All-Time High: What You Need to Know About Crypto     - CNET](https://www.cnet.com/personal-finance/bitcoin-jumps-to-new-all-time-highs-what-you-need-to-know-about-crypto/#ftag=CAD590a51e)
+ - [Best Home Equity Loan Rates for March 2024     - CNET](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)
+ - [Score a Lifetime Subscription to Beelinguapp for Just $32     - CNET](https://www.cnet.com/deals/score-a-lifetime-subscription-to-beelinguapp-for-just-32/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive deals hit Apple&#39;s M3 MacBook Air with Adorama VIP membership](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)
  - [Sources, court filings, and internal documents detail how a flourishing partnership between Sam Altman and Elon Musk turned sour, culminating in Musk&#39;s lawsuit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p4#a240306p4)
  - [Boston-based Overjet, which offers AI software that helps diagnose dental disease from scans, raised a $53.2M Series C led by March Capital at a $550M valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240306/p3#a240306p3)
  - [Japan urges LY Corporation, the operator of Line and Yahoo Japan, to bolster security measures and review its relationship with Naver after user data leaks &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/240306/p2#a240306p2)
- - [A deep dive into PDD&#39;s finances and operations, which are shrouded in secrecy and raise questions about US investors&#39; confidence in Temu&#39;s parent company &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p1#a240306p1)
- - [Presentation: OpenView plans to return ~75% of a $571M fund it raised in 2023 to its LPs by Q3 and use the remaining capital to back ~30 portfolio companies &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240305/p43#a240305p43)<!-- TECH:END -->
+ - [A deep dive into PDD&#39;s finances and operations, which are shrouded in secrecy and raise questions about US investors&#39; confidence in Temu&#39;s parent company &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p1#a240306p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

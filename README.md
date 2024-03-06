@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019ll happen to you](http://9gag.com/gag/a2KQ1n1)
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 💣 [Let&#39;s continue](http://9gag.com/gag/anzA47B)
- - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
+ - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 
 ---

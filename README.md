@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 😝 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
+ - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 💣 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
 
 ---
 

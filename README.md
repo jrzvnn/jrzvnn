@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t mess with Texas!](http://9gag.com/gag/a3ZoEX1)
- - 😝 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
- - 💣 [Well oops ok](http://9gag.com/gag/aoKBMnm)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
+ - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 

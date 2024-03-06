@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
- - 😝 [....](http://9gag.com/gag/avQbONO)
- - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
+ - 👉 [Philippine Coast Guard &lpar;PCG&rpar; collision with a China Coast Guard Vessel](http://9gag.com/gag/aL1qvGV)<!-- MEMES:END -->
 
 ---
 

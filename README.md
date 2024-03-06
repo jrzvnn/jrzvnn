@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
  - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 

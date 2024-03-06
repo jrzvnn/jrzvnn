@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
+ - [Microsoft invokes VCRs in motion to dismiss The New York Times’s AI lawsuit](https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit)
  - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)
  - [IDC: the global market for AR/VR headsets fell 23.5% YoY in 2023 but grew 130.4% YoY in Q4, when Meta&#39;s share surpassed 60%, up from less than 40% in Q4 2022 &lpar;Brian Fagioli/BetaNews&rpar;](http://www.techmeme.com/240305/p36#a240305p36)
- - [Best Internet Providers in Fremont, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fremont-ca/#ftag=CAD590a51e)
- - [Twitter’s music label legal trouble might have legs](https://www.theverge.com/2024/3/5/24091667/twitter-music-label-legal-trouble-lawsuit-nmpa)
- - [Rufus, Amazon&#39;s AI shopping assistant currently in testing, is mostly useless, and at best is a slight upgrade on searching manually for product recommendations &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240305/p35#a240305p35)<!-- TECH:END -->
+ - [Best Internet Providers in Fremont, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fremont-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NPCI data: UPI transactions processed by Paytm fell 14% to $19.9B from January 2024 after RBI curbs, while PhonePe rose nearly 7% and Google GPay rose almost 6% &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240306/p8#a240306p8)
+ - [Anker&#39;s 8-in-1 Qi2 Magnetic Charging Station Is Down to a New Amazon All-Time Low     - CNET](https://www.cnet.com/deals/ankers-8-in-1-qi2-magnetic-charging-station-is-down-to-a-new-amazon-all-time-low/#ftag=CAD590a51e)
  - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)
- - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)
- - [Child Tax Credit 2024: When Is Your Tax Refund Coming?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-is-your-tax-refund-coming/#ftag=CAD590a51e)
- - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)
- - [OpenAI says that while discussing for-profit terms, Elon Musk &quot;wanted us to merge with Tesla&quot; or wanted &quot;majority equity, initial board control, and to be CEO&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/240306/p6#a240306p6)<!-- TECH:END -->
+ - [Social Security Beneficiaries: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-beneficiaries-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)
+ - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

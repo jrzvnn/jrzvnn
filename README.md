@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 💣 [Dmytro Kuleba, Minister of Foreign Affairs of Ukraine, debunks two Russian lies about NATO in less than 5 minutes.](http://9gag.com/gag/aDYBYg7)
+ - 💣 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)<!-- MEMES:END -->
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 

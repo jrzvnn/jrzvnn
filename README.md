@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did he just discharged a firearm sitting in his pants?](http://9gag.com/gag/aYVzYvw)
- - 😝 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 😝 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - 😝 [....](http://9gag.com/gag/avQbONO)
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 👉 [Bro won?](http://9gag.com/gag/aWGVxB4)<!-- MEMES:END -->
 
 ---
 

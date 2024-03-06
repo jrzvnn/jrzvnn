@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
+ - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
  - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 💣 [Pain](http://9gag.com/gag/a2KQ709)
+ - 💣 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Dude](http://9gag.com/gag/aXn8gQP)<!-- MEMES:END -->
+ - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
 
 ---
 

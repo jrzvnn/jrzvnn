@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
- - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 💣 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
+ - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
+ - 👉 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)<!-- MEMES:END -->
 
 ---
 

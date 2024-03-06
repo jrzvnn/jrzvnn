@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patronus AI releases CopyrightCatcher and says GPT-4 produced copyrighted content on 44% of prompts, Mistral&#39;s Mixtral on 22%, Llama 2 10%, and Claude 2.1 8% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p18#a240306p18)
  - [AI chip startup Taalas emerges from stealth, raised $50M across two rounds led by Pierre Lamond and Quiet Capita, and plans to unveil its LLM chip in Q3 2024 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240306/p17#a240306p17)
+ - [For Bitcoin Mines in Texas, the Honeymoon Is Over](https://www.wired.com/story/bitcoin-mining-texas-energy-grid/)
  - [How my smart home helps care for my pets](https://www.theverge.com/24074059/smart-home-pet-tech-tips-gadgets-solutions)
- - [He Promoted an Election Conspiracy Film. Now He’s Headed for Congress](https://www.wired.com/story/brandon-gill-2000-mules-texas-election/)
- - [Salesforce releases Einstein 1 Studio, letting developers customize its Salesforce Einstein Copilot assistant, released in beta last week, at TrailblazerDX &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240306/p16#a240306p16)
- - [Email: Spanish data protection regulator AEPD demands Worldcoin ceases collecting personal data in the country, and gives Worldcoin 72 hours to prove compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p15#a240306p15)<!-- TECH:END -->
+ - [He Promoted an Election Conspiracy Film. Now He’s Headed for Congress](https://www.wired.com/story/brandon-gill-2000-mules-texas-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

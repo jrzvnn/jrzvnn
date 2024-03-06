@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)
+ - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)
  - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google Updates Search to Filter Out Low-Quality Spam Sites     - CNET](https://www.cnet.com/tech/services-and-software/google-updates-search-to-filter-out-low-quality-spam-sites/#ftag=CAD590a51e)
- - [On-Device AI Is a Whole New Way of Experiencing Artificial Intelligence     - CNET](https://www.cnet.com/tech/mobile/on-device-ai-is-a-whole-new-way-of-experiencing-artificial-intelligence/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reality Check: What Are the Chances the Fed Will Lower Interest Rates This Year?     - CNET](https://www.cnet.com/personal-finance/banking/reality-check-what-are-the-chances-the-fed-will-lower-interest-rates-this-year/#ftag=CAD590a51e)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

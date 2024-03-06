@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech MX Brio review: excellent all-round 4K webcam](https://appleinsider.com/articles/24/03/06/logitech-mx-brio-review-excellent-all-round-4k-webcam?utm_medium=rss)
+ - [Canalys Q4 2023 smartphone chip shipments: MediaTek rose 21% YoY to 117M, Apple rose 7% YoY to 78M, Qualcomm rose 1% YoY to 69M; Samsung dropped 48% YoY to 13M &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240306/p9#a240306p9)
+ - [Headspace XR made me forget how much I hate meditation tech](https://www.theverge.com/2024/3/6/24091168/meta-quest-headspace-xr-meditation-mindfulness-vr)
  - [NPCI data: UPI transactions processed by Paytm fell 14% to $19.9B from January 2024 after RBI curbs, while PhonePe rose nearly 7% and Google GPay rose almost 6% &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240306/p8#a240306p8)
- - [Anker&#39;s 8-in-1 Qi2 Magnetic Charging Station Is Down to a New Amazon All-Time Low     - CNET](https://www.cnet.com/deals/ankers-8-in-1-qi2-magnetic-charging-station-is-down-to-a-new-amazon-all-time-low/#ftag=CAD590a51e)
- - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)
- - [Social Security Beneficiaries: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-beneficiaries-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)
- - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)<!-- TECH:END -->
+ - [Anker&#39;s 8-in-1 Qi2 Magnetic Charging Station Is Down to a New Amazon All-Time Low     - CNET](https://www.cnet.com/deals/ankers-8-in-1-qi2-magnetic-charging-station-is-down-to-a-new-amazon-all-time-low/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

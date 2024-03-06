@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How my smart home helps care for my pets](https://www.theverge.com/24074059/smart-home-pet-tech-tips-gadgets-solutions)
+ - [He Promoted an Election Conspiracy Film. Now He’s Headed for Congress](https://www.wired.com/story/brandon-gill-2000-mules-texas-election/)
  - [Salesforce releases Einstein 1 Studio, letting developers customize its Salesforce Einstein Copilot assistant, released in beta last week, at TrailblazerDX &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240306/p16#a240306p16)
  - [Email: Spanish data protection regulator AEPD demands Worldcoin ceases collecting personal data in the country, and gives Worldcoin 72 hours to prove compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p15#a240306p15)
- - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
- - [How much energy will new semiconductor factories burn through in the US?](https://www.theverge.com/2024/3/6/24091367/semiconductor-manufacturing-us-electricity-consumption-renewable-energy-report)
- - [NIST staff, US officials, congressional aides, and tech executives detail a massive resource gap between NIST, tasked with keeping AI safe, and tech companies &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240306/p14#a240306p14)<!-- TECH:END -->
+ - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

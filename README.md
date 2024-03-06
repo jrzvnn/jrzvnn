@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google Updates Search to Filter Out Low-Quality Spam Sites     - CNET](https://www.cnet.com/tech/services-and-software/google-updates-search-to-filter-out-low-quality-spam-sites/#ftag=CAD590a51e)
- - [On-Device AI Is a Whole New Way of Experiencing Artificial Intelligence     - CNET](https://www.cnet.com/tech/mobile/on-device-ai-is-a-whole-new-way-of-experiencing-artificial-intelligence/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)<!-- TECH:END -->
+ - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)
+ - [Europe&#39;s Digital Markets Act Is Breaking Open the Empires of Big Tech](https://www.wired.com/story/europe-dma-breaking-open-big-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

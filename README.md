@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [....](http://9gag.com/gag/avQbONO)
- - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
+ - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 💣 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
+ - 👉 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)<!-- MEMES:END -->
 
 ---
 

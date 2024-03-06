@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
  - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 💣 [....](http://9gag.com/gag/avQbONO)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 💣 [Can we do it though?](http://9gag.com/gag/a2KQW79)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 👉 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)<!-- MEMES:END -->
 
 ---
 

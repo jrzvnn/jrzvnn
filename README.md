@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)
+ - [In a rare move, Alan Wake 2’s minimum PC requirements have been lowered](https://www.theverge.com/2024/3/6/24092141/alan-wake-2-minimum-pc-requirements-lowered)
  - [Sources: the US presses the Netherlands, Germany, South Korea, and Japan, and other allies to tighten China chip rules, a controversial move drawing resistance &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p20#a240306p20)
  - [Microsoft engineer Shane Jones writes to the FTC and Microsoft&#39;s board warning Copilot Designer creates violent and sexual images, ignores copyrights, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p19#a240306p19)
- - [Rivian blazed a trail with its adventure EVs — can it stay on top?](https://www.theverge.com/2024/3/6/24091419/rivian-r2-ev-crossover-suv-profit-earnings-future)
- - [My smart kitchen: the good, the bad, and the future](https://www.theverge.com/24087703/smart-home-kitchen-appliances)
- - [Patronus AI releases CopyrightCatcher and says GPT-4 produced copyrighted content on 44% of prompts, Mistral&#39;s Mixtral on 22%, Llama 2 10%, and Claude 2.1 8% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p18#a240306p18)<!-- TECH:END -->
+ - [Rivian blazed a trail with its adventure EVs — can it stay on top?](https://www.theverge.com/2024/3/6/24091419/rivian-r2-ev-crossover-suv-profit-earnings-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

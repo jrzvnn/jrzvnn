@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
  - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
- - 💣 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
+ - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
+ - 💣 [A Belarusian living in Lithuania since 2019 has 14 days to leave the country after he made a statment on one YouTube channel: `I don&#39;t like it here, I don&#39;t like Lithuanians...I don&#39;t like Lithuanian language, fu** it. I don&#39;t need it.`](http://9gag.com/gag/aoKBKRw)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
+ - 👉 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)<!-- MEMES:END -->
 
 ---
 

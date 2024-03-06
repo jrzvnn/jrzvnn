@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)
  - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)<!-- TECH:END -->
+ - [Google Updates Search to Filter Out Low-Quality Spam Sites     - CNET](https://www.cnet.com/tech/services-and-software/google-updates-search-to-filter-out-low-quality-spam-sites/#ftag=CAD590a51e)
+ - [On-Device AI Is a Whole New Way of Experiencing Artificial Intelligence     - CNET](https://www.cnet.com/tech/mobile/on-device-ai-is-a-whole-new-way-of-experiencing-artificial-intelligence/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

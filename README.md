@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
- - 💣 [NYC is not 4 beginners](http://9gag.com/gag/aWGVYM3)
+ - 😝 [....](http://9gag.com/gag/avQbONO)
+ - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 💣 [Muslim immigrants tear down USA flags. Zero respect for the country that hosts them](http://9gag.com/gag/avQbOPn)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
 
 ---
 

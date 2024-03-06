@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turmoil at OpenAI: what’s next for the creator of ChatGPT?](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt)
+ - [OpenAI says Elon Musk wanted ‘absolute control’ of the company](https://www.theverge.com/2024/3/5/24091773/openai-response-elon-musk-breach-of-contract-lawsuit)
  - [OpenAI hits back at Elon Musk&#39;s lawsuit, accusing Musk of suing the company when it &quot;started making meaningful progress towards OpenAI&#39;s mission without him&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240305/p40#a240305p40)
  - [Waymo begins testing its driverless ride-hailing service without a safety operator in Austin starting March 6, initially offering the service to Waymo employees &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/240305/p39#a240305p39)
- - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)
- - [Samsung Galaxy Z Flip 4 Deals: Limited Trade-In Credits and Other Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-flip-4-deals/#ftag=CAD590a51e)
- - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)<!-- TECH:END -->
+ - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

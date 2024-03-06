@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 💣 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)
+ - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)<!-- MEMES:END -->
+ - 👉 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)<!-- MEMES:END -->
 
 ---
 

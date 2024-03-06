@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next Apple CEO: Who could succeed Tim Cook?](https://appleinsider.com/articles/24/03/06/the-next-apple-ceo-who-could-succeed-tim-cook?utm_medium=rss)
+ - [Sources: ByteDance reports Q3 revenue up 43% YoY to $30.9B, $84.4B in January to September 2023 revenue, above 2022&#39;s $85.2B, and starts staff share buybacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p10#a240306p10)
  - [Logitech MX Brio review: excellent all-round 4K webcam](https://appleinsider.com/articles/24/03/06/logitech-mx-brio-review-excellent-all-round-4k-webcam?utm_medium=rss)
  - [Canalys Q4 2023 smartphone chip shipments: MediaTek rose 21% YoY to 117M, Apple rose 7% YoY to 78M, Qualcomm rose 1% YoY to 69M; Samsung dropped 48% YoY to 13M &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240306/p9#a240306p9)
- - [Headspace XR made me forget how much I hate meditation tech](https://www.theverge.com/2024/3/6/24091168/meta-quest-headspace-xr-meditation-mindfulness-vr)
- - [NPCI data: UPI transactions processed by Paytm fell 14% to $19.9B from January 2024 after RBI curbs, while PhonePe rose nearly 7% and Google GPay rose almost 6% &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240306/p8#a240306p8)
- - [Anker&#39;s 8-in-1 Qi2 Magnetic Charging Station Is Down to a New Amazon All-Time Low     - CNET](https://www.cnet.com/deals/ankers-8-in-1-qi2-magnetic-charging-station-is-down-to-a-new-amazon-all-time-low/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Headspace XR made me forget how much I hate meditation tech](https://www.theverge.com/2024/3/6/24091168/meta-quest-headspace-xr-meditation-mindfulness-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

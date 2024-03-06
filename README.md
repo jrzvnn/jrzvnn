@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch is focused on mobile and streamer collaboration in 2024](https://www.theverge.com/2024/3/6/24092413/twitch-open-letter-2024-mobile-streamer-collaboration)
  - [MacBook Pro and MacBook Air overwhelmingly drive Apple Mac sales](https://appleinsider.com/articles/24/03/06/macbook-pro-and-macbook-air-overwhelmingly-drive-apple-mac-sales?utm_medium=rss)
  - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $869](https://appleinsider.com/articles/24/03/06/lowest-price-ever-apples-m2-macbook-air-drops-to-869?utm_medium=rss)
  - [Stars take you through Steve Martin&#39;s comedy career in new Apple TV+ documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
- - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)
- - [SEC says companies must disclose their greenhouse gas emissions — but not all of them](https://www.theverge.com/2024/3/6/24092159/sec-climate-change-disclosure-rule-scope-3-emissions)<!-- TECH:END -->
+ - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

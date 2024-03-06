@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a16z expects to raise $6.5B to $7B for a master feeder fund, closing in early April; 50% would go to its fourth growth fund and 10% to its gaming fund &lpar;Axios&rpar;](http://www.techmeme.com/240306/p21#a240306p21)
  - [Scientists Are Inching Closer to Bringing Back the Woolly Mammoth](https://www.wired.com/story/colossal-biosciences-mammoth/)
  - [The German Tesla plant fire is claimed by far-left ‘Volcano Group’](https://www.theverge.com/2024/3/6/24092178/german-tesla-gigafactory-fire-arson-far-left-volcano-vulkan-group)
  - [Stars take you through Steve Martin&#39;s comedy career in new documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
- - [Snag Massive Savings on New Gadgets During Samsung&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-new-gadgets-during-samsungs-spring-sale/#ftag=CAD590a51e)
- - [AI Tools Are Still Generating Misleading Election Images](https://www.wired.com/story/genai-images-election-fraud/)<!-- TECH:END -->
+ - [Snag Massive Savings on New Gadgets During Samsung&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-new-gadgets-during-samsungs-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

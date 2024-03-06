@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 💣 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
+ - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)<!-- MEMES:END -->
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)<!-- MEMES:END -->
 
 ---
 

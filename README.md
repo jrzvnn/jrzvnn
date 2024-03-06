@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True story, true story...](http://9gag.com/gag/aWGVjAK)
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 😝 [She is not leaving dad by himself](http://9gag.com/gag/aQEY3Gd)
  - 💣 [....](http://9gag.com/gag/avQbONO)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Reverse image search](http://9gag.com/gag/aBdDgGA)<!-- MEMES:END -->
+ - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 
 ---
 

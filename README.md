@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)
+ - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)
  - [OpenAI says that while discussing for-profit terms, Elon Musk &quot;wanted us to merge with Tesla&quot; or wanted &quot;majority equity, initial board control, and to be CEO&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/240306/p6#a240306p6)
  - [More than 100 top AI researchers sign an open letter imploring AI companies to provide a legal and technical safe harbor for researchers to study their products &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240306/p5#a240306p5)
- - [Exclusive deals hit Apple&#39;s M3 MacBook Air with Adorama VIP membership](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)
- - [Sources, court filings, and internal documents detail how a flourishing partnership between Sam Altman and Elon Musk turned sour, culminating in Musk&#39;s lawsuit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p4#a240306p4)
- - [Boston-based Overjet, which offers AI software that helps diagnose dental disease from scans, raised a $53.2M Series C led by March Capital at a $550M valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240306/p3#a240306p3)<!-- TECH:END -->
+ - [Exclusive deals hit Apple&#39;s M3 MacBook Air with Adorama VIP membership](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

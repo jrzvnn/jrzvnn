@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
  - 😝 [Instant justice...sorry for that music though](http://9gag.com/gag/aMEp4nW)
- - 💣 [A Belarusian living in Lithuania since 2019 has 14 days to leave the country after he made a statment on one YouTube channel: `I don&#39;t like it here, I don&#39;t like Lithuanians...I don&#39;t like Lithuanian language, fu** it. I don&#39;t need it.`](http://9gag.com/gag/aoKBKRw)
+ - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 💣 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Trolling the coach.](http://9gag.com/gag/aBdDnPZ)<!-- MEMES:END -->
+ - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
 
 ---
 

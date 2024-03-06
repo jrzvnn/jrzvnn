@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
  - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
- - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 💣 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 💣 [Reverse image search](http://9gag.com/gag/aBdDgGA)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)<!-- MEMES:END -->
+ - 👉 [....](http://9gag.com/gag/avQbONO)<!-- MEMES:END -->
 
 ---
 

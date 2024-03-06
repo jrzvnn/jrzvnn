@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the AI revolution, reminiscent of the industrial revolution but unfolding over years rather than centuries, and the views of AI optimists and doomers &lpar;Michael J. Totten/City Journal&rpar;](http://www.techmeme.com/240306/p7#a240306p7)
  - [Logitech’s new MX Brio is a $200 4K webcam with ‘AI-enhanced image quality’](https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features)
  - [The EU’s new competition rules are going live — here’s how tech giants are responding](https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes)
  - [OpenAI says that while discussing for-profit terms, Elon Musk &quot;wanted us to merge with Tesla&quot; or wanted &quot;majority equity, initial board control, and to be CEO&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/240306/p6#a240306p6)
- - [More than 100 top AI researchers sign an open letter imploring AI companies to provide a legal and technical safe harbor for researchers to study their products &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240306/p5#a240306p5)
- - [Exclusive deals hit Apple&#39;s M3 MacBook Air with Adorama VIP membership](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)<!-- TECH:END -->
+ - [More than 100 top AI researchers sign an open letter imploring AI companies to provide a legal and technical safe harbor for researchers to study their products &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240306/p5#a240306p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

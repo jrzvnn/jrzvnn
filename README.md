@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into PDD&#39;s finances and operations, which are shrouded in secrecy and raise questions about US investors&#39; confidence in Temu&#39;s parent company &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p1#a240306p1)
  - [Presentation: OpenView plans to return ~75% of a $571M fund it raised in 2023 to its LPs by Q3 and use the remaining capital to back ~30 portfolio companies &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240305/p43#a240305p43)
  - [How to add and remove stickers as a reaction in Messages in iOS 17](https://appleinsider.com/articles/24/03/06/how-to-add-and-remove-stickers-as-a-reaction-in-messages-in-ios-17?utm_medium=rss)
  - [A Montenegro appeals court cancels the approval of Do Kwon&#39;s extradition to the US, the third time the Terraform Labs co-founder has successfully appealed &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240305/p42#a240305p42)
- - [A US judge upheld parts of a National Music Publishers&#39; Association&#39;s copyright lawsuit against X and dismissed the claim that X engaged in direct infringement &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p41#a240305p41)
- - [Best Solar Panel Installation Companies in Oregon     - CNET](https://www.cnet.com/home/energy-and-utilities/oregon-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge upheld parts of a National Music Publishers&#39; Association&#39;s copyright lawsuit against X and dismissed the claim that X engaged in direct infringement &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240305/p41#a240305p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

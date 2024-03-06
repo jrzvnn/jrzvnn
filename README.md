@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
- - 😝 [Good job, mate](http://9gag.com/gag/a9q31E1)
- - 💣 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
+ - 😝 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
+ - 😝 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
+ - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Stay in the blue box](http://9gag.com/gag/a5XLXgL)<!-- MEMES:END -->
+ - 👉 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)<!-- MEMES:END -->
 
 ---
 

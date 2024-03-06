@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Dutch government creates a taskforce to address ASML&#39;s issues, including expatriate workers and grid congestion, to keep ASML in the Netherlands &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p12#a240306p12)
+ - [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)
+ - [Experts fear the DMA won’t change the status quo](https://www.theverge.com/2024/3/6/24091695/digital-markets-act-eu-compliance-experts)
  - [Immerse yourself in the neon streets of Tokyo manga with a new &#39;Shot on iPhone&#39; film](https://appleinsider.com/articles/24/03/06/immerse-yourself-in-the-neon-streets-of-tokyo-manga-with-a-new-shot-on-iphone-film?utm_medium=rss)
- - [JD reports Q4 revenue up 3.6% YoY to ~$42.6B, beating ~$41.7B est., after offering discounts and launches a $3B three-year stock buyback program; JD jumps 8% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240306/p11#a240306p11)
- - [The next Apple CEO: Who could succeed Tim Cook?](https://appleinsider.com/articles/24/03/06/the-next-apple-ceo-who-could-succeed-tim-cook?utm_medium=rss)
- - [Sources: ByteDance reports Q3 revenue up 43% YoY to $30.9B, $84.4B in January to September 2023 revenue, above 2022&#39;s $85.2B, and starts staff share buybacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p10#a240306p10)
- - [Logitech MX Brio review: excellent all-round 4K webcam](https://appleinsider.com/articles/24/03/06/logitech-mx-brio-review-excellent-all-round-4k-webcam?utm_medium=rss)<!-- TECH:END -->
+ - [JD reports Q4 revenue up 3.6% YoY to ~$42.6B, beating ~$41.7B est., after offering discounts and launches a $3B three-year stock buyback program; JD jumps 8% &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240306/p11#a240306p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country](http://9gag.com/gag/a1P4PMD)
- - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - 💣 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 😝 [Bro won?](http://9gag.com/gag/aWGVxB4)
+ - 😝 [Wife material](http://9gag.com/gag/aVbG042)
+ - 💣 [Fallout ?](http://9gag.com/gag/a8qrqdO)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
+ - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
 
 ---
 

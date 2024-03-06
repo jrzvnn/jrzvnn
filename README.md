@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
- - 😝 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)
- - 💣 [Haters goes hate](http://9gag.com/gag/a4oME1A)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 😝 [Good job, mate](http://9gag.com/gag/a9q31E1)
+ - 💣 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Good job, mate](http://9gag.com/gag/a9q31E1)<!-- MEMES:END -->
+ - 👉 [Stay in the blue box](http://9gag.com/gag/a5XLXgL)<!-- MEMES:END -->
 
 ---
 

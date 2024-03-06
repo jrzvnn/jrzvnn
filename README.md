@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 😝 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)
- - 💣 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 😝 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
+ - 😝 [Guess the country](http://9gag.com/gag/a1P4PMD)
+ - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
+ - 💣 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
+ - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
 
 ---
 

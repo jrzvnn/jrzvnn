@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
- - 😝 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)
- - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
+ - 😝 [It\u2019ll happen to you](http://9gag.com/gag/a2KQ1n1)
+ - 😝 [Americans won&#39;t understand this meme](http://9gag.com/gag/aZD9yep)
+ - 💣 [Let&#39;s continue](http://9gag.com/gag/anzA47B)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
  - 👉 [A girl visited a beach while on vacation in Bangladesh and this was her view](http://9gag.com/gag/aA0nb39)<!-- MEMES:END -->
 

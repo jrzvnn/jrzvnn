@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The M2 MacBook Air is already on sale for $100 less than its new starting price](https://www.theverge.com/2024/3/6/24092128/apple-m2-macbook-air-ring-stick-up-cam-prince-of-persia-lost-crown-deal-sale)
+ - [In letter to Epic, Apple&#39;s lawyers cite Tim Sweeney&#39;s public attacks, including an X post, and say Epic is part of a &quot;global effort to undermine&quot; Apple&#39;s rules &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240306/p26#a240306p26)
  - [Twitch is focused on mobile and streamer collaboration in 2024](https://www.theverge.com/2024/3/6/24092413/twitch-open-letter-2024-mobile-streamer-collaboration)
- - [MacBook Pro and MacBook Air overwhelmingly drive Apple Mac sales](https://appleinsider.com/articles/24/03/06/macbook-pro-and-macbook-air-overwhelmingly-drive-apple-mac-sales?utm_medium=rss)
- - [Lowest price ever: Apple&#39;s M2 MacBook Air drops to $869](https://appleinsider.com/articles/24/03/06/lowest-price-ever-apples-m2-macbook-air-drops-to-869?utm_medium=rss)
- - [Stars take you through Steve Martin&#39;s comedy career in new Apple TV+ documentary](https://appleinsider.com/articles/24/03/06/stars-take-you-through-steve-martins-comedy-career-in-new-documentary?utm_medium=rss)
- - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)
+ - [MacBook Pro and MacBook Air overwhelmingly drive Apple Mac sales](https://appleinsider.com/articles/24/03/06/macbook-pro-and-macbook-air-overwhelmingly-drive-apple-mac-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

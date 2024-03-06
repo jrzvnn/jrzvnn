@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft engineer Shane Jones writes to the FTC and Microsoft&#39;s board warning Copilot Designer creates violent and sexual images, ignores copyrights, and more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p19#a240306p19)
+ - [Rivian blazed a trail with its adventure EVs — can it stay on top?](https://www.theverge.com/2024/3/6/24091419/rivian-r2-ev-crossover-suv-profit-earnings-future)
+ - [My smart kitchen: the good, the bad, and the future](https://www.theverge.com/24087703/smart-home-kitchen-appliances)
  - [Patronus AI releases CopyrightCatcher and says GPT-4 produced copyrighted content on 44% of prompts, Mistral&#39;s Mixtral on 22%, Llama 2 10%, and Claude 2.1 8% &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240306/p18#a240306p18)
- - [AI chip startup Taalas emerges from stealth, raised $50M across two rounds led by Pierre Lamond and Quiet Capita, and plans to unveil its LLM chip in Q3 2024 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240306/p17#a240306p17)
- - [For Bitcoin Mines in Texas, the Honeymoon Is Over](https://www.wired.com/story/bitcoin-mining-texas-energy-grid/)
- - [How my smart home helps care for my pets](https://www.theverge.com/24074059/smart-home-pet-tech-tips-gadgets-solutions)
- - [He Promoted an Election Conspiracy Film. Now He’s Headed for Congress](https://www.wired.com/story/brandon-gill-2000-mules-texas-election/)<!-- TECH:END -->
+ - [AI chip startup Taalas emerges from stealth, raised $50M across two rounds led by Pierre Lamond and Quiet Capita, and plans to unveil its LLM chip in Q3 2024 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240306/p17#a240306p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

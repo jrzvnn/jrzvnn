@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [LinkedIn is down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
  - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)
- - [As part of its DMA compliance plan, Google details its program that lets Play Store developers lead EEA users outside their app, including fees of 5% to 17% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p29#a240306p29)
- - [Wine Lovers: This Firstleaf Deal Scores You 6 Bottles of Wine for Just $30     - CNET](https://www.cnet.com/deals/wine-lovers-this-firstleaf-deal-scores-you-6-bottles-of-wine-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Europe&#39;s Digital Markets Act Is Breaking Open the Empires of Big Tech](https://www.wired.com/story/europe-dma-breaking-open-big-tech/)
+ - [As part of its DMA compliance plan, Google details its program that lets Play Store developers lead EEA users outside their app, including fees of 5% to 17% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240306/p29#a240306p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

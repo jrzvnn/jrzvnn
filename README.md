@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)
  - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
- - [Microsoft invokes VCRs in motion to dismiss The New York Times’s AI lawsuit](https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit)
- - [Apple releases iOS 17.4 with new default browser prompts in the EU, support for third-party browser engines, transcripts for Podcasts, 118 new emojis, and more &lpar;Nil&amp;eacute;ane/MacStories&rpar;](http://www.techmeme.com/240305/p37#a240305p37)
- - [IDC: the global market for AR/VR headsets fell 23.5% YoY in 2023 but grew 130.4% YoY in Q4, when Meta&#39;s share surpassed 60%, up from less than 40% in Q4 2022 &lpar;Brian Fagioli/BetaNews&rpar;](http://www.techmeme.com/240305/p36#a240305p36)
- - [Best Internet Providers in Fremont, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fremont-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Has Your Facebook or Instagram Been Hacked? How to Find Out, and What to Do     - CNET](https://www.cnet.com/tech/has-your-facebook-or-instagram-been-hacked-how-to-find-out-and-what-to-do/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-march-2024/#ftag=CAD590a51e)
+ - [Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini     - CNET](https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

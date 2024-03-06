@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo begins testing its driverless ride-hailing service without a safety operator in Austin starting March 6, initially offering the service to Waymo employees &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/240305/p39#a240305p39)
  - [Alternative app marketplaces won&#39;t work outside of the EU](https://appleinsider.com/articles/24/03/06/alternative-app-marketplaces-wont-work-outside-of-the-eu?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 4 Deals: Limited Trade-In Credits and Other Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-flip-4-deals/#ftag=CAD590a51e)
  - [Apple says alternative app stores will stop working, and the apps installed from them will stop updating, if a user travels outside of the EU &quot;for too long&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240305/p38#a240305p38)
- - [Has Your Facebook or Instagram Been Hacked? How to Find Out, and What to Do     - CNET](https://www.cnet.com/tech/has-your-facebook-or-instagram-been-hacked-how-to-find-out-and-what-to-do/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-march-2024/#ftag=CAD590a51e)
- - [Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini     - CNET](https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel Watch Deals: Up to $180 on Trade-In Credits and Free Apps     - CNET](https://www.cnet.com/deals/pixel-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

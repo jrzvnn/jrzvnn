@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone budgeting apps can now automatically import your Apple Card and Cash transactions](https://www.theverge.com/2024/3/6/24092088/ios-17-4-budgeting-apps-import-apple-card-cash-savings-ynab-copilot-monarch)
- - [An in-depth look at Nvidia&#39;s DGX H100 setup: 32 DGX boxes, each weighing 300lb, that house eight individual $25K H100 GPUs, cooling, and other chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240306/p13#a240306p13)
- - [Sources: the Dutch government creates a taskforce to address ASML&#39;s issues, including expatriate workers and grid congestion, to keep ASML in the Netherlands &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p12#a240306p12)
- - [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)
- - [Experts fear the DMA won’t change the status quo](https://www.theverge.com/2024/3/6/24091695/digital-markets-act-eu-compliance-experts)<!-- TECH:END -->
+ - [Email: Spanish data protection regulator AEPD demands Worldcoin ceases collecting personal data in the country, and gives Worldcoin 72 hours to prove compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p15#a240306p15)
+ - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
+ - [How much energy will new semiconductor factories burn through in the US?](https://www.theverge.com/2024/3/6/24091367/semiconductor-manufacturing-us-electricity-consumption-renewable-energy-report)
+ - [NIST staff, US officials, congressional aides, and tech executives detail a massive resource gap between NIST, tasked with keeping AI safe, and tech companies &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240306/p14#a240306p14)
+ - [iPhone budgeting apps can now automatically import your Apple Card and Cash transactions](https://www.theverge.com/2024/3/6/24092088/ios-17-4-budgeting-apps-import-apple-card-cash-savings-ynab-copilot-monarch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

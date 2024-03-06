@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter, 41 state AGs call on Meta to address the &quot;dramatic increase&quot; in Facebook and Instagram account takeovers and say hackers buy ads on its services &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240306/p28#a240306p28)
+ - [&#39;Verifiably untrustworthy&#39; Epic Games iOS app store plans in EU killed by Apple](https://appleinsider.com/articles/24/03/06/verifiably-untrustworthy-epic-games-ios-app-store-plans-in-eu-killed-by-apple?utm_medium=rss)
  - [Snap Up This $48 Lifetime Subscription to Headway Premium Before It Expires     - CNET](https://www.cnet.com/deals/snap-up-this-48-lifetime-subscription-to-headway-premium-before-it-expires/#ftag=CAD590a51e)
  - [Capturing spatial video: Apple Vision Pro vs iPhone 15 Pro](https://appleinsider.com/articles/24/03/06/capturing-spatial-video-apple-vision-pro-vs-iphone-15-pro?utm_medium=rss)
- - [Meta explains how WhatsApp’s encrypted chats will work with third-party services](https://www.theverge.com/2024/3/6/24092384/meta-third-party-encrypted-chats-implementation-eu-dma)
- - [The White House is backing a bipartisan bill that would force ByteDance to sell TikTok if it wants to remain in US app stores &lpar;Punchbowl News&rpar;](http://www.techmeme.com/240306/p27#a240306p27)
- - [Save on Travel Costs With an $80 Lifetime Subscription to OneAir Elite     - CNET](https://www.cnet.com/deals/save-on-travel-costs-with-an-80-lifetime-subscription-to-oneair-elite/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta explains how WhatsApp’s encrypted chats will work with third-party services](https://www.theverge.com/2024/3/6/24092384/meta-third-party-encrypted-chats-implementation-eu-dma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

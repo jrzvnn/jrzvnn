@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)
  - [LinkedIn was down](https://www.theverge.com/2024/3/6/24092667/linkedin-outage-down-error)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)
- - [Europe&#39;s Digital Markets Act Is Breaking Open the Empires of Big Tech](https://www.wired.com/story/europe-dma-breaking-open-big-tech/)<!-- TECH:END -->
+ - [The US DOJ says a former Google software engineer has been charged with stealing AI technology from Google while secretly working with two China-based companies &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240306/p30#a240306p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters goes hate](http://9gag.com/gag/a4oME1A)
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 💣 [Ansieda\u2019](http://9gag.com/gag/awZqzXD)
+ - 😝 [You don&#39;t mess with Texas!](http://9gag.com/gag/a3ZoEX1)
+ - 😝 [Hold up\ud83e\udd1a\ud83c\udffbwhat?](http://9gag.com/gag/aL1qprP)
+ - 💣 [Well oops ok](http://9gag.com/gag/aoKBMnm)
  - 😝 [#Ad The Mortal Kombat 1 Free Trial Weekend starts in 2 DAYS!](http://9gag.com/gag/a9q3Rej)
- - 👉 [Babies instinctually avoid grass](http://9gag.com/gag/aL1qv95)<!-- MEMES:END -->
+ - 👉 [Ah yes the Negotiator](http://9gag.com/gag/ap9eNm5)<!-- MEMES:END -->
 
 ---
 

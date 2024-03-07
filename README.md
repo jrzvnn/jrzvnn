@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian R2 revealed: a $45,000 electric off-roader for the masses](https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price)
  - [Apple Watch owners can now update to watchOS 10.4](https://appleinsider.com/articles/24/03/07/apple-watch-owners-can-now-update-to-watchos-104?utm_medium=rss)
  - [macOS Sonoma 14.4 now available with podcast captions and new emoji](https://appleinsider.com/articles/24/03/07/macos-sonoma-144-now-available-with-podcast-captions-and-new-emoji?utm_medium=rss)
  - [Apple&#39;s tvOS 17.4 update now available for the Apple TV](https://appleinsider.com/articles/24/03/07/apples-tvos-174-update-now-available-for-the-apple-tv?utm_medium=rss)
- - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)
- - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)<!-- TECH:END -->
+ - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

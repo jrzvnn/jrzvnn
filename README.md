@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
  - [Wacom One 13 Touch review: Way better than before, still doesn&#39;t edge out iPad](https://appleinsider.com/articles/24/03/07/wacom-one-13-touch-review-way-better-than-before-still-doesnt-edge-out-ipad?utm_medium=rss)
  - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)
  - [SK Hynix plans to invest over $1B in advanced chip packaging in South Korea, as the company hopes to capture the growing demand for high-bandwidth memory &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240306/p38#a240306p38)
- - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)
- - [Kuo: Apple&#39;s only foldable device with a &quot;clear development schedule&quot; is the 20.3-inch MacBook, which is expected to enter mass production in 2027 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240306/p37#a240306p37)<!-- TECH:END -->
+ - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

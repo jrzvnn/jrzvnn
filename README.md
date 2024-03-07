@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congressional offices are being flooded with calls from angry constituents following TikTok&#39;s push notification asking users to call their representatives &lpar;Axios&rpar;](http://www.techmeme.com/240307/p32#a240307p32)
+ - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [Microsoft Office Home &amp; Business is 77% off during latest flash sale](https://appleinsider.com/articles/24/03/07/microsoft-office-home-business-is-77-off-during-latest-flash-sale?utm_medium=rss)
  - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)
- - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Don&#39;t Wait for Grilling Season: BBQGuys Knocks Hundreds Off Grills and More Today     - CNET](https://www.cnet.com/deals/dont-wait-for-grilling-season-bbqguys-knocks-hundreds-off-grills-and-more-today/#ftag=CAD590a51e)
- - [Glowforge Is Offering a Steep Preorder Discount on Its Newest Laser Cutter     - CNET](https://www.cnet.com/deals/glowforge-is-offering-a-steep-preorder-discount-on-its-newest-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

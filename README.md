@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says it&#39;s working on an AI system for its video recommendations across its entire ecosystem, and tests have led to an 8%-10% gain in Reels watch time &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240306/p32#a240306p32)
- - [Google engineer indicted over allegedly stealing AI trade secrets for China](https://www.theverge.com/2024/3/6/24092750/google-engineer-indictment-ai-trade-secrets-china-doj)
- - [Apple sat at a crossroads of indecision that led to Project Titan&#39;s slow death](https://appleinsider.com/articles/24/03/06/apple-sat-at-a-crossroads-of-indecision-that-led-to-project-titans-slow-death?utm_medium=rss)
- - [5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance](https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/)
- - [Twitch details its 2024 plans, including redesigning its mobile app for the first time since 2019 to add mod tools, the ability to upload short videos, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240306/p31#a240306p31)<!-- TECH:END -->
+ - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)
+ - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)
+ - [Deals: Apple&#39;s M3 Max MacBook Pro 16-inch is $300 off today](https://appleinsider.com/articles/24/03/07/deals-apples-m3-max-macbook-pro-16-inch-is-300-off-today?utm_medium=rss)
+ - [A deep dive into Apple&#39;s failed EV project: management&#39;s indecision, various prototypes, partnership talks with Mercedes-Benz, Tesla, McLaren, and others, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p33#a240306p33)
+ - [Facebook says it&#39;s working on an AI system for its video recommendations across its entire ecosystem, and tests have led to an 8%-10% gain in Reels watch time &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240306/p32#a240306p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

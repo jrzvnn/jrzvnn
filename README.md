@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)
- - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)
- - [Deals: Apple&#39;s M3 Max MacBook Pro 16-inch is $300 off today](https://appleinsider.com/articles/24/03/07/deals-apples-m3-max-macbook-pro-16-inch-is-300-off-today?utm_medium=rss)
- - [A deep dive into Apple&#39;s failed EV project: management&#39;s indecision, various prototypes, partnership talks with Mercedes-Benz, Tesla, McLaren, and others, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240306/p33#a240306p33)
- - [Facebook says it&#39;s working on an AI system for its video recommendations across its entire ecosystem, and tests have led to an 8%-10% gain in Reels watch time &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240306/p32#a240306p32)<!-- TECH:END -->
+ - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
+ - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s Midband 5G Network Is Getting Another Boost     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-midband-5g-network-is-getting-another-boost/#ftag=CAD590a51e)
+ - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

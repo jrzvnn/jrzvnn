@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU confirms requesting further explanations from Apple over barring Epic&#39;s developer account under the DMA, and is examining if Apple broke any other rules &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240307/p9#a240307p9)
  - [A look at Apple&#39;s studio business: sources say the company spent $700M+ of its reported $1B+ annual 2023 spend on just three films, which earned $466M combined &lpar;Tatiana Siegel/Variety&rpar;](http://www.techmeme.com/240307/p8#a240307p8)
  - [An interview with LinkedIn EIC Dan Roth on investing in journalism and news, work with over 400 news publishers globally, launching a podcast network, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240307/p7#a240307p7)
  - [Nikon is acquiring RED cameras](https://www.theverge.com/2024/3/7/24093109/nikon-acquiring-red-cameras-film-motion-picture-tv)
- - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)
- - [Research suggests that prompt engineering is best done by the LLM itself, raising suspicions that a fair portion of prompt engineering jobs may be a passing fad &lpar;Dina Genkina/IEEE Spectrum&rpar;](http://www.techmeme.com/240307/p6#a240307p6)<!-- TECH:END -->
+ - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)
  - [Research suggests that prompt engineering is best done by the LLM itself, raising suspicions that a fair portion of prompt engineering jobs may be a passing fad &lpar;Dina Genkina/IEEE Spectrum&rpar;](http://www.techmeme.com/240307/p6#a240307p6)
  - [Google opens a cyberdefense hub in Tokyo, its first in the Asia-Pacific region, and will invite experts in the region to study countermeasures for cyberattacks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240307/p5#a240307p5)
  - [FBI: in 2023, Americans reported $12.5B+ in losses to online fraud, up 22% YoY; losses to investment fraud grew 38% YoY to $4.57B, with $3.94B related to crypto &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240307/p4#a240307p4)
- - [Rozana, a rural e-commerce and logistics service presently serving 12,000+ villages across India, raised a $22.5M Series A led by Bertelsmann India Investments &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240307/p3#a240307p3)
- - [Dubai-based social media startup Hunch, which operates an anonymous polling service and claims to have 1M+ users across 22 Indian cities, raised a $23M Series A &lpar;Akshit Pushkarna/Inc42 Media&rpar;](http://www.techmeme.com/240307/p2#a240307p2)<!-- TECH:END -->
+ - [Rozana, a rural e-commerce and logistics service presently serving 12,000+ villages across India, raised a $22.5M Series A led by Bertelsmann India Investments &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240307/p3#a240307p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

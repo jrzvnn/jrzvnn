@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Reykjavik, migrants storm the Icelandic parliament as they debated tougher immigration laws. The migrants demand housing and their families to join them in Iceland.](http://9gag.com/gag/aWGVpo3)
- - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
- - 💣 [Counting calories](http://9gag.com/gag/a9q3z5K)
+ - 😝 [Now I know what to do at escalators](http://9gag.com/gag/a8qrApe)
+ - 😝 [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
+ - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
 
 ---
 

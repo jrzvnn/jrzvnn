@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
  - 😝 [Dark age](http://9gag.com/gag/ajV271g)
+ - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
  - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
+ - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
 
 ---
 

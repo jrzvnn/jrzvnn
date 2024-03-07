@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
- - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
- - 💣 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
+ - 😝 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
+ - 💣 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
  - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Office Home &amp; Business is 77% off during latest flash sale](https://appleinsider.com/articles/24/03/07/microsoft-office-home-business-is-77-off-during-latest-flash-sale?utm_medium=rss)
  - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)
  - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Rivian R2, R3, R3X: Price, Specs, Release Date](https://www.wired.com/story/rivian-r2-r3-r3x-announced/)
- - [Third-party App Stores will only work for 30 days if you leave the EU](https://appleinsider.com/articles/24/03/07/third-party-app-stores-will-only-work-for-30-days-if-you-leave-the-eu?utm_medium=rss)
- - [Apple has a specific Windows Migration Assistant version for macOS Sonoma](https://appleinsider.com/articles/24/03/07/apple-has-a-specific-windows-migration-assistant-version-for-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Wait for Grilling Season: BBQGuys Knocks Hundreds Off Grills and More Today     - CNET](https://www.cnet.com/deals/dont-wait-for-grilling-season-bbqguys-knocks-hundreds-off-grills-and-more-today/#ftag=CAD590a51e)
+ - [Glowforge Is Offering a Steep Preorder Discount on Its Newest Laser Cutter     - CNET](https://www.cnet.com/deals/glowforge-is-offering-a-steep-preorder-discount-on-its-newest-laser-cutter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

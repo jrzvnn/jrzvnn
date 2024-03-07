@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 💣 [Dark age](http://9gag.com/gag/ajV271g)
+ - 😝 [Whenever you need advice on how to handle dictators, ask Romanians](http://9gag.com/gag/anzAgA0)
+ - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)<!-- MEMES:END -->
+ - 👉 [Found in the wild](http://9gag.com/gag/aGEPyPw)<!-- MEMES:END -->
 
 ---
 

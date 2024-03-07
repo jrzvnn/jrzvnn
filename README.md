@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Sweet Security, which offers cloud runtime security tools, raised a $33M Series A, after emerging from stealth with a $12M seed in August 2023 &lpar;Kevin Townsend/SecurityWeek&rpar;](http://www.techmeme.com/240307/p35#a240307p35)
  - [Stephen Dubner is bullish on the podcast industry](https://www.theverge.com/2024/3/7/24093805/stephen-dubner-freakonomics-on-air-fest-siriusxm-apple-spotify)
  - [Sources: OpenAI CTO Mira Murati brought questions about Sam Altman&#39;s management to the board last year before he was ousted; a new board is expected imminently &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p34#a240307p34)
  - [Best Smart Thermostats for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)
- - [A Record $12.5 Billion Lost to Internet Crime in 2023     - CNET](https://www.cnet.com/tech/services-and-software/a-record-12-5-billion-lost-to-internet-crime-in-2023/#ftag=CAD590a51e)
- - [Prepology Over Sink Colander &amp; Basin     - CNET](https://www.cnet.com/news/prepology-over-sink-colander-basin-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Record $12.5 Billion Lost to Internet Crime in 2023     - CNET](https://www.cnet.com/tech/services-and-software/a-record-12-5-billion-lost-to-internet-crime-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

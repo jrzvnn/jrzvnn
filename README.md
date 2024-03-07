@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Apple’s last-minute App Store changes come with a catch — here’s what developers think](https://www.theverge.com/2024/3/7/24093202/apple-developers-revert-business-terms-eu-dma)
- - [The SEC’s new climate disclosure rule already faces legal challenges](https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges)
- - [Apple plans to let EU-based iPhone users uninstall Safari by 2024&#39;s end and is working on a more &quot;user-friendly&quot; way to let them switch to Android by fall 2025 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240307/p29#a240307p29)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Apple Watch owners can now update to watchOS 10.4](https://appleinsider.com/articles/24/03/07/apple-watch-owners-can-now-update-to-watchos-104?utm_medium=rss)
+ - [macOS Sonoma 14.4 now available with podcast captions and new emoji](https://appleinsider.com/articles/24/03/07/macos-sonoma-144-now-available-with-podcast-captions-and-new-emoji?utm_medium=rss)
+ - [Apple&#39;s tvOS 17.4 update now available for the Apple TV](https://appleinsider.com/articles/24/03/07/apples-tvos-174-update-now-available-for-the-apple-tv?utm_medium=rss)
+ - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

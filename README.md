@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [Rivian surprises with R3 and R3X crossover electric SUVs](https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs)
  - [Denver-based Todyl, a cybersecurity startup focused on SMBs, raised a $50M Series B led by Base10 Partners, bringing its total funding to $83.8M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p30#a240307p30)
  - [Apple isn&#39;t done with concessions in iOS to placate the European Union](https://appleinsider.com/articles/24/03/07/apple-isnt-done-with-concessions-in-ios-to-placate-the-european-union?utm_medium=rss)
- - [VIP members, get exclusive deals on Apple&#39;s M3 MacBook Air](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)
- - [Some of the best Switch games are $20 off in the lead-up to Mario Day](https://www.theverge.com/2024/3/7/24092444/mario-kart-8-deluxe-ugreen-magsafe-charging-stand-logitech-crayon-stylus-deal-sale)<!-- TECH:END -->
+ - [VIP members, get exclusive deals on Apple&#39;s M3 MacBook Air](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

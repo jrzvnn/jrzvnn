@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tel Aviv-based Sweet Security, which offers cloud runtime security tools, raised a $33M Series A, after emerging from stealth with a $12M seed in August 2023 &lpar;Kevin Townsend/SecurityWeek&rpar;](http://www.techmeme.com/240307/p35#a240307p35)
+ - [SpaceX Starship Mission 3: How to Watch the March 14 Launch     - CNET](https://www.cnet.com/science/space/spacex-starship-mission-3-how-to-watch-the-march-14-launch/#ftag=CAD590a51e)
  - [Stephen Dubner is bullish on the podcast industry](https://www.theverge.com/2024/3/7/24093805/stephen-dubner-freakonomics-on-air-fest-siriusxm-apple-spotify)
  - [Sources: OpenAI CTO Mira Murati brought questions about Sam Altman&#39;s management to the board last year before he was ousted; a new board is expected imminently &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p34#a240307p34)
- - [Best Smart Thermostats for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)
- - [A Record $12.5 Billion Lost to Internet Crime in 2023     - CNET](https://www.cnet.com/tech/services-and-software/a-record-12-5-billion-lost-to-internet-crime-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch the 2024 Oscars Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2024-oscars-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

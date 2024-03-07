@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New accessibility features rumored for iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/07/new-accessibility-features-rumored-for-ios-18-macos-15?utm_medium=rss)
  - [EA just added classics like Dungeon Keeper, SimCity 3000, and Populous on Steam](https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous)
- - [The US House Energy and Commerce Committee advances a bill that would force ByteDance to divest TikTok, after TikTok&#39;s campaign reportedly enraged legislators &lpar;Semafor&rpar;](http://www.techmeme.com/240307/p33#a240307p33)
+ - [The US House Energy and Commerce Committee advances a bill that would force ByteDance to divest TikTok, after TikTok&#39;s campaign reportedly enraged legislators &lpar;Mathias Hammer/Semafor&rpar;](http://www.techmeme.com/240307/p33#a240307p33)
  - [Score a Four Pack of Apple AirTags for Under $80 at Amazon     - CNET](https://www.cnet.com/deals/score-a-four-pack-of-apple-airtags-for-under-80-at-amazon/#ftag=CAD590a51e)
  - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
 

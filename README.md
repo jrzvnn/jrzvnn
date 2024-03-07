@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook Air review roundup: light and powerful AI machine](https://appleinsider.com/articles/24/03/07/m3-macbook-air-review-roundup-light-and-powerful-ai-machine?utm_medium=rss)
- - [A Montenegro court rules that Terraform Labs co-founder Do Kwon should be extradited to S. Korea, reversing another court&#39;s decision to extradite him to the US &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240307/p23#a240307p23)
- - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
- - [Why people are falling in love with AI chatbots](https://www.theverge.com/24092638/ai-dating-chatbots-romance-replika-tinder-decoder)
- - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)<!-- TECH:END -->
+ - [Spain-based Multiverse Computing, which makes software to compress LLMs using &quot;quantum-inspired tensor networks&quot;, raised a &amp;euro;25M Series A at a &amp;euro;100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240307/p25#a240307p25)
+ - [Sources: Discord revenue has quadrupled since 2020 to over $600M on an annualized basis; Discord says it now has 200M+ MAUs and launches rewards for gamers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240307/p24#a240307p24)
+ - [Pokémon Horizons: The Series is an evolutionary fresh start for the anime](https://www.theverge.com/24081618/pokemon-horizons-series-netflix-show-review)
+ - [Apple TV+ subscribers can tune in to &#39;Friday Night Baseball&#39; starting March 29](https://appleinsider.com/articles/24/03/07/apple-tv-subscribers-can-tune-in-to-friday-night-baseball-starting-march-29?utm_medium=rss)
+ - [M3 MacBook Air review roundup: light and powerful AI machine](https://appleinsider.com/articles/24/03/07/m3-macbook-air-review-roundup-light-and-powerful-ai-machine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)
  - [Filing: BlockFi and FTX reach a tentative agreement to settle all litigation, with BlockFi receiving claims of $185.2M against FTX and $689.3M against Alameda &lpar;Blockworks&rpar;](http://www.techmeme.com/240306/p34#a240306p34)
  - [Best 5G Phones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
  - [How Google Could Make the Pixel Watch 3 the Smartwatch to Beat     - CNET](https://www.cnet.com/tech/mobile/how-google-could-make-the-pixel-watch-3-the-smartwatch-to-beat/#ftag=CAD590a51e)
- - [T-Mobile&#39;s Midband 5G Network Is Getting Another Boost     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-midband-5g-network-is-getting-another-boost/#ftag=CAD590a51e)
- - [The biggest stories from Hot Pod Summit](https://www.theverge.com/2024/3/6/24092832/hot-pod-summit-ira-glass-programmatic-advertising-coops-defector)<!-- TECH:END -->
+ - [T-Mobile&#39;s Midband 5G Network Is Getting Another Boost     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-midband-5g-network-is-getting-another-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

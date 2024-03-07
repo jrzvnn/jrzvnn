@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Microsoft has run a local version of Bing in China since 2009, helping Beijing maintain its Great Firewall; China was just 1.8% of Microsoft&#39;s sales in 2020 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240307/p16#a240307p16)
+ - [Microsoft confirms Surface and Windows AI event for March 21st](https://www.theverge.com/2024/3/7/24093154/microsoft-surface-windows-ai-event-2024)
+ - [How the EU&#39;s DMA could impact Apple and Google&#39;s rivalry; sources say Google lobbied EU officials to allow apps downloaded outside of the main App Store in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240307/p15#a240307p15)
  - [Microsoft announces a New Era of Work event on March 21 at 9am PT, where updates to Windows 11, Copilot and Surface Pro and Laptop are expected &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240307/p14#a240307p14)
- - [As the EU&#39;s DMA takes effect, sources say the Biden administration, which sent two letters protesting the DMA, stopped short of pushing the issue with the EU &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240307/p13#a240307p13)
- - [Spotify plans to raise its prices in France due to a new tax law that adds a 1.2% tax on streaming companies&#39; revenue to help finance local music creation &lpar;Reuters&rpar;](http://www.techmeme.com/240307/p12#a240307p12)
- - [20.3-inch MacBook with foldable screen rumored to hit store shelves in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)
- - [EU tells Apple to justify its blocking of Epic Games](https://appleinsider.com/articles/24/03/07/eu-tells-apple-to-justify-its-blocking-of-epic-games?utm_medium=rss)<!-- TECH:END -->
+ - [As the EU&#39;s DMA takes effect, sources say the Biden administration, which sent two letters protesting the DMA, stopped short of pushing the issue with the EU &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240307/p13#a240307p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

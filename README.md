@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple isn&#39;t done with concessions in iOS to placate the European Union](https://appleinsider.com/articles/24/03/07/apple-isnt-done-with-concessions-in-ios-to-placate-the-european-union?utm_medium=rss)
+ - [VIP members, get exclusive deals on Apple&#39;s M3 MacBook Air](https://appleinsider.com/articles/24/03/06/exclusive-deals-hit-apples-m3-macbook-air-with-adorama-vip-membership?utm_medium=rss)
+ - [Some of the best Switch games are $20 off in the lead-up to Mario Day](https://www.theverge.com/2024/3/7/24092444/mario-kart-8-deluxe-ugreen-magsafe-charging-stand-logitech-crayon-stylus-deal-sale)
  - [Steve Jobs&#39; signature on 1976 Apple check will fetch thousands at auction](https://appleinsider.com/articles/24/03/07/steve-jobs-signature-on-1976-apple-check-will-fetch-thousands-at-auction?utm_medium=rss)
- - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)
- - [Overwatch 2’s Cowboy Bebop collaboration has won me back](https://www.theverge.com/2024/3/7/24093455/overwatch-2-cowboy-bebop-collaboration)
- - [Rivian R2 revealed: a $45,000 electric off-roader for the masses](https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price)
- - [Apple Watch owners can now update to watchOS 10.4](https://appleinsider.com/articles/24/03/07/apple-watch-owners-can-now-update-to-watchos-104?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out visionOS 1.1 with many bug fixes, Passcodes, and MDM](https://appleinsider.com/articles/24/03/07/apple-rolls-out-visionos-11-with-many-bug-fixes-passcodes-and-mdm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

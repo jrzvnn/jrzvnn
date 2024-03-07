@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas electric utility says its equipment was ‘involved’ in starting massive Smokehouse Creek Fire](https://www.theverge.com/2024/3/7/24093264/texas-utility-xcel-energy-smokehouse-creek-fire)
  - [Spain-based Multiverse Computing, which makes software to compress LLMs using &quot;quantum-inspired tensor networks&quot;, raised a &amp;euro;25M Series A at a &amp;euro;100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240307/p25#a240307p25)
+ - [Discord is partnering with game developers to sell themed avatars and profile effects](https://www.theverge.com/2024/3/7/24093134/discord-shop-avatar-profile-effects-game-developers)
  - [Sources: Discord revenue has quadrupled since 2020 to over $600M on an annualized basis; Discord says it now has 200M+ MAUs and launches rewards for gamers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240307/p24#a240307p24)
- - [Pokémon Horizons: The Series is an evolutionary fresh start for the anime](https://www.theverge.com/24081618/pokemon-horizons-series-netflix-show-review)
- - [Apple TV+ subscribers can tune in to &#39;Friday Night Baseball&#39; starting March 29](https://appleinsider.com/articles/24/03/07/apple-tv-subscribers-can-tune-in-to-friday-night-baseball-starting-march-29?utm_medium=rss)
- - [M3 MacBook Air review roundup: light and powerful AI machine](https://appleinsider.com/articles/24/03/07/m3-macbook-air-review-roundup-light-and-powerful-ai-machine?utm_medium=rss)<!-- TECH:END -->
+ - [Pokémon Horizons: The Series is an evolutionary fresh start for the anime](https://www.theverge.com/24081618/pokemon-horizons-series-netflix-show-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

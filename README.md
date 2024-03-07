@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Remofirst, which helps remote teams manage payroll, taxes, hiring-related compliance, compensation, and more, raised a $25M Series A led by Octopus Ventures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240306/p36#a240306p36)
  - [SpaceX allegedly fostered serial sexual abuse, according to this lawsuit](https://www.theverge.com/2024/3/6/24092721/spacex-lawsuit-sexual-bias-harassment-pay-inequity)
  - [Target will launch unlimited rush shipping subscription to rival Amazon Prime](https://www.theverge.com/2024/3/6/24092880/target-circle-360-free-delivery-shipping-annual-plan)
  - [Tesla Powerwall 3 Is Now Available: Here&#39;s How to Get Yours     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-powerwall-3-is-now-available-heres-how-to-get-yours/#ftag=CAD590a51e)
- - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)
- - [Tesla EV Costs in 2024: Price Breakdown of the World&#39;s Best-Selling Vehicle     - CNET](https://www.cnet.com/roadshow/news/tesla-ev-costs-in-2024-price-breakdown-of-the-worlds-best-selling-vehicle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DCG files a motion to dismiss NY AG Letitia James&#39; lawsuit over alleged $3B investor fraud, and CEO Barry Silbert files to dismiss accusations he hid losses &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240306/p35#a240306p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

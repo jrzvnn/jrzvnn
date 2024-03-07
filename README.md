@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After IAB appeals, the EU&#39;s highest court rules that IAB Europe&#39;s advertising model uses personal data and is therefore subject to GDPR &lpar;Cynthia Kroet/Euronews&rpar;](http://www.techmeme.com/240307/p18#a240307p18)
  - [Apple Vision Pro one month review: a new reality is setting in](https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in?utm_medium=rss)
  - [Sources detail Beijing&#39;s Document 79, issued in September 2022, directing state-owned companies to replace foreign email, HR, and other enterprise software &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240307/p17#a240307p17)
  - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)
- - [How Microsoft has run a local version of Bing in China since 2009, helping Beijing maintain its Great Firewall; China was just 1.8% of Microsoft&#39;s sales in 2020 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240307/p16#a240307p16)
- - [Microsoft confirms Surface and Windows AI event for March 21st](https://www.theverge.com/2024/3/7/24093154/microsoft-surface-windows-ai-event-2024)<!-- TECH:END -->
+ - [How Microsoft has run a local version of Bing in China since 2009, helping Beijing maintain its Great Firewall; China was just 1.8% of Microsoft&#39;s sales in 2020 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240307/p16#a240307p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

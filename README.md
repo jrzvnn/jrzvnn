@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
  - 😝 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
+ - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
  - 💣 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
  - 👉 [Never forget](http://9gag.com/gag/az265Oq)<!-- MEMES:END -->

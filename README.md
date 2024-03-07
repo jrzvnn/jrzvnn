@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC’s new climate disclosure rule already faces legal challenges](https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges)
+ - [Apple plans to let EU-based iPhone users uninstall Safari by 2024 end and is working on a more &quot;user-friendly&quot; way to let them switch to Android by fall 2025 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240307/p29#a240307p29)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The Fear That Inspired Elon Musk and Sam Altman to Create OpenAI](https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/)
- - [PayPal brings Tap to Pay on iPhone support for its business users](https://appleinsider.com/articles/24/03/07/paypal-brings-tap-to-pay-on-iphone-support-for-its-business-users?utm_medium=rss)
- - [Apple is working to make it easier to switch from iPhone to Android because of the EU](https://www.theverge.com/2024/3/7/24093355/apple-digital-markets-act-compliance-android-switch-eu)
- - [M3 MacBook Air Review: Redefining Portable Performance     - CNET](https://www.cnet.com/tech/computing/m3-macbook-air-review-13-inch-2024-apples-everything-laptop/#ftag=CAD590a51e)
- - [TikTok sends US users a push notification saying Congress plans a total ban, with a link to find representatives, after the White House supported a TikTok bill &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240307/p28#a240307p28)<!-- TECH:END -->
+ - [PayPal brings Tap to Pay on iPhone support for its business users](https://appleinsider.com/articles/24/03/07/paypal-brings-tap-to-pay-on-iphone-support-for-its-business-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

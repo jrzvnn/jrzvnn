@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is urging users to call Congress about a looming ban](https://www.theverge.com/2024/3/7/24093308/tiktok-congress-ban-push-notification)
  - [Sources: Temu became Meta&#39;s top advertiser by revenue in 2023 by spending nearly $2B, and became one of Google&#39;s top five advertisers by spending in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240307/p27#a240307p27)
  - [Apple Vision Pro one month review: a new reality is setting in](https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in?utm_medium=rss)
  - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [TCL Q6310 Soundbar Review: Solid Sound, Uninspiring](https://www.wired.com/review/tcl-q6310/)
- - [How to watch Rivian’s R2 electric SUV reveal event](https://www.theverge.com/2024/3/7/24093324/rivian-r2-event-ev-price-livestream-how-to-watch)<!-- TECH:END -->
+ - [TCL Q6310 Soundbar Review: Solid Sound, Uninspiring](https://www.wired.com/review/tcl-q6310/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

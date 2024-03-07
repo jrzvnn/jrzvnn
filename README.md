@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)
  - 😝 [And!](http://9gag.com/gag/aoKBg7e)
- - 😝 [Good job, mate](http://9gag.com/gag/a9q31E1)
- - 💣 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)
+ - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 👉 [Okie Dokie](http://9gag.com/gag/a5XLW7q)<!-- MEMES:END -->
 
 ---
 

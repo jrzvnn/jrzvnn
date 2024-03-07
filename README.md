@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)
- - 😝 [And!](http://9gag.com/gag/aoKBg7e)
- - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 😝 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
+ - 😝 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 💣 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)<!-- MEMES:END -->
+ - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
 
 ---
 

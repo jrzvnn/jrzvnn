@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New accessibility features rumored for iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/07/new-accessibility-features-rumored-for-ios-18-macos-15?utm_medium=rss)
+ - [EA just added classics like Dungeon Keeper, SimCity 3000, and Populous on Steam](https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous)
  - [The US House Energy and Commerce Committee advances a bill that would force ByteDance to divest TikTok, after TikTok&#39;s campaign reportedly enraged legislators &lpar;Semafor&rpar;](http://www.techmeme.com/240307/p33#a240307p33)
- - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)
- - [Congressional offices are being flooded with calls from angry constituents following TikTok&#39;s push notification asking users to call their representatives &lpar;Axios&rpar;](http://www.techmeme.com/240307/p32#a240307p32)
- - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Microsoft Office Home &amp; Business is 77% off during latest flash sale](https://appleinsider.com/articles/24/03/07/microsoft-office-home-business-is-77-off-during-latest-flash-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Score a Four Pack of Apple AirTags for Under $80 at Amazon     - CNET](https://www.cnet.com/deals/score-a-four-pack-of-apple-airtags-for-under-80-at-amazon/#ftag=CAD590a51e)
+ - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

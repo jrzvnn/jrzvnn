@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
- - 😝 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Fake coochie](http://9gag.com/gag/aEqePro)<!-- MEMES:END -->
+ - 👉 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)<!-- MEMES:END -->
 
 ---
 

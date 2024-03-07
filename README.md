@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify plans to raise its prices in France due to a new tax law that adds a 1.2% tax on streaming companies&#39; revenue to help finance local music creation &lpar;Reuters&rpar;](http://www.techmeme.com/240307/p12#a240307p12)
  - [20.3-inch MacBook with foldable screen rumored to hit store shelves in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)
  - [EU tells Apple to justify its blocking of Epic Games](https://appleinsider.com/articles/24/03/07/eu-tells-apple-to-justify-its-blocking-of-epic-games?utm_medium=rss)
- - [Spring into solar with a Bluetti portable power station, now up to $1,900 off](https://appleinsider.com/articles/24/03/07/spring-into-solar-with-a-bluetti-portable-power-station-now-up-to-1900-off?utm_medium=rss)
- - [Robinhood says up to 25% of its trading volume is outside of traditional market hours, and investors have traded $10B+ overnight since its 24-hour rules in 2023 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240307/p11#a240307p11)
- - [Analysis: Temu and Shein are spending heavily on Facebook, X, and YouTube ads in the US; Temu placed ~1.4M ads globally on Google services in the past year &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p10#a240307p10)<!-- TECH:END -->
+ - [Just One Day Remains to Order Free COVID-19 Tests From USPS     - CNET](https://www.cnet.com/health/just-one-day-remains-to-order-free-covid-19-tests-from-usps/#ftag=CAD590a51e)
+ - [Spring into solar with a Bluetti portable power station, now up to $1,900 off](https://appleinsider.com/articles/24/03/07/spring-into-solar-with-a-bluetti-portable-power-station-now-up-to-1900-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

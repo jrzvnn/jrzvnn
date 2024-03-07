@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third-party App Stores will only work for 30 days if you leave the EU](https://appleinsider.com/articles/24/03/07/third-party-app-stores-will-only-work-for-30-days-if-you-leave-the-eu?utm_medium=rss)
+ - [Apple has a specific Windows Migration Assistant version for macOS Sonoma](https://appleinsider.com/articles/24/03/07/apple-has-a-specific-windows-migration-assistant-version-for-macos-sonoma?utm_medium=rss)
  - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [Rivian surprises with R3 and R3X electric SUVs](https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs)
- - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
- - [Denver-based Todyl, a cybersecurity startup focused on SMBs, raised a $50M Series B led by Base10 Partners, bringing its total funding to $83.8M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p30#a240307p30)
- - [Apple isn&#39;t done with concessions in iOS to placate the European Union](https://appleinsider.com/articles/24/03/07/apple-isnt-done-with-concessions-in-ios-to-placate-the-european-union?utm_medium=rss)<!-- TECH:END -->
+ - [Best Luxury Mattress in 2024     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

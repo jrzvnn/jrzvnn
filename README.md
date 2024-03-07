@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
- - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 😝 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
+ - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rozana, a rural e-commerce and logistics service presently serving 12,000+ villages across India, raised a $22.5M Series A led by Bertelsmann India Investments &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240307/p3#a240307p3)
+ - [Dubai-based social media startup Hunch, which operates an anonymous polling service and claims to have 1M+ users across 22 Indian cities, raised a $23M Series A &lpar;Akshit Pushkarna/Inc42 Media&rpar;](http://www.techmeme.com/240307/p2#a240307p2)
  - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
- - [Wacom One 13 Touch review: Way better than before, still doesn&#39;t edge out iPad](https://appleinsider.com/articles/24/03/07/wacom-one-13-touch-review-way-better-than-before-still-doesnt-edge-out-ipad?utm_medium=rss)
- - [Source: Y Combinator CEO Garry Tan early this year talked with OpenAI directors about joining the board, but it is unclear if the board is still considering Tan &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240306/p39#a240306p39)
- - [SK Hynix plans to invest over $1B in advanced chip packaging in South Korea, as the company hopes to capture the growing demand for high-bandwidth memory &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240306/p38#a240306p38)
- - [20.3-inch foldable MacBook expected in 2027](https://appleinsider.com/articles/24/03/07/203-inch-foldable-macbook-expected-in-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Best Gel Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
+ - [Wacom One 13 Touch review: Way better than before, still doesn&#39;t edge out iPad](https://appleinsider.com/articles/24/03/07/wacom-one-13-touch-review-way-better-than-before-still-doesnt-edge-out-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

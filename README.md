@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New accessibility features rumored for iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/07/new-accessibility-features-rumored-for-ios-18-macos-15?utm_medium=rss)
- - [EA just added classics like Dungeon Keeper, SimCity 3000, and Populous on Steam](https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous)
- - [The US House Energy and Commerce Committee advances a bill that would force ByteDance to divest TikTok, after TikTok&#39;s campaign reportedly enraged legislators &lpar;Mathias Hammer/Semafor&rpar;](http://www.techmeme.com/240307/p33#a240307p33)
- - [Score a Four Pack of Apple AirTags for Under $80 at Amazon     - CNET](https://www.cnet.com/deals/score-a-four-pack-of-apple-airtags-for-under-80-at-amazon/#ftag=CAD590a51e)
- - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
+ - [Sources: OpenAI CTO Mira Murati brought questions about Sam Altman&#39;s management to the board last year before he was ousted; a new board is expected imminently &lpar;New York Times&rpar;](http://www.techmeme.com/240307/p34#a240307p34)
+ - [Best Smart Thermostats for March 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostats/#ftag=CAD590a51e)
+ - [A Record $12.5 Billion Lost to Internet Crime in 2023     - CNET](https://www.cnet.com/tech/services-and-software/a-record-12-5-billion-lost-to-internet-crime-in-2023/#ftag=CAD590a51e)
+ - [Prepology Over Sink Colander &amp; Basin     - CNET](https://www.cnet.com/news/prepology-over-sink-colander-basin-dpnl/#ftag=CAD590a51e)
+ - [Mally Airbrush Highlighter Trio     - CNET](https://www.cnet.com/culture/fashion/mally-effortless-airbrush-highlighter-trio-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

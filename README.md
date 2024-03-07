@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now I know what to do at escalators](http://9gag.com/gag/a8qrApe)
- - 😝 [Fake coochie](http://9gag.com/gag/aEqePro)
- - 💣 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 😝 [Hide &amp; Seek](http://9gag.com/gag/az265Vb)
+ - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
+ - 💣 [Emergency suit](http://9gag.com/gag/aBdDyQO)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
+ - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
 
 ---
 

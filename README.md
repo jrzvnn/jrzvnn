@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google opens a cyberdefense hub in Tokyo, its first in the Asia-Pacific region, and will invite experts in the region to study countermeasures for cyberattacks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240307/p5#a240307p5)
  - [FBI: in 2023, Americans reported $12.5B+ in losses to online fraud, up 22% YoY; losses to investment fraud grew 38% YoY to $4.57B, with $3.94B related to crypto &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240307/p4#a240307p4)
  - [Rozana, a rural e-commerce and logistics service presently serving 12,000+ villages across India, raised a $22.5M Series A led by Bertelsmann India Investments &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240307/p3#a240307p3)
  - [Dubai-based social media startup Hunch, which operates an anonymous polling service and claims to have 1M+ users across 22 Indian cities, raised a $23M Series A &lpar;Akshit Pushkarna/Inc42 Media&rpar;](http://www.techmeme.com/240307/p2#a240307p2)
- - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)
- - [Best Gel Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris-based Zama, an open-source cryptography startup developing fully homomorphic encryption technology for blockchain and AI apps, raised a $73M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240307/p1#a240307p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why people are falling in love with AI chatbots](https://www.theverge.com/24092638/ai-dating-chatbots-romance-replika-tinder-decoder)
+ - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
  - [Sources: after the resolution of the Sequoia-Klarna ordeal, Klarna&#39;s co-founders continue to clash on key governance decisions, like post-IPO control of Klarna &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p22#a240307p22)
- - [In X replies, Elon Musk says a future version of X&#39;s timeline will only show view counts, and users can swipe right to reply, left to favorite, and tap for more &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/240307/p21#a240307p21)
- - [The White House Is Briefing Dozens of Online Creators on Biden’s State of the Union Address](https://www.wired.com/story/biden-white-house-state-of-the-union-address-influencers/)
- - [How to collaborate on playlists in Apple Music](https://www.theverge.com/24092496/apple-music-collaborate-playlists-how-to)
- - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)<!-- TECH:END -->
+ - [Netflix’s next live event is a fight between Jake Paul and Mike Tyson](https://www.theverge.com/2024/3/7/24093240/netflix-jake-paul-mike-tyson-boxing-fight-live)
+ - [In X replies, Elon Musk says a future version of X&#39;s timeline will only show view counts, and users can swipe right to reply, left to favorite, and tap for more &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/240307/p21#a240307p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

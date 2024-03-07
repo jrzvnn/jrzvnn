@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Temu became Meta&#39;s top advertiser by revenue in 2023 by spending nearly $2B, and became one of Google&#39;s top five advertisers by spending in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240307/p27#a240307p27)
+ - [Apple Vision Pro one month review: a new reality is setting in](https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in?utm_medium=rss)
+ - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [TCL Q6310 Soundbar Review: Solid Sound, Uninspiring](https://www.wired.com/review/tcl-q6310/)
- - [How to watch Rivian’s R2 electric SUV reveal event](https://www.theverge.com/2024/3/7/24093324/rivian-r2-event-ev-price-livestream-how-to-watch)
- - [Inflection launches Inflection-2.5 and says it performs &quot;neck and neck with&quot; OpenAI&#39;s GPT-4; its chatbot Pi has 1M DAUs and 6M MAUs &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240307/p26#a240307p26)
- - [Texas electric utility says its equipment was ‘involved’ in starting massive Smokehouse Creek Fire](https://www.theverge.com/2024/3/7/24093264/texas-utility-xcel-energy-smokehouse-creek-fire)
- - [Spain-based Multiverse Computing, which makes software to compress LLMs using &quot;quantum-inspired tensor networks&quot;, raised a &amp;euro;25M Series A at a &amp;euro;100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240307/p25#a240307p25)<!-- TECH:END -->
+ - [How to watch Rivian’s R2 electric SUV reveal event](https://www.theverge.com/2024/3/7/24093324/rivian-r2-event-ev-price-livestream-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

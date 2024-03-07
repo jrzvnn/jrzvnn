@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House Energy and Commerce Committee advances a bill that would force ByteDance to divest TikTok, after TikTok&#39;s campaign reportedly enraged legislators &lpar;Semafor&rpar;](http://www.techmeme.com/240307/p33#a240307p33)
  - [Here’s where you can preorder Apple’s new M3-powered MacBook Air](https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price)
  - [Congressional offices are being flooded with calls from angry constituents following TikTok&#39;s push notification asking users to call their representatives &lpar;Axios&rpar;](http://www.techmeme.com/240307/p32#a240307p32)
  - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Microsoft Office Home &amp; Business is 77% off during latest flash sale](https://appleinsider.com/articles/24/03/07/microsoft-office-home-business-is-77-off-during-latest-flash-sale?utm_medium=rss)
- - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)<!-- TECH:END -->
+ - [Microsoft Office Home &amp; Business is 77% off during latest flash sale](https://appleinsider.com/articles/24/03/07/microsoft-office-home-business-is-77-off-during-latest-flash-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How smart home technology made my home more accessible](https://www.theverge.com/24080201/smart-home-accessibility-apple-nest-alexa)
- - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)
- - [After IAB appeals, the EU&#39;s highest court rules that IAB Europe&#39;s advertising model uses personal data and is therefore subject to GDPR &lpar;Cynthia Kroet/Euronews&rpar;](http://www.techmeme.com/240307/p18#a240307p18)
- - [Apple Vision Pro one month review: a new reality is setting in](https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in?utm_medium=rss)
- - [Sources detail Beijing&#39;s Document 79, issued in September 2022, directing state-owned companies to replace foreign email, HR, and other enterprise software &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240307/p17#a240307p17)<!-- TECH:END -->
+ - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)
+ - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)
+ - [Adobe adds generative AI to new Express mobile app that’s free to try](https://www.theverge.com/2024/3/7/24093148/adobe-express-mobile-app-beta-firefly-generative-ai-design-tool)
+ - [The M3 MacBook Air has a familiar look](https://www.theverge.com/24092910/apple-macbook-air-m3-first-impressions)
+ - [Leica put all of its best specs into the new $6,995 SL3](https://www.theverge.com/24092739/leica-sl3-camera-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

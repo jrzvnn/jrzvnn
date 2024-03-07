@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 😝 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)
- - 💣 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
+ - 😝 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
+ - 😝 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [When you date a girl with a dog](http://9gag.com/gag/aL1qvN5)<!-- MEMES:END -->
+ - 👉 [Fake coochie](http://9gag.com/gag/aEqePro)<!-- MEMES:END -->
 
 ---
 

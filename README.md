@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hide &amp; Seek](http://9gag.com/gag/az265Vb)
+ - 😝 [Shotgun blues](http://9gag.com/gag/a5XLV3q)
  - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
  - 💣 [Emergency suit](http://9gag.com/gag/aBdDyQO)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)

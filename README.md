@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman sexually assaults a worker](http://9gag.com/gag/aQEYXVz)
- - 😝 [She is such a cinnamon rolls](http://9gag.com/gag/amADg49)
- - 💣 [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 😝 [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
+ - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to collaborate on playlists in Apple Music](https://www.theverge.com/24092496/apple-music-collaborate-playlists-how-to)
  - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)
  - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)
  - [Adobe adds generative AI to new Express mobile app that’s free to try](https://www.theverge.com/2024/3/7/24093148/adobe-express-mobile-app-beta-firefly-generative-ai-design-tool)
- - [The M3 MacBook Air has a familiar look](https://www.theverge.com/24092910/apple-macbook-air-m3-first-impressions)
- - [Leica put all of its best specs into the new $6,995 SL3](https://www.theverge.com/24092739/leica-sl3-camera-price-release-date)<!-- TECH:END -->
+ - [The M3 MacBook Air has a familiar look](https://www.theverge.com/24092910/apple-macbook-air-m3-first-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shotgun blues](http://9gag.com/gag/a5XLV3q)
- - 😝 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
- - 💣 [Emergency suit](http://9gag.com/gag/aBdDyQO)
- - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 😝 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 💣 [Dark age](http://9gag.com/gag/ajV271g)
+ - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
+ - 👉 [There is some meme potential](http://9gag.com/gag/agoRoDq)<!-- MEMES:END -->
 
 ---
 

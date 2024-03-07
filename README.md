@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn says its premium subscriptions unit hit $1.7B in revenue in 2023; COO Dan Shapero says premium subscribers rose 25% in 2023 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240307/p31#a240307p31)
+ - [The 20 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Rivian R2, R3, R3X: Price, Specs, Release Date](https://www.wired.com/story/rivian-r2-r3-r3x-announced/)
  - [Third-party App Stores will only work for 30 days if you leave the EU](https://appleinsider.com/articles/24/03/07/third-party-app-stores-will-only-work-for-30-days-if-you-leave-the-eu?utm_medium=rss)
- - [Apple has a specific Windows Migration Assistant version for macOS Sonoma](https://appleinsider.com/articles/24/03/07/apple-has-a-specific-windows-migration-assistant-version-for-macos-sonoma?utm_medium=rss)
- - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [Rivian surprises with R3 and R3X electric SUVs](https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs)<!-- TECH:END -->
+ - [Apple has a specific Windows Migration Assistant version for macOS Sonoma](https://appleinsider.com/articles/24/03/07/apple-has-a-specific-windows-migration-assistant-version-for-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says on X that only view counts will show on the X timeline and users can swipe right to reply, left to favorite, and tap for more, in a future update &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/240307/p21#a240307p21)
+ - [The White House Is Briefing Dozens of Online Creators on Biden’s State of the Union Address](https://www.wired.com/story/biden-white-house-state-of-the-union-address-influencers/)
  - [How to collaborate on playlists in Apple Music](https://www.theverge.com/24092496/apple-music-collaborate-playlists-how-to)
  - [MacBook Air &lpar;2024&rpar; review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240307/p20#a240307p20)
- - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)
- - [Adobe adds generative AI to new Express mobile app that’s free to try](https://www.theverge.com/2024/3/7/24093148/adobe-express-mobile-app-beta-firefly-generative-ai-design-tool)
- - [The M3 MacBook Air has a familiar look](https://www.theverge.com/24092910/apple-macbook-air-m3-first-impressions)<!-- TECH:END -->
+ - [Amazon’s new Fallout trailer looks just like the games: grim, goofy, and gruesome](https://www.theverge.com/24092492/fallout-trailer-amazon-bethesda-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

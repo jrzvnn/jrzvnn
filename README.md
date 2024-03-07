@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Browser History Remains Uncleared](http://9gag.com/gag/amADv5y)
- - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 💣 [And!](http://9gag.com/gag/aoKBg7e)
+ - 😝 [When life gives you lemons](http://9gag.com/gag/ay2y9Op)
+ - 😝 [Can anyone guess?](http://9gag.com/gag/aDYBYmO)
+ - 💣 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
+ - 👉 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)<!-- MEMES:END -->
 
 ---
 

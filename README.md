@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - 😝 [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)
- - 💣 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
+ - 😝 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
+ - 💣 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
+ - 👉 [Never forget](http://9gag.com/gag/az265Oq)<!-- MEMES:END -->
 
 ---
 

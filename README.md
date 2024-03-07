@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
  - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 💣 [How to make things worse](http://9gag.com/gag/aqevjMv)
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 💣 [In Chinese online stores, sellers wear masks with black faces to add authenticity to streams of fake Air Jordans being sold.](http://9gag.com/gag/aQEYEbz)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [Shall I help her?](http://9gag.com/gag/adP3Ped)<!-- MEMES:END -->
+ - 👉 [Not a mainstream media material...](http://9gag.com/gag/a9q31XZ)<!-- MEMES:END -->
 
 ---
 

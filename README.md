@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air review roundup: light and powerful AI machine](https://appleinsider.com/articles/24/03/07/m3-macbook-air-review-roundup-light-and-powerful-ai-machine?utm_medium=rss)
+ - [A Montenegro court rules that Terraform Labs co-founder Do Kwon should be extradited to S. Korea, reversing another court&#39;s decision to extradite him to the US &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240307/p23#a240307p23)
+ - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
  - [Why people are falling in love with AI chatbots](https://www.theverge.com/24092638/ai-dating-chatbots-romance-replika-tinder-decoder)
- - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
- - [Sources: after the resolution of the Sequoia-Klarna ordeal, Klarna&#39;s co-founders continue to clash on key governance decisions, like post-IPO control of Klarna &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p22#a240307p22)
- - [Netflix’s next live event is a fight between Jake Paul and Mike Tyson](https://www.theverge.com/2024/3/7/24093240/netflix-jake-paul-mike-tyson-boxing-fight-live)
- - [In X replies, Elon Musk says a future version of X&#39;s timeline will only show view counts, and users can swipe right to reply, left to favorite, and tap for more &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/240307/p21#a240307p21)<!-- TECH:END -->
+ - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

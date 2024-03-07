@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How smart home technology made my home more accessible](https://www.theverge.com/24080201/smart-home-accessibility-apple-nest-alexa)
  - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)
  - [After IAB appeals, the EU&#39;s highest court rules that IAB Europe&#39;s advertising model uses personal data and is therefore subject to GDPR &lpar;Cynthia Kroet/Euronews&rpar;](http://www.techmeme.com/240307/p18#a240307p18)
  - [Apple Vision Pro one month review: a new reality is setting in](https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in?utm_medium=rss)
- - [Sources detail Beijing&#39;s Document 79, issued in September 2022, directing state-owned companies to replace foreign email, HR, and other enterprise software &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240307/p17#a240307p17)
- - [SwitchBot’s robot hand to unlock your door gets a big upgrade](https://www.theverge.com/2024/3/7/24092325/switchbot-lock-pro-features-release-date-price-specs)<!-- TECH:END -->
+ - [Sources detail Beijing&#39;s Document 79, issued in September 2022, directing state-owned companies to replace foreign email, HR, and other enterprise software &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240307/p17#a240307p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

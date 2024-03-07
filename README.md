@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 😝 [Fake coochie](http://9gag.com/gag/aEqePro)
- - 💣 [Good job, mate](http://9gag.com/gag/a9q31E1)
+ - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
+ - 😝 [How painting can modify the perceptiion of spaces in a room.](http://9gag.com/gag/aKEbEQ6)
+ - 💣 [How a guy gets free drinks.](http://9gag.com/gag/aA0n0qo)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
- - 👉 [How far this shit go](http://9gag.com/gag/agoRmx6)<!-- MEMES:END -->
+ - 👉 [When you date a girl with a dog](http://9gag.com/gag/aL1qvN5)<!-- MEMES:END -->
 
 ---
 

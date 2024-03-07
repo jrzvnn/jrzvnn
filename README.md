@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
+ - 😝 [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)
+ - 💣 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
+ - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
 
 ---
 

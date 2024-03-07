@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Rivian R2 launch event: the EV company’s more affordable SUV is here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
  - [Apple’s last-minute App Store changes come with a catch — here’s what developers think](https://www.theverge.com/2024/3/7/24093202/apple-developers-revert-business-terms-eu-dma)
  - [The SEC’s new climate disclosure rule already faces legal challenges](https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges)
- - [Apple plans to let EU-based iPhone users uninstall Safari by 2024 end and is working on a more &quot;user-friendly&quot; way to let them switch to Android by fall 2025 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240307/p29#a240307p29)
+ - [Apple plans to let EU-based iPhone users uninstall Safari by 2024&#39;s end and is working on a more &quot;user-friendly&quot; way to let them switch to Android by fall 2025 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240307/p29#a240307p29)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

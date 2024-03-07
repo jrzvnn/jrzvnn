@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Okie Dokie](http://9gag.com/gag/a5XLW7q)
  - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 💣 [Fake coochie](http://9gag.com/gag/aEqePro)
+ - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
  - 😝 [#Ad Behold the unmatched power and strength of Goro!](http://9gag.com/gag/aA0nGXo)
  - 👉 [How to make things worse](http://9gag.com/gag/aqevjMv)<!-- MEMES:END -->
 

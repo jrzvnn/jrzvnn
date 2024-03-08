@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
  - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
+ - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
  - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
  - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
  - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->

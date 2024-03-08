@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a title, yes](http://9gag.com/gag/aYVzOVm)
- - 😝 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
- - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 👉 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)<!-- MEMES:END -->
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
 
 ---
 

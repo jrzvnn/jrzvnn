@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple MacBook Air &lpar;13-inch, 2024&rpar; Review: Price, Specs, Rating, Availability](https://www.wired.com/review/apple-macbook-air-13-inch-2024/)
+ - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)
  - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)
  - [Trump comes out in support of TikTok, saying a ban will help &quot;Facebook and Zuckerschmuck&quot; double their business and Facebook is the &quot;true enemy of the people&quot; &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240308/p8#a240308p8)
- - [Apple&#39;s handling of Epic&#39;s account closure turned a US contract dispute into a DMA enforcement priority due to the appearance of a gatekeeper silencing critics &lpar;Florian Mueller/games fray&rpar;](http://www.techmeme.com/240308/p7#a240308p7)
- - [Sources: China is in the process of raising $27B+ for its largest chip fund ever to counter US curbs, with most of the capital expected from local governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p6#a240308p6)
- - [Best Internet Providers in Aiken, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aiken-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s handling of Epic&#39;s account closure turned a US contract dispute into a DMA enforcement priority due to the appearance of a gatekeeper silencing critics &lpar;Florian Mueller/games fray&rpar;](http://www.techmeme.com/240308/p7#a240308p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

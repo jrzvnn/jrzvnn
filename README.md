@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wyoming passes the Decentralized Unincorporated Nonprofit Association Act, a framework to recognize DAOs as legal entities; a16z crypto supported the law &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240308/p17#a240308p17)
+ - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [Epic Games just got unbanned by Apple — again](https://www.theverge.com/2024/3/8/24094543/epic-games-ios-developer-license-apple-dma)
- - [M3 MacBook Air arrives, Apple Vision Pro stays, and Apple Car goes](https://appleinsider.com/articles/24/03/08/m3-macbook-air-arrives-apple-vision-pro-stays-and-apple-car-goes?utm_medium=rss)
- - [iPad Air 6 could get 10th generation iPad landscape FaceTime camera](https://appleinsider.com/articles/24/03/08/ipad-air-6-could-get-10th-generation-ipad-landscape-facetime-camera?utm_medium=rss)
- - [Under pressure, Apple will restore Epic Games&#39; developer account in the EU](https://appleinsider.com/articles/24/03/08/under-pressure-apple-will-restore-epic-games-developer-account-in-the-eu?utm_medium=rss)
- - [Epic says Apple has reinstated its developer account, clearing the way for its Epic Games Store in the EU; Tim Sweeney says the move followed a swift EU inquiry &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240308/p16#a240308p16)<!-- TECH:END -->
+ - [M3 MacBook Air arrives, Apple Vision Pro stays, and Apple Car goes](https://appleinsider.com/articles/24/03/08/m3-macbook-air-arrives-apple-vision-pro-stays-and-apple-car-goes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

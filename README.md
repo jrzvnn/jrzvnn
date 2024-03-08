@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
  - 💣 [Watch to the end](http://9gag.com/gag/axop6vW)
  - 😝 [Ahhh, my sly friend Bobby Kotick](http://9gag.com/gag/a8qr081)
- - 👉 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)<!-- MEMES:END -->
+ - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
  - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
  - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---

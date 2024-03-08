@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - 😝 [Counting calories](http://9gag.com/gag/a9q3z5K)
- - 💣 [Right in the pronouns](http://9gag.com/gag/aXn8LBD)
+ - 😝 [Undeniably fine benefits](http://9gag.com/gag/aKEbGNN)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 💣 [Frozen city](http://9gag.com/gag/aQEYvzq)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
+ - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
 
 ---
 

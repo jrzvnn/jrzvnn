@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Netflix&#39;s stand-up specials, COVID, and rise of platforms like TikTok and YouTube have transformed the comedy business, broadening comedians&#39; reach &lpar;Addie Morfoot/Variety&rpar;](http://www.techmeme.com/240308/p5#a240308p5)
+ - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
+ - [You Can Finally Disable Read Receipts for DMs on Instagram. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/you-can-finally-disable-read-receipts-for-dms-on-instagram-heres-how/#ftag=CAD590a51e)
  - [Fortnite’s new season brings Greek gods to the battle royale](https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale)
- - [Best Galaxy S24 Deals: Get the Latest Samsung Phone for Free Plus $100 Discounts and Bonus Items     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
- - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)
- - [Apple Could Be the First Target of Europe&#39;s Tough New Tech Law](https://www.wired.com/story/apple-target-dma-europe-tough-new-law/)
- - [Tests show GPT 3.5 systematically produces biases that disadvantage protected groups based on their names alone when screening and ranking candidates for jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p3#a240308p3)<!-- TECH:END -->
+ - [Best Galaxy S24 Deals: Get the Latest Samsung Phone for Free Plus $100 Discounts and Bonus Items     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

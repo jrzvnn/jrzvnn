@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)
+ - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)
  - [Sources: some NIST staff have threatened to resign over the expected appointment of an &quot;effective altruist&quot; AI researcher to the US AI Safety Institute &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240308/p19#a240308p19)
  - [Stearns &amp; Foster Mattresses 2024 Compared     - CNET](https://www.cnet.com/health/sleep/stearns-foster-mattress-reviews/#ftag=CAD590a51e)
- - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)
- - [Learn Languages on Your Own Schedule With This $160 Babbel Deal     - CNET](https://www.cnet.com/deals/learn-languages-on-your-own-scheduled-with-this-160-babbel-deal/#ftag=CAD590a51e)
- - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

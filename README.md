@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)
+ - [Apple Could Be the First Target of Europe&#39;s Tough New Tech Law](https://www.wired.com/story/apple-target-dma-europe-tough-new-law/)
  - [Tests show GPT 3.5 systematically produces biases that disadvantage protected groups based on their names alone when screening and ranking candidates for jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p3#a240308p3)
  - [Broadcom expects $10B in revenue from AI-related chips in 2024, as CEO Hock Tan says AI revenue, up 4x YoY to $2.3B in Q1, offset cyclical business slowdown &lpar;Reuters&rpar;](http://www.techmeme.com/240308/p2#a240308p2)
- - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)
- - [Denver-based Maybell Quantum, which is developing systems to make quantum tech more reliable, scalable, and accessible, raised a $25M Series A &lpar;Cassidy Ritter/Denver Business Journal&rpar;](http://www.techmeme.com/240307/p43#a240307p43)
- - [India approves a ~$1.25B investment in AI projects over five years, including for optimizing compute infrastructure, LLM development, and education in AI &lpar;The Economic Times&rpar;](http://www.techmeme.com/240307/p42#a240307p42)<!-- TECH:END -->
+ - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

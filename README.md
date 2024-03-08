@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says Russian hackers stole source code after spying on its executives](https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code)
  - [EU DMA architect says Apple seems to want to be fined for non-compliance](https://appleinsider.com/articles/24/03/08/eu-dma-architect-says-apple-seems-to-want-to-be-fined-for-non-compliance?utm_medium=rss)
  - [This Senator Wants to Know What Meta and TikTok Are Doing About Parent-Run Girl Influencer Accounts](https://www.wired.com/story/senator-asks-meta-tiktok-parents-girls-influencer-accounts/)
  - [No, &#39;Leave the World Behind&#39; and &#39;Civil War&#39; Aren’t Happening Before Your Eyes](https://www.wired.com/story/leave-the-world-behind-civil-war-conspiracies/)
- - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)
- - [The New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)<!-- TECH:END -->
+ - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

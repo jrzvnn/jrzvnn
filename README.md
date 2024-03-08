@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 💣 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
+ - 😝 [Counting calories](http://9gag.com/gag/a9q3z5K)
+ - 💣 [Right in the pronouns](http://9gag.com/gag/aXn8LBD)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 👉 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)<!-- MEMES:END -->
 
 ---
 

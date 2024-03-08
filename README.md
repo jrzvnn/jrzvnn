@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 💣 [Watch to the end](http://9gag.com/gag/axop6vW)
- - 😝 [Ahhh, my sly friend Bobby Kotick](http://9gag.com/gag/a8qr081)
- - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
+ - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 💣 [I need that man\u2019s patience](http://9gag.com/gag/a9q3y9K)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---
 

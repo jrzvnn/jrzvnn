@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say SMIC used equipment from California-based Applied Materials and Lam Research to manufacture an advanced 7nm chip for Huawei in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p41#a240307p41)
  - [Colorado Springs-based Defense Unicorns, which provides open-source software and AI applications for US national security systems, raised a $35M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/240307/p40#a240307p40)
  - [X announces Articles, a feature to write and share long-form content with a basic text-editing interface, for verified organizations and Premium+ subscribers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240307/p39#a240307p39)
- - [Best Internet Providers in Warner Robins, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-warner-robins-ga/#ftag=CAD590a51e)
  - [Google says Gemini Nano won&#39;t come to the Pixel 8 due to &quot;some hardware limitations&quot;, but plans to bring the LLM to more &quot;high-end devices in the near future&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240307/p38#a240307p38)
  - [Apple TV+ movies struggling to prevail in theaters still considered &#39;profitable&#39;](https://appleinsider.com/articles/24/03/08/apple-tv-movies-struggling-to-prevail-in-theaters-still-considered-profitable?utm_medium=rss)<!-- TECH:END -->
 

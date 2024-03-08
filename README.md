@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air arrives, Apple Vision Pro stays, and Apple Car goes](https://appleinsider.com/articles/24/03/08/m3-macbook-air-arrives-apple-vision-pro-stays-and-apple-car-goes?utm_medium=rss)
+ - [iPad Air 6 could get 10th generation iPad landscape FaceTime camera](https://appleinsider.com/articles/24/03/08/ipad-air-6-could-get-10th-generation-ipad-landscape-facetime-camera?utm_medium=rss)
  - [Under pressure, Apple will restore Epic Games&#39; developer account in the EU](https://appleinsider.com/articles/24/03/08/under-pressure-apple-will-restore-epic-games-developer-account-in-the-eu?utm_medium=rss)
  - [Epic says Apple has reinstated its developer account, clearing the way for its Epic Games Store in the EU; Tim Sweeney says the move followed a swift EU inquiry &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240308/p16#a240308p16)
- - [Sources: TSMC is set to win $5B+ in grants for its Arizona chipmaking project; Samsung offered more US investment to its $17B Texas factory to boost its award &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240308/p15#a240308p15)
- - [Florida charges two teens under a 2022 law for allegedly creating and sharing deepfake nudes of classmates, in what appears to be the first such criminal case &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240308/p14#a240308p14)
- - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)<!-- TECH:END -->
+ - [Casper Snow Hybrid Mattress Review 2024: A Fresh Take on a Cooling Memory Foam Bed     - CNET](https://www.cnet.com/health/sleep/casper-snow-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

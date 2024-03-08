@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sensor Tower: Instagram&#39;s total app downloads grew 20% YoY in 2023 to 768M, making it the most downloaded app worldwide; TikTok had 733M downloads, up 4% YoY &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240308/p1#a240308p1)
  - [Denver-based Maybell Quantum, which is developing systems to make quantum tech more reliable, scalable, and accessible, raised a $25M Series A &lpar;Cassidy Ritter/Denver Business Journal&rpar;](http://www.techmeme.com/240307/p43#a240307p43)
  - [India approves a ~$1.25B investment in AI projects over five years, including for optimizing compute infrastructure, LLM development, and education in AI &lpar;The Economic Times&rpar;](http://www.techmeme.com/240307/p42#a240307p42)
  - [How to take a full-page screenshot on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-take-a-full-page-screenshot-on-iphone?utm_medium=rss)
- - [Sources say SMIC used equipment from California-based Applied Materials and Lam Research to manufacture an advanced 7nm chip for Huawei in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p41#a240307p41)
- - [Surprise! Rivian R3, Rally-Inspired R3X Electric Crossovers Steal the Spotlight     - CNET](https://www.cnet.com/roadshow/news/surprise-rivian-r3-rally-inspired-r3x-electric-crossovers-steal-the-spotlight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources say SMIC used equipment from California-based Applied Materials and Lam Research to manufacture an advanced 7nm chip for Huawei in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240307/p41#a240307p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

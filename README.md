@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, &#39;Leave the World Behind&#39; and &#39;Civil War&#39; Aren’t Happening Before Your Eyes](https://www.wired.com/story/leave-the-world-behind-civil-war-conspiracies/)
+ - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)
+ - [The New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
  - [TikTok&#39;s US popularity is not just a national security issue but also highlights the failure of the US tech industry to come up with an equally addictive app &lpar;Karishma Vaswani/Bloomberg&rpar;](http://www.techmeme.com/240308/p10#a240308p10)
- - [The woes of a blundering first-time smart home owner](https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee)
- - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)
- - [Santa Cruz Skitch Review: A Light, Versatile, and Expensive Electric Bike](https://www.wired.com/review/santa-cruz-skitch/)
- - [Filing: chipmaker Astera Labs, which offers cloud and AI connectivity hardware, plans to raise as much as $534M in its US IPO &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240308/p9#a240308p9)<!-- TECH:END -->
+ - [This Anker Charging Station Can Charge 5 Things at Once and Is a Bargain at $35     - CNET](https://www.cnet.com/deals/this-anker-charging-station-can-charge-5-things-at-once-and-is-a-bargain-at-35/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

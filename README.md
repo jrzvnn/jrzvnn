@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)
  - [The New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
  - [TikTok&#39;s US popularity is not just a national security issue but also highlights the failure of the US tech industry to come up with an equally addictive app &lpar;Karishma Vaswani/Bloomberg&rpar;](http://www.techmeme.com/240308/p10#a240308p10)
- - [This Anker Charging Station Can Charge 5 Things at Once and Is a Bargain at $35     - CNET](https://www.cnet.com/deals/this-anker-charging-station-can-charge-5-things-at-once-and-is-a-bargain-at-35/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The woes of a blundering first-time smart home owner](https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

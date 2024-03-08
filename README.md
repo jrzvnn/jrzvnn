@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&#39;s US popularity is not just a national security issue but also highlights the failure of the US tech industry to come up with an equally addictive app &lpar;Karishma Vaswani/Bloomberg&rpar;](http://www.techmeme.com/240308/p10#a240308p10)
  - [The woes of a blundering first-time smart home owner](https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee)
  - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)
  - [Santa Cruz Skitch Review: A Light, Versatile, and Expensive Electric Bike](https://www.wired.com/review/santa-cruz-skitch/)
- - [Filing: chipmaker Astera Labs, which offers cloud and AI connectivity hardware, plans to raise as much as $534M in its US IPO &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240308/p9#a240308p9)
- - [Apple has enough iPad Pro OLED screens ordered to make it through Christmas](https://appleinsider.com/articles/24/03/08/apple-has-enough-ipad-pro-oled-screens-ordered-to-make-it-through-christmas?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: chipmaker Astera Labs, which offers cloud and AI connectivity hardware, plans to raise as much as $534M in its US IPO &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240308/p9#a240308p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

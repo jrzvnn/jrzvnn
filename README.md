@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
+ - 💣 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
  - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 👉 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)<!-- MEMES:END -->
+ - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---
 

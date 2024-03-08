@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weekend&#39;s best Apple deals offer record-low prices on MacBooks, monitors &amp; more](https://appleinsider.com/articles/24/03/08/weekends-best-apple-deals-offer-record-low-prices-on-macbooks-monitors-more?utm_medium=rss)
  - [Logitech’s best gaming mouse just got better](https://www.theverge.com/2024/3/8/24094746/logitech-g-pro-x-superlight-2-4khz-polling-rate-update-firmware)
  - [How to find &lpar;and delete&rpar; your TikTok history](https://www.theverge.com/23289267/tiktok-history-find-delete-how-to)
  - [Microsoft makes changes to Copilot, including blocking requests to create images of teens playing with assault rifles, following a staffer&#39;s letter to the FTC &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240308/p20#a240308p20)
- - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)
- - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)<!-- TECH:END -->
+ - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

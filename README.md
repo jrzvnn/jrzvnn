@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s handling of Epic&#39;s account closure turned a US contract dispute into a DMA enforcement priority due to the appearance of a gatekeeper silencing critics &lpar;Florian Mueller/games fray&rpar;](http://www.techmeme.com/240308/p7#a240308p7)
  - [Sources: China is in the process of raising $27B+ for its largest chip fund ever to counter US curbs, with most of the capital expected from local governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p6#a240308p6)
  - [How Netflix&#39;s stand-up specials, COVID, and rise of platforms like TikTok and YouTube have transformed the comedy business, broadening comedians&#39; reach &lpar;Addie Morfoot/Variety&rpar;](http://www.techmeme.com/240308/p5#a240308p5)
  - [Meta Quest 3 Deals: Free Game and 6 Months of Meta Quest Plus     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
- - [You Can Finally Disable Read Receipts for DMs on Instagram. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/you-can-finally-disable-read-receipts-for-dms-on-instagram-heres-how/#ftag=CAD590a51e)
- - [Fortnite’s new season brings Greek gods to the battle royale](https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale)<!-- TECH:END -->
+ - [You Can Finally Disable Read Receipts for DMs on Instagram. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/you-can-finally-disable-read-receipts-for-dms-on-instagram-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

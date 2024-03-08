@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X announces Articles, a feature to write and share long-form content with a basic text-editing interface, for verified organizations and Premium+ subscribers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240307/p39#a240307p39)
+ - [Google says Gemini Nano won&#39;t come to the Pixel 8 due to &quot;some hardware limitations&quot;, but plans to bring the LLM to more &quot;high-end devices in the near future&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240307/p38#a240307p38)
  - [Apple TV+ movies struggling to prevail in theaters still considered &#39;profitable&#39;](https://appleinsider.com/articles/24/03/08/apple-tv-movies-struggling-to-prevail-in-theaters-still-considered-profitable?utm_medium=rss)
  - [UnitedHealth says electronic prescribing is restored and expects its payments platform back online by March 15, after a hack prompted disruptions two weeks ago &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/240307/p37#a240307p37)
- - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
- - [Amazon Lending, launched in 2011, discontinues underwriting new loans for sellers in the US and the UK, but third-party financing options will still be offered &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240307/p36#a240307p36)
- - [Best VPN Deals: Sign Up for a Top-Rated VPN Subscription for Less Than $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solar Leasing: Is the Low Upfront Cost Worth Losing Incentives?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-leasing-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

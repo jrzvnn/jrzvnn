@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)
- - 😝 [This is a title, yes](http://9gag.com/gag/aYVzOVm)
- - 💣 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 👉 [Ahhh, my sly friend Bobby Kotick](http://9gag.com/gag/a8qr081)<!-- MEMES:END -->
+ - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [I Love this woman](http://9gag.com/gag/abvj4X9)
+ - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
 
 ---
 

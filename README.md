@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MSI Claw has arrived to take on the Steam Deck](https://www.theverge.com/2024/3/8/24094346/msi-claw-available-price-steam-deck-competitor)
+ - [&#39;1899&#39; Fans Still Want Answers](https://www.wired.com/2024/03/geeks-guide-1899-fans/)
+ - [Chevy lifts stop-sale order on glitchy Blazer EV — and slashes prices](https://www.theverge.com/2024/3/8/24094350/chevy-blazer-ev-stop-sale-order-lift-software-price-cut)
  - [Florida Middle Schoolers Arrested for Allegedly Creating Deepfake Nudes of Classmates](https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/)
- - [Reddit tests Reddit Pro, a free suite of tools to let businesses improve their engagement, including the ability to see which subreddits are mentioning a brand &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240308/p12#a240308p12)
- - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
- - [Daylight Saving Woes? 3 Expert Tips to Reset Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)
- - [Best Nanny Cams for 2024     - CNET](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit tests Reddit Pro, a free suite of tools to let businesses improve their engagement, including the ability to see which subreddits are mentioning a brand &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240308/p12#a240308p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

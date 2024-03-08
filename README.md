@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 💣 [Women](http://9gag.com/gag/aXn8LZb)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
+ - 😝 [Women](http://9gag.com/gag/aXn8LZb)
+ - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
 
 ---
 

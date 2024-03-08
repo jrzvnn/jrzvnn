@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 😝 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
  - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 💣 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
  - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC to win $5B+ in grants to support an Arizona chipmaking project; Samsung offered additional investment to its $17B Texas factory to boost its award &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240308/p15#a240308p15)
  - [Two teenagers were charged under a 2022 Florida law for allegedly creating deepfake nudes of classmates, in what appears to be the first such criminal case &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240308/p14#a240308p14)
  - [One fan spent three years saving a Final Fantasy game before it shut down](https://www.theverge.com/24094441/final-fantasy-opera-omnia-mobile-game-preservation-square-enix)
  - [Coinbase stock crosses the exchange&#39;s 2021 direct listing price of $250 after growing over 300% in the last 12 months, as bitcoin hovers around record highs &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/240308/p13#a240308p13)
- - [iPhone 16 Pro Capture button shown off in new CAD leak](https://appleinsider.com/articles/24/03/08/iphone-16-pro-capture-button-shown-off-in-new-cad-leak?utm_medium=rss)
- - [The MSI Claw has arrived to take on the Steam Deck](https://www.theverge.com/2024/3/8/24094346/msi-claw-available-price-steam-deck-competitor)<!-- TECH:END -->
+ - [iPhone 16 Pro Capture button shown off in new CAD leak](https://appleinsider.com/articles/24/03/08/iphone-16-pro-capture-button-shown-off-in-new-cad-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

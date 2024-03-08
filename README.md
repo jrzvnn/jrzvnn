@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How far this shit go](http://9gag.com/gag/agoRmx6)
- - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
+ - 😝 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
  - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
  - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---

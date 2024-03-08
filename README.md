@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London on march 4th and then the next day on the 5th](http://9gag.com/gag/amADAWo)
- - 😝 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
- - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 😝 [Best entrance, ever!](http://9gag.com/gag/aXn8Pnz)
+ - 😝 [Women](http://9gag.com/gag/aXn8LZb)
+ - 💣 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 👉 [Frozen city](http://9gag.com/gag/aQEYvzq)<!-- MEMES:END -->
 
 ---
 

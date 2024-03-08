@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find &lpar;and delete&rpar; your TikTok history](https://www.theverge.com/23289267/tiktok-history-find-delete-how-to)
+ - [Microsoft makes changes to Copilot, including blocking requests to create images of teens playing with assault rifles, following a staffer&#39;s letter to the FTC &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240308/p20#a240308p20)
  - [Warner Bros. is removing Adult Swim Games from console stores and Steam](https://www.theverge.com/2024/3/8/24094536/adult-swim-games-delisted-warner-bros-discovery)
- - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)
- - [Sources: some NIST staff have threatened to resign over the expected appointment of an &quot;effective altruist&quot; AI researcher to the US AI Safety Institute &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240308/p19#a240308p19)
- - [Stearns &amp; Foster Mattresses 2024 Compared     - CNET](https://www.cnet.com/health/sleep/stearns-foster-mattress-reviews/#ftag=CAD590a51e)
- - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian Debuts Small R2, Even Smaller R3 Electric SUVs video     - CNET](https://www.cnet.com/videos/rivian-debuts-small-r2-even-smaller-r3-electric-suvs/#ftag=CAD590a51e)
+ - [The HomePod and HomePod Mini are both receiving a rare discount](https://www.theverge.com/2024/3/8/24093863/apple-homepod-mini-asus-zenscreen-mb166c-portable-monitor-bayonetta-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

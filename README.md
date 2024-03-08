@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI reinstates Sam Altman to its board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;OpenAI&rpar;](http://www.techmeme.com/240308/p22#a240308p22)
+ - [Sam Altman Is Reinstated to OpenAI’s Board](https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/)
  - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
  - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
- - [Google fired an employee who protested its contract with the Israeli military](https://www.theverge.com/2024/3/8/24094687/google-israel-project-nimbus-employee-fired)
- - [OpenAI reinstates Sam Altman to its board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;The Information&rpar;](http://www.techmeme.com/240308/p21#a240308p21)
- - [13 Best Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)<!-- TECH:END -->
+ - [Google fired an employee who protested its contract with the Israeli military](https://www.theverge.com/2024/3/8/24094687/google-israel-project-nimbus-employee-fired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

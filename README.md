@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weird Roku Alert? Here&#39;s How to Say No to New Terms     - CNET](https://www.cnet.com/tech/services-and-software/weird-roku-alert-heres-how-to-say-no-to-new-terms/#ftag=CAD590a51e)
+ - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
  - [Microsoft says Russian state-sponsored Midnight Blizzard gained access to some of its source code repositories and internal systems following the January hack &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240308/p11#a240308p11)
  - [Rivian has already received 68,000 reservations for the R2](https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund)
- - [Microsoft says Russian hackers stole source code after spying on its executives](https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code)
- - [EU DMA architect says Apple seems to want to be fined for non-compliance](https://appleinsider.com/articles/24/03/08/eu-dma-architect-says-apple-seems-to-want-to-be-fined-for-non-compliance?utm_medium=rss)
- - [This Senator Wants to Know What Meta and TikTok Are Doing About Parent-Run Girl Influencer Accounts](https://www.wired.com/story/senator-asks-meta-tiktok-parents-girls-influencer-accounts/)<!-- TECH:END -->
+ - [Buy Eero 6 Plus Mesh Routers Today and Bag a Free $75 Best Buy Gift Card     - CNET](https://www.cnet.com/deals/buy-eero-6-plus-mesh-routers-today-and-bag-a-free-75-best-buy-gift-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 💣 [I Love this woman](http://9gag.com/gag/abvj4X9)
- - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 😝 [This is a title, yes](http://9gag.com/gag/aYVzOVm)
+ - 😝 [\u201cBaby One More Time\u201d music vid w/ Jack Black and the D](http://9gag.com/gag/aXn8NGv)
+ - 💣 [How far this shit go](http://9gag.com/gag/agoRmx6)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)<!-- MEMES:END -->
 
 ---
 

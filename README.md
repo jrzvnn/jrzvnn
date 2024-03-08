@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)
+ - [Santa Cruz Skitch Review: A Light, Versatile, and Expensive Electric Bike](https://www.wired.com/review/santa-cruz-skitch/)
  - [Filing: chipmaker Astera Labs, which offers cloud and AI connectivity hardware, plans to raise as much as $534M in its US IPO &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240308/p9#a240308p9)
  - [Apple has enough iPad Pro OLED screens ordered to make it through Christmas](https://appleinsider.com/articles/24/03/08/apple-has-enough-ipad-pro-oled-screens-ordered-to-make-it-through-christmas?utm_medium=rss)
- - [Apple MacBook Air &lpar;13-inch, 2024&rpar; Review: Price, Specs, Rating, Availability](https://www.wired.com/review/apple-macbook-air-13-inch-2024/)
- - [Where to Stream 2024’s Best Picture Oscar Nominees](https://www.wired.com/story/stream-2024-oscar-nominated-movies-best-picture/)
- - [Georgia&#39;s largest healthcare system switches to the Mac](https://appleinsider.com/articles/24/03/08/georgias-largest-healthcare-system-switches-to-the-mac?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17.4: You Need to Download the iPhone Update Right Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-you-need-to-download-the-iphone-update-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

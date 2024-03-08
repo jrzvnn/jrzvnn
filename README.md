@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU DMA architect says Apple seems to want to be fined for non-compliance](https://appleinsider.com/articles/24/03/08/eu-dma-architect-says-apple-seems-to-want-to-be-fined-for-non-compliance?utm_medium=rss)
+ - [This Senator Wants to Know What Meta and TikTok Are Doing About Parent-Run Girl Influencer Accounts](https://www.wired.com/story/senator-asks-meta-tiktok-parents-girls-influencer-accounts/)
  - [No, &#39;Leave the World Behind&#39; and &#39;Civil War&#39; Aren’t Happening Before Your Eyes](https://www.wired.com/story/leave-the-world-behind-civil-war-conspiracies/)
  - [Living with the ghost of a smart home’s past](https://www.theverge.com/24073300/smart-home-new-house-old-tech)
- - [The New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)
- - [TikTok&#39;s US popularity is not just a national security issue but also highlights the failure of the US tech industry to come up with an equally addictive app &lpar;Karishma Vaswani/Bloomberg&rpar;](http://www.techmeme.com/240308/p10#a240308p10)
- - [The woes of a blundering first-time smart home owner](https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee)<!-- TECH:END -->
+ - [The New York Times is targeting Wordle clones with legal takedowns](https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

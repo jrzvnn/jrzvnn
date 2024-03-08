@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
  - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - 💣 [I need that man\u2019s patience](http://9gag.com/gag/a9q3y9K)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Fortnite’s new season brings Greek gods to the battle royale](https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale)
+ - [Best Galaxy S24 Deals: Get the Latest Samsung Phone for Free Plus $100 Discounts and Bonus Items     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
  - [US data center demand for AI and crypto mining are putting new pressures on an overtaxed power grid, as bottlenecks mount and utilities struggle to keep up &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/240308/p4#a240308p4)
  - [Apple Could Be the First Target of Europe&#39;s Tough New Tech Law](https://www.wired.com/story/apple-target-dma-europe-tough-new-law/)
- - [Tests show GPT 3.5 systematically produces biases that disadvantage protected groups based on their names alone when screening and ranking candidates for jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p3#a240308p3)
- - [Broadcom expects $10B in revenue from AI-related chips in 2024, as CEO Hock Tan says AI revenue, up 4x YoY to $2.3B in Q1, offset cyclical business slowdown &lpar;Reuters&rpar;](http://www.techmeme.com/240308/p2#a240308p2)<!-- TECH:END -->
+ - [Tests show GPT 3.5 systematically produces biases that disadvantage protected groups based on their names alone when screening and ranking candidates for jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p3#a240308p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Apple Switcher ad star Ellen Feiss is doing now](https://appleinsider.com/articles/24/03/08/what-apple-switcher-ad-star-ellen-feiss-is-doing-now?utm_medium=rss)
  - [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://www.theverge.com/24094259/rivian-r2-r3-r3x-ceo-interview-price-production-future)
  - [Weird Roku Alert? Here&#39;s How to Say No to New Terms     - CNET](https://www.cnet.com/tech/services-and-software/weird-roku-alert-heres-how-to-say-no-to-new-terms/#ftag=CAD590a51e)
  - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [Microsoft says Russian state-sponsored hackers Midnight Blizzard accessed some of its &quot;source code repositories and internal systems&quot; following the January hack &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240308/p11#a240308p11)
- - [Rivian has already received 68,000 reservations for the R2](https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund)<!-- TECH:END -->
+ - [Microsoft says Russian state-sponsored hackers Midnight Blizzard accessed some of its &quot;source code repositories and internal systems&quot; following the January hack &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240308/p11#a240308p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

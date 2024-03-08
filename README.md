@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upgrades people upgrades !](http://9gag.com/gag/aeQXO7b)
- - 😝 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)
- - 💣 [This is a title, yes](http://9gag.com/gag/aYVzOVm)
+ - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 💣 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
 
 ---
 

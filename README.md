@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
+ - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)
  - [Google fired an employee who protested its contract with the Israeli military](https://www.theverge.com/2024/3/8/24094687/google-israel-project-nimbus-employee-fired)
- - [Source: Sam Altman will be reinstated to OpenAI&#39;s board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;The Information&rpar;](http://www.techmeme.com/240308/p21#a240308p21)
- - [13 Best Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)
- - [Florida teens arrested for creating ‘deepfake’ AI nude images of classmates](https://www.theverge.com/2024/3/8/24094633/deepfake-ai-explicit-images-florida-teenagers-arrested)
- - [Best Men&#39;s Hiking and Adventure Boots for 2024     - CNET](https://www.cnet.com/health/fitness/best-mens-hiking-shoes-and-boots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI reinstates Sam Altman to its board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;The Information&rpar;](http://www.techmeme.com/240308/p21#a240308p21)
+ - [13 Best Deals From the Discover Samsung Sale: Phones, Tablets, TVs](https://www.wired.com/story/samsung-discover-spring-sales-event-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - 😝 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
- - 💣 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
+ - 😝 [Upgrades people upgrades !](http://9gag.com/gag/aeQXO7b)
+ - 💣 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
 
 ---
 

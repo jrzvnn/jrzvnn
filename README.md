@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
  - 😝 [Upgrades people upgrades !](http://9gag.com/gag/aeQXO7b)
- - 💣 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)
+ - 😝 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)
+ - 💣 [This is a title, yes](http://9gag.com/gag/aYVzOVm)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

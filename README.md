@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: some NIST staff have threatened to resign over the expected appointment of an &quot;effective altruist&quot; AI researcher to the US AI Safety Institute &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/240308/p19#a240308p19)
+ - [Stearns &amp; Foster Mattresses 2024 Compared     - CNET](https://www.cnet.com/health/sleep/stearns-foster-mattress-reviews/#ftag=CAD590a51e)
  - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)
- - [CISA confirms it took down two systems in February, after discovering signs of exploitation via vulnerabilities in Ivanti products that the agency used &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240308/p18#a240308p18)
- - [How to use Alexa’s Drop In feature](https://www.theverge.com/24093353/how-to-use-alexas-drop-in-feature)
- - [Wyoming passes the Decentralized Unincorporated Nonprofit Association Act, a framework to recognize DAOs as legal entities; a16z crypto supported the law &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240308/p17#a240308p17)<!-- TECH:END -->
+ - [Learn Languages on Your Own Schedule With This $160 Babbel Deal     - CNET](https://www.cnet.com/deals/learn-languages-on-your-own-scheduled-with-this-160-babbel-deal/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

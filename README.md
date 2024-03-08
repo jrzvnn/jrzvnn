@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undeniably fine benefits](http://9gag.com/gag/aKEbGNN)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 💣 [Frozen city](http://9gag.com/gag/aQEYvzq)
+ - 😝 [Women](http://9gag.com/gag/aXn8LZb)
+ - 😝 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
+ - 💣 [Shall I help her?](http://9gag.com/gag/adP3Ped)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)<!-- MEMES:END -->
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 

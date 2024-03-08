@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 💣 [Bye Akira](http://9gag.com/gag/aeQXZqO)
- - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 😝 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 😝 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---
 

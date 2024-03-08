@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t be the only person to have noticed this. What is it caused by?](http://9gag.com/gag/a6qW56b)
- - 😝 [Women](http://9gag.com/gag/aXn8LZb)
- - 💣 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 💣 [Bye Akira](http://9gag.com/gag/aeQXZqO)
+ - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 

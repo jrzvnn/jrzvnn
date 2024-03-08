@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever came down with a bottomless cup is a genius. Liberals say it\u2019s racist tho](http://9gag.com/gag/aXn8Lq9)
- - 😝 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
- - 💣 [There is some meme potential](http://9gag.com/gag/agoRoDq)
+ - 😝 [Hehehehe](http://9gag.com/gag/ajV21mQ)
+ - 😝 [We all know why, but it&#39;s funny and white night incoming lol](http://9gag.com/gag/az26d3m)
+ - 💣 [Dude bought roses to give to the elderly](http://9gag.com/gag/a5XL61E)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 👉 [Looks like meat\u2019s back on the menu, boys](http://9gag.com/gag/ay2y4Nr)<!-- MEMES:END -->
 
 ---
 

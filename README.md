@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An independent investigation commissioned by OpenAI has found that Sam Altman&#39;s conduct before his ouster &quot;did not mandate removal&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240308/p23#a240308p23)
  - [OpenAI reinstates Sam Altman to its board of directors, alongside three new directors Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;OpenAI&rpar;](http://www.techmeme.com/240308/p22#a240308p22)
- - [Sam Altman Is Reinstated to OpenAI’s Board](https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/)
- - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [OpenAI investigation says it was wrong to fire Sam Altman](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save on the Latest Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Best iPhone 12 Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
+ - [Best iPhone Camera Accessories for Pro Photos and Videos     - CNET](https://www.cnet.com/tech/mobile/best-iphone-camera-accessories-photo-video-15-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

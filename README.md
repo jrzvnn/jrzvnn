@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ movies struggling to prevail in theaters still considered &#39;profitable&#39;](https://appleinsider.com/articles/24/03/08/apple-tv-movies-struggling-to-prevail-in-theaters-still-considered-profitable?utm_medium=rss)
+ - [UnitedHealth says electronic prescribing is restored and expects its payments platform back online by March 15, after a hack prompted disruptions two weeks ago &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/240307/p37#a240307p37)
  - [How to watch President Joe Biden’s State of the Union address](https://www.theverge.com/2024/3/7/24092301/state-of-the-union-biden-how-to-watch-time-date)
  - [Amazon Lending, launched in 2011, discontinues underwriting new loans for sellers in the US and the UK, but third-party financing options will still be offered &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240307/p36#a240307p36)
- - [Tel Aviv-based Sweet Security, which offers cloud runtime security tools, raised a $33M Series A, after emerging from stealth with a $12M seed in August 2023 &lpar;Kevin Townsend/SecurityWeek&rpar;](http://www.techmeme.com/240307/p35#a240307p35)
- - [SpaceX Starship Mission 3: How to Watch the March 14 Launch     - CNET](https://www.cnet.com/science/space/spacex-starship-mission-3-how-to-watch-the-march-14-launch/#ftag=CAD590a51e)
- - [Stephen Dubner is bullish on the podcast industry](https://www.theverge.com/2024/3/7/24093805/stephen-dubner-freakonomics-on-air-fest-siriusxm-apple-spotify)<!-- TECH:END -->
+ - [Best VPN Deals: Sign Up for a Top-Rated VPN Subscription for Less Than $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

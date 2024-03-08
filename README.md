@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden is an official member of NATO as of today!](http://9gag.com/gag/az26dxp)
- - 😝 [Laughed harder than I should have](http://9gag.com/gag/az26dVK)
- - 💣 [Wagecuck&#39;s anthem](http://9gag.com/gag/avQb1L5)
+ - 😝 [London on march 4th and then the next day on the 5th](http://9gag.com/gag/amADAWo)
+ - 😝 [Just two British Muslims discussing how much they hate non-Muslims and tolerate living among them. `I can be in a land where I live with these people, but I have hate for these people, I don&#39;t like them.`](http://9gag.com/gag/ajV2V0w)
+ - 💣 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
  - 😝 [#Ad Heir to Outworld&#39;s throne, Mileena will fight for her rightful place\ud83d\udd25.](http://9gag.com/gag/aXn8Lw6)
- - 👉 [Never forget](http://9gag.com/gag/az265Oq)<!-- MEMES:END -->
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aXn8LZb)
- - 😝 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
- - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [Beautiful](http://9gag.com/gag/aA0nQrR)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [Give me some Water!](http://9gag.com/gag/aeQXVjB)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 💣 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [Bye Akira](http://9gag.com/gag/aeQXZqO)<!-- MEMES:END -->
 
 ---
 

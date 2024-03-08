@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 💣 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)
  - 😝 [There is some meme potential](http://9gag.com/gag/agoRoDq)
- - 👉 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 😝 [Shall I help her?](http://9gag.com/gag/adP3Ped)
+ - 💣 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 👉 [Women](http://9gag.com/gag/aXn8LZb)<!-- MEMES:END -->
 
 ---
 

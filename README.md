@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to join other luxury retail locations in Miami Worldcenter](https://appleinsider.com/articles/24/03/08/apple-to-join-other-luxury-retail-locations-in-miami-worldcenter?utm_medium=rss)
  - [CISA confirms it took down two systems in February, after discovering signs of exploitation via vulnerabilities in Ivanti products that the agency used &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240308/p18#a240308p18)
  - [How to use Alexa’s Drop In feature](https://www.theverge.com/24093353/how-to-use-alexas-drop-in-feature)
  - [Wyoming passes the Decentralized Unincorporated Nonprofit Association Act, a framework to recognize DAOs as legal entities; a16z crypto supported the law &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240308/p17#a240308p17)
- - [Rivian R2, R3, and R3X launch event: the EV company’s more affordable SUVs are here](https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live)
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
+ - [Watch Anthony Joshua vs. Francis Ngannou: Livestream Heavyweight Boxing From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-anthony-joshua-vs-francis-ngannou-livestream-heavyweight-boxing-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

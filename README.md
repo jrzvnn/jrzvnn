@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 💣 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [Meanwhile](http://9gag.com/gag/a6qW2Me)
+ - 👉 [A pro move](http://9gag.com/gag/amADxo2)<!-- MEMES:END -->
 
 ---
 

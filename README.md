@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 90 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)
+ - [Over 100 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)
  - [Stop Misunderstanding the Gender Health Gap](https://www.wired.com/story/stop-misunderstanding-the-gender-health-gap/)
  - [Online card game Balatro, created by a solo Canadian developer who goes by the handle LocalThunk, has sold 500K+ copies on Steam at $15 each in just two weeks &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240309/p4#a240309p4)
  - [Digital Marilyn, an interactive AI avatar of Marilyn Monroe that was created using GPT-3.5 by Soul Machines and Authentic Brands Group, was unveiled at SXSW &lpar;Bruce Haring/Deadline&rpar;](http://www.techmeme.com/240309/p3#a240309p3)

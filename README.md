@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 💣 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
- - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)
+ - 💣 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 😝 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---
 

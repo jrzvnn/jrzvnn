@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jason Palmer, who beat Joe Biden in American Samoa&#39;s Democratic caucus, used AI-generated texts, emails, and an avatar to communicate with voters &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p2#a240309p2)
  - [PitchBook: just 14% of US unicorns have a female cofounder, up from 5% a decade ago, while only 5% have a female founding CEO, up from zero over the same time &lpar;Anna Mutoh/Financial Times&rpar;](http://www.techmeme.com/240309/p1#a240309p1)
  - [NameDrop on Apple Watch: What to Know About the Contact Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/name-drop-on-apple-watch-what-to-know-about-the-contact-sharing-feature/#ftag=CAD590a51e)
  - [Indian political parties BJP and Congress have created and shared AI-crafted political content on Instagram, Facebook, and YouTube, without explicit disclosures &lpar;Nilesh Christopher/Al Jazeera&rpar;](http://www.techmeme.com/240308/p29#a240308p29)
- - [Fortnite was down all day](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [The GPT-4 barrier has finally been broken, with Gemini 1.5, Mistral Large, Claude 3 Opus, and Inflection-2.5 benchmarking near or even above OpenAI&#39;s model &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240308/p28#a240308p28)<!-- TECH:END -->
+ - [Fortnite was down all day](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

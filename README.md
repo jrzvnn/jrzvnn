@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 😝 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)
- - 💣 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 😝 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
- - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 👉 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)<!-- MEMES:END -->
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
+ - 💣 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---
 

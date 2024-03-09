@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
  - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
+ - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 👉 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)<!-- MEMES:END -->
 
 ---
 

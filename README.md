@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: X plans to launch a TV app, which looks &quot;identical&quot; to YouTube&#39;s TV app, for Amazon and Samsung smart TVs next week &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240308/p26#a240308p26)
  - [About 600 Activision QA workers form a union with help from the CWA, becoming the largest video game union in the US; Microsoft voluntarily recognized the union &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240308/p25#a240308p25)
  - [Activision QA workers form the largest US video game union yet](https://www.theverge.com/2024/3/8/24094602/activision-blizzard-qa-workers-unionizing-microsoft)
  - [Best Pixel 8 and Pixel 8 Pro Deals: Save $300 Off the Top or Up to $1,000 Off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $300 in Direct Discounts &amp; More on Carrier Models     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
- - [OpenAI probe: the board&#39;s decision to fire Altman was because of a &quot;breakdown in trust&quot;, not concerns about product safety, the pace of development, or finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p24#a240308p24)<!-- TECH:END -->
+ - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $300 in Direct Discounts &amp; More on Carrier Models     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

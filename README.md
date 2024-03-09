@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 💣 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 😝 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 💣 [After United Airlines refused to pay for his broken guitar, Dave Carroll released a diss track which caused the Airline&#39;s stock to go down 10% and lost about 180 million.](http://9gag.com/gag/aXn87z2)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

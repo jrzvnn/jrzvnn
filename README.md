@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
- - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
- - 👉 [Conrats](http://9gag.com/gag/aeQXx5W)<!-- MEMES:END -->
+ - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
+ - 😝 [Sheldon Johnson, ex-con who appeard in Joe Rogan advocating for rehabilitative justicr, has been arrested after the police found a torso in his apartment.](http://9gag.com/gag/aA0nKr9)
+ - 💣 [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 👉 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)<!-- MEMES:END -->
 
 ---
 

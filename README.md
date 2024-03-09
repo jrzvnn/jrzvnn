@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
  - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 👉 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)<!-- MEMES:END -->
+ - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
+ - 👉 [Conrats](http://9gag.com/gag/aeQXx5W)<!-- MEMES:END -->
 
 ---
 

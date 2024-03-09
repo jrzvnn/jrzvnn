@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 😝 [Bip Bip !](http://9gag.com/gag/aOx6P4v)
+ - 😝 [Guys, just trust](http://9gag.com/gag/aREx202)
+ - 💣 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
+ - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
+ - 👉 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)<!-- MEMES:END -->
 
 ---
 

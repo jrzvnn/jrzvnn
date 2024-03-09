@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals on E-Bikes: Save Up to $1,500 on Juiced, RadPower, BirdBike &amp; More     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
  - [A look at Europe&#39;s growing roster of female data regulators out to rein in US big tech companies; 50%+ of EU&#39;s 30 data protection authorities are led by women &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/240309/p6#a240309p6)
  - [Over 100 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)
  - [Stop Misunderstanding the Gender Health Gap](https://www.wired.com/story/stop-misunderstanding-the-gender-health-gap/)
- - [Online card game Balatro, created by a solo Canadian developer who goes by the handle LocalThunk, has sold 500K+ copies on Steam at $15 each in just two weeks &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240309/p4#a240309p4)
- - [Digital Marilyn, an interactive AI avatar of Marilyn Monroe that was created using GPT-3.5 by Soul Machines and Authentic Brands Group, was unveiled at SXSW &lpar;Bruce Haring/Deadline&rpar;](http://www.techmeme.com/240309/p3#a240309p3)<!-- TECH:END -->
+ - [Online card game Balatro, created by a solo Canadian developer who goes by the handle LocalThunk, has sold 500K+ copies on Steam at $15 each in just two weeks &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240309/p4#a240309p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

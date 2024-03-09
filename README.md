@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
+ - [Best Buy slashes Apple&#39;s MacBook Pro with 24GB RAM, 1TB SSD to $1,299](https://appleinsider.com/articles/24/03/09/best-buy-slashes-apples-macbook-pro-with-24gb-ram-1tb-ssd-to-1299?utm_medium=rss)
  - [Parallels Desktop updated with clipboard, game improvements, more](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
  - [Interviews with Garry Tan, Paul Graham, YC partners, and others about Tan reshaping YC in a &quot;return to roots&quot;, as some founders complain about politicization &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240309/p11#a240309p11)
- - [You can grab a PS5 with Marvel’s Spider-Man 2 for $399.99 right now](https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale)
- - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
- - [Fortnite was down all day Friday, but now the ‘Myths &amp; Mortals’ update is here](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)<!-- TECH:END -->
+ - [You can grab a PS5 with Marvel’s Spider-Man 2 for $399.99 right now](https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

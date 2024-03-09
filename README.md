@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your cashapp ?](http://9gag.com/gag/a3Zoyz3)
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 💣 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
+ - 💣 [RIP Legend](http://9gag.com/gag/a7qjVNL)
+ - 😝 [Moroccan club Wydad\u2019s Dragonball Z tribute](http://9gag.com/gag/anzAE1o)
+ - 👉 [Tufting](http://9gag.com/gag/aWGVo2x)<!-- MEMES:END -->
 
 ---
 

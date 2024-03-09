@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
- - 😝 [Sheldon Johnson, ex-con who appeard in Joe Rogan advocating for rehabilitative justicr, has been arrested after the police found a torso in his apartment.](http://9gag.com/gag/aA0nKr9)
- - 💣 [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 👉 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)<!-- MEMES:END -->
+ - 😝 [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 👉 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)<!-- MEMES:END -->
 
 ---
 

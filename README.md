@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Biden admin is weighing sanctions on memory chipmaker CXMT and five other Chinese companies, in response to Huawei&#39;s 5G chip breakthrough in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p27#a240308p27)
  - [Source: X plans to launch a TV app, which looks &quot;identical&quot; to YouTube&#39;s TV app, for Amazon and Samsung smart TVs next week &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240308/p26#a240308p26)
  - [About 600 Activision QA workers form a union with help from the CWA, becoming the largest video game union in the US; Microsoft voluntarily recognized the union &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240308/p25#a240308p25)
  - [Activision QA workers form the largest US video game union yet](https://www.theverge.com/2024/3/8/24094602/activision-blizzard-qa-workers-unionizing-microsoft)
- - [Best Pixel 8 and Pixel 8 Pro Deals: Save $300 Off the Top or Up to $1,000 Off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $300 in Direct Discounts &amp; More on Carrier Models     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Upgrade to Apple&#39;s Latest Flagship for Free     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

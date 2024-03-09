@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
+ - 😝 [Tufting](http://9gag.com/gag/aWGVo2x)
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 💣 [Meanwhile](http://9gag.com/gag/a6qW2Me)
+ - 😝 [Bip Bip !](http://9gag.com/gag/aOx6P4v)
+ - 👉 [No title needed](http://9gag.com/gag/aeQX2bq)<!-- MEMES:END -->
 
 ---
 

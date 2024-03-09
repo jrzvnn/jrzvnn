@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 💣 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 👉 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)<!-- MEMES:END -->
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
+ - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
 
 ---
 

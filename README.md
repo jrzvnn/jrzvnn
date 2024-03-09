@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Netflix Original Movies to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-netflix-original-movies-to-watch-right-now/#ftag=CAD590a51e)
- - [March Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)
- - [Solar Panel Financing: Compare Cash, Loan, Lease Options and More     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-financing-compare-cash-loan-lease-options-and-more/#ftag=CAD590a51e)
  - [Solar-Powered Farming Is Quickly Depleting the World&#39;s Groundwater Supply](https://www.wired.com/story/solar-energy-farming-depleting-worlds-groundwater-india/)
- - [iOS 17.4: How to Give Your iPhone&#39;s Stolen Device Protection a Boost     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-give-your-iphones-stolen-device-protection-a-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17.4: How to Give Your iPhone&#39;s Stolen Device Protection a Boost     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-give-your-iphones-stolen-device-protection-a-boost/#ftag=CAD590a51e)
+ - [The Hidden iPhone Feature Best for Focusing or Unwinding     - CNET](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-feature-best-for-focusing-or-unwinding/#ftag=CAD590a51e)
+ - [Best Albums to Own on Vinyl     - CNET](https://www.cnet.com/pictures/best-sounding-albums-to-own-on-vinyl/#ftag=CAD590a51e)
+ - [A look at the US venture debt landscape a year after SVB collapsed, as none of the new options have become as appealing as the &quot;one-stop shop&quot; SVB offered &lpar;Financial Times&rpar;](http://www.techmeme.com/240309/p7#a240309p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

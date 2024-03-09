@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Namaz on Roads? He will kick your ass](http://9gag.com/gag/ay2y1Kr)
- - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
- - 💣 [After United Airlines refused to pay for his broken guitar, Dave Carroll released a diss track which caused the Airline&#39;s stock to go down 10% and lost about 180 million.](http://9gag.com/gag/aXn87z2)
- - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 💣 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
  - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---

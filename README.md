@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
- - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
- - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
+ - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
+ - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
+ - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

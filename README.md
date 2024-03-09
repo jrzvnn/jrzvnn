@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple offers one-month-free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/09/apple-offers-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
  - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
  - [Parallels Desktop updated with better gaming performance &amp; improved Clipboard](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
  - [New M3 MacBook Air has changes that make the SSD faster than the last model](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
- - [A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more &lpar;Associated Press&rpar;](http://www.techmeme.com/240309/p14#a240309p14)
- - [Best Generator Deals: Save $376 on Westinghouse, Jackery, Bluetti and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more &lpar;Associated Press&rpar;](http://www.techmeme.com/240309/p14#a240309p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

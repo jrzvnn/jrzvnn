@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tufting](http://9gag.com/gag/aWGVo2x)
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 💣 [Meanwhile](http://9gag.com/gag/a6qW2Me)
- - 😝 [Bip Bip !](http://9gag.com/gag/aOx6P4v)
- - 👉 [No title needed](http://9gag.com/gag/aeQX2bq)<!-- MEMES:END -->
+ - 😝 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 👉 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)<!-- MEMES:END -->
 
 ---
 

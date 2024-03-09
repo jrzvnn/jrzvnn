@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 😝 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)
- - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
+ - 😝 [In Mexico there were government-sponsored public watch parties for the final episodes of Dragon Ball Super. They became so popular Japan had to send a formal diplomatic notice commanding them to stop, which they didn&#39;t.](http://9gag.com/gag/a6qWn6q)
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 💣 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
+ - 😝 [`phew, for a moment I thought they were going to steal my ice cream`](http://9gag.com/gag/aKEb8eZ)
+ - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
 
 ---
 

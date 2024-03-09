@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bip Bip !](http://9gag.com/gag/aOx6P4v)
- - 😝 [Guys, just trust](http://9gag.com/gag/aREx202)
- - 💣 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
- - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
- - 👉 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)<!-- MEMES:END -->
+ - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 💣 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---
 

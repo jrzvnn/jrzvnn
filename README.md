@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Trump&#39;s TikTok flip-flop, as he recognizes the app&#39;s appeal to younger voters and repairs his relation with ByteDance investor and GOP donor Jeff Yass &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/240309/p9#a240309p9)
  - [She Is Conann is a glamorous fever dream about finding beauty in barbarism](https://www.theverge.com/24090625/she-is-conann-bertrand-mandico-review)
  - [How to Watch &#39;Oppenheimer&#39; Ahead of the 2024 Oscars     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-oppenheimer-ahead-of-the-2024-oscars/#ftag=CAD590a51e)
  - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Experts say the weakening of LockBit and BlackCat marks a significant milestone in efforts to thwart cybercriminals, but ransomware hackers are not going away &lpar;Bloomberg&rpar;](http://www.techmeme.com/240309/p8#a240309p8)
- - [Act Quickly to Snag Microsoft Visual Studio Proffesional 2022 for Just $36     - CNET](https://www.cnet.com/deals/act-quickly-to-snag-microsoft-visual-studio-proffesional-2022-for-just-36/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say the weakening of LockBit and BlackCat marks a significant milestone in efforts to thwart cybercriminals, but ransomware hackers are not going away &lpar;Bloomberg&rpar;](http://www.techmeme.com/240309/p8#a240309p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

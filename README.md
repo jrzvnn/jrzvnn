@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 😝 [Meanwhile](http://9gag.com/gag/a6qW2Me)
- - 👉 [A pro move](http://9gag.com/gag/amADxo2)<!-- MEMES:END -->
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 💣 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
  - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 💣 [Tufting](http://9gag.com/gag/aWGVo2x)
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 👉 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
- - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
+ - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 💣 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 😝 [You&#39;ve heard of a brain freez, now check out ... Freez](http://9gag.com/gag/adP32oB)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

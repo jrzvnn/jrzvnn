@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
  - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
  - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 💣 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 😝 [You&#39;ve heard of a brain freez, now check out ... Freez](http://9gag.com/gag/adP32oB)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
 
 ---
 

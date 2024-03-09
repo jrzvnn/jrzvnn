@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more &lpar;Associated Press&rpar;](http://www.techmeme.com/240309/p14#a240309p14)
+ - [Best Generator Deals: Save $376 on Westinghouse, Jackery, Bluetti and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)
  - [Roku faces a backlash after it appears to lock devices of users who don&#39;t agree to its new Dispute Resolution Terms, asking them to write a letter to opt out &lpar;Scharon Harding/Wired&rpar;](http://www.techmeme.com/240309/p13#a240309p13)
- - [Sleep Is the Key to Your Greatest Workout. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/sleep-is-the-key-to-your-greatest-workout-heres-why/#ftag=CAD590a51e)
- - [The Scandinavian Sleep Method Might Just Save Your Relationship     - CNET](https://www.cnet.com/health/sleep/scandinavian-sleep-method-might-save-your-relationship/#ftag=CAD590a51e)
- - [In two recent papers, researchers detail a new breakthrough to speed up matrix multiplication, potentially leading to savings in computational power and money &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/240309/p12#a240309p12)
- - [Where to Stream 2024&#39;s Oscar-Nominated Movies Before the Ceremony     - CNET](https://www.cnet.com/tech/services-and-software/where-to-stream-2024s-oscar-nominated-movies-before-the-ceremony/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Who Has the Best Live Channels? A Top 100 Comparison for YouTube TV, Hulu Live, Sling and More     - CNET](https://www.cnet.com/tech/services-and-software/who-has-best-live-channels-top-100-comparison-youtubetv-hulu-sling-more/#ftag=CAD590a51e)
+ - [Sleep Is the Key to Your Greatest Workout. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/sleep-is-the-key-to-your-greatest-workout-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

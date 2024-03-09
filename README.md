@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 😝 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
- - 💣 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 👉 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)<!-- MEMES:END -->
 
 ---
 

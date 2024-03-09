@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 💣 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 💣 [Can someone explain? Like bruh, what?](http://9gag.com/gag/aKEbvdZ)
  - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 👉 [Action Daydream](http://9gag.com/gag/aXn8MKV)<!-- MEMES:END -->
+ - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
 
 ---
 

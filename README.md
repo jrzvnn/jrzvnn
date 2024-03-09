@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 😝 [A pro move](http://9gag.com/gag/amADxo2)
- - 💣 [Moroccan club Wydad\u2019s Dragonball Z tribute](http://9gag.com/gag/anzAE1o)
- - 😝 [RIP Legend](http://9gag.com/gag/a7qjVNL)
- - 👉 [Tufting](http://9gag.com/gag/aWGVo2x)<!-- MEMES:END -->
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 💣 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 😝 [What&#39;s your cashapp ?](http://9gag.com/gag/a3Zoyz3)
+ - 👉 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)<!-- MEMES:END -->
 
 ---
 

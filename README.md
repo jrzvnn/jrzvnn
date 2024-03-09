@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 👉 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)<!-- MEMES:END -->
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 💣 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milena Kunis, Soviet Union, Ukrainian SSR](http://9gag.com/gag/aGEPnW6)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
+ - 😝 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 💣 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
+ - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
 
 ---
 

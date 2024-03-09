@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
- - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 😝 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)
- - 👉 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)<!-- MEMES:END -->
+ - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
+ - 😝 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
+ - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 👉 [This is definitely a new meme template](http://9gag.com/gag/az26RZj)<!-- MEMES:END -->
 
 ---
 

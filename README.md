@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Online card game Balatro, created by a solo Canadian developer who goes by the handle LocalThunk, has sold 500K+ copies on Steam at $15 each in just two weeks &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240309/p4#a240309p4)
- - [Digital Marilyn, an interactive AI avatar of Marilyn Monroe that was created using GPT-3.5 and can answer questions in her voice and style, was unveiled at SXSW &lpar;Bruce Haring/Deadline&rpar;](http://www.techmeme.com/240309/p3#a240309p3)
+ - [Digital Marilyn, an interactive AI avatar of Marilyn Monroe that was created using GPT-3.5 by Soul Machines and Authentic Brands Group, was unveiled at SXSW &lpar;Bruce Haring/Deadline&rpar;](http://www.techmeme.com/240309/p3#a240309p3)
  - [Jason Palmer, who beat Joe Biden in American Samoa&#39;s Democratic caucus, used AI-generated texts, emails, and an avatar to communicate with voters &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p2#a240309p2)
  - [PitchBook: just 14% of US unicorns have a female cofounder, up from 5% a decade ago, while only 5% have a female founding CEO, up from zero over the same time &lpar;Anna Mutoh/Financial Times&rpar;](http://www.techmeme.com/240309/p1#a240309p1)
  - [NameDrop on Apple Watch: What to Know About the Contact Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/name-drop-on-apple-watch-what-to-know-about-the-contact-sharing-feature/#ftag=CAD590a51e)<!-- TECH:END -->

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 💣 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---
 

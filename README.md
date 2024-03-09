@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
  - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
  - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 👉 [This is definitely a new meme template](http://9gag.com/gag/az26RZj)<!-- MEMES:END -->
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)<!-- MEMES:END -->
 
 ---
 

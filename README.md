@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Klarna co-founder Victor Jacobsson, who left in 2012 and owns ~4% directly, may have an 8%+ stake via special purpose vehicles ahead of an expected IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240309/p10#a240309p10)
+ - [A Roku Terms of Service Update Locks Up Your TV Until You Agree](https://www.wired.com/story/roku-terms-of-service-update-locks-tv/)
  - [A look at Trump&#39;s TikTok flip-flop, as he recognizes the app&#39;s appeal to younger voters and repairs his relation with ByteDance investor and GOP donor Jeff Yass &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/240309/p9#a240309p9)
  - [She Is Conann is a glamorous fever dream about finding beauty in barbarism](https://www.theverge.com/24090625/she-is-conann-bertrand-mandico-review)
- - [How to Watch &#39;Oppenheimer&#39; Ahead of the 2024 Oscars     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-oppenheimer-ahead-of-the-2024-oscars/#ftag=CAD590a51e)
- - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Experts say the weakening of LockBit and BlackCat marks a significant milestone in efforts to thwart cybercriminals, but ransomware hackers are not going away &lpar;Bloomberg&rpar;](http://www.techmeme.com/240309/p8#a240309p8)<!-- TECH:END -->
+ - [You Can Get a BlueAir Air Purifier for Up to 25% Off in This Sale     - CNET](https://www.cnet.com/deals/you-can-get-a-blueair-air-purifier-for-up-to-25-off-in-this-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

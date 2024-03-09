@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 💣 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
  - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
- - 👉 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)<!-- MEMES:END -->
+ - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
+ - 💣 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
+ - 👉 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Welcome to the Valley of the Creepy AI Dolls](https://www.wired.com/story/ai-dolls-for-older-adults/)
  - [Man United vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Best Deals on E-Bikes: Save Up to $1,500 on Juiced, RadPower, BirdBike &amp; More     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
  - [A look at Europe&#39;s growing roster of female data regulators out to rein in US big tech companies; 50%+ of EU&#39;s 30 data protection authorities are led by women &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/240309/p6#a240309p6)
- - [Over 100 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)
- - [Stop Misunderstanding the Gender Health Gap](https://www.wired.com/story/stop-misunderstanding-the-gender-health-gap/)<!-- TECH:END -->
+ - [Over 100 scientists sign an agreement that seeks to prevent their AI-aided research for designing new proteins from being used for the development of bioweapons &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240309/p5#a240309p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

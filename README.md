@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
- - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 👉 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)<!-- MEMES:END -->
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 💣 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
 
 ---
 

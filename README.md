@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
+ - [Parallels Desktop updated with better gaming performance &amp; improved Clipboard](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
+ - [New M3 MacBook Air has changes that make the SSD faster than the last model](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
  - [A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more &lpar;Associated Press&rpar;](http://www.techmeme.com/240309/p14#a240309p14)
- - [Best Generator Deals: Save $376 on Westinghouse, Jackery, Bluetti and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)
- - [Roku faces a backlash after it appears to lock devices of users who don&#39;t agree to its new Dispute Resolution Terms, asking them to write a letter to opt out &lpar;Scharon Harding/Wired&rpar;](http://www.techmeme.com/240309/p13#a240309p13)
- - [Who Has the Best Live Channels? A Top 100 Comparison for YouTube TV, Hulu Live, Sling and More     - CNET](https://www.cnet.com/tech/services-and-software/who-has-best-live-channels-top-100-comparison-youtubetv-hulu-sling-more/#ftag=CAD590a51e)
- - [Sleep Is the Key to Your Greatest Workout. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/sleep-is-the-key-to-your-greatest-workout-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Generator Deals: Save $376 on Westinghouse, Jackery, Bluetti and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

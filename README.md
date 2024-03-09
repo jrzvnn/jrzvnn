@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
  - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
  - [Best Buy slashes Apple&#39;s MacBook Pro with 24GB RAM, 1TB SSD to $1,299](https://appleinsider.com/articles/24/03/09/best-buy-slashes-apples-macbook-pro-with-24gb-ram-1tb-ssd-to-1299?utm_medium=rss)
  - [Parallels Desktop updated with clipboard, game improvements, more](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
- - [Interviews with Garry Tan, Paul Graham, YC partners, and others about Tan reshaping YC in a &quot;return to roots&quot;, as some founders complain about politicization &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240309/p11#a240309p11)
- - [Best Dash Cam Deals: Save Up to $105 on Kenwood, Rove, Garmin and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with Garry Tan, Paul Graham, YC partners, and others about Tan reshaping YC in a &quot;return to roots&quot;, as some founders complain about politicization &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240309/p11#a240309p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

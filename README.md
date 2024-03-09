@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber, Lyft, Instacart, and DoorDash are testing different ways to show high-margin ads to customers, including personalized content and movie trailers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p15#a240309p15)
  - [Apple offers one-month-free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/09/apple-offers-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
  - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
  - [Parallels Desktop updated with better gaming performance &amp; improved Clipboard](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
- - [New M3 MacBook Air has changes that make the SSD faster than the last model](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
- - [A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more &lpar;Associated Press&rpar;](http://www.techmeme.com/240309/p14#a240309p14)<!-- TECH:END -->
+ - [New M3 MacBook Air has changes that make the SSD faster than the last model](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

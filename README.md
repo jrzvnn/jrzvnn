@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Roku faces a backlash after it appears to lock devices of users who don&#39;t agree to its new Dispute Resolution Terms, asking them to write a letter to opt out &lpar;Scharon Harding/Wired&rpar;](http://www.techmeme.com/240309/p13#a240309p13)
+ - [Sleep Is the Key to Your Greatest Workout. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/sleep-is-the-key-to-your-greatest-workout-heres-why/#ftag=CAD590a51e)
+ - [The Scandinavian Sleep Method Might Just Save Your Relationship     - CNET](https://www.cnet.com/health/sleep/scandinavian-sleep-method-might-save-your-relationship/#ftag=CAD590a51e)
  - [In two recent papers, researchers detail a new breakthrough to speed up matrix multiplication, potentially leading to savings in computational power and money &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/240309/p12#a240309p12)
- - [Don&#39;t Settle for Bad Sleep. 42 Expert Tips to Improve Your Sleep Quality     - CNET](https://www.cnet.com/health/sleep/expert-tips-to-help-you-sleep/#ftag=CAD590a51e)
- - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
- - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [Where to Stream 2024&#39;s Oscar-Nominated Movies Before the Ceremony     - CNET](https://www.cnet.com/tech/services-and-software/where-to-stream-2024s-oscar-nominated-movies-before-the-ceremony/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

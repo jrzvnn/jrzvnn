@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rad Power Bikes Has 4 New Models—and Safer Batteries](https://www.wired.com/story/rad-power-bikes-safer-batteries/)
- - [Apple&#39;s newest hire is another step towards ads in Apple TV+](https://appleinsider.com/articles/24/03/09/apples-newest-hire-is-another-step-towards-ads-in-apple-tv?utm_medium=rss)
- - [Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/)
- - [Withings ScanWatch 2 and Light review: simple vibes for the tech-fatigued](https://www.theverge.com/24085043/withings-scanwatch-2-scanwatch-light-review-wearables-smartwatch)
- - [The 14 Best Netflix Original Movies to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-netflix-original-movies-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch &#39;Oppenheimer&#39; Ahead of the 2024 Oscars     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-oppenheimer-ahead-of-the-2024-oscars/#ftag=CAD590a51e)
+ - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [Experts say the weakening of LockBit and BlackCat marks a significant milestone in efforts to thwart cybercriminals, but ransomware hackers are not going away &lpar;Bloomberg&rpar;](http://www.techmeme.com/240309/p8#a240309p8)
+ - [Act Quickly to Snag Microsoft Visual Studio Proffesional 2022 for Just $36     - CNET](https://www.cnet.com/deals/act-quickly-to-snag-microsoft-visual-studio-proffesional-2022-for-just-36/#ftag=CAD590a51e)
+ - [Arsenal vs. Brentford Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-brentford-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

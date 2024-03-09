@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 👉 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)<!-- MEMES:END -->
+ - 😝 [Milena Kunis, Soviet Union, Ukrainian SSR](http://9gag.com/gag/aGEPnW6)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
 
 ---
 

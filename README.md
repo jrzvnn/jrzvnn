@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 😝 [Filipinos&#39; First Names and Last Names](http://9gag.com/gag/aZD9wnQ)
+ - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
+ - 💣 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
+ - 😝 [In Mexico there were government-sponsored public watch parties for the final episodes of Dragon Ball Super. They became so popular Japan had to send a formal diplomatic notice commanding them to stop, which they didn&#39;t.](http://9gag.com/gag/a6qWn6q)
+ - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
 
 ---
 

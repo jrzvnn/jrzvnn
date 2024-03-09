@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
- - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
- - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 😝 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)
+ - 😝 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 💣 [Tufting](http://9gag.com/gag/aWGVo2x)
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 👉 [Navy Pilot blinks morse code warning as his captors instruct him to state he has been treated well. Vietnam, 1966](http://9gag.com/gag/aPgOxqw)<!-- MEMES:END -->
 
 ---
 

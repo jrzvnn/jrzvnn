@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku faces a backlash after it appears to lock devices of users who don&#39;t agree to its new Dispute Resolution Terms, asking them to write a letter to opt out &lpar;Scharon Harding/Wired&rpar;](http://www.techmeme.com/240309/p13#a240309p13)
  - [In two recent papers, researchers detail a new breakthrough to speed up matrix multiplication, potentially leading to savings in computational power and money &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/240309/p12#a240309p12)
  - [Don&#39;t Settle for Bad Sleep. 42 Expert Tips to Improve Your Sleep Quality     - CNET](https://www.cnet.com/health/sleep/expert-tips-to-help-you-sleep/#ftag=CAD590a51e)
  - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
- - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
- - [Best Buy slashes Apple&#39;s MacBook Pro with 24GB RAM, 1TB SSD to $1,299](https://appleinsider.com/articles/24/03/09/best-buy-slashes-apples-macbook-pro-with-24gb-ram-1tb-ssd-to-1299?utm_medium=rss)<!-- TECH:END -->
+ - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

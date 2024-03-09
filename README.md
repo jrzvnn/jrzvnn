@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filipinos&#39; First Names and Last Names](http://9gag.com/gag/aZD9wnQ)
- - 😝 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)
- - 💣 [Need to do an oil change](http://9gag.com/gag/aEqe6Zo)
- - 😝 [In Mexico there were government-sponsored public watch parties for the final episodes of Dragon Ball Super. They became so popular Japan had to send a formal diplomatic notice commanding them to stop, which they didn&#39;t.](http://9gag.com/gag/a6qWn6q)
- - 👉 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)<!-- MEMES:END -->
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
+ - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
+ - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
+ - 👉 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)<!-- MEMES:END -->
 
 ---
 

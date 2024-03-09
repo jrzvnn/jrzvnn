@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [Tattoo regrets](http://9gag.com/gag/ajV27NQ)
  - 😝 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
- - 💣 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)
- - 😝 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
+ - 💣 [He F**ked around, found out.](http://9gag.com/gag/a4oMALw)
+ - 😝 [Off guard you say...](http://9gag.com/gag/aNwyQzK)
  - 👉 [`They&#39;re blind`](http://9gag.com/gag/agoRxVq)<!-- MEMES:END -->
 
 ---

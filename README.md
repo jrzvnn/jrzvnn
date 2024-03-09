@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s newest hire is another step towards ads in Apple TV+](https://appleinsider.com/articles/24/03/09/apples-newest-hire-is-another-step-towards-ads-in-apple-tv?utm_medium=rss)
+ - [Security News This Week: Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over](https://www.wired.com/story/russia-hackers-microsoft-source-code/)
+ - [Withings ScanWatch 2 and Light review: simple vibes for the tech-fatigued](https://www.theverge.com/24085043/withings-scanwatch-2-scanwatch-light-review-wearables-smartwatch)
  - [The 14 Best Netflix Original Movies to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-netflix-original-movies-to-watch-right-now/#ftag=CAD590a51e)
- - [March Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)
- - [Solar Panel Financing: Compare Cash, Loan, Lease Options and More     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panel-financing-compare-cash-loan-lease-options-and-more/#ftag=CAD590a51e)
- - [Solar-Powered Farming Is Quickly Depleting the World&#39;s Groundwater Supply](https://www.wired.com/story/solar-energy-farming-depleting-worlds-groundwater-india/)
- - [iOS 17.4: How to Give Your iPhone&#39;s Stolen Device Protection a Boost     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-give-your-iphones-stolen-device-protection-a-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

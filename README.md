@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
- - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
- - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
- - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
- - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 😝 [Recycling factory turning shopping bags into chairs](http://9gag.com/gag/amADmGv)
+ - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 👉 [Oh...that&#39;s not ....](http://9gag.com/gag/avQbevO)<!-- MEMES:END -->
 
 ---
 

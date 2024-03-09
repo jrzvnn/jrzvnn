@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Best Buy slashes Apple&#39;s MacBook Pro with 24GB RAM, 1TB SSD to $1,299](https://appleinsider.com/articles/24/03/09/best-buy-slashes-apples-macbook-pro-with-24gb-ram-1tb-ssd-to-1299?utm_medium=rss)
  - [Parallels Desktop updated with clipboard, game improvements, more](https://appleinsider.com/articles/24/03/09/parallels-desktop-updated-with-clipboard-game-improvements-more?utm_medium=rss)
  - [Interviews with Garry Tan, Paul Graham, YC partners, and others about Tan reshaping YC in a &quot;return to roots&quot;, as some founders complain about politicization &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240309/p11#a240309p11)
- - [You can grab a PS5 with Marvel’s Spider-Man 2 for $399.99 right now](https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale)<!-- TECH:END -->
+ - [Best Dash Cam Deals: Save Up to $105 on Kenwood, Rove, Garmin and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

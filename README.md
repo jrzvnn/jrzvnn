@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 💣 [Dating Apps vs Reality](http://9gag.com/gag/aQEYQZd)
  - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 😝 [I&#39;m calling it. It&#39;s a trojan horse.](http://9gag.com/gag/a5XLB5r)
- - 💣 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
  - 👉 [This is definitely a new meme template](http://9gag.com/gag/az26RZj)<!-- MEMES:END -->
 
 ---

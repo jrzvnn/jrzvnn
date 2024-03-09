@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Mexico there were government-sponsored public watch parties for the final episodes of Dragon Ball Super. They became so popular Japan had to send a formal diplomatic notice commanding them to stop, which they didn&#39;t.](http://9gag.com/gag/a6qWn6q)
- - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
- - 💣 [Girl is working out ..](http://9gag.com/gag/aNwyBP4)
- - 😝 [`phew, for a moment I thought they were going to steal my ice cream`](http://9gag.com/gag/aKEb8eZ)
- - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
+ - 😝 [Every mobile game ad be like](http://9gag.com/gag/adP3nYD)
+ - 😝 [Bye Akira](http://9gag.com/gag/aeQXZqO)
+ - 💣 [Modern gym life](http://9gag.com/gag/amADGDo)
+ - 😝 [It&#39;s funny!](http://9gag.com/gag/aOx64AD)
+ - 👉 [Off guard you say...](http://9gag.com/gag/aNwyQzK)<!-- MEMES:END -->
 
 ---
 

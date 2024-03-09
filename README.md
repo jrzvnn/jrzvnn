@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [You can grab a PS5 ‘slim’ with Marvel’s Spider-Man 2 for $399.99 right now](https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale)
  - [Apple moves to parallel flash chips in entry-level M3 MacBook Air](https://appleinsider.com/articles/24/03/09/apple-moves-to-parallel-flash-chips-in-entry-level-m3-macbook-air?utm_medium=rss)
  - [Fortnite was down all day Friday, but now the ‘Myths &amp; Mortals’ update is here](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [Sources: Klarna co-founder Victor Jacobsson, who left in 2012 and owns ~4% directly, may have an 8%+ stake via special purpose vehicles ahead of an expected IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240309/p10#a240309p10)
- - [A Roku Terms of Service Update Locks Up Your TV Until You Agree](https://www.wired.com/story/roku-terms-of-service-update-locks-tv/)<!-- TECH:END -->
+ - [Snag the Tovala Smart Oven for Just $49     - CNET](https://www.cnet.com/deals/snag-the-tovola-smart-oven-for-just-49/#ftag=CAD590a51e)
+ - [Sources: Klarna co-founder Victor Jacobsson, who left in 2012 and owns ~4% directly, may have an 8%+ stake via special purpose vehicles ahead of an expected IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240309/p10#a240309p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI probe: the board&#39;s decision to fire Altman was because of a &quot;breakdown in trust&quot;, not concerns about product safety, the pace of development, or finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p24#a240308p24)
- - [Fortnite has been down all day, and the outage isn’t over](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
- - [An independent investigation commissioned by OpenAI has found that Sam Altman&#39;s conduct before his ouster &quot;did not mandate removal&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240308/p23#a240308p23)
- - [OpenAI announces Sam Altman will rejoin its board of directors, alongside three new members: Sue Desmond-Hellmann, Nicole Seligman, and Fidji Simo &lpar;OpenAI&rpar;](http://www.techmeme.com/240308/p22#a240308p22)
- - [Best Google Pixel Deals: Save on the Latest Models     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [About 600 Activision QA workers form a union with help from the CWA, becoming the largest video game union in the US; Microsoft voluntarily recognized the union &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240308/p25#a240308p25)
+ - [Activision QA workers form the largest US video game union yet](https://www.theverge.com/2024/3/8/24094602/activision-blizzard-qa-workers-unionizing-microsoft)
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Save $300 Off the Top or Up to $1,000 Off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
+ - [Best Pixel 7 and Pixel 7 Pro Deals: Save Up to $300 in Direct Discounts &amp; More on Carrier Models     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
+ - [OpenAI probe: the board&#39;s decision to fire Altman was because of a &quot;breakdown in trust&quot;, not concerns about product safety, the pace of development, or finances &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p24#a240308p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

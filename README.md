@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian political parties BJP and Congress have created and shared AI-crafted political content on Instagram, Facebook, and YouTube, without explicit disclosures &lpar;Nilesh Christopher/Al Jazeera&rpar;](http://www.techmeme.com/240308/p29#a240308p29)
  - [Fortnite was down all day](https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download)
  - [The GPT-4 barrier has finally been broken, with Gemini 1.5, Mistral Large, Claude 3 Opus, and Inflection-2.5 benchmarking near or even above OpenAI&#39;s model &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240308/p28#a240308p28)
  - [Sources: the Biden admin is weighing sanctions on memory chipmaker CXMT and five other Chinese companies, in response to Huawei&#39;s 5G chip breakthrough in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240308/p27#a240308p27)
- - [Source: X plans to launch a TV app, which looks &quot;identical&quot; to YouTube&#39;s TV app, for Amazon and Samsung smart TVs next week &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240308/p26#a240308p26)
- - [About 600 Activision QA workers form a union with help from the CWA, becoming the largest video game union in the US; Microsoft voluntarily recognized the union &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240308/p25#a240308p25)<!-- TECH:END -->
+ - [Source: X plans to launch a TV app, which looks &quot;identical&quot; to YouTube&#39;s TV app, for Amazon and Samsung smart TVs next week &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/240308/p26#a240308p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

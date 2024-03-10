@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)
  - [Galaxy S23 Series: How Samsung&#39;s Flagship Phones Compare, Spec by Spec     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-line-up-a-comparison-of-specs-for-each-phone/#ftag=CAD590a51e)
  - [18 Best TV Shows on Netflix to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/18-best-tv-shows-on-netflix-to-watch-right-now/#ftag=CAD590a51e)
  - [Why iOS 18 Could Be a Bigger Deal Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
- - [Best Internet Providers in Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)
- - [The perfect music streaming app does not exist](https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter)<!-- TECH:END -->
+ - [Best Internet Providers in Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

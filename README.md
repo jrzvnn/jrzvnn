@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 💣 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 👉 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)<!-- MEMES:END -->
+ - 😝 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
+ - 😝 [No title needed](http://9gag.com/gag/aeQX2bq)
+ - 💣 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
+ - 😝 [Since there was a controversy here, with a miss Germany. I thought you&#39;d appreciate new Miss World from my home country, Czech Republic.](http://9gag.com/gag/aeQX2Zp)
+ - 👉 [Paying tribute to a legend](http://9gag.com/gag/aQEYONK)<!-- MEMES:END -->
 
 ---
 

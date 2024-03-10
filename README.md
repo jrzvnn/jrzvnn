@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Do Heat Pumps Work?](https://www.wired.com/story/how-do-heat-pumps-work/)
  - [A look at the challenges of academic AI research, as costs to develop generative AI models grow rapidly and tech companies&#39; salaries drain academia of talent &lpar;Washington Post&rpar;](http://www.techmeme.com/240310/p6#a240310p6)
  - [Best AirPods Deals: Big Savings on AirPods, AirPods Pro, Beats and More     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
  - [Best Soundbar for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
- - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [You Can Get Up to 15% Off in This Sferra Sale     - CNET](https://www.cnet.com/deals/you-can-get-up-to-15-off-in-this-sferra-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

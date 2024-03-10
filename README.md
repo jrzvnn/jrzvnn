@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Live TV Streaming Service for Cord Cutters in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
  - [How Do Heat Pumps Work?](https://www.wired.com/story/how-do-heat-pumps-work/)
- - [Best Mac Studio Deals: Save Up to $200 in Direct Discounts, $265 Trade-Ins and Other Offers     - CNET](https://www.cnet.com/deals/best-mac-studio-deals/#ftag=CAD590a51e)
  - [A look at the challenges of academic AI research, as costs to develop generative AI models grow rapidly and tech companies&#39; salaries drain academia of talent &lpar;Washington Post&rpar;](http://www.techmeme.com/240310/p6#a240310p6)
- - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-34-absolute-best-tv-shows-to-stream-march-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Deals: Big Savings on AirPods, AirPods Pro, Beats and More     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best Soundbar for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro CEO Yoni Assia says he&#39;s &quot;exploring the right timing&quot; for an NY or London IPO, as the Tel Aviv-based multi-asset trading platform seeks a $3.5B+ valuation &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240310/p1#a240310p1)
+ - [eToro CEO Yoni Assia says he is &quot;exploring the right timing&quot; for a London or NY IPO, as the Tel Aviv-based multi-asset trading platform seeks a $3.5B+ valuation &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240310/p1#a240310p1)
  - [Source: ex-Activision CEO Bobby Kotick has approached ByteDance to express interest in buying TikTok and floated the idea of partnering to Sam Altman and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240309/p20#a240309p20)
  - [Palantir wins a US Army contract worth $178.4M to provide battlefield AI systems for the TITAN ground station, the Army&#39;s first &quot;AI-defined vehicle&quot; &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240309/p19#a240309p19)
- - [Sources: Techstars has caused frustrations over missteps in deploying its JPMorgan-backed $80M fund, which aims to help underrepresented founders, since 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240309/p18#a240309p18)
+ - [Sources: JP Morgan is frustrated with Techstars over missteps in deploying the JPMorgan-backed $80M fund, aimed at helping underrepresented founders, since 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240309/p18#a240309p18)
  - [How Google rolled out Street View in Germany after 10+ years of resistance, as Street View&#39;s utility trumped privacy concerns in Europe&#39;s most private country &lpar;Jeremy Gray/PetaPixel&rpar;](http://www.techmeme.com/240309/p17#a240309p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

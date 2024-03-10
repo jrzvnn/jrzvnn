@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)
  - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
+ - 💣 [Peak advertising](http://9gag.com/gag/aZD92Bz)
+ - 😝 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 

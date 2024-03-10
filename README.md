@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)
  - [The Super Mario Bros. Movie sequel is coming in 2026](https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026)
  - [Stop Rinsing Your Teeth With Water After Brushing. We&#39;ll Explain Why     - CNET](https://www.cnet.com/health/personal-care/stop-rinsing-your-teeth-with-water-after-brushing-well-explain-why/#ftag=CAD590a51e)
  - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
- - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)
- - [Liverpool vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

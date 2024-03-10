@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Influencers Getting Paid to Promote Designer Knockoffs From China](https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/)
  - [A profile of, and interview with, Salesforce co-founder Parker Harris, who became Slack CTO in January, on tightly integrating Slack, generative AI, and more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240310/p2#a240310p2)
  - [20 Great, Cheap Kid-Friendly Gifts That Aren&#39;t Video Games     - CNET](https://www.cnet.com/culture/entertainment/cheap-gifts-for-kids/#ftag=CAD590a51e)
  - [eToro CEO Yoni Assia says he is &quot;exploring the right timing&quot; for a London or NY IPO, as the Tel Aviv-based multi-asset trading platform seeks a $3.5B+ valuation &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/240310/p1#a240310p1)
- - [Source: ex-Activision CEO Bobby Kotick has approached ByteDance to express interest in buying TikTok and floated the idea of partnering to Sam Altman and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240309/p20#a240309p20)
- - [Palantir wins a US Army contract worth $178.4M to provide battlefield AI systems for the TITAN ground station, the Army&#39;s first &quot;AI-defined vehicle&quot; &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240309/p19#a240309p19)<!-- TECH:END -->
+ - [Source: ex-Activision CEO Bobby Kotick has approached ByteDance to express interest in buying TikTok and floated the idea of partnering to Sam Altman and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240309/p20#a240309p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

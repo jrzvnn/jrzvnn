@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
  - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 💣 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 👉 [Peacefuls](http://9gag.com/gag/avQbv4O)<!-- MEMES:END -->
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 💣 [Absolute anarchy in Haiti which is on a brink of total collapse amid mass prison breaks. Gangs have taken control, torching police stations, assaulting airports and setting the Interior Ministry on fire. The Prime Minister has fled the country.](http://9gag.com/gag/axopYvL)
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 👉 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)<!-- MEMES:END -->
 
 ---
 

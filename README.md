@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
  - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 💣 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
  - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 ---

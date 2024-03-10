@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn poor animals](http://9gag.com/gag/agoREPg)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 💣 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [Just awful](http://9gag.com/gag/az26RKp)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 ---
 

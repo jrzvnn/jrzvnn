@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
  - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
+ - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
 
 ---
 

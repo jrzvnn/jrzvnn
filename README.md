@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [14 Best Noise-Canceling Headphones &lpar;2024&rpar;: Over-Ears, Wireless Earbuds, Workout](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [Best Internet Providers in San Diego, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)
  - [New iPads, Pencil, Magic Keyboard are still on the way](https://appleinsider.com/articles/24/03/10/new-ipads-pencil-magic-keyboard-are-still-on-the-way?utm_medium=rss)
- - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)
- - [Snag This Microsoft 2019 Bundle for Just $80     - CNET](https://www.cnet.com/deals/snag-this-microsoft-2019-bundle-for-just-80/#ftag=CAD590a51e)
- - [Oscars 2024: Watch the 96th Academy Awards Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/oscars-2024-watch-the-96th-academy-awards-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Cary, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)
+ - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

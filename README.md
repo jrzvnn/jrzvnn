@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
+ - 😝 [She&#39;s got my vote](http://9gag.com/gag/az26YZz)
  - 😝 [No title needed](http://9gag.com/gag/aeQX2bq)
  - 💣 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
  - 😝 [Since there was a controversy here, with a miss Germany. I thought you&#39;d appreciate new Miss World from my home country, Czech Republic.](http://9gag.com/gag/aeQX2Zp)
- - 👉 [Paying tribute to a legend](http://9gag.com/gag/aQEYONK)<!-- MEMES:END -->
+ - 👉 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)<!-- MEMES:END -->
 
 ---
 

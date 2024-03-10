@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Get Up to 15% Off in This Sferra Sale     - CNET](https://www.cnet.com/deals/you-can-get-up-to-15-off-in-this-sferra-sale/#ftag=CAD590a51e)
  - [How to use Apple&#39;s Time Capsule for backups on a modern wireless network](https://appleinsider.com/articles/24/03/10/how-to-use-apples-time-capsule-for-backups-on-a-modern-wireless-network?utm_medium=rss)
  - [Should You Buy Solar Panels or Rent Them?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
  - [Best Laptop Backpack for 2024     - CNET](https://www.cnet.com/tech/computing/best-laptop-backpack/#ftag=CAD590a51e)
- - [11 Best Mario Day Deals on Nintendo Switch Games and Accessories](https://www.wired.com/story/mario-day-deals-2024/)
- - [An interview with Slack CEO Denise Dresser about bringing her own personality to the job, plans to use generative AI, competing with Microsoft Teams, and more &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240310/p5#a240310p5)<!-- TECH:END -->
+ - [11 Best Mario Day Deals on Nintendo Switch Games and Accessories](https://www.wired.com/story/mario-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

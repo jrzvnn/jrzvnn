@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 💣 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
  - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 ---

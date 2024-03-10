@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)
+ - [Snag This Microsoft 2019 Bundle for Just $80     - CNET](https://www.cnet.com/deals/snag-this-microsoft-2019-bundle-for-just-80/#ftag=CAD590a51e)
+ - [Oscars 2024: Watch the 96th Academy Awards Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/oscars-2024-watch-the-96th-academy-awards-without-cable/#ftag=CAD590a51e)
  - [The Super Mario Bros. Movie sequel is coming in 2026](https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026)
- - [Stop Rinsing Your Teeth With Water After Brushing. We&#39;ll Explain Why     - CNET](https://www.cnet.com/health/personal-care/stop-rinsing-your-teeth-with-water-after-brushing-well-explain-why/#ftag=CAD590a51e)
- - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
- - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)<!-- TECH:END -->
+ - [Stop Rinsing Your Teeth With Water After Brushing. We&#39;ll Explain Why     - CNET](https://www.cnet.com/health/personal-care/stop-rinsing-your-teeth-with-water-after-brushing-well-explain-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

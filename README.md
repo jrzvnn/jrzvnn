@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 👉 [Absolute anarchy in Haiti which is on a brink of total collapse amid mass prison breaks. Gangs have taken control, torching police stations, assaulting airports and setting the Interior Ministry on fire. The Prime Minister has fled the country.](http://9gag.com/gag/axopYvL)<!-- MEMES:END -->
+ - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
+ - 😝 [Peak advertising](http://9gag.com/gag/aZD92Bz)
+ - 💣 [The future](http://9gag.com/gag/aGEP2G0)
+ - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
+ - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
 
 ---
 

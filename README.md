@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
- - 😝 [Guys, just trust](http://9gag.com/gag/aREx202)
- - 💣 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
- - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
- - 👉 [No title needed](http://9gag.com/gag/aeQX2bq)<!-- MEMES:END -->
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
+ - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 💣 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
  - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 💣 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
  - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
 
 ---

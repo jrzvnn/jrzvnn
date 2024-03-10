@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 💣 [The future](http://9gag.com/gag/aGEP2G0)
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
  - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
+ - 💣 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
 
 ---
 

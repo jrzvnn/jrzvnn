@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So they are never old](http://9gag.com/gag/aL1qWnz)
- - 😝 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
- - 💣 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
- - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 👉 [Wakanda!!!!!!!](http://9gag.com/gag/adP3RxM)<!-- MEMES:END -->
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 💣 [The future](http://9gag.com/gag/aGEP2G0)
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 

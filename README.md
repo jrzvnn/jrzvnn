@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
+ - 😝 [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
+ - 😝 [Highest form of flattery](http://9gag.com/gag/a3ZoWwe)
+ - 💣 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
+ - 😝 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
+ - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
 
 ---
 

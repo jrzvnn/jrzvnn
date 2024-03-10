@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stop Rinsing Your Teeth With Water After Brushing. We&#39;ll Explain Why     - CNET](https://www.cnet.com/health/personal-care/stop-rinsing-your-teeth-with-water-after-brushing-well-explain-why/#ftag=CAD590a51e)
+ - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
  - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)
- - [Galaxy S23 Series: How Samsung&#39;s Flagship Phones Compare, Spec by Spec     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-line-up-a-comparison-of-specs-for-each-phone/#ftag=CAD590a51e)
- - [18 Best TV Shows on Netflix to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/18-best-tv-shows-on-netflix-to-watch-right-now/#ftag=CAD590a51e)
- - [Why iOS 18 Could Be a Bigger Deal Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
- - [Best Internet Providers in Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Liverpool vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [I Made a Bacon Cheeseburger in an Air Fryer. Will I Ever Buy Fast Food Again?     - CNET](https://www.cnet.com/how-to/i-made-a-bacon-cheeseburger-in-an-air-fryer-will-i-ever-buy-fast-food-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

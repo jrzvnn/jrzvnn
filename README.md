@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy goes crazy against a patient car driver](http://9gag.com/gag/anzA2xb)
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 💣 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
  - 😝 [Peak advertising](http://9gag.com/gag/aZD92Bz)
- - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
+ - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 💣 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 👉 [Peacefuls](http://9gag.com/gag/avQbv4O)<!-- MEMES:END -->
 
 ---
 

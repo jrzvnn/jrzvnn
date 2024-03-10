@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clubbing in your 40s](http://9gag.com/gag/aOx6PPN)
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 💣 [Peak advertising](http://9gag.com/gag/aZD92Bz)
- - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Peak advertising](http://9gag.com/gag/aZD92Bz)
+ - 💣 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
+ - 😝 [Guy goes crazy against a patient car driver](http://9gag.com/gag/anzA2xb)
  - 👉 [Peacefuls](http://9gag.com/gag/avQbv4O)<!-- MEMES:END -->
 
 ---

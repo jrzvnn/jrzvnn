@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Slack CEO Denise Dresser about bringing her own personality to the job, plans to use generative AI, competing with Microsoft Teams, and more &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240310/p5#a240310p5)
+ - [Denver to pay $3.76M to grandmother due to &quot;Find My&quot; error](https://appleinsider.com/articles/24/03/10/denver-to-pay-376m-to-grandmother-due-to-find-my-error?utm_medium=rss)
  - [Crunchyroll Review: Unmatched Simulcasts and Vast Catalog Set It Apart     - CNET](https://www.cnet.com/tech/services-and-software/crunchyroll-review-unmatched-simulcasts-and-vast-catalog-make-it-a-winner/#ftag=CAD590a51e)
  - [Boost Your Protein Intake With These 7 Dietary Hacks     - CNET](https://www.cnet.com/health/nutrition/boost-your-protein-intake-with-these-7-dietary-hacks/#ftag=CAD590a51e)
- - [Denver to pay $3.76M to grandmother due to &quot;Find My&quot; error](https://appleinsider.com/articles/24/03/10/denver-to-pay-376m-to-grandmother-due-to-find-my-error?utm_medium=rss)
- - [Best 3D Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
- - [Best Internet Providers in Pasadena, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pasadena-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 3D Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

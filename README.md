@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak advertising](http://9gag.com/gag/aZD92Bz)
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 💣 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 👉 [Peacefuls](http://9gag.com/gag/avQbv4O)<!-- MEMES:END -->
+ - 😝 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
+ - 😝 [Guys, just trust](http://9gag.com/gag/aREx202)
+ - 💣 [When grandparents buys you a gift](http://9gag.com/gag/a8qr273)
+ - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
+ - 👉 [No title needed](http://9gag.com/gag/aeQX2bq)<!-- MEMES:END -->
 
 ---
 

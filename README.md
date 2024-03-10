@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
  - 😝 [Highest form of flattery](http://9gag.com/gag/a3ZoWwe)
+ - 😝 [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
  - 💣 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
  - 😝 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
  - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->

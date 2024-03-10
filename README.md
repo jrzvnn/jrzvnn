@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Denver to pay $3.76M to grandmother due to &quot;Find My&quot; error](https://appleinsider.com/articles/24/03/10/denver-to-pay-376m-to-grandmother-due-to-find-my-error?utm_medium=rss)
  - [14 Best Noise-Canceling Headphones &lpar;2024&rpar;: Over-Ears, Wireless Earbuds, Workout](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [Best Internet Providers in San Diego, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)
  - [New iPads, Pencil, Magic Keyboard are still on the way](https://appleinsider.com/articles/24/03/10/new-ipads-pencil-magic-keyboard-are-still-on-the-way?utm_medium=rss)
- - [Best Internet Providers in Cary, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)
- - [A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240310/p4#a240310p4)<!-- TECH:END -->
+ - [Best Internet Providers in Cary, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

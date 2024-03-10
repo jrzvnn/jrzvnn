@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 💣 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
- - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
+ - 😝 [Good job Bro&#39;](http://9gag.com/gag/avQbvZb)
+ - 😝 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
+ - 💣 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 😝 [Hero Woman Saves Young Girl From Being Raped In Alley By A Migrant](http://9gag.com/gag/aDYB88B)
+ - 👉 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)<!-- MEMES:END -->
 
 ---
 

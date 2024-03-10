@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 💣 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)
- - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
+ - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
+ - 😝 [Since there was a controversy here, with a miss Germany. I thought you&#39;d appreciate new Miss World from my home country, Czech Republic.](http://9gag.com/gag/aeQX2Zp)
+ - 💣 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)
+ - 😝 [Highest form of flattery](http://9gag.com/gag/a3ZoWwe)
+ - 👉 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)<!-- MEMES:END -->
 
 ---
 

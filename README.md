@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
- - 😝 [Facts \ud83d\ude2d](http://9gag.com/gag/agoR4ZK)
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
  - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 👉 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)<!-- MEMES:END -->
 
 ---
 

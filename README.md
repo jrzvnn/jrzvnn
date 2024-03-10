@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
  - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
  - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 👉 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)<!-- MEMES:END -->
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
 
 ---
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
- - 😝 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 💣 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [Woke influencer lists all of the `terrifying` things that Trump will do if he wins and accidentally made him the most epic campaign ad ever.](http://9gag.com/gag/a9q353m)
- - 👉 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)<!-- MEMES:END -->
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 💣 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 😝 [Why are they all looking like that](http://9gag.com/gag/aNwyQDA)
+ - 👉 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)<!-- MEMES:END -->
 
 ---
 

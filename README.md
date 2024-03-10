@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the challenges of academic AI research, as costs to develop generative AI models grow rapidly and tech companies&#39; salaries drain academia of talent &lpar;Washington Post&rpar;](http://www.techmeme.com/240310/p6#a240310p6)
- - [You Can Get Up to 15% Off in This Sferra Sale     - CNET](https://www.cnet.com/deals/you-can-get-up-to-15-off-in-this-sferra-sale/#ftag=CAD590a51e)
- - [How to use Apple&#39;s Time Capsule for backups on a modern wireless network](https://appleinsider.com/articles/24/03/10/how-to-use-apples-time-capsule-for-backups-on-a-modern-wireless-network?utm_medium=rss)
- - [Should You Buy Solar Panels or Rent Them?     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-should-you-buy-or-rent/#ftag=CAD590a51e)
- - [Best Laptop Backpack for 2024     - CNET](https://www.cnet.com/tech/computing/best-laptop-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Deals: Big Savings on AirPods, AirPods Pro, Beats and More     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best Soundbar for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [You Can Get Up to 15% Off in This Sferra Sale     - CNET](https://www.cnet.com/deals/you-can-get-up-to-15-off-in-this-sferra-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

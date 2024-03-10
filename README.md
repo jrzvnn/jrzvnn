@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
+ - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
  - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
  - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 

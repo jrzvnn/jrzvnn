@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damn poor animals](http://9gag.com/gag/agoREPg)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 💣 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
  - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 😝 [The future](http://9gag.com/gag/aGEP2G0)
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
  - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
 
 ---

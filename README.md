@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AI-enabled dolls, such as those made by South Korea&#39;s Hyodol and Israel&#39;s Intuition Robotics, which offer companionship and assistance to older adults &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240310/p7#a240310p7)
  - [Oscars 2024: all the latest from the biggest night in film](https://www.theverge.com/24091138/oscars-2024-news-winners-nominees)
  - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
  - [Apple Watch SE &lpar;2022&rpar; Deals: Big Savings on Direct Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)
- - [Best Live TV Streaming Service for Cord Cutters in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [How Do Heat Pumps Work?](https://www.wired.com/story/how-do-heat-pumps-work/)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutters in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

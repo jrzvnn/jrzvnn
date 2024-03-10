@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir wins a US Army contract worth $178.4M to provide battlefield AI systems for the TITAN ground station, the Army&#39;s first &quot;AI-defined vehicle&quot; &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240309/p19#a240309p19)
  - [Sources: Techstars has caused frustrations over missteps in deploying its JPMorgan-backed $80M fund, which aims to help underrepresented founders, since 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240309/p18#a240309p18)
  - [How Google rolled out Street View in Germany after 10+ years of resistance, as Street View&#39;s utility trumped privacy concerns in Europe&#39;s most private country &lpar;Jeremy Gray/PetaPixel&rpar;](http://www.techmeme.com/240309/p17#a240309p17)
  - [M3 MacBook Air arrives, Apple Vision Pro stays, and Apple Car goes](https://appleinsider.com/articles/24/03/08/m3-macbook-air-arrives-apple-vision-pro-stays-and-apple-car-goes?utm_medium=rss)
- - [Uber, Lyft, Instacart, and DoorDash are testing different ways to show high-margin ads to customers, including personalized content and movie trailers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p15#a240309p15)
- - [Apple offers one-month-free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/09/apple-offers-one-month-free-trial-of-mls-season-pass?utm_medium=rss)<!-- TECH:END -->
+ - [Uber, Lyft, Instacart, and DoorDash are testing different ways to show high-margin ads to customers, including personalized content and movie trailers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240309/p15#a240309p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

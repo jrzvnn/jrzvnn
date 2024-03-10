@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman: `Silence` Bird: `Key Change!`](http://9gag.com/gag/axopRjY)
- - 😝 [Since there was a controversy here, with a miss Germany. I thought you&#39;d appreciate new Miss World from my home country, Czech Republic.](http://9gag.com/gag/aeQX2Zp)
- - 💣 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)
- - 😝 [Highest form of flattery](http://9gag.com/gag/a3ZoWwe)
- - 👉 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)<!-- MEMES:END -->
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
+ - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 👉 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)<!-- MEMES:END -->
 
 ---
 

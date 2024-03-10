@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with ex-PlayStation boss Shawn Layden about his support for Web3 gaming company Readygg, blockchain games, mass layoffs, AI, controlling costs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240310/p3#a240310p3)
+ - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
  - [Aston Villa vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Aerith’s Fate in &#39;Final Fantasy VII Rebirth&#39; Is Causing a Rift Among Fans](https://www.wired.com/story/does-aerith-die-final-fantasy-vii-rebirth/)
- - [The Influencers Getting Paid to Promote Designer Knockoffs From China](https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/)
- - [A profile of, and interview with, Salesforce co-founder Parker Harris, who became Slack CTO in January, on tightly integrating Slack, generative AI, and more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240310/p2#a240310p2)
- - [20 Great, Cheap Kid-Friendly Gifts That Aren&#39;t Video Games     - CNET](https://www.cnet.com/culture/entertainment/cheap-gifts-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Influencers Getting Paid to Promote Designer Knockoffs From China](https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

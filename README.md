@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Super Mario Bros. Movie sequel is coming in 2026](https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026)
  - [Stop Rinsing Your Teeth With Water After Brushing. We&#39;ll Explain Why     - CNET](https://www.cnet.com/health/personal-care/stop-rinsing-your-teeth-with-water-after-brushing-well-explain-why/#ftag=CAD590a51e)
  - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
  - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)
- - [Liverpool vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [I Made a Bacon Cheeseburger in an Air Fryer. Will I Ever Buy Fast Food Again?     - CNET](https://www.cnet.com/how-to/i-made-a-bacon-cheeseburger-in-an-air-fryer-will-i-ever-buy-fast-food-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Liverpool vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

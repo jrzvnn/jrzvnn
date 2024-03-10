@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
+ - 😝 [So they are never old](http://9gag.com/gag/aL1qWnz)
  - 😝 [The guy you call to switch on the light](http://9gag.com/gag/armP8pd)
  - 💣 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
- - 😝 [Wakanda!!!!!!!](http://9gag.com/gag/adP3RxM)
- - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 👉 [Wakanda!!!!!!!](http://9gag.com/gag/adP3RxM)<!-- MEMES:END -->
 
 ---
 

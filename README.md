@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with ex-PlayStation boss Shawn Layden about his support for Web3 gaming company Readygg, blockchain games, mass layoffs, AI, controlling costs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240310/p3#a240310p3)
- - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
- - [Aston Villa vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Aerith’s Fate in &#39;Final Fantasy VII Rebirth&#39; Is Causing a Rift Among Fans](https://www.wired.com/story/does-aerith-die-final-fantasy-vii-rebirth/)
- - [The Influencers Getting Paid to Promote Designer Knockoffs From China](https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/)<!-- TECH:END -->
+ - [Galaxy S23 Series: How Samsung&#39;s Flagship Phones Compare, Spec by Spec     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-line-up-a-comparison-of-specs-for-each-phone/#ftag=CAD590a51e)
+ - [18 Best TV Shows on Netflix to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/18-best-tv-shows-on-netflix-to-watch-right-now/#ftag=CAD590a51e)
+ - [Why iOS 18 Could Be a Bigger Deal Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
+ - [Best Internet Providers in Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)
+ - [The perfect music streaming app does not exist](https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism is worse than drugs](http://9gag.com/gag/aqevQpp)
- - 😝 [Peak advertising](http://9gag.com/gag/aZD92Bz)
- - 💣 [The future](http://9gag.com/gag/aGEP2G0)
- - 😝 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)
- - 👉 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)<!-- MEMES:END -->
+ - 😝 [Uno Reverse moment.](http://9gag.com/gag/az26RAN)
+ - 😝 [He should have slammed his kid harder!](http://9gag.com/gag/aBdDE7A)
+ - 💣 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 😝 [Pantsless Cammy triggers woke Karens](http://9gag.com/gag/a9q35GZ)
+ - 👉 [Feminists in the march for #8M shout \u201csexist\u201d vs. men enjoying their privileges while working.](http://9gag.com/gag/adP3xnQ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His eyes \u201calmost\u201d opened](http://9gag.com/gag/aNwyORv)
- - 😝 [At times, it can be obvious when someone is struggling to cope. But sometimes the signs are harder to spot. Check in on those around you.](http://9gag.com/gag/adP3eN9)
- - 💣 [Highest form of flattery](http://9gag.com/gag/a3ZoWwe)
- - 😝 [Understandable. Have a great day.](http://9gag.com/gag/aeQX7pQ)
- - 👉 [The future](http://9gag.com/gag/aGEP2G0)<!-- MEMES:END -->
+ - 😝 [To do the best workout ever &lpar;boi skipped physics classes&rpar;](http://9gag.com/gag/aRExvbj)
+ - 😝 [Facts \ud83d\ude2d](http://9gag.com/gag/agoR4ZK)
+ - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 

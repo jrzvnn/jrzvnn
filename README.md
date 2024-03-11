@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looking back at &quot;Deep Learning is Hitting a Wall&quot;, a 2022 article ridiculed by many, and how it still seems that a paradigm shift is needed to attain AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/240310/p8#a240310p8)
+ - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)
  - [A look at AI-enabled dolls, such as those made by South Korea&#39;s Hyodol and Israel&#39;s Intuition Robotics, which offer companionship and assistance to older adults &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240310/p7#a240310p7)
  - [Oscars 2024: all the latest from the biggest night in film](https://www.theverge.com/24091138/oscars-2024-news-winners-nominees)
- - [Best Phone Plan Deals: Get Cheaper Plans, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
- - [How to refurbish a fifth-generation Time Capsule](https://appleinsider.com/articles/24/03/09/how-to-refurbish-a-fifth-generation-time-capsule?utm_medium=rss)
- - [Apple Watch SE &lpar;2022&rpar; Deals: Big Savings on Direct Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Plan Deals: Get Cheaper Plans, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

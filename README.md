@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)
  - [Internal memo: Alibaba plans to roll out a new staff incentive plan on April 1 that combines equity with cash, a significant change to attract and retain talent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240311/p10#a240311p10)
  - [Apple walks away empty handed at the Oscars](https://appleinsider.com/articles/24/03/11/apple-walks-away-empty-handed-at-the-oscars?utm_medium=rss)
  - [Get Ready to Eat Pond Plants](https://www.wired.com/story/get-ready-to-eat-pond-plants/)
- - [A profile of food delivery app Wonder, led by Diapers.com and Jet.com founder Marc Lore, who invested $200M+ and targets a $30B IPO in three to five years &lpar;Elizabeth G. Dunn/New York Times&rpar;](http://www.techmeme.com/240311/p9#a240311p9)
- - [Authors Brian Keene, Abdi Nazemian, and Stewart O&#39;Nan sue Nvidia over allegedly using their work to train NeMo, and say Nvidia &quot;admitted&quot; to using the books &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240311/p8#a240311p8)<!-- TECH:END -->
+ - [A profile of food delivery app Wonder, led by Diapers.com and Jet.com founder Marc Lore, who invested $200M+ and targets a $30B IPO in three to five years &lpar;Elizabeth G. Dunn/New York Times&rpar;](http://www.techmeme.com/240311/p9#a240311p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

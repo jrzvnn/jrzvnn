@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says xAI plans to open-source Grok this week; xAI released Grok in November 2023, offering access to &quot;real-time&quot; data via a $16/month X subscription &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240311/p3#a240311p3)
- - [Q&amp;A with Claire Leibowicz, the head of the AI and media integrity program at the Partnership on AI, on male domination in the industry, responsible AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240311/p2#a240311p2)
- - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
- - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)
- - [London-based Griffin Bank, which offers an API-driven banking-as-a-service platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)<!-- TECH:END -->
+ - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)
+ - [EU privacy watchdog EDPS says the EU Commission&#39;s use of Microsoft&#39;s software breached privacy rules and the EU failed to implement data transfer safeguards &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240311/p4#a240311p4)
+ - [Rampant Wildfires Are Threatening a Collapse of the Amazon Rainforest](https://www.wired.com/story/rampant-wildfires-collapse-amazon-rainforest/)
+ - [Yoel Roth, Twitter&#39;s Former Trust and Safety Chief, Is Trying to Clean Up Your Dating Apps](https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/)
+ - [Elon Musk says xAI plans to open-source Grok this week; xAI released Grok in November 2023, offering access to &quot;real-time&quot; data via a $16/month X subscription &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240311/p3#a240311p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

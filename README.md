@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
  - 💣 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
- - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
- - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
+ - 😝 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)
+ - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
 
 ---
 

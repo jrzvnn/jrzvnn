@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
- - 💣 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)
- - 😝 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)
- - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
+ - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - 😝 [Sing Sing Sing - Kyoto Tachibana SHS Band](http://9gag.com/gag/aXn8GZg)
+ - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
+ - 👉 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)<!-- MEMES:END -->
 
 ---
 

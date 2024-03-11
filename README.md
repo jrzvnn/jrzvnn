@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Why people transfer playlists to Apple Music](https://appleinsider.com/articles/24/03/11/why-people-transfer-playlists-to-apple-music?utm_medium=rss)
  - [Thomson Reuters CEO Steve Hasker says the group has $8B to spend on M&amp;A and AI investments, to help transform its businesses of supplying professional data &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p6#a240311p6)
  - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)
- - [AirPods Not Sounding Great? This Might Fix Your iPhone Audio Issues     - CNET](https://www.cnet.com/tech/mobile/airpods-not-sounding-great-this-might-fix-your-iphone-audio-issues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU privacy watchdog EDPS says the EU Commission&#39;s use of Microsoft&#39;s software breached privacy rules and the EU failed to implement data transfer safeguards &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240311/p4#a240311p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 💣 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
  - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 😝 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
 
 ---
 

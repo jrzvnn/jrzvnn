@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Compliment for Ford](http://9gag.com/gag/agoRj0g)
- - 😝 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)
- - 💣 [Paying tribute to a legend](http://9gag.com/gag/aQEYONK)
- - 😝 [Good acting from both though](http://9gag.com/gag/az26Bbp)
- - 👉 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)<!-- MEMES:END -->
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)
+ - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
 
 ---
 

@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
  - [Tesla’s going back to court over Autopilot’s role in a deadly 2018 crash](https://www.theverge.com/2024/3/11/24097480/tesla-walter-huang-crash-lawsuit-court-autopilot)
  - [Get $149 Off Our Favorite 1080p Portable Projector     - CNET](https://www.cnet.com/deals/get-149-off-our-favorite-1080p-portable-projector/#ftag=CAD590a51e)
- - [A profile of Bolt founder Ryan Breslow, who raised a $355M Series E in 2022, setting off 18 months of acrimonious lawsuits and a showdown with an early backer &lpar;Forbes&rpar;](http://www.techmeme.com/240311/p21#a240311p21)
+ - [A profile of Ryan Breslow, the founder of Bolt, whose $355M Series E in 2022 set off 18 months of acrimonious lawsuits and a showdown with early backer Activant &lpar;Forbes&rpar;](http://www.techmeme.com/240311/p21#a240311p21)
  - [Best Video Doorbell Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

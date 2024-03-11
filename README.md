@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf Jessica!?](http://9gag.com/gag/agoRdYg)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 💣 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 😝 [Just awful](http://9gag.com/gag/az26RKp)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 😝 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
+ - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - 😝 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
+ - 👉 [Wtf Jessica!?](http://9gag.com/gag/agoRdYg)<!-- MEMES:END -->
 
 ---
 

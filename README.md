@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Freeform rumored to get new navigation feature called &#39;Scenes&#39; in iOS 18](https://appleinsider.com/articles/24/03/11/freeform-rumored-to-get-new-navigation-feature-called-scenes-in-ios-18?utm_medium=rss)
- - [Midjourney bans all Stability AI employees over alleged data scraping](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
- - [Our Favorite Thunderbolt 4 Dock Is Now Just $140     - CNET](https://www.cnet.com/deals/our-favorite-thunderbolt-4-dock-is-now-just-140/#ftag=CAD590a51e)
- - [Tesla’s going back to court over Autopilot’s role in a deadly 2018 crash](https://www.theverge.com/2024/3/11/24097480/tesla-walter-huang-crash-lawsuit-court-autopilot)
- - [Get $149 Off Our Favorite 1080p Portable Projector     - CNET](https://www.cnet.com/deals/get-149-off-our-favorite-1080p-portable-projector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nab a OnePlus Pad at Its Best Ever Price With This Amazon Deal     - CNET](https://www.cnet.com/deals/nab-a-oneplus-pad-at-its-best-ever-price-with-this-amazon-deal/#ftag=CAD590a51e)
+ - [Best Pillows for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)
+ - [Best 65-Inch TV of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-65-inch-tv/#ftag=CAD590a51e)
+ - [Best Wireless Mouse for 2024     - CNET](https://www.cnet.com/tech/computing/best-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 💣 [Have you ever see a very stupid person? That make you wonder, why such a retard ever alive? Look what I found. They let out the Liquefied Gas from it containment, to `prove` it just `water`](http://9gag.com/gag/aYVzm5w)
- - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 👉 [What is this and why?](http://9gag.com/gag/aGEP7x7)<!-- MEMES:END -->
+ - 😝 [The unsolved enigma](http://9gag.com/gag/agoRKWx)
+ - 😝 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
+ - 😝 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
+ - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
 
 ---
 

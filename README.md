@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 💣 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
- - 😝 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)
+ - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 😝 [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
+ - 💣 [Man I miss those days](http://9gag.com/gag/aeQXWVb)
+ - 😝 [Normal classic movies](http://9gag.com/gag/a2KQxOO)
  - 👉 [Show me what you got](http://9gag.com/gag/a2KQx7E)<!-- MEMES:END -->
 
 ---

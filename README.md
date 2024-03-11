@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Midjourney bans all Stability AI employees over alleged data theft](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage)
  - [Tesla’s going back to court over Autopilot’s role in a deadly 2018 crash](https://www.theverge.com/2024/3/11/24097480/tesla-walter-huang-crash-lawsuit-court-autopilot)
  - [A profile of Bolt founder Ryan Breslow, who raised a $355M Series E in 2022, setting off 18 months of acrimonious lawsuits and a showdown with an early backer &lpar;Forbes&rpar;](http://www.techmeme.com/240311/p21#a240311p21)
  - [Apple is planning to use artificial intelligence to optimize App Store ads](https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads?utm_medium=rss)
- - [Why Elon Musk Had to Open Source Grok, His Answer to ChatGPT](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)
- - [JBL’s retro-style Authentics 300 smart speaker has dropped to an all-time low](https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale)<!-- TECH:END -->
+ - [Why Elon Musk Had to Open Source Grok, His Answer to ChatGPT](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 😝 [Just awful](http://9gag.com/gag/az26RKp)
- - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
- - 😝 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
- - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
+ - 😝 [Good acting from both though](http://9gag.com/gag/az26Bbp)
+ - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
+ - 💣 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)
+ - 😝 [Compliment for Ford](http://9gag.com/gag/agoRj0g)
+ - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
 
 ---
 

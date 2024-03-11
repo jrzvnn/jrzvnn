@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Do You Need a Duvet? &lpar;2024&rpar;](https://www.wired.com/story/do-you-need-a-duvet/)
- - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress     - CNET](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Best Sleep Masks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-masks/#ftag=CAD590a51e)
- - [3 Exercises You Should Prioritize as You Age, According to Experts     - CNET](https://www.cnet.com/health/fitness/3-exercises-you-should-prioritize-as-you-age-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok uses a non-disparagement clause in RSU contracts, perhaps to silence staff, an unusual practice; one ex-staffer claims a share buyback offer was withheld &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240311/p20#a240311p20)
+ - [The Finals gets a new game mode, private matches, and more gadgets for season 2](https://www.theverge.com/2024/3/11/24097333/the-finals-season-2-new-game-mode-weapons-gadgets)
+ - [Tim Cook sneaks in Apple Vision Pro promo while congratulating Porsche](https://appleinsider.com/articles/24/03/11/tim-cook-sneaks-in-apple-vision-pro-promo-while-congratulating-porsche?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

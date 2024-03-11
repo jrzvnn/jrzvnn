@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro gives developers a chance to positively impact the future of healthcare](https://appleinsider.com/articles/24/03/11/apple-vision-pro-gives-developers-a-chance-to-positively-impact-the-future-of-healthcare?utm_medium=rss)
+ - [Sources detail a secret $100M investment in Kickstarter by a16z Crypto, letting staff and investors cash out, that led to its abandoned blockchain pivot in 2021 &lpar;Fortune&rpar;](http://www.techmeme.com/240311/p16#a240311p16)
  - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
  - [An AI-Altered Hitler Speech Is Going Viral On X](https://www.wired.com/story/ai-altered-hitler-speech-viral/)
- - [Uber’s posh electric rideshare service is coming to NYC](https://www.theverge.com/2024/3/11/24094429/uber-electric-ev-nyc-emissions-teen-sustainability)
- - [How to save culture from the algorithms, with Filterworld author Kyle Chayka](https://www.theverge.com/24094338/kyle-chayka-filterworld-algorithmic-recommendation-tiktok-instagram-culture-decoder-interview)
- - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)<!-- TECH:END -->
+ - [Uber’s posh electric rideshare service is coming to NYC](https://www.theverge.com/2024/3/11/24094429/uber-electric-ev-nyc-emissions-teen-sustainability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

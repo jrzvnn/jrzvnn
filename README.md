@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
+ - [Mona Chalabi on storytelling, the power of data, and covering Palestine](https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz)
  - [Apple Vision Pro gives developers a chance to positively impact the future of healthcare](https://appleinsider.com/articles/24/03/11/apple-vision-pro-gives-developers-a-chance-to-positively-impact-the-future-of-healthcare?utm_medium=rss)
  - [Sources detail a secret $100M investment in Kickstarter by a16z Crypto, letting staff and investors cash out, that led to its abandoned blockchain pivot in 2021 &lpar;Fortune&rpar;](http://www.techmeme.com/240311/p16#a240311p16)
- - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
- - [An AI-Altered Hitler Speech Is Going Viral On X](https://www.wired.com/story/ai-altered-hitler-speech-viral/)
- - [Uber’s posh electric rideshare service is coming to NYC](https://www.theverge.com/2024/3/11/24094429/uber-electric-ev-nyc-emissions-teen-sustainability)<!-- TECH:END -->
+ - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

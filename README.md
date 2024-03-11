@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Claire Leibowicz, the head of the AI and media integrity program at the Partnership on AI, on male domination in the industry, responsible AI, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240311/p2#a240311p2)
  - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
  - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)
- - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
- - [Best AirPods Max Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)
- - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)<!-- TECH:END -->
+ - [London-based Griffin Bank, which offers an API-driven banking-as-a-service platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
+ - [Best AirPods Max Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

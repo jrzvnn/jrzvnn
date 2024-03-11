@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 💣 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 😝 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)
+ - 😝 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
  - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
 
 ---

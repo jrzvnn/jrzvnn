@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
  - 😝 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
+ - 😝 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
  - 💣 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
- - 😝 [Man I miss those days](http://9gag.com/gag/aeQXWVb)
- - 👉 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)<!-- MEMES:END -->
+ - 😝 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
+ - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
 
 ---
 

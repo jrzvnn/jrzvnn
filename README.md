@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Vision Pro and the Killer App Store](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
- - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)
- - [29 Best Sleep Week Deals: Mattresses, Sheets, and Sleep Accessories](https://www.wired.com/story/sleep-week-deals-march-2024/)
- - [Q&amp;A with Yoel Roth, as he joins Match Group as head of trust and safety, 16 months after his public exit from Twitter following Elon Musk&#39;s acquisition &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240311/p15#a240311p15)
- - [Bitcoin app accused of stealing $120,000 in another App Store failure](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro will be the platform for the killer VR app, not Meta](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
+ - [An AI-Altered Hitler Speech Is Going Viral On X](https://www.wired.com/story/ai-altered-hitler-speech-viral/)
+ - [Uber’s posh electric rideshare service is coming to NYC](https://www.theverge.com/2024/3/11/24094429/uber-electric-ev-nyc-emissions-teen-sustainability)
+ - [How to save culture from the algorithms, with Filterworld author Kyle Chayka](https://www.theverge.com/24094338/kyle-chayka-filterworld-algorithmic-recommendation-tiktok-instagram-culture-decoder-interview)
+ - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
- - 😝 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)
- - 💣 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
- - 😝 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - 👉 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)<!-- MEMES:END -->
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - 👉 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)<!-- MEMES:END -->
 
 ---
 

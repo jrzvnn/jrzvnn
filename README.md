@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is testing an AI-powered ad tool that automatically decides where to place ads within the App Store, similar to Google&#39;s Performance Max ad tool &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/240311/p26#a240311p26)
  - [Filing: OpenAI rebuts Elon Musk&#39;s lawsuit, saying OpenAI didn&#39;t violate its founding agreement because &quot;there is no founding agreement, or any agreement at all&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240311/p25#a240311p25)
  - [We Just Saw the Warmest February on Record, and It&#39;s Following a Trend     - CNET](https://www.cnet.com/science/climate/we-just-saw-the-warmest-february-on-record-and-its-following-a-trend/#ftag=CAD590a51e)
  - [Best Apple Watch Deals: Savings on Series 9, Series 8, SE 2 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Covariant, an AI-powered robot maker, debuts RFM-1, an AI model the company says can process physics, may limit the need for bespoke robotics programming, more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240311/p24#a240311p24)
- - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
+ - [Covariant, an AI-powered robot maker, debuts RFM-1, an AI model the company says can process physics, may limit the need for bespoke robotics programming, more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240311/p24#a240311p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

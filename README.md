@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The unsolved enigma](http://9gag.com/gag/agoRKWx)
- - 😝 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
- - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - 😝 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
- - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
+ - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 💣 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
+ - 😝 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - 👉 [NCAP 0](http://9gag.com/gag/aGEP26Z)<!-- MEMES:END -->
 
 ---
 

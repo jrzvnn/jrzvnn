@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [Damn poor animals](http://9gag.com/gag/agoREPg)
- - 💣 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 😝 [Just awful](http://9gag.com/gag/az26RKp)
- - 👉 [Hungry???](http://9gag.com/gag/aVbGVyw)<!-- MEMES:END -->
+ - 😝 [The unsolved enigma](http://9gag.com/gag/agoRKWx)
+ - 😝 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
+ - 😝 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
+ - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
 
 ---
 

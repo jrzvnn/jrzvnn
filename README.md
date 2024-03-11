@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight Sleep Pod 3 Cover Review: Sleep Well](https://www.wired.com/review/eight-sleep-pod-3-cover/)
  - [Ikea Matter hub, SwitchBot Lock Pro, &amp; Mila air purifier on the HomeKit Insider podcast](https://appleinsider.com/articles/24/03/11/ikea-matter-hub-switchbot-lock-pro-mila-air-purifier-on-the-homekit-insider-podcast?utm_medium=rss)
  - [As global chip companies seek a backup to China, Malaysia becomes a surprise investment destination, thanks to a background in packaging, assembly, and testing &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p17#a240311p17)
  - [Airbnb Bans All Indoor Security Cameras](https://www.wired.com/story/airbnb-indoor-security-camera-ban/)
- - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)
- - [Mona Chalabi on storytelling, the power of data, and covering Palestine](https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz)<!-- TECH:END -->
+ - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

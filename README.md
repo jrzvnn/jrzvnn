@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencers on Facebook, Instagram, TikTok, and other sites are using affiliate links for Chinese ecommerce sites like Pandabuy and DHGate to promote knockoffs &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)
+ - [Influencers on Facebook, Instagram, TikTok, and other sites are promoting Chinese ecommerce sites like Pandabuy and DHGate that sell cheap counterfeit products &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)
  - [Best Online Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
  - [The Kate Middleton Photo Controversy Is an Inexplicable Mess](https://www.wired.com/story/kate-middleton-photo-manipulation-conspiracy-theories/)
  - [Looking back at &quot;Deep Learning is Hitting a Wall&quot;, a 2022 article ridiculed by many, and how it still seems that a paradigm shift is needed to attain AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/240310/p8#a240310p8)

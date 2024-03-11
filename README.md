@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 💣 [Just awful](http://9gag.com/gag/az26RKp)
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 👉 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)<!-- MEMES:END -->
+ - 😝 [The future](http://9gag.com/gag/aGEP2G0)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 💣 [Damn poor animals](http://9gag.com/gag/agoREPg)
+ - 😝 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
+ - 👉 [The long Dong](http://9gag.com/gag/a8qr2L1)<!-- MEMES:END -->
 
 ---
 

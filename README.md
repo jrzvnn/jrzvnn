@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good acting from both though](http://9gag.com/gag/az26Bbp)
- - 😝 [Old white liberal women are the worst](http://9gag.com/gag/aA0nv3g)
- - 💣 [Next stop depression and as a man you can&#39;t complain because that&#39;s what women do.](http://9gag.com/gag/aVbGB5d)
- - 😝 [Compliment for Ford](http://9gag.com/gag/agoRj0g)
- - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
+ - 😝 [Wtf Jessica!?](http://9gag.com/gag/agoRdYg)
+ - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 💣 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 😝 [Just awful](http://9gag.com/gag/az26RKp)
+ - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
 
 ---
 

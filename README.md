@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)
  - [Sources: Monad Labs, which is building an Ethereum virtual machine-compatible Layer 1 blockchain, is in talks to raise $200M+ led by Paradigm at a $3B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/240311/p23#a240311p23)
  - [Best Solar Panel Installation Companies in New Mexico     - CNET](https://www.cnet.com/home/energy-and-utilities/new-mexico-solar-panels/#ftag=CAD590a51e)
  - [Oracle reports Q3 revenue up 7% YoY to $13.3B, meeting expectations, and cloud services and license support revenues up 12% YoY to $9.96B; ORCL jumps 9%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240311/p22#a240311p22)
- - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)
- - [Best PC Gaming Headset for 2024     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

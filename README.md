@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews and court filings: 10 former Pinduoduo staff describe surveillance after leaving and lawsuits to enforce strict non-competes and stifle competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p11#a240311p11)
+ - [How Apple&#39;s Advanced Data Protection Works, and How to Enable It on Your iPhone](https://www.wired.com/story/how-apple-advanced-data-protection-works-and-how-to-turn-it-on/)
  - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)
  - [Internal memo: Alibaba plans to roll out a new staff incentive plan on April 1 that combines equity with cash, a significant change to attract and retain talent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240311/p10#a240311p10)
- - [Apple walks away empty handed at the Oscars](https://appleinsider.com/articles/24/03/11/apple-walks-away-empty-handed-at-the-oscars?utm_medium=rss)
- - [Get Ready to Eat Pond Plants](https://www.wired.com/story/get-ready-to-eat-pond-plants/)
- - [A profile of food delivery app Wonder, led by Diapers.com and Jet.com founder Marc Lore, who invested $200M+ and targets a $30B IPO in three to five years &lpar;Elizabeth G. Dunn/New York Times&rpar;](http://www.techmeme.com/240311/p9#a240311p9)<!-- TECH:END -->
+ - [Apple walks away empty handed at the Oscars](https://appleinsider.com/articles/24/03/11/apple-walks-away-empty-handed-at-the-oscars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

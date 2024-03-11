@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)
- - 😝 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
- - 💣 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 💣 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)<!-- MEMES:END -->
 
 ---
 

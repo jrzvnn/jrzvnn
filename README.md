@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
- - 😝 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
- - 💣 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 😝 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 💣 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
  - 😝 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)
  - 👉 [Sir, a jelly doughnut, sir!](http://9gag.com/gag/a9q3BzD)<!-- MEMES:END -->
 

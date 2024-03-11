@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new midrange Galaxy A55 arrives with improved security and materials](https://www.theverge.com/2024/3/11/24097036/samsung-galaxy-a55-a35-price-release-date-specs-features-knox-vault)
- - [Interviews and court filings: 10 former Pinduoduo staff describe surveillance after leaving and lawsuits to enforce strict non-competes and stifle competition &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p11#a240311p11)
- - [How Apple&#39;s Advanced Data Protection Works, and How to Enable It on Your iPhone](https://www.wired.com/story/how-apple-advanced-data-protection-works-and-how-to-turn-it-on/)
- - [British monarchy rocked by bad Photoshop job](https://www.theverge.com/2024/3/10/24096762/kate-middleton-edited-photo-royal-family-possible-fake)
- - [Internal memo: Alibaba plans to roll out a new staff incentive plan on April 1 that combines equity with cash, a significant change to attract and retain talent &lpar;Bloomberg&rpar;](http://www.techmeme.com/240311/p10#a240311p10)<!-- TECH:END -->
+ - [Pavel Durov says Telegram has 900M users, hopes &quot;to become profitable next year, if not this year&quot;, was &quot;offered $30B+ valuations&quot; by VCs, and considers an IPO &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240311/p12#a240311p12)
+ - [AI and You: Expect More Fake AI Images, OpenAI-Musk, OpenAI-NYT Battles Continue     - CNET](https://www.cnet.com/tech/computing/ai-and-you-expect-more-fake-ai-images-openai-musk-openai-nyt-battles-continue/#ftag=CAD590a51e)
+ - [Samsung Gadgets to Expect in 2024: Galaxy Ring, Galaxy Z Flip 6 and More     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-is-here-but-were-expecting-more-from-samsung-in-2024/#ftag=CAD590a51e)
+ - [Your Next Job: Brain-Computer Interface Surgeon](https://www.wired.com/story/your-next-job-bci-surgeon/)
+ - [Best Internet Providers in Winter Haven, Florida     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-winter-haven-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

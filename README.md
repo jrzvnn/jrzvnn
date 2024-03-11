@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eclipse Labs, which is developing an Ethereum Layer-2 blockchain using the Solana Virtual Machine, raised a $50M Series A co-led by Placeholder and Hack VC &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240311/p18#a240311p18)
+ - [Heybike Tyson Review: Big on the Basics](https://www.wired.com/review/heybike-tyson/)
  - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)
  - [HoloLens 2 swapped for Apple Vision Pro in UK spinal fusion operation](https://appleinsider.com/articles/24/03/11/hololens-2-swapped-for-apple-vision-pro-in-uk-spinal-fusion-operation?utm_medium=rss)
- - [Mac Studio, visionOS 2.0, iOS 18, Apple AI: What to expect from Apple for WWDC 2024](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)
- - [WB’s Smash Bros.-style fighter Multiversus is launching in May](https://www.theverge.com/24097129/multiversus-release-date-warner-bros-games)
- - [Porsche Taycan Turbo GT sets new lap record at Laguna Seca](https://www.theverge.com/2024/3/11/24097177/porsche-taycan-turbo-gt-lap-time-record-laguna-seca)<!-- TECH:END -->
+ - [Mac Studio, visionOS 2.0, iOS 18, Apple AI: What to expect from Apple for WWDC 2024](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

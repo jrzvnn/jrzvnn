@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Vision Pro and the Killer App Store](https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store?utm_medium=rss)
+ - [Reddit goes public: the latest updates on its IPO](https://www.theverge.com/24097069/reddit-ipo-public-investment-ai-training-data-google)
+ - [29 Best Sleep Week Deals: Mattresses, Sheets, and Sleep Accessories](https://www.wired.com/story/sleep-week-deals-march-2024/)
  - [Q&amp;A with Yoel Roth, as he joins Match Group as head of trust and safety, 16 months after his public exit from Twitter following Elon Musk&#39;s acquisition &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/240311/p15#a240311p15)
- - [Bitcoin app accused of stealing $120,000 in another App Store failure](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)
- - [GM, Honda, Kia, Hyundai, and others added optional features in their apps to rate people&#39;s driving in recent years, offering the data to brokers like LexisNexis &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240311/p14#a240311p14)
- - [You Only Need Two Apps to Stream All of March Madness This Year     - CNET](https://www.cnet.com/tech/services-and-software/you-only-need-two-apps-to-stream-all-of-march-madness-this-year/#ftag=CAD590a51e)
- - [The Quest to Give AI Chatbots a Hand—and an Arm](https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/)<!-- TECH:END -->
+ - [Bitcoin app accused of stealing $120,000 in another App Store failure](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

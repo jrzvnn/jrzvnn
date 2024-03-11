@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM, Honda, Kia, Hyundai, and others added optional features in their apps to rate people&#39;s driving in recent years, offering the data to brokers like LexisNexis &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240311/p14#a240311p14)
+ - [The Quest to Give AI Chatbots a Hand—and an Arm](https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/)
  - [AirPods Pro could gain hearing aid mode in iOS 18](https://appleinsider.com/articles/24/03/11/airpods-pro-could-gain-hearing-aid-mode-in-ios-18?utm_medium=rss)
  - [An Italian minister says Singapore-based Silicon Box plans to invest &amp;euro;3.2B to build a chip factory; Silicon Box raised $200M in January 2024 at a $1B+ valuation &lpar;Flavia Rotondi/Bloomberg&rpar;](http://www.techmeme.com/240311/p13#a240311p13)
- - [Pavel Durov says Telegram has 900M users, hopes &quot;to become profitable next year, if not this year&quot;, was &quot;offered $30B+ valuations&quot; by VCs, and considers an IPO &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240311/p12#a240311p12)
- - [AI and You: Expect More Fake AI Images, OpenAI-Musk, OpenAI-NYT Battles Continue     - CNET](https://www.cnet.com/tech/computing/ai-and-you-expect-more-fake-ai-images-openai-musk-openai-nyt-battles-continue/#ftag=CAD590a51e)
- - [Samsung Gadgets to Expect in 2024: Galaxy Ring, Galaxy Z Flip 6 and More     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-is-here-but-were-expecting-more-from-samsung-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pavel Durov says Telegram has 900M users, hopes &quot;to become profitable next year, if not this year&quot;, was &quot;offered $30B+ valuations&quot; by VCs, and considers an IPO &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240311/p12#a240311p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

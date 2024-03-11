@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 💣 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
  - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)<!-- MEMES:END -->
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 💣 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
+ - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
 
 ---
 

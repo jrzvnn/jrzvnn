@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 😝 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
  - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 😝 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)
+ - 💣 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
+ - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
  - 👉 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)<!-- MEMES:END -->
 
 ---

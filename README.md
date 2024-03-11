@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score Big Savings: Join CNET&#39;s Text Group for Daily Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
  - [Google Is Getting Thousands of Deepfake Porn Complaints](https://www.wired.com/story/google-deepfake-porn-dmca-takedowns/)
  - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
  - [Best AirPods Max Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)
- - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)
- - [Influencers on Facebook, Instagram, Discord, Reddit, and TikTok are promoting Chinese ecommerce sites like Pandabuy, known for knockoffs, using affiliate links &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)<!-- TECH:END -->
+ - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Bolt founder Ryan Breslow, who raised a $355M Series E in 2022, setting off 18 months of acrimonious lawsuits and a showdown with an early backer &lpar;Forbes&rpar;](http://www.techmeme.com/240311/p21#a240311p21)
+ - [Apple is planning to use artificial intelligence to optimize App Store ads](https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads?utm_medium=rss)
  - [Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)
  - [JBL’s retro-style Authentics 300 smart speaker has dropped to an all-time low](https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale)
- - [Fighting Daylight Saving Fatigue? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/try-light-therapy-for-daylight-saving-time/#ftag=CAD590a51e)
- - [Save Some Lost Hours With These Amazon Coffee Deals     - CNET](https://www.cnet.com/deals/save-some-lost-hours-with-these-amazon-coffee-deals/#ftag=CAD590a51e)
- - [The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)<!-- TECH:END -->
+ - [Fighting Daylight Saving Fatigue? Try Light Therapy     - CNET](https://www.cnet.com/health/mental/try-light-therapy-for-daylight-saving-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

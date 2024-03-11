@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - 😝 [Sing Sing Sing - Kyoto Tachibana SHS Band](http://9gag.com/gag/aXn8GZg)
- - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 👉 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)<!-- MEMES:END -->
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - 💣 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 

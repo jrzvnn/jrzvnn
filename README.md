@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 😝 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
- - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 😝 [What is this and why?](http://9gag.com/gag/aGEP7x7)
- - 👉 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)<!-- MEMES:END -->
+ - 😝 [What do you call such a mental illness?](http://9gag.com/gag/armPdRB)
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 💣 [The evolution of the criminal](http://9gag.com/gag/awZqd14)
+ - 😝 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
+ - 👉 [What is this and why?](http://9gag.com/gag/aGEP7x7)<!-- MEMES:END -->
 
 ---
 

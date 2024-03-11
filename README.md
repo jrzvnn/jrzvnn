@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Griffin Bank, which offers an API-driven &quot;banking as a service&quot; platform, raised a $24M Series A extension, after a $13.5M Series A in June 2023 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240311/p1#a240311p1)
  - [Oscars 2024 winners: Oppenheimer and Christopher Nolan lead the way](https://www.theverge.com/2024/3/10/24094772/oscars-2024-winners-list-oppenheimer-poor-things)
  - [Influencers on Facebook, Instagram, Discord, Reddit, and TikTok are promoting Chinese ecommerce sites like Pandabuy, known for knockoffs, using affiliate links &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240310/p9#a240310p9)
  - [Best Online Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
- - [The Kate Middleton Photo Controversy Is an Inexplicable Mess](https://www.wired.com/story/kate-middleton-photo-manipulation-conspiracy-theories/)
- - [Looking back at &quot;Deep Learning is Hitting a Wall&quot;, a 2022 article ridiculed by many, and how it still seems that a paradigm shift is needed to attain AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/240310/p8#a240310p8)<!-- TECH:END -->
+ - [The Kate Middleton Photo Controversy Is an Inexplicable Mess](https://www.wired.com/story/kate-middleton-photo-manipulation-conspiracy-theories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [NCAP 0](http://9gag.com/gag/aGEP26Z)
  - 😝 [Just awful](http://9gag.com/gag/az26RKp)
  - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
  - 😝 [Never knew this until now](http://9gag.com/gag/aBdDvRO)

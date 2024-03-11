@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold Scroller, you have reached the Feynman Point!](http://9gag.com/gag/armPzb6)
- - 😝 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 💣 [NCAP 0](http://9gag.com/gag/aGEP26Z)
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 👉 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)<!-- MEMES:END -->
+ - 😝 [He can&#39;t even make it out of the parking lot of the police station without committing another crime](http://9gag.com/gag/avQbm6b)
+ - 😝 [Guy almost falls out of an infinity pool](http://9gag.com/gag/aPgOXYG)
+ - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - 👉 [The evolution of the criminal](http://9gag.com/gag/awZqd14)<!-- MEMES:END -->
 
 ---
 

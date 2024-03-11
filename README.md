@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [US soldier picks up object he thinks is an artillery shell, it is in fact an IED &lpar;Afghanistan, date unknown&rpar;](http://9gag.com/gag/aOx6Rdv)<!-- MEMES:END -->
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
+ - 💣 [Hungry???](http://9gag.com/gag/aVbGVyw)
+ - 😝 [A meme in it&#39;s natural habitat](http://9gag.com/gag/aqevYGZ)
+ - 👉 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)<!-- MEMES:END -->
 
 ---
 

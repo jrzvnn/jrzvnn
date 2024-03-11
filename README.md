@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Filing: OpenAI rebuts Elon Musk&#39;s lawsuit, saying OpenAI didn&#39;t violate its founding agreement because &quot;there is no founding agreement, or any agreement at all&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240311/p25#a240311p25)
+ - [We Just Saw the Warmest February on Record, and It&#39;s Following a Trend     - CNET](https://www.cnet.com/science/climate/we-just-saw-the-warmest-february-on-record-and-its-following-a-trend/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Savings on Series 9, Series 8, SE 2 and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
  - [Covariant, an AI-powered robot maker, debuts RFM-1, an AI model the company says can process physics, may limit the need for bespoke robotics programming, more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240311/p24#a240311p24)
- - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)
- - [Sources: Monad Labs, which is building an Ethereum virtual machine-compatible Layer 1 blockchain, is in talks to raise $200M+ led by Paradigm at a $3B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/240311/p23#a240311p23)
- - [Best Solar Panel Installation Companies in New Mexico     - CNET](https://www.cnet.com/home/energy-and-utilities/new-mexico-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitcoin app accused of stealing $120,000 in another App Store failure [u]](https://appleinsider.com/articles/24/03/11/bitcoin-app-accused-of-stealing-120000-in-another-app-store-failure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

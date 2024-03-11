@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok](https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/)
  - [JBL’s retro-style Authentics 300 smart speaker has dropped to an all-time low](https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale)
- - [The 4 Big Questions the Pentagon&#39;s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)
+ - [The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer](https://www.wired.com/story/questions-pentagon-ufo-report/)
  - [Do You Need a Duvet? &lpar;2024&rpar;](https://www.wired.com/story/do-you-need-a-duvet/)
- - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress     - CNET](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Casper One Foam Mattress Review 2024: Testing Casper&#39;s New Flagship Mattress     - CNET](https://www.cnet.com/health/sleep/casper-one-foam-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

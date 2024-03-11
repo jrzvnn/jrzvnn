@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Authors Brian Keene, Abdi Nazemian, and Stewart O&#39;Nan sue Nvidia over allegedly using their work to train NeMo, and say Nvidia &quot;admitted&quot; to using the books &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240311/p8#a240311p8)
  - [Filing: Reddit aims to raise up to $748M in its IPO, selling 22M shares at $31 to $34 each, for a ~$6.5B valuation; Reddit sets aside 1.76M shares for users &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240311/p7#a240311p7)
  - [Why people transfer playlists to Apple Music](https://appleinsider.com/articles/24/03/11/why-people-transfer-playlists-to-apple-music?utm_medium=rss)
  - [Thomson Reuters CEO Steve Hasker says the group has $8B to spend on M&amp;A and AI investments, to help transform its businesses of supplying professional data &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p6#a240311p6)
- - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)
- - [EU privacy watchdog EDPS says the EU Commission&#39;s use of Microsoft&#39;s software breached privacy rules and the EU failed to implement data transfer safeguards &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240311/p4#a240311p4)<!-- TECH:END -->
+ - [UK savings platform Flagstone, which lets its 600K+ users split cash across providers, raised &amp;pound;108M from Arizona-based Estancia for a minority stake &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240311/p5#a240311p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

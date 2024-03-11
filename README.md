@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this and why?](http://9gag.com/gag/aGEP7x7)
- - 😝 [What\u2019s this monkeys name](http://9gag.com/gag/adP3oXB)
- - 💣 [He can&#39;t even make it out of the parking lot of the police station without committing another crime](http://9gag.com/gag/avQbm6b)
- - 😝 [Hungry???](http://9gag.com/gag/aVbGVyw)
- - 👉 [The evolution of the criminal](http://9gag.com/gag/awZqd14)<!-- MEMES:END -->
+ - 😝 [Each of these had their own original story, not a stolen one. Every one liked that.](http://9gag.com/gag/awZqYd1)
+ - 😝 [That describes everything happening at the border right now.](http://9gag.com/gag/aNwyjp4)
+ - 💣 [Bulgaria traditional costumes](http://9gag.com/gag/aRExRW5)
+ - 😝 [Man I miss those days](http://9gag.com/gag/aeQXWVb)
+ - 👉 [Pitbull attacks a bison and quickly finds out...](http://9gag.com/gag/anzAGWV)<!-- MEMES:END -->
 
 ---
 

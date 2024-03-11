@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook sneaks in Apple Vision Pro promo while congratulating Porsche](https://appleinsider.com/articles/24/03/11/tim-cook-sneaks-in-apple-vision-pro-promo-while-congratulating-porsche?utm_medium=rss)
+ - [Apple&#39;s 14-inch MacBook Pro with 36GB RAM, 1TB SSD is on sale for $2,399 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/03/11/apples-14-inch-macbook-pro-with-36gb-ram-1tb-ssd-is-on-sale-for-2399-200-off?utm_medium=rss)
  - [Airbnb will no longer let hosts use indoor security cameras, staring April 30, citing renters&#39; privacy; previously, cameras in common areas had been allowed &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240311/p19#a240311p19)
  - [Eclipse Labs, which is developing an Ethereum Layer-2 blockchain using the Solana Virtual Machine, raised a $50M Series A co-led by Placeholder and Hack VC &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240311/p18#a240311p18)
- - [Heybike Tyson Review: Big on the Basics](https://www.wired.com/review/heybike-tyson/)
- - [AI-generated recipes won’t get you to Flavortown](https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright)
- - [HoloLens 2 swapped for Apple Vision Pro in UK spinal fusion operation](https://appleinsider.com/articles/24/03/11/hololens-2-swapped-for-apple-vision-pro-in-uk-spinal-fusion-operation?utm_medium=rss)<!-- TECH:END -->
+ - [Heybike Tyson Review: Big on the Basics](https://www.wired.com/review/heybike-tyson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

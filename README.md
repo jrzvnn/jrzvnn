@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
  - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
  - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)<!-- MEMES:END -->
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 

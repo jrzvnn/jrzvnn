@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Carta: tech startup workers are receiving 37% less equity in their companies on average compared with 18 months ago; average salaries are down 0.2% since 2022 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240312/p32#a240312p32)
  - [Most apps with subscriptions fail to make more than $1,000 per month](https://appleinsider.com/articles/24/03/12/most-apps-with-subscriptions-fail-to-make-more-than-1000-per-month?utm_medium=rss)
  - [How to Download Your TikTok Videos](https://www.wired.com/story/how-to-download-your-tiktok-videos/)
- - [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai)<!-- TECH:END -->
+ - [Best RV Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

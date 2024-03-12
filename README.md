@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)
  - [How Rivian Is Pulling Off Its $45,000 Electric SUV](https://www.wired.com/story/how-rivian-is-pulling-off-its-45k-electric-suv/)
  - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
  - [Tor releases WebTunnel, a new type of Tor bridge that mimics HTTPS traffic to help users bypass censorship by hiding connections in plain sight &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240312/p29#a240312p29)
- - [Expert Advice on How to Shop for ISPs That Meet Your Household’s Needs     - CNET](https://www.cnet.com/home/internet/how-to-ditch-your-internet-provider-and-find-a-better-option/#ftag=CAD590a51e)
- - [Sources: the Pentagon abandoned its plan to spend as much as $2.5B on a chip grant to Intel, putting the onus on the Commerce Dept. to make up for the shortfall &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p28#a240312p28)<!-- TECH:END -->
+ - [Expert Advice on How to Shop for ISPs That Meet Your Household’s Needs     - CNET](https://www.cnet.com/home/internet/how-to-ditch-your-internet-provider-and-find-a-better-option/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

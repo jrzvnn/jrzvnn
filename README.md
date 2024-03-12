@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - 😝 [The comment heard round the world. She\u2019s still regretting that one.](http://9gag.com/gag/aOx6NpM)
  - 😝 [Google&#39;s new quantum computer is 241 million times faster than the one released in 2019.](http://9gag.com/gag/avQbDOZ)
- - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 💣 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)
  - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
  - 👉 [Welcome to the real world](http://9gag.com/gag/az26ByB)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai)
- - [Radio is seeing red](https://www.theverge.com/2024/3/12/24098990/radio-public-layoffs-wbur-npr-rooster-teeth-zaslov-warner-brothers)
- - [Letter: Chamath Palihapitiya&#39;s VC firm Social Capital said it fired two of its partners, citing an undisclosed &quot;situation&quot;, and hired a law firm to investigate &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p31#a240312p31)
- - [Bluesky starts letting users pick their own moderation filters](https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone)
- - [X-Men ’97 creator reportedly fired by Marvel weeks before premiere](https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated)<!-- TECH:END -->
+ - [Docs: RISC-V chip designer SiFive had $38.2M in revenue in 2023, a net operating loss of $113.1M, and expects to boost its licensing revenue to $60M this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240312/p33#a240312p33)
+ - [Carta: tech startup workers are receiving 37% less equity in their companies on average compared with 18 months ago; average salaries are down 0.2% since 2022 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240312/p32#a240312p32)
+ - [Most apps with subscriptions fail to make more than $1,000 per month](https://appleinsider.com/articles/24/03/12/most-apps-with-subscriptions-fail-to-make-more-than-1000-per-month?utm_medium=rss)
+ - [How to Download Your TikTok Videos](https://www.wired.com/story/how-to-download-your-tiktok-videos/)
+ - [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

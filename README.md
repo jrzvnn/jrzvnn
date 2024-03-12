@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
- - 😝 [The comment heard round the world. She\u2019s still regretting that one.](http://9gag.com/gag/aOx6NpM)
- - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
+ - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 💣 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 👉 [Welcome to the real world](http://9gag.com/gag/az26ByB)<!-- MEMES:END -->
 
 ---
 

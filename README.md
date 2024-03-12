@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 💣 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
  - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 👉 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)<!-- MEMES:END -->
+ - 💣 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
+ - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
 
 ---
 

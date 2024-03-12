@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 💣 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
+ - 💣 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 👉 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)<!-- MEMES:END -->
 
 ---
 

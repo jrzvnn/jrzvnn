@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2024 Vergecast streaming draft](https://www.theverge.com/2024/3/12/24098343/best-streaming-services-2024-netflix-tiktok-max-disney-vergecast)
- - [Sources: in summer 2023, Donald Trump asked Elon Musk if he wanted to buy Truth Social, but no deal was made; Trump advisers say the pair have talked politics &lpar;Washington Post&rpar;](http://www.techmeme.com/240312/p13#a240312p13)
- - [Sources: Intel survived an effort to halt laptop chip sales to Huawei under a Trump-era license, after AMD pressured Biden; source: AMD sought a similar license &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240312/p12#a240312p12)
- - [Apple to allow iOS app downloads direct from websites in the EU](https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes)
- - [Apple announces App Store updates under the EU&#39;s DMA, including a Web Distribution tool to let developers offer apps via their website, launching in spring 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240312/p11#a240312p11)<!-- TECH:END -->
+ - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
+ - [Apple increases R&amp;D in China with two lab expansions](https://appleinsider.com/articles/24/03/12/apple-increases-rd-in-china-with-two-lab-expansions?utm_medium=rss)
+ - [Google confirms rolling out Gemini restrictions to limit surfacing answers on election queries globally; the update is live in the US and rolling out in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240312/p14#a240312p14)
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
+ - [Epic details new Unreal Engine pricing plan for non-game developers](https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

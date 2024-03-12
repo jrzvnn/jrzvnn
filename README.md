@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still believe I can win in a 1v1 fight^^. Same versus a grizzly](http://9gag.com/gag/a5XLymy)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 💣 [A passenger plane crashed near the city of Ivanovo in Russia](http://9gag.com/gag/a4oMBzp)
- - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
+ - 😝 [The gladiator!](http://9gag.com/gag/aDYBPE7)
+ - 😝 [Name this game](http://9gag.com/gag/aBdDbDO)
+ - 💣 [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 

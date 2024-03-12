@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
- - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
- - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
  - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
+ - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 👉 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)<!-- MEMES:END -->
 
 ---
 

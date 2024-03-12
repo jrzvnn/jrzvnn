@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI-generated hell of the 2024 election](https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation)
  - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
  - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)
  - [How Rivian Is Pulling Off Its $45,000 Electric SUV](https://www.wired.com/story/how-rivian-is-pulling-off-its-45k-electric-suv/)
- - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
- - [Tor releases WebTunnel, a new type of Tor bridge that mimics HTTPS traffic to help users bypass censorship by hiding connections in plain sight &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240312/p29#a240312p29)<!-- TECH:END -->
+ - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

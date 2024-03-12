@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Kate Middleton photo scandal is a rare — and consequential — flub](https://www.theverge.com/2024/3/12/24098548/kate-middleton-royal-family-photoshop-manipulated-image)
  - [Docs: Nigeria, which has held two Binance execs since February amid a crypto exchange crackdown, is pushing Binance for info on its top 100 local users and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240312/p26#a240312p26)
  - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
- - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)<!-- TECH:END -->
+ - [Best Mattress for Guest Rooms of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

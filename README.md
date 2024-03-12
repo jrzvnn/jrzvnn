@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
  - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 💣 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - 😝 [Killer Cat](http://9gag.com/gag/abvjLYb)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
 
 ---
 

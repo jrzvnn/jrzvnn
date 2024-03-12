@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
  - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
 
 ---
 

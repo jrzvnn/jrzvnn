@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another Apple supplier hit by cancellation of a massive micro LED delivery project](https://appleinsider.com/articles/24/03/12/another-apple-supplier-hit-by-cancellation-of-a-massive-micro-led-delivery-project?utm_medium=rss)
+ - [Match and Bumble have lost $40B+ in market value since 2021, as they struggle to grow their $4.2B in 2023 subscription revenue and young users balk at paying &lpar;J. Edward Moreno/New York Times&rpar;](http://www.techmeme.com/240312/p23#a240312p23)
+ - [The EU Council confirms lifting sanctions on Yandex co-founder Arkady Volozh and two others; Volozh was sanctioned in June 2023 and then stepped down as CEO &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/240312/p22#a240312p22)
  - [Plufl&#39;s Human Dog Bed Is on Sale for Sleep Week](https://www.wired.com/story/plufl-dog-bed-sleep-week-sale/)
- - [The First Rule of the Extreme Dishwasher Loading Facebook Group Is …](https://www.wired.com/story/extreme-dishwasher-loading-facebook-group/)
- - [Google updates Google Play game listings, including AI-powered FAQs and new ad formats, adds support for listing PC games, and says Play Points hit 220M members &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240312/p21#a240312p21)
- - [Europe Lifts Sanctions on Yandex Cofounder Arkady Volozh](https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/)
- - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)<!-- TECH:END -->
+ - [The First Rule of the Extreme Dishwasher Loading Facebook Group Is …](https://www.wired.com/story/extreme-dishwasher-loading-facebook-group/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

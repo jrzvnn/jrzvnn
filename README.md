@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
+ - [Apple Arcade&#39;s April additions include two with Apple Vision Pro support](https://appleinsider.com/articles/24/03/12/apple-arcades-april-additions-include-two-with-apple-vision-pro-support?utm_medium=rss)
  - [Nanonets, which offers AI tools to process business invoices in as little as one minute, raised a $29M Series B led by Accel India, for $40M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240312/p17#a240312p17)
  - [Epic plans to charge non-game developers $1,850 per seat per year to use Unreal Engine in late April with version 5.4, as opposed to royalty-based game fees &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240312/p16#a240312p16)
- - [Cognition AI, which offers a Copilot-like coding assistant that, the startup says, can finish whole projects, raised $21M from Founders Fund, Elad Gil, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p15#a240312p15)
- - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
- - [Apple increases R&amp;D in China with two lab expansions](https://appleinsider.com/articles/24/03/12/apple-increases-rd-in-china-with-two-lab-expansions?utm_medium=rss)<!-- TECH:END -->
+ - [Cognition AI, which offers a Copilot-like coding assistant that, the startup says, can finish whole projects, raised $21M from Founders Fund, Elad Gil, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p15#a240312p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

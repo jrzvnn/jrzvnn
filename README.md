@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 💣 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
- - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 👉 [First time ?](http://9gag.com/gag/aA0nqpL)<!-- MEMES:END -->
+ - 😝 [Never forget this legend](http://9gag.com/gag/adP34nV)
+ - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)<!-- MEMES:END -->
 
 ---
 

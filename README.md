@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
  - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 👉 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)<!-- MEMES:END -->
+ - 😝 [1:6:90 Rule](http://9gag.com/gag/aL1qrP6)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 

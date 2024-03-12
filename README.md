@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It really is a mystery](http://9gag.com/gag/a7qjnM2)
  - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 💣 [12 years later](http://9gag.com/gag/aGEPo1G)
- - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 💣 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
+ - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 👉 [First time ?](http://9gag.com/gag/aA0nqpL)<!-- MEMES:END -->
 
 ---
 

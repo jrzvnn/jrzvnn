@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
  - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
  - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
  - [Best Speakerphone in 2024 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
- - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)<!-- TECH:END -->
+ - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)
+ - [How to use the new transcripts feature in Apple Podcasts](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-transcripts-feature-in-apple-podcasts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

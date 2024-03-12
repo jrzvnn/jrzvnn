@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)
  - [The Kate Middleton photo scandal is a rare — and consequential — flub](https://www.theverge.com/2024/3/12/24098548/kate-middleton-royal-family-photoshop-manipulated-image)
  - [Docs: Nigeria, which has held two Binance execs since February amid a crypto exchange crackdown, is pushing Binance for info on its top 100 local users and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240312/p26#a240312p26)
  - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
- - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)
- - [Source: Physical Intelligence, a startup making an AI model for &quot;any robot or physical device&quot;, has raised $70M from Thrive, Khosla, Lux, OpenAI, Sequoia, more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p25#a240312p25)<!-- TECH:END -->
+ - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

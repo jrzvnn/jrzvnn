@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
  - [Sources: Samsung and SK Hynix are storing, instead of selling, second-hand chipmaking machines over fears of breaking US export controls and sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/240311/p30#a240311p30)
  - [How to use the new transcripts feature in Apple Podcasts](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-transcripts-feature-in-apple-podcasts?utm_medium=rss)
  - [As Google removes nonconsensual deepfake porn video URLs after complaints, experts urge Google to remove the biggest deepfake sites from search results entirely &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240311/p29#a240311p29)
- - [Meta sues ex-VP Dipinder Singh Khurana for allegedly stealing documents related to employee pay and private contracts before leaving for a stealth AI startup &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240311/p28#a240311p28)
- - [Eye Security, which provides cyber protection, incident response, and cyber insurance tools, raised a &amp;euro;36M Series B, led by JP Morgan Growth Equity Partners &lpar;Isaac Taylor/Wall Street Journal&rpar;](http://www.techmeme.com/240311/p27#a240311p27)<!-- TECH:END -->
+ - [Meta sues ex-VP Dipinder Singh Khurana for allegedly stealing documents related to employee pay and private contracts before leaving for a stealth AI startup &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240311/p28#a240311p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

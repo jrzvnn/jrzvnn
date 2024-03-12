@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Self-driving startup Applied Intuition raised a $250M Series E led by Lux, Elad Gil, and Porsche at a $6B valuation and works with &quot;18 of the top 20 automakers&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240312/p19#a240312p19)
+ - [How to use Low Power Mode on the Apple Watch](https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to)
+ - [A top auto safety group tested 14 partial automated systems — only one passed](https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla)
+ - [Self-driving startup Applied Intuition raised a $250M Series E led by Lux, Elad Gil, and Porsche at a $6B valuation and works with &quot;18 of the top 20 automakers&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240312/p19#a240312p19)
  - [Future Samsung Galaxy Watches could be real square](https://www.theverge.com/24098339/samsung-galaxy-watch-square-smartwatch-wearable-design)
- - [Empathy, a startup offering an AI-backed service to help users navigate the bereavement process, raised a $47M Series B, sources say at a nearly $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240312/p18#a240312p18)
- - [Discord opens up to games and apps embedded in its chat app](https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers)
- - [Roku hackers breach 15,000 accounts and are selling them online](https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info)<!-- TECH:END -->
+ - [Empathy, a startup offering an AI-backed service to help users navigate the bereavement process, raised a $47M Series B, sources say at a nearly $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240312/p18#a240312p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

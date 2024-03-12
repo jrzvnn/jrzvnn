@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 💣 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)
+ - 😝 [I still believe I can win in a 1v1 fight^^. Same versus a grizzly](http://9gag.com/gag/a5XLymy)
  - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
+ - 💣 [A passenger plane crashed near the city of Ivanovo in Russia](http://9gag.com/gag/a4oMBzp)
+ - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
 
 ---
 

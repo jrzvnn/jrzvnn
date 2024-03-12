@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 😝 [It really is a mystery](http://9gag.com/gag/a7qjnM2)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 💣 [12 years later](http://9gag.com/gag/aGEPo1G)
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
  - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
 
 ---

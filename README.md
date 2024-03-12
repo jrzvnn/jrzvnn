@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 💣 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
- - 😝 [12 years later](http://9gag.com/gag/aGEPo1G)
- - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 💣 [What is this and why?](http://9gag.com/gag/aGEP7x7)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12 years later](http://9gag.com/gag/aGEPo1G)
- - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
- - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
+ - 😝 [Wooden Candy Crush](http://9gag.com/gag/aeQXq65)
+ - 😝 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
+ - 💣 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
+ - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google, Apple, Mozilla, and Microsoft release Speedometer 3.0, a benchmark to &quot;create a shared understanding of web performance&quot;, after Speedometer 2.0 in 2018 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240312/p5#a240312p5)
  - [A profile of several AI &quot;doomers&quot;, including AI Impacts researcher Katja Grace, and &quot;effective accelerationists&quot;, as both make arguments about the future of AI &lpar;Andrew Marantz/New Yorker&rpar;](http://www.techmeme.com/240312/p4#a240312p4)
- - [A survey of US teens: 38% say they spend too much time on their phone, vs. 27% for too much social media; girls are more likely to report too much phone time &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240312/p3#a240312p3)
- - [Analysis: TikTok app code shows a separate TikTok Photos app, a potential Instagram rival that syncs with the main app and may launch &quot;soon&quot; on iOS and Android &lpar;The SP Android&rpar;](http://www.techmeme.com/240312/p2#a240312p2)
- - [EU countries reach a compromise deal on gig economy workers&#39; rights, breaking a logjam by letting states make decisions; EU Parliament and members must approve &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/240312/p1#a240312p1)<!-- TECH:END -->
+ - [Amazon Deal Drops Apple&#39;s AirPods Pro 2 Back Down to Their Best-Ever Price     - CNET](https://www.cnet.com/deals/amazon-deal-drops-apples-airpods-pro-2-back-down-their-best-ever-price/#ftag=CAD590a51e)
+ - [Making One of These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/making-one-of-these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-know/#ftag=CAD590a51e)
+ - [iOS 17 Cheat Sheet: What to Know About All Your iPhone&#39;s Latest Features     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-all-your-iphones-latest-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
- - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
- - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
+ - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
+ - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 💣 [When you meet your raving mate !](http://9gag.com/gag/aPgOpNK)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
+ - 👉 [His fcking moment has come](http://9gag.com/gag/az26vLN)<!-- MEMES:END -->
 
 ---
 

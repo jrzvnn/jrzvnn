@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Learn something new everyday!](http://9gag.com/gag/aGEPbb5)
  - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
- - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
  - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 👉 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)<!-- MEMES:END -->
 
 ---
 

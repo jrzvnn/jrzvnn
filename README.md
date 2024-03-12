@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [March SSDI Payment 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-when-is-your-money-coming/#ftag=CAD590a51e)
  - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
  - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
  - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Best Speakerphone in 2024 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

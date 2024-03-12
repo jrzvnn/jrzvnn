@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
+ - [Tor releases WebTunnel, a new type of Tor bridge that mimics HTTPS traffic to help users bypass censorship by hiding connections in plain sight &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240312/p29#a240312p29)
  - [Sources: the Pentagon abandoned its plan to spend as much as $2.5B on a chip grant to Intel, putting the onus on the Commerce Dept. to make up for the shortfall &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p28#a240312p28)
  - [As TikTok faces a divestment bill in the US, a look at how lawmakers and the Biden administration quietly planned the legislation and caught TikTok by surprise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240312/p27#a240312p27)
- - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)
- - [The Kate Middleton photo scandal is a rare — and consequential — flub](https://www.theverge.com/2024/3/12/24098548/kate-middleton-royal-family-photoshop-manipulated-image)
- - [Docs: Nigeria, which has held two Binance execs since February amid a crypto exchange crackdown, is pushing Binance for info on its top 100 local users and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240312/p26#a240312p26)<!-- TECH:END -->
+ - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

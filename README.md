@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel survived an effort to halt laptop chip sales to Huawei under a Trump-era license, after AMD pressured Biden; source: AMD sought a similar license &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240312/p12#a240312p12)
+ - [Apple to allow iOS app downloads direct from websites in the EU](https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes)
  - [Apple announces App Store updates under the EU&#39;s DMA, including a Web Distribution tool to let developers offer apps via their website, launching in spring 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240312/p11#a240312p11)
  - [Some EV Recalls Are Serious, Others Not So Much. What to Know     - CNET](https://www.cnet.com/roadshow/news/some-ev-recalls-are-serious-others-not-so-much-what-to-know/#ftag=CAD590a51e)
- - [Apple Vision Pro, One Month Later: It&#39;s in My Life, Sometimes     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-one-month-later-its-in-my-life-sometimes/#ftag=CAD590a51e)
- - [Apple caves, EU developers will be able to sell apps directly from their websites](https://appleinsider.com/articles/24/03/12/apple-caves-eu-developers-will-be-able-to-sell-apps-directly-from-their-websites?utm_medium=rss)
- - [Apple Watch X Wish List: What I Want From Apple&#39;s Next Watch     - CNET](https://www.cnet.com/tech/mobile/how-the-apple-watch-x-could-make-apples-smartwatch-even-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro, One Month Later: It&#39;s in My Life, Sometimes     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-one-month-later-its-in-my-life-sometimes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

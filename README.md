@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)
- - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 💣 [When you meet your raving mate !](http://9gag.com/gag/aPgOpNK)
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [His fcking moment has come](http://9gag.com/gag/az26vLN)<!-- MEMES:END -->
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
+ - 😝 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 👉 [A passenger plane crashed near the city of Ivanovo in Russia](http://9gag.com/gag/a4oMBzp)<!-- MEMES:END -->
 
 ---
 

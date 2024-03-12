@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Autopilot trial over a fatal 2018 crash, starting next week, may show Tesla did not study how fast drivers can retake control, testing Tesla&#39;s safety claims &lpar;Reuters&rpar;](http://www.techmeme.com/240312/p6#a240312p6)
  - [Google, Apple, Mozilla, and Microsoft release Speedometer 3.0, a benchmark to &quot;create a shared understanding of web performance&quot;, after Speedometer 2.0 in 2018 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240312/p5#a240312p5)
  - [A profile of several AI &quot;doomers&quot;, including AI Impacts researcher Katja Grace, and &quot;effective accelerationists&quot;, as both make arguments about the future of AI &lpar;Andrew Marantz/New Yorker&rpar;](http://www.techmeme.com/240312/p4#a240312p4)
  - [Amazon Deal Drops Apple&#39;s AirPods Pro 2 Back Down to Their Best-Ever Price     - CNET](https://www.cnet.com/deals/amazon-deal-drops-apples-airpods-pro-2-back-down-their-best-ever-price/#ftag=CAD590a51e)
- - [Making One of These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/making-one-of-these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-know/#ftag=CAD590a51e)
- - [iOS 17 Cheat Sheet: What to Know About All Your iPhone&#39;s Latest Features     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-all-your-iphones-latest-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Making One of These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/making-one-of-these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

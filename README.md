@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Meta details its two new data center scale clusters, both containing 24,576 Nvidia H100 GPUs that the company is using for AI workloads like training Llama 3 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240312/p24#a240312p24)
  - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)
  - [Get free Clash of Clans gems when buying an Apple gift card at select retailers](https://appleinsider.com/articles/24/03/12/get-free-clash-of-clans-gems-when-buying-an-apple-gift-card-at-select-retailers?utm_medium=rss)
- - [I Cried During Yoga: Can Yoga &#39;Unlock&#39; Your Emotions?     - CNET](https://www.cnet.com/health/mental/i-cried-during-yoga-can-yoga-unlock-your-emotions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M3 MacBook Air deals: save up to $190 on every config with AppleCare](https://appleinsider.com/articles/24/03/12/m3-macbook-air-deals-save-up-to-190-on-every-config-with-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

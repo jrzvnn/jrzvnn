@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comment heard round the world. She\u2019s still regretting that one.](http://9gag.com/gag/aOx6NpM)
- - 😝 [Google&#39;s new quantum computer is 241 million times faster than the one released in 2019.](http://9gag.com/gag/avQbDOZ)
- - 💣 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)
- - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 👉 [Welcome to the real world](http://9gag.com/gag/az26ByB)<!-- MEMES:END -->
+ - 😝 [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 💣 [Never knew this until now](http://9gag.com/gag/aBdDvRO)
+ - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 👉 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)<!-- MEMES:END -->
 
 ---
 

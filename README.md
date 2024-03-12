@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The IRS launches Direct File, a free online tool to let some taxpayers in 12 US states file their federal income taxes; the IRS says 19M people may be eligible &lpar;Associated Press&rpar;](http://www.techmeme.com/240312/p10#a240312p10)
- - [Nigeria has held Binance executives Tigran Gambaryan and Nadeem Anjarwalla in Abuja without their passports or charges since February 26, per their families &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240312/p9#a240312p9)
- - [EU antitrust chief remarks about $2 billion Apple Music fine ignores Spotify dominance](https://appleinsider.com/articles/24/03/12/eu-antitrust-chief-remarks-about-2-billion-apple-music-fine-ignores-spotify-dominance?utm_medium=rss)
- - [An interview with Pavel Durov on running Telegram, which has ~50 full time staff, its Dubai HQ, reaching 1B MAUs in 12-14 months, Russia, moderation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240312/p8#a240312p8)
- - [Cook&#39;s charm offensive: Apple visited Biden&#39;s White House 87 times](https://appleinsider.com/articles/24/03/12/cooks-charm-offensive-apple-visited-bidens-white-house-87-times?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces App Store updates under the EU&#39;s DMA, including a Web Distribution tool to let developers offer apps via their website, launching in spring 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240312/p11#a240312p11)
+ - [Some EV Recalls Are Serious, Others Not So Much. What to Know     - CNET](https://www.cnet.com/roadshow/news/some-ev-recalls-are-serious-others-not-so-much-what-to-know/#ftag=CAD590a51e)
+ - [Apple Vision Pro, One Month Later: It&#39;s in My Life, Sometimes     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-one-month-later-its-in-my-life-sometimes/#ftag=CAD590a51e)
+ - [Apple caves, EU developers will be able to sell apps directly from their websites](https://appleinsider.com/articles/24/03/12/apple-caves-eu-developers-will-be-able-to-sell-apps-directly-from-their-websites?utm_medium=rss)
+ - [Apple Watch X Wish List: What I Want From Apple&#39;s Next Watch     - CNET](https://www.cnet.com/tech/mobile/how-the-apple-watch-x-could-make-apples-smartwatch-even-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

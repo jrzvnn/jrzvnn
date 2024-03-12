@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The IRS launches Direct File, a free online tool to let some taxpayers in 12 US states file their federal income taxes; the IRS says 19M people may be eligible &lpar;Associated Press&rpar;](http://www.techmeme.com/240312/p10#a240312p10)
  - [Nigeria has held Binance executives Tigran Gambaryan and Nadeem Anjarwalla in Abuja without their passports or charges since February 26, per their families &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240312/p9#a240312p9)
  - [EU antitrust chief remarks about $2 billion Apple Music fine ignores Spotify dominance](https://appleinsider.com/articles/24/03/12/eu-antitrust-chief-remarks-about-2-billion-apple-music-fine-ignores-spotify-dominance?utm_medium=rss)
  - [An interview with Pavel Durov on running Telegram, which has ~50 full time staff, its Dubai HQ, reaching 1B MAUs in 12-14 months, Russia, moderation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240312/p8#a240312p8)
- - [Cook&#39;s charm offensive: Apple visited Biden&#39;s White House 87 times](https://appleinsider.com/articles/24/03/12/cooks-charm-offensive-apple-visited-bidens-white-house-87-times?utm_medium=rss)
- - [CoinShares: as bitcoin topped $72K, a record $2.7B flowed into crypto assets last week; in 2024 so far, $10.3B flowed to crypto assets, close to 2021&#39;s $10.6B &lpar;Elijah Nicholson-Messmer/Bloomberg&rpar;](http://www.techmeme.com/240312/p7#a240312p7)<!-- TECH:END -->
+ - [Cook&#39;s charm offensive: Apple visited Biden&#39;s White House 87 times](https://appleinsider.com/articles/24/03/12/cooks-charm-offensive-apple-visited-bidens-white-house-87-times?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

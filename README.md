@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cognition AI, which offers a Copilot-like coding assistant that, the startup says, can finish whole projects, raised $21M from Founders Fund, Elad Gil, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p15#a240312p15)
  - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
  - [Apple increases R&amp;D in China with two lab expansions](https://appleinsider.com/articles/24/03/12/apple-increases-rd-in-china-with-two-lab-expansions?utm_medium=rss)
  - [Google confirms rolling out Gemini restrictions to limit surfacing answers on election queries globally; the update is live in the US and rolling out in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240312/p14#a240312p14)
- - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
- - [Epic details new Unreal Engine pricing plan for non-game developers](https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture)<!-- TECH:END -->
+ - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

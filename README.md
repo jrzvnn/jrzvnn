@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Pavel Durov on running Telegram, which has ~50 full time staff, its Dubai HQ, reaching 1B MAUs in 12-14 months, Russia, moderation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240312/p8#a240312p8)
+ - [Cook&#39;s charm offensive: Apple visited Biden&#39;s White House 87 times](https://appleinsider.com/articles/24/03/12/cooks-charm-offensive-apple-visited-bidens-white-house-87-times?utm_medium=rss)
+ - [CoinShares: as bitcoin topped $72K, a record $2.7B flowed into crypto assets last week; in 2024 so far, $10.3B flowed to crypto assets, close to 2021&#39;s $10.6B &lpar;Elijah Nicholson-Messmer/Bloomberg&rpar;](http://www.techmeme.com/240312/p7#a240312p7)
  - [Your Kid May Already Be Watching AI-Generated Videos on YouTube](https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/)
- - [An Autopilot trial over a fatal 2018 crash, starting next week, may show Tesla did not study how fast drivers can retake control, testing Tesla&#39;s safety claims &lpar;Reuters&rpar;](http://www.techmeme.com/240312/p6#a240312p6)
- - [Google, Apple, Mozilla, and Microsoft release Speedometer 3.0, a benchmark to &quot;create a shared understanding of web performance&quot;, after Speedometer 2.0 in 2018 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240312/p5#a240312p5)
- - [A profile of several AI &quot;doomers&quot;, including AI Impacts researcher Katja Grace, and &quot;effective accelerationists&quot;, as both make arguments about the future of AI &lpar;Andrew Marantz/New Yorker&rpar;](http://www.techmeme.com/240312/p4#a240312p4)
- - [Amazon Deal Drops Apple&#39;s AirPods Pro 2 Back Down to Their Best-Ever Price     - CNET](https://www.cnet.com/deals/amazon-deal-drops-apples-airpods-pro-2-back-down-their-best-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Autopilot trial over a fatal 2018 crash, starting next week, may show Tesla did not study how fast drivers can retake control, testing Tesla&#39;s safety claims &lpar;Reuters&rpar;](http://www.techmeme.com/240312/p6#a240312p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

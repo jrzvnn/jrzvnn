@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
+ - [The Kate Middleton Photo’s Most Glaring Photoshop Mistakes](https://www.wired.com/story/kate-middleton-photoshop-mistakes/)
  - [Source: Physical Intelligence, a startup making an AI model for &quot;any robot or physical device&quot;, has raised $70M from Thrive, Khosla, Lux, OpenAI, Sequoia, more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240312/p25#a240312p25)
  - [US Lawmaker Cited NYC Protests in a Defense of Warrantless Spying](https://www.wired.com/story/hpsci-us-protests-section-702-presentation/)
- - [The 48 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Best Card Games in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-card-games/#ftag=CAD590a51e)
- - [Grid’s framed, nostalgia-inducing gadgets are up to 40 percent off](https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale)<!-- TECH:END -->
+ - [The 48 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

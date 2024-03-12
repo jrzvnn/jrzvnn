@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [US Lawmaker Cited NYC Protests in a Defense of Warrantless Spying](https://www.wired.com/story/hpsci-us-protests-section-702-presentation/)
  - [The 48 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Best Card Games in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-card-games/#ftag=CAD590a51e)
  - [Grid’s framed, nostalgia-inducing gadgets are up to 40 percent off](https://www.theverge.com/2024/3/12/24097671/grid-studio-framed-tech-sony-wh-1000xm5-headphones-oppenheimer-blu-ray-deal-sale)
- - [Meta details its two new data center scale clusters, both containing 24,576 Nvidia H100 GPUs that the company is using for AI workloads like training Llama 3 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240312/p24#a240312p24)
- - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)<!-- TECH:END -->
+ - [Meta details its two new data center scale clusters, both containing 24,576 Nvidia H100 GPUs that the company is using for AI workloads like training Llama 3 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240312/p24#a240312p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

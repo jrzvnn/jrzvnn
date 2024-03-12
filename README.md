@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - 😝 [Google&#39;s new quantum computer is 241 million times faster than the one released in 2019.](http://9gag.com/gag/avQbDOZ)
+ - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
  - 😝 [Show me what you got](http://9gag.com/gag/a2KQx7E)
- - 💣 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
  - 👉 [Welcome to the real world](http://9gag.com/gag/az26ByB)<!-- MEMES:END -->
 
 ---

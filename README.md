@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Low Power Mode on the Apple Watch](https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to)
- - [A top auto safety group tested 14 partial automated systems — only one passed](https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla)
- - [Self-driving startup Applied Intuition raised a $250M Series E led by Lux, Elad Gil, and Porsche at a $6B valuation and works with &quot;18 of the top 20 automakers&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240312/p19#a240312p19)
- - [Future Samsung Galaxy Watches could be real square](https://www.theverge.com/24098339/samsung-galaxy-watch-square-smartwatch-wearable-design)
- - [Empathy, a startup offering an AI-backed service to help users navigate the bereavement process, raised a $47M Series B, sources say at a nearly $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240312/p18#a240312p18)<!-- TECH:END -->
+ - [The First Rule of the Extreme Dishwasher Loading Facebook Group Is …](https://www.wired.com/story/extreme-dishwasher-loading-facebook-group/)
+ - [Google updates Google Play game listings, including AI-powered FAQs and new ad formats, adds support for listing PC games, and says Play Points hit 220M members &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240312/p21#a240312p21)
+ - [Europe Lifts Sanctions on Yandex Cofounder Arkady Volozh](https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/)
+ - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)
+ - [Paramount’s rumored merger: all the news on the potential deals](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

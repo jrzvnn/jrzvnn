@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gladiator!](http://9gag.com/gag/aDYBPE7)
- - 😝 [Name this game](http://9gag.com/gag/aBdDbDO)
- - 💣 [UK is so lost](http://9gag.com/gag/a04mzdO)
- - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 😝 [What? Why ? How?](http://9gag.com/gag/amADKpV)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
 
 ---
 

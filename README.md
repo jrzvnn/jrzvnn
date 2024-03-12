@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As TikTok faces a divestment bill in the US, a look at how lawmakers and the Biden administration quietly planned the legislation and caught TikTok by surprise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240312/p27#a240312p27)
  - [Apple Square One retail store in Toronto moving to larger location](https://appleinsider.com/articles/24/03/12/apple-square-one-retail-store-in-toronto-moving-to-larger-location?utm_medium=rss)
  - [The Kate Middleton photo scandal is a rare — and consequential — flub](https://www.theverge.com/2024/3/12/24098548/kate-middleton-royal-family-photoshop-manipulated-image)
  - [Docs: Nigeria, which has held two Binance execs since February amid a crypto exchange crackdown, is pushing Binance for info on its top 100 local users and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240312/p26#a240312p26)
- - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)
- - [Best Mattress for Guest Rooms of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Latest macOS Sonoma update is breaking some USB hubs in monitors](https://appleinsider.com/articles/24/03/12/latest-macos-sonoma-update-is-breaking-some-usb-hubs-in-monitors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

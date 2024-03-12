@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget this legend](http://9gag.com/gag/adP34nV)
  - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
- - 💣 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
+ - 💣 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
  - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 👉 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)<!-- MEMES:END -->
+ - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
 
 ---
 

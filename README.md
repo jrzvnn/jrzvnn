@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 😝 [What? Why ? How?](http://9gag.com/gag/amADKpV)
- - 💣 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
- - 😝 [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
+ - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 💣 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)
+ - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
  - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---

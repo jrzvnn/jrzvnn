@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is not about the money, it is about sending a message...](http://9gag.com/gag/aBdDvEO)
- - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 💣 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
- - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
+ - 😝 [Sing Sing Sing - Kyoto Tachibana SHS Band](http://9gag.com/gag/aXn8GZg)
+ - 😝 [Karma\u2019s a b*tch.](http://9gag.com/gag/aA0nNWo)
+ - 💣 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
+ - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
  - 👉 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)<!-- MEMES:END -->
 
 ---

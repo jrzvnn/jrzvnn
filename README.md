@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta details its two new data center scale clusters, both containing 24,576 Nvidia H100 GPUs that the company is using for AI workloads like training Llama 3 &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240312/p24#a240312p24)
+ - [What’s Behind the Bitcoin Price Surge? Vibes, Mostly](https://www.wired.com/story/bitcoin-price-record-economics/)
+ - [Get free Clash of Clans gems when buying an Apple gift card at select retailers](https://appleinsider.com/articles/24/03/12/get-free-clash-of-clans-gems-when-buying-an-apple-gift-card-at-select-retailers?utm_medium=rss)
  - [M3 MacBook Air deals: save up to $190 on every config with AppleCare](https://appleinsider.com/articles/24/03/12/m3-macbook-air-deals-save-up-to-190-on-every-config-with-applecare?utm_medium=rss)
- - [Another Apple supplier hit by cancellation of a massive micro LED delivery project](https://appleinsider.com/articles/24/03/12/another-apple-supplier-hit-by-cancellation-of-a-massive-micro-led-delivery-project?utm_medium=rss)
- - [Watch Champions League Soccer: Livestream Barcelona vs. Napoli From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-barcelona-vs-napoli-from-anywhere/#ftag=CAD590a51e)
- - [Match and Bumble have lost $40B+ in market value since 2021, as they struggle to grow their $4.2B in 2023 subscription revenue and young users balk at paying &lpar;J. Edward Moreno/New York Times&rpar;](http://www.techmeme.com/240312/p23#a240312p23)
- - [Watch Champions League Soccer: Livestream Arsenal vs. FC Porto From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-arsenal-vs-fc-porto-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Another Apple supplier hit by cancellation of a massive micro LED delivery project](https://appleinsider.com/articles/24/03/12/another-apple-supplier-hit-by-cancellation-of-a-massive-micro-led-delivery-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

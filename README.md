@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What? Why ? How?](http://9gag.com/gag/amADKpV)
- - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
- - 💣 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
+ - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
+ - 😝 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 

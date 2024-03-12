@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plufl&#39;s Human Dog Bed Is on Sale for Sleep Week](https://www.wired.com/story/plufl-dog-bed-sleep-week-sale/)
  - [The First Rule of the Extreme Dishwasher Loading Facebook Group Is …](https://www.wired.com/story/extreme-dishwasher-loading-facebook-group/)
  - [Google updates Google Play game listings, including AI-powered FAQs and new ad formats, adds support for listing PC games, and says Play Points hit 220M members &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240312/p21#a240312p21)
  - [Europe Lifts Sanctions on Yandex Cofounder Arkady Volozh](https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/)
- - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)
- - [Paramount’s rumored merger: all the news on the potential deals](https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news)<!-- TECH:END -->
+ - [Discord plans to launch an Embedded App SDK on March 18 that will let developers build new games and apps that can be &quot;played directly on the platform&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240312/p20#a240312p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

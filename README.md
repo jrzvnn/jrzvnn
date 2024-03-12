@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letter: Chamath Palihapitiya&#39;s VC firm Social Capital said it fired two of its partners, citing an undisclosed &quot;situation&quot;, and hired a law firm to investigate &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p31#a240312p31)
+ - [X-Men ’97 creator reportedly fired by Marvel weeks before premiere](https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated)
  - [The AI-generated hell of the 2024 election](https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation)
  - [DHS wants $101 million to upgrade its border surveillance towers](https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist)
- - [Bluesky open sources its collaborative moderation tool Ozone and plans to let users run their own independent moderation services later this week &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240312/p30#a240312p30)
- - [How Rivian Is Pulling Off Its $45,000 Electric SUV](https://www.wired.com/story/how-rivian-is-pulling-off-its-45k-electric-suv/)
- - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)<!-- TECH:END -->
+ - [Airbnb Bans the Use of Indoor Security Cameras in Rentals     - CNET](https://www.cnet.com/home/security/airbnb-bans-the-use-of-indoor-security-cameras-in-rentals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [Image from 1945 shows German war criminals laugh at a translation mistake during the Nuremberg Trials.](http://9gag.com/gag/abvjmpp)
- - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
- - 😝 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
- - 👉 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)<!-- MEMES:END -->
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 😝 [What? Why ? How?](http://9gag.com/gag/amADKpV)
+ - 💣 [Tell me you didn\u2019t read the books without telling me you didn\u2019t read the books.](http://9gag.com/gag/aDYBrXG)
+ - 😝 [Zookeeper Attacked By Crocodile, Brave Visitor Rushes in to Help](http://9gag.com/gag/aMEpyWA)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 

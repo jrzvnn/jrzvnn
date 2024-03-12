@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU countries reach a compromise deal on gig economy workers&#39; rights, breaking a logjam by letting states make decisions; EU Parliament and members must approve &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/240312/p1#a240312p1)
  - [March SSDI Payment 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-when-is-your-money-coming/#ftag=CAD590a51e)
  - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
  - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
- - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

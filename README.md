@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Samsung Galaxy Watches could be real square](https://www.theverge.com/24098339/samsung-galaxy-watch-square-smartwatch-wearable-design)
  - [Empathy, a startup offering an AI-backed service to help users navigate the bereavement process, raised a $47M Series B, sources say at a nearly $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240312/p18#a240312p18)
  - [Discord opens up to games and apps embedded in its chat app](https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers)
  - [Roku hackers breach 15,000 accounts and are selling them online](https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info)
- - [Sleep Disrupted by Daylight Saving Time? 3 Fixes to Restore Your Rest     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)
- - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)<!-- TECH:END -->
+ - [Sleep Disrupted by Daylight Saving Time? 3 Fixes to Restore Your Rest     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

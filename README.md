@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [EU countries reach a compromise deal on gig economy workers&#39; rights, breaking a logjam by letting states make decisions; EU Parliament and members must approve &lpar;Max Ramsay/Bloomberg&rpar;](http://www.techmeme.com/240312/p1#a240312p1)
+ - [Best AirPods Pro Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [How to Upload a File to ChatGPT, and Why You Might Want To     - CNET](https://www.cnet.com/tech/mobile/how-to-upload-a-file-to-chatgpt-and-why-would-you-want-to/#ftag=CAD590a51e)
  - [March SSDI Payment 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/march-ssdi-payment-2024-when-is-your-money-coming/#ftag=CAD590a51e)
- - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [Best Reef-Safe Sunscreens for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reef-safe-sunscreens/#ftag=CAD590a51e)
- - [Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria](https://www.wired.com/story/binance-top-investigator-detained-nigeria/)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

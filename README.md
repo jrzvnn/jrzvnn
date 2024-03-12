@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai)
  - [Radio is seeing red](https://www.theverge.com/2024/3/12/24098990/radio-public-layoffs-wbur-npr-rooster-teeth-zaslov-warner-brothers)
  - [Letter: Chamath Palihapitiya&#39;s VC firm Social Capital said it fired two of its partners, citing an undisclosed &quot;situation&quot;, and hired a law firm to investigate &lpar;Bloomberg&rpar;](http://www.techmeme.com/240312/p31#a240312p31)
  - [Bluesky starts letting users pick their own moderation filters](https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone)
- - [X-Men ’97 creator reportedly fired by Marvel weeks before premiere](https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated)
- - [The AI-generated hell of the 2024 election](https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation)<!-- TECH:END -->
+ - [X-Men ’97 creator reportedly fired by Marvel weeks before premiere](https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

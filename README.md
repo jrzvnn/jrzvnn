@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eye Security, which provides cyber protection, incident response, and cyber insurance tools, raised a &amp;euro;36M Series B, led by JP Morgan Growth Equity Partners &lpar;Isaac Taylor/Wall Street Journal&rpar;](http://www.techmeme.com/240311/p27#a240311p27)
+ - [The Best Keurig Deals: Save Up to $51 on K-Slim Iced, K-Elite and More     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
  - [M4 MacBook Pro rumored to already be in development at Apple](https://appleinsider.com/articles/24/03/11/m4-macbook-pro-rumored-to-already-be-in-development-at-apple?utm_medium=rss)
  - [Best Speakers of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-speakers/#ftag=CAD590a51e)
- - [Best Nintendo Switch Deals: Save on OLED, Classic and Switch Lite Models, Games and Accessories     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Stone Mountain, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-stone-mountain-ga/#ftag=CAD590a51e)
- - [Sources: Apple is testing an AI-powered ad tool that automatically decides where to place ads within the App Store, similar to Google&#39;s Performance Max ad tool &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/240311/p26#a240311p26)<!-- TECH:END -->
+ - [Best Nintendo Switch Deals: Save on OLED, Classic and Switch Lite Models, Games and Accessories     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

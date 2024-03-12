@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was mad for a sec there](http://9gag.com/gag/a1P4xzR)
- - 😝 [Kowalski analysis](http://9gag.com/gag/aZD9doz)
- - 💣 [Karma\u2019s a b*tch.](http://9gag.com/gag/aA0nNWo)
- - 😝 [How to keep European women safe.](http://9gag.com/gag/az26Dwj)
- - 👉 [Stabilized time-lapse showing Earth&#39;s rotation](http://9gag.com/gag/a9q3VeZ)<!-- MEMES:END -->
+ - 😝 [She hates me because I told her the truth. vegetarians just don&#39;t know that parmesan uses animal liver](http://9gag.com/gag/axop4Bp)
+ - 😝 [I once almost got kicked out of geology class because I suggested that the reason Olympic 100m sprint is fully black due to genetic differences.](http://9gag.com/gag/a2KQOYZ)
+ - 💣 [Drilling that city baby](http://9gag.com/gag/a04mWPB)
+ - 😝 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 👉 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Roku hackers breach 15,000 accounts and are selling them online](https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info)
+ - [Sleep Disrupted by Daylight Saving Time? 3 Fixes to Restore Your Rest     - CNET](https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e)
  - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
  - [Apple Arcade&#39;s April additions include two with Apple Vision Pro support](https://appleinsider.com/articles/24/03/12/apple-arcades-april-additions-include-two-with-apple-vision-pro-support?utm_medium=rss)
- - [Nanonets, which offers AI tools to process business invoices in as little as one minute, raised a $29M Series B led by Accel India, for $40M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240312/p17#a240312p17)
- - [Epic plans to charge non-game developers $1,850 per seat per year to use Unreal Engine in late April with version 5.4, as opposed to royalty-based game fees &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240312/p16#a240312p16)<!-- TECH:END -->
+ - [Home Loan Rates on a Downswing. Today&#39;s Mortgage Rates for March 12, 2024     - CNET](https://www.cnet.com/personal-finance/todays-mortgage-rates-for-march-12-2024-rates-decline-for-homebuyers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Parliament approves the AI Act, voting 523 in favor and 46 against, despite competition fears; the Act, born in 2021, puts AI tech into risk categories &lpar;CNBC&rpar;](http://www.techmeme.com/240313/p12#a240313p12)
  - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)
  - [Google paid out $10M to 632 bug bounty researchers in 2023 via its Vulnerability Reward Program, including $3.4M for Android bugs; the highest bounty was $113K &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p10#a240313p10)
  - [March Madness 2024: Selection Sunday, Tournament Schedule, Bracket and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-selection-sunday-tournament-schedule-bracket-and-more/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate: Play SpongeBob Now, MLB 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-spongebob-mlb-24-and-more-soon/#ftag=CAD590a51e)
- - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate: Play SpongeBob Now, MLB 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-spongebob-mlb-24-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

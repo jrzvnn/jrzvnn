@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future iPhones could take a picture when bent](https://appleinsider.com/articles/24/03/13/future-iphones-could-take-a-picture-when-bent?utm_medium=rss)
  - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
  - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)
  - [Dyson’s 360 Vis Nav is a powerful robovac, but it’s the brush that tickles me the most](https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on)
- - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)
- - [Spotify rolls out music videos to its mobile and desktop apps in beta in 11 markets, including Brazil, Italy, and the UK, available to Premium subscribers &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240313/p6#a240313p6)<!-- TECH:END -->
+ - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

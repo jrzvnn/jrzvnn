@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)
  - [Google paid out $10M to 632 bug bounty researchers in 2023 via its Vulnerability Reward Program, including $3.4M for Android bugs; the highest bounty was $113K &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p10#a240313p10)
  - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
  - [How MrBeast dominates this ostentatious YouTube era, using a fast, frantic, and omnipresent editing style, as his videos slowly evolve to focus on storytelling &lpar;Patricia Hernandez/Polygon&rpar;](http://www.techmeme.com/240313/p9#a240313p9)
- - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)
- - [Filing: the NYT denies OpenAI&#39;s claims that the NYT &quot;hacked&quot; ChatGPT to create misleading evidence of copyright infringement, calling the claims &quot;grandstanding&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240313/p8#a240313p8)<!-- TECH:END -->
+ - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

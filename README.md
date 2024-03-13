@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)
  - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)
  - [AirTag &amp; police save builder from massive stolen car replacement expense](https://appleinsider.com/articles/24/03/13/airtag-police-save-builder-from-massive-stolen-car-replacement-expense?utm_medium=rss)
- - [An investigation finds 128 people complained to US law enforcement agencies over non-consensual sexual content being shared on OnlyFans between 2019 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p23#a240313p23)
- - [Half of recent Mac buyers are switchers from rival platforms](https://appleinsider.com/articles/24/03/13/half-of-recent-mac-buyers-are-switchers-from-rival-platforms?utm_medium=rss)
- - [Act Quickly to Get Up to 47% Off Keychron&#39;s Mechanical Keyboards     - CNET](https://www.cnet.com/deals/act-quickly-to-get-up-to-47-off-keychrons-mechanical-keyboards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investigation: 128 people complained to US law enforcement about non-consensual sexual content of them shared on OnlyFans between January 2019 and November 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p23#a240313p23)
+ - [Half of recent Mac buyers are switchers from rival platforms](https://appleinsider.com/articles/24/03/13/half-of-recent-mac-buyers-are-switchers-from-rival-platforms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

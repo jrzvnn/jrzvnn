@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)
  - [AirTag &amp; police save builder from massive stolen car replacement expense](https://appleinsider.com/articles/24/03/13/airtag-police-save-builder-from-massive-stolen-car-replacement-expense?utm_medium=rss)
  - [An investigation finds 128 people complained to US law enforcement agencies over non-consensual sexual content being shared on OnlyFans between 2019 and 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p23#a240313p23)
  - [Half of recent Mac buyers are switchers from rival platforms](https://appleinsider.com/articles/24/03/13/half-of-recent-mac-buyers-are-switchers-from-rival-platforms?utm_medium=rss)
- - [Act Quickly to Get Up to 47% Off Keychron&#39;s Mechanical Keyboards     - CNET](https://www.cnet.com/deals/act-quickly-to-get-up-to-47-off-keychrons-mechanical-keyboards/#ftag=CAD590a51e)
- - [Ethereum completes its Dencun upgrade, to lower expenses on Layer 2 networks by adding &quot;blobs&quot; data storage; a transaction that once cost $1 now costs a cent &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240313/p22#a240313p22)<!-- TECH:END -->
+ - [Act Quickly to Get Up to 47% Off Keychron&#39;s Mechanical Keyboards     - CNET](https://www.cnet.com/deals/act-quickly-to-get-up-to-47-off-keychrons-mechanical-keyboards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

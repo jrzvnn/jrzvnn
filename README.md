@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm unveils its first Neoverse chips for self-driving cars, seeking to grow its non-smartphone revenue; the first vehicles are likely in four to five years &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240313/p20#a240313p20)
- - [The first trailer for Netflix’s Atlas turns Jennifer Lopez into a mech pilot](https://www.theverge.com/24099430/netflix-atlas-trailer)
- - [A February 21 hack of Change Healthcare has seized the US health care system for over three weeks, halting billions in payments; Change processes $2T per year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240313/p19#a240313p19)
- - [OpenAI’s Sora text-to-video generator will be publicly available later this year](https://www.theverge.com/2024/3/13/24099402/openai-text-to-video-ai-sora-public-availability)
- - [Cerebras announces the WSE-3, a TSMC-made 5nm chip almost the size of a 12-inch wafer with 4T transistors, up from 2.6T in the WSE-2, for training AI models &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/240313/p18#a240313p18)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Indiana     - CNET](https://www.cnet.com/home/energy-and-utilities/indiana-solar-panels/#ftag=CAD590a51e)
+ - [4 Tips for Combatting Daylight Saving Fatigue     - CNET](https://www.cnet.com/health/sleep/4-tips-to-use-to-sleep-better-after-daylight-saving-time/#ftag=CAD590a51e)
+ - [Eight Sleep Pod 3 Cover Review: The Coolest Solution for Hot Sleepers     - CNET](https://www.cnet.com/health/sleep/eight-sleeps-pod-3-cover-review/#ftag=CAD590a51e)
+ - [Google DeepMind’s Latest AI Agent Learned to Play &#39;Goat Simulator 3&#39;](https://www.wired.com/story/google-deepmind-ai-agent-learned-to-play-goat-simulator-3/)
+ - [11 Best Weighted Blankets &lpar;2024&rpar;: Cooling, Throws, and Eye Masks](https://www.wired.com/gallery/best-weighted-blankets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

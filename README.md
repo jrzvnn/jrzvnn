@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm unveils its first Neoverse chips for self-driving cars, seeking to grow its non-smartphone revenue; the first vehicles are likely in four to five years &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240313/p20#a240313p20)
+ - [The first trailer for Netflix’s Atlas turns Jennifer Lopez into a mech pilot](https://www.theverge.com/24099430/netflix-atlas-trailer)
  - [A February 21 hack of Change Healthcare has seized the US health care system for over three weeks, halting billions in payments; Change processes $2T per year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240313/p19#a240313p19)
  - [OpenAI’s Sora text-to-video generator will be publicly available later this year](https://www.theverge.com/2024/3/13/24099402/openai-text-to-video-ai-sora-public-availability)
- - [Cerebras announces the WSE-3, a TSMC-made 5nm chip almost the size of a 12-inch wafer with 4T transistors, up from 2.6T in the WSE-2, for training AI models &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/240313/p18#a240313p18)
- - [A US jury convicts Russian-Swedish national Roman Sterlingov over operating crypto &quot;tumbler&quot; Bitcoin Fog between 2011 and 2021, laundering 1.2M BTC worth ~$400M &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p17#a240313p17)
- - [How online group 764 uses Discord and Telegram to blackmail teens into degrading and violent acts and then boast about it; Discord removed 34K users in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p16#a240313p16)<!-- TECH:END -->
+ - [Cerebras announces the WSE-3, a TSMC-made 5nm chip almost the size of a 12-inch wafer with 4T transistors, up from 2.6T in the WSE-2, for training AI models &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/240313/p18#a240313p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

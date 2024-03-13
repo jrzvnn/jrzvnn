@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘Emergency Powers’ Risk of a Second Trump Presidency](https://www.wired.com/story/donald-trump-emergency-powers/)
+ - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)
  - [34 Best Sleep Week Deals: Mattresses, Sheets, and Sleep Accessories](https://www.wired.com/story/sleep-week-deals-march-2024/)
- - [Unbeatable Offer: Stay Entertained With a Free Month of Streaming From Paramount Plus     - CNET](https://www.cnet.com/deals/unbeatable-offer-stay-entertained-with-a-free-month-of-streaming-from-paramount-plus/#ftag=CAD590a51e)
- - [Watch Champions League Soccer: Livestream Borussia Dortmund vs. PSV Eindhoven From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-borussia-dortmund-vs-psv-eindhoven-from-anywhere/#ftag=CAD590a51e)
- - [I Got a Sneak Peek at Keurig&#39;s New Plastic-Free, Plant-Based Coffee Pods. They&#39;re a Game Changer     - CNET](https://www.cnet.com/news/i-got-a-sneak-peek-at-keurigs-new-plastic-free-plant-based-coffee-pods-theyre-a-game-changer/#ftag=CAD590a51e)
- - [Keurig’s K-Rounds Are Compostable Coffee Pods, but They Only Work With Its New Alta Coffee Machine](https://www.wired.com/story/keurig-k-rounds-coffee-pods-keurig-alta-coffee-maker/)<!-- TECH:END -->
+ - [Keurig’s K-Rounds Are Compostable Coffee Pods, but They Only Work With Its New Alta Coffee Machine](https://www.wired.com/story/keurig-k-rounds-coffee-pods-keurig-alta-coffee-maker/)
+ - [Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing](https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

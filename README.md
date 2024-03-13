@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the Kate Middleton scandal just won’t die](https://www.theverge.com/2024/3/13/24099957/kate-middleton-photo-conspiracy-royals)
  - [YouTube revamps its TV app to make the viewing experience more interactive and giving greater prominence to chapters, comments, and video descriptions &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240313/p32#a240313p32)
  - [Epic asks judge to enforce the Apple App Store injunction](https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction)
  - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)
- - [Stripe adds Apple Pay Later as a default option for merchants](https://appleinsider.com/articles/24/03/13/stripe-adds-apple-pay-later-as-a-default-option-for-merchants?utm_medium=rss)
- - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stripe adds Apple Pay Later as a default option for merchants](https://appleinsider.com/articles/24/03/13/stripe-adds-apple-pay-later-as-a-default-option-for-merchants?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

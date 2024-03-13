@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX is cleared to attempt its third Starship test flight](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
  - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)
  - [Why the Kate Middleton scandal just won’t die](https://www.theverge.com/2024/3/13/24099957/kate-middleton-photo-conspiracy-royals)
  - [YouTube revamps its TV app to make the viewing experience more interactive and giving greater prominence to chapters, comments, and video descriptions &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240313/p32#a240313p32)
- - [Epic asks judge to enforce the Apple App Store injunction](https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction)
- - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)<!-- TECH:END -->
+ - [Best Apple Pencil Deals: Save on Stylus Accessories     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

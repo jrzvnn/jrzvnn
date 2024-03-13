@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras announces the WSE-3, a TSMC-made 5nm chip almost the size of a 12-inch wafer with 4T transistors, up from 2.6T in the WSE-2, for training AI models &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/240313/p18#a240313p18)
  - [A US jury convicts Russian-Swedish national Roman Sterlingov over operating crypto &quot;tumbler&quot; Bitcoin Fog between 2011 and 2021, laundering 1.2M BTC worth ~$400M &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p17#a240313p17)
  - [How online group 764 uses Discord and Telegram to blackmail teens into degrading and violent acts and then boast about it; Discord removed 34K users in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p16#a240313p16)
  - [An analysis of 3M+ Discord and Telegram chats in 50+ groups finds a global network of thousands of violent predators, who target, groom, and extort kids online &lpar;Ali Winston/Wired&rpar;](http://www.techmeme.com/240313/p15#a240313p15)
- - [I Tried Aescape&#39;s Robot-Arm-Powered Massage Table—and Loved Being in Control](https://www.wired.com/story/hands-on-aescape-automated-massage/)
- - [Cadillac teases ‘Opulent Velocity’ electric V-Series concept](https://www.theverge.com/2024/3/13/24098795/cadillac-v-series-ev-tease-opulent-velocity)<!-- TECH:END -->
+ - [I Tried Aescape&#39;s Robot-Arm-Powered Massage Table—and Loved Being in Control](https://www.wired.com/story/hands-on-aescape-automated-massage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

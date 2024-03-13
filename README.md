@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)
+ - [Filing: the NYT denies OpenAI&#39;s claims that the NYT &quot;hacked&quot; ChatGPT to create misleading evidence of copyright infringement, calling the claims &quot;grandstanding&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240313/p8#a240313p8)
  - [Future iPhones could take a picture when bent](https://appleinsider.com/articles/24/03/13/future-iphones-could-take-a-picture-when-bent?utm_medium=rss)
  - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
- - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)
- - [Dyson’s 360 Vis Nav is a powerful robovac, but it’s the brush that tickles me the most](https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on)
- - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)<!-- TECH:END -->
+ - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

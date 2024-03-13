@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And they caught me!](http://9gag.com/gag/aDYBLKG)
- - 😝 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
- - 💣 [Dude cleaned up good. Glad for him](http://9gag.com/gag/aeQXzwO)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 👉 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)<!-- MEMES:END -->
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
+ - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 👉 [Hidden knowledge](http://9gag.com/gag/aNwyG33)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
  - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
  - 😝 [Title](http://9gag.com/gag/az26ywx)
- - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
+ - 👉 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)<!-- MEMES:END -->
 
 ---
 

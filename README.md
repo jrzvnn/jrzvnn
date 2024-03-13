@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q1 Max review: cushy, comfortable, costly](https://appleinsider.com/articles/24/03/13/keychron-q1-max-review-cushy-comfortable-costly?utm_medium=rss)
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
- - [Smart glasses are the future, but who will get there first?](https://www.theverge.com/24099475/smart-glasses-ray-ban-meta-google-glass-wearables)
- - [Google DeepMind details SIMA, an AI agent training to learn gaming skills to play like a human; SIMA trained on No Man&#39;s Sky, Goat Simulator 3, and other games &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p21#a240313p21)<!-- TECH:END -->
+ - [Half of recent Mac buyers are switchers from rival platforms](https://appleinsider.com/articles/24/03/13/half-of-recent-mac-buyers-are-switchers-from-rival-platforms?utm_medium=rss)
+ - [Act Quickly to Get Up to 47% Off Keychron&#39;s Mechanical Keyboards     - CNET](https://www.cnet.com/deals/act-quickly-to-get-up-to-47-off-keychrons-mechanical-keyboards/#ftag=CAD590a51e)
+ - [Ethereum completes its Dencun upgrade, to lower expenses on Layer 2 networks by adding &quot;blobs&quot; data storage; a transaction that once cost $1 now costs a cent &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240313/p22#a240313p22)
+ - [15 Best Electric Bikes &lpar;2024&rpar;: Affordable, Cargo, Folding, Commuter](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Keychron Q1 Max review: cushy, comfortable, costly](https://appleinsider.com/articles/24/03/13/keychron-q1-max-review-cushy-comfortable-costly?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
- - 💣 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
  - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 👉 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)<!-- MEMES:END -->
 
 ---
 

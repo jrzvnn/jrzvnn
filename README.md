@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
+ - [Memo: John Collison says Stripe is in &quot;no rush&quot; to go public and payments volume rose 25% YoY to $1T in 2023; source: Stripe hit $1B in net revenue in Q3 2023 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240313/p14#a240313p14)
  - [The EU AI Act passed — here’s what comes next](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)
  - [How Reddit CEO Steve Huffman, who returned in 2015 during a leadership crisis, grew the website to $800M+ in annual revenue and 2,000 staff, up from 80 in 2015 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240313/p13#a240313p13)
- - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)
- - [There Are Dark Corners of the Internet. Then There&#39;s 764](https://www.wired.com/story/764-com-child-predator-network/)
- - [The Polestar 3 isn’t out yet, and it’s already getting a big price cut](https://www.theverge.com/2024/3/13/24098731/polestar-3-price-cut-variants-specs-ev-suv-production)<!-- TECH:END -->
+ - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

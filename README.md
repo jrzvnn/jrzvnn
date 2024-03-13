@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announces Copilot for Security will be generally available on April 1 for $4 per &quot;security compute unit&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240313/p24#a240313p24)
+ - [YouTube is revamping its TV app to make videos feel way more interactive](https://www.theverge.com/2024/3/13/24099533/youtube-tv-app-redesign-comments-shopping)
  - [Apple TV+ rolls out trailer for Michael Douglas&#39; &#39;Franklin&#39; limited series](https://appleinsider.com/articles/24/03/13/apple-tv-rolls-out-trailer-for-michael-douglas-franklin-limited-series?utm_medium=rss)
  - [Best Buy knocks $400 off Apple&#39;s 15-inch MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/24/03/13/best-buy-knocks-400-off-apples-15-inch-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
- - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)
- - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)
- - [AirTag &amp; police save builder from massive stolen car replacement expense](https://appleinsider.com/articles/24/03/13/airtag-police-save-builder-from-massive-stolen-car-replacement-expense?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

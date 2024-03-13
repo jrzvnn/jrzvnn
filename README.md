@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turtle Beach is buying gamepad maker PDP](https://www.theverge.com/24100046/turtle-beach-pdp-acquisition)
  - [Anthropic releases Claude 3 Haiku, tailored for high-volume, latency-sensitive applications, saying it&#39;s &quot;the fastest and most affordable model&quot; in its class &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240313/p34#a240313p34)
  - [Block starts shipping Bitkey, its $150 bitcoin wallet debuted in 2022, with a hardware device, mobile app, recovery tools, and Cash App and Coinbase integration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240313/p33#a240313p33)
  - [Microsoft Copilot Is Now Offering GPT-4 Turbo for Free     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-is-now-offering-gpt-4-turbo-for-free/#ftag=CAD590a51e)
- - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
- - [Google Sees AI Agents Getting Into the Video Games We Play     - CNET](https://www.cnet.com/tech/google-sees-ai-agents-getting-into-the-video-games-we-play/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
  - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 😝 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
- - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
+ - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 👉 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)<!-- MEMES:END -->
 
 ---
 

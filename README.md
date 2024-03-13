@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RevenueCat survey of nearly 30K mobile subscription apps finds that only 17.2% of them will reach $1,000 in monthly revenue and only 3.5% will reach $10,000 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240312/p34#a240312p34)
+ - [Best iPad Deals: Save Big on iPad Air, iPad Pro and Others     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Los Angeles     - CNET](https://www.cnet.com/home/energy-and-utilities/los-angeles-solar-panels/#ftag=CAD590a51e)
  - [Docs: RISC-V chip designer SiFive had $38.2M in revenue in 2023, a net operating loss of $113.1M, and expects to boost its licensing revenue to $60M this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240312/p33#a240312p33)
- - [Carta: tech startup workers are receiving 37% less equity in their companies on average compared with 18 months ago; average salaries are down 0.2% since 2022 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240312/p32#a240312p32)
- - [Most apps with subscriptions fail to make more than $1,000 per month](https://appleinsider.com/articles/24/03/12/most-apps-with-subscriptions-fail-to-make-more-than-1000-per-month?utm_medium=rss)
- - [How to Download Your TikTok Videos](https://www.wired.com/story/how-to-download-your-tiktok-videos/)
- - [Best RV Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Desktop Computer Deals: Save Up to $700 on Acer, Lenovo, Apple and More     - CNET](https://www.cnet.com/deals/best-desktop-computer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

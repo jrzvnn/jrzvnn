@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Garbage Men refused to pick up the Trash Says `Too Heavy ` Or Laziness?](http://9gag.com/gag/aBdDv8D)
- - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 👉 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)<!-- MEMES:END -->
+ - 😝 [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
+ - 💣 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 😝 [Hello](http://9gag.com/gag/a7qjPYb)
+ - 👉 [Manipulation of crime statistics to change a narrative are we?](http://9gag.com/gag/aZD9KwQ)<!-- MEMES:END -->
 
 ---
 

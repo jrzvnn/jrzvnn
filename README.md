@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
+ - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
+ - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 💣 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 😝 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)
+ - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
 
 ---
 

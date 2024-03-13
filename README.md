@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron Q1 Max review: cushy, comfortable, costly](https://appleinsider.com/articles/24/03/13/keychron-q1-max-review-cushy-comfortable-costly?utm_medium=rss)
  - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
  - [Smart glasses are the future, but who will get there first?](https://www.theverge.com/24099475/smart-glasses-ray-ban-meta-google-glass-wearables)
- - [Google DeepMind details SIMA, an AI agent training to learn gaming skills to play like a human; SIMA trained on No Man&#39;s Sky, Goat Simulator 3, and other games &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p21#a240313p21)
- - [11 Best Weighted Blankets &lpar;2024&rpar;: Cooling, Throws, and Eye Masks](https://www.wired.com/gallery/best-weighted-blankets/)<!-- TECH:END -->
+ - [Google DeepMind details SIMA, an AI agent training to learn gaming skills to play like a human; SIMA trained on No Man&#39;s Sky, Goat Simulator 3, and other games &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p21#a240313p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

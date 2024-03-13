@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Parliament approves the AI Act, voting 523 in favor and 46 against, despite competition fears; the Act, born in 2021, puts AI tech into risk categories &lpar;CNBC&rpar;](http://www.techmeme.com/240313/p12#a240313p12)
- - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)
- - [Google paid out $10M to 632 bug bounty researchers in 2023 via its Vulnerability Reward Program, including $3.4M for Android bugs; the highest bounty was $113K &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p10#a240313p10)
- - [March Madness 2024: Selection Sunday, Tournament Schedule, Bracket and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-selection-sunday-tournament-schedule-bracket-and-more/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate: Play SpongeBob Now, MLB 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-spongebob-mlb-24-and-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)
+ - [There Are Dark Corners of the Internet. Then There&#39;s 764](https://www.wired.com/story/764-com-child-predator-network/)
+ - [The Polestar 3 isn’t out yet, and it’s already getting a big price cut](https://www.theverge.com/2024/3/13/24098731/polestar-3-price-cut-variants-specs-ev-suv-production)
+ - [Neil Young tries excusing his return to Spotify by saying Apple Music is now as bad](https://appleinsider.com/articles/24/03/13/neil-young-tries-excusing-his-return-to-spotify-by-saying-apple-music-is-now-as-bad?utm_medium=rss)
+ - [The EU Parliament approves the AI Act, voting 523 in favor and 46 against, despite competition fears; the Act, born in 2021, puts AI tech into risk categories &lpar;CNBC&rpar;](http://www.techmeme.com/240313/p12#a240313p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

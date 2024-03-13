@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 💣 [Title](http://9gag.com/gag/az26ywx)
  - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/az26ywx)
+ - 💣 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)
  - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
- - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 💣 [Title](http://9gag.com/gag/az26ywx)
+ - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
  - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
 
 ---

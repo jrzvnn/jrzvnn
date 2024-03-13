@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity is licensing Yelp&#39;s data and integrating its maps, reviews, and other details in responses when users ask for restaurant recommendations &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240312/p37#a240312p37)
  - [Paris- and New York-based Adaptive ML, which helps businesses build custom tools with open-source generative AI models, raised a $20M seed led by Index Ventures &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240312/p36#a240312p36)
  - [The 4 Best Gaming Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-gaming-routers/#ftag=CAD590a51e)
  - [Best Webcams From 1080p to 4K for 2024     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)
- - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)
- - [Don&#39;t Get Scammed on Solar Panels: 4 Financial Red Flags     - CNET](https://www.cnet.com/home/energy-and-utilities/dont-get-scammed-on-solar-panels-4-financial-red-flags/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [Google Sees AI Agents Getting Into the Video Games We Play     - CNET](https://www.cnet.com/tech/google-sees-ai-agents-getting-into-the-video-games-we-play/#ftag=CAD590a51e)
  - [SpaceX is cleared to attempt its third Starship test flight](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
  - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)
- - [Why the Kate Middleton scandal just won’t die](https://www.theverge.com/2024/3/13/24099957/kate-middleton-photo-conspiracy-royals)
- - [YouTube revamps its TV app to make the viewing experience more interactive and giving greater prominence to chapters, comments, and video descriptions &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240313/p32#a240313p32)
- - [Best Apple Pencil Deals: Save on Stylus Accessories     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Drive Smarter and Save More: Expert Tips for Beating High Gas Prices This Spring     - CNET](https://www.cnet.com/personal-finance/drive-smarter-and-save-more-expert-tips-for-beating-high-gas-prices-this-spring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

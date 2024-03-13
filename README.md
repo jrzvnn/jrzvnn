@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ rolls out trailer for Michael Douglas&#39; &#39;Franklin&#39; limited series](https://appleinsider.com/articles/24/03/13/apple-tv-rolls-out-trailer-for-michael-douglas-franklin-limited-series?utm_medium=rss)
  - [Best Buy knocks $400 off Apple&#39;s 15-inch MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/24/03/13/best-buy-knocks-400-off-apples-15-inch-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
  - [Meta is ready to drop news in Illinois if forced to pay local publishers](https://www.theverge.com/2024/3/13/24099439/meta-news-block-illinois-journalism-preservation-act)
  - [The House Passed the Bill That Could Ban TikTok—and It Wasn&#39;t Close](https://www.wired.com/story/congress-tiktok-ban/)
- - [AirTag &amp; police save builder from massive stolen car replacement expense](https://appleinsider.com/articles/24/03/13/airtag-police-save-builder-from-massive-stolen-car-replacement-expense?utm_medium=rss)
- - [Investigation: 128 people complained to US law enforcement about non-consensual sexual content of them shared on OnlyFans between January 2019 and November 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p23#a240313p23)<!-- TECH:END -->
+ - [AirTag &amp; police save builder from massive stolen car replacement expense](https://appleinsider.com/articles/24/03/13/airtag-police-save-builder-from-massive-stolen-car-replacement-expense?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block starts shipping Bitkey, its $150 bitcoin wallet debuted in 2022, with a hardware device, mobile app, recovery tools, and Cash App and Coinbase integration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240313/p33#a240313p33)
  - [Best Deals on Robot Vacuums: Save Big on Dreametech, Roomba, Shark and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
  - [Google Sees AI Agents Getting Into the Video Games We Play     - CNET](https://www.cnet.com/tech/google-sees-ai-agents-getting-into-the-video-games-we-play/#ftag=CAD590a51e)
  - [SpaceX is cleared to attempt its third Starship test flight](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
- - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)
- - [Drive Smarter and Save More: Expert Tips for Beating High Gas Prices This Spring     - CNET](https://www.cnet.com/personal-finance/drive-smarter-and-save-more-expert-tips-for-beating-high-gas-prices-this-spring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon will let sellers paste a link so AI can make a product page](https://www.theverge.com/2024/3/13/24099685/amazon-generative-ai-dtc-link-sellers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

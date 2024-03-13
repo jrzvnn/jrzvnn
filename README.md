@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
  - 😝 [Manipulation of crime statistics to change a narrative are we?](http://9gag.com/gag/aZD9KwQ)
+ - 😝 [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
  - 💣 [And then brings sword from the Witcher](http://9gag.com/gag/aQEYD07)
- - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
+ - 😝 [Its beautiful](http://9gag.com/gag/a9q3w0W)
+ - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 ---
 

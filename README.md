@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [House passes bill that could ban TikTok](https://www.theverge.com/2024/3/13/24097125/house-bill-vote-tiktok-ban-china-bytedance-divestment)
  - [Smart glasses are the future, but who will get there first?](https://www.theverge.com/24099475/smart-glasses-ray-ban-meta-google-glass-wearables)
  - [Google DeepMind details SIMA, an AI agent training to learn gaming skills to play like a human; SIMA trained on No Man&#39;s Sky, Goat Simulator 3, and other games &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p21#a240313p21)
- - [Best Solar Panel Installation Companies in Indiana     - CNET](https://www.cnet.com/home/energy-and-utilities/indiana-solar-panels/#ftag=CAD590a51e)
- - [4 Tips for Combatting Daylight Saving Fatigue     - CNET](https://www.cnet.com/health/sleep/4-tips-to-use-to-sleep-better-after-daylight-saving-time/#ftag=CAD590a51e)
- - [Eight Sleep Pod 3 Cover Review: The Coolest Solution for Hot Sleepers     - CNET](https://www.cnet.com/health/sleep/eight-sleeps-pod-3-cover-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Best Weighted Blankets &lpar;2024&rpar;: Cooling, Throws, and Eye Masks](https://www.wired.com/gallery/best-weighted-blankets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
+ - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)
+ - [Dyson’s 360 Vis Nav is a powerful robovac, but it’s the brush that tickles me the most](https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on)
  - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)
- - [Spotify rolls out music videos to its mobile and desktop apps in beta in 11 markets, including Brazil, Italy, and the UK, available to Premium subscribers &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240313/p6#a240313p6)
- - [Sony’s new PS5 update includes improved DualSense audio and screen sharing](https://www.theverge.com/2024/3/13/24099336/sony-ps5-update-dual-sense-controller-speaker-microphone-screen-sharing)
- - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://www.wired.com/story/texas-porn-sites-age-verification/)
- - [Best Wireless Earbuds and Headphones for Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify rolls out music videos to its mobile and desktop apps in beta in 11 markets, including Brazil, Italy, and the UK, available to Premium subscribers &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240313/p6#a240313p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

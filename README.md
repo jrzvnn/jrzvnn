@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Together AI, which helps developers access Nvidia server chips to train AI models, raised $106M led by Salesforce Ventures at a $1.25B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p30#a240313p30)
  - [Microsoft plans to release a unified Teams app on Windows 11 later this year, letting users switch between multiple tenants and personal or work account types &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240313/p29#a240313p29)
  - [Future iPhone may get displays and controls on the edges](https://appleinsider.com/articles/24/03/13/future-iphone-may-get-displays-and-controls-on-the-edges?utm_medium=rss)
  - [OpenAI announces partnerships with Le Monde and Prisa Media to bring French and Spanish language news content to ChatGPT and help train OpenAI&#39;s models &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240313/p28#a240313p28)
- - [Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview](https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled)
- - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview](https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

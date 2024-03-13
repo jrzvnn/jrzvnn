@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 💣 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
+ - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 😝 [Then Jesus told them \u2026..](http://9gag.com/gag/aNwy5DK)
+ - 💣 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
+ - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
 
 ---
 

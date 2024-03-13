@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Change Is Bad for Your Health, Wherever You Are](https://www.wired.com/story/climate-crisis-is-a-health-risk-everywhere-wired-health-lancet-countdown/)
- - [Don Lemon says Elon Musk canceled The Don Lemon show partnership with X hours after taping an interview with Musk on March 8 for the show&#39;s debut episode &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240313/p25#a240313p25)
- - [Speck’s sitewide sale takes 20 percent off cases and accessories](https://www.theverge.com/2024/3/13/24099409/speck-cases-fitbit-ace-3-sling-tv-orange-amazon-fire-tv-omni-sale-deal)
- - [Apple refutes criticism of its carbon neutral plans by showcasing its rainforest efforts](https://appleinsider.com/articles/24/03/13/apple-refutes-criticism-of-its-carbon-neutral-plans-by-showcasing-its-rainforest-efforts?utm_medium=rss)
- - [Block’s new crypto wallet can only be purchased with real cash](https://www.theverge.com/2024/3/13/24099583/block-crypto-wallet-bitkey-real-cash-purchase)<!-- TECH:END -->
+ - [34 Best Sleep Week Deals: Mattresses, Sheets, and Sleep Accessories](https://www.wired.com/story/sleep-week-deals-march-2024/)
+ - [Keurig’s K-Rounds Are Compostable Coffee Pods, but They Only Work With Its New Alta Coffee Machine](https://www.wired.com/story/keurig-k-rounds-coffee-pods-keurig-alta-coffee-maker/)
+ - [Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing](https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features)
+ - [The US House passes a bipartisan TikTok bill that forces a sale or ban of the app; the legislation faces an uncertain Senate path without a companion measure &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240313/p26#a240313p26)
+ - [Climate Change Is Bad for Your Health, Wherever You Are](https://www.wired.com/story/climate-crisis-is-a-health-risk-everywhere-wired-health-lancet-countdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

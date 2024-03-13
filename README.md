@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
  - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 👉 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)<!-- MEMES:END -->
+ - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
 
 ---
 

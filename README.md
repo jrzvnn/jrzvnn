@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify now has music videos](https://www.theverge.com/2024/3/13/24099337/spotify-music-video-beta-11-markets-supported-artists)
  - [Spotify rolls out music videos to its mobile and desktop apps in beta in 11 markets, including Brazil, Italy, and the UK, available to Premium subscribers &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240313/p6#a240313p6)
  - [Sony’s new PS5 update includes improved DualSense audio and screen sharing](https://www.theverge.com/2024/3/13/24099336/sony-ps5-update-dual-sense-controller-speaker-microphone-screen-sharing)
  - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://www.wired.com/story/texas-porn-sites-age-verification/)
- - [Best Wireless Earbuds and Headphones for Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
- - [Livestreaming on Douyin and Kuaishou is helping attract out-of-town property buyers to Xishuangbanna in China&#39;s Yunnan province, despite a nationwide downturn &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/240313/p5#a240313p5)<!-- TECH:END -->
+ - [Best Wireless Earbuds and Headphones for Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

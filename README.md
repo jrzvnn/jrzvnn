@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
- - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 😝 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)
+ - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 👉 [Welcome to the real world](http://9gag.com/gag/az26ByB)<!-- MEMES:END -->
 
 ---
 

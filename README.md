@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
+ - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
  - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---

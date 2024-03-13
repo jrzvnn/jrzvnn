@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
  - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 👉 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)<!-- MEMES:END -->
+ - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 💣 [Facebook stolen memes are the best. Cus i am a lavy ass cocksucking OP without any own ideas.](http://9gag.com/gag/aYVzddv)
+ - 😝 [Absolute POS kicks pensioner over a bench](http://9gag.com/gag/avQbVRb)
+ - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
 
 ---
 

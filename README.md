@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK is so lost](http://9gag.com/gag/a04mzdO)
+ - 😝 [Youtuber finds out about a major event for the first time.](http://9gag.com/gag/armP0Q6)
  - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
  - 💣 [Men of culture](http://9gag.com/gag/aA0n7vp)
  - 😝 [Hello](http://9gag.com/gag/a7qjPYb)

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An interview with OpenAI CTO Mira Murati on Sora, set for release later in 2024, its training data, red-teaming Sora, working with the film industry, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240313/p11#a240313p11)
  - [Google paid out $10M to 632 bug bounty researchers in 2023 via its Vulnerability Reward Program, including $3.4M for Android bugs; the highest bounty was $113K &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240313/p10#a240313p10)
- - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
- - [How MrBeast dominates this ostentatious YouTube era, using a fast, frantic, and omnipresent editing style, as his videos slowly evolve to focus on storytelling &lpar;Patricia Hernandez/Polygon&rpar;](http://www.techmeme.com/240313/p9#a240313p9)
- - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)<!-- TECH:END -->
+ - [March Madness 2024: Selection Sunday, Tournament Schedule, Bracket and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-selection-sunday-tournament-schedule-bracket-and-more/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate: Play SpongeBob Now, MLB 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-spongebob-mlb-24-and-more-soon/#ftag=CAD590a51e)
+ - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

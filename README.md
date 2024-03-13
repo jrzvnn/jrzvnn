@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ageism Haunts Some Tech Workers in the Race to Get Hired](https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/)
+ - [How MrBeast dominates this ostentatious YouTube era, using a fast, frantic, and omnipresent editing style, as his videos slowly evolve to focus on storytelling &lpar;Patricia Hernandez/Polygon&rpar;](http://www.techmeme.com/240313/p9#a240313p9)
  - [Evercore tells investors not to abandon Apple](https://appleinsider.com/articles/24/03/13/evercore-tells-investors-not-to-abandon-apple?utm_medium=rss)
  - [Filing: the NYT denies OpenAI&#39;s claims that the NYT &quot;hacked&quot; ChatGPT to create misleading evidence of copyright infringement, calling the claims &quot;grandstanding&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240313/p8#a240313p8)
- - [Future iPhones could take a picture when bent](https://appleinsider.com/articles/24/03/13/future-iphones-could-take-a-picture-when-bent?utm_medium=rss)
- - [As the House votes on a TikTok bill, expected to pass, the Senate lacks a companion measure and the bill faces an uncertain path; Rand Paul may block the bill &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p7#a240313p7)
- - [TikTok Is Facing Its Greatest Threat Yet](https://www.wired.com/story/tiktok-ban-congress-vote/)<!-- TECH:END -->
+ - [Future iPhones could take a picture when bent](https://appleinsider.com/articles/24/03/13/future-iphones-could-take-a-picture-when-bent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

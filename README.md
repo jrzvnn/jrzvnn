@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)
- - [DJI Avata 2 drone leaks are out — and its goggles have cameras](https://www.theverge.com/2024/3/13/24099744/dji-avata-2-drone-goggles-3-leak-specifications-ar-stabilization)
- - [Microsoft adds GPT-4 Turbo to the free tier of Copilot, replacing GPT-4; Copilot Pro users still have the option to use GPT-4 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/240313/p31#a240313p31)
- - [TikTok’s fate now lies with the Senate](https://www.theverge.com/2024/3/13/24099721/tiktok-ban-senate-house-vote-divest-bill)
- - [Together AI, which helps developers access Nvidia server chips to train AI models, raised $106M led by Salesforce Ventures at a $1.25B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240313/p30#a240313p30)<!-- TECH:END -->
+ - [Stripe adds Apple Pay Later as a default option for merchants](https://appleinsider.com/articles/24/03/13/stripe-adds-apple-pay-later-as-a-default-option-for-merchants?utm_medium=rss)
+ - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
+ - [Best Mattress for Stomach Sleepers With Back Pain of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers-with-back-pain/#ftag=CAD590a51e)
+ - [UltraFine 950 Silver Ring     - CNET](https://www.cnet.com/culture/fashion/ultrafine-950-silver-ring-dpnl/#ftag=CAD590a51e)
+ - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

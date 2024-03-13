@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK is so lost](http://9gag.com/gag/a04mzdO)
- - 😝 [Between all the other crap posts is a 9gag education moment.](http://9gag.com/gag/avQbB6O)
- - 💣 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 😝 [Hello](http://9gag.com/gag/a7qjPYb)
- - 👉 [And they caught me!](http://9gag.com/gag/aDYBLKG)<!-- MEMES:END -->
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 💣 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 😝 [I&#39;m not saying he&#39;s next. I&#39;m just saying...](http://9gag.com/gag/amADdNd)
+ - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
 
 ---
 

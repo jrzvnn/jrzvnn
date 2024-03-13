@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)
  - [Stripe adds Apple Pay Later as a default option for merchants](https://appleinsider.com/articles/24/03/13/stripe-adds-apple-pay-later-as-a-default-option-for-merchants?utm_medium=rss)
  - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
  - [Best Mattress for Stomach Sleepers With Back Pain of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers-with-back-pain/#ftag=CAD590a51e)
- - [UltraFine 950 Silver Ring     - CNET](https://www.cnet.com/culture/fashion/ultrafine-950-silver-ring-dpnl/#ftag=CAD590a51e)
- - [M3 MacBook Air is easy to take apart, but parts pairing is still a pain](https://appleinsider.com/articles/24/03/13/m3-macbook-air-is-easy-to-take-apart-but-parts-pairing-is-still-a-pain?utm_medium=rss)<!-- TECH:END -->
+ - [UltraFine 950 Silver Ring     - CNET](https://www.cnet.com/culture/fashion/ultrafine-950-silver-ring-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

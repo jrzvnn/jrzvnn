@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube revamps its TV app to make the viewing experience more interactive and giving greater prominence to chapters, comments, and video descriptions &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240313/p32#a240313p32)
  - [Epic asks judge to enforce the Apple App Store injunction](https://www.theverge.com/2024/3/13/24099734/epic-v-apple-app-store-outside-payments-motion-enforce-injunction)
  - [Google finally brings all its Nest Cam features to Google Home for web](https://www.theverge.com/2024/3/13/24099773/google-nest-cams-google-home-web-recorded-video)
  - [Stripe adds Apple Pay Later as a default option for merchants](https://appleinsider.com/articles/24/03/13/stripe-adds-apple-pay-later-as-a-default-option-for-merchants?utm_medium=rss)
- - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
- - [Best Mattress for Stomach Sleepers With Back Pain of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers-with-back-pain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

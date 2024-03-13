@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the real world](http://9gag.com/gag/az26ByB)
- - 😝 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)
- - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
- - 😝 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 😝 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 👉 [Paul Alexander, the polio victim that has lived in an iron lung for 70 years, has passed away. He was 78 years old.](http://9gag.com/gag/aL1q3x5)<!-- MEMES:END -->
 
 ---
 

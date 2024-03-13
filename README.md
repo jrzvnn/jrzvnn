@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)
- - [Memo: John Collison says Stripe is in &quot;no rush&quot; to go public and payments volume rose 25% YoY to $1T in 2023; source: Stripe hit $1B in net revenue in Q3 2023 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240313/p14#a240313p14)
- - [The EU AI Act passed — here’s what comes next](https://www.theverge.com/2023/12/14/24001919/eu-ai-act-foundation-models-regulation-data)
- - [How Reddit CEO Steve Huffman, who returned in 2015 during a leadership crisis, grew the website to $800M+ in annual revenue and 2,000 staff, up from 80 in 2015 &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240313/p13#a240313p13)
- - [M3 15-inch MacBook Air vs M3 14-inch MacBook Pro -- Comparison](https://appleinsider.com/inside/15-inch-macbook-air/vs/m3-15-inch-macbook-air-vs-m3-14-inch-macbook-pro----comparison?utm_medium=rss)<!-- TECH:END -->
+ - [How online group 764 uses Discord and Telegram to blackmail teens into degrading and violent acts and then boast about it; Discord removed 34K users in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p16#a240313p16)
+ - [An analysis of 3M+ Discord and Telegram chats in 50+ groups finds a global network of thousands of violent predators, who target, groom, and extort kids online &lpar;Ali Winston/Wired&rpar;](http://www.techmeme.com/240313/p15#a240313p15)
+ - [I Tried Aescape&#39;s Robot-Arm-Powered Massage Table—and Loved Being in Control](https://www.wired.com/story/hands-on-aescape-automated-massage/)
+ - [Cadillac teases ‘Opulent Velocity’ electric V-Series concept](https://www.theverge.com/2024/3/13/24098795/cadillac-v-series-ev-tease-opulent-velocity)
+ - [Apple Watch pulse oximeter ban detailed in published documents](https://appleinsider.com/articles/24/03/12/apple-watch-pulse-oximeter-ban-detailed-in-published-documents?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

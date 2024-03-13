@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘Emergency Powers’ Risk of a Second Trump Presidency](https://www.wired.com/story/donald-trump-emergency-powers/)
+ - [Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview](https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled)
  - [Epic wants Apple held in contempt of court for not following through on removing anti-steering measures](https://appleinsider.com/articles/24/03/13/epic-wants-apple-held-in-contempt-of-court-for-not-following-through-on-removing-anti-steering-measures?utm_medium=rss)
- - [34 Best Sleep Week Deals: Mattresses, Sheets, and Sleep Accessories](https://www.wired.com/story/sleep-week-deals-march-2024/)
- - [Keurig’s K-Rounds Are Compostable Coffee Pods, but They Only Work With Its New Alta Coffee Machine](https://www.wired.com/story/keurig-k-rounds-coffee-pods-keurig-alta-coffee-maker/)
- - [Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing](https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features)<!-- TECH:END -->
+ - [Waymo plans to debut its Waymo One robotaxi service in LA on March 14, gradually onboarding from a 50K+ waitlist, and in Austin commercially by the end of 2024 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240313/p27#a240313p27)
+ - [Microsoft Teams is finally moving to a single app for personal and work](https://www.theverge.com/2024/3/13/24099723/microsoft-teams-unified-app-personal-work-accounts)
+ - [Dell&#39;s TechFest Means Sales on Laptops and Gaming Gear. What to Shop     - CNET](https://www.cnet.com/paid-content/news/dells-techfest-means-sales-on-laptops-and-gaming-gear-what-to-shop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

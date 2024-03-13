@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 😝 [Learning Engrish...](http://9gag.com/gag/ajV2M5w)
- - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
+ - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 😝 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)
+ - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [First time ?](http://9gag.com/gag/aA0nqpL)
+ - 👉 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny i guess](http://9gag.com/gag/a2KQg7w)
  - 😝 [And they caught me!](http://9gag.com/gag/aDYBLKG)
- - 💣 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
- - 😝 [Dude cleaned up good. Glad for him](http://9gag.com/gag/aeQXzwO)
- - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
+ - 😝 [`Holding gardening tool`](http://9gag.com/gag/a4oMg8Q)
+ - 💣 [Dude cleaned up good. Glad for him](http://9gag.com/gag/aeQXzwO)
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 👉 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)<!-- MEMES:END -->
 
 ---
 

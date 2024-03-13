@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Porn Sites Need Age-Verification Systems in Texas, Court Rules](https://www.wired.com/story/texas-porn-sites-age-verification/)
  - [Livestreaming on Douyin and Kuaishou is helping attract out-of-town property buyers to Xishuangbanna in China&#39;s Yunnan province, despite a nationwide downturn &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/240313/p5#a240313p5)
  - [Taylor Swift Exclusive Eras Tour Clip Drops a Day Early on Apple&#39;s App Store     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-exclusive-eras-tour-clip-drops-a-day-early-on-apples-app-store/#ftag=CAD590a51e)
  - [Claiming the Child Tax Credit? Here&#39;s When to Expect Your 2024 Refund     - CNET](https://www.cnet.com/personal-finance/taxes/claiming-the-child-tax-credit-heres-when-to-expect-your-2024-refund/#ftag=CAD590a51e)
- - [A study by the US Copyright Office and USPTO concludes that existing laws are sufficient to address NFT copyright concerns and there&#39;s no need to change IP laws &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240313/p4#a240313p4)
- - [Filings: ByteDance-owned entity Picoheart is now the third-largest shareholder in InnoStar, a Chinese state-backed ReRAM chips maker, with a 9.5% stake &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240313/p3#a240313p3)<!-- TECH:END -->
+ - [A study by the US Copyright Office and USPTO concludes that existing laws are sufficient to address NFT copyright concerns and there&#39;s no need to change IP laws &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240313/p4#a240313p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

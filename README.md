@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study by the US Copyright Office and USPTO concludes that existing laws are sufficient to address NFT copyright concerns and there&#39;s no need to change IP laws &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240313/p4#a240313p4)
  - [Filings: ByteDance-owned entity Picoheart is now the third-largest shareholder in InnoStar, a Chinese state-backed ReRAM chips maker, with a 9.5% stake &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/240313/p3#a240313p3)
  - [China’s Best Self-Driving Car Platforms, Tested and Compared](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
  - [Brave says after Apple added a default browser choice screen in the EU, daily installations of Brave on iOS jumped from ~8K to over 11K &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240313/p2#a240313p2)
- - [What Are Time-of-Use Utility Rates?     - CNET](https://www.cnet.com/home/energy-and-utilities/time-of-use-rates/#ftag=CAD590a51e)
- - [Neil Young is bringing back his music to Spotify, after the removal in January 2022, saying &quot;Apple and Amazon have started serving the same disinformation&quot; &lpar;Chris Eggertsen/Billboard&rpar;](http://www.techmeme.com/240313/p1#a240313p1)<!-- TECH:END -->
+ - [What Are Time-of-Use Utility Rates?     - CNET](https://www.cnet.com/home/energy-and-utilities/time-of-use-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

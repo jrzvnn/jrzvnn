@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neil Young is bringing back his music to Spotify, after the removal in January 2022, saying &quot;Apple and Amazon have started serving the same disinformation&quot; &lpar;Chris Eggertsen/Billboard&rpar;](http://www.techmeme.com/240313/p1#a240313p1)
  - [How to pause a QuickTime Player recording, and other hidden options](https://appleinsider.com/inside/macos/tips/how-to-pause-a-quicktime-player-recording-and-other-hidden-options?utm_medium=rss)
  - [Chicago-based Ocient, which provides hyperscale data warehouse and analytics software, raised a $49.4M Series B extension, bringing its total funding to $119M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240312/p39#a240312p39)
  - [Sources: e-commerce roll-up firm Kite, which was cofounded by Blackstone in 2022 and closed a $200M equity commitment, shut down earlier in 2024 &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/240312/p38#a240312p38)
- - [Perplexity is licensing Yelp&#39;s data and integrating its maps, reviews, and other details in responses when users ask for restaurant recommendations &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240312/p37#a240312p37)
- - [Paris- and New York-based Adaptive ML, which helps businesses build custom tools with open-source generative AI models, raised a $20M seed led by Index Ventures &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/240312/p36#a240312p36)<!-- TECH:END -->
+ - [Best Internet Providers in Parma, Ohio     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

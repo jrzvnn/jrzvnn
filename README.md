@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
+ - [How to watch Apple TV Major League Soccer for free on March 16 and March 17](https://appleinsider.com/articles/24/03/14/how-to-watch-apple-tv-major-league-soccer-for-free-on-march-16-and-march-17?utm_medium=rss)
+ - [A UK High Court judge rules that Australian computer scientist Craig Wright is not Bitcoin creator Satoshi Nakamoto, saying the &quot;evidence is overwhelming&quot; &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240314/p21#a240314p21)
  - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
- - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
- - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)
- - [Sonos soundbars and speakers are on sale just in time for March Madness](https://www.theverge.com/2024/3/14/24100247/sonos-ray-beam-sub-mini-move-2-march-madness-deal-sale)
- - [The potential TikTok ban is being decided on by the wrong people](https://appleinsider.com/articles/24/03/14/the-potential-tiktok-ban-is-being-decided-on-by-the-wrong-people?utm_medium=rss)<!-- TECH:END -->
+ - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

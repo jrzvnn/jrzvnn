@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful smile](http://9gag.com/gag/aWGVyL3)
- - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 💣 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 💣 [A translation is needed](http://9gag.com/gag/aGEP5en)
+ - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
+ - 👉 [It was stopped\u2026 About halfway up the head](http://9gag.com/gag/aXn8yGP)<!-- MEMES:END -->
 
 ---
 

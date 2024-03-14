@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deliveroo reports adjusted EBITDA of &amp;pound;85M in 2023, its first-ever profit and up from a loss of &amp;pound;45M in 2022, after launching Deliveroo Shopping in November &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240314/p22#a240314p22)
  - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
+ - [The Small Company at the Center of &#39;Gamergate 2.0&#39;](https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/)
  - [How to watch Apple TV Major League Soccer for free on March 16 and March 17](https://appleinsider.com/articles/24/03/14/how-to-watch-apple-tv-major-league-soccer-for-free-on-march-16-and-march-17?utm_medium=rss)
- - [A UK High Court judge rules that Australian computer scientist Craig Wright is not Bitcoin creator Satoshi Nakamoto, saying the &quot;evidence is overwhelming&quot; &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240314/p21#a240314p21)
- - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
- - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
+ - [A UK High Court judge rules that Australian computer scientist Craig Wright is not Bitcoin creator Satoshi Nakamoto, saying the &quot;evidence is overwhelming&quot; &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240314/p21#a240314p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

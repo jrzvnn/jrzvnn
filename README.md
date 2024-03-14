@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok-funded Oxford Economics study of 1K US SMBs and 7.5K users: in 2023, TikTok drove $14.7B in SMB revenue, added $24.2B to US GDP, and supported 224K+ jobs &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p12#a240314p12)
+ - [Can Reddit—the Internet’s Greatest Authenticity Machine—Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)
+ - [How Nintendo’s destruction of Yuzu is rocking the emulator world](https://www.theverge.com/24098640/nintendo-emulator-yuzu-lawsuit-switch-aftermath)
  - [Internal TikTok memo: the company is &quot;disappointed&quot; the US House passed the TikTok divestment bill, and plans to lobby the Senate not to pass the legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p11#a240314p11)
- - [Foxconn reports Q4 revenue down 5.7% YoY to ~$59B, as cloud and networking demand falls, net profit up 33% YoY to $1.69B, and expects flat 2024 consumer demand &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p10#a240314p10)
- - [US paid music subscribers hit a record 109M in 2023, rising to 136M including SiriusXM and Amazon Prime Music; seven of every 10 US millennials pay to subscribe &lpar;Russ Crupnick/MusicWatch&rpar;](http://www.techmeme.com/240314/p9#a240314p9)
- - [You Can Count on Pi](https://www.wired.com/story/you-can-count-on-pi/)
- - [Social Security Recipients: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn reports Q4 revenue down 5.7% YoY to ~$59B, as cloud and networking demand falls, net profit up 33% YoY to $1.69B, and expects flat 2024 consumer demand &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p10#a240314p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Max annual plans are up to $60 off ahead of March Madness](https://www.theverge.com/2024/3/14/24100899/max-march-madness-the-boy-and-the-heron-deal-sale)
  - [Spotify upset over 9 day App Review, cries antitrust to EC](https://appleinsider.com/articles/24/03/14/spotify-upset-over-9-day-app-review-cries-antitrust-to-ec?utm_medium=rss)
+ - [I&#39;ve Been in Real Estate for 20 Years. Don&#39;t Buy a Home in 2024 Until You Read This     - CNET](https://www.cnet.com/personal-finance/buying-a-home-in-2024-real-tips-from-a-real-estate-agent/#ftag=CAD590a51e)
  - [Google I/O 2024 is happening on May 14th](https://www.theverge.com/2024/3/14/24101171/google-io-2024-announced-may-14-android-ai-gemini)
- - [The FTC and DOJ think McDonald’s ice cream machines should be legal to fix](https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines)
- - [Adobe reports Q1 revenue up 11% YoY to $5.18B, vs. $5.14B est., Digital Media revenue up 12% YoY to $3.82B, and Q2 revenue guidance below est.; ADBE drops 10%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240314/p39#a240314p39)<!-- TECH:END -->
+ - [The FTC and DOJ think McDonald’s ice cream machines should be legal to fix](https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

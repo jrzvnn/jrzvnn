@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US cybersecurity company Zscaler acquires Israeli cybersecurity startup Avalor for $350M; Avalor was founded two years ago and has raised just $30M to date &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240314/p23#a240314p23)
- - [Deliveroo reports adjusted EBITDA of &amp;pound;85M in 2023, its first-ever profit and up from a loss of &amp;pound;45M in 2022, after launching Deliveroo Shopping in November &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240314/p22#a240314p22)
- - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
- - [The Small Company at the Center of &#39;Gamergate 2.0&#39;](https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/)
- - [How to watch Apple TV Major League Soccer for free on March 16 and March 17](https://appleinsider.com/articles/24/03/14/how-to-watch-apple-tv-major-league-soccer-for-free-on-march-16-and-march-17?utm_medium=rss)<!-- TECH:END -->
+ - [15 Best Soundbars for Every Budget &lpar;2024&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
+ - [Intel’s new Core i9-14900KS arrives today for $699 with boosts up to 6.2GHz](https://www.theverge.com/2024/3/14/24099713/intel-core-i9-14900ks-release-date-price-features)
+ - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)
+ - [Watch Europa League Soccer: Livestream West Ham United vs. Freiburg From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-soccer-livestream-west-ham-united-vs-freiburg-from-anywhere/#ftag=CAD590a51e)
+ - [US cybersecurity company Zscaler acquires Israeli cybersecurity startup Avalor for $350M; Avalor was founded two years ago and has raised just $30M to date &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240314/p23#a240314p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

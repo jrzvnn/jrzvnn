@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
+ - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
  - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
+ - 💣 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
+ - 😝 [Just find another place to live...](http://9gag.com/gag/adP3zPB)
+ - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
 
 ---
 

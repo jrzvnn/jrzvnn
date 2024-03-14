@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US paid music subscribers hit a record 109M in 2023, rising to 136M including SiriusXM and Amazon Prime Music; seven of every 10 US millennials pay to subscribe &lpar;Russ Crupnick/MusicWatch&rpar;](http://www.techmeme.com/240314/p9#a240314p9)
+ - [You Can Count on Pi](https://www.wired.com/story/you-can-count-on-pi/)
  - [Social Security Recipients: Reasons to File Your Taxes in 2024     - CNET](https://www.cnet.com/personal-finance/social-security-recipients-reasons-to-file-your-taxes-in-2024/#ftag=CAD590a51e)
  - [The Players Championship 2024: TV Schedule Today, How to Watch, Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-players-championship-2024-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
- - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)
- - [Microlino electric bubble car review: urban delight](https://www.theverge.com/24093189/microlino-review-microcar-specs-price)
- - [A look at the costs of a smartphone-based childhood, as Gen Z struggles with poor mental health and lags behind previous generations on many important metrics &lpar;Jonathan Haidt/The Atlantic&rpar;](http://www.techmeme.com/240314/p7#a240314p7)<!-- TECH:END -->
+ - [A look at Visa&#39;s and Mastercard&#39;s efforts to stay relevant in Africa, including by funding local startups, as users switch to digital wallets and QR codes &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/240314/p8#a240314p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 💣 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
- - 😝 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 😝 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
+ - 💣 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 👉 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)<!-- MEMES:END -->
 
 ---
 

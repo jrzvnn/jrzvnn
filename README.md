@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Kaiko: trading volume for the top crypto memecoins reached ~$80B in the past week, the highest since October 2021; total market value of memecoins topped $60B &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240313/p39#a240313p39)
  - [How to change your default browser in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-your-default-browser-in-macos-sonoma?utm_medium=rss)
  - [On the web&#39;s 35th birthday, there are two issues to address: power concentration, which contradicts decentralization, and exploitation of personal data &lpar;Tim Berners-Lee/World Wide Web Foundation&rpar;](http://www.techmeme.com/240313/p38#a240313p38)
- - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)
- - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)<!-- TECH:END -->
+ - [Does Homeowners Insurance Cover Solar Panels?     - CNET](https://www.cnet.com/home/energy-and-utilities/does-homeowners-insurance-cover-solar-panels/#ftag=CAD590a51e)
+ - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

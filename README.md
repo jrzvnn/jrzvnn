@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC and DOJ think McDonald’s ice cream machines should be legal to fix](https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines)
  - [Adobe reports Q1 revenue up 11% YoY to $5.18B, vs. $5.14B est., Digital Media revenue up 12% YoY to $3.82B, and Q2 revenue guidance below est.; ADBE drops 10%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240314/p39#a240314p39)
  - [In an email to the European Commission, Spotify says Apple is holding up an iPhone app update that adds pricing information and links to subscriptions &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240314/p38#a240314p38)
  - [Google schedules I/O 2024 for May 14, where details on Android 15 and Android XR, AI announcements, and more are expected; the date was hidden behind a puzzle &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240314/p37#a240314p37)
- - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)
- - [Keurig&#39;s Future System Doesn&#39;t Need Plastic K-Cups video     - CNET](https://www.cnet.com/videos/keurigs-future-system-doesnt-need-plastic-k-cups/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

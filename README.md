@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Microsoft agrees to settle a patent lawsuit by Caltech, which settled lawsuits with Apple and Broadcom over some of the same Wi-Fi patents in 2023 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240314/p6#a240314p6)
+ - [The fate of TSMC plants in Japan and the US highlights two different approaches toward high-tech investment; TSMC says the two projects should not be compared &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240314/p5#a240314p5)
  - [ByteDance investors reassessing what the company&#39;s value would be without TikTok, estimate that TikTok lost several billion dollars in 2023 on revenue of ~$20B &lpar;The Information&rpar;](http://www.techmeme.com/240314/p4#a240314p4)
  - [Sources: Google&#39;s Search Generative Experience could cut organic search traffic to publishers by 20% to 60%; Google says it is premature to estimate the impact &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240314/p3#a240314p3)
- - [Gerald M. Levin, former Time Warner CEO who oversaw the merger with AOL, widely considered the worst corporate merger in US history, died on March 13 at age 84 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/240314/p2#a240314p2)
- - [A deep dive into Vision Pro by Meta&#39;s ex-VP of VR Hugo Barra: the audacity of Apple&#39;s hardware decisions, a dull software story, how Meta can respond, and more &lpar;Hugo Barra/Hugo&#39;s Blog&rpar;](http://www.techmeme.com/240314/p1#a240314p1)
- - [Best Flower Delivery Deals: Get Ahead of Mother&#39;s Day with These Deals on Beautiful Bouquets     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Happy 1,000th Game, Wordle! Here Are the Best Starter Words to Use     - CNET](https://www.cnet.com/culture/internet/happy-1000th-game-wordle-here-are-the-best-starter-words-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India grants a consumer payments license to Paytm, which has until now operated under a license connected to its beleaguered affiliate, Paytm Payments Bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p26#a240314p26)
- - [Thunderbolt 5 vs Thunderbolt 4 -- compared](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
- - [Intel launches the $689 Core i9-14900KS Special Edition processor with clock speeds up to 6.2GHz, making it Intel&#39;s fastest mainstream chip &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240314/p25#a240314p25)
- - [15 Best Soundbars for Every Budget &lpar;2024&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Intel’s new Core i9-14900KS arrives today for $699 with boosts up to 6.2GHz](https://www.theverge.com/2024/3/14/24099713/intel-core-i9-14900ks-release-date-price-features)<!-- TECH:END -->
+ - [Apple speaks out against Epic&#39;s contempt of court accusation](https://appleinsider.com/articles/24/03/14/apple-speaks-out-against-epics-contempt-of-court-accusation?utm_medium=rss)
+ - [Reddit launches free-form ads, an ad format that looks similar to users posts but with a &quot;Promoted&quot; label, to help advertisers get maximum engagement &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240314/p27#a240314p27)
+ - [Apple developing series of new gestures for future Apple Watches](https://appleinsider.com/articles/24/03/14/apple-developing-series-of-new-gestures-for-future-apple-watches?utm_medium=rss)
+ - [Forget Chatbots. AI Agents Are the Future](https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/)
+ - [Google says Chrome can now protect you better while preserving your privacy](https://www.theverge.com/2024/3/14/24099937/google-chrome-safe-browsing-cybersecurity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

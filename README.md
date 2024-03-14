@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A mom is arrested for protecting his kid against bullies... Land of the Free..](http://9gag.com/gag/avQbVmO)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
  - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
+ - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
 
 ---
 

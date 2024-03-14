@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches Copilot Pro worldwide with a one-month free trial](https://www.theverge.com/2024/3/14/24100993/microsoft-copilot-pro-launch-free-trial)
  - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
  - [Watch Europa Conference League Soccer: Livestream Aston Villa vs. Ajax From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-conference-league-soccer-livestream-aston-villa-vs-ajax-from-anywhere/#ftag=CAD590a51e)
  - [Watch Europa League Soccer: Livestream Liverpool vs. Sparta Prague From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-soccer-livestream-liverpool-vs-sparta-prague-from-anywhere/#ftag=CAD590a51e)
- - [Amazon&#39;s Big Spring Sale: Score a $100 Amazon Gift Card to Shop the Massive Event     - CNET](https://www.cnet.com/personal-finance/credit-cards/amazons-big-spring-sale-score-a-100-amazon-gift-card-to-shop-the-big-event/#ftag=CAD590a51e)
- - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale: Score a $100 Amazon Gift Card to Shop the Massive Event     - CNET](https://www.cnet.com/personal-finance/credit-cards/amazons-big-spring-sale-score-a-100-amazon-gift-card-to-shop-the-big-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

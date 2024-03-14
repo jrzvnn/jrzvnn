@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
- - 💣 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)
- - 😝 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
- - 👉 [I am always watching you](http://9gag.com/gag/aqevwwv)<!-- MEMES:END -->
+ - 😝 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
+ - 😝 [In Canada vehicle owners are being urged to leave their keys near the front door to prevent being attacked by armed thieves.](http://9gag.com/gag/a2KQ6Mp)
+ - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Call security](http://9gag.com/gag/aXn860P)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wooting built the best gaming keyboard — now a new model introduces ‘Rappy Snappy’](https://www.theverge.com/2024/3/14/24100819/wooting-80he-keyboard-rappy-snappy-feature)
+ - [The SEC is sick of Elon Musk’s attempts to delay its Twitter investigation](https://www.theverge.com/2024/3/14/24100847/elon-musk-sec-investigation-delay-twitter-disclosure)
  - [Massachusetts-based Pi Health, which uses AI to automate tasks in cancer treatment trials, raised a $30M+ Series A co-led by AlleyCorp and Obvious Ventures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240314/p30#a240314p30)
  - [Solo Stove&#39;s Excellent Pizza Oven Is on Sale for Pi Day](https://www.wired.com/story/solo-stove-pi-day-deals-2024/)
- - [Damage to the West Africa Cable System, MainOne, and ACE sea cables disrupts internet services across Africa; the cause of the faults has not been determined &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p29#a240314p29)
- - [Google adds real-time URL protection to Chrome&#39;s Safe Browsing Standard on desktop and iOS, claiming to guard users&#39; privacy; Android will get the feature soon &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240314/p28#a240314p28)
- - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [Damage to the West Africa Cable System, MainOne, and ACE sea cables disrupts internet services across Africa; the cause of the faults has not been determined &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p29#a240314p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

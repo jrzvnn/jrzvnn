@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
- - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
  - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
 
 ---
 

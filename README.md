@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 💣 [Call security](http://9gag.com/gag/aXn860P)
  - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
- - 👉 [Boning her right!](http://9gag.com/gag/ap9eX3D)<!-- MEMES:END -->
+ - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
 

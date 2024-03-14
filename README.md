@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
- - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 💣 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)
- - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 👉 [He has a point...](http://9gag.com/gag/aEqe9BN)<!-- MEMES:END -->
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 💣 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
 

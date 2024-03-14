@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 💣 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
+ - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---
 

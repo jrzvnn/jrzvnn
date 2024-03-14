@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 💣 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
- - 😝 [Just find another place to live...](http://9gag.com/gag/adP3zPB)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 😝 [The glass is unbreaka.... ble](http://9gag.com/gag/a04mGBL)
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 💣 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
+ - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 👉 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)<!-- MEMES:END -->
 
 ---
 

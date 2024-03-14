@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful renovation in Lodz, Poland](http://9gag.com/gag/aoKBwAe)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 💣 [Indeed](http://9gag.com/gag/aDYBeeG)
- - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
- - 👉 [No study needed](http://9gag.com/gag/aWGV3yx)<!-- MEMES:END -->
+ - 😝 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
+ - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
 
 ---
 

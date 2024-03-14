@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
- - 💣 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 💣 [I am always watching you](http://9gag.com/gag/aqevwwv)
+ - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
+ - 👉 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)<!-- MEMES:END -->
 
 ---
 

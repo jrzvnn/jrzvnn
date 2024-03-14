@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 😝 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
- - 💣 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 👉 [You don&#39;t wanna know how many](http://9gag.com/gag/avQbwp5)<!-- MEMES:END -->
+ - 😝 [Helldivers 2 based](http://9gag.com/gag/a4oMvYZ)
+ - 😝 [Life as a man is simple...](http://9gag.com/gag/aZD96Gp)
+ - 💣 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. A feminist now campaign to stop what she calls a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/aeQXn0W)
+ - 😝 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
+ - 👉 [Laugh](http://9gag.com/gag/aDYBKr9)<!-- MEMES:END -->
 
 ---
 

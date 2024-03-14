@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 💣 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 💣 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
+ - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
+ - 👉 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)<!-- MEMES:END -->
 
 ---
 

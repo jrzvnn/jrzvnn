@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In Canada vehicle owners are being urged to leave their keys near the front door to prevent being attacked by armed thieves.](http://9gag.com/gag/a2KQ6Mp)
+ - 😝 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)
+ - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
  - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 😝 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
- - 💣 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
- - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
- - 👉 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)<!-- MEMES:END -->
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 

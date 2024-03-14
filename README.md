@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 💣 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
  - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 👉 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)<!-- MEMES:END -->
 
 ---
 

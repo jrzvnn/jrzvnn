@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)
- - [Wooting built the best gaming keyboard — now a new model introduces ‘Rappy Snappy’](https://www.theverge.com/2024/3/14/24100819/wooting-80he-keyboard-rappy-snappy-feature)
- - [The SEC is sick of Elon Musk’s attempts to delay its Twitter investigation](https://www.theverge.com/2024/3/14/24100847/elon-musk-sec-investigation-delay-twitter-disclosure)
- - [Massachusetts-based Pi Health, which uses AI to automate tasks in cancer treatment trials, raised a $30M+ Series A co-led by AlleyCorp and Obvious Ventures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240314/p30#a240314p30)
- - [Save on Photo Gift Ideas for Every Occasion With Discounts From Mixbook, Shutterfly and More     - CNET](https://www.cnet.com/deals/save-on-photo-gift-ideas-for-every-occasion-with-discounts-from-mixbook-shutterfly-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
+ - [Watch Europa Conference League Soccer: Livestream Aston Villa vs. Ajax From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-conference-league-soccer-livestream-aston-villa-vs-ajax-from-anywhere/#ftag=CAD590a51e)
+ - [Watch Europa League Soccer: Livestream Liverpool vs. Sparta Prague From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-soccer-livestream-liverpool-vs-sparta-prague-from-anywhere/#ftag=CAD590a51e)
+ - [Amazon&#39;s Big Spring Sale: Score a $100 Amazon Gift Card to Shop the Massive Event     - CNET](https://www.cnet.com/personal-finance/credit-cards/amazons-big-spring-sale-score-a-100-amazon-gift-card-to-shop-the-big-event/#ftag=CAD590a51e)
+ - [CBP wants to use AI to scan for fentanyl at the border](https://www.theverge.com/2024/3/14/24099953/cbp-border-ai-fentanyl-scanners-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

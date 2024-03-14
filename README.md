@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change your default browser in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-your-default-browser-in-macos-sonoma?utm_medium=rss)
+ - [On the web&#39;s 35th birthday, there are two issues to address: power concentration, which contradicts decentralization, and exploitation of personal data &lpar;Tim Berners-Lee/World Wide Web Foundation&rpar;](http://www.techmeme.com/240313/p38#a240313p38)
  - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)
  - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)
- - [Best Prescription Sunglasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)
- - [There&#39;s a New Juicy Chapter in the Kate Middleton Photoshop Backlash     - CNET](https://www.cnet.com/tech/mobile/theres-a-new-juicy-chapter-in-the-kate-middleton-photoshop-backlash/#ftag=CAD590a51e)
- - [Apple Vision Pro keyboard language code could hint at imminent global launch](https://appleinsider.com/articles/24/03/14/apple-vision-pro-keyboard-language-code-could-hint-at-imminent-global-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prescription Sunglasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

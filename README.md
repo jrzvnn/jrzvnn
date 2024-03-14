@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Flower Delivery Deals: Get Ahead of Mother&#39;s Day with These Deals on Beautiful Bouquets     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)
  - [Kaiko: trading volume for the top crypto memecoins reached ~$80B in the past week, the highest since October 2021; total market value of memecoins topped $60B &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240313/p39#a240313p39)
  - [How to change your default browser in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-change-your-default-browser-in-macos-sonoma?utm_medium=rss)
  - [On the web&#39;s 35th birthday, there are two issues to address: power concentration, which contradicts decentralization, and exploitation of personal data &lpar;Tim Berners-Lee/World Wide Web Foundation&rpar;](http://www.techmeme.com/240313/p38#a240313p38)
- - [Does Homeowners Insurance Cover Solar Panels?     - CNET](https://www.cnet.com/home/energy-and-utilities/does-homeowners-insurance-cover-solar-panels/#ftag=CAD590a51e)
- - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)<!-- TECH:END -->
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
- - 😝 [We\u2019re living in a clown world.](http://9gag.com/gag/a3ZoO7v)
- - 💣 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
  - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
+ - 😝 [We\u2019re living in a clown world.](http://9gag.com/gag/a3ZoO7v)
+ - 👉 [Gaming](http://9gag.com/gag/a6qWejb)<!-- MEMES:END -->
 
 ---
 

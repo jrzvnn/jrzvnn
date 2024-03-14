@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 💣 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
+ - 😝 [It be like this\u2026](http://9gag.com/gag/a5XL0Vg)
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 😝 [Hans Teeuwen, one of the best comedians in the Netherlands, was approached at home today by 6 police officers for alleged possession of weapons. The officers went to his house to confiscate an air pistol with plastic balls. This incident happened a few hours after he made a...1/2](http://9gag.com/gag/a6qWzOe)
+ - 👉 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)<!-- MEMES:END -->
 
 ---
 

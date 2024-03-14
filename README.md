@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India grants a consumer payments license to Paytm, which has until now operated under a license connected to its beleaguered affiliate, Paytm Payments Bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p26#a240314p26)
  - [Thunderbolt 5 vs Thunderbolt 4 -- compared](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
  - [Intel launches the $689 Core i9-14900KS Special Edition processor with clock speeds up to 6.2GHz, making it Intel&#39;s fastest mainstream chip &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240314/p25#a240314p25)
  - [15 Best Soundbars for Every Budget &lpar;2024&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Intel’s new Core i9-14900KS arrives today for $699 with boosts up to 6.2GHz](https://www.theverge.com/2024/3/14/24099713/intel-core-i9-14900ks-release-date-price-features)
- - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)<!-- TECH:END -->
+ - [Intel’s new Core i9-14900KS arrives today for $699 with boosts up to 6.2GHz](https://www.theverge.com/2024/3/14/24099713/intel-core-i9-14900ks-release-date-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the costs of a smartphone-based childhood, as Gen Z struggles with poor mental health and lags behind previous generations on many important metrics &lpar;Jonathan Haidt/The Atlantic&rpar;](http://www.techmeme.com/240314/p7#a240314p7)
  - [Filing: Microsoft agrees to settle a patent lawsuit by Caltech, which settled lawsuits with Apple and Broadcom over some of the same Wi-Fi patents in 2023 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240314/p6#a240314p6)
  - [The fate of TSMC plants in Japan and the US highlights two different approaches toward high-tech investment; TSMC says the two projects should not be compared &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240314/p5#a240314p5)
  - [ByteDance investors reassessing what the company&#39;s value would be without TikTok, estimate that TikTok lost several billion dollars in 2023 on revenue of ~$20B &lpar;The Information&rpar;](http://www.techmeme.com/240314/p4#a240314p4)
- - [Sources: Google&#39;s Search Generative Experience could cut organic search traffic to publishers by 20% to 60%; Google says it is premature to estimate the impact &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240314/p3#a240314p3)
- - [Happy 1,000th Game, Wordle! Here Are the Best Starter Words to Use     - CNET](https://www.cnet.com/culture/internet/happy-1000th-game-wordle-here-are-the-best-starter-words-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google&#39;s Search Generative Experience could cut organic search traffic to publishers by 20% to 60%; Google says it is premature to estimate the impact &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240314/p3#a240314p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They finally realized bois!](http://9gag.com/gag/a7qjYyx)
+ - 😝 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
  - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 💣 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
- - 😝 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)
+ - 💣 [Football managers reminding people they were players long ago](http://9gag.com/gag/ajV2eep)
+ - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
  - 👉 [He has a point...](http://9gag.com/gag/aEqe9BN)<!-- MEMES:END -->
 
 ---

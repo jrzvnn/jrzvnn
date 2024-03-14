@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Next Pair of Walmart Pants Could Be 3D Woven](https://www.wired.com/story/walmart-unspun-3d-woven-work-pants/)
- - [Former Oculus chief: Apple Vision Pro is the VR industry&#39;s new Northstar](https://appleinsider.com/articles/24/03/14/former-oculus-chief-apple-vision-pro-is-the-vr-industrys-new-northstar?utm_medium=rss)
- - [The EU opens a formal DSA investigation into Alibaba&#39;s AliExpress over illegal content concerns, product recommendations, and more, the third DSA investigation &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240314/p15#a240314p15)
- - [Apple looks beyond health for a large array of future Apple Watch sensors](https://appleinsider.com/articles/24/03/14/apple-looks-beyond-health-for-a-large-array-of-future-apple-watch-sensors?utm_medium=rss)
- - [Meta plans to shut down CrowdTangle in August 2024 and replace it with Meta Content Library, available to academic and nonprofit researchers, not news outlets &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p14#a240314p14)<!-- TECH:END -->
+ - [SpaceX’s third Starship flight test is now scheduled for 9:25AM ET](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
+ - [How a TikTok Ban Would Play Out](https://www.wired.com/story/gadget-lab-podcast-636/)
+ - [Asus Zenfone 11 Ultra review: just another big phone](https://www.theverge.com/24099978/asus-zenfone-11-ultra-review-screen-battery-camera)
+ - [The Asus Zenfone 11 Ultra is more screen, less zen](https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price)
+ - [Sources: in 2019, Donald Trump authorized the CIA to launch a clandestine social media campaign in China to turn public opinion against the government and Xi &lpar;Reuters&rpar;](http://www.techmeme.com/240314/p16#a240314p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 💣 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
- - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
+ - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
+ - 💣 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)
+ - 😝 [Bang , Dang, Bam and Batman](http://9gag.com/gag/aRExqvj)
+ - 👉 [I am always watching you](http://9gag.com/gag/aqevwwv)<!-- MEMES:END -->
 
 ---
 

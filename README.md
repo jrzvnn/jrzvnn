@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netherlands-based TheyDo, which helps companies map customer journeys, raised a $34M Series B led by Blossom Capital, bringing its total funding to about $50M &lpar;Kimberly Chin/Axios&rpar;](http://www.techmeme.com/240314/p31#a240314p31)
+ - [Super Soaker spiritual successor Spyra just shrank its USB-C water blaster](https://www.theverge.com/2024/3/14/24100940/spyra-go-electric-water-gun-blaster)
  - [Microsoft launches Copilot Pro worldwide with a one-month free trial](https://www.theverge.com/2024/3/14/24100993/microsoft-copilot-pro-launch-free-trial)
  - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
- - [Watch Europa Conference League Soccer: Livestream Aston Villa vs. Ajax From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-conference-league-soccer-livestream-aston-villa-vs-ajax-from-anywhere/#ftag=CAD590a51e)
- - [Watch Europa League Soccer: Livestream Liverpool vs. Sparta Prague From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-soccer-livestream-liverpool-vs-sparta-prague-from-anywhere/#ftag=CAD590a51e)
- - [Amazon&#39;s Big Spring Sale: Score a $100 Amazon Gift Card to Shop the Massive Event     - CNET](https://www.cnet.com/personal-finance/credit-cards/amazons-big-spring-sale-score-a-100-amazon-gift-card-to-shop-the-big-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch Europa Conference League Soccer: Livestream Aston Villa vs. Ajax From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-conference-league-soccer-livestream-aston-villa-vs-ajax-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

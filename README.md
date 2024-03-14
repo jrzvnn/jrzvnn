@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The potential TikTok ban is being decided on by the wrong people](https://appleinsider.com/articles/24/03/14/the-potential-tiktok-ban-is-being-decided-on-by-the-wrong-people?utm_medium=rss)
- - [Robert F. Kennedy Jr. Targets a Generation of Politically Disaffected, Extremely Online Men](https://www.wired.com/story/robert-f-kennedy-jr-aaron-rodgers-male-vote/)
- - [SpaceX sucessfully launches Starship in third flight test](https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success)
- - [In 2023, crypto investors achieved total gains of $37.6B, up from a $127.1B loss in 2022 but down from the $159.7B in gains during the 2021 bull run &lpar;Chainalysis&rpar;](http://www.techmeme.com/240314/p20#a240314p20)
- - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)<!-- TECH:END -->
+ - [Craig Wright Is Not Bitcoin Creator Satoshi Nakamoto, Judge Declares](https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/)
+ - [11 Best Pillows &lpar;2024&rpar;: For Side Sleepers, Orthopedic, Travel](https://www.wired.com/gallery/best-pillows/)
+ - [Join The Verge at the 2024 Chicago Humanities Spring Festival](https://www.theverge.com/24099817/verge-chicago-humanities-festival-2024-artificial-intelligence-tickets)
+ - [Sonos soundbars and speakers are on sale just in time for March Madness](https://www.theverge.com/2024/3/14/24100247/sonos-ray-beam-sub-mini-move-2-march-madness-deal-sale)
+ - [The potential TikTok ban is being decided on by the wrong people](https://appleinsider.com/articles/24/03/14/the-potential-tiktok-ban-is-being-decided-on-by-the-wrong-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

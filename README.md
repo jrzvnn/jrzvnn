@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Right or wrong](http://9gag.com/gag/aWGVz64)
  - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 😝 [Eeeeeh?](http://9gag.com/gag/agoRwyq)
- - 💣 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 💣 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)<!-- MEMES:END -->
 
 ---
 

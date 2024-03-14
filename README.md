@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WarpStream, which is building a cheaper, cloud-native data streaming service based on the Apache Kafka protocol, raised $20M led by Greylock and Amplify &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240314/p35#a240314p35)
+ - [Snapchat is testing Infinite Retention Mode, which lets users save their DMs indefinitely, bringing it closer to a pure-play messaging app like iMessage &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240314/p34#a240314p34)
  - [Sources: Apple acquired DarwinAI, which makes tech for inspecting components during manufacturing and focuses on making AI systems smaller and faster &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240314/p33#a240314p33)
  - [States Are Lining Up to Outlaw Lab-Grown Meat](https://www.wired.com/story/cultivated-meat-florida-ban/)
- - [The macOS Sonoma 14.4 update is breaking printers for some users](https://appleinsider.com/articles/24/03/14/the-macos-sonoma-144-update-is-breaking-printers-for-some-users?utm_medium=rss)
- - [Power Book II: Ghost: Starz Drops Trailer for Final Season     - CNET](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-starz-drops-trailer-for-final-season/#ftag=CAD590a51e)
- - [Microsoft launches Copilot Pro worldwide with a one-month free trial; Pro subscribers can use the AI assistant in Office web apps without a Microsoft 365 sub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240314/p32#a240314p32)<!-- TECH:END -->
+ - [The macOS Sonoma 14.4 update is breaking printers for some users](https://appleinsider.com/articles/24/03/14/the-macos-sonoma-144-update-is-breaking-printers-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

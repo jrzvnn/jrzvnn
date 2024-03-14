@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 💣 [I am always watching you](http://9gag.com/gag/aqevwwv)
- - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
- - 👉 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)<!-- MEMES:END -->
+ - 😝 [Space One rocket explodes during launch from southern Japan today](http://9gag.com/gag/a7qjgoe)
+ - 😝 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
+ - 💣 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 👉 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)<!-- MEMES:END -->
 
 ---
 

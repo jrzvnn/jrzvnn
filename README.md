@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC raises its broadband speed benchmark to 100Mbps for downloads and 20Mbps for uploads, from the previous standard of 25Mbps and 3Mbps set in January 2015 &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240314/p42#a240314p42)
  - [Small-business owners and activists who rely on TikTok say the US House measure forcing a sale or ban would damage their livelihoods and harm their communities &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p41#a240314p41)
  - [CIA allegedly made fake social media accounts to troll the Chinese government](https://www.theverge.com/2024/3/14/24100984/cia-china-fake-social-media-spying)
  - [Pornhub shuts down in Texas to protest age verification law](https://www.theverge.com/2024/3/14/24101116/pornhub-texas-age-verification-law-shut-down)
- - [SpaceX successfully launched its Starship, but the vehicle was ‘lost’ after reentry](https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success)
- - [The US pushes for global AI regulations at the UN, with a draft resolution calling for &quot;effective safeguards&quot;; the push contrasts with a lack of US regulations &lpar;Augusta Saraiva/Bloomberg&rpar;](http://www.techmeme.com/240314/p40#a240314p40)<!-- TECH:END -->
+ - [SpaceX successfully launched its Starship, but the vehicle was ‘lost’ after reentry](https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

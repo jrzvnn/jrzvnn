@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple acquired DarwinAI, which makes tech for inspecting components during manufacturing and focuses on making AI systems smaller and faster &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240314/p33#a240314p33)
  - [States Are Lining Up to Outlaw Lab-Grown Meat](https://www.wired.com/story/cultivated-meat-florida-ban/)
  - [The macOS Sonoma 14.4 update is breaking printers for some users](https://appleinsider.com/articles/24/03/14/the-macos-sonoma-144-update-is-breaking-printers-for-some-users?utm_medium=rss)
- - [Microsoft launches Copilot Pro worldwide with a one-month free trial; Pro subscribers can use the AI assistant in Office web apps without a Microsoft 365 sub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240314/p32#a240314p32)
- - [Netflix is bringing back Black Mirror in 2025](https://www.theverge.com/2024/3/14/24101013/black-mirror-season-7-netflix-date-trailer)
- - [Netherlands-based TheyDo, which helps companies map customer journeys, raised a $34M Series B led by Blossom Capital, bringing its total funding to about $50M &lpar;Kimberly Chin/Axios&rpar;](http://www.techmeme.com/240314/p31#a240314p31)<!-- TECH:END -->
+ - [Power Book II: Ghost: Starz Drops Trailer for Final Season     - CNET](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-starz-drops-trailer-for-final-season/#ftag=CAD590a51e)
+ - [Microsoft launches Copilot Pro worldwide with a one-month free trial; Pro subscribers can use the AI assistant in Office web apps without a Microsoft 365 sub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240314/p32#a240314p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

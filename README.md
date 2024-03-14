@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an email to the European Commission, Spotify says Apple is holding up an iPhone app update that adds pricing information and links to subscriptions &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240314/p38#a240314p38)
+ - [Google schedules I/O 2024 for May 14, where details on Android 15 and Android XR, AI announcements, and more are expected; the date was hidden behind a puzzle &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240314/p37#a240314p37)
  - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)
  - [Pornhub blocks access to users in Texas, after a federal appeals court upheld a Texas law last week requiring porn sites to institute age-verification measures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240314/p36#a240314p36)
- - [WarpStream, which is building a cheaper, cloud-native data streaming service based on the Apache Kafka protocol, raised $20M led by Greylock and Amplify &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240314/p35#a240314p35)
- - [Snapchat is testing Infinite Retention Mode, which lets users save their DMs indefinitely, bringing it closer to a pure-play messaging app like iMessage &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240314/p34#a240314p34)
- - [Sources: Apple acquired DarwinAI, which makes tech for inspecting components during manufacturing and focuses on making AI systems smaller and faster &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240314/p33#a240314p33)<!-- TECH:END -->
+ - [WarpStream, which is building a cheaper, cloud-native data streaming service based on the Apache Kafka protocol, raised $20M led by Greylock and Amplify &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240314/p35#a240314p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

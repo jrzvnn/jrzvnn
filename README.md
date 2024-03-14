@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [In an email to the European Commission, Spotify says Apple is holding up an iPhone app update that adds pricing information and links to subscriptions &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240314/p38#a240314p38)
  - [Google schedules I/O 2024 for May 14, where details on Android 15 and Android XR, AI announcements, and more are expected; the date was hidden behind a puzzle &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240314/p37#a240314p37)
  - [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma)
- - [Pornhub blocks access to users in Texas, after a federal appeals court upheld a Texas law last week requiring porn sites to institute age-verification measures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240314/p36#a240314p36)
- - [WarpStream, which is building a cheaper, cloud-native data streaming service based on the Apache Kafka protocol, raised $20M led by Greylock and Amplify &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240314/p35#a240314p35)<!-- TECH:END -->
+ - [Keurig&#39;s Future System Doesn&#39;t Need Plastic K-Cups video     - CNET](https://www.cnet.com/videos/keurigs-future-system-doesnt-need-plastic-k-cups/#ftag=CAD590a51e)
+ - [Pornhub blocks access to users in Texas, after a federal appeals court upheld a Texas law last week requiring porn sites to institute age-verification measures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240314/p36#a240314p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

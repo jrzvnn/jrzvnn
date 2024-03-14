@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
  - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 💣 [A translation is needed](http://9gag.com/gag/aGEP5en)
- - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 👉 [It was stopped\u2026 About halfway up the head](http://9gag.com/gag/aXn8yGP)<!-- MEMES:END -->
+ - 😝 [Eeeeeh?](http://9gag.com/gag/agoRwyq)
+ - 💣 [Smile](http://9gag.com/gag/armPQ57)
+ - 😝 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
+ - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)
- - 😝 [Gaming](http://9gag.com/gag/a6qWejb)
- - 💣 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
- - 😝 [We\u2019re living in a clown world.](http://9gag.com/gag/a3ZoO7v)
- - 👉 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)<!-- MEMES:END -->
+ - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
+ - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
+ - 💣 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
+ - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
+ - 👉 [I miss fun ads](http://9gag.com/gag/aEqe4zo)<!-- MEMES:END -->
 
 ---
 

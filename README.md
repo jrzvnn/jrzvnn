@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unstructured, which helps companies prepare &quot;really messy, sloppy data&quot; for AI training, raised a $40M Series B led by Menlo Ventures at a $230M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240314/p17#a240314p17)
  - [SpaceX’s third Starship flight test is now scheduled for 9:25AM ET](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
  - [How a TikTok Ban Would Play Out](https://www.wired.com/story/gadget-lab-podcast-636/)
  - [Asus Zenfone 11 Ultra review: just another big phone](https://www.theverge.com/24099978/asus-zenfone-11-ultra-review-screen-battery-camera)
- - [The Asus Zenfone 11 Ultra is more screen, less zen](https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price)
- - [Sources: in 2019, Donald Trump authorized the CIA to launch a clandestine social media campaign in China to turn public opinion against the government and Xi &lpar;Reuters&rpar;](http://www.techmeme.com/240314/p16#a240314p16)<!-- TECH:END -->
+ - [The Asus Zenfone 11 Ultra is more screen, less zen](https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

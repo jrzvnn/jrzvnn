@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US pushes for global AI regulations at UN, with a draft resolution calling for &quot;effective safeguards&quot;; the push contrasts with the lack of US regulations &lpar;Augusta Saraiva/Bloomberg&rpar;](http://www.techmeme.com/240314/p40#a240314p40)
+ - [SpaceX successfully launched its Starship, but the vehicle was ‘lost’ after reentry](https://www.theverge.com/2024/3/14/24100501/spacex-starship-launch-third-flight-test-success)
+ - [The US pushes for global AI regulations at the UN, with a draft resolution calling for &quot;effective safeguards&quot;; the push contrasts with a lack of US regulations &lpar;Augusta Saraiva/Bloomberg&rpar;](http://www.techmeme.com/240314/p40#a240314p40)
  - [Max annual plans are up to $60 off ahead of March Madness](https://www.theverge.com/2024/3/14/24100899/max-march-madness-the-boy-and-the-heron-deal-sale)
  - [Spotify upset over 9 day App Review, cries antitrust to EC](https://appleinsider.com/articles/24/03/14/spotify-upset-over-9-day-app-review-cries-antitrust-to-ec?utm_medium=rss)
- - [Google I/O 2024 is happening on May 14th](https://www.theverge.com/2024/3/14/24101171/google-io-2024-announced-may-14-android-ai-gemini)
- - [The FTC and DOJ think McDonald’s ice cream machines should be legal to fix](https://www.theverge.com/2024/3/14/24101023/ftc-doj-comment-dmca-ifixit-ice-cream-machines)<!-- TECH:END -->
+ - [I&#39;ve Been in Real Estate for 20 Years. Don&#39;t Buy a Home in 2024 Until You Read This     - CNET](https://www.cnet.com/personal-finance/buying-a-home-in-2024-real-tips-from-a-real-estate-agent/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
